@@ -1,0 +1,1841 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:32+0200\n"
+"PO-Revision-Date: 2012-07-23 05:53+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. Command line help text for the Xcontroller module
+#: src/clients/dasd.ycp:48
+msgid "Configuration of DASD"
+msgstr "可直接访问存储设备 (DASD) 的配置"
+
+#. text for installation summary
+#: src/clients/dasd_proposal.ycp:46
+msgid "No DASD disk detected"
+msgstr "未检测到可直接访问存储设备 (DASD) 磁盘"
+
+#. section name in proposal dialog
+#: src/clients/dasd_proposal.ycp:73
+msgid "DASD"
+msgstr "可直接访问存储设备 (DASD)"
+
+#. section name in proposal - menu item
+#: src/clients/dasd_proposal.ycp:75 src/dump/ui.ycp:87
+msgid "&DASD"
+msgstr "可直接访问存储设备 (DASD) (&D)"
+
+#. Command line help text for the Xcontroller module
+#: src/clients/dump.ycp:49
+msgid "Creation of s390 dump devices"
+msgstr "创建 s390 转储设备"
+
+#. Command line help text for the Xcontroller module
+#: src/clients/iucvterminal-server.ycp:44
+msgid "Configuration of IUCV terminal server"
+msgstr "居中设备通信介质 (IUCV) 终端服务器配置"
+
+#. Command line help text for the Xcontroller module
+#: src/clients/iucvterminal.ycp:44
+msgid "Configuration of IUCV terminal settings"
+msgstr "居中设备通信介质终端设置的配置"
+
+#. Command line help text for the Xirda module
+#: src/clients/onpanic.ycp:53
+msgid "Configuration of OnPanic"
+msgstr "出错应急处理的配置"
+
+#. popup label
+#: src/clients/s390-disk-controller.ycp:48
+msgid "Detecting Available Controllers"
+msgstr "正在检测可用的控制器"
+
+#. Initialization dialog caption
+#: src/clients/s390-disk-controller.ycp:70
+msgid "S/390 Disk Controller Configuration"
+msgstr "S/390 磁盘控制器配置"
+
+#. push button
+#: src/clients/s390-disk-controller.ycp:76
+msgid "Configure &DASD Disks"
+msgstr "配置可直接访问存储设备 (DASD) 磁盘(&D)"
+
+#. push button
+#: src/clients/s390-disk-controller.ycp:80
+msgid "Configure &ZFCP Disks"
+msgstr "配置光纤通道协议 (ZFCP) 磁盘(&Z)"
+
+#. Initialization dialog contents
+#: src/clients/s390-disk-controller.ycp:85 src/dasd/wizards.ycp:122
+#: src/zfcp/wizards.ycp:122
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#. Command line help text for the Xcontroller module
+#: src/clients/zfcp.ycp:48
+msgid "Configuration of ZFCP"
+msgstr "光纤通道协议 (zFCP) 设备的配置"
+
+#. text for installation summary
+#: src/clients/zfcp_proposal.ycp:46
+msgid "No zFCP device configured"
+msgstr "未配置光纤通道协议 (zFCP) 设备"
+
+#. section name in proposal dialog
+#: src/clients/zfcp_proposal.ycp:73
+msgid "zFCP"
+msgstr "光纤通道协议 (zFCP)"
+
+#. section name in proposal - menu item
+#: src/clients/zfcp_proposal.ycp:75
+msgid "&zFCP"
+msgstr "光纤通道协议 (zFCP)(&Z)"
+
+#. menu button id
+#: src/dasd/dialogs.ycp:149
+msgid "&Activate"
+msgstr "激活(&A)"
+
+#. menu button id
+#: src/dasd/dialogs.ycp:151
+msgid "&Deactivate"
+msgstr "取消激活(&D)"
+
+#. menu button id
+#: src/dasd/dialogs.ycp:153 src/dasd/dialogs.ycp:164
+msgid "Set DIAG O&n"
+msgstr "打开 DIAG(&N)"
+
+#. menu button id
+#: src/dasd/dialogs.ycp:155 src/dasd/dialogs.ycp:166
+msgid "Set DIAG O&ff"
+msgstr "关闭 DIAG(&F)"
+
+#. menu button id
+#: src/dasd/dialogs.ycp:157
+msgid "&Format"
+msgstr "格式化(&F)"
+
+#. menu button id
+#: src/dasd/dialogs.ycp:168
+msgid "Set Format On"
+msgstr "打开格式化"
+
+#. menu button id
+#: src/dasd/dialogs.ycp:170
+msgid "Set Format Off"
+msgstr "关闭格式化"
+
+#. error popup message
+#: src/dasd/dialogs.ycp:183 src/dasd/dialogs.ycp:616 src/zfcp/dialogs.ycp:492
+msgid "No disk selected."
+msgstr "没有选择磁盘。"
+
+#. error report, %1 is device identification
+#: src/dasd/dialogs.ycp:236
+#, ycp-format
+msgid "Disk %1 is not active."
+msgstr "磁盘 %1 没有激活。"
+
+#. error report, %1 is device identification
+#: src/dasd/dialogs.ycp:242
+#, ycp-format
+msgid "Disk %1 is not accessible for writing."
+msgstr "磁盘 %1 不可写入。"
+
+#. integer field (count of disks formatted at parallely)
+#: src/dasd/dialogs.ycp:258
+msgid "&Parallel Formatted Disks"
+msgstr "并行格式的磁盘(&P)"
+
+#. check box
+#: src/dasd/dialogs.ycp:261
+msgid "&Write the Volume Label"
+msgstr "写入卷标(&W)"
+
+#. popup question
+#: src/dasd/dialogs.ycp:284
+#, ycp-format
+msgid ""
+"Formatting these disks destroys all data on them.<br>\n"
+"Really format the following disks?<br>\n"
+"%1"
+msgstr ""
+"格式化这些磁盘会损坏所含的所有数据。<br>\n"
+"确实要格式化以下磁盘吗？<br>\n"
+" %1"
+
+#. Dialog caption
+#: src/dasd/dialogs.ycp:355
+msgid "DASD Disk Management"
+msgstr "DASD 磁盘管理"
+
+#. table header
+#: src/dasd/dialogs.ycp:363 src/dasd/dialogs.ycp:374 src/zfcp/dialogs.ycp:134
+#: src/zfcp/dialogs.ycp:145
+msgid "Channel ID"
+msgstr "频道 ID"
+
+#. table header
+#: src/dasd/dialogs.ycp:365
+msgid "Format"
+msgstr "格式"
+
+#. table header
+#: src/dasd/dialogs.ycp:367 src/dasd/dialogs.ycp:382
+msgid "Use DIAG"
+msgstr "使用 DIAG"
+
+#. table header
+#: src/dasd/dialogs.ycp:376 src/zfcp/dialogs.ycp:151
+msgid "Device"
+msgstr "设备"
+
+#. table header
+#: src/dasd/dialogs.ycp:378 src/iucvterminal-server/ui.ycp:239
+msgid "Type"
+msgstr "类型"
+
+#. table header
+#: src/dasd/dialogs.ycp:380
+msgid "Access Type"
+msgstr "存取类型"
+
+#. table header
+#: src/dasd/dialogs.ycp:384
+msgid "Formatted"
+msgstr "已格式化"
+
+#. table header
+#: src/dasd/dialogs.ycp:386
+msgid "Partition Information"
+msgstr "分区信息"
+
+#. text entry
+#: src/dasd/dialogs.ycp:394 src/zfcp/dialogs.ycp:159
+msgid "Mi&nimum Channel ID"
+msgstr "最小通道 ID(&N)"
+
+#. text entry
+#: src/dasd/dialogs.ycp:396 src/zfcp/dialogs.ycp:161
+msgid "Ma&ximum Channel ID"
+msgstr "最大通道 ID(&X)"
+
+#. push button
+#: src/dasd/dialogs.ycp:400 src/zfcp/dialogs.ycp:165
+msgid "&Filter"
+msgstr "过滤器(&F)"
+
+#. menu button
+#: src/dasd/dialogs.ycp:410 src/dasd/dialogs.ycp:415
+msgid "Perform &Action"
+msgstr "执行动作(&A)"
+
+#. error popup
+#: src/dasd/dialogs.ycp:477 src/zfcp/dialogs.ycp:221
+msgid "Invalid filter channel IDs."
+msgstr "无效的过滤频道 ID。"
+
+#. Dialog caption
+#: src/dasd/dialogs.ycp:519
+msgid "Add New DASD Disk"
+msgstr "增加新 DASD 磁盘"
+
+#. text entry
+#. combo box
+#: src/dasd/dialogs.ycp:526 src/zfcp/dialogs.ycp:305
+msgid "&Channel ID"
+msgstr "频道 ID (&C)"
+
+#. check box
+#: src/dasd/dialogs.ycp:530
+msgid "Format the Disk"
+msgstr "格式化磁盘"
+
+#. check box
+#: src/dasd/dialogs.ycp:533
+msgid "Use &DIAG"
+msgstr "使用 DIAG(&D)"
+
+#. yes-no popup
+#: src/dasd/dialogs.ycp:554
+msgid ""
+"Really leave the DASD disk configuration without saving?\n"
+"All changes will be lost."
+msgstr ""
+"真的要离开 DASD 磁盘配置而不保存吗?\n"
+"所有更改将丢失。"
+
+#. error popup
+#: src/dasd/dialogs.ycp:567 src/zfcp/dialogs.ycp:346 src/zfcp/dialogs.ycp:366
+#: src/zfcp/dialogs.ycp:406
+msgid "Not a valid channel ID."
+msgstr "无效频道 ID。"
+
+#. error popup
+#: src/dasd/dialogs.ycp:578 src/zfcp/dialogs.ycp:437
+msgid "Device already exists."
+msgstr "设备已存在。"
+
+#. Read dialog help 1/2
+#: src/dasd/helps.ycp:39
+msgid ""
+"<p><b><big>Initializing Controller Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在初始化控制器配置</big></b><br>\n"
+"</p>\n"
+
+#. Read dialog help 2/2
+#: src/dasd/helps.ycp:44 src/zfcp/helps.ycp:44
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>"
+msgstr ""
+"<p><b><big>中止初始化：</big></b><br>\n"
+"可以按<b>中止</b>立即安全地中止配置工具。</p>"
+
+#. Write dialog help 1/2
+#: src/dasd/helps.ycp:48
+msgid ""
+"<p><b><big>Saving Controller Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在保存控制器配置</big></b><br>\n"
+"</p>\n"
+
+#. Write dialog help 2/2
+#: src/dasd/helps.ycp:53 src/zfcp/helps.ycp:53
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog will inform you whether it is safe to do so.</p>\n"
+msgstr ""
+"<p><b><big>正在中断保存：</big></b><br>\n"
+"请点击<b>中断</b>, 以便中断保存过程.\n"
+"一个附加对话框将告诉您这样做是否安全。</p>\n"
+
+#. Disk selection dialog help 1/4
+#: src/dasd/helps.ycp:59 src/dasd/helps.ycp:75
+msgid ""
+"<p><b><big>Configured DASD Disks</big></b><br>\n"
+"In this dialog, manage DASD disks on your system.</p>"
+msgstr ""
+"<p><b><big>已配置的 DASD 磁盘</big></b><br>\n"
+"在此对话窗中管理您系统上的 DASD 磁盘。</p>"
+
+#. Disk selection dialog help 2/4
+#: src/dasd/helps.ycp:63 src/dasd/helps.ycp:79
+msgid ""
+"<p>To filter the displayed disks, set the <b>Minimum Channel ID</b> and \n"
+"the <b>Maximum Channel ID</b> and click <b>Filter</b>.</p>\n"
+msgstr ""
+"<p>要过滤您想显示的磁盘, 请设置\n"
+"<b>最小通道 ID</b> 和 <b>最大通道 ID</b>\n"
+"然后点击<b>过滤</b>。</p>\n"
+
+#. Disk selection dialog help 4/4
+#: src/dasd/helps.ycp:68
+msgid "<p>To configure a new DASD disk, click <b>Add</b>.</p>"
+msgstr "<p>要配置一个新的 DASD 磁盘, 请点击<b>增加</b>.</p>"
+
+#. Disk selection dialog help 4/4
+#: src/dasd/helps.ycp:71
+msgid ""
+"<p>To remove a configured DASD disk, select it and click\n"
+"<b>Delete</b>.</p>"
+msgstr ""
+"<p>要删除一个已经配置的 DASD 磁盘, 请选中它然后点击\n"
+"<b>删除</b>.</p>"
+
+#. Disk selection dialog help 3/4
+#: src/dasd/helps.ycp:84
+msgid ""
+"<p>To perform actions on multiple disks at once, mark these disks and click\n"
+"<b>Select or Deselect</b>.</p>\n"
+msgstr "<p>要在多个磁盘上同时执行相同操作，标记这些磁盘并点击<b>选择或取消选择</b>。</p>\n"
+
+#. Disk selection dialog help 4/4
+#: src/dasd/helps.ycp:89
+msgid ""
+"<p>To perform an action on the selected disks, use <b>Perform Action</b>.\n"
+"The action will be performed immediately!</p>"
+msgstr ""
+"<p>要在选中的磁盘上执行一个动作, 请使用<b>执行动作</b>.\n"
+"动作将被立即执行!</p>"
+
+#. Disk add help 1/3
+#: src/dasd/helps.ycp:93
+msgid ""
+"<p><b><big>Add New DASD Disk</big></b><br>\n"
+"To add a disk, enter the <b>Channel ID</b> of the DASD disk as\n"
+"identifier.</p>"
+msgstr ""
+"<p><b><big>增加新的 DASD 磁盘</big></b><br>\n"
+"如果要添加磁盘, 请输入\n"
+"DASD 磁盘的<b>通道号</b>作为标识符。</p>"
+
+#. Disk add help 1/3
+#: src/dasd/helps.ycp:98
+msgid ""
+"<p>If the disk should be formatted,\n"
+"use <b>Format the Disk</b>.</p>\n"
+msgstr "<p>如果应该格式化磁盘，请使用 <b>格式化磁盘</b>。</p>\n"
+
+#. Disk add help 3/3
+#: src/dasd/helps.ycp:103
+msgid "<p>To use DIAG mode, select <b>Use DIAG</b>.</p>\n"
+msgstr "<p>请选择 <b>使用 DIAG</b> 以使用 DIAG 模式。</p>\n"
+
+#. Initialization dialog caption
+#: src/dasd/wizards.ycp:120 src/zfcp/wizards.ycp:120
+msgid "Controller Configuration"
+msgstr "控制器配置"
+
+#: src/dump/ui.ycp:50
+msgid "Create Dump Device"
+msgstr "创建转储设备"
+
+#. Dump dialog help 1/8
+#: src/dump/ui.ycp:53
+msgid "<p><b>Prepare one or more volumes for use as S/390 dump device.</b></p>"
+msgstr "<p><b>准备一个或更多的子卷以供 S/390 转储设备使用。</b></p>"
+
+#. Dump dialog help 2/8
+#: src/dump/ui.ycp:55
+msgid "<p>Supported devices are ECKD DASD and ZFCP disks, while multi-volumes are limited to DASD.<br>"
+msgstr "<p>支持的设备有 ECKD DASB 和 zFCP 磁盘，但多子卷只能使用 DASD 磁盘。<br>"
+
+#. Dump dialog help 3/8
+#: src/dump/ui.ycp:57
+msgid ""
+"Only whole disks can be used, no partitions. If the device is incompatibly\n"
+"formatted or partitioned, activate the checkbox <b>Force overwrite of disk</b>.</p>"
+msgstr "只可以使用整个磁盘，没有分区。如果设备被不兼容的格式化或分区，激活复选框 <b>强制覆写磁盘</b>。</p>"
+
+#. Dump dialog help 4/8
+#: src/dump/ui.ycp:59
+msgid "<p>To use DASD and ZFCP devices activate them in the respective YaST DASD or ZFCP dialog.<br>"
+msgstr "<p>要使用 DASD 或 zFCP 设备请到相关的 YaST DASD 或 zFCP 对话框中激活它们。<br>"
+
+#. Dump dialog help 5/8
+#: src/dump/ui.ycp:61
+msgid "Devices which are in use or have mounted partitions will not be shown.</p>"
+msgstr "使用中或有分区已被挂载的设备将不会显示。</p>"
+
+#. Dump dialog help 6/8
+#: src/dump/ui.ycp:64
+msgid ""
+"<p><b>dumpdevice</b> after a disk indicates that it is a usable dump\n"
+"device. Multi-volume dump devices are indicated by a list of DASD IDs.</p>"
+msgstr "<p>磁盘后的<b>转储设备</b>表示它是一个可用的转储设备。多卷转储设备由 DASD 编号列表表示。</p>"
+
+#. Dump dialog help 7/8
+#: src/dump/ui.ycp:68
+msgid "<p>ZFCP columns: Device, Size, ID, WWPN, LUN, Dump<br>"
+msgstr "<p>zFCP 列：设备，大小，编号，万维端口名，逻辑单元编号，转储<br>"
+
+#. Dump dialog help 8/8
+#: src/dump/ui.ycp:70
+msgid "DASD columns: Device, Size, ID, Dump</p>"
+msgstr "DASD 列：设备，大小，编号，转储</p>"
+
+#: src/dump/ui.ycp:81
+msgid "&ZFCP"
+msgstr "光纤通道协议 (zFCP) (&Z)"
+
+#: src/dump/ui.ycp:94
+msgid "&Force overwrite of disk"
+msgstr "强制覆写磁盘 (&F)"
+
+#: src/dump/ui.ycp:156
+msgid "You haven't selected any device."
+msgstr "您未选择任何设备。"
+
+#. warn only in case of force
+#: src/dump/ui.ycp:163
+#, ycp-format
+msgid "The disk %1 will be formatted as a dump device. All data on this device will be lost! Continue?"
+msgid_plural "The disks %1 will be formatted as a dump device. All data on these devices will be lost! Continue?"
+msgstr[0] "磁盘 %1 将被格式化为转储设备。所有这些设备上的数据都将丢失！继续吗？"
+
+#. don't quit in case of failures, error messages are reported by FormatDisk()
+#: src/dump/ui.ycp:167
+msgid "Operation successful. Initialize another dump device?"
+msgstr "操作成功。初始化另一个转储设备？"
+
+#. z/VM IDs dialog help 1/1
+#: src/iucvterminal-server/helps.ycp:41
+msgid "<p><b><big>z/VM IDs</big></b></p>"
+msgstr "<p><b><big>z/VM ID</big></b></p>"
+
+#: src/iucvterminal-server/helps.ycp:42
+msgid ""
+"<p>To configure the IUCV terminal server, specify the z/VM IDs to be used.\n"
+"<br>They are separated by line breaks.</p>\n"
+msgstr ""
+"<p>要配置 IUCV 终端服务器，指定要使用的 z/VM IDs。\n"
+"<br>它们由一行分隔。</p>\n"
+
+#. TS-Shell dialog help 1/5
+#: src/iucvterminal-server/helps.ycp:48
+msgid "<p><b><big>TS-Shell</big></b></p>"
+msgstr "<p><b><big>TS-Shell</big></b></p>"
+
+#: src/iucvterminal-server/helps.ycp:49
+msgid "<p>TS-Shell allows to specify <b>Authorization</b> for every TS-Shell user and group. The rights of a group are inherited by its members.</p>"
+msgstr "<p>TS-Shell 允许为每一个 TS-Shell 用户和组指定 <b>验证</b>。用户组的权限继承自它的成员们。</p>"
+
+#. TS-Shell dialog help 2/5
+#: src/iucvterminal-server/helps.ycp:52
+msgid "<p>Each allowed z/VM ID can be selected manually under <b>Selection</b>, defined by a <b>Regex</b> or loaded from a <b>File</b> which contains all allowed z/VM IDs separated by line breaks.</p>"
+msgstr "<p>可以在 <b>选择</b> 下面手动选择每个允许的 z/VM ID，使用 <b>正则表达式</b> 或从一个包含以行分隔的允许的 z/VM ID 的<b>文件</b>中加载。</p>"
+
+#. TS-Shell dialog help 3/5
+#: src/iucvterminal-server/helps.ycp:55
+msgid ""
+"<p>Click on <b>New User</b> to create new TS-Shell users or <b>Delete\n"
+"User</b> to remove users.</p>"
+msgstr "<p>点击<b>新用户</b>以创建新 TS-Shell 用户或点击 <b>删除</b> 来删除用户。</p>"
+
+#. TS-Shell dialog help 4/5
+#: src/iucvterminal-server/helps.ycp:58
+msgid ""
+"<p>To add or remove groups from the TS-Shell authorization table or to change\n"
+"the membership of users, go to <b>Manage Groups</b>.</p>"
+msgstr "<p>要从 TS-Shell 验证表添加或删除组，或修改用户的成员资格，请到 <b>管理组</b>。</p>"
+
+#. TS-Shell dialog help 5/5
+#: src/iucvterminal-server/helps.ycp:61
+msgid "<p>With <b>Audited IDs</b> specify the z/VM IDs from which transcripts should be gathered.</p>"
+msgstr "<p>使用 <b>审计的 ID</b>指定应搜集抄本的 z/VM ID。</p>"
+
+#. TS-Shell User creation dialog help 1/3
+#: src/iucvterminal-server/helps.ycp:65
+msgid "<p><b><big>New TS-Shell User</big></b></p>"
+msgstr "<p><b><big>新 TS-Shell 用户</big></b></p>"
+
+#: src/iucvterminal-server/helps.ycp:66
+msgid ""
+"<p>To create new TS-Shell user the <b>Username</b>, <b>Home Directory</b> and <b>Password</b> has to be provided.\n"
+"\t<br>It is also possible to specify <b>Additional Groups</b> by selecting them on the right.</p>"
+msgstr ""
+"<p>要创建新 TS-Shell 用户必须提供 <b>用户名</b>，<b>家目录</b>和<b>密码</b>。\n"
+"\t<br>也可以通过在右边选择以指定<b>附加组</b>。</p>"
+
+#. TS-Shell User creation dialog help 2/3
+#: src/iucvterminal-server/helps.ycp:70
+msgid "<p>To ensure that the user changes his password after the first login, activate <b>Force Password Change</b>.</p>"
+msgstr "<p>要确保用户在首次登陆后修改密码，请激活 <b>强制密码更改</b>。</p>"
+
+#. TS-Shell User creation dialog help 3/3
+#: src/iucvterminal-server/helps.ycp:73
+msgid ""
+"<p>You can specify the same home directory for every TS-Shell user since no\n"
+"data will be stored there.</p>"
+msgstr "<p>您可以为每个 TS-Shell 用户指定相同的家目录，因为没有数据会存储到那里。</p>"
+
+#. TS-Shell Managing Groups dialog help 1/5
+#: src/iucvterminal-server/helps.ycp:77
+msgid "<p><b><big>Manage Groups for TS-Authorization</big></b></p>"
+msgstr "<p><b><big>管理 TS-验证 组</big></b></p>"
+
+#: src/iucvterminal-server/helps.ycp:78
+msgid ""
+"<p>Define TS-Shell authorizations per group if you want every TS-Shell \n"
+"member of this groups to inherit the same rights.</p>"
+msgstr "<p>如果您想要每个 TS-Shell 组成员继承相同权限，请按组定义 TS-Shell 验证。</p>"
+
+#. TS-Shell Managing Groups dialog help 2/5
+#: src/iucvterminal-server/helps.ycp:81
+msgid ""
+"<p>Existing groups can be added to or removed from the TS-Shell\n"
+"authorization. Select the groups in the table and click on <b>Select or Deselect</b>. The current status is shown in the column <b>TS-Auth</b>.</p>"
+msgstr "<p>已有的组可以添加到或从 TS-Shell 验证中删除。选择表中的组并点击 <b>选择或取消选择</b>。当前状态显示在列 <b>TS-Auth</b>中。</p>"
+
+#. TS-Shell Managing Groups dialog help 3/5
+#: src/iucvterminal-server/helps.ycp:84
+msgid ""
+"<p>Change TS-Shell members of a selected group in the <b>TS-Members</b>\n"
+"selection.</p>"
+msgstr "<p>在 <b>TS-成员</b> 部分修改选定组的 TS-Shell 成员。</p>"
+
+#. TS-Shell Managing Groups dialog help 4/5
+#: src/iucvterminal-server/helps.ycp:87
+msgid ""
+"<p>New groups could be created by entering the name in the <b>New Group</b> input field and confirming with <b>Create</b>.\n"
+"\t<br>To delete previously created groups the <b>YaST users</b> dialog has to be used.</p>"
+msgstr ""
+"<p>可以在 <b>新组</b> 的输入框中输入名称，并使用 <b>创建</b> 确认来创建新用户组。\n"
+"\t<br>要删除之前创建的用户组必须使用 <b>YaST 用户</b>对话框。</p>"
+
+#. TS-Shell Managing Groups dialog help 5/5
+#: src/iucvterminal-server/helps.ycp:91
+msgid "<p>Undo changes in this dialog by clicking the <b>Back</b> button.</p>"
+msgstr "<p>您可以点击 <b>后退</b> 按钮来撤销此对话框中的更改。</p>"
+
+#. IUCVConn on Login dialog help 1/2
+#: src/iucvterminal-server/helps.ycp:95
+msgid "<p><b><big>IUCVConn on Login</big></b></p>"
+msgstr "<p><b><big>登录时 IUCVConn</big></b></p>"
+
+#: src/iucvterminal-server/helps.ycp:96
+msgid "<p>IUCVConn on Login needs one user for every z/VM ID. To create these users a <b>password</b> and <b>home directory</b> has to be provided."
+msgstr "<p>登录时 IUCVConn 需要每个 z/VM ID 都有一个用户。要创建这些用户需要提供 <b>密码</b> 和 <b>家目录</b>。"
+
+#. IUCVConn on Login dialog help 2/2
+#: src/iucvterminal-server/helps.ycp:99
+msgid "<p>It is possible to sync the users manually by clicking on <b>Sync</b> or just confirming the changes with <b>Ok</b> while <b>IUCVConn on Login</b> is enabled. </p>"
+msgstr "<p>可以通过点击<b>同步</b>手动同步用户，或在 <b>登录时 IUCVConn</b> 启用时点击 <b>确认</b> 确认更改。</p>"
+
+#. *
+#. * Text approval
+#.
+#: src/iucvterminal-server/ui.ycp:62
+msgid "Yes"
+msgstr "是"
+
+#. *
+#. * Text disapproval
+#.
+#: src/iucvterminal-server/ui.ycp:67
+msgid "No"
+msgstr "否"
+
+#. *
+#. * Text for category user
+#.
+#: src/iucvterminal-server/ui.ycp:72
+msgid "user"
+msgstr "用户"
+
+#. *
+#. * Text for category group
+#.
+#: src/iucvterminal-server/ui.ycp:77
+msgid "group"
+msgstr "组"
+
+#: src/iucvterminal-server/ui.ycp:214
+msgid "z/&VM IDs (auto-sorted)"
+msgstr "z/VM IDs (自动排序)(&V)"
+
+#: src/iucvterminal-server/ui.ycp:226
+msgid "&Enable TS-Shell"
+msgstr "启用 TS-Shell(&E)"
+
+#: src/iucvterminal-server/ui.ycp:231
+msgid "Authorization"
+msgstr "验证"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:241 src/iucvterminal-server/ui.ycp:392
+msgid "Name"
+msgstr "名称"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:243
+msgid "UID/GID"
+msgstr "用户 ID/用户组 ID"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:245
+msgid "Groups/Members"
+msgstr "组/成员"
+
+#: src/iucvterminal-server/ui.ycp:248
+msgid "&New User"
+msgstr "新用户(&N)"
+
+#: src/iucvterminal-server/ui.ycp:250
+msgid "&Delete User"
+msgstr "删除用户(&D)"
+
+#: src/iucvterminal-server/ui.ycp:252
+msgid "&Manage Groups"
+msgstr "管理组(&M)"
+
+#: src/iucvterminal-server/ui.ycp:259
+msgid "Allowed z/VM IDs"
+msgstr "允许 z/VM IDs"
+
+#: src/iucvterminal-server/ui.ycp:265
+msgid "&Selection"
+msgstr "选择(&S)"
+
+#: src/iucvterminal-server/ui.ycp:269
+msgid "&Regex"
+msgstr "正则表达式(&R)"
+
+#: src/iucvterminal-server/ui.ycp:272
+msgid "&File"
+msgstr "文件(&F)"
+
+#: src/iucvterminal-server/ui.ycp:276
+msgid "Bro&wse"
+msgstr "浏览(&W)"
+
+#. force min size to make it easier readable in terminals
+#: src/iucvterminal-server/ui.ycp:294
+msgid "&Audited IDs"
+msgstr "已审计的 ID(&A)"
+
+#: src/iucvterminal-server/ui.ycp:310
+msgid "&Enable IUCVConn on Login"
+msgstr "启用登录时 IUCVConn(&E)"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:317
+msgid "Login"
+msgstr "登录"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:319
+msgid "UID"
+msgstr "用户 ID"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:321
+msgid "Home"
+msgstr "家目录"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:323
+msgid "Shell"
+msgstr "Shell"
+
+#: src/iucvterminal-server/ui.ycp:325
+msgid "Settings for new Users"
+msgstr "新用户设置"
+
+#: src/iucvterminal-server/ui.ycp:326 src/iucvterminal-server/ui.ycp:365
+msgid "&Password"
+msgstr "密码(&P)"
+
+#: src/iucvterminal-server/ui.ycp:328 src/iucvterminal-server/ui.ycp:368
+msgid "Co&nfirm Password"
+msgstr "确认密码(&N)"
+
+#: src/iucvterminal-server/ui.ycp:330 src/iucvterminal-server/ui.ycp:358
+msgid "&Home Directory"
+msgstr "主目录(&H)"
+
+#: src/iucvterminal-server/ui.ycp:331 src/iucvterminal-server/ui.ycp:360
+msgid "B&rowse"
+msgstr "浏览(&B)"
+
+#: src/iucvterminal-server/ui.ycp:333
+msgid "&Sync"
+msgstr "同步(&S)"
+
+#: src/iucvterminal-server/ui.ycp:355
+msgid "&Username"
+msgstr "用户名(&U)"
+
+#: src/iucvterminal-server/ui.ycp:371
+msgid "&Force Password Change"
+msgstr "强制更改密码(&F)"
+
+#: src/iucvterminal-server/ui.ycp:378
+msgid "&Additonal Groups"
+msgstr "附加的组(&A)"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:394
+msgid "TS-Auth"
+msgstr "TS-验证"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:396
+msgid "GID"
+msgstr "用户组 ID"
+
+#. table header
+#: src/iucvterminal-server/ui.ycp:398
+msgid "TS-Members"
+msgstr "TS-成员"
+
+#: src/iucvterminal-server/ui.ycp:400
+msgid "&Select or Deselect"
+msgstr "选择或取消选择(&S)"
+
+#: src/iucvterminal-server/ui.ycp:402
+msgid "C&reate"
+msgstr "创建(&r)"
+
+#: src/iucvterminal-server/ui.ycp:404
+msgid "&New Group"
+msgstr "新建组(&N)"
+
+#: src/iucvterminal-server/ui.ycp:408
+msgid "TS-&Members"
+msgstr "TS-成员(&M)"
+
+#: src/iucvterminal-server/ui.ycp:427
+msgid "&z/VM IDs"
+msgstr "&z/VM IDs"
+
+#: src/iucvterminal-server/ui.ycp:428
+msgid "&TS-Shell"
+msgstr "&TS-Shell"
+
+#: src/iucvterminal-server/ui.ycp:429
+msgid "&IUCVConn"
+msgstr "&IUCVConn"
+
+#: src/iucvterminal-server/ui.ycp:525
+msgid "The passwords do not match or are invalid."
+msgstr "密码不匹配或无效。"
+
+#: src/iucvterminal-server/ui.ycp:532
+msgid "The username is not valid!"
+msgstr "用户名无效！"
+
+#: src/iucvterminal-server/ui.ycp:538
+msgid "A home directory has to be specified!"
+msgstr "必须指定家目录！"
+
+#: src/iucvterminal-server/ui.ycp:563
+msgid "Adding the user has failed."
+msgstr "添加用户失败。"
+
+#: src/iucvterminal-server/ui.ycp:658
+msgid "Configure IUCV Terminal Server Settings"
+msgstr "配置 IUCV 终端服务器设置"
+
+#: src/iucvterminal-server/ui.ycp:671
+msgid "New TS-Shell User"
+msgstr "新的 TS-Shell 用户"
+
+#: src/iucvterminal-server/ui.ycp:677
+msgid "Manage Groups for TS-Authorization"
+msgstr "管理 TS-验证 组"
+
+#: src/iucvterminal-server/ui.ycp:781
+#, ycp-format
+msgid "Wrong z/VM ID \"%1\" in line %2, only letters and numbers are allowed."
+msgstr "错误的 z/VM ID \"%1\" 于行 %2，只允许字母和数字。"
+
+#: src/iucvterminal-server/ui.ycp:787
+#, ycp-format
+msgid "Wrong z/VM ID \"%1\" in line %2, numbers at the beginning are not allowed."
+msgstr "错误的 z/VM ID \"%1\" 于行 %2，不能以数字开头。"
+
+#: src/iucvterminal-server/ui.ycp:793
+#, ycp-format
+msgid "Wrong z/VM ID \"%1\" in line %2, more than eight characters are not allowed."
+msgstr "错误的 z/VM ID \"%1\" 于行 %2，不允许超过八个字符。"
+
+#: src/iucvterminal-server/ui.ycp:800
+#, ycp-format
+msgid "Wrong z/VM ID \"%1\" in line %2, at least one letter is required."
+msgstr "错误的 z/VM ID \"%1\" 于行 %2，至少需要一个字母。"
+
+#: src/iucvterminal-server/ui.ycp:821
+msgid "A correctly entered password to sync IUCVConn users is required."
+msgstr "需要输入正确的密码以同步 IUCVConn 用户。"
+
+#: src/iucvterminal-server/ui.ycp:826
+msgid "The specified IUCVConn home directory is invalid."
+msgstr "指定的 IUCVConn 家目录无效。"
+
+#: src/iucvterminal-server/ui.ycp:1133
+msgid "The group name is not valid!"
+msgstr "组名无效！"
+
+#: src/iucvterminal-server/ui.ycp:1197 src/iucvterminal-server/ui.ycp:1300
+msgid "Cannot configure the terminal server without valid z/VM IDs."
+msgstr "没有有效的 z/VM ID，无法配置终端服务器。"
+
+#: src/iucvterminal/ui.ycp:117
+msgid "Wrong input, only lower case letters, numbers and for separation commas are allowed."
+msgstr "错误输入，只允许小写字母，数字和用于分隔的逗号。"
+
+#: src/iucvterminal/ui.ycp:121
+msgid "Comma is only a separator."
+msgstr "逗号只是分隔符。"
+
+#: src/iucvterminal/ui.ycp:125
+msgid "z/VM IDs do not allow more than eight characters."
+msgstr "z/VM IDs 不允许超过八个字符。"
+
+#: src/iucvterminal/ui.ycp:148
+msgid "Wrong IUCV ID, only lower case letters are allowed."
+msgstr "错误的 IUCV ID，只允许小写字母。"
+
+#: src/iucvterminal/ui.ycp:152
+#, ycp-format
+msgid "IUCV IDs cannot be longer than %1 chars."
+msgstr "IUCV IDs 不能超过 %1 个字符。"
+
+#. IUCVTerminal dialog help 1/10
+#: src/iucvterminal/ui.ycp:245
+msgid "<p><h2>Configure Local Terminal System Settings</h2></p>"
+msgstr "<p><h2>配置本地终端系统设置</h2></p>"
+
+#. IUCVTerminal dialog help 2/11
+#: src/iucvterminal/ui.ycp:248
+msgid "<p><b>IUCVtty</b></p>"
+msgstr "<p><b>IUCVtty</b></p>"
+
+#. IUCVTerminal dialog help 3/11
+#: src/iucvterminal/ui.ycp:251
+msgid "<p>Several <b>IUCVtty instances</b> can run to provide multiple terminal devices. The instances are distinguished by a terminal ID, which is a combination of the <b>Terminal ID Prefix</b> and the number of the instance.<br>"
+msgstr "<p>一些<b>IUCVtty 实例</b>可运行以提供多个终端设备。实例由终端 ID 区分，终端 ID 是 <b>终端 ID 前缀</b>和实例数字的组合。<br>"
+
+#. IUCVTerminal dialog help 4/11
+#: src/iucvterminal/ui.ycp:254
+msgid "For example, if you define ten instances with the prefix &quot;<i>lxterm</i>&quot;, the terminal IDs from <i>lxterm1</i> to <i>lxterm10</i> are available.</p>"
+msgstr "例如，如果您使用前缀 &quot;<i>lxterm</i>&quot; 定义了十个实例，则终端 ID 从 <i>lxterm1</i> 到 <i>lxterm10</i> 可用。</p>"
+
+#. IUCVTerminal dialog help 5/11
+#: src/iucvterminal/ui.ycp:259
+msgid "<p><b>HVC</b></p>"
+msgstr "<p><b>HVC</b></p>"
+
+#. IUCVTerminal dialog help 6/11
+#: src/iucvterminal/ui.ycp:262
+msgid "<p>The z/VM IUCV HVC device driver is a kernel module and uses device nodes to enable up to eight HVC terminal devices to communicate with getty and login programs.</p>"
+msgstr "<p>z/VM IUCV HVC 设备驱动是一个内核模块，使用设备节点来启用最多八个 HVC 终端设备来于 getty 和登录程序通信。</p>"
+
+#. IUCVTerminal dialog help 7/11
+#: src/iucvterminal/ui.ycp:265
+msgid "<p>With <b>restrict access</b>, allow only connections from certain <b>terminal servers</b>.</p>"
+msgstr "<p>使用<b>限制访问</b>，只允许某些<b>终端服务器</b>的连接。</p>"
+
+#. IUCVTerminal dialog help 8/11
+#: src/iucvterminal/ui.ycp:268
+msgid "<p>Define the emulation for all instances at once or for each one separately.</p>"
+msgstr "<p>一次定义模拟所有实例或分别模拟。</p>"
+
+#. IUCVTerminal dialog help 9/11
+#: src/iucvterminal/ui.ycp:271
+msgid ""
+"<p>Activate <b>route kernel messages to hvc0</b> to route kernel messages to\n"
+"the hvc0 device instead of ttyS0.<br>"
+msgstr "<p>激活<b>传送内核消息到 hvc0</b>来传送内核消息到 hvc0 设备而不是 ttyS0。<br>"
+
+#. IUCVTerminal dialog help 10/11
+#: src/iucvterminal/ui.ycp:274
+msgid "Should kernel messages still be shown on ttyS0, manually add <b>console=ttyS0</b> to the current boot selection kernel parameter in the <b>YaST bootloader module</b>.</p>"
+msgstr "若内核消息仍然应该显示在 ttyS0,在 <b>YaST 引导加载器模块</b>手动添加 <b>console=ttyS0</b> 到当前引导选择的内核参数。</p>"
+
+#. IUCVTerminal dialog help 11/11
+#: src/iucvterminal/ui.ycp:277
+msgid "<h3>Warning: HVC Terminals stay logged on without a manual logout through the shortcut: ctrl _ d</h3>"
+msgstr "<h3>警告：若不通过快捷键 ctrl _ d 手动登出，HVC 终端将保持登录</h3>"
+
+#: src/iucvterminal/ui.ycp:283
+msgid "&IUCVtty"
+msgstr "IUCVtty(&I)"
+
+#: src/iucvterminal/ui.ycp:284
+msgid "Terminal ID &Prefix"
+msgstr "终端 ID 前缀(&P)"
+
+#: src/iucvterminal/ui.ycp:286
+msgid "I&UCVtty instances"
+msgstr "I&UCVtty 实例"
+
+#: src/iucvterminal/ui.ycp:291
+msgid "HVC"
+msgstr "HVC"
+
+#: src/iucvterminal/ui.ycp:293
+msgid "H&VC instances"
+msgstr "H&VC 实例"
+
+#: src/iucvterminal/ui.ycp:297
+msgid "Restrict &access to"
+msgstr "限制访问到(&a)"
+
+#: src/iucvterminal/ui.ycp:299
+msgid "Allowed Terminal &Servers"
+msgstr "允许的终端服务器(&S)"
+
+#: src/iucvterminal/ui.ycp:304
+msgid "Select I&nstance"
+msgstr "选择实例(&N)"
+
+#: src/iucvterminal/ui.ycp:307
+msgid "Select &Emulation"
+msgstr "选择模拟(&E)"
+
+#: src/iucvterminal/ui.ycp:311
+msgid "route &kernel messages to hvc0"
+msgstr "传送内核消息到 hvc0(&k)"
+
+#: src/iucvterminal/ui.ycp:403
+msgid "Really leave without saving?"
+msgstr "是否确实退出配置而不保存？"
+
+#: src/iucvterminal/ui.ycp:415
+msgid "The IUCV ID is not valid."
+msgstr "IUCV ID 无效。"
+
+#: src/iucvterminal/ui.ycp:426
+msgid "The Terminal Servers are not valid."
+msgstr "终端服务器无效。"
+
+#: src/iucvterminal/ui.ycp:453
+msgid "The system has to be rebooted for some changes to take effect."
+msgstr "系统需要重新引导以使一些更改生效。"
+
+#. popup label
+#: src/modules/DASDController.ycp:189 src/modules/ZFCPController.ycp:198
+msgid "Running mkinitrd and zipl."
+msgstr "运行 mkinitrd 和 zipl。"
+
+#. summary text, %1 is channel, %2 and %3 are Yes or No
+#: src/modules/DASDController.ycp:325
+#, ycp-format
+msgid "Channel ID: %1, Format: %2, DIAG: %3"
+msgstr "通道 ID: %1, 格式: %2, DIAG: %3"
+
+#. summary text, %1 is channel, %2 is device name, %3 is Yes or No
+#: src/modules/DASDController.ycp:338
+#, ycp-format
+msgid "Channel ID: %1, Device: %2, DIAG: %3"
+msgstr "通道 ID: %1, 设备: %2, DIAG: %3"
+
+#. popup label
+#: src/modules/DASDController.ycp:382
+msgid "Reading Configured DASD Disks"
+msgstr "正在读取已配置的 DASD 磁盘"
+
+#. error report, %1 is device identification
+#: src/modules/DASDController.ycp:451 src/modules/ZFCPController.ycp:450
+#: src/modules/ZFCPController.ycp:525
+#, ycp-format
+msgid "%1: sysfs not mounted."
+msgstr "%1: 没有挂载 sysfs。"
+
+#. error report, %1 is device identification
+#: src/modules/DASDController.ycp:457 src/modules/ZFCPController.ycp:456
+#: src/modules/ZFCPController.ycp:531
+#, ycp-format
+msgid "%1: Invalid status for <online>."
+msgstr "%1：无效的 <在线> 状态。"
+
+#. error report, %1 is device identification
+#: src/modules/DASDController.ycp:463 src/modules/ZFCPController.ycp:462
+#, ycp-format
+msgid "%1: No device found for <ccwid>."
+msgstr "%1：未找到 <ccwid> 设备。"
+
+#. error report, %1 is device identification
+#: src/modules/DASDController.ycp:469
+#, ycp-format
+msgid "%1: Could not change state of the device."
+msgstr "%1: 不能改变设备的状态。"
+
+#. error report, %1 is device identification
+#: src/modules/DASDController.ycp:476
+#, ycp-format
+msgid "%1: Device is not a DASD."
+msgstr "%1：设备不是可直接访问存储设备。"
+
+#. error report, %1 is device identification
+#: src/modules/DASDController.ycp:483
+#, ycp-format
+msgid "%1: Could not load module."
+msgstr "%1：无法装载模块。"
+
+#. error report, %1 is device identification
+#: src/modules/DASDController.ycp:490
+#, ycp-format
+msgid "%1: Failed to activate DASD."
+msgstr "%1：未能激活可直接访问存储设备。"
+
+#. error report, %1 is device identification
+#: src/modules/DASDController.ycp:497
+#, ycp-format
+msgid "%1: DASD is not formatted."
+msgstr "%1：可直接访问存储设备未格式化。"
+
+#. error report, %1 is device identification, %2 is integer code
+#: src/modules/DASDController.ycp:503 src/modules/ZFCPController.ycp:504
+#: src/modules/ZFCPController.ycp:561
+#, ycp-format
+msgid "%1: Unknown error %2."
+msgstr "%1：未知的错误 %2。"
+
+#: src/modules/DASDController.ycp:523
+#, ycp-format
+msgid ""
+"Device %1 is not formatted. Format device now?\n"
+"If you want to format multiple devices in parallel,\n"
+"press 'Cancel' and select 'Perform Action', 'Format' later on.\n"
+msgstr ""
+"设备 %1 未格式化，立即格式化设备？\n"
+"如果您想要并行格式化多个设备，请按 '取消' 并稍后选择 '执行操作', '格式化'。\n"
+
+#. progress bar
+#: src/modules/DASDController.ycp:602
+#, ycp-format
+msgid "Formatting %1:"
+msgstr "正在格式化 %1："
+
+#. error report, %1 is exit code of the command (integer)
+#: src/modules/DASDController.ycp:624 src/modules/DASDController.ycp:711
+#, ycp-format
+msgid "Disks formatting failed. Exit code: %1."
+msgstr "磁盘格式化失败。退出代码: %1。"
+
+#. progress bar, %1 is device name, %2 and %3
+#. integers,
+#. eg. Formatting /dev/dasda: cylinder 123 of 12334 done
+#: src/modules/DASDController.ycp:690
+#, ycp-format
+msgid "Formatting %1: cylinder %2 of %3 done"
+msgstr "正在格式化 %1: 共有 %3 个柱面, 已完成 %2"
+
+#: src/modules/Dump.ycp:68
+msgid "Checking Disks"
+msgstr "正在检查磁盘"
+
+#. Progress stage 1/2
+#: src/modules/Dump.ycp:73
+msgid "Checking DASD disks"
+msgstr "正在检查 DASD 磁盘"
+
+#. Progress stage 2/2
+#: src/modules/Dump.ycp:75
+msgid "Checking ZFCP disks"
+msgstr "正在检查 ZFCP 磁盘"
+
+#. Progress step 1/2
+#: src/modules/Dump.ycp:78
+msgid "Checking DASD disks..."
+msgstr "正在检查 DASD 磁盘..."
+
+#. Progress step 2/2
+#: src/modules/Dump.ycp:80
+msgid "Checking ZFCP disks..."
+msgstr "正在检查 ZFCP 磁盘..."
+
+#. Progress finished
+#: src/modules/Dump.ycp:82 src/modules/Dump.ycp:114
+#: src/modules/IUCVTerminal.ycp:136 src/modules/IUCVTerminal.ycp:284
+#: src/modules/IUCVTerminalServer.ycp:350
+#: src/modules/IUCVTerminalServer.ycp:481 src/modules/OnPanic.ycp:237
+#: src/modules/OnPanic.ycp:279
+msgid "Finished"
+msgstr "已完成"
+
+#: src/modules/Dump.ycp:104
+msgid "Creating Dump Device"
+msgstr "正在创建转储设备"
+
+#. Progress stage 1/1
+#: src/modules/Dump.ycp:109
+msgid "Creating dump device"
+msgstr "正在创建转储设备"
+
+#. Progress step 1/1
+#: src/modules/Dump.ycp:112
+msgid "Creating dump device. This process might take some minutes."
+msgstr "正在创建转储设备。此过程将需要一些时间。"
+
+#. error description
+#: src/modules/Dump.ycp:148
+msgid "Invalid or unusable disk (fatal)."
+msgstr "无效或不可用磁盘 (致命错误)。"
+
+#. error description
+#: src/modules/Dump.ycp:151
+msgid "Incompatible formatting or partitioning, correct with Force."
+msgstr "不兼容格式或分区，请强制纠正。"
+
+#. error description
+#: src/modules/Dump.ycp:154
+msgid "Missing support programs."
+msgstr "缺少支持的应用程序。"
+
+#. error description
+#: src/modules/Dump.ycp:157
+msgid "Missing or wrong parameters."
+msgstr "缺失或错误的参数。"
+
+#. error description
+#: src/modules/Dump.ycp:160
+msgid "Access problem."
+msgstr "访问出错。"
+
+#. error description, %1 is error code (integer)
+#: src/modules/Dump.ycp:163
+#, ycp-format
+msgid "Error code from support program: %1."
+msgstr "支持程序的错误代码：%1。"
+
+#. error report, %1 is device name, %2 error description
+#: src/modules/Dump.ycp:165
+#, ycp-format
+msgid ""
+"Cannot create dump device %1:\n"
+"%2"
+msgstr ""
+"无法创建转储设备 %1：\n"
+"%2"
+
+#. *
+#. * Text field for changing settings of all HVC instances
+#.
+#: src/modules/IUCVTerminal.ycp:55
+msgid "<all>"
+msgstr "<全部>"
+
+#. *
+#. * Text field for not changing the HVC emulation
+#.
+#: src/modules/IUCVTerminal.ycp:60
+msgid "<don't change>"
+msgstr "<不更改>"
+
+#: src/modules/IUCVTerminal.ycp:118
+msgid "Loading IUCV Terminal Configuration"
+msgstr "正在加载 IUCV 终端配置"
+
+#. Progress stage 1/3
+#: src/modules/IUCVTerminal.ycp:123
+msgid "Check IUCVtty entries"
+msgstr "检查 IUCVtty 条目"
+
+#. Progress stage 2/3
+#: src/modules/IUCVTerminal.ycp:125
+msgid "Check HVC entries"
+msgstr "检查 HVC 条目"
+
+#. Progress stage 3/3
+#: src/modules/IUCVTerminal.ycp:127
+msgid "Read kernel parameters"
+msgstr "读取内核参数"
+
+#. Progress step 1/3
+#: src/modules/IUCVTerminal.ycp:130
+msgid "Checking IUCVtty entries..."
+msgstr "正在检查 IUCVtty 条目..."
+
+#. Progress step 2/3
+#: src/modules/IUCVTerminal.ycp:132
+msgid "Checking HVC entries..."
+msgstr "正在检查 HVC 条目..."
+
+#. Progress step 3/3
+#: src/modules/IUCVTerminal.ycp:134
+msgid "Reading kernel parameters..."
+msgstr "正在读取内核参数..."
+
+#. Inittab write dialog caption
+#: src/modules/IUCVTerminal.ycp:262
+msgid "Saving IUCV Terminal Configuration"
+msgstr "正在保存 IUCV 终端配置"
+
+#. Progress stage 1/4
+#: src/modules/IUCVTerminal.ycp:267
+msgid "Write IUCVtty settings"
+msgstr "写入 IUCVtty 设置"
+
+#. Progress stage 2/4
+#: src/modules/IUCVTerminal.ycp:269
+msgid "Write HVC settings"
+msgstr "写入 HVC 设置"
+
+#. Progress stage 3/4
+#: src/modules/IUCVTerminal.ycp:271
+msgid "Write kernel parameters"
+msgstr "写入内核参数"
+
+#. Progress stage 4/4
+#: src/modules/IUCVTerminal.ycp:273
+msgid "Initialize Init"
+msgstr "初始化 Init"
+
+#. Progress step 1/4
+#: src/modules/IUCVTerminal.ycp:276
+msgid "Writing IUCVtty settings..."
+msgstr "正在写入 IUCVtty 设置..."
+
+#. Progress step 2/4
+#: src/modules/IUCVTerminal.ycp:278
+msgid "Writing HVC settings..."
+msgstr "正在写入 HVC 设置..."
+
+#. Progress step 3/4
+#: src/modules/IUCVTerminal.ycp:280
+msgid "Writing kernel parameters..."
+msgstr "正在内核参数..."
+
+#. Progress step 4/4
+#: src/modules/IUCVTerminal.ycp:282
+msgid "Initializing Init..."
+msgstr "正在初始化 Init..."
+
+#. *
+#. * Text to select all
+#.
+#: src/modules/IUCVTerminalServer.ycp:46
+msgid "<ALL>"
+msgstr "<全部>"
+
+#: src/modules/IUCVTerminalServer.ycp:336
+msgid "Loading IUCV Terminal Server Configuration"
+msgstr "正在加载 IUCV 终端服务器配置"
+
+#. Progress stage 1/2
+#: src/modules/IUCVTerminalServer.ycp:341
+msgid "Read configuration files"
+msgstr "读取配置文件"
+
+#. Progress stage 2/2
+#: src/modules/IUCVTerminalServer.ycp:343
+msgid "Load user/group settings"
+msgstr "加载用户/组设置"
+
+#. Progress step 1/2
+#: src/modules/IUCVTerminalServer.ycp:346
+msgid "Reading configuration files..."
+msgstr "正在读取配置文件..."
+
+#. Progress step 2/2
+#: src/modules/IUCVTerminalServer.ycp:348
+msgid "Loading user/group settings..."
+msgstr "正在加载用户/组设置..."
+
+#: src/modules/IUCVTerminalServer.ycp:467
+msgid "Saving IUCV Terminal Server Configuration"
+msgstr "正在保存 IUCV 终端服务器配置"
+
+#. Progress stage 1/2
+#: src/modules/IUCVTerminalServer.ycp:472
+msgid "Write configuration files"
+msgstr "写入配置文件"
+
+#. Progress stage 2/2
+#: src/modules/IUCVTerminalServer.ycp:474
+msgid "Update user settings"
+msgstr "更新用户设置"
+
+#. Progress step 1/2
+#: src/modules/IUCVTerminalServer.ycp:477
+msgid "Writing configuration files..."
+msgstr "正在写入配置文件..."
+
+#. Progress step 2/2
+#: src/modules/IUCVTerminalServer.ycp:479
+msgid "Updating user settings..."
+msgstr "正在更新用户设置..."
+
+#. Dumpconf read dialog caption
+#: src/modules/OnPanic.ycp:223
+msgid "Reading Dumpconf Configuration"
+msgstr "正在读取 Dumpconf 配置"
+
+#. Progress stage 1/2
+#: src/modules/OnPanic.ycp:228
+msgid "Checking dump devices"
+msgstr "正在检查转储设备"
+
+#. Progress stage 2/2
+#: src/modules/OnPanic.ycp:230
+msgid "Reading settings"
+msgstr "正在读取设置"
+
+#. Progress step 1/2
+#: src/modules/OnPanic.ycp:233
+msgid "Checking dump devices..."
+msgstr "正在检查转储设备..."
+
+#. Progress step 2/2
+#: src/modules/OnPanic.ycp:235
+msgid "Reading the settings..."
+msgstr "正在读取设置..."
+
+#. Dumpconf write dialog caption
+#: src/modules/OnPanic.ycp:265
+msgid "Saving Dumpconf Configuration"
+msgstr "正在保存 Dumpconf 配置"
+
+#. Progress stage 1/2
+#: src/modules/OnPanic.ycp:270
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. Progress stage 2/2
+#: src/modules/OnPanic.ycp:272
+msgid "Restart the service"
+msgstr "重启动服务"
+
+#. Progress step 1/2
+#: src/modules/OnPanic.ycp:275
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. Progress step 2/2
+#: src/modules/OnPanic.ycp:277
+msgid "Restarting service..."
+msgstr "正在重启动服务..."
+
+#. summary text, %1 is channel, %2 is WWPN, %3 is LUN
+#: src/modules/ZFCPController.ycp:337
+#, ycp-format
+msgid "Channel ID: %1, WWPN: %2, LUN: %3"
+msgstr "通道 ID: %1, 万维端口名称: %2, 逻辑单元编号: %3"
+
+#. summary text, %1 is channel, %2 is WWPN, %3 is LUN, %4 is device name
+#: src/modules/ZFCPController.ycp:346
+#, ycp-format
+msgid "Channel ID: %1, WWPN: %2, LUN: %3, Device: %4"
+msgstr "通道 ID: %1, 万维端口名称: %2, 逻辑单元编号: %3，设备：%4"
+
+#. popup label
+#: src/modules/ZFCPController.ycp:408
+msgid "Reading Configured ZFCP Devices"
+msgstr "正在读取已配置的 ZFCP 设备"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:468
+#, ycp-format
+msgid "%1: WWPN invalid."
+msgstr "%1：WWPN 无效。"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:474
+#, ycp-format
+msgid "%1: Could not activate WWPN for adapter %1."
+msgstr "%1：不能为适配器 %1 激活 WWPN。"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:480
+#, ycp-format
+msgid "%1: Could not activate ZFCP device."
+msgstr "%1：不能激活 ZFCP 设备。"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:486
+#, ycp-format
+msgid "%1: SCSI disk could not be deactivated."
+msgstr "%1：SCSI 磁盘不能禁用。"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:492
+#, ycp-format
+msgid "%1: LUN could not be unregistered."
+msgstr "%1：LUN 不能取消注册。"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:498
+#, ycp-format
+msgid "%1: WWPN could not be unregistered."
+msgstr "%1：WWPN 不能取消注册。"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:537
+#, ycp-format
+msgid "%1: Device <ccwid> does not exist."
+msgstr "%1：设备 <ccwid> 不存在。"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:543
+#, ycp-format
+msgid "%1: Module zfcp could not be loaded."
+msgstr "%1：模块 zfcp 不能装载。"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:549
+#, ycp-format
+msgid "%1: Adapter status could not be changed."
+msgstr "%1：适配器状态不能更改。"
+
+#. error report, %1 is device identification
+#: src/modules/ZFCPController.ycp:555
+#, ycp-format
+msgid "%1: WWPN ports still active."
+msgstr "%1：WWPN 端口仍是活动的。"
+
+#: src/onpanic/ui.ycp:68
+#, ycp-format
+msgid "Only %1 lines are allowed for VMCMD."
+msgstr "VMCMD 只允许 %1 行。"
+
+#. For translators: Caption of the dialog
+#: src/onpanic/ui.ycp:111
+msgid "On Panic Configuration"
+msgstr "出错配置"
+
+#. OnPanic dialog help 1/11
+#: src/onpanic/ui.ycp:114
+msgid "<p><b>Configure the actions to be taken if a kernel panic occurs</b></p>"
+msgstr "<p><b>配置内核出错时进行的操作</b></p>"
+
+#. OnPanic dialog help 2/11
+#: src/onpanic/ui.ycp:116
+msgid "<p>The <b>Dumpconf</b> daemon needs to be enabled to influence the behavior during kernel panics.</p>"
+msgstr "<p>需要启用<b>Dumpconf</b>守护精灵以在内核出错期间影响内核行为。</p>"
+
+#. OnPanic dialog help 3/11
+#: src/onpanic/ui.ycp:118
+msgid "<p>The following <b>Panic Actions</b> are possible:<br>"
+msgstr "<p>如下<b>出错操作</b>可用：<br>"
+
+#. OnPanic dialog help 4/11
+#: src/onpanic/ui.ycp:120
+msgid "<b>stop</b> Stop Linux (default).<br>"
+msgstr "<b>停止</b> 停止 Linux (默认)。<br>"
+
+#. OnPanic dialog help 5/11
+#: src/onpanic/ui.ycp:122
+msgid "<b>dump</b> Dump Linux and stop system.<br>"
+msgstr "<b>转储</b> 转储 Linux 并停止系统。<br>"
+
+#. OnPanic dialog help 6/11
+#: src/onpanic/ui.ycp:124
+msgid "<b>reipl</b> Reboot Linux.<br>"
+msgstr "<b>reipl</b> 重启 Linux。<br>"
+
+#. OnPanic dialog help 7/11
+#: src/onpanic/ui.ycp:126
+msgid ""
+"<b>dump_reipl</b> Dump Linux and reboot system. This option is only available\n"
+"on LPAR with z9(r) machines and later and on z/VMversion 5.3 and later.<br>"
+msgstr "<b>dump_reipl</b> 转储 Linux 并重引导系统。此选项只在带 z9(r) 的 LPAR 机器及其后续型号和 z/VMversion 5.3 及其后续型号可用。<br>"
+
+#. OnPanic dialog help 8/11
+#: src/onpanic/ui.ycp:128
+msgid "<b>vmcmd</b> Execute specified CP commands and stop system.</p>"
+msgstr "<b>vmcmd</b> 执行指定的 CP 命令并停止系统。</p>"
+
+#. OnPanic dialog help 9/11
+#: src/onpanic/ui.ycp:130
+msgid "<p>The time defined in <b>Delay Minutes</b> defers activating the specified panic action for a newly started system to prevent loops. If the system crashes before the time has elapsed the default action (stop) is performed.</p>"
+msgstr "<p><b>延迟分钟</b>中定义的时间延缓激活在新启动的系统上的出错操作以避免循环。如果系统在该时间以前崩溃，则执行默认操作 (停止)。</p>"
+
+#. OnPanic dialog help 10/11
+#: src/onpanic/ui.ycp:132
+msgid "<p>The device for dumping the memory can be set with <b>Dump Device</b>. If no device is shown you have to create one with the <b>YaST Dump Devices</b> dialog.</p>"
+msgstr "<p>可以通过 <b>转储设备</b> 设置用来转储内存的设备。如果没有显示任何设备您需要使用 <b>YaST 转储设备</b> 对话框来创建一个。</p>"
+
+#. OnPanic dialog help 11/11
+#: src/onpanic/ui.ycp:134
+#, ycp-format
+msgid "<p>With <b>VMCMD</b> specify CP commands to be executed before the Linux system is stopped. Only %1 lines and a total of %2 chars are allowed.</p>"
+msgstr "<p>使用 <b>VMCMD</b> 指定要在 Linux 系统停止前执行的 CP 命令。只允许 %1 行和总计 %2 个字符。</p>"
+
+#. radio button label
+#: src/onpanic/ui.ycp:143
+msgid "Do No&t Start Dumpconf"
+msgstr "不启动转储配置(&t)"
+
+#. radio button label
+#: src/onpanic/ui.ycp:146
+msgid "&Start Dumpconf"
+msgstr "启动转储配置(&S)"
+
+#. combobox label
+#: src/onpanic/ui.ycp:151
+msgid "&Panic Action"
+msgstr "错误操作(&P)"
+
+#: src/onpanic/ui.ycp:152
+msgid "Delay &Minutes"
+msgstr "延迟分钟(&M)"
+
+#. combobox label
+#: src/onpanic/ui.ycp:157
+msgid "&Dump Device"
+msgstr "转储设备(&D)"
+
+#: src/onpanic/ui.ycp:159
+msgid "&VMCMD"
+msgstr "&VMCMD"
+
+#: src/onpanic/ui.ycp:209
+msgid "It is not possible to enable the dump process without a dump device."
+msgstr "不能在没有转储设备的情况下启用转储进程。"
+
+#: src/onpanic/ui.ycp:217
+msgid "It is not possible to use vmcmd  without defining at least one command."
+msgstr "不能在未定义至少一个命令的情况下使用 vmcmd。"
+
+#. Dialog caption
+#: src/zfcp/dialogs.ycp:126
+msgid "Configured ZFCP Devices"
+msgstr "已配置的 ZFCP 设备"
+
+#. table header
+#: src/zfcp/dialogs.ycp:136 src/zfcp/dialogs.ycp:147
+msgid "WWPN"
+msgstr "WWPN"
+
+#. table header
+#: src/zfcp/dialogs.ycp:138 src/zfcp/dialogs.ycp:149
+msgid "LUN"
+msgstr "LUN"
+
+#. yes-no popup
+#: src/zfcp/dialogs.ycp:241 src/zfcp/dialogs.ycp:391
+msgid ""
+"Really leave the ZFCP device configuration without saving?\n"
+"All changes will be lost."
+msgstr ""
+"真的要离开 ZFCP 设备配置而不保存吗?\n"
+"所有更改将丢失。"
+
+#. dialog caption
+#: src/zfcp/dialogs.ycp:264
+msgid "Add New ZFCP Device"
+msgstr "增加新的 ZFCP 设备"
+
+#. combo box
+#: src/zfcp/dialogs.ycp:309
+msgid "&WWPN"
+msgstr "万维端口名称(&W)"
+
+#. push button
+#: src/zfcp/dialogs.ycp:311
+msgid "Get WWPNs"
+msgstr "获得万维端口名称"
+
+#. combobox
+#: src/zfcp/dialogs.ycp:316
+msgid "&LUN"
+msgstr "逻辑单元编号(&L)"
+
+#. push button
+#: src/zfcp/dialogs.ycp:318
+msgid "Get LUNs"
+msgstr "获得逻辑单元编号"
+
+#. error popup
+#: src/zfcp/dialogs.ycp:375 src/zfcp/dialogs.ycp:415
+msgid "The entered WWPN is invalid."
+msgstr "输入的万维端口名称无效。"
+
+#. error popup
+#: src/zfcp/dialogs.ycp:424
+msgid "The entered LUN is invalid."
+msgstr "输入的逻辑单元编号无效。"
+
+#. Read dialog help 1/2
+#: src/zfcp/helps.ycp:39
+msgid ""
+"<p><b><big>Initializing ZFCP Device Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在初始化 ZFCP 设备配置</big></b><br>\n"
+"</p>\n"
+
+#. Write dialog help 1/2
+#: src/zfcp/helps.ycp:48
+msgid ""
+"<p><b><big>Saving ZFCP Device Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在保存 ZFCP 设备配置</big></b><br>\n"
+"</p>\n"
+
+#. Disk selection dialog help 1/3
+#: src/zfcp/helps.ycp:59
+msgid ""
+"<p><b><big>Configured ZFCP Devices</big></b><br>\n"
+"Manage ZFCP devices on your system.</p>\n"
+msgstr ""
+"<P><B><BIG>已配置的 ZFCP 设备</BIG></B><BR>\n"
+"管理您系统上的 ZFCP 设备</P>\n"
+
+#. Disk selection dialog help 2/3
+#: src/zfcp/helps.ycp:64
+msgid "<p>To configure a new ZFCP device, click <b>Add</b>.</p>"
+msgstr "<p>要配置一个新的 ZFCP 设备, 请点击<b>增加</b>。</p>"
+
+#. Disk selection dialog help 3/3
+#: src/zfcp/helps.ycp:67
+msgid ""
+"<p>To remove a configured ZFCP device, select it and click\n"
+"<b>Delete</b>.</p>"
+msgstr "<p>要删除一个已配置的 ZFCP 设备, 请选中它然后点击<b>删除</b>。</p>"
+
+#. Disk selection dialog Warning
+#: src/zfcp/helps.ycp:71 src/zfcp/helps.ycp:89
+msgid "<h1>Warning</h1>"
+msgstr "<h1>警告</h1>"
+
+#: src/zfcp/helps.ycp:71 src/zfcp/helps.ycp:90
+msgid ""
+"<p>When accessing a ZFCP device\n"
+"<b>READ</b>/<b>WRITE</b>, make sure that this access is exclusive.\n"
+"Otherwise there is a potential risk of data corruption.</p>"
+msgstr ""
+"<p>当访问 ZFCP 设备 \n"
+"<b>READ</b>/\n"
+"<b>WRITE</b> 时，确保此访问是排它的。否则会有潜在的数据损坏风险。</p>"
+
+#. Disk add help 1/2
+#: src/zfcp/helps.ycp:76
+msgid ""
+"<p><b><big>Add New ZFCP Device</big></b><br>\n"
+"Enter the identifier of the device to add, the\n"
+"<b>Channel ID</b> of the ZFCP controller, the worldwide port number\n"
+"(<b>WWPN</b>) and the <b>LUN</b> number.</p>\n"
+msgstr ""
+"<p><b><big>增加新的 ZFCP 设备</big></b><br>\n"
+"请输入要增加的设备的标识. 请输入 ZFCP 控制器的<b>通道号</b>,\n"
+"万维端口号(<b>WWPN</b>), 和 <b>逻辑单元编号</b> 数。</p>\n"
+
+#. Disk add help 2/2, This is HTML, so finally "&lt;devno&gt;" is displayed as "<devno>"
+#: src/zfcp/helps.ycp:82
+msgid ""
+"<p>The <b>Channel ID</b> must be entered with lowercase letters in a sysfs conforming\n"
+"format 0.0.&lt;devno&gt;, such as <tt>0.0.5c51</tt>.</p>\n"
+"<p>The WWPN must be entered with lowercase letters as a 16-digit hex value, such as\n"
+"<tt>0x5005076300c40e5a</tt>.</p>\n"
+"<p>The LUN must be entered with lowercase letters as a 16-digit hex value with\n"
+"all trailing zeros, such as <tt>0x52ca000000000000</tt>.</p>"
+msgstr ""
+"<p><b>通道号</b>必须以小写字母按符合 sysfs 的\n"
+"格式 0.0.&lt;devno&gt; 输入，如 <tt>0.0.5c51</tt>。</p>\n"
+"<p>WWPN 必须以小写字母作为 16 位 16 进制值输入，如 \n"
+"<tt>0x5005076300c40e5a</tt>。</p>\n"
+"<p>LUN 必须以小写字母作为 16 位 16 进制值且含所有结尾的零而输入，如 <tt>0x52ca000000000000</tt>。</p>"
+
+#, fuzzy
+#~| msgid "Firewall configuration"
+#~ msgid "ZFCP configuration"
+#~ msgstr "防火墻设置"
+
+#~ msgid "Sel."
+#~ msgstr "所选"
+
+#~ msgid "A&dd New Disk"
+#~ msgstr "增加新磁盘(&D)"
+
+#~ msgid "De&lete Disk"
+#~ msgstr "删除磁盘(&L)"
+
+#~ msgid "&Channel Number"
+#~ msgstr "通道号(&C)"
+
+#~ msgid "%1: Invalid status for <online>"
+#~ msgstr "%1: 无效的 <online> 状态"
+
+#~ msgid "%1: No device found for <ccwid>"
+#~ msgstr "%1: 没有找到 <ccwid> 的设备"
+
+#~ msgid "%1: Unknown error %2"
+#~ msgstr "%1: 未知的错误 %2"
+
+#~ msgid "Channel Number"
+#~ msgstr "通道号"
+
+#~ msgid "zfcp-LUN"
+#~ msgstr "zfcp-LUN"
+
+#, fuzzy
+#~| msgid "Remove disk %1?"
+#~ msgid "Remove device %1?"
+#~ msgstr "删除磁盘 %1?"
+
+#~ msgid "&FCP-LUN"
+#~ msgstr "FCP-LUN(&F)"
+
+#, fuzzy
+#~| msgid "Configuration of printer"
+#~ msgid "Configuration of controller"
+#~ msgstr "打印机配置"
+
+#~ msgid "Dump Device Management"
+#~ msgstr "转储设备管理"
+
+#~ msgid "Loader Section Label"
+#~ msgstr "装载区标签"
+
+#~ msgid "Add New Dump Device"
+#~ msgstr "添加新的转储设备"
+
+#~ msgid "Install Dump Record Even If Disk Already &Formatted"
+#~ msgstr "即使磁盘已格式化，仍安装转储记录(&F)"
+
+#~ msgid "Really leave the dump device configuration?"
+#~ msgstr "确实要放弃转储设备配置吗？"
+
+#~ msgid "Add another dump device?"
+#~ msgstr "是否添加另一个转储设备？"
+
+#~ msgid ""
+#~ "<p><b><big>Initializing Dump Device Configuration</big></b>\n"
+#~ "<br>\n"
+#~ "Please wait...<br></p>\n"
+#~ msgstr ""
+#~ "<p><b><big>正在初始化 Dump 设备配置</big></b>\n"
+#~ "<br>\n"
+#~ "请稍候...<br></p>\n"
+
+#~ msgid ""
+#~ "<p><b><big>Saving Dump Device Configuration</big></b><br>\n"
+#~ "Please wait...<br></p>"
+#~ msgstr ""
+#~ "<p><b><big>正在保存转储设备配置</big></b><br>\n"
+#~ "请稍候...<br></p>"
+
+#~ msgid ""
+#~ "<p><b><big>Configured Dump Devices</big></b><br>\n"
+#~ "This dialog shows configured dump devices for your system.</p>"
+#~ msgstr ""
+#~ "<p><b><big>已配置的转储设备</big></b><br>\n"
+#~ "此对话框显示系统的已配置转储设备。</p>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<p>To add and configure a new dump device, click <b>Add</b>. To edit an\n"
+#~ "already configured dump device, select it and click <b>Edit</b>.\n"
+#~ "To remove a configured dump device, select it and click <b>Delete</b>.</p>"
+#~ msgstr ""
+#~ "<p>要添加新的 dump 设备，请单击<b>添加</b>。要对已配置的\n"
+#~ "dump 设备进行编辑，请选择该 dump 设备，然后单击 <b>编辑</b>。\n"
+#~ "要去除某个已配置的 dump 设备，请选择该设备，然后单击<b>删除</b>。</p>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p><b><big>Add New Dump Device</big></b><br>\n"
+#~| "Prepare a device for use as an S/390 dump device. Supported devices are\n"
+#~| "ECKD DASD and zfcp disks. Set <b>Dump Device</b> to select the device\n"
+#~| "to format. If the device is already formatted\n"
+#~| "or configured, setting\n"
+#~| "<b>Install Dump Record Even If Disk Already &Formatted</b> is required.</p>"
+#~ msgid ""
+#~ "<p><b><big>Add New Dump Device</big></b><br>\n"
+#~ "Prepare a device for use as an S/390 dump device. Supported devices are\n"
+#~ "ECKD DASD. Set <b>Dump Device</b> to select the device\n"
+#~ "to format. If the device is already formatted\n"
+#~ "or configured, setting\n"
+#~ "<b>Install Dump Record Even If Disk Already &Formatted</b> is required.</p>"
+#~ msgstr ""
+#~ "<p><b><big>添加新的转储设备</big></b><br>\n"
+#~ "准备一个设备以用作 S/390 转储设备。支持的设备是\n"
+#~ " ECKD DASD 和 zfcp 磁盘。设置<b>转储设备</b>以选择要格式化的\n"
+#~ "设备。如果设备已格式化\n"
+#~ "或已配置，则需要\n"
+#~ " <b>即使磁盘已格式化，仍安装转储记录(&F)</b>设置。</p>"
+
+#~ msgid "Disk unusable."
+#~ msgstr "磁盘不可用。"
+
+#~ msgid "Support program not installed."
+#~ msgstr "未安装支持程序。"
+
+#~ msgid "Error code from support program."
+#~ msgstr "支持程序的错误代码。"

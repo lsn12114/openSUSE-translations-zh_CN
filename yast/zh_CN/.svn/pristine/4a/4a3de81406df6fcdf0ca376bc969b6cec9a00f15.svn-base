@@ -1,0 +1,366 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:46+0200\n"
+"PO-Revision-Date: 2012-07-20 10:10+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/IsnsServer.ycp:118
+#, ycp-format
+msgid "<p>To configure the isns service, the <b>%1</b> package must be installed.</p>"
+msgstr "<p>要配置 isns 服务，必须安装  <b>%1</b> 包。</p>"
+
+#: src/IsnsServer.ycp:119
+msgid "<p>Install it now?</p>"
+msgstr "<p>是否立即安装？</p>"
+
+#. IsnsServer read dialog caption
+#: src/IsnsServer.ycp:456
+msgid "Initializing isns daemon configuration"
+msgstr "正在初始化 isns 守护精灵配置"
+
+#. Progress stage 1/3
+#: src/IsnsServer.ycp:468
+msgid "Read the database"
+msgstr "读取数据库"
+
+#. Progress stage 2/3
+#: src/IsnsServer.ycp:470
+msgid "Read the previous settings"
+msgstr "读取以前的设置"
+
+#. Progress stage 3/3
+#: src/IsnsServer.ycp:472
+msgid "Detect the devices"
+msgstr "检测设备"
+
+#. Progress step 1/3
+#: src/IsnsServer.ycp:475
+msgid "Reading the database..."
+msgstr "正在读取数据库..."
+
+#. Progress step 2/3
+#: src/IsnsServer.ycp:477
+msgid "Reading the previous settings..."
+msgstr "正在读取以前的设置..."
+
+#. Progress step 3/3
+#: src/IsnsServer.ycp:479
+msgid "Detecting the devices..."
+msgstr "正在检测设备..."
+
+#. Progress finished
+#: src/IsnsServer.ycp:481 src/IsnsServer.ycp:557
+msgid "Finished"
+msgstr "已完成"
+
+#. IsnsServer write dialog caption
+#: src/IsnsServer.ycp:536
+msgid "Saving isns Configuration"
+msgstr "正在保存 isns 配置"
+
+#. Progress stage 1/2
+#: src/IsnsServer.ycp:548
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. Progress stage 2/2
+#: src/IsnsServer.ycp:550
+msgid "Run SuSEconfig"
+msgstr "运行 SuSEconfig"
+
+#. Progress step 1/2
+#: src/IsnsServer.ycp:553
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. Progress step 2/2
+#: src/IsnsServer.ycp:555
+msgid "Running SuSEconfig..."
+msgstr "正在运行 SuSEconfig..."
+
+#. write configuration (/etc/isns.conf)
+#: src/IsnsServer.ycp:569
+msgid "Cannot write settings."
+msgstr "不能写入设置."
+
+#: src/dialogs.ycp:32
+msgid "Service"
+msgstr "服务"
+
+#: src/dialogs.ycp:57 src/dialogs.ycp:159
+msgid "iSCSI Nodes"
+msgstr "iSCSI 节点"
+
+#: src/dialogs.ycp:75 src/dialogs.ycp:179
+msgid "Discovery Domains"
+msgstr "发现域"
+
+#: src/dialogs.ycp:99 src/dialogs.ycp:227
+msgid "Discovery Domains Sets"
+msgstr "发现域集"
+
+#: src/dialogs.ycp:128
+msgid "When &Booting"
+msgstr "引导时(&B)"
+
+#: src/dialogs.ycp:129
+msgid "&Manually"
+msgstr "手动(&M)"
+
+#: src/dialogs.ycp:131
+msgid "When Booting"
+msgstr "引导时"
+
+#: src/dialogs.ycp:132
+msgid "Manually"
+msgstr "手动"
+
+#: src/dialogs.ycp:141
+msgid "Address of iSNS Server"
+msgstr "iSNS 服务器地址"
+
+#: src/dialogs.ycp:161 src/dialogs.ycp:207 src/widgets.ycp:140
+msgid "iSCSI Node Name"
+msgstr "iSCSI 节点名称"
+
+#: src/dialogs.ycp:161 src/dialogs.ycp:207 src/widgets.ycp:176
+msgid "Node Type"
+msgstr "节点类型"
+
+#: src/dialogs.ycp:166 src/dialogs.ycp:189 src/dialogs.ycp:237
+msgid "Delete"
+msgstr "删除"
+
+#: src/dialogs.ycp:183 src/dialogs.ycp:255 src/widgets.ycp:27
+msgid "Discovery Domain Name"
+msgstr "发现域名称"
+
+#: src/dialogs.ycp:188
+msgid "Create Discovery Domain"
+msgstr "创建发现域"
+
+#: src/dialogs.ycp:203
+msgid "Discovery Domain Members"
+msgstr "发现域成员"
+
+#: src/dialogs.ycp:212
+msgid "Add Existing iSCSI Node"
+msgstr "添加现有的 iSCSI 节点"
+
+#: src/dialogs.ycp:213
+msgid "Create iSCSI Node Member"
+msgstr "创建 iSCSI 节点成员"
+
+#: src/dialogs.ycp:214 src/dialogs.ycp:261
+msgid "Remove"
+msgstr "删除"
+
+#: src/dialogs.ycp:231 src/widgets.ycp:110
+msgid "Discovery Domain Set Name"
+msgstr "发现域集名称"
+
+#: src/dialogs.ycp:236
+msgid "Create Discovery Domain Set"
+msgstr "创建发现域集"
+
+#: src/dialogs.ycp:251
+msgid "Discovery Domain Set Members"
+msgstr "发现域集成员"
+
+#: src/dialogs.ycp:260 src/widgets.ycp:224
+msgid "Add Discovery Domain"
+msgstr "添加发现域"
+
+#: src/dialogs.ycp:279
+msgid "iSNS Service"
+msgstr "iSNS 服务"
+
+#: src/dialogs.ycp:287
+msgid "<h1>iSNS Service</h1>"
+msgstr "<h1>iSNS 服务</h1>"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:20
+msgid ""
+"<p><b><big>Initializing iSNS daemon configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在初始化 iSNS 守护精灵配置</big></b><br>\n"
+"</p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:25
+msgid ""
+"<p><b><big>Aborting Initialization</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>正在中止初始化</big></b><br>\n"
+"可以按<b>中止</b>立即安全地中止配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:30
+msgid ""
+"<p><b><big>Saving iSNS Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在保存 iSNS 配置</big></b><br>\n"
+"</p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:35
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"请点击<B>中断</B>,以便中断保存.\n"
+"一个附加对话框将告诉您这样做是否安全.\n"
+"</p>\n"
+
+#. Summary dialog help 1/3
+#: src/helps.ycp:42
+msgid ""
+"<p><b><big>iSNS Configuration</big></b><br>\n"
+"Configure an iSNS server.<br></p>\n"
+msgstr ""
+"<p><b><big>iSNS 配置</big></b><br>\n"
+"在此处配置 iSNS 服务器。<br></p>\n"
+
+#: src/helps.ycp:46
+msgid "<b><big>iSNS Server location</big></b><br>The DNS name or the IP address of the iSNS service can be entered as the iSNS address.\n"
+msgstr "<b><big>iSNS 服务器位置</big></b><br> iSNS 服务的 DNS 名称或 IP 地址可以作为 iSNS 地址输入。\n"
+
+#: src/helps.ycp:48
+msgid "<p>The list of all available iSCSI nodes registered with the iSNS service are displayed.</p> <p>Nodes are registered by iSCSI initiators and iSCSI targets.</p> <p> It is only possible to <b>delete</b> them.  Deleting a node removes it from the iSNS database.</p>"
+msgstr "<p>显示了所有与 iSNS 服务注册的可用 iSCSI 节点列表</p> <p>节点被 iSCSI 启动程序和 iSCSI 目标注册。</p> <p>只能 <b>删除</b> 它们。删除一个节点将从 iSNS 数据库移除它。</p>"
+
+#. discovery domains
+#: src/helps.ycp:51
+msgid "A list of all discovery domains is displayed. It is possible to <b>Create</b> a discovery domain or <b>Delete</b> one. <p>Deleting a domain removes the members from the domain but does not delete the iSCSI node members.</p>"
+msgstr "显示了所有发现域列表。可以 <b>创建</b> 或 <b>删除</b> 一个发现域。<p>删除一个发现域从此域移除所有成员但不删除 iSCSI 节点成员。</p>"
+
+#: src/helps.ycp:53
+msgid "A list of all iSCSI nodes are displayed by discovery domain.  Selecting another discovery domain refreshes the list with members from that discovery domain.  It is possible to <b>Add</b> an iSCSI node to a discovery domain or <b>Delete</b> the node.  <p>Deleting a node removes it from the domain but does not delete the iSCSI node</p> <p>Creating an iSCSI node allows a not yet registered node to be added as a member of the discovery domain.  When the initiator or target registers this node then it becomes part of this domain</p>  <p>When an iSCSI initiator does a discovery request, the iSNS service returns all iSCSI node targets that are members of the same Discovery Domains.</p> "
+msgstr "发现域显示了所有的 iSCSI 节点列表。选择另一个发现域将刷新那个发现域的成员列表。可以 <b>添加</b> 一个 iSCSI 节点到一个发现域，但不能删除一个 iSCSI 节点</p> <p>创建一个 iSCSI 节点允许一个尚未注册的节点被添加为发现域的成员。当启动程序或目标注册了此节点时，此节点就变成了此域的一部分</p> <p>当一个 iSCSI 启动程序请求一个发现域时，iSNS 服务返回同一个发现域的所有 iSCSI 节点目标成员。</p>"
+
+#. dds table dialog
+#: src/helps.ycp:56
+msgid "At the top a list of all Discovery Domain Sets are displayed.  Discovery Domains belong to Discovery Domain Sets. <p>A Discovery Domain must be a member of a Discovery Domain Set in order to be active. </p><p>In an iSNS database, a Discovery Domain Set contains Discovery Domains and Discovery Domains contain iSCSI Node members.</p>"
+msgstr "在列表上部显示了所有发现域集。发现域属于发现域集。<p>一个发现域必须是一个发现域集的成员以处于活动状态。</p><p>在一个 iSNS 数据库中，一个发现域集包含发现域，发现域包含 iSCSI 节点成员。</p>"
+
+#: src/helps.ycp:58
+msgid "<p>The discovery domain set members list is refreshed whenever a different discovery domain set is selected.</p>"
+msgstr "<p>当选择了不同的发现域集时，发现域集成员列表将被刷新。</p>"
+
+#. Command line help text for the Xisns module
+#: src/isns.ycp:34
+msgid "Configuration of an isns service"
+msgstr "isns 服务的配置"
+
+#. progress step title
+#: src/isns_finish.ycp:40
+msgid "Saving iSCSI configuration..."
+msgstr "正在保存 iSCSI 配置..."
+
+#. Rich text title for IsnsServer in proposals
+#: src/isns_proposal.ycp:69
+msgid "iSCSI Initiator"
+msgstr "iSCSI 启动程序"
+
+#. Menu title for IsnsServer in proposals
+#: src/isns_proposal.ycp:71
+msgid "&iSCSI Initiator"
+msgstr "iSCSI 启动程序(&I)"
+
+#: src/widgets.ycp:25
+msgid "Create New Discovery Domain"
+msgstr "创建新发现域"
+
+#: src/widgets.ycp:32
+msgid "Select discovery domain set to which discovery domain will be added."
+msgstr "选择发现域将被添加到的发现域集"
+
+#: src/widgets.ycp:33
+msgid "Discovery Domain Name Set"
+msgstr "发现域名称集"
+
+#: src/widgets.ycp:169
+msgid "Add iSCSI node to discovery domain"
+msgstr "添加网络微型计算机接口 (iSCSI) 节点到发现域"
+
+#: src/widgets.ycp:172
+msgid "Available Nodes to Add"
+msgstr "可供添加的节点"
+
+#: src/widgets.ycp:176 src/widgets.ycp:219
+msgid "Name"
+msgstr "名称"
+
+#: src/widgets.ycp:181
+msgid "Add Node"
+msgstr "添加节点"
+
+#: src/widgets.ycp:182 src/widgets.ycp:225
+msgid "Done"
+msgstr "完毕"
+
+#: src/widgets.ycp:212
+msgid "Add Discovery Domain to Set"
+msgstr "添加发现域到集"
+
+#: src/widgets.ycp:215
+msgid "Available Discovery Domains"
+msgstr "可用发现域"
+
+#: src/widgets.ycp:258 src/widgets.ycp:273
+msgid "Target or Initiator"
+msgstr "目标或启动程序"
+
+#: src/widgets.ycp:446 src/widgets.ycp:513
+msgid "Really delete the selected item?"
+msgstr "确实要删除所选的项吗？"
+
+#: src/widgets.ycp:476
+msgid "Really delete this domain?"
+msgstr "是否确实要删除此域？"
+
+#. boolean display = true;
+#. Report::DisplayErrors(display,10);
+#: src/widgets.ycp:620
+msgid "Unable to connect to iSNS server. Check iSNS server address."
+msgstr "无法连接到 iSNS 服务器。请检查 iSNS 服务器地址。"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:91
+msgid "isns Daemon Configuration"
+msgstr "互联网存储名称服务 (isns) 守护精灵配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:93
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#, fuzzy
+#~ msgid ""
+#~ "<p><b><big>Saving iSNS Configuration</big></b><br>\n"
+#~ "Please wait...<br></p>\n"
+#~ msgstr ""
+#~ "<p><b><big>正在保存 VPN 配置</big></b><br>\n"
+#~ "请稍候...<br></p>\n"

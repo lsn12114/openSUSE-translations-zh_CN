@@ -1,0 +1,1757 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Samba Server\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:48+0200\n"
+"PO-Revision-Date: 2012-07-23 02:01+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. translators: in error message, followed by server error
+#: src/SambaBackendLDAP.pm:261
+msgid "Additional Information:"
+msgstr "附加信息："
+
+#. translators: unknown error message
+#: src/SambaBackendLDAP.pm:265
+msgid "Unknown error. Perhaps yast2-ldap is not available."
+msgstr "未知的错误。可能 yast2-ldap 不可用。"
+
+#: src/SambaBackendLDAP.pm:338
+msgid "Unknown Class:"
+msgstr "未知类："
+
+#: src/SambaBackendLDAP.pm:338
+msgid "Only dcObject (dc) and organizationalUnit (ou) classes are supported."
+msgstr "仅支持 dcObject(dc) 和 organizationalUnit(ou) 类。"
+
+#. translators: warning message, %s is LDAP server name/IP
+#: src/SambaBackendLDAP.pm:624
+#, perl-format
+msgid ""
+"It seems that there is no functional\n"
+"LDAP server at %s.\n"
+msgstr ""
+"看起来 %s 上没有正常运行的\n"
+"LDAP 服务器。\n"
+
+#. translators: server role name
+#: src/SambaRole.pm:50
+msgid "File and Printer Sharing"
+msgstr "文件和打印机共享"
+
+#. translators: server role name
+#: src/SambaRole.pm:52
+msgid "Backup Domain Controller"
+msgstr "备份域控制器"
+
+#. translators: server role name
+#: src/SambaRole.pm:54
+msgid "Primary Domain Controller"
+msgstr "主域控制器"
+
+#. translators: server role name
+#: src/SambaRole.pm:56
+msgid "Domain Member Server"
+msgstr "域成员服务器"
+
+#. Samba-server read dialog caption
+#: src/SambaServer.pm:120
+msgid "Initializing Samba Server Configuration"
+msgstr "正在初始化 Samba 服务器配置"
+
+#. translators: progress stage
+#: src/SambaServer.pm:125
+msgid "Read global Samba settings"
+msgstr "读取全局 Samba 设置"
+
+#. translators: progress stage
+#: src/SambaServer.pm:127
+msgid "Read Samba secrets"
+msgstr "读取 Samba 机密"
+
+#. translators: progress stage
+#: src/SambaServer.pm:129
+msgid "Read Samba service settings"
+msgstr "读取 Samba 服务设置"
+
+#. translators: progress stage
+#: src/SambaServer.pm:131
+msgid "Read Samba accounts"
+msgstr "读取 Samba 帐户"
+
+#. translators: progress stage
+#: src/SambaServer.pm:133
+msgid "Read the back-end settings"
+msgstr "读取后端设置"
+
+#. translators: progress stage
+#: src/SambaServer.pm:135
+msgid "Read the firewall settings"
+msgstr "读取防火墙设置"
+
+#. translators: progress stage
+#: src/SambaServer.pm:137
+msgid "Read Samba service role settings"
+msgstr "读取 Samba 服务设置"
+
+#. translators: progress step
+#: src/SambaServer.pm:140
+msgid "Reading global Samba settings..."
+msgstr "正在读取全局 Samba 设置..."
+
+#. translators: progress step
+#: src/SambaServer.pm:142
+msgid "Reading Samba secrets..."
+msgstr "正在读取 Samba 机密..."
+
+#. translators: progress step
+#: src/SambaServer.pm:144
+msgid "Reading Samba service settings..."
+msgstr "正在读取 Samba 服务设置..."
+
+#. translators: progress step
+#: src/SambaServer.pm:146
+msgid "Reading Samba accounts..."
+msgstr "正在读取 Samba 帐户..."
+
+#. translators: progress step
+#: src/SambaServer.pm:148
+msgid "Reading the back-end settings..."
+msgstr "正在读取后端设置..."
+
+#. translators: progress step
+#: src/SambaServer.pm:150
+msgid "Reading the firewall settings..."
+msgstr "正在读取防火墙设置..."
+
+#. translators: progress stage
+#: src/SambaServer.pm:152
+msgid "Reading Samba service role settings..."
+msgstr "正在读取 Samba 服务角色设置..."
+
+#. translators: progress finished
+#. translators: write progress step
+#: src/SambaServer.pm:154 src/SambaServer.pm:264
+msgid "Finished"
+msgstr "已完成"
+
+#. Samba-server read dialog caption
+#: src/SambaServer.pm:234
+msgid "Saving Samba Server Configuration"
+msgstr "正在保存 Samba 服务器配置"
+
+#. translators: write progress stage
+#: src/SambaServer.pm:239
+msgid "Write global settings"
+msgstr "写入全局设置"
+
+#. translators: write progress stage
+#: src/SambaServer.pm:241
+msgid "Disable Samba services"
+msgstr "禁用 Samba 服务"
+
+#. translators: write progress stage
+#: src/SambaServer.pm:243
+msgid "Enable Samba services"
+msgstr "启用 Samba 服务"
+
+#. translators: write progress stage
+#: src/SambaServer.pm:245
+msgid "Write back-end settings"
+msgstr "写入后端设置"
+
+#. translators: write progress stage
+#: src/SambaServer.pm:247
+msgid "Write Samba accounts"
+msgstr "写入 Samba 帐户"
+
+#. translators: write progress stage
+#: src/SambaServer.pm:249
+msgid "Save firewall settings"
+msgstr "保存防火墙设置"
+
+#. translators: write progress step
+#: src/SambaServer.pm:252
+msgid "Writing global settings..."
+msgstr "正在写入全局设置..."
+
+#. translators: write progress step
+#: src/SambaServer.pm:254
+msgid "Disabling Samba services..."
+msgstr "正在禁用 Samba 服务..."
+
+#. translators: write progress step
+#: src/SambaServer.pm:256
+msgid "Enabling Samba services..."
+msgstr "正在启用 Samba 服务..."
+
+#. translators: write progress step
+#: src/SambaServer.pm:258
+msgid "Writing back-end settings..."
+msgstr "正在写入后端设置..."
+
+#. translators: write progress step
+#: src/SambaServer.pm:260
+msgid "Writing Samba accounts..."
+msgstr "正在写入 Samba 帐户..."
+
+#. translators: write progress step
+#: src/SambaServer.pm:262
+msgid "Saving firewall settings..."
+msgstr "正在保存防火墙设置..."
+
+#. /etc/samba/smb.conf is filename
+#: src/SambaServer.pm:288
+msgid "Cannot write settings to /etc/samba/smb.conf."
+msgstr "无法将设置写入 /etc/samba/smb.conf。"
+
+#. summary item: configured workgroup/domain
+#: src/SambaServer.pm:385
+msgid "Global Configuration:"
+msgstr "全局配置："
+
+#: src/SambaServer.pm:387
+#, perl-format
+msgid "Workgroup or Domain: %s"
+msgstr "工作组或域：%s"
+
+#. summary item: selected role for the samba server
+#: src/SambaServer.pm:391
+#, perl-format
+msgid "Role: %s"
+msgstr "角色：%s"
+
+#. summary item: status of the samba service
+#: src/SambaServer.pm:394
+msgid "Samba server is disabled"
+msgstr "Samba 服务器已禁用"
+
+#. summary heading: configured shares
+#: src/SambaServer.pm:398
+msgid "Share Configuration:"
+msgstr "共享配置："
+
+#. summary item: no configured shares
+#: src/SambaServer.pm:404
+msgid "None"
+msgstr "无"
+
+#. TRANSLATORS: a popup message
+#: src/complex.ycp:88
+msgid ""
+"Because users are currently connected to this Samba server,\n"
+"the server configuration has been reloaded instead of restarted.\n"
+"To confirm that all settings are applied despite possibly disconnecting the users,\n"
+"run '/etc/init.d/smb restart' and '/etc/init.d/nmb restart'"
+msgstr ""
+"由于用户当前连接到了此 Samba 服务器上，所以该\n"
+"服务器配置已重新装载而不是重新启动。\n"
+"要确认所有的配置都适用(不论是否与用户断开连接)，\n"
+"请运行\"/etc/init.d/smb restart\"和\"/etc/init.d/nmb restart\""
+
+#. table entry description for smbpasswd-based SAM
+#: src/dialogs-items.ycp:129
+msgid "smbpasswd file"
+msgstr "smbpasswd 文件"
+
+#. table entry description for LDAP-based SAM
+#. translators: passdb backend radio button
+#: src/dialogs-items.ycp:138 src/dialogs-items.ycp:566
+msgid "LDAP"
+msgstr "LDAP"
+
+#. table entry description for TDB-based SAM
+#: src/dialogs-items.ycp:149
+msgid "TDB database"
+msgstr "TDB 数据库"
+
+#. TRANSLATORS: popup error
+#: src/dialogs-items.ycp:221
+msgid "Optional value must not begin with a space character."
+msgstr "可选值不能以空格字符开头。"
+
+#. TRANSLATORS: popup error
+#: src/dialogs-items.ycp:238
+msgid "Multiple optional values for one backend must be quoted."
+msgstr "一个后端的多可选值必须被引号包含。"
+
+#. TRANSLATORS: popup error, %1 is replaced with some URL
+#: src/dialogs-items.ycp:249 src/dialogs-items.ycp:257
+#, ycp-format
+msgid "The entered URL '%1' is invalid"
+msgstr "输入的 URL '%1' 无效。"
+
+#. message popup
+#: src/dialogs-items.ycp:320 src/dialogs-items.ycp:388
+msgid "Delete the selected entry?"
+msgstr "是否删除所选项？"
+
+#: src/dialogs-items.ycp:476
+msgid "At least one backend must be specified."
+msgstr "必须至少指定一个后端。"
+
+#. if (size (passdb_backends) == 1)
+#. {
+#. // error message if user tries to delete the last passdb backend
+#. Report::Error (_("At least one back-end must be specified.
+#.
+#. The back-end cannot be deleted.
+#. "));
+#. return false;
+#. }
+#. message popup
+#: src/dialogs-items.ycp:544
+msgid "Delete the selected back-end?"
+msgstr "是否删除所选后端？"
+
+#. translators: frame text when adding a passdb backend
+#: src/dialogs-items.ycp:560
+msgid "Back-End Type"
+msgstr "后端类型"
+
+#. translators: passdb backend radio button
+#: src/dialogs-items.ycp:564
+msgid "smbpasswd File"
+msgstr "smbpasswd 文件"
+
+#. translators: passdb backend radio button
+#: src/dialogs-items.ycp:568
+msgid "TDB Database"
+msgstr "TDB 数据库"
+
+#. translators: textentry label to enter details for the selected passdb backend
+#: src/dialogs-items.ycp:574
+msgid "&Details"
+msgstr "细节(&D)"
+
+#. translators: error message, if the MySQL backend 
+#. is selected, but no details are entered
+#: src/dialogs-items.ycp:620
+msgid ""
+"An identifier must be provided\n"
+"in details \n"
+"for the MySQL passdb back-end.\n"
+"\n"
+"Consult the Samba HOWTO collection for\n"
+"further information.\n"
+msgstr ""
+"必须为 MySQL passdb 后端\n"
+"提供一个详细的\n"
+"标识符。\n"
+"\n"
+"有关详细信息，\n"
+"请参见《Samba HOWTO文集》。\n"
+
+#: src/dialogs.ycp:67
+msgid "&Primary Domain Controller (PDC)"
+msgstr "主域控制器 (PDC)(&P)"
+
+#: src/dialogs.ycp:68
+msgid "B&ackup Domain Controller (BDC)"
+msgstr "备份域控制器 (BDC)(&A)"
+
+#: src/dialogs.ycp:69
+msgid "Not a Domain &Controller"
+msgstr "无域控制器(&C)"
+
+#. translators: share status
+#: src/dialogs.ycp:84 src/samba-server.ycp:147 src/samba-server.ycp:160
+msgid "Enabled"
+msgstr "已启用"
+
+#. translators: share status
+#: src/dialogs.ycp:84 src/samba-server.ycp:145 src/samba-server.ycp:158
+msgid "Disabled"
+msgstr "已禁用"
+
+#. Samba LDAP Settings Misc Widget
+#. /////////////////////////////////////////////////////////////////////////
+#. translators: combo box value
+#: src/dialogs.ycp:87 src/ldap-widget.ycp:493
+msgid "Yes"
+msgstr "是"
+
+#. Samba LDAP Settings Security Widget
+#. /////////////////////////////////////////////////////////////////////////
+#. translators: combo box value
+#: src/dialogs.ycp:87 src/ldap-widget.ycp:458 src/ldap-widget.ycp:495
+msgid "No"
+msgstr "否"
+
+#: src/dialogs.ycp:102 src/dialogs.ycp:157
+msgid "Samba Installation"
+msgstr "Samba 安装"
+
+#: src/dialogs.ycp:102
+msgid "Step 1 of 2"
+msgstr "步骤 1(共 2 步)"
+
+#. `ComboBox ( `id( "workgroups" ), `opt( `editable ), _("&Workgroup or Domain Name"), workgroups )
+#. TRANSLATORS: text entry
+#. `ComboBox(`id("workgroup_domainname"), `opt(`editable, `hstretch), _("&Workgroup or Domain Name"),
+#. SambaNmbLookup::GetAvailableNeighbours(nil)),
+#: src/dialogs.ycp:119 src/dialogs.ycp:886
+msgid "&Workgroup or Domain Name"
+msgstr "工作组名或域名(&W)"
+
+#: src/dialogs.ycp:157
+msgid "Step 2 of 2"
+msgstr "步骤 2(共 2 步)"
+
+#. header of status-like information. followed by domain name
+#: src/dialogs.ycp:165
+msgid "Current Domain Name:"
+msgstr "当前域名："
+
+#: src/dialogs.ycp:167
+msgid "Samba Server Type"
+msgstr "Samba 服务器类型"
+
+#. appears on new line after Primary Domain Controller radio button
+#: src/dialogs.ycp:174
+msgid "Not available because a PDC is present."
+msgstr "由于已存在主域控制器，所以不可用。"
+
+#. TRANSLATORS: dialog caption
+#: src/dialogs.ycp:416
+msgid "Rename Share"
+msgstr "重命名共享"
+
+#. TRANSLATORS: text entry
+#: src/dialogs.ycp:421
+msgid "New Share &Name"
+msgstr "新共享名(&N)"
+
+#. TRANSLATORS: popup error message
+#: src/dialogs.ycp:445
+msgid "Enter a new share name."
+msgstr "请输入新共享名。"
+
+#: src/dialogs.ycp:453
+#, ycp-format
+msgid ""
+"Share '%1' already exists.\n"
+"Choose another share name.\n"
+msgstr ""
+"共享\"%1\"已存在。\n"
+"请输入其它共享名称。\n"
+
+#. confirmation dialog before deleting a share
+#: src/dialogs.ycp:532
+#, ycp-format
+msgid ""
+"If you delete share %1,\n"
+"all its settings will be lost.\n"
+"Really delete it?"
+msgstr ""
+"如果您删除共享 %1，\n"
+"则其所有设置都将丢失。\n"
+"确实要删除吗？"
+
+#: src/dialogs.ycp:557
+msgid "Trusted &Domain"
+msgstr "可信域(&D)"
+
+#. text entry label
+#: src/dialogs.ycp:558 src/dialogs.ycp:1232
+msgid "&Password"
+msgstr "密码(&P)"
+
+#: src/dialogs.ycp:581
+msgid "Domain name cannot be empty."
+msgstr "域名不能为空。"
+
+#: src/dialogs.ycp:587
+msgid "Cannot establish trusted domain relationship."
+msgstr "无法建立可信域关系。"
+
+#. issue a warning, if not already done so
+#: src/dialogs.ycp:605
+msgid ""
+"The password for trusted domains\n"
+"is stored in the autoinstallation control file. The password\n"
+"is stored as plain text. This can be considered\n"
+"a security threat."
+msgstr ""
+"可信域的密码\n"
+"存储在自动安装控制文件中。该密码\n"
+"将以明文形式存储。因此可被视为\n"
+"一个安全隐患。"
+
+#: src/dialogs.ycp:622 src/dialogs.ycp:901 src/dialogs.ycp:992
+msgid "&Trusted Domains"
+msgstr "可信域(&T)"
+
+#. confirmation
+#: src/dialogs.ycp:639
+#, ycp-format
+msgid ""
+"Really abandon trust relationship\n"
+"to trusted domain %1?"
+msgstr ""
+"确实要放弃\n"
+"与可信域 %1 的可信关系吗？"
+
+#. dialog caption
+#: src/dialogs.ycp:663
+#, ycp-format
+msgid "Share %1"
+msgstr "共享 %1"
+
+#. dialog caption
+#: src/dialogs.ycp:685
+msgid "Expert Global Settings Configuration"
+msgstr "专家全局设置配置"
+
+#: src/dialogs.ycp:711
+msgid "Identification"
+msgstr "标识"
+
+#: src/dialogs.ycp:712
+msgid "Share &Name"
+msgstr "共享名(&N)"
+
+#: src/dialogs.ycp:713
+msgid "Share &Description"
+msgstr "共享描述(&D)"
+
+#: src/dialogs.ycp:714
+msgid "Share Type"
+msgstr "共享类型"
+
+#: src/dialogs.ycp:718
+msgid "&Printer"
+msgstr "打印机(&P)"
+
+#: src/dialogs.ycp:719
+msgid "&Directory"
+msgstr "目录(&D)"
+
+#. translators: text entry label
+#: src/dialogs.ycp:722
+msgid "Share &Path"
+msgstr "共享路径(&P)"
+
+#. translators: checkbox label, setting for share
+#: src/dialogs.ycp:726
+msgid "&Read-Only"
+msgstr "只读(&R)"
+
+#: src/dialogs.ycp:727
+msgid "&Inherit ACLs"
+msgstr "继承访问控制列表(&I)"
+
+#. translators: dialog caption
+#: src/dialogs.ycp:731
+msgid "New Share"
+msgstr "新建共享"
+
+#: src/dialogs.ycp:762
+msgid "Path for a Share"
+msgstr "共享的路径"
+
+#. translators: error message
+#: src/dialogs.ycp:779
+msgid "Share name cannot be empty."
+msgstr "共享名不能为空。"
+
+#. translators: error message
+#: src/dialogs.ycp:784
+msgid "Share path cannot be empty."
+msgstr "共享路径不能为空。"
+
+#. translators: popup error message for "add share", %1 is share name
+#. translators: error message for "add share" command line action, %1 is share name
+#: src/dialogs.ycp:815 src/samba-server.ycp:101
+#, ycp-format
+msgid "Share %1 already exists."
+msgstr "共享 %1 已存在。"
+
+#: src/dialogs.ycp:832
+msgid "Available Shares"
+msgstr "可用的共享"
+
+#: src/dialogs.ycp:834
+msgid "&Filter"
+msgstr "过滤器(&F)"
+
+#: src/dialogs.ycp:835
+msgid "Show &All Shares"
+msgstr "显示所有共享(&A)"
+
+#: src/dialogs.ycp:836
+msgid "Do Not Show &System Shares"
+msgstr "不显示系统共享(&S)"
+
+#. translators: table header texts
+#: src/dialogs.ycp:838
+msgid "Status"
+msgstr "状态"
+
+#: src/dialogs.ycp:838
+msgid "Read-Only"
+msgstr "只读"
+
+#: src/dialogs.ycp:838
+msgid "Name"
+msgstr "名称"
+
+#: src/dialogs.ycp:838
+msgid "Path"
+msgstr "路径"
+
+#: src/dialogs.ycp:838
+msgid "Comment"
+msgstr "注释"
+
+#: src/dialogs.ycp:844
+msgid "&Rename..."
+msgstr "重命名(&R)..."
+
+#: src/dialogs.ycp:845
+msgid "&Toggle Status"
+msgstr "转换状态(&T)"
+
+#: src/dialogs.ycp:856
+msgid "WINS Server Support"
+msgstr "WINS 服务器支持"
+
+#: src/dialogs.ycp:857
+msgid "Remote WINS Server"
+msgstr "远程 WINS 服务器"
+
+#: src/dialogs.ycp:860
+msgid "Na&me"
+msgstr "名称(&M)"
+
+#. TRANSLATORS: check box
+#: src/dialogs.ycp:869
+msgid "Use WINS for Hostname Resolution"
+msgstr "使用 WINS 解析主机名"
+
+#. translators: combobox item
+#: src/dialogs.ycp:873
+msgid "Not a DC"
+msgstr "无域控制器"
+
+#. translators: combobox item
+#: src/dialogs.ycp:875
+msgid "Primary (PDC)"
+msgstr "主域控制器 (PDC)"
+
+#. translators: combobox item
+#: src/dialogs.ycp:879
+msgid "Backup (BDC)"
+msgstr "备份域控制器 (BDC)"
+
+#: src/dialogs.ycp:881
+msgid "Base Settings"
+msgstr "基本设置"
+
+#. translators: combobox label
+#: src/dialogs.ycp:888
+msgid "Domain &Controller"
+msgstr "域控制器(&C)"
+
+#: src/dialogs.ycp:893
+msgid "Advanced Settings..."
+msgstr "高级设置..."
+
+#: src/dialogs.ycp:894
+msgid "&Expert Global Settings"
+msgstr "专家全局设置(&E)"
+
+#: src/dialogs.ycp:895
+msgid "&User Authentication Sources"
+msgstr "用户身份验证源(&U)"
+
+#: src/dialogs.ycp:909
+msgid "Samba Configuration"
+msgstr "Samba 配置"
+
+#. tab label
+#: src/dialogs.ycp:914
+msgid "Start-&Up"
+msgstr "启动(&U)"
+
+#: src/dialogs.ycp:921
+msgid "Firewall Settings"
+msgstr "防火墙设置"
+
+#: src/dialogs.ycp:927
+msgid "&Shares"
+msgstr "共享(&S)"
+
+#: src/dialogs.ycp:950
+msgid "I&dentity"
+msgstr "标识(&D)"
+
+#: src/dialogs.ycp:964
+msgid "WINS"
+msgstr "WINS"
+
+#: src/dialogs.ycp:997
+msgid "&LDAP Settings"
+msgstr "LDAP 设置(&L)"
+
+#: src/dialogs.ycp:1057
+msgid "NetBIOS &Hostname"
+msgstr "NetBIOS 主机名(&H)"
+
+#. dialog caption
+#: src/dialogs.ycp:1113
+msgid "User Information Sources"
+msgstr "用户信息源"
+
+#: src/dialogs.ycp:1156
+msgid ""
+"For a proper function, Samba server needs an\n"
+"administrative account (root).\n"
+"It will be created now."
+msgstr ""
+"要正常运行，Samba 服务器需要一个\n"
+"管理帐户 (root)。\n"
+"此帐户将会立即创建。"
+
+#: src/dialogs.ycp:1157
+msgid "Samba root &Password"
+msgstr "Samba root 密码(&P)"
+
+#: src/dialogs.ycp:1158
+msgid "&Verify Password"
+msgstr "校验密码(&V)"
+
+#. TRANSLATORS: popup error message
+#: src/dialogs.ycp:1174
+msgid ""
+"The first and the second version\n"
+"of the password do not match."
+msgstr ""
+"两次输入的密码\n"
+"不相同。"
+
+#. TRANSLATORS: popup error message, %1 is a username
+#: src/dialogs.ycp:1187
+#, ycp-format
+msgid "Cannot create account for user %1."
+msgstr "无法为用户 %1 创建帐户。"
+
+#. translators: popup to fill in the domain joining info; %1 is the domain name
+#: src/dialogs.ycp:1227
+#, ycp-format
+msgid ""
+"Enter the username and the password\n"
+"for joining the domain %1."
+msgstr ""
+"输入用户名和密码\n"
+"加入域 %1。"
+
+#: src/dialogs.ycp:1228
+msgid ""
+"To join the domain anonymously, leave the\n"
+"text entries empty."
+msgstr ""
+"要以匿名方式加入域，无需输入\n"
+"任何文本。"
+
+#. text entry label
+#: src/dialogs.ycp:1230
+msgid "&Username"
+msgstr "用户名(&U)"
+
+#. translators: button label to skip joining to domain
+#: src/dialogs.ycp:1235
+msgid "Do &Not Join"
+msgstr "不加入(&N)"
+
+#. Translators: Information popup, %1 is the name of the domain
+#: src/dialogs.ycp:1259
+#, ycp-format
+msgid "Domain %1 joined successfully."
+msgstr "成功加入域 %1。"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:41
+msgid ""
+"<p><b><big>Initializing Samba Server Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在初始化 Samba 服务器配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:46
+msgid ""
+"<p><b><big>Aborting Initialization</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>正在中止初始化</big></b><br>\n"
+"可以按<b>中止</b>立即安全地中止配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:51
+msgid ""
+"<p><b><big>Saving Samba Server Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在保存 Samba 服务器配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:56
+msgid ""
+"<p><b><big>Aborting Saving</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog will inform you whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在中止保存</big></b><br>\n"
+"按<b>中止</b>中止该保存过程。\n"
+"另一个对话框将指示这样操作是否安全。\n"
+"</p>\n"
+
+#. Samba selecting workgroup or domain 1/1 - Installation step 1
+#: src/helps.ycp:63
+msgid ""
+"<p><b><big>Workgroup or Domain Selection</big></b><br>\n"
+"Select existing name of workgroup or domain or type your own new name and click <b>Next</b>.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>工作组或域选择</big></b><br>\n"
+"选择已有的工作组名或域名，或输入新的名称，然后单击<b>下一步</b>。\n"
+"</p>\n"
+
+#. Samba select Samba Server type - Installation step 2
+#: src/helps.ycp:69
+msgid ""
+"<p><b><big>Samba Server Type</big></b></p>\n"
+"<p>A domain controller allows Windows clients to log in to a Windows domain.</p>\n"
+"<p>The backup controller uses another domain controller for validation.\n"
+"The primary controller uses its own information about users and their passwords.</p>\n"
+"<p>The options available in the configuration dialogs depend on the settings in this selection.</p>"
+msgstr ""
+"<p><b><big>Samba 服务器类型</big></b></p>\n"
+"<p>域控制器允许 Windows 客户机登录到 Windows 域。</p>\n"
+"<p>备份控制器使用另一个域控制器来进行校验。\n"
+"主控制器使用有关用户及其密码的自身信息。</p>\n"
+"<p>配置对话框中的可用选项取决于此选择中的设置。</p>"
+
+#. Samba select Samba Server type - Installation step 2
+#: src/helps.ycp:76
+msgid ""
+"<p><b><big>Samba Server Type</big></b></p>\n"
+"<p>A domain controller allows Windows clients to log in to a Windows domain.</p>\n"
+"<p>The options available in the configuration dialogs \n"
+"depend on the settings in this selection.</p>"
+msgstr ""
+"<p><b><big>Samba 服务器类型</big></b></p>\n"
+"<p>域控制器允许 Windows 客户机登录到 Windows 域。</p>\n"
+"<p>配置对话框中的可用选项\n"
+"取决于此选择中的设置。</p>"
+
+#. Share list dialog help 1/4
+#: src/helps.ycp:82
+msgid "<p><b><big>Shares</big></b></p>"
+msgstr "<p><b><big>共享</big></b></p>"
+
+#: src/helps.ycp:83
+msgid ""
+"<p>This is a list of already configured shares, whether they \n"
+"are enabled or disabled, and some basic information about them.<br></p>"
+msgstr ""
+"<p>这是一个已配置的共享的列表，\n"
+"(包括已启用或已禁用的共享)以及有关这些共享的一些基本信息。<br></p>"
+
+#. Share list dialog help 2/4
+#: src/helps.ycp:87
+msgid ""
+"<p>A share can be enabled or disabled.\n"
+"A disabled share is not accessible, but its\n"
+"configuration is still written into the configuration file.\n"
+"So the share can be later enabled again.\n"
+"</p>"
+msgstr ""
+"<p>可以启用或禁用共享。\n"
+"不能访问禁用的共享，但仍将它的\n"
+"配置写入配置文件。\n"
+"以便以后可以再次启用这些共享。\n"
+"</p>"
+
+#. Share list dialog help 3/4
+#: src/helps.ycp:94
+msgid ""
+"<p>Some of the shares are special. For example, the share\n"
+"Homes is a special system share for accessing home directories\n"
+"of users. The system shares can be hidden from the table\n"
+"by selecting <b>Do Not Show System Shares</b> in the <b>Filter</b>\n"
+"menu.</p>\n"
+msgstr ""
+"<p>有些共享比较特殊。例如，共享\n"
+"Homes 就是一个特殊的系统共享，用于访问用户的\n"
+"主目录。从该表可以隐藏系统共享，\n"
+"只需选择<b>过滤器</b>菜单中的<b>不显示系统共享</b>\n"
+"即可。</p>\n"
+
+#. Share list dialog help 4/4
+#: src/helps.ycp:102
+msgid ""
+"<p>Use <b>Add</b> to add a new share, <b>Edit</b> to modify\n"
+"already existing share, and <b>Delete</b> to \n"
+"remove the information about a share.</p>\n"
+msgstr ""
+"<p><b>添加</b>用于添加新共享，<b>编辑</b>用于修改\n"
+"已经存在的共享，<b>删除</b>用于\n"
+"删除有关某共享的信息。</p>\n"
+
+#. Identity dialog help 1/5
+#: src/helps.ycp:108
+msgid ""
+"<p><b><big>Identity</big></b><br>\n"
+"These options allow setup of the identity of the server and its\n"
+"primary role in the network.</p>\n"
+msgstr ""
+"<p><b><big>标识</big></b><br>\n"
+"这些选项用于设置服务器的标识及其\n"
+"在网络中的主要角色。</p>\n"
+
+#. Samba role dialog help 2/5
+#: src/helps.ycp:114
+msgid ""
+"<p>The base settings set up the domain and the\n"
+"server role. <b>Backup Domain Controller</b> and <b>Primary Domain Controller</b> allow Windows clients to log in to a Windows domain. The backup controller \n"
+"uses another domain controller for validation. The primary controller\n"
+"uses its own information about users and their passwords.\n"
+"If the server should not participate as a domain controller, choose the\n"
+"<b>Not a DC</b> value.</p>\n"
+msgstr ""
+"<p>基本设置设置域和\n"
+"服务器角色。<b>备份域控制器</b>和<b>主域控制器</b>允许 Windows 客户机登录到 Windows 域。备份控制器\n"
+"使用另一个域控制器来进行校验。主控制器\n"
+"使用自己存储的用户和用户密码信息。\n"
+"如果服务器不应作为域控制器加入，请选择值\n"
+"<b>无域控制器</b>。</p>\n"
+
+#. Samba role dialog help 2/5
+#: src/helps.ycp:123
+msgid ""
+"<p>The <b>Base Settings</b> set up the domain and the\n"
+"server role. <b>Primary Domain Controller</b> allows Windows clients\n"
+"to log in to a Windows domain. If the server should not participate\n"
+"as a domain controller, choose <b>Not a DC</b>.</p>\n"
+msgstr ""
+"<p><b>基本设置</b>设置域和\n"
+"服务器角色。<b>主域控制器</b>允许 Windows 客户机\n"
+"登录到 Windows 域。如果服务器不应作为域控制器\n"
+"加入，请选择<b>无域控制器</b>。</p>\n"
+
+#. Samba role dialog help 3/5
+#: src/helps.ycp:130
+msgid ""
+"<p><b>WINS</b> is a network protocol for mapping low-level\n"
+"network identification of a host (for example, IP address) to\n"
+"a NetBIOS name. The Samba server can be a \n"
+"WINS server or can use another server for its\n"
+"queries. In the latter case, choose <b>Remote WINS Server</b>\n"
+"and enter the IP address of the WINS server.</p>\n"
+msgstr ""
+"<p><b>WINS</b>是一种用于将主机的低级\n"
+"网络标识(例如 IP 地址)映射\n"
+"到 NetBIOS 名称的网络协议。Samba 服务器可以是一台 \n"
+"WINS 服务器，也可以使用另一台服务器\n"
+"来执行其查询。如果是后者，请选择<b>远程 WINS 服务器</b>\n"
+"并输入该 WIN 服务器的 IP 地址。</p>\n"
+
+#. Samba role dialog help 4/5
+#: src/helps.ycp:139
+msgid ""
+"<p>Optionally, set a <b>Server NetBIOS Name</b>. The\n"
+"NetBIOS name is the name the server uses in the SMB network.</p>"
+msgstr ""
+"<p>(可选)设置<b>服务器 NetBIOS 名称</b>。\n"
+"NetBIOS 名称就是服务器在 SMB 网络中使用的名称。</p>"
+
+#. Samba role dialog help 5/5
+#: src/helps.ycp:143
+msgid ""
+"<p><b>Advanced Settings</b> provides access to \n"
+"detailed configuration, user authentication sources, and expert global settings.</p>\n"
+msgstr "<p><b>高级设置</b>允许访问详细配置，用户身份验证源和专家全局设置。</p>\n"
+
+#: src/helps.ycp:147
+msgid ""
+"<p><b><big>Trusted Domains</big></b><br>\n"
+"NT-style trusted domains represent a possibility to assign\n"
+"access rights to users from another domain.\n"
+"Here, create a list of domains for which \n"
+"the Samba server should provide access.</p>\n"
+msgstr ""
+"<p><b><big>可信域</big></b><br>\n"
+"NT 式可信域意味着能够将\n"
+"访问权限指派给其它域中的用户。\n"
+"您可以在此创建一个域的列表，列出\n"
+"Samba 服务器将向其提供访问权限的域。</p>\n"
+
+#: src/helps.ycp:154
+msgid ""
+"<p>To add a new domain into the list, press <b>Add</b>.\n"
+"Enter the name of the domain to trust\n"
+"and a password in the dialog that opens. The password is used by the Samba\n"
+"server to access the trusted domain. After <b>OK</b> is pressed,\n"
+"the trust relationship is established. To delete a domain,\n"
+"choose it in the list and press <b>Delete</b>.</p>\n"
+msgstr ""
+"<p>要在该列表中添加新的域，请按<b>添加</b>。\n"
+"在随即打开的对话框中输入要信任的域的名称\n"
+"以及密码。Samba 服务器使用该密码\n"
+"来访问该可信域。按下<b>确认</b>后，\n"
+"建立可信关系。要删除某域，\n"
+"请在列表中选中它，然后按<b>删除</b>。</p>\n"
+
+#: src/helps.ycp:162
+msgid ""
+"<p>For more details about how trusted domains work,\n"
+"see the Samba HOWTO collection.</p>\n"
+msgstr ""
+"<p>有关可信域如何工作的详细信息，\n"
+"请参见《Samba HOWTO 文集》。</p>\n"
+
+#. Single share editing dialog help 1/2
+#: src/helps.ycp:167
+msgid ""
+"<p><b><big>Edit a Share</big></b><br>\n"
+"Here, fine-tune the options of a share.</p>\n"
+msgstr ""
+"<p><b><big>编辑单个共享</big></b><br>\n"
+"在此，调整某共享的选项。</p>\n"
+
+#. Single share editing dialog help 2/2
+#: src/helps.ycp:172
+msgid ""
+"<p>Use <b>Add</b> to add a new configuration option, <b>Edit</b> to modify\n"
+"an existing option, and <b>Delete</b> to delete an option.</p>\n"
+msgstr ""
+"<p><b>添加</b>可用于添加新的配置选项，<b>编辑</b>可用于修改\n"
+"存在的选项，<b>删除</b>可用于删除选项。</p>\n"
+
+#. Global settings editing dialog help 1/2
+#: src/helps.ycp:177
+msgid ""
+"<p><b><big>Expert Global Settings Configuration</big></b><br>\n"
+"Here, fine-tune the global options of the server.</p>\n"
+msgstr ""
+"<p><b><big>专家全局设置配置</big></b><br>\n"
+"在此，调整服务器的全局选项。</p>\n"
+
+#. Global settings editing dialog help 2/2
+#: src/helps.ycp:182
+msgid ""
+"<p>Use <b>Add</b> to add a new configuration option, <b>Edit</b> to modify\n"
+"already existing option, and <b>Delete</b> to delete an option.</p>\n"
+msgstr ""
+"<p><b>添加</b>可用于添加新的配置选项，<b>编辑</b>可用于修改\n"
+"已存在的选项，<b>删除</b>可用于删除选项。</p>\n"
+
+#. Advanced SAMBA configuration dialog help 1/3
+#: src/helps.ycp:187
+msgid ""
+"<p><b><big>LDAP Samba Server Options</big></b><br>\n"
+"Here, set up details about use of LDAP by the Samba\n"
+"server.</p>\n"
+msgstr ""
+"<p><b><big>LDAP Samba 服务器选项</big></b><br>\n"
+"在此，设置 Samba 服务器使用 LDAP 的\n"
+"细节。</p>\n"
+
+#. Advanced SAMBA configuration dialog help 2/3
+#: src/helps.ycp:193
+msgid ""
+"<p><b>Search Base DN</b> (distinguished name) is\n"
+"the base at which to start searching the information. <b>Administration DN</b> is used when\n"
+"creating new users and groups. If the administration DN requires\n"
+"a password for write access, set the password using\n"
+"<b>Set LDAP Administration Password</b>.</p>\n"
+msgstr ""
+"<p><b>搜索基础判别名</b>(判别名)是\n"
+"开始搜索信息的基础。<b>管理判别名</b> 在\n"
+"创建新用户和组时要用到。如果管理判别名要求\n"
+"设置写权限密码，请使用\n"
+"<b>设置 LDAP 管理密码</b>设置该密码。</p>\n"
+
+#. Advanced SAMBA configuration dialog help 3/3
+#: src/helps.ycp:201
+msgid "<p><b>Note:</b> Settings are saved before the LDAP administration password is set.</p>\n"
+msgstr "<p><b>注意：</b> 请先保存设置，然后设置 LDAP 管理密码。</p>\n"
+
+#. passdb backend configuration dialog help 1
+#: src/helps.ycp:205
+msgid ""
+"<p><b><big>User Authentication Information Backends</big></b><br>\n"
+"Choose where the Samba server should look for the authentication\n"
+"information. Samba does not support multiple backends at once anymore,\n"
+"only one is allowed.</p>\n"
+msgstr ""
+"<p><b><big>用户身份验证信息后端</big></b><br>\n"
+"在此选择 Samba 服务器应从何处查找身份验证信息。\n"
+"Samba 不再立即支持多种后端类型，仅仅允许一个\n"
+"类型。</p>\n"
+
+#. passdb backend configuration dialog help 2
+#: src/helps.ycp:212
+msgid ""
+"<p>If you want to change the user authentication source, remove the current one first\n"
+"by pressing <b>Delete</b> and add a new one with <b>Add</b>.</p>\n"
+msgstr "<p>如果您想要变更用户验证源，请先按 <b>删除</b> 移除当前用户验证源并使用 <b>添加</b> 添加一个新的。</p>\n"
+
+#. passdb backend configuration dialog help 3
+#: src/helps.ycp:217
+msgid ""
+"<p><b>smbpasswd file</b> is the file using the same format as\n"
+"the previous versions of Samba. Its layout is similar to the\n"
+"passwd file. It is possible to have a multiple files in this \n"
+"format.</p>\n"
+msgstr ""
+"<p><b>smbpasswd 文件</b>使用与以前版本的 Samba 相同的\n"
+"格式。其布局类似于\n"
+"passwd 文件。可能存在多个此格式的\n"
+"文件。</p>\n"
+
+#. passdb backend configuration dialog help 4
+#: src/helps.ycp:223
+msgid ""
+"<p><b>LDAP</b> is a URL of an LDAP server to check for\n"
+"the information.</p>\n"
+msgstr ""
+"<p><b>LDAP</b> 是用于检查信息的 LDAP 服务器\n"
+"的 URL。</p>\n"
+
+#. passdb backend configuration dialog help 5
+#: src/helps.ycp:227
+msgid ""
+"<p><b>TDB database</b> uses an internal Samba database binary format\n"
+"to store and look up the information.</p>\n"
+msgstr ""
+"<p><b>TDB 数据库</b>使用内部 Samba 数据库二进制格式\n"
+"来存储和查找信息。</p>\n"
+
+#. we don't seem to support mysql anymore
+#. /* passdb backend configuration dialog help 5/7 */
+#. _("<p><b>MySQL database</b> uses an external MySQL database to 
+#. to store and look up the information.</p>
+#. ") +
+#. not in UI anymore
+#. passdb backend configuration dialog help 6/7
+#. _("<p>Use <b>Add</b> to add a new configuration option, <b>Edit</b> to modify
+#. an existing option, and <b>Delete</b> to delete an option.
+#. Use <b>Up</b> and <b>Down</b> to change the order
+#. of the back-ends.</p>
+#. "),
+#. no such button there
+#. /* passdb backend configuration dialog help 7/7 */
+#. _("<p>The <b>LDAP</b> button gives access to 
+#. details of an LDAP configuration and also allows 
+#. checking a connection to an LDAP server for the currently 
+#. selected LDAP back-end.</p>
+#. "),
+#. add new share dialog help 1/3
+#: src/helps.ycp:254
+msgid ""
+"<p><b><big>Add a New Share</big></b><br>\n"
+"Here, enter the basic information about a share to add.</p>\n"
+msgstr ""
+"<p><b><big>添加新共享</big></b><br>\n"
+"在此，输入要添加的共享的基本信息。</p>\n"
+
+#. add new share dialog help 2/3
+#: src/helps.ycp:259
+msgid ""
+"<p><b>Share Name</b> is used for accessing\n"
+"the share from clients. <b>Share Description</b> describes the\n"
+"purpose of the share.</p>"
+msgstr ""
+"<p><b>共享名</b>用于从客户机访问\n"
+"共享。<b>共享描述</b>介绍\n"
+"共享的用途。</p>"
+
+#. add new share dialog help 3/3
+#: src/helps.ycp:264
+msgid ""
+"<p>There are two types of shares. A <b>Printer</b> share\n"
+"is presented as a printer to clients. A <b>Directory</b> share \n"
+"is presented as a network disk. <b>Share Path</b> must be\n"
+"entered for a directory share.</p>\n"
+msgstr ""
+"<p>共享类型有两种。<b>打印机</b>共享\n"
+"以打印机的形式显示给客户机。<b>目录</b>共享\n"
+"显示为网络磁盘。对于目录共享，必须\n"
+"输入<b>共享路径</b>。</p>\n"
+
+#. add new share dialog help 4/3
+#: src/helps.ycp:270
+msgid ""
+"<p>If <b>Read-Only</b> is checked, users\n"
+"of a service may not create or modify files in the service's\n"
+"directory.</p>\n"
+msgstr ""
+"<p>如果已选中<b>只读</b>，服务的用户\n"
+"可能无法创建或修改该服务目录下\n"
+"的文件。</p>\n"
+
+#: src/helps.ycp:275
+msgid ""
+"<p><b>Inherit ACLS</b> can be used to ensure\n"
+"that if default ACLs exist on parent directories, they are always\n"
+"honored when creating a subdirectory.</p>\n"
+msgstr ""
+"<p><b>继承访问控制列表</b> 可用于确保：\n"
+"如果父目录上存在默认访问控制列表，则当创建子目录时，总是尊重它们。</p>\n"
+
+#. help for LDAP Settings dialog
+#: src/helps.ycp:282
+msgid ""
+"<p><b><big>LDAP Settings</big></b><br>\n"
+"Here, determine the LDAP server to use for authentication.\n"
+"</p>\n"
+"<p>\n"
+"Setting <b>LDAP Password Back-End</b> allows storing user information in the LDAP tree specified by the URL. With <b>LDAP Idmap Back-End</b>, store SID/uid/gid mapping tables in LDAP.\n"
+"</p><p>\n"
+"In the Authentication section, set the credentials for the LDAP server, including full Administrator DN.\n"
+"</p>\n"
+"<b>Search Base DN</b> is the LDAP suffix appended to Samba-specific LDAP objects.\n"
+"</p><p>\n"
+"To test the connection to your LDAP server, click <b>Test Connection</b>. To set expert LDAP settings or use default values, click <b>Advanced Settings</b>.<p>"
+msgstr ""
+"<p><b><big>LDAP 设置</big></b><br>\n"
+"在此决定 LDAP 服务器是否使用验证。\n"
+"</p>\n"
+"<p>\n"
+"<b>LDAP 密码后端</b>设置允许在通过 URL 指定的 LDAP 树存储用户信息。使用 <b>LDAP ldmap 后端</b>可以在 LDAP 中存储 SID/uid/gid 映射表。\n"
+"</p><p>\n"
+"要测试 LDAP 服务器连接，点击 <b>测试连接</b>。要设置专家 LDAP 设置或使用默认值，点击 <b>高级设置</b>。</p>"
+
+#. help for SambaLDAPSettingsSuffixesWidget
+#: src/helps.ycp:295
+msgid "<p><b>User Suffix</b> specifies where users are added to the LDAP tree. The value is pre-pended to the value of <b>Search Base DN</b>. Similarly, <b>Group Suffix</b> specifies the place for groups, <b>Machine Suffix</b> for machines and <b>Idmap Suffix</b> for idmap mappings.</p>"
+msgstr "<p><b>用户后缀</b>指定是否添加用户到 LDAP 树。该值将附加到 <b>搜索基础判别名</b> 的值的后面。类似地，<b>组后缀</b>指定了组，<b>机器后缀</b>指定了机器名，<b>ldmap 后缀</b>指定了 idmap 映射的位置。</p>"
+
+#. help for SambaLDAPSettingsTimeoutsWidget
+#: src/helps.ycp:298
+msgid ""
+"<p><b>Replication Sleep</b> is the amount of milliseconds Samba will wait after writing to the LDAP server, so LDAP replicas can catch up.</p>\n"
+"<p><b>Time-Out</b> specifies the timeout for LDAP operations (in seconds).</p>"
+msgstr ""
+"<p><b>应答睡眠</>是在写入 LDAP 服务器后等待的毫秒数，以便 LDAP 副本可以及时同步。</p>\n"
+"<p><b>超时</b>指定了 LDAP 操作超时的秒数。</p>"
+
+#. help for SambaLDAPSettingsSecurityWidget
+#: src/helps.ycp:302
+msgid "<p>Define whether to use SSL for LDAP connection with <b>Use SSL or TLS</b>.</p>"
+msgstr "<p>使用<b>使用 SSL 或 TLS</b>定义是否为 LDAP 连接使用 SSL。</p>"
+
+#. help for SambaLDAPSettingsMiscWidget
+#: src/helps.ycp:305
+msgid ""
+"<p><b>Delete DN</b> specifies if the delete operation deletes the complete LDAP entry or only the Samba-specific attributes.</p>\n"
+"<p>With <b>Synchronize Passwords</b>, define possible synchronization of the LDAP password with the NT and LM hashes. See the <tt>smb.conf</tt> manual page for details.</p>"
+msgstr ""
+"<p><b>删除判别名</b>指定了删除操作是否删除完整的 LDAP 条目或只删除 Samba 相关的属性。</p>\n"
+"<p>通过<b>同步密码</b>，定义是否以 NT 和 LM 加密的方式同步 LDAP 密码。详情见 <tt>smb.conf</tt> 手册页面。</p>"
+
+#. translators: warning text
+#: src/helps.ycp:311
+msgid ""
+"If you change the NetBIOS Hostname, Samba creates a\n"
+"service identifier (SID) for your server with the first client\n"
+"connection.  Because the new SID is not equal to the old one, clients can\n"
+"no longer authenticate as domain members.\n"
+msgstr ""
+"如果您更改 NetBIOS 主机名，Samba 将\n"
+"为您的服务器与第一个客户机连接创建一个\n"
+"服务标识符 (SID)。由于新 SID 与旧标识符不同，所以客户机\n"
+"不再作为域成员进行身份验证。\n"
+
+#. translators: warning text
+#: src/helps.ycp:318
+msgid ""
+"Consider that /tmp and /var/tmp are publicly accessible\n"
+"directories and a scheduled clean job might remove files after a\n"
+"configured period. See MAX_DAYS_IN_TMP and TMP_DIRS_TO_CLEAR in\n"
+"/etc/sysconfig/cron.\n"
+msgstr ""
+"考虑到 /tmp 和 /var/tmp 是公共访问\n"
+"目录，预定的清理任务可能会在配置的时间后删除\n"
+"文件。请查看 /etc/sysconfig/cron 的\n"
+" MAX_DAYS_IN_TMP 和 TMP_DIRS_TO_CLEAR。\n"
+
+#. translators: warning text
+#: src/helps.ycp:325
+msgid ""
+"Exporting /var might lead to security problems. The\n"
+"directory includes many secrets of your system.\n"
+msgstr ""
+"导出 /var 可能会引发安全问题。\n"
+"该目录包含系统的许多机密。\n"
+
+#. translators: warning text
+#: src/helps.ycp:330
+msgid ""
+"Exporting /etc might lead to security problems. The\n"
+"directory includes many secrets of your system.\n"
+msgstr ""
+"导出 /etc 可能会引发安全问题。\n"
+"该目录包含系统的许多机密。\n"
+
+#: src/helps.ycp:337
+msgid ""
+"Exporting / might lead to security problems because it makes your\n"
+"entire file system browsable from Samba clients.\n"
+msgstr ""
+"导出 / 可能会引发安全问题，因为这会\n"
+"使 Samba 客户机能看到您的整个文件系统。\n"
+
+#: src/helps.ycp:341
+msgid ""
+"<p><b>Advanced Settings</b> provides access to \n"
+"detailed configuration, such as LDAP settings, user authentication sources, and\n"
+"expert global settings.</p>\n"
+msgstr ""
+"<p><b>高级设置</b>允许访问详细配置，\n"
+"如 LDAP 设置、用户身份验证源和\n"
+"专家全局设置。</p>\n"
+
+#. translators: popup warning message about empty text entry
+#: src/ldap-widget.ycp:119
+msgid "Enter the server URL."
+msgstr "输入服务器 URL。"
+
+#. translators: inform text
+#: src/ldap-widget.ycp:135 src/ldap-widget.ycp:205
+msgid "Passwords do not match."
+msgstr "密码不匹配。"
+
+#. translators: inform text
+#: src/ldap-widget.ycp:213
+msgid "Passwords match."
+msgstr "密码匹配。"
+
+#. translators: popup message
+#: src/ldap-widget.ycp:238 src/ldap-widget.ycp:255
+msgid ""
+"All current LDAP-related values will be rewritten.\n"
+"Continue?\n"
+msgstr ""
+"将覆盖所有当前与 LDAP 相关的值。\n"
+"是否继续？\n"
+
+#. translators: popup message
+#: src/ldap-widget.ycp:251
+msgid "Connection successful."
+msgstr "连接成功。"
+
+#. translators: text entry label
+#: src/ldap-widget.ycp:310
+msgid "&Search Base DN"
+msgstr "搜索基础判别名(&S)"
+
+#: src/ldap-widget.ycp:312
+msgid "Authentication"
+msgstr "验证"
+
+#. translators: text entry label
+#: src/ldap-widget.ycp:315
+msgid "&Administration DN"
+msgstr "管理判别名(&A)"
+
+#. TODO: if Mode::config() => no ask for pssword
+#. translators: password enrty label
+#: src/ldap-widget.ycp:321
+msgid "Administration &Password"
+msgstr "管理密码(&P)"
+
+#. translators: reenter password entry label
+#: src/ldap-widget.ycp:323
+msgid "Administration Password (A&gain)"
+msgstr "管理密码(再输一遍)(&G)"
+
+#. translators: frame title (passdb == password database)
+#: src/ldap-widget.ycp:332
+msgid "Passdb Back-End"
+msgstr "Passdb 后端"
+
+#. translators: check box label
+#: src/ldap-widget.ycp:334
+msgid "Use LDAP Password &Back-End"
+msgstr "使用 LDAP 密码后端(&B)"
+
+#. translators: text entry label
+#: src/ldap-widget.ycp:336
+msgid "LDAP Server &URL"
+msgstr "LDAP 服务器 URL(&U)"
+
+#. translators: frame title (idmap = user id mapping)
+#: src/ldap-widget.ycp:341
+msgid "Idmap Back-End"
+msgstr "Idmap 后端"
+
+#. translators: check box label
+#: src/ldap-widget.ycp:343
+msgid "Use LDAP &Idmap Back-End"
+msgstr "使用 LDAP Idmap 后端(&I)"
+
+#. translators: text entry label
+#: src/ldap-widget.ycp:345
+msgid "LDAP Server U&RL"
+msgstr "LDAP 服务器 URL(&R)"
+
+#: src/ldap-widget.ycp:361
+msgid "&Test Connection"
+msgstr "测试连接(&T)"
+
+#: src/ldap-widget.ycp:362
+msgid "Advanced &Settings..."
+msgstr "高级设置(&S)..."
+
+#. translators: dialog caption
+#: src/ldap-widget.ycp:363 src/ldap-widget.ycp:560
+msgid "Expert LDAP Settings"
+msgstr "专家 LDAP 设置"
+
+#: src/ldap-widget.ycp:364
+msgid "Default Values"
+msgstr "默认值"
+
+#. translators: frame label
+#: src/ldap-widget.ycp:402
+msgid "Suffixes"
+msgstr "后缀"
+
+#. translators: text entry label
+#: src/ldap-widget.ycp:404
+msgid "&User Suffix"
+msgstr "用户后缀(&U)"
+
+#. translators: text entry label
+#: src/ldap-widget.ycp:406
+msgid "&Group Suffix"
+msgstr "组后缀(&G)"
+
+#. translators: text entry label
+#: src/ldap-widget.ycp:408
+msgid "&Machine Suffix"
+msgstr "计算机后缀(&M)"
+
+#. translators: text entry label
+#: src/ldap-widget.ycp:410
+msgid "&Idmap Suffix"
+msgstr "Idmap 后缀(&I)"
+
+#. translators: frame label
+#: src/ldap-widget.ycp:439
+msgid "Time-Outs"
+msgstr "超时"
+
+#. translators: integer field label
+#: src/ldap-widget.ycp:441
+msgid "&Replication Sleep"
+msgstr "应答睡眠(&R)"
+
+#. translators: integer field label
+#: src/ldap-widget.ycp:443
+msgid "&Time-Out"
+msgstr "超时(&T)"
+
+#. translators: combo box value
+#: src/ldap-widget.ycp:460
+msgid "TLS"
+msgstr "TLS"
+
+#. translators: frame label
+#: src/ldap-widget.ycp:474
+msgid "Security"
+msgstr "安全"
+
+#. translators: combo box label
+#: src/ldap-widget.ycp:476
+msgid "&Use SSL or TLS"
+msgstr "使用 SSL 或 TLS(&U)"
+
+#. translators: combo box value (updata password? Yes/No/Only = Only update the LDAP password and let the LDAP server do the rest)
+#: src/ldap-widget.ycp:497
+msgid "Only"
+msgstr "仅"
+
+#. translators: frame label
+#: src/ldap-widget.ycp:515
+msgid "Other Settings"
+msgstr "其它设置"
+
+#. No such option, bug 169194
+#. translators: text entry label
+#. `Left(`TextEntry(`id("ldap filter"), _("Search &Filter"))),
+#. translators: combo box label
+#: src/ldap-widget.ycp:521
+msgid "&Delete DN"
+msgstr "删除判别名(&D)"
+
+#. translators: combo box label
+#: src/ldap-widget.ycp:524
+msgid "&Synchronize Passwords"
+msgstr "同步密码(&S)"
+
+#. translators: error message for share command line action
+#. must provide the share name
+#: src/samba-server.ycp:75
+msgid "Specify the share name."
+msgstr "指定共享名。"
+
+#. translators: error message for "share add" command line action, %1 is share name
+#: src/samba-server.ycp:81
+#, ycp-format
+msgid "The share %1 does not exist."
+msgstr "共享 %1 不存在。"
+
+#. translators: error message for "add share" command line action
+#: src/samba-server.ycp:95
+msgid "Provide the path of a directory to share."
+msgstr "提供要共享的目录的路径。"
+
+#. translators: heading for "list" shares command line action
+#. try to keep alignment
+#: src/samba-server.ycp:135
+msgid ""
+"Status  \tType\tName\n"
+"=============================="
+msgstr ""
+"状态  \t类型\t名称\n"
+"=============================="
+
+#. translators: share is a disk. %1 is the status, %2 comment
+#: src/samba-server.ycp:143
+#, ycp-format
+msgid "%1\tDisk\t%2"
+msgstr "%1\t磁盘\t%2"
+
+#. translators: share is a printer. %1 is the status, %2 comment
+#: src/samba-server.ycp:155
+#, ycp-format
+msgid "%1\tPrinter\t%2"
+msgstr "%1\t打印机\t%2"
+
+#. translators: command line help text for samba-server module
+#: src/samba-server.ycp:244
+msgid "Samba server configuration module (see Samba documentation for details)"
+msgstr "Samba 服务器配置模块(有关细节，请参见 Samba 文档)"
+
+#. translators: command line help text for share action
+#: src/samba-server.ycp:252
+msgid "Manipulate a single share"
+msgstr "操作单个共享"
+
+#. translators: command line help text for list action
+#: src/samba-server.ycp:257
+msgid "Show the list of available shares"
+msgstr "显示可用共享的列表"
+
+#. translators: command line help text for role action
+#: src/samba-server.ycp:262
+msgid "Set the role of the server"
+msgstr "设置服务器的角色"
+
+#. translators: command line help text for backend selection action
+#: src/samba-server.ycp:267
+msgid "Set the back-end for storing user information"
+msgstr "设置用于存储用户信息的后端"
+
+#. translators: command line help text for service activation action
+#: src/samba-server.ycp:272
+msgid "Enable or disable the Samba services (smb and nmb)"
+msgstr "启用或禁用 Samba 服务(smb 和 nmb)"
+
+#. translators: command line help text for configure action
+#: src/samba-server.ycp:277
+msgid "Change the global settings of the Samba server"
+msgstr "更改 Samba 服务器的全局设置"
+
+#. translators: command line help text for enable option
+#: src/samba-server.ycp:283
+msgid "Enable the share or a service"
+msgstr "启用共享或服务"
+
+#. translators: command line help text for disable option
+#: src/samba-server.ycp:287
+msgid "Disable the share or a service"
+msgstr "禁用共享或服务"
+
+#. translators: command line help text for delete share option
+#: src/samba-server.ycp:291
+msgid "Remove the share from the configuration file"
+msgstr "将共享从配置文件中删除"
+
+#. translators: command line help text for share name option
+#: src/samba-server.ycp:295
+msgid "The name of a share"
+msgstr "共享的名称"
+
+#. translators: command line help text for "share add" subaction
+#: src/samba-server.ycp:300
+msgid "Add a new share"
+msgstr "添加新共享"
+
+#. translators: command line help text for "share options" subaction
+#: src/samba-server.ycp:304
+msgid "Change options of a share"
+msgstr "更改共享的选项"
+
+#. translators: command line help text for "share show" subaction
+#: src/samba-server.ycp:308
+msgid "Show the options of a share"
+msgstr "显示共享的选项"
+
+#. translators: command line help text for share comment option
+#: src/samba-server.ycp:312
+msgid "The comment of a share"
+msgstr "共享的注释"
+
+#. translators: command line help text for share path option
+#: src/samba-server.ycp:317
+msgid "The path (directory) to share"
+msgstr "要共享的路径(目录)"
+
+#. translators: command line help text for share printable option
+#: src/samba-server.ycp:322
+msgid "Flag if the share should act as a printer"
+msgstr "如果共享应充当打印机时设置的标志"
+
+#. translators: command line help text for share read_list option
+#: src/samba-server.ycp:327
+msgid "A comma-separated list of users allowed to read from the share"
+msgstr "以逗号分隔的有权从共享读取的用户的列表"
+
+#. translators: command line help text for share write_list option
+#: src/samba-server.ycp:332
+msgid "A comma-separated list of users allowed to write to the share"
+msgstr "以逗号分隔的有权向共享写入的用户的列表"
+
+#. translators: command line help text for share browseable option
+#: src/samba-server.ycp:337
+msgid "Flag if the share should be visible when browsing the LAN"
+msgstr "如果可通过浏览局域网查看共享时设置的标志"
+
+#. translators: command line help text for share guest_ok option
+#: src/samba-server.ycp:342
+msgid "Flag if the share should allow guest access"
+msgstr "如果共享允许来宾访问时设置的标志"
+
+#. translators: command line help text for share valid_users option
+#: src/samba-server.ycp:347
+msgid "A comma-separated list of users allowed to access the share"
+msgstr "以逗号分隔的有权访问共享的用户的列表"
+
+#. translators: command line help text for PDC role option
+#: src/samba-server.ycp:352
+msgid "Server should act as a primary domain controller"
+msgstr "服务器应该充当主要域控制器"
+
+#. translators: command line help text for BDC role option
+#: src/samba-server.ycp:356
+msgid "Server should act as a backup domain controller"
+msgstr "服务器应该充当备份域控制器"
+
+#. translators: command line help text for Domain Member role option
+#: src/samba-server.ycp:360
+msgid "Server should act as a domain member"
+msgstr "服务器应充当域成员"
+
+#. translators: command line help text for standalone server role option
+#: src/samba-server.ycp:364
+msgid "Server should provide shares, but should not allow domain logins"
+msgstr "服务器应提供共享，但不应允许域登录。"
+
+#. translators: command line help text for smbpasswd option
+#: src/samba-server.ycp:368
+msgid "Use the 'smbpasswd' file to store user information"
+msgstr "使用\"smbpasswd\"文件存储用户信息"
+
+#. translators: command line help text for tdbsam option
+#: src/samba-server.ycp:372
+msgid "Use the 'passdb.tdb' file to store user information"
+msgstr "使用\"passdb.tdb\"文件存储用户信息"
+
+#. translators: command line help text for ldapsam option
+#: src/samba-server.ycp:376
+msgid "Use the LDAP server to store user information"
+msgstr "使用 LDAP 服务器存储用户信息"
+
+#. translators: command line help text for password option
+#: src/samba-server.ycp:380
+msgid "Password for the LDAP server"
+msgstr "LDAP 服务器的密码"
+
+#. translators: command line help text for workgroup option
+#: src/samba-server.ycp:384
+msgid "The name of a workgroup"
+msgstr "工作组的名称"
+
+#. translators: command line help text for description option
+#: src/samba-server.ycp:389
+msgid "The human-readable description of the Samba server"
+msgstr "Samba 服务器的可读的描述"
+
+#. translators: command line help text for ldap_suffix option
+#: src/samba-server.ycp:394
+msgid "The LDAP suffix DN for manipulating the user information on the LDAP server"
+msgstr "用于操作 LDAP 服务器上用户信息的 LDAP 后缀判别名"
+
+#. translators: command line help text for ldap_admin_dn option
+#: src/samba-server.ycp:399
+msgid "The LDAP DN for modifying contents of the LDAP server (for example, changing passwords)"
+msgstr "用于修改 LDAP 服务器的内容(例如更改密码)的 LDAP 判别名"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:183
+msgid "Samba Server Configuration"
+msgstr "Samba 服务器配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:185
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#~ msgid "Please enter a new share name."
+#~ msgstr "请输入一个新的共享名。"
+
+#~ msgid ""
+#~ "Share '%1' already exists.\n"
+#~ "Please choose another share name."
+#~ msgstr ""
+#~ "共享“%1”已存在。\n"
+#~ "请选择其他共享名。"
+
+#~ msgid "SSL"
+#~ msgstr "SSL"
+
+#~ msgid ""
+#~ "<p>Use <b>Add</b> to add a new configuration option, <b>Edit</b> to modify\n"
+#~ "an existing option, and <b>Delete</b> to delete an option.\n"
+#~ "Use <b>Up</b> and <b>Down</b> to change the order\n"
+#~ "of the back-ends.</p>\n"
+#~ msgstr ""
+#~ "<p><b>添加</b>可用于添加新的配置选项，<b>编辑</b>可用于修改\n"
+#~ "存在的选项，<b>删除</b>可用于删除某选项。\n"
+#~ "<b>向上</b>和<b>向下</b>可用于更改后端的\n"
+#~ "顺序。</p>\n"

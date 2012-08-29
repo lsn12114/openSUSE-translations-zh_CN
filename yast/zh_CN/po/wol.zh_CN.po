@@ -1,0 +1,84 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:43+0200\n"
+"PO-Revision-Date: 2012-07-06 23:18+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/WOL.ycp:50
+msgid ""
+"No previously configured clients found.\n"
+"However, a DHCP configuration was found on this system. Import the host\n"
+"configuration data (MAC addresses and host names) from \n"
+"'/etc/dhcpd.conf'?\n"
+msgstr ""
+"未找到先前配置的客户机。\n"
+"但在此系统上找到了 DHCP 配置。是否从“/etc/dhcpd.conf”\n"
+"导入主机配置数据(MAC 地址和主机名)？\n"
+
+#: src/wol.ycp:34
+msgid "Host Name:"
+msgstr "主机名："
+
+#: src/wol.ycp:35
+msgid ""
+"MAC Address of\n"
+"the Client: "
+msgstr ""
+"客户机的\n"
+"MAC 地址："
+
+#: src/wol.ycp:95
+msgid ""
+"Package could not be installed.\n"
+"Install the missing packages and try again."
+msgstr ""
+"无法安装软件包。\n"
+"请安装缺少的软件包，然后重试。"
+
+#: src/wol.ycp:109
+msgid "MAC Address"
+msgstr "MAC 地址"
+
+#: src/wol.ycp:109
+msgid "Host Name"
+msgstr "主机名"
+
+#: src/wol.ycp:111
+msgid "Wake Up"
+msgstr "唤醒"
+
+#: src/wol.ycp:120
+msgid "Wake-On-Lan"
+msgstr "网络唤醒"
+
+#: src/wol.ycp:121
+msgid ""
+"<h2>Wake on LAN</h2>\n"
+"<p>With WOL, you can 'wake up' your PC simply by sending a 'magic packet' \n"
+"over the network.</p>"
+msgstr ""
+"<h2>网络唤醒</h2>\n"
+"<p>使用网络唤醒，您可以简单地通过网络发送 '魔法数据包' 来唤醒您的计算机。</p>"
+
+#: src/wol.ycp:170
+msgid "Really delete this item?"
+msgstr "是否确实要删除此项？"
+
+#: src/wol.ycp:190
+msgid "Waking remote host"
+msgstr "唤醒远程主机"

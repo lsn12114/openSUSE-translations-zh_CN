@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pam_pwcheck\n"
+"Report-Msgid-Bugs-To: kukuk@thkukuk.de\n"
+"POT-Creation-Date: 2011-05-25 17:55+0200\n"
+"PO-Revision-Date: 2005-08-18 HO:MI+ZONE\n"
+"Last-Translator: Novell Language <language@novell.com>\n"
+"Language-Team: Novell Language <language@novell.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/opasswd.c:115
+#, c-format
+msgid "Cannot open %s for reading: %s"
+msgstr "无法打开 %s 读取： %s"
+
+#: src/opasswd.c:124
+#, c-format
+msgid "Unable to obtain entropy from %s"
+msgstr "无法从 %s 获得 entropy"
+
+#: src/opasswd.c:139
+msgid "Unable to generate a salt. Check your crypt settings."
+msgstr "无法生成 salt。 请检查 crypt 设置。"
+
+#: src/opasswd.c:329
+#, c-format
+msgid "Creating %s"
+msgstr "正在创建 %s"
+
+#: src/opasswd.c:336 src/opasswd.c:386
+#, c-format
+msgid "Cannot open %s: %m"
+msgstr "无法打开 %s：%m"
+
+#: src/opasswd.c:344
+#, c-format
+msgid "Cannot stat %s: %m"
+msgstr "无法启动 %s：%m"
+
+#: src/opasswd.c:355
+#, c-format
+msgid "Cannot create %s temp file: %m"
+msgstr "无法创建 %s temp 文件：%m"
+
+#: src/opasswd.c:363 src/opasswd.c:374
+#, c-format
+msgid "Cannot set permissions of %s temp file: %m"
+msgstr "无法设置 %s 临时文件的许可权限：%m"
+
+#: src/opasswd.c:367 src/opasswd.c:378
+#, c-format
+msgid "Cannot set owner/group of %s temp file: %m"
+msgstr "无法设置 %s 临时文件的所有者/组：%m"
+
+#: src/opasswd.c:541
+#, c-format
+msgid "Error while closing old opasswd file: %s"
+msgstr "关闭旧的 opasswd 文件时出错：%s"
+
+#: src/opasswd.c:551
+#, c-format
+msgid "Error while closing temporary opasswd file: %s"
+msgstr "关闭旧的临时 opasswd 文件时出错：%s"
+
+#: src/opasswd.c:561
+#, c-format
+msgid "Cannot create backup file of %s: %m"
+msgstr "无法创建 %s 的备份文件：%m"
+
+#: src/pam_pwcheck.c:73
+msgid "Old Password: "
+msgstr "旧口令： "
+
+#: src/pam_pwcheck.c:74
+msgid "New Password: "
+msgstr "新口令： "
+
+#: src/pam_pwcheck.c:75
+msgid "Reenter New Password: "
+msgstr "重新输入新口令： "
+
+#: src/pam_pwcheck.c:76
+msgid "Passwords do not match."
+msgstr "口令不匹配。"
+
+#: src/pam_pwcheck.c:212
+msgid "You must choose a new password."
+msgstr "必须选择新的口令。"
+
+#: src/pam_pwcheck.c:223
+msgid "Bad password: a palindrome"
+msgstr "无效的口令：回文"
+
+#: src/pam_pwcheck.c:225
+msgid "Bad password: case changes only"
+msgstr "无效的口令：仅更改了大小写"
+
+#: src/pam_pwcheck.c:227
+msgid "Bad password: too similar"
+msgstr "无效的口令：过于相似"
+
+#: src/pam_pwcheck.c:229
+msgid "Bad password: too simple"
+msgstr "无效的口令：过于简单"
+
+#: src/pam_pwcheck.c:231
+msgid "Bad password: rotated"
+msgstr "无效的口令：旋转"
+
+#: src/pam_pwcheck.c:253
+msgid "Bad password: too short"
+msgstr "无效的口令：过短"
+
+#: src/pam_pwcheck.c:262
+#, c-format
+msgid "Password will be truncated to %d characters."
+msgstr "口令将被缩短为 %d 个字符。"
+
+#: src/pam_pwcheck.c:284
+msgid "Bad password: "
+msgstr "无效的口令： "
+
+#: src/pam_pwcheck.c:300
+msgid "Password has been used already. Choose another."
+msgstr "口令已使用。请选择其他口令。"
+
+#: src/pam_pwcheck.c:341
+msgid "Cannot get options"
+msgstr "无法获取选项"
+
+#: src/pam_pwcheck.c:385
+#, c-format
+msgid "Dictionary path %s is invalid"
+msgstr "字典路径 %s 无效"
+
+#: src/pam_pwcheck.c:521 src/pam_pwcheck.c:564
+msgid "Password change aborted."
+msgstr "口令更改已中止"
+
+#: src/support.c:138 src/support.c:157
+msgid "Password: "
+msgstr "口令： "
+
+#~ msgid "%s contains invalid numerical value: %s.\n"
+#~ msgstr "%s 包含无效的数字值：%s.\n"

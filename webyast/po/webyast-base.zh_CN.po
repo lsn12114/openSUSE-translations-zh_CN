@@ -1,0 +1,528 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# hillwood <hillwoodroc@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-07 15:19+0200\n"
+"PO-Revision-Date: 2012-07-05 16:29+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: app/helpers/application_helper.rb:47
+msgid " - "
+msgstr " - "
+
+#: app/helpers/application_helper.rb:43
+msgid " or "
+msgstr "或"
+
+#: app/views/shared/exception_trap.html.erb:13
+msgid "(report link)"
+msgstr "（报告链接）"
+
+#: app/views/layouts/application.html.erb:129
+msgid "...Wait..."
+msgstr "...等待..."
+
+#: locale/model_attributes.rb:9
+msgid "Account|Current sign in at"
+msgstr "账户|目前登陆的是"
+
+#: locale/model_attributes.rb:11
+msgid "Account|Current sign in ip"
+msgstr "账户|目前登陆账户的 ip 地址"
+
+#: locale/model_attributes.rb:10
+msgid "Account|Last sign in at"
+msgstr "账户|最后登陆的账户"
+
+#: locale/model_attributes.rb:12
+msgid "Account|Last sign in ip"
+msgstr "账户|最后登陆的 ip 地址"
+
+#: locale/model_attributes.rb:6
+msgid "Account|Remember created at"
+msgstr "账户|记住创建于"
+
+#: locale/model_attributes.rb:5
+msgid "Account|Remember token"
+msgstr "账户|记住登录信息"
+
+#: locale/model_attributes.rb:7
+#| msgid "Account settings"
+msgid "Account|Remote ip"
+msgstr "账户|远程 ip 地址"
+
+#: locale/model_attributes.rb:4
+msgid "Account|Salt"
+msgstr "账户|盐化"
+
+#: locale/model_attributes.rb:8
+msgid "Account|Sign in count"
+msgstr "账户|登入时间"
+
+#: locale/model_attributes.rb:3
+#| msgid "Username:"
+msgid "Account|Username"
+msgstr "账户|用户名"
+
+#: app/helpers/view_helpers/label_helper.rb:23
+msgid "Add"
+msgstr "添加"
+
+#: app/views/controlpanel/index.html.erb:136
+msgid "All"
+msgstr "全部"
+
+#: app/helpers/view_helpers/html_helper.rb:27
+msgid "Are you sure?"
+msgstr "你确定？"
+
+#: app/helpers/application_helper.rb:56 app/helpers/application_helper.rb:70
+#: app/helpers/application_helper.rb:94
+msgid "Back"
+msgstr "后退"
+
+#: app/views/controlpanel/basesystem.haml:21
+msgid "Base system setup"
+msgstr "基本系统设置"
+
+# cancel button label
+#: app/helpers/application_helper.rb:60
+msgid "Cancel"
+msgstr "取消"
+
+#: app/views/controlpanel/index.html.erb:128
+msgid "Configuration"
+msgstr "配置"
+
+#: app/views/controlpanel/basesystem.haml:2
+msgid "Continue initial system setup"
+msgstr "继续最初的系统设置"
+
+#: app/views/shared/cookies_disabled.html.erb:8
+#| msgid "disabled"
+msgid "Cookies disabled ?"
+msgstr "已禁用 Cookie 了吗？"
+
+#: app/helpers/view_helpers/label_helper.rb:31
+msgid "Delete"
+msgstr "删除"
+
+#: app/views/shared/exception_trap.html.erb:14
+msgid "Don't forget to include the bug details."
+msgstr "不要忘记包括错误的详细信息。"
+
+#: app/helpers/view_helpers/label_helper.rb:27
+msgid "Edit"
+msgstr "编辑"
+
+#: app/views/controlpanel/index.html.erb:21
+#: app/views/controlpanel/index.html.erb:40
+msgid "Error: Cannot check the current status."
+msgstr "错误：不能检查当前状态。"
+
+#: app/helpers/application_helper.rb:78 app/helpers/application_helper.rb:90
+msgid "Finish"
+msgstr "结束"
+
+#: app/views/controlpanel/index.html.erb:133
+msgid "Frequently used modules:"
+msgstr "经常使用的模块："
+
+#: app/views/layouts/application.html.erb:75
+msgid "Home"
+msgstr "主页"
+
+#: app/views/layouts/application.html.erb:50
+msgid ""
+"JavaScript support is missing or disabled. Please turn JavaScript on or use a "
+"supported browser (%sFireFox 3.5%s or %sInternet Explorer 8%s)."
+msgstr ""
+"JavaScript 丢失或被禁用，请打开 JavaScript 功能或使用一个支持 JavaScript  的浏览器 （%sFireFox 3.5%s "
+"或者 %sInternet Explorer 8%s）"
+
+#: app/views/controlpanel/index.html.erb:99
+msgid "Loading patch information"
+msgstr "正在加载补丁信息"
+
+#: app/views/controlpanel/index.html.erb:73
+msgid "Loading system information"
+msgstr "正在加载系统信息"
+
+#: app/views/layouts/application.html.erb:88
+msgid "Logout"
+msgstr "注销"
+
+#: app/views/layouts/application.html.erb:57
+msgid "My Appliance"
+msgstr "我的装置"
+
+#: app/helpers/application_helper.rb:77 app/helpers/application_helper.rb:90
+msgid "Next"
+msgstr "下一步"
+
+#: app/helpers/view_helpers/html_helper.rb:157
+#: app/views/shared/exception_trap.html.erb:17
+msgid "No information available"
+msgstr "没有可用信息。"
+
+#: lib/yast_service.rb:118
+msgid "Not authorized! (%s)"
+msgstr "未认证！(%s)"
+
+#: app/controllers/application_controller.rb:73
+msgid ""
+"Operation is forbidden. If you have to do it, please contact system "
+"administrator"
+msgstr "操作被禁止。如果你必须这样做，请联系系统管理员。"
+
+#: app/views/controlpanel/index.html.erb:109
+msgid "Patch plugin is not installed."
+msgstr "补丁插件未安装。"
+
+#: app/views/controlpanel/index.html.erb:104
+msgid "Patch status summary is disabled in the config file."
+msgstr "在配置文件中补丁状态摘要已被禁用。"
+
+#: app/views/shared/exception_trap.html.erb:13
+msgid "Please Report a bug so we can fix the problem!."
+msgstr "请报告 bug 以便我们修复！"
+
+#: app/views/shared/cookies_disabled.html.erb:12
+msgid ""
+"Please enable cookies in your browser and <a href=\"/session\">login again</a>"
+msgstr "请在您的浏览器中启用 cookie 并 <a href=\"/session\">重新登录</a>"
+
+#: app/views/shared/exception_trap.html.erb:7
+msgid "Problem:"
+msgstr "问题："
+
+#: app/views/controlpanel/index.html.erb:118
+#| msgid "Cannot reboot the machine!"
+msgid "Really reboot the machine?"
+msgstr "准备好重启计算机了吗？"
+
+#: app/views/controlpanel/index.html.erb:121
+#| msgid "Cannot shutdown the machine!"
+msgid "Really shutdown the machine?"
+msgstr "准备好关闭计算机了吗？"
+
+# reboot button label
+#: app/views/controlpanel/index.html.erb:118
+msgid "Reboot"
+msgstr "重启"
+
+#: app/helpers/application_helper.rb:75
+msgid "Save"
+msgstr "保存"
+
+#: app/views/shared/exception_trap.html.erb:22
+#| msgid "Details..."
+msgid "Show details..."
+msgstr "显示细节..."
+
+#: app/views/controlpanel/index.html.erb:121
+msgid "Shutdown"
+msgstr "关机"
+
+#: app/views/sessions/new.html.haml:1 app/views/sessions/new.html.haml:19
+msgid "Sign in"
+msgstr "登录"
+
+#: app/views/controlpanel/index.html.erb:83
+msgid "Status plugin is not installed."
+msgstr "状态插件未安装。"
+
+#: app/views/controlpanel/index.html.erb:66
+#| msgid "Show system status"
+msgid "System status"
+msgstr "系统状态"
+
+#: app/views/controlpanel/index.html.erb:78
+msgid "System status summary is disabled in the config file."
+msgstr "在配置文件中系统状态摘要已被禁用。"
+
+#: app/views/controlpanel/index.html.erb:92
+#| msgid "System name"
+msgid "System updates"
+msgstr "系统升级"
+
+#: app/helpers/view_helpers/html_helper.rb:160
+msgid "There was a problem retrieving information from the server."
+msgstr "从服务器获取信息时出现一个问题"
+
+#: app/views/shared/exception_trap.html.erb:3
+#| msgid "This is embarrasing...."
+msgid "This is embarrassing...."
+msgstr "好尴尬...."
+
+#: app/helpers/view_helpers/html_helper.rb:153
+msgid "Unknown error"
+msgstr "未知错误"
+
+#: app/views/shared/exception_trap.html.erb:5
+msgid "We are sorry, but there are some problems."
+msgstr "很抱歉，这里出现了一些问题。"
+
+#: app/views/layouts/application.html.erb:35
+msgid "WebYaST"
+msgstr "WebYaST"
+
+#: app/views/controlpanel/index.html.erb:149
+msgid "WebYaST modules are not installed on your system!"
+msgstr "您的系统上未安装 WebYaST 模块好吗！"
+
+#: app/views/shared/cookies_disabled.html.erb:10
+msgid ""
+"WebYaST tried to establish and save a session in your web browser but failed."
+msgstr "WebYaST 尝试在您的网络浏览器中建立和保存一个会话，但失败了。"
+
+#: app/views/layouts/application.html.erb:43
+msgid ""
+"You are using an unsupported browser. Please switch to %sFireFox 3.5 or "
+"better%s or %sInternet Explorer 8%s. Thanks! [%sclose%s]"
+msgstr ""
+"你使用的浏览器不支持，请使用  %sFireFox 3.5 或更高，或者 %sInternet Explorer 8%s。谢谢！ [%sclose%s]"
+
+#: app/views/shared/_missing_write_permissions.html.erb:1
+msgid "You do not have permissions to modify the settings."
+msgstr "你没有权限修改设置。"
+
+#: app/views/controlpanel/index.html.erb:154
+msgid ""
+"You have no permissions to see or change the modules, please contact the "
+"administrator to set up permissions first!"
+msgstr "您没有权限查看或修改模块，请先联系管理员来设置权限！"
+
+#: app/views/layouts/application.html.erb:98
+#| msgid "You have been logged out."
+msgid "You will be logged off in"
+msgstr "您将注销在"
+
+#: app/views/controlpanel/basesystem.haml:1
+msgid ""
+"Your initial system setup was not completed. Please continue with setting up "
+"the modules."
+msgstr "你的初始系统设置未完成，请继续设置模块。"
+
+#: locale/model_attributes.rb:2
+#| msgid "Machine Account"
+msgid "account"
+msgstr "帐户"
+
+#: app/views/layouts/application.html.erb:98
+msgid "seconds due to session timeout. "
+msgstr "秒由于会话过期。"
+
+#~ msgid "Hide Details"
+#~ msgstr "隐藏详细信息"
+
+#~ msgid "Show Details"
+#~ msgstr "显示详细信息"
+
+#~ msgid "You need to specify the host"
+#~ msgstr "你需要指定主机"
+
+#~ msgid "No login specified"
+#~ msgstr "没有指定登录"
+
+#~ msgid "No password specified"
+#~ msgstr "没有指定密码"
+
+#~ msgid "Host has blocked user %s. It cannot login until  %s"
+#~ msgstr "用户 %s 被主机屏蔽，无法登录直到 %s"
+
+#~ msgid "Login incorrect. Check your username and password."
+#~ msgstr "登录失败,请检查用户名和密码然后重试。"
+
+#~ msgid "Session timeout"
+#~ msgstr "会话超时"
+
+#~ msgid "Please login to continue"
+#~ msgstr "请登录以继续"
+
+#~ msgid "You must logout before you can login"
+#~ msgstr "在你可以登录之前你必须注销"
+
+#~ msgid "can't be blank"
+#~ msgstr "不能为空白"
+
+#~ msgid "is out of allowed values"
+#~ msgstr "超出了允许值"
+
+#~ msgid "can't be empty"
+#~ msgstr "不能为空"
+
+#~ msgid "is invalid"
+#~ msgstr "是无效的"
+
+#~ msgid "Invalid parameters:"
+#~ msgstr "无效的参数："
+
+#~ msgid "Can't connect to host %s."
+#~ msgstr "无法连接到 %s 主机"
+
+#~ msgid "Make sure the host is up and that the YaST web service is running."
+#~ msgstr "确保主机和 YaST web 服务正在运行。"
+
+#~ msgid "Please select a host to connect to."
+#~ msgstr "请选择主机以连接。"
+
+#~ msgid "The host '%s' cannot be found."
+#~ msgstr "找不到 '%s' 主机。"
+
+#~ msgid "Please double-check the host URL."
+#~ msgstr "请双击主机 URL 。"
+
+#~ msgid "Language Selection"
+#~ msgstr "语言选项"
+
+#~ msgid "Problem occured on target machine."
+#~ msgstr "在目标电脑上发生问题。"
+
+#~ msgid "Editing YaST-Web-Service"
+#~ msgstr "正在编辑 YaST-Web-Service"
+
+#~ msgid "YaST-Web-Service"
+#~ msgstr "YaST-Web-Service"
+
+#~ msgid "Name"
+#~ msgstr "名称"
+
+#~ msgid "Url"
+#~ msgstr "Url"
+
+#~ msgid "Description"
+#~ msgstr "说明"
+
+#~ msgid "Ok"
+#~ msgstr "确定"
+
+#~ msgid "Please choose a service:"
+#~ msgstr "请选择一个服务："
+
+#~ msgid "Really delete host %s ?"
+#~ msgstr "真的要删除 %s 主机吗？"
+
+#~ msgid "New WebYaST Host"
+#~ msgstr "新建 WebYaST 主机"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Create"
+#~ msgstr "创建"
+
+#~ msgid "Index"
+#~ msgstr "索引"
+
+#~ msgid "Status"
+#~ msgstr "状态"
+
+#~ msgid "System actions"
+#~ msgstr "系统操作"
+
+#~ msgid "Really reboot %s?"
+#~ msgstr "真的要重启 %s 吗？"
+
+#~ msgid "Really shutdown %s?"
+#~ msgstr "真的要关闭 %s 吗？"
+
+# label for language selection
+#~ msgid "Language:"
+#~ msgstr "语言："
+
+#~ msgid "Connected host:"
+#~ msgstr "已连接主机："
+
+#~ msgid "User:"
+#~ msgstr "用户："
+
+#~ msgid "Control panel"
+#~ msgstr "控制面板"
+
+#~ msgid "Login"
+#~ msgstr "登录"
+
+#~ msgid "Enter login credentials for host %s."
+#~ msgstr "为 %s 主机输入登录凭证"
+
+#~ msgid "Password:"
+#~ msgstr "密码："
+
+#~ msgid "Service %s is not available in the target machine"
+#~ msgstr "%s 服务没有在目标电脑上激活"
+
+#~ msgid "Service %s is not running on the target machine"
+#~ msgstr "%s 服务没有在目标电脑上运行"
+
+#~ msgid "Permission %s is not granted for user %s"
+#~ msgstr "%s 权限没有授予用户 %s"
+
+#~ msgid "Policy kit exception for user %s and permission %s (untranslated message): %s"
+#~ msgstr "Policy kit exception for user %s and permission %s (untranslated message): %s"
+
+#~ msgid "A user is no longer logged to target machine. Please log in again."
+#~ msgstr "用户没有登录到目标机器，请重新登录。"
+
+#~ msgid "Target system is not consistent: Missing or corrupted file %s"
+#~ msgstr "目标系统不相容：文件 %s 丢失或损坏"
+
+#~ msgid "There is no predefined ntp server at /etc/sysconfig/network/config - NETCONFIG_NTP_STATIC_SERVERS"
+#~ msgstr "有没有预定义的 NTP 服务器在 /etc/sysconfig/network/config - NETCONFIG_NTP_STATIC_SERVERS"
+
+#~ msgid "Error occurred during ntp synchronization: %s"
+#~ msgstr "NTP同步过程中出现错误：%s"
+
+#~ msgid "Error while saving administrator settings: %s"
+#~ msgstr "保存管理员设置时出错：%s"
+
+#~ msgid "Select locale"
+#~ msgstr "选择语系"
+
+#, fuzzy
+#~| msgid "Host Names"
+#~ msgid "Host|Name"
+#~ msgstr "主机名"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Host|Description"
+#~ msgstr "说明"
+
+#, fuzzy
+#~| msgid "Updated"
+#~ msgid "Host|Updated at"
+#~ msgstr "已更新"
+
+#, fuzzy
+#~| msgid "Show Loaded Modules"
+#~ msgid "Show all modules"
+#~ msgstr "显示已装载的模块"
+
+#, fuzzy
+#~| msgid "Reboot the system now?"
+#~ msgid "Set up the system"
+#~ msgstr "是否现在重引导系统？"
+
+#, fuzzy
+#~| msgid "Name: "
+#~ msgid "Name:"
+#~ msgstr "名称："
+
+#, fuzzy
+#~| msgid "A kioslave to browse services"
+#~ msgid "Noone is logged to rest service."
+#~ msgstr "浏览服务的一个 kioslave"

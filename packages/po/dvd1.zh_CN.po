@@ -1,0 +1,4753 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"Project-Id-Version: openSUSE-packages\n"
+"Report-Msgid-Bugs-To: http://bugzilla.novell.com/\n"
+"POT-Creation-Date: 2011-08-30 16:14:16\n"
+"PO-Revision-Date: 2011-02-01 14:05+0000\n"
+"Language: zh_CN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#. summary(checkinstall)
+msgid "\"make install\" Installation Tracker"
+msgstr ""
+
+#. description(apache2:apache2-prefork)
+msgid ""
+"\"prefork\" MPM (Multi-Processing Module)\n"
+"\n"
+"This MPM is basically the one that Apache 1.3.x used. It warrants the "
+"maximum stability because each server runs in its own process. If a process "
+"dies it will not affect other servers."
+msgstr ""
+
+#. summary(csmash)
+msgid "3D Table Tennis Game"
+msgstr ""
+
+#. summary(blender)
+msgid "A 3D Modelling And Rendering Package"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-bn)
+msgid "A Bengali dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(abcde)
+msgid "A Better CD Encoder"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-pt_BR)
+#, fuzzy
+msgid "A Brazilian Portuguese dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-br)
+msgid "A Breton dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-bg)
+msgid "A Bulgarian dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(boo)
+#, fuzzy
+msgid "A CLI Scripting Language"
+msgstr "手语"
+
+#. description(aspell-dictionaries:aspell-ca)
+#, fuzzy
+msgid "A Catalan dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(circuslinux)
+msgid "A Clone of the Atari 2600 Game \"Circus Atari\""
+msgstr ""
+
+#. summary(arabic-fonts)
+msgid "A Collection of Free Arabic Fonts"
+msgstr ""
+
+#. summary(farsi-fonts)
+msgid "A Collection of Free Persian OpenType Fonts"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-hr)
+msgid "A Croatian dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-cs)
+msgid "A Czech dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(docbook-xml-website)
+msgid ""
+"A DTD in XML as an extension to DocBook XML and XSL stylesheets to process "
+"it."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-da)
+#, fuzzy
+msgid "A Danish dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(dia)
+msgid "A Diagram Creation Program"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-nl)
+msgid "A Dutch dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-fo)
+#, fuzzy
+msgid "A Faroese dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(ccache)
+#, fuzzy
+msgid "A Fast C/C++ Compiler Cache"
+msgstr "C/C++ 编译器和工具"
+
+#. description(aspell-dictionaries:aspell-fi)
+#, fuzzy
+msgid "A Finnish dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(audacity)
+msgid "A Free, Cross-Platform Digital Audio Editor"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-fr)
+msgid "A French dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-fy)
+#, fuzzy
+msgid "A Frisian (Frysk) dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(ekiga)
+msgid "A GNOME based SIP/H323 teleconferencing application"
+msgstr ""
+
+#. summary(autoconf)
+msgid "A GNU Tool for Automatically Configuring Source Code"
+msgstr ""
+
+#. summary(commoncpp2)
+msgid "A GNU package for creating portable C++ program"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-gl)
+msgid "A Galician Gaelic dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-agal)
+#, fuzzy
+msgid "A Galician-portuguese dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(igerman98:aspell-de)
+msgid "A German Dictionary for ASpell"
+msgstr ""
+
+#. description(igerman98:aspell-de)
+msgid "A German dictionary for the ASpell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-el)
+#, fuzzy
+msgid "A Greek dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-gu)
+msgid "A Gujarati dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-he)
+#, fuzzy
+msgid "A Hebrew (×¢××¨××ª) dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-hi)
+#, fuzzy
+msgid "A Hindi (à¤¹à¤¿à¤à¤¦à¥) dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-hu)
+#, fuzzy
+msgid "A Hungarian dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(at)
+msgid "A Job Manager"
+msgstr ""
+
+#. summary(digikam)
+msgid "A KDE Photo Manager"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-kn)
+#, fuzzy
+msgid "A Kannada (Canarese) dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-csb)
+#, fuzzy
+msgid "A Kashubian dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-rw)
+#, fuzzy
+msgid "A Kinyarwanda dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-ky)
+msgid "A Kirghiz dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-ku)
+msgid "A Kurdi dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-lv)
+#, fuzzy
+msgid "A Latvian dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-lt)
+#, fuzzy
+msgid "A Lithuanian dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-nds)
+#, fuzzy
+msgid "A Low Saxon (Plattdüütsch) dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-mk)
+#, fuzzy
+msgid "A Macedonian dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-mg)
+#, fuzzy
+msgid "A Malagasy dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-ms)
+msgid "A Malay dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-ml)
+#, fuzzy
+msgid "A Malayalam dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-mt)
+#, fuzzy
+msgid "A Maltese dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-gv)
+#, fuzzy
+msgid "A Manx Gaelic dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-mi)
+msgid "A Maori dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(avogadro)
+msgid "A Molecular design tool"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-mn)
+#, fuzzy
+msgid "A Mongolian (ÐÐ¾Ð½Ð³Ð¾Ð») dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(abiword)
+msgid "A Multiplatform Word Processor"
+msgstr ""
+
+#. summary(abiword-docs)
+msgid "A Multiplatform Word Processor - Documentation"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-nb)
+#, fuzzy
+msgid "A Norwegian Bokmaal dictionary for the aspell spell checker."
+msgstr "包中含有意外的版本"
+
+#. description(aspell-dictionaries:aspell-nn)
+#, fuzzy
+msgid "A Norwegian Nynorsk dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(ddclient)
+msgid "A Perl Client to Update Dynamic DNS Entries"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-fa)
+msgid "A Persian dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-pl)
+msgid "A Polish dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(apel)
+msgid "A Portable Emacs Library"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-pt_PT)
+#, fuzzy
+msgid "A Portuguese dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(automake)
+msgid "A Program for Automatically Generating GNU-Style Makefile.in Files"
+msgstr ""
+
+#. summary(cdparanoia)
+msgid "A Program for Extracting, Verifying, and Fixing Audio Tracks from CDs"
+msgstr ""
+
+#. summary(cvsps)
+msgid "A Program for Generating Patch Set Information from a CVS Repository"
+msgstr ""
+
+#. summary(cabextract)
+#, fuzzy
+msgid "A Program to Extract Microsoft Cabinet Files"
+msgstr "查看 PostScript 文件"
+
+#. summary(ctags)
+msgid "A Program to Generate Tag Files for Use with vi and Other Editors"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-pa)
+msgid "A Punjabi dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(apache2-mod_python)
+#, fuzzy
+msgid "A Python Module for the Apache 2 Web Server"
+msgstr "电源管理 (APM)"
+
+#. description(aspell-dictionaries:aspell-ro)
+#, fuzzy
+msgid "A Romanian dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-ru)
+msgid "A Russian dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-gd)
+msgid "A Scottish Gaelic dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(build)
+msgid "A Script to Build SUSE Linux RPMs"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-sr)
+msgid "A Serbian dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(bwidget)
+msgid "A Set of Megawidgets for Tcl/Tk"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-sk)
+msgid "A Slovak dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-sl)
+msgid "A Slovenian dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-es)
+#, fuzzy
+msgid "A Spanish dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-sw)
+msgid "A Swahili dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-sv)
+msgid "A Swedish dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-tl)
+msgid "A Tagalog dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-ta)
+msgid "A Tamil dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-te)
+msgid "A Telugu dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(expect)
+msgid "A Tool for Automating Interactive Programs"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-tr)
+msgid "A Turkish dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-tk)
+msgid "A Turkmen dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(cryptconfig)
+msgid "A Utility to Configure Encrypted Home Directories and LUKS Partitions"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-vi)
+#, fuzzy
+msgid "A Vietnamese dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-wa)
+msgid "A Walloon dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-cy)
+msgid "A Welsh dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-yi)
+msgid "A Yiddish dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-zu)
+msgid "A Zulu dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(arabic-fonts)
+msgid ""
+"A collection of free Arabic fonts available from http://www.arabeyes.org/"
+"resources.php."
+msgstr ""
+
+#. description(farsi-fonts)
+msgid "A collection of free Persian OpenType fonts."
+msgstr ""
+
+#. summary(eog-plugins)
+msgid "A collection of plugins for Eye of GNOME"
+msgstr ""
+
+#. description(ebtables)
+msgid ""
+"A firewalling tool to transparently filter network traffic passing a bridge. "
+"The filtering possibilities are limited to link layer filtering and some "
+"basic filtering on higher network layers. The ebtables tool can be used "
+"together with the other Linux filtering tools, like iptables. There are no "
+"incompatibility issues."
+msgstr ""
+
+#. description(abcde)
+msgid ""
+"A front-end program to cdparanoia, wget, cd-discid, id3, and your favorite "
+"Ogg or MP3 encoder (defaults to oggenc). Grabs an entire CD and converts "
+"each track to Ogg or MP3 then comments or ID3 tags each file with one "
+"command."
+msgstr ""
+
+#. summary(claws-mail)
+msgid "A lightweight and highly configurable email client"
+msgstr ""
+
+#. description(blinken)
+msgid "A memory enhancement game"
+msgstr ""
+
+#. description(esound:esound-daemon)
+msgid ""
+"A multiplexing and caching sound daemon. It can use ALSA or OSS for sound "
+"output. Many projects, including Enlightenment and GNOME, use esound to play "
+"and record their sounds."
+msgstr ""
+
+#. summary(esound:esound-daemon)
+msgid "A sound daemon for Enlightenment and GNOME"
+msgstr ""
+
+#. summary(conduit)
+msgid "A synchronization application for GNOME"
+msgstr ""
+
+#. description(aelfred)
+msgid ""
+"AElfred is a Java-based XML parser from Microstar Software Ltd. AElfred is "
+"distributed for free (with full source) for both commercial and non-"
+"commercial use."
+msgstr ""
+
+#. description(antlr)
+msgid ""
+"ANTLR, Another Tool for Language Recognition, (formerly PCCTS) is a language "
+"tool that provides a framework for constructing recognizers, compilers, and "
+"translators from grammatical descriptions containing C++ or Java actions "
+"(you can use PCCTS 1.xx to generate C-based parsers)."
+msgstr ""
+
+#. description(antlr:antlr-devel)
+msgid ""
+"ANTLR, Another Tool for Language Recognition, (formerly PCCTS) is a language "
+"tool that provides a framework for constructing recognizers, compilers, and "
+"translators from grammatical descriptions containing C++ or Java actions "
+"(you can use PCCTS 1.xx to generate C-based parsers).\n"
+"\n"
+"This package provides the C++ runtime (libantlr.a) and a headers files of "
+"antlr"
+msgstr ""
+
+#. description(antlr:antlr-java)
+msgid ""
+"ANTLR, Another Tool for Language Recognition, (formerly PCCTS) is a language "
+"tool that provides a framework for constructing recognizers, compilers, and "
+"translators from grammatical descriptions containing C++ or Java actions "
+"(you can use PCCTS 1.xx to generate C-based parsers).\n"
+"\n"
+"This package provides the Java runtime for antlr"
+msgstr ""
+
+#. summary(antlr:antlr-java)
+msgid "ANother Tool for Language Recognition (Manual)"
+msgstr ""
+
+#. summary(antlr:antlr-devel)
+msgid "ANother Tool for Language Recognition (c++ runtime)"
+msgstr ""
+
+#. summary(arphic-fonts:arphic-bkai00mp-fonts)
+msgid "AR PL KaitiM Big5 Chinese TrueType font by Arphic Technology"
+msgstr ""
+
+#. description(arphic-fonts:arphic-bkai00mp-fonts)
+msgid ""
+"AR PL KaitiM Big5 is a high quality Chinese TrueType font (bkai00mp.ttf) "
+"generously provided by Arphic Technology to the Free Software community "
+"under the Arphic Public License."
+msgstr ""
+
+#. summary(arphic-fonts:arphic-gkai00mp-fonts)
+msgid "AR PL KaitiM GB Chinese TrueType font by Arphic Technology"
+msgstr ""
+
+#. description(arphic-fonts:arphic-gkai00mp-fonts)
+msgid ""
+"AR PL KaitiM GB is a high quality Chinese TrueType font (gkai00mp.ttf) "
+"generously provided by Arphic Technology to the Free Software community "
+"under the Arphic Public License."
+msgstr ""
+
+#. summary(arphic-fonts:arphic-bsmi00lp-fonts)
+msgid "AR PL Mingti2L Big5 Chinese TrueType font by Arphic Technology"
+msgstr ""
+
+#. description(arphic-fonts:arphic-bsmi00lp-fonts)
+msgid ""
+"AR PL Mingti2L Big5 is a high quality Chinese TrueType font (bsmi00lp.ttf) "
+"generously provided by Arphic Technology to the Free Software community "
+"under the Arphic Public License."
+msgstr ""
+
+#. summary(arphic-fonts:arphic-gbsn00lp-fonts)
+msgid "AR PL SungtiL GB Chinese TrueType font by Arphic Technology"
+msgstr ""
+
+#. description(arphic-fonts:arphic-gbsn00lp-fonts)
+msgid ""
+"AR PL SungtiL GB is a high quality Chinese TrueType font (gbsn00lp.ttf) "
+"generously provided by Arphic Technology to the Free Software community "
+"under the Arphic Public License."
+msgstr ""
+
+#. description(asm)
+msgid ""
+"ASM is a Java bytecode manipulation framework.\n"
+"\n"
+"It can be used to dynamically generate stub classes or other proxy classes, "
+"directly in binary form, or to dynamically modify classes at load time, i."
+"e., just before they are loaded into the Java Virtual Machine.\n"
+"\n"
+"ASM offers similar functionalities as BCEL or SERP, but is much smaller."
+msgstr ""
+
+#. summary(brltty:brltty-driver-at-spi)
+msgid "AT-SPI driver for BRLTTY"
+msgstr ""
+
+#. description(abiword)
+msgid ""
+"AbiWord is a multiplatform word processor with a GTK+ interface on the UNIX "
+"platform."
+msgstr ""
+
+#. description(abiword-docs)
+msgid ""
+"AbiWord is a multiplatform word processor with a GTK+ interface on the UNIX "
+"platform. For extended functionality and integration, this version is "
+"compiled with GNOME support. Abiword with the GNOME front-end is part of the "
+"GNOME Office Suite."
+msgstr ""
+
+#. description(accerciser)
+msgid ""
+"Accerciser is an interactive Python accessibility explorer for the GNOME "
+"desktop. It uses AT-SPI to inspect and control widgets, allowing you to "
+"check if an application is providing correct information to assistive "
+"technologies and automated test frameworks. Accerciser has a simple plugin "
+"framework which you can use to create custom views of accessibility "
+"information.\n"
+"\n"
+"In essence, Accerciser is a next generation at-poke tool."
+msgstr ""
+
+#. summary(accerciser)
+msgid "Accessibility debugging tool"
+msgstr ""
+
+#. description(bwidget)
+msgid ""
+"Add useful and nice-looking widgets to your interfaces with the BWidget "
+"Toolkit, a set of native Tk 8.x Widgets using Tcl8.x namespaces. The "
+"BWidgets have a professional look and feel as in other well-known toolkits "
+"(Tix or Incr Widget). However, the concept is radically different because "
+"everything is native. There is no platform compilation and no compiled "
+"extension libraries are needed. The code is in pure Tcl/Tk."
+msgstr ""
+
+#. summary(cups-backends)
+msgid "Additional Backends for CUPS"
+msgstr ""
+
+#. summary(apache2:apache2-doc)
+#, fuzzy
+msgid "Additional Package Documentation."
+msgstr "5.1 NetworkManager 文档"
+
+#. summary(ant:ant-scripts)
+msgid "Additional scripts for ant"
+msgstr ""
+
+#. summary(atftp)
+msgid "Advanced TFTP Server and Client"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-af)
+#, fuzzy
+msgid "Afrikaans Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(alevt)
+msgid ""
+"AleVT is a teletext and videotext decoder and browser for the BTTV driver (/"
+"dev/vbi) and the X Window System.  It features multiple windows, a page "
+"cache, regexp searching, a built-in manual, and more. There is also a "
+"program to get the time from teletext."
+msgstr ""
+
+#. description(alpine)
+msgid ""
+"Alpine is a display-oriented email client that is suitable for both the "
+"inexperienced email user as well as for the most demanding of power users. "
+"Alpine is based on the PineÂ® Message System, which was also developed at "
+"the University of Washington. Alpine can be learned by exploration and the "
+"use of context-sensitive help. The user experience is highly customizable "
+"through the use of the Alpine Setup command."
+msgstr ""
+
+#. description(amavisd-new:amavisd-new-docs)
+msgid ""
+"Amavisd-new is a high-performance interface between mailer (MTA) and content "
+"checkers: virus scanners or SpamAssassin. It talks to the MTA via (E)SMTP, "
+"LMTP.\n"
+"\n"
+"This package contains the documentation and Relase-Notes."
+msgstr ""
+
+#. description(amavisd-new)
+msgid ""
+"Amavisd-new is a high-performance interface between mailer (MTA) and content "
+"checkers: virus scanners or SpamAssassin. It talks to the MTA via (E)SMTP, "
+"LMTP. It works with the following MTAs:\n"
+"\n"
+"- postfix\n"
+"- sendmail (sendmail-milter)\n"
+"- exim"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-am)
+#, fuzzy
+msgid "Amharic Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(bin86)
+msgid "An 8086 Assembler and Linker"
+msgstr ""
+
+#. description(bin86)
+msgid "An 8086 assembler and linker."
+msgstr ""
+
+#. summary(enscript)
+msgid "An ASCII to PostScript(tm) Converter"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-af)
+#, fuzzy
+msgid "An Afrikaans dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-am)
+msgid "An Amharic dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-ar)
+msgid "An Arabic dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-hy)
+msgid "An Armenian dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-az)
+msgid "An Azerbaijani dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(boost-jam)
+msgid "An Enhanced Make Replacement"
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-eo)
+msgid "An Esperanto dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-et)
+msgid "An Estonian dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(bluez-hcidump)
+msgid "An HCI dumper for debugging Bluetooth connections for BlueZ."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-is)
+msgid "An Icelandic dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-id)
+#, fuzzy
+msgid ""
+"An Indonesian (Bahasa Indonesia) dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-ia)
+msgid "An Interlingua dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-ga)
+#, fuzzy
+msgid "An Irish dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-it)
+msgid "An Italian dictionary for the aspell spell checker."
+msgstr ""
+
+#. summary(djvulibre)
+#, fuzzy
+msgid "An Open Source Implementation of DjVu"
+msgstr "自选设置管理"
+
+#. description(aspell-dictionaries:aspell-or)
+msgid "An Oriya dictionary for the aspell spell checker."
+msgstr ""
+
+#. description(aspell-dictionaries:aspell-uk)
+#, fuzzy
+msgid "An Ukrainian dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. description(aspell-dictionaries:aspell-uz)
+#, fuzzy
+msgid "An Uzbek (ÐÐ·Ð±ÐµÐºÑÐ°) dictionary for the aspell spell checker."
+msgstr "正在更新软件"
+
+#. summary(ding)
+msgid "An X Window System Dictionary Tool"
+msgstr ""
+
+#. summary(audiofile:audiofile-devel)
+msgid "An audio file library"
+msgstr ""
+
+#. description(xiterm:fbiterm)
+msgid "An internationalized terminal emulator for framebuffers."
+msgstr ""
+
+#. summary(cogl:cogl-devel)
+#, fuzzy
+msgid ""
+"An object oriented GL/GLES Abstraction/Utility Layer -- Development Files"
+msgstr "开发"
+
+#. description(anjuta)
+msgid ""
+"Anjuta is a versatile Integrated Development Environment (IDE) for the GNOME "
+"desktop. It features a number of advanced programming facilities includes "
+"project management, application wizards, an interactive debugger, an "
+"integrated Glade UI designer, integrated Devhelp API help, an integrated "
+"Valgrind memory profiler, an integrated gprof performance profiler, a class "
+"generator, a powerful source editor, source browsing, and more."
+msgstr ""
+
+#. summary(antlr)
+msgid "Another Tool for Language Recognition"
+msgstr ""
+
+#. description(anthy)
+msgid ""
+"Anthy (previously called 'Ancy'):\n"
+"\n"
+"Canna, FreeWnn, and others are famous Kana-Kanji conversion engines usable "
+"for Unix on PCs. They were originally developed for Japanese Unix "
+"workstations around 1990 and development has practically stopped. Therefore, "
+"the Heke Project is writing a free conversion engine from scratch (apart "
+"from the dictionary, which is developed outside of the Heke Project)."
+msgstr ""
+
+#. summary(clamav)
+msgid "Antivirus Toolkit"
+msgstr ""
+
+#. summary(ant)
+msgid "Antlr Task for ant"
+msgstr ""
+
+#. summary(apache2:apache2-prefork)
+msgid "Apache 2 \"prefork\" MPM (Multi-Processing Module)"
+msgstr ""
+
+#. summary(apache2:apache2-utils)
+msgid "Apache 2 utilities"
+msgstr ""
+
+#. summary(apache2:apache2-worker)
+msgid "Apache 2 worker MPM (Multi-Processing Module)"
+msgstr ""
+
+#. description(apache2)
+msgid ""
+"Apache 2, the successor to Apache 1.\n"
+"\n"
+"Apache is the most used Web server software worldwide.\n"
+"\n"
+"Some new features in Apache 2: - hybrid multiprocess, multithreaded    mode "
+"for improved scalability\n"
+"\n"
+"- multiprotocol support\n"
+"\n"
+"- stream filtering\n"
+"\n"
+"- IPv6 support\n"
+"\n"
+"- new module API\n"
+"\n"
+"New modules include: - mod_auth_db\n"
+"\n"
+"- mod_auth_digest\n"
+"\n"
+"- mod_charset_lite\n"
+"\n"
+"- mod_dav\n"
+"\n"
+"- mod_file_cache\n"
+"\n"
+"Mod_ssl is no longer a separate package, but is now included in the Apache "
+"distribution.\n"
+"\n"
+"See /usr/share/doc/packages/apache2/, http://httpd.apache.org/, and http://"
+"httpd.apache.org/docs-2.2/upgrading.html."
+msgstr ""
+
+#. summary(apache2:apache2-devel)
+msgid "Apache 2.2 Header and Include Files"
+msgstr ""
+
+#. description(ant:ant-scripts)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains additional perl and python scripts for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-junit)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional JUnit tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-apache-bcel)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional apache bcel tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-apache-bsf)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional apache bsf tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-apache-log4j)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional apache log4j tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-apache-oro)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional apache oro tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-apache-regexp)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional apache regexp tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-apache-resolver)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional apache resolver tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-commons-logging)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional commons logging tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-javamail)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional javamail tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-jdepend)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional jdepend tasks for Apache Ant."
+msgstr ""
+
+#. description(ant:ant-jmf)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional jmf tasks for Apache Ant."
+msgstr ""
+
+#. description(ant:ant-swing)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional swing tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-javadoc)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains the javadoc documentation for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-manual)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains the manual for Apache Ant."
+msgstr ""
+
+#. description(ant)
+msgid ""
+"Apache Ant is a Java-based build tool. In theory, it is kind of like Make, "
+"but without Make's wrinkles.\n"
+"\n"
+"Why another build tool when there is already make, gnumake, nmake, jam, and "
+"others? Because all those tools have limitations that Ant's original author "
+"could not live with when developing software across multiple platforms. Make-"
+"like tools are inherently shell-based--they evaluate a set of dependencies "
+"then execute commands, not unlike what you would issue in a shell. This "
+"means that you can easily extend these tools by using or writing any program "
+"for the OS that you are working on. However, this also means that you limit "
+"yourself to the OS, or at least the OS type, such as Unix, that you are "
+"working on.\n"
+"\n"
+"Makefiles are inherently evil as well. Anybody who has worked on them for "
+"any time has run into the dreaded tab problem. \"Is my command not executing "
+"because I have a space in front of my tab???\" said the original author of "
+"Ant way too many times. Tools like Jam took care of this to a great degree, "
+"but still have yet another format to use and remember.\n"
+"\n"
+"Ant is different. Instead of a model where it is extended with shell-based "
+"commands, Ant is extended using Java classes. Instead of writing shell "
+"commands, the configuration files are XML-based, calling out a target tree "
+"where various tasks are executed. Each task is run by an object that "
+"implements a particular task interface.\n"
+"\n"
+"Granted, this removes some of the expressive power that is inherent by being "
+"able to construct a shell command such as `find . -name foo -exec rm {}`, "
+"but it gives you the ability to be cross-platform--to work anywhere and "
+"everywhere. If you really need to execute a shell command, Ant has an <exec> "
+"task that allows different commands to be executed based on the OS used."
+msgstr ""
+
+#. summary(apache-commons-codec)
+msgid "Apache Commons Codec Package"
+msgstr ""
+
+#. summary(apache-commons-logging)
+msgid "Apache Commons Logging"
+msgstr ""
+
+#. summary(apache-commons-parent)
+msgid "Apache Commons Parent Pom"
+msgstr ""
+
+#. summary(apache2-mod_tidy)
+msgid "Apache Module using the Tidy Library to Clean Up HTML, XHTML, and XML"
+msgstr ""
+
+#. summary(apache2-mod_dnssd)
+msgid "Apache2 module for Zeroconf support via DNS-SD"
+msgstr ""
+
+#. summary(apparmor:apparmor-docs)
+msgid "AppArmor Documentation package"
+msgstr ""
+
+#. summary(apparmor:apparmor-utils)
+msgid "AppArmor User-Level Utilities Useful for Creating AppArmor Profiles"
+msgstr ""
+
+#. summary(apparmor:apparmor-profiles)
+msgid "AppArmor profiles that are loaded into the apparmor kernel module"
+msgstr ""
+
+#. summary(apparmor:apparmor-parser)
+msgid "AppArmor userlevel parser utility"
+msgstr ""
+
+#. description(avahi:avahi-compat-mDNSResponder-devel)
+msgid ""
+"Apple mDNSResponder compatibility layer for avahi.\n"
+"\n"
+"Avahi is an implementation the DNS Service Discovery and Multicast DNS "
+"specifications for Zeroconf Computing. It uses D-BUS for communication "
+"between user applications and a system daemon. The daemon is used to "
+"coordinate application efforts in caching replies, necessary to minimize the "
+"traffic imposed on networks.\n"
+"\n"
+"The Avahi mDNS responder is now feature complete implementing all MUSTs and "
+"the majority of the SHOULDs of the mDNS/DNS-SD RFCs. It passes all tests in "
+"the Apple Bonjour conformance test suite. In addition it supports some nifty "
+"things that have never been seen elsewhere like correct mDNS reflection "
+"across LAN segments."
+msgstr ""
+
+#. description(apport)
+msgid ""
+"Apport automatically collects data from crashed processes and compiles a "
+"problem report in /var/crash/.\n"
+"\n"
+"See http://opensuse.org/Interactive_Crash_Analysis for more information."
+msgstr ""
+
+#. description(aqbanking:aqbanking-devel)
+msgid ""
+"AqBanking is a generic OnlineBanking interface. It allows multiple backends "
+"(currently HBCI) and multiple frontends  (e.g. KDE, GNOME, console) to be "
+"used."
+msgstr ""
+
+#. description(aqbanking)
+msgid ""
+"AqBanking is a generic online banking interface. It allows multiple back-"
+"ends (currently HBCI) and multiple front-ends (such as KDE, GNOME, or "
+"console) to be used."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-ar)
+#, fuzzy
+msgid "Arabic Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-hy)
+#, fuzzy
+msgid "Armenian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(arpwatch)
+msgid "Arpwatch Keeps Track of Ethernet and IP Address Pairings"
+msgstr ""
+
+#. description(arpwatch)
+msgid ""
+"Arpwatch keeps track of Ethernet and IP address pairings. It logs activity "
+"to syslog and reports certain changes via e-mail."
+msgstr ""
+
+#. summary(at-spi)
+msgid "Assistive Technology Service Provider Interface"
+msgstr ""
+
+#. description(audacity)
+msgid ""
+"Audacity is a program that manipulates digital audio wave forms. In addition "
+"to recording sounds directly from within the program, it imports many sound "
+"file formats, including WAV, AIFF, AU, IRCAM, MP, and Ogg Vorbis.  With "
+"Audacity, you can edit wave data larger than the physical memory size of "
+"your computer."
+msgstr ""
+
+#. description(autogen)
+msgid ""
+"AutoGen is a tool designed for generating program files that contain "
+"repetitive text with varied substitutions.  Its goal is to simplify the "
+"maintenance of programs that contain large amounts of repetitious text. This "
+"is especially valuable if there are several blocks of such text that must be "
+"kept synchronized in parallel tables."
+msgstr ""
+
+#. description(automake)
+msgid ""
+"Automake is a tool for automatically generating \"Makefile.in\" files from "
+"\"Makefile.am\" files.  \"Makefile.am\" is a series of \"make\" macro "
+"definitions (with rules occasionally thrown in).  The generated \"Makefile.in"
+"\" files are compatible with the GNU Makefile standards."
+msgstr ""
+
+#. summary(doxygen)
+msgid "Automated C, C++, and Java Documentation Generator"
+msgstr ""
+
+#. summary(autogen)
+msgid "Automated Text File Generator"
+msgstr ""
+
+#. summary(apport)
+msgid "Automatic crash handler"
+msgstr ""
+
+#. description(avogadro)
+msgid ""
+"Avogadro is an advanced molecular editor designed for cross-platform use in "
+"computational chemistry, molecular modeling, bioinformatics, materials "
+"science, and related areas. It offers flexible rendering and a powerful "
+"plugin architecture."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-az)
+#, fuzzy
+msgid "Azerbaijani Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(bind:bind-doc)
+msgid "BIND documentation"
+msgstr ""
+
+#. description(brltty:brltty-driver-at-spi)
+msgid ""
+"BRLTTY is a background process (daemon) which provides access to the Linux/"
+"Unix console (when in text mode) for a blind person using a refreshable "
+"braille display. It drives the braille display and provides complete screen "
+"review functionality.\n"
+"\n"
+"This package contains the AT-SPI screen driver."
+msgstr ""
+
+#. summary(dar)
+#, fuzzy
+msgid "Backup and Restore Application"
+msgstr "起动应用程序"
+
+#. summary(baekmuk-bitmap-fonts)
+msgid "Baekmuk Fonts (Korean Fonts for the X Window System, Bitmap Version)"
+msgstr ""
+
+#. summary(baekmuk-bitmap-fonts:baekmuk-ttf-fonts)
+msgid "Baekmuk Fonts (Korean Fonts for the X Window System, True Type Version)"
+msgstr ""
+
+#. description(baekmuk-bitmap-fonts:baekmuk-ttf-fonts)
+msgid ""
+"Baekmuk Fonts (Korean fonts for the X Window System, True Type version)."
+msgstr ""
+
+#. description(baekmuk-bitmap-fonts)
+msgid "Baekmuk Fonts (Korean fonts for the X Window System, bitmap version)."
+msgstr ""
+
+#. description(apparmor:apparmor-profiles)
+msgid ""
+"Base profiles. AppArmor is a file and network mandatory access control "
+"mechanism. AppArmor confines processes to the resources allowed by the "
+"systems administrator and can constrain the scope of potential security "
+"vulnerabilities.\n"
+"\n"
+"This package is part of a suite of tools that used to be named SubDomain."
+msgstr ""
+
+#. description(emacs)
+msgid ""
+"Basic package for the GNU Emacs editor. Requires emacs-x11 or emacs-nox."
+msgstr ""
+
+#. summary(bsf)
+msgid "Bean Scripting Framework"
+msgstr ""
+
+#. description(bsf)
+msgid ""
+"Bean Scripting Framework (BSF) is a set of Java classes that provides "
+"scripting language support within Java applications and access to Java "
+"objects and methods from scripting languages. BSF allows writing JSPs in "
+"languages other than Java while providing access to the Java class library. "
+"In addition, BSF permits any Java application to be implemented in part (or "
+"dynamically extended) by a language that is embedded within it. This is "
+"achieved by providing an API that permits calling scripting language engines "
+"from within Java as well as an object registry that exposes Java objects to "
+"these scripting language engines.\n"
+"\n"
+"This BSF package currently supports several scripting languages: *    "
+"Javascript (using Rhino ECMAScript, from the Mozilla project)\n"
+"\n"
+"* XSLT Stylesheets (as a component of Apache XML project's Xalan and    "
+"Xerces)\n"
+"\n"
+"In addition, the following languages are supported with their own    BSF "
+"engines: * Java (using BeanShell, from the BeanShell project)\n"
+"\n"
+"* JRuby\n"
+"\n"
+"* JudoScript"
+msgstr ""
+
+#. summary(beaver)
+msgid "Beaver is an Early AdVanced EditoR"
+msgstr ""
+
+#. description(beaver)
+msgid ""
+"Beaver starts up fast and doesn't use a lot of memory. Beaver's only "
+"dependency is GTK+2, so no need to install other libraries eating your disk "
+"space. These things make Beaver very suitable for old computers and use in "
+"small Linux distributions."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-bn)
+#, fuzzy
+msgid "Bengali Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(bind)
+msgid ""
+"Berkeley Internet Name Domain (BIND) is an implementation of the Domain Name "
+"System (DNS) protocols and provides an openly redistributable reference "
+"implementation of the major components of the Domain Name System.  This "
+"package includes the components to operate a DNS server."
+msgstr ""
+
+#. description(bison)
+msgid "Bison is a parser generator similar to yacc(1)."
+msgstr ""
+
+#. description(blender)
+msgid ""
+"Blender is a 3D modelling and rendering package. It is the in-house software "
+"of a high quality animation studio, Blender has proven to be an extremely "
+"fast and versatile design instrument. The software has a personal touch, "
+"offering a unique approach to the world of Three Dimensions. Use Blender to "
+"create TV commercials, to make technical visualizations, business graphics, "
+"to do some morphing, or design user interfaces. You can easy build and "
+"manage complex environments. The renderer is versatile and extremely fast. "
+"All basic animation principles (curves & keys) are well implemented.It "
+"includes tools for modeling, sculpting, texturing (painting, node-based "
+"shader materials, or UV mapped), UV mapping, rigging and constraints, weight "
+"painting, particle systems, simulation (fluids, physics, and soft body "
+"dynamics and an external crowd simulator), rendering, node-based "
+"compositing, and non linear video editing, as well as an integrated game "
+"engine for real-time interactive 3D and game creation and playback with "
+"cross-platform compatibility. http://www.blender.org"
+msgstr ""
+
+#. description(bogofilter)
+msgid ""
+"Bogofilter is a Bayesian spam filter.  In normal operation, it takes an e-"
+"mail message or text from standard input, does a statistical check against "
+"lists of \"good\" and \"bad\" words, and returns a status code indicating "
+"whether the message is spam.  Bogofilter is designed with fast algorithms "
+"(including the Berkeley DB system), coded directly in C, and tuned for "
+"speed, so it can be used for production by sites that process a lot of mail."
+msgstr ""
+
+#. description(boo)
+msgid ""
+"Boo is a new object oriented statically typed programming language for the "
+"Common Language Infrastructure with a python inspired syntax and a special "
+"focus on language and compiler extensibility."
+msgstr ""
+
+#. description(boo:boo-2_0_9_3)
+msgid ""
+"Boo is a new object-oriented statically-typed programming language for the "
+"common language infrastructure with a Python-inspired syntax and a special "
+"focus on language and compiler extensibility."
+msgstr ""
+
+#. description(boost-jam)
+msgid ""
+"Boost Jam is a build tool based on FTJam, which in turn is based on Perforce "
+"Jam. It contains significant improvements made to facilitate its use in the "
+"Boost Build System, but should be backward compatible with Perforce Jam."
+msgstr ""
+
+#. summary(bootcycle)
+msgid "Boot Cycle Detection"
+msgstr ""
+
+#. description(kdegames4:bovo)
+msgid ""
+"Bovo is a Gomoku (Also known as: Connect Five, Five in a row, X and O, "
+"Naughts and Crosses) like game for two players, where the opponents "
+"alternate in placing their respective pictogram on the game board."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-pt_BR)
+#, fuzzy
+msgid "Brazilian Portuguese Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-br)
+#, fuzzy
+msgid "Breton Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-bg)
+msgid "Bulgarian Dictionary for Aspell"
+msgstr ""
+
+#. description(busybox)
+msgid ""
+"BusyBox combines tiny versions of many common UNIX utilities into a small "
+"single executable. It provides minimalist replacements for most of the "
+"utilities usually found in fileutils, shellutils, findutils, textutils, "
+"grep, gzip, tar, and more. BusyBox provides a fairly complete POSIX "
+"environment for any small or embedded system. The utilities in BusyBox "
+"generally have fewer options than their full-featured GNU cousins. The "
+"options that are included provide the expected functionality and behave very "
+"much like their GNU counterparts."
+msgstr ""
+
+#. summary(bcel)
+msgid "Byte Code Engineering Library"
+msgstr ""
+
+#. description(binutils)
+msgid ""
+"C compiler utilities: ar, as, gprof, ld, nm, objcopy, objdump, ranlib, size, "
+"strings, and strip. These utilities are needed whenever you want to compile "
+"a program or kernel."
+msgstr ""
+
+#. summary(arphic-ukai-fonts)
+msgid "CJK Unicode font Kai style"
+msgstr ""
+
+#. summary(arphic-uming-fonts)
+msgid "CJK Unicode font Ming style"
+msgstr ""
+
+#. description(clucene-core:clucene-core-devel)
+msgid ""
+"CLucene is a C++ port of Lucene. It is a high-performance, full-featured "
+"text search engine written in C++. CLucene is faster than lucene as it is "
+"written in C++.\n"
+"\n"
+"This package holds the development files for clucene."
+msgstr ""
+
+#. summary(automoc4)
+msgid "CMake automatic MOC Generation"
+msgstr ""
+
+#. description(cmake)
+msgid "CMake is a cross-platform, open-source make system"
+msgstr ""
+
+#. description(crmsh)
+msgid ""
+"CRM shell is a Pacemaker cluster resource manager command line interface. It "
+"supports Pacemaker configuration, management, and troubleshooting."
+msgstr ""
+
+#. description(ctags)
+msgid ""
+"CTags (from Darren Hiebert) generates tag files from source code in C, C++, "
+"Eiffel, Fortran, and Java to be used with vi and its derivatives, Emacs, and "
+"several other editors.\n"
+"\n"
+"ETags (from GNU Emacs sources) generates tag files from source code in "
+"Pascal, Cobol, Ada, Perl, LaTeX, Scheme, Emacs Lisp/Common Lisp, Postscript, "
+"Erlang, Python, Prolog, and most assembler-like syntaxes."
+msgstr ""
+
+#. summary(bluez:bluez-cups)
+msgid "CUPS Driver for Bluetooth Printers"
+msgstr ""
+
+#. summary(kdesdk4:cervisia)
+msgid "CVS Frontend"
+msgstr ""
+
+#. description(cvs)
+msgid ""
+"CVS is a front-end to the rcs (Revision Control System) included in the "
+"standard Linux distributions. PCL-CVS, an emacs (Emacs) front-end for CVS, "
+"is also included."
+msgstr ""
+
+#. description(cvsps)
+msgid ""
+"CVSps is a program for generating 'patchset' information from a CVS "
+"repository. In this case, a patchset is defined as a set of changes made to "
+"a collection of files, all committed at the same time (using a single 'cvs "
+"commit' command). This information is valuable for seeing the big picture of "
+"the evolution of a CVS project. While CVS tracks revision information, it is "
+"often difficult to see what changes were 'atomically' committed to the "
+"repository."
+msgstr ""
+
+#. description(cabextract)
+msgid ""
+"Cabinet (.CAB) files are a form of archive, which Microsoft uses to "
+"distribute their software and things like Windows Font Packs. cabextract can "
+"be used to unpack these files."
+msgstr ""
+
+#. description(calibre)
+msgid ""
+"Calibre is an ebook library manager. It can view, convert and catalog ebooks "
+"in most of the major ebook formats. It can also talk to a few ebook reader "
+"devices. It can go out to the internet and fetch metadata for your books. It "
+"can download newspapers and convert them into ebooks for convenient reading. "
+"It is cross platform, running on Linux, Windows and OS X."
+msgstr ""
+
+#. description(emacs:emacs-x11)
+msgid ""
+"Call it\n"
+"\n"
+"Emacs\n"
+"\n"
+"Love it or leave it. This is the Emacs binary with X Window System Support."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-kn)
+#, fuzzy
+msgid "Canarese Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(canna:canna-libs)
+msgid "Canna Libraries"
+msgstr ""
+
+#. description(canna)
+msgid ""
+"Canna converts Kana to Kanji based on a client/server model. An application "
+"program communicates with a Kana to Kanji conversion server to achieve "
+"Japanese input. Canna can be used in Emacs, X Window System environments, "
+"and on TTYs. Canna provides more than ten tools to maintain Kana to Kanji "
+"conversion dictionaries."
+msgstr ""
+
+#. description(csmash)
+msgid ""
+"CannonSmash is a 3D table tennis game. The goal of this project is to "
+"represent various table tennis strategies in a computer game."
+msgstr ""
+
+#. description(capisuite)
+msgid ""
+"CapiSuite is an ISDN telecommunication suite providing easy to use "
+"telecommunication functions that can be controlled from Python scripts. It "
+"uses a CAPI-compatible driver for accessing the ISDN hardware, so requires "
+"an AVM card with the appropriate driver.\n"
+"\n"
+"CapiSuite is distributed with two example scripts for incoming call handling "
+"and fax sending. See /usr/share/doc/packages/capisuite for further "
+"information."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-ca)
+#, fuzzy
+msgid "Catalan Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(cellwriter)
+msgid ""
+"CellWriter is a grid-entry natural handwriting input panel. As you write "
+"characters into the cells, your writing is instantly recognized at the "
+"character level. When you press Enter on the panel, the input you entered is "
+"sent to the currently focused application as if typed on the keyboard."
+msgstr ""
+
+#. description(kdesdk4:cervisia)
+msgid "Cervisia is a tool to work with and browse in CVS repositories."
+msgstr ""
+
+#. summary(cellwriter)
+msgid "Character-based handwriting input panel"
+msgstr ""
+
+#. summary(arphic-fonts)
+msgid "Chinese TrueType Fonts (contains only the license text)"
+msgstr ""
+
+#. description(arphic-fonts)
+msgid ""
+"Chinese TrueType fonts by Arphic Technology. This package contains only the "
+"license texts. The fonts themselves are in the sub-packages arphic-bkai00mp-"
+"fonts, arphic-bsmi00lp-fonts, arphic-gkai00mp-fonts, and arphic-gbsn00lp-"
+"fonts."
+msgstr ""
+
+#. summary(bind:bind-chrootenv)
+msgid "Chroot environment for BIND named and lwresd"
+msgstr ""
+
+#. description(clamav)
+msgid ""
+"Clam AntiVirus is an open source (GPL) anti-virus toolkit for UNIX, designed "
+"especially for e-mail scanning on mail gateways. It provides a number of "
+"utilities including a flexible and scalable multi-threaded daemon, a command "
+"line scanner and advanced tool for automatic database updates. The core of "
+"the package is an anti-virus engine available in a form of shared library.\n"
+"\n"
+"Here is a list of the main features:\n"
+"\n"
+"* command-line scanner\n"
+"\n"
+"* fast, multi-threaded daemon with support for on-access scanning\n"
+"\n"
+"* milter interface for sendmail\n"
+"\n"
+"* advanced database updater with support for scripted updates and    digital "
+"signatures\n"
+"\n"
+"* virus scanner C library\n"
+"\n"
+"* on-access scanning (Linux and FreeBSD)\n"
+"\n"
+"* virus database updated multiple times per day (see home page for    total "
+"number of signatures)\n"
+"\n"
+"* built-in support for various archive formats, including Zip, RAR,    Tar, "
+"Gzip, Bzip2, OLE2, Cabinet, CHM, BinHex, SIS and others\n"
+"\n"
+"* built-in support for almost all mail file formats\n"
+"\n"
+"* built-in support for ELF executables and Portable Executable files    "
+"compressed with UPX, FSG, Petite, NsPack, wwpack32, MEW, Upack    and "
+"obfuscated with SUE, Y0da Cryptor and others\n"
+"\n"
+"* built-in support for popular document formats including MS Office and "
+"MacOffice files, HTML, RTF and PDF"
+msgstr ""
+
+#. description(claws-mail)
+msgid ""
+"Claws Mail (previously known as Sylpheed-Claws) is a lightweight and highly "
+"configurable email client and news reader based on the GTK+ GUI toolkit, it "
+"runs on the X Window System.\n"
+"\n"
+"Claws Mail is free software distributed under the GNU GPL.\n"
+"\n"
+"To run Claws Mail use 'claws-mail' on the command line.\n"
+"\n"
+"When claws-mail is executed for the first time a configuration 'Wizard' will "
+"appear prompting you for the minimum information necessary to create a new "
+"account."
+msgstr ""
+
+#. description(clicfs)
+msgid ""
+"Clic FS is a FUSE file system to mount a Compressed Loop Image Container. It "
+"has several features that make it a good choice for live systems. It will "
+"compress a Loop Image and export it as read write, creating a copy on write "
+"behaviour."
+msgstr ""
+
+#. description(clutter:clutter-devel)
+msgid ""
+"Clutter is an open source software library for creating fast, visually rich "
+"and animated graphical user interfaces. This package contain the files for "
+"development."
+msgstr ""
+
+#. summary(frei0r-plugins)
+msgid "Collection of video sources and filters plugins"
+msgstr ""
+
+#. summary(color-filesystem)
+#, fuzzy
+msgid "Color filesystem layout"
+msgstr "文件系统"
+
+#. description(dcraw)
+msgid "Command line tools for raw digital photo decoding and processing."
+msgstr ""
+
+#. description(commoncpp2)
+msgid ""
+"Common C++ is a GNU package which offers portable \"abstraction\" of system "
+"services such as threads, networks, and sockets.  Common C++ also offers "
+"individual frameworks generally useful to developing portable C++ "
+"applications including a object persistance engine, math libraries, "
+"threading, sockets, etc.  Common C++ is small, and highly portable. Common C+"
+"+ will support most Unix operating systems as well as Win32, in addition to "
+"GNU/Linux."
+msgstr ""
+
+#. description(apache-commons-codec)
+msgid ""
+"Commons Codec is an attempt to provide definitive implementations of "
+"commonly used encoders and decoders."
+msgstr ""
+
+#. summary(clicfs)
+msgid "Compressed Loop Image Container"
+msgstr ""
+
+#. description(cm-unicode-fonts)
+msgid ""
+"Computer Modern Unicode fonts were converted from metafont sources using [1] "
+"textrace and [2] pfaedit (030404). Their main purpose is to create free good "
+"quality fonts for use in X Window System applications supporting many "
+"languages. Currently the fonts contain glyphs from Latin1 (Metafont ec, tc), "
+"Cyrillic (la, rx) and Greek (cbgreek when available) code sets."
+msgstr ""
+
+#. summary(cvs)
+msgid "Concurrent Versions System"
+msgstr ""
+
+#. description(conduit)
+msgid ""
+"Conduit is a synchronization application for GNOME. It allows you to "
+"synchronize your data between online web services (Gmail, backpackit.com, "
+"etc) and your computer."
+msgstr ""
+
+#. description(bluez:bluez-cups)
+msgid ""
+"Contains the files required by CUPS for printing to Bluetooth-connected "
+"printers."
+msgstr ""
+
+#. description(convert)
+msgid ""
+"Convert is software for converting units from one type to another (over 700 "
+"conversions)."
+msgstr ""
+
+#. summary(createrepo)
+msgid "Creates a Common Metadata Repository"
+msgstr ""
+
+#. summary(libarchive:bsdtar)
+msgid "Creates and reads several different streaming archive formats"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-hr)
+#, fuzzy
+msgid "Croatian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(cmake)
+msgid "Cross-platform, open-source make system"
+msgstr ""
+
+#. description(cscope)
+msgid ""
+"Cscope is an interactive, screen-oriented tool that allows the user to "
+"browse through C source code files for specified elements of code."
+msgstr ""
+
+#. summary(cyrus-sasl:cyrus-sasl-devel)
+msgid "Cyrus SASL API Implementation, Libraries and Header Files"
+msgstr ""
+
+#. description(cyrus-imapd)
+msgid ""
+"Cyrus is a highly scalable enterprise mail system designed for use in "
+"enterprise environments of various sizes using standards based technologies. "
+"Cyrus technologies scale from independent use in email departments to a "
+"system centrally managed in a large enterprise."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-cs)
+#, fuzzy
+msgid "Czech Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(dhcp-tools)
+msgid "DHCP Tools"
+msgstr ""
+
+#. summary(dosbox)
+#, fuzzy
+msgid "DOS Emulator Well-Suited for Playing Games"
+msgstr "非常适合玩游戏的 DOS 模拟器"
+
+#. summary(docbook-dsssl-stylesheets)
+msgid "DSSSL Stylesheets for the DocBook DTD"
+msgstr ""
+
+#. summary(docbook-xml-website)
+msgid "DTD and Stylesheets for Web Site Development"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-da)
+#, fuzzy
+msgid "Danish Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(dar)
+msgid ""
+"Dar (Disk Archive) is a hardware-independent backup solution. Dar uses "
+"catalogs (unlike tar),which it makes it possible to extract a single file "
+"without having to read the entire archive. It is also possible to create "
+"incremental backups. Dar archives can also be created or used with the "
+"libdar library (for example, with KDar, a KDE application). This package "
+"contains the command line tools and documentation."
+msgstr ""
+
+#. description(dasher)
+msgid ""
+"Dasher is a zooming predictive text entry system, designed for situations "
+"where keyboard input is impractical (for instance: accessibility or PDAs). "
+"It is usable with greatly limited amounts of physical input while still "
+"allowing high rates of text entry."
+msgstr ""
+
+#. description(dasher:dasher-data-extras)
+msgid ""
+"Dasher is a zooming predictive text entry system, designed for situations "
+"where keyboard input is impractical (for instance: accessibility or PDAs). "
+"It is usable with greatly limited amounts of physical input while still "
+"allowing high rates of text entry.\n"
+"\n"
+"This package contains data files to use dasher with additional languages."
+msgstr ""
+
+#. description(dasher:dasher-data-recommended)
+msgid ""
+"Dasher is a zooming predictive text entry system, designed for situations "
+"where keyboard input is impractical (for instance: accessibility or PDAs). "
+"It is usable with greatly limited amounts of physical input while still "
+"allowing high rates of text entry.\n"
+"\n"
+"This package contains data files to use dasher with common languages."
+msgstr ""
+
+#. summary(ddd)
+msgid "Debugger with Graphical User Interface"
+msgstr ""
+
+#. description(dejagnu)
+msgid ""
+"DejaGnu is a framework for testing other programs.  Its purpose is to "
+"provide a single front-end for all tests.  Beyond this, DejaGnu offers "
+"several advantages for testing:\n"
+"\n"
+"1. The flexibility and consistency of the DejaGnu framework make it    easy "
+"to write tests for any program.\n"
+"\n"
+"1. DejaGnu provides a layer of abstraction that allows you to write    tests "
+"that are portable to any host or target where a program    must be tested.  "
+"For instance, a test for GDB can run (from any    Unix-based host) on any "
+"target architecture that DejaGnu    supports.\n"
+"\n"
+"1. All tests have the same output format.  This makes it easy to    "
+"integrate testing into other software development processes.    DejaGnu's "
+"output is designed to be parsed by other filtering    scripts and it is also "
+"human-readable.\n"
+"\n"
+"DejaGnu is written in expect, which in turn uses \"Tcl\"--Tool command "
+"language.\n"
+"\n"
+"Running tests requires two things: the testing framework and the test suites "
+"themselves."
+msgstr ""
+
+#. summary(delayacct-utils)
+msgid "Delay Accounting Utilities"
+msgstr ""
+
+#. description(delayacct-utils)
+msgid ""
+"Delay accounting allows the administrator to track the time an application "
+"spends waiting on disk I/O, swap I/O and CPU scheduling. This can help pin-"
+"point resource shortages in a system configuration."
+msgstr ""
+
+#. summary(desktop-translations)
+msgid "Desktop Files Translation updates"
+msgstr ""
+
+#. summary(ConsoleKit:ConsoleKit-devel)
+msgid "Developer package for ConsoleKit"
+msgstr ""
+
+#. description(ConsoleKit:ConsoleKit-devel)
+msgid "Developer package for ConsoleKit and libck-connector"
+msgstr ""
+
+#. summary(dbus-1:dbus-1-devel)
+msgid "Developer package for D-Bus"
+msgstr ""
+
+#. summary(dbus-1-glib:dbus-1-glib-devel)
+msgid "Developer package for D-Bus/GLib bindings"
+msgstr ""
+
+#. summary(devhelp)
+msgid "Developer's Help Program for GNOME"
+msgstr ""
+
+#. summary(cups:cups-devel)
+msgid "Development Environment for CUPS"
+msgstr ""
+
+#. summary(cairo:cairo-devel)
+msgid "Development environment for cairo"
+msgstr ""
+
+#. summary(freetype2:freetype2-devel)
+#, fuzzy
+msgid "Development environment for the freetype2 TrueType font library"
+msgstr "用于服务器的 KDE 桌面环境"
+
+#. summary(avogadro:avogadro-devel)
+#, fuzzy
+msgid "Development files for Avogadro"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(freeglut:freeglut-devel)
+msgid ""
+"Development libraries, includes and man pages for freeglut (GLUT Library)"
+msgstr ""
+
+#. summary(boost:boost-devel)
+msgid "Development package for Boost C++"
+msgstr ""
+
+#. description(devhelp)
+#, fuzzy
+msgid "Devhelp is an API documentation browser for GTK+ and GNOME."
+msgstr "帮助和支持文档"
+
+#. description(dia)
+msgid ""
+"Dia is designed to be much like the commercial program 'Visio.' It can be "
+"used to draw many different kinds of diagrams. It has special objects to "
+"help draw entity relationship diagrams, UML diagrams, SADT, flowcharts, "
+"network diagrams, and simple circuits. It is possible to add support for new "
+"shapes by writing simple XML files, and using a subset of SVG to draw the "
+"shape.\n"
+"\n"
+"Dia can load and save diagrams to a custom XML format (gzipped by default to "
+"save space), can export diagrams to EPS, PNG, CGM, or SVG formats, and can "
+"print diagrams (including ones that span multiple pages)."
+msgstr ""
+
+#. description(ding)
+msgid ""
+"Ding is a smart X Window System English-to-German dictionary.  It works with "
+"a local database file. For full functionality, agrep should be installed."
+msgstr ""
+
+#. description(djvulibre)
+msgid ""
+"DjVu is a Web-centric format and software platform for distributing "
+"documents and images. DjVuLibre is an open source (GPL) implementation of "
+"DjVu, including viewers, browser plug-ins, decoders, simple encoders, and "
+"utilities. DjVu can advantageously replace PDF, PS, TIFF, JPEG, and GIF for "
+"distributing scanned documents, digital documents, or high-resolution "
+"pictures. DjVu content downloads faster, displays and renders faster, looks "
+"nicer on a screen, and consumes less client resources than competing "
+"formats. DjVu images display instantly and can be smoothly zoomed and panned "
+"with no lengthy rerendering. DjVu is used by hundreds of academic, "
+"commercial, governmental, and noncommercial Web sites around the world."
+msgstr ""
+
+#. summary(daps)
+msgid "DocBook Authoring and Publishing Suite"
+msgstr ""
+
+#. description(daps)
+msgid ""
+"DocBook Authoring and Publishing Suite (DAPS)\n"
+"\n"
+"DAPS contains a set of stylesheets, scripts and makefiles that enable you to "
+"create HTML, PDF, EPUB and other formats from DocBook XML with a single "
+"command. It also contains tools to generate profiled source tarballs for "
+"distributing your XML sources for translation or review.\n"
+"\n"
+"DAPS also includes tools that assist you when writing DocBook XML: "
+"linkchecker, validator, spellchecker, editor macros and stylesheets for "
+"converting DocBook XML.\n"
+"\n"
+"DAPS is the successor of susedoc. See /usr/share/doc/packages/daps/README."
+"upgrade_from_susedoc_4.x for upgrade instructions."
+msgstr ""
+
+#. summary(docbook_3)
+msgid "DocBook DTD 3.x"
+msgstr ""
+
+#. summary(docbook_4)
+msgid "DocBook DTD Version 4.x"
+msgstr ""
+
+#. summary(docbook_5)
+msgid "DocBook Schemas (DTD, RELAX NG, W3C Schema) for Version 5.x"
+msgstr ""
+
+#. summary(dbsplit-tools)
+msgid "DocBook Splitting tools"
+msgstr ""
+
+#. description(docbook_4)
+msgid ""
+"DocBook is a schema. It is particularly well-suited to books and papers "
+"about computer hardware and software (though it is not limited to these "
+"applications at all). This package has SGML- and XML-DTD versions included. "
+"Some versions of DocBook contain also a RELAX NG and W3C Schema."
+msgstr ""
+
+#. summary(chmlib:chmlib-devel)
+#, fuzzy
+msgid "Documentation and Headers for chmlib"
+msgstr "7.0 文档"
+
+#. summary(amavisd-new:amavisd-new-docs)
+msgid "Documentation for the High-Performance E-Mail Virus Scanner"
+msgstr ""
+
+#. summary(bash:bash-doc)
+msgid "Documentation how to Use the GNU Bourne-Again Shell"
+msgstr ""
+
+#. summary(digikam:digikam-doc)
+#, fuzzy
+msgid "Documentation of Digikam"
+msgstr "7.0 文档"
+
+#. description(bind:bind-doc)
+msgid ""
+"Documentation of the Berkeley Internet Name Domain (BIND) Domain Name System "
+"implementation of the Domain Name System (DNS) protocols.  This includes "
+"also the BIND Administrator Reference Manual (ARM)."
+msgstr ""
+
+#. summary(bind)
+msgid "Domain Name System (DNS) Server (named)"
+msgstr ""
+
+#. description(dos2unix)
+msgid ""
+"Dos2unix is used to convert plain text from DOS (CR/LF) format. Mac2unix "
+"converts plain text from MAC (CR) format to UNIX format (LF).\n"
+"\n"
+"Unix2dos converts plain text files from UNIX format to DOS format and "
+"unix2dos converts from UNIX to MAC format."
+msgstr ""
+
+#. description(dovecot12)
+msgid ""
+"Dovecot is an IMAP and POP3 server for Linux and UNIX-like systems, written "
+"primarily with security in mind. Although it is written in C, it uses "
+"several coding techniques to avoid most of the common pitfalls.\n"
+"\n"
+"Dovecot can work with standard mbox and maildir formats and is fully "
+"compatible with UW-IMAP and Courier IMAP servers as well as mail clients "
+"accessing the mailboxes directly."
+msgstr ""
+
+#. description(dovecot12:dovecot12-backend-mysql)
+msgid ""
+"Dovecot is an IMAP and POP3 server for Linux and UNIX-like systems, written "
+"primarily with security in mind. Although it is written in C, it uses "
+"several coding techniques to avoid most of the common pitfalls.\n"
+"\n"
+"Dovecot can work with standard mbox and maildir formats and is fully "
+"compatible with UW-IMAP and Courier IMAP servers as well as mail clients "
+"accessing the mailboxes directly.\n"
+"\n"
+"This package holds the files needed for MySQL support."
+msgstr ""
+
+#. description(dovecot12:dovecot12-backend-pgsql)
+msgid ""
+"Dovecot is an IMAP and POP3 server for Linux and UNIX-like systems, written "
+"primarily with security in mind. Although it is written in C, it uses "
+"several coding techniques to avoid most of the common pitfalls.\n"
+"\n"
+"Dovecot can work with standard mbox and maildir formats and is fully "
+"compatible with UW-IMAP and Courier IMAP servers as well as mail clients "
+"accessing the mailboxes directly.\n"
+"\n"
+"This package holds the files needed for PostgreSQL support."
+msgstr ""
+
+#. description(dovecot12:dovecot12-backend-sqlite)
+msgid ""
+"Dovecot is an IMAP and POP3 server for Linux and UNIX-like systems, written "
+"primarily with security in mind. Although it is written in C, it uses "
+"several coding techniques to avoid most of the common pitfalls.\n"
+"\n"
+"Dovecot can work with standard mbox and maildir formats and is fully "
+"compatible with UW-IMAP and Courier IMAP servers as well as mail clients "
+"accessing the mailboxes directly.\n"
+"\n"
+"This package holds the files needed for SQLite support."
+msgstr ""
+
+#. description(doxygen)
+msgid ""
+"Doxygen is a documentation system for C, C++, Java, and IDL. It can generate "
+"an online class browser (in HTML) and an offline reference manual (in LaTeX) "
+"from a set of documented source files. The documentation is extracted "
+"directly from the sources. Doxygen is developed on a Linux platform, but it "
+"runs on most other UNIX flavors as well. An executable for Windows 95/NT is "
+"also available."
+msgstr ""
+
+#. description(kdemultimedia4:dragonplayer)
+msgid "Dragon Player is a simple KDE 4 video player."
+msgstr ""
+
+#. summary(e2fsprogs:e2fsprogs-devel)
+msgid "Dummy development package"
+msgstr ""
+
+#. description(e2fsprogs:e2fsprogs-devel)
+msgid "Dummy development package for backwards compatibility."
+msgstr ""
+
+#. description(duplicity)
+msgid ""
+"Duplicity incrementally backs up files and directories by encrypting tar-"
+"format volumes with GnuPG and uploading them to a remote (or local) file "
+"server. In theory many remote backends are possible; right now local, ssh/"
+"scp, ftp, rsync, HSI, WebDAV, and Amazon S3 backends are written.\n"
+"\n"
+"Because duplicity uses librsync, the incremental archives are space "
+"efficient and only record the parts of files that have changed since the "
+"last backup. Currently duplicity supports deleted files, full unix "
+"permissions, directories, symbolic links, fifos, etc., but not hard links."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-nl)
+#, fuzzy
+msgid "Dutch Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(deja-dup)
+msgid ""
+"DÃ©jÃ   Dup is a simple backup tool. It hides the complexity of doing "
+"backups the 'right way' (encrypted, off-site, and regular) and uses "
+"duplicity as the backend.\n"
+"\n"
+"Features:  * Support for local or remote backup locations, including Amazon "
+"S3  * Securely encrypts and compresses your data  * Incrementally backs up, "
+"letting you restore from any particular backup  * Schedules regular backups  "
+"* Integrates well into your GNOME desktop"
+msgstr ""
+
+#. summary(calibre)
+#, fuzzy
+msgid "EBook Management Application"
+msgstr "选择应用程序"
+
+#. summary(ecj)
+#, fuzzy
+msgid "Eclipse Compiler for Java"
+msgstr "C 和 C++ 开发工具。"
+
+#. description(emacs:emacs-nox)
+msgid ""
+"Eight Megabytes And Constantly Swapping. Call it\n"
+"\n"
+"emacs-nox\n"
+"\n"
+"Love it or leave it."
+msgstr ""
+
+#. description(ekiga)
+msgid ""
+"Ekiga (formely known as GnomeMeeting) is an open source VoIP and video "
+"conferencing application for GNOME. Ekiga uses both the H.323 and SIP "
+"protocols. It supports many audio and video codecs, and is interoperable "
+"with other SIP compliant software and also with Microsoft NetMeeting."
+msgstr ""
+
+#. summary(apache2-mod_perl)
+msgid "Embedded Perl for Apache"
+msgstr ""
+
+#. description(enblend-enfuse)
+msgid ""
+"Enblend is a tool for compositing images using a Burt & Adelson "
+"multiresolution spline. This technique tries to make the seams between the "
+"input images invisible. The basic idea is that image features should be "
+"blended across a transition zone, proportional in size to the spatial "
+"frequency of the features. For example, objects like trees and window panes "
+"have rapid changes in color. By blending these features in a narrow zone, "
+"you cannot see the seam because the eye already expects to see color changes "
+"at the edge of these features. Clouds and sky are the opposite. These "
+"features must be blended across a wide transition zone because any sudden "
+"change in color is immediately noticeable."
+msgstr ""
+
+#. summary(duplicity)
+msgid "Encrypted bandwidth-efficient backup using the rsync algorithm"
+msgstr ""
+
+#. description(enscript)
+msgid ""
+"Enscript converts ASCII files to PostScript and writes the generated output "
+"to a file or sends it directly to the printer.\n"
+"\n"
+"The Enscript configuration file is in /etc/enscript.cfg.\n"
+"\n"
+"Warning: enscript is not able to convert complex unicode (UTF-8) text to "
+"PostScript.\tOnly language text which can be converted from UTF-8 to latin "
+"encodings are supported with the help of a wrapper script. ~ ~"
+msgstr ""
+
+#. description(epiphany-branding-openSUSE)
+msgid ""
+"Epiphany is a Web Browser for the GNOME Desktop. Its principles are "
+"simplicity and standards compliance.\n"
+"\n"
+"This package provides the openSUSE default bookmarks and user agent string."
+msgstr ""
+
+#. description(epiphany)
+msgid ""
+"Epiphany is a Web browser for the GNOME Desktop. Its principles are "
+"simplicity and standards compliance."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-eo)
+#, fuzzy
+msgid "Esperanto Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-et)
+#, fuzzy
+msgid "Estonian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(arpwatch-ethercodes)
+msgid "Ethercodes Data for arpwatch"
+msgstr ""
+
+#. summary(ebtables)
+msgid "Ethernet Bridge Tables"
+msgstr ""
+
+#. summary(evolution-exchange)
+msgid "Evolution Connector for Microsoft Exchange Server 2000/2003"
+msgstr ""
+
+#. summary(evolution-data-server)
+#, fuzzy
+msgid "Evolution Data Server"
+msgstr "打印服务器"
+
+#. summary(evolution-data-server:evolution-data-server-devel)
+#, fuzzy
+msgid "Evolution Data Server - Development Files"
+msgstr "KDE 开发"
+
+#. description(evolution-data-server)
+msgid ""
+"Evolution Data Server provides a central location for your address book and "
+"calendar in the GNOME Desktop."
+msgstr ""
+
+#. summary(apache2:apache2-example-pages)
+msgid "Example Pages for the Apache 2 Web Server"
+msgstr ""
+
+#. summary(excalibur)
+msgid "Excalibur IOC Frameworks, Containers, Components"
+msgstr ""
+
+#. description(excalibur)
+msgid ""
+"Excalibur is a platform for component and container applications    built on "
+"key design patterns such as Inversion of Control and    Separation of "
+"Concerns available for the Java platform. You can    use Excalibur to build "
+"any number of other applications from    desktop centric Swing apps to "
+"complicated servers. The Avalon    Framework (the core of Excalibur) is "
+"often used as the    \"underpinning\" of a larger application or platform. "
+"Such    applications include Apache Cocoon, Apache James, and the Keel    "
+"Framework. Excalibur is not part of the J2EE stack. While    Excalibur can "
+"be used in developing J2EE applications and even    used to build a J2EE "
+"server, the platform is not part of J2EE or    a J2EE application server. "
+"Excalibur is much simpler and does not    include many J2EE specifications "
+"out of the box. That said, you    might write a J2EE application which "
+"embeds Excalibur (such as in    a servlet) or you may embed a J2EE server in "
+"a larger    Excalibur-based container. The Excalibur platform is the    "
+"following: * A core framework for component programming (The    Avalon "
+"Framework)\n"
+"\n"
+"* An IoC container called Fortress\n"
+"\n"
+"* A set of container utilities called ContainerKit\n"
+"\n"
+"* A component library called Cornerstone When working with Excalibur you may "
+"use one or all of these."
+msgstr ""
+
+#. description(perl-Image-ExifTool:exiftool)
+msgid ""
+"ExifTool by Phil Harvey (phil at owl.phy.queensu.ca)\n"
+"----------------------------------------------------------------------------\n"
+"\n"
+"ExifTool is a a full-featured application for reading and writing meta "
+"information in a wide variety of files, including the maker note information "
+"of many digital cameras by various manufacturers such as Canon, Casio, "
+"FujiFilm, GE, HP, JVC/Victor, Kodak, Leaf, Minolta/Konica-Minolta, Nikon, "
+"Olympus/Epson, Panasonic/Leica, Pentax/Asahi, Reconyx, Ricoh, Samsung, "
+"Sanyo, Sigma/Foveon and Sony.\n"
+"\n"
+"See the description for perl-Image-ExifTool for a list of supported file "
+"types and Meta Information\n"
+"\n"
+"See html/index.html for more details about ExifTool features overall."
+msgstr ""
+
+#. description(expect)
+msgid ""
+"Expect is a tool primarily for automating interactive applications, such as "
+"telnet, ftp, passwd, fsck, rlogin, tip, and more.  Expect really makes this "
+"stuff trivial.  Expect is also useful for testing these applications.  It is "
+"described in many books, articles, papers, and FAQs.  There is an entire "
+"book on it available from O'Reilly."
+msgstr ""
+
+#. summary(cannadic)
+msgid "Extension Dictionary for Canna"
+msgstr ""
+
+#. summary(epiphany-extensions)
+msgid "Extensions Collection for Epiphany"
+msgstr ""
+
+#. summary(anjuta-extras)
+msgid "Extra plugins for anjuta"
+msgstr ""
+
+#. description(fdupes)
+msgid ""
+"FDUPES is a program for identifying or deleting duplicate files residing "
+"within specified directories"
+msgstr ""
+
+#. summary(flac:flac-devel)
+#, fuzzy
+msgid "FLAC Library Development Package"
+msgstr "KDE 开发"
+
+#. description(flac)
+msgid "FLAC is an open source lossless audio codec developed by Josh Coalson."
+msgstr ""
+
+#. description(flex)
+msgid ""
+"FLEX is a tool for generating scanners: programs that recognize lexical "
+"patterns in text."
+msgstr ""
+
+#. description(fam:fam-devel)
+msgid ""
+"Fam is a file alteration monitoring service. This means that you can receive "
+"signals if files are created or changed.\n"
+"\n"
+"This package provides the files that are needed to compile applications "
+"which use the fam service."
+msgstr ""
+
+#. description(fam)
+msgid ""
+"Fam is a file alteration monitoring service. With it, you can receive "
+"signals when files are created or changed.\n"
+"\n"
+"To use fam notifications (it can reduce the network load on NFS servers, "
+"especially if they host user home directories) you need to run the fam "
+"daemon, which can be found in the fam-server package."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-fo)
+#, fuzzy
+msgid "Faroese Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(bogofilter)
+msgid "Fast Anti-Spam Filtering by Bayesian Statistical Analysis"
+msgstr ""
+
+#. summary(flex)
+msgid "Fast Lexical Analyzer Generator"
+msgstr ""
+
+#. description(fetchmail)
+msgid ""
+"Fetchmail is a robust and well-documented remote mail retrieval and "
+"forwarding utility intended to be used over on-demand TCP/IP links (such as "
+"SLIP or PPP connections).\n"
+"\n"
+"Fetchmail retrieves mail from remote mail servers and forwards it to your "
+"local machine's delivery system, so it can be read by normal mail user "
+"agents, such as mutt, elm, pine, (x)emacs/gnus, or mailx.\n"
+"\n"
+"fetchmailconf, an interactive GUI configurator suitable for end-users, is "
+"included in the fetchmailconf package."
+msgstr ""
+
+#. summary(fam)
+msgid "File Alteration Monitoring Daemon"
+msgstr ""
+
+#. summary(commoncpp2:commoncpp2-devel)
+msgid "Files for developing CommonC++ applications"
+msgstr ""
+
+#. summary(bluez:bluez-devel)
+msgid "Files needed for BlueZ development"
+msgstr ""
+
+#. description(bluez:bluez-devel)
+msgid ""
+"Files needed to develop applications for the BlueZ Bluetooth protocol stack."
+msgstr ""
+
+#. description(finger)
+msgid ""
+"Finger is a utility that allows users to see information about system users "
+"(login name, home directory, name, and more) on local and remote systems."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-fi)
+#, fuzzy
+msgid "Finnish Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(kdegames4:bovo)
+msgid "Five-in-a-row board game"
+msgstr ""
+
+#. summary(flickrnet)
+msgid "Flickr"
+msgstr ""
+
+#. summary(fifth-leg-font)
+msgid "Font for the openSUSE Brand"
+msgstr ""
+
+#. summary(dejagnu)
+msgid "Framework for Running Test Suites on Software Tools"
+msgstr ""
+
+#. summary(cedict)
+msgid "Free Chinese-English Dictionary in EDICT Format"
+msgstr ""
+
+#. summary(bpg-fonts)
+msgid "Free Georgian TrueType Fonts by BPG-InfoTech"
+msgstr ""
+
+#. description(bpg-fonts)
+msgid "Free Georgian TrueType fonts by BPG-InfoTech."
+msgstr ""
+
+#. summary(culmus-fonts)
+msgid "Free Hebrew Fonts"
+msgstr ""
+
+#. summary(flac)
+msgid "Free Lossless Audio Codec"
+msgstr ""
+
+#. description(freerdp)
+msgid ""
+"FreeRDP is a client-side implementation of the Remote Desktop Protocol (RDP) "
+"following the Microsoft Open Specifications. This package provides the "
+"client application."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-fr)
+#, fuzzy
+msgid "French Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(bundle-lang-gnome:bundle-lang-gnome-fr)
+msgid "French translations for many GNOME programs"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-fy)
+#, fuzzy
+msgid "Frisian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(fetchmail)
+msgid "Full-Featured POP and IMAP Mail Retrieval Daemon"
+msgstr ""
+
+#. summary(epiphany)
+#, fuzzy
+msgid "GNOME Web Browser"
+msgstr "Galeon Web 浏览器"
+
+#. summary(epiphany-branding-openSUSE)
+msgid "GNOME Web Browser -- openSUSE default bookmarks and user agent string"
+msgstr ""
+
+#. description(autoconf)
+msgid ""
+"GNU Autoconf is a tool for configuring source code and makefiles. Using "
+"autoconf, programmers can create portable and configurable packages, because "
+"the person building the package is allowed to specify various configuration "
+"options.\n"
+"\n"
+"You should install autoconf if you are developing software and would like to "
+"create shell scripts to configure your source code packages.\n"
+"\n"
+"Note that the autoconf package is not required for the end user who may be "
+"configuring software with an autoconf-generated script; autoconf is only "
+"required for the generation of the scripts, not their use."
+msgstr ""
+
+#. summary(binutils)
+msgid "GNU Binutils"
+msgstr ""
+
+#. summary(emacs)
+msgid "GNU Emacs Base Package"
+msgstr ""
+
+#. summary(emacs:emacs-nox)
+msgid "GNU Emacs-nox: An Emacs Binary without X Window System Support"
+msgstr ""
+
+#. summary(emacs:emacs-x11)
+msgid "GNU Emacs: Emacs binary with X Window System Support"
+msgstr ""
+
+#. summary(binutils:binutils-devel)
+msgid "GNU binutils (BFD development files)"
+msgstr ""
+
+#. summary(apport:apport-gtk)
+msgid "GTK frontend for the apport crash report system"
+msgstr ""
+
+#. summary(clutter-gtk:clutter-gtk-devel)
+#, fuzzy
+msgid "GTK+ integration for Clutter - Development Files"
+msgstr "开发"
+
+#. summary(aspell-dictionaries:aspell-gl)
+#, fuzzy
+msgid "Galician Gaelic Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-agal)
+#, fuzzy
+msgid "Galician-portuguese Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(enchant:enchant-voikko)
+msgid "Generic Spell Checking Library - Voikko Plugin"
+msgstr ""
+
+#. summary(bundle-lang-gnome:bundle-lang-gnome-de)
+#, fuzzy
+msgid "German translations for many GNOME programs"
+msgstr "另一个事务已在运行中"
+
+#. summary(aspell-dictionaries:aspell-el)
+#, fuzzy
+msgid "Greek Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(evolution-groupwise)
+msgid "GroupWise Connector for Evolution"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-gu)
+#, fuzzy
+msgid "Gujarati Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(bluez-hcidump)
+msgid "HCI Dumper for Debugging Bluetooth Connections"
+msgstr ""
+
+#. summary(expect:expect-devel)
+#, fuzzy
+msgid "Header Files and C API Documentation for expect"
+msgstr "帮助和支持文档"
+
+#. summary(audit:audit-devel)
+msgid "Header files and static library for libaudit"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-he)
+#, fuzzy
+msgid "Hebrew Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(exo:exo-data)
+msgid "Helpers Data for exo"
+msgstr ""
+
+#. summary(amavisd-new)
+msgid "High-Performance E-Mail Virus Scanner"
+msgstr ""
+
+#. summary(perl-Image-ExifTool:exiftool)
+msgid ""
+"Highly Customizable Perl App for Reading and Writing Meta Information in "
+"Files"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-hi)
+msgid "Hindi (à¤¹à¤¿à¤à¤¦à¥) Dictionary for Aspell"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-hu)
+#, fuzzy
+msgid "Hungarian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(argyllcms)
+msgid "ICC compatible color management system"
+msgstr ""
+
+#. summary(dovecot12)
+msgid "IMAP and POP3 Server Written Primarily with Security in Mind"
+msgstr ""
+
+#. summary(dhcp:dhcp-relay)
+msgid "ISC DHCP Relay Agent"
+msgstr ""
+
+#. summary(dhcp:dhcp-server)
+msgid "ISC DHCP Server"
+msgstr ""
+
+#. summary(capisuite)
+msgid "ISDN Telecommunication Suite Providing Fax and Voice Services"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-is)
+#, fuzzy
+msgid "Icelandic Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(fdupes)
+msgid "Identifying or deleting duplicate files"
+msgstr ""
+
+#. description(armagetron)
+msgid ""
+"In this game, race against other players on a permanently moving lightcycle "
+"(virtual motorbike), which leaves a wall as a trace. The lightcycles can "
+"make 90 degree turns and accelerate when driven close to walls. The game is "
+"over if you hit a wall. The goal of the game is to try to make your enemies "
+"hit the walls, while you avoid doing the same. Unlike glTron, this program "
+"does not require 3D hardware support."
+msgstr ""
+
+#. summary(aspell:aspell-devel)
+#, fuzzy
+msgid "Include Files and Libraries Mandatory for Development with aspell"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(alsa:alsa-devel)
+msgid "Include Files and Libraries mandatory for Development"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-id)
+#, fuzzy
+msgid "Indonesian (Bahasa Indonesia) Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(emacs:emacs-info)
+msgid "Info files for GNU Emacs"
+msgstr ""
+
+#. summary(cscope)
+msgid "Interactive Tool for Browsing C Source Code"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-ia)
+#, fuzzy
+msgid "Interlingua Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(xiterm:fbiterm)
+#, fuzzy
+msgid "Internationalized Terminal Emulator for Framebuffers"
+msgstr "多语言终端模拟器"
+
+#. summary(aspell-dictionaries:aspell-ga)
+#, fuzzy
+msgid "Irish Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-it)
+#, fuzzy
+msgid "Italian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(apache-commons-beanutils)
+msgid "Jakarta Commons BeanUtils Package"
+msgstr ""
+
+#. summary(chasen)
+msgid "Japanese Morphological Analysis System"
+msgstr ""
+
+#. description(chasen)
+msgid ""
+"Japanese Morphological Analysis System, ChaSen\n"
+"\n"
+"ChaSen version 1.0 was officially released on 19 February, 1997 by the "
+"Computational Linguistics Laboratory, the Graduate School of Information "
+"Science, and the Nara Institute of Science and Technology (NAIST). It is a "
+"free Japanese Morphological analyser. It grew out of JUMAN version 2.0 "
+"development and has made significant improvements in system performance. "
+"Origin of Package Name:\n"
+"\n"
+"Takayama, Nara (where NAIST is situated) is famous for producing a tea whisk "
+"used in traditional Japanese tea ceremonies. The Japanese name for the tea "
+"whisk is \"chasen\" and that is the reason for giving the name ChaSen to "
+"this package developed in NAIST."
+msgstr ""
+
+#. summary(asm)
+msgid "Java bytecode manipulation framework"
+msgstr ""
+
+#. summary(aelfred)
+msgid "Java-based XML parser"
+msgstr ""
+
+#. summary(ant-antlr:ant-javadoc)
+msgid "Javadoc for ant"
+msgstr ""
+
+#. description(kdetoys4:amor)
+msgid "KDE creature for your desktop"
+msgstr ""
+
+#. summary(canna)
+msgid "Kana and Kanji Conversion System"
+msgstr ""
+
+#. summary(anthy)
+msgid "Kana-Kanji Conversion Engine"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-csb)
+#, fuzzy
+msgid "Kashubian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-rw)
+#, fuzzy
+msgid "Kinyarwanda Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-ky)
+#, fuzzy
+msgid "Kirghiz Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(844-ksc-pcf)
+msgid "Korean 8x4x4 Johab Fonts"
+msgstr ""
+
+#. description(844-ksc-pcf)
+msgid "Korean 8x4x4 johab fonts."
+msgstr ""
+
+#. summary(alee-fonts)
+msgid "Korean TrueType fonts"
+msgstr ""
+
+#. description(alee-fonts)
+msgid "Korean TrueType fonts by A Lee."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-ku)
+#, fuzzy
+msgid "Kurdi Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(accerciser:accerciser-lang)
+msgid "Languages for package accerciser"
+msgstr ""
+
+#. summary(accountsservice:accountsservice-lang)
+msgid "Languages for package accountsservice"
+msgstr ""
+
+#. summary(aisleriot:aisleriot-lang)
+msgid "Languages for package aisleriot"
+msgstr ""
+
+#. summary(alacarte:alacarte-lang)
+msgid "Languages for package alacarte"
+msgstr ""
+
+#. summary(amarok:amarok-lang)
+msgid "Languages for package amarok"
+msgstr ""
+
+#. summary(anjuta:anjuta-lang)
+msgid "Languages for package anjuta"
+msgstr ""
+
+#. summary(anjuta-extras:anjuta-extras-lang)
+msgid "Languages for package anjuta-extras"
+msgstr ""
+
+#. summary(apparmor:apparmor-parser-lang)
+msgid "Languages for package apparmor"
+msgstr ""
+
+#. summary(apper:apper-lang)
+#, fuzzy
+msgid "Languages for package apper"
+msgstr "语言：     "
+
+#. summary(aqbanking:aqbanking-lang)
+msgid "Languages for package aqbanking"
+msgstr ""
+
+#. summary(at-spi:at-spi-lang)
+msgid "Languages for package at-spi"
+msgstr ""
+
+#. summary(at-spi2-atk:at-spi2-atk-lang)
+msgid "Languages for package at-spi2-atk"
+msgstr ""
+
+#. summary(at-spi2-core:at-spi2-core-lang)
+msgid "Languages for package at-spi2-core"
+msgstr ""
+
+#. summary(atk:atk-lang)
+msgid "Languages for package atk"
+msgstr ""
+
+#. summary(avahi:avahi-lang)
+msgid "Languages for package avahi"
+msgstr ""
+
+#. summary(banshee:banshee-core-lang)
+msgid "Languages for package banshee"
+msgstr ""
+
+#. summary(baobab:baobab-lang)
+#, fuzzy
+msgid "Languages for package baobab"
+msgstr "语言：     "
+
+#. summary(bash:bash-lang)
+msgid "Languages for package bash"
+msgstr ""
+
+#. summary(bluedevil:bluedevil-lang)
+msgid "Languages for package bluedevil"
+msgstr ""
+
+#. summary(brasero:brasero-lang)
+msgid "Languages for package brasero"
+msgstr ""
+
+#. summary(bug-buddy:bug-buddy-lang)
+msgid "Languages for package bug-buddy"
+msgstr ""
+
+#. summary(caribou:caribou-lang)
+#, fuzzy
+msgid "Languages for package caribou"
+msgstr "语言：     "
+
+#. summary(checkinstall:checkinstall-lang)
+#, fuzzy
+msgid "Languages for package checkinstall"
+msgstr "语言：     "
+
+#. summary(cheese:cheese-lang)
+msgid "Languages for package cheese"
+msgstr ""
+
+#. summary(claws-mail:claws-mail-lang)
+msgid "Languages for package claws-mail"
+msgstr ""
+
+#. summary(clutter:clutter-lang)
+msgid "Languages for package clutter"
+msgstr ""
+
+#. summary(clutter-gtk:clutter-gtk-lang)
+msgid "Languages for package clutter-gtk"
+msgstr ""
+
+#. summary(cogl:cogl-lang)
+msgid "Languages for package cogl"
+msgstr ""
+
+#. summary(colord:colord-lang)
+#, fuzzy
+msgid "Languages for package colord"
+msgstr "语言：     "
+
+#. summary(conduit:conduit-lang)
+msgid "Languages for package conduit"
+msgstr ""
+
+#. summary(coreutils:coreutils-lang)
+msgid "Languages for package coreutils"
+msgstr ""
+
+#. summary(cpio:cpio-lang)
+msgid "Languages for package cpio"
+msgstr ""
+
+#. summary(cups-pk-helper:cups-pk-helper-lang)
+msgid "Languages for package cups-pk-helper"
+msgstr ""
+
+#. summary(dasher:dasher-lang)
+msgid "Languages for package dasher"
+msgstr ""
+
+#. summary(dcraw:dcraw-lang)
+msgid "Languages for package dcraw"
+msgstr ""
+
+#. summary(deja-dup:deja-dup-lang)
+msgid "Languages for package deja-dup"
+msgstr ""
+
+#. summary(devhelp:devhelp-lang)
+msgid "Languages for package devhelp"
+msgstr ""
+
+#. summary(dia:dia-lang)
+msgid "Languages for package dia"
+msgstr ""
+
+#. summary(digikam:digikam-lang)
+msgid "Languages for package digikam"
+msgstr ""
+
+#. summary(ekiga:ekiga-lang)
+msgid "Languages for package ekiga"
+msgstr ""
+
+#. summary(empathy:empathy-lang)
+msgid "Languages for package empathy"
+msgstr ""
+
+#. summary(eog:eog-lang)
+msgid "Languages for package eog"
+msgstr ""
+
+#. summary(eog-plugins:eog-plugins-lang)
+msgid "Languages for package eog-plugins"
+msgstr ""
+
+#. summary(epdfview:epdfview-lang)
+#, fuzzy
+msgid "Languages for package epdfview"
+msgstr "语言：     "
+
+#. summary(epiphany:epiphany-lang)
+msgid "Languages for package epiphany"
+msgstr ""
+
+#. summary(epiphany-extensions:epiphany-extensions-lang)
+msgid "Languages for package epiphany-extensions"
+msgstr ""
+
+#. summary(evince:evince-lang)
+msgid "Languages for package evince"
+msgstr ""
+
+#. summary(evolution:evolution-lang)
+msgid "Languages for package evolution"
+msgstr ""
+
+#. summary(evolution-data-server:evolution-data-server-lang)
+msgid "Languages for package evolution-data-server"
+msgstr ""
+
+#. summary(evolution-exchange:evolution-exchange-lang)
+msgid "Languages for package evolution-exchange"
+msgstr ""
+
+#. summary(evolution-webcal:evolution-webcal-lang)
+msgid "Languages for package evolution-webcal"
+msgstr ""
+
+#. summary(exo:exo-lang)
+msgid "Languages for package exo"
+msgstr ""
+
+#. summary(file-roller:file-roller-lang)
+msgid "Languages for package file-roller"
+msgstr ""
+
+#. summary(findutils:findutils-lang)
+msgid "Languages for package findutils"
+msgstr ""
+
+#. summary(folks:folks-lang)
+msgid "Languages for package folks"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-lv)
+#, fuzzy
+msgid "Latvian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aqbanking)
+msgid ""
+"Library for Online Banking Functions and Financial Data Import and Export"
+msgstr ""
+
+#. summary(aqbanking:aqbanking-devel)
+msgid "Library for Online Banking Functions and Financial Data Import/Export"
+msgstr ""
+
+#. summary(epdfview)
+#, fuzzy
+msgid "Lightweight PDF Document Viewer"
+msgstr "文档"
+
+#. summary(aspell-dictionaries:aspell-lt)
+#, fuzzy
+msgid "Lithuanian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-nds)
+#, fuzzy
+msgid "Low Saxon Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-mk)
+#, fuzzy
+msgid "Macedonian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(alpine)
+#, fuzzy
+msgid "Mail User Agent"
+msgstr "目录服务器（LDAP）"
+
+#. summary(aspell-dictionaries:aspell-mg)
+#, fuzzy
+msgid "Malagasy Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-ms)
+#, fuzzy
+msgid "Malay Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-ml)
+#, fuzzy
+msgid "Malayalam Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-mt)
+#, fuzzy
+msgid "Maltese Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(ant-antlr:ant-manual)
+msgid "Manual for ant"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-gv)
+#, fuzzy
+msgid "Manx Gaelic Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-mi)
+#, fuzzy
+msgid "Maori Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-mn)
+#, fuzzy
+msgid "Mongolian (ÐÐ¾Ð½Ð³Ð¾Ð») Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(dbus-1-mono)
+msgid "Mono Bindings for D-Bus"
+msgstr ""
+
+#. summary(evolution-sharp)
+msgid "Mono Bindings for Evolution"
+msgstr ""
+
+#. description(dbus-1-mono)
+msgid "Mono bindings for D-Bus."
+msgstr ""
+
+#. description(evolution-sharp)
+msgid "Mono bindings for Evolution."
+msgstr ""
+
+#. summary(gnome-sharp2:art-sharp2)
+msgid "Mono bindings for libart"
+msgstr ""
+
+#. summary(kdemultimedia4:dragonplayer)
+msgid "Multimedia Player"
+msgstr ""
+
+#. summary(dovecot12:dovecot12-backend-mysql)
+msgid "MySQL support for Dovecot"
+msgstr ""
+
+#. description(culmus-fonts)
+msgid ""
+"Nine Hebrew font families. ASCII glyphs partially borrowed from the URW and "
+"Bitstream fonts.  Those families provide a basic set of a serif (Frank "
+"Ruehl), sans serif (Nachlieli), and monospaced (Miriam Mono) fonts. Also "
+"included Miriam, Drugulin, Aharoni, David, Yehuda, and Ellinia."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-nb)
+#, fuzzy
+msgid "Norwegian Bokmaal Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-nn)
+#, fuzzy
+msgid "Norwegian Nynorsk Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(arpwatch-ethercodes)
+msgid "OUI and company ID data as fetched from IEEE.org prepared for arpwatch."
+msgstr ""
+
+#. summary(kdetoys4:amor)
+msgid "On-Screen Creature"
+msgstr ""
+
+#. summary(armagetron)
+msgid "OpenGL Game Similar to the Film Tron"
+msgstr ""
+
+#. summary(ant-antlr:ant-apache-bcel)
+msgid "Optional apache bcel tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-apache-bsf)
+msgid "Optional apache bsf tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-apache-log4j)
+msgid "Optional apache log4j tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-apache-oro)
+msgid "Optional apache oro tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-apache-regexp)
+msgid "Optional apache regexp tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-apache-resolver)
+msgid "Optional apache resolver tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-commons-logging)
+msgid "Optional commons logging tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-javamail)
+msgid "Optional javamail tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-jdepend)
+msgid "Optional jdepend tasks for ant"
+msgstr ""
+
+#. summary(ant:ant-jmf)
+msgid "Optional jmf tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-junit)
+msgid "Optional junit tasks for ant"
+msgstr ""
+
+#. summary(ant:ant-swing)
+msgid "Optional swing tasks for ant"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-or)
+#, fuzzy
+msgid "Oriya Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(php5:apache2-mod_php5)
+msgid ""
+"PHP is a server-side, cross-platform HTML embedded scripting language. If "
+"you are completely new to PHP and want to get some idea of how it works, "
+"have a look at the Introductory tutorial. Once you get beyond that, have a "
+"look at the example archive sites and some of the other resources available "
+"in the links section.\n"
+"\n"
+"Please refer to /usr/share/doc/packages/php5/README.SUSE for information on "
+"how to load the module into the Apache webserver."
+msgstr ""
+
+#. summary(php5:apache2-mod_php5)
+msgid "PHP5 Module for Apache 2.0"
+msgstr ""
+
+#. summary(crmsh)
+msgid "Pacemaker/CRM shell"
+msgstr ""
+
+#. summary(aria2)
+msgid "Parallelizing Multi-Protocol Utility for Downloading Files"
+msgstr ""
+
+#. summary(a2ps-perl-ja)
+msgid "Perl Version of Miguel Santana's a2ps (with Japanese Support)"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-fa)
+#, fuzzy
+msgid "Persian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-pl)
+#, fuzzy
+msgid "Polish Dictionary for Aspell"
+msgstr "包中含有意外的版本"
+
+#. summary(aspell-dictionaries:aspell-pt_PT)
+#, fuzzy
+msgid "Portuguese Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(bundle-lang-gnome:bundle-lang-gnome-pt)
+msgid "Portuguese translations for a many GNOME programs"
+msgstr ""
+
+#. summary(dovecot12:dovecot12-backend-pgsql)
+msgid "PostgreSQL support for Dovecot"
+msgstr ""
+
+#. description(accerciser:accerciser-lang)
+msgid "Provides translations to the package accerciser"
+msgstr ""
+
+#. description(accountsservice:accountsservice-lang)
+msgid "Provides translations to the package accountsservice"
+msgstr ""
+
+#. description(aisleriot:aisleriot-lang)
+#, fuzzy
+msgid "Provides translations to the package aisleriot"
+msgstr "等待导航栏应用程序"
+
+#. description(alacarte:alacarte-lang)
+msgid "Provides translations to the package alacarte"
+msgstr ""
+
+#. description(amarok:amarok-lang)
+msgid "Provides translations to the package amarok"
+msgstr ""
+
+#. description(anjuta:anjuta-lang)
+msgid "Provides translations to the package anjuta"
+msgstr ""
+
+#. description(anjuta-extras:anjuta-extras-lang)
+msgid "Provides translations to the package anjuta-extras"
+msgstr ""
+
+#. description(apparmor:apparmor-parser-lang)
+msgid "Provides translations to the package apparmor"
+msgstr ""
+
+#. description(apper:apper-lang)
+#, fuzzy
+msgid "Provides translations to the package apper"
+msgstr "等待导航栏应用程序"
+
+#. description(aqbanking:aqbanking-lang)
+msgid "Provides translations to the package aqbanking"
+msgstr ""
+
+#. description(at-spi:at-spi-lang)
+msgid "Provides translations to the package at-spi"
+msgstr ""
+
+#. description(at-spi2-atk:at-spi2-atk-lang)
+#, fuzzy
+msgid "Provides translations to the package at-spi2-atk"
+msgstr "等待导航栏应用程序"
+
+#. description(at-spi2-core:at-spi2-core-lang)
+#, fuzzy
+msgid "Provides translations to the package at-spi2-core"
+msgstr "等待导航栏应用程序"
+
+#. description(atk:atk-lang)
+msgid "Provides translations to the package atk"
+msgstr ""
+
+#. description(avahi:avahi-lang)
+msgid "Provides translations to the package avahi"
+msgstr ""
+
+#. description(banshee:banshee-core-lang)
+#, fuzzy
+msgid "Provides translations to the package banshee"
+msgstr "等待导航栏应用程序"
+
+#. description(baobab:baobab-lang)
+#, fuzzy
+msgid "Provides translations to the package baobab"
+msgstr "等待导航栏应用程序"
+
+#. description(bash:bash-lang)
+msgid "Provides translations to the package bash(bash)"
+msgstr ""
+
+#. description(bluedevil:bluedevil-lang)
+msgid "Provides translations to the package bluedevil"
+msgstr ""
+
+#. description(brasero:brasero-lang)
+msgid "Provides translations to the package brasero"
+msgstr ""
+
+#. description(bug-buddy:bug-buddy-lang)
+msgid "Provides translations to the package bug-buddy"
+msgstr ""
+
+#. description(caribou:caribou-lang)
+#, fuzzy
+msgid "Provides translations to the package caribou"
+msgstr "等待导航栏应用程序"
+
+#. description(checkinstall:checkinstall-lang)
+#, fuzzy
+msgid "Provides translations to the package checkinstall"
+msgstr "等待导航栏应用程序"
+
+#. description(cheese:cheese-lang)
+msgid "Provides translations to the package cheese"
+msgstr ""
+
+#. description(claws-mail:claws-mail-lang)
+msgid "Provides translations to the package claws-mail"
+msgstr ""
+
+#. description(clutter:clutter-lang)
+msgid "Provides translations to the package clutter"
+msgstr ""
+
+#. description(clutter-gtk:clutter-gtk-lang)
+#, fuzzy
+msgid "Provides translations to the package clutter-gtk"
+msgstr "等待导航栏应用程序"
+
+#. description(cogl:cogl-lang)
+#, fuzzy
+msgid "Provides translations to the package cogl"
+msgstr "等待导航栏应用程序"
+
+#. description(colord:colord-lang)
+#, fuzzy
+msgid "Provides translations to the package colord"
+msgstr "等待导航栏应用程序"
+
+#. description(conduit:conduit-lang)
+msgid "Provides translations to the package conduit"
+msgstr ""
+
+#. description(coreutils:coreutils-lang)
+msgid "Provides translations to the package coreutils"
+msgstr ""
+
+#. description(cpio:cpio-lang)
+msgid "Provides translations to the package cpio"
+msgstr ""
+
+#. description(cups-pk-helper:cups-pk-helper-lang)
+msgid "Provides translations to the package cups-pk-helper"
+msgstr ""
+
+#. description(dasher:dasher-lang)
+msgid "Provides translations to the package dasher"
+msgstr ""
+
+#. description(dcraw:dcraw-lang)
+msgid "Provides translations to the package dcraw"
+msgstr ""
+
+#. description(deja-dup:deja-dup-lang)
+msgid "Provides translations to the package deja-dup"
+msgstr ""
+
+#. description(devhelp:devhelp-lang)
+msgid "Provides translations to the package devhelp"
+msgstr ""
+
+#. description(dia:dia-lang)
+msgid "Provides translations to the package dia"
+msgstr ""
+
+#. description(digikam:digikam-lang)
+msgid "Provides translations to the package digikam"
+msgstr ""
+
+#. description(ekiga:ekiga-lang)
+msgid "Provides translations to the package ekiga"
+msgstr ""
+
+#. description(empathy:empathy-lang)
+msgid "Provides translations to the package empathy"
+msgstr ""
+
+#. description(eog:eog-lang)
+msgid "Provides translations to the package eog"
+msgstr ""
+
+#. description(eog-plugins:eog-plugins-lang)
+msgid "Provides translations to the package eog-plugins"
+msgstr ""
+
+#. description(epdfview:epdfview-lang)
+#, fuzzy
+msgid "Provides translations to the package epdfview"
+msgstr "等待导航栏应用程序"
+
+#. description(epiphany:epiphany-lang)
+msgid "Provides translations to the package epiphany"
+msgstr ""
+
+#. description(epiphany-extensions:epiphany-extensions-lang)
+msgid "Provides translations to the package epiphany-extensions"
+msgstr ""
+
+#. description(evince:evince-lang)
+msgid "Provides translations to the package evince"
+msgstr ""
+
+#. description(evolution:evolution-lang)
+msgid "Provides translations to the package evolution"
+msgstr ""
+
+#. description(evolution-data-server:evolution-data-server-lang)
+msgid "Provides translations to the package evolution-data-server"
+msgstr ""
+
+#. description(evolution-exchange:evolution-exchange-lang)
+#, fuzzy
+msgid "Provides translations to the package evolution-exchange"
+msgstr "等待导航栏应用程序"
+
+#. description(evolution-webcal:evolution-webcal-lang)
+msgid "Provides translations to the package evolution-webcal"
+msgstr ""
+
+#. description(exo:exo-lang)
+msgid "Provides translations to the package exo"
+msgstr ""
+
+#. description(file-roller:file-roller-lang)
+msgid "Provides translations to the package file-roller"
+msgstr ""
+
+#. description(findutils:findutils-lang)
+msgid "Provides translations to the package findutils"
+msgstr ""
+
+#. description(folks:folks-lang)
+#, fuzzy
+msgid "Provides translations to the package folks"
+msgstr "等待导航栏应用程序"
+
+#. summary(aspell-dictionaries:aspell-pa)
+#, fuzzy
+msgid "Punjabi Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(apport:apport-qt)
+msgid "Qt4 frontend for the apport crash report system"
+msgstr ""
+
+#. summary(dcraw)
+msgid "Raw Digital Photo Decoding"
+msgstr ""
+
+#. summary(freerdp)
+#, fuzzy
+msgid "Remote Desktop Viewer Client"
+msgstr "最新的桌面创新"
+
+#. summary(aspell-dictionaries:aspell-ro)
+#, fuzzy
+msgid "Romanian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(apache2-mod_mono)
+msgid "Run ASP.NET Pages on Unix with Apache and Mono"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-ru)
+#, fuzzy
+msgid "Russian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(ddskk)
+msgid "SKK (Simple Kana to Kanji Conversion Program) for Emacs"
+msgstr ""
+
+#. description(ddskk)
+msgid ""
+"SKK (Simple Kana to Kanji conversion program) is a Japanese input method for "
+"Emacs. ddskk (Daredevil SKK) is a version of SKK that is aggressively "
+"developed."
+msgstr ""
+
+#. summary(dovecot12:dovecot12-backend-sqlite)
+msgid "SQLite support for Dovecot"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-gd)
+#, fuzzy
+msgid "Scottish Gaelic Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-sr)
+#, fuzzy
+msgid "Serbian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(bsd-games)
+msgid "Several Text-Mode Games"
+msgstr ""
+
+#. summary(finger)
+#, fuzzy
+msgid "Show User Information (Client)"
+msgstr "联网信息服务客户机"
+
+#. summary(blinken)
+msgid "Simon Says Game"
+msgstr ""
+
+#. summary(deja-dup)
+msgid "Simple backup tool and frontend for duplicity"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-sk)
+#, fuzzy
+msgid "Slovak Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-sl)
+#, fuzzy
+msgid "Slovenian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(apache2:apache2-example-pages)
+msgid ""
+"Some Example pages for Apache that show information about the installed "
+"server."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-es)
+#, fuzzy
+msgid "Spanish Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(bundle-lang-gnome:bundle-lang-gnome-es)
+msgid "Spanish translations for many GNOME programs"
+msgstr ""
+
+#. summary(ed)
+msgid "Standard UNIX Line Editor"
+msgstr ""
+
+#. description(bea-stax:bea-stax-api)
+msgid ""
+"Streaming API for XML\n"
+"\n"
+"\n"
+"\n"
+"The StAX API"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-sw)
+#, fuzzy
+msgid "Swahili Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-sv)
+#, fuzzy
+msgid "Swedish Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(colord)
+msgid "System Daemon for Managing Color Devices"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-tl)
+#, fuzzy
+msgid "Tagalog Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-ta)
+#, fuzzy
+msgid "Tamil Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(alevt)
+msgid "Teletext and Videotext Decoder for the BTTV Driver"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-te)
+#, fuzzy
+msgid "Telugu Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(dos2unix)
+msgid "Text converters to and from DOS/MAC to UNIX"
+msgstr ""
+
+#. summary(apache2)
+msgid "The Apache Web Server Version 2.2"
+msgstr ""
+
+#. description(apache2-mod_perl)
+msgid ""
+"The Apache/Perl integration project brings together the full power of the "
+"Perl programming language and the Apache HTTP server.\n"
+"\n"
+"With mod_perl, it is possible to write Apache modules entirely in Perl. The "
+"persistent interpreter embedded in the server avoids the overhead of "
+"starting an external interpreter and the penalty of Perl start-up time.\n"
+"\n"
+"Note that you do not need mod_perl to run perl scripts via the common "
+"gateway interface (CGI). mod_perl enables you to run Perl scripts in an "
+"embedded interpreter if the additional performance is needed, but may "
+"require modifications to the scripts.\n"
+"\n"
+"Usage:\n"
+"\n"
+"To load the module into Apache, run the command \"a2enmod perl\" as root.\n"
+"\n"
+"To learn about the configuration, the best reference unequivocally is http://"
+"perl.apache.org/docs/\n"
+"\n"
+"For porting 1.0 applications to 2.0, the page http://perl.apache.org/"
+"docs/2.0/user/porting/compat.html should give the required information.\n"
+"\n"
+"Most mod_perl handlers use the perl-script handler. Scripts can run in "
+"\"mod_perl mode\" (preconfigured for URLs starting with /perl/) or \"perl "
+"cgi mode\" (preconfigured for URLs starting /cgi-perl). Plain CGI scripts "
+"can be run via /cgi-bin/. In all these cases, the script would be placed "
+"inside the /srv/www/cgi-bin/ directory. Refer to /etc/apache2/conf.d/"
+"mod_perl.conf about this configuration."
+msgstr ""
+
+#. description(apparmor:apparmor-parser)
+msgid ""
+"The AppArmor Parser is a userlevel program that is used to load in program "
+"profiles to the AppArmor Security kernel module.\n"
+"\n"
+"This package is part of a suite of tools that used to be named SubDomain."
+msgstr ""
+
+#. description(argyllcms)
+msgid ""
+"The Argyll color management system supports accurate ICC profile creation "
+"for scanners, CMYK printers, film recorders and calibration and profiling of "
+"displays.\n"
+"\n"
+"Spectral sample data is supported, allowing a selection of illuminants "
+"observer types, and paper fluorescent whitener additive compensation. "
+"Profiles can also incorporate source specific gamut mappings for perceptual "
+"and saturation intents. Gamut mapping and profile linking uses the CIECAM02 "
+"appearance model, a unique gamut mapping algorithm, and a wide selection of "
+"rendering intents. It also includes code for the fastest portable 8 bit "
+"raster color conversion engine available anywhere, as well as support for "
+"fast, fully accurate 16 bit conversion. Device color gamuts can also be "
+"viewed and compared using a VRML viewer."
+msgstr ""
+
+#. description(bcel)
+msgid ""
+"The Byte Code Engineering Library is intended to give users a convenient way "
+"to analyze, create, and manipulate (binary) Java class files (those ending "
+"with .class). Classes are represented by objects that contain all the "
+"symbolic information of the given class: methods, fields, and byte code "
+"instructions, in particular.\n"
+"\n"
+"Such objects can be read from an existing file, transformed by a program "
+"(such as a class loader at runtime), and dumped to a file again. An even "
+"more interesting application is the creation of classes from scratch at "
+"runtime. The Byte Code Engineering Library (BCEL) may also be useful if you "
+"want to learn about the Java Virtual Machine (JVM) and the format of Java ."
+"class files.\n"
+"\n"
+"BCEL is already being used successfully in several projects, such as "
+"compilers, optimizers, obfuscators, code generators, and analysis tools.\n"
+"\n"
+"It contains a byte code verifier named JustIce, which usually gives you much "
+"better information about what is wrong with your code than the standard JVM "
+"message."
+msgstr ""
+
+#. description(cups:cups-devel)
+msgid ""
+"The Common UNIX Printing System (CUPS) is the standards-based, open source "
+"printing system.\n"
+"\n"
+"See http://www.cups.org\n"
+"\n"
+"This is the development package."
+msgstr ""
+
+#. summary(corosync)
+msgid "The Corosync Cluster Engine and Application Programming Interfaces"
+msgstr ""
+
+#. summary(cyrus-imapd)
+msgid "The Cyrus IMAP and POP Mail Server"
+msgstr ""
+
+#. description(ddd)
+msgid ""
+"The DDD debugger (Data Display Debugger) is a comfortable GUI to the well-"
+"known debuggers GDB and DBX. Data structures can be represented as graphs "
+"and shown interactively. Programs can be debugged in C, C++, Pascal, "
+"MODULA-2, FORTRAN, ADA, and even at the assembler code level."
+msgstr ""
+
+#. description(edict)
+msgid ""
+"The EDICT file is the outcome of a voluntary project to produce a freely "
+"available Japanese-English Dictionary in machine readable form. This project "
+"has been under way since early 1991, beginning with the small original file "
+"included with the MOKE (Mark's Own Kanji Editor) Japanese word processing "
+"package. It had reached a size of nearly 103,000 entries when it was split "
+"into two files: EDICT containing the \"normal\" dictionary entries, and "
+"ENAMDICT containing names. Both files are used by a number of software "
+"packages and thousands of users worldwide. The EDICT file now has over "
+"60,000 entries and the ENAMDICT file has over 160,000 entries.\n"
+"\n"
+"Meanwhile, there are also some additional dictionary files for special "
+"purposes, COMPDIC, for example, for words from the computing and "
+"communication field."
+msgstr ""
+
+#. description(evolution-data-server:evolution-data-server-devel)
+msgid ""
+"The Evolution Data Server development files provide the necessary libraries, "
+"headers, and other files for developing applications which use the Evolution "
+"Data Server for storing contact and calendar information."
+msgstr ""
+
+#. description(fifth-leg-font)
+msgid "The Fifth Leg font is the font used for openSUSE branded material."
+msgstr ""
+
+#. description(flickrnet)
+msgid ""
+"The Flickr.Net API is a .Net Library for accessing the Flickr API. Written "
+"entirely in C# it can be accessed from with any .Net language."
+msgstr ""
+
+#. summary(bison)
+msgid "The GNU Parser Generator"
+msgstr ""
+
+#. description(evolution-groupwise)
+msgid ""
+"The GroupWise Connector for Evolution provides a GroupWise backend for "
+"evolution-data-server, as well as plugins for Evolution to access GroupWise "
+"features."
+msgstr ""
+
+#. summary(cluster-glue)
+#, fuzzy
+msgid "The Heartbeat Subsystem for High-Availability Linux"
+msgstr "高可用性"
+
+#. summary(edict)
+msgid "The Japanese Dictionary Files for Jim Breen's EDICT Project"
+msgstr ""
+
+#. description(apache-commons-parent)
+msgid "The Project Object Model files for the apache-commons packages."
+msgstr ""
+
+#. summary(bea-stax:bea-stax-api)
+msgid "The StAX API"
+msgstr ""
+
+#. summary(busybox)
+msgid "The Swiss Army Knife of Embedded Linux"
+msgstr ""
+
+#. description(audit)
+msgid ""
+"The audit package contains the user space utilities for storing and "
+"processing the audit records generated by the audit subsystem in the Linux "
+"2.6 kernel."
+msgstr ""
+
+#. description(audit:audit-devel)
+msgid ""
+"The audit-devel package contains the static libraries and header files "
+"needed for developing applications that need to use the audit framework "
+"libraries."
+msgstr ""
+
+#. summary(clutter:clutter-devel)
+#, fuzzy
+msgid "The clutter library (Development)"
+msgstr "内核接口"
+
+#. description(apache-commons-logging)
+msgid ""
+"The commons-logging package provides a simple, component oriented interface "
+"(org.apache.commons.logging.Log) together with wrappers for logging systems. "
+"The user can choose at runtime which system they want to use. In addition, a "
+"small number of basic implementations are provided to allow users to use the "
+"package standalone. commons-logging was heavily influenced by Avalon's "
+"Logkit and Log4J. The commons-logging abstraction is meant to minimize the "
+"differences between the two, and to allow a developer to not tie himself to "
+"a particular logging implementation."
+msgstr ""
+
+#. description(circuslinux)
+msgid ""
+"The object is to move a teeter-totter back and forth across the screen to "
+"bounce clowns into the air. When they reach the top, they pop rows of "
+"balloons, and then fall back down."
+msgstr ""
+
+#. description(anjuta-extras)
+msgid ""
+"The package contains the following plugins:\n"
+"\n"
+"    * Scintilla Editor     * Scratchbox Support"
+msgstr ""
+
+#. description(apache-commons-beanutils)
+msgid ""
+"The scope of this package is to create a package of Java utility methods for "
+"accessing and modifying the properties of arbitrary JavaBeans.  No "
+"dependencies outside of the JDK are required, so the use of this package is "
+"very lightweight."
+msgstr ""
+
+#. description(ed)
+msgid "The standard, old Unix line editor."
+msgstr ""
+
+#. description(docbook_5)
+msgid ""
+"The version 5.0 release is a complete rewrite of DocBook in RELAX NG. The "
+"intent of this rewrite is to produce a schema that is true to the spirit of "
+"DocBook while simultaneously removing inconsistencies that have arisen as a "
+"natural consequence of DocBook's long, slow evolution."
+msgstr ""
+
+#. description(apache2:apache2-worker)
+msgid ""
+"The worker MPM (multi-Processing Module) implementing a hybrid multi-"
+"threaded multi-process web server.\n"
+"\n"
+"This combination offers a performance boost and retains some of the "
+"stability of the multi-process model."
+msgstr ""
+
+#. description(docbook-xsl-stylesheets)
+msgid ""
+"These are the XSL stylesheets for DocBook XML and \"Simplified\" DocBook "
+"DTDs. Use these stylesheets for documents based on DocBook 4 and earlier; "
+"they are not aware of the namespace feature.\n"
+"\n"
+"The stylesheets transform DocBook documents into HTML, XHTML, Manpages, XSL-"
+"FO (for PDF), and a few other formats.\n"
+"\n"
+"XSL is a standard W3C stylesheet language for both print and online "
+"rendering. For more information about XSL, see the XSL page at the W3C: "
+"http://www.w3.org/Style/XSL/"
+msgstr ""
+
+#. description(docbook5-xsl-stylesheets)
+msgid ""
+"These are the XSL stylesheets for DocBook. Generally, the stylesheets are "
+"namespace aware and you should use these for DocBook 5 only. The stylesheets "
+"transforms your DocBook 5 document into (X)HTML, Manpages, XSL-FO (for PDF) "
+"and a some other formats. XSL is a standard W3C stylesheet language for both "
+"print and online rendering. For more information about XSL, see the XSL page "
+"at theW3C."
+msgstr ""
+
+#. description(audiofile:audiofile-devel)
+msgid ""
+"This Audio File Library is an implementation of the SGI Audio File library. "
+"At present, not all features of the SGI Audio File library are implemented.\n"
+"\n"
+"This library allows the processing of audio data to and from audio files of "
+"many common formats (currently AIFF, AIFC, WAVE, and NeXT/Sun)."
+msgstr ""
+
+#. description(cannadic)
+msgid ""
+"This dictionary has been compiled as a supplement to the dictionaries "
+"distributed with Canna3.5b2. It is based on Kana-Kanji conversion "
+"dictionaries distributed under the GPL and Kana-Kanji conversion distributed "
+"without restrictions. While using this dictionary, many missing words have "
+"been successively added. Currently the main dictionary and the suffix and "
+"prefix dictionary together contain about 130,000 words."
+msgstr ""
+
+#. description(arphic-ukai-fonts)
+msgid ""
+"This font was taken from the from the TrueType fonts generously released by "
+"Arphic Technologies Taiwan under the Arphic Public License. It was modified "
+"with Fontforge by Arne Goetje <arne@linux.org.tw> to contain both Big5 and "
+"GB2312 charsets plus some european characters.\n"
+"\n"
+"Currently it fully supports the following charsets: "
+"ISO8859-1,2,3,4,7,9,10,13,14,15 Big5 GB2312-80 Bopomofo Extensions for "
+"Hakka, Minnan (Unicode 4.0) and MBE variants using the Stylistic "
+"Alternatives (salt) feature from the OTF spec.\n"
+"\n"
+"Partly support is implemented for: HKSCS CNS 11643 GB18030 Japanese Korean"
+msgstr ""
+
+#. description(arphic-uming-fonts)
+msgid ""
+"This font was taken from the from the TrueType fonts generously released by "
+"Arphic Technologies Taiwan under the Arphic Public License. It was modified "
+"with Fontforge by Arne Goetje <arne@linux.org.tw> to contain both Big5 and "
+"GB2312 charsets plus some european characters.\n"
+"\n"
+"Currently it fully supports the following charsets: "
+"ISO8859-1,2,3,4,9,10,13,14,15 Big5 GB2312-80 HKSCS 2004 Bopomofo Extensions "
+"for Hakka, Minnan (Unicode 4.0) and MBE variants using the Alternatives "
+"(aalt) feature from the OTF spec.\n"
+"\n"
+"Partly support is implemented for: CNS 11643 GB18030 Japanese Korean"
+msgstr ""
+
+#. description(cedict)
+msgid ""
+"This is a free Chinese-English dictionary that can be used, for example, "
+"with Gjiten.\n"
+"\n"
+"The objective of the CEDICT project is to create an online, downloadable (as "
+"opposed to searchable-only) public-domain Chinese-English dictionary. For "
+"the most part, the project is modelled on Jim Breen's highly successful "
+"EDICT (Japanese-English dictionary) project and is intended to be a "
+"collaborative effort with users providing entries and corrections to the "
+"main file."
+msgstr ""
+
+#. description(dhcp:dhcp-relay)
+msgid ""
+"This is the ISC DHCP relay agent. It can be used as a 'gateway' for DHCP "
+"messages across physical network segments. This is necessary because "
+"requests can be broadcast, and they will normally not be routed."
+msgstr ""
+
+#. description(at-spi)
+msgid ""
+"This library, based on ATK, is a general interface for applications to make "
+"use of the accessibility toolkit."
+msgstr ""
+
+#. description(bundle-lang-other)
+msgid ""
+"This package collects translations for languages not covered by one of the "
+"bundle-lang-*-* packages."
+msgstr ""
+
+#. description(gnome-sharp2:art-sharp2)
+msgid "This package contains Mono bindings for libart."
+msgstr ""
+
+#. description(cryptconfig)
+msgid ""
+"This package contains a utility for configuring encrypted home directories "
+"and LUKS partitions. It also supports creating LUKS disk images, creating "
+"LUKS partitions, and enlarging disk images along with their file systems.  "
+"This package also contains a pam module that syncs a user's UNIX password "
+"with the password used to encrypt their home directory."
+msgstr ""
+
+#. description(bind:bind-chrootenv)
+msgid ""
+"This package contains all directories and files which are common to the "
+"chroot environment of BIND named and lwresd.  Most is part of the structure "
+"below /var/lib/named."
+msgstr ""
+
+#. description(cairo:cairo-devel)
+msgid ""
+"This package contains all files necessary to build binaries using cairo."
+msgstr ""
+
+#. description(freeglut:freeglut-devel)
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"compile and link applications for the freeglut library.\n"
+"\n"
+"In addition, it also includes manual pages which describe all functions "
+"provided by the freeglut library.\n"
+"\n"
+"Freeglut is a completely open source alternative to the OpenGL Utility "
+"Toolkit (GLUT) library. GLUT was originally written by Mark Kilgard to "
+"support the sample programs in the second edition OpenGL Redbook. Since "
+"then, GLUT has been used in a wide variety of practical applications because "
+"it is simple, universally available, and highly portable.\n"
+"\n"
+"GLUT (and freeglut) allow the user to create and manage windows containing "
+"OpenGL contexts and also read the mouse, keyboard, and joystick functions on "
+"a wide range of platforms."
+msgstr ""
+
+#. description(aspell:aspell-devel)
+#, fuzzy
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"develop applications that require aspell."
+msgstr "包中含有意外的版本"
+
+#. description(file:file-devel)
+#, fuzzy
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"develop applications that require the magic \"file\" interface."
+msgstr "包中含有意外的版本"
+
+#. description(alsa:alsa-devel)
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"develop applications that require these."
+msgstr ""
+
+#. description(freetype2:freetype2-devel)
+msgid ""
+"This package contains all necessary include files, libraries and "
+"documentation needed to develop applications that require the freetype2 "
+"TrueType font library.\n"
+"\n"
+"It also contains a small tutorial for using that library."
+msgstr ""
+
+#. description(boost:boost-devel)
+msgid ""
+"This package contains all that is needed to develop/compile applications "
+"that use the Boost C++ libraries. For documentation see the documentation "
+"packages (html, man or pdf)."
+msgstr ""
+
+#. description(emacs:emacs-info)
+msgid ""
+"This package contains all the Info files for GNU Emacs. These files can be "
+"read online with GNU Emacs. They describe Emacs and some of its modes."
+msgstr ""
+
+#. description(apparmor:apparmor-docs)
+msgid ""
+"This package contains documentation for AppArmor.\n"
+"\n"
+"This package is part of a suite of tools that used to be named SubDomain."
+msgstr ""
+
+#. description(avogadro:avogadro-devel)
+#, fuzzy
+msgid ""
+"This package contains files to develop applications using Avogadros "
+"libraries."
+msgstr "包中含有意外的版本"
+
+#. description(cups-backends)
+msgid "This package contains free additional backends for CUPS."
+msgstr ""
+
+#. description(expect:expect-devel)
+msgid ""
+"This package contains header files and documentation needed for linking to "
+"expect from programs written in compiled languages like C, C++, etc.\n"
+"\n"
+"This package is not needed for developing scripts that run under the /usr/"
+"bin/expect interpreter, or any other Tcl interpreter with the expect package "
+"loaded."
+msgstr ""
+
+#. description(apache2:apache2-devel)
+#, fuzzy
+msgid ""
+"This package contains header files and include files that are needed for "
+"development using the Apache API."
+msgstr "包中含有意外的版本"
+
+#. description(commoncpp2:commoncpp2-devel)
+#, fuzzy
+msgid ""
+"This package contains include files, static libraries and some documentation "
+"for the CommonC++ package. It is needed for developing and compiling CommonC+"
+"+ applications."
+msgstr "包中含有意外的版本"
+
+#. description(apache2:apache2-doc)
+msgid ""
+"This package contains optional documentation provided in addition to this "
+"package's base documentation."
+msgstr ""
+
+#. description(eog-plugins)
+#, fuzzy
+msgid "This package contains plugins for additional features in Eye of GNOME."
+msgstr "包中含有意外的版本"
+
+#. description(corosync)
+msgid ""
+"This package contains the Corosync Cluster Engine Executive, several default "
+"APIs and libraries, default configuration files, and an init script."
+msgstr ""
+
+#. description(apport:apport-gtk)
+#, fuzzy
+msgid ""
+"This package contains the GTK frontend for the apport crash report system."
+msgstr "包中含有意外的版本"
+
+#. description(dhcp:dhcp-server)
+msgid ""
+"This package contains the ISC DHCP server.\n"
+"\n"
+"Please read the documentation in /usr/share/doc/packages/dhcp-server "
+"regarding configuration of the DHCP server."
+msgstr ""
+
+#. description(apport:apport-qt)
+#, fuzzy
+msgid ""
+"This package contains the Qt4 frontend for the apport crash report system."
+msgstr "包中含有意外的版本"
+
+#. description(libarchive:bsdtar)
+#, fuzzy
+msgid "This package contains the bsdtar cmdline utility."
+msgstr "包中含有意外的版本"
+
+#. description(digikam:digikam-doc)
+#, fuzzy
+msgid "This package contains the documentation for digikam"
+msgstr "包中含有意外的版本"
+
+#. description(bash:bash-doc)
+msgid ""
+"This package contains the documentation for using the bourne shell "
+"interpreter Bash."
+msgstr ""
+
+#. description(flac:flac-devel)
+#, fuzzy
+msgid ""
+"This package contains the files needed to compile programs that use the FLAC "
+"library."
+msgstr "包中含有意外的版本"
+
+#. description(epiphany-extensions)
+msgid ""
+"This package contains the following Epiphany extensions: Error Viewer and "
+"Validator, Mouse Gestures, Popup Blocker, and Tabs Move-To Menu."
+msgstr ""
+
+#. description(chmlib:chmlib-devel)
+msgid ""
+"This package contains the headers and documentation for the chmlib API that "
+"programmers will need to develop applications which use chmlib, the software "
+"library for dealing with Microsoft ITSS/CHM format files."
+msgstr ""
+
+#. description(findutils:findutils-locate)
+msgid ""
+"This package contains the locate program which is part of the GNU findutils "
+"software suite.\n"
+"\n"
+"You can find files fast using locate.  On installing findutils-locate an "
+"additional daily cron job will be added to the cron system. This job will "
+"update the files database every night or shortly after switching on the "
+"computer."
+msgstr ""
+
+#. description(build:build-mkbaselibs)
+#, fuzzy
+msgid ""
+"This package contains the parts which may be installed in the inner build "
+"system for generating base lib packages."
+msgstr "包中含有意外的版本"
+
+#. description(build:build-mkdrpms)
+#, fuzzy
+msgid ""
+"This package contains the parts which may be installed in the inner build "
+"system for generating delta rpm packages."
+msgstr "包中含有意外的版本"
+
+#. description(dvb)
+msgid ""
+"This package contains tools to be used with the driver for DVB cards. You "
+"can find further information in /usr/share/doc/packages/dvb/README.SuSE."
+msgstr ""
+
+#. description(docbook_3)
+msgid ""
+"This package contains version 3.0 and 3.1 and an XML version.  It is "
+"suitable for writing technical documentation.\n"
+"\n"
+"The documentation can be found in /usr/share/doc/packages/docbook_3."
+msgstr ""
+
+#. description(bsd-games)
+msgid ""
+"This package copies these games into /usr/games: arithmetic, atc, "
+"backgammon, battlestar, bcd, bog, caesar, canfield, cfscores, cribbage, "
+"factor, fish, fortune, hangman, hunt, mille, monop, morse, number, paranoia, "
+"pom, ppt, primes, rain, robots, sail, snake, snscore, teachgammon, trek, "
+"wargames, worm, worms, and wump."
+msgstr ""
+
+#. description(fontconfig:fontconfig-devel)
+msgid ""
+"This package countains all include files, libraries, configuration files "
+"needed for compiling applications which use the fontconfig library.\n"
+"\n"
+"In addition, it contains extensive documentation and manual pages for "
+"developers using the library.\n"
+"\n"
+"Fontconfig is a library for configuring and customizing font access. It "
+"contains two essential modules, the configuration module which builds an "
+"internal configuration from XML files and the matching module which accepts "
+"font patterns and returns the nearest matching font."
+msgstr ""
+
+#. description(bundle-lang-gnome:bundle-lang-gnome-fr)
+msgid "This package groups French translations for many GNOME programs."
+msgstr ""
+
+#. description(bundle-lang-gnome:bundle-lang-gnome-de)
+msgid "This package groups German translations for many GNOME programs."
+msgstr ""
+
+#. description(bundle-lang-gnome:bundle-lang-gnome-pt)
+msgid "This package groups Portuguese translations for many GNOME programs."
+msgstr ""
+
+#. description(bundle-lang-gnome:bundle-lang-gnome-es)
+msgid "This package groups Spanish translations for many GNOME programs."
+msgstr ""
+
+#. description(bundle-lang-kde:bundle-lang-kde-es)
+msgid ""
+"This package groups translations for a dozen of KDE programs into languages "
+"not split out into extra packages.\n"
+"* amarok\n"
+"* digikam\n"
+"* digikam-doc\n"
+"* gwenview\n"
+"* k3b\n"
+"* kaffeine\n"
+"* kdebase3-SuSE\n"
+"* kdetv\n"
+"* kerry\n"
+"* kipi-plugins\n"
+"* konversation\n"
+"* ktorrent\n"
+"* libkipi"
+msgstr ""
+
+#. description(bundle-lang-gnome:bundle-lang-gnome-cs)
+msgid "This package groups translations for many GNOME programs."
+msgstr ""
+
+#. description(binutils:binutils-devel)
+msgid ""
+"This package includes header files and static libraries necessary to build "
+"programs which use the GNU BFD library, which is part of binutils."
+msgstr ""
+
+#. description(autoyast2)
+msgid ""
+"This package is intended for management of the control files and the "
+"AutoYaST2 configurations. This system should only be used by experienced "
+"system administrators. Warning: AutoYaST2 performs the installation without "
+"any user intervention, warnings, or confirmations (unless specified "
+"otherwise in the control file).\n"
+"\n"
+"This file contains YaST2-independent files needed to create installation "
+"sources."
+msgstr ""
+
+#. description(bootcycle)
+msgid ""
+"This package provides a boot script that is used for boot cycle detection to "
+"avoid unconditional reboot cycles on an unsupervised system.  For example, "
+"on INTEL IA32 the GNU GRUB multiboot loader is used for this."
+msgstr ""
+
+#. description(frei0r-plugins)
+msgid ""
+"This package provides a collection of video sources and filters plugins, "
+"using the Frei0r API."
+msgstr ""
+
+#. description(build)
+#, fuzzy
+msgid ""
+"This package provides a script for building RPMs for SUSE Linux in a chroot "
+"environment."
+msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+
+#. description(color-filesystem)
+msgid ""
+"This package provides directories and rpm macros that are required/used to "
+"store color management data for many applications."
+msgstr ""
+
+#. description(apparmor:apparmor-utils)
+msgid ""
+"This package provides the aa-logprof, aa-genprof, aa-autodep, aa-enforce, "
+"and aa-complain tools to assist with profile authoring. Besides it provides "
+"the aa-unconfined server information tool. It is part of a suite of tools "
+"that used to be named SubDomain."
+msgstr ""
+
+#. description(exo:exo-data)
+#, fuzzy
+msgid "This package provides the helpers data for exo."
+msgstr "包中含有意外的版本"
+
+#. description(xfce4-branding-openSUSE:exo-branding-openSUSE)
+#, fuzzy
+msgid "This package provides the openSUSE look and feel for the exo library."
+msgstr "包中含有意外的版本"
+
+#. description(exo:exo-tools)
+#, fuzzy
+msgid "This package provides tools and helpers for exo."
+msgstr "包中含有意外的版本"
+
+#. description(desktop-translations)
+msgid "This package provides translations for installed desktop files."
+msgstr ""
+
+#. description(at)
+msgid "This program allows you to run jobs at specified times."
+msgstr ""
+
+#. description(a2ps-perl-ja)
+msgid ""
+"This program is a Perl version of Miguel Santana's a2ps.  Postscript Kanji "
+"enhancement was done by Naoki Kanazawa <kanazawa@sra.co.jp>. Converted to "
+"perl and enhanced by Kazumasa Utashiro <utashiro@iij.ad.jp>.  B4 support and "
+"punchmark was contributed by Masami Ueno <cabbage@kki.esi.yamanashi.ac.jp>."
+msgstr ""
+
+#. description(cpupower)
+msgid ""
+"This tool is to make access to the Linux kernel's processor power subsystems "
+"like CPU frequency switching (cpufreq) or CPU sleep states (cpuidle) for "
+"users and userspace tools easier."
+msgstr ""
+
+#. description(createrepo)
+msgid ""
+"This utility generates a common metadata repository from a directory of RPM "
+"packages."
+msgstr ""
+
+#. summary(enblend-enfuse)
+msgid "Tool for Composing Images"
+msgstr ""
+
+#. summary(findutils:findutils-locate)
+msgid "Tool for Locating Files (findutils subpackage)"
+msgstr ""
+
+#. summary(dvb)
+msgid "Tools for Digital (DVB) TV Cards"
+msgstr ""
+
+#. summary(exo:exo-tools)
+msgid "Tools for exo"
+msgstr ""
+
+#. description(dbsplit-tools)
+msgid "Tools for splitting and merging DocBook documents,"
+msgstr ""
+
+#. summary(cpupower)
+msgid "Tools to determine and set CPU Power related Settings"
+msgstr ""
+
+#. summary(build:build-mkbaselibs)
+msgid "Tools to generate base lib packages"
+msgstr ""
+
+#. summary(build:build-mkdrpms)
+msgid "Tools to generate delta rpms"
+msgstr ""
+
+#. summary(bundle-lang-kde:bundle-lang-kde-es)
+msgid "Translations for a group of KDE programs"
+msgstr ""
+
+#. summary(bundle-lang-other)
+msgid ""
+"Translations for languages not covered by one of the bundle-lang-*-* packages"
+msgstr ""
+
+#. summary(bundle-lang-gnome:bundle-lang-gnome-cs)
+msgid "Translations for many GNOME programs"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-tr)
+#, fuzzy
+msgid "Turkish Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-tk)
+#, fuzzy
+msgid "Turkmen Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(dhcp-tools)
+msgid ""
+"Two utilities, written by Edwin Groothuis, to test and debug DHCP:\n"
+"\n"
+"dhcpdump This parses tcpdump output to display the dhcp-packets for easier "
+"checking and debugging.\n"
+"\n"
+"dhcping This allows the system administrator to check if a remote DHCP "
+"server is still functioning.\n"
+"\n"
+"Home page: http://www.mavetju.org"
+msgstr ""
+
+#. summary(biosdevname)
+msgid "Udev helper for naming devices per BIOS names"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-uk)
+#, fuzzy
+msgid "Ukrainian Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(efont-unicode-bitmap-fonts)
+msgid "Unicode Font by /efont/"
+msgstr ""
+
+#. summary(cm-unicode-fonts)
+msgid "Unicode Version of the Computer Modern Fonts"
+msgstr ""
+
+#. description(efont-unicode-bitmap-fonts)
+msgid ""
+"Unicode fonts developed by /efont/ openlab. This font package includes "
+"12,14, 16, and 24 pixel ISO-10646 fonts."
+msgstr ""
+
+#. summary(convert)
+msgid "Unit Conversion"
+msgstr ""
+
+#. description(docbook-dsssl-stylesheets)
+msgid ""
+"Use these DSSSL stylesheets to convert DocBook documents into other formats. "
+"\"Print\" (TeX and RTF) and \"online\" (HTML) output formats are available.\n"
+"\n"
+"The stylesheets are customizable and, within limits, it is possible to adapt "
+"them for your own needs. Numerous native languages are supported.\n"
+"\n"
+"The authors of these stylesheets do not inlude any new features, but only "
+"fix bugs."
+msgstr ""
+
+#. summary(audit)
+msgid "User Space Tools for 2.6 Kernel Auditing"
+msgstr ""
+
+#. description(checkinstall)
+msgid ""
+"Uses installwatch to keep track of all files created or modified during the "
+"run of an installation script like \"make install\". The information is used "
+"to create a rpm package that holds all files installed by the tracked "
+"installation. This makes it possible, for example, to remove all files later "
+"with rpm -e package or to install the package on another system."
+msgstr ""
+
+#. description(apache2:apache2-utils)
+msgid ""
+"Utilities provided by the Apache 2 Web Server project which are useful to "
+"administrators of web servers in general."
+msgstr ""
+
+#. summary(diffstat)
+msgid "Utility That Provides Statistics Based on the Output of diff"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-uz)
+msgid "Uzbek (ÐÐ·Ð±ÐµÐºÑÐ°) Dictionary for Aspell"
+msgstr ""
+
+#. summary(alsa-tools)
+msgid "Various ALSA Tools"
+msgstr ""
+
+#. description(alsa-tools)
+msgid "Various tools for ALSA including DSP loaders."
+msgstr ""
+
+#. summary(anjuta)
+#, fuzzy
+msgid "Versatile Integrated Development Environment for GNOME"
+msgstr " 集成开发环境"
+
+#. summary(aspell-dictionaries:aspell-vi)
+#, fuzzy
+msgid "Vietnamese Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(enchant:enchant-voikko)
+msgid ""
+"Voikko plugin (Finnish) for enchant, a library providing an efficient "
+"extensible abstraction for dealing with different spell checking libraries."
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-wa)
+#, fuzzy
+msgid "Walloon Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(aspell-dictionaries:aspell-cy)
+#, fuzzy
+msgid "Welsh Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. description(evolution-exchange)
+msgid ""
+"With the Connector for Microsoft Exchange installed, Evolution functions as "
+"an Exchange client, enabling users to become full participants in "
+"companywide group scheduling and other collaborative tasks. Linux and "
+"Solaris users can access public folders, Global Address Lists, e-mail, "
+"calendar, task lists, and group scheduling information."
+msgstr ""
+
+#. summary(docbook-xsl-stylesheets)
+msgid "XSL Stylesheets for DocBook 4"
+msgstr ""
+
+#. summary(docbook5-xsl-stylesheets)
+msgid "XSL Stylesheets for DocBook 5"
+msgstr ""
+
+#. summary(autoyast2)
+msgid "YaST2 - Automated Installation"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-yi)
+#, fuzzy
+msgid "Yiddish Dictionary for Aspell"
+msgstr "正在更新软件"
+
+#. summary(dasher)
+msgid "Zooming Predictive Text Entry System"
+msgstr ""
+
+#. summary(dasher:dasher-data-extras)
+msgid ""
+"Zooming Predictive Text Entry System -- Data files for additional languages"
+msgstr ""
+
+#. summary(dasher:dasher-data-recommended)
+msgid "Zooming Predictive Text Entry System -- Data files for common languages"
+msgstr ""
+
+#. summary(aspell-dictionaries:aspell-zu)
+msgid "Zulu Dictionary Package for Aspell"
+msgstr ""
+
+#. description(aria2)
+msgid ""
+"aria2 is a utility for downloading files. It has completely new design "
+"concept from its predecessor, Aria, and is written from scratch. aria2 has a "
+"segmented downloading engine in its core. It can download one file from "
+"multiple URLs or multiple connections from one URL. This results in very "
+"high speed downloading, much faster than ordinary browsers. This engine in "
+"was implemented in a single-thread model. The architecture is clean and easy "
+"to extend.\n"
+"\n"
+"aria2 currently supports HTTP, FTP, and BitTorrent."
+msgstr ""
+
+#. description(atftp)
+msgid ""
+"atftp stands for Advanced Trivial File Transfer Protocol. It is called "
+"\"advanced\", in contrast to others TFTP servers, for two reasons. First, it "
+"is intended to be fully compliant with all related RFCs. This includes "
+"RFC1350, RFC2090, RFC2347, RFC2348, and RFC2349. Second, atftp is intended "
+"for serving boot files to large clusters. It is multithreaded and will "
+"eventually support multicast, allowing faster boot of hundreds of machines "
+"simultaneously."
+msgstr ""
+
+#. description(automoc4)
+msgid ""
+"automoc4 is a tool to add rules for generating Qt moc files automatically to "
+"projects that use CMake as the buildsystem."
+msgstr ""
+
+#. description(biosdevname)
+msgid ""
+"biosdevname in its simplest form takes an kernel name name as an argument, "
+"and returns the BIOS-given name it \"should\" be.  This is necessary on "
+"systems where the BIOS name for a given device (e.g. the label on the "
+"chassis is \"Gb1\") doesn't map directly and obviously to the kernel name (e."
+"g. eth0).\n"
+"\n"
+"You can enable/disable usage of biosdevname with boot option \"biosdevname="
+"[0|1]\""
+msgstr ""
+
+#. description(ccache)
+msgid ""
+"ccache is a compiler cache. It speeds up recompilation by caching the result "
+"of previous compilations and detecting when the same compilation is being "
+"done again. Supported languages are C, C++, Objective-C and Objective-C++."
+msgstr ""
+
+#. description(ddclient)
+msgid ""
+"ddclient is a small full-featured client requiring only Perl. Supported "
+"features include daemon operation, manual and automatic updates, static and "
+"dynamic updates, optimized updates for multiple addresses, MX, wild cards, "
+"abuse avoidance, retry for failed updates, and status updates to syslog and "
+"through e-mail. ddclient can obtain the IP address from any interface, "
+"through a Web-based IP detection service, and for multiple routers using "
+"custom FW definitions. It also provides full support for DynDNS.org's NIC2 "
+"protocol. Support is also included for other dynamic DNS services. Comes "
+"with sample scripts for use with DHCP, PPP, and cron."
+msgstr ""
+
+#. description(diffstat)
+msgid ""
+"diffstat reads the output of the diff command and displays a histogram of "
+"the insertions, deletions, and modifications in each file."
+msgstr ""
+
+#. description(digikam)
+msgid ""
+"digiKam is a simple digital photo management application for KDE, which "
+"allows you to import and organize your digital photos easily. The photos can "
+"be organized in albums, which can be sorted chronologically, by directory "
+"layout, or by custom collections. An easy-to-use interface that enables you "
+"to connect to your camera and preview, download, or delete your images, is "
+"provided."
+msgstr ""
+
+#. description(dosbox)
+msgid ""
+"dosbox is a DOS emulator that, thanks to its good graphics and sound "
+"emulation, is exceptionally well-suited for playing games. dosbox features a "
+"built-in DOS operating system and transparent access to the Linux file "
+"system and is therefore very easy to use."
+msgstr ""
+
+#. description(epdfview)
+msgid ""
+"ePDFView is a lightweight PDF document viewer using Poppler and GTK+ "
+"libraries. The aim of ePDFView is to make a simple PDF document viewer, in "
+"the lines of Evince but without using the Gnome libraries."
+msgstr ""
+
+#. description(cluster-glue)
+msgid ""
+"heartbeat is a sophisticated multinode resource manager for High "
+"Availability clusters.\n"
+"\n"
+"It can failover arbitrary resources, ranging from IP addresses over NFS to "
+"databases that are tied in via resource scripts. The resources can have "
+"arbitrary dependencies for ordering or placement between them.\n"
+"\n"
+"heartbeat contains a cluster membership layer, fencing, and local and "
+"clusterwide resource management functionality.\n"
+"\n"
+"1.2/1.0 based 2-node only configurations are supported in a legacy mode.\n"
+"\n"
+"heartbeat implements the following kinds of heartbeats:\n"
+"\n"
+"- Serial ports\n"
+"\n"
+"- UDP/IPv4 broadcast, multi-cast, and unicast\n"
+"\n"
+"- IPv4 \"ping\" pseudo-cluster members."
+msgstr ""
+
+#. summary(avahi:avahi-compat-mDNSResponder-devel)
+msgid ""
+"mDNSResponder Compatibility Package for D-BUS Service for Zeroconf/Bonjour"
+msgstr ""
+
+#. description(apache2-mod_dnssd)
+msgid ""
+"mod_dnssd is an Apache HTTPD module which adds Zeroconf support via DNS-SD "
+"using Avahi."
+msgstr ""
+
+#. description(apache2-mod_mono)
+msgid ""
+"mod_mono is a module that interfaces Apache with Mono and allows running ASP."
+"NET pages on Unix and Unix-like systems. To load the module into Apache, run "
+"the command \"a2enmod mono\" as root."
+msgstr ""
+
+#. description(apache2-mod_python)
+msgid ""
+"mod_python allows embedding Python within the Apache HTTP server for a "
+"considerable boost in performance and added flexibility in designing Web-"
+"based applications.\n"
+"\n"
+"Apache processes requests in stages (for example: read the request, parse "
+"headers, check access, and so on). These stages can be implemented by "
+"functions called handlers. Traditionally, handlers are written in C and "
+"compiled into Apache modules. mod_python provides a way to extend Apache "
+"functionality by writing Apache handlers in Python. For a detailed "
+"description of the Apache request processing process, see the Apache API "
+"notes.\n"
+"\n"
+"For most programmers, the request and the authentication handlers provide "
+"everything required. To ease migration from CGI and Httpdapy, two handlers "
+"are provided that simulate these environments, allowing a user to run "
+"scripts under mod_python with (for the most part) no changes to the code.\n"
+"\n"
+"mod_python originated from a project called Httpdapy. For a long time, "
+"Httpdapy was not called mod_python because Httpdapy was not meant to be "
+"Apache-specific. Httpdapy was designed to be cross-platform and was "
+"initially written for the Netscape server.\n"
+"\n"
+"Usage Hints:\n"
+"\n"
+"To load mod_python into Apache, add it to APACHE_MODULES in /etc/sysconfig/"
+"apache2. The configuration is described in /usr/share/doc/packages/apache2-"
+"mod_python/doc-html/index.html."
+msgstr ""
+
+#. description(apache2-mod_tidy)
+msgid ""
+"mod_tidy is a module for Apache that works as a filter that hooks itself to "
+"HTML output.\tmod_tidy feeds the HTML output to TidyLib (http://tidy."
+"sourceforge.net/), which validates the HTML output.  If TidyLib finds an "
+"error, the client receives a HTML page with a list of all found errors. If "
+"TidyLib does not complain, you get your HTML data as without mod_tidy.\n"
+"\n"
+"To load the module into Apache, run the command \"a2enmod tidy\" as root.\n"
+"\n"
+"To learn about the configuration, refer to /usr/share/doc/packages/apache2-"
+"mod_tidy/README."
+msgstr ""
+
+#. summary(xfce4-branding-openSUSE:exo-branding-openSUSE)
+#, fuzzy
+msgid "openSUSE Branding of exo"
+msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "Bluetooth Manager for KDE"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "Development files for clucene library"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Deskbar applet for GNOME"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "Java runtime for antlr"
+#~ msgstr "7.0 文档"

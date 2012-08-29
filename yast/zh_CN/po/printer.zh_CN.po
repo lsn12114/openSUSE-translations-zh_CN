@@ -1,0 +1,4438 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Eric Shan <ericalways@gmail.com>, 2008.
+# Thruth Wang <lihaow@opera.com>, 2007, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: printer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:48+0200\n"
+"PO-Revision-Date: 2012-07-11 14:32+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/Printer.ycp:92
+msgid ""
+"<p>\n"
+"AutoYaST settings for printing with CUPS via network.<br>\n"
+"There is no AutoYaST support for local print queues.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"通过网络上的通用 UNIX 打印系统 (CUPS) 打印的 AutoYaST 设置。<br>\n"
+"AutoYaST 不支持本地打印队列。\n"
+"</p>"
+
+#. Header of a DownloadProgress indicator:
+#: src/Printer.ycp:389
+msgid "Retrieving printer driver information..."
+msgstr "正在获取打印机驱动信息..."
+
+#. Busy message:
+#. Body of a Popup::ShowFeedback:
+#: src/Printer.ycp:406
+msgid ""
+"Retrieving printer driver information...\n"
+"(this could take more than a minute)"
+msgstr ""
+"正在获取打印机驱动信息...\n"
+"(这可能会花一分多钟的时间)"
+
+#. Popup::ErrorDetails message.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#: src/Printer.ycp:419
+msgid "Failed to create PPD database."
+msgstr "无法创建 PostScript 打印机描述 (PPD) 数据库。"
+
+#. Message of a Popup::Error where %1 will be replaced by the file name.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#: src/Printer.ycp:435 src/Printer.ycp:560 src/Printer.ycp:639
+#: src/Printer.ycp:699
+#, ycp-format
+msgid "File %1 does not exist."
+msgstr "文件 %1 不存在。"
+
+#. Message of a Popup::Error where %1 will be replaced by the file name.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#: src/Printer.ycp:453 src/Printer.ycp:578 src/Printer.ycp:651
+#: src/Printer.ycp:711
+#, ycp-format
+msgid "Failed to read %1."
+msgstr "未能读取 %1。"
+
+#. Header for a finished ProgressBar:
+#: src/Printer.ycp:476
+msgid "Retrieved Printer Driver Information"
+msgstr "获取的打印机驱动信息"
+
+#. Header of a DownloadProgress indicator:
+#. Busy message:
+#. Body of a Popup::ShowFeedback:
+#: src/Printer.ycp:510 src/Printer.ycp:529
+msgid "Detecting printers..."
+msgstr "正在检测打印机..."
+
+#. Popup::ErrorDetails message.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#. Do not confuse this error with the case when no printer was autodetected.
+#. The latter results no error.
+#: src/Printer.ycp:544
+msgid "Failed to detect printers automatically."
+msgstr "未能自动检测打印机。"
+
+#. Header for a finished ProgressBar:
+#: src/Printer.ycp:592
+msgid "Printer detection finished"
+msgstr "打印机检测完成"
+
+#. Popup::ErrorDetails message.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#. Do not confuse this error with the case when no queue was detected
+#. (e.g. simply because there is no queue). This results no error.
+#: src/Printer.ycp:629
+msgid "Failed to detect print queues."
+msgstr "未能检测到打印队列。"
+
+#. Popup::ErrorDetails message where %1 will be replaced by the queue name.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#. Do not confuse this error with the case when no queue was detected
+#. (e.g. simply because there is no queue). This results no error.
+#: src/Printer.ycp:687
+#, ycp-format
+msgid "Failed to determine driver options for queue %1."
+msgstr "为队列 %1 确定驱动程序参数失败。"
+
+#. Define the progress stages:
+#. Header of a Progress::New:
+#: src/Printer.ycp:731
+msgid "Initializing Printer Configuration"
+msgstr "正在初始化打印机配置"
+
+#. 1. progress stage name of a Progress::New:
+#: src/Printer.ycp:735
+msgid "Check installed packages"
+msgstr "检查已安装的包"
+
+#. 1. progress step progress bar title of a Progress::New:
+#: src/Printer.ycp:738
+msgid "Checking installed packages..."
+msgstr "正在检查已安装的包..."
+
+#. Last progress step progress bar title of a Progress::New:
+#: src/Printer.ycp:740 src/Printer.ycp:796
+msgid "Finished"
+msgstr "已完成"
+
+#. Define the progress stages:
+#. Header of a Progress::New:
+#: src/Printer.ycp:787
+msgid "Finishing Printer Configuration"
+msgstr "正在完成打印机配置"
+
+#. 1. progress stage name of a Progress::New:
+#: src/Printer.ycp:791
+msgid "Finish printer configuration"
+msgstr "完成打印机配置"
+
+#. 1. progress step progress bar title of a Progress::New:
+#: src/Printer.ycp:794
+msgid "Finishing printer configuration..."
+msgstr "正在完成打印机配置..."
+
+#. Message of a Popup::Error.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#. Do not confuse this error with the case when no queue was detected
+#. (e.g. simply because there is no queue). This results no error.
+#: src/Printer.ycp:1091
+msgid "Cannot show print queues (failed to detect print queues)."
+msgstr "无法显示打印队列（检测打印队列失败）。"
+
+#. When the queue configuration exists on the local host:
+#: src/Printer.ycp:1116
+msgid "Local"
+msgstr "本地"
+
+#. When the class configuration exists on the local host:
+#: src/Printer.ycp:1120
+msgid "Class"
+msgstr "类"
+
+#. When the queue configuration exists on a remote machine:
+#: src/Printer.ycp:1124
+msgid "Remote"
+msgstr "远程"
+
+#. When the queue is the default queue on the local host:
+#: src/Printer.ycp:1128
+msgid "Yes"
+msgstr "是"
+
+#. When the queue accepts print jobs and printing is enabled:
+#: src/Printer.ycp:1131
+msgid "Ready"
+msgstr "准备就绪"
+
+#. When printing is disabled for the queue:
+#: src/Printer.ycp:1134
+msgid "Printout disabled"
+msgstr "打印输出已禁用"
+
+#. When the queue rejects print jobs and printing is disabled:
+#: src/Printer.ycp:1139
+msgid "Rejecting print jobs, printout disabled"
+msgstr "拒绝打印任务，禁用打印输出"
+
+#. When the queue rejects print jobs:
+#: src/Printer.ycp:1143
+msgid "Rejecting print jobs"
+msgstr "拒绝打印任务"
+
+#. Show a fallback text if there are no queues:
+#: src/Printer.ycp:1175
+msgid "There is no print queue."
+msgstr "没有打印队列。"
+
+#. Message of a Popup::Error.
+#. Only a simple message because before the function AutodetectPrinters
+#. was called and this function would have shown more specific messages.
+#: src/Printer.ycp:1217
+msgid "Failed to autodetect printers."
+msgstr "未能自动检测打印机。"
+
+#. Show a fallback text if there are no connections.
+#: src/Printer.ycp:1476
+msgid "No connections."
+msgstr "无连接。"
+
+#. A hint what to do if there are no connections.
+#. 'Detect More' and 'Connection Wizard' are
+#. button lables and must be translated accordingly:
+#: src/Printer.ycp:1480
+msgid "Try 'Detect More' or use the 'Connection Wizard'."
+msgstr "尝试 ‘检测更多’ 或使用 ‘连接向导’。"
+
+#. Message of a Popup::Error.
+#. Only a simple message because before the function CreateDatabase
+#. was called and this function would have shown more specific messages.
+#: src/Printer.ycp:1501
+msgid "Failed to create the printer driver database."
+msgstr "创建打印机驱动数据库失败。"
+
+#. If no driver was already selected, show a meaningful text as
+#. fallback entry for a SelectionBox when no connection is selected.
+#. It will be replaced by real content, when a connection is selected.
+#: src/Printer.ycp:1526
+msgid "Select a connection, then matching drivers show up here."
+msgstr "选择一个连接，之后匹配的驱动将在此处出现。"
+
+#. Busy message:
+#. Body of a Popup::ShowFeedback:
+#: src/Printer.ycp:1542
+msgid "Determining matching printer drivers..."
+msgstr "正在确定匹配的驱动程序..."
+
+#. If the driver_items list is empty (e.g. because of a too restrictive driver_filter_string),
+#. show a meaningful text as fallback entry ('Find More' is a button label).
+#: src/Printer.ycp:1586
+msgid "No matching driver found. Change the search string or try 'Find More'."
+msgstr "未找到匹配的驱动。请更换搜索关键词或尝试 '查找更多'。"
+
+#. Busy message:
+#. Body of a Popup::ShowFeedback:
+#: src/Printer.ycp:1609
+msgid "Processing many printer drivers. Please wait..."
+msgstr "正在处理多个驱动。请稍候..."
+
+#. When no driver was preselected, prepend a dummy entry
+#. because the first entry in a SelectionBox is always preselected in the GUI
+#. (it does not help to have all items in a SelectionBox with 'false' as third argument).
+#. Do not have this dummy entry preselected (i.e. no 'true' as a third argument)
+#. because in the BasicModifyDialog the currently used driver is additionally prepended
+#. and then the currently used driver must be preselected by default because
+#. the currently used driver is then the very first entry in the SelectionBox.
+#. Body of a Popup::AnyMessage when no driver was selected:
+#: src/Printer.ycp:1933 src/Printer.ycp:1957 src/basicadd.ycp:190
+#: src/basicadd.ycp:357 src/basicadd.ycp:550 src/basicmodify.ycp:901
+msgid "Select a driver."
+msgstr "选择一个驱动。"
+
+#. Popup::ErrorDetails message where %1 will be replaced by the queue name.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#: src/Printer.ycp:1997
+#, ycp-format
+msgid "Failed to add queue %1."
+msgstr "添加队列 %1 失败。"
+
+#. Popup::ErrorDetails message where %1 will be replaced by the queue name.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#: src/Printer.ycp:2086
+#, ycp-format
+msgid "Failed to delete configuration %1."
+msgstr "删除配置 %1 失败。"
+
+#. Message of a Popup::Error.
+#. Only a simple message because this is only a fallback case
+#. which should not happen at all:
+#: src/Printer.ycp:2112
+msgid "Failed to determine the driver options."
+msgstr "确定驱动程序参数失败。"
+
+#. Return at least a list with only a fallback string so that the user is informed:
+#. Header of a Popup::AnyMessage when "Driver Options" was selected:
+#: src/Printer.ycp:2115 src/Printer.ycp:2226 src/basicmodify.ycp:705
+msgid "No driver options available"
+msgstr "无可用的驱动选项"
+
+#. Info for a currently selected item which is to be set as new value in the system:
+#: src/Printer.ycp:2119
+msgid "new value"
+msgstr "新值"
+
+#. Info for a current setting which is the currently still saved value in the system:
+#: src/Printer.ycp:2121
+msgid "saved value"
+msgstr "保存值"
+
+#. The tests here are the same (except verbosity) as in the cups_client_only tool.
+#. First do the most meaningful test and only if this works return true.
+#. The subsequent tests are only there to provide more info for the user
+#. what might be the reason why the server is not accessible via port 631.
+#. Popup message
+#. where %1 will be replaced by the server name.
+#: src/Printer.ycp:2258
+#, ycp-format
+msgid "The server '%1' is not accessible via port 631 (IPP/CUPS)."
+msgstr "服务器 '%1' 无法通过端口 631 (网络打印协议 IPP/通用 UNIX 打印系统 CUPS) 访问。"
+
+#. Popup message
+#. where %1 will be replaced by the server name.
+#: src/Printer.ycp:2263
+#, ycp-format
+msgid "The server '%1' responds to a 'ping' in the network."
+msgstr "服务器 '%1' 回应网络中的 'ping'。"
+
+#. Popup message
+#. where %1 will be replaced by the server name.
+#: src/Printer.ycp:2268
+#, ycp-format
+msgid "The server '%1' does not respond to a 'ping' in the network."
+msgstr "服务器 '%1' 不对网络中的 'ping' 做出响应。"
+
+#. Popup message
+#. where %1 will be replaced by the server name.
+#: src/Printer.ycp:2273
+#, ycp-format
+msgid "The server name '%1' is known in the network."
+msgstr "服务器名称“%1”在网络中已知。"
+
+#. Popup message
+#. where %1 will be replaced by the server name.
+#: src/Printer.ycp:2278
+#, ycp-format
+msgid "The server name '%1' is not known in the network."
+msgstr "服务器名称“%1”在网络中未知。"
+
+#. Show negative feedback:
+#. Popup::ErrorDetails message:
+#: src/Printer.ycp:2298
+msgid "Cannot execute the program 'netcat'."
+msgstr "无法执行程序 'netcat'。"
+
+#. Popup::ErrorDetails details:
+#: src/Printer.ycp:2300
+msgid "The RPM package 'netcat' is required for a meaningful test."
+msgstr "需要 'netcat' RPM 软件包执行一次有意义的测试。"
+
+#. Show negative feedback:
+#. Popup::ErrorDetails message
+#: src/Printer.ycp:2329
+msgid "Cannot execute the program 'ping'."
+msgstr "无法执行程序 'ping'。"
+
+#. Popup::ErrorDetails details:
+#: src/Printer.ycp:2331
+msgid "The RPM package 'iputils' is required for a meaningful test."
+msgstr "需要 'iputils' RPM 软件包执行一次有意义的测试。"
+
+#. The netcat-test had failed.
+#. Show negative feedback:
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the server name.
+#: src/Printer.ycp:2349
+#, ycp-format
+msgid "The server '%1' is not accessible."
+msgstr "服务器 %1 不可访问。"
+
+#. Show negative feedback:
+#. Popup::ErrorDetails message
+#: src/Printer.ycp:2383
+msgid "Cannot execute the program 'host'."
+msgstr "无法执行程序 'host'。"
+
+#. Popup::ErrorDetails details:
+#: src/Printer.ycp:2385
+msgid "The RPM package 'bind-utils' is required for a meaningful test."
+msgstr "需要 'bind-utils' RPM 软件包执行一次有意义的测试。"
+
+#. The netcat-test or the ping-test failed.
+#. Show negative feedback:
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the server name.
+#: src/Printer.ycp:2403
+#, ycp-format
+msgid "The server '%1' does not respond in the network."
+msgstr "服务器 %1 在网络中没有响应。"
+
+#. The netcat-test or the ping-test or the host-test failed.
+#. Show negative feedback:
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the server name.
+#: src/Printer.ycp:2433
+#, ycp-format
+msgid "The server '%1' is unknown."
+msgstr "服务器“%1”未知。"
+
+#. Message of a Popup::Error when hp-setup should be run.
+#. Do not change or translate "hp-setup", it is a program name.
+#. Do not change or translate "DISPLAY", it is an environment variable name.
+#: src/Printer.ycp:2461
+msgid ""
+"Cannot run hp-setup because no graphical display can be opened.\n"
+"This happens in particular when YaST runs in text-only mode,\n"
+"or when the user who runs YaST has no DISPLAY environment variable set,\n"
+"or when the YaST process is not allowed to access the graphical display.\n"
+"In this case you should run hp-setup manually directly as user 'root'.\n"
+msgstr ""
+"无法运行 hp-setup 因为没有打开图形显示屏幕。\n"
+"这经常在 YaST 运行在文本模式下时发生，或者在\n"
+"运行 YaST 的用户没有设置 DISPLAY 环境变量时发生，\n"
+"又或者在 YaST 进程不允许访问图形显示屏幕时发生。\n"
+"在这种情况下您应该直接以 'root' 用户身份手动运行 hp-setup。\n"
+
+#. Message of a Popup::Error when hp-setup should be run.
+#. Do not change or translate "hp-setup", it is a program name:
+#: src/Printer.ycp:2470
+msgid ""
+"Cannot run hp-setup because\n"
+"/usr/bin/hp-setup is not executable\n"
+"or does not exist.\n"
+msgstr ""
+"无法运行 hp-setup 由于\n"
+"/usr/bin/hp-setup 不具有可执行权限\n"
+"或不存在。\n"
+
+#. Body of a Popup::ShowFeedback.
+#. Do not change or translate "hp-setup", it is a program name:
+#: src/Printer.ycp:2477
+msgid ""
+"Launched hp-setup.\n"
+"You must finish hp-setup before you can proceed with the printer configuration.\n"
+msgstr ""
+"hp-setup 已启动。\n"
+"在继续配置打印机前，您必须完成 hp-setup。\n"
+
+#. Only a notification but no installation of HPLIP here.
+#. Installing the package hplip can pull in tons of required packages
+#. because the hplip package does not only provide the 'hp' backend but is a
+#. full featured multifunction solution with GUI for HP printers and all-in-one devices.
+#. HPLIP supports printing, scanning, faxing, photo card access, and device management.
+#. Additionally installing hplip can become very complicated (see driveradd.ycp).
+#. Therefore the RunHpsetup function is not bloated with installing HPLIP.
+#. Popup:::Error when the user had selected to run hp-setup
+#. from the BasicAdd dialog but the RPM package hplip is not installed:
+#. Do not change or translate "hp-setup", it is a program name.
+#. Do not change or translate "hplip", it is a package name.
+#. Translate 'Driver Packages' the same as the PushButton name to go to the "Add Driver" dialog:
+#: src/Printer.ycp:2507
+msgid ""
+"To run hp-setup, the RPM package hplip must be installed.\n"
+"Use 'Driver Packages' to install it."
+msgstr ""
+"必须安装 RPM 软件包 hplip 才能运行 hp-setup。\n"
+"使用 '驱动软件包' 来安装它。"
+
+#. Message of a Popup::Error where %1 will be replaced by the package name:
+#: src/Printerlib.ycp:116
+#, ycp-format
+msgid "Required package %1 is not installed and there is no package repository available."
+msgstr "未安装必需的包 %1 且安装源不可用。"
+
+#. Message of a Popup::Error where %1 will be replaced by the package name:
+#: src/Printerlib.ycp:125
+#, ycp-format
+msgid "Required package %1 is not installed and not available in the repository."
+msgstr "未安装必需的包 %1 且安装源中该包不可用。"
+
+#. Message of a Popup::Error where %1 will be replaced by the package name.
+#. Only a simple message because:
+#. Either the user has explicitly rejected to install the package,
+#. or this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#: src/Printerlib.ycp:148
+#, ycp-format
+msgid "Failed to install required package %1."
+msgstr "未能安装必需的包 %1。"
+
+#. Body of a Popup::ContinueCancel
+#. where %1 will be replaced by the package name
+#. when removing package %1 would break dependencies.
+#: src/Printerlib.ycp:164
+#, ycp-format
+msgid "Remove package %1?"
+msgstr "移除软件包 %1？"
+
+#. There is no Popup::ContinueCancelHeadlineDetails available.
+#. Therefore the exact RPM message is shown via a separated Popup::ErrorDetails.
+#. Message of a Popup::ErrorDetails
+#. where %1 will be replaced by the package name.
+#: src/Printerlib.ycp:200
+#, ycp-format
+msgid "Removing package %1 would break dependencies."
+msgstr "移除软件包 %1 将会破坏依赖关系。"
+
+#. Header of a Popup::ContinueCancelHeadline
+#. where %1 will be replaced by the package name
+#. when removing package %1 would break dependencies.
+#: src/Printerlib.ycp:208
+#, ycp-format
+msgid "Remove %1 regardless of breaking dependencies?"
+msgstr "移除 %1，即使会破坏依赖关系？"
+
+#. Body of a Popup::ContinueCancelHeadline
+#. when removing package %1 would break dependencies.
+#: src/Printerlib.ycp:213
+msgid "Breaking dependencies leads to arbitrary failures elsewhere."
+msgstr "破坏依赖关系会导致其它地方发生任何故障。"
+
+#. Message of a Popup::ErrorDetails
+#. where %1 will be replaced by the package name.
+#. Only a simple message because this error does not happen on a normal system.
+#: src/Printerlib.ycp:226
+#, ycp-format
+msgid "Failed to remove package %1."
+msgstr "移除软件包 %1 失败。"
+
+#. Enforce user confirmation before a new service is started
+#. to be on the safe side that the user knows about it:
+#. PopupYesNoHeadline headline:
+#: src/Printerlib.ycp:258
+msgid "Start locally running CUPS daemon"
+msgstr "启动本地运行中的 CUPS 守护精灵"
+
+#. PopupYesNoHeadline body:
+#: src/Printerlib.ycp:260
+msgid "A locally running CUPS daemon is needed."
+msgstr "需要本地运行中的 CUPS 守护精灵。"
+
+#. Popup::ErrorDetails message:
+#: src/Printerlib.ycp:267
+msgid "Failed to start the CUPS daemon"
+msgstr "启动 CUPS 守护精灵失败"
+
+#. Wait half a minute for a new started cupsd is necessary because
+#. when a client-only config is switched to a "get Browsing info" config
+#. the BrowseInterval in cupsd.conf on remote CUPS servers is by default 30 seconds
+#. so that the local cupsd should listen at least 31 seconds to get Browsing info
+#. before e.g. the Overview dialog can be shown with the right current queues.
+#. After waiting 10 seconds without user notification, become verbose now.
+#. Wait half a minute for a new started cupsd:
+#: src/Printerlib.ycp:279 src/printer_proposal.ycp:152
+msgid ""
+"Started the CUPS daemon.\n"
+"Waiting half a minute for the CUPS daemon to get ready to operate...\n"
+msgstr ""
+"CUPS 守护精灵已启动。\n"
+"等待半分钟，让它准备好接受操作指令...\n"
+
+#. It can take up to a few minutes when a cupsd is started
+#. for the very first time (e.g. on a new installed system)
+#. until the cupsd is actually ready to operate.
+#. E.g. because parsing of thousands of PPDs may need much time.
+#. Therefore enforce waiting one minute now.
+#. (Plain busy message without title.)
+#: src/Printerlib.ycp:292 src/printer_proposal.ycp:165
+msgid ""
+"The CUPS daemon is not yet accessible.\n"
+"Waiting one minute so that it is ready to operate..."
+msgstr ""
+"尚不能访问 CUPS 守护精灵。\n"
+"等待一分钟让它准备好接受操作指令..."
+
+#. Popup::Error message:
+#: src/Printerlib.ycp:299 src/Printerlib.ycp:349
+msgid "No locally running CUPS daemon is accessible."
+msgstr "没有可访问的本地运行中的 CUPS 守护精灵。"
+
+#. Popup::ErrorDetails message:
+#: src/Printerlib.ycp:305 src/Printerlib.ycp:364
+msgid "Failed to enable starting of the CUPS daemon during system boot"
+msgstr "在系统引导时启动 CUPS 守护精灵失败"
+
+#. Enforce user confirmation before the cupsd is restarted
+#. to be on the safe side regarding complaints in an enterprise environment
+#. because a restart disrupts all currently actively printing jobs:
+#. PopupYesNoHeadline headline:
+#: src/Printerlib.ycp:318
+msgid "Restart locally running CUPS daemon"
+msgstr "重启本地运行中的 CUPS 守护精灵"
+
+#. PopupYesNoHeadline body:
+#: src/Printerlib.ycp:320
+msgid "A restart disrupts all currently active print jobs."
+msgstr "重启会干扰所有当前活动的打印任务。"
+
+#. Popup::ErrorDetails message:
+#: src/Printerlib.ycp:327
+msgid "Failed to restart the CUPS daemon"
+msgstr "重启 CUPS 守护精灵失败"
+
+#. Wait half a minute for a restarted cupsd is necessary because
+#. when a "no Browsing info" config is switched to a "get Browsing info" config
+#. the BrowseInterval in cupsd.conf on remote CUPS servers is by default 30 seconds
+#. so that the local cupsd should listen at least 31 seconds to get Browsing info
+#. before e.g. the Overview dialog can be shown with the right current queues.
+#: src/Printerlib.ycp:341
+msgid ""
+"Restarted the CUPS daemon.\n"
+"Waiting half a minute for the CUPS daemon to get ready to operate...\n"
+msgstr ""
+"重启了 CUPS 守护精灵。\n"
+"等待半分钟让它准备好接受操作指令...\n"
+
+#. PopupYesNoHeadline headline:
+#: src/Printerlib.ycp:357
+msgid "Enable starting of the CUPS daemon during system boot"
+msgstr "启用开机引导时自动启动 CUPS 守护精灵"
+
+#. PopupYesNoHeadline body:
+#: src/Printerlib.ycp:359
+msgid "Currently the CUPS daemon is not started during system boot."
+msgstr "目前 CUPS 守护精灵未随系统引导而启动。"
+
+#. Enforce user confirmation before the cupsd is stopped
+#. to be on the safe side regarding complaints in an enterprise environment
+#. because a stop disrupts all currently actively printing jobs:
+#. PopupYesNoHeadline headline:
+#: src/Printerlib.ycp:379
+msgid "Stop locally running CUPS daemon"
+msgstr "停止本地运行中的 CUPS 守护精灵"
+
+#. PopupYesNoHeadline body:
+#: src/Printerlib.ycp:381
+msgid "A stop disrupts all currently active print jobs."
+msgstr "停止会干扰所有当前活动的打印任务。"
+
+#. Popup::Error message:
+#: src/Printerlib.ycp:397
+msgid "A locally running CUPS daemon is still accessible."
+msgstr "本地运行中的 CUPS 守护精灵仍可以访问。"
+
+#. When there is a non-empty client_conf_server_name,
+#. cups_client_only fails when the client-only server is not accessible:
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the server name.
+#: src/Printerlib.ycp:443
+#, ycp-format
+msgid "The CUPS server '%1' is not accessible."
+msgstr "CUPS 服务器 '%1' 不可访问。"
+
+#. Label for a ProgressBar while waiting for updated config files:
+#: src/Printerlib.ycp:600
+msgid "Updating configuration files..."
+msgstr "正在更新配置文件..."
+
+#. Label for a PushButton to skip waiting for updated config files:
+#: src/Printerlib.ycp:608
+msgid "&Skip waiting"
+msgstr "跳过等待(&S)"
+
+#. CheckBox to trigger an automatic configuration of local connected printers
+#. by calling the YaST printer module autoconfig functionality right now.
+#: src/autoconfig.ycp:50
+msgid "&Do an automatic configuration of local connected printers now"
+msgstr "立即对本地连接上的打印机进行自动配置(&D)"
+
+#. Header for a dialog section where the user can
+#. specify if USB printers are configured automatically:
+#: src/autoconfig.ycp:62
+msgid "Specify if automatic USB printer configuration should happen when plug in"
+msgstr "指定是否在插入 USB 打印机时进行自动配置"
+
+#. CheckBox for automatic configuration of USB printers
+#. by installing or removing the RPM package udev-configure-printer.
+#. Do not change or translate "udev-configure-printer", it is a RPM package name.
+#: src/autoconfig.ycp:75
+msgid "&Use the package udev-configure-printer for automatic USB printer configuration"
+msgstr "使用 udev-configure-printer 软件包进行自动 USB 打印机配置(&U)"
+
+#. PopupYesNoHeadline headline
+#. where %1 will be replaced by the server name:
+#. It was initially a client-only config,
+#. but now the user has deactivated it
+#. so that the client-only config should be disabled:
+#. PopupYesNoHeadline headline
+#. where %1 will be replaced by the server name:
+#: src/autoconfig.ycp:93 src/overview.ycp:911 src/policies.ycp:123
+#: src/printingvianetwork.ycp:373 src/sharing.ycp:536
+#, ycp-format
+msgid "Disable Remote CUPS Server '%1'"
+msgstr "禁用远程 CUPS 服务器 '%1'"
+
+#. PopupYesNoHeadline body:
+#: src/autoconfig.ycp:97
+msgid "A remote CUPS server setting conflicts with automatic configuration of printers for the local system."
+msgstr "一个远程 CUPS 服务器设置与本地系统的打印机自动配置冲突。"
+
+#. Popup::ErrorDetails message:
+#. Popup::ErrorDetails message.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#. Popup::ErrorDetails message:
+#: src/autoconfig.ycp:109 src/overview.ycp:214 src/overview.ycp:923
+#: src/policies.ycp:139 src/printingvianetwork.ycp:383 src/sharing.ycp:552
+msgid "Failed to remove the 'ServerName' entry in /etc/cups/client.conf"
+msgstr "从  /etc/cups/client.conf 移除 'ServerName' 项失败"
+
+#. Popup::Error message when the RPM package udev-configure-printer could not be installed:
+#: src/autoconfig.ycp:169
+msgid "Failed to install udev-configure-printer."
+msgstr "安装 udev-configure-printer 失败。"
+
+#. Popup::Error message when the RPM package udev-configure-printer could not be removed:
+#: src/autoconfig.ycp:184
+msgid "Failed to remove udev-configure-printer."
+msgstr "移除 udev-configure-printer 失败。"
+
+#: src/autoconfig.ycp:213
+msgid "The automated printer configuration was in vain."
+msgstr "自动打印机配置无效。"
+
+#. Popup::AnyMessage header:
+#: src/autoconfig.ycp:216
+msgid "Automated printer configuration results"
+msgstr "自动打印机配置结果"
+
+#: src/basicadd.ycp:48 src/basicmodify.ycp:48
+msgid "any model"
+msgstr "任何型号"
+
+#. Caption for the "Add Printer" dialog (BasicAddDialog):
+#: src/basicadd.ycp:51
+msgid "Add New Printer Configuration"
+msgstr "添加新打印机配置"
+
+#. Set a fallback driver_filter_string which does not match to anything
+#. to avoid that the full list of thousands of PPDs is shown automatically
+#. because it can take a very long time until the user can proceed:
+#: src/basicadd.ycp:77 src/basicadd.ycp:505 src/basicmodify.ycp:273
+#: src/basicmodify.ycp:822
+msgid "Enter your printer model here."
+msgstr "输入打印机型号。"
+
+#. Caption for a Table with a list of printer connections:
+#: src/basicadd.ycp:85
+msgid "Specify the Connection"
+msgstr "指定连接"
+
+#. Label of a PushButton to restart printer autodetection
+#. to show more available printer connections
+#. in the Table with a list of printer connections:
+#: src/basicadd.ycp:93 src/basicmodify.ycp:289
+msgid "&Detect More"
+msgstr "检测更多(&D)"
+
+#. Label of a PushButton to go to the "Connection Wizard"
+#. to specify the printer connection individually:
+#: src/basicadd.ycp:99 src/basicmodify.ycp:295 src/printingvianetwork.ycp:177
+msgid "Connection &Wizard"
+msgstr "连接向导(&W)"
+
+#. Header of a Table column with a list of printer connections.
+#. Printer model name:
+#. Headers of a Table with a list of printer connections:
+#. Header of a Table column with a list of printer connections.
+#. Printer model name:
+#: src/basicadd.ycp:116 src/basicadd.ycp:447 src/basicmodify.ycp:312
+#: src/basicmodify.ycp:742 src/connectionwizard.ycp:479
+msgid "Model"
+msgstr "型号"
+
+#. Header of a Table column with a list of printer connections.
+#. Connection of the printer (e.g. via USB or via parallel port):
+#. Caption for a Table with a list of printer connections:
+#. Header of a Table column with a list of printer connections.
+#. Connection of the printer (e.g. via USB or via parallel port):
+#: src/basicadd.ycp:119 src/basicadd.ycp:450 src/basicmodify.ycp:281
+#: src/basicmodify.ycp:315 src/basicmodify.ycp:745
+#: src/connectionwizard.ycp:482
+msgid "Connection"
+msgstr "连接"
+
+#. Header of a Table column with a list of printer connections.
+#. Additional description of the printer or its particular connection:
+#. Header of a Table column with a list of print queues.
+#. Print queue description (e.g. model or driver):
+#: src/basicadd.ycp:122 src/basicadd.ycp:453 src/basicmodify.ycp:318
+#: src/basicmodify.ycp:748 src/connectionwizard.ycp:485 src/overview.ycp:89
+msgid "Description"
+msgstr "描述"
+
+#. Caption for a printer driver selection:
+#: src/basicadd.ycp:133
+msgid "Find and Assign a Driver"
+msgstr "查找并指定驱动"
+
+#. Label of a PushButton to search a list for a search string
+#. and then show the search result:
+#: src/basicadd.ycp:150 src/basicadd.ycp:317 src/basicmodify.ycp:353
+#: src/basicmodify.ycp:493
+msgid "&Search for"
+msgstr "搜索(&S)"
+
+#. Label of a PushButton to find and show more available printer drivers:
+#: src/basicadd.ycp:171 src/basicmodify.ycp:374
+msgid "&Find More"
+msgstr "查找更多(&F)"
+
+#. Label of a PushButton to go to the "Add Driver" dialog
+#. to install or remove driver packages (and perhaps download it before):
+#: src/basicadd.ycp:177 src/basicmodify.ycp:380
+msgid "Driver &Packages"
+msgstr "驱动包(&P)"
+
+#. Label of a RadioButtonGroup to specify the default paper size:
+#: src/basicadd.ycp:198 src/basicmodify.ycp:217
+msgid "Default paper size (if printer and driver supports it)"
+msgstr "默认纸张大小(若打印机和驱动都支持)"
+
+#. Header of a TextEntry to enter the queue name:
+#: src/basicadd.ycp:226 src/basicadd.ycp:538
+msgid "Set Arbitrary &Name"
+msgstr "设置专有名称(&N)"
+
+#. CheckBox to set a local print queue to be the default queue:
+#: src/basicadd.ycp:235 src/basicmodify.ycp:421
+msgid "&Use as Default"
+msgstr "用作默认(&U)"
+
+#. Label text to run HPLIP's printer setup tool 'hp-setup'
+#. to set up HP printers:
+#: src/basicadd.ycp:248
+msgid "Alternative setup for HP printers:"
+msgstr "惠普打印机的附加设置："
+
+#. Label of a PushButton to run HPLIP's printer setup tool 'hp-setup'.
+#. Do not change or translate "hp-setup", it is a program name:
+#: src/basicadd.ycp:256
+msgid "Run &hp-setup"
+msgstr "运行 hp-setup (&H)"
+
+#. Label text to inform the user that HPLIP's
+#. printer setup tool 'hp-setup' runs in English language.
+#. Do not change or translate "hp-setup", it is a program name:
+#: src/basicadd.ycp:264
+msgid "hp-setup runs in English language"
+msgstr "以英文语境运行 hp-setup"
+
+#. Header of a Popup::AnyMessage when neither a connection
+#. nor a driver was selected:
+#. Header of a Popup::AnyMessage when no queue was selected from the list:
+#: src/basicadd.ycp:338 src/overview.ycp:520 src/overview.ycp:584
+#: src/overview.ycp:956
+msgid "Nothing Selected"
+msgstr "未选择任何项"
+
+#. Body of a Popup::AnyMessage when neither a connection
+#. nor a driver was selected:
+#: src/basicadd.ycp:341
+msgid "Select a connection and then assign a driver."
+msgstr "选定一个连接之后指定一款驱动。"
+
+#. Header of a Popup::AnyMessage when no connection was selected:
+#: src/basicadd.ycp:347 src/basicadd.ycp:475 src/basicmodify.ycp:772
+msgid "No Connection Selected"
+msgstr "没有选定连接"
+
+#. Body of a Popup::AnyMessage when no connection was selected:
+#: src/basicadd.ycp:349 src/basicadd.ycp:477 src/basicmodify.ycp:774
+msgid "Select a connection."
+msgstr "选择一个连接。"
+
+#. Header of a Popup::AnyMessage when no driver was selected:
+#: src/basicadd.ycp:355 src/basicadd.ycp:548 src/basicmodify.ycp:899
+msgid "No Driver Selected"
+msgstr "无选定驱动"
+
+#. Header of a Popup::AnyMessage when no queue name was entered:
+#: src/basicadd.ycp:364
+msgid "No Queue Name"
+msgstr "无队列名"
+
+#. Body of a Popup::AnyMessage when no queue name was entered:
+#: src/basicadd.ycp:366
+msgid "Enter a queue name."
+msgstr "输入一个队列名。"
+
+#. Header of a Popup::AnyMessage when a wrong queue name was entered:
+#: src/basicadd.ycp:372
+msgid "Invalid Queue Name"
+msgstr "无效队列名"
+
+#. Body of a Popup::AnyMessage when a wrong queue name was entered:
+#: src/basicadd.ycp:374
+msgid "Only letters (a-z and A-Z), numbers (0-9), and the underscore '_' are allowed for the queue name."
+msgstr "队列名中仅允许使用字母 (a-z 和 A-Z)，数字 (0-9) 和下划线 '_' 。"
+
+#. Header of a Popup::ContinueCancelHeadline
+#. when a queue name is changed to be valid:
+#: src/basicadd.ycp:382
+msgid "Confirm Validated Queue Name"
+msgstr "确认有效队列名"
+
+#. Body of a Popup::ContinueCancelHeadline
+#. when a queue name was automatically changed to be valid
+#. where %1 will be replaced by the old invalid queue name
+#. and %2 will be replaced by a new valid queue name
+#: src/basicadd.ycp:387
+#, ycp-format
+msgid "'%1' is invalid or it exists already. Use '%2' instead?"
+msgstr "'%1' 无效或者已经存在。使用 '%2' 替代么？"
+
+#. Since CUPS 1.4 the new DirtyCleanInterval directive controls the delay when cupsd updates config files:
+#. Since CUPS 1.4 the new DirtyCleanInterval directive controls
+#. the delay when cupsd updates config files (see basicadd.ycp).
+#: src/basicadd.ycp:412 src/basicadd.ycp:741 src/printer_proposal.ycp:266
+msgid "Creating New Printer Setup"
+msgstr "正在创建新的打印机设置"
+
+#. It returns false if the user had interrupted the waiting for updated config files:
+#. Message of a Popup::ErrorDetails:
+#: src/basicadd.ycp:415 src/basicadd.ycp:744 src/printer_proposal.ycp:269
+msgid "New Printer Configuration not yet Stored in the System"
+msgstr "新打印机配置还未储存到系统中"
+
+#. Explanation details of a Popup::ErrorDetails.
+#. The 'next dialog' is the overview dialog where the printer configurations are shown
+#. which has a 'Refresh List' button to update the shown printer configurations:
+#: src/basicadd.ycp:419 src/basicadd.ycp:748
+msgid "If the next dialog does not show the new printer configuration as expected, wait some time and use the 'Refresh List' button."
+msgstr "如果下一个对话框未如预期的显示新打印机配置，请点击 '刷新列表' 按钮。"
+
+#. Message of a Popup::Error.
+#. Only a simple message because before the RunHpsetup function was called
+#. and this function would have shown more specific messages.
+#. Do not change or translate "hp-setup", it is a program name:
+#: src/basicadd.ycp:730
+msgid "Failed to run hp-setup."
+msgstr "运行 hp-setup 失败。"
+
+#. Title of the Basic Modify Dialog where %1 will be replaced by the queue name.
+#. The actual queue name is a system value which cannot be translated:
+#: src/basicmodify.ycp:70
+#, ycp-format
+msgid "Modify %1"
+msgstr "修改 %1"
+
+#. Label of a PushButton to go to a dialog
+#. to set all available options for the printer driver
+#. which is currently used for a print queue:
+#: src/basicmodify.ycp:109
+msgid "All &Options for the Current Driver"
+msgstr "当前驱动所有选项(&O)"
+
+#: src/basicmodify.ycp:177
+msgid "Default Paper Size of the Current Driver"
+msgstr "当前驱动默认纸张大小"
+
+#: src/basicmodify.ycp:244
+msgid "Current Connection"
+msgstr "当前连接"
+
+#. Do not change or translate "raw", it is a technical term when no driver is used.
+#. Do not change or translate "System V style interface script", it is a technical term.
+#: src/basicmodify.ycp:260
+msgid "No driver is used (it is a 'raw' queue or a 'System V style interface script' is used)"
+msgstr "没有使用驱动（在使用一个“原始”队列或者“System V 风格接口脚本”）"
+
+#: src/basicmodify.ycp:265
+msgid "Current Driver"
+msgstr "当前驱动"
+
+#. Caption for a printer driver selection:
+#: src/basicmodify.ycp:329
+msgid "Adjust Options of the Current Driver or Assign a Different Driver"
+msgstr "调整当前驱动的选项或指定一个不同的驱动"
+
+#. Label of a TextEntry for a short printer driver description (only one line):
+#: src/basicmodify.ycp:404
+msgid "Description &Text"
+msgstr "描述文本(&T)"
+
+#. Label of a TextEntry for printer location string:
+#: src/basicmodify.ycp:412
+msgid "&Location"
+msgstr "位置(&L)"
+
+#. CheckBox to set a local print queue to accept print jobs:
+#: src/basicmodify.ycp:428
+msgid "Accept Print &Jobs"
+msgstr "接受打印任务(&J)"
+
+#. CheckBox to enable printing for a local print queue:
+#: src/basicmodify.ycp:435
+msgid "&Enable Printing"
+msgstr "启用打印(&E)"
+
+#. Message of a Popup::ErrorDetails
+#. where %1 will be replaced by the queue name.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#: src/basicmodify.ycp:629
+#, ycp-format
+msgid "Failed to modify %1."
+msgstr "修改 %1 失败。"
+
+#. Since CUPS 1.4 the new DirtyCleanInterval directive controls the delay when cupsd updates config files:
+#: src/basicmodify.ycp:672
+msgid "Modifying Printer Setup"
+msgstr "正在修改打印机设置"
+
+#. It returns false if the user had interrupted the waiting for updated config files:
+#. Message of a Popup::WarningDetails.
+#: src/basicmodify.ycp:675
+msgid "Modified Printer Configuration not yet Stored in the System"
+msgstr "修改的打印机配置尚未储存到系统中"
+
+#. Explanation details of a Popup::WarningDetails.
+#. The 'next dialog' is the overview dialog where the printer configurations are shown
+#. which has a 'Refresh List' button to update the shown printer configurations:
+#: src/basicmodify.ycp:679
+msgid "If the next dialog does not show the expected modifications, wait some time and use the 'Refresh List' button."
+msgstr "如果下一个对话框未如预期显示修改内容，请点击 '刷新列表' 按钮。"
+
+#. Body of a Popup::AnyMessage when "Driver Options" was selected:
+#: src/basicmodify.ycp:707
+msgid "Possible reasons: Nothing selected or it is a remote configuration."
+msgstr "可能原因：未选定任何项目或是远程配置。"
+
+#. Header for a ComboBox to keep the printer model or select another manufacturer:
+#: src/connectionwizard.ycp:368
+msgid "Keep the printer model or select another &manufacturer"
+msgstr "保留打印机型号或选择另一个生产厂商(&m)"
+
+#. Header for a ComboBox to optionally
+#. keep the printer model or select a printer manufacturer.
+#. Do not change or translate "raw", it is a technical term
+#. when no driver is used for a print queue.
+#: src/connectionwizard.ycp:382
+msgid "Keep the model or select a &manufacturer if no 'raw queue' should be set up"
+msgstr "如果不应该设置 '原始队列‘ 的话，保留打印机型号或选择另一个生产厂商"
+
+#. Header for a ComboBox to select the printer manufacturer:
+#: src/connectionwizard.ycp:395
+msgid "Select the printer &manufacturer"
+msgstr "选择打印机生产厂商(&m)"
+
+#. Header for a ComboBox to optionally select the printer manufacturer.
+#. Do not change or translate "raw", it is a technical term
+#. when no driver is used for a print queue.
+#: src/connectionwizard.ycp:408
+msgid "Select a printer &manufacturer if no 'raw queue' should be set up."
+msgstr "如果不应该设置 '原始队列‘ 的话，选择另一个生产厂商(&m)"
+
+#. TRANSLATORS: Text entry to fill IP or hostname of remote server
+#: src/connectionwizard.ycp:495 src/connectionwizard.ycp:1553
+msgid "&IP Address or Host Name"
+msgstr "IP 地址或主机名(&I)"
+
+#. TRANSLATORS: Text entry to fill IP or hostname of remote server
+#: src/connectionwizard.ycp:505 src/connectionwizard.ycp:1544
+msgid "&IP Address or Host Name [percent-encoded]"
+msgstr "IP 地址或主机名 [百分号编码](&I) "
+
+#. TRANSLATORS: Label for menu to search for remote servers
+#: src/connectionwizard.ycp:518 src/connectionwizard.ycp:1567
+msgid "Look up"
+msgstr "查询"
+
+#. TRANSLATORS: Button to search for remote servers
+#: src/connectionwizard.ycp:521 src/connectionwizard.ycp:1570
+msgid "Look up for All Hosts"
+msgstr "查询所有主机"
+
+#. TRANSLATORS: InputField for optional Device URI parameters:
+#: src/connectionwizard.ycp:535 src/connectionwizard.ycp:1585
+msgid "Optional 'option=value' parameter (usually empty) [percent-encoded]"
+msgstr "额外的 '选项=值' 参数 (通常为空) [百分号编码]"
+
+#. TRANSLATORS: Button to test remote printer machine
+#: src/connectionwizard.ycp:541 src/connectionwizard.ycp:1431
+#: src/connectionwizard.ycp:1593 src/connectionwizard.ycp:1700
+msgid "&Test Connection"
+msgstr "测试连接(&T)"
+
+#. Only a notification but no installation of HPLIP in the Connection Wizard.
+#. Installing the package hplip can pull in tons of required packages
+#. because the hplip package does not only provide the 'hp' backend but is a
+#. full featured multifunction solution with GUI for HP printers and all-in-one devices.
+#. HPLIP supports printing, scanning, faxing, photo card access, and device management.
+#. Additionally installing hplip can become very complicated (see driveradd.ycp).
+#. Therefore the Connection Wizard is not bloated with installing HPLIP.
+#. Popup::Message when the user had selected "HP Devices (HPLIP)"
+#. in the Connection Wizard but the RPM package hplip is not installed:
+#: src/connectionwizard.ycp:585
+msgid ""
+"To access a HP device via the 'hp' backend,\n"
+"the RPM package hplip must be installed."
+msgstr "要通过 'hp' 后端访问惠普设备，必须安装 hplip RPM 软件包。"
+
+#: src/connectionwizard.ycp:590
+msgid "The RPM package hplip is not installed."
+msgstr "未安装 hplip RPM 软件包。"
+
+#. Label for an editable ComboBox where
+#. a serial device node (e.g. /dev/ttyS0 or /dev/ttyS1)
+#. can be selected or entered:
+#: src/connectionwizard.ycp:888
+msgid "&Serial device"
+msgstr "串行设备(&S)"
+
+#. Label for an editable ComboBox where
+#. the baud rate for a serial device
+#. can be selected or entered:
+#: src/connectionwizard.ycp:902
+msgid "&Baud rate"
+msgstr "调制解调器传输数据速率 (Baud rate)(&B)"
+
+#. Label for an editable ComboBox where
+#. the number of data bits for a serial device
+#. can be selected or entered:
+#: src/connectionwizard.ycp:918
+msgid "&Data bits"
+msgstr "数据位(&D)"
+
+#. Label for an editable ComboBox where
+#. the parity checking for a serial device
+#. can be selected or entered:
+#: src/connectionwizard.ycp:932
+msgid "&Parity checking"
+msgstr "奇偶校验(&P)"
+
+#. Label for an editable ComboBox where
+#. the flow control for a serial device
+#. can be selected or entered:
+#: src/connectionwizard.ycp:948
+msgid "&Flow control"
+msgstr "流程控制(&F)"
+
+#. Label for an editable ComboBox where
+#. the number of stop bits for a serial device
+#. can be selected or entered:
+#: src/connectionwizard.ycp:962
+msgid "S&top bits"
+msgstr "停止位(&T)"
+
+#: src/connectionwizard.ycp:971
+msgid "To access a bluetooth printer, the RPM package bluez-cups must be installed."
+msgstr "要访问蓝牙打印机，必须安装 bluez-cups RPM 软件包。"
+
+#: src/connectionwizard.ycp:986
+msgid "The RPM package bluez-cups is not installed."
+msgstr "RPM 软件包 bluez-cups 未安装。"
+
+#. Fallback message what the user may run manually when it fails
+#. to generate a valid list of bluetooth device IDs:
+#: src/connectionwizard.ycp:994
+msgid ""
+"It seems there are no bluetooth device IDs.\n"
+"Run 'hcitool scan' to get the bluetooth device IDs.\n"
+"Enter the ID without colons like '1A2B3C4D5E6F'."
+msgstr ""
+"似乎没有蓝牙设备 ID。\n"
+"运行 'hcitool scan' 来获取蓝牙设备 ID。\n"
+"输入 ID 时去掉冒号如 '1A2B3C4D5E6F'。"
+
+#. Busy message:
+#. Body of a Popup::ShowFeedback:
+#: src/connectionwizard.ycp:999
+msgid "Retrieving bluetooth device IDs..."
+msgstr "正在获取蓝牙设备 ID..."
+
+#. Will probably never fail because the final "rm -f ..." should exit successfully in any case:
+#. Popup::ErrorDetails message:
+#: src/connectionwizard.ycp:1010
+msgid "Failed to get a list of bluetooth device IDs."
+msgstr "获取蓝牙设备 ID 列表失败。"
+
+#. Label for an editable ComboBox where
+#. a bluetooth device ID
+#. can be selected or entered:
+#: src/connectionwizard.ycp:1086
+msgid "&Bluetooth device ID"
+msgstr "蓝牙设备 ID(&B)"
+
+#. TRANSLATORS: Frame label for a list of bluetooth device IDs:
+#: src/connectionwizard.ycp:1093
+msgid "Currently available bluetooth device IDs"
+msgstr "当前可用的蓝牙设备 ID"
+
+#. TRANSLATORS: List of input field labels,
+#. first for network scan button,
+#. second for the TCP port number:
+#: src/connectionwizard.ycp:1135
+msgid "Scan for Direct Socket Servers"
+msgstr "扫描直接套接字服务器"
+
+#: src/connectionwizard.ycp:1136
+msgid "TCP Port Number"
+msgstr "TCP 端口号"
+
+#. TRANSLATORS: List of input field labels,
+#. first for network scan button,
+#. second for name of printer queue
+#: src/connectionwizard.ycp:1188 src/connectionwizard.ycp:1482
+msgid "Scan for LPD Servers"
+msgstr "扫描行式打印机守护进程协议 (LPD) 服务器"
+
+#: src/connectionwizard.ycp:1189
+msgid "Queue Name (see the printer's manual)"
+msgstr "队列名称（参见打印机手册）"
+
+#. TRANSLATORS: Input field label
+#: src/connectionwizard.ycp:1239
+msgid "URI (see the printer's manual) [percent-encoded]"
+msgstr "URI（参见打印机手册）[百分号编码]"
+
+#: src/connectionwizard.ycp:1249
+msgid "To access a SMB printer share, the RPM package samba-client must be installed."
+msgstr "要访问 SMB 打印机共享，必须安装 samba-client RPM 软件包。"
+
+#: src/connectionwizard.ycp:1264
+msgid "The RPM package samba-client is not installed."
+msgstr "未安装 RPM 软件包 samba-client。"
+
+#. TRANSLATORS: Text entry for remote server name
+#: src/connectionwizard.ycp:1349
+msgid "&Server (NetBIOS Host Name)"
+msgstr "服务器（NetBIOS 主机名）(&S)"
+
+#. TRANSLATORS: Text entry for printer name
+#: src/connectionwizard.ycp:1366
+msgid "&Printer (Share Name)"
+msgstr "打印机（共享名）(&P)"
+
+#. TRANSLATORS: Text entry for samba domain
+#: src/connectionwizard.ycp:1376
+msgid "&Workgroup (Domain Name)"
+msgstr "工作组（域名）(&W)"
+
+#. TRANSLATORS: Frame label for authentication
+#: src/connectionwizard.ycp:1384
+msgid "Authentication (if needed)"
+msgstr "验证(若需要)"
+
+#. A Label for authentication via fixed username and password:
+#: src/connectionwizard.ycp:1389
+msgid "Use fixed username and password"
+msgstr "使用固定的用户名和密码"
+
+#. TRANSLATORS: Text entry for username (authentication)
+#: src/connectionwizard.ycp:1400
+msgid "&User"
+msgstr "用户(&U)"
+
+#. TRANSLATORS: Text entry for password (authentication)
+#: src/connectionwizard.ycp:1408
+msgid "Pass&word"
+msgstr "密码(&W)"
+
+#. A CheckBox to support Active Directory (R):
+#: src/connectionwizard.ycp:1420
+msgid "Support for &Active Directory (R)"
+msgstr "活动目录服务器 (R) (&A)"
+
+#. TRANSLATORS: InputField for a print queue name:
+#. TRANSLATORS: Text entry for name of remote printer queue
+#: src/connectionwizard.ycp:1483 src/connectionwizard.ycp:1577
+#: src/connectionwizard.ycp:1672
+msgid "Queue Name"
+msgstr "队列名"
+
+#: src/connectionwizard.ycp:1568
+msgid "Scan for IPP Servers"
+msgstr "扫描网络打印协议 (IPP) 服务器"
+
+#: src/connectionwizard.ycp:1569
+msgid "Scan for IPP Broadcasts"
+msgstr "扫描网络打印协议广播"
+
+#: src/connectionwizard.ycp:1601
+msgid "To access an IPX print queue, the RPM package ncpfs must be installed."
+msgstr "要访问互联网交换分组协议 (IPX) 打印队列，必须安装 ncpfs RPM 软件包。"
+
+#: src/connectionwizard.ycp:1616
+msgid "The RPM package ncpfs is not installed."
+msgstr "未安装 RPM 软件包 ncpfs。"
+
+#. TRANSLATORS: Text entry for IP or hostname of remote server
+#: src/connectionwizard.ycp:1664
+msgid "IP Address or Host Name"
+msgstr "IP 地址或主机名"
+
+#. TRANSLATORS: Frame label for authentication
+#: src/connectionwizard.ycp:1679
+msgid "Authenticate as"
+msgstr "验证身份为"
+
+#. TRANSLATORS: Text entry for username (authentication)
+#: src/connectionwizard.ycp:1684
+msgid "User"
+msgstr "用户"
+
+#. TRANSLATORS: Text entry for password (authentication)
+#: src/connectionwizard.ycp:1690
+msgid "&Password"
+msgstr "密码(&P)"
+
+#. TRANSLATORS: Text entry for URI (Uniform Resource Identifier)
+#: src/connectionwizard.ycp:1759
+msgid "URI (Uniform Resource Identifier) [percent-encoded]"
+msgstr "URI（唯一资源标识符）[百分号加密]"
+
+#: src/connectionwizard.ycp:1768
+msgid "To print via 'pipe', the RPM package cups-backends must be installed."
+msgstr "要通过 '管道 pipe' 打印，必须安装 cups-backends RPM 软件包。"
+
+#: src/connectionwizard.ycp:1783
+msgid "The RPM package cups-backends is not installed."
+msgstr "未安装 RPM 软件包 cups-backends。"
+
+#. TRANSLATORS: Text entry for program name that will be called via pipe:
+#: src/connectionwizard.ycp:1806
+msgid "Program (/path/to/command?option=value) [percent-encoded]"
+msgstr "程序 (/到/指令?选项=值/的/路径) [百分号编码]"
+
+#. TRANSLATORS: Text entry for device URI (Uniform Resource Identifier)
+#: src/connectionwizard.ycp:1886
+msgid "Device URI (for which 'beh' should be applied) [percent-encoded]"
+msgstr "设备 URI ('beh'应被应用于它) [百分号编码]"
+
+#. TRANSLATORS: Check box
+#: src/connectionwizard.ycp:1894
+msgid "Never Disable the Queue"
+msgstr "永不禁用队列"
+
+#. TRANSLATORS: Text entry
+#: src/connectionwizard.ycp:1902
+msgid "Number of Retries ('0' means infinite retries)"
+msgstr "重试次数（0指无限）"
+
+#. TRANSLATORS: Text entry
+#: src/connectionwizard.ycp:1910
+msgid "Delay in Seconds Between Two Retries"
+msgstr "两次重试时间间隔秒数"
+
+#: src/connectionwizard.ycp:1924 src/connectionwizard.ycp:2017
+msgid "Select a specific connection type."
+msgstr "选择一个指定的连接类型。"
+
+#. TRANSLATORS: Label for tree widget description
+#: src/connectionwizard.ycp:1943
+msgid "&Connection Type"
+msgstr "连接类型(&C)"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1947
+msgid "Directly Connected Device"
+msgstr "直连设备"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1950
+msgid "Parallel Port"
+msgstr "并行端口"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1952
+msgid "USB Port"
+msgstr "USB 端口"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1954
+msgid "HP Devices (HPLIP)"
+msgstr "惠普设备 (HPLIP)"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1956
+msgid "Serial Port"
+msgstr "串行端口"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1958
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1964
+msgid "Access Network Printer or Printserver Box via"
+msgstr "连接网络打印机或打印服务器盒的方式"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1967
+msgid "TCP Port (AppSocket/JetDirect)"
+msgstr "TCP 端口 (AppSocket/JetDirect)"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1969
+msgid "Line Printer Daemon (LPD) Protocol"
+msgstr "行式打印机守护精灵(LPD)协议"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1971
+msgid "Internet Printing Protocol (IPP)"
+msgstr "网络打印协议(IPP)"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1977
+msgid "Print via Print Server Machine"
+msgstr "通过打印服务器打印"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1980
+msgid "Windows (R) or Samba (SMB/CIFS)"
+msgstr "Windows (R) 或 Samba (SMB/CIFS)"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1982
+msgid "Traditional UNIX Server (LPR/LPD)"
+msgstr "传统 UNIX 服务器 (LPR/LPD)"
+
+#. `item( `id(`iprint), _("iPrint (Novell OES)") ),
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1985
+msgid "CUPS Server (IPP)"
+msgstr "通用 UNIX 打印系统服务器 (网络打印协议)"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1987
+msgid "Novell Netware Print Server (IPX)"
+msgstr "Novell Netware 打印服务器 (IPX)"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1993
+msgid "Special"
+msgstr "特殊"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1996
+msgid "Specify Arbitrary Device URI"
+msgstr "指定专有设备 URI"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:1998
+msgid "Send Print Data to Other Program (pipe)"
+msgstr "将打印数据发送到其他程序 (管道 pipe)"
+
+#. TRANSLATORS: Tree widget item
+#: src/connectionwizard.ycp:2000
+msgid "Daisy-chain Backend Error Handler (beh)"
+msgstr "Daisy-chain 后端错误处理 (beh)"
+
+#. TRANSLATORS: Connection details widget
+#: src/connectionwizard.ycp:2012
+msgid "Connection Settings"
+msgstr "连接设置"
+
+#. According to http://en.opensuse.org/YaST/Style_Guide#Single_Configuration.2FOverview.2FEdit_Dialog
+#. there is no longer a "abort" functionality which exits the whole module.
+#. Instead this button is now named "Cancel" and its functionality is
+#. to go back to the Overview dialog (i.e. what the "back" button would do)
+#. because it reads "Cancel - Closes the window and returns to the overview."
+#. In this case the "overview" is not the actual Overview dialog but the dialog
+#. from which this DriverOptionsDialog was called i.e. BasicModifyDialog.
+#. Therefore the button with the "abort" functionality is not shown at all
+#. and the button with the "back" functionality is named "Cancel".
+#. According to http://en.opensuse.org/YaST/Style_Guide#Single_Configuration.2FOverview.2FEdit_Dialog
+#. the "finish" button in a single (step) configuration dialog must now be named "OK".
+#. TRANSLATORS: Connection wizard header
+#: src/connectionwizard.ycp:2039
+msgid "Connection Wizard"
+msgstr "连接向导"
+
+#. Popup::ErrorDetails message:
+#: src/connectionwizard.ycp:2084
+msgid "In CUPS version 1.5 SCSI printer support is dropped."
+msgstr "CUPS 1.5 版中移除了微机接口 SCSI 打印机支持。"
+
+#. Popup::ErrorDetails details (for experts only):
+#: src/connectionwizard.ycp:2086
+msgid ""
+"An untested and insecure workaround might be\n"
+"to set 'FileDevice Yes' in cupsd.conf\n"
+"and use a DeviceURI like 'file:/dev/sg...'"
+msgstr ""
+"一个未经测试和不安全的临时办法或许是在 cupsd.conf 中设置 'FileDevice Yes'。\n"
+"并使用像 'file:/dev/sg...' 这样的设备 URI"
+
+#. Header of a Popup::AnyMessage when no connection was selected:
+#: src/connectionwizard.ycp:2164
+msgid "Select a connection"
+msgstr "选择一个连接"
+
+#. Body of a Popup::AnyMessage when no connection was selected
+#. because there is no connection available to be selected:
+#: src/connectionwizard.ycp:2167
+msgid ""
+"If no connection is shown here, it is not possible\n"
+"to access the device via this type of connection.\n"
+"Was the printer connected and switched on all the time?"
+msgstr ""
+"如果这里没有显示连接，就无法使用此类连接访问设备。\n"
+"打印机是一直连接并开机的吗？"
+
+#. Header of a Popup::AnyMessage when an invalid connection was selected:
+#: src/connectionwizard.ycp:2173
+msgid "Select a valid connection"
+msgstr "选择一个有效连接"
+
+#. Body of a Popup::AnyMessage when an invalid connection was selected
+#. because the current connection is no longer valid:
+#: src/connectionwizard.ycp:2176
+msgid ""
+"When the current connection is no longer valid,\n"
+"it does no longer work to access the device via this connection.\n"
+"Is the printer still connected and switched on?"
+msgstr ""
+"当当前连接不再有效时，就不再可以通过此连接访问设备。\n"
+"打印机依然连接并开着吗？"
+
+#: src/connectionwizard.ycp:2196
+msgid "Serial device and baud rate could not be empty."
+msgstr "串口设备和 baud 比率不能为空。"
+
+#: src/connectionwizard.ycp:2200
+msgid "The 'space' parity checking is only supported with 7 data bits."
+msgstr "'space' 奇偶校验只支持 7 个数据位。"
+
+#: src/connectionwizard.ycp:2204
+msgid "The 'mark' parity checking is only supported with 7 data bits and 1 stop bit."
+msgstr "'mark' 奇偶校验只支持 7 个数据位和一个停止位。"
+
+#: src/connectionwizard.ycp:2228
+msgid "Bluetooth device ID could not be empty."
+msgstr "蓝牙设备 ID 不能为空。"
+
+#: src/connectionwizard.ycp:2246
+msgid "URI could not be empty."
+msgstr "URL 不能为空。"
+
+#: src/connectionwizard.ycp:2258
+msgid "Servername and printer could not be empty."
+msgstr "服务器名和打印机不能为空。"
+
+#: src/connectionwizard.ycp:2268
+msgid "Both user and password must be specified."
+msgstr "必须指定用户名和密码。"
+
+#: src/connectionwizard.ycp:2328
+msgid "Servername could not be empty."
+msgstr "服务器名不能为空。"
+
+#: src/connectionwizard.ycp:2366 src/connectionwizard.ycp:2404
+#: src/connectionwizard.ycp:2425
+msgid "Servername and queue name could not be empty."
+msgstr "服务器名和队列名不能为空。"
+
+#: src/connectionwizard.ycp:2446
+msgid "Device URI, number of retries, and delay could not be empty."
+msgstr "设备 URI，重试次数，和延迟不能为空。"
+
+#: src/connectionwizard.ycp:2460
+msgid "Could not be empty."
+msgstr "不能为空。"
+
+#. Popup::Error message when neither a manufacturer nor 'Raw Queue' was selected.
+#. Do not change or translate "raw", it is a technical term
+#. when no driver is used for a print queue.
+#: src/connectionwizard.ycp:2496
+msgid "Select a manufacturer or 'raw queue'."
+msgstr "选择生产厂商或 '原始队列'。"
+
+#. Title for a Popup::ShowFeedback:
+#: src/connectionwizard.ycp:2513
+msgid "Look up all hosts in the local network"
+msgstr "查询本地网络中的所有主机"
+
+#. Body of a Popup::ShowFeedback:
+#: src/connectionwizard.ycp:2515 src/connectionwizard.ycp:2536
+#: src/connectionwizard.ycp:2548 src/connectionwizard.ycp:2561
+#: src/connectionwizard.ycp:2574
+msgid ""
+"Please wait...\n"
+"This could take more than a minute."
+msgstr ""
+"请稍候...\n"
+"这可能会花一分多钟的时间。"
+
+#. Title for a Popup::ShowFeedback
+#. where %1 will be replaced by the port number:
+#: src/connectionwizard.ycp:2534
+#, ycp-format
+msgid "Scan for hosts which are accessible via TCP port %1"
+msgstr "扫描可以通过 TCP 端口 %1 访问的主机"
+
+#. Title for a Popup::ShowFeedback:
+#: src/connectionwizard.ycp:2546
+msgid "Scan for hosts which are accessible via Samba (SMB)"
+msgstr "扫描可以通过 Samba (SMB) 访问的主机"
+
+#. Title for a Popup::ShowFeedback:
+#: src/connectionwizard.ycp:2559
+msgid "Scan for hosts which are accessible via port 515 (LPD/LPR)"
+msgstr "扫描可以通过端口 515 (LPD/LPR) 访问的主机"
+
+#. Title for a Popup::ShowFeedback:
+#: src/connectionwizard.ycp:2572
+msgid "Scan for hosts which are accessible via port 631 (CUPS/IPP)"
+msgstr "扫描可以通过端口 631 (CUPS/IPP) 访问的主机"
+
+#. Popup::Message when scanning for hosts in the network did not find any host.
+#: src/connectionwizard.ycp:2595
+msgid ""
+"Scanning in the network did not find any host.\n"
+"(Network issue or firewall active?)"
+msgstr ""
+"扫描网络没有发现任何主机。\n"
+"(网络问题或防火墙活动中？)"
+
+#. Message of a Popup::ErrorDetails
+#. where %1 will be replaced by the port number
+#. and %2 will be replaced by the host name:
+#: src/connectionwizard.ycp:2629
+#, ycp-format
+msgid "Access test failed for port '%1' on host '%2'."
+msgstr "主机 '%2' 上的端口 '%1' 的访问测试失败。"
+
+#. Message of a Popup::ErrorDetails
+#. where %1 will be replaced by the queue name
+#. and %2 will be replaced by the host name:
+#: src/connectionwizard.ycp:2653 src/connectionwizard.ycp:2675
+#: src/connectionwizard.ycp:2751
+#, ycp-format
+msgid "Access test failed for queue '%1' on host '%2'."
+msgstr "主机 '%2' 上的队列 '%1' 的访问测试失败。"
+
+#. Body of a Popup::ContinueCancel when testing a SMB connection is not possible
+#. because there is authentication via Active Directory (R) required:
+#: src/connectionwizard.ycp:2689
+msgid ""
+"This is only a generic test which may untruly report failures\n"
+"if authentication via Active Directory (R) is required.\n"
+"In this case a user who is allowed to print via Active Directory (R)\n"
+"should log in and test by himself if he can print from Gnome or KDE."
+msgstr ""
+"这只是一个通用测试，如果需要通过活动目录 (R) 验证则可能失真地报告错误。\n"
+"在这种情况下允许通过活动目录 (R) 打印的用户应该自己登陆并测试从 Gnome/KDE 打印。"
+
+#. Message of a Popup::ErrorDetails
+#. where %1 will be replaced by the SMB share name
+#. and %2 will be replaced by the host name:
+#: src/connectionwizard.ycp:2714
+#, ycp-format
+msgid "The generic test reports failures for share '%1' on host '%2'."
+msgstr "通用测试报告了主机 '%2' 上的共享 '%1' 的错误。"
+
+#. Message of a Popup::ErrorDetails
+#. where %1 will be replaced by the SMB share name
+#. and %2 will be replaced by the host name:
+#: src/connectionwizard.ycp:2725
+#, ycp-format
+msgid "Access test failed for share '%1' on host '%2'."
+msgstr "主机 ‘%2’ 上的共享 ‘%1’ 的访问测试失败。"
+
+#: src/connectionwizard.ycp:2761
+msgid "Test OK"
+msgstr "测试成功"
+
+#. Install samba-krb-printing when it is not installed:
+#: src/connectionwizard.ycp:2887
+msgid "To support Active Directory (R), the RPM package samba-krb-printing must be installed."
+msgstr "要访问活动目录 (R)，必须安装 RPM 软件包 samba-krb-printing。"
+
+#. Currently there is support for Active Directory (R).
+#. Show a user notification before it gets disabled:
+#. Popup::Warning message before Active Directory (R) support gets disabled:
+#: src/connectionwizard.ycp:2914
+msgid "Active Directory (R) support will be disabled for all SMB print queues."
+msgstr "所有 SMB 打印队列的活动目录 (R) 支持都将禁用。"
+
+#: src/dialogs.ycp:84 src/dialogs.ycp:85 src/dialogs.ycp:86
+#: src/dialogs.ycp:164
+msgid "Printer Configurations"
+msgstr "打印机配置"
+
+#: src/dialogs.ycp:91 src/dialogs.ycp:92 src/dialogs.ycp:93
+#: src/dialogs.ycp:171
+msgid "Print via Network"
+msgstr "通过网络打印"
+
+#: src/dialogs.ycp:98 src/dialogs.ycp:99 src/dialogs.ycp:100
+msgid "Share Printers"
+msgstr "共享打印机"
+
+#: src/dialogs.ycp:105 src/dialogs.ycp:106 src/dialogs.ycp:107
+msgid "Policies"
+msgstr "策略"
+
+#: src/dialogs.ycp:112 src/dialogs.ycp:113 src/dialogs.ycp:114
+msgid "Automatic Configuration"
+msgstr "自动配置"
+
+#: src/dialogs.ycp:121
+msgid "Detected Printers"
+msgstr "检测到的打印机"
+
+#: src/dialogs.ycp:163 src/dialogs.ycp:165
+msgid "AutoYaST Printer Configurations"
+msgstr "AutoYaST 打印机配置"
+
+#: src/dialogs.ycp:170 src/dialogs.ycp:172
+msgid "AutoYaST Print via Network Settings"
+msgstr "AutoYaST 通过网络打印的设置"
+
+#: src/dialogs.ycp:179
+msgid "AutoYaST Settings for Printing with CUPS via Network"
+msgstr "通过网络上的通用 UNIX 打印系统打印的 AutoYaST 设置"
+
+#. Title of the Add Driver Dialog:
+#: src/driveradd.ycp:48
+msgid "Driver Packages"
+msgstr "驱动包"
+
+#. Header for a dialog section where the user can
+#. add or remove printer driver packages:
+#: src/driveradd.ycp:67
+msgid "Install or Remove Printer Driver Packages"
+msgstr "安装或删除打印机驱动包"
+
+#. CheckBox to select or un-select the printer driver package OpenPrintingPPDs-ghostscript.
+#. There is no need to have the package name "OpenPrintingPPDs-ghostscript" in this text
+#. because it is shown in a separated column to the left of this text.
+#: src/driveradd.ycp:79
+msgid "Printer Description Files for Ghostscript Drivers"
+msgstr "Ghostscript 驱动的打印描述文件"
+
+#. CheckBox to select or un-select the printer driver package OpenPrintingPPDs-hpijs.
+#. There is no need to have the package name "OpenPrintingPPDs-hpijs" in this text
+#. because it is shown in a separated column to the left of this text.
+#: src/driveradd.ycp:89
+msgid "Printer Description Files for some PCL Printers"
+msgstr "一些打印机命令语言 (PCL) 打印机的打印机描述文件"
+
+#. CheckBox to select or un-select the printer driver package OpenPrintingPPDs-postscript.
+#. There is no need to have the package name "OpenPrintingPPDs-postscript" in this text
+#. because it is shown in a separated column to the left of this text.
+#: src/driveradd.ycp:99
+msgid "Printer Description Files for PostScript Printers"
+msgstr "PostScript 打印机的打印机描述文件"
+
+#. CheckBox to select or un-select the printer driver package gutenprint.
+#. There is no need to have the package name "gutenprint" in this text
+#. because it is shown in a separated column to the left of this text.
+#. Do not change or translate "Gutenprint", it is a open source project name.
+#. Do not change or translate "Gimp-Print", it is a open source project name.
+#: src/driveradd.ycp:111
+msgid "Gutenprint/Gimp-Print Driver"
+msgstr "Gutenprint/Gimp-Print 驱动"
+
+#. CheckBox to select or un-select the printer driver packages hplip and hplip-hpijs.
+#. There is no need to have the package names "hplip" and "hplip-hpijs" in this text
+#. because they are shown in a separated column to the left of this text.
+#: src/driveradd.ycp:121
+msgid "Driver for HP Printers and HP All-in-One Devices"
+msgstr "惠普打印机和多合一设备驱动"
+
+#. CheckBox to select or un-select the printer driver package manufacturer-PPDs.
+#. There is no need to have the package name "manufacturer-PPDs" in this text
+#. because it is shown in a separated column to the left of this text.
+#: src/driveradd.ycp:131
+msgid "Manufacturer's PostScript Printer Description Files"
+msgstr "生产厂商的 PostScript 打印机描述文件"
+
+#. CheckBox to select or un-select the printer driver package splix.
+#. There is no need to have the package name "splix" in this text
+#. because it is shown in a separated column to the left of this text.
+#: src/driveradd.ycp:141
+msgid "SpliX Driver for SPL Printers without JBIG"
+msgstr "不带 JBIG 图像格式支持的 SPL 打印机的 SpliX 驱动"
+
+#. CheckBox to select or un-select the printer driver package m2300w.
+#. There is no need to have the package name "m2300w" in this text
+#. because it is shown in a separated column to the left of this text.
+#: src/driveradd.ycp:151
+msgid "Driver for Konica Minolta 2300W and 2400W (unmaintained)"
+msgstr "Konica Minolta 2300W 和 2400W 的驱动(失去维护)"
+
+#. CheckBox to select or un-select the printer driver package epson-inkjet-printer-escpr.
+#. There is no need to have the package name "epson-inkjet-printer-escpr" in this text
+#. because it is shown in a separated column to the left of this text.
+#: src/driveradd.ycp:161
+msgid "Epson ESC/P-R Inkjet Printer Driver"
+msgstr "爱普生 ESC/P-R 喷墨打印机驱动"
+
+#. Header for a dialog section where the user can
+#. make a printer description file (PPD file) available
+#. so that it can be used to set up a print queue with it:
+#: src/driveradd.ycp:174
+msgid "Make a Printer Description File Available"
+msgstr "使打印机描述文件可用"
+
+#. TextEntry to specify the full path of a PPD file:
+#: src/driveradd.ycp:184
+msgid "Printer description &file name with full path where it is located"
+msgstr "包含完整路径的打印机描述文件名(&f)"
+
+#. Label of a PushButton to open a file selection box
+#. to browse the file system to select a PPD file:
+#: src/driveradd.ycp:192
+msgid "&Browse"
+msgstr "浏览(&B)"
+
+#. Header for a AskForExistingFile popup dialog
+#. to browse the file system to select a PPD file:
+#: src/driveradd.ycp:229
+msgid "Select a printer description file"
+msgstr "选择打印机描述文件"
+
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the file name:
+#: src/driveradd.ycp:530
+#, ycp-format
+msgid "Cannot access '%1'"
+msgstr "无法访问 '%1'"
+
+#. Popup::ErrorDetails message:
+#: src/driveradd.ycp:541
+msgid "The printer description file is not in compliance with the specification."
+msgstr "打印机描述文件不符合规格。"
+
+#. Header of a Popup::ContinueCancelHeadline
+#. when a PPD file is not in compliance:
+#: src/driveradd.ycp:548
+msgid "Use the printer description file regardless of its errors?"
+msgstr "忽略错误继续使用打印机描述文件？"
+
+#. Body of a Popup::ContinueCancelHeadline
+#. when PPD file is not in compliance:
+#: src/driveradd.ycp:551
+msgid "A non-compliant printer description file can lead to arbitrary failures."
+msgstr "一个不兼容的打印机描述文件可能导致任何错误。"
+
+#. Popup::ErrorDetails message:
+#: src/driveradd.ycp:560
+msgid "Failed to make the printer description file available"
+msgstr "未能将打印机描述文件设为可用"
+
+#. Title of the Driver Options Dialog where %1 will be replaced by the queue name.
+#. The actual queue name is a system value which cannot be translated:
+#: src/driveroptions.ycp:51
+#, ycp-format
+msgid "Driver Options for Queue %1"
+msgstr "队列 %1 的驱动选项"
+
+#. Message of a Popup::Error
+#. where %1 will be replaced by the queue name.
+#. Only a simple message because this error does not happen on a normal system
+#. (i.e. a system which is not totally broken or totally messed up).
+#: src/driveroptions.ycp:125
+#, ycp-format
+msgid "Failed to set driver options for queue %1."
+msgstr "为队列 %1 设定驱动参数失败。"
+
+#. Read dialog help 1/1:
+#: src/helps.ycp:42
+msgid ""
+"<p>\n"
+"<b><big>Initializing printer Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>正在初始化打印机配置</big></b><br>\n"
+"</p>\n"
+
+#. Write dialog help 1/1:
+#: src/helps.ycp:49
+msgid ""
+"<p>\n"
+"<b><big>Finishing printer Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>正在完成打印机配置</big></b><br>\n"
+"</p>\n"
+
+#. Overview dialog help 1/7:
+#: src/helps.ycp:56
+msgid ""
+"<p>\n"
+"<b><big>Print Queue Overview</big></b><br>\n"
+"A printer device is not used directly but via a print queue.<br>\n"
+"When various applications submit print jobs simultaneously,\n"
+"these jobs are put in a queue and are sent one after the other to the printer\n"
+"device.<br>\n"
+"It is possible to have several different print queues for the same printer\n"
+"device.\n"
+"For example a second queue with a monochrome-only driver for a color device\n"
+"or a PostScript queue and a queue with a PCL driver for a PostScript+PCL printer.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>打印队列概览</big></b><br>\n"
+"打印机设备不能直接访问，需要通过打印队列访问。<br>\n"
+"当多种应用程序自发提交打印任务时，这些任务被放队列，一个接一个的发送到打印机设备。<br>\n"
+"相同的打印机设备可以接受一些不同的打印队列。\n"
+"例如彩色设备的一个使用黑白驱动的二级队列或者PostScript+PCL 打印机的一个 PostScript 队列和一个使用 PCL 驱动的队列。</p>\n"
+
+#. Overview dialog help 2/7:
+#: src/helps.ycp:69
+msgid ""
+"<p>\n"
+"<b><big>Using Remote Queues:</big></b><br>\n"
+"Remote queues exist on other hosts in the network,\n"
+"therefore they cannot be changed on this host.<br>\n"
+"The remote queues listed here are known on this host.\n"
+"Usually they can be used directly by applications\n"
+"so there is no need to set up a local queue for a printer\n"
+"that is already available via a remote queue.<br>\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>使用远程队列：</big></b><br>\n"
+"远程队列存在于网络中的其他主机上，因此他们不能在本主机更改。<br>\n"
+"列示于此的远程打印队列是本主机上已知的队列。\n"
+"通常它们可以被应用程序直接使用，因此不需要再为一个提供了可用的远程队列的打印机设置一个本地队列。<br></p>\n"
+
+#. Overview dialog help 3/7:
+#: src/helps.ycp:80
+msgid ""
+"<p>\n"
+"<b><big>Configure a printer:</big></b><br>\n"
+"Press <b>Add</b> to set up a new queue for a printer device.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>配置打印机：</big></b><br>\n"
+"按<b>添加</b>为打印设备设置一个新的队列。\n"
+"</p>"
+
+#. Overview dialog help 4/7:
+#: src/helps.ycp:85
+msgid ""
+"<p>\n"
+"<b><big>Change the settings for a queue:</big></b><br>\n"
+"Select a local queue and press <b>Edit</b>.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>修改队列设置：</big></b><br>\n"
+"选择一个本地队列，然后按<b>编辑</b>。\n"
+"</p>"
+
+#. Overview dialog help 5/7:
+#: src/helps.ycp:90
+msgid ""
+"<p>\n"
+"<b><big>Remove a queue:</big></b><br>\n"
+"Select a local queue and press <b>Delete</b>.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>移除队列：</big></b><br>\n"
+"选择一个本地队列，然后按<b>删除</b>。\n"
+"</p>"
+
+#. Overview dialog help 6/7:
+#: src/helps.ycp:95
+msgid ""
+"<p>\n"
+"<b><big>Print a test page:</big></b><br>\n"
+"Select the queue and press <b>Print Test Page</b>.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>打印测试页：</big></b><br>\n"
+"选择队列，然后按<b>打印测试页</b>。\n"
+"</p>"
+
+#. Overview dialog help 7/7:
+#: src/helps.ycp:100
+msgid ""
+"<p>\n"
+"<b><big>Refresh the list of queues:</big></b><br>\n"
+"After changes to the network printing settings,\n"
+"the available remote queues may have changed.\n"
+"Usually it takes some time (up to several minutes)\n"
+"until such changes become known to the local host.\n"
+"Press <b>Refresh List</b> after some time to get an \n"
+"up-to-date list of available remote queues.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>刷新队列列表：</big></b><br>\n"
+"在修改了网络打印设置后，可用远程队列可能发生变化。\n"
+"通常需要一些时间(最多几分钟)，本地主机才能获知这些更改。\n"
+"按下 <b>刷新列表</b>，过一会儿就能获得一个最新的可用远程队列列表。</p>\n"
+
+#. AutoYaST Overview dialog help 1/1:
+#: src/helps.ycp:113
+msgid ""
+"<p>\n"
+"<b><big>AutoYaST Print Queue Overview</big></b><br>\n"
+"AutoYaST supports only settings for printing with CUPS via network.<br>\n"
+"There is no AutoYaST support to set up local print queues.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>AutoYaST 打印队列概览</big></b><br>\n"
+"AutoYaST 只支持设置通过网络中的 CUPS 打印。<br>\n"
+"不支持设置本地打印队列。\n"
+"</p>"
+
+#. BasicAddDialog help 1/7:
+#: src/helps.ycp:121
+msgid ""
+"<p>\n"
+"<b><big>Set Up a New Queue for a Printer Device</big></b><br>\n"
+"A printer device is not used directly but via a print queue.<br>\n"
+"When various application programs submit print jobs simultaneously,\n"
+"the jobs queue up and are sent one after the other to the printer device.<br>\n"
+"It is possible to have several different print queues for the same printer device.\n"
+"Usually several print queues are needed when several different printer drivers\n"
+"should be used for the same printer device.\n"
+"For example a second queue with a monochrome-only driver\n"
+"to enforce black-only printout on a color device\n"
+"or a PostScript queue and a queue with a PCL driver for a PostScript+PCL printer\n"
+"because printing via the PCL driver is usually faster (but with less quality).\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>为打印设备设置一个新队列</big></b><br>\n"
+"打印设备不能直接使用，需要通过打印队列使用。<br>\n"
+"当多种应用程序自发提交打印任务时，任务会排队，一个接一个的发送到打印设备。<br>\n"
+"相同的打印机设备可以接受一些不同的打印队列。\n"
+"通常当同一个打印设备使用了一些不同的打印机驱动时，就需要一些不同的打印队列。\n"
+"例如彩色设备的一个使用黑白驱动来强制黑白输出的二级队列或者PostScript+PCL 打印机的一个 PostScript 队列和一个使用 PCL 驱动的队列，因为通过 PCL 驱动打印通常更快 (但质量会降低)。</p>"
+
+#. BasicAddDialog help 2/7:
+#: src/helps.ycp:135
+msgid ""
+"<p>\n"
+"To set up a new queue:<br>\n"
+"Select the connection of the matching printer device,<br>\n"
+"find and assign a suitable printer driver, and<br>\n"
+"set a unique queue name.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"要设置一个新队列：<br>\n"
+"选择匹配的打印设备的连接，<br>\n"
+"查找并指定一个合适的打印机驱动，并<br>\n"
+"设置一个独一无二的队列名称。\n"
+"</p>"
+
+#. BasicAddDialog help 3/7:
+#: src/helps.ycp:142
+msgid ""
+"<p>\n"
+"The <b>connection</b> determines which way data is sent to the printer device.<br>\n"
+"If a wrong connection is selected, no data can be sent to the device\n"
+"so that there cannot be any printout.<br>\n"
+"If a printer device is accessible via more than one connection type,\n"
+"it is shown for each connection type.<br>\n"
+"In particular HP devices are often accessible both via the 'usb:/...'\n"
+"and the 'hp:/...' connection.\n"
+"The latter is provided by the HP driver package 'hplip'.\n"
+"For plain printing, both kinds of connections should work, but for anything else\n"
+"(e.g. device status via 'hp-toolbox' or scanning with a HP all-in-one device)\n"
+"the 'hp:/...' connection must be used.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>连接</b>决定数据被发送到打印机设备的方式。<br>\n"
+"如果选择了一个错误连接，就没有数据可以发送到设备，因此就没有任何打印输出。<br>\n"
+"如果一个打印设备可以通过多种连接类型访问，它可以显示在每个连接类型中。<br>\n"
+"尤其是惠普设备通常既可以通过 'usb:/...' 也可以通过 'hp:/...' 连接访问。\n"
+"后者是由惠普驱动软件包 'hplip' 提供的。\n"
+"一般打印可以选择任何连接类型，但是一些特殊任务 (例如通过 'hp-toolbox' 获取设备状态或\n"
+"使用惠普多合一设备扫描) 就必须使用 'hp:/...' 连接。\n"
+"</p>\n"
+
+#. BasicAddDialog help 4/7:
+#: src/helps.ycp:157
+msgid ""
+"<p>\n"
+"The <b>driver</b> determines that the right data is produced for the\n"
+"specific printer model.<br>\n"
+"If a wrong driver is assigned, wrong data is sent to the printer\n"
+"which results bad looking printout, chaotic printout, or no printout at all.<br>\n"
+"Initially the input field for the driver search string is preset\n"
+"with the autodetected model name of the currently selected connection\n"
+"and those drivers where the driver description matches to the model name\n"
+"are shown by default.<br>\n"
+"If driver descriptions match to the autodetected model name\n"
+"and if all matching driver descriptions seem to belong to the same model,\n"
+"the driver descriptions are sorted so that the most reasonable driver\n"
+"should be listed topmost and this one is automatically preselected.\n"
+"If no driver is automatically preselected, you must manually\n"
+"find and select an appropriate driver.<br>\n"
+"On the other hand if a driver was automatically preselected,\n"
+"it does not necessarily mean that this driver is\n"
+"a reasonable driver for your particular needs.\n"
+"Strictly speaking an automatically preselected driver\n"
+"may not work at all for your particular printer model.\n"
+"The reason is that the automated driver selection\n"
+"can only work based upon comparison of strings\n"
+"(the autodetected model name and the driver descriptions)\n"
+"so that the result can be only a best-guess proposal\n"
+"how to set up your particular printer model.<br>\n"
+"Therefore check if the currently preselected values make sense\n"
+"and feel free to play around and modify the settings\n"
+"to what you know what works best for your printer.<br>\n"
+"If no driver description matches to the autodetected model name,\n"
+"it does not necessarily mean that there is no driver available for the model.\n"
+"Often only the model name in the driver descriptions\n"
+"is different from the autodetected model name.\n"
+"Therefore you can enter whatever you like as driver search string\n"
+"and search through all available driver descriptions.<br>\n"
+"Usually the default driver option settings should be reasonable\n"
+"so that the driver works for your particular printer model.\n"
+"Some driver option settings must match to your particular printer.\n"
+"In particular the default paper size setting of the driver\n"
+"must match to the paper which is actually loaded in your printer.\n"
+"You can either explicitly select A4 or Letter as default paper size\n"
+"or select nothing to use the built-in default paper size of the driver\n"
+"which is also the fallback if the driver neither supports A4 nor Letter\n"
+"(for example a driver for a small-format photo printer).\n"
+"If you like to adjust other driver options except A4 or Letter,\n"
+"you must first set up the queue and then in a second step\n"
+"you can adjust all driver options in the 'Edit/Modify' dialog.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>驱动</b>使指定型号的打印机可以输出正确的数据。<br>\n"
+"如果指定了错误的驱动，会发送错误的数据到打印机，这将造成难看的、混乱的打印输出，或完全没有打印输出。<br>\n"
+"驱动搜索的搜索关键词输入框初始预设为当前选中连接的自动检测到的型号名称，那些驱动描述匹配型号名称的驱动默认自动显示。<br>\n"
+"如果驱动描述匹配自动检测到的型号名称，或所有匹配的驱动描述都属于同一个型号，驱动描述会被分类，最有可能的驱动列示在最上方并被自动预选中。如果没有驱动被自动预选中，您必须手动查找和选择一个合适的驱动。<br>\n"
+"另外如果一个驱动被自动预选中，也不意味着这个驱动就一定是能满足您特殊需要的最佳驱动。严格的说一个自动预选中的驱动可能在您的特殊打印机型号上完全不能用。原因是由于自动驱动选择只能基于比较字符串(自动检测到的型号名和驱动描述)来作业，因此结果只是如何设置您的特殊打印机型号的最佳猜想的方案。<br>\n"
+"因此请检查当前预选中的值是否正确，如果您知道您的打印机使用哪种驱动更好的话也可以任意修改设置。<br>\n"
+"如果没有匹配自动检测到的型号名的驱动描述，这也不意味着没有该型号的驱动可用。通常只是驱动描述中的型号名和自动检测到的型号名不同。因此您可以输入您想要的驱动搜索关键词并搜索全部可用驱动描述。<br>\n"
+"通常默认驱动选项设置应该是合理的，所以该驱动可以用于您的打印机型号。一些驱动选项设置必须匹配您的打印机。尤其是驱动的默认纸张大小设置必须匹配您打印机中实际装载的纸张。您可以明确的选择 A4 或 Letter 作为默认纸张大小，或者不选以使用驱动内置的默认纸张大小，该内置选项也是当驱动不支持 A4 和 Letter 时的回退选项 (例如小尺寸相片打印机的驱动)。如果您喜欢调整除了 A4 或 Letter 以外的驱动选项，您必须先设定好队列，然后在下一步的 '编辑/修改' 对话框中调整所有驱动选项。\n"
+"</p>"
+
+#. BasicAddDialog help 5/7:
+#: src/helps.ycp:205
+msgid ""
+"<p>\n"
+"Application programs do not show the actual printer device\n"
+"but its associated <b>queue name</b>.<br>\n"
+"Only letters (a-z and A-Z), numbers (0-9), and the underscore '_'\n"
+"are allowed for the queue name and it must start with a letter.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"应用程序不显示实际的打印机设备而是它相关联的 <b>队列名称</b>。<br>\n"
+"队列名必须以字母开头，只允许字母 (a-z 和 A-Z)，数字 (0-9)，和下划线 '_'。\n"
+"</p>"
+
+#. BasicAddDialog help 6/7:
+#: src/helps.ycp:212
+msgid ""
+"<p>\n"
+"One of the print queues may be set to be <b>used by default</b>.<br>\n"
+"Application programs should use such a system default print queue\n"
+"if no other print queue was specified by the user.\n"
+"But there is no such thing as the 'one and only' default queue.\n"
+"Beside a system default queue any user can maintain his own\n"
+"default queue setting and furthermore any application program\n"
+"may implement its own particular way of default queue setting\n"
+"(e.g. the application may remember the previously used queue).<br>\n"
+"For details see the openSUSE support database\n"
+"article 'Print Settings with CUPS' at<br>\n"
+"http://en.opensuse.org/SDB:Print_Settings_with_CUPS\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"必须设置一个打印队列为 <b>默认使用</b>。<br>\n"
+"应用程序应该在用户没有指定其他打印队列时使用系统默认打印队列。\n"
+"但是没有类似 '唯一' 默认队列。\n"
+"除了系统默认队列之外，任何用户都可以维护它自己的默认队列设置，\n"
+"任何应用程序也可以实现它自己的特殊默认队列设置 (例如应用程序或许会记住上一次使用的队列)。<br>\n"
+"详情请见 openSUSE 支持数据库的 'CUPS 的打印设置' 于<br>\n"
+"http://zh.opensuse.org/SDB:Print_Settings_with_CUPS\n"
+"</p>"
+
+#. BasicAddDialog help 7/7:
+#: src/helps.ycp:226
+msgid ""
+"<p>\n"
+"An alternative way to set up HP devices is to <b>run hp-setup</b>.<br>\n"
+"HP's own tool 'hp-setup' provides setup support in particular\n"
+"for HP printers and HP all-in-one devices which require\n"
+"a proprietary driver plugin to be downloaded from HP and\n"
+"installed in the right way on a particular end-user's system.\n"
+"Furthermore 'hp-setup' can provide better setup support\n"
+"for HP network printers and HP all-in-one network devices\n"
+"because HP's own tool can implement special handling\n"
+"for special HP network devices.<br>\n"
+"For details see the openSUSE support database\n"
+"article 'How to set-up a HP printer' at<br>\n"
+"http://en.opensuse.org/SDB:How_to_set-up_a_HP_printer\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"另外一种设置惠普设备的方法是运行 <b>hp-setup</b>。<br>\n"
+"惠普自有工具 'hp-setup' 提供了需要从惠普下载私有驱动插件并在最终用户系统中正确安装的惠普打印机和惠普多合一设备的设置支持。\n"
+"另外 'hp-setup' 可以为惠普的网络打印机和惠普的多合一网络设备提供更好的支持，因为惠普的自有工具可以实现针对特殊惠普网络设备的特殊处理。<br>\n"
+"详情请见 openSUSE 支持数据库文章 '如何设置惠普打印机' 于<br>\n"
+"http://zh.opensuse.org/SDB:How_to_set_up_a_HP_printer\n"
+"</p>"
+
+#. BasicModifyDialog help 1/4:
+#: src/helps.ycp:243
+msgid ""
+"<p>\n"
+"<b><big>Modify a Print Queue</big></b><br>\n"
+"To modify a queue, select only what you really want to be changed.<br>\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>修改打印队列</big></b><br>\n"
+"要修改一个队列，只选中您确定想要改动的条目。<br>\n"
+"</p>"
+
+#. BasicModifyDialog help 2/4:
+#: src/helps.ycp:248
+msgid ""
+"<p>\n"
+"The <b>connection</b> determines how data is sent to the printer device.<br>\n"
+"If a wrong connection is selected, no data can be sent to the device\n"
+"so that there cannot be any printout.<br>\n"
+"If a printer device is accessible via more than one connection type,\n"
+"it is shown for each connection type.<br>\n"
+"In particular HP devices are often accessible both via the 'usb:/...'\n"
+"and the 'hp:/...' connection.\n"
+"The latter is provided by the HP driver package 'hplip'.\n"
+"For plain printing, both kinds of connections should work, but for anything else\n"
+"(e.g. device status via 'hp-toolbox' or scanning with a HP all-in-one device)\n"
+"the 'hp:/...' connection must be used.<br>\n"
+"When you exchange the currently used connection with another one,\n"
+"the input field for the driver search string is preset\n"
+"with the autodetected model name of the new selected connection.\n"
+"The drivers for which the driver description matches the model name\n"
+"are shown by default.<br>\n"
+"If driver descriptions match the autodetected model name\n"
+"and if all matching driver descriptions seem to belong to the same model,\n"
+"the driver descriptions are sorted so that the most reasonable driver\n"
+"should be listed topmost (but still below the currently used driver).\n"
+"On the other hand, it does not necessarily mean that this driver is\n"
+"a reasonable driver for your particular needs.\n"
+"The topmost listed driver may not work at all for your particular \n"
+"printer model. The automated driver selection\n"
+"compares strings (the autodetected model name and the driver \n"
+"descriptions) so the result can only be a best-guess proposal\n"
+"how to set up your particular printer model.<br>\n"
+"Therefore check if the currently preselected values make sense.\n"
+"Feel free to play around and modify the settings\n"
+"to what you know works best for your printer.<br>\n"
+"If no driver description matches the autodetected model name, it does \n"
+"not necessarily mean that there is no driver available for the model.\n"
+"Often the model name in the driver descriptions\n"
+"is different from the autodetected model name.\n"
+"Therefore you can enter whatever you like as driver search string\n"
+"and search through all available driver descriptions.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>连接</b>决定数据被发送到打印机设备的方式。<br>\n"
+"如果选择了一个错误连接，就没有数据可以发送到设备，因此就没有任何打印输出。<br>\n"
+"如果一个打印设备可以通过多种连接类型访问，它可以显示在每个连接类型中。<br>\n"
+"尤其是惠普设备通常既可以通过 'usb:/...' 也可以通过 'hp:/...' 连接访问。\n"
+"后者是由惠普驱动软件包 'hplip' 提供的。\n"
+"一般打印可以选择任何连接类型，但是一些特殊任务 (例如通过 'hp-toolbox' 获取设备状态或\n"
+"使用惠普多合一设备扫描) 就必须使用 'hp:/...' 连接。\n"
+"当您变更目前使用的连接为另一个时，驱动搜索关键词输入框将预设为新选择的连接的自动检测到型号名。\n"
+"驱动描述匹配型号名称的驱动也将默认显示。<br>\n"
+"如果驱动描述匹配自动检测到的型号名，或者所有匹配的驱动描述属于同一型号，驱动描述将被分类，最有可能的驱动列示在最顶部 (但依然在当前使用的驱动下面)。另一方面，它并不意味着该驱动能合理的满足您的特殊需求。最顶部列示的驱动可能在您的打印机型号上完全不能用。自动驱动选择基于自动检测到的型号名称和驱动描述的字符串对比，因此结果只是如何设置您的打印机型号的最佳猜想方案。<br>\n"
+"因此请检查当前预选中的值满足需求，如果您知道哪款驱动最适合您的打印机，请随意修改设置。<br>\n"
+"如果没有驱动描述匹配自动检测到的型号名，它也不意味着该型号没有驱动。通常是驱动描述中的型号名和自动检测到的型号名不符。因此您可以输入你喜欢的驱动搜索字符串并搜索所有可用驱动描述。\n"
+"</p>\n"
+
+#. BasicModifyDialog help 3/4:
+#: src/helps.ycp:288
+msgid ""
+"<p>\n"
+"The <b>driver</b> determines that the right data is produced for the\n"
+"specific printer model.<br>\n"
+"If a wrong driver is assigned, wrong data is sent to the printer\n"
+"which results bad looking printout, chaotic printout, or no printout at all.<br>\n"
+"You can either select another driver and modify its driver option settings later\n"
+"or keep the currently used driver and modify its driver option settings now.<br>\n"
+"Some driver option settings must match to your particular printer.\n"
+"For example the default paper size setting of the driver\n"
+"must match to the paper which is actually loaded in your printer.<br>\n"
+"For other driver option settings you can choose what you like.\n"
+"For example any choice of the available printing resolutions\n"
+"should work for the particular driver.\n"
+"Nevertheless it may happen that your particular printer fails to print\n"
+"with high resolution. For example when you have a laser printer\n"
+"which has insufficient built-in memory to process high resolution pages.<br>\n"
+"When you exchange the currently used driver by another one,\n"
+"you must first apply this change to the print queue\n"
+"so that the new driver is used for the queue\n"
+"(i.e. you must finish this dialog as a first step)\n"
+"and then in a second step you can adjust all driver options\n"
+"by using this dialog again.<br>\n"
+"Initially the input field for the driver search string is preset\n"
+"with the description of the currently used driver when the connection was not changed.\n"
+"This results usually only one single driver which matches\n"
+"so that you would have to enter a less specific driver search string\n"
+"to get also other drivers or you use the 'Find More' button.\n"
+"If no driver matches, it does not mean that there is no driver available.\n"
+"Therefore you can enter whatever you like as driver search string\n"
+"and search through all available driver descriptions.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>驱动</b>使指定型号的打印机可以输出正确的数据。<br>\n"
+"如果指定了错误的驱动，会发送错误的数据到打印机，这将造成难看的、混乱的打印输出，或完全没有打印输出。<br>\n"
+"您既可以选择另一款驱动并稍后修改它的驱动选项设置，或者保留当前使用的驱动并立即修改它的驱动选项设置。<br>\n"
+"一些驱动选项设置必须匹配您的打印机。例如驱动的默认纸张大小设置必须匹配您打印机中实际装载的纸张。\n"
+"其它驱动选项您可以选择您喜欢的。例如任何可用打印分辨率都能够用在该驱动上。除非您的驱动在高分辨率下不能打印。\n"
+"例如镭射打印机的内置内存不足以处理高分辨率的页面。<br>\n"
+"当您变更了当前使用的驱动到另一个时，您必须先应用此修改到队列 (例如您必须完成此对话框以作为第一步)，然后在第二步您可以再次使用此对话框调整所有的驱动选项。<br>\n"
+"通常当连接没有变更时，驱动搜索字符串输入框初始预设为当前使用中的驱动的描述。\n"
+"此结果通常是一个匹配的驱动，因此您可以输入一个更宽泛的驱动搜索字符串来获取其他驱动，或者可以使用 '查找更多' 按钮。\n"
+"如果没有驱动匹配，也不意味着没有驱动。因此您可以输入你喜欢的字符串作为驱动搜索字符串并搜索全部可用驱动描述。\n"
+"</p>"
+
+#. BasicModifyDialog help 4/4:
+#: src/helps.ycp:320
+msgid ""
+"<p>\n"
+"In contrast to connection and driver where you must select the right one,\n"
+"you are free to enter arbitrary strings for <b>description</b> and <b>location</b>.\n"
+"Application programs often show description and location in the print dialog.\n"
+"To make sure that those strings look correct in any language\n"
+"which a particular user of a particular application program may use,\n"
+"it is safe when you use only plain ASCII text without\n"
+"special characters e.g. only ASCII letters (a-z and A-Z),\n"
+"ASCII numbers (0-9), and the ASCII space character (20 hex).\n"
+"Usually the description describes the model and optionally the driver\n"
+"(e.g. 'ACME FunPrinter 1000 using generic PCL driver')\n"
+"and the location describes where the printer is located\n"
+"(e.g. 'Room 123' or 'Front Desk').\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"不同于连接和驱动，您必须选择正确的哪个，您可以自由的输入任何字符串来作为 <b>描述</b> 和 <b>位置</b>。\n"
+"应用程序通常在打印对话框中显示描述和位置。n为了确保这些字符串能正确的以任何应用程序的用户可能使用的语言显示，您只使用不带特殊字符的普通 ASCII 文本会更安全，例如，纯 ASCII 字符 (a-z 和 A-Z)，ASCII 数字 (0-9)，和 ASCII 空格字符 (20 hex)。\n"
+"通常描述描述了型号，偶尔也描述驱动 (例如 '使用通用 PCL 驱动的 ACME FunPrinter 1000 ')，位置描述了打印机的物理位置 (例如 '房间 123' 或 '前台')。\n"
+"</p>"
+
+#. DriverOptionsDialog help 1/3:
+#: src/helps.ycp:337
+msgid ""
+"<p>\n"
+"<b><big>Set Driver Options</big></b><br>\n"
+"Usually it is best to leave the driver defaults because\n"
+"the defaults should be reasonable for most cases.<br>\n"
+"Additionally, the print dialogs in most applications\n"
+"show the driver options too so that each user can specify\n"
+"driver options for each individual printout.<br>\n"
+"The only setting which should be checked in any case is the paper size,\n"
+"which must be set to what is actually used by default in the printer.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>设置驱动选项</big></b><br>\n"
+"通常最好保留驱动的默认选项，因为默认在大多数情况下都是合理的。<br>\n"
+"另外，大多数应用程序的打印对话框也显示驱动选项，所以用户可以指定每个打印输出的驱动选项。<br>\n"
+"任何情况下都应该检查的唯一设置是纸张大小，该选项必须被设置为打印机实际默认使用的纸张大小。\n"
+"</p>\n"
+
+#. DriverOptionsDialog help 2/3:
+#: src/helps.ycp:349
+msgid ""
+"<p>\n"
+"Non-default settings may not work in all cases or have unexpected\n"
+"consequences.<br> \n"
+"For example, a high resolution setting may not work for a laser printer\n"
+"when its default built-in memory is insufficient to process high resolution\n"
+"pages.<br> \n"
+"Or a high quality setting may print intolerably slow on an inkjet printer.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"非默认设置可能不能工作于所有情况，或导致非预期后果。<br>\n"
+"例如，一个高分辨率设定可能不能在镭射打印机上工作，因为它的默认内置内存不足以处理高分辨率的页面。<br>\n"
+"或者一个高质量设置在喷墨打印机上可能会打印得让人忍不了的慢。\n"
+"</p>\n"
+
+#. DriverOptionsDialog help 3/3:
+#: src/helps.ycp:359
+msgid ""
+"<p>\n"
+"In certain cases printer-specific driver settings\n"
+"must be adjusted to get the full functionality of a printer.<br>\n"
+"In particular, when the printer has optional units installed like\n"
+"a duplex unit or optional paper feeders, the respective driver settings\n"
+"should be checked and adjusted.<br>\n"
+"For example, a duplex unit option must be set to 'installed' or 'true'\n"
+"otherwise the driver may ignore duplex printing option settings.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"在一些情况下打印机特有的驱动设置必须调整以让打印机获得完整功能。<br>\n"
+"尤其是，当打印机安装了额外单元如全双工单元或者额外的送纸机时，应该检查和调整相应的驱动设置。<br>\n"
+"例如，全双工单元选项必须设置为 '已安装' 或 '真' 否则驱动可能忽略全双工打印选项设置。\n"
+"</p>\n"
+
+#. AddDriverDialog help 1/2:
+#: src/helps.ycp:372
+msgid ""
+"<p>\n"
+"<b><big>Add or Remove Printer Driver Packages</big></b><br>\n"
+"If a printer driver package is not marked, it is not installed.\n"
+"Select the package if you want to install it.<br>\n"
+"If a printer driver package is marked, it is installed.\n"
+"Deselect the package if you want to remove it.\n"
+"In the latter case, make sure that there is no printer configuration \n"
+"which needs the driver.<br>\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>添加或移除打印机驱动软件包</big></b><br>\n"
+"如果打印机驱动包没有被标记，它就是未安装的。\n"
+"如果您想要安装一个包，请选中它。<br>\n"
+"如果打印机驱动包被标记，它就是已安装的。\n"
+"如果您想要移除一个包，请取消选中它。\n"
+"在后一种情况，确保没有需要该驱动的打印机配置。<br>\n"
+"</p>\n"
+
+#. AddDriverDialog help 2/2:
+#: src/helps.ycp:383
+msgid ""
+"<p>\n"
+"<b><big>Add a Printer Description File</big></b><br>\n"
+"To set up a printer configuration, a printer description file\n"
+"(PPD file) is required.<br>\n"
+"If a PPD file is not located in the /usr/share/cups/model/ directory,\n"
+"it is not available to set up a printer configuration with it.\n"
+"Therefore you can specify the full path of a PPD file,\n"
+"which is located elsewhere on your system, to get it installed\n"
+"in the /usr/share/cups/model/ directory.<br>\n"
+"Note that a printer description file is not a driver.<br>\n"
+"For non-PostScript printers the PPD file alone is\n"
+"not sufficient to set up a working printer configuration.\n"
+"In particular, it does not work for non-PostScript printers\n"
+"to download a PPD file from the Internet and then set up\n"
+"the printer with such a PPD file.\n"
+"The plain printer setup would work but actual printing\n"
+"would not work because the driver would be missing.\n"
+"For non-PostScript printers, you need a printer driver\n"
+"and a PPD file which matches exactly the particular driver.\n"
+"Matching PPD files are automatically installed at the right place\n"
+"when you install the above mentioned printer driver packages.<br>\n"
+"Only for PostScript printers, a PPD file alone is usually\n"
+"sufficient to set up a working PostScript printer configuration.\n"
+"In particular, it is sufficient when the PPD file does not\n"
+"contain a 'cupsFilter' entry because such an entry would\n"
+"reference a printer driver.<br>\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>添加一个打印机描述文件</big></b><br>\n"
+"要设置一个打印机配置，需要一个打印机描述文件 (PPD 文件)。<br>\n"
+"如果 PPD 文件的位置不在 /usr/share/cups/model 目录，就无法用它设定一个打印机配置。\n"
+"因此若 PPD 文件的位置在其他目录，你可以指定 PPD 文件的完整路径，来把它安装到 /usr/share/cups/model 目录。<br>\n"
+"注意一个打印机描述文件不是一个驱动。<br>\n"
+"对于非 PostScript 打印机来说，只有 PPD 文件是不足以设置一个能够工作的打印机配置的。\n"
+"尤其是，非 PostScript 打印机无法从互联网下载 PPD 文件，然后使用该 PPD 文件设置打印机。\n"
+"一般打印机可以设置但无法实际打印，因为驱动可能缺失。\n"
+"对于非 PostScript 打印机来说，您需要一个打印机驱动和一个匹配驱动的 PPD 文件。当您安装上述打印机驱动包时，匹配的 PPD 文件会自动安装到正确的位置.<br>\n"
+"只有 PostScript 打印机才可以只用 PPD 文件设定一个可工作的 PostScript 打印机配置。尤其是当 PPD 文件不包含 'cupsFilter' 项时，因为这样的条目会指向一个打印机驱动。<br>\n"
+"</p>\n"
+
+#. ConnectionWizardDialog help 1/7:
+#: src/helps.ycp:414
+msgid ""
+"<p>\n"
+"<b><big>Specify the Connection</big></b><br>\n"
+"The <b>connection</b> determines how data is sent to the printer device.<br>\n"
+"If a wrong connection is used, no data can be sent to the device\n"
+"so that there cannot be any printout.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>指定连接</big></b><br>\n"
+"<b>连接</b>决定了数据发送到打印机设备的方式。<br>\n"
+"如果指定了一个错误的连接，没有数据能够发送到设备，因此也就没有任何打印输出。\n"
+"</p>\n"
+
+#. ConnectionWizardDialog help 2/7:
+#: src/helps.ycp:422
+#, ycp-format
+msgid ""
+"<p>\n"
+"<b><big>Printer Device URI</big></b><br>\n"
+"A connection is specified as so called <b>device URI</b>.<br>\n"
+"Its first word (the so called URI scheme) specifies the kind of data-transfer,\n"
+"for example 'parallel', 'usb', 'socket', 'lpd', or 'ipp'.<br>\n"
+"After the scheme there are more or less additional components\n"
+"which specify the details for this kind of data-transfer.<br>\n"
+"Space characters are not allowed in an URI.\n"
+"Therefore a space character in a value of an URI component\n"
+"is encoded as '%20' (20 is the hexadecimal value of the space character).<br>\n"
+"The components of an URI are separated by special reserved characters like\n"
+"colon ':', slash '/', question mark '?', ampersand '&amp;', or equals sign '='.<br>\n"
+"Finally there could be optional parameters (separated by a question mark '?')\n"
+"of the form 'option1=value1&amp;option2=value2&amp;option3=value3' so that\n"
+"a full device URI could be for example:<br>\n"
+"ipp://server.domain:631/printers/queuename?waitjob=false&amp;waitprinter=false<br>\n"
+"Some examples:<br>\n"
+"A USB printer model 'Fun Printer 1000+' made by 'ACME'\n"
+"with serial number 'A1B2C3' may have a device URI like:<br>\n"
+"usb://ACME/Fun%20Printer%201000%2B?serial=A1B2C3<br>\n"
+"A network printer with IP 192.168.100.1 which is accessible\n"
+"via port 9100 may have a device URI like:<br>\n"
+"socket://192.168.100.1:9100<br>\n"
+"A network printer with IP 192.168.100.2 which is accessible\n"
+"via LPD protocol with a remote LPD queue name 'LPT1'\n"
+"may have a device URI like:<br>\n"
+"lpd://192.168.100.2/LPT1\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>打印机设备 URI</big></b><br>\n"
+"指定的连接就是所谓的 <b>device URI</b>。<br>\n"
+"它的第一个词 (所谓 URI 格式) 指定了数据传输的类型，例如 'parallel', 'usb', 'socket', 'lpd', 或者 'ipp'。<br>\n"
+"格式之后有或多或少额外的组件指定了这种数据传输类型的细节。<br>\n"
+"URI 中不允许出现空格，因此空格字符以 URI 组件的值出现时是编码成 '%20' 的 (20 是空格字符的十六进制值)。<br>\n"
+"URI 的组件之间由特殊的保留字符分隔，保留字符有冒号 ':'，斜线 '/'，问号 '?'，符号 '&amp;'，或者等号 '='。<br>\n"
+"最后可选参数 (由问号 '?' 分隔)  的格式为 'option1=value1&amp;option2=value2&amp;option3=value3'，因此一个完整的设备 URI 的例子如下：<br>\n"
+"ipp://server.domain:631/printers/queuename?waitjob=false&amp;waitprinter=false<br>\n"
+"其他一些例子：<br>\n"
+"一个由 ‘ACME’ 制造的型号为 ‘Fun Printer 1000+’ 的编号为 'A1B2C3' 的 USB 打印机的设备 URI 可能是：<br>\n"
+"usb://ACME/Fun%20Printer%201000%2B?serial=A1B2C3<br>\n"
+"一个可通过 9100 端口访问的 IP 地址为 192.168.100.1 的网络打印机的设备 URI 可能是：<br>\n"
+"socket://192.168.100.1:9100<br>\n"
+"一个可通过 LPD 端口访问的 IP 地址为 192.168.100.2 的远程 LPD 队列名为 ‘LPT1’ 的网络打印机的设备 URI 可能是：<br>\n"
+"lpd://192.168.100.2/LPT1\n"
+"</p>"
+
+#. ConnectionWizardDialog help 3/7:
+#: src/helps.ycp:451
+msgid ""
+"<p>\n"
+"<b><big>Percent Encoding</big></b><br>\n"
+"The issue is complicated.\n"
+"It is recommended to avoid reserved characters and spaces\n"
+"for component values in URIs if the values are under your control\n"
+"(e.g. you cannot avoid it when you must specify such characters\n"
+"in values for an URI to access a remote print queue\n"
+"but the remote print queue is not under your control).\n"
+"Whenever possible use only so called 'unreserved characters'.\n"
+"Unreserved characters are uppercase and lowercase letters,\n"
+"decimal digits, hyphen, period, underscore, and tilde.\n"
+"Even hyphen, period, tilde, and case sensitivity\n"
+"could cause special issues in special cases\n"
+"(e.g. only letters, digits, and underscore are known to work\n"
+"for a CUPS print queue name and case is not significant there).\n"
+"Therefore it is best to use only lowercase letters, digits,\n"
+"and underscore for all values in all URIs if possible.<br>\n"
+"Reserved characters and space characters in the value of a component\n"
+"must be percent-encoded (also known as URL encoding).<br>\n"
+"When an input field in the dialog is intended to enter\n"
+"only a single value for a single component of the URI\n"
+"(e.g. separated input fields for username and password),\n"
+"you must enter spaces and reserved characters literally\n"
+"(i.e. non-percent-encoded).\n"
+"For such input fields all spaces and reserved characters\n"
+"will be automatically percent-encoded.\n"
+"For example if a password is actually 'Foo%20Bar' (non-percent-encoded),\n"
+"it must be entered literally in the password input field in the dialog.\n"
+"The automated percent-encoding results 'Foo%2520Bar' which is how\n"
+"the value of the password component is actually stored in the URI.<br>\n"
+"In contrast when an input field in the dialog is intended to enter\n"
+"more that a single value for a single component of the URI\n"
+"(e.g. a single input field for all optional parameters\n"
+"like 'option1=value1&amp;option2=value2&amp;option3=value3'\n"
+"or a single input field to enter the whole URI),\n"
+"you must enter spaces and reserved characters percent-encoded\n"
+"because an automated percent-encoding is no longer possible.\n"
+"Assume in an optional parameter 'option=value'\n"
+"the value would be 'this&amp;that' so that the whole\n"
+"optional parameter would be 'option=this&amp;that' (literally).\n"
+"But a literal '&amp;' character denotes\n"
+"the separation of different optional parameters\n"
+"so that 'option=this&amp;that' in an URI means\n"
+"a first optional parameter 'option=this' and\n"
+"a second optional parameter which is only 'that'.\n"
+"Therefore a single optional parameter 'option=this&amp;that'\n"
+"must be entered percent-encoded as 'option=this%26that'<br>\n"
+"Input fields which require percent-encoded input\n"
+"are denoted by a '[percent-encoded]' hint.<br>\n"
+"Listing of characters and their percent encoding:<br>\n"
+"space ' ' is percent encoded as %20<br>\n"
+"exclamation mark ! is percent encoded as %21<br>\n"
+"number sign # is percent encoded as %23<br>\n"
+"Dollar sign $ is percent encoded as %24<br>\n"
+"percentage % is percent encoded as %25<br>\n"
+"ampersand &amp; is percent encoded as %26<br>\n"
+"apostrophe / single quotation mark ' is percent encoded as %27<br>\n"
+"left parenthesis ( is percent encoded as %28<br>\n"
+"right parenthesis ) is percent encoded as %29<br>\n"
+"asterisk * is percent encoded as %2A<br>\n"
+"plus sign + is percent encoded as %2B<br>\n"
+"comma , is percent encoded as %2C<br>\n"
+"slash / is percent encoded as %2F<br>\n"
+"colon : is percent encoded as %3A<br>\n"
+"semicolon ; is percent encoded as %3B<br>\n"
+"equals sign = is percent encoded as %3D<br>\n"
+"question mark ? is percent encoded as %3F<br>\n"
+"at sign @ is percent encoded as %40<br>\n"
+"left bracket [ is percent encoded as %5B<br>\n"
+"right bracket ] is percent encoded as %5D<br>\n"
+"For details see 'Uniform Resource Identifier (URI): Generic Syntax' at<br>\n"
+"http://tools.ietf.org/html/rfc3986\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>百分号编码</big></b><br>\n"
+"该问题很复杂。\n"
+"建议您避免在 URI 中使用保留字符和空格作为组件值，如果您能控制的话 (例如当您必须在 URI 中指定这样的字符作为值以访问远程打印队列，但远程打印队列又不在您控制下时，您就无法避免使用它们)。\n"
+"可能的情况下请只使用 '非保留值'。\n"
+"非保留值包括大小写字母，十位数字，连字符，句号，下划线和波浪号。\n"
+"甚至在特殊情况下，连字符，句号，波浪号和大小写都会导致特殊问题 (例如，只有字符，数字和下划线已知可以用作 CUPS 打印队列名，它们一般没有什么显著问题)。\n"
+"因此若可能最好只使用小写字母，数字，和下划线作为 URI 中的值。<br>\n"
+"组件中的保留字符和空格字符必须以百分比编码 (也叫做 URL 编码)。<br>\n"
+"当对话框中输入框是用来输入 URI 的一个组件的一个值时 (例如，用户名和密码的输入框是分开的)，您必须按字面输入空格和保留字符 (非百分比编码)。这样的输入框会自动编码所有空格和保留字符。\n"
+"例如密码实际上是 'Foo%20Bar' (非百分比编码)，您必须在对话框中的密码输入框中按字面输入 'Foo%20Bar'。URI 中的密码组件值实际上储存的是自动百分比编码的结果 'Foo%2520Bar'。相反当对话框中输入框是用来输入 URI 的一个组件的多于一个值时 (例如，一个给所有可选参数如 'option1=value1&amp;option2=value2&amp;option3=value3' 的输入框或者一个输入框里输入整个 URI)，您必须输入编码过的空格和保留字符，因为这时没有自动编码。\n"
+"假设一个可选参数 'option=value' 的输入，value 就应该是 'this&amp;that' 因此整个可选参数应该是 'option=this&amp;that' (字面上)。\n"
+"但是字面上的 '&amp;' 字符意味着不同可选参数的分隔符，因此 URI 中的 'option=this&amp;that' 意思是第一个可选参数是 'option=this'，第二个可选参数只是 'that'。\n"
+"因此一个单独的可选参数 'option=this&amp;that' 必须以百分比编码格式输入为 'option=this%26%that'。<br>\n"
+"要求百分比编码输入的输入框由 '[percent-encoded]' 提示语表示。<br>\n"
+"下面是字符和它们的百分比编码的列表：<br>\n"
+"空格 '' 的百分比编码是 %20<br>\n"
+"感叹号 ！ 的百分比编码是 %21<br>\n"
+"数字符号 # 的百分比编码是 %23<br>\n"
+"美元符号 $ 的百分比编码是 %24<br>\n"
+"百分号 % 的百分比编码是 %25<br>\n"
+"符号 &amp; 的百分比编码是 %26<br>\n"
+"单引号 ‘ 的百分比编码是 %27<br>\n"
+"左括号 ( 的百分比编码是 %28<br>\n"
+"右括号 ) 的百分比编码是 %29<br>\n"
+"星号 * 的百分比编码是 %2A<br>\n"
+"加号 + 的百分比编码是 %2B<br>\n"
+"逗号 ， 的百分比编码是 %2C<br>\n"
+"斜杠 / 的百分比编码是 %2F<br>\n"
+"冒号 : 的百分比编码是 %3A<br>\n"
+"分号 ; 的百分比编码是 %3B<br>\n"
+"等号 = 的百分比编码是 %3D<br>\n"
+"问号 ? 的百分比编码是 %3F<br>\n"
+"at 号 @ 的百分比编码是 %40<br>\n"
+"左大括号 [ 的百分比编码是 %5B<br>\n"
+"右大括号 ] 的百分比编码是 %5D<br>\n"
+"详情见 '统一资源标识符 (URI): 通用语法' 于<br>\n"
+"http://tools.ietf.org/html/rfc3986\n"
+"</p>"
+
+#. ConnectionWizardDialog help 4/7:
+#: src/helps.ycp:525
+#, ycp-format
+msgid ""
+"<p>\n"
+"<b><big>Device URIs for Directly Connected Devices</big></b><br>\n"
+"Devices which are connected via the parallel port or via USB\n"
+"are autodetected and the appropriate device URI is autogenerated.\n"
+"For example:<br>\n"
+"parallel:/dev/lp0<br>\n"
+"usb://ACME/Fun%20Printer?serial=A1B2C3<br>\n"
+"hp:/usb/HP_LaserJet?serial=1234<br>\n"
+"Usually only the autogenerated device URIs work.\n"
+"When the device is not autodetected, there is usually no communication\n"
+"with the device possible and no data can be sent to the device.<br>\n"
+"To access a HP printer or all-in-one device via the backend 'hp',\n"
+"the RPM package hplip must be installed.\n"
+"The package provides HP's printing and scanning software HPLIP.<br>\n"
+"In contrast devices which are connected via serial port or bluetooth\n"
+"are not autodetected so that the device URI must be manually specified.\n"
+"The serial device URI parameters must comply with\n"
+"what the serial port in the printer requires,\n"
+"see the manual of your serial printer.\n"
+"Example device URIs:<br>\n"
+"serial:/dev/ttyS9?baud=9600+bits=8+parity=none+flow=soft+stop=1<br>\n"
+"bluetooth://1A2B3C4D5E6F<br>\n"
+"To access a device via bluetooth, the RPM package bluez-cups must be installed.\n"
+"The package provides the CUPS backend 'bluetooth' which actually sends the data\n"
+"to a bluetooth printer.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>直连设备的设备 URI</big</b><br>\n"
+"通过并口或 USB 连接的设备能够自动检测到并自动生成合适的设备 URI。\n"
+"例如：<br>\n"
+"parallel:/dev/lp0<br>\n"
+"usb://ACME/Fun%20Printer?serial=A1B2C3<br>\n"
+"hp:/usb/HP_LaserJet?serial=1234<br>\n"
+"通常只有自动生成的设备 URI 才能用。\n"
+"当设备没有自动检测到时，通常没有办法与设备建立通信和发送数据到设备。<br>\n"
+"要通过后端 'hp' 访问惠普打印机或多合一设备，必须安装 RPM 软件包 hplip 。\n"
+"该软件包提供了惠普的打印和扫描软件 HPLIP。<br>\n"
+"相反通过串口或蓝牙连接的设备不能自动检测到因此设备 URI 必须手动指定。\n"
+"串口设备 URI 参数必须遵守打印机要求的串口端口，详情见您串口打印机的手册。\n"
+"设备 URI 实例：<br>\n"
+"serial:/dev/ttyS9?baud=9600+bits=8+parity=none+flow=soft+stop=1<br>\n"
+"bluetooth://1A2B3C4D5E6F<br>\n"
+"要通过蓝牙访问设备，必须安装 RPM 软件包 bluez-cups。\n"
+"该软件包提供了发送数据到蓝牙打印机的 CUPS 后端 'bluetooth'。\n"
+"</p>"
+
+#. ConnectionWizardDialog help 5/7:
+#: src/helps.ycp:552
+msgid ""
+"<p>\n"
+"<b><big>Device URIs to Access a Network Printer or a Printserver Box</big></b><br>\n"
+"A printserver box is a small device with a network connection\n"
+"and a USB or parallel port connection to connect the actual printer.\n"
+"A network printer has such a device built-in.\n"
+"Access happens via three different network protocols.\n"
+"See the manual of your network printer or printserver box\n"
+"to find out what your particular device supports:<br>\n"
+"<b>TCP Port (AppSocket/JetDirect)</b><br>\n"
+"The IP address and a port number is needed to access it.\n"
+"Often the port number 9100 is the right one.\n"
+"It is the simplest, fastest, and generally the most reliable protocol.\n"
+"The matching device URI is:<br>\n"
+"socket://ip-address:port-number<br>.\n"
+"<b>Line Printer Daemon (LPD) Protocol</b><br>\n"
+"A LPD runs on the device and provides one or more LPD queues.\n"
+"The IP address and a LPD queue name is needed to access it.\n"
+"Almost all network printers and printserver boxes support it.\n"
+"Often an arbitrary queue name or 'LPT1' works.\n"
+"But using a correct LPD queue which does not change\n"
+"the data or add additional formfeeds or banner pages\n"
+"could be essential for reliable printing.\n"
+"The matching device URI is:<br>\n"
+"lpd://ip-address/queue<br>.\n"
+"<b>Internet Printing Protocol (IPP)</b><br>\n"
+"IPP is the native protocol for CUPS running on a real computer,\n"
+"but if IPP is implemented in a small printserver box,\n"
+"it is often not implemented properly. Only use IPP if the vendor\n"
+"actually documents official support for it. \n"
+"The matching device URI is:<br>\n"
+"ipp://ip-address:port-number/resource<br>.\n"
+"What 'port-number' and 'resource' exactly is depends\n"
+"on the particular network printer or printserver box model.<br>\n"
+"For <b>more information</b> have a look at<br>\n"
+"http://www.cups.org/documentation.php/network.html\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>访问网络打印机或打印服务器盒的设备 URI</big></b><br>\n"
+"一个打印服务器盒是一个通过网络连接和 USB 或并口连接连接到真实打印机的小型设备。\n"
+"网络打印机内置了该设备。\n"
+"可通过三种不同的网络协议访问，查找您网络打印机或打印服务器盒的手册来获知您的设备支持哪一种：<br>\n"
+"<b>TCP 端口 (AppSocket/JetDirect)</b><br>\n"
+"需要 IP 地址和端口号来访问。通常端口号为 9100。\n"
+"这是最简单、快速、和最稳定的协议。\n"
+"匹配的设备 URI 是：<br>\n"
+"socket://ip地址:端口号<br>。\n"
+"<b>行式打印机守护精灵 (LPD) 协议</b><br>\n"
+"IPP 是运行在真实计算机上的 CUPS 的原生协议，但是如果 IPP 是实现在小型打印服务器盒中的，那它通常实现的不好。只有在生产厂商确实提供了官方支持时再使用 IPP。\n"
+"匹配的设备 URI 是：<br>\n"
+"ipp://ip地址:端口号/资源<br>。\n"
+"端口号和资源由网络打印机和打印服务器盒的型号而定。<br>\n"
+"详情参考 http://www.cups.org/documentation.php/network.html\n"
+"</p>\n"
+
+#. ConnectionWizardDialog help 6/7:
+#: src/helps.ycp:590
+#, ycp-format
+msgid ""
+"<p>\n"
+"<b><big>Device URIs to Print Via a Print Server Machine</big></b><br>\n"
+"In contrast to a printserver box a print server machine\n"
+"means a real computer which offers a print service.<br>\n"
+"Access happens via various different network protocols.\n"
+"Ask your network administrator what which print server machine\n"
+"provides in your particular network:<br>\n"
+"<b>Windows (R) or Samba (SMB/CIFS)</b><br>\n"
+"To access a SMB printer share, the RPM package samba-client must be installed.\n"
+"The package provides the CUPS backend 'smb' which is a link to\n"
+"the <tt>/usr/bin/smbspool</tt> program which actually sends the data\n"
+"to a SMB printer share.<br>\n"
+"A server name and a printer share name and optionally a workgroup name\n"
+"is needed to access it.\n"
+"Furthermore a user name and a password may be required to get access.\n"
+"Have in mind that spaces and special characters in those values\n"
+"must be percent-encoded (see above).<br>\n"
+"By default CUPS runs backends (here smbspool) as user 'lp'.\n"
+"When printing in an Active Directory (R) environment (AD)\n"
+"the user 'lp' is not allowed to print in this environment\n"
+"so that the traditional way to print via smbspool as user 'lp'\n"
+"would not work.<br>\n"
+"For printing in an AD environment additionally\n"
+"the RPM package samba-krb-printing must be installed.\n"
+"In this case the CUPS backend 'smb' link\n"
+"is changed to <tt>/usr/bin/get_printing_ticket</tt>\n"
+"which is a wrapper to run smbspool as the original user\n"
+"who submitted a particular print job.\n"
+"When the Kerberos protocol is used for authentication\n"
+"in an AD environment, a user gets a ticket granting ticket (TGT)\n"
+"via the display manager during login at the Gnome or KDE desktop.\n"
+"When smbspool is run as the original user who submitted\n"
+"a particular print job, it can access the TGT of this user\n"
+"and use it to pass the printing data to the SMB printer share\n"
+"even in an AD environment with Kerberos authentication.\n"
+"In this case neither a fixed user name nor a fixed password\n"
+"has to be specified for authentication.\n"
+"A precondition is that get_printing_ticket runs on the same host\n"
+"where the user who submitted a particular print job is logged in.\n"
+"This means that it must be set up on the workstation\n"
+"for the particular user who will submit such print jobs\n"
+"and the user's workstation must send its printing data\n"
+"directly to the SMB printer share in the AD environment.\n"
+"In particular it does not work on a separated CUPS server machine\n"
+"where users who submit print jobs are not logged in.<br>\n"
+"For the traditional way a matching full device URI is:<br>\n"
+"smb://username:password@workgroup/server/printer<br>\n"
+"For example 'John Doe' with password '@home!' may use something like\n"
+"the following device URI to access a 'Fun Printer 1000+' share:<br>\n"
+"smb://John%20Doe:%40home%21@MYGROUP/homeserver/Fun%20Printer%201000%2B<br>\n"
+"For <b>more information</b> have a look at <tt>man smbspool</tt> and<br>\n"
+"http://en.opensuse.org/SDB:Printing_via_SMB_(Samba)_Share_or_Windows_Share<br>\n"
+"'Windows' and 'Active Directory' are registered trademarks\n"
+"of Microsoft Corporation in the United States and/or other countries.<br>\n"
+"<b>Traditional UNIX Server (LPR)</b><br>\n"
+"A Line Printer Daemon (LPD) runs on a traditional UNIX server\n"
+"and provides one or more LPD queues.\n"
+"The IP address and a LPD queue name is needed to access it.\n"
+"The matching device URI is:<br>\n"
+"lpd://ip-address/queue<br>\n"
+"<b>CUPS Server</b><br>\n"
+"Usually you should not set up a local print queue to access\n"
+"a remote queue on a CUPS server. Instead do the setup\n"
+"in the <b>Print Via Network</b> dialog.\n"
+"Only if you really know that you must set up a local print queue\n"
+"to access a remote queue on a CUPS server proceed here.<br>\n"
+"IPP is the native protocol for CUPS which runs on a server.\n"
+"The official IANA port for IPP is 631.\n"
+"The matching device URI is:<br>\n"
+"ipp://ip-address:631/printers/queue<br>\n"
+"<b>Novell Netware Print Server (IPX)</b><br>\n"
+"To access print queues on a Novell Netware print server,\n"
+"the RPM package ncpfs must be installed.\n"
+"The package provides the CUPS backend 'novell' which runs\n"
+"the <tt>nprint</tt> program which actually sends the data\n"
+"to a Novell Netware print queue.\n"
+"A server name and a printer queue name is needed to access it.\n"
+"Furthermore a user name and a password may be required to get access.\n"
+"The matching device URI is:<br>\n"
+"novell://username:password@server/queue<br>\n"
+"For <b>more information</b> have a look at <tt>man nprint</tt> and\n"
+"the other documentation in the RPM package ncpfs.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>通过打印服务器打印的设备 URI</big></b><br>\n"
+"不同于打印服务器盒，打印服务器意味着一台提供打印服务的真实计算机。<br>\n"
+"可以通过多种网络协议访问。\n"
+"询问您的网络管理员以获知您的网络中哪台计算机是打印服务器，是哪种打印服务器：<br>\n"
+"<b>Windows (R) 或 Samba (SMB/CIFS)</b><br>\n"
+"要访问 SMB 打印机共享，必须安装 RPM 软件包 samba-client。\n"
+"该软件包提供了 CUPS 后端 'smb'，它链接到 <tt>/usr/bin/smbspool</tt> 程序来实际发送数据到 SMB 打印机共享。<br>\n"
+"需要服务器名称和打印机共享名称，可选的工作组名称来访问它。\n"
+"还有用来获得访问权限的用户名和密码。\n"
+"请记住这些值中的空格和特殊字符必须以百分比编码 (见上)。<br>\n"
+"默认 CUPS 以用户 'lp' 运行后端 (这里是 smbspool)。n当在活动目录 (R) 环境 (AD) 中打印时，用户 'lp' 不允许在该环境打印，因此传统的以 'lp' 用户身份通过 smbspool 打印的方法行不通。<br>\n"
+"要在活动目录环境中打印，您必须安装 RPM 软件包 samba-krb-printing。它把 CUPS 后端 'smb' 的链接换成了 <tt>/usr/bin/get_printing_ticket</tt>，那是一个以提交打印任务的初始用户身份执行 smbspool 的封装。\n"
+"当活动目录环境 (AD) 使用了 Kerberos 协议认证时，用户在登陆 GNOME 或 KDE 桌面时会通过显示管理器得到一个豁免券 (TGT)。\n"
+"当 smbspool 由提交打印任务的初始用户运行时，即使在使用 Kerberos 验证的活动目录 (AD) 环境下，smbspool 依然可以访问该用户的豁免券，使用它来向 SMB 打印机共享传输打印数据。豁免券免除了您认证固定用户名或固定密码的麻烦。\n"
+"这样做的前提是 get_printing_ticket 要运行在提交打印任务的用户登录的那台主机上。这意味着它必须在用户提交打印任务的工作站上设置，且用户的这台工作站必须直接发送打印数据给活动目录 (AD) 环境中的 SMB 打印机共享。另外它不能运行在提交打印任务的用户没有登录的独立 CUPS 服务器机上。<br>\n"
+"传统上一个匹配的完整设备 URI 是：<br>\n"
+"smb://用户名:密码@工作组/服务器/打印机<br>\n"
+"例如用户名 '王 小萌'、密码 '@1234!' 可以使用下面的设备 URI 来访问 '惠普 1000+ 打印机' 共享：<br>\n"
+"smb://王%20小萌:%401234%21@MYGROUP/homeserver/惠普%201000%2B%20打印机<br>\n"
+"<b>更多信息</b>请参考 <tt>man smbspool</tt> 和 <br>\n"
+"http://zh.opensuse.org/SDB:Printing_via_SMB_(Samba)_Share_or_Windows_Share<br>\n"
+"'Windows' 和 '活动目录' 是美国和/或其他国家的微软的注册商标。<br>\n"
+"<b>传统 UNIX 服务器 (LPR)</b><br>\n"
+"运行在传统 UNIX 服务器上行式打印机守护精灵 (LPD) 可以提供一个或多个 LDP 队列。\n"
+"需要 IP 地址和 LPD  队列名来访问它。\n"
+"匹配的设备 URI 是：<br>\n"
+"lpd://ip地址/队列名<br>\n"
+"<b>CUPS 服务器</b><br>\n"
+"通常您不需要设定本地打印队列来访问 CUPS 服务器上的远程队列，而是像 <b>网络打印</b> 对话框中那么设置。\n"
+"除非您真的知道您必须设置一个本地打印队列来访问 CUPS 服务器上的远程队列才可以那么做。<br>\n"
+"IPP 是服务器上运行的 CUPS 的原生协议。IPP 的官方 IANA 端口是 631。\n"
+"匹配的设备 URI 是：<br>\n"
+"ipp://ip地址:631/打印机/队列<br>\n"
+"<b>Novell Netware 打印服务器 (IPX)</b><br>\n"
+"要访问 Novell Netware 打印服务器上的打印队列，必须安装 RPM 软件包 ncpfs。\n"
+"该软件包提供了 CUPS 后端 'novell'，该后端运行 <tt>nprint</tt> 程序，它真正发送数据给 Novell Netware 打印队列。\n"
+"需要服务器名和打印机队列名来访问它。还需要用来获取访问权限的用户名和密码。\n"
+"匹配的设备 URI 为：<br>\n"
+"novell://用户名:密码@服务器/队列<br>\n"
+"<b>更多信息</b>请参考 <tt>man nprint</tt> 和 RPM 软件包 ncpfs 的其他文档。\n"
+"</p>"
+
+#. ConnectionWizardDialog help 7/7:
+#: src/helps.ycp:674
+msgid ""
+"<p>\n"
+"<b><big>Special Device URIs</big></b><br>\n"
+"<b>Specify an Arbitrary Device URI</b>\n"
+"if you know the exact right device URI for your particular case\n"
+"or to modify an existing device URI in a special way.<br>\n"
+"<b>Send Print Data to Other Program (pipe)</b><br>\n"
+"To do this, the RPM package cups-backends must be installed.\n"
+"The package provides the CUPS backend 'pipe' which runs\n"
+"the program that you specified here.\n"
+"The matching device URI is:<br>\n"
+"pipe:/path/to/targetcommand<br>\n"
+"<b>Daisy-chain Backend Error Handler (beh)</b><br>\n"
+"To do this, the RPM package foomatic-filters must be installed.\n"
+"The package provides the CUPS backend 'beh'.<br>\n"
+"The backend 'beh' is a wrapper for the usual backend,\n"
+"which is then called by beh.\n"
+"This way beh can, depending on its configuration,\n"
+"repeat the call of the backend or simply hide the error status\n"
+"of the backend from being seen by the CUPS daemon.\n"
+"The matching device URI is:<br>\n"
+"beh:/nodisable/attempts/delay/originalDeviceURI<br>\n"
+"If nodisable is '1' beh always exits successfully\n"
+"so that the queue gets never disabled but on the other hand\n"
+"print jobs are lost if there is an error.<br>\n"
+"Attempts is the number of attempts to recall the backend\n"
+"in case of an error. '0' means infinite retries.<br>\n"
+"Delay is the number of seconds between two attempts\n"
+"to call the backend.<br>\n"
+"The last parameter is the original URI, which the queue had before.<br>\n"
+"Example:<br>\n"
+"beh:/1/3/5/socket://ip-address:port-number<br>\n"
+"The beh backend tries to access a network printer 3 times with 5 second delay\n"
+"between the attempts. If access still fails, the queue is not disabled\n"
+"and the print job is lost.<br>\n"
+"For <b>more information</b> have a look at <tt>/usr/lib[64]/cups/backend/beh</tt> and<br>\n"
+"http://www.linuxfoundation.org/en/OpenPrinting/Database/BackendErrorHandler\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>特殊设备 URI</big></b><br>\n"
+"<b>指定一个特殊设备 URI</b>\n"
+"如果您知道您特殊设备的绝对正确的设备 URI 或者用特殊方法修改现有设备 URI。<br>\n"
+"<b>发送打印数据到其他程序 (管道 pipe)</b><br>\n"
+"必须安装 RPM 软件包 cups-backends。\n"
+"该软件包提供了 CUPS 后端 'pipe'，它能运行您在此指定的程序。\n"
+"匹配的设备 URI 为:<br>\n"
+"pipe:/目标命令/的/路径<br>\n"
+"<b>菊链后端错误处理器 (beh)</b><br>\n"
+"必须安装 RPM 软件包 foomatic-filters。\n"
+"该软件包提供了 CUPS 后端 'beh'。<br>\n"
+"后端 'beh' 是常用后端的一个封装，使用 beh 调用常用后端。通过这种方法，根据 beh 的配置，它可以重复调用后端，或对 CUPS 守护精灵简单隐藏后端的错误状态。\n"
+"匹配的设备 URI 为:<br>\n"
+"beh://nodisable/尝试次数/延迟/原始设备 URI<br>\n"
+"如果 nodisable 是 '1' 的话，beh 总能成功退出因此队列从不禁用，但另一方面说如果出错的话整个队列剩余的打印任务都会丢失。<br>\n"
+"尝试次数是出错时重新调用后端的次数。'0' 意味着永远。<br>\n"
+"延迟是两次调用后端的操作之间的间隔秒数。<br>\n"
+"最后一个参数是原始 URI，就是队列之前的 URI。<br>\n"
+"实例：<br>\n"
+"beh:/1/3/5/socket://ip地址:端口号<br>\n"
+"beh 后端尝试访问网络打印机 3 次，间隔为 5 秒。如果访问仍然失败，不禁用打印队列，丢失打印任务。<br>\n"
+"<b>更多信息</b>请参考 <tt>/usr/lib[64]/cups/backend/beh</tt> 和<br>\n"
+"http://www.linuxfoundation.org/en/OpenPrinting/Database/BackendErrorHandler\n"
+"</p>"
+
+#. PrintingViaNetworkDialog help 1/4:
+#: src/helps.ycp:714
+msgid ""
+"<p>\n"
+"<b><big>Printing Via Network</big></b><br>\n"
+"Usually CUPS (Common Unix Printing System) is used to print via network.<br>\n"
+"By default CUPS uses its so called 'Browsing' mode\n"
+"to make printers available via network.<br>\n"
+"In this case remote CUPS servers must publish their printers via network\n"
+"and accordingly on your host the CUPS daemon process (cupsd) must run\n"
+"which is listening for incoming information about published printers.<br>\n"
+"CUPS Browsing information is received via UDP port 631.<br>\n"
+"Regarding firewall:<br>\n"
+"Check if a firewall is active for a network zone\n"
+"in which printers are published via network.\n"
+"By default the SuSEfirewall allows any incoming information\n"
+"via a network interface which belongs to the 'internal zone'\n"
+"because this zone is trusted by default.<br>\n"
+"It does not make sense to do printing in a trusted internal network\n"
+"with a network interface which belongs to the untrusted 'external zone'\n"
+"(the latter is the default setting for network interfaces to be safe).\n"
+"In particular do not disable firewall protection for CUPS\n"
+"(i.e. for IPP which uses TCP port 631 and UDP port 631)\n"
+"for the untrusted 'external zone'.<br>\n"
+"To use remote printers in a trusted internal network\n"
+"and be protected by the firewall against unwanted access\n"
+"from any external network (in particular from the Internet),\n"
+"assign the network interface which belongs to the internal network\n"
+"to the internal zone of the firewall.\n"
+"Use the YaST Firewall setup module to do this fundamental setup\n"
+"to gain security plus usefulness in your network\n"
+"and using remote printers in a trusted internal network\n"
+"will work without any further firewall setup.<br>\n"
+"For details see the openSUSE support database\n"
+"article 'CUPS and SANE Firewall settings' at<br>\n"
+"http://en.opensuse.org/SDB:CUPS_and_SANE_Firewall_settings\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>网络打印</big></b><br>\n"
+"通常使用 CUPS (通用 UNIX 打印系统) 来通过网络打印。<br>\n"
+"默认 CUPS 使用它的所谓 '浏览' 模式来向网络发布打印机。<br>\n"
+"在这种情况下远程 CUPS 服务器必须通过网路发布它的打印机，您的主机必须运行 CUPS 守护精灵进程 (cupsd) 以监听发布的打印机的进站信息。<br>\n"
+"CUPS 浏览信息是通过 UDP 端口 631 来接收的。<br>\n"
+"防火墙相关：<br>\n"
+"检查防火墙是否监控着打印机发布的网络区域。\n"
+"默认 SuSE 防火墙允许任何通过属于 '内部区域 的网络接口进站的信息，因此此区域默认是信任的。<br>\n"
+"通过属于不信任的 '外部区域' 的网络接口来在信任的内部网络打印是不安全的 (网络接口出于安全考虑默认属于外部区域)。\n"
+"尤其不要禁用 CUPS 的针对不信任的 '外部区域' 的防火墙保护 (例如 IPP 使用的 TCP 端口 631 和 UDP 端口 631)。<br>\n"
+"要在信任的内部网络使用远程打印机，且保护其不受任何外部网络的无谓访问 (尤其是因特网访问)，请指派属于内部网络的网络接口到防火墙的内部区域。\n"
+"可以使用 YaST 防火墙设置模块来完成此基础设定，以获取网络的安全和易用。在受信任的内部网络使用远程打印机将不需要额外的防火墙设置。<br>\n"
+"详情请见 openSUSE 支持数据库文章 'CUPS 和 SANE 的防火墙设定' 于<br>\n"
+"http://zh.opensuse.org/SDB:CUPS_and_SANE_Firewall_settings\n"
+"</p>"
+
+#. PrintingViaNetworkDialog help 2/4:
+#: src/helps.ycp:749
+msgid ""
+"<p>\n"
+"If you can access remote CUPS servers for printing\n"
+"but those servers do not publish their printer information via network\n"
+"or when you cannot accept incoming information about published printers\n"
+"(e.g. because you must have firewall protection for the network zone\n"
+"in which printers are published), you can request printer information\n"
+"from CUPS servers (provided the CUPS servers allow your access).<br>\n"
+"For each CUPS server which is requested, a cups-polld process\n"
+"is launched by the CUPS daemon process (cupsd) on your host.\n"
+"By default each cups-polld polls a remote CUPS server\n"
+"every 30 seconds for printer information.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"如果您可以访问远程 CUPS 服务器来打印，但这些服务器没有通过网络发布它们的打印机信息，\n"
+"或者当您不能接受发布的打印机发来的进站信息时 (例如您的防火墙屏蔽了打印机发布到的网络区域)，\n"
+"您可以从 CUPS 服务器请求打印机信息 (假设 CUPS 服务器允许您访问)。<br>\n"
+"您主机上的 CUPS 守护精灵进程 (cupsd) 会为每个被请求的 CUPS 服务器启动一个 cups-polld 进程。\n"
+"默认每个 cups-polld 每隔 30 秒向远程 CUPS 服务器查询一次打印机信息。\n"
+"</p>"
+
+#. PrintingViaNetworkDialog help 3/4:
+#: src/helps.ycp:762
+msgid ""
+"<p>\n"
+"If you print only via network and if you use only one single CUPS server,\n"
+"there is no need to use CUPS Browsing and have a CUPS daemon running on your host.\n"
+"Instead it is simpler to specify the CUPS server and access it directly.<br>\n"
+"A possible drawback is that application programs may be delayed\n"
+"for some time (until a timeout happens) when they try\n"
+"to access the CUPS server but it is actually not available\n"
+"(e.g. while traveling with a laptop). Usually it is a host name\n"
+"resolution (DNS) timeout which causes the delay so that it may help\n"
+"to have a hardcoded entry for the CUPS server in the /etc/hosts file.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"如果您只通过网络打印且您只使用一个 CUPS 服务器，没有必须使用 CUPS 浏览模式和在您的主机上运行一个 CUPS 守护精灵。\n"
+"指定 CUPS 服务器并直接访问它会更简单。<br>\n"
+"一个或有缺陷就是应用程序在访问 CUPS 服务器但服务器不可用时 (比如笔记本带出了公司)，它可能会延迟直到超时 (卡死的文雅说法啦)。通常延迟是由主机名称解析 (DNS) 超时造成的，因此在 /etc/hosts 文件中指定一个硬编码的 CUPS 服务器条目可能会有帮助。\n"
+"</p>"
+
+#. PrintingViaNetworkDialog help 4/4:
+#: src/helps.ycp:774
+msgid ""
+"<p>\n"
+"You have to set up an appropriate print queue on your host\n"
+"if there is no CUPS server in your network,\n"
+"or when you must access a network printer directly,\n"
+"or when you use another kind of print server\n"
+"e.g. when printing via a Windows (R) or Samba server\n"
+"or when printing via a traditional Unix server.<br>\n"
+"'Windows' is a registered trademark\n"
+"of Microsoft Corporation in the United States and/or other countries.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"如果您的网络中没有 CUPS 服务器，或者您可以直接访问网络打印机，或您使用另外种类的打印服务器，例如通过 Windows (R) 或 Samba 服务器或传统 UNIX 服务器打印，您需要在您的主机上设置一个合适的打印队列。<br>\n"
+"'Windows' 是美国和/或其他国家的微软的注册商标 (屁咧)。\n"
+"</p>"
+
+#. SharingDialog help 1/4:
+#: src/helps.ycp:787
+msgid ""
+"<p>\n"
+"<b><big>Sharing Print Queues and Publish Them Via Network</big></b><br>\n"
+"Usually CUPS (Common Unix Printing System) should be set up to use\n"
+"its so called 'Browsing' mode to make printers available via network.<br>\n"
+"In this case CUPS servers publish their local print queues via network\n"
+"and accordingly on CUPS client systems the CUPS daemon process (cupsd) must run\n"
+"which is listening for incoming information about published printers.<br>\n"
+"CUPS Browsing information is received via UDP port 631.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>通过网络分享和发布打印队列</big></b><br>\n"
+"通常 CUPS (通用 UNIX 打印系统) 应该设置使用它所谓的 '浏览' 模式来向网络发布打印机。<br>\n"
+"在这种情况下 CUPS 服务器通过网络发布它的本地打印队列，CUPS 客户端系统必须运行 CUPS 守护精灵进程 (cupsd) 来监听发布的打印机的进站信息。<br>\n"
+"CUPS 浏览信息是通过 UDP 端口 631 接收的。\n"
+"</p>"
+
+#. SharingDialog help 2/4:
+#: src/helps.ycp:797
+msgid ""
+"<p>\n"
+"First of all CUPS client systems must be allowed to access the CUPS server.\n"
+"Then specify whether or not printers should be published to the clients.<br>\n"
+"In a local network the usual way to set up CUPS Browsing is\n"
+"to allow remote access for all hosts in the local network\n"
+"and to publish printers to all those hosts.<br>\n"
+"It is not required to publish printers in any case.<br>\n"
+"If you have only one single CUPS server, there is no need to use CUPS Browsing.\n"
+"Instead it is simpler to specify the CUPS server on the client systems\n"
+"(via 'Printing Via Network') so that the clients access the server directly.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"首先 CUPS 客户端系统必须允许访问 CUPS 服务器。\n"
+"然后指定是否发布打印机给客户机。<br>\n"
+"在局域网中通常设置 CUPS 浏览的方法是允许局域网内所有主机的远程访问，并通告打印机给所有这些主机。<br>\n"
+"在局域网中任何情况下都不需要公开发布打印机。<br>\n"
+"如果你只有一台 CUPS 服务器，没有必要使用 CUPS 浏览模式。\n"
+"在客户端系统上指定 CUPS 服务器 (通过 '网络打印') 以使客户机直接访问服务器会更简单一些。\n"
+"</p>"
+
+#. SharingDialog help 3/4:
+#: src/helps.ycp:809
+msgid ""
+"<p>\n"
+"There are various ways which can coexist how to specify\n"
+"which remote hosts are allowed to access the CUPS server.<br>\n"
+"Allow remote access for computers within the local network\n"
+"will allow access from all hosts in the local network.\n"
+"A remote host is in the local network when it has an IP address\n"
+"that belongs to the same network as the CUPS server\n"
+"and when the network connection of the host\n"
+"uses a non-PPP interface on the CUPS server\n"
+"(an interface whose IFF_POINTOPOINT flag is not set).<br>\n"
+"Alternatively or additionally an explicite list of network interfaces\n"
+"from which remote access is allowed can be specified.<br>\n"
+"Alternatively or additionally an explicite list of\n"
+"allowed IP addresses and/or networks can be specified.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"如何指派哪些远程主机可以访问 CUPS 服务器有多种方法，这些方法可以共存。<br>\n"
+"允许本地网络内的计算机的远程访问将允许所有本地网络内的主机访问。\n"
+"当一个远程主机拥有属于 CUPS 服务器所在网络的 IP 地址时，或主机的网络连接接入了 CUPS 服务器上的非 PPP 接口 (没有设置 IFF_POINTTOPOINT 标记的接口)，它就属于本地网络。<br>\n"
+"另外可以指定一个允许远程访问的网络接口白名单。<br>\n"
+"另外也可以指定一个 IP 地址或网络地址的白名单。\n"
+"</p>"
+
+#. SharingDialog help 4/4:
+#: src/helps.ycp:825
+msgid ""
+"<p>\n"
+"Regarding firewall:<br>\n"
+"A firewall is used to protect running server processes\n"
+"(in this case the CUPS server process 'cupsd')\n"
+"on your host against unwanted access via network.<br>\n"
+"Printing via network happens in a trusted internal network\n"
+"(nobody lets arbitrary users from whatever external network\n"
+"print on his printer) and usually the users need\n"
+"physical printer access to get their paper output.<br>\n"
+"By default the SuSEfirewall lets any network traffic pass\n"
+"via a network interface which belongs to the 'internal zone'\n"
+"because this zone is trusted by default.<br>\n"
+"It does not make sense to do printing in a trusted internal network\n"
+"with a network interface which belongs to the untrusted 'external zone'\n"
+"(the latter is the default setting for network interfaces to be safe).\n"
+"Do not disable firewall protection for CUPS\n"
+"(i.e. for IPP which uses TCP port 631 and UDP port 631)\n"
+"for the untrusted 'external zone'.<br>\n"
+"To make printers accessible in a trusted internal network\n"
+"and be protected by the firewall against unwanted access\n"
+"from any external network (in particular from the Internet),\n"
+"assign the network interface which belongs to the internal network\n"
+"to the internal zone of the firewall.\n"
+"Use the YaST Firewall setup module to do this fundamental setup\n"
+"to gain security plus usefulness in your network and\n"
+"sharing printers in a trusted internal network\n"
+"will work without any further firewall setup.<br>\n"
+"For details see the openSUSE support database\n"
+"article 'CUPS and SANE Firewall settings' at<br>\n"
+"http://en.opensuse.org/SDB:CUPS_and_SANE_Firewall_settings\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"关于防火墙：<br>\n"
+"防火墙用来保护在您的主机上运行的服务器进程 (本例中是 CUPS 服务器进程 'cupsd') 不受无谓的网络访问。<br>\n"
+"网络打印发生在信任的内部网络环境中 (没人会让外部网络的任意用户来在他的打印机上打印)，通常用户需要能够接触物理的打印机来取回他们打印的纸张。<br>\n"
+"SuSE 防火墙默认允许任何来自属于 '内部区域' 的网络接口的网络流量通过，因为此区域默认是信任的。<br>\n"
+"通过属于不信任的 '外部区域' 的网络接口来在信任的内部网络打印是不安全的 (网络接口出于安全考虑默认属于外部区域)。\n"
+"尤其不要禁用 CUPS 的针对不信任的 '外部区域' 的防火墙保护 (例如 IPP 使用的 TCP 端口 631 和 UDP 端口 631)。<br>\n"
+"要在信任的内部网络使用远程打印机，且保护其不受任何外部网络的无谓访问 (尤其是因特网访问)，请指派属于内部网络的网络接口到防火墙的内部区域。\n"
+"可以使用 YaST 防火墙设置模块来完成此基础设定，以获取网络的安全和易用。在受信任的内部网络分享打印机将不需要额外的防火墙设置。<br>\n"
+"详情请见 openSUSE 支持数据库文章 'CUPS 和 SANE 的防火墙设定' 于<br>\n"
+"http://zh.opensuse.org/SDB:CUPS_and_SANE_Firewall_settings\n"
+"</p>"
+
+#. Policies help 1/2:
+#: src/helps.ycp:859
+msgid ""
+"<p>\n"
+"<b><big>CUPS Operation Policy</big></b><br>\n"
+"Operation policies are the rules used for each operation in CUPS.\n"
+"Such operations are for example 'print something', 'cancel a printout',\n"
+"'configure a printer', 'modify or remove a printer configuration',\n"
+"and 'enable or disable printing'.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>CUPS 操作策略</big></b><br>\n"
+"操作策略是 CUPS 中用于每个操作，例如 '打印东西'，'取消打印'，'配置打印机'，'修改或移除打印机配置' 和 '启用或禁用打印' 的规则。\n"
+"</p>"
+
+#. Policies help 2/2:
+#: src/helps.ycp:867
+msgid ""
+"<p>\n"
+"<b><big>CUPS Error Policy</big></b><br>\n"
+"The error policy defines the default policy that is used when\n"
+"CUPS fails to send a print job to the printer device.<br>\n"
+"Depending on the particular way how the printer is connected\n"
+"(for example 'parallel', 'usb', 'socket', 'lpd', or 'ipp'),\n"
+"and depending on the actual kind of failure,\n"
+"the CUPS backend which actually sends the data to the printer\n"
+"can overwrite the default error policy\n"
+"and enforce another error policy (see <tt>man backend</tt>).\n"
+"For example it can stop any further printing attempt\n"
+"even when the default error policy is to retry the job.\n"
+"This could happen when any attempt to establish\n"
+"the communication with the printer is useless\n"
+"so that it does no make sense to retry the job.\n"
+"<br>\n"
+"The following error policies exist:<br>\n"
+"Stop the printer and keep the job for future printing.<br>\n"
+"Re-send the job from the beginning after waiting some time (30 seconds by default).<br>\n"
+"Abort and delete the job and proceed with the next job.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>CUPS 错误策略</big></b><br>\n"
+"错误策略定义了当 CUPS 未能发送打印任务给打印机设备时的默认策略。<br>\n"
+"根据打印机的连接方式 (例如 'parallel', 'usb', 'socket', 'lpd', 或 'ipp')，和错误类型，发送数据到打印机的 CUPS 后端可以覆写默认错误策略并强制执行另一个错误策略 (参考 <tt>man backend</tt>)。\n"
+"例如它可以停止任何打印尝试即使默认错误策略是重试任务。这在当任何与打印机建立通信的尝试都是无用的，因此没必要重试任务时会发生。<br>\n"
+"已有如下错误策略：<br>\n"
+"停止打印机并保留任务以供未来打印。<br>\n"
+"在等待过后 (默认 30 秒) 重头重新发送任务。<br>\n"
+"终止并删除任务，继续下一个任务。\n"
+"</p>"
+
+#. Autoconfig help 1/2:
+#: src/helps.ycp:891
+msgid ""
+"<p>\n"
+"<b><big>Automatic Configuration for Local Connected Printers</big></b><br>\n"
+"Check the check box to run YaST's automatic configuration\n"
+"for printers which are connected to the local host.<br>\n"
+"For each autodetected local connected printer,\n"
+"YaST tests if there exists already a configuration.\n"
+"If there is not yet a configuration,\n"
+"YaST tries to find a matching driver for the printer\n"
+"and if one is found, the printer is configured.<br>\n"
+"The resulting configuration is basically the same\n"
+"as if one would have selected an autodetected printer\n"
+"in the 'Add New Printer Configuration' dialog\n"
+"and accepted whatever preselected values there.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>自动配置本地连接上的打印机</big></b><br>\n"
+"选中复选框以为自动连接到本地主机的打印机运行 YaST 的自动配置。<br>\n"
+"YaST 为每个自动检测到的本地连接上的打印机测试是否已有配置。如果没有，YaST 尝试为打印机查找一个匹配的驱动以自动配置打印机。<br>\n"
+"最终的配置基本上和用户在 '添加新打印机配置' 对话框中选中了自动检测到的打印机并接受了预设值的配置相同。\n"
+"</p>"
+
+#. Autoconfig help 2/2:
+#: src/helps.ycp:906
+msgid ""
+"<p>\n"
+"<b><big>Automatic Configuration for USB Printers</big></b><br>\n"
+"The RPM package 'udev-configure-printer' provides\n"
+"automatic configuration when USB printers are plugged in.<br>\n"
+"When its check box is initially not checked, it is not installed\n"
+"and then you can select it so that it will be installed.<br>\n"
+"When its check box is initially checked, it is already installed\n"
+"and then you can un-select it so that it will be removed.<br>\n"
+"When udev-configure-printer is installed,\n"
+"automatic USB printer configuration happens via the entries\n"
+"in its udev config file /lib/udev/rules.d/70-printers.rules\n"
+"which triggers to run 'udev-configure-printer add'\n"
+"when a USB printer is plugged in\n"
+"and 'udev-configure-printer remove' when it is unplugged.\n"
+"There are no adjustable settings for udev-configure-printer\n"
+"except one changes the 70-printers.rules file manually.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b><big>自动配置 USB 打印机</big></b><br>\n"
+"RPM 软件包 'udev-configure-printer' 为插入的 USB 打印机提供自动配置。<br>\n"
+"当它的复选框初始未选中时，它没有安装。当您选中它时，它将被安装。<br>\n"
+"当它的复选框初始选中时，它已经安装。当您取消选中时，它将被卸载。<br>\n"
+"当已安装了 udev-configure-printer 时，自动 USB 打印机配置通过 udev 配置文件 /lib/udev/rules.d/70-printers.rules 的条目执行，该条目在有 USB 打印机插入时会触发运行 'udev-configure-printer add'，有 USB 打印机拔出时会触发运行 'udev-configure-printer remove'。该文件没有可调整的设置，除非用户手动编辑 70-printers.rules 文件。\n"
+"</p>"
+
+#. Label for CheckBoxes to select local and/or remote print queues to be listed:
+#: src/overview.ycp:47
+msgid "Show"
+msgstr "显示"
+
+#. CheckBox to select local print queues to be listed:
+#: src/overview.ycp:54
+msgid "&Local"
+msgstr "本地(&L)"
+
+#. CheckBox to select remote print queues to be listed:
+#: src/overview.ycp:61
+msgid "&Remote"
+msgstr "远程(&R)"
+
+#. Header of a Table column with a list of print queues.
+#. Where the queue configuration exists (local or remote):
+#: src/overview.ycp:83
+msgid "Configuration"
+msgstr "配置"
+
+#. Header of a Table column with a list of print queues.
+#. Print queue name:
+#: src/overview.ycp:86
+msgid "Name"
+msgstr "名称"
+
+#. Header of a Table column with a list of print queues.
+#. Location of the printer (e.g. second floor, room 2.3):
+#: src/overview.ycp:92
+msgid "Location"
+msgstr "位置"
+
+#. Header of a Table column with a list of print queues.
+#. Whether or not is is the default queue:
+#: src/overview.ycp:95
+msgid "Default"
+msgstr "默认值"
+
+#. Header of a Table column with a list of print queues.
+#. Queue status (accepting/rejecting and enabled/disabled):
+#: src/overview.ycp:98
+msgid "Status"
+msgstr "状态"
+
+#. PushButton label to refresh the list of print queues:
+#: src/overview.ycp:115
+msgid "Re&fresh List"
+msgstr "刷新列表(&F)"
+
+#. PushButton label to print a test page:
+#: src/overview.ycp:119
+msgid "Print &Test Page"
+msgstr "打印测试页(&T)"
+
+#. Message of a Popup::ErrorDetails
+#. when a local cupsd is required but it is not accessible.
+#. YaST did already run 'lpstat -h localhost -r'
+#. to check whether or not a local cupsd is accessible.
+#. The command is shown here to the user (even if it is a bit technical)
+#. to have him informed what goes on here and what he can do on his own.
+#: src/overview.ycp:134
+msgid ""
+"A locally running CUPS daemon is required, but it seems to be not accessible.\n"
+"Check with 'lpstat -h localhost -r' whether a local cupsd is accessible.\n"
+"A non-accessible cupsd leads to an endless sequence of further failures.\n"
+msgstr ""
+"需要一个本地运行的 CUPS 守护程序，但看来它不能被访问。\n"
+"使用 'lpstat -h localhost -r' 检查本地的 cupsd 是否可以访问。\n"
+"一个不可访问的 cupsd 会导致将来出现无尽的错误。\n"
+
+#. Message of a Popup::ErrorDetails
+#. when the local cupsd does not use the official IPP port (631).
+#. A rather technical text because this does not happen on normal systems
+#. By default the cupsd uses the official IPP port (631).
+#. If not, the user must have intentionally and manually changed
+#. the port setting for the cupsd in /etc/cups/cupsd.conf
+#: src/overview.ycp:145
+msgid ""
+"The CUPS daemon seems not to listen on the official IANA IPP port (631).\n"
+"Check with 'netstat -nap | grep cupsd' where the cupsd actually listens.\n"
+"This happens when there is a 'Listen ...:1234' or 'Port 1234' setting\n"
+"(where 1234 means any port number which is not the official port 631)\n"
+"in /etc/cups/cupsd.conf (check also if there is 'BrowsePort 1234').\n"
+"The YaST printer module does not support a non-official port.\n"
+"A non-official port leads to an endless sequence of further failures.\n"
+"If you really must use a non-official port, you cannot use\n"
+"the YaST printer module to configure your printers.\n"
+msgstr ""
+"CUPS 守护精灵似乎没有监听官方 IANA IPP 端口 (631)。\n"
+"使用 'netstat -nap | grep cupsd' 来检查 cupsd 是否在监听该端口。\n"
+"当 /etc/cups/cupsd.conf 中有 'Listen ....1234' 或者 'Port 1234' 设置 (1234 意味着除了官方端口 631 以外的任何端口号) 时 (也检查下有没有 'BrowsePort 1234') 才会发生。\n"
+"YaST 打印机模块不支持非官方端口，使用非官方端口会导致未来无尽的错误。\n"
+"如果你真的必须使用非官方端口的话，您就不能使用 YaST 打印机模块来配置您的打印机。\n"
+
+#. Busy message:
+#. Body of a Popup::ShowFeedback
+#: src/overview.ycp:185
+msgid ""
+"Running several tests regarding CUPS server accessibility...\n"
+"(this might take some time)"
+msgstr ""
+"正在运行一些 CUPS 服务器连接性测试...\n"
+"(这可能花费一些时间)"
+
+#. Popup::YesNoHeadline headline question
+#. where %1 will be replaced by the server name:
+#: src/overview.ycp:201
+#, ycp-format
+msgid "Do no longer use the inaccessible CUPS server '%1'?"
+msgstr "不再使用无法访问的 CUPS 服务器 '%1'？"
+
+#. Popup::YesNoHeadline body recommendation how to answer the headline question
+#. where %1 will be replaced by the server name:
+#: src/overview.ycp:206
+#, ycp-format
+msgid "To proceed, you should agree that '%1' will be no longer used."
+msgstr "您应该同意不再使用 '%1' 才能继续进行。"
+
+#. Popup::Warning message:
+#. The user decided not to remove the non-accessible 'ServerName' in /etc/cups/client.conf:
+#. Popup::Warning message:
+#: src/overview.ycp:218 src/overview.ycp:229
+msgid "A non-accessible server leads to an endless sequence of delays and failures."
+msgstr "无法访问的服务器会导致将来无尽的错误。"
+
+#. Show the CUPS server name if it is a client-only config
+#. where %1 will be replaced by the CUPS server name.
+#: src/overview.ycp:245
+#, ycp-format
+msgid "CUPS Server %1"
+msgstr "CUPS 服务器 %1"
+
+#. Busy message:
+#. Body of a Popup::ShowFeedback:
+#: src/overview.ycp:267
+msgid "Testing if CUPS server is accessible..."
+msgstr "正在检测打印服务器是否可访问..."
+
+#. Body of a Popup::AnyMessage when no queue was selected from the list:
+#: src/overview.ycp:522 src/overview.ycp:586 src/overview.ycp:958
+msgid "Select an entry."
+msgstr "请选择一项。"
+
+#. Header of a Popup::AnyMessage when a remote queue was selected to be deleted:
+#: src/overview.ycp:530
+msgid "Cannot Delete"
+msgstr "无法删除"
+
+#. Body of a Popup::AnyMessage when a remote queue was selected to be deleted:
+#: src/overview.ycp:532
+msgid "This is a remote configuration. Only local configurations can be deleted."
+msgstr "这是远程配置。仅本地配置可以被删除。"
+
+#. Header of a confirmation popup before a queue will be deleted:
+#: src/overview.ycp:537
+msgid "Confirm Deletion"
+msgstr "确认删除"
+
+#. Body of a confirmation popup before a queue will be deleted:
+#: src/overview.ycp:539
+msgid "The selected configuration would be deleted immediately and cannot be restored."
+msgstr "选定配置会被立即删除且无法恢复。"
+
+#. 'Yes' button label of a confirmation popup before a queue will be deleted:
+#: src/overview.ycp:541
+#, ycp-format
+msgid "Delete configuration %1"
+msgstr "删除配置 %1"
+
+#. 'No' button label of a confirmation popup before a queue will be deleted:
+#: src/overview.ycp:543
+msgid "Do not delete it"
+msgstr "不删除"
+
+#. One more confirmation popup to alert the user before a class is deleted
+#. because a class cannot be re-created with the YaST printer module because
+#. the YaST printer module has no support to add or edit classes
+#. because classes are only useful in bigger printing environments
+#. which is out of the scope of the use cases of the YaST printer module.
+#. Nevertheless it is possible to delete a class with the YaST printer module
+#. so that the user can get rid of a class which may have been created by accident
+#. with whatever other setup tool:
+#. Header of a confirmation popup before a class will be deleted:
+#: src/overview.ycp:559
+msgid "Confirm Deletion of a Class"
+msgstr "确认删除一个类"
+
+#. Body of a confirmation popup before a class will be deleted:
+#: src/overview.ycp:561
+msgid "A deleted class cannot be re-created with this tool."
+msgstr "此工具不能重新创建一个已被删除的类。"
+
+#. Header of a Popup::AnyMessage when the queue rejects print jobs:
+#: src/overview.ycp:592
+msgid "Rejecting Print Jobs"
+msgstr "拒绝打印任务"
+
+#. Body of a Popup::AnyMessage when the queue rejects print jobs:
+#: src/overview.ycp:594
+msgid "The testpage cannot be printed because print jobs are rejected."
+msgstr "无法打印测试页，打印机任务被拒绝。"
+
+#. Header of a Popup::AnyMessage when printing is disabled for the queue:
+#: src/overview.ycp:603
+msgid "Printout Disabled"
+msgstr "打印输出已禁用"
+
+#. Body of a Popup::AnyMessage when printing is disabled for the queue:
+#: src/overview.ycp:605
+msgid "The testpage cannot be printed because printout is disabled."
+msgstr "无法打印测试页，因为打印输出被禁用。"
+
+#. Fallback body of a confirmation popup before pending print jobs will be deleted:
+#: src/overview.ycp:630
+msgid "There are pending print jobs which might be deleted before the testpage is printed."
+msgstr "有可能在打印测试页前被删除的等待中的任务。"
+
+#. Header of a confirmation popup before pending print jobs will be deleted
+#. where %1 will be replaced by the queue name.
+#: src/overview.ycp:642 src/overview.ycp:780
+#, ycp-format
+msgid "Delete Pending Print Jobs For %1"
+msgstr "为 %1 删除等待中的打印任务"
+
+#. 'Yes' button label of a confirmation popup
+#. before all pending jobs in a queue will be deleted:
+#: src/overview.ycp:648
+msgid "Delete them before printing testpage"
+msgstr "在打印测试页前删除它们"
+
+#. 'No' button label of a confirmation popup
+#. before all pending jobs in a queue will be deleted:
+#: src/overview.ycp:651
+msgid "Print testpage after the other jobs"
+msgstr "在其它任务完成后打印测试页"
+
+#. Message of a Popup::ErrorDetails
+#. where %1 will be replaced by the queue name.
+#. Only a simple message because this error does not happen on a normal system.
+#: src/overview.ycp:659 src/overview.ycp:797
+#, ycp-format
+msgid "Failed to delete all pending jobs for %1."
+msgstr "删除 %1 所有等待中的任务失败。"
+
+#. Popup::AnyQuestion header:
+#: src/overview.ycp:686
+msgid "Test printout"
+msgstr "测试打印"
+
+#. Popup::AnyQuestion message:
+#: src/overview.ycp:688
+msgid "Print one or two pages e.g. to test duplex printing"
+msgstr "打印一到两页来测试全双工打印"
+
+#. Popup::AnyQuestion so called 'yes' (default) button label:
+#: src/overview.ycp:690
+msgid "Single test page"
+msgstr "单一测试页"
+
+#. Popup::AnyQuestion so called 'no' button label:
+#: src/overview.ycp:692
+msgid "Two test pages"
+msgstr "两张测试页"
+
+#. Message of a Popup::ErrorDetails
+#. where %1 will be replaced by the queue name.
+#. Only a simple message because this error does not happen on a normal system.
+#: src/overview.ycp:715
+#, ycp-format
+msgid "Failed to print testpage for %1."
+msgstr "为 %1 打印测试页失败。"
+
+#. Popup::AnyQuestion header regarding testpage printout result:
+#: src/overview.ycp:728
+msgid "Wait Until Testpage Printing Finished"
+msgstr "等待打印测试页完成"
+
+#. Popup::AnyQuestion message regarding testpage printout result
+#. where %1 will be replaced by the queue name.
+#: src/overview.ycp:731
+#, ycp-format
+msgid "Sent testpage to %1. Printing should start soon."
+msgstr "发送测试页到 %1。应该很快开始打印。"
+
+#. Popup::AnyQuestion 'Yes' button label
+#. regarding a positive testpage printout result:
+#: src/overview.ycp:736
+msgid "Testpage printout was successful"
+msgstr "测试页打印成功"
+
+#. Popup::AnyQuestion 'No' button label
+#. regarding a negative testpage printout result:
+#: src/overview.ycp:739
+msgid "Testpage printing failed"
+msgstr "测试打印失败"
+
+#. Fallback body of a confirmation popup before pending print jobs will be deleted:
+#: src/overview.ycp:768
+msgid "There are pending print jobs which might be deleted now."
+msgstr "有可能立即被删除的等待中的打印任务。"
+
+#. 'Yes' button label of a confirmation popup
+#. before all pending jobs in a queue will be deleted:
+#: src/overview.ycp:786
+msgid "Delete all pending jobs"
+msgstr "删除所有等待中的任务"
+
+#. 'No' button label of a confirmation popup
+#. before all pending jobs in a queue will be deleted:
+#: src/overview.ycp:789
+msgid "Do not delete them"
+msgstr "不删除"
+
+#. Whereto find the full CUPS log information when "Testpage printing failed":
+#: src/overview.ycp:867
+msgid "For the full log, see the /var/log/cups/error_log file."
+msgstr "完整日志请见 /var/log/cups/error_log 文件。"
+
+#. Header of a Popup::AnyMessage where %1 will be replaced by the queue name:
+#: src/overview.ycp:869
+#, ycp-format
+msgid "CUPS log information while processing the testpage for %1 (English only)"
+msgstr "处理 %1 的测试页的 CUPS 日志信息 (仅英文)"
+
+#. When the user had selected that "Testpage printing failed" for a local queue
+#. but the test_print_cups_error_log was effectively empty,
+#. show a very generic info to the user to show at least something:
+#: src/overview.ycp:881
+msgid "For CUPS log information, see the /var/log/cups/error_log file."
+msgstr "CUPS 日志信息见 /var/log/cups/error_log 文件。"
+
+#. When the user had selected that "Testpage printing failed" for a non-local queue
+#. show a very generic info to the user to show at least something:
+#: src/overview.ycp:891
+msgid "When printing via a remote system fails, you may ask an admin of the remote system."
+msgstr "当通过远程系统打印失败时，您或许可以询问远程系统管理员。"
+
+#. PopupYesNoHeadline body:
+#: src/overview.ycp:913
+msgid "A remote CUPS server setting conflicts with adding a configuration."
+msgstr "添加一项配置与远程 CUPS 服务器设定相冲突。"
+
+#. Header of a Popup::AnyMessage when a remote queue was selected to be modified:
+#: src/overview.ycp:964
+msgid "Cannot Modify"
+msgstr "无法修改"
+
+#. Body of a Popup::AnyMessage when a remote queue was selected to be modified:
+#: src/overview.ycp:966
+msgid "This is a remote configuration. Only local configurations can be modified."
+msgstr "这是远程配置。仅可以修改本地配置。"
+
+#. An entry for a ComboBox from which the user can select that the CUPS error policy
+#. which is used when it fails to send a job to the printer is to
+#. stop the printer and keep the job for future printing:
+#: src/policies.ycp:44
+msgid "stop the printer and keep the job for future printing"
+msgstr "停止打印机但保留任务供将来打印"
+
+#. An entry for a ComboBox from which the user can select that the CUPS error policy
+#. which is used when it fails to send a job to the printer is to
+#. re-send the job from the beginning after waiting some time
+#. (the default JobRetryInterval is 30 seconds but this can be changed):
+#: src/policies.ycp:49
+msgid "re-send the job after waiting some time"
+msgstr "稍候重新发送任务"
+
+#. An entry for a ComboBox from which the user can select that the CUPS error policy
+#. which is used when it fails to send a job to the printer is to
+#. abort and delete the job and proceed with the next job:
+#: src/policies.ycp:53
+msgid "abort and delete the job and proceed with the next job"
+msgstr "放弃并删除任务，继续下一个任务"
+
+#. Header for a ComboBox to specify the CUPS error policy:
+#: src/policies.ycp:70
+msgid "Specify the &error policy"
+msgstr "指定错误策略(&E)"
+
+#. CheckBox to apply the CUPS error policy which is selected in the ComboBox above
+#. to all local printer configurations (i.e. to all local print queues).
+#. When possible we perefer to use the wording "printer configuration"
+#. instead of "print queue" because the latter may sound too technical
+#. but sometimes (e.g. in the Connection Wizard) we must use the exact technical term:
+#: src/policies.ycp:85
+msgid "&Apply this error policy to all local printer configurations"
+msgstr "应用错误策略到所有本地打印机配置(&A)"
+
+#. Header for a ComboBox to specify the CUPS operation policy:
+#: src/policies.ycp:93
+msgid "Specify the &operation policy"
+msgstr "指定操作策略(&O)"
+
+#. CheckBox to apply the CUPS operation policy which is selected in the ComboBox above
+#. to all local printer configurations (i.e. to all local print queues).
+#. When possible we perefer to use the wording "printer configuration"
+#. instead of "print queue" because the latter may sound too technical
+#. but sometimes (e.g. in the Connection Wizard) we must use the exact technical term:
+#: src/policies.ycp:105
+msgid "Apply this operation &policy to all local printer configurations"
+msgstr "应用此操作策略到所有本地打印机配置(&P)"
+
+#. PopupYesNoHeadline body:
+#: src/policies.ycp:127
+msgid "A remote CUPS server setting conflicts with setting policies for the local system."
+msgstr "一个远程 CUPS 服务器设定与本地系统的设定策略冲突。"
+
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the print queue name.
+#: src/policies.ycp:262
+#, ycp-format
+msgid "Failed to apply the policy to '%1'"
+msgstr "应用策略到“%1”失败"
+
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the default operation policy value.
+#. Do not change or translate "DefaultPolicy", it is a system settings name.
+#: src/policies.ycp:277
+#, ycp-format
+msgid "Failed to set 'DefaultPolicy %1' in /etc/cups/cupsd.conf"
+msgstr "在 /etc/cups/cupsd.conf 中设定 'DefaultPolicy %1' 失败"
+
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the default error policy value.
+#. Do not change or translate "ErrorPolicy", it is a system settings name.
+#: src/policies.ycp:290
+#, ycp-format
+msgid "Failed to set 'ErrorPolicy %1' in /etc/cups/cupsd.conf"
+msgstr "在 /etc/cups/cupsd.conf 中设定 'ErrorPolicy %1' 失败"
+
+#. Popup::Error message:
+#: src/policies.ycp:329 src/printingvianetwork.ycp:918 src/sharing.ycp:871
+msgid "Failed to apply the settings to the system."
+msgstr "应用设置到系统失败。"
+
+#. Command line help text for the printer module
+#: src/printer.ycp:54
+msgid "Configuration of printer"
+msgstr "打印机配置"
+
+#. Warning message in the AutoYaST printer client
+#. which is added to its "Summary" text for AutoYaST
+#. where %1 is replaced by the file name which cannot be read.
+#: src/printer_auto.ycp:103
+#, ycp-format
+msgid "Warning: Cannot read %1 (file may not exist)."
+msgstr "警告：无法读取 %1 (文件可能不存在)。"
+
+#. Error message in the AutoYaST printer client
+#. which is added to its "Summary" text for AutoYaST
+#. where %1 is replaced by the file name which cannot be read.
+#: src/printer_auto.ycp:133
+#, ycp-format
+msgid "Error: Failed to read %1 (possibly empty file)."
+msgstr "错误：无法读取 %1 (文件可能为空)。"
+
+#. Warning message in the AutoYaST printer client
+#. which is added to its "Summary" text for AutoYaST
+#. where %1 is replaced by the file name.
+#: src/printer_auto.ycp:160
+#, ycp-format
+msgid "Warning: Failed to backup %1 as %1.yast2save"
+msgstr "警告：无法备份 %1 为 %1.yast2save"
+
+#. Warning message in the AutoYaST printer client
+#. which is added to its "Summary" text for AutoYaST
+#. where %1 is replaced by the file name.
+#: src/printer_auto.ycp:177
+#, ycp-format
+msgid "Warning: Failed to backup %1 as %1.yast2orig"
+msgstr "警告：无法备份 %1 为 %1.yast2orig"
+
+#: src/printer_auto.ycp:342
+msgid "Error: Failed to write /etc/cups/cupsd.conf"
+msgstr "错误：无法写入 /etc/cups/cupsd.conf"
+
+#: src/printer_auto.ycp:355
+msgid "Error: Failed to write /etc/cups/client.conf"
+msgstr "错误：无法写入 /etc/cups/client.conf"
+
+#: src/printer_proposal.ycp:90
+msgid "Cannot configure printing (required package cups-client is not installed)."
+msgstr "无法配置打印 (未安装需要的 cups-client 软件包)。"
+
+#: src/printer_proposal.ycp:95
+msgid "Cannot configure local printers (required package cups is not installed)."
+msgstr "无法配置本地打印机 (未安装需要的软件包 cups)。"
+
+#: src/printer_proposal.ycp:105
+#, ycp-format
+msgid "No local printer accessible (using remote CUPS server '%1' for printing)."
+msgstr "没有可访问的本地打印机 (使用远程 CUPS 服务器 %1 打印)。"
+
+#: src/printer_proposal.ycp:179
+msgid "Cannot configure local printers (no local cupsd accessible)."
+msgstr "无法配置本地打印机 (没有可访问的本地 cupsd)。"
+
+#: src/printer_proposal.ycp:196
+msgid "No local printer detected."
+msgstr "未检测到本地打印机。"
+
+#. Explanation details of a Popup::ErrorDetails.
+#: src/printer_proposal.ycp:271
+msgid "This may result broken printer configurations."
+msgstr "这可能造成打印机配置损坏。"
+
+#. The automated printer setup found an already existing configuration:
+#: src/printer_proposal.ycp:300
+msgid "Found existing configuration"
+msgstr "找到已有配置"
+
+#. The automated printer setup created a new configuration:
+#: src/printer_proposal.ycp:304
+msgid "Created configuration"
+msgstr "已创建的配置"
+
+#: src/printer_proposal.ycp:315
+msgid "No local printer configured."
+msgstr "没有配置好的本地打印机。"
+
+#. Rich text title for Printer in proposals
+#: src/printer_proposal.ycp:343
+msgid "Printer"
+msgstr "打印机"
+
+#. Menu title for Printer in proposals
+#: src/printer_proposal.ycp:345
+msgid "&Printer"
+msgstr "打印机(&P)"
+
+#. An entry for a ComboBox from which the user can select
+#. that printer information is not accepted from any remote CUPS servers:
+#: src/printingvianetwork.ycp:51
+msgid "do not accept any printer announcement"
+msgstr "不接受任何打印机声明"
+
+#. An entry for a ComboBox from which the user can select
+#. that printer information is accepted from
+#. all remote CUPS servers:
+#: src/printingvianetwork.ycp:55
+msgid "accept all announcements from anywhere"
+msgstr "接受来自其他位置的所有打印机声明"
+
+#. An entry for a ComboBox from which the user can select
+#. that printer information is accepted from
+#. remote CUPS servers in the local network:
+#: src/printingvianetwork.ycp:59
+msgid "accept from all hosts in the local network"
+msgstr "接受本地网络中的所有主机的打印机声明"
+
+#. An entry for a ComboBox from which the user can select
+#. that printer information is accepted only from
+#. remote CUPS servers with specific addresses
+#. where the specific addresses are specified in a TextEntry below:
+#: src/printingvianetwork.ycp:64
+msgid "accept only from the specific addresses below"
+msgstr "只接受如下地址的打印机声明"
+
+#. A caption for a Frame to set up to use CUPS to print via network:
+#: src/printingvianetwork.ycp:70
+msgid "Use CUPS to Print Via Network"
+msgstr "使用 CUPS 通过网络打印"
+
+#. A CheckBox to accept printer information from remote CUPS servers:
+#: src/printingvianetwork.ycp:77
+msgid "&Accept Printer Announcements from CUPS Servers"
+msgstr "接受来自 CUPS 服务器的打印机声明 (&A)"
+
+#. A header for a ComboBox from which the user can select
+#. a usual general setting from which remote CUPS servers
+#. printer information is accepted:
+#: src/printingvianetwork.ycp:92
+msgid "&General Setting"
+msgstr "常规设置(&G)"
+
+#. A header for a TextEntry where the user can additionally
+#. enter specific IP addresses and/or network/netmask
+#. from where remote printer information is accepted:
+#: src/printingvianetwork.ycp:106
+msgid "Additional IP Addresses or &Network/Netmask (separated by space)"
+msgstr "可选 IP 地址或网络/网络掩码（用空格分开）(&N)"
+
+#. A CheckBox to poll printer information from remote CUPS servers:
+#: src/printingvianetwork.ycp:117
+msgid "&Request Printer Information from CUPS Servers"
+msgstr "向 CUPS 服务器请求打印机信息 (&R)"
+
+#. A header for a TextEntry where the user can enter
+#. CUPS server names and/or IP addresses
+#. from where remote printer information is polled:
+#: src/printingvianetwork.ycp:129
+msgid "Polled CUPS server names or &IP Addresses (separated by space)"
+msgstr "查询到的 CUPS 服务器名称或 IP 地址 (以空格分开) (&I)"
+
+#. A CheckBox to do all printing tasks directly
+#. only via one single remote CUPS server:
+#: src/printingvianetwork.ycp:139
+msgid "&Do All Printing Directly via One Single CUPS Server"
+msgstr "直接通过一个单一 CUPS 服务器执行所有打印(&D)"
+
+#. A header for a TextEntry where the user can enter
+#. the one single remote CUPS server which is used
+#. to do all his printing tasks:
+#: src/printingvianetwork.ycp:151
+msgid "&One single CUPS server name or IP Address"
+msgstr "单一服务器名或 IP 地址(&O)"
+
+#. A PushButton to test whether or not the one single remote CUPS server
+#. which is used to do all printing tasks is accessible:
+#: src/printingvianetwork.ycp:159
+msgid "&Test Server"
+msgstr "测试服务器(&T)"
+
+#. A caption for a Frame to set up to use another (i.e. non-CUPS) print server
+#. or to set up to use a network printer directly:
+#: src/printingvianetwork.ycp:171
+msgid "Use Another Print Server or Use a Network Printer Directly"
+msgstr "使用另一个打印服务器或者直接使用网络打印机"
+
+#. Popup::AnyMessage header:
+#. Use the exact same wording "printer announcements from CUPS servers"
+#. as in the matching CheckBox to accept printer information from remote CUPS servers:
+#: src/printingvianetwork.ycp:189
+msgid "A firewall may reject printer announcements from CUPS servers"
+msgstr "防火墙可能阻止 CUPS 服务器的打印机声明"
+
+#. Popup::AnyMessage message:
+#: src/printingvianetwork.ycp:191 src/sharing.ycp:251
+msgid "Regarding firewall setup see the help text of this dialog."
+msgstr "防火墙设置相关请见本对话框的帮助文本。"
+
+#. It was initially no client-only config and the user has switched
+#. to a client-only config but with an effectively empty server name.
+#. Such a client-only config does not make sense:
+#. Popup::Error message:
+#: src/printingvianetwork.ycp:275
+msgid "A valid CUPS server name must be entered."
+msgstr "必须输入一个有效的 CUPS 服务器名称。"
+
+#. Header of a Popup::ContinueCancelHeadline
+#. when a client-only server is not accessible
+#. where %1 will be replaced by the server name:
+#: src/printingvianetwork.ycp:303
+#, ycp-format
+msgid "Continue regardless that '%1' is not accessible?"
+msgstr "服务器 %1 不可访问，仍然继续？"
+
+#. Body of a Popup::ContinueCancelHeadline
+#. when a client-only server is not accessible:
+#: src/printingvianetwork.ycp:308
+msgid "A non-accessible server leads to an endless sequence of failures."
+msgstr "无法访问的服务器会导致将来无尽的错误。"
+
+#. The user has decided to continue regardless that the client-only server is not accessible.
+#. In this case the cups_client_only tool fails in any case because it also tests accessibility.
+#. But the cups_client_only tool might have failed for whatever other reason.
+#. Therefore a Popup::MessageDetails is shown to inform about the actual result:
+#. Popup::MessageDetails message
+#. where %1 will be replaced by the server name.
+#: src/printingvianetwork.ycp:341
+#, ycp-format
+msgid "Tried to set 'ServerName %1' in /etc/cups/client.conf."
+msgstr "试图在 /etc/cups/client.conf 设定 'ServerName %1'。"
+
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the server name.
+#: src/printingvianetwork.ycp:351
+#, ycp-format
+msgid "Failed to set 'ServerName %1' in /etc/cups/client.conf."
+msgstr "在 /etc/cups/cupsd.conf 中设定 'ServerName %1' 失败。"
+
+#. PopupYesNoHeadline body:
+#: src/printingvianetwork.ycp:375
+msgid "The checkbox to do all printing via one CUPS server was disabled."
+msgstr "通过一个 CUPS 服务器执行所有打印的复选框已禁用。"
+
+#. Popup::ErrorDetails message:
+#: src/printingvianetwork.ycp:440 src/printingvianetwork.ycp:514
+#: src/sharing.ycp:478
+msgid "Failed to set 'Browsing On' in /etc/cups/cupsd.conf."
+msgstr "在 /etc/cups/cupsd.conf 中设定 'Browsing On' 失败。"
+
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the values for BrowseAllow.
+#: src/printingvianetwork.ycp:454
+#, ycp-format
+msgid "Failed to set BrowseAllow value(s) '%1' in /etc/cups/cupsd.conf."
+msgstr "在 /etc/cups/cupsd.conf 中设定 BrowseAllow value(s) '%1' 失败。"
+
+#. Popup::ErrorDetails message:
+#: src/printingvianetwork.ycp:476
+msgid "Failed to set 'BrowseAllow none' in /etc/cups/cupsd.conf."
+msgstr "在 /etc/cups/cupsd.conf 中设定 'BrowseAllow none' 失败。"
+
+#. It was initially no BrowsePoll config and the user has enabled
+#. a BrowsePoll config but with effectively empty server names.
+#. Such a BrowsePoll config does not make sense:
+#. Popup::Error message:
+#: src/printingvianetwork.ycp:497
+msgid "At least one valid CUPS server name must be entered."
+msgstr "至少必须输入一个有效的 CUPS 服务器名称。"
+
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by the values for BrowsePoll.
+#: src/printingvianetwork.ycp:528
+#, ycp-format
+msgid "Failed to set BrowsePoll value(s) '%1' in /etc/cups/cupsd.conf"
+msgstr "在 /etc/cups/cupsd.conf 中设定 BrowsePoll value(s) '%1' 失败"
+
+#. Popup::ErrorDetails message:
+#: src/printingvianetwork.ycp:547
+msgid "Failed to set 'BrowsePoll none' in /etc/cups/cupsd.conf"
+msgstr "在 /etc/cups/cupsd.conf 中设定 'BrowsePoll none' 失败"
+
+#. A "accept browsing info" config with a local running cupsd
+#. was switched to a "not accept browsing info" config or
+#. a BrowsePoll config with a local running cupsd was disabled.
+#. A cups-polld polls remote servers for a list of available printer queues.
+#. Those information is then broadcast to the localhost interface (127.0.0.1)
+#. on the specified browse port for reception by the local cupsd.
+#. Theerfore for the cupsd BrowsePoll information is the same
+#. as the usual Browsing information via BrowseAllow.
+#. The default BrowseTimeout value for the local cupsd is 5 minutes.
+#. Therefore it takes by default 5 minutes until printer information
+#. that was previously received by Browsing is removed (via timeout)
+#. from the local cupsd's list.
+#. I assume most users do not like to wait 5 minutes which is no problem
+#. because they can just click the [OK] button to continue but then
+#. they are at least informend why there may be still remote queues:
+#. Popup message:
+#: src/printingvianetwork.ycp:599
+msgid ""
+"When switching from 'accept printer announcements' to 'not accept announcements'\n"
+"or after 'request printer information from CUPS servers' was disabled\n"
+"it takes usually 5 minutes until already received information faded away..."
+msgstr ""
+"在“接收打印机声明”和“不接收声明”间转换时，或在 '从 CUPS 服务器请求打印机信息' 禁用后，\n"
+"一般会花费5分钟时间使已经接收到的信息消失..."
+
+#. Show positive feedback because TestClientOnlyServer doesn't do it:
+#. Popup message
+#. where %1 will be replaced by the server name.
+#: src/printingvianetwork.ycp:957
+#, ycp-format
+msgid "The server '%1' is accessible via port 631 (IPP/CUPS)."
+msgstr "服务器 '%1' 可以通过端口 631 (IPP/CUPS) 访问。"
+
+#. A RadioButton label to deny remote access to local print queues:
+#: src/sharing.ycp:63
+msgid "&Deny Remote Access"
+msgstr "拒绝远程访问(&D)"
+
+#. A RadioButton label to allow remote access to local print queues:
+#: src/sharing.ycp:72
+msgid "&Allow Remote Access"
+msgstr "允许远程访问(&A)"
+
+#. A label which explains how the subsequent choices can be used:
+#: src/sharing.ycp:82
+msgid "There are various ways how to specify which remote hosts are allowed:"
+msgstr "有多种方式指定允许哪些远程主机："
+
+#. A CheckBox label to allow remote access to local print queues
+#. for computers within the local network:
+#: src/sharing.ycp:97
+msgid "For computers within the &local network"
+msgstr "本地网络中的计算机(&L)"
+
+#. A CheckBox label to publish local print queues by default within the local network:
+#: src/sharing.ycp:108
+msgid "&Publish printers within the local network"
+msgstr "在本地网络内发布打印机(&P)"
+
+#. A caption for a table to allow remote access to local print queues
+#. via network interfaces specified in the table below:
+#: src/sharing.ycp:118
+msgid "Via network interfaces"
+msgstr "通过网络接口"
+
+#. A table column header where the column lists network interfaces:
+#: src/sharing.ycp:131
+msgid "Interface"
+msgstr "接口"
+
+#. A table column header where the column shows whether or not
+#. local print queues are published by default
+#. via the network interface in the other table column:
+#: src/sharing.ycp:135
+msgid "Publish printers via this interface"
+msgstr "通过此接口发布打印机"
+
+#. A PushButton label to add a network interface to the table which shows
+#. the network interfaces to allow remote access to local print queues:
+#: src/sharing.ycp:146
+msgid "&Add"
+msgstr "添加(&A)"
+
+#. A PushButton label to change a network interface in the table which shows
+#. the network interfaces to allow remote access to local print queues:
+#: src/sharing.ycp:152
+msgid "&Edit"
+msgstr "编辑(&E)"
+
+#. A PushButton label to delete a network interface from the table which shows
+#. the network interfaces to allow remote access to local print queues:
+#: src/sharing.ycp:158
+msgid "&Delete"
+msgstr "删除(&D)"
+
+#. A caption to allow remote access to local print queues
+#. for hosts and/or networks specified in two TextEntries below:
+#: src/sharing.ycp:167
+msgid "For Specific IP Addresses or Networks"
+msgstr "指定 IP 地址或网络"
+
+#. TextEntry to allow remote access to local print queues
+#. for hosts and/or networks:
+#: src/sharing.ycp:178
+msgid "Allow access from those IP addresses or &network/netmask (separated by space)"
+msgstr "允许来自这些 IP 地址或网络/网络掩码的访问（用空格分开）(&N)"
+
+#. TextEntry to publish local print queues
+#. to IP addresses and/or network broadcast addresses:
+#: src/sharing.ycp:188
+msgid "Publish to these IP addresses or network &broadcast addresses (separated by space)"
+msgstr "向这些 IP 地址或网络广播地址发布打印机（用空格分开）(&B)"
+
+#. A CheckBox label to publish local print queues by default
+#. via a partivular network interface which is shown below.
+#: src/sharing.ycp:206
+msgid "&Publish printers by default via the network interface below."
+msgstr "默认通过以下网络接口发布打印机(&P)。"
+
+#. A header for a ComboBox which lists network interfaces:
+#: src/sharing.ycp:213
+msgid "Available Network &Interfaces:"
+msgstr "可用网络接口(&I)："
+
+#. Popup::AnyMessage header:
+#. Use the exact same wording "remote access"
+#. as in the matching RadioButton label to allow remote access to local print queues:
+#: src/sharing.ycp:249
+msgid "A firewall may prevent remote access"
+msgstr "防火墙可能屏蔽远程访问"
+
+#. Popup::ErrorDetails message.
+#. Do not change or translate "Listen localhost", it is a system settings name.
+#: src/sharing.ycp:332
+msgid "Failed to set only 'Listen localhost' in /etc/cups/cupsd.conf."
+msgstr "在 /etc/cups/cupsd.conf 设定仅 'Listen localhost' 失败"
+
+#. Popup::ErrorDetails message.
+#. Do not change or translate "Allow", it is a system settings name.
+#: src/sharing.ycp:340
+msgid "Failed to remove 'Allow' entries from /etc/cups/cupsd.conf."
+msgstr "移除 /etc/cups/cupsd.conf 中的“Allow”项失败。"
+
+#. Popup::ErrorDetails message.
+#. Do not change or translate "BrowseAddress", it is a system settings name.
+#: src/sharing.ycp:353 src/sharing.ycp:494
+msgid "Failed to remove 'BrowseAddress' entries from /etc/cups/cupsd.conf."
+msgstr "在 /etc/cups/cupsd.conf 移除 'BrowseAddress' 项失败"
+
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by one or more system settings values.
+#. Do not change or translate "Allow", it is a system settings name.
+#: src/sharing.ycp:450
+#, ycp-format
+msgid "Failed to set 'Allow' entries '%1' in /etc/cups/cupsd.conf."
+msgstr "在 /etc/cups/cupsd.conf 中设定 'Allow' 项 '%1' 失败。"
+
+#. Popup::ErrorDetails message
+#. where %1 will be replaced by one or more system settings values.
+#. Do not change or translate "BrowseAddress", it is a system settings name.
+#: src/sharing.ycp:467
+#, ycp-format
+msgid "Failed to set 'BrowseAddress' entries '%1' in /etc/cups/cupsd.conf."
+msgstr "在 /etc/cups/cupsd.conf 中设定 'BrowseAddress' 项 '%1' 失败。"
+
+#. Popup::ErrorDetails message.
+#. Do not change or translate "Listen *:631", it is a system settings name.
+#: src/sharing.ycp:509
+msgid "Failed to set 'Listen *:631' in /etc/cups/cupsd.conf."
+msgstr "在 /etc/cups/cupsd.conf 中设定 'Listen *:631' 失败。"
+
+#. PopupYesNoHeadline body:
+#: src/sharing.ycp:540
+msgid "A remote CUPS server setting conflicts with sharing local printer configurations."
+msgstr "一个远程 CUPS 服务器设定与本地打印机共享配置冲突。"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:184 src/wizards.ycp:206
+msgid "Printer Configuration"
+msgstr "打印机配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:186 src/wizards.ycp:208
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#~ msgid "Look Up"
+#~ msgstr "查询"
+
+#, fuzzy
+#~ msgid "Specify how USB printers are configured automatically"
+#~ msgstr "请指定 USB 打印机自动配置的方式"
+
+#, fuzzy
+#~ msgid ""
+#~ "No Automatic Configuration\n"
+#~ "&Remove the packages cups-autoconfig and udev-configure-printer."
+#~ msgstr "不用自动配置；移除 cups-autoconfig 软件包(&R)。"
+
+#, fuzzy
+#~ msgid "There are no settings when udev-configure-printer is used."
+#~ msgstr "没有 procmail 的设置。"
+
+#, fuzzy
+#~ msgid "Settings for automatic configuration with cups-autoconfig"
+#~ msgstr "不用自动配置；移除 cups-autoconfig 软件包(&R)。"
+
+#~ msgid "Operation &Policy for Automatically Configured USB Printers"
+#~ msgstr "自动配置 USB 打印机的操作规则(&P)"
+
+#~ msgid "&Disable Printout when Disconnecting an USB Printer"
+#~ msgstr "当断掉与 USB 打印机连接时禁用打印输出(&D)"
+
+#, fuzzy
+#~ msgid "&Trigger Automatic Configuration to Run Now"
+#~ msgstr "使用自动配置(&T)"
+
+#, fuzzy
+#~ msgid "not set"
+#~ msgstr "[未设置]"
+
+#~ msgid "Failed to set 'ConfigureNewPrinters=yes' in /etc/cups-autoconfig.conf"
+#~ msgstr "在 /etc/cups-autoconfig.conf 中设定 'ConfigureNewPrinters=yes' 失败"
+
+#~ msgid "Failed to set 'ConfigureNewPrinters=no' in /etc/cups-autoconfig.conf"
+#~ msgstr "在 /etc/cups-autoconfig.conf 中设定 'ConfigureNewPrinters=no' 失败"
+
+#~ msgid "Failed to set 'DisablePrintersOnRemoval=yes' in /etc/cups-autoconfig.conf"
+#~ msgstr "在 /etc/cups-autoconfig.conf 中设定 'DisablePrintersOnRemoval=yes' 失败"
+
+#~ msgid "Failed to set 'DisablePrintersOnRemoval=no' in /etc/cups-autoconfig.conf"
+#~ msgstr "在 /etc/cups-autoconfig.conf 中设定 'DisablePrintersOnRemoval=no' 失败"
+
+#~ msgid "Failed to set 'DefaultCUPSPolicy=%1' in /etc/cups-autoconfig.conf"
+#~ msgstr "于 /etc/cups-autoconfig.conf 中设定 'DefaultCUPSPolicy=%1' 失败"
+
+#~ msgid "Automatic configuration failed."
+#~ msgstr "自动配置失败。"
+
+#~ msgid "Microsoft Windows/SAMBA (SMB/CIFS)"
+#~ msgstr "微软 Windows/SAMBA (SMB/CIFS)"
+
+#~ msgid "Autoconfig Settings"
+#~ msgstr "自动设置"
+
+#~ msgid "Via network interfaces specified below"
+#~ msgstr "通过以下指定的网络接口"
+
+#~ msgid "Various Standard Drivers"
+#~ msgstr "多种标准驱动"
+
+#~ msgid "The Omni Printer Driver (Unmaintained)"
+#~ msgstr "Omni 打印机驱动（已经不被维护）"
+
+#~ msgid "currently selected"
+#~ msgstr "当前选定"
+
+#~ msgid "current setting of the print queue"
+#~ msgstr "当前打印队列设定"
+
+#, fuzzy
+#~ msgid "Waiting until the config files are updated..."
+#~ msgstr "配置文件正在更新, 请稍等..."
+
+#~ msgid "Detected printers"
+#~ msgstr "检测到的打印机"
+
+#, fuzzy
+#~ msgid "It takes %1 seconds until the config files are updated..."
+#~ msgstr "配置文件正在更新, 请稍等..."
+
+#, fuzzy
+#~ msgid "It takes half a minute until the config files are updated..."
+#~ msgstr "配置文件正在更新, 请稍等..."
+
+#~ msgid "Determine Connection"
+#~ msgstr "确定连接"
+
+#~ msgid "&More Connections"
+#~ msgstr "更多连接(&M)"
+
+#~ msgid "&Search"
+#~ msgstr "搜索(&S)"
+
+#, fuzzy
+#~ msgid "More &Drivers"
+#~ msgstr "更多驱动程序选项"
+
+#~ msgid "&Add Driver"
+#~ msgstr "添加驱动(&A)"
+
+#~ msgid "Set &Name"
+#~ msgstr "设置名称(&N)"
+
+#~ msgid "Descri&ption"
+#~ msgstr "描述(&P)"
+
+#~ msgid "&Default Printer"
+#~ msgstr "默认打印机(&D)"
+
+#, fuzzy
+#~ msgid "&SCSI generic device"
+#~ msgstr "SCSI 设备 (&S)"
+
+#, fuzzy
+#~ msgid "Currently available SCSI generic devices"
+#~ msgstr "当前可用的服务"
+
+#~ msgid "Program Name"
+#~ msgstr "程序名"
+
+#~ msgid "SCSI"
+#~ msgstr "SCSI"
+
+#, fuzzy
+#~ msgid "SCSI generic device could not be empty."
+#~ msgstr "缓存目录不能为空。"
+
+#~ msgid "Add Driver"
+#~ msgstr "添加驱动程序"
+
+#, fuzzy
+#~ msgid "Accept Printer &Information from the Following Servers"
+#~ msgstr "接受来自下列服务器的信息"
+
+#~ msgid "A remote CUPS server setting conflicts with receiving printer information."
+#~ msgstr "一个远程 CUPS 服务器设置与接收打印机信息冲突。"
+
+#, fuzzy
+#~| msgid "<p>To configure Heartbeat, the <b>%1</b> package must be installed.</p>"
+#~ msgid "To use 'beh', the RPM package cups-backends must be installed."
+#~ msgstr "<p>要配置心跳，必须安装 <b>%1</b> 包。</p>"
+
+#~ msgid "Makeshift Drivers for a Few Non-Standard (GDI) Printers"
+#~ msgstr "一些非标准(GDI)打印机的 Makeshift 驱动"
+
+#~ msgid "all hosts"
+#~ msgstr "所有主机"
+
+#~ msgid "Usual &General Setting"
+#~ msgstr "常规设置(&G)"
+
+#~ msgid "Determine available drivers..."
+#~ msgstr "正在确定可用驱动..."
+
+#~ msgid "No matching driver found."
+#~ msgstr "未找到匹配驱动。"
+
+#~ msgid ""
+#~ "Failed to set up the firewall settings.\n"
+#~ "Use the specific YaST Firewall module."
+#~ msgstr ""
+#~ "设置防火墙设置失败。\n"
+#~ "使用特定的 YaST 防火墙模块。"
+
+#, fuzzy
+#~ msgid "Search for &Drivers"
+#~ msgstr "搜索用户的过滤器(&U)"
+
+#~ msgid "&Show Matching Drivers"
+#~ msgstr "显示匹配驱动(&S)"
+
+#~ msgid "Firewall Settings"
+#~ msgstr "防火墙设置"
+
+#~ msgid "&Hostname / IP Address"
+#~ msgstr "主机名/ IP 地址(&H)"
+
+#~ msgid "Not the Suse Firewall but another firewall is used"
+#~ msgstr "未使用 SUSE 防火墙，但使用了其它防火墙"
+
+#~ msgid "The Suse Firewall is not active"
+#~ msgstr "Suse 防火墙不在活动状态"
+
+#~ msgid "Allow printer information from the &internal network zone"
+#~ msgstr "允许来自内部区域的访问和打印机信息(&I)"
+
+#~ msgid "Printer information from the internal network zone is allowed"
+#~ msgstr "来自内部网络区域的访问和打印机信息被允许"
+
+#~ msgid "Deny access and printer information from the &external network zone"
+#~ msgstr "拒绝来自外部网络区域的访问和打印机信息(&E)"
+
+#~ msgid "Access and printer information from the external network zone is denied"
+#~ msgstr "来自外部网络区域的访问和打印机信息被拒绝"
+
+#~ msgid "Allow access from the &internal network zone"
+#~ msgstr "允许来自内部网络区域的访问(&I)"
+
+#~ msgid "Access from the internal network zone is allowed"
+#~ msgstr "允许了来自内部网络区域的访问"
+
+#~ msgid "Deny access from the &external network zone"
+#~ msgstr "拒绝来自外部网络区域的访问(&E)"
+
+#~ msgid "Access from the external network zone is denied"
+#~ msgstr "拒绝了来自外部网络区域的访问"
+
+#~ msgid "Driver"
+#~ msgstr "驱动程序"
+
+#~ msgid "Other"
+#~ msgstr "其它"

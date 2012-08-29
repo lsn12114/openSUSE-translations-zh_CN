@@ -1,0 +1,567 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:46+0200\n"
+"PO-Revision-Date: 2012-07-20 02:14+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/IscsiClient.ycp:114
+#, ycp-format
+msgid "<p>To configure the iSCSI initiator, the <b>%1</b> package must be installed.</p>"
+msgstr "<p>要配置 iSCSI 启动程序，必须安装 <b>%1</b> 软件包。</p>"
+
+#: src/IscsiClient.ycp:115
+msgid "<p>Install it now?</p>"
+msgstr "<p>是否立即安装？</p>"
+
+#. IscsiClient read dialog caption
+#: src/IscsiClient.ycp:165
+msgid "Initializing iSCSI Initiator Configuration"
+msgstr "正在初始化 iSCSI 启动程序配置"
+
+#. Progress stage 1/3
+#: src/IscsiClient.ycp:177
+msgid "Read the database"
+msgstr "读取数据库"
+
+#. Progress stage 2/3
+#: src/IscsiClient.ycp:179
+msgid "Read the previous settings"
+msgstr "读取以前的设置"
+
+#. Progress stage 3/3
+#: src/IscsiClient.ycp:181
+msgid "Detect the devices"
+msgstr "检测设备"
+
+#. Progress step 1/3
+#: src/IscsiClient.ycp:184
+msgid "Reading the database..."
+msgstr "正在读取数据库..."
+
+#. Progress step 2/3
+#: src/IscsiClient.ycp:186
+msgid "Reading the previous settings..."
+msgstr "正在读取以前的设置..."
+
+#. Progress step 3/3
+#: src/IscsiClient.ycp:188
+msgid "Detecting the devices..."
+msgstr "正在检测设备..."
+
+#. Progress finished
+#: src/IscsiClient.ycp:190
+msgid "Finished"
+msgstr "已完成"
+
+#. IscsiClient read dialog caption
+#: src/IscsiClient.ycp:246
+msgid "Saving iSCSI Initiator Configuration"
+msgstr "正在保存 iSCSI 启动程序配置"
+
+#. Progress stage 1/2
+#: src/IscsiClient.ycp:255
+msgid "Write AutoYaST settings"
+msgstr "写入 AutoYaST 设置"
+
+#. Progress stage 2/2
+#: src/IscsiClient.ycp:257
+msgid "Set up service status"
+msgstr "设置服务状态"
+
+#: src/IscsiClientLib.ycp:409
+msgid ""
+"InitiatorName from iBFT and from <tt>/etc/iscsi/initiatorname.iscsi</tt>\n"
+"differ. The old initiator name will be replaced by the value of iBFT and a \n"
+"backup created. If you want to use a different initiator name, change it \n"
+"in the BIOS.\n"
+msgstr ""
+"iBFT 和 <tt>/etc/iscsi/initiatorname.iscsi</tt> 中的启动程序名称不同。\n"
+"旧的启动程序名称将替换为 iBFT 中的值并创建备份。\n"
+"如果要使用不同启动程序名称，请在 BIOS 中更改它。\n"
+
+#: src/IscsiClientLib.ycp:633
+msgid "Configuration summary..."
+msgstr "配置摘要..."
+
+#: src/IscsiClientLib.ycp:672
+msgid "(Software)"
+msgstr "(软件)"
+
+#. radio button (starting SLP service - option 1)
+#: src/dialogs.ycp:57
+msgid "When &Booting"
+msgstr "引导时(&B)"
+
+#. radio button (starting SLP service - option 2)
+#: src/dialogs.ycp:59
+msgid "&Manually"
+msgstr "手动(&M)"
+
+#. part of help text, used to describe radiobuttons (matching starting SLP service but without "&")
+#: src/dialogs.ycp:62
+msgid "When Booting"
+msgstr "引导时"
+
+#. part of help text, used to describe radiobuttons (matching starting SLP service but without "&")
+#: src/dialogs.ycp:64
+msgid "Manually"
+msgstr "手动"
+
+#: src/dialogs.ycp:73
+msgid "iSNS Address"
+msgstr "iSNS 地址"
+
+#: src/dialogs.ycp:74
+msgid "iSNS Port"
+msgstr "iSNS 端口"
+
+#: src/dialogs.ycp:89
+msgid "Initiator Name"
+msgstr "启动程序名称"
+
+#: src/dialogs.ycp:92
+msgid "Offloa&d Card"
+msgstr "卸载卡(&d)"
+
+#: src/dialogs.ycp:107 src/dialogs.ycp:128
+msgid "Interface"
+msgstr "接口"
+
+#: src/dialogs.ycp:107 src/dialogs.ycp:128 src/dialogs.ycp:149
+msgid "Portal Address"
+msgstr "门户网站地址"
+
+#: src/dialogs.ycp:107 src/dialogs.ycp:128 src/dialogs.ycp:149
+msgid "Target Name"
+msgstr "目标名称"
+
+#: src/dialogs.ycp:107
+msgid "Start-Up"
+msgstr "启动"
+
+#: src/dialogs.ycp:111
+msgid "Add"
+msgstr "添加"
+
+#: src/dialogs.ycp:112
+msgid "Edit"
+msgstr "编辑"
+
+#: src/dialogs.ycp:113
+msgid "Log Out"
+msgstr "注销"
+
+#: src/dialogs.ycp:128 src/dialogs.ycp:149
+msgid "Connected"
+msgstr "已连接"
+
+#: src/dialogs.ycp:132
+msgid "Discovery"
+msgstr "发现"
+
+#: src/dialogs.ycp:133
+msgid "Log In"
+msgstr "登录"
+
+#: src/dialogs.ycp:153
+msgid "Connect"
+msgstr "连接"
+
+#: src/dialogs.ycp:166 src/dialogs.ycp:192
+msgid "No Authentication"
+msgstr "无身份验证"
+
+#: src/dialogs.ycp:168 src/dialogs.ycp:194
+msgid "Incoming Authentication"
+msgstr "进来的身份验证"
+
+#: src/dialogs.ycp:170 src/dialogs.ycp:175 src/dialogs.ycp:196
+#: src/dialogs.ycp:201
+msgid "Username"
+msgstr "用户名"
+
+#: src/dialogs.ycp:170 src/dialogs.ycp:175 src/dialogs.ycp:196
+#: src/dialogs.ycp:201
+msgid "Password"
+msgstr "密码"
+
+#: src/dialogs.ycp:173 src/dialogs.ycp:199
+msgid "Outgoing Authentication"
+msgstr "发出的身份验证"
+
+#: src/dialogs.ycp:216
+msgid "Startup"
+msgstr "启动"
+
+#: src/dialogs.ycp:227
+msgid "IP Address"
+msgstr "IP 地址"
+
+#: src/dialogs.ycp:228
+msgid "Port"
+msgstr "端口"
+
+#: src/dialogs.ycp:239
+msgid "Key"
+msgstr "密钥"
+
+#: src/dialogs.ycp:239
+msgid "Value"
+msgstr "值"
+
+#: src/dialogs.ycp:252
+msgid "Service"
+msgstr "服务"
+
+#: src/dialogs.ycp:277
+msgid "Connected Targets"
+msgstr "已连接目标"
+
+#: src/dialogs.ycp:293
+msgid "Discovered Targets"
+msgstr "已发现目标"
+
+#: src/dialogs.ycp:325
+msgid "iSCSI Initiator Overview"
+msgstr "iSCSI 启动程序概览"
+
+#. discovery new target
+#. dialog for all targets from portal (connected/disconnected)
+#. authentification dialog for add/discovery target
+#: src/dialogs.ycp:337 src/helps.ycp:116 src/helps.ycp:124 src/helps.ycp:128
+msgid "<h1>iSCSI Initiator</h1>"
+msgstr "<h1>iSCSI 启动程序</h1>"
+
+#: src/dialogs.ycp:355 src/dialogs.ycp:388 src/dialogs.ycp:409
+msgid "iSCSI Initiator Discovery"
+msgstr "iSCSI 启动程序发现"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:43
+msgid ""
+"<p><b><big>Initializing iSCSI Initiator Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在初始化 iSCSI 启动程序配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:48
+msgid ""
+"<p><b><big>Aborting Initialization</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>正在中止初始化</big></b><br>\n"
+"可以按<b>中止</b>立即安全地中止配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:53
+msgid ""
+"<p><b><big>Saving iSCSI Initiator Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在保存 iSCSI 启动程序配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:58
+msgid ""
+"<p><b><big>Aborting Saving</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中止保存</big></b><br>\n"
+"按<b>中止</b>中止保存过程。\n"
+" 另一个对话框将指示这样操作是否安全。\n"
+" </p>\n"
+
+#. Summary dialog help 1/3
+#: src/helps.ycp:65
+msgid ""
+"<p><b><big>iSCSI Initiator Configuration</big></b><br>\n"
+"Configure an iSCSI initiator here.<br></p>\n"
+msgstr ""
+"<p><b><big>iSCSI 启动程序配置</big></b><br>\n"
+"在此处配置 iSCSI 启动程序。<br></p>\n"
+
+#. Summary dialog help 2/3
+#: src/helps.ycp:70
+msgid ""
+"<p><b><big>Adding an iSCSI Initiator</big></b><br>\n"
+"Select an iSCSI initiator from the list of detected initiators.\n"
+"If your iSCSI initiator was not detected, use <b>Other (not detected)</b>.\n"
+"Then press <b>Configure</b>.</p>\n"
+msgstr ""
+"<p><b><big>添加 iSCSI 启动程序</big></b><br>\n"
+"从检测到的 iSCSI 启动程序的列表进行选择。\n"
+"如果没有检测到 iSCSI 启动程序，请使用<b>其它(未检测到)</b>。\n"
+"然后按<b>配置</b>。</p>\n"
+
+#. Summary dialog help 3/3
+#: src/helps.ycp:77
+msgid ""
+"<p><b><big>Editing or Deleting</big></b><br>\n"
+"If you press <b>Edit</b>, an additional dialog in which to change\n"
+"the configuration opens.</p>\n"
+msgstr ""
+"<p><b><big>编辑或删除</big></b><br>\n"
+"如果按下<b>编辑</b>，则将会打开另外一个对话框，可以在其中更改 \n"
+"配置。</p>\n"
+
+#. Ovreview dialog help 1/3
+#: src/helps.ycp:83
+msgid ""
+"<p><b><big>iSCSI Initiator Configuration Overview</big></b><br>\n"
+"Obtain an overview of installed iSCSI initiators. Additionally\n"
+"edit their configurations.<br></p>\n"
+msgstr ""
+"<p><b><big> iSCSI 启动程序配置概览</big></b><br>\n"
+"获取已安装的 iSCSI 启动程序的概览。此外，\n"
+"对它们的配置进行编辑。<br></p>\n"
+
+#. Ovreview dialog help 2/3
+#: src/helps.ycp:89
+msgid ""
+"<p><b><big>Adding an iSCSI Initiator</big></b><br>\n"
+"Press <b>Add</b> to configure an iSCSI initiator.</p>\n"
+msgstr ""
+"<p><b><big>添加 iSCSI 启动程序</big></b><br>\n"
+"按<b>添加</b>以配置一个 iSCSI 启动程序。</p>\n"
+
+#. Ovreview dialog help 3/3
+#: src/helps.ycp:94
+msgid ""
+"<p><b><big>Editing or Deleting</big></b><br>\n"
+"Choose an iSCSI Initiator to change or remove.\n"
+"Then press <b>Edit</b> or <b>Delete</b> as desired.</p>\n"
+msgstr ""
+"<p><b><big>编辑或删除</big></b><br>\n"
+"选择一个要更改或删除的 iSCSI 启动程序。\n"
+" 然后根据需要按<b>编辑</b>或<b>删除</b>。</p>\n"
+
+#. table of connected targets
+#: src/helps.ycp:100
+msgid ""
+"List of current sessions. To add a new target, select it and press <b>Add</b>.\n"
+"To remove it, press <b>Log Out</b>.\n"
+"To change the start-up status, press <b>Toggle</b>.\n"
+msgstr ""
+"当前会话的列表。要添加新目标，请选择它并按下<b>添加</b>。\n"
+"要删除某个目标，请按下<b>注销</b>。\n"
+"要更改启动状态，请按下<b>转换</b>。\n"
+
+#. Warning
+#: src/helps.ycp:106 src/helps.ycp:121
+msgid "<h1>Warning</h1>"
+msgstr "<h1>警告</h1>"
+
+#: src/helps.ycp:106 src/helps.ycp:121
+msgid "<p>When accessing an iSCSI device <b>READ</b>/<b>WRITE</b>, make sure that this access is exclusive. Otherwise there is a potential risk of data corruption.</p>\n"
+msgstr "<p>当访问 iSCSI 设备 <b>READ</b>/<b>WRITE</b> 时，确保此访问是排它的。否则会有潜在的数据损坏风险。</p>\n"
+
+#: src/helps.ycp:109
+msgid ""
+"<p><b>InitiatorName</b> is a value from <tt>/etc/iscsi/initiatorname.iscsi</tt>. \n"
+"In case you have iBFT, this value will be added from there and you are only able to change it in the BIOS setup.</p>"
+msgstr ""
+"<p><b>启动程序名称</b> 是 <tt>/etc/initiatorname.iscsi</tt> 中的值。\n"
+"如果您有 iBFT，此值将从那里添加，并且您只能在 BIOS 的设置中对它进行更改。</p>"
+
+#: src/helps.ycp:111
+msgid ""
+"If you want to use <b>iSNS</b> (Internet  Storage  Name Service) for discovering targets instead of the default SendTargets method,\n"
+"fill in the IP address of the iSNS server and port. The default port should be 3205.\n"
+msgstr ""
+"如果您想使用 <b>iSNS</b> (因特网存储名称服务) 来发现目标，而不是用默认的 SendTargets 的方法，\n"
+"请填上 iSNS 服务器的 IP 地址和端口。默认的端口是 3205。\n"
+
+#: src/helps.ycp:116
+msgid ""
+"Enter the <b>IP Address</b> of the discovered server.\n"
+"Only change <b>Port</b> if needed. For authentication, use <b>Username</b> and <b>Password</b>. If you do not need authentication,\n"
+"select <b>No Authentication</b>.\n"
+msgstr ""
+"输入已发现的服务器的 <b>IP 地址</b>。\n"
+"如果需要，仅更改<b>端口</b>。为了身份验证，请使用<b>用户名</b>和<b>密码</b>。如果不需要身份验证，则\n"
+"请选择<b>无身份验证</b>。\n"
+
+#: src/helps.ycp:125
+msgid "List of nodes offered by the iSCSI target. Select one item and click <b>Connect</b>.  "
+msgstr "iSCSI 目标提供的节点的列表。选择一项，然后单击<b>连接</b>。"
+
+#: src/helps.ycp:128
+msgid "Select the type of authentication and enter the <b>Username</b> and <b>Password</b>."
+msgstr "选择身份验证的类型，然后输入<b>用户名</b>和<b>密码</b>"
+
+#: src/helps.ycp:129
+msgid "<h1>Startup</h1>"
+msgstr "<h1>启动</h1>"
+
+#: src/helps.ycp:129
+msgid ""
+"<p><b>manual</b> is for iSCSI targets which are not to be connected by\n"
+"default, the user needs to connect them manually</p>\n"
+"<p><b>onboot</b> is for iSCSI targets to be connected during boot, i.e. when\n"
+"root is on iSCSI. As such it will be evaluated by the initrd.</p>\n"
+"<p><b>automatic</b> is for iSCSI targets to be connected when the iSCSI service\n"
+"starts up.</p>\n"
+msgstr ""
+"<p><b>手动</b>用于没有默认连接的 iSCSI 目标，用户需要手动连接它们</p>\n"
+"<p><b>引导时</b>用于在引导时连接的 iSCSI 目标，例如，当 root 在 iSCSI 上时。这种情况它会被 initrd 评估。</p>\n"
+"<p><b>自动</b>用于当 iSCSI 服务启动时自动连接的 iSCSI 目标。</p>\n"
+
+#. list of discovered targets
+#: src/helps.ycp:138
+msgid "List of discovered targets. Start a new <b>Discovery</b> or <b>Connect</b> to any target."
+msgstr "已发现的目标的列表。启动新<b>发现</b>或<b>连接</b>任何目标。"
+
+#: src/helps.ycp:140
+msgid "<h1>iBTF</h1>"
+msgstr "<h1>iBTF</h1>"
+
+#. Command line help text for the Xiscsi-client module
+#: src/iscsi-client.ycp:57
+msgid "Configuration of an iSCSI initiator"
+msgstr "iSCSI 启动程序的配置"
+
+#. progress step title
+#: src/iscsi-client_finish.ycp:66
+msgid "Saving iSCSI configuration..."
+msgstr "正在保存 iSCSI 配置..."
+
+#. Rich text title for IscsiClient in proposals
+#: src/iscsi-client_proposal.ycp:88
+msgid "iSCSI Initiator"
+msgstr "iSCSI 启动程序"
+
+#. Menu title for IscsiClient in proposals
+#: src/iscsi-client_proposal.ycp:90
+msgid "&iSCSI Initiator"
+msgstr "iSCSI 启动程序(&I)"
+
+#: src/widgets.ycp:50
+msgid "Command timed out"
+msgstr "命令已超时"
+
+#: src/widgets.ycp:89 src/widgets.ycp:101
+msgid "Insert the username."
+msgstr "插入用户名。"
+
+#: src/widgets.ycp:94 src/widgets.ycp:106
+msgid "Insert the password."
+msgstr "插入密码。"
+
+#: src/widgets.ycp:117
+msgid "Error While Connecting iscsid"
+msgstr "连接 iscsid 时出错"
+
+#: src/widgets.ycp:160
+msgid "Really log out from the selected target?"
+msgstr "确实要从所选目标注销吗？"
+
+#: src/widgets.ycp:161
+msgid "Error occurred while logging out from the selected target."
+msgstr "从所选目标注销时出错。"
+
+#: src/widgets.ycp:166 src/widgets.ycp:194
+msgid "No record found."
+msgstr "找不到记录"
+
+#: src/widgets.ycp:224
+msgid "No valid IP address"
+msgstr "无有效 IP 地址"
+
+#: src/widgets.ycp:229
+msgid "Port field cannot be empty"
+msgstr "端口号不能为空"
+
+#: src/widgets.ycp:301
+msgid ""
+"Incorrect InitiatorName.\n"
+"The correct syntax is\n"
+"iqn.yyyy-mm.reversed.domain.name[:identifier]\n"
+"or eui.yyyy-mm.reversed.domain.name[:identifier]\n"
+"\n"
+"Example:\n"
+"iqn.2007-04.cz.server:storage.disk.sdb\n"
+msgstr ""
+"启动程序名称错误。\n"
+"正确语法为\n"
+"iqn.yyyy-mm.reversed domain name[:identifier]\n"
+"或 eui:yyyy-mm.reversed.domain.name[:identifier]\n"
+"\n"
+"例如：\n"
+"iqn.2007-04.cz.server:storage.disk.sdb\n"
+
+#: src/widgets.ycp:456
+msgid "Insert the IP address."
+msgstr "插入 IP 地址。"
+
+#: src/widgets.ycp:462
+msgid "Insert the port."
+msgstr "插入端口。"
+
+#: src/widgets.ycp:543 src/widgets.ycp:600 src/widgets.ycp:611
+msgid "True"
+msgstr "True"
+
+#: src/widgets.ycp:543 src/widgets.ycp:600
+msgid "False"
+msgstr "False"
+
+#: src/widgets.ycp:564 src/widgets.ycp:624
+msgid "The target with this TargetName is already connected. Make sure that multipathing is enabled to prevent data corruption."
+msgstr "已连接名称为此 TargetName 的目标。 请确保启用了多路径以防止数据损坏。"
+
+#: src/widgets.ycp:564 src/widgets.ycp:624
+msgid "Continue"
+msgstr "继续"
+
+#: src/widgets.ycp:564 src/widgets.ycp:624
+msgid "Cancel"
+msgstr "取消"
+
+#: src/widgets.ycp:620
+msgid "The target is already connected."
+msgstr "目标已连接。"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:154
+msgid "iSCSI Initiator Configuration"
+msgstr "iSCSI 启动程序配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:156
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#~ msgid "Toggle Start-Up"
+#~ msgstr "转换启动"
+
+#~ msgid "Write the settings"
+#~ msgstr "写入设置"
+
+#~ msgid "Run SuSEconfig"
+#~ msgstr "运行 SuSEconfig"
+
+#~ msgid "Writing the settings..."
+#~ msgstr "正在写入设置..."
+
+#~ msgid "Running SuSEconfig..."
+#~ msgstr "正在运行SuSEconfig..."

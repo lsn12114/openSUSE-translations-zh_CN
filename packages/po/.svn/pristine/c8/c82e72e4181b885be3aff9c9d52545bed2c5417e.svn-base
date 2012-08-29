@@ -1,0 +1,5714 @@
+# This file was automatically generated
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: openSUSE-packages\n"
+"Report-Msgid-Bugs-To: http://bugzilla.novell.com/\n"
+"POT-Creation-Date: 2011-08-30 16:14:05\n"
+"PO-Revision-Date: 2012-08-24 06:04+0800\n"
+"Language: zh_CN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Last-Translator: Marguerite Su <i@marguerite.su>\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. summary(ConsoleKit)
+msgid "System daemon for tracking users, sessions and seats"
+msgstr "记录用户，会话和 seat 的系统守护精灵"
+
+#. description(ConsoleKit)
+msgid ""
+"ConsoleKit is a system daemon for tracking what users are logged into the "
+"system and how they interact with the computer (e.g. which keyboard and "
+"mouse they use)."
+msgstr ""
+"ConsoleKit 是用于记录哪些用户登录到了系统以及它们和计算机是怎样交互的（例如它"
+"们使用什么键盘和鼠标）的系统守护程序。"
+
+#. summary(DirectFB)
+msgid "Graphics Library for Framebuffer Devices"
+msgstr "用于帧缓冲设备的显示函数库"
+
+#. description(DirectFB)
+msgid ""
+"DirectFB is a thin library that provides hardware graphics acceleration, "
+"input device handling and abstraction, an integrated windowing system with "
+"support for translucent windows, and multiple display layers on top of the "
+"Linux framebuffer device. It is a complete hardware abstraction layer with "
+"software fallbacks for every graphics operation that is not supported by the "
+"underlying hardware. DirectFB adds graphical power to embedded systems and "
+"sets a new standard for graphics under Linux."
+msgstr ""
+"DirectFB 是一个小函数库，提供硬件显示加速，输入设备处理和抽象化，一个支持透明窗口的整合窗口系统，和 Linux "
+"帧缓冲设备上层的多显示层。它是一个完整的抽象层，并为每个不被底层硬件支持的图形操作提供了软件替代处理。DirectFB 为嵌入系统添加了图形功能，并为 "
+"Linux 设定了一个新图形标准。"
+
+#. summary(a2ps)
+msgid "Converts ASCII Text into PostScript"
+msgstr "转换 ASCII 文本到 PostScript"
+
+#. description(a2ps)
+msgid ""
+"a2ps converts ASCII text into PostScript. This feature is used by apsfilter, "
+"for example, to pretty-print ASCII text.\n"
+"\n"
+"Warning: a2ps is not able to convert complex unicode (UTF-8) text to "
+"PostScript.  Only language text which can be converted from UTF-8 to latin "
+"encodings are supported."
+msgstr ""
+"a2ps 转换 ASCII 文本到 PostScript。这个功能被如 apsfilter 用来更好的打印 ASCII 文本。\n"
+"\n"
+"警告：a2ps 不能转换复杂的 unicode (UTF-8) 文本到 PostScript。只支持能够从 UTF-8 转换为拉丁编码的语言的文本。"
+
+#. summary(aaa_base)
+msgid "SUSE Linux Base Package"
+msgstr "SUSE Linux 基础软件包"
+
+#. description(aaa_base)
+msgid ""
+"This package installs several important configuration files. Central scripts "
+"like SuSEconfig are also in this package."
+msgstr "此软件包将安装一些重要的配置文件。核心脚本如 SuSEconfig 也在该软件包中。"
+
+#. summary(aaa_base:aaa_base-extras)
+msgid "SUSE Linux Base Package (recommended part)"
+msgstr "SUSE Linux 基础软件包 (推荐部分)"
+
+#. description(aaa_base:aaa_base-extras)
+msgid ""
+"The parts of aaa_base that should be installed by default but are not "
+"strictly required to run a system. (Shell aliases, bash completions and "
+"convenience hacks)."
+msgstr "应该被默认安装，但运行系统并不那么严格的需要它的 aaa_base 部分。(壳别名，bash 补全和舒适性改良)。"
+
+#. summary(acl)
+msgid "Commands for Manipulating POSIX Access Control Lists"
+msgstr "操纵 POSIX 访问控制列表的命令"
+
+#. description(acl)
+msgid ""
+"getfacl and setfacl commands for retrieving and setting POSIX access control "
+"lists."
+msgstr "用于获取和设置 POSIX 访问控制列表的 getfacl 和 setfacl 命令。"
+
+#. summary(acpica)
+msgid "This is a set of tools to display and debug your BIOS ACPI tables"
+msgstr "这是用于显示和调试您的 BIOS ACPI 表的一系列工具"
+
+#. description(acpica)
+msgid ""
+"The included tools share the same code as it is used in the ACPI "
+"implementation of the kernel. The code of the acpica project is exactly the "
+"same as the ACPI parser and interpreter code of the kernel and the code gets "
+"synced regularly from the acpica project into the kernel. E.g. if you "
+"identify bugs in the kernel's ACPI implementation it might be easier to "
+"debug them in userspace if possible. If the bug is part of the acpica code, "
+"it has to be submitted to the acpica project to get merged into the mainline "
+"kernel sources.\n"
+"\n"
+"iasl compiles ASL (ACPI Source Language) into AML (ACPI Machine Language). "
+"This AML is suitable for inclusion as a DSDT in system firmware. It also can "
+"disassemble AML, for debugging purposes."
+msgstr ""
+
+#. summary(acpid)
+msgid "Executes Actions at ACPI Events"
+msgstr "在 ACPI 事件中执行操作"
+
+#. description(acpid)
+msgid ""
+"ACPID is a completely flexible, totally extensible daemon for delivering "
+"ACPI events. It listens to a file (/proc/acpi/event) and, when an event "
+"occurs, executes programs to handle the event. The start script loads all "
+"needed modules.\n"
+"\n"
+"Configure it in /etc/sysconfig/powermanagement."
+msgstr ""
+"ACPID 是一个完整的、灵活的，完全可扩展的传递 ACPI 事件的守护精灵。它监听一个文件 "
+"(/proc/acpi/event)，并在事件发生时，执行处理事件的程序。启动脚本加载了全部需要的模块。\n"
+"\n"
+"可在 /etc/sysconfig/powermanagement 中配置它。"
+
+#. summary(alsa)
+msgid "Advanced Linux Sound Architecture"
+msgstr "高级 Linux 声音架构"
+
+#. description(alsa)
+msgid ""
+"ALSA stands for Advanced Linux Sound Architecture.  It supports many PCI, "
+"ISA PnP  and USB sound cards.\n"
+"\n"
+"This package contains the ALSA init scripts to start the sound system on "
+"your Linux box.  To set it up, run yast2 or alsaconf."
+msgstr ""
+"ALSA 是高级 Linux 声音架构的缩写。它支持许多 PCI、ISA PnP 和 USB 声卡。\n"
+"\n"
+"此软件包包含了 ALSA 启动脚本，用来启动您 Linux 电脑上的声音系统。运行 yast2 或 alsaconf 来设定它。"
+
+#. summary(alsa-oss)
+msgid "ALSA-OSS Wrapper"
+msgstr "ALSA-OSS 封装"
+
+#. description(alsa-oss)
+msgid ""
+"This package contains the wrapper library and script to run OSS applications "
+"using ALSA API."
+msgstr "此软件包包含了使用 ALSA API 运行 OSS 应用程序的封装函数库和脚本。"
+
+#. summary(alsa-plugins)
+msgid "Extra Plug-Ins for the ALSA Library"
+msgstr "ALSA 函数库的额外插件"
+
+#. description(alsa-plugins)
+msgid "This package contains the extra plug-ins for the ALSA library."
+msgstr "此软件包包含了 ALSA 函数库的额外插件。"
+
+#. summary(alsa-plugins:alsa-plugins-pulse)
+msgid "Pulseaudio Plug-In for the ALSA Library"
+msgstr "ALSA 函数库的 Pulaseaudio 插件"
+
+#. description(alsa-plugins:alsa-plugins-pulse)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"This package contains the polypaudio I/O plug-in for the ALSA library."
+msgstr ""
+"pulseaudio 是一个 Linux、其它类 Unix 操作系统以及微软视窗的网络声音服务器。它的目的是作为开放声音守护精灵 (ESOUND) "
+"的一个优化的替代。"
+"\n"
+"此软件包包含 ALSA 函数库的 polypaudio 输入/输出插件。"
+
+#. summary(alsa-utils)
+msgid "Advanced Linux Sound Architecture Utilities"
+msgstr "高级 Linux 声音架构工具"
+
+#. description(alsa-utils)
+msgid ""
+"This package contains utility programs supporting ALSA, Advanced Linux Sound "
+"Architecture."
+msgstr ""
+
+#. summary(appres)
+msgid "Utility to list the resource database of an X application"
+msgstr ""
+
+#. description(appres)
+msgid ""
+"The appres program prints the resources seen by an application (or "
+"subhierarchy of an application) with the specified class and instance names. "
+"It can be used to determine which resources a particular program will load."
+msgstr ""
+
+#. summary(aspell)
+msgid "A Free and Open Source Spell Checker"
+msgstr ""
+
+#. description(aspell)
+msgid ""
+"GNU Aspell is a spell checker designed to eventually replace Ispell. It can "
+"be used as a library or as an independent spell checker.\n"
+"\n"
+"Its main feature is that it does a much better job of coming up with "
+"possible suggestions than just about any other spell checker available for "
+"the English language, including Ispell and Microsoft Word. It also has many "
+"other technical enhancements over Ispell, such as using shared memory for "
+"dictionaries and intelligently handling personal dictionaries when more than "
+"one Aspell process is open at once."
+msgstr ""
+
+#. summary(aspell-en)
+msgid "English Dictionaries for ASpell"
+msgstr "ASpell 英文字典"
+
+#. description(aspell-en)
+msgid ""
+"An English, Canadian English and British English dictionary for the ASpell "
+"spell checker."
+msgstr ""
+
+#. summary(attr)
+msgid "Commands for Manipulating Extended Attributes"
+msgstr ""
+
+#. description(attr)
+msgid ""
+"A set of tools for manipulating extended attributes on file system objects, "
+"in particular getfattr(1) and setfattr(1). An attr(1) command is also "
+"provided, which is largely compatible with the SGI IRIX tool of the same "
+"name."
+msgstr ""
+
+#. summary(augeas:augeas-lenses)
+msgid "Official set of lenses for use by libaugeas0"
+msgstr ""
+
+#. description(augeas:augeas-lenses)
+msgid ""
+"Augeas parses configuration files described in lenses into a tree structure, "
+"which it exposes through its public API. Lenses are the building blocks of "
+"the file <-> tree transformation. The transformation is controlled by "
+"``lens'' definitions that describe the file format and mapping of its "
+"contents into a tree. This package includes the official set of lenses."
+msgstr ""
+
+#. summary(autofs)
+msgid "A Kernel-Based Automounter"
+msgstr "基于内核的自动挂载器"
+
+#. description(autofs)
+msgid ""
+"AutoFS is a kernel-based automounter for Linux.  It automatically mounts "
+"filesystems when you use them, and unmounts them later when you are not "
+"using them.  This can include network filesystems, CD-ROMs, floppies, and so "
+"forth."
+msgstr ""
+"AutoFS 是一个基于内核的 Linux 自动挂载器。它在使用文件系统时自动挂载，不用时自动卸载。文件系统包括网络文件系统、CD-ROM 等等。"
+
+#. summary(avahi)
+msgid "D-BUS Service for Zeroconf and Bonjour"
+msgstr ""
+
+#. description(avahi)
+msgid ""
+"Avahi is an implementation of the DNS Service Discovery and Multicast DNS "
+"specifications for Zeroconf Computing. It uses D-BUS for communication "
+"between user applications and a system daemon. The daemon is used to "
+"coordinate application efforts in caching replies, necessary to minimize the "
+"traffic imposed on networks.\n"
+"\n"
+"The Avahi mDNS responder is now complete with features, implementing all "
+"MUSTs and the majority of the SHOULDs of the mDNS and DNS-SD RFCs. It passes "
+"all tests in the Apple Bonjour conformance test suite. In addition, it "
+"supports some nifty things, like correct mDNS reflection across LAN segments."
+msgstr ""
+
+#. summary(awesfx)
+msgid "SoundFont Utilities for SB AWE32/64 and Emu10k1 Drivers"
+msgstr ""
+
+#. description(awesfx)
+msgid ""
+"The AWESFX package includes utility programs for controlling the wavetable "
+"function on SB AWE32/64 and Emu10k1 sound cards."
+msgstr ""
+
+#. summary(b43-fwcutter)
+msgid "Tool for extracting firmware from newer Broadcom WLAN drivers"
+msgstr ""
+
+#. description(b43-fwcutter)
+msgid ""
+"b43-fwcutter can be used to extract firmware from Windows WLAN drivers for "
+"Broadcom bcm43xx devices. The firmware is necessary to run such a card under "
+"Linux using the b43 or b43legacy driver."
+msgstr ""
+
+#. summary(bash)
+msgid "The GNU Bourne-Again Shell"
+msgstr ""
+
+#. description(bash)
+msgid ""
+"Bash is an sh-compatible command interpreter that executes commands read "
+"from standard input or from a file.  Bash incorporates useful features from "
+"the Korn and C shells (ksh and csh).  Bash is intended to be a conformant "
+"implementation of the IEEE Posix Shell and Tools specification (IEEE Working "
+"Group 1003.2)."
+msgstr ""
+
+#. summary(bc)
+msgid "GNU Command Line Calculator"
+msgstr ""
+
+#. description(bc)
+msgid ""
+"bc is an interpreter that supports numbers of arbitrary precision and the "
+"interactive execution of statements. The syntax has some similarities to the "
+"C programming language. A standard math library is available through command "
+"line options. When used, the math library is read in before any other input "
+"files. bc then reads in all other files from the command line, evaluating "
+"their contents. Then bc reads from standard input (usually the keyboard).\n"
+"\n"
+"The dc program is also included. dc is a calculator that supports reverse-"
+"polish notation and allows unlimited precision arithmetic. Macros can also "
+"be defined. Normally, dc reads from standard input but can also read in "
+"files specified on the command line. A calculator with reverse-polish "
+"notation saves numbers to a stack. Arguments to mathematical operations "
+"(operands) are \"pushed\" onto the stack until the next operator is read in, "
+"which \"pops\" its arguments off the stack and \"pushes\" its results back "
+"onto the stack."
+msgstr ""
+
+#. summary(bdftopcf)
+msgid "Font compiler for the X server and font server"
+msgstr ""
+
+#. description(bdftopcf)
+msgid ""
+"bdftopcf is a font compiler for the X server and font server. Fonts in "
+"Portable Compiled Format can be read by any architecture, although the file "
+"is structured to allow one particular architecture to read them directly "
+"without reformatting. This allows fast reading on the appropriate machine, "
+"but the files are still portable (but read more slowly) on other machines."
+msgstr ""
+
+#. summary(beforelight)
+msgid "Sample implementation of a screen saver for X servers"
+msgstr ""
+
+#. description(beforelight)
+msgid ""
+"The beforelight program is a sample implementation of a screen saver for X "
+"servers supporting the MIT-SCREEN-SAVER extension. It is only recommended "
+"for use as a code sample, as it does not include features such as screen "
+"locking or configurability, and relies on the legacy Xaw toolkit."
+msgstr ""
+
+#. summary(bind:bind-libs)
+msgid "Shared libraries of BIND"
+msgstr ""
+
+#. description(bind:bind-libs)
+msgid ""
+"This package contains the shared libraries of the Berkeley Internet Name "
+"Domain (BIND) Domain Name System implementation of the Domain Name System "
+"(DNS) protocols."
+msgstr ""
+
+#. summary(bind:bind-utils)
+msgid "Utilities to query and test DNS"
+msgstr ""
+
+#. description(bind:bind-utils)
+msgid ""
+"This package includes the utilities host, dig, and nslookup used to test and "
+"query the Domain Name System (DNS).  The Berkeley Internet Name Domain "
+"(BIND) DNS server is found in the package named bind."
+msgstr ""
+
+#. summary(bitmap)
+msgid "X bitmap editor and converter utilities"
+msgstr ""
+
+#. description(bitmap)
+msgid ""
+"The bitmap program is a rudimentary tool for creating or editing rectangular "
+"images made up of 1's and 0's. Bitmaps are used in X for defining clipping "
+"regions, cursor shapes, icon shapes, and tile and stipple patterns.\n"
+"\n"
+"The bmtoa and atobm filters convert bitmap files to and from ASCII strings. "
+"They are most commonly used to quickly print out bitmaps and to generate "
+"versions for including in text."
+msgstr ""
+
+#. summary(bluez)
+msgid "Bluetooth Stack for Linux"
+msgstr ""
+
+#. description(bluez)
+msgid "The Bluetooth stack for Linux."
+msgstr ""
+
+#. summary(bluez-firmware)
+msgid "Bluetooth(TM) Firmware"
+msgstr ""
+
+#. description(bluez-firmware)
+msgid ""
+"Bluetooth(TM) Firmware. Package contains firmware images for some    "
+"Bluetooth(TM) adapters. Currently supported are: * Broadcom    Corporation "
+"BCM2033\n"
+"\n"
+"* AVM Computersysteme Vertriebs GmbH BLUEFRITZ! USB\n"
+"\n"
+"The BLUETOOTH trademarks are owned by Bluetooth SIG, Inc., USA."
+msgstr ""
+
+#. summary(bootsplash)
+msgid "Graphical System Boot Utilities"
+msgstr ""
+
+#. description(bootsplash)
+msgid ""
+"The bootsplash package contains utilities and scripts for displaying "
+"graphics, animations, or text when the system boots. To use bootsplash, you "
+"also need a bootsplash theme that contains pictures and configuration files. "
+"Find information about bootsplash at http://www.bootsplash.org/."
+msgstr ""
+
+#. summary(bridge-utils)
+msgid "Utilities for Configuring the Linux Ethernet Bridge"
+msgstr ""
+
+#. description(bridge-utils)
+msgid ""
+"This package contains utilities for configuring the Linux ethernet bridge. "
+"The Linux ethernet bridge can be used for connecting multiple ethernet "
+"devices together. The connection is fully transparent: hosts connected to "
+"one ethernet device see hosts connected to the other ethernet devices "
+"directly."
+msgstr ""
+
+#. summary(btrfsprogs)
+msgid "Utilities for the Btrfs filesystem"
+msgstr ""
+
+#. description(btrfsprogs)
+msgid "Utilities needed to create and maintain btrfs file systems under Linux."
+msgstr ""
+
+#. summary(bzip2)
+msgid "A Program for Compressing Files"
+msgstr ""
+
+#. description(bzip2)
+msgid "The bzip2 program is a very powerful program for compressing files."
+msgstr ""
+
+#. summary(checkmedia)
+msgid "Check Installation Media"
+msgstr ""
+
+#. description(checkmedia)
+msgid "Checks installation CDs and DVDs for errors."
+msgstr ""
+
+#. summary(cifs-utils)
+msgid "Utilities for doing and managing mounts of the Linux CIFS filesyste"
+msgstr ""
+
+#. description(cifs-utils)
+msgid ""
+"The cifs-utils package consist of utilities for doing and managing mounts of "
+"the Linux CIFS filesystem."
+msgstr ""
+
+#. summary(coreutils)
+msgid "GNU Core Utilities"
+msgstr ""
+
+#. description(coreutils)
+msgid ""
+"Basic file, shell, and text manipulation utilities.  The package contains "
+"the following programs:\n"
+"\n"
+"[ arch base64 basename cat chcon chgrp chmod chown chroot cksum comm cp "
+"csplit cut date dd df dir dircolors dirname du echo env expand expr factor "
+"false fmt fold groups head id install join kill link ln logname ls md5sum "
+"mkdir mkfifo mknod mktemp mv nice nl nohup od paste pathchk pinky pr "
+"printenv printf ptx pwd readlink rm rmdir runcon seq sha1sum sha224sum "
+"sha256sum sha384sum sha512sum shred shuf sleep sort split stat stty su sum "
+"sync tac tail tee test timeout touch tr true tsort tty uname unexpand uniq "
+"unlink uptime users vdir wc who whoami yes"
+msgstr ""
+
+#. summary(cpio)
+msgid "A Backup and Archiving Utility"
+msgstr ""
+
+#. description(cpio)
+msgid ""
+"GNU cpio is a program to manage archives of files. This package also "
+"includes 'mt', a tape drive control program. Cpio copies files into or out "
+"of a cpio or tar archive. An archive is a file that contains other files "
+"plus information about them, such as their pathname, owner, time stamps, and "
+"access permissions. The archive can be another file on the disk, a magnetic "
+"tape, or a pipe. This package normally includes the program 'rmt', which "
+"provides remote tape drive control. Because there is a compatible 'rmt' in "
+"the 'dump' package, 'rmt' is not included in this package. If you are "
+"planning to use the remote tape features provided by cpio, install the "
+"'dump' package as well."
+msgstr ""
+
+#. summary(gcc:cpp)
+msgid "The system GNU Preprocessor"
+msgstr ""
+
+#. description(gcc:cpp)
+msgid "The system GNU Preprocessor."
+msgstr ""
+
+#. summary(gcc47:cpp47)
+msgid "The GCC Preprocessor"
+msgstr ""
+
+#. description(gcc47:cpp47)
+msgid ""
+"This Package contains just the preprocessor that is used by the X11 packages."
+msgstr ""
+
+#. summary(cracklib)
+msgid "Library to crack passwords using dictionaries"
+msgstr ""
+
+#. description(cracklib)
+msgid ""
+"CrackLib tests passwords to determine whether they match certainsecurity-"
+"oriented characteristics. You can use CrackLib to stopusers from choosing "
+"passwords that are too simple.This package contains a full dictionary file "
+"used by cracklib."
+msgstr ""
+
+#. summary(cracklib-dict-full)
+msgid "A Password-Checking Library"
+msgstr ""
+
+#. description(cracklib-dict-full)
+msgid ""
+"CrackLib tests passwords to determine whether they match certain security-"
+"oriented characteristics. You can use CrackLib to stop users from choosing "
+"passwords that are easy to guess."
+msgstr ""
+
+#. summary(crda)
+msgid "802.11 central regulatory domain agent"
+msgstr ""
+
+#. description(crda)
+msgid ""
+"The crda binary provides access to the wireless-regdb to the kernel through "
+"udev."
+msgstr "crda 可执行程序通过 udev 提供了到内核中的 wireless-regdb 的访问。"
+
+#. summary(cronie:cron)
+#, fuzzy
+msgid "Auxiliary package"
+msgstr "更新包"
+
+#. description(cronie:cron)
+msgid ""
+"Auxiliary package, needed for proper update from vixie-cron 4.1 to cronie "
+"1.4.4"
+msgstr ""
+
+#. summary(cronie)
+msgid "Cron Daemon"
+msgstr ""
+
+#. description(cronie)
+msgid ""
+"cron automatically starts programs at specific times. Add new entries with "
+"\"crontab -e\". (See \"man 5 crontab\" and \"man 1 crontab\" for "
+"documentation.)\n"
+"\n"
+"Under /etc, find the directories cron.hourly, cron.daily, cron.weekly, and "
+"cron.monthly.  Scripts and programs that are located there are started "
+"automatically."
+msgstr ""
+
+#. summary(cryptsetup)
+msgid "Set Up dm-crypt Based Encrypted Block Devices"
+msgstr ""
+
+#. description(cryptsetup)
+msgid ""
+"cryptsetup is used to conveniently set up dm-crypt based device-mapper "
+"targets. It allows to set up targets to read cryptoloop compatible volumes "
+"as well as LUKS formatted ones. The package additionally includes support "
+"for automatically setting up encrypted volumes at boot time via the config "
+"file /etc/crypttab."
+msgstr ""
+
+#. summary(cups)
+msgid "The Common UNIX Printing System"
+msgstr ""
+
+#. description(cups)
+msgid ""
+"The Common UNIX Printing System (CUPS) is the standards-based, open source "
+"printing system.\n"
+"\n"
+"See http://www.cups.org"
+msgstr ""
+
+#. summary(cups:cups-client)
+msgid "CUPS Client Programs"
+msgstr ""
+
+#. description(cups:cups-client)
+msgid ""
+"The Common UNIX Printing System (CUPS) is the standards-based, open source "
+"printing system.\n"
+"\n"
+"See http://www.cups.org\n"
+"\n"
+"This package contains all programs needed for running a CUPS client, not a "
+"server."
+msgstr ""
+
+#. summary(cups:cups-libs)
+msgid "Libraries for CUPS"
+msgstr ""
+
+#. description(cups:cups-libs)
+msgid ""
+"The Common UNIX Printing System (CUPS) is the standards-based, open source "
+"printing system.\n"
+"\n"
+"See http://www.cups.org\n"
+"\n"
+"This package contains libraries needed by CUPS and other packages."
+msgstr ""
+
+#. summary(curl)
+msgid "A Tool for Transferring Data from URLs"
+msgstr ""
+
+#. description(curl)
+msgid ""
+"Curl is a client to get documents and files from or send documents to a "
+"server using any of the supported protocols (HTTP, HTTPS, FTP, FTPS, TFTP, "
+"DICT, TELNET, LDAP, or FILE). The command is designed to work without user "
+"interaction or any kind of interactivity."
+msgstr ""
+
+#. summary(cyrus-sasl)
+msgid "Implementation of Cyrus SASL API"
+msgstr ""
+
+#. description(cyrus-sasl)
+msgid ""
+"This is the Cyrus SASL API. It can be used on the client or server side to "
+"provide authentication. See RFC 2222 for more information."
+msgstr ""
+
+#. summary(cyrus-sasl:cyrus-sasl-crammd5)
+msgid "Plugin for the CRAMMD5 SASL mechanism"
+msgstr ""
+
+#. description(cyrus-sasl:cyrus-sasl-crammd5)
+msgid ""
+"This is the Cyrus SASL API implementation. It can be used on the client or "
+"server side to provide authentication. See RFC 2222 for more information."
+msgstr ""
+
+#. summary(cyrus-sasl:cyrus-sasl-digestmd5)
+msgid "Plugin for the DIGESTMD5 SASL mechanism"
+msgstr ""
+
+#. summary(cyrus-sasl:cyrus-sasl-gssapi)
+msgid "Plugin for the GSSAPI SASL mechanism"
+msgstr ""
+
+#. summary(cyrus-sasl:cyrus-sasl-plain)
+msgid "Plugin for the PLAIN SASL mechanism"
+msgstr ""
+
+#. summary(libdb-4_8:db-utils)
+msgid "Command Line tools for Managing Berkeley DB Databases"
+msgstr ""
+
+#. description(libdb-4_8:db-utils)
+msgid ""
+"The Berkeley DB Database is a programmatic toolkit that provides database "
+"support for applications.\n"
+"\n"
+"This package contains the command line tools for managing Berkeley DB "
+"databases."
+msgstr ""
+
+#. summary(dbus-1)
+msgid "D-Bus Message Bus System"
+msgstr ""
+
+#. description(dbus-1)
+msgid ""
+"D-Bus is a message bus system, a simple way for applications to talk to one "
+"another. D-Bus supplies both a system daemon and a per-user-login-session "
+"daemon. Also, the message bus is built on top of a general one-to-one "
+"message passing framework, which can be used by any two apps to communicate "
+"directly (without going through the message bus daemon)."
+msgstr ""
+
+#. summary(dbus-1-glib)
+msgid "GLib-based library for using D-Bus"
+msgstr ""
+
+#. description(dbus-1-glib)
+msgid ""
+"D-Bus add-on library to integrate the standard D-Bus library with the GLib "
+"thread abstraction and main loop."
+msgstr ""
+
+#. summary(dbus-1-python)
+msgid "Python bindings for D-Bus"
+msgstr ""
+
+#. description(dbus-1-python)
+msgid "D-Bus python bindings for use with python programs."
+msgstr ""
+
+#. description(dbus-1-x11)
+msgid ""
+"D-Bus contains some tools that require Xlib to be installed, those are in "
+"this separate package so server systems need not install X."
+msgstr ""
+
+#. summary(dconf)
+#, fuzzy
+msgid "Simple key-based configuration system"
+msgstr "正在分析配置文件..."
+
+#. description(dconf)
+msgid ""
+"dconf is a low-level configuration system. Its main purpose is to provide a "
+"backend to GSettings on platforms that don't already have configuration "
+"storage systems."
+msgstr ""
+
+#. summary(dd_rescue)
+msgid "Data Copying in the Presence of I/O Errors"
+msgstr ""
+
+#. description(dd_rescue)
+msgid ""
+"dd_rescue helps when nothing else can: your disk has crashed and you try to "
+"copy it over to another one. While standard Unix tools like cp, cat, and dd "
+"wail \"abort\" on every I/O error, dd_rescue does not."
+msgstr ""
+
+#. summary(deltarpm)
+msgid "Tools to Create and Apply deltarpms"
+msgstr ""
+
+#. description(deltarpm)
+msgid ""
+"This package contains tools to create and apply deltarpms. A deltarpm "
+"contains the difference between an old and a new version of an RPM, which "
+"makes it possible to recreate the new RPM from the deltarpm and the old one. "
+"You do not need to have a copy of the old RPM, because deltarpms can also "
+"work with installed RPMs."
+msgstr ""
+
+#. summary(desktop-file-utils)
+msgid "Utilities for Manipulating Desktop Files"
+msgstr ""
+
+#. description(desktop-file-utils)
+msgid ""
+"This packages contains a couple of command line utilities for working with "
+"desktop files.\n"
+"\n"
+"More information about desktop files can be found at: http://freedesktop.org/"
+"wiki/Specifications/desktop-entry-spec"
+msgstr ""
+
+#. summary(device-mapper)
+msgid "Device Mapper Tools"
+msgstr ""
+
+#. description(device-mapper)
+msgid ""
+"Programs, libraries, and man pages for configuring and using the device "
+"mapper."
+msgstr ""
+
+#. summary(dhcp)
+msgid "Common Files Used by ISC DHCP Software"
+msgstr ""
+
+#. description(dhcp)
+msgid ""
+"This package contains common programs used by both the ISC DHCP server "
+"(\"dhcp-server\" package) and client (\"dhcp-client\") as the omshell and "
+"common manual pages."
+msgstr ""
+
+#. summary(dhcp:dhcp-client)
+msgid "ISC DHCP Client"
+msgstr ""
+
+#. description(dhcp:dhcp-client)
+msgid ""
+"This is an alternative DHCP client, the ISC DHCP client for Linux. Like "
+"\"dhcpcd\" (the client that is installed by default), it can be used to "
+"configure the network setup.  IP address, hostname, routing, nameserver, "
+"netmask, and broadcast can be dynamically assigned while booting the "
+"machine.\n"
+"\n"
+"It is configurable via the configuration file /etc/dhclient.conf and you can "
+"define your own 'hooks' to be used by the /sbin/dhclient-script (which is "
+"called by the daemon)."
+msgstr ""
+
+#. summary(dhcpcd)
+msgid "A DHCP Client Daemon"
+msgstr ""
+
+#. description(dhcpcd)
+msgid ""
+"dhcpcd gets an IP address and other information from a corresponding DHCP "
+"server, configures the network interface automatically, and tries to renew "
+"the lease time depending on the command line option."
+msgstr ""
+
+#. summary(dialog)
+msgid "Menus and Input Boxes for Shell Scripts"
+msgstr ""
+
+#. description(dialog)
+msgid "This program lets you use menus and dialog boxes in shell scripts."
+msgstr ""
+
+#. summary(diffutils)
+msgid "GNU diff Utilities"
+msgstr ""
+
+#. description(diffutils)
+msgid ""
+"The GNU diff utilities find differences between files. diff is used to make "
+"source code patches, for instance."
+msgstr ""
+
+#. summary(dirmngr)
+msgid "A Client for Managing and Downloading CRLs"
+msgstr ""
+
+#. description(dirmngr)
+msgid ""
+"Dirmngr is a client for managing and downloading certificate revocation "
+"lists (CRLs) for X509 certificates and for downloading the certificates "
+"themselves."
+msgstr ""
+
+#. summary(dmidecode)
+msgid "DMI table decoder"
+msgstr ""
+
+#. description(dmidecode)
+msgid ""
+"Dmidecode reports information about your system's hardware as described in "
+"your system BIOS according to the SMBIOS/DMI standard. This information "
+"typically includes system manufacturer, model name, serial number, BIOS "
+"version, asset tag as well as a lot of other details of varying level of "
+"interest and reliability depending on the manufacturer. This will often "
+"include usage status for the CPU sockets, expansion slots (e.g. AGP, PCI, "
+"ISA) and memory module slots, and the list of I/O ports (e.g. serial, "
+"parallel, USB).\n"
+"\n"
+"Beware that DMI data have proven to be too unreliable to be blindly trusted. "
+"Dmidecode does not scan your hardware, it only reports what the BIOS told it "
+"to."
+msgstr ""
+
+#. summary(dmraid)
+msgid "A Device-Mapper Software RAID Support Tool"
+msgstr ""
+
+#. description(dmraid)
+msgid ""
+"This software discovers, activates, deactivates, and displays properties of "
+"software RAID sets, such as ATARAID, and contained DOS partitions.\n"
+"\n"
+"dmraid uses libdevmapper and the device-mapper kernel runtime to create "
+"devices with respective mappings for the ATARAID sets discovered.\n"
+"\n"
+"The following ATARAID types are supported:\n"
+"\n"
+"- Highpoint HPT37X\n"
+"\n"
+"- Highpoint HPT45X\n"
+"\n"
+"- Intel Software RAID\n"
+"\n"
+"- Promise FastTrak\n"
+"\n"
+"- Silicon Image Medley"
+msgstr ""
+"此软件发现、激活、取消激活和显示像 ATARAID 这样的软件 RAID 集合的属性和内含的 DOS 分区。\n"
+"\n"
+"dmraid 使用 libdevmapper 和 device-mapper 内核运行库来创建发现的 ATARAID 集合的相应设备映射。\n"
+"\n"
+"支持如下 ATARAID 类型：\n"
+"\n"
+"- Highpoint HPT37X\n"
+"\n"
+"- Highpoint HPT45X\n"
+"\n"
+"- 因特尔软件 RAID\n"
+"\n"
+"- Promise FastTrak\n"
+"\n"
+"- Silicon Image Medley"
+
+#. summary(dnsmasq)
+msgid "Lightweight, Easy-to-Configure DNS Forwarder and DHCP Server"
+msgstr ""
+
+#. description(dnsmasq)
+msgid ""
+"Dnsmasq is a lightweight, easy-to-configure DNS forwarder and DHCP server. "
+"It is designed to provide DNS and, optionally, DHCP, to a small network. It "
+"can serve the names of local machines that are not in the global DNS. The "
+"DHCP server integrates with the DNS server and allows machines with DHCP-"
+"allocated addresses to appear in DNS with names configured either in each "
+"host or in a central configuration file. Dnsmasq supports static and dynamic "
+"DHCP leases and BOOTP for network booting of diskless machines."
+msgstr ""
+
+#. summary(dosfstools)
+msgid "Utilities for Making and Checking MS-DOS FAT File Systems on Linux"
+msgstr ""
+
+#. description(dosfstools)
+msgid ""
+"The dosfstools package includes the mkdosfs and dosfsck utilities, which "
+"respectively make and check MS-DOS FAT file systems on hard drives or on "
+"floppies."
+msgstr ""
+
+#. summary(dvd+rw-tools)
+msgid "Collection of Tools for Mastering Blu-ray and DVD+-RW/+-R Media"
+msgstr ""
+
+#. description(dvd+rw-tools)
+msgid ""
+"The dvd+rw-tools collection of tools makes it possible to burn images to Blu-"
+"ray and DVD+-RW/+-R media."
+msgstr ""
+
+#. summary(e2fsprogs)
+msgid "Utilities for the Second Extended File System"
+msgstr ""
+
+#. description(e2fsprogs)
+msgid ""
+"Utilities needed to create and maintain ext2 and ext3 file systems under "
+"Linux. Included in this package are: chattr, lsattr, mke2fs, mklost+found, "
+"tune2fs, e2fsck, resize2fs, and badblocks."
+msgstr ""
+
+#. summary(editres)
+msgid "Dynamic resource editor for X Toolkit applications"
+msgstr ""
+
+#. description(editres)
+msgid ""
+"Editres is a tool that allows users and application developers to view the "
+"full widget hierarchy of any X Toolkit application that speaks the Editres "
+"protocol."
+msgstr ""
+
+#. summary(eject)
+msgid "A Program to Eject Media under Software Control"
+msgstr ""
+
+#. description(eject)
+msgid ""
+"Eject allows removable media (typically a CD-ROM, floppy disk, tape, or JAZ "
+"or ZIP disk) to be ejected under software control. The command can also "
+"control some multidisc CD-ROM changers, the autoeject feature supported by "
+"some devices, and close the disc tray of some CD-ROM drives."
+msgstr ""
+
+#. summary(elfutils)
+msgid "Higher-level library to access ELF"
+msgstr ""
+
+#. description(elfutils)
+msgid ""
+"This package provides a higher-level library to access ELF files. This is a "
+"part of elfutils package."
+msgstr ""
+
+#. summary(elilo)
+#, fuzzy
+msgid "EFI Linux Loader"
+msgstr "正在准备 bootloader"
+
+#. description(elilo)
+#, fuzzy
+msgid "The EFI Linux boot loader."
+msgstr "正在准备 bootloader"
+
+#. summary(espeak)
+msgid "Software speech synthesizer (text-to-speech)"
+msgstr ""
+
+#. description(espeak)
+msgid ""
+"eSpeak is a compact open source software speech synthesizer for English and "
+"other languages.\n"
+"\n"
+"eSpeak uses a \"formant synthesis\" method. This allows many languages to be "
+"provided in a small size. The speech is clear, and can be used at high "
+"speeds, but is not as natural or smooth as larger synthesizers which are "
+"based on human speech recordings."
+msgstr ""
+
+#. summary(ethtool)
+msgid "Examine and Tune Ethernet-Based Network Interfaces"
+msgstr ""
+
+#. description(ethtool)
+msgid ""
+"Ethtool is a small utility for examining and tuning ethernet-based network "
+"interfaces.  See the man page for more details."
+msgstr ""
+
+#. summary(fbset)
+msgid "Framebuffer Configuration Tool"
+msgstr ""
+
+#. description(fbset)
+msgid ""
+"FBSet can query and change console framebuffer settings.\n"
+"\n"
+"Some framebuffers do not support this, such as the VESA framebuffer \"vesafb"
+"\"."
+msgstr ""
+
+#. summary(file)
+msgid "A Tool to Determine File Types"
+msgstr ""
+
+#. description(file)
+msgid ""
+"With the file command, you can obtain information on the file type of a "
+"specified file. File type recognition is controlled by the file /etc/magic, "
+"which contains the classification criteria. This command is used by "
+"apsfilter to permit automatic printing of different file types."
+msgstr ""
+
+#. summary(filesystem)
+msgid "Basic Directory Layout"
+msgstr ""
+
+#. description(filesystem)
+msgid ""
+"This package installs the basic directory structure. It also includes the "
+"home directories of system users."
+msgstr ""
+
+#. summary(fillup)
+msgid "Tool for Merging Config Files"
+msgstr ""
+
+#. description(fillup)
+msgid ""
+"fillup merges files that hold variables.  A variable is defined by an entity "
+"composed of a preceding comment, a variable name, an assignment delimiter, "
+"and a related variable value.  A variable is determined by its variable name."
+msgstr ""
+
+#. summary(findutils)
+msgid "The GNU versions of find utilities (find and xargs)"
+msgstr ""
+
+#. description(findutils)
+msgid ""
+"The findutils package contains programs which will help you locate files on "
+"your system.  The find utility searches through a hierarchy of directories "
+"looking for files which match a certain set of criteria (such as a file name "
+"pattern).  The xargs utility builds and executes command lines from standard "
+"input arguments (usually lists of file names generated by the find "
+"command).\n"
+"\n"
+"You should install findutils because it includes tools that are very useful "
+"for finding things on your system."
+msgstr ""
+
+#. summary(fontconfig)
+msgid "Library for Font Configuration"
+msgstr ""
+
+#. description(fontconfig)
+msgid ""
+"Fontconfig is a library for configuring and customizing font access. It "
+"contains two essential modules: the configuration module, which builds an "
+"internal configuration from XML files, and the matching module, which "
+"accepts font patterns and returns the nearest matching font."
+msgstr ""
+
+#. summary(fonttosfnt)
+msgid "Utility to wrap a bitmap font in a sfnt (TrueType) wrapper"
+msgstr ""
+
+#. description(fonttosfnt)
+msgid ""
+"Wrap a bitmap font or a set of bitmap fonts in a sfnt (TrueType or OpenType) "
+"wrapper."
+msgstr ""
+
+#. summary(foomatic-filters)
+msgid "The universal print filter foomatic-rip"
+msgstr ""
+
+#. description(foomatic-filters)
+msgid ""
+"The print filter \"foomatic-rip\" is used by print spoolers (in particular "
+"by CUPS) to convert PostScript print job data into the printer's native "
+"format as described by a printer/driver-specific Foomatic PPD file."
+msgstr ""
+
+#. summary(fslsfonts)
+msgid "Utility to list fonts served by X font server"
+msgstr ""
+
+#. description(fslsfonts)
+msgid "fslsfonts lists the fonts that match the given pattern."
+msgstr ""
+
+#. summary(fstobdf)
+msgid "Program to read a font from an X font server"
+msgstr ""
+
+#. description(fstobdf)
+msgid ""
+"The fstobdf program reads a font from a font server and prints a BDF file on "
+"the standard output that may be used to recreate the font. This is useful in "
+"testing servers, debugging font metrics, and reproducing lost BDF files."
+msgstr ""
+
+#. summary(gawk)
+msgid "GNU awk"
+msgstr ""
+
+#. description(gawk)
+msgid ""
+"GNU awk is upwardly compatible with the System V Release 4 awk.  It is "
+"almost completely POSIX 1003.2 compliant."
+msgstr ""
+
+#. summary(gconf2:gconf-polkit)
+msgid "GNOME Configuration Database System - PolicyKit service"
+msgstr ""
+
+#. description(gconf2:gconf-polkit)
+msgid ""
+"GConf is a configuration database system for storing application "
+"preferences. It supports default or mandatory settings set by the "
+"administrator, and changes to the database are instantly applied to all "
+"running applications. It is written for the GNOME desktop but doesn't "
+"require it.\n"
+"\n"
+"This package contains the PolicyKit service that allows to edit the system-"
+"wide defaults from a user session."
+msgstr ""
+
+#. summary(gconf2)
+msgid "GNOME Configuration Database System"
+msgstr ""
+
+#. description(gconf2)
+msgid ""
+"GConf is a configuration database system for storing application "
+"preferences. It supports default or mandatory settings set by the "
+"administrator, and changes to the database are instantly applied to all "
+"running applications. It is written for the GNOME desktop but doesn't "
+"require it."
+msgstr ""
+
+#. summary(gcr:gcr-data)
+msgid "Data and icon set for gcr"
+msgstr ""
+
+#. description(gcr:gcr-data)
+#, fuzzy
+msgid ""
+"This package provides the GSettings schemas and a collection of icons needed "
+"by libgcr."
+msgstr "包中含有意外的版本"
+
+#. summary(gcr:gcr-prompter)
+msgid "Prompt dialog for Crypto UI related task"
+msgstr ""
+
+#. description(gcr:gcr-prompter)
+#, fuzzy
+msgid "This package provides the prompt dialog needed by libgcr."
+msgstr "包中含有意外的版本"
+
+#. summary(gcr:gcr-viewer)
+#, fuzzy
+msgid "Viewer for Crypto Files"
+msgstr "rpm 文件的查看器。"
+
+#. description(gcr:gcr-viewer)
+#, fuzzy
+msgid ""
+"This packages provides the viewer for crypto files on the GNOME desktop."
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. summary(gd)
+msgid "A Drawing Library for Programs That Use PNG and JPEG Output"
+msgstr ""
+
+#. description(gd)
+msgid ""
+"Gd allows your code to quickly draw images complete with lines, arcs, text, "
+"and multiple colors. It supports cut and paste from other images and flood "
+"fills. It outputs PNG, JPEG, and WBMP (for wireless devices) and is "
+"supported by PHP4."
+msgstr ""
+
+#. summary(gdb)
+msgid "A GNU source-level debugger for C, C++, Java and other languages"
+msgstr ""
+
+#. description(gdb)
+msgid ""
+"GDB, the GNU debugger, allows you to debug programs written in C, C++, Java, "
+"and other languages, by executing them in a controlled fashion and printing "
+"their data."
+msgstr ""
+
+#. summary(libopenraw:gdk-pixbuf-loader-libopenraw)
+msgid "A library to decode digital camera RAW files -- gdk-pixbuf loader"
+msgstr ""
+
+#. description(libopenraw:gdk-pixbuf-loader-libopenraw)
+msgid ""
+"libopenraw is a library that aim at decoding digital camera RAW files.\n"
+"\n"
+"This package provides a libopenraw-based gdk-pixbuf loader."
+msgstr ""
+
+#. summary(librsvg:gdk-pixbuf-loader-rsvg)
+msgid "A Library for Rendering SVG Data -- gdk-pixbuf loader"
+msgstr ""
+
+#. description(librsvg:gdk-pixbuf-loader-rsvg)
+msgid ""
+"This package contains a library to render SVG (scalable vector graphics) "
+"data. This format has been specified by the W3C (see http://www.w3c.org).\n"
+"\n"
+"This package provides a librsvg-based gdk-pixbuf loader."
+msgstr ""
+
+#. summary(gdk-pixbuf:gdk-pixbuf-query-loaders)
+msgid "An image loading library - Utility to create loaders cache"
+msgstr ""
+
+#. description(gdk-pixbuf:gdk-pixbuf-query-loaders)
+msgid ""
+"gdk-pixbuf is an image loading library that can be extended by loadable "
+"modules for new image formats. It is used by toolkits such as GTK+ or "
+"Clutter.\n"
+"\n"
+"This package contains the utility to create the cache file needed for "
+"loadable modules."
+msgstr ""
+
+#. summary(gegl:gegl-0_2)
+msgid "Generic Graphics Library"
+msgstr ""
+
+#. description(gegl:gegl-0_2)
+msgid ""
+"GEGL provides infrastructure to do demand based cached non destructive image "
+"editing on larger than RAM buffers. Through babl it provides support for a "
+"wide range of color models and pixel storage formats for input and output."
+msgstr ""
+
+#. summary(wodim:genisoimage)
+msgid "A Program for Creating CDs in Linux"
+msgstr ""
+
+#. description(wodim:genisoimage)
+msgid ""
+"Genisoimage is a pre-mastering program that generates an iso9660 filesystem. "
+"It takes a snapshot of a given directory tree, and generates a binary image "
+"which corresponds to an iso9660 filesystem that can be written to a block "
+"device."
+msgstr ""
+
+#. summary(gettext-runtime)
+msgid "Tools for Native Language Support (NLS)"
+msgstr ""
+
+#. description(gettext-runtime)
+msgid ""
+"This package contains the intl library as well as tools that ease the "
+"creation and maintenance of message catalogs. It allows you to extract "
+"strings from source code. The supplied Emacs mode (po-mode.el) helps editing "
+"these catalogs (called PO files, for portable object) and adding "
+"translations. A special compiler turns these PO files into binary catalogs."
+msgstr ""
+
+#. summary(gfxboot)
+msgid "Graphical Boot Logo for GRUB, LILO and SYSLINUX"
+msgstr ""
+
+#. description(gfxboot)
+msgid ""
+"Tools to configure the graphics for your GRUB, LILO or SYSLINUX bootloader."
+msgstr ""
+
+#. summary(ghostscript)
+msgid "The Ghostscript interpreter for PostScript and PDF"
+msgstr ""
+
+#. description(ghostscript)
+msgid ""
+"Ghostscript is a package of software that provides:\n"
+"\n"
+"An interpreter for the PostScript language, with the ability to convert "
+"PostScript language files to many raster formats, view them on displays, and "
+"print them on printers that don't have PostScript language capability built "
+"in.\n"
+"\n"
+"An interpreter for Portable Document Format (PDF) files, with the same "
+"abilities.\n"
+"\n"
+"The ability to convert PostScript language files to PDF (with some "
+"limitations) and vice versa.\n"
+"\n"
+"A set of C procedures (the Ghostscript library) that implement the graphics "
+"and filtering (data compression / decompression / conversion) capabilities "
+"that appear as primitive operations in the PostScript language and in PDF.\n"
+"\n"
+"For information how to use Ghostscript see /usr/share/ghostscript/9.05/doc/"
+"Use.htm"
+msgstr ""
+
+#. summary(ghostscript:ghostscript-x11)
+#, fuzzy
+msgid "X11 library for Ghostscript"
+msgstr "日常工作的标准工具。"
+
+#. description(ghostscript:ghostscript-x11)
+msgid ""
+"This package contains the X11 library which is needed to view PostScript and "
+"PDF files with Ghostscript under the X Window System."
+msgstr ""
+
+#. summary(gimp)
+msgid "The GNU Image Manipulation Program"
+msgstr ""
+
+#. description(gimp)
+msgid ""
+"The GIMP (GNU Image Manipulation Program) is a powerful image composition "
+"and editing program, which can be extremely useful for creating logos and "
+"other graphics for Web pages.  The GIMP offers many of the tools and filters "
+"you would expect to find in similar commercial offerings and contains some "
+"interesting extras as well. The GIMP provides a large image manipulation "
+"toolbox, including channel operations and layers, effects, subpixel imaging "
+"and antialiasing, and conversions- all including multilevel undo. The GIMP "
+"offers a scripting facility, but many of the included scripts rely on fonts "
+"that we cannot distribute."
+msgstr ""
+
+#. summary(glib-networking)
+msgid "Network-related GIO modules for glib"
+msgstr ""
+
+#. description(glib-networking)
+msgid ""
+"This package contains network-related GIO modules for glib.\n"
+"\n"
+"Currently, there is only a proxy module based on libproxy."
+msgstr ""
+
+#. summary(glib2:glib2-tools)
+msgid "General-Purpose Utility Library -- Tools"
+msgstr ""
+
+#. description(glib2:glib2-tools)
+msgid ""
+"GLib is a general-purpose utility library, which provides many useful data "
+"types, macros, type conversions, string utilities, file utilities, a main "
+"loop abstraction, and so on."
+msgstr ""
+
+#. summary(glibc)
+msgid "Standard Shared Libraries (from the GNU C Library)"
+msgstr ""
+
+#. description(glibc)
+msgid ""
+"The GNU C Library provides the most important standard libraries used by "
+"nearly all programs: the standard C library, the standard math library, and "
+"the POSIX thread library. A system is not functional without these libraries."
+msgstr ""
+
+#. summary(glibc:glibc-devel)
+msgid "Include Files and Libraries Mandatory for Development"
+msgstr ""
+
+#. description(glibc:glibc-devel)
+msgid ""
+"These libraries are needed to develop programs which use the standard C "
+"library."
+msgstr ""
+
+#. summary(glibc:glibc-extra)
+msgid "Extra binaries from GNU C Library"
+msgstr ""
+
+#. description(glibc:glibc-extra)
+msgid ""
+"The glibc-extra package contains some extra binaries for glibc that are not "
+"essential but recommend to use.\n"
+"\n"
+"makedb: A program to create a database for nss"
+msgstr ""
+
+#. summary(glibc:glibc-locale)
+msgid "Locale Data for Localized Programs"
+msgstr ""
+
+#. description(glibc:glibc-locale)
+msgid "Locale data for the internationalisation features of the GNU C library."
+msgstr ""
+
+#. summary(gnome-keyring)
+#, fuzzy
+msgid "GNOME Keyring"
+msgstr "GNOME 系统"
+
+#. description(gnome-keyring)
+msgid ""
+"The GNOME Keyring is a daemon in the session, similar to ssh-agent, and "
+"other applications can use it to store passwords and other sensitive "
+"information.\n"
+"\n"
+"The program can manage several keyrings, each with its own master password, "
+"and there is also a session keyring which is never stored to disk, but "
+"forgotten when the session ends."
+msgstr ""
+
+#. summary(gnome-keyring:gnome-keyring-pam)
+msgid "GNOME Keyring - PAM module"
+msgstr ""
+
+#. description(gnome-keyring:gnome-keyring-pam)
+msgid ""
+"The GNOME Keyring is a daemon in the session, similar to ssh-agent, and "
+"other applications can use it to store passwords and other sensitive "
+"information.\n"
+"\n"
+"The program can manage several keyrings, each with its own master password, "
+"and there is also a session keyring which is never stored to disk, but "
+"forgotten when the session ends.\n"
+"\n"
+"The PAM module can be used to unlock the keyring on login."
+msgstr ""
+
+#. summary(gpart)
+msgid "Tool That Can Guess a Lost Partition Table"
+msgstr ""
+
+#. description(gpart)
+msgid ""
+"Gpart is a small tool that tries to guess what partitions are on a PC type "
+"hard disk in case the primary partition table was damaged. Gpart supports, "
+"among others, partitions formatted as ext2, FAT 12/16/32, ReiserFS, NTFS, "
+"and HPFS. Read the file /usr/share/doc/packages/gpart/README and the gpart "
+"man page before using gpart."
+msgstr ""
+
+#. summary(gpg2)
+msgid "GnuPG 2"
+msgstr ""
+
+#. description(gpg2)
+msgid ""
+"GnuPG 2 is the successor of \"GnuPG\" or GPG. It provides: GPGSM, gpg-agent, "
+"and a keybox library."
+msgstr ""
+
+#. summary(gpm)
+msgid "Console Mouse Support"
+msgstr ""
+
+#. description(gpm)
+msgid ""
+"The gpm (general purpose mouse) daemon tries to be a useful mouse server for "
+"applications running on the Linux console. It can be used by mc (Midnight "
+"Commander) or by w3m, the text-based Web browser. It provides console cut "
+"and paste operations."
+msgstr ""
+
+#. summary(grep)
+msgid "Print lines matching a pattern"
+msgstr ""
+
+#. description(grep)
+msgid ""
+"The grep command searches one or more input files for lines containing a "
+"match to a specified pattern. By default, grep prints the matching lines."
+msgstr ""
+
+#. summary(groff)
+msgid "GNU troff Document Formatting System"
+msgstr ""
+
+#. description(groff)
+msgid ""
+"The groff package provides compatible versions of troff, nroff, eqn, tbl, "
+"and other Unix text formatting utilities.\n"
+"\n"
+"Groff is used to \"compile\" man pages stored in groff or nroff format for "
+"different output devices, for example, displaying to a screen or in "
+"PostScript(tm) format for printing on a PostScript(tm) printer. Most "
+"programs store their man pages in either /usr/share/man/ or /usr/X11R6/man/."
+msgstr ""
+
+#. summary(gxditview:groff-devx)
+msgid "X output devices for groff"
+msgstr ""
+
+#. description(gxditview:groff-devx)
+msgid ""
+"The output devices X75, X75-12, devX100 and devX100-12 for groff. They are "
+"in separate package because of bootstrapping issues."
+msgstr ""
+
+#. summary(grub)
+msgid "Grand Unified Boot Loader"
+msgstr ""
+
+#. description(grub)
+msgid ""
+"GNU GRUB is a multiboot boot loader. It was derived from GRUB. It is an "
+"attempt to produce a boot loader for IBM PC-compatible machines that has "
+"both the ability to be friendly to beginning or otherwise nontechnically "
+"interested users and the flexibility to help experts in diverse "
+"environments. It is compatible with Free/Net/OpenBSD and Linux. It supports "
+"Win 9x/NT and OS/2 via chainloaders. It has a menu interface and a command "
+"line interface."
+msgstr ""
+
+#. summary(grub2)
+msgid "Bootloader with support for Linux, Multiboot and more"
+msgstr ""
+
+#. description(grub2)
+msgid ""
+"This is the second version of the GRUB (Grand Unified Bootloader), a highly "
+"configurable and customizable bootloader with modular architecture.  It "
+"supports rich scale of kernel formats, file systems, computer architectures "
+"and hardware devices.\n"
+"\n"
+"PLEASE NOTE: This is a development snapshot, and as such will not replace "
+"grub if you install it, but will be merely added as another kernel to your "
+"existing GRUB menu. Do not replace GRUB (grub package) with it unless you "
+"know what are you doing. Refer to README.openSUSE file that is part of this "
+"package's documentation for more information."
+msgstr ""
+"这是 GRUB (大一统引导加载器 Grand Unified Bootloader) 的第二版，GRUB "
+"是一个高度可配置和可自定义的模块化引导加载器。它支持丰富的内核格式、文件系统、计算机架构和硬件设备。\n"
+"\n"
+"请注意：这是一个开发预览版，因此您安装它时不会替代 grub，而是像另一个内核一样被添加到您已有的 GRUB 菜单。如果您不知道您在做什么，请不要用它替换 "
+"GRUB (grub软件包)。详细信息参考此软件包文档中的 README.openSUSE。"
+
+#. summary(dconf:gsettings-backend-dconf)
+msgid "Simple key-based configuration system -- GSettings Backend"
+msgstr ""
+
+#. description(dconf:gsettings-backend-dconf)
+msgid ""
+"dconf is a low-level configuration system. Its main purpose is to provide a "
+"backend to GSettings on platforms that don't already have configuration "
+"storage systems.\n"
+"\n"
+"This package provides a GSettings backend that uses dconf to store the "
+"settings."
+msgstr ""
+
+#. summary(gsettings-desktop-schemas)
+#, fuzzy
+msgid "Shared GSettings Schemas for the Desktop"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. description(gsettings-desktop-schemas)
+msgid ""
+"A collection of GSettings schemas for settings shared by various components "
+"of a desktop."
+msgstr ""
+
+#. summary(gstreamer-0_10)
+msgid "Streaming-Media Framework Runtime"
+msgstr ""
+
+#. description(gstreamer-0_10)
+msgid ""
+"GStreamer is a streaming-media framework, based on graphs of filters which "
+"operate on media data. Applications using this library can do anything from "
+"real-time sound processing to playing videos, and just about anything else "
+"media-related.  Its plug-in-based architecture means that new data types or "
+"processing capabilities can be added by installing new plug-ins."
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-base)
+msgid "GStreamer Streaming-Media Framework Plug-Ins"
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-base)
+msgid ""
+"GStreamer is a streaming media framework based on graphs of filters that "
+"operate on media data. Applications using this library can do anything media-"
+"related, from real-time sound processing to playing videos. Its plug-in-"
+"based architecture means that new data types or processing capabilities can "
+"be added simply by installing new plug-ins."
+msgstr ""
+
+#. summary(gtk2:gtk2-immodule-amharic)
+msgid "The GTK+ toolkit library (version 2) -- Amharic Input Method"
+msgstr "GTK+ 工具箱库 (第二版) - 埃塞俄比亚阿姆哈拉语输入法"
+
+#. description(gtk2:gtk2-immodule-amharic)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides an input method for Amharic."
+msgstr ""
+"GTK+ 是一个用于创建图形用户界面的多平台工具箱。它提供了一系列完整的部件，GTK+ 适合从一次性小项目到完整的应用程序集合在内的多种项目。\n"
+"\n"
+"此软件包提供了埃塞俄比亚阿姆哈拉语输入法。"
+
+#. summary(gtk2:gtk2-immodule-inuktitut)
+msgid "The GTK+ toolkit library (version 2) -- Inuktitut Input Method"
+msgstr ""
+
+#. description(gtk2:gtk2-immodule-inuktitut)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides an input method for Inuktitut."
+msgstr ""
+
+#. summary(gtk2:gtk2-immodule-thai)
+msgid "The GTK+ toolkit library (version 2) -- Thai-Lao Input Method"
+msgstr ""
+
+#. description(gtk2:gtk2-immodule-thai)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides an input method for Thai-Lao."
+msgstr ""
+
+#. summary(gtk2:gtk2-immodule-vietnamese)
+msgid "The GTK+ toolkit library (version 2) -- Vietnamese Input Method"
+msgstr ""
+
+#. description(gtk2:gtk2-immodule-vietnamese)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides an input method for Vietnamese."
+msgstr ""
+
+#. summary(gtk2:gtk2-tools)
+msgid "The GTK+ toolkit library (version 2) -- Tools"
+msgstr ""
+
+#. description(gtk2:gtk2-tools)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites."
+msgstr ""
+
+#. summary(gtk3:gtk3-immodule-amharic)
+msgid "The GTK+ toolkit library (version 3) -- Amharic Input Method"
+msgstr ""
+
+#. summary(gtk3:gtk3-immodule-inuktitut)
+msgid "The GTK+ toolkit library (version 3) -- Inuktitut Input Method"
+msgstr ""
+
+#. summary(gtk3:gtk3-immodule-thai)
+msgid "The GTK+ toolkit library (version 3) -- Thai-Lao Input Method"
+msgstr ""
+
+#. summary(gtk3:gtk3-immodule-vietnamese)
+msgid "The GTK+ toolkit library (version 3) -- Vietnamese Input Method"
+msgstr ""
+
+#. summary(gtk3:gtk3-tools)
+msgid "The GTK+ toolkit library (version 3) -- Tools"
+msgstr ""
+
+#. summary(gxditview)
+msgid "Ditroff Output Displayer for Groff"
+msgstr ""
+
+#. description(gxditview)
+msgid ""
+"This version of xditview is called gxditview and has some extensions used by "
+"the groff command.  gxditview is used by groff if called with the -X option."
+msgstr ""
+
+#. summary(gzip)
+msgid "GNU Zip Compression Utilities"
+msgstr ""
+
+#. description(gzip)
+msgid ""
+"Gzip reduces the size of the named files using Lempel-Ziv coding LZ77. "
+"Whenever possible, each file is replaced by one with the extension .gz, "
+"while keeping the same ownership modes and access and modification times."
+msgstr ""
+
+#. summary(hdparm)
+msgid "A Program to get and set hard disk parameters"
+msgstr ""
+
+#. description(hdparm)
+msgid ""
+"A shell utility to access and tune the ioctl features of the Linux IDE "
+"driver and IDE drives."
+msgstr ""
+
+#. summary(hunspell)
+msgid "Hunspell - a spell checker and morphological analyzer library"
+msgstr ""
+
+#. description(hunspell)
+msgid ""
+"Hunspell is a spell checker and morphological analyzer library and program "
+"designed for languages with rich morphology and complex word compounding or "
+"character encoding. Hunspell interfaces: Ispell-like terminal interface "
+"using Curses library, Ispell pipe interface, LibreOffice or OpenOffice.org "
+"UNO module."
+msgstr ""
+
+#. summary(hunspell:hunspell-tools)
+msgid "Hunspell tools"
+msgstr ""
+
+#. description(hunspell:hunspell-tools)
+msgid "This package contains munch and unmunch programs."
+msgstr ""
+
+#. summary(hwinfo)
+msgid "Hardware Library"
+msgstr ""
+
+#. description(hwinfo)
+msgid ""
+"A simple program that lists results from the hardware detection library."
+msgstr ""
+
+#. summary(iceauth)
+msgid "Utility to edit and display the ICE authorization information"
+msgstr ""
+
+#. description(iceauth)
+msgid ""
+"The iceauth program is used to edit and display the authorization "
+"information used in connecting with ICE. It operates very much like the "
+"xauth program for X11 connection authentication records."
+msgstr ""
+
+#. summary(icewm)
+msgid "Window Manager with a Taskbar"
+msgstr ""
+
+#. description(icewm)
+msgid ""
+"A window manager for the X Window System that can emulate the look of "
+"Windows '95, OS/2 Warp 3, OS/2 Warp 4, and Motif and tries to take the best "
+"features from those systems. IceWM features multiple workspaces, opaque move "
+"and resize, a taskbar, a window list, mailbox status, and a digital clock. "
+"It is fast and small."
+msgstr ""
+
+#. summary(icewm-lite)
+msgid "IceWM Window Manager--Lite Version"
+msgstr ""
+
+#. description(icewm-lite)
+msgid ""
+"Window manager for the X Window System that can emulate the look of Windows "
+"95, OS/2 Warp 3,4, Motif. It tries to take the best features of the above "
+"systems. It features multiple workspaces, opaque move and resize. It is fast "
+"and small.\n"
+"\n"
+"The icewm-default package features a taskbar, window list, mailbox status "
+"and digital clock in addition to that."
+msgstr ""
+
+#. summary(ico)
+msgid "Simple animation program used for testing X11 operations and extensions"
+msgstr ""
+
+#. description(ico)
+msgid ""
+"ico is a simple animation program that may be used for testing various X11 "
+"operations and extensions. It displays a wire-frame rotating polyhedron, "
+"with hidden lines removed, or a solid-fill polyhedron with hidden faces "
+"removed."
+msgstr ""
+
+#. summary(ifplugd)
+msgid "Daemon Activating Network Interfaces on Cable Plug"
+msgstr ""
+
+#. description(ifplugd)
+msgid ""
+"ifplugd is a lightweight Linux daemon that configures the network "
+"automatically when a cable is plugged in and unconfigures it when the cable "
+"is pulled. It is primarily intended for use with laptops. It relies on the "
+"distribution's native network configuration subsystem, so is not very "
+"intrusive."
+msgstr ""
+
+#. summary(texinfo:info)
+msgid "A Stand-Alone Terminal-Based Info Browser"
+msgstr ""
+
+#. description(texinfo:info)
+msgid ""
+"Info is a terminal-based program for reading documentation of computer "
+"programs in the Info format. The GNU Project distributes most of its on-line "
+"manuals in the Info format, so you need a program called \"Info reader\" to "
+"read the manuals."
+msgstr ""
+
+#. summary(initviocons)
+msgid "Terminal Initialization, e.g. for the iSeries Virtual Console"
+msgstr ""
+
+#. description(initviocons)
+msgid ""
+"Initviocons can be used on the iSeries platform to recognize terminal "
+"features of a telnet client that is connected to the virtual console "
+"(similar to a serial console). It probes the terminal via escape sequences "
+"to find out the screen size and a suitable TERM type. It also does special "
+"initialization if possible (for example, carriage return suppression for "
+"Windows telnet clients). On the iSeries platform, it additionally checks for "
+"the presence of more than one terminal connected on the same line. See /etc/"
+"profile for a usage example."
+msgstr ""
+
+#. summary(input-utils)
+msgid "A Set of Utilities for Input Devices"
+msgstr "用于输入设备的一系列工具"
+
+#. description(input-utils)
+msgid ""
+"Utilities for input devices. It includes joystick testing and calibration, "
+"force feedback testing, and generic event tools."
+msgstr "用于输入设备的工具。包括游戏手柄测试和校准，强制反馈测试，和通用事件工具。"
+
+#. summary(insserv)
+msgid "A Program to Arrange Initialization Scripts"
+msgstr ""
+
+#. description(insserv)
+msgid ""
+"Insserv enables an installed system init script (boot script) by reading the "
+"comment header of the script and calculating the dependencies between all "
+"scripts."
+msgstr ""
+
+#. summary(intel-gpu-tools)
+msgid "Collection of tools for development and testing of the Intel DRM driver"
+msgstr ""
+
+#. description(intel-gpu-tools)
+msgid ""
+"This is a collection of tools for development and testing of the Intel DRM "
+"driver."
+msgstr ""
+
+#. summary(iproute2)
+#, fuzzy
+msgid "Linux network configuration utilities"
+msgstr "1.2 新的 Xgl 配置选项"
+
+#. description(iproute2)
+msgid ""
+"This package provides the tools ip, tc, and rtmon needed to use the new and "
+"advanced routing options of the Linux kernel. The SUSE Linux distribution "
+"has used this package for network setup since SuSE Linux 8.0."
+msgstr ""
+"此软件包提供了 ip、tc 和 rtmon 使用 Linux 内核的新型和高级路由选项所需的工具。SuSE Linux 发行版自 8.0 "
+"版起使用此软件包进行网络设置。"
+
+#. summary(iptables)
+#, fuzzy
+msgid "IP Packet Filter Administration utilities"
+msgstr "启动安装或更新"
+
+#. description(iptables)
+msgid ""
+"iptables is used to set up, maintain, and inspect the tables of IP packet "
+"filter rules in the Linux kernel. This version requires kernel 2.4.0 or "
+"newer."
+msgstr "iptables 用来设置、维护和向 Linux 内核中插入 IP 数据包过滤规则列表。此版本要求内核版本 2.4.0 或后续版本。"
+
+#. summary(iputils)
+msgid "IPv4 and IPv6 Networking Utilities"
+msgstr ""
+
+#. description(iputils)
+msgid ""
+"This package contains some small network tools for IPv4 and IPv6 like rdisc, "
+"ping6, traceroute6, tracepath, and tracepath6."
+msgstr ""
+
+#. summary(irda)
+msgid "Necessary Tools for Using the Infrared Port"
+msgstr ""
+
+#. description(irda)
+msgid ""
+"This package contains all necessary scripts and programs for setting up and "
+"using the infrared port for printing or communicating. The start and stop "
+"scripts are prepared to access the UART emulation ('SIR' mode) with 115 kbit/"
+"s data transfer rate. This is supported by most laptops with an infrared "
+"interface.\n"
+"\n"
+"After starting the infrared protocol manager 'irmanger' with the command "
+"'rcirda start', you can send data to your printer using the device file /dev/"
+"irlpt0. If you like to talk to other computers with infrared interface or to "
+"a mobile phone, you can use the serial emulation provided by the device "
+"file /dev/ircomm0.\n"
+"\n"
+"Take a look at the README file located in /usr/share/doc/packages/irda/"
+"README and the IRDA HOWTO in /usr/share/doc/howto/en/IR-HOWTO.gz. If the "
+"infrared port on your laptop is located on an IO or IRQ address other than "
+"IO address 0x2f8 (/dev/ttyS1) or interrupt 3, you should use YaST to change "
+"the variables IRDA_PORT and IRDA_IRQ in the configuration file /etc/rc."
+"config."
+msgstr ""
+
+#. summary(iw)
+msgid "Configuration utility for nl80211 based wireless drivers"
+msgstr ""
+
+#. description(iw)
+msgid ""
+"iw is a nl80211 based CLI configuration utility for wireless devices. It "
+"supports almost all new drivers that have been added to the kernel recently."
+msgstr "iw 是一个给予 nl80211 的无线设备命令行配置工具。它支持几乎所有近期被加入到内核中的新驱动。"
+
+#. summary(jfsutils)
+msgid "IBM JFS Utility Programs"
+msgstr ""
+
+#. description(jfsutils)
+msgid ""
+"This package contains utilities for managing IBM's Journaled File System "
+"(JFS) under Linux.  The following utilities are available:\n"
+"\n"
+"o fsck.jfs--initiate replay of the JFS transaction log and check and repair "
+"a JFS formatted device o logdump--dump a JFS formatted device's journal log "
+"o logredo--replay a JFS formatted device's journal log o mkfs.jfs--create a "
+"JFS formatted partition o xchkdmp--dump the contents of a JFS fsck log file "
+"created with xchklog o xchklog--extract a log from the JFS fsck workspace "
+"into a file o xpeek--shell-type JFS file system editor"
+msgstr ""
+
+#. summary(kbd)
+msgid "Keyboard and Font Utilities"
+msgstr ""
+
+#. description(kbd)
+msgid ""
+"Load and save keyboard mappings. This is needed if you are not using the US "
+"keyboard map. This package also contains utilities for changing your console "
+"fonts. If you install this package, YaST includes an extra menu to allow you "
+"to choose between the different fonts. This package also includes fonts from "
+"the kbd_fonts.tar.gz package (by Paul Gortmaker) on Sunsite."
+msgstr ""
+
+#. summary(kernel-default)
+msgid "The Standard Kernel"
+msgstr "标准内核"
+
+#. description(kernel-default)
+msgid ""
+"The standard kernel for both uniprocessor and multiprocessor systems.\n"
+"\n"
+" Source Timestamp: 2012-05-09 16:46:42 +0200 GIT Revision: "
+"1f260fb273a5662350fd0682fc76a409d6421c02 GIT Branch: master"
+msgstr ""
+"支持单核心和多核心系统的标准内核。\n"
+"\n"
+"源代码时间线: 2012-05-09 16:46:42 +0200 GIT 修订："
+"1f260fb273a5662350fd0682fc76a409d6421c02 GIT 分支：主分支"
+
+#. summary(keyutils)
+msgid "Linux Key Management Utilities"
+msgstr ""
+
+#. description(keyutils)
+msgid ""
+"Utilities to control the kernel key management facility and to provide a "
+"mechanism by which the kernel can call back to user space to get a key "
+"instantiated."
+msgstr "用来控制内核键管理设施和提供内核调用用户空间以获取键实例的机制的工具。"
+
+#. summary(syslogd:klogd)
+msgid "The kernel log daemon"
+msgstr "内核日志记录守护精灵"
+
+#. description(syslogd:klogd)
+msgid ""
+"The klogd daemon 'listens' to kernel log messages, prioritizes them, and "
+"routes them to either output files or to syslog daemon.\n"
+"\n"
+"This version of klogd will optionally translate kernel addresses to their "
+"symbolic equivalents if provided with a system map."
+msgstr ""
+"klogd 守护精灵监听内核日志消息，为它们指派优先级，并调度它们到输出文件或 syslog 守护精灵。\n"
+"\n"
+"此版本的 klogd 如果有系统地图的话会翻译内核地址为它们的符号等价。"
+
+#. summary(multipath-tools:kpartx)
+msgid "Manages partition tables on device-mapper devices"
+msgstr ""
+
+#. description(multipath-tools:kpartx)
+msgid ""
+"The kpartx program maps linear devmaps to device partitions, which makes "
+"multipath maps partionable."
+msgstr ""
+
+#. summary(krb5)
+msgid "MIT Kerberos5 Implementation--Libraries"
+msgstr ""
+
+#. description(krb5)
+msgid ""
+"Kerberos V5 is a trusted-third-party network authentication system, which "
+"can improve your network's security by eliminating the insecure practice of "
+"clear text passwords."
+msgstr ""
+
+#. summary(krb5:krb5-client)
+msgid "MIT Kerberos5 implementation - client programs"
+msgstr ""
+
+#. description(krb5:krb5-client)
+msgid ""
+"Kerberos V5 is a trusted-third-party network authentication system, which "
+"can improve your network's security by eliminating the insecure practice of "
+"cleartext passwords. This package includes some required client programs, "
+"like kinit, kadmin, ..."
+msgstr ""
+
+#. summary(lbxproxy)
+msgid "Low BandWidth X proxy"
+msgstr ""
+
+#. description(lbxproxy)
+msgid ""
+"Applications that would like to take advantage of the Low Bandwidth "
+"extension to X (LBX) must make their connections to an lbxproxy. These "
+"applications need to know nothing about LBX, they simply connect to the "
+"lbxproxy as if were a regular server. The lbxproxy accepts client "
+"connections, multiplexes them over a single connection to the X server, and "
+"performs various optimizations on the X protocol to make it faster over low "
+"bandwidth and/or high latency connections."
+msgstr ""
+
+#. summary(less)
+msgid "Text File Browser and Pager Similar to more"
+msgstr ""
+
+#. description(less)
+msgid ""
+"less is a text file browser and pager similar to more. It allows backward as "
+"well as forward movement within a file. Also, less does not have to read the "
+"entire input file before starting. It is possible to start an editor at any "
+"time from within less."
+msgstr ""
+"less 是类似 more 的文本文件浏览器和分页器。它允许在一个文件中前后移动。less 在开始前也不需要读取整个输入文件。在 less "
+"中任何时候都可以启动一个编辑器。"
+
+#. summary(flac:libFLAC8)
+msgid "Free Lossless Audio Codec Library"
+msgstr ""
+
+#. description(flac:libFLAC8)
+msgid ""
+"This package contains the library for FLAC (Free Lossless Audio Codec) "
+"developed by Josh Coalson."
+msgstr ""
+
+#. summary(libFS:libFS6)
+#, fuzzy
+msgid "X Font Service client library"
+msgstr "GNOME 开发"
+
+#. description(libFS:libFS6)
+msgid ""
+"This library is used by clients of X Font Servers (xfs), such as xfsinfo, "
+"xfslsfonts, and the X servers themselves."
+msgstr ""
+
+#. summary(libHX:libHX28)
+msgid "Useful collection of routines for C and C++ programming"
+msgstr ""
+
+#. description(libHX:libHX28)
+msgid ""
+"libHX is a C library (with some C++ bindings available) that provides data "
+"structures and functions commonly needed, such as maps, deques, linked "
+"lists, string formatting and autoresizing, option and config file parsing, "
+"type checking casts and more.\n"
+"\n"
+"libHX aids in quickly writing up C and C++ data processing programs, by "
+"consolidating tasks that often happen to be open-coded, such as (simple) "
+"config file reading, option parsing, directory traversal, and others, into a "
+"library. The focus is on reducing the amount of time (and secondarily, the "
+"amount of code) a developer has to spend for otherwise implementing such."
+msgstr ""
+
+#. summary(libICE:libICE6)
+msgid "X11 Inter-Client Exchange Library"
+msgstr ""
+
+#. description(libICE:libICE6)
+msgid ""
+"The Inter-Client Exchange (ICE) protocol is intended to provide a framework "
+"for building such protocols, allowing them to make use of common negotiation "
+"mechanisms and to be multiplexed over a single transport connection."
+msgstr ""
+
+#. summary(openexr:libIlmImf6)
+msgid "Library to Handle EXR Pictures in 16-Bit Floating-Point Format"
+msgstr ""
+
+#. description(openexr:libIlmImf6)
+msgid ""
+"OpenEXR is a high dynamic-range (HDR) image file format developed by "
+"Industrial Light & Magic for use in computer imaging applications.\n"
+"\n"
+"This package contains libIlmImf.so.6"
+msgstr ""
+
+#. summary(SDL:libSDL-1_2-0)
+msgid "Simple DirectMedia Layer Library"
+msgstr ""
+
+#. description(SDL:libSDL-1_2-0)
+msgid ""
+"This is the \"Simple DirectMedia Layer\" library. It provides a generic API "
+"for access to audio, keyboard, mouse, and display framebuffer across "
+"multiple platforms."
+msgstr ""
+
+#. summary(libSM:libSM6)
+#, fuzzy
+msgid "X Session Management library"
+msgstr "编目管理"
+
+#. description(libSM:libSM6)
+msgid ""
+"The X Session Management Protocol provides a uniform mechanism for users to "
+"save and restore their sessions. A session is a group of X clients "
+"(programs), each of which has a particular state. The session is controlled "
+"by a network service called the session manager, which issues commands to "
+"its clients on behalf of the user. These commands may cause clients to save "
+"their state or to terminate. It is expected that the client will save its "
+"state in such a way that the client can be restarted at a later time and "
+"resume its operation as if it had never been terminated."
+msgstr ""
+
+#. summary(libX11:libX11-6)
+msgid "Core X11 protocol client library"
+msgstr ""
+
+#. description(libX11:libX11-6)
+msgid ""
+"The X Window System is a network-transparent window system that was designed "
+"at MIT. X display servers run on computers with either monochrome or color "
+"bitmap display hardware. The server distributes user input to and accepts "
+"output requests from various client programs located either on the same "
+"machine or elsewhere in the network. Xlib is a C subroutine library that "
+"application programs (clients) use to interface with the window system by "
+"means of a stream connection."
+msgstr ""
+
+#. summary(libX11:libX11-devel)
+#, fuzzy
+msgid "Development files for the Core X11 protocol library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(libX11:libX11-devel)
+msgid ""
+"The X Window System is a network-transparent window system that was designed "
+"at MIT. X display servers run on computers with either monochrome or color "
+"bitmap display hardware. The server distributes user input to and accepts "
+"output requests from various client programs located either on the same "
+"machine or elsewhere in the network. Xlib is a C subroutine library that "
+"application programs (clients) use to interface with the window system by "
+"means of a stream connection.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libX11-6 and libX11-xcb1."
+msgstr ""
+
+#. summary(libX11:libX11-xcb1)
+msgid "XCB X11 protocol client library"
+msgstr ""
+
+#. summary(libXau:libXau6)
+#, fuzzy
+msgid "X11 authorization protocol library"
+msgstr "授权对话框"
+
+#. description(libXau:libXau6)
+msgid ""
+"libXau provides mechanisms for individual access to an X Window System "
+"display. It uses existing core protocol and library hooks for specifying "
+"authorization data in the connection setup block to restrict use of the "
+"display to only those clients that show that they know a server-specific key "
+"called a \"magic cookie\"."
+msgstr ""
+
+#. summary(aalib:libaa1)
+msgid "An ASCII Art Library"
+msgstr ""
+
+#. description(aalib:libaa1)
+msgid ""
+"AA-lib is a low level gfx library. AA-lib does not require a graphics "
+"device. In fact, there is no graphical output possible. AA-lib replaces old-"
+"fashioned output methods with a powerful ASCII art renderer."
+msgstr ""
+
+#. summary(acl:libacl1)
+msgid "A dynamic library for accessing POSIX Access Control Lists"
+msgstr ""
+
+#. description(acl:libacl1)
+msgid ""
+"This package contains the libacl.so dynamic library which contains the POSIX "
+"1003.1e draft standard 17 functions for manipulating access control lists."
+msgstr ""
+
+#. summary(adns:libadns1)
+msgid "Advanced DNS resolver client library"
+msgstr ""
+
+#. description(adns:libadns1)
+msgid ""
+"Libadns is an advanced, easy to use, asynchronous-capable DNS resolver "
+"client library for C (and C++) programs."
+msgstr ""
+
+#. summary(libaio:libaio1)
+msgid "Linux-Native Asynchronous I/O Access Library"
+msgstr ""
+
+#. description(libaio:libaio1)
+msgid ""
+"The Linux-native asynchronous I/O facility (\"async I/O\", or \"aio\") has a "
+"richer API and capability set than the simple POSIX async I/O facility. This "
+"library provides the Linux-native API for async I/O. The POSIX async I/O "
+"facility requires this library to provide kernel-accelerated async I/O "
+"capabilities, as do applications that require the Linux-native async I/O API."
+msgstr ""
+
+#. summary(libao:libao-plugins4)
+msgid "Main output plugins for libao"
+msgstr ""
+
+#. description(libao:libao-plugins4)
+#, fuzzy
+msgid "This package contains the main output plugins for libao."
+msgstr "包中含有意外的版本"
+
+#. summary(libao:libao4)
+msgid "A Cross-Platform Audio Output Library"
+msgstr ""
+
+#. description(libao:libao4)
+msgid ""
+"Libao is a cross-platform audio output library.  It currently supports ESD, "
+"OSS, Solaris, and IRIX."
+msgstr ""
+
+#. summary(libarchive:libarchive2)
+msgid "Library to work with several different streaming archive formats"
+msgstr ""
+
+#. description(libarchive:libarchive2)
+msgid ""
+"Libarchive is a programming library that can create and read several "
+"different streaming archive formats, including most popular tar variants and "
+"several cpio formats. It can also write shar archives and read ISO9660 CDROM "
+"images. The bsdtar program is an implementation of tar(1) that is built on "
+"top of libarchive. It started as a test harness, but has grown and is now "
+"the standard system tar for FreeBSD 5 and 6.\n"
+"\n"
+"The libarchive library offers a number of features that make it both very "
+"flexible and very powerful.\n"
+"\n"
+"- Automatic format detection: libarchive can automatically determine    both "
+"the compression and the archive format, regardless of the    data source. "
+"Most tar implementations do not automatically detect    the compression "
+"format, few implementation that can correctly do    this when reading from "
+"stdin or a socket. (The tar program    included with Gunnar Ritter's "
+"heirloom collection also does full    automatic format detection.)\n"
+"\n"
+"- Writes POSIX formats: libarchive writes POSIX-standard formats,    "
+"including \"ustar,\" \"pax interchange format,\" and the POSIX \"cpio\"    "
+"format.\n"
+"\n"
+"- Supports pax interchange format: Pax interchange format (which,    despite "
+"the name, is really an extended tar format) eliminates    almost all "
+"limitations of historic tar formats and provides a    standard method for "
+"incorporating vendor-specific extensions.    libarchive exploits this "
+"extension mechanism to support ACLs and    file flags, for example. (Joerg "
+"Schilling's star archiver is    another open-source tar program that "
+"supports pax interchange    format.)\n"
+"\n"
+"- Reads popular formats: libarchive can read GNU tar, ustar, pax    "
+"interchange format, cpio, and older tar variants. The internal    "
+"architecture is easily extensible. The only requirement for    support is "
+"that it be possible to read the format without seeking    in the file. (For "
+"example, a format that includes a compressed    size field before the data "
+"cannot be correctly written without    seeking.)\n"
+"\n"
+"- High-Level API: the libarchive API makes it fairly simple to build    an "
+"archive from a list of filenames or to extract the entries    from an "
+"archive. However, the API also provides extreme    flexibility with regards "
+"to data sources. For example, there are    generic hooks that allow you to "
+"write an archive to a socket or    read data from an archive entry into a "
+"memory buffer.\n"
+"\n"
+"- Extensible. The internal design uses generic interfaces for compression, "
+"archive format detection and decoding, and archive data I/O. It should be "
+"very easy to add new formats, new compression methods, or new ways of "
+"reading/writing archives."
+msgstr ""
+
+#. summary(elfutils:libasm1)
+msgid "A collection of utilities and DSOs to handle compiled objects"
+msgstr ""
+
+#. description(elfutils:libasm1)
+msgid ""
+"Elfutils is a collection of utilities, including ld (a linker), nm (for "
+"listing symbols from object files), size (for listing the section sizes of "
+"an object or archive file), strip (for discarding symbols), readline (the "
+"see the raw ELF file structures), and elflint (to check for well-formed ELF "
+"files).  Also included are numerous helper libraries which implement DWARF, "
+"ELF, and machine-specific ELF handling."
+msgstr ""
+
+#. summary(alsa:libasound2)
+msgid "Advanced Linux Sound Architecture Library"
+msgstr ""
+
+#. description(alsa:libasound2)
+msgid ""
+"This package contains the library for ALSA, Advanced Linux Sound "
+"Architecture."
+msgstr ""
+
+#. summary(aspell:libaspell15)
+#, fuzzy
+msgid "GNU Aspell Library"
+msgstr "性能"
+
+#. description(aspell:libaspell15)
+msgid ""
+"GNU Aspell is a spell checker designed to eventually replace Ispell. It can "
+"be used as a library or as an independent spell checker.\n"
+"\n"
+"This package contains the aspell library."
+msgstr ""
+
+#. summary(libassuan:libassuan0)
+msgid "IPC library used by GnuPG version 2"
+msgstr ""
+
+#. description(libassuan:libassuan0)
+msgid "Libassuan is the IPC library used by gpg2 (GnuPG version 2)"
+msgstr ""
+
+#. summary(libatasmart:libatasmart4)
+msgid "ATA S.M.A.R.T. Disk Health Monitoring Library"
+msgstr ""
+
+#. description(libatasmart:libatasmart4)
+msgid ""
+"A small and lightweight parser library for ATA S.M.A.R.T. hard disk health "
+"monitoring."
+msgstr ""
+
+#. summary(atk:libatk-1_0-0)
+msgid "An Accessibility ToolKit"
+msgstr ""
+
+#. description(atk:libatk-1_0-0)
+msgid ""
+"The ATK library provides a set of accessibility interfaces. By supporting "
+"the ATK interfaces, an application or toolkit can be used with screen "
+"readers, magnifiers, and alternate input devices."
+msgstr ""
+
+#. summary(linux-atm:libatm1)
+#, fuzzy
+msgid "Libraries for ATM"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(linux-atm:libatm1)
+msgid "Libraries for ATM (Asynchronous Transfer Mode) networking."
+msgstr ""
+
+#. summary(attr:libattr1)
+msgid "A dynamic library for filesystem extended attribute support"
+msgstr ""
+
+#. description(attr:libattr1)
+msgid ""
+"This package contains the libattr.so dynamic library, which contains the "
+"extended attribute library functions."
+msgstr ""
+
+#. summary(audit:libaudit1)
+msgid "Dynamic library for libaudit"
+msgstr ""
+
+#. description(audit:libaudit1)
+msgid ""
+"The libaudit package contains the dynamic libraries needed for applications "
+"to use the audit framework."
+msgstr ""
+
+#. summary(augeas:libaugeas0)
+msgid "A library for changing configuration files"
+msgstr ""
+
+#. description(augeas:libaugeas0)
+msgid ""
+"A library for programmatically editing configuration files. Augeas parses "
+"configuration files into a tree structure, which it exposes through its "
+"public API. Changes made through the API are written back to the initially "
+"read files.\n"
+"\n"
+"The transformation works very hard to preserve comments and formatting "
+"details. It is controlled by ``lens'' definitions that describe the file "
+"format and the transformation into a tree."
+msgstr ""
+
+#. summary(babl:libbabl-0_1-0)
+msgid "Dynamic Pixel Format Translation Library"
+msgstr ""
+
+#. description(babl:libbabl-0_1-0)
+msgid ""
+"babl is a dynamic, any to any, pixel format translation library.\n"
+"\n"
+"It allows converting between different methods of storing pixels known as "
+"pixel formats that have with different bitdepths and other data "
+"representations, color models and component permutations.\n"
+"\n"
+"A vocabulary to formulate new pixel formats from existing primitives is "
+"provided as well as the framework to add new color models and data types."
+msgstr ""
+
+#. summary(util-linux:libblkid1)
+msgid "Filesystem detection library"
+msgstr ""
+
+#. description(util-linux:libblkid1)
+msgid "Library for filesystem detection."
+msgstr ""
+
+#. summary(blocxx:libblocxx6)
+msgid "BloCXX--C++ Framework for Application Development"
+msgstr ""
+
+#. description(blocxx:libblocxx6)
+msgid ""
+"BloCXX is a general C++ framework for application development. This package "
+"contains the BloCXX library."
+msgstr ""
+
+#. summary(bluez:libbluetooth3)
+msgid "Bluetooth Libraries"
+msgstr ""
+
+#. description(bluez:libbluetooth3)
+msgid "Bluetooth protocol stack libraries."
+msgstr ""
+
+#. summary(bzip2:libbz2-1)
+msgid "The bzip2 runtime library"
+msgstr ""
+
+#. summary(cairo:libcairo-gobject2)
+msgid "Vector Graphics Library with Cross-Device Output Support"
+msgstr ""
+
+#. description(cairo:libcairo-gobject2)
+msgid ""
+"Cairo is a vector graphics library with cross-device output support. "
+"Currently supported output targets include the X Window System, in-memory "
+"image buffers, and PostScript. Cairo is designed to produce identical output "
+"on all output media while taking advantage of display hardware acceleration "
+"when available.\n"
+"\n"
+"This library contains GType declarations for Cairo types. It is also meant "
+"to support gobject-introspection binding creation."
+msgstr ""
+
+#. description(cairo:libcairo2)
+msgid ""
+"Cairo is a vector graphics library with cross-device output support. "
+"Currently supported output targets include the X Window System, in-memory "
+"image buffers, and PostScript. Cairo is designed to produce identical output "
+"on all output media while taking advantage of display hardware acceleration "
+"when available."
+msgstr ""
+
+#. summary(libcanberra:libcanberra-gtk-module-common)
+msgid "Portable sound event library -- Common Files for GTK+ Modules"
+msgstr ""
+
+#. description(libcanberra:libcanberra-gtk-module-common)
+msgid ""
+"libcanberra is an implementation of the XDG Sound Theme and Name "
+"Specifications, for generating event sounds on free desktops, such as GNOME. "
+"It comes with several backends (ALSA, PulseAudio, null) and is designed to "
+"be portable.\n"
+"\n"
+"This package contains files common to both the GTK+ 2 and GTK+ 3 modules."
+msgstr ""
+
+#. summary(libcanberra:libcanberra-gtk0)
+msgid "Portable sound event library -- GTK+ 2 Library"
+msgstr ""
+
+#. description(libcanberra:libcanberra-gtk0)
+msgid ""
+"libcanberra is an implementation of the XDG Sound Theme and Name "
+"Specifications, for generating event sounds on free desktops, such as GNOME. "
+"It comes with several backends (ALSA, PulseAudio, null) and is designed to "
+"be portable.\n"
+"\n"
+"This package contains a library to make it easier to use libcanberra from GTK"
+"+ 2 applications."
+msgstr ""
+
+#. summary(libcanberra:libcanberra-gtk2-module)
+msgid "Portable sound event library -- GTK+ 2 Module"
+msgstr ""
+
+#. description(libcanberra:libcanberra-gtk2-module)
+msgid ""
+"libcanberra is an implementation of the XDG Sound Theme and Name "
+"Specifications, for generating event sounds on free desktops, such as GNOME. "
+"It comes with several backends (ALSA, PulseAudio, null) and is designed to "
+"be portable.\n"
+"\n"
+"This package contains a GTK+ 2 module that triggers input feedback event "
+"sounds."
+msgstr ""
+
+#. summary(libcanberra:libcanberra-gtk3-0)
+msgid "Portable sound event library -- GTK+ 3 Library"
+msgstr ""
+
+#. description(libcanberra:libcanberra-gtk3-0)
+msgid ""
+"libcanberra is an implementation of the XDG Sound Theme and Name "
+"Specifications, for generating event sounds on free desktops, such as GNOME. "
+"It comes with several backends (ALSA, PulseAudio, null) and is designed to "
+"be portable.\n"
+"\n"
+"This package contains a library to make it easier to use libcanberra from GTK"
+"+ 3 applications."
+msgstr ""
+
+#. summary(libcanberra:libcanberra-gtk3-module)
+msgid "Portable sound event library -- GTK+ 3 Module"
+msgstr ""
+
+#. description(libcanberra:libcanberra-gtk3-module)
+msgid ""
+"libcanberra is an implementation of the XDG Sound Theme and Name "
+"Specifications, for generating event sounds on free desktops, such as GNOME. "
+"It comes with several backends (ALSA, PulseAudio, null) and is designed to "
+"be portable.\n"
+"\n"
+"This package contains a GTK+ 3 module that triggers input feedback event "
+"sounds."
+msgstr ""
+
+#. summary(libcanberra:libcanberra0)
+msgid "Portable sound event library"
+msgstr ""
+
+#. description(libcanberra:libcanberra0)
+msgid ""
+"libcanberra is an implementation of the XDG Sound Theme and Name "
+"Specifications, for generating event sounds on free desktops, such as GNOME. "
+"It comes with several backends (ALSA, PulseAudio, null) and is designed to "
+"be portable.\n"
+"\n"
+"This package contains the main library."
+msgstr ""
+
+#. summary(libcap-ng:libcap-ng0)
+msgid "An alternate POSIX capabilities library"
+msgstr ""
+
+#. description(libcap-ng:libcap-ng0)
+msgid "Libcap-ng is a library that makes using posix capabilities easier"
+msgstr ""
+
+#. summary(libcap:libcap2)
+msgid "Library for Capabilities (linux-privs) Support"
+msgstr ""
+
+#. description(libcap:libcap2)
+msgid ""
+"Capabilities are a measure to limit the omnipotence of the superuser. "
+"Currently a program started by root or setuid root has the power to do "
+"anything. Capabilities (Linux-Privs) provide a more fine-grained access "
+"control. Without kernel patches, you can use this library to drop "
+"capabilities within setuid binaries. If you use patches, this can be done "
+"automatically by the kernel."
+msgstr ""
+
+#. summary(libcares2)
+msgid "Library for asynchronous name resolves"
+msgstr ""
+
+#. description(libcares2)
+msgid ""
+"c-ares is a C library that performs DNS requests and name resolves "
+"asynchronously. c-ares is a fork of the library named 'ares', written by "
+"Greg Hudson at MIT."
+msgstr ""
+
+#. summary(cdparanoia:libcdda_interface0)
+msgid ""
+"Extracting, Verifying, and Fixing Audio Tracks from CDs - runtime library"
+msgstr ""
+
+#. description(cdparanoia:libcdda_interface0)
+msgid ""
+"This CDDA reader distribution ('cdparanoia') reads audio from the CD-ROM "
+"directly as data and writes the data to a file or pipe as .wav, .aifc, or "
+"raw 16-bit linear PCM.\n"
+"\n"
+"This is a beta release. See http://www.xiph.org/paranoia/."
+msgstr ""
+
+#. summary(libcdio:libcdio12)
+msgid "CD-ROM Access Library"
+msgstr ""
+
+#. description(libcdio:libcdio12)
+msgid ""
+"This library encapsulates CD-ROM reading and control. Applications wanting "
+"to be oblivious to the OS and device-dependent properties of a CD-ROM can "
+"use this library."
+msgstr ""
+
+#. summary(celt:libcelt0-2)
+msgid "Ultra-Low Delay Audio Codec"
+msgstr ""
+
+#. description(celt:libcelt0-2)
+msgid ""
+"The CELT codec is an experimental audio codec for use in low-delay speech "
+"and audio communication."
+msgstr ""
+
+#. summary(cloog:libcloog0)
+msgid "The CLOOG shared library"
+msgstr ""
+
+#. description(cloog:libcloog0)
+msgid "The shared library for the Chunky Loop Generator."
+msgstr ""
+
+#. summary(ding-libs:libcollection2)
+msgid "Collection data-type for C"
+msgstr ""
+
+#. description(ding-libs:libcollection2)
+msgid ""
+"A data-type to collect data in a hierarchical structure for easy iteration "
+"and serialization"
+msgstr ""
+
+#. summary(colord:libcolord1)
+msgid "System Daemon for Managing Color Devices -- Library"
+msgstr ""
+
+#. description(colord:libcolord1)
+msgid ""
+"colord is a system activated daemon that maps devices to color profiles. It "
+"is used by gnome-color-manager for system integration and use when there are "
+"no users logged in."
+msgstr ""
+
+#. summary(e2fsprogs:libcom_err2)
+msgid "E2fsprogs error reporting library"
+msgstr ""
+
+#. description(e2fsprogs:libcom_err2)
+msgid "com_err is an error message display library."
+msgstr ""
+
+#. summary(libcroco:libcroco-0_6-3)
+msgid "CSS2 Parser Library"
+msgstr ""
+
+#. description(libcroco:libcroco-0_6-3)
+msgid ""
+"Libcroco is a stand-alone CSS2 parsing library. It provides a low-level "
+"event-driven SAC-like API and a CSS object model-like API."
+msgstr ""
+
+#. summary(pam_mount:libcryptmount0)
+msgid "Library to mount crypto images and handle key files"
+msgstr ""
+
+#. description(pam_mount:libcryptmount0)
+msgid ""
+"libcryptmount takes care of the many steps involved in making a crypto image "
+"(file) available as a mountable block device, including supplemental key "
+"file decryption, loop device setup and crypto device setup. It supports "
+"pam_mount style plain EHD2/OpenSSL images and LUKS and transparent use of "
+"the OS's crypto layer."
+msgstr ""
+
+#. summary(curl:libcurl4)
+msgid "Version 4 of cURL shared library"
+msgstr ""
+
+#. description(curl:libcurl4)
+msgid ""
+"The cURL shared library version 4 for accessing data using different network "
+"protocols."
+msgstr ""
+
+#. summary(libdaemon:libdaemon0)
+msgid "Lightweight C library That Eases the Writing of UNIX Daemons"
+msgstr ""
+
+#. description(libdaemon:libdaemon0)
+msgid ""
+"libdaemon is a lightweight C library that eases the writing of UNIX daemons."
+msgstr ""
+
+#. summary(libdb-4_8)
+#, fuzzy
+msgid "Berkeley DB Database Library Version 4.8"
+msgstr "数据库已为版本 1.1"
+
+#. description(libdb-4_8)
+msgid ""
+"The Berkeley DB Database is a programmatic toolkit that provides database "
+"support for applications.\n"
+"\n"
+"This package contains the necessary runtime libraries."
+msgstr ""
+
+#. summary(dbus-1:libdbus-1-3)
+msgid "Library package for D-Bus"
+msgstr ""
+
+#. summary(dconf:libdconf0)
+#, fuzzy
+msgid "Simple key-based configuration system -- Library"
+msgstr "YaST2 配置模块"
+
+#. summary(ding-libs:libdhash1)
+msgid "Dynamic hash table"
+msgstr ""
+
+#. description(ding-libs:libdhash1)
+msgid ""
+"A hash table which will dynamically resize to achieve optimal storage & "
+"access time properties"
+msgstr ""
+
+#. summary(libdiscid:libdiscid0)
+msgid "Library for creating MusicBrainz DiscIDs from audio CDs"
+msgstr ""
+
+#. description(libdiscid:libdiscid0)
+msgid ""
+"libdiscid is a C library for creating MusicBrainz DiscIDs from audio CDs. It "
+"reads a CD's table of contents (TOC) and generates an identifier which can "
+"be used to lookup the CD at MusicBrainz. Additionally, it provides a "
+"submission URL for adding the DiscID to the database.\n"
+"\n"
+"The interface of this library is new, but the DiscID algorithm and the "
+"operating system dependent CD-ROM/DVD-ROM access code have been ported from "
+"libmusicbrainz version 2. For more info about the interface read the [WWW] "
+"API documentation."
+msgstr ""
+
+#. summary(djvulibre:libdjvulibre21)
+msgid "Libraries of Open Source Implementation of DjVu - djvulibre"
+msgstr ""
+
+#. description(djvulibre:libdjvulibre21)
+msgid "Libraries of Open Source Implementation of DjVu - djvulibre."
+msgstr ""
+
+#. summary(libdmx:libdmx1)
+msgid "Distributed Multihead X extension library"
+msgstr ""
+
+#. description(libdmx:libdmx1)
+msgid ""
+"libdmx is an interface to the DMX extension for X, which allows a single "
+"server to be set up as a proxy spanning multiple servers -- not unlike "
+"Xinerama across discrete physical machines. It can be reconfigured on the "
+"fly to change the layout, and it is presented as a single logical display to "
+"clients.\n"
+"\n"
+"libdmx allows clients to configure the layout of DMX servers by adding and "
+"removing screens, input devices, et al."
+msgstr ""
+
+#. summary(libdrm:libdrm2)
+msgid "Userspace Interface for Kernel DRM Services"
+msgstr ""
+
+#. description(libdrm:libdrm2)
+msgid ""
+"libdrm is a library for accessing the Direct Rendering Manager on Linux, BSD "
+"and other operating systes that support the ioctl interface, and for "
+"chipsets with DRM memory manager, support for tracking relocations and "
+"buffers. libdrm is a low-level library, typically used by graphics drivers "
+"such as the Mesa DRI and X drivers."
+msgstr ""
+
+#. summary(libdrm:libdrm_intel1)
+msgid "Userspace interface for Kernel DRM services for Intel chips"
+msgstr ""
+
+#. description(libdrm:libdrm_intel1)
+msgid "(Upstream has not provided a description)"
+msgstr ""
+
+#. summary(libdrm:libdrm_nouveau1)
+msgid "Userspace interface for Kernel DRM services for NVIDIA chips"
+msgstr ""
+
+#. summary(libdrm:libdrm_radeon1)
+msgid "Userspace interface for Kernel DRM services for AMD Radeon chips"
+msgstr ""
+
+#. summary(libdvdread:libdvdread4)
+msgid "Library for Reading DVD Video Images"
+msgstr ""
+
+#. description(libdvdread:libdvdread4)
+msgid ""
+"This package contains shared libraries for accessing DVD images (this "
+"package does not contain DeCSS algorithms)."
+msgstr ""
+
+#. summary(elfutils:libdw1)
+msgid "Library to access DWARF debugging information"
+msgstr ""
+
+#. description(elfutils:libdw1)
+msgid ""
+"This package provides a high-level library to access the DWARF debugging "
+"information.  This is a part of elfutils package."
+msgstr ""
+
+#. summary(libedit:libedit0)
+msgid "Command Line Editing and History Library"
+msgstr ""
+
+#. description(libedit:libedit0)
+msgid ""
+"libedit is a command line editing and history library. It is designed to be "
+"used by interactive programs that allow the user to type commands at a "
+"terminal prompt."
+msgstr ""
+
+#. summary(libelf0)
+msgid "An ELF Object File Access Library"
+msgstr ""
+
+#. description(libelf0)
+msgid ""
+"The libelf package contains a library for accessing ELF object files. Libelf "
+"allows you to access the internals of the ELF object file format, so you can "
+"see the different sections of an ELF file."
+msgstr ""
+
+#. summary(elfutils:libelf1)
+msgid "Library to read and write ELF files"
+msgstr ""
+
+#. description(elfutils:libelf1)
+msgid ""
+"This package provides a high-level library to read and write ELF files. This "
+"is a part of elfutils package."
+msgstr ""
+
+#. summary(enca:libenca0)
+msgid "Header files and libraries for Enca development"
+msgstr ""
+
+#. description(enca:libenca0)
+msgid ""
+"The enca-devel package contains the static libraries and header files for "
+"writing programs using the Extremely Naive Charset Analyser library, and its "
+"API documentation.\n"
+"\n"
+"Install enca-devel if you are going to create applications using the Enca "
+"library."
+msgstr ""
+
+#. summary(enchant:libenchant1)
+msgid "Generic Spell Checking Library"
+msgstr ""
+
+#. description(enchant:libenchant1)
+msgid ""
+"A library providing an efficient extensible abstraction for dealing with "
+"different spell checking libraries."
+msgstr ""
+
+#. summary(libevent:libevent-2_0-5)
+msgid "Shared libraries from libevent"
+msgstr ""
+
+#. description(libevent:libevent-2_0-5)
+msgid ""
+"The libevent library provides a mechanism to execute a function when a "
+"specific event on a file descriptor occurs or after a given time has "
+"passed.\n"
+"\n"
+"This package holds the shared libraries for libevent."
+msgstr ""
+
+#. summary(libexif:libexif12)
+msgid "An EXIF Tag Parsing Library for Digital Cameras"
+msgstr ""
+
+#. description(libexif:libexif12)
+msgid ""
+"This library is used to parse EXIF information from JPEGs created by digital "
+"cameras."
+msgstr ""
+
+#. summary(exiv2:libexiv2-12)
+msgid "Library to access image metadata"
+msgstr ""
+
+#. description(exiv2:libexiv2-12)
+msgid ""
+"libexiv2 is a C++ library with a C compatibility interface to access image "
+"metadata, esp from Exif tags."
+msgstr ""
+
+#. summary(expat:libexpat1)
+msgid "XML Parser Toolkit"
+msgstr ""
+
+#. description(expat:libexpat1)
+msgid ""
+"Expat is an XML 1.0 parser written in C. It aims to be fully conformant. It "
+"is currently not a validating XML processor. The current production version "
+"of expat can be downloaded from ftp://ftp.jclark.com/pub/xml/expat.zip. The "
+"directory xmltok contains a low-level library for tokenizing XML. The "
+"interface is documented in xmltok/xmltok.h. The directory xmlparse contains "
+"an XML parser library that is built on top of the xmltok library. The "
+"interface is documented in xmlparse/xmlparse.h. The directory sample "
+"contains a simple example program using this interface. The file sample/"
+"build.bat is a batch file to build the example using Visual C++. The "
+"directory xmlwf contains the xmlwf application, which uses the xmlparse "
+"library. The arguments to xmlwf are one or more files to check for well-"
+"formedness. An option -d dir can be specified. For each well-formed input "
+"file, the corresponding canonical XML is written to dir/f, where f is the "
+"filename (without any path) of the input file. A -x option causes references "
+"to external general entities to be processed. A -s option makes documents "
+"that are not stand-alone cause an error (a document is considered stand-"
+"alone if it is intrinsically stand-alone because it has no external subset "
+"and no references to parameter entities in the internal subset or it is "
+"declared as stand-alone in the XML declaration)."
+msgstr ""
+
+#. summary(e2fsprogs:libext2fs2)
+msgid "Ext2fs library"
+msgstr ""
+
+#. description(e2fsprogs:libext2fs2)
+msgid "The basic Ext2fs shared library."
+msgstr ""
+
+#. summary(fam:libfam0)
+msgid "File Alteration Monitoring Library"
+msgstr ""
+
+#. description(fam:libfam0)
+msgid ""
+"Fam is a file alteration monitoring service. With it, you can receive "
+"signals when files are created or changed.\n"
+"\n"
+"This package provides libfam, which is used by KDE and GNOME. It also "
+"provides a tool for the console called fileschanged.\n"
+"\n"
+"To use fam notifications (it can reduce the network load on NFS servers, "
+"especially if they host user home directories) you need to run the fam "
+"daemon, which can be found in the fam-server package."
+msgstr ""
+
+#. summary(libffi47)
+msgid "Foreign Function Interface library"
+msgstr ""
+
+#. description(libffi47)
+msgid ""
+"A foreign function interface is the popular name for the interface that "
+"allows code written in one language to call code written in another language."
+msgstr ""
+
+#. summary(fftw3:libfftw3-3)
+msgid "Discrete Fourier Transform (DFT) C Subroutine Library"
+msgstr ""
+
+#. description(fftw3:libfftw3-3)
+msgid ""
+"FFTW is a C subroutine library for computing the Discrete Fourier Transform "
+"(DFT) in one or more dimensions, of both real and complex data, and of "
+"arbitrary input size."
+msgstr ""
+
+#. summary(libfontenc:libfontenc1)
+#, fuzzy
+msgid "X11 font encoding library"
+msgstr "Novell 和 Linux"
+
+#. description(libfontenc:libfontenc1)
+msgid ""
+"The libfontenc library is used by the Xorg server and other X font tools for "
+"handling fonts with different character set encodings."
+msgstr ""
+
+#. summary(libfprint:libfprint0)
+msgid "Library for fingerprint reader support"
+msgstr ""
+
+#. description(libfprint:libfprint0)
+msgid ""
+"The fprint project aims to plug a gap in the Linux desktop: support for "
+"consumer fingerprint reader devices."
+msgstr ""
+
+#. summary(mozilla-nss:libfreebl3)
+msgid "Freebl library for the Network Security Services"
+msgstr ""
+
+#. description(mozilla-nss:libfreebl3)
+msgid ""
+"Network Security Services (NSS) is a set of libraries designed to support "
+"cross-platform development of security-enabled server applications. "
+"Applications built with NSS can support SSL v2 and v3, TLS, PKCS #5, PKCS "
+"#7, PKCS #11, PKCS #12, S/MIME, X.509 v3 certificates, and other security "
+"standards.\n"
+"\n"
+"This package installs the freebl library from NSS."
+msgstr ""
+
+#. summary(freetype2:libfreetype6)
+msgid "A TrueType Font Library"
+msgstr ""
+
+#. description(freetype2:libfreetype6)
+msgid ""
+"This library features TrueType fonts for open source projects. This version "
+"also contains an autohinter for producing improved output."
+msgstr ""
+
+#. summary(gcc47:libgcc47)
+msgid "C compiler runtime library"
+msgstr ""
+
+#. description(gcc47:libgcc47)
+msgid "Libgcc is needed for dynamically linked C programs."
+msgstr ""
+
+#. summary(gcr:libgck-1-0)
+msgid "GObject library to access for PKCS#11 modules"
+msgstr ""
+
+#. description(gcr:libgck-1-0)
+msgid ""
+"GCK is a library for accessing PKCS#11 modules like smart cards, in a (G)"
+"object oriented way."
+msgstr ""
+
+#. summary(gnome-keyring:libgck-modules-gnome-keyring)
+msgid "Glib wrapper library for PKCS#11 - Modules"
+msgstr ""
+
+#. description(gnome-keyring:libgck-modules-gnome-keyring)
+msgid ""
+"GCK is a wrapper based on GLib implementing the PKCS#11 (Cryptoki) "
+"interface.\n"
+"\n"
+"This package contains various PKCS#11 modules, to expose keys and "
+"certificates from different sources."
+msgstr ""
+
+#. summary(gcr:libgcr-3-1)
+msgid "Library for Crypto UI related task"
+msgstr ""
+
+#. description(gcr:libgcr-3-1)
+msgid ""
+"GCR is a library for displaying certificates, and crypto UI, accessing key "
+"stores."
+msgstr ""
+
+#. summary(libgcrypt:libgcrypt11)
+msgid "The GNU Crypto Library"
+msgstr ""
+
+#. description(libgcrypt:libgcrypt11)
+msgid ""
+"Libgcrypt is a general purpose crypto library based on the code used in "
+"GnuPG (alpha version)."
+msgstr ""
+
+#. summary(gdbm:libgdbm3)
+msgid "GNU dbm key/data database"
+msgstr ""
+
+#. description(gdbm:libgdbm3)
+msgid ""
+"GNU dbm is a library of database functions that use extensible hashing and "
+"work similar to the standard UNIX dbm. These routines are provided to a "
+"programmer needing to create and manipulate a hashed database.\n"
+"\n"
+"The basic use of GDBM is to store key/data pairs in a data file. Each key "
+"must be unique and each key is paired with only one data item.\n"
+"\n"
+"The library provides primitives for storing key/data pairs, searching and "
+"retrieving the data by its key and deleting a key along with its data. It "
+"also supports sequential iteration over all key/data pairs in a database.\n"
+"\n"
+"For compatibility with programs using old UNIX dbm functions, the package "
+"also provides traditional dbm and ndbm interfaces."
+msgstr ""
+
+#. summary(gdk-pixbuf:libgdk_pixbuf-2_0-0)
+msgid "An image loading library"
+msgstr ""
+
+#. description(gdk-pixbuf:libgdk_pixbuf-2_0-0)
+msgid ""
+"gdk-pixbuf is an image loading library that can be extended by loadable "
+"modules for new image formats. It is used by toolkits such as GTK+ or "
+"Clutter."
+msgstr ""
+
+#. summary(geoclue:libgeoclue0)
+msgid "Modular Geoinformation Service - Library"
+msgstr ""
+
+#. description(geoclue:libgeoclue0)
+msgid ""
+"Geoclue is a modular geoinformation service built on top of the D-Bus "
+"messaging system. The goal of the Geoclue project is to make creating "
+"location-aware applications as simple as possible."
+msgstr ""
+
+#. summary(giflib:libgif4)
+msgid "A Library for Working with GIF Images"
+msgstr ""
+
+#. description(giflib:libgif4)
+msgid ""
+"This Library allows manipulating GIF Image files. Since the LZW patents have "
+"expired, giflib can again be used instead of libungif."
+msgstr ""
+
+#. summary(gimp:libgimp-2_0-0)
+msgid "The GNU Image Manipulation Program - Libraries"
+msgstr ""
+
+#. description(gimp:libgimp-2_0-0)
+msgid ""
+"The GIMP (GNU Image Manipulation Program) is a powerful image composition "
+"and editing program, which can be extremely useful for creating logos and "
+"other graphics for Web pages.  The GIMP offers many of the tools and filters "
+"you would expect to find in similar commercial offerings and contains some "
+"interesting extras as well. The GIMP provides a large image manipulation "
+"toolbox, including channel operations and layers, effects, subpixel imaging "
+"and antialiasing, and conversions- all including multilevel undo. The GIMP "
+"offers a scripting facility, but many of the included scripts rely on fonts "
+"that we cannot distribute.\n"
+"\n"
+"This package provides GIMP libraries."
+msgstr ""
+
+#. summary(gimp:libgimpui-2_0-0)
+msgid "The GNU Image Manipulation Program - UI Libraries"
+msgstr ""
+
+#. description(gimp:libgimpui-2_0-0)
+msgid ""
+"The GIMP (GNU Image Manipulation Program) is a powerful image composition "
+"and editing program, which can be extremely useful for creating logos and "
+"other graphics for Web pages.  The GIMP offers many of the tools and filters "
+"you would expect to find in similar commercial offerings and contains some "
+"interesting extras as well. The GIMP provides a large image manipulation "
+"toolbox, including channel operations and layers, effects, subpixel imaging "
+"and antialiasing, and conversions- all including multilevel undo. The GIMP "
+"offers a scripting facility, but many of the included scripts rely on fonts "
+"that we cannot distribute.\n"
+"\n"
+"This package provides GIMP UI libraries."
+msgstr ""
+
+#. summary(glib2:libgio-2_0-0)
+msgid "General-Purpose Utility Library -- Library for VFS"
+msgstr ""
+
+#. description(glib2:libgio-2_0-0)
+msgid ""
+"GLib is a general-purpose utility library, which provides many useful data "
+"types, macros, type conversions, string utilities, file utilities, a main "
+"loop abstraction, and so on.\n"
+"\n"
+"GIO provides a modern, easy-to-use VFS API."
+msgstr ""
+
+#. summary(gobject-introspection:libgirepository-1_0-1)
+msgid "GObject Introspection Library"
+msgstr ""
+
+#. description(gobject-introspection:libgirepository-1_0-1)
+msgid ""
+"The goal of the project is to describe the APIs and collect them in a "
+"uniform, machine readable format."
+msgstr ""
+
+#. summary(glib2:libglib-2_0-0)
+msgid "General-Purpose Utility Library"
+msgstr ""
+
+#. summary(glib2:libgmodule-2_0-0)
+msgid "General-Purpose Utility Library -- Library for Modules"
+msgstr ""
+
+#. description(glib2:libgmodule-2_0-0)
+msgid ""
+"GLib is a general-purpose utility library, which provides many useful data "
+"types, macros, type conversions, string utilities, file utilities, a main "
+"loop abstraction, and so on.\n"
+"\n"
+"The libgmodule library provides a portable way to dynamically load object "
+"files (commonly known as 'plug-ins')."
+msgstr ""
+
+#. summary(gmp:libgmp10)
+msgid "Shared library for the GNU MP Library"
+msgstr ""
+
+#. description(gmp:libgmp10)
+msgid "Shared library for the GNU MP Library."
+msgstr ""
+
+#. summary(gmp:libgmpxx4)
+msgid "C++ bindings for the GNU MP Library"
+msgstr ""
+
+#. description(gmp:libgmpxx4)
+msgid "C++ bindings for the GNU MP Library."
+msgstr ""
+
+#. summary(libgnome-keyring:libgnome-keyring0)
+msgid "Library to integrate with the GNOME Keyring"
+msgstr ""
+
+#. description(libgnome-keyring:libgnome-keyring0)
+msgid ""
+"The GNOME Keyring is a program that keep password and other secrets for "
+"users. The libgnome-keyring library is used by applications to integrate "
+"with the GNOME Keyring system."
+msgstr ""
+
+#. summary(gnutls:libgnutls28)
+msgid "The GNU Transport Layer Security Library"
+msgstr ""
+
+#. description(gnutls:libgnutls28)
+msgid ""
+"The GnuTLS project aims to develop a library that provides a secure layer "
+"over a reliable transport layer. Currently the GnuTLS library implements the "
+"proposed standards of the IETF's TLS working group."
+msgstr ""
+
+#. summary(glib2:libgobject-2_0-0)
+msgid "General-Purpose Utility Library -- Object-Oriented Framework for C"
+msgstr ""
+
+#. description(glib2:libgobject-2_0-0)
+msgid ""
+"GLib is a general-purpose utility library, which provides many useful data "
+"types, macros, type conversions, string utilities, file utilities, a main "
+"loop abstraction, and so on.\n"
+"\n"
+"The GObject library provides an object-oriented framework for C."
+msgstr ""
+
+#. summary(gcc47:libgomp47)
+msgid "The GNU compiler collection OpenMP runtime library"
+msgstr ""
+
+#. description(gcc47:libgomp47)
+msgid ""
+"This is the OpenMP runtime library needed by OpenMP enabled programs that "
+"were built with the -fopenmp compiler option and by programs that were auto-"
+"parallelized via the -ftree-parallelize-loops compiler option."
+msgstr ""
+
+#. summary(libgpg-error:libgpg-error0)
+msgid "Library That Defines Common Error Values for All GnuPG Components"
+msgstr ""
+
+#. description(libgpg-error:libgpg-error0)
+msgid ""
+"This is a library that defines common error values for all GnuPG "
+"components.  Among these are GPG, GPGSM, GPGME, GPG-Agent, libgcrypt, "
+"pinentry, SmartCard Daemon, and possibly more in the future."
+msgstr ""
+
+#. summary(gpgme:libgpgme11)
+msgid "A Library Designed to give Applications easy Access to GnuPG"
+msgstr ""
+
+#. description(gpgme:libgpgme11)
+msgid ""
+"GnuPG Made Easy (GPGME) is a library designed to make access to GnuPG easier "
+"for applications. It provides a high-level Crypto API for encryption, "
+"decryption, signing, signature verification, and key management. Currently "
+"it uses GnuPG as its back-end, but the API is not restricted to this "
+"engine.\n"
+"\n"
+"Who Should use GPGME?\n"
+"\n"
+"Because the direct use of GnuPG from an application can be a complicated "
+"programming task, it is suggested that all software should try to use GPGME "
+"instead. This way bug fixes or improvements can be done at a central place "
+"and every application benefits from this. Authors of MUAs should especially "
+"consider using GPGME. Creating a set of standard widgets for common key "
+"selection tasks is even planned."
+msgstr ""
+
+#. summary(libgphoto2)
+msgid "A Digital Camera Library"
+msgstr ""
+
+#. description(libgphoto2)
+msgid ""
+"gPhoto (GNU Photo) is a set of libraries for previewing, retrieving, and "
+"capturing images from a range of supported digital cameras to your local "
+"hard drive. It does not support digital cameras based on the USB storage "
+"protocol. Those can be mounted by Linux directly.\n"
+"\n"
+"As of this time, gPhoto supports around 1200 cameras, listed on:\n"
+"\n"
+"http://gphoto.org/proj/libgphoto2/support.php\n"
+"\n"
+"or by running\n"
+"\n"
+"gphoto2 --list-cameras"
+msgstr ""
+
+#. summary(libgsm:libgsm1)
+msgid "GSM 06.10 Lossy Speech Compressor Library and Utilities"
+msgstr ""
+
+#. description(libgsm:libgsm1)
+msgid ""
+"Contains libraries and binaries for a GSM speech compressor. libgsm contains "
+"a standard implementation of the European GSM 06.10 provisional standard for "
+"full-rate speech transcoding, prI-ETS 300 036, which uses RPE/LTP (residual "
+"pulse excitation/long term prediction) coding at 13 kbit/s. GSM 06.10 "
+"compresses frames of 160 13-bit samples (8 kHz sampling rate, which is a "
+"frame rate of 50 Hz) into 260 bits. For compatibility with typical UNIX "
+"applications, our implementation turns frames of 160 16-bit linear samples "
+"into 33-byte frames (1650 Bytes/s). The quality of the algorithm is good "
+"enough for reliable speaker recognition. Even music often survives "
+"transcoding in recognizable form (given the bandwidth limitations of 8 kHz "
+"sampling rate). The interfaces offered are a front-end modeled after compress"
+"(1) and a library API.  Compression and decompression run faster than real-"
+"time on most SPARC stations.  The implementation has been verified against "
+"the ETSI standard test patterns."
+msgstr ""
+
+#. summary(libgssglue:libgssglue1)
+msgid "Generic GSSAPI Library"
+msgstr ""
+
+#. description(libgssglue:libgssglue1)
+msgid ""
+"This library exports a gssapi interface, but does not implement any gssapi "
+"mechanisms itself. Instead it calls gssapi routines in other libraries, "
+"depending on the mechanism."
+msgstr ""
+
+#. summary(glib2:libgthread-2_0-0)
+msgid "General-Purpose Utility Library -- Library for Threads"
+msgstr ""
+
+#. description(glib2:libgthread-2_0-0)
+msgid ""
+"GLib is a general-purpose utility library, which provides many useful data "
+"types, macros, type conversions, string utilities, file utilities, a main "
+"loop abstraction, and so on.\n"
+"\n"
+"The libgthread library provides a portable way to write multi-threaded "
+"software."
+msgstr ""
+
+#. summary(gtk2:libgtk-2_0-0)
+msgid "The GTK+ toolkit library (version 2)"
+msgstr ""
+
+#. summary(gtk3:libgtk-3-0)
+msgid "The GTK+ toolkit library (version 3)"
+msgstr ""
+
+#. summary(udev:libgudev-1_0-0)
+msgid "GObject library, to access udev device information"
+msgstr ""
+
+#. description(udev:libgudev-1_0-0)
+msgid ""
+"This package contains the GObject library libgudev, which provides access to "
+"udev device information."
+msgstr ""
+
+#. summary(libnettle:libhogweed2)
+msgid "Cryptographic Library for Public Key Algorithms"
+msgstr ""
+
+#. description(libnettle:libhogweed2)
+msgid ""
+"Nettle is a cryptographic library that is designed to fit easily in more or "
+"less any context: In crypto toolkits for object-oriented languages (C++, "
+"Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel "
+"space.\n"
+"\n"
+"The libhogweed library contains public key algorithms to use with libnettle."
+msgstr ""
+
+#. summary(libical:libical0)
+msgid "An Implementation of Basic iCAL Protocols"
+msgstr ""
+
+#. description(libical:libical0)
+msgid ""
+"Libical is an open source implementation of the IETF's iCalendar calendaring "
+"and scheduling protocols (RFC 2445, 2446, and 2447). It parses iCal "
+"components and provides a C API for manipulating the component properties, "
+"parameters, and subcomponents."
+msgstr ""
+
+#. summary(icu:libicu49)
+msgid "International Components for Unicode (development files)"
+msgstr ""
+
+#. description(icu:libicu49)
+msgid ""
+"ICU is a set of C and C++ libraries that provides robust and full-featured "
+"Unicode support. This package contains the runtime libraries for ICU. It "
+"does not contain any of the data files needed at runtime and present in the "
+"`icu' and `icu-locales` packages."
+msgstr ""
+
+#. summary(libidn)
+msgid "Support for Internationalized Domain Names (IDN)"
+msgstr ""
+
+#. description(libidn)
+msgid ""
+"GNU Libidn is an implementation of the Stringprep, Punycode, and IDNA "
+"specifications defined by the IETF Internationalized Domain Names (IDN) "
+"working group. It is used to prepare internationalized strings (such as "
+"domain name labels, usernames, and passwords) in order to increase the "
+"likelihood that string input and string comparison work in ways that make "
+"sense for typical users around the world. The library contains a generic "
+"Stringprep implementation that does Unicode 3.2 NFKC normalization, mapping "
+"and prohibition of characters, and bidirectional character handling. "
+"Profiles for iSCSI, Kerberos 5, Nameprep, SASL, and XMPP are included. "
+"Punycode and ASCII Compatible Encoding (ACE) via IDNA is supported."
+msgstr ""
+
+#. summary(libilmbase6)
+msgid "Base library for ILM software (OpenEXR)"
+msgstr ""
+
+#. description(libilmbase6)
+msgid ""
+"Base library for Industrial Light & Magic software (OpenEXR).\n"
+"\n"
+"* Half is a class that encapsulates our 16-bit floating-point    format.\n"
+"\n"
+"* IlmThread is a thread abstraction library for use with OpenEXR and    "
+"other software packages.  It currently supports pthreads and    Windows "
+"threads.\n"
+"\n"
+"* Imath implements 2D and 3D vectors, 3x3 and 4x4 matrices,    quaternions "
+"and other useful 2D and 3D math functions.\n"
+"\n"
+"* Iex is an exception-handling library."
+msgstr ""
+
+#. summary(libimobiledevice:libimobiledevice3)
+msgid "Native protocols library for iPhone, iPod Touch and iPad"
+msgstr ""
+
+#. description(libimobiledevice:libimobiledevice3)
+msgid ""
+"libimobiledevice is a software library that talks the protocols to support "
+"iPhone, iPod Touch and iPad devices. Unlike other projects, it does not "
+"depend on using any existing `.dll` or `.so` libraries from Apple."
+msgstr ""
+
+#. summary(ding-libs:libini_config2)
+msgid "INI file parser for C"
+msgstr ""
+
+#. description(ding-libs:libini_config2)
+msgid ""
+"Library to process config files in INI format into a libcollection data "
+"structure"
+msgstr ""
+
+#. summary(iptables:libiptc0)
+msgid "Library for low-level ruleset generation and parsing"
+msgstr ""
+
+#. description(iptables:libiptc0)
+msgid ""
+"libiptc (\"iptables cache\") is used to retrieve from the kernel, parse, "
+"construct, and load new rulesets into the kernel."
+msgstr ""
+
+#. summary(wireless-tools:libiw30)
+msgid "Tools for a wireless LAN"
+msgstr ""
+
+#. description(wireless-tools:libiw30)
+msgid ""
+"This package contains the wireless tools, used to manipulate the wireless "
+"extensions. The wireless extension is an interface that allows you to set "
+"wireless LAN specific parameters and get specific stats."
+msgstr ""
+
+#. summary(jack:libjack0)
+msgid "Jack Audio Connection Kit Library"
+msgstr ""
+
+#. description(jack:libjack0)
+msgid ""
+"This package contains the library to access JACK (Jack Audio ConnectionKit)."
+msgstr ""
+
+#. summary(jasper:libjasper1)
+msgid "JPEG-2000 library"
+msgstr ""
+
+#. description(jasper:libjasper1)
+msgid ""
+"This package contains libjasper, a library implementing the JPEG-2000 image "
+"compression standard Part 1."
+msgstr ""
+
+#. summary(libwebkit:libjavascriptcoregtk-1_0-0)
+msgid "JavaScript Core Engine, GTK+ Port"
+msgstr ""
+
+#. description(libwebkit:libjavascriptcoregtk-1_0-0)
+msgid ""
+"WebKit is a web content engine, derived from KHTML and KJS from KDE, and "
+"used primarily in Apple's Safari browser.  It is made to be embedded in "
+"other applications, such as mail readers, or web browsers.\n"
+"\n"
+"It is able to display content such as HTML, SVG, XML, and others. It also "
+"supports DOM, XMLHttpRequest, XSLT, CSS, Javascript/ECMAscript and more."
+msgstr ""
+
+#. summary(libjpeg-turbo:libjpeg62)
+msgid "The MMX/SSE accelerated JPEG compression/decompression library"
+msgstr ""
+
+#. description(libjpeg-turbo:libjpeg62)
+msgid ""
+"This library contains MMX/SSE accelerated functions for manipulating JPEG "
+"images."
+msgstr ""
+
+#. summary(json-c:libjson0)
+msgid "JSON shared lib"
+msgstr ""
+
+#. description(json-c:libjson0)
+#, fuzzy
+msgid "This package includes the JSON library."
+msgstr "获得包含文件的包"
+
+#. summary(libkate:libkate1)
+msgid "A karaoke and text codec for embedding in Ogg"
+msgstr ""
+
+#. description(libkate:libkate1)
+msgid ""
+"Kate is a codec for karaoke and text encapsulation for Ogg. Most of the "
+"time, this would be multiplexed with audio/video to carry subtitles, song "
+"lyrics (with or without karaoke data), etc, but doesn't have to be. A "
+"possible use of a lone Kate stream would be an e-book. Moreover, the motion "
+"feature gives Kate a powerful means to describe arbitrary curves, so hand "
+"drawing of shapes can be achieved.\n"
+"\n"
+"This was originally meant for karaoke use, but can be used for any purpose. "
+"Motions can be attached to various semantics, like position, color, etc, so "
+"scrolling or fading text can be defined."
+msgstr ""
+
+#. summary(keyutils:libkeyutils1)
+msgid "Key utilities library"
+msgstr ""
+
+#. description(keyutils:libkeyutils1)
+msgid ""
+"This package provides a wrapper library for the key management facility "
+"system calls."
+msgstr ""
+
+#. summary(kmod:libkmod2)
+#, fuzzy
+msgid "Library to interact with Linux kernel modules"
+msgstr "YaST2 配置模块"
+
+#. description(kmod:libkmod2)
+msgid ""
+"libkmod was created to allow programs to easily insert, remove and list "
+"modules, also checking its properties, dependencies and aliases."
+msgstr ""
+
+#. summary(libksba)
+msgid "A X.509 Library"
+msgstr ""
+
+#. description(libksba)
+msgid ""
+"KSBA is a library to simplify the task of working with X.509 certificates, "
+"CMS data, and related data."
+msgstr ""
+
+#. summary(liblbxutil:liblbxutil1)
+msgid "Low Bandwith X extension utility routines"
+msgstr ""
+
+#. description(liblbxutil:liblbxutil1)
+msgid ""
+"liblbxutil is a library of routines for LBX (Low Bandwidth X) extension "
+"support shared between the lbxproxy program and an LBX-supporting X server."
+msgstr ""
+
+#. summary(lcms:liblcms1)
+msgid "Libraries for the Little CMS Engine"
+msgstr ""
+
+#. description(lcms:liblcms1)
+msgid "Little cms is a small speed optimized color management engine."
+msgstr ""
+
+#. description(lcms2:liblcms2-2)
+msgid "Little CMS Engine - A color managment library and tools."
+msgstr ""
+
+#. summary(openldap2-client:libldap-2_4-2)
+msgid "OpenLDAP Client Libraries"
+msgstr ""
+
+#. description(openldap2-client:libldap-2_4-2)
+msgid "This package contains the OpenLDAP client libraries."
+msgstr ""
+
+#. summary(ldapcpplib:libldapcpp1)
+msgid "C++ API for LDAPv3"
+msgstr ""
+
+#. description(ldapcpplib:libldapcpp1)
+msgid ""
+"This package provides a C++ library for accessing LDAP (Version 3) Servers"
+msgstr ""
+
+#. summary(samba:libldb1)
+msgid "Samba ldb Library"
+msgstr ""
+
+#. description(samba:libldb1)
+msgid ""
+"This package includes the ldb library.\n"
+"\n"
+" Source Timestamp: 2798 Branch      : 3.6.5.PTF"
+msgstr ""
+
+#. summary(lensfun:liblensfun0)
+msgid "Library files for lensfun/lensfun-devel"
+msgstr ""
+
+#. description(lensfun:liblensfun0)
+msgid "Library files needed by the use the lensfun library/database."
+msgstr ""
+
+#. summary(lirc:liblirc_client0)
+msgid "LIRC client library"
+msgstr ""
+
+#. description(lirc:liblirc_client0)
+msgid ""
+"The LIRC client library. To actually use LIRC the lircd daemon from the "
+"'lirc' package has to be configured and started."
+msgstr ""
+
+#. summary(lockdev:liblockdev1)
+#, fuzzy
+msgid "The header files for the lockdev library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(lockdev:liblockdev1)
+msgid ""
+"Lockdev provides a reliable way to put an exclusive lock to devices using "
+"both FSSTND and SVr4 methods."
+msgstr ""
+
+#. summary(libtool:libltdl7)
+msgid "Libtool Runtime Library"
+msgstr ""
+
+#. description(libtool:libltdl7)
+msgid "Library needed by programs that use the ltdl interface of GNU libtool."
+msgstr ""
+
+#. summary(lua51:liblua5_1)
+msgid "Small Embeddable Language with Simple Procedural Syntax"
+msgstr ""
+
+#. description(lua51:liblua5_1)
+msgid ""
+"Lua is a programming language originally designed for extending "
+"applications, but also frequently used as a general-purpose, stand-alone "
+"language.\n"
+"\n"
+"Lua combines simple procedural syntax (similar to Pascal) with powerful data "
+"description constructs based on associative arrays and extensible semantics. "
+"Lua is dynamically typed, interpreted from byte codes, and has automatic "
+"memory management, making it ideal for configuration, scripting, and rapid "
+"prototyping. Lua is implemented as a small library of C functions, written "
+"in ANSI C, and the implementation goals are simplicity, efficiency, "
+"portability, and low embedding cost."
+msgstr ""
+
+#. summary(xz:liblzma5)
+msgid "LZMA library"
+msgstr ""
+
+#. description(xz:liblzma5)
+msgid "Library for encoding/decoding LZMA files."
+msgstr ""
+
+#. summary(lzo:liblzo2-2)
+msgid "A Real-Time Data Compression Library"
+msgstr ""
+
+#. description(lzo:liblzo2-2)
+msgid ""
+"LZO is a portable lossless data compression library written in ANSI C. It "
+"offers pretty fast compression and very fast decompression. Decompression "
+"requires no memory. LZO is suitable for data compression and decompression "
+"in real-time. This means it favors speed over compression ratio."
+msgstr ""
+
+#. summary(libmms:libmms0)
+msgid "MMS stream protocol library"
+msgstr ""
+
+#. description(libmms:libmms0)
+msgid ""
+"LibMMS is a common library for parsing mms:// and mmsh:// type network "
+"streams. These are commonly used to stream Windows Media Video content over "
+"the web. LibMMS itself is only for receiving MMS stream, it doesn't handle "
+"sending at all."
+msgstr ""
+
+#. summary(libmng:libmng1)
+msgid "Library for Support of MNG and JNG Formats"
+msgstr ""
+
+#. description(libmng:libmng1)
+msgid ""
+"This library can handle MNG and JNG formats that contain animated pictures. "
+"These formats should replace the GIF format."
+msgstr ""
+
+#. summary(libmodman:libmodman1)
+#, fuzzy
+msgid "A Module Management Library"
+msgstr "编目管理"
+
+#. description(libmodman:libmodman1)
+msgid ""
+"The Module Loading library offers the choice to use prelinked libraries from "
+"your application out of a pool."
+msgstr ""
+
+#. summary(libmodplug:libmodplug1)
+msgid "Development files for libmodplug"
+msgstr ""
+
+#. description(libmodplug:libmodplug1)
+msgid ""
+"Modplug library based on the ModPlug sound engine.\n"
+"- plays 22 different mod formats.\n"
+"- plays zip, rar, gzip, and bzip2 compressed mods.\n"
+"- plays timidity's GUS patch files (*.pat).\n"
+"- plays all types of MIDI files (*.mid).\n"
+"- plays textfiles written in the ABC music notation (*.abc)."
+msgstr ""
+
+#. summary(util-linux:libmount1)
+#, fuzzy
+msgid "Device mount library"
+msgstr "GNOME 开发"
+
+#. description(util-linux:libmount1)
+msgid ""
+"Library designed to be used in low-level utils like mount(8) and /usr/sbin/"
+"mount.<type> helpers."
+msgstr ""
+
+#. summary(js:libmozjs185-1_0)
+msgid "JavaScript library"
+msgstr ""
+
+#. description(js:libmozjs185-1_0)
+msgid ""
+"JavaScript is the Netscape-developed object scripting language used in "
+"millions of web pages and server applications worldwide. Netscape's "
+"JavaScript is a superset of the ECMA-262 Edition 3 (ECMAScript) standard "
+"scripting language, with only mild differences from the published standard."
+msgstr ""
+
+#. summary(mpc:libmpc2)
+msgid "MPC multiple-precision complex shared library"
+msgstr ""
+
+#. description(mpc:libmpc2)
+msgid ""
+"MPC is a C library for the arithmetic of complex numbers with arbitrarily "
+"high precision and correct rounding of the result. It is built upon and "
+"follows the same principles as MPFR."
+msgstr ""
+
+#. summary(libmpcdec:libmpcdec5)
+msgid "Musepack Audio Decoder"
+msgstr ""
+
+#. description(libmpcdec:libmpcdec5)
+msgid ""
+"Musepack is an audio compression format with a strong emphasis on high "
+"quality. It is not lossless, but it is designed for transparency, so that "
+"you cannot hear differences between the original WAV file and the much "
+"smaller MPC file.\n"
+"\n"
+"It is based on the MPEG-1 Layer-2 / MP2 algorithms, but since 1997 it has "
+"rapidly developed and vastly improved and is now at an advanced stage in "
+"which it contains heavily optimized and patentless code.\n"
+"\n"
+"Musepack is not particularly optimized for low bit rates. The encoder was "
+"designed to be transparent at the --standard setting, thus little low bit "
+"rate tuning has gone into the codec, unlike that of AAC, Vorbis, WMA, and "
+"others that focus more on this region."
+msgstr ""
+
+#. summary(mpfr:libmpfr4)
+msgid "MPFR multiple-precision floating-point computation shared library"
+msgstr ""
+
+#. description(mpfr:libmpfr4)
+msgid ""
+"The MPFR library is a C library for multiple-precision floating-point "
+"computations with exact rounding (also called correct rounding). It is based "
+"on the GMP multiple-precision library."
+msgstr ""
+
+#. summary(mtdev:libmtdev1)
+msgid "Multitouch Protocol Translation Library"
+msgstr ""
+
+#. description(mtdev:libmtdev1)
+msgid ""
+"The mtdev is a stand-alone library which transforms all variants of kernel "
+"MT events to the slotted type B protocol. The events put into mtdev may be "
+"from any MT device, specifically type A without contact tracking, type A "
+"with contact tracking, or type B with contact tracking. See the kernel "
+"documentation for further details."
+msgstr ""
+
+#. summary(libmusicbrainz3:libmusicbrainz3-6)
+msgid "Library That Provides Access to the MusicBrainz Server"
+msgstr ""
+
+#. description(libmusicbrainz3:libmusicbrainz3-6)
+msgid ""
+"MusicBrainz is the second generation incarnation of the CD Index. This "
+"server is designed to enable audio CD, MP3 and Vorbis players to download "
+"metadata about the music they are playing."
+msgstr ""
+
+#. summary(ncurses:libncurses5)
+msgid "The New curses Libraries"
+msgstr ""
+
+#. description(ncurses:libncurses5)
+msgid ""
+"The ncurses library is used by the most curses based terminal applications "
+"for controling its output and input to the screen."
+msgstr ""
+
+#. summary(neon:libneon27)
+msgid "An HTTP and WebDAV Client Library"
+msgstr ""
+
+#. description(neon:libneon27)
+msgid ""
+"neon is an HTTP and WebDAV client library with a C interface.    Featuring: "
+"* High-level interface to HTTP and WebDAV methods    (PUT, GET, HEAD, etc.)\n"
+"\n"
+"* Low-level interface to HTTP request handling to allow implementing    new "
+"methods easily\n"
+"\n"
+"* HTTP/1.1 and HTTP/1.0 persistent connections\n"
+"\n"
+"* RFC2617 basic and digest authentication (including auth-int,    md5-sess)\n"
+"\n"
+"* Proxy support (including basic/digest authentication)\n"
+"\n"
+"* Generic WebDAV 207 XML response handling mechanism\n"
+"\n"
+"* XML parsing using the expat or libxml parsers\n"
+"\n"
+"* Easy generation of error messages from 207 error responses\n"
+"\n"
+"* WebDAV resource manipulation: MOVE, COPY, DELETE, MKCOL\n"
+"\n"
+"* WebDAV metadata support: set and remove properties, query any set of "
+"properties (PROPPATCH/PROPFIND)"
+msgstr ""
+
+#. summary(netpbm:libnetpbm10)
+msgid "Libraries for the NetPBM (NetPortableBitmap) Graphic Formats"
+msgstr ""
+
+#. description(netpbm:libnetpbm10)
+msgid ""
+"These are the libs for the netpbm graphic formats. The tools can be found in "
+"the netpbm package. The sources are contained in the netpbm source package."
+msgstr ""
+
+#. summary(libnettle:libnettle4)
+#, fuzzy
+msgid "Cryptographic Library"
+msgstr "加密"
+
+#. description(libnettle:libnettle4)
+msgid ""
+"Nettle is a cryptographic library that is designed to fit easily in more or "
+"less any context: In crypto toolkits for object-oriented languages (C++, "
+"Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel "
+"space."
+msgstr ""
+
+#. summary(libnfnetlink:libnfnetlink0)
+msgid "Low-level library for Netfilter-related kernel/userspace communication"
+msgstr ""
+
+#. description(libnfnetlink:libnfnetlink0)
+msgid ""
+"libnfnetlink is the low-level library for netfilter related kernel/userspace "
+"communication. It provides a generic messaging infrastructure for in-kernel "
+"netfilter subsystems (such as nfnetlink_log, nfnetlink_queue, "
+"nfnetlink_conntrack) and their respective users and/or management tools in "
+"userspace.\n"
+"\n"
+"This library is not meant as a public API for application developers. It is "
+"only used by other netfilter.org projects, such as libnetfilter_log, "
+"libnetfilter_queue or libnetfilter_conntrack."
+msgstr ""
+
+#. summary(libnl-1_1)
+msgid "Convenience library for kernel netlink sockets"
+msgstr ""
+
+#. description(libnl-1_1)
+msgid ""
+"This package contains a convenience library to simplify using the Linux "
+"kernels netlink sockets interface for network manipulation."
+msgstr ""
+
+#. summary(libnl3:libnl3-200)
+msgid "Convenience library for working with Netlink sockets"
+msgstr ""
+
+#. description(libnl3:libnl3-200)
+msgid ""
+"The libnl suite is a collection of libraries providing APIs to netlink "
+"protocol based Linux kernel interfaces."
+msgstr ""
+
+#. summary(NetworkManager:libnm-glib-vpn1)
+msgid "Convenience library for NetworkManager VPN plugins"
+msgstr ""
+
+#. description(NetworkManager:libnm-glib-vpn1)
+msgid ""
+"This package contains the libraries that make it easier to use some Network "
+"Manager functionality from applications that use glib."
+msgstr ""
+
+#. summary(NetworkManager:libnm-glib4)
+msgid "Convenience library for clients of NetworkManager"
+msgstr ""
+
+#. summary(libnotify:libnotify4)
+msgid "Notifications Library"
+msgstr ""
+
+#. description(libnotify:libnotify4)
+msgid "D-BUS notifications library."
+msgstr ""
+
+#. summary(libnscd)
+msgid "Library to Allow Applications to Communicate with nscd"
+msgstr ""
+
+#. description(libnscd)
+msgid ""
+"This library provides an interface for applications to NSCD (Name Service "
+"Cache Daemon) and allows those applications, to flush the cache for special "
+"services, if they have the necessary permissions."
+msgstr ""
+
+#. summary(nss-shared-helper:libnsssharedhelper0)
+msgid "Helper functions for sharing NSS database"
+msgstr ""
+
+#. description(nss-shared-helper:libnsssharedhelper0)
+msgid ""
+"This library provides helper functions for programs that want to share an "
+"NSS crypto database."
+msgstr ""
+
+#. summary(ntfs-3g_ntfsprogs:libntfs-3g83)
+msgid "NTFS Support in Userspace -- Library"
+msgstr ""
+
+#. description(ntfs-3g_ntfsprogs:libntfs-3g83)
+msgid ""
+"NTFS-3G allows for read/write access to NTFS partitions which can be shared "
+"with Windows XP, Windows Server 2003, Windows 2000, Windows Vista and "
+"Windows Seven."
+msgstr ""
+
+#. summary(libogg:libogg0)
+msgid "Ogg Bitstream Library"
+msgstr ""
+
+#. description(libogg:libogg0)
+msgid ""
+"Libogg is a library for manipulating ogg bitstreams.  It handles both making "
+"ogg bitstreams and getting packets from ogg bitstreams.\n"
+"\n"
+"Ogg is the native bitstream format of the libvorbis (Ogg Vorbis audio "
+"codec ) and the libtheora (Theora video codec)"
+msgstr ""
+
+#. summary(openjpeg:libopenjpeg1)
+msgid "An open-source JPEG 2000 codec"
+msgstr ""
+
+#. description(openjpeg:libopenjpeg1)
+msgid ""
+"OpenJPEG library is an open-source JPEG 2000 codec written in C. It has been "
+"developed in order to promote the use of JPEG 2000, the new still-image "
+"compression standard from the Joint Photographic Experts Group (JPEG)."
+msgstr ""
+
+#. summary(openobex:libopenobex1)
+msgid "Open Source Implementation of the Object Exchange (OBEX) Protocol"
+msgstr ""
+
+#. description(openobex:libopenobex1)
+msgid ""
+"OBEX is a session protocol and can best be described as a binary HTTP "
+"protocol. OBEX is optimized for ad-hoc wireless links and can be used to "
+"exchange all kind of objects, like files, pictures, calendar entries (vCal), "
+"and business cards (vCard)."
+msgstr ""
+
+#. summary(libopenraw:libopenraw1)
+msgid "A library to decode digital camera RAW files"
+msgstr ""
+
+#. description(libopenraw:libopenraw1)
+msgid "libopenraw is a library that aim at decoding digital camera RAW files."
+msgstr ""
+
+#. summary(openssl:libopenssl1_0_0)
+msgid "Secure Sockets and Transport Layer Security"
+msgstr ""
+
+#. description(openssl:libopenssl1_0_0)
+msgid ""
+"The OpenSSL Project is a collaborative effort to develop a robust, "
+"commercial-grade, full-featured, and open source toolkit implementing the "
+"Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) "
+"protocols with full-strength cryptography. The project is managed by a "
+"worldwide community of volunteers that use the Internet to communicate, "
+"plan, and develop the OpenSSL toolkit and its related documentation.\n"
+"\n"
+"Derivation and License\n"
+"\n"
+"OpenSSL is based on the excellent SSLeay library developed by Eric A. Young "
+"and Tim J. Hudson. The OpenSSL toolkit is licensed under an Apache-style "
+"license, which basically means that you are free to get it and to use it for "
+"commercial and noncommercial purposes."
+msgstr ""
+
+#. summary(orc:liborc-0_4-0)
+#, fuzzy
+msgid "The Oil Runtime Compiler Library"
+msgstr "通知"
+
+#. description(orc:liborc-0_4-0)
+msgid ""
+"Orc is a library and set of tools for compiling and executing very simple "
+"programs that operate on arrays of data.  The âlanguageâ is a generic "
+"assembly language that represents many of the features available in SIMD "
+"architectures, including saturated addition and subtraction, and many "
+"arithmetic operations."
+msgstr ""
+
+#. summary(p11-kit:libp11-kit0)
+msgid "Library to work with PKCS#11 modules"
+msgstr ""
+
+#. description(p11-kit:libp11-kit0)
+msgid ""
+"p11-kit provides a way to load and enumerate PKCS#11 modules, as well as a "
+"standard configuration setup for installing PKCS#11 modules in such a way "
+"that they're discoverable."
+msgstr ""
+
+#. summary(PackageKit:libpackagekit-glib2-14)
+msgid "Simple software installation management software"
+msgstr ""
+
+#. description(PackageKit:libpackagekit-glib2-14)
+msgid ""
+"PackageKit is a system designed to make installing and updating software on "
+"your computer easier.  The primary design goal is to unify all the software "
+"graphical tools used in different distributions, and use some of the latest "
+"technology like PolicyKit to make the process suck less."
+msgstr ""
+
+#. summary(pango:libpango-1_0-0)
+msgid "Library for Layout and Rendering of Text"
+msgstr ""
+
+#. description(pango:libpango-1_0-0)
+msgid ""
+"Pango is a library for layout and rendering of text, with an emphasis on "
+"internationalization. It can be used anywhere that text layout is needed.\n"
+"\n"
+"Pango forms the core of text and font handling for GTK+."
+msgstr ""
+
+#. summary(parted:libparted0)
+#, fuzzy
+msgid "Library for manipulating partitions"
+msgstr "等待导航栏应用程序"
+
+#. description(parted:libparted0)
+msgid ""
+"Libparted is a library for creating, destroying, resizing, checking and "
+"copying partitions and the file systems on them."
+msgstr ""
+
+#. summary(ding-libs:libpath_utils1)
+#, fuzzy
+msgid "Filesystem Path Utilities"
+msgstr "文件系统"
+
+#. description(ding-libs:libpath_utils1)
+msgid "Utility functions to manipulate filesystem pathnames"
+msgstr ""
+
+#. summary(libpcap:libpcap1)
+msgid "A Library for Network Sniffers"
+msgstr ""
+
+#. description(libpcap:libpcap1)
+msgid ""
+"libpcap is a library used by packet sniffer programs. It provides an "
+"interface for them to capture and analyze packets from network devices. This "
+"package is only needed if you plan to compile or write such a program "
+"yourself."
+msgstr ""
+
+#. summary(libpciaccess:libpciaccess0)
+#, fuzzy
+msgid "Generic PCI access library"
+msgstr "KDE 桌面环境"
+
+#. description(libpciaccess:libpciaccess0)
+msgid ""
+"Provides functionality for X to access the PCI bus and devices in a platform-"
+"independent way."
+msgstr ""
+
+#. summary(pcre:libpcre1)
+msgid "A library for Perl-compatible regular expressions"
+msgstr ""
+
+#. description(pcre:libpcre1)
+msgid ""
+"The PCRE library is a set of functions that implement regular expression "
+"pattern matching using the same syntax and semantics as Perl 5."
+msgstr ""
+
+#. summary(pixman:libpixman-1-0)
+msgid "Pixel manipulation library"
+msgstr ""
+
+#. description(pixman:libpixman-1-0)
+msgid "Pixman is a pixel manipulation library for X and cairo."
+msgstr ""
+
+#. summary(pkcs11-helper:libpkcs11-helper1)
+msgid "Helper Library for the Use with Smart Cards and the PKCS#11 API"
+msgstr ""
+
+#. description(pkcs11-helper:libpkcs11-helper1)
+msgid ""
+"pkcs11-helper allows using multiple PKCS#11 providers at the same time, "
+"selecting keys by id, label or certificate subject, handling card removal "
+"and card insert events, handling card re-insert to a different slot, "
+"supporting session expiration serialization and much more, all using a "
+"simple API."
+msgstr ""
+
+#. summary(libplist:libplist1)
+msgid "Library for handling Apple Binary and XML Property Lists"
+msgstr ""
+
+#. description(libplist:libplist1)
+msgid "libplist is a library for handling Apple Binary and XML Property Lists."
+msgstr ""
+
+#. summary(plymouth:libply-boot-client2)
+msgid "Plymouth core library"
+msgstr ""
+
+#. description(plymouth:libply-boot-client2)
+#, fuzzy
+msgid "This package contains the libply-boot-client library used by Plymouth."
+msgstr "最近使用过的应用程序"
+
+#. description(plymouth:libply-splash-core2)
+#, fuzzy
+msgid ""
+"This package contains the libply-splash-core library used by graphical "
+"Plymouth splashes."
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(plymouth:libply2)
+#, fuzzy
+msgid "This package contains the libply library used by Plymouth."
+msgstr "包中含有意外的版本"
+
+#. summary(libpng14:libpng14-14)
+msgid "Library for the Portable Network Graphics Format (PNG)"
+msgstr ""
+
+#. description(libpng14:libpng14-14)
+msgid ""
+"libpng is the official reference library for the Portable Network Graphics "
+"format (PNG)."
+msgstr ""
+
+#. summary(polkit:libpolkit0)
+#, fuzzy
+msgid "PolicyKit Authorization Framework -- Libraries"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(polkit:libpolkit0)
+msgid ""
+"PolicyKit is a toolkit for defining and handling authorizations. It is used "
+"for allowing unprivileged processes to speak to privileged processes.\n"
+"\n"
+"This package contains the libraries only."
+msgstr ""
+
+#. summary(poppler:libpoppler-glib8)
+msgid "PDF Rendering Library - GLib Wrapper"
+msgstr ""
+
+#. description(poppler:libpoppler-glib8)
+msgid ""
+"Poppler is a PDF rendering library, forked from the xpdf PDF viewer "
+"developed by Derek Noonburg of Glyph and Cog, LLC."
+msgstr ""
+
+#. summary(poppler:libpoppler19)
+msgid "PDF Rendering Library"
+msgstr ""
+
+#. summary(popt:libpopt0)
+msgid "A C library for parsing command line parameters"
+msgstr ""
+
+#. description(popt:libpopt0)
+msgid ""
+"Popt is a C library for parsing command line parameters.  Popt was heavily "
+"influenced by the getopt() and getopt_long() functions. It improves on them "
+"by allowing more powerful argument expansion. Popt can parse arbitrary argv"
+"[] style arrays and automatically set variables based on command line "
+"arguments.  Popt allows command line arguments to be aliased via "
+"configuration files and includes utility functions for parsing arbitrary "
+"strings into argv[] arrays using shell-like rules."
+msgstr ""
+
+#. summary(portaudio:libportaudio2)
+msgid "Portable Real-Time Audio Library"
+msgstr ""
+
+#. description(portaudio:libportaudio2)
+msgid ""
+"PortAudio is a portable audio I/O library designed for cross-platform "
+"support of audio. It uses a callback mechanism to request audio processing. "
+"Audio can be generated in various formats, including 32 bit floating point, "
+"and will be converted to the native format internally."
+msgstr ""
+
+#. summary(ppl:libppl9)
+msgid "Shared library for the Parma Polyhedra Library"
+msgstr ""
+
+#. description(ppl:libppl9)
+msgid "Shared library for the Parma Polyhedra Library."
+msgstr ""
+
+#. summary(ppl:libppl_c4)
+msgid "Shared library for the Parma Polyhedra Library C bindings"
+msgstr ""
+
+#. description(ppl:libppl_c4)
+msgid "Shared library for the Parma Polyhedra Library C bindings."
+msgstr ""
+
+#. summary(libproxy:libproxy1)
+msgid "Libproxy provides consistent proxy configuration to applications"
+msgstr ""
+
+#. description(libproxy:libproxy1)
+msgid ""
+"libproxy offers the following features: * extremely small core    footprint "
+"(< 35K)\n"
+"\n"
+"* no external dependencies within libproxy core (libproxy modules    may "
+"have dependencies)\n"
+"* only 3 functions in the stable external API\n"
+"* dynamic adjustment to changing network topology\n"
+"* a standard way of dealing with proxy settings across all scenarios"
+msgstr ""
+
+#. summary(libproxy-plugins:libproxy1-config-gnome3)
+msgid "Libproxy module for GNOME3 configuration"
+msgstr ""
+
+#. summary(libproxy-plugins:libproxy1-networkmanager)
+msgid "Libproxy module for NetworkManager configuration"
+msgstr ""
+
+#. description(libproxy-plugins:libproxy1-networkmanager)
+msgid ""
+"A module to extend libproxy with capabilities to query NetworkManager about "
+"network configuration changes."
+msgstr ""
+
+#. summary(libproxy-plugins:libproxy1-pacrunner-mozjs)
+msgid ""
+"Libproxy module to support wpad/pac parsing via Mozilla JavaScript Engine"
+msgstr ""
+
+#. description(libproxy-plugins:libproxy1-pacrunner-mozjs)
+msgid ""
+"A module to extend libproxy with capabilities to pass addresses to a WPAD/"
+"PAC script and have it find the correct proxy."
+msgstr ""
+
+#. summary(pth:libpth20)
+msgid "GNU Portable Threads"
+msgstr ""
+
+#. description(pth:libpth20)
+msgid ""
+"Pth is a very portable POSIX/ANSI-C based library for Unix platforms which "
+"provides non-preemptive priority-based scheduling for multiple threads of "
+"execution (\"multithreading\") inside server applications. All threads run "
+"in the same address space of the server application, but each thread has "
+"it's own individual program-counter, run-time stack, signal mask and errno "
+"variable."
+msgstr ""
+
+#. summary(pulseaudio:libpulse-mainloop-glib0)
+msgid "GLIB  2.0 Main Loop wrapper for PulseAudio"
+msgstr ""
+
+#. description(pulseaudio:libpulse-mainloop-glib0)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"This package contains the GLIB Main Loop bindings for the PulseAudio sound "
+"server."
+msgstr ""
+
+#. summary(pulseaudio:libpulse0)
+msgid "Client interface to PulseAudio"
+msgstr ""
+
+#. description(pulseaudio:libpulse0)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"This package contains the system libraries for clients of pulseaudio sound "
+"server."
+msgstr ""
+
+#. summary(python-base:libpython2_7-1_0)
+msgid "Python Interpreter shared library"
+msgstr ""
+
+#. description(python-base:libpython2_7-1_0)
+msgid ""
+"Python is an interpreted, object-oriented programming language, and is often "
+"compared to Tcl, Perl, Scheme, or Java.  You can find an overview of Python "
+"in the documentation and tutorials included in the python-doc (HTML) or "
+"python-doc-pdf (PDF) packages.\n"
+"\n"
+"This package contains libpython2.6 shared library for embedding in other "
+"applications."
+msgstr ""
+
+#. summary(raptor:libraptor2-0)
+msgid "RDF Parser Toolkit"
+msgstr ""
+
+#. description(raptor:libraptor2-0)
+msgid ""
+"Raptor is the RDF Parser Toolkit for Redland that provides a set of "
+"standalone RDF parsers, generating triples from RDF/XML or N-Triples."
+msgstr ""
+
+#. summary(libraw1394:libraw1394-11)
+msgid "A Firewire Interface"
+msgstr ""
+
+#. description(libraw1394:libraw1394-11)
+msgid ""
+"A library for the Linux IEEE-1394 subsystem, which provides direct access to "
+"the connected 1394 (Firewire) bus."
+msgstr ""
+
+#. summary(librcc0)
+#, fuzzy
+msgid "Russian Charset Conversion Library"
+msgstr "SUSE 硬件检测"
+
+#. description(librcc0)
+msgid ""
+"Provides posibility to automaticaly convert considered encodings (a lot of "
+"languages is supported, not only russian one) to/from UTF-8. The library is "
+"part of rusxmms patch."
+msgstr ""
+
+#. summary(librcd0)
+#, fuzzy
+msgid "Russian Charset Detection Library"
+msgstr "SUSE 硬件检测"
+
+#. description(librcd0)
+msgid ""
+"Automatic encoding detection library for russian/ukrainian languages. "
+"Optimized for very small words and phrases."
+msgstr ""
+
+#. summary(bash:libreadline6)
+msgid "The Readline Library"
+msgstr ""
+
+#. description(bash:libreadline6)
+msgid ""
+"The readline library is used by the Bourne Again Shell (bash, the standard "
+"command interpreter) for easy editing of command lines.  This includes "
+"history and search functionality."
+msgstr ""
+
+#. summary(ding-libs:libref_array1)
+msgid "A refcounted array for C"
+msgstr ""
+
+#. description(ding-libs:libref_array1)
+msgid "A dynamically-growing, reference-counted array"
+msgstr ""
+
+#. summary(libreiserfs)
+msgid "ReiserFS File System Access Library"
+msgstr ""
+
+#. description(libreiserfs)
+msgid ""
+"This is a library for reiserfs file system access and manipulation. The "
+"primary goal is to develop the nice, full functionality library that can be "
+"linked to any projects that needed reiserfs file system access. These "
+"include GNU Parted, GNU GRUB, Yaboot, Partimage, and EVMS.\n"
+"\n"
+"The second goal is high maintainability source code.\n"
+"\n"
+"The third goal is to develop an alternative set of the reiserfs programs as "
+"small and nice front-ends to this library.\n"
+"\n"
+"libreiserfs has a number of high level APIs for accessing reiserfs file "
+"systems. There are main file system code (reiserfs_fs_open, "
+"reiserfs_fs_close, reiserfs_fs_create, reiserfs_fs_resize, "
+"reiserfs_fs_journal_tune, etc), journal code, bitmap code, directories and "
+"files access code, and device abstraction layer.\n"
+"\n"
+"progsreiserfs supports versions 3.5 and 3.6 with standard and relocated "
+"journal. It also supports all possible block sizes supported by the kernel "
+"(2.4.18 with patches or 2.4.19).\n"
+"\n"
+"The project home page is http://reiserfs.linux.kiev.ua/."
+msgstr ""
+
+#. summary(librsvg:librsvg-2-2)
+msgid "A Library for Rendering SVG Data"
+msgstr ""
+
+#. description(librsvg:librsvg-2-2)
+msgid ""
+"This package contains a library to render SVG (scalable vector graphics) "
+"data. This format has been specified by the W3C (see http://www.w3c.org)."
+msgstr ""
+
+#. summary(libsamplerate:libsamplerate0)
+msgid "A Sample Rate Converter Library"
+msgstr ""
+
+#. description(libsamplerate:libsamplerate0)
+msgid ""
+"Secret Rabbit Code (aka libsamplerate) is a Sample Rate Converter for audio. "
+"One example of where such a thing would be useful is in converting audio "
+"from the CD sample rate of 44.1kHz to the 48kHz sample rate used by DAT "
+"players.\n"
+"\n"
+"SRC is capable of arbitrary and time varying conversions; from downsampling "
+"by a factor of 12 to upsampling by the same factor.  The conversion ratio "
+"can also vary with time for speeding up and slowing down effects."
+msgstr ""
+
+#. summary(libselinux:libselinux1)
+msgid "SELinux library and simple utilities"
+msgstr ""
+
+#. description(libselinux:libselinux1)
+msgid ""
+"Security-enhanced Linux is a feature of the Linux(R) kernel and a number of "
+"utilities with enhanced security functionality designed to add mandatory "
+"access controls to Linux.  The Security-enhanced Linux kernel contains new "
+"architectural components originally developed to improve the security of the "
+"Flask operating system. These architectural components provide general "
+"support for the enforcement of many kinds of mandatory access control "
+"policies, including those based on the concepts of Type Enforcement(R), Role-"
+"based Access Control, and Multi-level Security.\n"
+"\n"
+"libselinux provides an API for SELinux applications to get and set process "
+"and file security contexts and to obtain security policy decisions.  "
+"Required for any applications that use the SELinux API."
+msgstr ""
+
+#. summary(libsemanage:libsemanage1)
+msgid "SELinux binary policy manipulation library"
+msgstr ""
+
+#. description(libsemanage:libsemanage1)
+msgid ""
+"Security-enhanced Linux is a feature of the Linux kernel and a number of "
+"utilities with enhanced security functionality designed to add mandatory "
+"access controls to Linux.  The Security-enhanced Linux kernel contains new "
+"architectural components originally developed to improve the security of the "
+"Flask operating system. These architectural components provide general "
+"support for the enforcement of many kinds of mandatory access control "
+"policies, including those based on the concepts of Type Enforcement, Role-"
+"based Access Control, and Multi-level Security.\n"
+"\n"
+"libsemanage provides an API for the manipulation of SELinux binary policies. "
+"It is used by checkpolicy (the policy compiler) and similar tools, as well "
+"as by programs like load_policy that need to perform specific "
+"transformations on binary policies such as customizing policy boolean "
+"settings."
+msgstr ""
+
+#. summary(sensors:libsensors4)
+msgid "Hardware health monitoring library"
+msgstr ""
+
+#. description(sensors:libsensors4)
+msgid ""
+"libsensors offers a way for applications to access the hardware monitoring "
+"chips of the system. A system-dependent configuration file controls how the "
+"different inputs are labeled and what scaling factors have to be applied for "
+"the specific hardware, so that the output makes sense to the user."
+msgstr ""
+
+#. description(libsepol:libsepol1)
+msgid ""
+"Security-enhanced Linux is a feature of the Linux(R) kernel and a number of "
+"utilities with enhanced security functionality designed to add mandatory "
+"access controls to Linux.  The Security-enhanced Linux kernel contains new "
+"architectural components originally developed to improve the security of the "
+"Flask operating system. These architectural components provide general "
+"support for the enforcement of many kinds of mandatory access control "
+"policies, including those based on the concepts of Type Enforcement(R), Role-"
+"based Access Control, and Multi-level Security.\n"
+"\n"
+"libsepol provides an API for the manipulation of SELinux binary policies. It "
+"is used by checkpolicy (the policy compiler) and similar tools, as well as "
+"by programs like load_policy that need to perform specific transformations "
+"on binary policies such as customizing policy boolean settings."
+msgstr ""
+
+#. summary(slang:libslang2)
+msgid "Programming Library and Embeddable Extension Language"
+msgstr ""
+
+#. description(slang:libslang2)
+msgid ""
+"S-Lang is a multi-platform programming library designed to allow a developer "
+"to create robust multi-platform software. It provides facilities required by "
+"interactive applications such as display/screen management, keyboard input, "
+"keymaps etc. Another major feature of the library is the interpreter for the "
+"S-Lang extension language which can be embedded into an application to make "
+"it extensible. With slsh a standalone interpreter is available as well."
+msgstr ""
+
+#. summary(samba:libsmbclient0)
+msgid "Samba Client Library"
+msgstr ""
+
+#. summary(libsmbios:libsmbios2)
+msgid "Libraries to get information from standard BIOS tables"
+msgstr ""
+
+#. description(libsmbios:libsmbios2)
+msgid ""
+"Libsmbios is a library and utilities that can be used by client programs to "
+"get information from standard BIOS tables, such as the SMBIOS table."
+msgstr ""
+
+#. summary(snapper:libsnapper1)
+msgid "Library for filesystem snapshot management"
+msgstr ""
+
+#. description(snapper:libsnapper1)
+#, fuzzy
+msgid ""
+"This package contains libsnapper, a library for filesystem snapshot "
+"management."
+msgstr "包中含有意外的版本"
+
+#. summary(libsndfile:libsndfile1)
+msgid "A Library to Handle Various Audio File Formats"
+msgstr ""
+
+#. description(libsndfile:libsndfile1)
+msgid ""
+"Libsndfile is a C library for reading and writing sound files, such as AIFF, "
+"AU, and WAV files, through one standard interface. It can currently read and "
+"write 8, 16, 24, and 32-bit PCM files as well as 32-bit floating point WAV "
+"files and a number of compressed formats."
+msgstr ""
+
+#. summary(mozilla-nss:libsoftokn3)
+#, fuzzy
+msgid "Network Security Services Softoken Module"
+msgstr "Oracle 服务器库"
+
+#. description(mozilla-nss:libsoftokn3)
+msgid ""
+"Network Security Services (NSS) is a set of libraries designed to support "
+"cross-platform development of security-enabled server applications. "
+"Applications built with NSS can support SSL v2 and v3, TLS, PKCS #5, PKCS "
+"#7, PKCS #11, PKCS #12, S/MIME, X.509 v3 certificates, and other security "
+"standards.\n"
+"\n"
+"Network Security Services Softoken Cryptographic Module"
+msgstr ""
+
+#. summary(libsolv:libsolv-tools)
+msgid "A new approach to package dependency solving"
+msgstr ""
+
+#. description(libsolv:libsolv-tools)
+msgid "A new approach to package dependency solving."
+msgstr ""
+
+#. summary(libsoup:libsoup-2_4-1)
+msgid "HTTP client/server library for GNOME"
+msgstr ""
+
+#. description(libsoup:libsoup-2_4-1)
+msgid ""
+"Libsoup is an HTTP client/server library for GNOME. It uses GObjects and the "
+"glib main loop, to integrate well with GNOME applications.\n"
+"\n"
+"Features:   * Both asynchronous (GMainLoop and callback-based) and "
+"synchronous APIs   * Automatically caches connections   * SSL Support using "
+"GnuTLS   * Proxy support, including authentication and SSL tunneling   * "
+"Client support for Digest, NTLM, and Basic authentication   * Server support "
+"for Digest and Basic authentication   * XML-RPC support"
+msgstr ""
+
+#. summary(libspectre:libspectre1)
+msgid "Library for Rendering PostScript Documents"
+msgstr ""
+
+#. description(libspectre:libspectre1)
+msgid ""
+"libspectre is a small library for rendering Postscript documents. It "
+"provides a convenient easy to use API for handling and rendering Postscript "
+"documents."
+msgstr ""
+
+#. summary(speex:libspeex1)
+msgid "An Open Source, Patent Free Speech Codec Library"
+msgstr ""
+
+#. description(speex:libspeex1)
+msgid ""
+"Speex is a patent free audio codec designed especially for voice (unlike "
+"Vorbis which targets general audio) signals and providing good narrowband "
+"and wideband quality. This project aims to be complementary to the Vorbis "
+"codec."
+msgstr ""
+
+#. summary(sqlite3:libsqlite3-0)
+msgid "Shared libraries for the Embeddable SQL Database Engine"
+msgstr ""
+
+#. description(sqlite3:libsqlite3-0)
+msgid ""
+"This package contains the shared libraries for the Embeddable SQL Database "
+"Engine.\n"
+"\n"
+"SQLite is a C library that implements an embeddable SQL database engine. "
+"Programs that link with the SQLite library can have SQL database access "
+"without running a separate RDBMS process.\n"
+"\n"
+"SQLite is not a client library used to connect to a big database server. "
+"SQLite is a server and the SQLite library reads and writes directly to and "
+"from the database files on disk.\n"
+"\n"
+"SQLite can be used via the sqlite command line tool or via any application "
+"that supports the Qt database plug-ins."
+msgstr ""
+
+#. summary(libssh2_org:libssh2-1)
+msgid "A library implementing the SSH2 protocol"
+msgstr ""
+
+#. description(libssh2_org:libssh2-1)
+msgid ""
+"libssh2 is a library implementing the SSH2 protocol as defined by Internet "
+"Drafts: SECSH-TRANS, SECSH-USERAUTH, SECSH-CONNECTION, SECSH-ARCH, SECSH-"
+"FILEXFER, SECSH-DHGEX, SECSH-NUMBERS, and SECSH-PUBLICKEY."
+msgstr ""
+
+#. summary(startup-notification:libstartup-notification-1-0)
+msgid "Reference Implementation for the Startup-Notification Protocol"
+msgstr ""
+
+#. description(startup-notification:libstartup-notification-1-0)
+msgid ""
+"Startup-notification contains a reference implementation of the startup-"
+"notification protocol."
+msgstr ""
+
+#. summary(gcc47:libstdc++47)
+msgid "The standard C++ shared library"
+msgstr ""
+
+#. description(gcc47:libstdc++47)
+msgid "The standard C++ library, needed for dynamically linked C++ programs."
+msgstr ""
+
+#. summary(libstorage:libstorage3)
+msgid "Library for storage management"
+msgstr ""
+
+#. description(libstorage:libstorage3)
+msgid "This package contains libstorage, a library for storage management."
+msgstr ""
+
+#. summary(taglib:libtag1)
+#, fuzzy
+msgid "Audio Meta-Data Library"
+msgstr "编目管理"
+
+#. description(taglib:libtag1)
+msgid ""
+"TagLib is a library for reading and editing the meta-data of several popular "
+"audio formats. Currently it supports both ID3v1 and ID3v2 for MP3 files, Ogg "
+"Vorbis comments and ID3 tags and Vorbis comments in FLAC, MPC, Speex, "
+"WavPack TrueAudio, WAV, AIFF, MP4 and ASF files."
+msgstr ""
+
+#. summary(samba:libtalloc2)
+msgid "Samba talloc Library"
+msgstr ""
+
+#. description(samba:libtalloc2)
+msgid ""
+"This package includes the talloc library.\n"
+"\n"
+" Source Timestamp: 2798 Branch      : 3.6.5.PTF"
+msgstr ""
+
+#. summary(libtasn1)
+msgid "ASN.1 parsing library"
+msgstr ""
+
+#. description(libtasn1)
+msgid ""
+"This is the ASN.1 library used in GNUTLS. More up to date information can be "
+"found at http://www.gnu.org/software/gnutls and http://www.gnutls.org"
+msgstr ""
+
+#. summary(samba:libtdb1)
+msgid "Samba tdb Library"
+msgstr ""
+
+#. description(samba:libtdb1)
+msgid ""
+"This package includes the tdb library.\n"
+"\n"
+" Source Timestamp: 2798 Branch      : 3.6.5.PTF"
+msgstr ""
+
+#. summary(samba:libtevent0)
+msgid "Samba tevent Library"
+msgstr ""
+
+#. description(samba:libtevent0)
+msgid ""
+"This package includes the tevent library.\n"
+"\n"
+" Source Timestamp: 2798 Branch      : 3.6.5.PTF"
+msgstr ""
+
+#. summary(libtheora:libtheora0)
+msgid "Free Video Codec"
+msgstr ""
+
+#. description(libtheora:libtheora0)
+msgid ""
+"Theora is a free video codec based on VP3. The package contains the library "
+"that can decode and encode Theora streams. Theora is also able to playback "
+"VP3 streams."
+msgstr ""
+
+#. summary(tiff:libtiff5)
+msgid "The Tiff Library (with JPEG and compression support)"
+msgstr "Tiff 库 (带 JPEG 和压缩支持)"
+
+#. description(tiff:libtiff5)
+msgid ""
+"This package includes the tiff libraries. To link a program with libtiff, "
+"you will have to add -ljpeg and -lz to include the necessary libjpeg and "
+"libz in the linking process."
+msgstr ""
+"该软件包包含 tiff 库。要链接 libtiif 给一个应用程序，您需要在链接过程中添加 -ljpeg 和 -lz 以包含必要的 libjpeg 和 "
+"libz。"
+
+#. summary(libtirpc:libtirpc1)
+msgid "Transport Independent RPC Library"
+msgstr "传输独立 RPC 库"
+
+#. description(libtirpc:libtirpc1)
+msgid ""
+"The Transport Independent RPC library (TI-RPC) is a replacement for the "
+"standard SunRPC library in glibc which does not support IPv6 addresses. This "
+"implementation allows the support of other transports than UDP and TCP over "
+"IPv4"
+msgstr ""
+"传输独立 RPC 库 (TI-RPC) 是 glibc 中的标准 SunRPC 库的一个不支持 IPv6 地址的替换。该实现允许通过 IPv4 "
+"协议支持除了 UDP 和 TCP 之外的其他传输。"
+
+#. summary(udev:libudev0)
+msgid "Dynamic library to access udev device information"
+msgstr "访问 udev 设备信息的动态库"
+
+#. description(udev:libudev0)
+msgid ""
+"This package contains the dynamic library libudev, which provides access to "
+"udev device information"
+msgstr "该软件包包含动态库 libudev，该库提供访问 udev 设备信息功能。"
+
+#. summary(libunistring:libunistring0)
+msgid "GNU Unicode string library - development files"
+msgstr "GNU Unicode 字符串库 - 开发文件"
+
+#. description(libunistring:libunistring0)
+msgid ""
+"This portable C library implements Unicode string types in three flavours: "
+"(UTF-8, UTF-16, UTF-32), together with functions for character processing "
+"(names, classifications, properties) and functions for string processing "
+"(iteration, formatted output, width, word breaks, line breaks, "
+"normalization, case folding and regular expressions)."
+msgstr ""
+"此可移植的 C 库在三个部分实现了 Unicode 字符串类型：(UTF-8,UTF-16,UTF-32)，和字符处理功能 (名称，声明，属性) "
+"和字符串处理功能 (迭代，格式化输出，宽度，分词，换行，正常化，大小写切换和正则表达式)。"
+
+#. summary(upower:libupower-glib1)
+msgid "Power Device Enumeration Framework - Library"
+msgstr "电源设备枚举框架 - 库"
+
+#. description(upower:libupower-glib1)
+msgid ""
+"UPower is an abstraction for enumerating power devices, listening to device "
+"events and querying history and statistics. Any application or service on "
+"the system can access the org.freedesktop.UPower service via the system "
+"message bus. Some operations (such as suspending the system) are restricted "
+"using PolicyKit."
+msgstr ""
+"UPower 是一个枚举电源设备、监听设备事件和查询历史和统计的抽象。任何系统上的应用程序或服务都可以通过系统消息总线访问 "
+"org.freedesktop.UPower 服务。有些操作 (如挂起系统) 严格限于使用 PolicyKit。"
+
+#. summary(libusb-compat:libusb-0_1-4)
+msgid "libusb-1.0 Compatibility Library for libusb-0.1"
+msgstr "libusb-1.0 的 libusb-0.1 兼容库"
+
+#. description(libusb-compat:libusb-0_1-4)
+msgid ""
+"A compatibility layer allowing applications written for libusb-0.1 to work "
+"with libusb-1.0. libusb-compat-0.1 attempts to look, feel, smell and walk "
+"like libusb-0.1."
+msgstr ""
+"允许为 libusb-0.1 写的应用程序在 libusb-1.0 下运行的兼容层。libusb-compat-0.1 试图模拟 libusb-0.1。"
+
+#. summary(libusb-1_0:libusb-1_0-0)
+msgid "USB Library"
+msgstr "USB 库"
+
+#. description(libusb-1_0:libusb-1_0-0)
+msgid "Libusb is a library that allows userspace access to USB devices."
+msgstr "Libusb 是一个允许用户空间访问 USB 设备的库。"
+
+#. summary(usbmuxd:libusbmuxd2)
+msgid ""
+"A library to abstract socket/protocol communication to the usbmuxd daemon"
+msgstr "一个抽象到 usbmuxd 守护精灵的套接字/协议通信的库"
+
+#. description(usbmuxd:libusbmuxd2)
+msgid ""
+"This package contains the libusbmuxd library which provides an interface to "
+"talk to the usbmux daemon, create connections and list attached devices."
+msgstr "此软件包包含了 libusbmuxd 库，提供了与 usbmux 守护精灵通信、创建连接和列出挂载设备的接口。"
+
+#. summary(libustr:libustr-1_0-1)
+msgid "String library, very low memory overhead, simple to import"
+msgstr "字符串库，非常低的内存开销，方便导入"
+
+#. description(libustr:libustr-1_0-1)
+msgid ""
+"Micro string library, very low overhead from plain strdup() (Ave. 44% for "
+"0-20B strings). Very easy to use in existing C code. At it's simplest you "
+"can just include a single header file into your .c and start using it. This "
+"package also distributes pre-built shared libraries."
+msgstr ""
+"微型字符串库，与 plain strdup() 相比非常低的内存开销 (0-20B 的字符串平均为前者的 44%)。非常容易在已有的 C "
+"代码中使用。超级简单，只需包含一个单独的头文件到您的 .c 文件然后用就可以了。该软件包也分发预编译的共享库。"
+
+#. summary(util-linux:libuuid1)
+msgid "Library to generate UUIDs"
+msgstr "用来生成 UUID 的库"
+
+#. description(util-linux:libuuid1)
+msgid "A library to generate universally unique IDs (UUIDs)."
+msgstr "一个用来生成通用独一 ID (UUID) 的库。"
+
+#. summary(v4l-utils:libv4l)
+msgid "Collection of video4linux support libraries"
+msgstr "video4linux 支持库收藏"
+
+#. description(v4l-utils:libv4l)
+msgid ""
+"libv4l is a collection of libraries which adds a thin abstraction layer on "
+"top of video4linux2 devices. The purpose of this (thin) layer is to make it "
+"easy for application writers to support a wide variety of devices without "
+"having to write separate code for different devices in the same class. "
+"libv4l consists of 3 different libraries: libv4lconvert, libv4l1 and libv4l2."
+msgstr ""
+
+#. summary(v4l-utils:libv4l1-0)
+msgid "Video4linux support library"
+msgstr ""
+
+#. description(v4l-utils:libv4l1-0)
+msgid ""
+"libv4l1 offers the (deprecated) v4l1 API on top of v4l2 devices, independent "
+"of the drivers for those devices supporting v4l1 compatibility (which many "
+"v4l2 drivers do not).\n"
+"\n"
+"This package contains shared lib for packages that use libv4l1.so.0"
+msgstr ""
+
+#. description(v4l-utils:libv4l2-0)
+msgid ""
+"libv4l2 offers the v4l2 API on top of v4l2 devices, while adding for the "
+"application transparent libv4lconvert conversion where necessary.\n"
+"\n"
+"This package contains shared lib for packages that use libv4l2.so.0"
+msgstr ""
+
+#. description(v4l-utils:libv4lconvert0)
+msgid ""
+"libv4lconvert offers functions to convert from any (known) pixel-format to "
+"V4l2_PIX_FMT_BGR24 or V4l2_PIX_FMT_YUV420.\n"
+"\n"
+"This package contains shared lib for packages that use libv4lconvert.so.0"
+msgstr ""
+
+#. summary(libvisual)
+msgid "Sound Visualization Library"
+msgstr ""
+
+#. description(libvisual)
+msgid ""
+"Libvisual is a library that acts as a middle layer between applications that "
+"need audio visualization and audio visualization plug-ins."
+msgstr ""
+
+#. summary(libvorbis:libvorbis0)
+msgid "The Vorbis General Audio Compression Codec"
+msgstr ""
+
+#. description(libvorbis:libvorbis0)
+msgid ""
+"Vorbis is a fully open, nonproprietary, patent-and-royalty-free, and general-"
+"purpose compressed audio format for audio and music at fixed and variable "
+"bit rates from 16 to 128 kbps/channel.\n"
+"\n"
+"The native bitstream format of Vorbis is libogg (Ogg). Alternatively, "
+"libmatroska (matroska) can also be used."
+msgstr ""
+
+#. summary(wavpack:libwavpack1)
+msgid "Free Hybrid Lossless Audio Compression Format"
+msgstr ""
+
+#. description(wavpack:libwavpack1)
+msgid ""
+"WavPack is a completely open audio compression format providing lossless, "
+"high-quality lossy, and a unique hybrid compression mode. Although the "
+"technology is loosely based on previous versions of WavPack, the new version "
+"4 format has been designed from the ground up to offer unparalleled "
+"performance and functionality.\n"
+"\n"
+"In the default lossless mode WavPack acts just like a WinZip compressor for "
+"audio files. However, unlike MP3 or WMA encoding which can affect the sound "
+"quality, not a single bit of the original information is lost, so there's no "
+"chance of degradation. This makes lossless mode ideal for archiving audio "
+"material or any other situation where quality is paramount. The compression "
+"ratio depends on the source material, but generally is between 30% and 70%.\n"
+"\n"
+"The hybrid mode provides all the advantages of lossless compression with an "
+"additional bonus. Instead of creating a single file, this mode creates both "
+"a relatively small, high-quality lossy file that can be used all by itself, "
+"and a \"correction\" file that (when combined with the lossy file) provides "
+"full lossless restoration. For some users this means never having to choose "
+"between lossless and lossy compression!"
+msgstr ""
+
+#. summary(samba:libwbclient0)
+msgid "Samba libwbclient Library"
+msgstr ""
+
+#. description(samba:libwbclient0)
+msgid ""
+"This package includes the wbclient library.\n"
+"\n"
+" Source Timestamp: 2798 Branch      : 3.6.5.PTF"
+msgstr ""
+
+#. summary(libwebkit:libwebkitgtk-1_0-0)
+msgid "Library for rendering web content, GTK+ Port"
+msgstr ""
+
+#. summary(libwmf:libwmf-0_2-7)
+#, fuzzy
+msgid "Library for reading Metafile Images"
+msgstr "等待导航栏应用程序"
+
+#. description(libwmf:libwmf-0_2-7)
+msgid "This library reads metafile images."
+msgstr ""
+
+#. summary(libx86:libx86-1)
+msgid "x86 real-mode library"
+msgstr ""
+
+#. description(libx86:libx86-1)
+msgid ""
+"A library to provide support for making real-mode calls x86 calls. On x86 "
+"hardware, vm86 mode is used. On other platforms, x86 emulation is provided."
+msgstr ""
+
+#. summary(libx86emu:libx86emu1)
+msgid "A small x86 emulation library."
+msgstr ""
+
+#. description(libx86emu:libx86emu1)
+msgid ""
+"Small x86 emulation library with focus of easy usage and extended execution "
+"logging functions."
+msgstr ""
+
+#. summary(kernel-desktop)
+msgid "Kernel optimized for the desktop"
+msgstr ""
+
+#. description(kernel-desktop)
+msgid ""
+"This kernel is optimized for the desktop. It is configured for lower latency "
+"and has many of the features that aren't usually used on desktop machines "
+"disabled.\n"
+"\n"
+" This kernel supports up to 64GB of main memory. It requires Physical "
+"Addressing Extensions (PAE), which were introduced with the Pentium Pro "
+"processor.\n"
+"\n"
+"PAE is not only more physical address space but also important for the \"no "
+"execute\" feature which disables execution of code that is marked as non-"
+"executable. Therefore, the PAE kernel should be used on any systems that "
+"support it, regardless of the amount of main memory.\n"
+"\n"
+"\n"
+"\n"
+"Source Timestamp: 2012-05-09 16:46:42 +0200 GIT Revision: "
+"1f260fb273a5662350fd0682fc76a409d6421c02 GIT Branch: master"
+msgstr ""
+
+#. summary(adaptec-firmware)
+msgid "Firmware files for Adaptec SAS Cards (AIC94xx Series)"
+msgstr ""
+
+#. description(adaptec-firmware)
+msgid ""
+"Firmware files for the Adaptec AIC94xx (Razor) Series of SAS HBA Adapters."
+msgstr ""
+
+#. summary(alsa-firmware)
+msgid "Firmware Data Files for ALSA"
+msgstr ""
+
+#. description(alsa-firmware)
+msgid "Various firmware data files for ALSA drivers."
+msgstr ""
+
+#. summary(atmel-firmware)
+msgid "Firmware for Atmel at76c50x Wireless Network Chips"
+msgstr ""
+
+#. description(atmel-firmware)
+msgid ""
+"The drivers for Atmel at76c50x wireless network chips in the Linux 2.6.x "
+"kernel and at http://at76c503a.berlios.de/ do not include the firmware and "
+"this firmware needs to be loaded by the host on most cards using these "
+"chips.\n"
+"\n"
+"This package provides the firmware images that should be automatically "
+"loaded as needed by the hotplug system. It also provides a small loader "
+"utility that can be used to accomplish the same thing when hotplug is not in "
+"use."
+msgstr ""
+
+#. summary(autoyast2:autoyast2-installation)
+msgid "YaST2 - Auto Installation Modules"
+msgstr ""
+
+#. description(autoyast2:autoyast2-installation)
+msgid ""
+"This package performs auto-installation relying on a control file generated "
+"with the autoyast2 package."
+msgstr ""
+
+#. summary(branding-openSUSE:bootsplash-branding-openSUSE)
+msgid "openSUSE Bootsplash Theme"
+msgstr ""
+
+#. description(branding-openSUSE:bootsplash-branding-openSUSE)
+#, fuzzy
+msgid "This package contains a theme with openSUSE artwork for bootsplash"
+msgstr "包中含有意外的版本"
+
+#. summary(branding-openSUSE)
+msgid "SuSE Brand File"
+msgstr ""
+
+#. description(branding-openSUSE)
+msgid ""
+"This package contains the file /etc/SuSE-brand, and its name is used as a "
+"trigger for installation of correct vendor brand packages."
+msgstr ""
+
+#. summary(bundle-lang-common:bundle-lang-common-en)
+msgid "Translations for a Group of Programs"
+msgstr ""
+
+#. description(bundle-lang-common:bundle-lang-common-en)
+msgid ""
+"This package groups translations for a dozen of programs which are both on "
+"the GNOME and KDE CD into languages, not split out into extra packages."
+msgstr ""
+
+#. summary(ca-certificates)
+msgid "Utilities for system wide CA certificate installation"
+msgstr ""
+
+#. summary(ca-certificates-mozilla)
+msgid "CA certificates for OpenSSL"
+msgstr ""
+
+#. description(ca-certificates-mozilla)
+msgid ""
+"This package contains some CA root certificates for OpenSSL extracted from "
+"MozillaFirefox"
+msgstr ""
+
+#. summary(cantarell-fonts)
+msgid "Contemporary Humanist Sans Serif Font"
+msgstr ""
+
+#. description(cantarell-fonts)
+msgid ""
+"The Cantarell font family is a contemporary Humanist sans serif designed for "
+"on-screen reading."
+msgstr ""
+
+#. summary(scout:command-not-found)
+msgid "Command Not Found extension for shell"
+msgstr "Shell 的 Command Not Found 扩展"
+
+#. description(scout:command-not-found)
+msgid ""
+"The \"command not found\" message is not very helpful. If e.g. the unzip "
+"command is not found but it's available in a package, it would be very "
+"interesting if the system could tell that the command is currently not "
+"available, but installing a package would provide it."
+msgstr ""
+
+#. summary(dd_rhelp)
+msgid "Bash Helper Script That Handles dd_rescue"
+msgstr "处理 dd_rescue 的 Bash 助手脚本"
+
+#. description(dd_rhelp)
+msgid ""
+"dd_rhelp is a bash helper script that handles dd_rescue. dd_rescue roughly "
+"acts as the dd linux command with the caracteristic to NOT stop when it "
+"falls on read/write.\n"
+"\n"
+"dd_rhelp intelligently controls dd_rescue to first copy all blocks from "
+"areas that work and only then tries to approach the bad spots from both "
+"sides."
+msgstr ""
+"dd_rhelp 是一个处理 dd_rescue 的 bash 助手脚本。dd_rescue 大致和 dd linux 命令相同，但在读写失败时不停止。\n"
+"\n"
+"dd_rhelp 智能地控制 dd_rescue 来先从好的部分复制所有块，然后再尝试从两面逼近坏的地方。"
+
+#. summary(dejavu-fonts)
+msgid "DejaVu Truetype Fonts"
+msgstr "DejaVu Truetype 字体"
+
+#. description(dejavu-fonts)
+msgid ""
+"The DejaVu fonts are a font family based on the Bitstream Vera Fonts. Its "
+"purpose is to provide a wider range of characters while maintaining the "
+"original look and feel through the process of collaborative development."
+msgstr ""
+"DejaVu 字体是基于 Bitstream Vera 字体的字体家族。它的目的是提供更大的字符范围的同时通过协同开发过程维持原有外观和感觉。"
+
+#. summary(desktop-data-openSUSE)
+msgid "Shared Desktop Files for openSUSE"
+msgstr "openSUSE 的共享桌面文件"
+
+#. description(desktop-data-openSUSE)
+msgid ""
+"This package contains shared desktop files, like the default applications "
+"menu structure and the default wallpaper."
+msgstr "该软件包包含像默认应用程序菜单结构和默认壁纸这样的共享桌面文件。"
+
+#. summary(dmz-icon-theme-cursors)
+msgid "DMZ Cursor Theme"
+msgstr "DMZ 鼠标主题"
+
+#. description(dmz-icon-theme-cursors)
+msgid "This package contains the DMZ cursor theme for X."
+msgstr "该软件包包含 X 窗口系统的 DMZ 鼠标主题。"
+
+#. summary(fonts-config)
+msgid "Configures Fonts for X Windows and other applications"
+msgstr "为 X 窗口系统和其他应用程序配置字体"
+
+#. description(fonts-config)
+msgid ""
+"Configures Fonts for X Windows and other applications.\n"
+"\n"
+"Usually fonts-config is called automatically via SuSEconfig (SuSEconfig\n"
+"--module fonts), which is usually automatically called by YaST2. You can "
+"also execute fonts-config directly, which is mainly useful for debugging it."
+msgstr ""
+"为 X 窗口系统和其他应用程序配置字体。\n"
+"\n"
+"通常 SuSEconfig (SuSEconfig --module fonts) 会自动调用 fonts-config，SuSEconfig 通常由 "
+"YaST2 自动调用。您也可以直接执行 fonts-config，这主要在调试时会有帮助。"
+
+#. summary(gconf2-branding-openSUSE)
+msgid "openSUSE defaults for the GNOME configuration system"
+msgstr "GNOME 配置系统的 openSUSE 默认设置"
+
+#. description(gconf2-branding-openSUSE)
+msgid ""
+"This package provides openSUSE defaults for configurations based on GConf "
+"database system."
+msgstr "该软件包为基于 GConf 数据库系统的配置提供 openSUSE 默认设置。"
+
+#. summary(gegl:gegl-0_2-lang)
+msgid "Languages for package gegl"
+msgstr "软件 gegl 的语言文件"
+
+#. description(gegl:gegl-0_2-lang)
+msgid "Provides translations to the package gegl"
+msgstr "提供软件包 gegl 的翻译"
+
+#. summary(branding-openSUSE:gfxboot-branding-openSUSE)
+msgid "Graphical bootloader openSUSE theme"
+msgstr "图形化引导加载器的 openSUSE 主题"
+
+#. description(branding-openSUSE:gfxboot-branding-openSUSE)
+msgid "openSUSE theme for gfxboot (graphical bootloader for grub)."
+msgstr "gfxboot (grub 的图形化引导加载器) 的 openSUSE 主题。"
+
+#. summary(ghostscript-fonts:ghostscript-fonts-std)
+msgid "Basic Fonts for Ghostscript"
+msgstr "Ghostscript 的基础字体"
+
+#. summary(branding-openSUSE:gimp-branding-openSUSE)
+msgid "The GNU Image Manipulation Program - openSUSE Splash Screen"
+msgstr "GNU 图片操控程序 - openSUSE 启动动画"
+
+#. description(branding-openSUSE:gimp-branding-openSUSE)
+msgid ""
+"This package contains the openSUSE splash screen for the The GNU Image "
+"Manipulation Program (GIMP) package"
+msgstr "该软件包包含 GNU 图片操控程序 (GIMP) 软件包的 openSUSE 启动动画"
+
+#. summary(gimp:gimp-lang)
+msgid "Languages for package gimp"
+msgstr "软件包 gimp 的语言文件"
+
+#. description(gimp:gimp-lang)
+msgid "Provides translations to the package gimp"
+msgstr "为软件包 gimp 提供翻译"
+
+#. summary(glib2-branding-openSUSE:gio-branding-openSUSE)
+msgid "openSUSE definitions of default settings and applications"
+msgstr "openSUSE 定义的默认设置和应用程序"
+
+#. description(glib2-branding-openSUSE:gio-branding-openSUSE)
+msgid ""
+"This package provides openSUSE defaults for settings stored with GSettings "
+"and applications used by the MIME system."
+msgstr "该软件包提供了 GSettings 中存储的配置的 openSUSE 默认设置和 MIME 系统使用默认的应用程序。"
+
+#. summary(google-droid-fonts)
+msgid "Fonts with extensive style and language support developed for Android"
+msgstr "为 Android 开发的带可扩展样式和语言支持的字体"
+
+#. description(google-droid-fonts)
+msgid ""
+"The Droid family of fonts consists of Droid Sans, Droid Sans Mono and Droid "
+"Serif. Each contains extensive character set coverage including Western "
+"Europe, Eastern/Central Europe, Baltic, Cyrillic, Greek and Turkish support. "
+"The Droid Sans regular font also includes support for Simplified and "
+"Traditional Chinese, Japanese and Korean support for the GB2312, Big 5, JIS "
+"0208 and KSC 5601 character sets respectively. Droid was designed by "
+"Ascender's Steve Matteson to provide optimal quality and comfort on a mobile "
+"handset when rendered in application menus, web browsers and for other "
+"screen text. - Ascender Press Release, http://www.ascendercorp.com/"
+"pr/2007-11-12/"
+msgstr ""
+"Droid 字体家族包括 Droid 无衬线体，Droid 无衬线等宽体和 Droid "
+"衬线体。每个都有包括西欧，东/中欧，波罗的海、西里尔、希腊和土耳其支持的扩展字符集。Droid 无衬线常规字体也包含了对简繁中文和日韩 GB2312, "
+"Big5, JIS0208 和 KSC 5601 相关字符集的支持。Droid 由 Ascender "
+"的斯蒂夫马特森设计，用来为移动手持设备的应用程序菜单、网页浏览器和其他屏幕文字渲染提供最佳质量和舒适度。- Ascender "
+"新闻稿，http://www.ascendercorp.com/pr/2007-11-12/"
+
+#. summary(gtk2:gtk2-data)
+msgid "The GTK+ toolkit library (version 2) -- Data Files"
+msgstr "GTK+ 工具库 (第 2 版) - 数据文件"
+
+#. summary(gtk3:gtk3-data)
+msgid "The GTK+ toolkit library (version 3) -- Data Files"
+msgstr "GTK+ 工具库 (第 3 版) - 数据文件"
+
+#. summary(hicolor-icon-theme)
+msgid "Fallback Icon Theme"
+msgstr "备用图标主题"
+
+#. description(hicolor-icon-theme)
+msgid ""
+"This is the default fallback theme used by implementations of the icon theme "
+"specification."
+msgstr "这是被图标主题规范实现所使用的默认备用主题"
+
+#. summary(hicolor-icon-theme-branding-openSUSE)
+msgid "Fallback Icon Theme -- openSUSE Icons"
+msgstr "备用图标主题 - openSUSE 图标"
+
+#. description(hicolor-icon-theme-branding-openSUSE)
+msgid ""
+"This is the default fallback theme used by implementations of the icon theme "
+"specification.\n"
+"\n"
+"This package provides openSUSE icons for hicolor-icon-theme."
+msgstr ""
+"这是被图标主题规范实现所使用的默认备用主题。\n"
+"\n"
+"该软件包为 hicolor-icon-theme 提供 openSUSE 图标。"
+
+#. summary(intlfnts:ifnteuro)
+msgid "European fonts for the X Window System"
+msgstr "X 窗口系统的欧洲字体"
+
+#. description(intlfnts:ifnteuro)
+msgid ""
+"European fonts for the X Window System (ISO 8859-1, 8859-2, 8859-3, 8859-4, "
+"8859-5/9, 8859-7, and 8859-8 together with KOI8-1/GOST19768.74-1)."
+msgstr ""
+"X 窗口系统的欧洲字体 (ISO 8859-1, 8859-2, 8859-3, 8859-4, 8859-5/9, 8859-7, 8859-8 HE  "
+"KOI8-1/GOST19768.74-1)。"
+
+#. summary(info2html)
+msgid "Program to Convert Info Pages into HTML Pages"
+msgstr "用来将信息页面转换为 HTML 页面的程序"
+
+#. description(info2html)
+msgid ""
+"This package contains the CGI script 'info2html' that creates HTML pages "
+"from info documents on demand, to be sent over the HTTP protocol.\n"
+"\n"
+"Follow references to nodes in info documents to view the corresponding info "
+"files in HTML."
+msgstr ""
+"该软件包包含 CGI 脚本 'info2html'，该脚本按需从消息文档创建 HTML 页面，HTML 通过 HTTP 协议发送。\n"
+"\n"
+"根据消息文档中的节点引用来在 HTML 中查看相关信息文件。"
+
+#. summary(ipw-firmware)
+msgid "Firmware for Intel PRO/Wireless WLAN Cards"
+msgstr "因特尔 PRO/无线 WLAN 卡的固件"
+
+#. description(ipw-firmware)
+msgid ""
+"This package contains firmware binaries needed for Intel PRO/Wireless "
+"2100/2200BG (aka Centrino) WLAN cards. The package is covered by the Intel "
+"license.\tSee http://ipw2100.sourceforge.net/firmware.php?fid=4."
+msgstr ""
+"该软件包包含因特尔 PRO/无线 2100/2200BG (迅驰) WLAN 卡需要的固件二进制文件。该软件包由因特尔协议分发。见 "
+"http://ipw2100.sourceforge.net/firmware.php?fid=4."
+
+#. summary(iso-codes)
+msgid "ISO Code Lists and Translations"
+msgstr "ISO Code 列表和翻译"
+
+#. description(iso-codes)
+msgid ""
+"This package provides the ISO-639 language code list, the ISO-3166 territory "
+"code list, ISO-3166-2 subterritory lists, and all their translations in "
+"gettext .po form."
+msgstr ""
+"该软件包提供 ISO-639 语言代码列表，ISO-3166 领域代码列表，ISO-3166-2 子领域列表，和它们的 gettext .po "
+"格式的所有翻译。"
+
+#. summary(kernel-firmware)
+msgid "Linux kernel firmware files"
+msgstr "Linux 内核固件文件"
+
+#. description(kernel-firmware)
+msgid ""
+"This package contains the firmware for in-kernel drivers that was previously "
+"included in the kernel. It is shared by all kernels >= 2.6.27-rc1."
+msgstr "此软件包包含以前被包含在内核中的内核内置驱动的固件。它为高于 2.6.27-rc1 的内核所共享。"
+
+#. summary(lensfun:lensfun-data)
+msgid "Data files for lensfun/lensfun-devel"
+msgstr "lensfun/lensfun-devel 的数据文件"
+
+#. description(lensfun:lensfun-data)
+msgid ""
+"The goal of the lensfun library is to provide a open source database of "
+"photographic lenses and their characteristics. In the past there was a "
+"effort in this direction (see http://www.epaperpress.com/ptlens/), but then "
+"author decided to take the commercial route and the database froze at the "
+"last public stage. This database was used as the basement on which lensfun "
+"database grew, thanks to PTLens author which gave his permission for this, "
+"while the code was totally rewritten from scratch (and the database was "
+"converted to a totally new, XML-based format).\n"
+"\n"
+"The lensfun library not only provides a way to read the database and search "
+"for specific things in it, but also provides a set of algorithms for "
+"correcting images based on detailed knowledge of lens properties and "
+"calibration data. Right now lensfun is designed to correct distortion, "
+"transversal (also known as lateral) chromatic aberrations, vignetting and "
+"colour contribution index of the lens."
+msgstr ""
+"lensfun 库的目标是为相机镜头和它们的特征提供开源数据库。过去也有一个此方向的尝试"
+"(见 http://www.epaperpress.com/ptlens/)，但之后作者决定走商业道路，数据库在最后"
+"发布阶段冻结了。该数据库是 lensfun 数据库开发的基础，感谢 PTLens 作者给予权限。"
+"但代码是完全重写的 (数据库也被转换为一个全新的、基于 XML 的格式)。\n"
+"\n"
+"lensfun 库不但提供了读取数据库和搜索数据库中内容的方法，还提供了一系列基于镜头属性和"
+"校准数据的详细信息的图片修正算法。目前 lensfun 设计用来修正失真、横向 (也做侧向) 色差像差、"
+"渐晕和镜头的色彩贡献指数。"
+
+#. summary(libX11:libX11-data)
+msgid "Shared data for the Core X11 protocol library"
+msgstr "核心 X11 协议库的共享数据"
+
+#. summary(liberation-fonts)
+msgid "Liberation Fonts"
+msgstr "Liberation 字体"
+
+#. description(liberation-fonts)
+msgid ""
+"Free fonts which are metric compatible to \"Arial\", \"Times New Roman\" and "
+"\"Courier New\"."
+msgstr "和 \"Arial\", \"泰晤士新罗马体\" 和 \"Courier New\" 字体兼容的自由字体。"
+
+#. summary(libnl3:libnl-config)
+msgid "Name maps for libnl"
+msgstr "libnl 的名称地图"
+
+#. description(libnl3:libnl-config)
+msgid ""
+"This package contains configuration files for libnl and programs using the "
+"same; in particular\n"
+"- name maps for class-ids -- class-names (like /etc/services)\n"
+"- aliases for locations within a packet (ip6.dst => byte offset)"
+msgstr ""
+"该软件包包含 libnl 的配置文件和使用相同，尤其是类 ID/类名（如 /etc/services)、数据包中地址别名 (ip6.dst=> 字节偏移) "
+"相同的程序。"
+
+#. summary(efibootmgr)
+msgid "EFI Boot Manager"
+msgstr "EFI 引导管理器"
+
+#. description(efibootmgr)
+msgid ""
+"The EFI Boot Manager allows the user to edit the Intel Extensible Firmware "
+"Interface (EFI) Boot Manager variables.  Additional information about the "
+"EFI can be found at <http://developer.intel.com/technology/efi/efi.htm>."
+msgstr ""
+"EFI 引导管理器允许用户编辑因特尔可扩展固件接口 (EFI) 的引导管理器变量。"
+"关于 EFI 的额外信息可从 <http://developer.intel.com/technology/efi/efi.htm> 获得。"
+
+#. summary(numactl:libnuma1)
+msgid "NUMA Policy Control"
+msgstr "NUMA 策略控制"
+
+#. description(numactl:libnuma1)
+msgid ""
+"Control NUMA policy for individual processes. Offer libnuma for individual "
+"NUMA policy in applications."
+msgstr "为单个进程控制 NUMA 测试。为应用程序中的单个 NUMA 策略提供 libnuma。"
+
+#, fuzzy
+#~ msgid "C++ Interface for Gio"
+#~ msgstr "启动时选择的接口："
+
+#, fuzzy
+#~ msgid "This package contains the theme engine libraries for GTK2."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Symbolic icon theme for GNOME"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "The GTK+ toolkit library (version 2) -- openSUSE theme configuration"
+#~ msgstr "内核接口"
+
+#, fuzzy
+#~ msgid "ESD output plugin for libao"
+#~ msgstr "7.0 文档"
+
+#, fuzzy
+#~ msgid "This package contains the ESD output plugin for libao."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "The GTK+ toolkit library (version 3) -- openSUSE theme configuration"
+#~ msgstr "内核接口"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package provides functionality used by all the LibreOffice modules."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Import and Export Filters for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package includes the openSUSE branding for LibreOffice office suite."
+#~ msgstr "包中含有意外的版本"

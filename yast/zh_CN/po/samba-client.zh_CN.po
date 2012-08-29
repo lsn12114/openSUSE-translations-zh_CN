@@ -1,0 +1,928 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Samba Client\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:34+0200\n"
+"PO-Revision-Date: 2012-07-20 10:38+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. Samba-client read dialog caption
+#: src/Samba.ycp:665
+msgid "Initializing Samba Client Configuration"
+msgstr "正在初始化 Samba 客户机配置"
+
+#. translators: progress stage 1/2
+#: src/Samba.ycp:672
+msgid "Read the global Samba settings"
+msgstr "读取全局 Samba 设置"
+
+#. translators: progress stage 2/2
+#: src/Samba.ycp:674
+msgid "Read the winbind status"
+msgstr "读取 winbind 状态"
+
+#. translators: progress step 1/2
+#: src/Samba.ycp:677
+msgid "Reading the global Samba settings..."
+msgstr "正在读取全局 Samba 设置..."
+
+#. translators: progress step 2/2
+#: src/Samba.ycp:679
+msgid "Reading the winbind status..."
+msgstr "正在读取 winbind 状态..."
+
+#. translators: progress finished
+#. translators: write progress finished
+#: src/Samba.ycp:681 src/Samba.ycp:766
+msgid "Finished"
+msgstr "已完成"
+
+#. Samba-client read dialog caption
+#: src/Samba.ycp:748
+msgid "Saving Samba Client Configuration"
+msgstr "正在保存 Samba 客户机配置"
+
+#. translators: write progress stage
+#: src/Samba.ycp:752
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. translators: write progress stage
+#: src/Samba.ycp:754
+msgid "Disable Samba services"
+msgstr "禁用 Samba 服务"
+
+#. translators: write progress stage
+#: src/Samba.ycp:756
+msgid "Enable Samba services"
+msgstr "启用 Samba 服务"
+
+#. translators: write progress step
+#: src/Samba.ycp:760
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. translators: write progress step
+#: src/Samba.ycp:762
+msgid "Disabling Samba services..."
+msgstr "正在禁用 Samba 服务..."
+
+#. translators: write progress step
+#: src/Samba.ycp:764
+msgid "Enabling Samba services..."
+msgstr "正在启用 Samba 服务..."
+
+#. write progress stage
+#: src/Samba.ycp:772
+msgid "Write Kerberos configuration"
+msgstr "写入 Kerberos 配置"
+
+#. write progress step
+#: src/Samba.ycp:774
+msgid "Writing Kerberos configuration..."
+msgstr "正在写入 Kerberos 配置..."
+
+#. translators: error message, %1 is filename
+#: src/Samba.ycp:820 src/Samba.ycp:854 src/Samba.ycp:868
+#, ycp-format
+msgid "Cannot write settings to %1."
+msgstr "无法将设置写入 %1。"
+
+#. translators: error message, do not change winbind
+#: src/Samba.ycp:832
+msgid "Cannot start winbind service."
+msgstr "无法启动 winbind 服务。"
+
+#. translators: error message, do not change winbind
+#: src/Samba.ycp:837
+msgid "Cannot start winbind daemon."
+msgstr "不能启动 winbind 守护精灵。"
+
+#. translators: error message, do not change winbind
+#: src/Samba.ycp:843
+msgid "Cannot stop winbind service."
+msgstr "无法停止 winbind 服务。"
+
+#. translators: error message, do not change winbind
+#: src/Samba.ycp:848
+msgid "Cannot stop winbind daemon."
+msgstr "不能停止 winbind 守护精灵。"
+
+#. translators: error message
+#: src/Samba.ycp:859
+msgid "Cannot write PAM settings."
+msgstr "无法写 PAM 设置。"
+
+#. summary header
+#: src/Samba.ycp:1037
+msgid "Global Configuration"
+msgstr "全局配置"
+
+#. autoyast summary item: configured workgroup
+#: src/Samba.ycp:1043
+#, ycp-format
+msgid "Workgroup or Domain: %1"
+msgstr "工作组或域：%1"
+
+#. autoyast summary item
+#: src/Samba.ycp:1049
+msgid "Create Home Directory on Login"
+msgstr "在登录时创建主目录"
+
+#. autoyast summary item
+#: src/Samba.ycp:1054
+msgid "Offline Authentication Enabled"
+msgstr "启用了脱机验证"
+
+#. autoyast summary item
+#: src/Samba.ycp:1060
+#, ycp-format
+msgid "Maximum Number of Shares: %1"
+msgstr "最大共享数：%1"
+
+#. summary item: configured workgroup
+#: src/Samba.ycp:1082
+#, ycp-format
+msgid "<p><b>Workgroup or Domain</b>: %1</p>"
+msgstr "<p><b>工作组或域</b>：%1</p>"
+
+#. summary item: authentication using winbind
+#: src/Samba.ycp:1084
+#, ycp-format
+msgid "<p><b>Authentication with SMB</b>: %1</p>"
+msgstr "<p><b>使用 SMB 身份验证</b>：%1</p>"
+
+#. translators: winbind status in summary
+#: src/Samba.ycp:1086
+msgid "Yes"
+msgstr "是"
+
+#. translators: winbind status in summary
+#: src/Samba.ycp:1088
+msgid "No"
+msgstr "否"
+
+#. text entry label
+#: src/dialogs.ycp:58
+msgid "U&ID"
+msgstr "U&ID"
+
+#. text entry label
+#: src/dialogs.ycp:60
+msgid "&Primary Group Name"
+msgstr "主要组名(&P)"
+
+#. text entry label
+#: src/dialogs.ycp:62
+msgid "&Secondary Group Name"
+msgstr "次要组名(&S)"
+
+#. text entry label
+#: src/dialogs.ycp:64
+msgid "&GID"
+msgstr "&GID"
+
+#. text entry label
+#: src/dialogs.ycp:71
+msgid "&Server Name"
+msgstr "服务器名(&S)"
+
+#. text entry label
+#: src/dialogs.ycp:73
+msgid "Remote &Path"
+msgstr "远程路径(&P)"
+
+#. text entry label
+#: src/dialogs.ycp:75
+msgid "&Mount Point"
+msgstr "挂载点(&M)"
+
+#. text entry label
+#: src/dialogs.ycp:77
+msgid "O&ptions"
+msgstr "选项(&P)"
+
+#. text entry label
+#: src/dialogs.ycp:79
+msgid "&User Name"
+msgstr "用户名(&U)"
+
+#. help text, do not translate 'winbind uid', 'winbind gid'
+#: src/dialogs.ycp:159
+msgid "<p>Specify the <b>Range</b> for Samba user and group IDs (<tt>winbind uid</tt> and <tt>winbind gid</tt> values).</p>"
+msgstr "<p>请指定 Samba 用户和组 ID 的<b>范围</b>（<tt>winbind uid</tt> 和 <tt>winbind gid</tt> 值）。</p>"
+
+#. frame label
+#: src/dialogs.ycp:204
+msgid "&UID Range"
+msgstr "UID 范围(&U)"
+
+#. int field label
+#: src/dialogs.ycp:206
+msgid "&Minimum"
+msgstr "最小值(&M)"
+
+#. int field label
+#: src/dialogs.ycp:208
+msgid "Ma&ximum"
+msgstr "最大值(&X)"
+
+#. frame label
+#: src/dialogs.ycp:212
+msgid "&GID Range"
+msgstr "GID 范围(&G)"
+
+#. int field label
+#: src/dialogs.ycp:214
+msgid "M&inimum"
+msgstr "最小值(&I)"
+
+#. int field label
+#: src/dialogs.ycp:216
+msgid "M&aximum"
+msgstr "最大值(&A)"
+
+#. combobox label
+#: src/dialogs.ycp:220
+msgid "&Kerberos Method"
+msgstr "Kerberos 方法(&K)"
+
+#. frame label
+#: src/dialogs.ycp:223
+msgid "Windows Internet Name Service"
+msgstr "Windows 互联网名称服务"
+
+#. frame label
+#: src/dialogs.ycp:229
+msgid "Mount Server Directories"
+msgstr "挂载服务器目录"
+
+#. table header
+#: src/dialogs.ycp:232
+msgid "Server Name"
+msgstr "服务器名"
+
+#. table header
+#: src/dialogs.ycp:234
+msgid "Remote Path"
+msgstr "远程路径"
+
+#. table header
+#: src/dialogs.ycp:236
+msgid "Local Mount Point"
+msgstr "本地挂载点"
+
+#. table header
+#: src/dialogs.ycp:238
+msgid "User Name"
+msgstr "用户名"
+
+#. table header
+#: src/dialogs.ycp:240
+msgid "Options"
+msgstr "选项"
+
+#. dialog title
+#: src/dialogs.ycp:254
+msgid "Expert Settings"
+msgstr "专家设置"
+
+#. error popup: min >= max
+#: src/dialogs.ycp:305
+msgid ""
+"The minimum value in the range cannot be\n"
+"larger than maximum one.\n"
+msgstr ""
+"该范围中的最小值不能\n"
+"大于最大值。\n"
+
+#. Samba-client workgroup dialog caption
+#: src/dialogs.ycp:340
+msgid "Windows Domain Membership"
+msgstr "Windows 域成员资格"
+
+#. busy popup text
+#: src/dialogs.ycp:366
+msgid "Verifying AD domain membership..."
+msgstr "正在校验活动目录域成员资格..."
+
+#. push button label
+#: src/dialogs.ycp:378
+msgid "&Leave"
+msgstr "离开(&L)"
+
+#. status label
+#: src/dialogs.ycp:384
+msgid "Currently a member of this domain"
+msgstr "此域当前的成员"
+
+#. translators: checkbox label to enable winbind
+#: src/dialogs.ycp:398
+msgid "&Use SMB Information for Linux Authentication"
+msgstr "同时使用 SMB 信息进行 Linux 身份验证(&U)"
+
+#. checkbox label
+#: src/dialogs.ycp:406
+msgid "&Create Home Directory on Login"
+msgstr "在登录时创建主目录(&C)"
+
+#. frame label
+#: src/dialogs.ycp:413
+msgid "Join Settings"
+msgstr "加入设置"
+
+#. text entry label
+#: src/dialogs.ycp:415 src/routines.ycp:84
+msgid "&Username"
+msgstr "用户名(&U)"
+
+#. text entry label
+#: src/dialogs.ycp:418
+msgid "&Password"
+msgstr "密码(&P)"
+
+#. text entry label
+#: src/dialogs.ycp:421
+msgid "Mac&hine Account OU"
+msgstr "机器帐户 OU(&h)"
+
+#. text entry label
+#: src/dialogs.ycp:426
+msgid "Active Directory Server"
+msgstr "活动目录服务器"
+
+#. button label (run YaST client for NTP)
+#: src/dialogs.ycp:432
+msgid "N&TP Configuration..."
+msgstr "NTP 配置(&T)..."
+
+#. checkbox label
+#: src/dialogs.ycp:436
+msgid "Disable Name Service Cache"
+msgstr "禁用名称服务缓存"
+
+#. checkbox label
+#: src/dialogs.ycp:438
+msgid "Start File Alteration Monitor"
+msgstr "启动文件变更监视器"
+
+#. translators: frame label
+#: src/dialogs.ycp:450
+msgid "Membership"
+msgstr "成员资格"
+
+#: src/dialogs.ycp:456
+msgid "&Domain"
+msgstr "域(&D)"
+
+#. translators: text entry label
+#: src/dialogs.ycp:458
+msgid "&Domain or Workgroup"
+msgstr "域或工作组(&D)"
+
+#. checkbox label
+#: src/dialogs.ycp:469
+msgid "Off&line Authentication"
+msgstr "脱机身份验证(&L)"
+
+#. checkbox label
+#: src/dialogs.ycp:474
+msgid "&Single Sign-on for SSH"
+msgstr "为 SSH 单独签名(&S)"
+
+#. button label
+#: src/dialogs.ycp:484
+msgid "&Expert Settings..."
+msgstr "专家设置(&E)..."
+
+#. 1st part of an error message:
+#. winbind cannot provide user information taken from
+#. a workgroup, must be a domain; %1 is the workgroup name
+#: src/dialogs.ycp:628
+#, ycp-format
+msgid ""
+"Cannot use the workgroup\n"
+"'%1' for Linux authentication."
+msgstr ""
+"无法使用工作组\n"
+"\"%1\"进行 Linux 身份验证。"
+
+#. translators: 2nd part of an error message
+#: src/dialogs.ycp:632
+msgid "Enter a valid domain."
+msgstr "输入有效的域。"
+
+#. translators: 2nd part of an error message
+#: src/dialogs.ycp:634
+msgid ""
+"Enter a domain or disable\n"
+"using SMB for Linux authentication."
+msgstr ""
+"输入域或\n"
+"禁止使用 SMB 进行 Linux 验证。"
+
+#. continue/cancel popup
+#: src/dialogs.ycp:650
+#, ycp-format
+msgid ""
+"Configuring this system as a client for Active Directory resets the following\n"
+"settings in smb.conf to the default values:\n"
+"%1"
+msgstr ""
+"要将此系统配置成活动目录客户机，请将 smb.conf 中的以下\n"
+"设置重置回默认值：\n"
+" %1"
+
+#. 1st part of an error message:
+#. winbind cannot provide user information if the host
+#. is not in a domain
+#: src/dialogs.ycp:664
+msgid ""
+"The host must be a member of a domain\n"
+"for Linux authentication using SMB."
+msgstr ""
+"要使用 SMB 进行 Linux 验证，\n"
+"主机必须是域的成员。"
+
+#. translators: 2nd part of an error message
+#: src/dialogs.ycp:667
+msgid ""
+"Join a domain or disable use of SMB\n"
+"for Linux authentication."
+msgstr ""
+"加入一个域或禁止使用 SMB \n"
+"进行 Linux 身份验证。"
+
+#. used outside this module for autologin function. must be complete sentence.
+#: src/dialogs.ycp:673
+msgid "Samba is now enabled."
+msgstr "现在已启用了 Samba。"
+
+#. yes/no popup text
+#: src/dialogs.ycp:681
+msgid ""
+"In a Microsoft environment,\n"
+"hostname changes with DHCP are problematic.\n"
+"Disable hostname changes with DHCP?"
+msgstr ""
+"在微软环境下，\n"
+"根据 DHCP 改变主机名是有问题的。\n"
+"禁用根据 DHCP 改变主机名？"
+
+#: src/dialogs.ycp:710
+msgid ""
+"This change only affects newly created processes and not already\n"
+"running services. Restart your services manually or reboot \n"
+"the machine to enable it for all services.\n"
+msgstr ""
+"此更改只影响刚创建的进程，不影响\n"
+"已在运行的服务。手动重启动服务或重引导\n"
+"计算机以为所有服务启用它。\n"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:40
+msgid ""
+"<p><b><big>Initializing Samba Client Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在初始化 Samba 客户机配置</big></b><br>\n"
+"</p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:45
+msgid ""
+"<p><b><big>Aborting the Initialization</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b>.</p>\n"
+msgstr ""
+"<p><b><big>中止初始化</big></b><br>\n"
+"可以按<b>中止</b>安全地中止配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:50
+msgid ""
+"<p><b><big>Saving Samba Client Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在保存 Samba 客户机配置</big></b><br>\n"
+"</p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:55
+msgid ""
+"<p><b><big>Aborting Saving</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs you whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在中止保存</big></b><br>\n"
+"按<b>中止</b>中止该保存过程。\n"
+"另一个对话框将指示这样操作是否安全。\n"
+"</p>\n"
+
+#. translators: Samba workgroup dialog help title
+#. translators: Samba membership dialog help title (installation)
+#: src/helps.ycp:62 src/helps.ycp:79
+msgid "<p><b><big>Selecting Windows Domain Membership</big></b></p>"
+msgstr "<p><b><big>选择 Windows 域成员资格</big></b></p>"
+
+#. translators: Samba workgroup dialog help 1/3
+#: src/helps.ycp:64
+msgid ""
+"<p>A Linux client can be a member of a workgroup, NT domain, or Active Directory domain.\n"
+"Specify the name of the membership.</p>\n"
+msgstr ""
+"<p>Linux 客户机可以是一个工作组、NT 域或活动域的成员。\n"
+"在此指定成员名称。</p>\n"
+
+#. Samba role dialog help 2/3
+#: src/helps.ycp:69
+msgid ""
+"<p><b>Use SMB Information for Linux Authentication</b> allows \n"
+"verification of passwords with the NT server or the Kerberos server if joining an AD domain.</p>\n"
+msgstr ""
+"<p>如果加入了活动目录域，则<b>同时使用用于 Linux 认证的 SMB 信息</b>\n"
+"使得能够通过验证密码向 NT 或 Kerberos 服务器认证。</p>\n"
+
+#. Samba role dialog help 3/3
+#: src/helps.ycp:74
+msgid ""
+"<p>When you press <b>OK</b>, the system verifies the membership and,\n"
+"if it is a NT or Active Directory domain, allows this host to join the domain.</p>\n"
+msgstr ""
+"<p>按<b>完成</b>后，系统校验成员资格，\n"
+"如果它是一个 NT 域或活动目录域，则允许此主机加入该域。</p>\n"
+
+#. translators: Samba membership dialog help 1/2 (installation)
+#: src/helps.ycp:81
+msgid "<p>Specify the name of the NT or Active Directory domain.</p>\n"
+msgstr "<p>指定 NT 或活动目录域名称。</p>\n"
+
+#. translators: Samba membership dialog help 2/2 (installation)
+#: src/helps.ycp:84
+msgid ""
+"<p>When you press <b>Next</b>, the system verifies the domain and\n"
+"allows this host to join the domain.</p>\n"
+msgstr ""
+"<p>按<b>下一步</b>后，系统校验域并\n"
+"允许此主机加入该域。</p>\n"
+
+#. Samba membership dialog help (common part 1/4)
+#: src/helps.ycp:89
+msgid "<p>Check <b>Create Home Directory on Login</b> to have local home directories created on the first login.</p>"
+msgstr "<p>选择<b>登录时创建主目录</b>以便在首次登录时创建本地主目录。</p>"
+
+#. Samba membership dialog help (common part 2/4)
+#: src/helps.ycp:92
+msgid "<p><b>Offline Authentication</b> enables the user to log in even if there is no connection to the domain controller. For this option to work, you must log in to your domain at least once. The user's credentials are then stored encrypted on your computer and are reused for a domain login when no connection to the domain controller can be established. This is especially useful for mobile users."
+msgstr "<p><b>脱机身份验证</b> 使用户在未连接域控制器的情况下也可登录。要使此选项生效，必须至少登录一次您的域。然后将用户的身份凭证加密存储在计算机中，并在无法连接域控制器时复用于域登录。这对于移动用户特别有用。"
+
+#. Samba membership dialog help (common part)
+#: src/helps.ycp:95
+msgid "<p>Click <b>Expert Settings</b> to enable advanced features such as WINS options or mounting server home directories from Active Directory domains.</p>"
+msgstr "<p>点击<b>专家设置</b>来启用高级功能如 WINS 选项或从活动目录域挂载服务器家目录。</p>"
+
+#. Samba membership dialog - additional help for autoyast config
+#: src/helps.ycp:98
+msgid "<p><b>Join Settings</b></p>"
+msgstr "<p><b>加入设置</b></p>"
+
+#. Samba membership dialog - additional help for autoyast config
+#: src/helps.ycp:101
+msgid ""
+"<p>Set the <b>Username</b> and <b>Password</b> that should be used for joining\n"
+"the selected domain during autoinstallation. Note that the password will be saved to the profile in cleartext (unencrypted) form.</p>"
+msgstr "<p>设置在自动安装期间为加入所选的域而需使用的<b>用户名</b>和<b>密码</b>。请注意，此密码将以明文形式(不加密)保存在配置文件中。</p>"
+
+#. Samba membership dialog - additional help for autoyast config
+#: src/helps.ycp:104
+msgid "<p>Specify the <b>Active Directory Server</b> to use for joining an Active Directory domain. This is also used as the value for KDC in the Kerberos configuration.</p>"
+msgstr "<p>指定<b>活动目录服务器</b>以用于加入活动目录域。这在Kerberos 配置中也用作 KDC 的值。</p>"
+
+#. Samba membership dialog - additional help for possible NTP configuration
+#: src/helps.ycp:107
+msgid ""
+"<p>\n"
+"To synchronize your time with an NTP server, configure your computer\n"
+"as an NTP client. Access the configuration with <b>NTP Configuration</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要将您的时间与 NTP 服务器同步，请将计算机配置\n"
+"为 NTP 客户机。通过 <b>NTP 配置</b>访问此配置。\n"
+"</p>\n"
+
+#. default value of Machine Account
+#: src/routines.ycp:62
+msgid "(default)"
+msgstr "(默认)"
+
+#. combo box label
+#: src/routines.ycp:70
+msgid "&Machine Account OU"
+msgstr "机器帐户 OU(&M)"
+
+#: src/routines.ycp:75
+msgid "O&btain list"
+msgstr "获取列表(&B)"
+
+#. error popup
+#: src/routines.ycp:116
+msgid ""
+"User name and password are required\n"
+"for listing the machine accounts."
+msgstr ""
+"要列出机器帐户，需要\n"
+"用户名和密码。"
+
+#: src/routines.ycp:128
+msgid "&Machine Account"
+msgstr "机器帐户(&M)"
+
+#. translators: text for busy pop-up
+#: src/routines.ycp:173
+msgid "Verifying workgroup membership..."
+msgstr "正在校验工作组成员资格..."
+
+#. popup to fill in the domain leaving info; %1 is the domain name
+#: src/routines.ycp:197
+#, ycp-format
+msgid "Enter the username and the password for leaving the domain %1."
+msgstr "请输入用户名和密码以离开域 %1。"
+
+#. popup to fill in the domain joining info; %1 is the domain name
+#: src/routines.ycp:217
+#, ycp-format
+msgid "Enter the username and the password for joining the domain %1."
+msgstr "请输入用户名和密码以加入域 %1。"
+
+#: src/routines.ycp:219
+msgid "To join the domain anonymously, leave the text entries empty."
+msgstr "要以匿名方式加入域，将文本输入区留空。"
+
+#. Translators: Information popup, %1 is the name of the domain
+#. translators: result message for joindomain command line action 
+#: src/routines.ycp:233 src/samba-client.ycp:133
+#, ycp-format
+msgid "Domain %1 joined successfully."
+msgstr "成功加入域 %1。"
+
+#. we don't know the domain status
+#. translators: popup question, the domain status cannot be found out, ask user what to do
+#. %1 is the domain name
+#: src/routines.ycp:262
+#, ycp-format
+msgid ""
+"Cannot automatically determine if this host\n"
+"is a member of the domain %1."
+msgstr ""
+"无法自动确定此主机\n"
+"是否为域 %1 的成员。"
+
+#: src/routines.ycp:263 src/routines.ycp:268
+#, ycp-format
+msgid "Join the domain %1?"
+msgstr "加入域 %1 吗？"
+
+#. translators: popup question, The workgroup is a domain in fact and the machine is not a member, ask user what to do.
+#. %1 is the domain name
+#: src/routines.ycp:267
+#, ycp-format
+msgid ""
+"This host is not a member\n"
+"of the domain %1."
+msgstr ""
+"此主机不是\n"
+"域 %1 的成员。"
+
+#. popup question
+#: src/routines.ycp:299
+msgid "User shares already exist.  Keep or delete these shares?"
+msgstr "用户共享已存在。保留还是删除这些共享？"
+
+#. button label
+#: src/routines.ycp:301
+msgid "&Keep"
+msgstr "保留(&K)"
+
+#. button label
+#: src/routines.ycp:303
+msgid "&Delete"
+msgstr "删除(&D)"
+
+#. yes/no popup
+#: src/routines.ycp:323
+msgid "Other Windows sharing services are available. Stop them as well?"
+msgstr "其它 Windows 共享服务是可用的。是否也停止它们？"
+
+#: src/routines.ycp:334
+msgid "&Use WINS for Hostname Resolution"
+msgstr "使用 WINS 解析主机名(&U)"
+
+#. help text for "Use WINS for Hostname Resolution" check box label
+#: src/routines.ycp:343
+msgid "<p>If you want to use Microsoft Windows Internet Name Service (WINS) for name resolution, check <b>Use WINS for Hostname Resolution</b>.</p>"
+msgstr "<p>如果您想要使用微软视窗互联网名称服务(WINS)做名称解析，选择 <b>使用 WINS 解析主机名</b>。</p>"
+
+#. check box label
+#: src/routines.ycp:353
+msgid "Retrieve WINS server via &DHCP"
+msgstr "通过 DHCP 检索 WINS 服务器"
+
+#. help text ("Retrieve WINS server via DHCP" is a checkbox label)
+#: src/routines.ycp:362
+msgid "<p>Check <b>Retrieve WINS server via DHCP</b> to use a WINS server provided by DHCP.</p>"
+msgstr "<p>勾选<b>通过 DHCP 检索 WINS 服务器</b>使用 DHCP 提供的 WINS 服务器。</p>"
+
+#. frame label
+#: src/routines.ycp:377
+msgid "Sharing by Users"
+msgstr "用户共享"
+
+#. frame label
+#: src/routines.ycp:379
+msgid "Sharing"
+msgstr "共享"
+
+#. checkbox label
+#: src/routines.ycp:387
+msgid "&Allow Users to Share Their Directories"
+msgstr "允许用户共享目录(&A)"
+
+#. checkbox label
+#: src/routines.ycp:392
+msgid "Allow &Guest Access"
+msgstr "允许 Guest 访问(&G)"
+
+#. texty entry label
+#: src/routines.ycp:396
+msgid "&Permitted Group"
+msgstr "允许的组(&P)"
+
+#. infield label
+#: src/routines.ycp:399
+msgid "&Maximum Number of Shares"
+msgstr "最大共享数(&M)"
+
+#. membership dialog help (common part 3/4), %1 is separator (e.g. '\')
+#: src/routines.ycp:430
+#, ycp-format
+msgid "<p><b>Allow Users to Share Their Directories</b> enables members of the group in <b>Permitted Group</b> to share directories they own with other users. For example, <tt>users</tt> for a local scope or <tt>DOMAIN%1Users</tt> for a domain scope.  The user also must make sure that the file system permissions allow access.</p>"
+msgstr "<p><b>允许用户共享目录</b>使<b>允许的组</b>中的组成员能够与其它用户共享自己的目录。例如， <tt>users</tt>(对于本地范围)或 <tt>DOMAIN%1Users</tt>(对于域范围)。用户也必须确保文件系统许可权限允许访问。</p>"
+
+#. membership dialog help (common part 3/4)
+#: src/routines.ycp:433
+msgid "<p>With <b>Maximum Number of Shares</b>, limit the total amount of shares that may be created.</p>"
+msgstr "<p>使用<b>最大共享数</b>限制可创建的共享总数。</p>"
+
+#. membership dialog help common part
+#: src/routines.ycp:436
+msgid "<p>To permit access to user shares without authentication, enable <b>Allow Guest Access</b>.</p>"
+msgstr "<p>要允许对用户共享内容无需验证的访问，请启用<b>允许 Guest 访问</b>。</p>"
+
+#. help text for PAM Mount table
+#: src/routines.ycp:445
+msgid ""
+"<p>In the table <b>Mount Server Directories</b>, you can specify server\n"
+"directories (such as home directory) which should be locally mounted when the\n"
+"user is logged in. If mounting should be user-specific, specify <b>User\n"
+"Name</b> for the selected rule. Otherwise, the directory is mounted for each user. For more information, see pam_mount.conf manual page.</p>"
+msgstr ""
+"<p>在 <b>挂载服务器目录</b> 表中，您可以指定当用户登录时将被本地挂载的服务器目录(比如家目录)。\n"
+"如果挂载应因用户而异，请为选中的规则指定 <b>用户名</b>。否则，每个用户都可挂载该目录。详细信息见 pam_mount.conf 手册页面。</p>"
+
+#. help text for PAM Mount table: example
+#: src/routines.ycp:448
+msgid "<p>For example, you may use <tt>/home/%(DOMAIN_USER)</tt> value for <b>Remote Path</b>, <tt>~/</tt> value for <b>Local Mount Point</b> to mount the home directory, together with a value <tt>user=%(DOMAIN_USER)</tt> as a part of <b>Options</b>.</p>"
+msgstr "<p>例如，您或许使用 <tt>/home/%(DOMAIN_USER)</tt> 作为 <b>远程路径</b> 的值，<tt>~/</tt> 作为 <b>本地挂载点</b> 的值以挂载家目录，<tt>user=%(DOMAIN_USER)</TT> 作为 <b>选项</b> 的一部分值。</p>"
+
+#. help text for kerberos method option
+#: src/routines.ycp:454
+msgid "<p>The value of <b>Kerberos Method</b> defines how kerberos tickets are verified. When <b>Single Sing-on for SSH</b> is used, the default Kerberos Method set by YaST is <tt>secrets and keytab</tt>. See smb.conf manual page for details.</p>"
+msgstr "<p><b>Kerberos 方法</b>的值定义了校验 kerberos 凭证的方法。当使用 <b>为 SSH 单独签名</b> 时，YaST 设置的默认 Kerberos 方法是 <tt>口令和 Keytab</tt>。详情见 smb.conf 手册页面。</p>"
+
+#. user must provide the domain name to be tested
+#. error message for isdomainmember command line action 
+#. must provide the domain name to be joined
+#. error message for joindomain command line action 
+#: src/samba-client.ycp:77 src/samba-client.ycp:119
+#, ycp-format
+msgid "Enter the name of a domain."
+msgstr "输入域的名称。"
+
+#. translators: error message for isdomainmember command line action 
+#: src/samba-client.ycp:91
+msgid "Cannot test domain membership."
+msgstr "无法测试域成员资格。"
+
+#. translators: result message for isdomainmember command line action 
+#: src/samba-client.ycp:97
+#, ycp-format
+msgid "This machine is a member of %1."
+msgstr "此计算机是 %1 的成员。"
+
+#. translators: result message for isdomainmember command line action 
+#: src/samba-client.ycp:100
+#, ycp-format
+msgid "This machine is not a member of %1."
+msgstr "此计算机不是 %1 的成员。"
+
+#. translators: command line help text for Samba client module
+#: src/samba-client.ycp:174
+msgid ""
+"Samba client configuration module.\n"
+"See Samba documentation for details."
+msgstr ""
+"Samba 客户机配置模块。\n"
+"有关细节，请参见 Samba 文档。"
+
+#. translators: command line help text for winbind action
+#: src/samba-client.ycp:183
+msgid "Enable or disable the Winbind services (winbindd)"
+msgstr "启用或禁用 Winbind 服务 (winbindd)"
+
+#. translators: command line help text for isdomainmember action
+#: src/samba-client.ycp:188
+msgid "Check if this machine is a member of a domain"
+msgstr "检查此计算机是否是域的成员"
+
+#. translators: command line help text for joindomain action
+#: src/samba-client.ycp:193
+msgid "Join this machine to a domain"
+msgstr "将此计算机加入一个域"
+
+#. translators: command line help text for configure action
+#: src/samba-client.ycp:198
+msgid "Change the global settings of Samba"
+msgstr "更改 Samba 的全局设置"
+
+#. translators: command line help text for winbind enable option 
+#: src/samba-client.ycp:204
+msgid "Enable the service"
+msgstr "启用服务"
+
+#. translators: command line help text for winbind disable option 
+#: src/samba-client.ycp:208
+msgid "Disable the service"
+msgstr "禁用服务"
+
+#. translators: command line help text for domain to be checked/joined 
+#: src/samba-client.ycp:212
+msgid "The name of a domain to join"
+msgstr "要加入的域的名称"
+
+#. translators: command line help text for joindomain user option 
+#: src/samba-client.ycp:217
+msgid ""
+"The user used for joining the domain. If omitted, YaST will\n"
+"try to join the domain without specifying user and password.\n"
+msgstr ""
+"用于加入域的用户。如果省略用户，YaST 将\n"
+"尝试在不指定用户和密码的情况下加入域。\n"
+
+#. translators: command line help text for joindomain password option 
+#: src/samba-client.ycp:224
+msgid "The password used for the user when joining the domain"
+msgstr "加入域时用户使用的密码"
+
+#. command line help text for machine optioa
+#: src/samba-client.ycp:229
+msgid "The machine account"
+msgstr "机器帐户"
+
+#. translators: command line help text for the workgroup name option 
+#: src/samba-client.ycp:234
+msgid "The name of a workgroup"
+msgstr "工作组的名称"
+
+#. translators: initialization dialog caption
+#: src/wizards.ycp:87
+msgid "Samba Client Configuration"
+msgstr "Samba 客户机配置"
+
+#. translators: initialization dialog contents
+#: src/wizards.ycp:89
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#, fuzzy
+#~ msgid "&UNC Path"
+#~ msgstr "新补丁(&N)"
+
+#~ msgid "&Acquire"
+#~ msgstr "获得(&A)"

@@ -1,0 +1,737 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-18 13:06+0200\n"
+"PO-Revision-Date: 2004-04-02 10:52+0200\n"
+"Last-Translator: 裴寒牧 <phm@a2e.de>\n"
+"Language-Team: 中华 <nls-zh@suse.de>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/EdirUtilsLUM.ycp:207
+msgid "Searching for eDirectory trees"
+msgstr "正在搜索 eDirectory 树"
+
+#: src/EdirUtilsLUM.ycp:208
+msgid "This may take a while"
+msgstr "这将需要一段时间"
+
+#: src/EdirUtilsLUM.ycp:477
+#, ycp-format
+msgid "%1 is an invalid fully distinguished name. The name must be typeful (e.g. cn=admin,o=acme or o=acme)"
+msgstr "%1 是无效的完全判别名。该名称必须是可输入的（例如 cn=admin，o=acme 或 o=acme）"
+
+#. LinuxUserMgmt read dialog caption
+#: src/LinuxUserMgmt.ycp:90
+msgid "Initializing Linux User Management"
+msgstr "正在初始化 Linux 用户管理"
+
+#. Progress stage 1/3
+#: src/LinuxUserMgmt.ycp:102
+msgid "Read the database"
+msgstr "读取数据库"
+
+#: src/LinuxUserMgmt.ycp:103 src/LinuxUserMgmt.ycp:107
+msgid "Checking dependencies"
+msgstr "正在检查依赖关系"
+
+#. Progress step 1/3
+#: src/LinuxUserMgmt.ycp:106
+msgid "Reading the database..."
+msgstr "正在读取数据库..."
+
+#. Progress finished
+#: src/LinuxUserMgmt.ycp:109 src/LinuxUserMgmt.ycp:246
+#: src/LinuxUserMgmt.ycp:282
+msgid "Finished"
+msgstr "已完成"
+
+#: src/LinuxUserMgmt.ycp:166
+#, ycp-format
+msgid ""
+"It appears that %1 has already been configured.  \n"
+"Continue configuration?"
+msgstr ""
+"%1 似乎已配置。\n"
+"继续配置吗？"
+
+#. y2debug("LINUXUSTERMANAGEMENT READ EDIR:%1", Edirectory::EdirSettings);
+#. y2debug("LINUXUSTERMANAGEMENT READ LDAP:%1", Edirectory::LDAPSettings);
+#. Error message
+#: src/LinuxUserMgmt.ycp:212
+msgid "Cannot read the database1."
+msgstr "无法读取数据库1。"
+
+#. LinuxUserMgmt read dialog caption
+#: src/LinuxUserMgmt.ycp:261
+msgid "Saving Linux User Management Configuration"
+msgstr "正在保存 Linux 用户管理配置"
+
+#. Progress stage 1/2
+#: src/LinuxUserMgmt.ycp:273
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. Progress stage 2/2
+#: src/LinuxUserMgmt.ycp:275
+msgid "Run SuSEconfig"
+msgstr "运行 SuSEconfig"
+
+#. Progress step 1/2
+#: src/LinuxUserMgmt.ycp:278
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. Progress step 2/2
+#: src/LinuxUserMgmt.ycp:280
+msgid "Running SuSEconfig..."
+msgstr "正在运行SuSEconfig..."
+
+#: src/LinuxUserMgmt.ycp:391
+msgid "Please Wait"
+msgstr "请稍候"
+
+#: src/LinuxUserMgmt.ycp:391
+msgid "Running namconfig for LUM, this may take a while..."
+msgstr "正在运行 LUM 的 namconfig，请稍候..."
+
+#. Error message
+#: src/LinuxUserMgmt.ycp:421
+#, ycp-format
+msgid ""
+"Unable to connect to LDAP server %1 or the\n"
+"specified user %2 does not have enough\n"
+"privileges to configure Linux User Management.\n"
+"Please correct the problem and re-run namconfig\n"
+"after the install."
+msgstr ""
+"无法连接到 LDAP 服务器 %1，或\n"
+"指定的用户 %2 没有足够的\n"
+"特权配置 Linux 用户管理。\n"
+"请更正问题，\n"
+"安装后重新运行 namconfig。"
+
+#. Error message
+#: src/LinuxUserMgmt.ycp:554
+msgid "Cannot write settings."
+msgstr "不能写入设置."
+
+#. Error message
+#: src/LinuxUserMgmt.ycp:561
+msgid "SuSEconfig script failed."
+msgstr "SuSEconfig 脚本执行失败."
+
+#: src/LinuxUserMgmt.ycp:676
+#, ycp-format
+msgid "LDAP admin name with context: %1"
+msgstr "LDAP admin 名称，环境：%1"
+
+#: src/LinuxUserMgmt.ycp:680 src/LinuxUserMgmt.ycp:682
+#, ycp-format
+msgid "LDAP server IP Address: %1"
+msgstr "LDAP 服务器 IP 地址： %1"
+
+#: src/LinuxUserMgmt.ycp:684
+#, ycp-format
+msgid "LDAP port number: %1"
+msgstr "LDAP 端口号： %1"
+
+#: src/LinuxUserMgmt.ycp:686
+#, ycp-format
+msgid "LDAP secure port: %1"
+msgstr "LDAP 安全端口： %1"
+
+#: src/LinuxUserMgmt.ycp:688
+#, ycp-format
+msgid "Linux/Unix config context: %1"
+msgstr "Linux/Unix config 环境：%1"
+
+#: src/LinuxUserMgmt.ycp:690
+#, ycp-format
+msgid "LUM workstation context: %1"
+msgstr "LUM 工作站环境： %1"
+
+#: src/LinuxUserMgmt.ycp:692
+#, ycp-format
+msgid "Proxy user name with context: %1"
+msgstr "代理用户名，环境：%1"
+
+#: src/LinuxUserMgmt.ycp:695
+msgid "PAM-enabled services to allow authentication via eDirectory:"
+msgstr "启用 PAM 的服务，允许通过 eDirectory 鉴定："
+
+#: src/LinuxUserMgmt.ycp:696
+#, ycp-format
+msgid "login: %1"
+msgstr "login： %1"
+
+#: src/LinuxUserMgmt.ycp:698
+#, ycp-format
+msgid "ftp: %1"
+msgstr "ftp： %1"
+
+#: src/LinuxUserMgmt.ycp:700
+#, ycp-format
+msgid "sshd: %1"
+msgstr "sshd： %1"
+
+#: src/LinuxUserMgmt.ycp:702
+#, ycp-format
+msgid "su: %1"
+msgstr "su： %1"
+
+#: src/LinuxUserMgmt.ycp:704
+#, ycp-format
+msgid "rsh: %1"
+msgstr "rsh： %1"
+
+#: src/LinuxUserMgmt.ycp:706
+#, ycp-format
+msgid "rlogin: %1"
+msgstr "rlogin： %1"
+
+#: src/LinuxUserMgmt.ycp:708
+#, ycp-format
+msgid "passwd: %1"
+msgstr "passwd： %1"
+
+#: src/LinuxUserMgmt.ycp:710
+#, ycp-format
+msgid "xdm: %1"
+msgstr "xdm： %1"
+
+#: src/LinuxUserMgmt.ycp:712
+#, ycp-format
+msgid "openwbem: %1"
+msgstr "openwbem： %1"
+
+#: src/LinuxUserMgmt.ycp:715
+#, ycp-format
+msgid "gdm: %1"
+msgstr "gdm： %1"
+
+#: src/LinuxUserMgmt.ycp:717
+#, ycp-format
+msgid "gdm-autologin: %1"
+msgstr "gdm-autologin：%1"
+
+#: src/LinuxUserMgmt.ycp:719
+#, ycp-format
+msgid "gnome-passwd: %1"
+msgstr "gnome-passwd：%1"
+
+#: src/LinuxUserMgmt.ycp:721
+#, ycp-format
+msgid "gnome-screensaver: %1"
+msgstr "gnome-screensaver： %1"
+
+#: src/LinuxUserMgmt.ycp:723
+#, ycp-format
+msgid "gnomesu-pam: %1"
+msgstr "gnomesu-pam：%1"
+
+#: src/NovellLDAPLUM.ycp:30 src/NovellLDAPLUM.ycp:52 src/NovellLDAPLUM.ycp:350
+#: src/NovellLDAPLUM.ycp:383 src/NovellLDAPLUM.ycp:461
+#: src/NovellLDAPLUM.ycp:556
+msgid "Local Host"
+msgstr "本地主机"
+
+#. LDAP_Dialog caption
+#: src/NovellLDAPLUM.ycp:270
+#, ycp-format
+msgid "%1 LDAP Server Configuration"
+msgstr "%1 LDAP 服务器配置"
+
+#: src/NovellLDAPLUM.ycp:391
+msgid "Local or Remote Directory Server"
+msgstr "本地或远程目录服务器"
+
+#: src/NovellLDAPLUM.ycp:398
+msgid "&Local system"
+msgstr "本地系统(&L)"
+
+#: src/NovellLDAPLUM.ycp:404
+msgid "&Remote system"
+msgstr "远程系统(&R)"
+
+#: src/NovellLDAPLUM.ycp:411
+msgid "Directory server address"
+msgstr "目录服务器地址"
+
+#: src/NovellLDAPLUM.ycp:413
+msgid "Admin name with context (i.e. cn=admin,o=novell). Optional for Desktop."
+msgstr "Admin 名称，环境（即 cn=admin, o=novell）。桌面可选。"
+
+#: src/NovellLDAPLUM.ycp:415
+msgid "Admin password. Optional for Desktop."
+msgstr "Admin 口令。桌面可选。"
+
+#: src/NovellLDAPLUM.ycp:418
+msgid "Port Details"
+msgstr "端口细节"
+
+#: src/NovellLDAPLUM.ycp:477
+#, ycp-format
+msgid "%1 is an invalid LDAP syntax. The name must use commas for separators (e.g. cn=admin,o=acme)"
+msgstr "%1 是无效的 LDAP 语法。名称必须使用逗号分隔（如 cn=admin,o=acme）"
+
+#: src/NovellLDAPLUM.ycp:521
+msgid ""
+"The attempt to perform a secure LDAP bind did not respond in 2 minutes\n"
+"This may indicate a problem with LDAP on the target server.\n"
+"If you are confident that your credentials are correct you may continue,\n"
+"otherwise please determine if LDAP is running correctly on the target system\n"
+"Do you want to continue?"
+msgstr ""
+"执行安全 LDAP 联结的尝试 2 分钟内无响应。\n"
+"这可能是因为目标服务器上 LDAP 有问题。\n"
+"如果您确信提交的身份凭证正确，可继续；\n"
+"否则请检查确认 LDAP 是否在目标系统上正确运行。\n"
+"要继续吗？"
+
+#: src/NovellLDAPLUM.ycp:522
+msgid "LDAP secure bind timeout"
+msgstr "LDAP 安全联结超时"
+
+#: src/NovellLDAPLUM.ycp:530
+#, ycp-format
+msgid ""
+"Could not authenticate via LDAP using the following parameters:\n"
+"   user name: %1\n"
+"   address:   %2\n"
+"   port:      %3\n"
+" \n"
+" This may indicate that one of the parameters is in error.\n"
+" However, if LDAP is not enabled on the eDirectory server\n"
+" or configured to listen on a different port than the\n"
+" above port, we will not get a response back.\n"
+" \n"
+" Do you want to continue and use these parameters anyway?"
+msgstr ""
+"无法用以下参数通过 LDAP 鉴定：\n"
+"   用户名：%1\n"
+"   地址：%2\n"
+"   端口：%3\n"
+" \n"
+" 这可能是因为某个参数有错。\n"
+" 但如果 LDAP 未在 eDirectory 服务器上启用，\n"
+"或配置为在其他端口\n"
+"而不是上述端口监听，将得不到反馈。\n"
+" \n"
+"仍要继续使用这些参数吗？"
+
+#: src/NovellLDAPLUM.ycp:591
+msgid "LDAP port"
+msgstr "LDAP 端口"
+
+#: src/NovellLDAPLUM.ycp:592
+msgid "LDAP secure port"
+msgstr "LDAP 安全端口"
+
+#: src/NovellUtilsLUM.ycp:532 src/NovellValidatorsLUM.ycp:74
+msgid ""
+"The first and the second version\n"
+"of the password don't match!\n"
+"Please try again."
+msgstr ""
+"口令的第 1 个和第 2 个版本\n"
+"不匹配！\n"
+"请重试。"
+
+#: src/NovellUtilsLUM.ycp:539 src/NovellValidatorsLUM.ycp:81
+msgid ""
+"The password may only contain the following\n"
+"characters:\n"
+" 0..9, a..z, A..Z, and any of \"#*,.;:._-+!$%&/|?{[()]}\".\n"
+"Please try again."
+msgstr ""
+"口令中只能包含以下\n"
+"字符：\n"
+"0-9、a-z、A-Z 和“#*,.;:._-+!$%&/|?{[()]}”中的任意字符。\n"
+"请重试。"
+
+#. TODO - fix this message
+#: src/NovellUtilsLUM.ycp:847
+msgid "Unable to add the tree self-signed certificate to the root certificate store"
+msgstr "无法向根证书存储添加树自签名证书"
+
+#: src/NovellUtilsLUM.ycp:873
+msgid "Unable to change the group owner of the root certificate store to www"
+msgstr "无法将根证书的组所有者改成 www"
+
+#: src/NovellUtilsLUM.ycp:879
+msgid "Unable to change the group permissions on the root certificate store for write access by www"
+msgstr "无法由 www 更改根证书的写访问组权限"
+
+#: src/NovellValidatorsLUM.ycp:39
+msgid "Cannot have an empty tree name"
+msgstr "树名不能为空"
+
+#: src/NovellValidatorsLUM.ycp:44
+msgid "Tree name cannot be longer than 32 characters"
+msgstr "树名不能超过 32 个字符"
+
+#. FIXEME
+#: src/NovellValidatorsLUM.ycp:50
+msgid "Tree name cannot end in a backslash (\"\\\")"
+msgstr "树名不能以反斜杠结尾 (“\\\"”)"
+
+#: src/NovellValidatorsLUM.ycp:55
+msgid "Tree names may only contain the following characters [A-Z], [a-z], [0-9] and \"-\" or \"_\""
+msgstr "树名只能包含以下字符：[A-Z]、[a-z]、[0-9] 和“-”或“_”"
+
+#: src/NovellValidatorsLUM.ycp:107
+msgid ""
+"Valid port numbers are from 0 to 65536.\n"
+"Please try again."
+msgstr ""
+"有效的端口号是从 0 到 65536。\n"
+"请重试。"
+
+#: src/NovellValidatorsLUM.ycp:114
+#, ycp-format
+msgid "Port %1 is in use, use anyway?"
+msgstr "端口 %1 正在使用中，仍要用它吗？"
+
+#: src/NovellValidatorsLUM.ycp:132
+msgid "none"
+msgstr "无"
+
+#: src/NovellValidatorsLUM.ycp:141
+msgid "The container 'o=security' is reserved and cannot be used in a fully distinguished name"
+msgstr "树枝“o=security”被保留，不能用在完全判别名中"
+
+#: src/NovellValidatorsLUM.ycp:171
+#, ycp-format
+msgid "%1 does not specify a full name from the tree root."
+msgstr "%1 没有从树的根开始指定完全名称。"
+
+#: src/NovellValidatorsLUM.ycp:201
+msgid "The container 'o=security' is reserved and cannot be used in a context"
+msgstr "树枝“o=security”被保留，不能用在环境中"
+
+#: src/NovellValidatorsLUM.ycp:232
+#, ycp-format
+msgid "%1 is an invalid context"
+msgstr "%1 是无效的环境"
+
+#: src/NovellValidatorsLUM.ycp:261
+msgid "Verifying user credentials"
+msgstr "正在校验用户身份凭证"
+
+#: src/NovellValidatorsLUM.ycp:261
+msgid "Please wait..."
+msgstr "请稍候..."
+
+#: src/NovellValidatorsLUM.ycp:325
+msgid "Enter the existing server IP address."
+msgstr "请输入现有服务器的 IP 地址。"
+
+#: src/NovellValidatorsLUM.ycp:399
+#, ycp-format
+msgid "%1 is not a valid pathname"
+msgstr "%1 不是有效的路径名"
+
+#: src/NovellValidatorsLUM.ycp:412
+#, ycp-format
+msgid "%1 is not a valid absolute pathname"
+msgstr "%1 不是有效的绝对路径名"
+
+#. LinuxUserMgmt summary dialog caption
+#. Initialization dialog caption
+#: src/complex.ycp:67 src/wizards.ycp:98
+msgid "Linux User Mgmt Configuration"
+msgstr "Linux 用户管理配置"
+
+#. Frame label
+#: src/complex.ycp:75
+msgid "Linux User Mgmt to Configure"
+msgstr "要配置的 Linux 用户管理"
+
+#. LinuxUserMgmt overview dialog caption
+#: src/complex.ycp:127
+msgid "Linux User Mgmt Overview"
+msgstr "Linux 用户管理概述"
+
+#. Table header
+#: src/complex.ycp:134
+msgid "Number"
+msgstr "数字"
+
+#: src/complex.ycp:134
+msgid "Linux User Mgmt"
+msgstr "Linux 用户管理"
+
+#. LinuxUserMgmt configure2 dialog caption
+#: src/dialogs.ycp:62 src/dialogs.ycp:208
+msgid "Linux User Management Configuration"
+msgstr "Linux 用户管理配置"
+
+#: src/dialogs.ycp:95
+msgid "Linux/Unix config context"
+msgstr "Linux/Unix config 环境"
+
+#: src/dialogs.ycp:96
+msgid "LUM workstation context (e.g. o=novell). Optional for Desktop."
+msgstr "LUM 工作站环境（如 e.g. o=novell）。桌面可选。"
+
+#: src/dialogs.ycp:97
+msgid "Proxy user name with context (e.g. cn=proxy.o=novell)"
+msgstr "代理用户名称，环境（如 cn=proxy.o=novell）"
+
+#: src/dialogs.ycp:98
+msgid "(optional)"
+msgstr "（可选）"
+
+#: src/dialogs.ycp:99
+msgid "Proxy user password"
+msgstr "代理用户口令"
+
+#: src/dialogs.ycp:129 src/dialogs.ycp:148
+#, ycp-format
+msgid "%1 is an invalid LDAP syntax. The name must use commas for separators (e.g. ou=xyz,o=acme)"
+msgstr "%1 是无效的 LDAP 语法。该名称必须用逗号分隔（如 ou=xyz,o=acme）"
+
+#: src/dialogs.ycp:168
+#, ycp-format
+msgid "%1 is an invalid LDAP syntax. The name must use commas for separators (e.g. cn=proxyuser,o=acme)"
+msgstr "%1 是无效的 LDAP 语法。该名称必须用逗号分隔（如 cn=proxyuser,o=acme）"
+
+#: src/dialogs.ycp:300
+msgid "Select PAM-enabled services to allow"
+msgstr "请选中“启用 PAM 的服务”以允许"
+
+#: src/dialogs.ycp:301
+msgid "authentication via eDirectory"
+msgstr "通过 eDirectory 进行鉴定"
+
+#: src/dialogs.ycp:303
+msgid "Sele&ct All"
+msgstr "全选(&C)"
+
+#: src/dialogs.ycp:304
+msgid "Deselec&t All"
+msgstr "全部不选(&T)"
+
+#: src/dialogs.ycp:306
+msgid "&login"
+msgstr "登录(&L)"
+
+#: src/dialogs.ycp:307
+msgid "&ftp"
+msgstr "ftp(&F)"
+
+#: src/dialogs.ycp:308
+msgid "ssh&d"
+msgstr "sshd(&D)"
+
+#: src/dialogs.ycp:309
+msgid "&su"
+msgstr "su(&S)"
+
+#: src/dialogs.ycp:310
+msgid "rs&h"
+msgstr "rsh(&H)"
+
+#: src/dialogs.ycp:311
+msgid "rl&ogin"
+msgstr "rlogin(&O)"
+
+#: src/dialogs.ycp:312
+msgid "&passwd"
+msgstr "passwd(&P)"
+
+#: src/dialogs.ycp:313
+msgid "&xdm"
+msgstr "xdm(&X)"
+
+#: src/dialogs.ycp:314
+msgid "op&enwbem"
+msgstr "openwbem(&E)"
+
+#: src/dialogs.ycp:316
+msgid "&gdm"
+msgstr "gdm(&G)"
+
+#: src/dialogs.ycp:317
+msgid "gdm-&autologin"
+msgstr "gdm-autologin(&A)"
+
+#: src/dialogs.ycp:318
+msgid "g&nome-passwd"
+msgstr "gnome-passwd(&N)"
+
+#: src/dialogs.ycp:319
+msgid "gnome-s&creensaver"
+msgstr "gnome-screensaver(&C)"
+
+#: src/dialogs.ycp:320
+msgid "gnomesu-pa&m"
+msgstr "gnomesu-pam(&M)"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:20
+msgid ""
+"<p><b><big>Initializing Linux User Management Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在初始化 Linux 用户管理配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:25
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化:</big></b><br>\n"
+"请您现在点击<b>终止</b>, 以便安全中断配置公用程序.</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:30
+msgid ""
+"<p><b><big>Saving Linux User Management Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在保存 Linux 用户管理配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:35
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"请点击<B>中断</B>,以便中断保存.\n"
+"一个附加对话框将告诉您这样做是否安全.\n"
+"</p>\n"
+
+#. Configure2 dialog help 1/3
+#: src/helps.ycp:42
+msgid ""
+"<p><b><big>Linux/Unix config context</big></b><br>\n"
+"The eDirctory context (existing or created here) where the Linux/UNIX\n"
+"Config object will be created. LDAP searches for LUM User, LUM Group,\n"
+"and LUM Workstation objects begin here, so it must be at the same level\n"
+"or higher than the LUM objects searched for.</p>\n"
+msgstr ""
+"<p><b><big>Linux/Unix 配置环境</big></b><br>\n"
+"将创建的 Linux/UNIX\n"
+" 配置对象所在的 eDirctory 环境（现有或在此创建）。LDAP 从这里开始搜索 LUM 用户、LUM 组\n"
+" 和 LUM 工作站对象，所以该环境必须处于搜索的 LUM 对象的同层\n"
+"或更高层位置。</p>\n"
+
+#. Configure2 dialog help 2/3
+#: src/helps.ycp:50
+msgid ""
+"<P><b><big>LUM workstation context</big></b><br>\n"
+"The eDirectory context (existing or created here) for the LUM Workstation\n"
+"object created by the install for this server. The context must be the same\n"
+"as or below the Base Context specified above.\n"
+"</P>"
+msgstr ""
+"<P><b><big>LUM 工作站环境</big></b><br>\n"
+"此服务器安装程序创建的 LUM 工作站\n"
+"对象的 eDirctory 环境（现有或在此创建）。该环境必须处于上述“基础环境”\n"
+"的同层或更低层位置。\n"
+" </P>"
+
+#. Configure2 dialog help 3/3
+#: src/helps.ycp:57
+msgid ""
+"<p><b><big>Proxy user name with context (Optional)</big></b><br>\n"
+"A  user (existing or created here) with rights to search the LDAP tree for LUM\n"
+"objects.\n"
+"</p>"
+msgstr ""
+"<p><b><big>带有环境的代理用户名称（可选）</big></b><br>\n"
+"有权搜索 LDAP 树以查找 LUM \n"
+"对象的用户（现有或在此创建）。\n"
+" </p>"
+
+#. Configure3 dialog help 1/3
+#: src/helps.ycp:63
+msgid ""
+"<p><b><big>PAM-enabled Services</big></b><br>\n"
+"The PAM-enabled services on this server that will be available to\n"
+"authenticated LUM users.</p>\n"
+msgstr ""
+"<p><b><big>启用 PAM 的服务</big></b><br>\n"
+"此服务器上将可用于\n"
+"已鉴定LUM 用户的启用 PAM 的服务。</p>\n"
+
+#: src/helps.ycp:68
+msgid ""
+"<p><b><big>Local or Remote Directory Server</big></b><br>\n"
+"Select either Local system or Remote system, depending on the server you are configuring.</p>\n"
+msgstr ""
+"<p><b><big>本地或远程目录服务器</big></b><br>\n"
+"根据正在配置的服务器选择本地系统或远程系统。</p>\n"
+
+#: src/helps.ycp:72
+msgid ""
+"<p><b><big>Directory server address</big></b><br>\n"
+"This field is only active if you select Remote system. Enter the IP address of the remote server you want to configure.</p>\n"
+msgstr ""
+"<p><b><big>目录服务器地址</big></b><br>\n"
+"此字段只有在选择远程系统时才处于活动状态。输入要配置的远程服务器的 IP 地址。</p>\n"
+
+#: src/helps.ycp:76
+msgid ""
+"<p><b><big>Admin name with context</big></b><br>\n"
+"Enter the LDAP Admin name and context. This is the fully distinguished name of a User object with administrative rights to LDAP. For example: cn=admin,o=acme</p>\n"
+msgstr ""
+"<p><b><big>带有环境的 Admin 名称</big></b><br>\n"
+"输入 LDAP Admin 名称和环境。该名称是具有 LDAP 管理权限的用户对象的完整判定名。例如：cn=admin,o=acme</p>\n"
+
+#: src/helps.ycp:80
+msgid ""
+"<p><b><big>Admin password</big></b><br>\n"
+"Enter the LDAP Admin password. This is the password of the user specified as the LDAP Admin.</p>\n"
+msgstr ""
+"<p><b><big>Admin 口令</big></b><br>\n"
+"输入 LDAP Admin 口令。该口令是指定为 LDAP Admin 的用户的口令。</p>\n"
+
+#: src/helps.ycp:84
+msgid ""
+"<p><b><big>Port Details</big></b><br>\n"
+"Click Port Details to view or modify the LDAP port or the secure LDAP port number this server uses to communicate with other servers. The default LDAP port is 389. The default secure LDAP port is 636.</p>\n"
+msgstr ""
+"<p><b><big>端口细节</big></b><br>\n"
+"单击“端口细节”可查看或修改此服务器用来与其它服务器通讯的 LDAP 端口或安全 LDAP 端口的编号。默认 LDAP 端口为 389。默认安全 LDAP 端口为 636。</p>\n"
+
+#. Command line help text for the Xlinux-user-mgmt module
+#: src/linux-user-mgmt.ycp:34
+msgid "Configuration of Linux User Mgmt"
+msgstr "Linux 用户管理的配置"
+
+#: src/linux-user-mgmt_proposal.ycp:51
+msgid "Linux User Management needs to be configured."
+msgstr "需要配置 Linux 用户管理。"
+
+#. Rich text title for LinuxUserMgmt in proposals
+#: src/linux-user-mgmt_proposal.ycp:81
+msgid "Linux User Management"
+msgstr "Linux 用户管理"
+
+#. Menu title for LinuxUserMgmt in proposals
+#: src/linux-user-mgmt_proposal.ycp:83
+msgid "&Linux User Management"
+msgstr "Linux 用户管理(&L)"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:100
+msgid "Initializing..."
+msgstr "正在初始化..."

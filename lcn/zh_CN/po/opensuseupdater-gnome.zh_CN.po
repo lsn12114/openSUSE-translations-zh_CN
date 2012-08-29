@@ -1,0 +1,293 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-10-06 14:34+0200\n"
+"PO-Revision-Date: 2008-11-24 18:52+0800\n"
+"Last-Translator: Thruth Wang <wanglihao@gmail.com>\n"
+"Language-Team: Novell Language <language@novell.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../src/updater.c:429 ../src/updater-applet-callbacks.c:165
+msgid "Checking for updates..."
+msgstr "正在检查更新..."
+
+#: ../src/zypp/updater-zypper-gui.c:137
+msgid "Update Progress"
+msgstr "更新进度"
+
+#: ../src/zypp/updater-zypper-gui.c:171
+msgid "Update in progress"
+msgstr "更新进行中"
+
+#: ../src/zypp/updater-zypper-gui.c:172
+msgid "You're not able to stop this process in order to ensure integrity of your system. Please be patient."
+msgstr "为了保证系统的完整性，您不能终止这个进程。请耐心等待。"
+
+#: ../src/zypp/updater-zypper-gui.c:195
+msgid "No mandatory updates to apply"
+msgstr "没有强制更新可用"
+
+#: ../src/zypp/updater-zypper-gui.c:197
+msgid "Applying mandatory updates"
+msgstr "正在应用强制更新"
+
+#: ../src/zypp/updater-zypper-gui.c:214
+msgid "Applying additional updates"
+msgstr "正在应用附加更新"
+
+#: ../src/zypp/updater-zypper-gui.c:216
+msgid "No additional updates to apply"
+msgstr "没有附加更新"
+
+#: ../src/zypp/updater-zypper-gui.c:254
+msgid "Applying additional updates..."
+msgstr "正在应用附加更新..."
+
+#: ../src/zypp/updater-zypper-gui.c:257
+msgid "Applying additional package updates..."
+msgstr "正在应用附加软件包的更新..."
+
+#: ../src/zypp/updater-zypper-gui.c:262
+msgid "Applying mandatory updates..."
+msgstr "正在应用强制更新..."
+
+#: ../src/zypp/updater-zypper-gui.c:277 ../src/zypp/updater-zypper-gui.c:291
+#: ../src/zypp/updater-zypper-gui.c:582
+msgid "Error"
+msgstr "错误"
+
+#: ../src/zypp/updater-zypper-gui.c:315
+msgid "Additonal updates done."
+msgstr "附加更新完成。"
+
+#: ../src/zypp/updater-zypper-gui.c:325 ../src/zypp/updater-zypper-gui.c:368
+#: ../src/zypp/updater-zypper-gui.c:425 ../src/zypp/updater-zypper-gui.c:468
+msgid "Updates installed"
+msgstr "更新安装完毕"
+
+#: ../src/zypp/updater-zypper-gui.c:342 ../src/zypp/updater-zypper-gui.c:442
+msgid "Restart needed"
+msgstr "需要重新启动"
+
+#: ../src/zypp/updater-zypper-gui.c:343 ../src/zypp/updater-zypper-gui.c:443
+msgid "All updates have been applied successfully. Some updates require your system to be restarted."
+msgstr "所有更新顺利完成。有一些更新需要重启系统。"
+
+#: ../src/zypp/updater-zypper-gui.c:344 ../src/zypp/updater-zypper-gui.c:444
+msgid "Please restart your system as soon as possible."
+msgstr "请尽快重启你的系统。"
+
+#: ../src/zypp/updater-zypper-gui.c:384 ../src/zypp/updater-zypper-gui.c:484
+msgid "Update successful!"
+msgstr "更新成功！"
+
+#: ../src/zypp/updater-zypper-gui.c:385 ../src/zypp/updater-zypper-gui.c:485
+msgid "All updates have been applied successfully."
+msgstr "所有的更新都被成功应用。"
+
+#: ../src/zypp/updater-zypper-gui.c:386 ../src/zypp/updater-zypper-gui.c:486
+msgid "Enjoy your day!"
+msgstr "祝您今天过得愉快！"
+
+#: ../src/zypp/updater-zypper-gui.c:409
+msgid "Checking for additional package updates"
+msgstr "正在检查额外的软件包更新..."
+
+#: ../src/zypp/updater-zypper-gui.c:415
+msgid "Mandatory updates done."
+msgstr "强制性更新完成。"
+
+# error box title
+#: ../src/zypp/updater-zypper-gui.c:568
+msgid "Update error"
+msgstr "更新错误"
+
+#: ../src/zypp/updater-zypper-gui.c:583
+msgid "Could not call zypper."
+msgstr "不能调用 zypper 。"
+
+#: ../src/zypp/updater-zypper-gui.c:584
+msgid "Please ensure you have zypper installed correctly."
+msgstr "请确认 zypper 已经正确安装。"
+
+#: ../src/updater-support.c:285
+msgid "Your system is up-to-date."
+msgstr "您的系统处于最新状态。"
+
+#: ../src/updater-support.c:288
+msgid "There are no updates that need to be installed."
+msgstr "没有更新可供安装。"
+
+#: ../src/updater-support.c:289
+msgid "No optional updates available"
+msgstr "无可选更新可用。"
+
+#: ../src/updater-support.c:300
+msgid "New software for your system is available"
+msgstr "您的系统有新软件可用"
+
+#: ../src/updater-support.c:307 ../src/updater-support.c:338
+#, c-format
+msgid "%d mandatory update is about to be installed"
+msgid_plural "%d mandatory updates are about to be installed"
+msgstr[0] "%d 个强制性更新将要被安装"
+
+#: ../src/updater-support.c:314 ../src/updater-support.c:345
+#, c-format
+msgid "include %d additional update"
+msgid_plural "include %d additional updates"
+msgstr[0] "包含 %d 个附加更新"
+
+#: ../src/updater-applet.c:21
+msgid "/_Add or Remove Update Sources"
+msgstr "添加/删除更新源(_A)"
+
+#: ../src/updater-applet.c:22
+msgid "/_Preferences"
+msgstr "自选设置(_P)"
+
+#: ../src/updater-applet.c:23
+msgid "/_Check Now"
+msgstr "立即检查(_C)"
+
+#: ../src/updater-applet.c:25
+msgid "/_Quit"
+msgstr "退出(_Q)"
+
+#: ../src/updater-applet.c:179
+msgid "System is up-to-date"
+msgstr "系统已经是最新"
+
+#: ../src/updater-applet.c:252 ../glade/updater.glade.h:28
+msgid "openSUSE Updater"
+msgstr "openSUSE 更新软件"
+
+#: ../src/updater-backend.c:196
+msgid "Mandatory updates available"
+msgstr "有强制性的更新可用"
+
+#: ../src/updater-backend.c:201
+msgid "Additional updates available"
+msgstr "有附加更新可用"
+
+#: ../src/updater-backend.c:206
+msgid "Your system is up-to-date"
+msgstr "您的系统已经处于最新状态"
+
+#: ../src/updater-callbacks.c:207
+msgid "Installing updates..."
+msgstr "正在安装更新..."
+
+#. vim: set ts=2 sts=2 sw=2 et ai:
+#: ../glade/updater.glade.h:1
+msgid "0 mandatory updates are about to be installed"
+msgstr "0 个强制更新将要被安装"
+
+#: ../glade/updater.glade.h:2
+msgid ""
+"<b>Available Updates:</b>\n"
+"Following security updates and recommended updates are available for your computer"
+msgstr ""
+"<b>可用更新：</b>\n"
+"您的计算机有以下安全更新和推荐更新"
+
+#: ../glade/updater.glade.h:4
+msgid "<span weight=\"bold\" size=\"larger\">New software for your system is available</span>"
+msgstr "<span weight=\"bold\" size=\"larger\">您的系统有新软件可用</span>"
+
+#: ../glade/updater.glade.h:5
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Some security updates do not get installed</span>\n"
+"\n"
+"Some security updates require the system to be restarted. \n"
+"\n"
+"You can hold back those updates for now, but it's strongly advised to install those updates as soon as possible!"
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">一些安全更新没有被安装</span>\n"
+"\n"
+"一些安全更新需要重启系统。\n"
+"\n"
+"现在您可以暂时不更新，但是强烈建议尽快的安装这些更新！"
+
+#: ../glade/updater.glade.h:10
+msgid "<span weight=\"bold\">Check interval:</span>"
+msgstr "<span weight=\"bold\">检查间隔：</span>"
+
+#: ../glade/updater.glade.h:11
+msgid "<span weight=\"bold\">Optional &amp; 3rd party updates:</span>"
+msgstr "<span weight=\"bold\">可选 &amp; 第三方更新：</span>"
+
+#: ../glade/updater.glade.h:12
+msgid "<span weight=\"bold\">Recommended updates:</span>"
+msgstr "<span weight=\"bold\">推荐的更新：</span>"
+
+#: ../glade/updater.glade.h:13
+msgid "Add/Remove Update Sources"
+msgstr "添加/删除更新源"
+
+#: ../glade/updater.glade.h:14
+msgid "Check for updates:"
+msgstr "正在检查更新："
+
+#: ../glade/updater.glade.h:15
+msgid "Details"
+msgstr "细节"
+
+#: ../glade/updater.glade.h:16
+msgid "Don't install updates that require a restart"
+msgstr "请不要安装需要重启的更新"
+
+#: ../glade/updater.glade.h:17
+msgid ""
+"Every day\n"
+"Every other day"
+msgstr ""
+"每天\n"
+"隔天"
+
+#: ../glade/updater.glade.h:19
+msgid "Include 3rd party updates in additional updates"
+msgstr "在额外更新中包括第三发更新"
+
+#: ../glade/updater.glade.h:20
+msgid "Include optional patches in additional updates"
+msgstr "在额外更新中包括可选补丁"
+
+#: ../glade/updater.glade.h:21
+msgid "Install"
+msgstr "安装"
+
+#: ../glade/updater.glade.h:22
+msgid ""
+"Mandatory updates\n"
+"Additional updates"
+msgstr ""
+"强制更新\n"
+"附加更新"
+
+#: ../glade/updater.glade.h:24
+msgid "The default settings provide a sane default for most users. Changes should only be made, if they are absolutely necessary and you know what you're doing."
+msgstr "对于大多数用户而言，采用默认设置是明智的。除非确实有需要而且你明白正在做什么，才建议更改设置。"
+
+#: ../glade/updater.glade.h:25
+msgid "Treat as:"
+msgstr "当作："
+
+#: ../glade/updater.glade.h:26
+msgid "Update Applet Preferences"
+msgstr "更新小程序首选项"
+
+#: ../glade/updater.glade.h:27
+msgid "include 0 additional updates"
+msgstr "包含 0 个附加更新"

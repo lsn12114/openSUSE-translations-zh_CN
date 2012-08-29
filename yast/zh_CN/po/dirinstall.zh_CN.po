@@ -1,0 +1,291 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:44+0200\n"
+"PO-Revision-Date: 2012-07-07 21:29+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. progres bar label
+#: src/clients/dirinstall.ycp:24 src/clients/dirinstall.ycp:61
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#. progress bar item
+#: src/clients/dirinstall.ycp:43
+msgid "Initialize the Software Manager"
+msgstr "初始化软件包管理程序"
+
+#. progress bar item
+#: src/clients/dirinstall.ycp:45
+msgid "Select Software"
+msgstr "选择软件"
+
+#. progress bar item
+#: src/clients/dirinstall.ycp:47
+msgid "Initialize the Target System"
+msgstr "初始化目标系统"
+
+#. progress bar item
+#: src/clients/dirinstall.ycp:53
+msgid "Initializing the Software Manager..."
+msgstr "正在初始化软件包管理程序..."
+
+#. progress bar item
+#: src/clients/dirinstall.ycp:55
+msgid "Selecting Software..."
+msgstr "正在选取软件..."
+
+#. progress bar item
+#: src/clients/dirinstall.ycp:57
+msgid "Initializing the Target System..."
+msgstr "正在初始化目标系统..."
+
+#. progres bar label
+#: src/clients/dirinstall.ycp:63 src/include/ui.ycp:80
+msgid "Please wait..."
+msgstr "请稍候..."
+
+#. error report
+#: src/clients/dirinstall.ycp:83
+msgid "Could not read package information."
+msgstr "无法读取包信息。"
+
+#. Command line help text for the dirinstall module
+#: src/clients/dirinstall.ycp:114
+msgid "Installation into Directory"
+msgstr "安装到目录"
+
+#. screen title for installation into directory options
+#: src/clients/dirinstall_options.ycp:23
+msgid "Directory Install Options"
+msgstr "目录安装选项"
+
+#. text entry
+#: src/clients/dirinstall_options.ycp:32
+msgid "&Root Directory (not \"/\"):"
+msgstr "引导目录(非 \"/\")(&R)："
+
+#. check box
+#: src/clients/dirinstall_options.ycp:34
+msgid "Run &YaST and SuSEconfig on First Boot"
+msgstr "在第一次引导时运行 YaST 和 SuSEconfig(&Y) "
+
+#: src/clients/dirinstall_options.ycp:35
+msgid "Get Software Selection from AutoYaST Profile"
+msgstr "从 AutoYaST 配置文件获取软件选择"
+
+#. text entry
+#: src/clients/dirinstall_options.ycp:39
+msgid "&AutoYaST Profile"
+msgstr "AutoYaST 配置文件(&A)"
+
+#. check box
+#: src/clients/dirinstall_options.ycp:48
+msgid "Create Ima&ge"
+msgstr "创建映像(&G)"
+
+#. text entry
+#: src/clients/dirinstall_options.ycp:50
+msgid "Ima&ge Name:"
+msgstr "映像名称(&G)："
+
+#. text entry
+#: src/clients/dirinstall_options.ycp:54
+msgid "&Image Directory:"
+msgstr "映像目录(&I)："
+
+#. push button
+#: src/clients/dirinstall_options.ycp:58
+msgid "Select &Directory"
+msgstr "选择目录(&D)"
+
+#. help text for dirinstall options 1/2
+#: src/clients/dirinstall_options.ycp:66
+msgid ""
+"<p>Choose a directory to which to install. Depending on the software selection, make sure\n"
+"enough space is available.</p>\n"
+msgstr ""
+"<p>选择安装目录。根据软件选择，确保有足够的\n"
+"可用空间。</p>\n"
+
+#. help text for dirinstall options 2/2
+#: src/clients/dirinstall_options.ycp:70
+msgid ""
+"<p>Additionally, you can create an archive image of the directory using tar. To create an \n"
+"image, specify the name and the location in the respective fields.</p>\n"
+msgstr ""
+"<p>另外，可以使用 tar 创建目录的存档映象。要创建映象，\n"
+"请在相应的字段中指定名称和位置。</p>\n"
+
+#. directory selection header
+#: src/clients/dirinstall_options.ycp:108
+msgid "Select Directory"
+msgstr "选择目录"
+
+#: src/clients/dirinstall_options.ycp:118
+msgid "Select AutoYaST Profile"
+msgstr "选择 AutoYaST 配置文件"
+
+#. warning text when selecting packages. %1 is a list of package names
+#: src/clients/dirinstall_options.ycp:170
+#, ycp-format
+msgid ""
+"These packages could not be found in the software repositories:\n"
+"%1"
+msgstr ""
+"无法在软件源中找到这些包：\n"
+"%1"
+
+#: src/clients/dirinstall_options.ycp:204
+msgid "Failed to read the AutoYaST profile."
+msgstr "未能读取 AutoYaST 配置文件。"
+
+#. popup message
+#: src/clients/dirinstall_options.ycp:214
+msgid "Specify a root directory. This does not mean /"
+msgstr "指定根目录。不一定是 /"
+
+#. this is a heading
+#: src/clients/dirinstall_options_proposal.ycp:66
+msgid "Options"
+msgstr "选项"
+
+#. this is a menu entry
+#: src/clients/dirinstall_options_proposal.ycp:68
+msgid "&Options"
+msgstr "选项(&O)"
+
+#. progress stages
+#: src/clients/inst_dirinstall_finish.ycp:31
+msgid "Finalize system configuration"
+msgstr "完成系统配置"
+
+#. progress stages
+#: src/clients/inst_dirinstall_finish.ycp:33
+msgid "Prepare system for initial boot"
+msgstr "为初次引导准备系统"
+
+#. progress stage
+#: src/clients/inst_dirinstall_finish.ycp:40
+msgid "Create image file"
+msgstr "创建映像文件"
+
+#. help text
+#: src/clients/inst_dirinstall_finish.ycp:48
+msgid "<p>Please wait while the system is being configured.</p>"
+msgstr "<p>系统正在配置中，请稍候。</p>"
+
+#. Headline for last dialog of base installation: Install LILO etc.
+#: src/clients/inst_dirinstall_finish.ycp:52
+msgid "Finishing Directory Installation"
+msgstr "正在完成目录安装"
+
+#. progress title
+#: src/clients/inst_dirinstall_finish.ycp:62
+msgid "Configuring installed system"
+msgstr "正在配置已安装的系统"
+
+#. progress title
+#: src/clients/inst_dirinstall_finish.ycp:125
+msgid "Building directory image..."
+msgstr "正在构建目录映象..."
+
+#: src/config/dirinstall.glade:17
+msgid "Directory Installation"
+msgstr "目录安装"
+
+#: src/config/dirinstall.glade:37
+msgid "Installation"
+msgstr "安装"
+
+#: src/config/dirinstall.glade:41
+msgid "Settings"
+msgstr "设置"
+
+#: src/config/dirinstall.glade:46 src/config/dirinstall.glade:50
+msgid "Prepare Installation"
+msgstr "准备安装"
+
+#: src/config/dirinstall.glade:54
+msgid "Install Packages"
+msgstr "安装包"
+
+#: src/config/dirinstall.glade:58
+msgid "Finish Installation"
+msgstr "完成安装"
+
+#. progress bar item
+#: src/include/ui.ycp:64
+msgid "Finish the Software Manager"
+msgstr "结束软件管理器"
+
+#. progress bar item
+#: src/include/ui.ycp:66
+msgid "Clean Up"
+msgstr "清理"
+
+#. progress bar item
+#: src/include/ui.ycp:72
+msgid "Finishing the Software Manager..."
+msgstr "正在结束软件包管理程序..."
+
+#. progress bar item
+#: src/include/ui.ycp:74
+msgid "Cleaning up..."
+msgstr "正在清理..."
+
+#. progres bar label
+#: src/include/ui.ycp:78
+msgid "Finishing..."
+msgstr "正在完成..."
+
+#. Proposal for dirinstall installation
+#: src/modules/DirInstall.ycp:93
+#, ycp-format
+msgid "Target Directory: %1"
+msgstr "目标目录：%1"
+
+#. Proposal for backup during update
+#: src/modules/DirInstall.ycp:96
+#, ycp-format
+msgid "Run YaST and SuSEconfig at First Boot: %1"
+msgstr "第一次引导时运行 YaST 和 SuSEconfig：%1"
+
+#. part of label in proposal
+#: src/modules/DirInstall.ycp:98 src/modules/DirInstall.ycp:102
+msgid "Yes"
+msgstr "是"
+
+#. part of label in proposal
+#: src/modules/DirInstall.ycp:100 src/modules/DirInstall.ycp:102
+msgid "No"
+msgstr "否"
+
+#. Proposal for dirinstall installation
+#: src/modules/DirInstall.ycp:102
+#, ycp-format
+msgid "Create Image: %1"
+msgstr "创建映象：%1"
+
+#. Proposal for dirinstall installation
+#: src/modules/DirInstall.ycp:105
+#, ycp-format
+msgid "Load software selection from %1"
+msgstr "从 %1 加载软件选择"
+
+#~ msgid "Finish the Package Manager"
+#~ msgstr "结束软件包管理程序"

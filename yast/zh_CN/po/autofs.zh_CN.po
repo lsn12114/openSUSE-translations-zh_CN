@@ -1,0 +1,367 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:41+0200\n"
+"PO-Revision-Date: 2012-07-18 12:45+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/Autofs.pm:211
+msgid "You must configure LDAP to use the autofs module."
+msgstr "您必须配置 LDAP 以使用 autofs 模块。"
+
+#: src/Autofs.pm:213
+msgid "Use the YaST LDAP module."
+msgstr "使用 YaST LDAP 模块。"
+
+#: src/Autofs.pm:224
+msgid "Cannot use localhost as the LDAP server for autofs."
+msgstr "不能使用本地主机作为 autofs 的 LDAP 服务器。"
+
+#: src/Autofs.pm:240
+msgid "Failed to bind to the LDAP server."
+msgstr "绑定 LDAP 服务器失败。"
+
+#: src/Autofs.pm:287
+msgid "Failed to create the autofs base objects."
+msgstr "创建 autofs 基础对象失败。"
+
+#: src/Autofs.pm:323
+msgid "Failed to create the new map."
+msgstr "创建新映射失败。"
+
+#: src/Autofs.pm:347
+msgid "Failed to delete an autofs map."
+msgstr "删除 autofs 映射失败。"
+
+#: src/Autofs.pm:376
+msgid "Failed to add an autofs entry to map."
+msgstr "添加 autofs 条目到映射失败。"
+
+#: src/Autofs.pm:405
+msgid "Failed to modify an autofs entry in map."
+msgstr "修改映射中的 autofs 条目失败。"
+
+#. Autofs read dialog caption
+#: src/Autofs.pm:557
+msgid "Initializing autofs Configuration"
+msgstr "正在初始化 autofs 配置"
+
+#. Progress stage 1/2
+#: src/Autofs.pm:571
+msgid "Check the ldap configuration"
+msgstr "检查 ldap 配置"
+
+#. Progress stage 2/2
+#: src/Autofs.pm:573
+msgid "Read the autofs maps"
+msgstr "读取 autofs 映射"
+
+#. Progress step 1/2
+#: src/Autofs.pm:576
+msgid "Checking the ldap configuration..."
+msgstr "正在检查 ldap 配置..."
+
+#. Progress step 2/2
+#: src/Autofs.pm:578
+msgid "Reading the autofs maps..."
+msgstr "正在读取 autofs 映射..."
+
+#. Progress finished
+#: src/Autofs.pm:580 src/Autofs.pm:655
+msgid "Finished"
+msgstr "已完成"
+
+#: src/Autofs.pm:590
+msgid "LDAP configuration error."
+msgstr "LDAP 配置错误。"
+
+#: src/Autofs.pm:607
+msgid "Cannot read the autofs maps."
+msgstr "无法读取 autofs 映射。"
+
+#. Autofs read dialog caption
+#: src/Autofs.pm:638
+msgid "Saving autofs Configuration"
+msgstr "正在保存 autofs 配置"
+
+#. Progress stage 1/1
+#: src/Autofs.pm:650
+msgid "Write the autofs maps"
+msgstr "写入 autofs 映射"
+
+#. Progress step 1/1
+#: src/Autofs.pm:653
+msgid "Writing the autofs maps..."
+msgstr "正在写入 autofs 映射..."
+
+#: src/Autofs.pm:665
+msgid "Cannot write the autofs maps."
+msgstr "无法写入 autofs 映射。"
+
+#: src/Autofs.pm:709
+msgid "Configuration summary ..."
+msgstr "配置摘要..."
+
+#. text entry label
+#: src/AutofsUI.ycp:24
+msgid "DNS Name or IP address of the LDAP server"
+msgstr "LDAP 服务器的 DNS 名称或 IP 地址"
+
+#. Command line help text for the Xautofs module
+#: src/autofs.ycp:54
+msgid "Configuration of autofs"
+msgstr "autofs 的配置"
+
+#. Rich text title for Autofs in proposals
+#: src/autofs_proposal.ycp:85
+msgid "Autofs"
+msgstr "Autofs"
+
+#. Menu title for Autofs in proposals
+#: src/autofs_proposal.ycp:87
+msgid "&Autofs"
+msgstr "Autofs(&A)"
+
+#. text entry label
+#: src/dialogs.ycp:68
+msgid "Name of the map"
+msgstr "映射的名称"
+
+#: src/dialogs.ycp:126
+msgid "Type"
+msgstr "类型"
+
+#: src/dialogs.ycp:131
+msgid "Other"
+msgstr "其它"
+
+#: src/dialogs.ycp:135 src/dialogs.ycp:159 src/dialogs.ycp:284
+msgid "Key"
+msgstr "密钥"
+
+#: src/dialogs.ycp:138 src/dialogs.ycp:160 src/dialogs.ycp:184
+#: src/dialogs.ycp:198 src/dialogs.ycp:212 src/dialogs.ycp:284
+msgid "Options"
+msgstr "选项"
+
+#: src/dialogs.ycp:139 src/dialogs.ycp:185 src/dialogs.ycp:199
+msgid "Server"
+msgstr "服务器"
+
+#: src/dialogs.ycp:140 src/dialogs.ycp:186
+msgid "Path"
+msgstr "路径"
+
+#: src/dialogs.ycp:161 src/dialogs.ycp:213 src/dialogs.ycp:284
+msgid "Location"
+msgstr "位置"
+
+#: src/dialogs.ycp:200
+msgid "Share"
+msgstr "共享"
+
+#. Autofs configure1 dialog caption
+#. Initialization dialog caption
+#: src/dialogs.ycp:270 src/wizards.ycp:87
+msgid "Autofs Configuration"
+msgstr "Autofs 配置"
+
+#: src/dialogs.ycp:278 src/dialogs.ycp:332 src/dialogs.ycp:345
+msgid "Maps"
+msgstr "映射"
+
+#: src/dialogs.ycp:281 src/dialogs.ycp:286
+msgid "Add"
+msgstr "添加"
+
+#. `PushButton(`id(`modentry), _("Edit")),
+#: src/dialogs.ycp:282 src/dialogs.ycp:288
+msgid "Delete"
+msgstr "删除"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:40
+msgid ""
+"<p><b>Initializing autofs configuration</b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b>正在初始化 autofs 配置</b><br>\n"
+"</p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:45
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化:</big></b><br>\n"
+"请您现在点击<b>终止</b>, 以便安全中断配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:50
+msgid ""
+"<p><b>Saving autofs configuration</b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b>正在保存 autofs 配置</b><br>\n"
+"</p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:55
+msgid ""
+"<p><b>Aborting Save:</b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"</p>\n"
+msgstr ""
+"<p><b>中止保存：</b><br>\n"
+"按<b>中止</b>中止保存过程。\n"
+"</p>\n"
+
+#. Configure dialog help 1/4
+#: src/helps.ycp:61
+msgid ""
+"<p><b>Automounter Maps</b><br/>\n"
+"The automounter maps are referred to by the master map of the\n"
+"automounter. Entries in the automounter maps describe how file\n"
+"systems below the mount point of the map are to be mounted.\n"
+"<br/></p>\n"
+msgstr ""
+"<p><b>自动挂载映射</b><br>\n"
+"自动挂载程序的主映射会参考自动挂载映射。\n"
+"它的条目描述挂载点之下的文件系统将如何被挂载。\n"
+"<br></p>\n"
+
+#. Configure dialog help 2/4
+#: src/helps.ycp:69
+msgid ""
+"<p><b><big>Key</big></b><br>\n"
+"This is the part of the pathname between the map mount point and\n"
+"the path into the filesystem mounted.\n"
+"</p>"
+msgstr ""
+"<p><b><big>密钥</big></b><br>\n"
+"这是路径名的一部分，在映射挂载点和挂载的文件系统\n"
+"路径之间。\n"
+"</p>"
+
+#. Configure dialog help 3/4
+#: src/helps.ycp:75
+msgid ""
+"<p><b><big>Options</big></b><br>\n"
+"The options are comma separated, as customary for the <b>mount</b>(8) command.\n"
+"<br></p>\n"
+msgstr ""
+"<p><b><big>选项</big></b><br>\n"
+"选项由逗号隔开，遵循 <b>mount</b>(8) 命令惯例。\n"
+"<br></p>\n"
+
+#. Configure dialog help 4/4
+#: src/helps.ycp:81
+msgid ""
+"<p><b><big>Location</big></b><br>\n"
+"The location specifies from where the file system is to be mounted.\n"
+"For an NFS volume the usual notation is host:pathname.\n"
+"If the filesystem to be mounted begins with a '/' (such as local\n"
+"entries or smbfs shares) a ':' needs to be prefixed.\n"
+"</p>"
+msgstr ""
+"<p><b><big>位置</big></b><br>\n"
+"位置决定系统从何处挂载文件系统。\n"
+"对于一个 NFS 卷，一般表示为 host:pathname.\n"
+"如果要挂载的文件系统以 '/' 开始（比如本地条目\n"
+"或者 smbfs 共享），前面需要加一个 ':'。\n"
+"</p>"
+
+#. EntryDialog for NFS entry
+#: src/helps.ycp:89
+msgid ""
+"<p><b><big>NFS Entry</big></b><br>\n"
+"In the case of NFS entries, the <b>Server</b> is the DNS name or IP address of the NFS server.<br/>\n"
+"The <b>Path</b> is the absolute path to the directory on the NFS server.<br/>\n"
+"The <b>Options</b> must be valid options of the <b>mount</b>(8) command for NFS file systems.<br/>\n"
+"<br/></p>\n"
+msgstr ""
+"<p><b><big>NFS 条目 </big></b><br>\n"
+"在 NFS 条目中，<b>服务器</b>是 NFS 服务器的 DNS 名称或 IP 地址。<br/>\n"
+"<b>路径</b>是 NFS 服务器上目录的绝对路径。<br/>\n"
+"<b>选项</b>必须是用于 NFS 文件系统的 <b>mount</b>(8) 命令的正确选项。<br/>\n"
+"<br/></p>\n"
+
+#. EntryDialog for SAMBA entry
+#: src/helps.ycp:97
+msgid ""
+"<p><b>SAMBA Entry</b><br/>\n"
+"In the case of SAMBA entries, the <b>Server</b> is the DNS name or IP address of the SAMBA server.<br/>\n"
+"The <b>Share</b> is the name of the SAMBA share to be mounted.<br/>\n"
+"The <b>Options</b> must be valid options of the <b>mount</b>(8) command for SMB/CIFS file systems.<br>\n"
+"<br/></p>\n"
+msgstr ""
+"<p><b>SAMBA 条目</b><br/>\n"
+"SAMBA 条目下，<b>服务器</b>指 SAMBA 服务器的 DNS 名称或 IP 地址。<br/>\n"
+"<b>共享</b>是将被挂载的 SAMBA 共享名称。<br>\n"
+"<b>选项</b>必须为 SMB/CIFS 文件系统 <b>mount</b>(8) 命令的有效选项。<br>\n"
+"<br/></p>\n"
+
+#. EntryDialog for Other entry
+#: src/helps.ycp:105
+msgid ""
+"<p><b><big>Other Entry</big></b><br/>\n"
+"The options are comma-separated, which is customary for the <b>mount</b>(8) command.<br/>\n"
+"The location specifies from where the file system is to be mounted.\n"
+"Consult the <b>autofs</b>(5) manual page for more information.\n"
+"<br/></p>\n"
+msgstr ""
+"<p><b><big>其它条目</big></b><br/>\n"
+"选项由逗号分隔，如同 <b>mount</b>(8) 命令的用法习惯。<br/>\n"
+"位置用来指定在何处挂载文件系统。\n"
+"请查询 <b>autofs</b>(5) 帮助手册以获取更多信息。\n"
+"<br/></p>\n"
+
+#. GetLDAPServer dialog if the ldapserver is localhost
+#: src/helps.ycp:113
+msgid ""
+"<p><b><big>Warning</big></b><br> In your system <b>localhost</b> is configured\n"
+"as the LDAP server. Since clients cannot reach <b>localhost</b>, it\n"
+"cannot act as LDAP server for autofs.  Specify an IP address or DNS name of a\n"
+"suitable LDAP server or choose the suggested hostname of your server and press\n"
+"<b>Ok</b>.  <br></p>\n"
+msgstr ""
+"<p><b><big>警告</big></b><br>在您的系统中<b>本地主机</b>被配置为 LDAP 服务器。\n"
+"但是，客户端无法连接<b>本地主机</b>；因此它不能作为 autofs 的 LDAP 服务器。\n"
+"请指定一个合适的 LDAP 服务器的 IP 地址或者 DNS 名称，或选取为您的服务器推荐的主机名\n"
+"并点击<b>确定</b>。<br></p>\n"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:89
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#, fuzzy
+#~ msgid "You can do it by using the YaST ldap module."
+#~ msgstr "您可以通过 YaST2 ldap 模块使用它。"
+
+#~ msgid "Autofs to Configure"
+#~ msgstr "要配置的 Autofs"
+
+#~ msgid "Autofs Overview"
+#~ msgstr "Autofs 概述"
+
+#~ msgid "Number"
+#~ msgstr "数字"
+
+#~ msgid "The localhost cannot be LDAP server for autofs."
+#~ msgstr "autofs 的本地主机不能为 LDAP 服务器。"

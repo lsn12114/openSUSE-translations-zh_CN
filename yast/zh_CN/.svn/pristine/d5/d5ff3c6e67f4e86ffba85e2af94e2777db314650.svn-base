@@ -1,0 +1,137 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:50+0200\n"
+"PO-Revision-Date: 2012-07-08 01:45+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/dialogs.ycp:56 src/texts.ycp:76
+msgid "Send Profile"
+msgstr "发送设置存档"
+
+#: src/dialogs.ycp:57 src/texts.ycp:77
+msgid "Show Profile"
+msgstr "显示设置存档"
+
+#. (bnc#441221) fix typo
+#: src/dialogs.ycp:94
+msgid "An error occurred while gathering system information."
+msgstr "搜集系统信息时发生错误。"
+
+#: src/dialogs.ycp:95
+msgid "Make sure that the smolt package is installed."
+msgstr "请确认已经安装了 smolt 软件包。"
+
+#: src/dialogs.ycp:105
+msgid "System profile has been successfully sent."
+msgstr "系统设置存档发送成功。"
+
+#: src/dialogs.ycp:106
+msgid ""
+"At the end of the system profile details, find a URL and your password to edit\n"
+"and comment your profile online.\n"
+msgstr "在设置存档细节的最后，找到一个 URL 和您的密码以在线编辑和评论您的设置存档。\n"
+
+#: src/texts.ycp:35
+msgid "Automatically send system profile monthly (recommended)"
+msgstr "按月自动发送系统设置存档（推荐）"
+
+#: src/texts.ycp:41
+msgid ""
+"Driver development is prioritized according to hardware popularity.\n"
+"Please send your system profile to influence this work.\n"
+msgstr ""
+"驱动开发是根据硬件欢迎度来决定优先级的。\n"
+"请发送您的系统设置存档以影响开发优先级。\n"
+
+#: src/texts.ycp:44
+msgid ""
+"Driver development is prioritized according to hardware popularity.\n"
+"Please send your system profile to a community database to help\n"
+"creating current statistics.\n"
+msgstr ""
+"驱动开发是根据硬件欢迎度来决定优先级的。\n"
+"请发送您的系统设置存档到社区数据库来帮助创建当前统计。\n"
+
+#: src/texts.ycp:48
+msgid ""
+"Driver development is prioritized according to hardware popularity.\n"
+"The community project Smolt creates statistics from contributed\n"
+"system profiles. Please send your system profile to support Smolt.\n"
+msgstr ""
+"驱动开发是根据硬件欢迎度来决定优先级的。\n"
+"社区项目 Smolt 从贡献的系统设置存档里创建统计。\n"
+"请发送您的系统设置存档以支持 Smolt。\n"
+
+#: src/texts.ycp:59
+msgid "Smolt"
+msgstr "Smolt"
+
+#: src/texts.ycp:60
+msgid "Smolt Project"
+msgstr "Smolt 项目"
+
+#: src/texts.ycp:61
+msgid "System Profile"
+msgstr "系统设置存档"
+
+#: src/texts.ycp:62
+msgid "Send System Profile"
+msgstr "发送系统设置存档"
+
+#: src/texts.ycp:69
+msgid "<p>Linux driver development is prioritized according to hardware popularity. You can submit your system profile to a community database to influence this work.</p>"
+msgstr "<p>Linux 驱动开发是根据硬件受欢迎度来决定优先级的。您可以提交您的系统设置存档到社区数据库以影响开发优先级。</p>"
+
+#: src/texts.ycp:70
+msgid "<p>To keep your system profile updated in this database, activate sending the data monthly.</p>"
+msgstr "<p>为了保持您的系统设置存档在此数据库中的最新状态，请激活按月发送数据。</p>"
+
+#: src/texts.ycp:71
+msgid "<p>Your system profile will be transmitted to the smolt project. Visit <b>http://smolts.org</b> for details.</p>"
+msgstr "<p>您的系统设置存档将被传输到 smolt 项目。详情访问<b>http://smolts.org</b>。</p>"
+
+#: src/texts.ycp:72
+msgid "<p>Once you sent your profile manually, you will receive a URL and a password to edit and comment your profile online. Press <b>Send Profile</b> to send the profile manually.</p>"
+msgstr "<p>一旦您手动发送了设置存档，您会收到一个 URL 和密码以在线编辑和评论您的设置存档。按 <b>发送设置存档</b> 来手动发送设置存档。</p>"
+
+#: src/texts.ycp:78
+msgid "Send Profile Now"
+msgstr "立即发送设置存档"
+
+#: src/texts.ycp:79
+msgid "Send Profile Once"
+msgstr "一次发送设置存档"
+
+#: src/texts.ycp:80
+msgid "Send profile monthly."
+msgstr "按月发送设置存档。"
+
+#: src/texts.ycp:81
+msgid "Do not send profile monthly."
+msgstr "不按月发送设置存档。"
+
+#: src/texts.ycp:82
+msgid "An error occurred and the system profile has not been sent."
+msgstr "出现错误，系统设置存档没有发送。"
+
+#: src/texts.ycp:83
+msgid "Maybe your network is disconnected or the target server is down."
+msgstr "可能您的网络没有连接或者目标服务器关闭了。"
+
+#~ msgid "An error occrred while gathering system information."
+#~ msgstr "搜集系统信息时发生错误。"

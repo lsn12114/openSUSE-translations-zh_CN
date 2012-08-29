@@ -1,0 +1,103 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# hillwood <hillwoodroc@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-07 15:20+0200\n"
+"PO-Revision-Date: 2012-07-05 16:37+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "A password is required."
+msgstr "密码是必须的。"
+
+msgid "Administrator Settings"
+msgstr "管理员设置"
+
+msgid "Administrator settings have been written."
+msgstr "管理员设置已写入。"
+
+msgid "Confirm Password"
+msgstr "确认密码"
+
+msgid "Enter a valid e-mail address."
+msgstr "输入一个有效的电子邮件地址。"
+
+#| msgid "Error while saving administrator settings: %s"
+msgid "Error while saving administrator settings."
+msgstr "保存管理员设置出错。"
+
+msgid "Forward system mail to"
+msgstr "转发系统邮件到"
+
+msgid "Mail Setup for User 'root'"
+msgstr "为 “root” 设置邮件"
+
+msgid ""
+"Mail alias was set but outgoing mail server is not configured (%s<i>change</i>"
+"%s)."
+msgstr "设置邮件别名，但没有设置发送邮件服务器 (%s<i>更改</i>%s)。"
+
+msgid "New Password"
+msgstr "新密码"
+
+msgid "Password Setup for User 'root'"
+msgstr "为 “root” 设置密码"
+
+msgid "Passwords do not match."
+msgstr "密码不匹配。"
+
+msgid "Please wait"
+msgstr "请稍候"
+
+msgid "Save Mail Only"
+msgstr "仅保存邮件"
+
+msgid "The passwords do not match."
+msgstr "密码不匹配。"
+
+#~ msgid "Password Strength:"
+#~ msgstr "密码强度："
+
+#~ msgid "Weak"
+#~ msgstr "弱"
+
+#~ msgid "Normal"
+#~ msgstr "一般"
+
+#~ msgid "Medium"
+#~ msgstr "中等"
+
+#~ msgid "Strong"
+#~ msgstr "强"
+
+#~ msgid "Very Strong"
+#~ msgstr "变态"
+
+#~ msgid "Manage system administrator"
+#~ msgstr "管理系统管理员"
+
+# password dialog title
+#~ msgid "Password"
+#~ msgstr "口令"
+
+#, fuzzy
+#~| msgid "_Confirm Password:"
+#~ msgid "Confirm password"
+#~ msgstr "确认口令(_C)："
+
+#, fuzzy
+#~| msgid "Change Password"
+#~ msgid "Save Password"
+#~ msgstr "更改口令"

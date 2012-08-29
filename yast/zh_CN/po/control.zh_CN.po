@@ -1,0 +1,831 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+# Thruth Wang <lihaow@opera.com>
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Eric Shan <ericalways@gmail.com>, 2008.
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: control\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:45+0200\n"
+"PO-Revision-Date: 2012-04-09 22:59+0800\n"
+"Last-Translator: margurite <i@marguerite.su>\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: control/add-on-template_installation.glade:7
+msgid "Add-On Product Installation"
+msgstr "附加产品安装"
+
+#: control/add-on-template_installation.glade:15
+msgid "Language Installation"
+msgstr "语言安装"
+
+#: control/control.SLED.glade:352
+msgid ""
+"\n"
+"<p>\n"
+"The installation has completed successfully.\n"
+"Your system is ready for use.\n"
+"Click <b>Finish</b> to log in to the system.\n"
+"</p>\n"
+"<p>\n"
+"Please visit us at http://www.suse.com/.\n"
+"</p>\n"
+"\t"
+msgstr ""
+"\n"
+"<p>\n"
+"安装已成功完成。\n"
+"您的系统已经可以使用了。\n"
+"单击<b>完成</b>登录系统。\n"
+"</p>\n"
+"<p>\n"
+"欢迎访问 http://www.suse.com/。\n"
+"</p>\n"
+"\t"
+
+#: control/control.SLED.glade:368 control/control.openSUSE.glade:401
+msgid "Initialization..."
+msgstr "初始化..."
+
+#: control/control.SLED.glade:369 control/control.openSUSE.glade:402
+msgid "Configuring network..."
+msgstr "正在配置网络..."
+
+#: control/control.SLED.glade:370 control/control.openSUSE.glade:403
+msgid "Configuring hardware..."
+msgstr "正在配置硬件..."
+
+#: control/control.SLED.glade:371 control/control.openSUSE.glade:404
+msgid "Finishing configuration..."
+msgstr "正在完成配置..."
+
+#: control/control.SLED.glade:374 control/control.SLES-for-VMware.glade:316
+#: control/control.SLES.glade:334
+msgid "CIM Server"
+msgstr "通用信息模型（CIM）服务器"
+
+#: control/control.SLED.glade:379 control/control.SLED.glade:490
+#: control/control.SLED.glade:768 control/control.SLED.glade:772
+#: control/control.SLED.glade:953 control/control.SLED.glade:994
+#: control/control.SLES-for-VMware.glade:321
+#: control/control.SLES-for-VMware.glade:409
+#: control/control.SLES-for-VMware.glade:527
+#: control/control.SLES-for-VMware.glade:548
+#: control/control.SLES-for-VMware.glade:883
+#: control/control.SLES-for-VMware.glade:887
+#: control/control.SLES-for-VMware.glade:1074
+#: control/control.SLES-for-VMware.glade:1115 control/control.SLES.glade:339
+#: control/control.SLES.glade:427 control/control.SLES.glade:545
+#: control/control.SLES.glade:566 control/control.SLES.glade:901
+#: control/control.SLES.glade:905 control/control.SLES.glade:1092
+#: control/control.SLES.glade:1133 control/control.glade:72
+#: control/control.glade:132 control/control.glade:465
+#: control/control.glade:509 control/control.openSUSE.glade:434
+#: control/control.openSUSE.glade:554 control/control.openSUSE.glade:866
+#: control/control.openSUSE.glade:870 control/control.openSUSE.glade:1042
+#: control/control.openSUSE.glade:1087
+msgid "Installation Settings"
+msgstr "安装设置"
+
+#: control/control.SLED.glade:433 control/control.SLES-for-VMware.glade:379
+#: control/control.SLES-for-VMware.glade:467 control/control.SLES.glade:397
+#: control/control.SLES.glade:485 control/control.glade:92
+msgid "Overview"
+msgstr "概述"
+
+#: control/control.SLED.glade:441 control/control.SLES-for-VMware.glade:389
+#: control/control.SLES-for-VMware.glade:475 control/control.SLES.glade:407
+#: control/control.SLES.glade:493 control/control.glade:100
+msgid "Expert"
+msgstr "专家"
+
+#: control/control.SLED.glade:458 control/control.SLES-for-VMware.glade:494
+#: control/control.SLES.glade:512 control/control.openSUSE.glade:521
+msgid "Live Installation Settings"
+msgstr "Live 安装设置"
+
+#: control/control.SLED.glade:475 control/control.SLES-for-VMware.glade:512
+#: control/control.SLES.glade:530 control/control.glade:117
+#: control/control.openSUSE.glade:539 control/control.openSUSE.glade:955
+#: control/control.openSUSE.glade:960
+msgid "Update Settings"
+msgstr "更新设置"
+
+#: control/control.SLED.glade:509 control/control.SLES-for-VMware.glade:567
+#: control/control.SLES-for-VMware.glade:610 control/control.SLES.glade:585
+#: control/control.SLES.glade:628 control/control.glade:153
+#: control/control.openSUSE.glade:572
+msgid "Network Configuration"
+msgstr "网络配置"
+
+#: control/control.SLED.glade:556 control/control.SLED.glade:1208
+#: control/control.SLED.glade:1214 control/control.SLES-for-VMware.glade:650
+#: control/control.SLES-for-VMware.glade:663
+#: control/control.SLES-for-VMware.glade:674
+#: control/control.SLES-for-VMware.glade:1346
+#: control/control.SLES-for-VMware.glade:1352
+#: control/control.SLES-for-VMware.glade:1358
+#: control/control.SLES-for-VMware.glade:1370 control/control.SLES.glade:668
+#: control/control.SLES.glade:681 control/control.SLES.glade:692
+#: control/control.SLES.glade:1364 control/control.SLES.glade:1370
+#: control/control.SLES.glade:1376 control/control.SLES.glade:1388
+#: control/control.glade:194 control/control.glade:703
+#: control/control.glade:708 control/control.glade:712
+#: control/control.openSUSE.glade:614 control/control.openSUSE.glade:1287
+#: control/control.openSUSE.glade:1293
+msgid "Hardware Configuration"
+msgstr "硬件配置"
+
+#: control/control.SLED.glade:576 control/control.SLED.glade:689
+#: control/control.SLED.glade:813 control/control.SLED.glade:923
+#: control/control.SLED.glade:1316 control/control.SLES-for-VMware.glade:692
+#: control/control.SLES-for-VMware.glade:804
+#: control/control.SLES-for-VMware.glade:928
+#: control/control.SLES-for-VMware.glade:1044
+#: control/control.SLES-for-VMware.glade:1482 control/control.SLES.glade:710
+#: control/control.SLES.glade:822 control/control.SLES.glade:946
+#: control/control.SLES.glade:1062 control/control.SLES.glade:1500
+#: control/control.glade:214 control/control.glade:314
+#: control/control.glade:417 control/control.openSUSE.glade:638
+#: control/control.openSUSE.glade:765 control/control.openSUSE.glade:908
+#: control/control.openSUSE.glade:1009 control/control.openSUSE.glade:1410
+msgid "Preparation"
+msgstr "准备"
+
+#: control/control.SLED.glade:582 control/control.SLED.glade:591
+#: control/control.SLED.glade:694 control/control.SLED.glade:736
+#: control/control.SLED.glade:819 control/control.SLED.glade:828
+#: control/control.SLES-for-VMware.glade:698
+#: control/control.SLES-for-VMware.glade:707
+#: control/control.SLES-for-VMware.glade:809
+#: control/control.SLES-for-VMware.glade:851
+#: control/control.SLES-for-VMware.glade:934
+#: control/control.SLES-for-VMware.glade:943 control/control.SLES.glade:716
+#: control/control.SLES.glade:725 control/control.SLES.glade:827
+#: control/control.SLES.glade:869 control/control.SLES.glade:952
+#: control/control.SLES.glade:961 control/control.glade:220
+#: control/control.glade:229 control/control.glade:238
+#: control/control.glade:320 control/control.glade:329
+#: control/control.glade:338 control/control.glade:450
+#: control/control.glade:494 control/control.openSUSE.glade:643
+#: control/control.openSUSE.glade:770 control/control.openSUSE.glade:812
+#: control/control.openSUSE.glade:914 control/control.openSUSE.glade:1037
+#: control/control.openSUSE.glade:1082
+msgid "Welcome"
+msgstr "欢迎"
+
+#: control/control.SLED.glade:597 control/control.SLES-for-VMware.glade:713
+#: control/control.SLES.glade:731 control/control.glade:344
+#: control/control.openSUSE.glade:653
+msgid "Network Activation"
+msgstr "网络激活"
+
+#: control/control.SLED.glade:603 control/control.SLED.glade:704
+#: control/control.SLED.glade:834 control/control.SLES-for-VMware.glade:719
+#: control/control.SLES-for-VMware.glade:819
+#: control/control.SLES-for-VMware.glade:949 control/control.SLES.glade:737
+#: control/control.SLES.glade:837 control/control.SLES.glade:967
+#: control/control.glade:244 control/control.glade:350
+#: control/control.openSUSE.glade:657 control/control.openSUSE.glade:780
+#: control/control.openSUSE.glade:922
+msgid "Disk Activation"
+msgstr "磁盘激活"
+
+#: control/control.SLED.glade:609 control/control.SLED.glade:615
+#: control/control.SLED.glade:708 control/control.SLED.glade:712
+#: control/control.SLED.glade:840 control/control.SLED.glade:846
+#: control/control.SLED.glade:1321 control/control.SLES-for-VMware.glade:725
+#: control/control.SLES-for-VMware.glade:731
+#: control/control.SLES-for-VMware.glade:823
+#: control/control.SLES-for-VMware.glade:827
+#: control/control.SLES-for-VMware.glade:955
+#: control/control.SLES-for-VMware.glade:961
+#: control/control.SLES-for-VMware.glade:1487 control/control.SLES.glade:743
+#: control/control.SLES.glade:749 control/control.SLES.glade:841
+#: control/control.SLES.glade:845 control/control.SLES.glade:973
+#: control/control.SLES.glade:979 control/control.SLES.glade:1505
+#: control/control.glade:250 control/control.glade:256
+#: control/control.glade:356 control/control.glade:362
+#: control/control.openSUSE.glade:661 control/control.openSUSE.glade:665
+#: control/control.openSUSE.glade:784 control/control.openSUSE.glade:788
+#: control/control.openSUSE.glade:926 control/control.openSUSE.glade:930
+#: control/control.openSUSE.glade:1415
+msgid "System Analysis"
+msgstr "系统分析"
+
+#: control/control.SLED.glade:621 control/control.SLED.glade:862
+#: control/control.SLES-for-VMware.glade:737
+#: control/control.SLES-for-VMware.glade:977 control/control.SLES.glade:755
+#: control/control.SLES.glade:995 control/control.glade:262
+#: control/control.glade:379 control/control.openSUSE.glade:675
+#: control/control.openSUSE.glade:946
+msgid "Add-On Products"
+msgstr "附加产品"
+
+#: control/control.SLED.glade:627 control/control.SLED.glade:746
+#: control/control.SLES-for-VMware.glade:743
+#: control/control.SLES-for-VMware.glade:861 control/control.SLES.glade:761
+#: control/control.SLES.glade:879 control/control.glade:268
+#: control/control.openSUSE.glade:680 control/control.openSUSE.glade:832
+msgid "Time Zone"
+msgstr "时区"
+
+#: control/control.SLED.glade:644 control/control.SLED.glade:648
+#: control/control.SLED.glade:760 control/control.SLED.glade:764
+#: control/control.SLES-for-VMware.glade:875
+#: control/control.SLES-for-VMware.glade:879 control/control.SLES.glade:893
+#: control/control.SLES.glade:897 control/control.openSUSE.glade:706
+#: control/control.openSUSE.glade:710 control/control.openSUSE.glade:846
+#: control/control.openSUSE.glade:850
+msgid "User Settings"
+msgstr "用户设置"
+
+#: control/control.SLED.glade:652 control/control.openSUSE.glade:718
+msgid "Installation Overview"
+msgstr "安装概要"
+
+#: control/control.SLED.glade:659 control/control.SLED.glade:663
+#: control/control.SLED.glade:667 control/control.SLED.glade:671
+#: control/control.SLED.glade:675 control/control.SLED.glade:778
+#: control/control.SLED.glade:782 control/control.SLED.glade:788
+#: control/control.SLED.glade:792 control/control.SLED.glade:796
+#: control/control.SLED.glade:802 control/control.SLED.glade:960
+#: control/control.SLED.glade:964 control/control.SLED.glade:968
+#: control/control.SLED.glade:972 control/control.SLED.glade:1001
+#: control/control.SLED.glade:1005 control/control.SLED.glade:1009
+#: control/control.SLED.glade:1013 control/control.SLED.glade:1286
+#: control/control.SLED.glade:1290 control/control.SLED.glade:1294
+#: control/control.SLED.glade:1298 control/control.SLED.glade:1302
+#: control/control.SLED.glade:1306 control/control.SLED.glade:1410
+#: control/control.SLED.glade:1414 control/control.SLED.glade:1418
+#: control/control.SLES-for-VMware.glade:769
+#: control/control.SLES-for-VMware.glade:773
+#: control/control.SLES-for-VMware.glade:777
+#: control/control.SLES-for-VMware.glade:781
+#: control/control.SLES-for-VMware.glade:786
+#: control/control.SLES-for-VMware.glade:791
+#: control/control.SLES-for-VMware.glade:893
+#: control/control.SLES-for-VMware.glade:897
+#: control/control.SLES-for-VMware.glade:903
+#: control/control.SLES-for-VMware.glade:907
+#: control/control.SLES-for-VMware.glade:911
+#: control/control.SLES-for-VMware.glade:917
+#: control/control.SLES-for-VMware.glade:1081
+#: control/control.SLES-for-VMware.glade:1085
+#: control/control.SLES-for-VMware.glade:1089
+#: control/control.SLES-for-VMware.glade:1093
+#: control/control.SLES-for-VMware.glade:1122
+#: control/control.SLES-for-VMware.glade:1126
+#: control/control.SLES-for-VMware.glade:1130
+#: control/control.SLES-for-VMware.glade:1134
+#: control/control.SLES-for-VMware.glade:1446
+#: control/control.SLES-for-VMware.glade:1450
+#: control/control.SLES-for-VMware.glade:1454
+#: control/control.SLES-for-VMware.glade:1458
+#: control/control.SLES-for-VMware.glade:1462
+#: control/control.SLES-for-VMware.glade:1467
+#: control/control.SLES-for-VMware.glade:1472
+#: control/control.SLES-for-VMware.glade:1576
+#: control/control.SLES-for-VMware.glade:1580
+#: control/control.SLES-for-VMware.glade:1584 control/control.SLES.glade:787
+#: control/control.SLES.glade:791 control/control.SLES.glade:795
+#: control/control.SLES.glade:799 control/control.SLES.glade:804
+#: control/control.SLES.glade:809 control/control.SLES.glade:911
+#: control/control.SLES.glade:915 control/control.SLES.glade:921
+#: control/control.SLES.glade:925 control/control.SLES.glade:929
+#: control/control.SLES.glade:935 control/control.SLES.glade:1099
+#: control/control.SLES.glade:1103 control/control.SLES.glade:1107
+#: control/control.SLES.glade:1111 control/control.SLES.glade:1140
+#: control/control.SLES.glade:1144 control/control.SLES.glade:1148
+#: control/control.SLES.glade:1152 control/control.SLES.glade:1464
+#: control/control.SLES.glade:1468 control/control.SLES.glade:1472
+#: control/control.SLES.glade:1476 control/control.SLES.glade:1480
+#: control/control.SLES.glade:1485 control/control.SLES.glade:1490
+#: control/control.SLES.glade:1594 control/control.SLES.glade:1598
+#: control/control.SLES.glade:1602 control/control.glade:292
+#: control/control.glade:296 control/control.glade:300
+#: control/control.glade:304 control/control.glade:470
+#: control/control.glade:474 control/control.glade:478
+#: control/control.glade:514 control/control.glade:518
+#: control/control.glade:522 control/control.glade:617
+#: control/control.glade:625 control/control.glade:629
+#: control/control.glade:755 control/control.glade:759
+#: control/control.glade:763 control/control.glade:767
+#: control/control.glade:771 control/control.glade:788
+#: control/control.glade:796 control/control.glade:800
+#: control/control.glade:804 control/control.openSUSE.glade:725
+#: control/control.openSUSE.glade:729 control/control.openSUSE.glade:734
+#: control/control.openSUSE.glade:741 control/control.openSUSE.glade:745
+#: control/control.openSUSE.glade:751 control/control.openSUSE.glade:876
+#: control/control.openSUSE.glade:880 control/control.openSUSE.glade:884
+#: control/control.openSUSE.glade:888 control/control.openSUSE.glade:894
+#: control/control.openSUSE.glade:1049 control/control.openSUSE.glade:1053
+#: control/control.openSUSE.glade:1057 control/control.openSUSE.glade:1061
+#: control/control.openSUSE.glade:1094 control/control.openSUSE.glade:1098
+#: control/control.openSUSE.glade:1102 control/control.openSUSE.glade:1106
+#: control/control.openSUSE.glade:1375 control/control.openSUSE.glade:1379
+#: control/control.openSUSE.glade:1383 control/control.openSUSE.glade:1387
+#: control/control.openSUSE.glade:1391 control/control.openSUSE.glade:1395
+#: control/control.openSUSE.glade:1399 control/control.openSUSE.glade:1504
+#: control/control.openSUSE.glade:1508 control/control.openSUSE.glade:1512
+msgid "Perform Installation"
+msgstr "执行安装"
+
+#: control/control.SLED.glade:717 control/control.SLES-for-VMware.glade:832
+#: control/control.SLES.glade:850 control/control.openSUSE.glade:793
+msgid "Repair"
+msgstr "修复"
+
+#: control/control.SLED.glade:731 control/control.SLES-for-VMware.glade:753
+#: control/control.SLES-for-VMware.glade:846 control/control.SLES.glade:771
+#: control/control.SLES.glade:864 control/control.glade:284
+#: control/control.openSUSE.glade:715 control/control.openSUSE.glade:807
+msgid "Installation"
+msgstr "安装"
+
+#: control/control.SLED.glade:754 control/control.SLES-for-VMware.glade:869
+#: control/control.SLES.glade:887 control/control.openSUSE.glade:700
+#: control/control.openSUSE.glade:840
+msgid "Disk"
+msgstr "磁盘"
+
+#: control/control.SLED.glade:852 control/control.SLED.glade:1327
+#: control/control.SLES-for-VMware.glade:967
+#: control/control.SLES-for-VMware.glade:1493 control/control.SLES.glade:985
+#: control/control.SLES.glade:1511 control/control.glade:368
+#: control/control.openSUSE.glade:934 control/control.openSUSE.glade:1421
+msgid "System for Update"
+msgstr "更新系统"
+
+#: control/control.SLED.glade:869 control/control.SLED.glade:1344
+#: control/control.SLES-for-VMware.glade:984
+#: control/control.SLES-for-VMware.glade:1510 control/control.SLES.glade:1002
+#: control/control.SLES.glade:1528 control/control.glade:386
+#: control/control.openSUSE.glade:952 control/control.openSUSE.glade:1438
+msgid "Update"
+msgstr "更新"
+
+#: control/control.SLED.glade:872 control/control.SLED.glade:877
+#: control/control.SLES-for-VMware.glade:987
+#: control/control.SLES-for-VMware.glade:992 control/control.SLES.glade:1005
+#: control/control.SLES.glade:1010 control/control.glade:389
+msgid "Update Summary"
+msgstr "更新概要"
+
+#. FATE #304940: s390 reIPL
+#: control/control.SLED.glade:887 control/control.SLED.glade:896
+#: control/control.SLED.glade:900 control/control.SLED.glade:904
+#: control/control.SLED.glade:908 control/control.SLED.glade:912
+#: control/control.SLED.glade:1029 control/control.SLED.glade:1355
+#: control/control.SLED.glade:1360 control/control.SLED.glade:1365
+#: control/control.SLED.glade:1371 control/control.SLED.glade:1375
+#: control/control.SLED.glade:1379 control/control.SLED.glade:1383
+#: control/control.SLED.glade:1388 control/control.SLED.glade:1393
+#: control/control.SLED.glade:1445 control/control.SLED.glade:1449
+#: control/control.SLES-for-VMware.glade:1002
+#: control/control.SLES-for-VMware.glade:1011
+#: control/control.SLES-for-VMware.glade:1015
+#: control/control.SLES-for-VMware.glade:1019
+#: control/control.SLES-for-VMware.glade:1023
+#: control/control.SLES-for-VMware.glade:1028
+#: control/control.SLES-for-VMware.glade:1033
+#: control/control.SLES-for-VMware.glade:1150
+#: control/control.SLES-for-VMware.glade:1521
+#: control/control.SLES-for-VMware.glade:1526
+#: control/control.SLES-for-VMware.glade:1531
+#: control/control.SLES-for-VMware.glade:1537
+#: control/control.SLES-for-VMware.glade:1541
+#: control/control.SLES-for-VMware.glade:1545
+#: control/control.SLES-for-VMware.glade:1549
+#: control/control.SLES-for-VMware.glade:1554
+#: control/control.SLES-for-VMware.glade:1559
+#: control/control.SLES-for-VMware.glade:1612
+#: control/control.SLES-for-VMware.glade:1616 control/control.SLES.glade:1020
+#: control/control.SLES.glade:1029 control/control.SLES.glade:1033
+#: control/control.SLES.glade:1037 control/control.SLES.glade:1041
+#: control/control.SLES.glade:1046 control/control.SLES.glade:1051
+#: control/control.SLES.glade:1168 control/control.SLES.glade:1539
+#: control/control.SLES.glade:1544 control/control.SLES.glade:1549
+#: control/control.SLES.glade:1555 control/control.SLES.glade:1559
+#: control/control.SLES.glade:1563 control/control.SLES.glade:1567
+#: control/control.SLES.glade:1572 control/control.SLES.glade:1577
+#: control/control.SLES.glade:1630 control/control.SLES.glade:1634
+#: control/control.glade:394 control/control.glade:398
+#: control/control.glade:402 control/control.glade:406
+#: control/control.glade:539 control/control.glade:547
+#: control/control.openSUSE.glade:970 control/control.openSUSE.glade:979
+#: control/control.openSUSE.glade:983 control/control.openSUSE.glade:987
+#: control/control.openSUSE.glade:991 control/control.openSUSE.glade:997
+#: control/control.openSUSE.glade:1449 control/control.openSUSE.glade:1454
+#: control/control.openSUSE.glade:1459 control/control.openSUSE.glade:1465
+#: control/control.openSUSE.glade:1469 control/control.openSUSE.glade:1473
+#: control/control.openSUSE.glade:1477 control/control.openSUSE.glade:1482
+#: control/control.openSUSE.glade:1487 control/control.openSUSE.glade:1539
+#: control/control.openSUSE.glade:1543
+msgid "Perform Update"
+msgstr "执行更新"
+
+#: control/control.SLED.glade:927 control/control.SLES-for-VMware.glade:1048
+#: control/control.SLES.glade:1066 control/control.glade:422
+#: control/control.glade:430 control/control.openSUSE.glade:1013
+msgid "System Information"
+msgstr "系统信息"
+
+#: control/control.SLED.glade:931 control/control.SLES-for-VMware.glade:1052
+#: control/control.SLES.glade:1070 control/control.glade:434
+#: control/control.openSUSE.glade:1017
+msgid "Perform Repair"
+msgstr "执行修复"
+
+#: control/control.SLED.glade:942 control/control.SLED.glade:983
+#: control/control.SLED.glade:1258 control/control.SLES-for-VMware.glade:1063
+#: control/control.SLES-for-VMware.glade:1104
+#: control/control.SLES-for-VMware.glade:1418 control/control.SLES.glade:1081
+#: control/control.SLES.glade:1122 control/control.SLES.glade:1436
+#: control/control.glade:445 control/control.glade:489
+#: control/control.glade:720 control/control.openSUSE.glade:1031
+#: control/control.openSUSE.glade:1077 control/control.openSUSE.glade:1347
+msgid "Base Installation"
+msgstr "基本安装"
+
+#: control/control.SLED.glade:948 control/control.SLED.glade:989
+#: control/control.SLES-for-VMware.glade:1069
+#: control/control.SLES-for-VMware.glade:1110 control/control.SLES.glade:1087
+#: control/control.SLES.glade:1128 control/control.glade:460
+#: control/control.glade:504
+msgid "Language"
+msgstr "语言"
+
+#: control/control.SLED.glade:1034 control/control.SLED.glade:1103
+#: control/control.SLED.glade:1235 control/control.SLED.glade:1423
+#: control/control.SLED.glade:1454 control/control.SLES-for-VMware.glade:1155
+#: control/control.SLES-for-VMware.glade:1248
+#: control/control.SLES-for-VMware.glade:1395
+#: control/control.SLES-for-VMware.glade:1589
+#: control/control.SLES-for-VMware.glade:1621 control/control.SLES.glade:1173
+#: control/control.SLES.glade:1266 control/control.SLES.glade:1413
+#: control/control.SLES.glade:1607 control/control.SLES.glade:1639
+#: control/control.glade:552 control/control.glade:636
+#: control/control.glade:809 control/control.openSUSE.glade:1189
+#: control/control.openSUSE.glade:1314 control/control.openSUSE.glade:1517
+#: control/control.openSUSE.glade:1548
+msgid "Configuration"
+msgstr "配置"
+
+#: control/control.SLED.glade:1037 control/control.SLED.glade:1044
+#: control/control.SLED.glade:1141 control/control.SLED.glade:1147
+#: control/control.SLED.glade:1151 control/control.SLES-for-VMware.glade:1158
+#: control/control.SLES-for-VMware.glade:1165
+#: control/control.SLES-for-VMware.glade:1280
+#: control/control.SLES-for-VMware.glade:1286
+#: control/control.SLES-for-VMware.glade:1290 control/control.SLES.glade:1176
+#: control/control.SLES.glade:1183 control/control.SLES.glade:1298
+#: control/control.SLES.glade:1304 control/control.SLES.glade:1308
+#: control/control.glade:555 control/control.glade:561
+#: control/control.glade:648 control/control.glade:653
+#: control/control.glade:657 control/control.openSUSE.glade:1230
+#: control/control.openSUSE.glade:1236 control/control.openSUSE.glade:1240
+msgid "Network"
+msgstr "网络"
+
+#: control/control.SLED.glade:1050 control/control.SLED.glade:1054
+#: control/control.SLED.glade:1155 control/control.SLED.glade:1159
+#: control/control.SLES-for-VMware.glade:1171
+#: control/control.SLES-for-VMware.glade:1175
+#: control/control.SLES-for-VMware.glade:1294
+#: control/control.SLES-for-VMware.glade:1298 control/control.SLES.glade:1189
+#: control/control.SLES.glade:1193 control/control.SLES.glade:1312
+#: control/control.SLES.glade:1316 control/control.glade:567
+#: control/control.glade:661
+msgid "Customer Center"
+msgstr "客户中心"
+
+#: control/control.SLED.glade:1060 control/control.SLED.glade:1066
+#: control/control.SLED.glade:1072 control/control.SLED.glade:1166
+#: control/control.SLED.glade:1172 control/control.SLED.glade:1176
+#: control/control.SLED.glade:1180 control/control.SLES-for-VMware.glade:1181
+#: control/control.SLES-for-VMware.glade:1187
+#: control/control.SLES-for-VMware.glade:1193
+#: control/control.SLES-for-VMware.glade:1304
+#: control/control.SLES-for-VMware.glade:1310
+#: control/control.SLES-for-VMware.glade:1314
+#: control/control.SLES-for-VMware.glade:1318 control/control.SLES.glade:1199
+#: control/control.SLES.glade:1205 control/control.SLES.glade:1211
+#: control/control.SLES.glade:1322 control/control.SLES.glade:1328
+#: control/control.SLES.glade:1332 control/control.SLES.glade:1336
+#: control/control.glade:573 control/control.glade:579
+#: control/control.glade:585 control/control.glade:667
+#: control/control.glade:673 control/control.glade:677
+#: control/control.glade:681 control/control.openSUSE.glade:1244
+#: control/control.openSUSE.glade:1248 control/control.openSUSE.glade:1252
+#: control/control.openSUSE.glade:1256 control/control.openSUSE.glade:1260
+msgid "Online Update"
+msgstr "在线更新"
+
+#: control/control.SLED.glade:1079 control/control.SLED.glade:1204
+#: control/control.SLES-for-VMware.glade:1201
+#: control/control.SLES-for-VMware.glade:1342 control/control.SLES.glade:1219
+#: control/control.SLES.glade:1360 control/control.glade:593
+#: control/control.glade:699 control/control.openSUSE.glade:1283
+msgid "Release Notes"
+msgstr "发行说明"
+
+#: control/control.SLED.glade:1106 control/control.SLED.glade:1238
+#: control/control.SLES-for-VMware.glade:1398 control/control.SLES.glade:1416
+#: control/control.openSUSE.glade:1197 control/control.openSUSE.glade:1317
+msgid "Automatic Configuration"
+msgstr "自动配置"
+
+#: control/control.SLED.glade:1112 control/control.SLES-for-VMware.glade:1251
+#: control/control.SLES.glade:1269 control/control.openSUSE.glade:1203
+msgid "root Password"
+msgstr "root 密码"
+
+#: control/control.SLED.glade:1117 control/control.SLED.glade:1123
+#: control/control.SLED.glade:1129 control/control.SLES-for-VMware.glade:1256
+#: control/control.SLES-for-VMware.glade:1262
+#: control/control.SLES-for-VMware.glade:1268 control/control.SLES.glade:1274
+#: control/control.SLES.glade:1280 control/control.SLES.glade:1286
+#: control/control.openSUSE.glade:1208 control/control.openSUSE.glade:1214
+#: control/control.openSUSE.glade:1220
+msgid "Check Installation"
+msgstr "检查安装"
+
+#: control/control.SLED.glade:1135 control/control.SLES-for-VMware.glade:1274
+#: control/control.SLES.glade:1292 control/control.glade:644
+#: control/control.openSUSE.glade:1226
+msgid "Hostname"
+msgstr "主机名"
+
+#: control/control.SLED.glade:1184 control/control.SLED.glade:1188
+#: control/control.SLES-for-VMware.glade:1328
+#: control/control.SLES-for-VMware.glade:1332 control/control.SLES.glade:1346
+#: control/control.SLES.glade:1350 control/control.glade:685
+#: control/control.glade:689 control/control.openSUSE.glade:1264
+#: control/control.openSUSE.glade:1268 control/control.openSUSE.glade:1324
+#: control/control.openSUSE.glade:1328
+msgid "Users"
+msgstr "用户"
+
+#: control/control.SLED.glade:1267 control/control.SLED.glade:1273
+#: control/control.SLED.glade:1277 control/control.SLED.glade:1333
+#: control/control.SLED.glade:1339 control/control.SLED.glade:1347
+#: control/control.SLES-for-VMware.glade:1427
+#: control/control.SLES-for-VMware.glade:1433
+#: control/control.SLES-for-VMware.glade:1437
+#: control/control.SLES-for-VMware.glade:1499
+#: control/control.SLES-for-VMware.glade:1505
+#: control/control.SLES-for-VMware.glade:1513 control/control.SLES.glade:1445
+#: control/control.SLES.glade:1451 control/control.SLES.glade:1455
+#: control/control.SLES.glade:1517 control/control.SLES.glade:1523
+#: control/control.SLES.glade:1531 control/control.glade:730
+#: control/control.glade:738 control/control.glade:744
+#: control/control.glade:748 control/control.openSUSE.glade:1356
+#: control/control.openSUSE.glade:1362 control/control.openSUSE.glade:1366
+#: control/control.openSUSE.glade:1427 control/control.openSUSE.glade:1433
+#: control/control.openSUSE.glade:1441
+msgid "AutoYaST Settings"
+msgstr "AutoYaST 设置"
+
+#: control/control.SLED.glade:1426 control/control.SLED.glade:1457
+#: control/control.SLES-for-VMware.glade:1592
+#: control/control.SLES-for-VMware.glade:1624 control/control.SLES.glade:1610
+#: control/control.SLES.glade:1642 control/control.glade:812
+#: control/control.openSUSE.glade:1520 control/control.openSUSE.glade:1551
+msgid "System Configuration"
+msgstr "系统配置"
+
+#: control/control.SLED.glade:1461 control/control.SLES-for-VMware.glade:1197
+#: control/control.SLES-for-VMware.glade:1336
+#: control/control.SLES-for-VMware.glade:1596
+#: control/control.SLES-for-VMware.glade:1628 control/control.SLES.glade:1215
+#: control/control.SLES.glade:1354 control/control.SLES.glade:1614
+#: control/control.SLES.glade:1646 control/control.glade:589
+#: control/control.glade:693 control/control.glade:816
+#: control/control.openSUSE.glade:1555
+msgid "Clean Up"
+msgstr "清理"
+
+#: control/control.SLES-for-VMware.glade:288 control/control.SLES.glade:306
+msgid ""
+"\n"
+"<p>\n"
+"The installation has completed successfully.\n"
+"Your system is ready for use.\n"
+"Click Finish to log in to the system.\n"
+"</p>\n"
+"<p>\n"
+"Please visit us at http://www.suse.com/.\n"
+"</p>\n"
+"\t"
+msgstr ""
+"\n"
+"<p>\n"
+"安装已成功完成。\n"
+"您的系统已经可以使用了。\n"
+"单击“完成”登录系统。\n"
+"</p>\n"
+"<p>\n"
+"欢迎访问 http://www.suse.com/。\n"
+"</p>\n"
+"\t"
+
+#: control/control.SLES-for-VMware.glade:304 control/control.SLES.glade:322
+msgid "Server Base Scenario"
+msgstr "服务器基础方案"
+
+#: control/control.SLES-for-VMware.glade:305 control/control.SLES.glade:323
+msgid ""
+"SUSE Linux Enterprise Server offers several base scenarios.\n"
+"Choose the one that matches your server the best."
+msgstr ""
+"SUSE Linux Enterprise Server 提供许多套基础标准结构方案。\n"
+"请选择最适合您服务器的类型。"
+
+#: control/control.SLES-for-VMware.glade:311 control/control.SLES.glade:329
+msgid "Physical Machine (Also for Fully Virtualized Guests)"
+msgstr "物理计算机（也适用于全虚拟的访客计算机）"
+
+#: control/control.SLES-for-VMware.glade:312 control/control.SLES.glade:330
+msgid "Virtual Machine (For Paravirtualized Environments Like Xen)"
+msgstr "虚拟机（适用于像 Xen 这样的半虚拟机）"
+
+#: control/control.SLES-for-VMware.glade:313 control/control.SLES.glade:331
+msgid "Xen Virtualization Host (Local X11 Not Configured by Default)"
+msgstr "Xen 虚拟主机（本地 X 视窗系统默认未配置）"
+
+#: control/control.SLES-for-VMware.glade:636 control/control.SLES.glade:654
+msgid "Network Services Configuration"
+msgstr "网络服务配置"
+
+#: control/control.SLES-for-VMware.glade:757 control/control.SLES.glade:775
+msgid "Server Scenario"
+msgstr "服务器方案"
+
+#: control/control.SLES-for-VMware.glade:762 control/control.SLES.glade:780
+#: control/control.glade:287
+msgid "Installation Summary"
+msgstr "安装概要"
+
+#: control/control.SLES-for-VMware.glade:1322 control/control.SLES.glade:1340
+msgid "Service"
+msgstr "服务"
+
+#: control/control.glade:277 control/control.openSUSE.glade:688
+msgid "Desktop Selection"
+msgstr "桌面选择"
+
+#: control/control.glade:639
+msgid "Root Password"
+msgstr "Root 密码"
+
+#: control/control.openSUSE.glade:392
+msgid ""
+"\n"
+"<p><b>Congratulations!</b></p>\n"
+"<p>The installation of openSUSE on your machine is complete.\n"
+"After clicking <b>Finish</b>, you can log in to the system.</p>\n"
+"<p>Visit us at %1.</p>\n"
+"<p>Have a lot of fun!<br>Your openSUSE Development Team</p>\n"
+"\t    "
+msgstr ""
+"\n"
+"<p><b>恭喜！</b></p>\n"
+"<p>openSUSE 已在您的计算机上安装完毕。\n"
+"单击<b>完成</b>后，您就可以登录系统。</p>\n"
+"<p>请访问我们的站点：%1。</p>\n"
+"<p>祝您使用愉快！<br>openSUSE 开发团队</p>\n"
+"\t    "
+
+#: control/control.openSUSE.glade:410
+msgid ""
+"The desktop environment on your computer provides the graphical user\n"
+"interface for your computer, as well as a suite of applications for\n"
+"email, Web browsing, office productivity, games, and utilities to\n"
+"manage your computer.\n"
+"\n"
+"openSUSE offers a choice of desktop environments.  The most widely\n"
+"used desktop environments are GNOME and KDE, and they are equally\n"
+"supported under openSUSE. Both desktop environments are easy to use,\n"
+"highly integrated, and have an attractive look and feel. Each desktop\n"
+"environment has a distinct style, so personal taste determines which\n"
+"is the most appropriate desktop for you."
+msgstr ""
+"桌面环境为您的计算机提供图形用户界面，包含了\n"
+"Email、浏览器、办公软件、游戏以及管理计算机\n"
+"的实用工具等一系列软件。\n"
+"\n"
+"openSUSE 为您提供桌面环境的选择。使用最广泛的\n"
+"桌面环境 GNOME 和 KDE，在 openSUSE 下有着同样\n"
+"的支持。两者都易于使用、高度集成、外观诱人。\n"
+"每个桌面有自己的风格，所以个人品味决定了哪个\n"
+"桌面最适合您。"
+
+#: control/control.openSUSE.glade:423
+msgid "GNOME Desktop"
+msgstr "GNOME 桌面"
+
+#: control/control.openSUSE.glade:424
+msgid "KDE Desktop"
+msgstr "KDE 桌面"
+
+#: control/control.openSUSE.glade:425
+msgid "XFCE Desktop"
+msgstr "XFCE 桌面"
+
+#: control/control.openSUSE.glade:426
+msgid "LXDE Desktop"
+msgstr "LXDE 桌面"
+
+#: control/control.openSUSE.glade:427
+msgid "Minimal X Window"
+msgstr "最小化的 X-Windows"
+
+#: control/control.openSUSE.glade:428
+msgid "Minimal Server Selection (Text Mode)"
+msgstr "最小化的服务器挑选(文本模式)"
+
+#: control/control.openSUSE.glade:670 control/control.openSUSE.glade:941
+msgid "Online Repositories"
+msgstr "在线安装源"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p><b>Congratulations!</b></p>\n"
+#~ "<p>The installation of &product; on your machine is complete.\n"
+#~ "After clicking <b>Finish</b>, you can log in to the system.</p>\n"
+#~ "<p>Visit us at %1.</p>\n"
+#~ "<p>Have a lot of fun!<br>Your SUSE Development Team</p>\n"
+#~ "\t"
+#~ msgstr ""
+#~ "\n"
+#~ "<p><b>恭喜！</b></p>\n"
+#~ "<p>&product; 已在您的计算机上成功安装。\n"
+#~ "单击<b>完成</b>后，您就可以登录系统了。</p>\n"
+#~ "<p>欢迎访问 %1。</p>\n"
+#~ "<p>祝使用愉快！<br>SUSE 开发团队</p>\n"
+#~ "\t"
+
+#~ msgid ""
+#~ "openSUSE offers you a choice of user interfaces. The two major complete \n"
+#~ "desktops are KDE and GNOME. Both provide an easy-to-use desktop with a full \n"
+#~ "suite of applications including email, a file manager, games and utilities. \n"
+#~ " \n"
+#~ "As desktop selection is a matter of taste, we do not give a recommendation."
+#~ msgstr ""
+#~ "openSUSE 让您选择用户界面。两种完整的桌面环境是\n"
+#~ "KDE 和 GNOME。两者都很易用，并带有一整套应用程序，\n"
+#~ "包括 Email、文件管理器、游戏和各种工具等。\n"
+#~ "\n"
+#~ "桌面选择，事关品味，我们不给推荐。"
+
+#~ msgid "GNOME"
+#~ msgstr "GNOME"
+
+#~ msgid "KDE"
+#~ msgstr "KDE"
+
+#, fuzzy
+#~ msgid ""
+#~ "GNOME 2.28 is the latest desktop from the GNOME Project. \n"
+#~ "It combines stability and maturity with incremental innovations."
+#~ msgstr ""
+#~ "GNOME 2.24 是 GNOME 项目最新的桌面。\n"
+#~ "在不断创新的基础上，具有稳定性和成熟性。"
+
+#, fuzzy
+#~ msgid ""
+#~ "KDE 4.3 is the latest stable desktop released by the KDE Project.\n"
+#~ "It delivers an innovative, highly integrated desktop environment\n"
+#~ "with a modern look and feel."
+#~ msgstr ""
+#~ "KDE 4.1 是 KDE 项目最新的桌面稳定版。\n"
+#~ "这是一个创新的高度整合的桌面环境，\n"
+#~ "并且有着新潮的感观。"
+
+#~ msgid "KDE 4.1"
+#~ msgstr "KDE 4.1"
+
+#~ msgid "KDE 3.5"
+#~ msgstr "KDE 3.5"
+
+#~ msgid "Physical Machine"
+#~ msgstr "物理机"
+
+#~ msgid "Virtual Machine"
+#~ msgstr "虚拟机"
+
+#~ msgid "XEN Virtualization Host"
+#~ msgstr "XEN 虚拟主机"

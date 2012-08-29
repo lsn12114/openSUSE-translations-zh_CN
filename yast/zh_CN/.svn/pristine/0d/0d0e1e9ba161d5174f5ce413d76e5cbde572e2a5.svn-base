@@ -1,0 +1,680 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005
+# Thruth Wang <lihaow@opera.com>, 2007.
+# Eric Shan <ericalways@gmail.com>, 2008. 
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: x11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-05 10:12+0200\n"
+"PO-Revision-Date: 2008-10-16 11:13+0800\n"
+"Last-Translator: Eric Shan <ericalways@gmail.com>\n"
+"Language-Team: Simplified Chinese\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. =============================================
+#. some packages required are missing
+#. ---------------------------------------------
+#: src/XMessages.ycp:44
+#, ycp-format
+msgid ""
+"\n"
+"The following packages are missing:\n"
+"%1\n"
+"Install them now?\n"
+msgstr ""
+"\n"
+"缺少以下软件包：\n"
+"%1\n"
+"是否立即安装？\n"
+
+#. =============================================
+#. help text for commandline mode
+#. ---------------------------------------------
+#: src/XMessages.ycp:53
+msgid ""
+"\n"
+"X11 configuration module.\n"
+msgstr ""
+"\n"
+"X11配置模块。\n"
+
+#. 256 colors - lower case
+#: src/XMessages.ycp:58
+msgid "256 colors"
+msgstr "256 色"
+
+#. 256 Colors - upper case
+#: src/XMessages.ycp:60
+msgid "256 Colors"
+msgstr "256 色"
+
+#. 32768 colors - lower case
+#: src/XMessages.ycp:63
+msgid "32768 colors"
+msgstr "32768 色"
+
+#. 32768 colors - upper case
+#: src/XMessages.ycp:65
+msgid "32768 Colors"
+msgstr "32768 色"
+
+#. 65536 colors - lower case
+#: src/XMessages.ycp:68
+msgid "65536 colors"
+msgstr "65536 色"
+
+#. 65536 colors - upper case
+#: src/XMessages.ycp:70
+msgid "65536 Colors"
+msgstr "65536 色"
+
+#. 16.7 M colors - lower case
+#: src/XMessages.ycp:73
+msgid "16.7 M colors"
+msgstr "16.7 百万色"
+
+#. 16.7 M Colors - upper case
+#: src/XMessages.ycp:75
+msgid "16.7 M Colors"
+msgstr "16.7 百万色"
+
+#. 16.7 Mio. colors - lower case - business language
+#: src/XMessages.ycp:78
+msgid "16.7 Mio. colors"
+msgstr "16.7 百万色"
+
+#. 16.7 Mio. Colors - business language
+#: src/XMessages.ycp:80
+msgid "16.7 Mio. Colors"
+msgstr "16.7 百万色"
+
+#. =============================================
+#. Colors - title for a drop-down box
+#: src/XMessages.ycp:90
+msgid "Colors"
+msgstr "颜色"
+
+#. string for a drop-down box
+#: src/XMessages.ycp:93
+msgid "256 [8 bit]"
+msgstr "256 [8 位]"
+
+#. string for a drop-down box
+#: src/XMessages.ycp:95
+msgid "32768 [15 bit]"
+msgstr "32768 [15 位]"
+
+#. string for a drop-down box, PPC meaning: the PowerPC architecture
+#: src/XMessages.ycp:97
+msgid "32768 [15 bit] (PPC)"
+msgstr "32768 [15 位] (PPC)"
+
+#. string for a drop-down box
+#: src/XMessages.ycp:99
+msgid "65536 [16 bit]"
+msgstr "65536 [16 位]"
+
+#. string for a drop-down box, meaning "16.7 million" (colors)
+#: src/XMessages.ycp:101
+msgid "16.7 M [24 bit]"
+msgstr "16.7 百万 [24 位]"
+
+#. string for a drop-down box - business language
+#: src/XMessages.ycp:103
+msgid "16.7 Mio. [24 bit]"
+msgstr "16.7 百万 [24 位]"
+
+#. string for a drop-down box
+#: src/XMessages.ycp:105
+msgid "16.7 Million [24 bit]"
+msgstr "16.7 百万 [24 位]"
+
+#. string for a drop-down box, meaning "16.7 million" (colors)
+#: src/XMessages.ycp:108
+msgid "16.7 M [32 bit]"
+msgstr "16.7 百万 [32 位]"
+
+#. string for a drop-down box - business language
+#: src/XMessages.ycp:110
+msgid "16.7 Mio. [32 bit]"
+msgstr "16.7 百万 [32 位]"
+
+#. string for a drop-down box
+#: src/XMessages.ycp:112
+msgid "16.7 Million [32 bit]"
+msgstr "16.7 百万 [32 位]"
+
+#. =============================================
+#. Xgl strings
+#. ---------------------------------------------
+#. label for a checkbox
+#: src/XMessages.ycp:119
+msgid "Enable Xgl"
+msgstr "启用 Xgl"
+
+#. label for a checkbox
+#: src/XMessages.ycp:121
+msgid "Enable Xgl if possible"
+msgstr "如有可能则启用 Xgl"
+
+#. label for a text entry
+#: src/XMessages.ycp:123
+msgid "Xgl options"
+msgstr "Xgl 选项"
+
+#. label for a heading
+#: src/XMessages.ycp:125
+msgid "Xgl Options"
+msgstr "Xgl 选项"
+
+#. label for a text entry
+#: src/XMessages.ycp:127
+msgid "Custom Xgl options"
+msgstr "定制 Xgl 选项"
+
+#. label for a heading
+#: src/XMessages.ycp:129
+msgid "Custom Xgl Options"
+msgstr "定制 Xgl 选项"
+
+#. label for a drop-down box
+#: src/XMessages.ycp:131
+msgid "X server"
+msgstr "X 服务器"
+
+#. =============================================
+#. graphics card
+#. ---------------------------------------------
+#: src/XMessages.ycp:137
+msgid "Graphics card: "
+msgstr "图形卡："
+
+#. =============================================
+#. monitor
+#. ---------------------------------------------
+#: src/XMessages.ycp:142
+msgid "Monitor: "
+msgstr "显示器："
+
+#. Display:
+#: src/XMessages.ycp:145
+msgid "Display:"
+msgstr "显示屏："
+
+#. =============================================
+#. colorDepth
+#. ---------------------------------------------
+#: src/XMessages.ycp:150
+msgid "Colordepth: "
+msgstr "颜色深度："
+
+#: src/XMessages.ycp:151
+msgid "Color Depth:"
+msgstr "颜色深度"
+
+#. =============================================
+#. deactivated
+#. ---------------------------------------------
+#: src/XMessages.ycp:156
+msgid "Deactivated"
+msgstr "已取消激活"
+
+#. =============================================
+#. activated
+#. ---------------------------------------------
+#: src/XMessages.ycp:161
+msgid "Activated"
+msgstr "已激活"
+
+#. =============================================
+#. 3D acceleration
+#. ---------------------------------------------
+#: src/XMessages.ycp:166
+msgid "3D Acceleration: "
+msgstr "3D 加速："
+
+#. =============================================
+#. External VGA on NoteBooks
+#. ---------------------------------------------
+#: src/XMessages.ycp:171
+msgid "Dual Head Mode: "
+msgstr "双头模式："
+
+#. =============================================
+#. selectColorDepth
+#. ---------------------------------------------
+#: src/XMessages.ycp:176
+msgid "Select color depth:"
+msgstr "选择颜色深度："
+
+#. =============================================
+#. resolution
+#. ---------------------------------------------
+#: src/XMessages.ycp:181
+msgid "Resolution:"
+msgstr "分辨率："
+
+#. =============================================
+#. selectResolution
+#. ---------------------------------------------
+#: src/XMessages.ycp:186
+msgid "Select resolution:"
+msgstr "选择分辨率："
+
+#. =============================================
+#. selectMonitor
+#. ---------------------------------------------
+#: src/XMessages.ycp:191
+msgid "Select Monitor Vendor and Model:"
+msgstr "选择显示器制造商和型号："
+
+#: src/XMessages.ycp:192
+msgid "Select Monitor Vendor and Model"
+msgstr "选择显示器制造商和型号"
+
+#: src/XMessages.ycp:193
+msgid "Select Display Vendor and Model"
+msgstr "选择显示屏制造商和型号"
+
+#. selectTablet
+#: src/XMessages.ycp:196
+msgid "Select Tablet Vendor and Model"
+msgstr "选择手写板制造商和型号"
+
+#. tablet
+#: src/XMessages.ycp:199
+msgid "Tablet:"
+msgstr "手写板："
+
+#. vendor - meaning "monitor vendor" or "tablet vendor" (like "hardware vendor")
+#: src/XMessages.ycp:202
+msgid "Vendor:"
+msgstr "制造商："
+
+#. model - meaning "monitor model" or "tablet vendor"
+#: src/XMessages.ycp:204
+msgid "Model:"
+msgstr "型号："
+
+#. Monitor Vendor and Model:
+#: src/XMessages.ycp:207
+msgid "Monitor Vendor and Model:"
+msgstr "显示器制造商和型号："
+
+#. Monitor Vendor and Model:
+#: src/XMessages.ycp:210
+msgid "Display Vendor and Model:"
+msgstr "显示屏制造商和型号："
+
+#. Tablet Vendor and Model:
+#: src/XMessages.ycp:213
+msgid "Tablet Vendor and Model:"
+msgstr "手写板制造商和型号："
+
+#. Size
+#: src/XMessages.ycp:216
+msgid "Size:"
+msgstr "尺寸："
+
+#. Monitor Size
+#: src/XMessages.ycp:219
+msgid "Monitor Size:"
+msgstr "显示器尺寸："
+
+#. Monitor Size
+#: src/XMessages.ycp:222
+msgid "Display Size:"
+msgstr "显示屏尺寸："
+
+#. =============================================
+#. selectLink
+#. ---------------------------------------------
+#: src/XMessages.ycp:228
+msgid "Click the underlined setting to change."
+msgstr "单击有下划线的设置以进行更改。"
+
+#. =============================================
+#. Scale unit for display traversal
+#. ---------------------------------------------
+#: src/XMessages.ycp:233
+msgid "Inches"
+msgstr "英寸"
+
+#. =============================================
+#. Scale unit for display aspect
+#. ---------------------------------------------
+#: src/XMessages.ycp:238
+msgid "Aspect"
+msgstr "纵横比"
+
+#. =============================================
+#. selectDisplaySize
+#. ---------------------------------------------
+#: src/XMessages.ycp:243
+msgid "Traversal"
+msgstr "遍历"
+
+#: src/XMessages.ycp:244
+msgid "Aspect Ratio:"
+msgstr "纵横比："
+
+#: src/XMessages.ycp:246
+msgid "Display Settings"
+msgstr "显示屏设置"
+
+#. =============================================
+#. proposal menu and title text
+#. ---------------------------------------------
+#: src/XMessages.ycp:251
+msgid "Graphics Cards"
+msgstr "图形卡"
+
+#: src/XMessages.ycp:252
+msgid "&Graphics Cards"
+msgstr "图形卡(&G)"
+
+#. =============================================
+#. selectTest
+#. ---------------------------------------------
+#: src/XMessages.ycp:257
+msgid "Test the Configuration"
+msgstr "测试配置"
+
+#. =============================================
+#. Unconfigured
+#. ---------------------------------------------
+#: src/XMessages.ycp:262
+msgid "Unconfigured"
+msgstr "未配置"
+
+#. configure - in lower case
+#: src/XMessages.ycp:265
+msgid "configure"
+msgstr "配置"
+
+#. change - in lower case
+#: src/XMessages.ycp:268
+msgid "change"
+msgstr "更改"
+
+#. =============================================
+#. warnNoteBook
+#. ---------------------------------------------
+#: src/XMessages.ycp:273
+msgid ""
+"\n"
+"Dual head mode is not supported with this laptop.\n"
+msgstr ""
+"\n"
+"此笔记本电脑不支持双头模式。\n"
+
+#. =============================================
+#. warnInvalidColorResolution
+#. ---------------------------------------------
+#: src/XMessages.ycp:278
+msgid ""
+"\n"
+"The selected resolution and/or color settings are not supported by the graphics cards framebuffer.\n"
+msgstr ""
+"\n"
+"选定方案和/或颜色设置不被图形卡 framebuffer 支持。\n"
+
+#. text in a notification popup
+#: src/XMessages.ycp:282
+msgid ""
+"The system will now probe the graphics card.\n"
+"The screen may flicker during this process."
+msgstr ""
+"系统将要探测显卡。\n"
+"在这个过程中屏幕可能会闪烁。"
+
+#~ msgid "KDM"
+#~ msgstr "KDM"
+
+#~ msgid "GDM"
+#~ msgstr "GDM"
+
+#~ msgid "XDM"
+#~ msgstr "XDM"
+
+#~ msgid "KDE"
+#~ msgstr "KDE"
+
+#~ msgid "GNOME"
+#~ msgstr "GNOME"
+
+#~ msgid "TWM"
+#~ msgstr "TWM"
+
+#~ msgid "FVWM"
+#~ msgstr "FVWM"
+
+#~ msgid "Fetch from system"
+#~ msgstr "从系统获取"
+
+#~ msgid "&General Options:"
+#~ msgstr "常规选项(&G)："
+
+#~ msgid "&Enable 3D Support if possible"
+#~ msgstr "可能时启用 3D 支持(&E)"
+
+#~ msgid "Enable &Xgl if possible"
+#~ msgstr "如有可能则启用 Xgl(&X)"
+
+#~ msgid "&Custom Xgl options"
+#~ msgstr "定制 Xgl 选项(&C)"
+
+#~ msgid "Co&lor Depth"
+#~ msgstr "颜色深度(&L)"
+
+#~ msgid "Resol&ution"
+#~ msgstr "分辨率(&U)"
+
+#~ msgid "Desktop:"
+#~ msgstr "桌面："
+
+#~ msgid "&Display Manager"
+#~ msgstr "显示管理器(&D)"
+
+#~ msgid "&Window Manager"
+#~ msgstr "窗口管理器(&W)"
+
+#~ msgid "X11 Configuration"
+#~ msgstr "X11 配置"
+
+#~ msgid ""
+#~ "<p>Use this dialog to configure the X11 system and the\n"
+#~ "display attached to the computer to install.</P>\n"
+#~ msgstr "<p>使用此对话框配置 X11 系统和连接到要安装的计算机的显示器。</P>\n"
+
+#~ msgid ""
+#~ "<P>Additionally, configure if the X11 system should\n"
+#~ "be started at boot time and what display manager should be used.</p>\n"
+#~ msgstr ""
+#~ "<P>此外，还可以配置是否要在启动时进入 X11 系统，\n"
+#~ "以及应使用的显示管理器。</p>\n"
+
+#~ msgid "&Vendor"
+#~ msgstr "制造商(&V)"
+
+#~ msgid "M&odel"
+#~ msgstr "型号(&O)"
+
+#~ msgid "Horizontal frequency"
+#~ msgstr "水平扫描频率"
+
+#~ msgid "&min"
+#~ msgstr "最小(&M)"
+
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgid "m&ax"
+#~ msgstr "最大(&A)"
+
+#~ msgid "kHz"
+#~ msgstr "kHz"
+
+#~ msgid "Vertical frequency"
+#~ msgstr "垂直扫描频率"
+
+#~ msgid "m&in"
+#~ msgstr "最小(&I)"
+
+#~ msgid "ma&x"
+#~ msgstr "最大(&X)"
+
+#~ msgid "Hz"
+#~ msgstr "Hz"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "Please select your monitor's <b>vendor</b> and <b>model</b>.\n"
+#~ "</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "请选择显示器的<b>制造商</b>和<b>型号</b>。\n"
+#~ "</p>\n"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "If your monitor is not listed here, use <b>VESA</b>.\n"
+#~ "Most monitors comply with this standard.\n"
+#~ "</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "如果这里没有列出您的显示器，请使用 <b>VESA</b>。\n"
+#~ "大多数显示器都符合此标准。\n"
+#~ "</p>\n"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "Modify the monitor's frequencies in the respective input\n"
+#~ "fields below the selection boxes.\n"
+#~ "Refer to your monitor manual for your monitor's maximum\n"
+#~ "frequencies. <b><i>Do not exceed</i></b> the values specified there.\n"
+#~ "Otherwise, there is a serious risk of <b><i>damaging your monitor</i></b>.\n"
+#~ "</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "请在选择框下的相应输入字段中修改显示器的频率。\n"
+#~ "有关显示器最大频率的信息，请参阅显示器手册。<b><i>您指定的\n"
+#~ "值一定不能超过手册中</i></b>指定的值，\n"
+#~ "否则会对显示器造成<b><i>严重损坏</i></b>。\n"
+#~ "</p>\n"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "The <b>horizontal frequency</b> (in kHz) specifies how many times\n"
+#~ "per second the monitor can write a horizontal scan line. This is a\n"
+#~ "hard limit of the monitor, independent of the screen resolution.\n"
+#~ "</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "<b>水平扫描频率</b>(以 kHz 为单位)指定显示器每秒绘制水平扫描线的\n"
+#~ "次数。这是显示器的物理限制，与屏幕分辨率无关。\n"
+#~ "</p>\n"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "The <b>vertical frequency</b> (in Hz) specifies how many times per\n"
+#~ "second the image on the screen is refreshed. This value depends on the\n"
+#~ "screen resolution and the monitor's maximum horizontal frequency.\n"
+#~ "</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "<b>垂直扫描频率</b>(以 Hz 为单位)指定屏幕上图象每秒刷新的次数。\n"
+#~ "此值取决于屏幕分辨率和显示器的最大水平扫描频率。\n"
+#~ "</p>\n"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "If you experience a constant high frequency beep from your monitor,\n"
+#~ "you might wish to use slightly lower frequency values than the maximum\n"
+#~ "specified in your monitor's manual. This usually helps a lot to reduce\n"
+#~ "the noise.\n"
+#~ "</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "如果显示器持续发出高频声音，则可以使用比显示器手册中指定的最大值\n"
+#~ "稍微低一些的频率值。通常这种方法对降低噪点很有效。\n"
+#~ "</p>\n"
+
+#~ msgid "Vendor"
+#~ msgstr "制造商"
+
+#~ msgid "Model"
+#~ msgstr "型号"
+
+#~ msgid "unknown vendor"
+#~ msgstr "未知制造商"
+
+#~ msgid "unknown model"
+#~ msgstr "未知型号"
+
+#~ msgid "Configure Monitor"
+#~ msgstr "配置显示器"
+
+#~ msgid ""
+#~ "The minimum horizontal frequency is not a numerical value.\n"
+#~ "Try again.\n"
+#~ msgstr ""
+#~ "最小水平扫描频率不是数值。\n"
+#~ "请再试一次。\n"
+
+#~ msgid ""
+#~ "Maximum horizontal frequency is not a numerical value.\n"
+#~ "Please try again."
+#~ msgstr ""
+#~ "最大水平扫描频率不是数值。\n"
+#~ "请再试一次。"
+
+#~ msgid ""
+#~ "The minimum vertical frequency is not a numerical value.\n"
+#~ "Try again.\n"
+#~ msgstr ""
+#~ "最小垂直扫描频率不是数值。\n"
+#~ "请再试一次。\n"
+
+#~ msgid ""
+#~ "Maximum vertical frequency is not a numerical value.\n"
+#~ "Please try again."
+#~ msgstr ""
+#~ "最大垂直扫描频率不是数值。\n"
+#~ "请再试一次。"
+
+#~ msgid "Enable 3D Support If Possible"
+#~ msgstr "可能时启用 3D 支持"
+
+#~ msgid "Yes"
+#~ msgstr "是"
+
+#~ msgid "Color Depth"
+#~ msgstr "颜色深度"
+
+#~ msgid "Resolution"
+#~ msgstr "分辨率"
+
+#~ msgid "Display Manager"
+#~ msgstr "显示管理器"
+
+#~ msgid "Window Manager"
+#~ msgstr "窗口管理器"
+
+#~ msgid "Monitor"
+#~ msgstr "显示器"
+
+#~ msgid "The value for the display ratio is invalid, please correct."
+#~ msgstr "显示比例值无效，请纠正。"
+
+#~ msgid "The value for the display traversal is invalid, please correct."
+#~ msgstr "显示遍历值无效，请纠正。"

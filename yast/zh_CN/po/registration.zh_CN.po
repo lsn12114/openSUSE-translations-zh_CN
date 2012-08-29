@@ -1,0 +1,1047 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+#
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:34+0200\n"
+"PO-Revision-Date: 2012-07-08 16:43+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/clients/inst_suse_register.ycp:48
+msgid "Registration Module Help"
+msgstr "注册模块帮助"
+
+#. strings for main (wizard) layout
+#. Translators: This is title/brand - verify how to translate it correctly
+#: src/clients/inst_suse_register.ycp:86
+msgid "Novell Customer Center Configuration"
+msgstr "Novell 客户中心配置"
+
+#. Translators: Module Title for the Box
+#: src/clients/inst_suse_register.ycp:89
+msgid "Online Update Configuration"
+msgstr "在线更新配置"
+
+#. (#165509)
+#. alternative short title text
+#: src/clients/inst_suse_register.ycp:92
+msgid "Registration"
+msgstr "注册"
+
+#: src/clients/inst_suse_register.ycp:93
+msgid "Support Registration"
+msgstr "注册支持服务"
+
+#. Translators: limit to 2x 50 charachters - if more needed take 3x 50 chars but NOTHING more
+#: src/clients/inst_suse_register.ycp:101
+msgid ""
+"Get technical support and product updates and\n"
+"manage subscriptions with Novell Customer Center."
+msgstr ""
+"通过 Novell 客户中心，获得技术支持和产品更新\n"
+"并管理订阅。"
+
+#. Translators: limit to 2x 50 charachters - if more needed take 3x 50 chars but NOTHING more
+#: src/clients/inst_suse_register.ycp:104
+msgid ""
+"Get technical support and product updates\n"
+"by registering this installation."
+msgstr "通过注册本次安装以获得技术支持和产品更新。"
+
+#: src/clients/inst_suse_register.ycp:122
+msgid "Configure Now (Recommended)"
+msgstr "立即配置(建议)"
+
+#: src/clients/inst_suse_register.ycp:123
+msgid "Configure Later"
+msgstr "稍后配置"
+
+#: src/clients/inst_suse_register.ycp:125
+msgid "Include for Convenience"
+msgstr "为方便起见可包含"
+
+#. Translators: Text for UI Label - capitalized
+#: src/clients/inst_suse_register.ycp:126
+#: src/clients/suse_register_auto.ycp:233
+msgid "Hardware Profile"
+msgstr "硬件配置文件"
+
+#. Translators: Text for UI Label - capitalized
+#: src/clients/inst_suse_register.ycp:127
+#: src/clients/suse_register_auto.ycp:235
+msgid "Optional Information"
+msgstr "可选信息"
+
+#: src/clients/inst_suse_register.ycp:128
+msgid "Registration Code"
+msgstr "注册代码"
+
+#: src/clients/inst_suse_register.ycp:129
+#: src/clients/inst_suse_register.ycp:291
+msgid "Details..."
+msgstr "细节..."
+
+#. strings for success popup
+#: src/clients/inst_suse_register.ycp:133
+msgid "Your configuration was successful."
+msgstr "配置已成功完成。"
+
+#: src/clients/inst_suse_register.ycp:134
+msgid "An update server has been added to your configuration."
+msgstr "已将一个更新服务器添加到您的配置。"
+
+#: src/clients/inst_suse_register.ycp:136
+msgid "No update server could be added to your configuration."
+msgstr "没有更新服务器可以被添加到您的配置。"
+
+#: src/clients/inst_suse_register.ycp:137
+msgid "No software repository needed to be changed."
+msgstr "没有需要变更的软件安装源。"
+
+#: src/clients/inst_suse_register.ycp:138
+msgid "Software repositories did not need to be changed."
+msgstr "软件安装源不需要变更。"
+
+#. caption for details view
+#: src/clients/inst_suse_register.ycp:140
+msgid "New Update Server"
+msgstr "新的更新服务器"
+
+#: src/clients/inst_suse_register.ycp:141
+msgid "Updated software repositories"
+msgstr "更新的软件安装源"
+
+#. strings for manual interaction popup
+#: src/clients/inst_suse_register.ycp:145
+msgid "Manual Interaction Required"
+msgstr "需要手动干预"
+
+#: src/clients/inst_suse_register.ycp:146
+msgid "Needed Information"
+msgstr "需要的信息"
+
+#: src/clients/inst_suse_register.ycp:147
+msgid "Continue"
+msgstr "继续"
+
+#: src/clients/inst_suse_register.ycp:148
+msgid ""
+"A Web browser will start in which to complete\n"
+"the configuration on the opened Web site."
+msgstr ""
+"将启动一个万维网浏览器，在其\n"
+"打开的万维网站点中完成配置。"
+
+#: src/clients/inst_suse_register.ycp:152
+msgid "Regularly Synchronize with the Customer Center"
+msgstr "定期与客户中心同步"
+
+#. string for show information popup
+#: src/clients/inst_suse_register.ycp:155
+msgid "Registration and Privacy Information"
+msgstr "注册和隐私信息"
+
+#. strings for conflict popup
+#: src/clients/inst_suse_register.ycp:158
+msgid ""
+"The server requires additional system information. Activating \n"
+"submission of the hardware profile automatically."
+msgstr ""
+"服务器需要额外的系统信息。\n"
+"自动激活硬件配置文件的提交。"
+
+#. nonroot-message strings
+#: src/clients/inst_suse_register.ycp:162
+msgid "Update Source Issues"
+msgstr "更新源问题"
+
+#: src/clients/inst_suse_register.ycp:163
+msgid ""
+"Registering as a regular user does not include the update source\n"
+"in the Online Update YaST module. If you continue and later want \n"
+"to update with Online Update, the source must be added manually.\n"
+"Other tools, such as Software Updater in the panel, can still be \n"
+"used. Alternatively, cancel then register through YaST as root \n"
+"so the sources are available to all tools."
+msgstr ""
+"作为普通用户注册就不会在在线更新 YaST \n"
+"模块中包含更新来源。如果继续并在稍后要\n"
+"使用在线更新来更新，必须手动添加来源。\n"
+"其他工具，例如面板中的软件更新仍然可用。\n"
+"您也可以先取消，通过 YaST 作为 root 用户注册，\n"
+"以使来源可用于所有工具。"
+
+#. error messages
+#: src/clients/inst_suse_register.ycp:173
+msgid "Error: Data received is invalid."
+msgstr "错误：收到的数据无效。"
+
+#: src/clients/inst_suse_register.ycp:174 src/modules/Register.ycp:1581
+msgid "Error: Could not retrieve data."
+msgstr "错误：无法获取数据。"
+
+#: src/clients/inst_suse_register.ycp:175
+msgid ""
+"No Web browser available.\n"
+"Run the suse_register command manually."
+msgstr ""
+"没有可用的万维网浏览器。\n"
+"请手动运行 suse_register 命令。"
+
+#: src/clients/inst_suse_register.ycp:177
+msgid ""
+"No product found to be registered.\n"
+"You do not need to register this installation.\n"
+"Please add update sources yourself."
+msgstr ""
+"未找到任何要注册的产品。\n"
+" 无需注册此安装。\n"
+"请自行添加更新源。"
+
+#: src/clients/inst_suse_register.ycp:180
+msgid ""
+"Your registration requires interactive input that is not\n"
+"supported in text mode. Run YaST2 in the graphical mode or\n"
+"run the suse_register command manually."
+msgstr ""
+"您的注册需要交互式输入，这在文本模式下不\n"
+"支持。请以图形模式运行 YaST2 或手动\n"
+"运行 suse_register 命令。"
+
+#: src/clients/inst_suse_register.ycp:186
+msgid ""
+"<p>\n"
+"Configure your system to enable online updates by registering it with Novell.\n"
+"To do this now, select <b>Configure Now</b>. Delay the registration with\n"
+"<b>Configure Later</b>.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"请通过向 Novell 注册您的系统，来将系统配置为启用在线更新。\n"
+" 要立即执行此操作，请选择<b>立即配置</b>。使用\n"
+" <b>稍后配置</b>可延迟注册。\n"
+" </p>"
+
+#: src/clients/inst_suse_register.ycp:192
+msgid ""
+"<p>\n"
+"To simplify the registration process, include information from your system\n"
+"with <b>Optional Information</b> and <b>Hardware Profile</b>. \n"
+"<b>Details</b> shows the maximum amount of information that can be involved\n"
+" in your registration. To obtain this information, it contacts the Novell\n"
+"server to query what information is needed for your product. Only the identity\n"
+"of the installed product is sent in this initial exchange.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"要简化注册流程，使用\n"
+"<b>可选信息</b>和<b>硬件配置文件</b>从系统包含信息。\n"
+" <b>细节</b>显示在注册中可包含的\n"
+"最详细信息。要获取此信息，连接 Novell\n"
+"服务器来查询产品所需的信息。在初始交换中，仅发送\n"
+"已安装产品的标识。\n"
+" </p>"
+
+#: src/clients/inst_suse_register.ycp:201
+msgid ""
+"<p>\n"
+"If you purchased your copy of this product, enable <b>Registration Code</b>\n"
+"so you are prompted for your product code. \n"
+"This registers you for the installation support included with your product.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"如果已购买此产品的副本，请启用<b>注册代码</b>，\n"
+"以便得到产品代码的提示。\n"
+" 这会注册产品包含的安装支持。\n"
+" </p>"
+
+#: src/clients/inst_suse_register.ycp:207
+msgid ""
+"<p>\n"
+"No information is passed to anyone outside Novell. The data is used for\n"
+"statistical purposes and to enhance your convenience regarding driver support\n"
+"and your Web account. Find a detailed privacy policy in <b>Details</b>. View\n"
+"the transmitted information in the log file <tt>~/.suse_register.log</tt>.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"没有信息会传送给 Novell 以外的任何人。此数据用于\n"
+"统计，并在驱动器支持和万维网帐户\n"
+"方面为您提供更多方便。请在<b>细节</b>中查找详细的隐私策略。请在\n"
+"日志文件 <tt>~/.suse_register.log</tt> 中查看传送的信息。\n"
+" </p>"
+
+#: src/clients/inst_suse_register.ycp:214
+msgid ""
+"<p>\n"
+"<b>Regularly Synchronize with the Customer Center</b> checks that your update \n"
+"sources are still valid and adds any new ones that may be available.\n"
+"It additionally sends any modifications to your included data to Novell, such \n"
+"as hardware information if <b>Hardware Information</b> is activated.\n"
+"This option does not remove any sources added manually.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>定期与客户中心同步</b>检查更新\n"
+"源是否仍然有效并添加任何可用的新源。\n"
+"它还将对用户所包含数据的任何修改发送到 Novell，比\n"
+"如激活<b>硬件信息</b>时的硬件信息。\n"
+"此选项不会去除任何手动添加的源。\n"
+" </p>"
+
+#: src/clients/inst_suse_register.ycp:222
+msgid ""
+"<p>\n"
+"The registration process will contact a Novell server (or a local registration server if your company provides one).\n"
+"Make sure that the network and proxy settings are correct.\n"
+"You can go back to the network setup to check or change the settings.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"注册进程会联系一个 Novell 服务器 (或者您公司提供的本地注册服务器)。\n"
+"请确保网络和代理设置正确。您可以回退到网络设置来检查和修改设置。\n"
+"</p>\n"
+
+#. START - Help Texts for OPEN-SLX
+#: src/clients/inst_suse_register.ycp:231
+msgid ""
+"<p>\n"
+"Configure your system to enable online updates by registering it with Open-SLX.\n"
+"To do this now, select <b>Configure Now</b>. Delay the registration with\n"
+"<b>Configure Later</b>.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"请通过向 Open-SLX 注册您的系统，来将系统配置为启用在线更新。\n"
+" 要立即执行此操作，请选择<b>立即配置</b>。使用\n"
+" <b>稍后配置</b>可延迟注册。\n"
+" </p>"
+
+#: src/clients/inst_suse_register.ycp:237
+msgid ""
+"<p>\n"
+"To simplify the registration process, include information from your system\n"
+"with <b>Optional Information</b> and <b>Hardware Profile</b>. \n"
+"<b>Details</b> shows the maximum amount of information that can be involved\n"
+" in your registration. To obtain this information, it contacts the Open-SLX\n"
+"server to query what information is needed for your product. Only the identity\n"
+"of the installed product is sent in this initial exchange.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"要简化注册流程，使用\n"
+"<b>可选信息</b>和<b>硬件配置文件</b>从系统采集信息。\n"
+" <b>细节</b>显示在注册中可包含的\n"
+"最详细信息。要获取此信息，连接 Open-SLX\n"
+"服务器来查询产品所需的信息。在初始交换中，仅发送\n"
+"已安装产品的标识。\n"
+" </p>"
+
+#: src/clients/inst_suse_register.ycp:246
+msgid ""
+"<p>\n"
+"No information is passed to anyone outside Open-SLX. The data is used for\n"
+"statistical purposes and to enhance your convenience regarding driver support\n"
+"and your Web account. Find a detailed privacy policy in <b>Details</b>. View\n"
+"the transmitted information in the log file <tt>~/.suse_register.log</tt>.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"没有信息会传送给 Open-SLX 以外的任何人。此数据用于\n"
+"统计，并在驱动器支持和万维网帐户\n"
+"方面为您提供更多方便。请在<b>细节</b>中查看详细的隐私策略。请在\n"
+"日志文件 <tt>~/.suse_register.log</tt> 中查看传送的信息。\n"
+" </p>"
+
+#: src/clients/inst_suse_register.ycp:253
+msgid ""
+"<p>\n"
+"<b>Regularly Synchronize with the Customer Center</b> checks that your update \n"
+"sources are still valid and adds any new ones that may be available.\n"
+"It additionally sends any modifications to your included data to Open-SLX, such \n"
+"as hardware information if <b>Hardware Information</b> is activated.\n"
+"This option does not remove any sources added manually.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>定期与客户中心同步</b>检查更新\n"
+"源是否仍然有效并添加任何可用的新源。\n"
+"它还将对用户所包含数据的任何修改发送到 Open-SLX，比\n"
+"如激活<b>硬件信息</b>时的硬件信息。\n"
+"此选项不会去除任何手动添加的源。\n"
+" </p>"
+
+#: src/clients/inst_suse_register.ycp:261
+msgid ""
+"<p>\n"
+"The registration process will contact an Open-SLX server (or a local registration server if your company provides one).\n"
+"Please make sure that the network and proxy settings are correct.\n"
+"You can step back to the network setup to check or change the settings.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"注册过程将联系一个 Open-SLX 服务器 (或者是您公司提供的本地注册服务器)。\n"
+"请确保网络和代理设置正确。您可以回退到网络设置来检查或修改设置。\n"
+"</p>"
+
+#. further strings
+#: src/clients/inst_suse_register.ycp:288
+msgid "Checking..."
+msgstr "正在检查..."
+
+#: src/clients/inst_suse_register.ycp:289
+#: src/clients/inst_suse_register.ycp:292
+msgid "Error"
+msgstr "错误"
+
+#: src/clients/inst_suse_register.ycp:290
+msgid "An error occurred while connecting to the server."
+msgstr "连接服务器时出错。"
+
+#: src/clients/inst_suse_register.ycp:293
+msgid "Starting browser..."
+msgstr "正在启动浏览器..."
+
+#: src/clients/inst_suse_register.ycp:294
+msgid ""
+"Initialization failed.\n"
+"Can not interact with the package system."
+msgstr "初始化失败。无法联系软件包系统。"
+
+#: src/clients/inst_suse_register.ycp:295
+msgid ""
+"In order to register properly the system\n"
+"needs to install the following packages."
+msgstr "为了正确注册系统需要安装如下软件包。"
+
+#: src/clients/inst_suse_register.ycp:337 src/dialogs/texts.ycp:33
+msgid "Advanced"
+msgstr "高级"
+
+#: src/clients/inst_suse_register.ycp:870
+msgid "Xen Dom0 detected. The following package needs to be installed."
+msgstr "检测到 Xen Dom0。需要安装如下软件包。"
+
+#: src/clients/inst_suse_register.ycp:882
+msgid "Xen DomU detected."
+msgstr "检测到 Xen DomU。"
+
+#: src/clients/inst_suse_register.ycp:883
+msgid "The following package needs to be installed."
+msgstr "需要安装如下软件包。"
+
+#: src/clients/inst_suse_register.ycp:886
+#, ycp-format
+msgid "To count this installation correctly the package %1 needs to be installed."
+msgstr "<p>为了正确计算此安装，需要安装软件包 %1。</p>"
+
+#: src/clients/inst_suse_register.ycp:887
+msgid "Therefore the following package needs to be removed first."
+msgstr "因此如下软件包需要先被移除。"
+
+#: src/clients/inst_suse_register.ycp:904
+#, ycp-format
+msgid "The package %1 should have been installed and %2 removed."
+msgstr "软件包 %1 应该已经安装和 %2 移除。"
+
+#: src/clients/inst_suse_register.ycp:905
+msgid "Registration will continue now although the registration server may miscount this installation."
+msgstr "即使注册服务器误算了安装，注册也将立即继续进行。"
+
+#: src/clients/inst_suse_register.ycp:1031
+msgid "Setting up online update source..."
+msgstr "正在设置在线更新源..."
+
+#: src/clients/inst_suse_register.ycp:1032
+msgid "Updating software repositories..."
+msgstr "正在更新软件源..."
+
+#. Translators: Heading - capitalized
+#: src/clients/suse_register_auto.ycp:64
+#: src/clients/suse_register_auto.ycp:207
+msgid "Product Registration"
+msgstr "产品注册"
+
+#. Translators: Text in a sentece-like environment  - normal capitalization
+#: src/clients/suse_register_auto.ycp:66
+msgid "Run during autoinstallation"
+msgstr "自动安装期间运行"
+
+#: src/clients/suse_register_auto.ycp:66
+msgid "Do not run during autoinstallation"
+msgstr "自动安装期间不运行"
+
+#. Translators: Sentence-like text for singular and plural (incl. zero) of items
+#: src/clients/suse_register_auto.ycp:70
+#, ycp-format
+msgid "%1 item of registration data"
+msgid_plural "%1 items of registration data"
+msgstr[0] "%1 项注册数据"
+
+#: src/clients/suse_register_auto.ycp:75
+msgid "Included Information"
+msgstr "采集的信息"
+
+#. Translators: Text in a sentece-like environment  - normal capitalization
+#: src/clients/suse_register_auto.ycp:78
+msgid "Hardware profile"
+msgstr "硬件配置文件"
+
+#. Translators: Text in a sentece-like environment  - normal capitalization
+#: src/clients/suse_register_auto.ycp:80
+msgid "Optional information"
+msgstr "可选信息"
+
+#. Translators: Text for UI Label - capitalized
+#: src/clients/suse_register_auto.ycp:87
+#: src/clients/suse_register_auto.ycp:220
+msgid "SMT Server Settings"
+msgstr "SMT 服务器设置"
+
+#: src/clients/suse_register_auto.ycp:89
+#, ycp-format
+msgid "SMT Server: %1"
+msgstr "SMT 服务器：%1"
+
+#: src/clients/suse_register_auto.ycp:91
+#, ycp-format
+msgid "SMT Certificate: %1"
+msgstr "SMT 证书: %1"
+
+#. TextEntry label
+#: src/clients/suse_register_auto.ycp:159
+msgid "&Key"
+msgstr "密钥(&K)"
+
+#. TextEntry label
+#: src/clients/suse_register_auto.ycp:161
+msgid "&Value"
+msgstr "值(&V)"
+
+#: src/clients/suse_register_auto.ycp:188
+msgid "Key is invalid."
+msgstr "密钥无效。"
+
+#: src/clients/suse_register_auto.ycp:209
+msgid "<p>Product registration includes your product in Novell's database, enabling you to get online updates and technical support. To register while installing automatically, select <b>Run Product Registration</b>. To simplify the procedure, include information from your system with <b>Hardware Profile</b> and <b>Optional Information</b>.</p>"
+msgstr ""
+"<p>产品注册将您的产品包含在 Novell 数据库中，使您能够获取在线更新和技术支持。要在自动安装期间注册，请选择<b>运行产品注册</b>。要简化过程，使用\n"
+"<b>可选信息</b>和<b>硬件配置文件</b>从系统采集信息。</p>"
+
+#: src/clients/suse_register_auto.ycp:210
+msgid "<p>Get more information about the registration process with <tt>suse_register -h</tt>.</p>"
+msgstr "<p>使用 <tt>suse_register -h</tt> 获取有关注册过程的更多信息。</p>"
+
+#: src/clients/suse_register_auto.ycp:211
+msgid ""
+"<p>Other information used for registration is shown in <b>Registration\n"
+"Data</b>.<br>To add a new key and value pair, press <b>Add</b> then enter the\n"
+"appropriate values. These parameters are can be passed with <tt>suse_register\n"
+"-a</tt>.<br>Get more information with <tt>suse_register -p</tt>. Remove a\n"
+"key-value pair with <b>Delete</b> or modify an existing pair with <b>Edit</b>.</p>"
+msgstr "<p>用于注册的其他信息显示在<b>注册数据</b>中。<br>按<b>添加</b>，然后输入适当的值，添加新密钥和值对。这些参数可使用 <tt>suse_register -a</tt> 传递。<br>使用 <tt>suse_register -p</tt> 获取有关这些参数的更多信息。使用<b>删除</b>去除值对和使用<b>编辑</b>修改现有值对。</p>"
+
+#: src/clients/suse_register_auto.ycp:213
+msgid ""
+"<p>If your network deploys a custom SMT server, set the URL of the SMT Server\n"
+"and the location of the SMT certificate in <b>SMT Server Settings</b>. Refer\n"
+"to your SMT manual for further assistance.</p>"
+msgstr "<p>如果您的网络部署了一个自有的 SMT 服务器，请在<b>SMT 服务器设定</b>设定 SMT 服务器的 URL 和 SMT 证书的路径。请参考您的 SMT 手册，获取详细的帮助信息。</p>"
+
+#. Translators: Text for UI Label - capitalized
+#: src/clients/suse_register_auto.ycp:222
+msgid "SMT Server"
+msgstr "SMT 服务器"
+
+#. Translators: Text for UI Label - capitalized
+#: src/clients/suse_register_auto.ycp:224
+msgid "SMT Certificate"
+msgstr "SMT 证书"
+
+#: src/clients/suse_register_auto.ycp:228
+msgid "Run Product Registration"
+msgstr "运行产品注册"
+
+#. Translators: Text for UI Label - capitalized
+#: src/clients/suse_register_auto.ycp:231
+msgid "Include in Registration"
+msgstr "包含在注册中"
+
+#. Translators: Text for UI Label - capitalized
+#: src/clients/suse_register_auto.ycp:245
+msgid "Registration Data to Use"
+msgstr "要使用的注册数据"
+
+#. translators:  "key" as in "key value pair"
+#: src/clients/suse_register_auto.ycp:246 src/dialogs/texts.ycp:50
+msgid "Key"
+msgstr "密钥"
+
+#. translators:  "value"  as in "key value pair"
+#: src/clients/suse_register_auto.ycp:246 src/dialogs/texts.ycp:52
+msgid "Value"
+msgstr "值"
+
+#: src/clients/suse_register_auto.ycp:248
+msgid "Ad&d"
+msgstr "添加(&D)"
+
+#: src/clients/suse_register_auto.ycp:249
+msgid "&Edit"
+msgstr "编辑(&E)"
+
+#: src/clients/suse_register_auto.ycp:250
+msgid "De&lete"
+msgstr "删除(&L)"
+
+#: src/clients/suse_register_auto.ycp:361
+msgid "SMT Server URL must start with https://"
+msgstr "SMT 服务器 URL 必须以 https:// 开始"
+
+#: src/clients/suse_register_auto.ycp:372
+msgid ""
+"Location of SMT Certificate invalid.\n"
+"See your SMT documentation.\n"
+msgstr ""
+"SMT 证书位置无效。\n"
+"请参见您的 SMT 文档。\n"
+
+#. translators: busy popup while registering the system
+#: src/dialogs/texts.ycp:16 src/modules/Register.ycp:818
+msgid "Contacting server..."
+msgstr "正在联系服务器..."
+
+#. translators: Text for a busy-process-indicator while registering the system
+#: src/dialogs/texts.ycp:17 src/modules/Register.ycp:820
+msgid "This may take a while"
+msgstr "这将需要一段时间"
+
+#: src/dialogs/texts.ycp:18
+msgid "Please wait..."
+msgstr "请稍候..."
+
+#: src/dialogs/texts.ycp:19
+msgid "Updating software repositories"
+msgstr "更新软件安装源"
+
+#: src/dialogs/texts.ycp:20
+msgid ""
+"The software repositories have been updated.\n"
+"Find details in the Software Repositories module."
+msgstr ""
+"软件安装源已更新。\n"
+"在软件源模块中查看详情。"
+
+#: src/dialogs/texts.ycp:21
+msgid "The software repositories have been updated."
+msgstr "软件安装源已更新。"
+
+#: src/dialogs/texts.ycp:22
+msgid "Find details in the Software Repositories module."
+msgstr "在软件源模块中查看详情。"
+
+#: src/dialogs/texts.ycp:23
+msgid "No software repositories have been updated."
+msgstr "软件安装源没有更新。"
+
+#: src/dialogs/texts.ycp:24
+msgid "Registration was successful."
+msgstr "注册成功。"
+
+#: src/dialogs/texts.ycp:25
+msgid "The default update repository has been restored."
+msgstr "默认升级源已恢复。"
+
+#: src/dialogs/texts.ycp:26
+msgid "The default update repository has been added."
+msgstr "默认升级源已添加。"
+
+#: src/dialogs/texts.ycp:27
+msgid ""
+"To add the default update repository,\n"
+"you have to register this product.\n"
+msgstr "要添加默认升级源，您必须注册本产品。\n"
+
+#: src/dialogs/texts.ycp:30
+msgid "Do you want to perform the registration now?"
+msgstr "您想要立即执行注册吗？"
+
+#: src/dialogs/texts.ycp:31
+msgid "You can register for installation support."
+msgstr "您可以注册以获取安装支持。"
+
+#: src/dialogs/texts.ycp:32
+msgid "Starting registration..."
+msgstr "正在启动注册助手..."
+
+#: src/dialogs/texts.ycp:34
+msgid "Use local registration server"
+msgstr "使用本地注册服务器"
+
+#: src/dialogs/texts.ycp:35
+msgid "Use custom registration server "
+msgstr "使用自定义注册服务器"
+
+#: src/dialogs/texts.ycp:36
+msgid "Registration server:"
+msgstr "注册服务器："
+
+#: src/dialogs/texts.ycp:37
+msgid "Server CA certificate:"
+msgstr "服务器 CA 证书："
+
+#: src/dialogs/texts.ycp:38
+msgid "Server CA certificate location:"
+msgstr "服务器 CA 证书位置："
+
+#: src/dialogs/texts.ycp:39
+msgid "Local Registration Server"
+msgstr "本地注册服务器"
+
+#: src/dialogs/texts.ycp:40
+msgid "Custom Registration Server"
+msgstr "自定义注册服务器"
+
+#: src/dialogs/texts.ycp:41
+msgid "URL invalid"
+msgstr "URL 无效"
+
+#: src/dialogs/texts.ycp:42
+msgid "The registration server URL has to start with https://"
+msgstr "注册服务器 URL 必须以 https:// 开始"
+
+#: src/dialogs/texts.ycp:43
+msgid ""
+"Server CA certificate location is invalid.\n"
+"For details, see the help text.\n"
+msgstr ""
+"服务器 CA 证书位置无效。\n"
+"详情参阅帮助文本。\n"
+
+#: src/dialogs/texts.ycp:46
+msgid "Add custom registration data"
+msgstr "添加自定义注册数据"
+
+#: src/dialogs/texts.ycp:47
+msgid "Add key value pairs:"
+msgstr "添加密钥值对："
+
+#: src/dialogs/texts.ycp:48
+msgid "See the help text for details."
+msgstr "详情请见帮助文本。"
+
+#: src/dialogs/texts.ycp:57
+msgid "<p>To register this installation at a local registration server, configure the URL and optionally the server's CA certificate via the <b>Advanced</b> menu.</p>"
+msgstr "<p>想要在本地注册服务器上注册安装，配置 URL，可能还要通过 <b>高级</b> 菜单配置服务器的 CA 文件。</p>"
+
+#: src/dialogs/texts.ycp:58
+msgid "<p>The registration server URL has to start with <i>https://</i> whereas the location of its CA certificate may be a URL of the format <i>http://</i>, <i>https://</i> or <i>ftp://</i>. Furthermore valid locations are <i>/path/on/local/disk</i>, <b>floppy</b><i>/path/on/floppy-disk</i> and the keyword <i>done</i>. The latter indicates that no CA certificate handling needs to be done in order to trust the registration server.</p>"
+msgstr "<p>注册服务器 URL 必须以 <i>https://</i> 开头而服务器 CA 证书的位置可能是 <i>http://</i>、<i>https://</i> 或 <i>ftp://</i>的 URL 格式。此外有效的位置还 包括 <i>/patch/on/local/disk</i>，<b>floppy</b><i>/path/on/floppy-disk</i> 和 关键词 <i>done</i>。后面表示 CA 证书不需要处理就可以信任注册服务器。</p>"
+
+#: src/modules/Register.ycp:154
+msgid "Unknown error"
+msgstr "未知错误"
+
+#: src/modules/Register.ycp:157
+msgid "Do you want to skip registration?"
+msgstr "您想要跳过注册吗？"
+
+#: src/modules/Register.ycp:158
+#, ycp-format
+msgid ""
+"If you select %1, registration will most likely fail.\n"
+"You can copy the certificate file to the system manually\n"
+"and then specify its path by choosing %2.\n"
+msgstr ""
+"选择 %1 将极有可能导致注册失败。\n"
+"或者您可以手动拷贝证书到系统\n"
+"之后选择 %2 指定其路径。\n"
+
+#: src/modules/Register.ycp:166
+msgid "Could not load the SMT certificate file from floppy disk."
+msgstr "不能从软盘加载 SMT 证书文件。"
+
+#: src/modules/Register.ycp:170
+msgid "Could not download the SMT certificate file from specified URL."
+msgstr "不能从指定的 URL 下载 SMT 证书文件。"
+
+#: src/modules/Register.ycp:174
+msgid "Could not find the SMT certificate file in specified path."
+msgstr "不能在指定的路径找到 SMT 证书文件。"
+
+#: src/modules/Register.ycp:178
+msgid "Unknown error occurred while retrieving SMT certificate file."
+msgstr "获取 SMT 证书文件时发生未知错误。"
+
+#: src/modules/Register.ycp:182
+msgid "Skip"
+msgstr "跳过"
+
+#: src/modules/Register.ycp:305
+msgid "The registration server URL could not be validated as URL."
+msgstr "注册服务器 URL 不是一个有效的 URL。"
+
+#: src/modules/Register.ycp:306
+msgid "Registration can not be performed."
+msgstr "无法执行注册。"
+
+#: src/modules/Register.ycp:307
+msgid "Change the URL and retry."
+msgstr "更换 URL 并重试。"
+
+#: src/modules/Register.ycp:308
+#, ycp-format
+msgid ""
+"The current registration server URL is\n"
+"%1"
+msgstr ""
+"当前注册服务器 URL 为：\n"
+"%1"
+
+#. translators: this is a heading for an error message - so no punctuation
+#: src/modules/Register.ycp:397
+msgid "Downloading SMT certificate file failed"
+msgstr "下载 SMT 证书文件失败"
+
+#. translators: this is a heading for an error message - so no punctuation
+#: src/modules/Register.ycp:432
+msgid "Could not mount floppy disk"
+msgstr "无法挂载软盘"
+
+#. translators: this is a heading for an error message - so no punctuation
+#: src/modules/Register.ycp:458
+msgid "Could not read file on floppy disk"
+msgstr "无法读取软盘中的文件"
+
+#. translators: this is a heading for an error message - so no punctuation
+#: src/modules/Register.ycp:491
+msgid "Could not find SMT certificate file in local path"
+msgstr "在本地路径找到 SMT 证书"
+
+#: src/modules/Register.ycp:517
+msgid "Select SMT certificate file"
+msgstr "选择 SMT 证书文件"
+
+#: src/modules/Register.ycp:529
+msgid "Do you really want to cancel and thereby skip registration?"
+msgstr "您确实要取消从而跳过注册么？"
+
+#: src/modules/Register.ycp:550
+msgid "Could not copy certificate file"
+msgstr "无法复制证书文件。"
+
+#: src/modules/Register.ycp:551
+msgid "Do you want to retry?"
+msgstr "是否要重试？"
+
+#: src/modules/Register.ycp:606
+msgid "Do you want to trust this certificate?"
+msgstr "确实信任此证书吗？"
+
+#: src/modules/Register.ycp:607
+msgid ""
+"This certificate will be used to connect to the SMT server.\n"
+"You have to trust this certificate to continue with the registration.\n"
+msgstr ""
+"此证书被用来连接系统维护技术员 (SMT) 服务器。\n"
+"您必须信任此证书以继续注册。\n"
+
+#. translators: this is certificate context
+#: src/modules/Register.ycp:615
+msgid "<p><b>Issued For:</b></p>"
+msgstr "<p><b>发出原因：</b></p>"
+
+#. translators: this is certificate context
+#: src/modules/Register.ycp:628
+msgid "<p><b>Subject:</b></p>"
+msgstr "<p><b>主题：</b></p>"
+
+#. translators: this is certificate context
+#: src/modules/Register.ycp:641
+msgid "<p><b>Validity:</b></p>"
+msgstr "<p><b>有效期:</b></p>"
+
+#. translators: this is certificate context
+#: src/modules/Register.ycp:644
+msgid "Valid from: "
+msgstr "有效起始时间： "
+
+#. translators: this is certificate context
+#: src/modules/Register.ycp:646
+msgid "Valid to: "
+msgstr "有效截止时间： "
+
+#. translators: this is certificate context
+#: src/modules/Register.ycp:648
+msgid "Fingerprint: "
+msgstr "指纹: "
+
+#: src/modules/Register.ycp:657
+msgid "Trust"
+msgstr "信任"
+
+#: src/modules/Register.ycp:657
+msgid "Reject"
+msgstr "拒绝"
+
+#: src/modules/Register.ycp:679
+msgid ""
+"Installation of the SMT certificates failed.\n"
+"See the logs for further information.\n"
+msgstr ""
+"系统维护技术员 (SMT) 证书安装失败。\n"
+"详情请查阅日志。\n"
+
+#: src/modules/Register.ycp:982
+#, ycp-format
+msgid "Enabled catalog: %1 (%2)"
+msgstr "已启用编目：%1 (%2)"
+
+#: src/modules/Register.ycp:988
+#, ycp-format
+msgid "Disabled catalog: %1 (%2)"
+msgstr "已禁用编目：%1 (%2)"
+
+#: src/modules/Register.ycp:1109
+#, ycp-format
+msgid "Added Source: %1"
+msgstr "已添加源：%1"
+
+#: src/modules/Register.ycp:1129
+#, ycp-format
+msgid "Deleted Source: %1"
+msgstr "已删除源：%1"
+
+#: src/modules/Register.ycp:1216
+#, ycp-format
+msgid "Added Service: %1"
+msgstr "已添加服务：%1"
+
+#: src/modules/Register.ycp:1280
+#, ycp-format
+msgid "Deleted Service: %1"
+msgstr "已删除服务：%1"
+
+#, fuzzy
+#~ msgid "Online Update Configuration Module Help"
+#~ msgstr "在线更新配置"
+
+#~ msgid "(default)"
+#~ msgstr "(默认)"
+
+#~ msgid "(none)"
+#~ msgstr "(没有)"
+
+#, fuzzy
+#~ msgid "Update Repository"
+#~ msgstr "包安装源"
+
+#, fuzzy
+#~ msgid "Automatic Online Update"
+#~ msgstr "激活在线更新"
+
+#~ msgid "Set Default"
+#~ msgstr "设置默认值"
+
+#, fuzzy
+#~ msgid "<p>Press <b>%1</b> to use the default update repository.</p>"
+#~ msgstr "<p>按<b>完成</b>在输出目录中创建附加产品。</p>"
+
+#, fuzzy
+#~ msgid "Edit Software Repositories"
+#~ msgstr "附加软件安装源"
+
+#, fuzzy
+#~ msgid "Send hardware information to the smolt project"
+#~ msgstr "所选网卡的硬件信息"
+
+#, fuzzy
+#~ msgid "Interval"
+#~ msgstr "接口"
+
+#~ msgid "Skip Interactive Patches"
+#~ msgstr "跳过交互式补丁"
+
+#, fuzzy
+#~ msgid "Agree with Licenses"
+#~ msgstr "我接受许可协议(&A)。"
+
+#, fuzzy
+#~ msgid "Current Update Repository:"
+#~ msgstr "正在创建安装源 %1"
+
+#~ msgid "enabled"
+#~ msgstr "已启用"
+
+#~ msgid "disabled"
+#~ msgstr "已禁用"
+
+#, fuzzy
+#~ msgid "daily"
+#~ msgstr "每日"
+
+#, fuzzy
+#~ msgid "weekly"
+#~ msgstr "每周"
+
+#, fuzzy
+#~ msgid "monthly"
+#~ msgstr "每月"
+
+#~ msgid ""
+#~ "The SMT server URL could not be validated as URL.\n"
+#~ "Registration can not be performed. Please modify /etc/suseRegister.conf and run Registration manually.\n"
+#~ "The SMT server URL that was configured was\n"
+#~ "%1"
+#~ msgstr ""
+#~ "SMT 服务器的 URL 无法被验证为 URL。\n"
+#~ "无法进行注册。请修改 /etc/suseRegister.conf 并手动运行注册。\n"
+#~ "被配置的 SMT 服务器 URL 是\n"
+#~ "%1"
+
+#~ msgid ""
+#~ "Registering as a regular user does not include the update repository\n"
+#~ "in the Online Update YaST module. If you continue and later want \n"
+#~ "to update with Online Update, the repository must be added manually.\n"
+#~ "Other tools, such as Software Updater in the panel, can still be \n"
+#~ "used. Alternatively, cancel then register through YaST as root \n"
+#~ "so the repositories are available to all tools."
+#~ msgstr ""
+#~ "作为普通用户注册就不会在在线更新 YaST \n"
+#~ "模块中包含更新软件源。如果继续并在稍后要\n"
+#~ "使用在线更新来更新，必须手动添加软件源。\n"
+#~ "其他工具，例如面板中的软件更新仍然可用。\n"
+#~ "您也可以先取消，通过 YaST 作为 root 用户注册，\n"
+#~ "以使软件源可用于所有工具。"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "<b>Regularly Synchronize with the Customer Center</b> checks that your update \n"
+#~ "repositories are still valid and adds any new ones that may be available.\n"
+#~ "It additionally sends any modifications to your included data to Novell, such \n"
+#~ "as hardware information if <b>Hardware Information</b> is activated.\n"
+#~ "This option does not remove any repositories added manually.\n"
+#~ "</p>"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "<b>定期与 Customer Center 同步</b>检查更新\n"
+#~ "源是否仍然有效并添加任何可用的新源。\n"
+#~ "它还将对用户所包含数据的任何修改发送到 Novell，比\n"
+#~ "如激活<b>硬件信息</b>时的硬件信息。\n"
+#~ "此选项不会去除任何手动添加的源。\n"
+#~ " </p>"

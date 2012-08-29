@@ -1,0 +1,809 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: profile manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:48+0200\n"
+"PO-Revision-Date: 2012-07-20 06:58+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. busy popup text
+#: src/ProfileManager.ycp:437
+msgid "Reading list of users..."
+msgstr "正在读取用户列表..."
+
+#. popup label, %1 is required application
+#: src/ProfileManager.ycp:571
+#, ycp-format
+msgid ""
+"<p>To use the profile manager, the package <b>%1</b> is required.<br>\n"
+"Install it now?</p>\n"
+msgstr ""
+"<p>要使用配置文件管理器，包 <b>%1</b> 是必需的。<br>\n"
+"是否立即安装？</p>\n"
+
+#. popup text
+#: src/ProfileManager.ycp:638
+msgid ""
+"SCPM is currently locked and needs recovery. This may be\n"
+"the result of an aborted profile switch or similar. You\n"
+"can have SCPM <b>Recover</b> the last command, which means your\n"
+"database will be updated and outstanding actions will be\n"
+"performed. You can also have SCPM <b>Rollback</b> the command, which means\n"
+"the old system status will be restored if possible.\n"
+msgstr ""
+"SCPM 当前已锁定并且需要恢复。这可能是\n"
+"由于配置文件切换过程终止或者类似问题而引起的。\n"
+"可以让 SCPM <b>恢复</b>上一个命令，这表示更新您的数据库\n"
+"并将执行未完成的操作。\n"
+"还可以让 SCPM <b>回滚</b>命令，这表示\n"
+"在可能的情况下恢复旧的系统状态。\n"
+
+#. Push button label
+#: src/ProfileManager.ycp:655
+msgid "&Recover"
+msgstr "恢复(&R)"
+
+#. Push button label
+#: src/ProfileManager.ycp:658
+msgid "Ro&llback"
+msgstr "回滚(&L)"
+
+#. LogView label:
+#: src/ProfileManager.ycp:763
+msgid "Progress Information"
+msgstr "进度信息"
+
+#. profile-manager Read dialog caption:
+#: src/ProfileManager.ycp:830
+msgid "Initializing Profile Manager Configuration"
+msgstr "正在初始化配置文件管理器配置"
+
+#. progress stage
+#: src/ProfileManager.ycp:836
+msgid "Initialize SCPM"
+msgstr "初始化 SCPM"
+
+#. progress stage
+#: src/ProfileManager.ycp:838
+msgid "Read the SCPM state"
+msgstr "读取 SCPM 状态"
+
+#. progress stage
+#: src/ProfileManager.ycp:840
+msgid "Read resource groups"
+msgstr "读取资源组"
+
+#. progress stage
+#: src/ProfileManager.ycp:842
+msgid "Read SCPM settings"
+msgstr "读取 SCPM 设置"
+
+#. progress step
+#: src/ProfileManager.ycp:845
+msgid "Initializing SCPM..."
+msgstr "正在初始化 SCPM..."
+
+#. progress step
+#: src/ProfileManager.ycp:847
+msgid "Reading the SCPM state..."
+msgstr "正在读取 SCPM 状态..."
+
+#. progress step
+#: src/ProfileManager.ycp:849
+msgid "Reading resource groups..."
+msgstr "正在读取资源组..."
+
+#. progress step
+#: src/ProfileManager.ycp:851
+msgid "Reading SCPM settings..."
+msgstr "正在读取 SCPM 设置..."
+
+#. progress step
+#. progress stage
+#. progress step:
+#. progress stage
+#: src/ProfileManager.ycp:853 src/ProfileManager.ycp:944
+#: src/ProfileManager.ycp:1081 src/ProfileManager.ycp:1125
+msgid "Finished"
+msgstr "已完成"
+
+#. Error message: %1 is special error message
+#: src/ProfileManager.ycp:868
+#, ycp-format
+msgid ""
+"Cannot initialize SCPM:\n"
+"%1"
+msgstr ""
+"无法初始化 SCPM：\n"
+"%1"
+
+#. Error message: %1 is special error message
+#: src/ProfileManager.ycp:877
+#, ycp-format
+msgid ""
+"Cannot read SCPM status:\n"
+"%1"
+msgstr ""
+"无法读取 SCPM 状态：\n"
+"%1"
+
+#. error popup
+#: src/ProfileManager.ycp:887
+msgid "Reinitialization is needed."
+msgstr "需要重新初始化。"
+
+#. yes/no popup
+#: src/ProfileManager.ycp:891
+msgid ""
+"SCPM is currently locked because your system installation has changed.  \n"
+"This is usually caused by a system update. Therefore, the data saved in\n"
+"your profiles may be inconsistent, making it necessary to reinitialize SCPM. \n"
+"The saved profiles will be lost and need to be set up again from scratch.  \n"
+"Perform the reinitialization now?\n"
+msgstr ""
+"SCPM当前已锁定，因为您的系统安装已更改。\n"
+"这通常是由系统更新引起的。\n"
+"因此，保存在配置文件中的数据可能不一致\n"
+"，因此有必要重新初始化 SCPM。\n"
+"这还意味着已保存的配置文件将丢失并需要\n"
+"再次从头开始设置配置文件。\n"
+"是否立即执行重新初始化？\n"
+
+#. error popup
+#: src/ProfileManager.ycp:908
+msgid "Recovery or rollback is needed."
+msgstr "需要恢复或者回滚操作。"
+
+#. error message (%1 is additional error message)
+#: src/ProfileManager.ycp:929
+#, ycp-format
+msgid ""
+"Cannot read resource groups:\n"
+"%1"
+msgstr ""
+"无法读取资源组：\n"
+"%1"
+
+#. Error message. %1 is error report
+#: src/ProfileManager.ycp:999
+#, ycp-format
+msgid ""
+"Writing SCPM status was not successful:\n"
+"%1"
+msgstr ""
+"未成功写入 SCPM 状态：\n"
+"%1"
+
+#. Error popup text, %1 is additional error text
+#: src/ProfileManager.ycp:1043
+#, ycp-format
+msgid ""
+"Saving resource groups failed:\n"
+"%1"
+msgstr ""
+"保存资源组失败：\n"
+"%1"
+
+#. profile-manager Write dialog caption:
+#: src/ProfileManager.ycp:1058
+msgid "Writing Profile Manager Configuration"
+msgstr "正在写入配置文件管理器配置"
+
+#. progress stage:
+#: src/ProfileManager.ycp:1062
+msgid "Write the SCPM database"
+msgstr "写入 SCPM 数据库"
+
+#. progress stage:
+#: src/ProfileManager.ycp:1064
+msgid "Write SCPM status"
+msgstr "写入 SCPM 状态"
+
+#. progress stage:
+#: src/ProfileManager.ycp:1066
+msgid "Write resource groups"
+msgstr "写入资源组"
+
+#. progress stage:
+#: src/ProfileManager.ycp:1068
+msgid "Write SCPM settings"
+msgstr "写入 SCPM 设置"
+
+#. progress step:
+#: src/ProfileManager.ycp:1073
+msgid "Writing the SCPM database..."
+msgstr "正在写入 SCPM 数据库..."
+
+#. progress step:
+#: src/ProfileManager.ycp:1075
+msgid "Writing SCPM status..."
+msgstr "正在写入 SCPM 状态..."
+
+#. progress step:
+#: src/ProfileManager.ycp:1077
+msgid "Writing resource groups..."
+msgstr "正在写入资源组..."
+
+#. progress step:
+#: src/ProfileManager.ycp:1079
+msgid "Writing SCPM settings..."
+msgstr "正在写入 SCPM 设置..."
+
+#. Error message, %1 is extra error text
+#: src/ProfileManager.ycp:1103
+#, ycp-format
+msgid ""
+"Cannot write SCPM database:\n"
+"%1"
+msgstr ""
+"无法写入 SCPM 数据库：\n"
+"%1"
+
+#. Error message:
+#: src/ProfileManager.ycp:1113
+msgid "Cannot write SCPM settings."
+msgstr "无法写入 SCPM 设置。"
+
+#. Dialog caption label:
+#: src/complex.ycp:70
+msgid "SCPM Configuration"
+msgstr "SCPM 配置"
+
+#. frame label:
+#: src/complex.ycp:80
+msgid "Status"
+msgstr "状态"
+
+#. Push button label (state of SCPM)
+#: src/complex.ycp:86
+msgid "&Enabled"
+msgstr "已启用(&E)"
+
+#. Push button label (state of SCPM)
+#: src/complex.ycp:89
+msgid "&Disabled"
+msgstr "已禁用(&D)"
+
+#. frame label:
+#: src/complex.ycp:95
+msgid "Settings"
+msgstr "设置"
+
+#. combobox label
+#: src/complex.ycp:100
+msgid "&Switch Mode"
+msgstr "切换方式(&S)"
+
+#. switch mode
+#: src/complex.ycp:102
+msgid "Normal"
+msgstr "常规"
+
+#. switch mode
+#. switch mode (combo box item)
+#: src/complex.ycp:104 src/complex.ycp:112
+msgid "Save Changes"
+msgstr "保存更改"
+
+#. switch mode
+#. switch mode (combo box item)
+#: src/complex.ycp:106 src/complex.ycp:114
+msgid "Drop Changes"
+msgstr "放弃更改"
+
+#. combobox label
+#: src/complex.ycp:110
+msgid "B&oot Mode"
+msgstr "引导方式(&O)"
+
+#. checkbox label
+#: src/complex.ycp:120
+msgid "&Verbose Progress Messages"
+msgstr "详细进度消息(&V)"
+
+#. checkbox label
+#: src/complex.ycp:123
+msgid "&Log Debug Messages"
+msgstr "记录调试消息(&L)"
+
+#. checkbox label
+#: src/complex.ycp:127
+msgid "Allow Profile Management for Non-root &Users"
+msgstr "允许非根用户管理配置文件(&U)"
+
+#. pushbutton label
+#: src/complex.ycp:131
+msgid "Co&nfigure..."
+msgstr "配置(&N)..."
+
+#. frame label
+#: src/complex.ycp:138
+msgid "Resource Groups"
+msgstr "资源组"
+
+#. button label
+#: src/complex.ycp:142
+msgid "&Configure..."
+msgstr "配置(&C)..."
+
+#. rich text label (list of groups follows)
+#: src/complex.ycp:165
+#, ycp-format
+msgid "<b>Active: </b>"
+msgstr "<b>主动：</b>"
+
+#. rich text label (no group in the list)
+#: src/complex.ycp:173
+msgid "none"
+msgstr "无"
+
+#. combo box label
+#: src/dialogs.ycp:65
+msgid "Available &Services"
+msgstr "可用的服务(&S)"
+
+#. yes/no popup
+#: src/dialogs.ycp:94
+#, ycp-format
+msgid ""
+"Service %1 does not exist.\n"
+"Really add it?"
+msgstr ""
+"服务 %1 不存在。\n"
+"确实要添加它吗？"
+
+#. button label
+#: src/dialogs.ycp:122
+msgid "&Browse..."
+msgstr "浏览(&B)..."
+
+#. error popup
+#: src/dialogs.ycp:158
+msgid "File does not exist."
+msgstr "文件不存在。"
+
+#. resource type (menu entry)
+#: src/dialogs.ycp:187
+msgid "File"
+msgstr "文件"
+
+#. resource type (menu entry)
+#: src/dialogs.ycp:189
+msgid "Service"
+msgstr "服务"
+
+#. textentry label
+#: src/dialogs.ycp:226
+msgid "Resource &Group"
+msgstr "资源组(&G)"
+
+#. textentry label
+#: src/dialogs.ycp:229
+msgid "D&escription"
+msgstr "描述(&E)"
+
+#. frame label
+#: src/dialogs.ycp:232
+msgid "Resources"
+msgstr "资源"
+
+#. Header of the table with resources of one group 1/3
+#. Header of the table with resource groups 1/3
+#: src/dialogs.ycp:237 src/dialogs.ycp:522
+msgid "Active"
+msgstr "主动"
+
+#. Header of the table with resources of one group 2/3
+#. Header of the table with resource groups 2/3
+#: src/dialogs.ycp:239 src/dialogs.ycp:524
+msgid "Name"
+msgstr "名称"
+
+#. Header of the table with resources of one group 3/3
+#: src/dialogs.ycp:241
+msgid "Type"
+msgstr "类型"
+
+#. Push button label
+#: src/dialogs.ycp:247
+msgid "Add &Service"
+msgstr "添加服务(&S)"
+
+#. Push button label
+#: src/dialogs.ycp:249
+msgid "Add &File"
+msgstr "添加文件(&F)"
+
+#. Push button label
+#: src/dialogs.ycp:252 src/dialogs.ycp:537 src/dialogs.ycp:799
+msgid "&Delete"
+msgstr "删除(&D)"
+
+#. Push button label
+#: src/dialogs.ycp:255
+msgid "&Reset Group"
+msgstr "重置组(&R)"
+
+#. message popup
+#: src/dialogs.ycp:336
+#, ycp-format
+msgid ""
+"Service\n"
+"%1\n"
+"is already present in this resource group."
+msgstr ""
+"服务\n"
+"%1\n"
+"已经存在于资源组中。"
+
+#. message popup
+#: src/dialogs.ycp:358
+#, ycp-format
+msgid ""
+"File\n"
+"%1\n"
+"is already present in this resource group."
+msgstr ""
+"文件\n"
+"%1\n"
+"已经存在于资源组中。"
+
+#. Popup text (wrong data):
+#: src/dialogs.ycp:378
+msgid ""
+"The name of resource group may contain only \n"
+"letters, digits, \"-\", \"_\", \".\", \"@\" and \"#\"\n"
+"and must begin with a letter or digit.\n"
+"Try again."
+msgstr ""
+"资源组名称只能包含\n"
+"字母、数字、“-”、“_”、“.”、“@”和“#”\n"
+"，必须以字母或数字开头。\n"
+"请重试。"
+
+#. error message, %1 is group name
+#: src/dialogs.ycp:390
+#, ycp-format
+msgid ""
+"Resource group %1 already exists.\n"
+"Use another name."
+msgstr ""
+"资源组 %1 已存在。\n"
+"请使用另一个名称。"
+
+#. Caption of the dialog:
+#: src/dialogs.ycp:509
+msgid "Configuration of Resource Groups"
+msgstr "资源组的配置"
+
+#. frame label:
+#: src/dialogs.ycp:516
+msgid "Resource Group"
+msgstr "资源组"
+
+#. Header of the table with resource groups 3/3
+#: src/dialogs.ycp:526
+msgid "Description"
+msgstr "描述"
+
+#. Push button label
+#: src/dialogs.ycp:532
+msgid "&Add"
+msgstr "添加(&A)"
+
+#. Push button label
+#: src/dialogs.ycp:534
+msgid "&Edit"
+msgstr "编辑(&E)"
+
+#. Push button label
+#: src/dialogs.ycp:540
+msgid "&Reset All"
+msgstr "全部重置(&R)"
+
+#. %1 is resource group name
+#: src/dialogs.ycp:570
+#, ycp-format
+msgid "Delete group %1?"
+msgstr "是否删除组 %1？"
+
+#. continue/cancel popup message, %1 is group name, %2 file(s)
+#: src/dialogs.ycp:620
+#, ycp-format
+msgid ""
+"The file <b>%2</b> from resource group <i>%1</i>\n"
+"is not available on the system.<br>\n"
+"The resource group is probably not installed.<br>\n"
+"Really select this resource group?"
+msgid_plural ""
+"These files from resource group <i>%1</i> are not available on the system:<br>\n"
+"<b>%2</b><br>\n"
+"The resource group is probably not installed.<br>\n"
+"Really select this resource group?"
+msgstr[0] ""
+"资源组 <i>%1</i> 中的文件 <b>%2</b> \n"
+"在系统中不可用。<br>\n"
+"资源组很可能没有安装。<br>\n"
+"确定要选择这个资源组吗？"
+
+#. combo box label
+#. Header of the table with users 1/2
+#: src/dialogs.ycp:680 src/dialogs.ycp:788
+msgid "Username"
+msgstr "用户名"
+
+#. frame label (for radiobutton group)
+#: src/dialogs.ycp:692
+msgid "Permission"
+msgstr "权限"
+
+#. radio button label
+#: src/dialogs.ycp:697
+msgid "&Switch Only"
+msgstr "仅切换(&S)"
+
+#. radio button label
+#: src/dialogs.ycp:700
+msgid "&Everything"
+msgstr "所有操作(&E)"
+
+#. error popup (empty user name)
+#: src/dialogs.ycp:734
+msgid "Enter a valid username."
+msgstr "输入有效的用户名。"
+
+#. Dialog caption label:
+#: src/dialogs.ycp:753
+msgid "User Permissions Configuration"
+msgstr "用户权限配置"
+
+#. radio button label (user permission)
+#: src/dialogs.ycp:762
+msgid "Switch Only"
+msgstr "仅切换"
+
+#. radio button label (user permission)
+#: src/dialogs.ycp:764
+msgid "Everything"
+msgstr "所有操作"
+
+#. frame label
+#: src/dialogs.ycp:782
+msgid "Users"
+msgstr "用户"
+
+#. Header of the table with users 2/2
+#: src/dialogs.ycp:790
+msgid "Permissions"
+msgstr "权限"
+
+#. Read dialog help 1/1
+#: src/helps.ycp:40
+msgid ""
+"<p><b><big>Initializing Profile Manager Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在初始化配置文件管理器配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Main dialog help 1/9
+#: src/helps.ycp:45
+msgid ""
+"<p><big><b>SCPM Configuration</b></big></p>\n"
+"<p>SCPM (System Configuration Profile Management) enables your system to save different configuration profiles and switch between them.</p>"
+msgstr ""
+"<p><big><b>SCPM 配置</b></big></p>\n"
+"<p>SCPM(系统配置配置文件管理)使系统能够保存不同的配置配置文件，并能在它们之间切换。</p>"
+
+#. main dialog help 2/9
+#: src/helps.ycp:49
+msgid "<p>Activate and configure SCPM here.  Configure and switch SCPM profiles with the SUMF graphical interface or the <tt>scpm</tt> command.</p>"
+msgstr "<p>在此处激活和配置 SCPM。使用 SUMF 图形界面或 <tt>scpm</tt> 命令配置和切换 SCPM 配置文件。</p>"
+
+#. main dialog help - subsection heading
+#: src/helps.ycp:52
+msgid "<p><b>Status</b></p>"
+msgstr "<p><b>状态</b></p>"
+
+#. main dialog help 3/9
+#: src/helps.ycp:55
+msgid "First, set the SCPM status to <b>Enabled</b>. If disabled later, none of the configuration data in the profiles will be lost. It just continues in the current configuration of your system and you cannot switch to any other profile until you enable it again.</p>"
+msgstr "首先，将 SCPM 的状态设置为<b>已启用</b>。如果稍后禁用了 SCPM，则配置文件中的任何配置数据都不会丢失。它只延续系统的当前配置，在再次启用它之前，您无法切换到任何其它配置文件。</p>"
+
+#. main dialog help - subsection heading
+#: src/helps.ycp:58
+msgid "<p><b>Settings</b></p>"
+msgstr "<p><b>设置</b></p>"
+
+#. main dialog help 4/9 (SCPM and SUMF are names of applications)
+#: src/helps.ycp:61
+msgid "<p>The settings apply to the command line interface as well as to the graphical SCPM front-end named SUMF.</p>"
+msgstr "<p>这些设置应用到命令行界面和名为 SUMF 的图形 SCPM 前端。</p>"
+
+#. main dialog help 5/9
+#: src/helps.ycp:64
+msgid ""
+"<p><b>Switch Mode</b> defines the behavior of SCPM when switching\n"
+"profiles. If set to <b>Normal</b> or <b>Save Changes</b>,\n"
+"modified resources are preset for saving before the switch.\n"
+"Setting it to <b>Drop Changes</b> results in presets for ignoring. The effect in the command line SCPM tool is more limited than in SUMF, so check the info page if you intend to use the SCPM tool.</p>\n"
+msgstr ""
+"<p><b>切换方式</b>定义切换配置文件时 SCPM 的\n"
+"行为。如果设置为<b>常规</b>或<b>保存更改</b>，\n"
+"则切换前已修改的资源就会被预置为保存。\n"
+" 将其设置为<b>放弃更改</b>将导致这些资源被预置为忽略。命令行 SCPM 工具的效果比 SUMF 有限，因此若要使用 SCPM 工具，请查看信息页。</p>\n"
+
+#. main dialog help 6/9
+#: src/helps.ycp:71
+msgid ""
+"<p><b>Boot Mode</b> defines the behavior of SCPM at system boot time.\n"
+"<b>Save Changes</b> applies all changes to the previous profile.\n"
+"<b>Drop Changes</b> discards them.</p>\n"
+msgstr ""
+"<p><b>引导方式</b>定义在系统引导时 SCPM 的行为。\n"
+"<b>保存更改</b>将所有更改应用到以前的配置文件。\n"
+"<b>放弃更改</b>将丢弃这些更改。</p>\n"
+
+#. main dialog help 7/9
+#: src/helps.ycp:77
+msgid ""
+"<p><b>Verbose Messages</b> affects the detail level of progress messages\n"
+"in the progress pop-up. If <b>Log Debug Messages</b> is set, SCPM writes debug messages to its log file (/var/log/scpm by default).</p>"
+msgstr ""
+"<p><b>冗长消息</b>影响进度弹出框中进度消息的\n"
+"详细程度。如果设置了<b>记录调试消息</b>，SCPM 会将调试消息写入其日志文件(默认为 var/log/scpm)。</p>"
+
+#. main dialog help 8/9
+#: src/helps.ycp:81
+msgid "<p>SCPM needs root privileges for operation. Check <b>Allow Profile Management for Non-root Users</b> and use <b>Configure</b> to set up users to authorize to use SCPM.</p>"
+msgstr "<p>操作 SCPM 需要根特权。选中<b>允许非根用户管理配置文件</b>并使用<b>配置</b>来设置授权使用 SCPM 的用户。</p>"
+
+#. main dialog help - subsection heading
+#: src/helps.ycp:84
+msgid "<p><b>Resource Groups</b></p>"
+msgstr "<p><b>资源组</b></p>"
+
+#. main dialog help 9/9, i marks special term, use something appropriate for your language
+#: src/helps.ycp:87
+msgid ""
+"<p>A configuration profile covers only the files and services to change\n"
+"when switching to another profile. In SCPM terminology, these files and\n"
+"services are called resources. Those resources are grouped into logical units,\n"
+"called <i>resource groups</i>. SCPM comes with a predefined set of\n"
+"groups handled by default. This is sufficient for most systems. \n"
+"For a more detailed resource setup, click <b>Configure Resources</b>.</p>\n"
+msgstr ""
+"<p>当您切换到另一个配置文件时，配置配置文件只涉及要更改的\n"
+"文件和服务。在 SCPM 术语中，这些文件和服务被\n"
+"称为资源。这些资源又按逻辑单元分组，\n"
+"称为<i>资源组</i>。SCPM 附带一个默认的\n"
+"预定义资源组。对于大多数系统，使用默认资源组就足够了。\n"
+"有关资源设置的详细信息，请单击\n"
+"<b>配置资源</b>。</p>\n"
+
+#. Configure Resources Dialog help 1/3
+#: src/helps.ycp:96
+msgid ""
+"<p><big><b>Configuring Resources</b></big></p>\n"
+"<p>This list contains all installed resource groups.\n"
+"A resource group usually represents a system service with all needed\n"
+"configuration files. Select which services should be handled by the \n"
+"profile management. Activate or deactivate the groups by\n"
+"double-clicking them.</p>\n"
+msgstr ""
+"<p><big><b>正在配置资源</b></big></p>\n"
+"<p>此列表包含所有已安装的资源组。\n"
+"资源组通常代表一个系统服务及所有需要的\n"
+"配置文件。在此可以方便地选择配置文件管理\n"
+"应该处理哪些服务。通过双击可以激活或\n"
+"取消激活这些组。</p>\n"
+
+#. Configure Resources Dialog help 2/3
+#: src/helps.ycp:105
+msgid ""
+"<p>To achive an even more customized setup, create your own\n"
+"resource groups or modify existing ones. With <b>Add</b> or <b>Edit</b>,\n"
+"enter the resource group editor. It allows activation and\n"
+"deactivation of resources and gives the possibility to create additional\n"
+"resources and add them to your groups.</p>\n"
+msgstr ""
+"<p>要对更多的自定义设置进行存档，请创建自己的资源组或修改\n"
+"现有的资源组。使用<b>添加</b>或<b>编辑</b>，\n"
+"可以进入资源组编辑器。它允许激活和取消激活资源，\n"
+"并可以创建附加资源\n"
+"并将这些资源添加到您的组中。</p>\n"
+
+#. Configure Resources Dialog help 3/3
+#: src/helps.ycp:113
+msgid ""
+"<p>Return all resource groups to their initial states by pressing\n"
+"<b>Reset All</b>.</p>"
+msgstr ""
+"<p>按<b>全部重置</b>将所有资源组返回到其\n"
+"最初状态。</p>"
+
+#. Users dialog help 1/3 (headline)
+#: src/helps.ycp:117
+msgid "<p><b><big>Users</big></b></p>"
+msgstr "<p><b><big>用户</big></b></p>"
+
+#. Users dialog help 2/3
+#. "Switch Only" and "Everything" are values also used in dialogs.ycp (
+#. see "radio button label (user permission)" comments
+#: src/helps.ycp:122
+msgid ""
+"<p>To allow users of your system to perform profile\n"
+"management operations, add them here. There are two levels of permission:\n"
+"<b>Switch Only</b> means the specified user may switch profiles, but nothing else. <b>Everything</b> means the user may perform any operation,\n"
+"including adding and removing profiles.</p>"
+msgstr ""
+"<p>要允许系统用户执行配置文件\n"
+"管理操作，请在此处添加它们。权限分为两个级别：\n"
+" <b>仅切换</b>表示指定用户可以切换配置文件，但不能执行其它操作。<b>所有操作</b>表示用户可以执行所有操作，\n"
+"包括添加和删除配置文件。</p>"
+
+#. users dialog help 3/3
+#: src/helps.ycp:128
+msgid "<p>Use <b>Add</b>, <b>Edit</b>, and <b>Delete</b> to modify the list of users with special permissions.</p>"
+msgstr "<p>使用<b>添加</b>、<b>编辑</b>和<b>删除</b>来修改具有特殊权限的用户的列表。</p>"
+
+#. Write dialog help 1/1
+#: src/helps.ycp:131
+msgid ""
+"<p><b><big>Writing Profile Manager Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在写入配置文件管理器配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. summary line
+#: src/profile-manager.ycp:77
+msgid "SCPM is enabled."
+msgstr "已启用 SCPM。"
+
+#. summary line
+#: src/profile-manager.ycp:79
+msgid "SCPM is disabled."
+msgstr "已禁用 SCPM。"
+
+#. summary item
+#: src/profile-manager.ycp:89
+#, ycp-format
+msgid "Active Resource Groups: %1"
+msgstr "活动的资源组：%1"
+
+#. translators: command line help text for Profile manage module
+#: src/profile-manager.ycp:109
+msgid "Profile manager configuration module"
+msgstr "配置文件管理器配置模块"
+
+#. translators: command line help text for summary action
+#: src/profile-manager.ycp:117
+msgid "Configuration summary of profile manager"
+msgstr "配置文件管理器的配置摘要"
+
+#. translators: command line help text for configure action
+#: src/profile-manager.ycp:122
+msgid "Change the profile manager settings"
+msgstr "更改配置管理器设置"
+
+#. translators: command line help text for the kdc option
+#: src/profile-manager.ycp:128
+msgid "Enable or disable profile switching for non-root users"
+msgstr "启用或禁用非根用户的配置文件切换"

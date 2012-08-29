@@ -1,0 +1,1191 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:31+0200\n"
+"PO-Revision-Date: 2012-07-22 14:52+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/NCPackageSelector.cc:976
+msgid "&Packages with Status"
+msgstr "具有状态的软件包(&P)"
+
+#: src/NCPackageSelector.cc:1161
+msgid "You can choose to install anyway, but you risk getting a corrupted system."
+msgstr "您可以选择强行安装，但您需承担损坏系统的风险。"
+
+#: src/NCPackageSelector.cc:1162
+msgid "&Continue anyway"
+msgstr "无论如何都继续(&C)"
+
+#. headline of a popup showing the package license
+#: src/NCPackageSelector.cc:1356
+msgid "End User License Agreement"
+msgstr "最终用户许可协议"
+
+#. label text - keep it short
+#: src/NCPackageSelector.cc:1540
+msgid "Filter: "
+msgstr "过滤器："
+
+#. label text - keep it short (use abbreviation if necessary)
+#: src/NCPackageSelector.cc:1547
+msgid "Total Download Size: "
+msgstr "总下载大小："
+
+#. Help button
+#: src/NCPackageSelector.cc:1560 src/NCPackageSelector.cc:1663
+#: src/NCPkgStrings.cc:107
+msgid "&Help"
+msgstr "帮助(&H)"
+
+#. add the Cancel button
+#. begin: the label of the Cancel button
+#. add the Cancel button
+#. begin: the label of the Cancel button
+#: src/NCPackageSelector.cc:1566 src/NCPackageSelector.cc:1671
+#: src/NCPkgStrings.cc:657
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+#. add the OK button
+#. the label of an Accept button
+#. add the OK button
+#. the label of an Accept button
+#: src/NCPackageSelector.cc:1571 src/NCPackageSelector.cc:1676
+#: src/NCPkgStrings.cc:671
+msgid "&Accept"
+msgstr "接受(&A)"
+
+#: src/NCPackageSelector.cc:1596
+msgid "C&onfiguration"
+msgstr "配置(&C)"
+
+#. Translators: %s is a locale code, e.g. en_GB
+#: src/NCPkgFilterLocale.cc:176
+#, c-format
+msgid "Translations, dictionaries and other language-related files for <b>%s</b> locale"
+msgstr "<b>%s</b> 区域的翻译、字典和其他语言相关的文件"
+
+#. the label of the selections
+#: src/NCPkgFilterMain.cc:66 src/NCPkgStrings.cc:312
+msgid "Patterns"
+msgstr "集合"
+
+#: src/NCPkgFilterMain.cc:69
+msgid "Languages"
+msgstr "语言"
+
+#: src/NCPkgFilterMain.cc:72
+msgid "RPM Groups"
+msgstr "RPM 组"
+
+#: src/NCPkgFilterMain.cc:75
+msgid "Repositories"
+msgstr "安装源"
+
+#: src/NCPkgFilterMain.cc:78
+msgid "Search"
+msgstr "搜索"
+
+#: src/NCPkgFilterMain.cc:82
+msgid "Installation Summary"
+msgstr "安装摘要"
+
+#: src/NCPkgFilterPattern.cc:180
+#, c-format
+msgid "%d of %d package installed"
+msgid_plural "%d of %d packages installed"
+msgstr[0] "%d 中的 %d 软件包已安装"
+msgstr[1] "%d 中的 %d 软件包已安装"
+
+#: src/NCPkgFilterRepo.cc:194
+msgid "<b>@System</b>: local RPM database"
+msgstr "<b>本地系统</b>：本地 RPM 数据库"
+
+#: src/NCPkgFilterRepo.cc:197
+msgid "<b>Repository URL:</b>"
+msgstr "<b>安装源 URL：</b>"
+
+#: src/NCPkgFilterSearch.cc:127
+msgid "&Ignore Case"
+msgstr "忽略大小写(&I)"
+
+#: src/NCPkgFilterSearch.cc:133
+msgid "Search &Mode"
+msgstr "搜索方式(&M)"
+
+#: src/NCPkgFilterSearch.cc:135
+msgid "Contains"
+msgstr "包含"
+
+#: src/NCPkgFilterSearch.cc:136
+msgid "Begins with"
+msgstr "开始为"
+
+#: src/NCPkgFilterSearch.cc:137
+msgid "Exact Match"
+msgstr "精确匹配"
+
+#: src/NCPkgFilterSearch.cc:138
+msgid "Use Wildcards"
+msgstr "使用通配符"
+
+#: src/NCPkgFilterSearch.cc:139
+msgid "Use RegExp"
+msgstr "使用正则表达式"
+
+#: src/NCPkgFilterSearch.cc:246
+msgid "Searching..."
+msgstr "正在搜索..."
+
+#. Popup informs the user that the query string
+#. entered for package search isn't correct
+#: src/NCPkgFilterSearch.cc:267
+msgid "Query Error:"
+msgstr "查询错误："
+
+#: src/NCPkgFilterSearch.cc:280
+#, c-format
+msgid "%d packages found"
+msgstr "找到 %d 个软件包"
+
+#. Please note: add an appropriate number of whitespaces to get a well
+#. formated menu (the [ ]s should be in one column) and use unique hotkeys until end:
+#. begin: Actions menu, toggle the status of a package, e.g. change from installed to delete
+#: src/NCPkgMenuAction.cc:70
+msgid "&Toggle    [SPACE]"
+msgstr "转换(&T)    [空格]"
+
+#: src/NCPkgMenuAction.cc:71
+msgid "&Install     [+]"
+msgstr "安装(&I)     [+]"
+
+#: src/NCPkgMenuAction.cc:72
+msgid "&Delete      [-]"
+msgstr "删除(&D)      [-]"
+
+#: src/NCPkgMenuAction.cc:73
+msgid "&Update      [>]"
+msgstr "更新(&U)      [>]"
+
+#: src/NCPkgMenuAction.cc:74
+msgid "Ta&boo       [!]"
+msgstr "禁止(&b)     [!]"
+
+#: src/NCPkgMenuAction.cc:75
+msgid "&Lock        [*]"
+msgstr "锁定(&L)     [*]"
+
+#. end: Actions menu, set status of all packages (title of a submenu)
+#: src/NCPkgMenuAction.cc:77
+msgid "&All Listed Packages"
+msgstr "所有列出的软件包（&A）"
+
+#. begin: submenu items actions concerning all packages
+#: src/NCPkgMenuAction.cc:88
+msgid "&Install All"
+msgstr "全部安装(&I)"
+
+#: src/NCPkgMenuAction.cc:89
+msgid "&Delete All"
+msgstr "全部删除(&D)"
+
+#: src/NCPkgMenuAction.cc:90
+msgid "&Keep All"
+msgstr "保留全部（&K）"
+
+#: src/NCPkgMenuAction.cc:91
+msgid "U&pdate All Unconditionally"
+msgstr "无条件全部更新(&P)"
+
+#. end: submenu items: actions concerning all packages
+#: src/NCPkgMenuAction.cc:93
+msgid "&Update If Newer Version Available"
+msgstr "更新（如有更新版本可用）(&U)"
+
+#. YOU mode
+#. Please note: add an appropriate number of whitespaces to get a well
+#. formated menu (the [ ]s should be in one column) and use unique hotkeys until end:
+#. begin: Online Update Actions menu
+#: src/NCPkgMenuAction.cc:101
+msgid "&Toggle       [SPACE]"
+msgstr "转换(&T)       [空格]"
+
+#: src/NCPkgMenuAction.cc:102
+msgid "&Install        [+]"
+msgstr "安装(&I)        [+]"
+
+#: src/NCPkgMenuAction.cc:103
+msgid "&Do Not Install [-]"
+msgstr "不安装(&D)     [-]"
+
+#: src/NCPkgMenuDeps.cc:78
+msgid "&Automatic Dependency Check"
+msgstr "自动检查依赖关系(&A)"
+
+#: src/NCPkgMenuDeps.cc:82
+msgid "&Check Dependencies Now"
+msgstr "立即检查依赖关系(&C)"
+
+#: src/NCPkgMenuDeps.cc:85
+msgid "&Verify System Now"
+msgstr "立即校验系统(&V)"
+
+#: src/NCPkgMenuDeps.cc:88
+msgid "&Ignore Recommended Packages for Already Installed Packages"
+msgstr "忽略已安装的软件包的推荐软件包(&I)"
+
+#: src/NCPkgMenuDeps.cc:92
+msgid "&System Verification Mode"
+msgstr "系统验证模式(&S)"
+
+#: src/NCPkgMenuDeps.cc:95
+msgid "&Cleanup when deleting packages"
+msgstr "删除软件包时清理(&C)"
+
+#: src/NCPkgMenuDeps.cc:99
+msgid "&Allow vendor change"
+msgstr "允许厂商变更(&A)"
+
+#: src/NCPkgMenuDeps.cc:103
+msgid "&Generate Dependency Solver Testcase"
+msgstr "生成依赖关系解析程序试例(&G)"
+
+#: src/NCPkgMenuDeps.cc:136
+msgid "All package dependencies are OK."
+msgstr "所有软件包依赖关系都正确。"
+
+#: src/NCPkgMenuDeps.cc:173
+msgid "Dependency resolver test case written to "
+msgstr "依赖性解析程序试例写到"
+
+#: src/NCPkgMenuDeps.cc:253
+msgid "System dependencies verify OK."
+msgstr "系统依赖性校验通过。"
+
+#: src/NCPkgMenuExtras.cc:76
+msgid "&Export Package List to File"
+msgstr "导出软件包列表到文件(&E)"
+
+#: src/NCPkgMenuExtras.cc:79
+msgid "&Import Package List from File"
+msgstr "从文件导入软件包列表(&I)"
+
+#: src/NCPkgMenuExtras.cc:82
+msgid "&Show Available Disk Space"
+msgstr "显示可用磁盘空间(&S)"
+
+#: src/NCPkgMenuExtras.cc:189
+msgid "Export List of All Packages and Patterns to File"
+msgstr "将所有软件包和集合的列表导出到文件"
+
+#: src/NCPkgMenuExtras.cc:222
+msgid "Error exporting list of packages and patterns to "
+msgstr "将软件包和集合的列表导出到以下文件时出错"
+
+#: src/NCPkgMenuExtras.cc:244
+msgid "Import List of All Packages and Patterns from File"
+msgstr "从文件导入所有软件包和集合的列表"
+
+#: src/NCPkgMenuExtras.cc:308
+msgid "Error importing list of packages and patterns from "
+msgstr "从以下文件导入软件包和集合列表时出错"
+
+#: src/NCPkgMenuHelp.cc:70
+msgid "&General Help"
+msgstr "一般帮助(&G)"
+
+#: src/NCPkgMenuHelp.cc:73
+msgid "&Package Status and Symbols"
+msgstr "软件包状态和符号(&P)"
+
+#: src/NCPkgMenuHelp.cc:76
+msgid "&How to Use the Filters"
+msgstr "怎样使用过滤器(&H)"
+
+#: src/NCPkgMenuHelp.cc:79
+msgid "&Useful Functions in Menu"
+msgstr "有用的菜单功能(&U)"
+
+#: src/NCPkgMenuHelp.cc:83
+msgid "&Patch Status and Patch Installation"
+msgstr "补丁状态和安装(&P)"
+
+#. begin: menu items of the view (package information) menu
+#. please note: use unique hotkeys until end:
+#: src/NCPkgMenuView.cc:70
+msgid "&Technical Data"
+msgstr "技术数据(&T)"
+
+#: src/NCPkgMenuView.cc:71
+msgid "&Package Description"
+msgstr "软件包描述(&P)"
+
+#: src/NCPkgMenuView.cc:72
+msgid "Package &Versions"
+msgstr "软件包版本(&V)"
+
+#: src/NCPkgMenuView.cc:73
+msgid "&File List"
+msgstr "文件列表(&F)"
+
+#. end: menu items of the view menu
+#. menu entry 1 - all about pkg dependencies
+#. end: menu items of the view menu
+#. menu entry 1 - all about pkg dependencies
+#: src/NCPkgMenuView.cc:75 src/NCPkgStrings.cc:57
+msgid "&Dependencies"
+msgstr "依赖关系(&D)"
+
+#. menu items of the patch view menu - keep them short and
+#. use unique hotkeys from begin: to end:
+#. begin:
+#: src/NCPkgMenuView.cc:90
+msgid "&Long Description"
+msgstr "长描述(&L)"
+
+#: src/NCPkgMenuView.cc:91
+msgid "&Package List"
+msgstr "软件包列表(&P)"
+
+#. end: menu items of the view menu
+#: src/NCPkgMenuView.cc:93
+msgid "&Versions"
+msgstr "版本(&V)"
+
+#. name of the source package
+#: src/NCPkgPackageDetails.cc:216
+msgid "Source Package: "
+msgstr "源代码包："
+
+#: src/NCPkgPackageDetails.cc:257
+msgid "<i>This information is available for installed packages only.</i>"
+msgstr "<i>仅已经安装的软件包有此信息。</i>"
+
+#: src/NCPkgPackageDetails.cc:412
+msgid "----- this patch is broken !!! -----"
+msgstr "----- 此补丁已损坏！！！ -----"
+
+#: src/NCPkgPackageDetails.cc:432
+msgid "References:<br>"
+msgstr "参考：<br>"
+
+#. the list containing the problems (the unresolved package dependencies)
+#: src/NCPkgPopupDeps.cc:172
+msgid "&Problems"
+msgstr "问题(&P)"
+
+#. the list containing the solutions of a dependency problem
+#: src/NCPkgPopupDeps.cc:189
+msgid "Possible &Solutions"
+msgstr "可能的解决方法(&S)"
+
+#. hint for the user: more information below
+#: src/NCPkgPopupDeps.cc:356
+msgid " see below"
+msgstr " 见下"
+
+#. hint for the user: there isn't any additional information
+#. (for the currently selected  solution of a dependency problem)
+#: src/NCPkgPopupDeps.cc:541
+msgid "No further solution details available"
+msgstr "无可用的解决细节"
+
+#. a help line for the dependency popup
+#: src/NCPkgPopupDescr.cc:130
+msgid " [+] Select    [-] Delete    [>] Update "
+msgstr " [+] 选择    [-] 删除    [>] 更新 "
+
+#: src/NCPkgPopupDiskspace.cc:348
+msgid "Error: Out of disk space!"
+msgstr "错误：磁盘空间不足！"
+
+#: src/NCPkgPopupDiskspace.cc:356
+msgid "Warning: Disk space is running out!"
+msgstr "警告：磁盘空间不足！"
+
+#. stretchable = false
+#. the headline of the popup containing a list with packages with status changes
+#: src/NCPkgPopupTable.cc:115 src/NCPkgStrings.cc:575
+msgid "Automatic Changes"
+msgstr "自动更改"
+
+#. text part1 of popup with automatic changes (it's a label; text continous)
+#: src/NCPkgPopupTable.cc:120 src/NCPkgStrings.cc:582
+msgid "In addition to your manual selections, the following"
+msgstr "除手工选择外，以下"
+
+#. text part2 of popup with automatic changes
+#. text part1 of popup with automatic changes continous
+#. text part2 of popup with automatic changes
+#. text part1 of popup with automatic changes continous
+#: src/NCPkgPopupTable.cc:123 src/NCPkgStrings.cc:589
+msgid "packages have been changed to resolve dependencies:"
+msgstr "软件包已更改以解决依赖性："
+
+#. menu entry 2 - display different kinds of info on pkgs
+#: src/NCPkgStrings.cc:64
+msgid "&View"
+msgstr "查看(&V)"
+
+#. menu entry 3 - miscellaneous stuff
+#: src/NCPkgStrings.cc:71
+msgid "&Extras"
+msgstr "额外(&E)"
+
+#. pick a package filter - patterns, langs, repos, search,...
+#: src/NCPkgStrings.cc:78
+msgid "&Filter"
+msgstr "过滤器(&F)"
+
+#. All installed Packages
+#: src/NCPkgStrings.cc:86
+msgid "Installed Packages"
+msgstr "已安装的软件包"
+
+#. Label under the pkg table - pkg name follows
+#: src/NCPkgStrings.cc:93
+msgid "Package: "
+msgstr "软件包："
+
+#. Actions on pkgs (install, remove,..)
+#: src/NCPkgStrings.cc:100
+msgid "A&ctions"
+msgstr "操作(&C)"
+
+#. the headline of the help window
+#: src/NCPkgStrings.cc:114
+msgid "General Help"
+msgstr "一般帮助"
+
+#. part1 of help text package installation
+#: src/NCPkgStrings.cc:121
+msgid ""
+"<h3>Welcome to the package selector</h3><p>This tool will help you to manage\n"
+"the software on your system. You can install, update or remove single\n"
+"packages, as well as patterns (sets of packages serving certain purpose) or\n"
+"languages. Usually, you do not need to care about package dependencies when\n"
+"installing or removing anything, the solver will do it for you. The package selector consists of three main parts: <b>filters, package table<b> and <b>menu</b>.</p>"
+msgstr "<h3>欢迎使用软件包选择器</h3><p>这个工具将帮助你管理系统中安装的软件。您可以安装、更新或者删除单个的软件包、整个集合(一系列相关的软件包)或者语言。通常无论是安装还是删除软件包，您都不需要关心依赖性问题——程序会自己解决。软件包选择器包括三个主要部分：<b>过滤器、软件包列表<b>和<b>菜单</b>。</p>"
+
+#. part of help text package installation
+#: src/NCPkgStrings.cc:129
+msgid ""
+"<p><b>Filters</b> (left panel) are designed for easy orientation in a large\n"
+"amount of packages. Use filters to display only packages from a certain\n"
+"repository or in a selected pattern (for example, Games or C/C++ Development)\n"
+"or to search for particular keywords. More information on filters can be found in <i>How to use filters</i>.</p>"
+msgstr "<p><b>过滤器</b> (左面板)是设计用来方便定位大量软件包的。使用过滤器来只显示某个安装源的软件包或者某个选定的集合的软件包(例如，游戏或 C/C++ 开发)或者搜索特定关键词。关于过滤器的详细信息可见 <i>如何使用过滤器</i>。</p>"
+
+#. additional help text for post installation
+#: src/NCPkgStrings.cc:136
+msgid ""
+"<p><b>Package table</b> is the main component of the package selector. You\n"
+"will see a list of packages matching the current filter (for example, the\n"
+"selected RPM group or search result). Each line of the package table has several columns:</p>"
+msgstr "<p><b>软件包列表</b>是软件包选择器的主要组件。在这里，你会看到符合当前过滤规则的软件包列表(比如，选择的包组或者搜索的结果)。软件包列表的每一行分为几栏：</p>"
+
+#. part2 of help text package installation
+#: src/NCPkgStrings.cc:143
+msgid ""
+"<ol><li>Package status (for more information see <i>Package Status and\n"
+"Symbols</i>)</li> <li>Package name</li><li>Package summary</li><li>Available\n"
+"version (in some of the configured repositories)</li> <li>Installed\n"
+"version(empty for not yet installed packages)</li> <li>Package size</li></ol>"
+msgstr "<ol><li>软件包状态(更多信息见 <i>软件包状态和符号</i>)</li><li>软件包名称</li><li>软件包摘要</li><li>可用版本(在已配置的安装源中)</li><li>已安装版本(如果未安装则为空)</li><li>软件包大小</li></ol>"
+
+#. part3 of help text package installation
+#: src/NCPkgStrings.cc:151
+msgid "<p>The <b>Actions</b> menu below the table allows you to change the status of a selected package (or all packages in the list), for example, to delete a package or select an additional package for installation. The status change can also be done directly by pressing the key specified in the menu item (for detailed information about the package status, see <i>Package Status and Symbols</i>).</p>"
+msgstr "<p>表格下面的<b>操作</b>菜单可以改变选中的(或者列表中全部的)软件包的状态。比如，删除一个软件包或者安装一个附加软件包。也可以通过菜单中指定的按键来实现状态更改(关于软件包状态的详细信息，请参考<i>软件包状态和符号</i>)。</p>"
+
+#. part4 of help text package installation
+#: src/NCPkgStrings.cc:158
+msgid ""
+"<p><b>Menu</b> provides functions related to the handling of package\n"
+"dependencies. Display relevant information on packages or perform actions like\n"
+"opening the repository editor. For more information, see <i>Useful Functions in Menu</i>.</p>"
+msgstr "<p><b>菜单</b>提供众多功能，与软件包依赖关系管理、显示软件包信息和有用操作相关，比如打开安装源编辑器。更多信息请参见<i>菜单的有用功能</i>。</p>"
+
+#. the headline of the help window
+#: src/NCPkgStrings.cc:165
+msgid "Package Status and Symbols"
+msgstr "软件包状态和符号"
+
+#. part 1 of help text package status
+#: src/NCPkgStrings.cc:172
+msgid ""
+"<p>The package status can be changed using the <i>Actions</i> menu or the keys\n"
+"specified in the menu items. For example, use '+' to install an additional\n"
+"package.</p><p>The \"Taboo\" status means the package should never be\n"
+"installed. On the contrary, the \"Locked\" status means that the installed version of a package should always be kept.</p>"
+msgstr "<p>使用<i>操作</i>菜单或菜单项中指定的键，可以更改软件包的状态。例如，使用“+”安装一个软件包。</p><p>“禁止”状态意味着这个软件包永远都不安装。类似的，“锁定”状态表示软件包始终保留已安装的版本。</p>"
+
+#. part 2 of help text package status
+#: src/NCPkgStrings.cc:179
+msgid ""
+"<p>You can also use <b>RET</b> or <b>SPACE</b> to toggle the package\n"
+"status. The <i>Actions</i> menu also allows you to change the status for all packages in the list (select 'All Listed Packages').</p>"
+msgstr "<p>您也可以使用<b>回车</b>或者<b>空格</b>来切换软件包状态。<i>操作</i> 菜单也可以来更改列表中所有软件包的状态(选择“所有列出的软件包”)。</p>"
+
+#. part 3 of help text package status
+#: src/NCPkgStrings.cc:185
+msgid "<p>The meaning of the status flags:</p>"
+msgstr "<p>状态标志的含义：</p>"
+
+#. help text package status
+#: src/NCPkgStrings.cc:192
+msgid "<p><b> + </b>:  package will be installed</p><p><b>a+ </b>: package will be installed automatically</p><p><b> > </b>: package will be updated</p><p><b>a> </b>: package will be automatically updated</p><p><b> i </b>: package is installed</p><p><b> - </b>:  package will be deleted</p><p><b>---</b>: never install this package (taboo)</p>"
+msgstr "<p><b> + </b>：软件包将被安装</p><p><b>a+ </b>：软件包将被自动安装</p><p><b> > </b>：软件包将被更新</p><p><b>a> </b>：软件包将被自动更新</p><p><b> i </b>：软件包已安装</p><p><b> - </b>：软件包将被删除</p><p><b>---</b>：始终不安装这个软件包</p>"
+
+#. help text package status
+#: src/NCPkgStrings.cc:199
+msgid "<p><b>-i-</b>: keep the installed version and never update or delete it ( package locked )</p><p>Status information for pattern and languages:</p><p><b> i </b>: All requirements of this pattern/language are satisfied</p>"
+msgstr "<p><b>-i-</b>：保留已安装的版本并且不更新或删除它(锁定软件包)</p><p>集合和语言的状态信息：</p><p><b> i</b>：所有此集合/语言的需求都已满足</p>"
+
+#. label for an error popup
+#: src/NCPkgStrings.cc:206
+msgid "How to Use Filters"
+msgstr "怎样使用过滤器"
+
+#. help text package status
+#: src/NCPkgStrings.cc:213
+msgid ""
+"<p><b>Filters</b> allow you to filter all available packages according to\n"
+"the selected criteria. Package filters are based on package properties (repository, RPM group), package \"containers\" (patterns, languages) or search results. Select the desired filter from the drop-down menu. Specific filters are described below.</p>"
+msgstr "<p><b>过滤器</>允许您根据选定的条件过滤所有可用的软件包。软件包过滤器基于软件包属性(安装源、RPM 组)，软件包「容器」(集合、语言)，或者搜索结果。从下拉列表中选择想要的过滤器。特殊过滤器描述如下。</p>"
+
+#. help text package status
+#: src/NCPkgStrings.cc:220
+msgid ""
+"<p><b>Patterns</b> describe the features and functions a system should have\n"
+"(for example, X server or Console tools). Each pattern contains a set of\n"
+"packages it requires (must have), recommends (should have) and suggests (may\n"
+"have). If you select a pattern for installation, update, or deletion, the solver will run and change the status of subordinate packages accordingly.</p>"
+msgstr "<p><b>集合</b>描述了一个系统应该拥有的特性和功能(例如，X 服务器或控制台工具)。每个集合包含一系列需要的软件包(必须有)，推荐的软件包(应该有)，和建议的软件包(可以有)。如果您选择安装、升级或删除集合，解析器会运行和修改相应从属软件包的状态。</p>"
+
+#. help text package status
+#: src/NCPkgStrings.cc:227
+msgid ""
+"<p><b>Languages</b> are package containers very much like patterns. They\n"
+"contain packages with translations, dictionaries and other language-specific\n"
+"files for a selected language. <b>RPM Groups</b> are not package containers\n"
+"that can be installed. Instead, membership in a certain RPM group is a\n"
+"property of the package itself. They have a hierarchical (tree) structure. The\n"
+"<b>Repositories</b> filter displays packages available from a specific repository. </p>"
+msgstr ""
+"<p><b>语言</b>是非常像集合的软件包容器。它们包含了选定语言的翻译、字典和其他语言相关文件的软件包。\n"
+"<b>RPM 组</b> 不是可以安装的软件包容器。相反，某个 RPM 组的成员资格是软件包自身的属性。组有树形结构。\n"
+"<b>安装源</b>过滤器显示了特定安装源的软件包。</p>"
+
+#. help text package search
+#: src/NCPkgStrings.cc:234
+msgid ""
+"<p>To use the <b>Search</b> filter, enter a keyword (or part of keyword) for\n"
+"the package search. For example, search for all 3D packages using the\n"
+"expression \"3d\". You can also search in package descriptions, RPM provides or\n"
+"requires. Select the appropriate check box and click the 'Search' button.</p>"
+msgstr "<p>要使用<b>搜索</b>过滤器，请输入进行软件包搜索的关键字或关键字的一部分，例如输入\"3d\"来搜索所有 3D 软件包。如果要在包描述、RPM 提供、或需要中查找，请选择适当的复选框。按下“搜索”按钮后开始搜索。</p>"
+
+#. help text package status
+#: src/NCPkgStrings.cc:241
+msgid ""
+"The <b>Installation summary</b> presents an overview of packages whose\n"
+"status has changed during this session (e.g. marked for installation or\n"
+"removal), either by the user or automatically by the solver.</p>"
+msgstr "<b>安装摘要</b> 显示在此会话中状态发生改变的软件包概览。比如，标记了要安装或者删除，这些标记有可能是用户指定的，也可能是程序自动添加的。</p>"
+
+#. label for an error popup
+#: src/NCPkgStrings.cc:248
+msgid "Useful Functions in Menu"
+msgstr "有用的菜单功能"
+
+#: src/NCPkgStrings.cc:254
+msgid ""
+"<p><b>Dependencies:</b> This menu offers various actions related to the\n"
+"handling of package dependencies. By default, package dependencies are checked with every status change (<i>Automatic Dependency Check</i> is on). You will be informed about package conflicts in a dialog proposing possible conflict resolutions. To resolve the conflict, select one of the offered solutions and press 'OK -- Try Again'.</p>"
+msgstr "<p><b>依赖关系：</b> 这个菜单提供了关于软件包依赖关系处理的多种操作。默认情况下，每次状态更改都要进行软件包依赖性检查。(开启<i>自动检查依赖关系</i>时) 您将在对话框中收到软件包冲突的信息以及可能的解决办法。要解决冲突，选择一项列出的解决方法，然后单击'确定 -- 重试'。</p>"
+
+#: src/NCPkgStrings.cc:260
+msgid ""
+"<p>To disable dependency checking on every status change, toggle <i>Automatic\n"
+"Dependency Check</i> off. You can check dependencies manually by selecting\n"
+"<i>Check Dependencies Now</i>. The <i>Verify system</i> entry will check\n"
+"package dependencies and resolve conflicts non-interactively, marking missing\n"
+"packages for automatic installation if necessary. For debugging purposes, use\n"
+"<i>Generate Dependency Solver Testcase</i>. It will dump package dependencies\n"
+"data into the directory <tt>/var/log/YaST2/solverTestcase</tt>. This is\n"
+"usually what you need when asked for a \"solver testcase\" in Bugzilla.</p>"
+msgstr ""
+"<p>要禁用每次状态变更时的依赖关系检查，切换 <i>自动依赖关系检查</i> 为关。\n"
+"您可以手动选择 <i>立即检查依赖关系</i> 来检查依赖关系。\n"
+"<i>校验系统</i> 条目将校验软件包依赖性和不交互地解决冲突，有必要时标记并自动安装缺失的软件包。\n"
+"调试请用 <i>生成依赖关系解析器试例</i>。这将转储软件包依赖关系数据到目录 <tt>/var/log/YaST2/solverTestcase</tt>。\n"
+"当您在 Bugzilla 上被要求提供“解析器试例”时，这就是您需要的。</p>"
+
+#: src/NCPkgStrings.cc:266
+msgid "<p>Available options for dependency checking are: <i>System Verification Mode</i> (monitor and repair dependencies of already installed packages and solve immediately), <i>Cleanup when deleting packages</i> (remove dependent unused packages) and <i>Allow vendor change</i> (package vendor may differ from vendor of installed package). Please note: after checking the system with <i>Verify System Now</i> the option <i>System Verification Mode</i> is on (if desired uncheck the option).</p>"
+msgstr "<p>依赖关系检查的可用选项有：<i>系统校验模式</i> (监视和立即修复已安装的软件包的依赖关系)，<i>删除软件包时清理</i> (删除依赖的未使用软件包) 和 <i>允许厂商变更</i> (软件包厂商可以与已安装的软件包的厂商不同)。请注意：在使用 <i>立即校验系统</i> 检查完系统以后，<i>系统校验模式</i> 选项会开启(如果不想要请手动取消该选项)。</p>"
+
+#: src/NCPkgStrings.cc:271
+msgid "<p><b>View:</b> Choose which information about the selected package will be displayed in the window below the package table. Available options are: package description, technical data (version, size, license etc.) package versions (all available), file list (all files included in the package) and dependencies (provides, requires etc.).</p>"
+msgstr "<p><b>查看：</b>选择软件包列表下面的窗口将显示选定的软件包的哪些信息。可用的选项有：版本(全部可用版本)、文件列表(该软件包包含的全部文件)和依赖关系(提供、需要等等)。</p>"
+
+#: src/NCPkgStrings.cc:277
+msgid "<p><b>Configuration:</b> this menu integrates package selector with the rest of package management utils. From here, you can <b>Launch Repository Manager</b> and edit configured repositories or register to update repository and configure periodic download of available updates (<b>Launch Online Update Configuration</b>). Also, you can pick one of the three possible behaviours of package selector at exit - in <b>Action after Package Installation</b> menu.</p>"
+msgstr "<p><b>配置：</b>该菜单整合了软件包选择器与其他软件包管理工具。从这里，您可以 <b>起动安装源管理器</b> 并编辑已配置的安装源或者注册到更新源和配置定时下载可用更新 (<b>起动在线更新配置</b>)。您也可以在 <b>软件包安装后操作</b> 菜单从三个可用软件包选择器退出行为中挑选一个。</p>"
+
+#: src/NCPkgStrings.cc:282
+msgid "<p><b>Extras:</b> miscellaneous functions reside here. <i>Export Package List to File</i> will dump data on installed packages, patterns and languages into specified XML file. This file can be later read by <i>Import Package List from File</i> option e.g. on different computer. It will bring the set of packages on the target computer into the same state as described in provided XML file. <i>Show Available Disk Space</i> will show a popup table displaying disk usage and free disk space on currently mounted partition.</p>"
+msgstr "<p><b>额外：</b>杂项功能。<i>导出软件包列表到文件</b>将转储已安装软件包、集合和语言的数据到一个指定的 XML 文件。该文件稍后可被例如其他计算机上的 <i>从文件导入软件包列表</b> 选项读取。它将使得目标计算机的软件包集与提供的 XML 文件中描述的状态相同。<i>显示可用磁盘空间</i> 将显示一个弹出表格，表格显示当前挂载的分区的磁盘使用率和空余磁盘空间。</p>"
+
+#. label of a frame with search settings
+#: src/NCPkgStrings.cc:290
+msgid "&Search in "
+msgstr "搜索位置 (&S)"
+
+#. begin: text/labels for search popups (use unique hotkeys until the end:)
+#. text for the package search popup
+#: src/NCPkgStrings.cc:298
+msgid "Search &Phrase"
+msgstr "搜索短语(&P)"
+
+#: src/NCPkgStrings.cc:318
+msgid "Code"
+msgstr "代码"
+
+#: src/NCPkgStrings.cc:324
+msgid "Language"
+msgstr "语言"
+
+#: src/NCPkgStrings.cc:330
+msgid "URL"
+msgstr "URL"
+
+#. column header package name (keep it short!)
+#: src/NCPkgStrings.cc:338
+msgid "Name"
+msgstr "名称"
+
+#. column header installed package version (keep it short!)
+#: src/NCPkgStrings.cc:345
+msgid "Version"
+msgstr "版本"
+
+#. column header - repository of the package (e.g. openSUSE 10.3)
+#: src/NCPkgStrings.cc:352
+msgid "Repository"
+msgstr "安装源"
+
+#. column header available package version (keep it short - use abbreviation!)
+#: src/NCPkgStrings.cc:359
+msgid "Avail. Vers."
+msgstr "可用版本"
+
+#. column header installed package version (keep it short - use abbreviation!)
+#: src/NCPkgStrings.cc:366
+msgid "Inst. Vers."
+msgstr "已安装的版本"
+
+#. column header package description (keep it short!)
+#: src/NCPkgStrings.cc:373 src/NCPkgPatchSearch.cc:124
+#: src/NCPkgSearchSettings.cc:64
+msgid "Summary"
+msgstr "摘要"
+
+#. column header package size (keep it short!)
+#: src/NCPkgStrings.cc:381
+msgid "Size"
+msgstr "大小"
+
+#. column header package architecture  (keep it short!)
+#: src/NCPkgStrings.cc:388
+msgid "Architecture"
+msgstr "架构"
+
+#. column header patch kind (keep it short!)
+#: src/NCPkgStrings.cc:395
+msgid "Kind"
+msgstr "类型"
+
+#. a text for a small popup which is shown during package dependency checking
+#: src/NCPkgStrings.cc:402
+msgid "Solving..."
+msgstr "正在解决..."
+
+#. a text for a small popup which is shown during writing package selection to a file
+#: src/NCPkgStrings.cc:408
+msgid "Saving..."
+msgstr "正在保存..."
+
+#. a text for a samll popup which is shown during loading package selections from a file
+#: src/NCPkgStrings.cc:414
+msgid "Loading..."
+msgstr "正在装载..."
+
+#. the headline of the disk space popup
+#: src/NCPkgStrings.cc:421
+msgid "Disk Usage Overview"
+msgstr "磁盘使用率概览"
+
+#. column header name of the partition (keep it short!)
+#: src/NCPkgStrings.cc:428
+msgid "Partition"
+msgstr "分区"
+
+#. column header used disk space (keep it short!)
+#: src/NCPkgStrings.cc:435
+msgid "Used"
+msgstr "已用空间"
+
+#. column header free disk space (keep it short!)
+#: src/NCPkgStrings.cc:442
+msgid "Free"
+msgstr "可用空间"
+
+#. column header total disk space (keep it short!)
+#: src/NCPkgStrings.cc:449
+msgid "Total"
+msgstr "总空间"
+
+#.
+#: src/NCPkgStrings.cc:456
+msgid "<i>Out of disk space!</i>"
+msgstr "<i>磁盘空间不足！</i>"
+
+#.
+#: src/NCPkgStrings.cc:463
+msgid "<b>Disk space is running out!</b>"
+msgstr "<b>磁盘空间不足！</b>"
+
+#. part of a text
+#: src/NCPkgStrings.cc:470
+msgid "needs"
+msgstr "需要"
+
+#. part of a text
+#: src/NCPkgStrings.cc:477
+msgid "more disk space."
+msgstr "更多磁盘空间。"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:484
+msgid "<b>Version: </b>"
+msgstr "<b>版本：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:491
+msgid "<b>Size: </b>"
+msgstr "<b>大小：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:498
+msgid "<b>Installed: </b>"
+msgstr "<b>已安装：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:505
+msgid "<b>Authors: </b>"
+msgstr "<b>作者：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:512
+msgid "<b>License: </b>"
+msgstr "<b>许可证：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:519
+msgid "<b>Media No.: </b>"
+msgstr "<b>介质编号：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:526
+msgid "<b>Package Group: </b>"
+msgstr "<b>软件包组：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:533
+msgid "<b>Provides: </b>"
+msgstr "<b>提供：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:540
+msgid "<b>Requires: </b>"
+msgstr "<b>需要：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:547
+msgid "<b>Prerequires: </b>"
+msgstr "<b>前提条件：</b>"
+
+#. part of the package description
+#: src/NCPkgStrings.cc:555
+msgid "<b>Conflicts with: </b>"
+msgstr "<b>冲突对象：</b>"
+
+#. headline for a list of installed files
+#: src/NCPkgStrings.cc:562
+msgid "<i>List of Installed Files:</i><br>"
+msgstr "<i>已安装文件的列表：</i><br>"
+
+#: src/NCPkgStrings.cc:568
+msgid "Translations, dictionaries and other language-related files for "
+msgstr "翻译、字典和其他语言相关的文件，用于："
+
+#. the headline of the help popup
+#: src/NCPkgStrings.cc:596
+msgid "Patch Status and Patch Installation"
+msgstr "补丁状态和安装"
+
+#. help text online udpate
+#. Do NOT translate 'recommended' and 'security'! because the patch kind is always shown as english text.
+#: src/NCPkgStrings.cc:604
+msgid "<p>Kind \"recommended\" means you should install the patch. \"security\" is a security patch and we highly recommend to install it.</p>"
+msgstr "<p>\"推荐\"类型意味着您应该安装补丁。\"安全\"是安全性补丁，强烈建议安装它。</p>"
+
+#. help text online udpate continue
+#: src/NCPkgStrings.cc:611
+msgid ""
+"<p>Patches for \"libzypp\" (Package, Patch, Pattern and Product Management) will\n"
+"always get installed first. Other patches must be installed on a second run.</p>"
+msgstr "<p>\"libzypp\" 的补丁（软件包、补丁、集合和产品管理）将会被首先安装。其它补丁必须在之后一轮安装。</p>"
+
+#. help text online udpate continue
+#: src/NCPkgStrings.cc:618
+msgid "<p>Meaning of the status flags:</p><p><b>a+ </b>: Patches concerning your installation are preselected. They will be downloaded and installed on your system. If you do not want a certain patch, deselect it with '-'.</p><p><b> i </b>: All requirements of this patch are satisfied.</p><p><b>+ </b>: You have selected this patch for installation.</p>"
+msgstr "<p>状态标志的含义：</p><p><b>a+</b>：预先选择与安装相关的补丁。将下载并在系统上安装这些补丁。如果不需要某个补丁，请使用'-'取消选择。</p><p><b>i</b>：所有补丁的依赖性需要都已满足。</p><p><b>+</b>：您选择安装此补丁。</p>"
+
+#. label for a warning popup
+#: src/NCPkgStrings.cc:628
+msgid "Warning"
+msgstr "警告"
+
+#. label for an error popup
+#: src/NCPkgStrings.cc:635
+msgid "Error"
+msgstr "错误"
+
+#. label for a notify popup
+#: src/NCPkgStrings.cc:642
+msgid "Notify"
+msgstr "通知"
+
+#. the label of an OK button
+#: src/NCPkgStrings.cc:650
+msgid "&OK"
+msgstr "确定(&O)"
+
+#. the label of the Yes button
+#: src/NCPkgStrings.cc:664
+msgid "&Yes"
+msgstr "是(&Y)"
+
+#. the label of the No button
+#: src/NCPkgStrings.cc:678
+msgid "&No"
+msgstr "否(&N)"
+
+#. the label of the Solve button - 'try again' implies that user
+#. has to make some action (#213602)
+#: src/NCPkgStrings.cc:686
+msgid "&OK -- Try Again"
+msgstr "确定(&O) -- 重试"
+
+#. text for a Notify popup
+#: src/NCPkgStrings.cc:694
+msgid "<p>All changes in the package, patch or pattern selection will be lost.<br>Really exit?</p>"
+msgstr "<p>所有对包、补丁和集合的选择改变都将丢失。<br>是否真的退出？</p>"
+
+#. the label of language table
+#: src/NCPkgStrings.cc:702
+msgid "Available Languages"
+msgstr "可用语言"
+
+#. the label of language table
+#: src/NCPkgStrings.cc:709
+msgid "Available Repositories"
+msgstr "可用的安装源"
+
+#. A label for a list of YOU Patches - keep it short - max 25 chars!
+#. (the list shows all patches which are needed)
+#. static const string value = _( "Installable Patches" );
+#. static const string value = _( "Relevant Patches" );
+#: src/NCPkgStrings.cc:719
+msgid "Needed Patches"
+msgstr "需要的补丁"
+
+#. A label for a list of YOU Patches - keep it short - max. 25 chars!
+#. (the list shows all patches which are already installed)
+#. static const string value = _( "Installed Patches" );
+#: src/NCPkgStrings.cc:728
+msgid "Unneeded Patches"
+msgstr "不需要的补丁"
+
+#. A common label for a list of YOU Patches - keep it short - max. 25 chars!
+#: src/NCPkgStrings.cc:736
+msgid "Online Update Patches"
+msgstr "联机更新补丁"
+
+#. the label Filter: Update Problem ( keep it short - max. 25 chars )
+#: src/NCPkgStrings.cc:743
+msgid "Update Problem -- see help"
+msgstr "更新问题 -- 请参见帮助"
+
+#. the label for Filter: Search results
+#: src/NCPkgStrings.cc:750
+msgid "Search Results"
+msgstr "搜索结果"
+
+#. the headline of the dependency popup
+#: src/NCPkgStrings.cc:757
+msgid "Package Dependencies"
+msgstr "软件包依赖性"
+
+#. help text package status
+#: src/NCPkgStrings.cc:764
+msgid "<b>Update Problem List</b><br><p>The packages in the list cannot be updated automatically.</p><p>Possible reasons:</p><p>They are obsoleted by other packages.</p><p>There is no newer version to which to update on any installation media.</p><p>They are third-party packages</p><p>Manually select what to do with them. The safest course of action is to delete them.</p>"
+msgstr "<b>更新问题列表</b><br><p>无法自动更新列表中的包。</p><p>可能的原因：</p><p>其他包废弃了它们。</p><p>在任何安装介质上都没有可供更新的较新版本。</p><p>它们是第三方包。</p><p>请手工选择要对这些包执行的操作。最安全的操作是将它们删除。</p>"
+
+#. column header source RPM installation (keep it short!)
+#: src/NCPkgStrings.cc:771
+msgid "Source"
+msgstr "源"
+
+#. menu entry Update List
+#: src/NCPkgStrings.cc:779
+msgid "&Update List"
+msgstr "更新列表(&U)"
+
+#. part of the patch description
+#: src/NCPkgStrings.cc:786
+msgid "<b>Patch: </b>"
+msgstr "<b>补丁：</b>"
+
+#. info line is shown if YOU patch list is empty
+#: src/NCPkgStrings.cc:793
+msgid "No patches available"
+msgstr "没有可用的补丁"
+
+#: src/NCPkgStrings.cc:799
+msgid "Script"
+msgstr "脚本"
+
+#: src/NCPkgFilterInstSummary.cc:63
+msgid "Delete"
+msgstr "删除"
+
+#: src/NCPkgFilterInstSummary.cc:65
+msgid "Install"
+msgstr "安装"
+
+#: src/NCPkgFilterInstSummary.cc:67
+msgid "Update"
+msgstr "更新"
+
+#: src/NCPkgFilterInstSummary.cc:69
+msgid "Taboo"
+msgstr "禁用"
+
+#: src/NCPkgFilterInstSummary.cc:71
+msgid "Protected"
+msgstr "保护"
+
+#: src/NCPkgFilterInstSummary.cc:73
+msgid "Keep"
+msgstr "保留"
+
+#: src/NCPkgFilterInstSummary.cc:75
+msgid "Do not install"
+msgstr "不安装"
+
+#: src/NCPkgMenuConfig.cc:79
+msgid "Launch &Repository Manager"
+msgstr "启动安装源管理器(&R)"
+
+#: src/NCPkgMenuConfig.cc:80
+msgid "Launch &Online Update Configuration"
+msgstr "启动在线更新配置(&O)"
+
+#: src/NCPkgMenuConfig.cc:81
+msgid "&Action after Package Installation"
+msgstr "软件包安装后操作(&A)"
+
+#: src/NCPkgMenuConfig.cc:82
+msgid "Search Packages on &Web"
+msgstr "在网络中搜索软件包(&W)"
+
+#: src/NCPkgMenuConfig.cc:91
+msgid "&Restart Package Manager"
+msgstr "重启软件包管理器(&R)"
+
+#: src/NCPkgMenuConfig.cc:92
+msgid "&Close Package Manager"
+msgstr "关闭软件包管理器(&C)"
+
+#: src/NCPkgMenuConfig.cc:93
+msgid "&Show Summary"
+msgstr "显示摘要(&S)"
+
+#. menu items of the filter menu for patches - keep them short
+#. and use unique hotkeys from begin: to end:
+#. begin:
+#: src/NCPkgMenuFilter.cc:70
+msgid "&Needed Patches"
+msgstr "需要的补丁(&N)"
+
+#. _( "Re&levant Patches" )
+#. _( "&Satisfied Patches" ) );
+#: src/NCPkgMenuFilter.cc:73
+msgid "&Unneeded Patches"
+msgstr "不需要的补丁(&U)"
+
+#: src/NCPkgMenuFilter.cc:74
+msgid "&All Patches"
+msgstr "所有补丁(&A)"
+
+#: src/NCPkgMenuFilter.cc:75
+msgid "&Recommended"
+msgstr "建议(&R)"
+
+#: src/NCPkgMenuFilter.cc:76
+msgid "&Security"
+msgstr "安全(&S)"
+
+#: src/NCPkgMenuFilter.cc:77
+msgid "&Optional"
+msgstr "可选(&O)"
+
+#. end:
+#: src/NCPkgMenuFilter.cc:79
+msgid "S&earch"
+msgstr "搜索(&E)"
+
+#: src/NCPkgPatchSearch.cc:73
+msgid "Search for Patches"
+msgstr "搜索补丁"
+
+#: src/NCPkgPatchSearch.cc:122
+msgid "Name of the Patch"
+msgstr "补丁名称"
+
+#: src/NCPkgSearchSettings.cc:62
+msgid "Name of the Package"
+msgstr "软件包名称"
+
+#: src/NCPkgSearchSettings.cc:66
+msgid "Keywords"
+msgstr "关键字"
+
+#: src/NCPkgSearchSettings.cc:68
+msgid "Description (time-consuming)"
+msgstr "描述(费时)"
+
+#: src/NCPkgSearchSettings.cc:70
+msgid "Provides"
+msgstr "提供"
+
+#: src/NCPkgSearchSettings.cc:72
+msgid "Requires"
+msgstr "需要"
+
+#~ msgid "&Technical data"
+#~ msgstr "技术数据(&T)"
+
+#~ msgid "The meaning of the status flags:"
+#~ msgstr "状态标志的含义："
+
+#~ msgid "&Automatic Dependency Check [ ]"
+#~ msgstr "自动检查依赖性(&A) [ ]"
+
+#, fuzzy
+#~ msgid "S&tart Repository Manager"
+#~ msgstr "启动安装源管理器"
+
+#~ msgid "Online Update Help"
+#~ msgstr "联机更新帮助"
+
+#~ msgid "T&aboo       [!]"
+#~ msgstr "禁止(&A)     [!]"
+
+#~ msgid "Export Package List to File"
+#~ msgstr "导出软件包列表到文件"
+
+#~ msgid "Import Package List from File"
+#~ msgstr "从文件导入软件包列表"
+
+#~ msgid "&Automatic Dependency Check  [x]"
+#~ msgstr "自动检查依赖性(&A)  [x]"
+
+#~ msgid "&Automatic Dependency Check  [ ]"
+#~ msgstr "自动检查依赖性(&A)  [ ]"
+
+#~ msgid "Check Dependencies Now"
+#~ msgstr "立即检查依赖性"
+
+#~ msgid "Verify System"
+#~ msgstr "校验系统"
+
+#~ msgid "Generate Dependency Resolver &Test Case"
+#~ msgstr "生成依赖性解析程序测试用例(&T)"
+
+#~ msgid "Package Description"
+#~ msgstr "软件包描述"
+
+#~ msgid "Technical Data"
+#~ msgstr "技术数据"
+
+#~ msgid "Package Versions"
+#~ msgstr "软件包版本"
+
+#~ msgid "File List"
+#~ msgstr "文件列表"
+
+#~ msgid "Dependencies"
+#~ msgstr "依赖关系"
+
+#~ msgid "&Install      [+]"
+#~ msgstr "安装(&I)      [+]"
+
+#~ msgid "All &Packages List"
+#~ msgstr "所有包的列表(&P)"
+
+#~ msgid "Install All"
+#~ msgstr "全部安装"
+
+#~ msgid "Delete All"
+#~ msgstr "全部删除"
+
+#~ msgid "Keep All"
+#~ msgstr "全部保持"
+
+#~ msgid "Update All Unconditionally"
+#~ msgstr "无条件全部更新"
+
+#~ msgid "Update If Newer Version Available"
+#~ msgstr "如有新版本就更新"
+
+#~ msgid "&Search"
+#~ msgstr "搜索(&S)"
+
+#~ msgid " S&earch in "
+#~ msgstr " 搜索位置(&E) "
+
+#~ msgid "Technical data"
+#~ msgstr "技术数据"

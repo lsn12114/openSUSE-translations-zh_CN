@@ -1,0 +1,1464 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ntp Client\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:47+0200\n"
+"PO-Revision-Date: 2012-07-23 05:35+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. NtpClient read dialog caption
+#: src/NtpClient.ycp:474
+msgid "Initializing NTP Client Configuration"
+msgstr "正在初始化 NTP 客户机配置"
+
+#. progress stage
+#: src/NtpClient.ycp:486
+msgid "Read network configuration"
+msgstr "读取网络配置"
+
+#. progress stage
+#: src/NtpClient.ycp:488
+msgid "Read NTP settings"
+msgstr "读取 NTP 设置"
+
+#. progress step
+#: src/NtpClient.ycp:491
+msgid "Reading network configuration..."
+msgstr "正在读取网络配置..."
+
+#. progress step
+#: src/NtpClient.ycp:493
+msgid "Reading NTP settings..."
+msgstr "正在读取 NTP 设置..."
+
+#. progress step
+#: src/NtpClient.ycp:495 src/NtpClient.ycp:578 src/NtpClient.ycp:727
+#: src/NtpClient.ycp:854
+msgid "Finished"
+msgstr "已完成"
+
+#. boolean update_dhcp = original_config_dhcp != config_dhcp;
+#. NtpClient read dialog caption
+#: src/NtpClient.ycp:704
+msgid "Saving NTP Client Configuration"
+msgstr "正在保存 NTP 客户机配置"
+
+#. progress stage
+#: src/NtpClient.ycp:718
+msgid "Write NTP settings"
+msgstr "写入 NTP 设置"
+
+#. progress stage
+#: src/NtpClient.ycp:720
+msgid "Restart NTP daemon"
+msgstr "重启 NTP 守护精灵"
+
+#. progress step
+#: src/NtpClient.ycp:723
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. progress step
+#: src/NtpClient.ycp:725
+msgid "Restarting NTP daemon..."
+msgstr "正在重启 NTP 守护精灵..."
+
+#. error message
+#: src/NtpClient.ycp:803
+msgid "Cannot update the dynamic configuration policy."
+msgstr "无法更新动态配置策略。"
+
+#. error report
+#: src/NtpClient.ycp:833
+msgid "Cannot restart the NTP daemon."
+msgstr "无法重启 NTP 守护精灵。"
+
+#. summary string
+#: src/NtpClient.ycp:917
+msgid "The NTP daemon starts when starting the system."
+msgstr "启动导系统时 NTP 守护精灵将启动。"
+
+#. summary string
+#: src/NtpClient.ycp:920
+msgid "The NTP daemon does not start automatically."
+msgstr "NTP 守护精灵不自动启动。"
+
+#. summary string, %1 is list of addresses
+#: src/NtpClient.ycp:924
+#, ycp-format
+msgid "Servers: %1"
+msgstr "服务器：%1"
+
+#. summary string, %1 is list of addresses
+#: src/NtpClient.ycp:926
+#, ycp-format
+msgid "Radio Clocks: %1"
+msgstr "无线电时钟：%1"
+
+#. summary string, %1 is list of addresses
+#: src/NtpClient.ycp:928
+#, ycp-format
+msgid "Peers: %1"
+msgstr "对等点：%1"
+
+#. summary string, %1 is list of addresses
+#: src/NtpClient.ycp:930
+#, ycp-format
+msgid "Broadcast time information to: %1"
+msgstr "广播时间信息到：%1"
+
+#. summary string, %1 is list of addresses
+#: src/NtpClient.ycp:932
+#, ycp-format
+msgid "Accept broadcasted time information from: %1"
+msgstr "接受广播的时间信息自：%1"
+
+#. summary string, FIXME
+#: src/NtpClient.ycp:946
+msgid "Combine static and DHCP configuration."
+msgstr "混合静态和 DHCP 配置。"
+
+#. summary string, FIXME
+#: src/NtpClient.ycp:949
+msgid "Static configuration only."
+msgstr "只静态配置。"
+
+#. summary string, FIXME
+#: src/NtpClient.ycp:953
+msgid "Custom configuration policy."
+msgstr "自定义配置策略。"
+
+#. An informative popup label diring the NTP server testings
+#: src/NtpClient.ycp:982
+msgid "Testing the NTP server..."
+msgstr "正在测试 NTP 服务器..."
+
+#. message report - result of test of connection to NTP server
+#: src/NtpClient.ycp:1004
+msgid "Server is reachable and responds properly."
+msgstr "服务器能被访问，并能正确响应。"
+
+#. error message  - result of test of connection to NTP server
+#. report error instead of simple message (#306018)
+#: src/NtpClient.ycp:1010
+msgid "Server is unreachable or does not respond properly."
+msgstr "服务器不可访问，或未正确响应。"
+
+#: src/NtpClient.ycp:1031
+#, ycp-format
+msgid ""
+"Cannot search for NTP server in local network\n"
+"without package %1 installed.\n"
+msgstr ""
+"没有安装软件包 %1\n"
+"无法在本地网络中搜索 NTP 服务器。\n"
+
+#. local clock type name
+#: src/clocktypes.ycp:17
+msgid "Undisciplined Local Clock (LOCAL)"
+msgstr "未校准的本地时钟 (LOCAL)"
+
+#. local clock type name
+#: src/clocktypes.ycp:22
+msgid "Trak 8820 GPS Receiver"
+msgstr "Trak 8820 GPS 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:28
+msgid "PSTI/Traconex 1020 WWV/WWVH Receiver"
+msgstr "PSTI/Traconex 1020 WWV/WWVH 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:34
+msgid "Spectracom WWVB and GPS Receivers"
+msgstr "Spectracom WWVB 和 GPS 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:40
+msgid "TrueTime GPS/GOES/OMEGA Receivers"
+msgstr "TrueTime GPS/GOES/OMEGA 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:46
+msgid "IRIG Audio Decoder"
+msgstr "IRIG 音频解码器"
+
+#. local clock type name
+#: src/clocktypes.ycp:51
+msgid "Radio CHU Audio Demodulator/Decoder"
+msgstr "无线电 CHU 音频解调器/解码器"
+
+#. local clock type name
+#: src/clocktypes.ycp:57
+msgid "Generic Reference Driver"
+msgstr "通用参考驱动程序"
+
+#. local clock type name
+#: src/clocktypes.ycp:63
+msgid "Magnavox MX4200 GPS Receiver"
+msgstr "Magnavox MX4200 GPS 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:69
+msgid "Austron 2200A/2201A GPS Receivers"
+msgstr "Austron 2200A/2201A GPS 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:75
+msgid "Arbiter 1088A/B GPS Receiver"
+msgstr "Arbiter 1088A/B GPS 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:81
+msgid "KSI/Odetics TPRO/S IRIG Interface"
+msgstr "KSI/Odetics TPRO/S IRIG 接口"
+
+#. local clock type name
+#: src/clocktypes.ycp:87
+msgid "Leitch CSD 5300 Master Clock Controller"
+msgstr "Leitch CSD 5300 主时钟控制器"
+
+#. local clock type name
+#: src/clocktypes.ycp:93
+msgid "EES M201 MSF Receiver"
+msgstr "EES M201 MSF 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:99 src/clocktypes.ycp:159
+msgid "TrueTime generic receivers"
+msgstr "TrueTime 通用接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:105
+msgid "Bancomm GPS/IRIG Receiver"
+msgstr "Bancomm GPS/IRIG 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:111
+msgid "Datum Precision Time System"
+msgstr "Datum 精确时间系统"
+
+#. local clock type name
+#: src/clocktypes.ycp:117
+msgid "NIST Modem Time Service"
+msgstr "NIST 调制解调器时间服务"
+
+#. local clock type name
+#: src/clocktypes.ycp:123
+msgid "Heath WWV/WWVH Receiver"
+msgstr "Heath WWV/WWVH 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:129
+msgid "Generic NMEA GPS Receiver"
+msgstr "通用 NMEA GPS 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:135
+msgid "TrueTime GPS-VME Interface"
+msgstr "TrueTime GPS-VME 接口"
+
+#. local clock type name
+#: src/clocktypes.ycp:141
+msgid "PPS Clock Discipline"
+msgstr "PPS 时钟校准"
+
+#. local clock type name
+#: src/clocktypes.ycp:147
+msgid "PTB Modem Time Service"
+msgstr "PTB 调制解调器时间服务"
+
+#. local clock type name
+#: src/clocktypes.ycp:153
+msgid "USNO Modem Time Service"
+msgstr "USNO 调制解调器时间服务"
+
+#. local clock type name
+#: src/clocktypes.ycp:165
+msgid "Hewlett Packard 58503A GPS Receiver"
+msgstr "Hewlett Packard 58503A GPS 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:171
+msgid "Arcron MSF Receiver"
+msgstr "Arcron MSF 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:177
+msgid "Shared Memory Driver"
+msgstr "共享内存驱动程序"
+
+#. local clock type name
+#: src/clocktypes.ycp:183
+msgid "Trimble Navigation Palisade GPS"
+msgstr "Trimble Navigation Palisade GPS"
+
+#. local clock type name
+#: src/clocktypes.ycp:189
+msgid "Motorola UT Oncore GPS"
+msgstr "Motorola UT Oncore GPS"
+
+#. local clock type name
+#: src/clocktypes.ycp:195
+msgid "Rockwell Jupiter GPS"
+msgstr "Rockwell Jupiter GPS"
+
+#. local clock type name
+#: src/clocktypes.ycp:201
+msgid "Chrono-log K-series WWVB receiver"
+msgstr "Chrono-log K-series WWVB 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:207
+msgid "Dumb Clock"
+msgstr "伪时钟"
+
+#. local clock type name
+#: src/clocktypes.ycp:213
+msgid "Ultralink WWVB Receivers"
+msgstr "Ultralink WWVB 接收器"
+
+#. local clock type name
+#: src/clocktypes.ycp:219
+msgid "Conrad Parallel Port Radio Clock"
+msgstr "Conrad 并行端口无线电时钟"
+
+#. local clock type name
+#: src/clocktypes.ycp:225
+msgid "Radio WWV/H Audio Demodulator/Decoder"
+msgstr "无线电 WWV/H 音频解调器/解码器"
+
+#. local clock type name
+#: src/clocktypes.ycp:231
+msgid "Forum Graphic GPS Dating station"
+msgstr "Forum 图形 GPS 日期工作站"
+
+#. local clock type name
+#: src/clocktypes.ycp:237
+msgid "hopf GPS/DCF77 6021/komp for Serial Line"
+msgstr "用于串行线路的 hopf GPS/DCF77 6021/komp"
+
+#. local clock type name
+#: src/clocktypes.ycp:243
+msgid "hopf GPS/DCF77 6039 for PCI-Bus"
+msgstr "用于 PCI 总线的 hopf GPS/DCF77 6039"
+
+#. local clock type name
+#: src/clocktypes.ycp:249
+msgid "JJY Receivers"
+msgstr "JJY 接收器"
+
+#. error report for command line
+#: src/commandline.ycp:47
+msgid "The synchronization peer not specified."
+msgstr "未指定同步对等点。"
+
+#. error report for command line
+#: src/commandline.ycp:55
+msgid "Specified synchronization peer not found."
+msgstr "未找到指定的同步对等点。"
+
+#. status information for command line
+#: src/commandline.ycp:94
+msgid "NTP daemon is enabled."
+msgstr "已启用 NTP 守护精灵。"
+
+#. status information for command line
+#: src/commandline.ycp:96
+msgid "NTP daemon is disabled."
+msgstr "已禁用 NTP 守护精灵。"
+
+#. table cell, NTP relationship type
+#: src/commandline.ycp:111 src/widgets.ycp:511
+msgid "Server"
+msgstr "服务器"
+
+#. table cell, NTP relationship type
+#: src/commandline.ycp:113 src/widgets.ycp:513
+msgid "Peer"
+msgstr "对等点"
+
+#. table cell, NTP relationship type
+#: src/commandline.ycp:115
+msgid "Broadcast"
+msgstr "广播"
+
+#. table cell, NTP relationship type
+#: src/commandline.ycp:117
+msgid "Accepting Broadcasts"
+msgstr "正在接受广播"
+
+#. table cell, %1 is integer 0-3
+#: src/commandline.ycp:130 src/widgets.ycp:530
+#, ycp-format
+msgid "Unit Number: %1"
+msgstr "单元号：%1"
+
+#. table cell, NTP relationship type
+#: src/commandline.ycp:136 src/widgets.ycp:536
+msgid "Local Radio Clock"
+msgstr "本地无线电时钟"
+
+#. command line error message
+#: src/commandline.ycp:189
+msgid "Reading the settings failed."
+msgstr "读取设置失败。"
+
+#. command line help text for NTP client module
+#: src/commandline.ycp:212
+msgid "NTP client configuration module."
+msgstr "NTP 客户机配置模块。"
+
+#. command line help text for an action
+#: src/commandline.ycp:220
+msgid "Print the status of the NTP daemon"
+msgstr "输出 NTP 守护精灵的状态"
+
+#. command line help text for an action
+#: src/commandline.ycp:225
+msgid "Print all configured synchronization relationships"
+msgstr "输出所有已配置的同步关系"
+
+#. command line help text for an action
+#: src/commandline.ycp:230
+msgid "Enable the NTP daemon"
+msgstr "启用 NTP 守护精灵"
+
+#. command line help text for an action
+#: src/commandline.ycp:235
+msgid "Disable the NTP daemon"
+msgstr "禁用 NTP 守护精灵"
+
+#. command line help text for an action
+#: src/commandline.ycp:240
+msgid "Add new synchronization relationship"
+msgstr "添加新的同步关系"
+
+#. command line help text for an action
+#: src/commandline.ycp:245
+msgid "Edit existing synchronization relationship"
+msgstr "编辑现有的同步关系"
+
+#. command line help text for an action
+#: src/commandline.ycp:251
+msgid "Delete a synchronization relationship"
+msgstr "删除同步关系"
+
+#. command line help text for an option
+#: src/commandline.ycp:258
+msgid "The address of the server"
+msgstr "服务器地址"
+
+#. command line help text for an option
+#: src/commandline.ycp:263
+msgid "The address of the peer"
+msgstr "对等点地址"
+
+#. command line help text for an option
+#: src/commandline.ycp:268
+msgid "The address to which to broadcast"
+msgstr "要广播的地址"
+
+#. command line help text for an option
+#: src/commandline.ycp:273
+msgid "The address from which to accept broadcasts"
+msgstr "要接受广播的地址"
+
+#. command line help text for an option
+#: src/commandline.ycp:278
+msgid "The options of the relationship"
+msgstr "关系选项"
+
+#. command line help text for an option
+#: src/commandline.ycp:283
+msgid "Options for clock driver calibration"
+msgstr "时钟驱动程序校准选项"
+
+#. command line help text for an option
+#: src/commandline.ycp:288
+msgid "Use the server for initial synchronization"
+msgstr "将服务器用于初始同步"
+
+#. command line help text for an option
+#: src/commandline.ycp:292
+msgid "Do not use the server for initial synchronization"
+msgstr "不将服务器用于初始同步"
+
+#. frame label
+#: src/dialogs.ycp:105
+msgid "NTP Server Configuration"
+msgstr "NTP 服务器配置"
+
+#. dialog caption
+#: src/dialogs.ycp:119
+msgid "NTP Configuration"
+msgstr "NTP 配置"
+
+#. TRANSLATORS: UI frame label
+#: src/dialogs.ycp:176
+msgid "Firewall Settings"
+msgstr "防火墙设置"
+
+#: src/dialogs.ycp:186
+msgid "General Settings"
+msgstr "常规设置"
+
+#: src/dialogs.ycp:191
+msgid "Security Settings"
+msgstr "安全设置"
+
+#. dialog caption
+#: src/dialogs.ycp:211
+msgid "Advanced NTP Configuration"
+msgstr "高级 NTP 配置"
+
+#. dialog caption
+#: src/dialogs.ycp:239
+msgid "New Synchronization"
+msgstr "新同步"
+
+#: src/dialogs.ycp:259
+msgid "Server Settings"
+msgstr "服务器设置"
+
+#. dialog caption
+#: src/dialogs.ycp:272
+msgid "NTP Server"
+msgstr "NTP 服务器"
+
+#. TRANSLATORS: frame label
+#: src/dialogs.ycp:301 src/widgets.ycp:1383
+msgid "Local NTP Server"
+msgstr "本地 NTP 服务器"
+
+#. TRANSLATORS: frame label
+#: src/dialogs.ycp:347 src/widgets.ycp:1384
+msgid "Public NTP Server"
+msgstr "公共 NTP 服务器"
+
+#. dialog caption
+#: src/dialogs.ycp:391
+msgid "NTP Peer"
+msgstr "NTP 对等点"
+
+#. dialog caption
+#: src/dialogs.ycp:440
+msgid "Local Reference Clock"
+msgstr "本地参考时钟"
+
+#. dialog caption
+#. table cell, NTP relationship type
+#: src/dialogs.ycp:469 src/widgets.ycp:515
+msgid "Outgoing Broadcast"
+msgstr "发出的广播"
+
+#. dialog caption
+#. table cell, NTP relationship type
+#: src/dialogs.ycp:494 src/widgets.ycp:517
+msgid "Incoming Broadcast"
+msgstr "进来的广播"
+
+#. text entry
+#: src/dialogs.ycp:516
+msgid "&Reference ID"
+msgstr "参考ID(&R)"
+
+#. int field
+#: src/dialogs.ycp:519
+msgid "&Stratum"
+msgstr "层(&S)"
+
+#. text entry
+#: src/dialogs.ycp:524
+msgid "Calibration Offset 1"
+msgstr "校准偏移 1"
+
+#. text entry
+#: src/dialogs.ycp:527
+msgid "Calibration Offset 2"
+msgstr "校准偏移 2"
+
+#. check box
+#: src/dialogs.ycp:532
+msgid "Flag &1"
+msgstr "标志 1(&1)"
+
+#. check box
+#: src/dialogs.ycp:535
+msgid "Flag &2"
+msgstr "标志 2(&2)"
+
+#. check box
+#: src/dialogs.ycp:540
+msgid "Flag &3"
+msgstr "标志 3(&3)"
+
+#. check box
+#: src/dialogs.ycp:543
+msgid "Flag &4"
+msgstr "标志 4(&4)"
+
+#. dialog caption
+#: src/dialogs.ycp:549
+msgid "Clock Driver Calibration"
+msgstr "时钟驱动程序校准"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:20
+msgid ""
+"<p><b><big>Initializing NTP Client Configuration</big></b><br>\n"
+"Please wait...<br></p>"
+msgstr ""
+"<p><b><big>正在初始化 NTP 客户机配置</big></b><br>\n"
+"请稍候...<br></p>"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:24
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>"
+msgstr ""
+"<p><b><big>中止初始化：</big></b><br>\n"
+"可以按<b>中止</b>立即安全地中止配置工具。</p>"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:28
+msgid ""
+"<p><b><big>Saving NTP Client Configuration</big></b><br>\n"
+"Please wait...<br></p>"
+msgstr ""
+"<p><b><big>正在保存 NTP 客户机配置</big></b><br>\n"
+"请稍候...<br></p>"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:32
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing  <b>Abort</b>.\n"
+"An additional dialog will inform you whether it is safe to do so.</p>"
+msgstr ""
+"<p><b><big>中止保存：</big></b><br>\n"
+"按<b>中止</b>，中止该保存过程。\n"
+"另一个对话框将指示这样操作是否安全。</p>"
+
+#. help text 1/5
+#: src/helps.ycp:37
+msgid ""
+"<p><b><big>Start NTP Daemon</big></b><br>\n"
+"Select whether to start the NTP daemon now and on every system boot. \n"
+"The NTP daemon resolves host names when initializing. Your\n"
+"network connection must be started before the NTP daemon starts.</p>\n"
+msgstr ""
+"<p><b><big>自动启动 NTP 守护精灵</big></b><br>\n"
+"选择是否立即以及在引导系统时启动 NTP 守护精灵。\n"
+"NTP 守护精灵在初始化时解析主机名。\n"
+"启动 NTP 守护精灵前，必须启动您的网络连接。</p>\n"
+
+#. help text 2/5
+#: src/helps.ycp:44
+msgid ""
+"<p><b><big>Chroot Jail</big></b><br>\n"
+"To run the NTP daemon in chroot jail, set\n"
+"<b>Run NTP Daemon in Chroot Jail</b>. Starting any daemon in a chroot jail\n"
+"is more secure and strongly recommended.</p>"
+msgstr ""
+"<p><b><big>Chroot 囚牢</big></b><br>\n"
+"要在 chroot 囚牢中运行 NTP 守护精灵，请设置\n"
+"<b>在 Chroot 囚牢中运行 NTP 守护精灵</b>。在 chroot 囚牢中启动任何守护精灵\n"
+"会更安全，强烈建议采用此方法。</p>"
+
+#: src/helps.ycp:49
+msgid ""
+"<p><b><big>Secure NTP Configuration</big></b><br>\n"
+"By selecting <b>Restrict NTP Service to Configured Servers Only</b>, remote hosts will not be able to view and modify NTP settings on your \n"
+"computer. The NTP service is restricted to servers in the <tt>/etc/ntp.conf</tt> file and to localhost.<br> \n"
+"Access control flags can be fine-tuded in the servers overview table. This option is not available if NTP is configured via DHCP.</p>\n"
+msgstr ""
+"<p><b><big>安全 NTP 配置</big></b><br>\n"
+"选择<b>限制 NTP 服务到配置过的服务器</b>，远程主机将不能查看和改变您计算机上的 NTP 设置。\n"
+"NTP 服务被限制用于 <tt>/etc/ntp.conf</tt> 文件中规定的服务器和本地主机。<br> \n"
+"访问控制标识可以在服务器概览表中调整。在通过 DHCP 配置 NTP 时此选项不可用。</p>\n"
+
+#. help text 3/5
+#: src/helps.ycp:56
+msgid ""
+"<p><b><big>Configuring via DHCP</big></b><br>\n"
+"To retrieve the information about NTP servers via the DHCP protocol from\n"
+"your network server instead of setting them manually, set\n"
+"<b>Configure NTP Daemon via DHCP</b>. Ask your network administrator if\n"
+"the information about NTP servers is provided by the DHCP server.</p>"
+msgstr ""
+"<p><b><big>通过 DHCP 配置</big></b><br>\n"
+"要通过 DHCP 协议从网络服务器中获取有关 NTP 服务器的信息，\n"
+"而不是手动设置这些信息，请设置\n"
+"<b>通过 DHCP 配置 NTP 守护精灵</b>。由 DHCP 服务器提供的 NTP 服务器信息，请询问您的网络管理员。</p>"
+
+#. help text 4/5
+#: src/helps.ycp:63
+msgid ""
+"<p><b><big>Configured Servers</big></b><br>\n"
+"To adjust NTP servers, peers, local clocks, and NTP broadcasting,\n"
+"select the appropriate line and click <b>Edit</b>. To add a new synchronization\n"
+"peer, click <b>Add</b>. To delete an existing synchronization peer,\n"
+"select it and click <b>Delete</b>.</p>"
+msgstr ""
+"<p><b><big>已配置的服务器</big></b><br>\n"
+"要调整 NTP 服务器、对等点、本地时钟和 NTP 广播，\n"
+"请选择适当的行，然后单击<b>编辑</b>。要添加新的同步对等点，\n"
+"请单击<b>添加</b>。要删除现有的同步对等点，\n"
+"请选择该对等点，然后单击<b>删除</b>。</p>"
+
+#. help text 5/5
+#: src/helps.ycp:70
+msgid ""
+"<p><b><big>Display Log</big></b></p>\n"
+"<p>To view the logs of the NTP daemon, click <b>Display Log</b>.</p>\n"
+msgstr ""
+"<p><b><big>显示日志</big></b><br>\n"
+"要查看 NTP 守护精灵的日志，请单击<b>显示日志</b>按钮。</p>\n"
+
+#. help text to a button
+#: src/helps.ycp:75
+msgid ""
+"<p><b><big>Advanced configuration</big></b><br>\n"
+"To configure this host to synchronize against multiple remote hosts or against\n"
+"a locally connected clock, use <b>Advanced Configuration</b>."
+msgstr ""
+"<p><b><big>高级配置</big></b><br>\n"
+"要配置该主机与多个远程主机或\n"
+"本地连接的时钟同步，请使用<b>高级配置</b>。"
+
+#. help text 1/4
+#: src/helps.ycp:80
+msgid ""
+"<p><b><big>Clock Type</big></b><br>\n"
+"Select the driver for the clock to configure.</p>"
+msgstr ""
+"<p><b><big>时钟类型</big></b><br>\n"
+"选择要配置的时钟的驱动程序。</p>"
+
+#. help text 2/4
+#: src/helps.ycp:84
+msgid ""
+"<p><b><big>Unit Number</big></b><br>\n"
+"If you have multiple clocks of the same type, you must set\n"
+"<b>Unit Number</b>.</p>"
+msgstr ""
+"<p><b><big>单元号</big></b><br>\n"
+"如果有多个相同类型的时钟，则必须设置\n"
+"<b>单元号</b>。</p>"
+
+#. help text 3/4
+#: src/helps.ycp:89
+msgid ""
+"<p><b><big>Device</big></b><br>\n"
+"To make the clock work, it may be necessary to create a special symbolic link to \n"
+"the device to which the clock is connected. To do this, check\n"
+"<b>Create Symlink</b> and set the <b>Device</b>. To browse for the device,\n"
+"click <b>Browse</b>.\n"
+"For some clock types, it is not necessary to create a symbolic link or \n"
+"it must be created manually.</p>"
+msgstr ""
+"<p><b><big>设备</big></b><br>\n"
+"为使时钟工作，需要创建指向时钟连接到的\n"
+"设备的特殊符号链接。要执行此操作，请选中\n"
+"<b>创建符号链接</b>并设置<b>设备</b>。要浏览设备，\n"
+" 请单击<b>浏览</b>。\n"
+"对于某些时钟类型，不必创建符号链接或必须手动创建符号链接。\n"
+"</p> "
+
+#. help text 4/4
+#: src/helps.ycp:98
+msgid ""
+"<p><b><big>Driver Calibration</big></b><br>\n"
+"To calibrate the clock driver, click <b>Driver Calibration</b>.</p>"
+msgstr ""
+"<p><b><big>驱动程序校准</big></b><br>\n"
+"要校准时钟驱动程序，请单击<b>驱动程序校准</b>。</p>"
+
+#. help text 1/1, alt. 1 part 1/3
+#: src/helps.ycp:102
+msgid ""
+"<p><b><big>Address of the NTP Server</big></b><br>\n"
+"To set the address of the NTP server, use the <b>Address</b> entry.\n"
+"To find an NTP server, ask your network administrator or Internet service\n"
+"provider.</p>"
+msgstr ""
+"<p><b><big>NTP 服务器的地址</big></b><br>\n"
+"要设置 NTP 服务器的地址，请使用<b>地址</b>项。\n"
+"要查找 NTP 服务器，请询问您的网络管理员或因特网服务\n"
+"提供商。</p>"
+
+#. help text 1/1, alt. 1 part 2/3
+#: src/helps.ycp:108
+msgid ""
+"<p><b><big>Selecting a Server</big></b><br>\n"
+"To select an NTP server from those found in the local network\n"
+"or from the list of known NTP servers, click <b>Select</b> and\n"
+"choose between <b>Local NTP Server</b> and <b>Public NTP Server</b>.</p>"
+msgstr ""
+"<p><b><big>选择服务器</big></b><br>\n"
+"要从本地网络中找到的服务器或\n"
+"从已知服务器列表中选择一台 NTP 服务器，请单击<b>选择</b>\n"
+"并在<b>本地 NTP 服务器</b>和<b>公共 NTP 服务器</b>之间进行选择。</p>"
+
+#. help text 1/1, alt. 1 part 3/3
+#: src/helps.ycp:114
+msgid ""
+"<p><b><big>Testing Server Accessibility</big></b><br>\n"
+"To test if the selected server is up and responds properly,\n"
+"click <b>Test</b>.</p>"
+msgstr ""
+"<p><b><big>测试服务器的可访问性</big></b><br>\n"
+"要测试所选的服务器是否已启动并能正确响应，\n"
+"请单击<b>测试</b>。</p>"
+
+#. help text 1/1, alt. 2
+#: src/helps.ycp:119
+msgid ""
+"<p><b><big>Address</big></b><br>\n"
+"To set the address of the host with which to synchronize mutually,\n"
+"use <b>Address</b>.</p>"
+msgstr ""
+"<p><b><big>地址</big></b><br>\n"
+"要设置用于相互同步的主机的地址，\n"
+"请使用<b>地址</b>。</p>"
+
+#. help text 1/1, alt. 3
+#: src/helps.ycp:124
+msgid ""
+"<p><b><big>Address</big></b><br>\n"
+"To set the address to which to broadcast, use the <b>Address</b>\n"
+"text field.</p>"
+msgstr ""
+"<p><b><big>地址</big></b><br>\n"
+"要设置要广播的地址，请使用<b>地址</b>\n"
+"文本字段。</p>"
+
+#. help text 1/1, alt. 4
+#: src/helps.ycp:129
+msgid ""
+"<p><b><big>Address</big></b><br>\n"
+"To set the address from which to accept broadcast packets, use \n"
+"<b>Address</b>.</p>"
+msgstr ""
+"<p><b><big>地址</big></b><br>\n"
+"要设置接受广播包的地址，请使用\n"
+"<b>地址</b>。</p>"
+
+#. help text 2/4, was removed
+#. help text 3/4, optional
+#: src/helps.ycp:136
+msgid ""
+"<p><b><big>Options</big></b><br>\n"
+"To fine-tune the synchronization source, enter the respective options in the\n"
+"<b>Options</b> text field. For details, see\n"
+"<i>/usr/share/doc/packages/ntp-doc/confopt.htm</i>.</p>\n"
+msgstr ""
+"<p><b><big>选项</big></b><br>\n"
+"要调整同步源，请将选项写入\n"
+"<b>选项</b>文本字段。有关细节，请参见 \n"
+"<i>/usr/share/doc/packages/ntp-doc/confopt.htm</i>。</p>\n"
+
+#: src/helps.ycp:142
+msgid ""
+"<p><b><big>Access Control Options</big></b><br>\n"
+"Define the access control flags (<b><tt>restrict</tt></b> directive in\n"
+"<i>/etc/ntp.conf</i>) for this server, indicating which types of actions the remote\n"
+"host can perform on your NTP daemon. By default, it is set to <i>notrap\n"
+"nomodify noquery</i>. This option is only available if you have checked the\n"
+"<b>Restrict NTP Service to Configured Servers Only</b> option in\n"
+"<b>Security Settings</b>.</p>\n"
+msgstr ""
+"<p><b><big>访问控制选项</big></b><br>\n"
+"为此服务器定义访问控制标识（<b><tt>限制</tt></b>命令在\n"
+"<i>/etc/ntp.conf</i>），规定远程主机可以在您的 NTP 守护精灵\n"
+"上执行哪些操作。默认它设为<i>notrapnomodify noquery</i>。\n"
+"此选项仅在您在<b>安全设置</b>中勾选选项\n"
+"<b>限制 NTP 服务到配置过的服务器</b>\n"
+"后可用。</p>\n"
+
+#. help text 1/6
+#: src/helps.ycp:151
+msgid ""
+"<p><b><big>Synchronization Peer Type</big></b><br>\n"
+"Select the kind of synchronization peer to add here.</p>"
+msgstr ""
+"<p><b><big>同步对等点类型</big></b><br>\n"
+"选择要在此添加的同步对等点的类型。</p>"
+
+#. help text 2/6
+#: src/helps.ycp:154
+msgid ""
+"<p>To add an NTP server to which to synchronize,\n"
+"select <b>Server</b>.</p>"
+msgstr ""
+"<p>要添加与其同步的 NTP 服务器，\n"
+"请选择<b>服务器</b>。</p>"
+
+#. help text 3/6
+#: src/helps.ycp:157
+msgid ""
+"<p>To add an NTP peer to synchronize mutually, select\n"
+"<b>Peer</b>.</p>"
+msgstr ""
+"<p>要添加相互同步的 NTP 对等点，请选择\n"
+"<b>对等点</b>。</p>"
+
+#. help text 4/6
+#: src/helps.ycp:160
+msgid ""
+"<p>To configure a local clock connected directly to your computer,\n"
+"select <b>Radio Clock</b>.</p>"
+msgstr ""
+"<p>要配置直接连接到计算机的本地时钟，\n"
+"请选择<b>无线电时钟</b>。</p>"
+
+#. help text 5/6
+#: src/helps.ycp:163
+msgid ""
+"<p>To broadcast time information through your network, select\n"
+"<b>Outgoing Broadcast</b>.</p>"
+msgstr ""
+"<p>要通过网络广播时间信息，请选择\n"
+"<b>发出的广播</b>。</p>"
+
+#. help text 6/6
+#: src/helps.ycp:166
+msgid ""
+"<p>To accept NTP packets broadcasted by other hosts on the network\n"
+"and use them for setting local time, select <b>Incoming Broadcast<b>.</p>"
+msgstr ""
+"<p>要接受网络中其它主机广播的 NTP 包\n"
+"并将它们用于设置本地时间，请选择<b>进来的广播<b>。</p>"
+
+#. help text 1/5
+#: src/helps.ycp:170
+msgid ""
+"<p><big><b>Server Location</b></big>\n"
+"Select if you want to find the NTP server in the local network or select\n"
+"the NTP server from the list of known NTP servers.</p>"
+msgstr ""
+"<p><big><b>服务器位置</b></big>\n"
+"选择是在本地网络中查找 NTP 服务器，还是\n"
+"从已知的 NTP 服务器列表中选择 NTP 服务器。</p>"
+
+#. help text 2/5
+#: src/helps.ycp:175
+msgid ""
+"<p><big><b>Finding Server in the Local\n"
+"Network</b></big><br>\n"
+"To find NTP servers in the local network using the\n"
+"Service Location Protocol (SLP), click <b>Lookup</b>.\n"
+"Then select a server from the list of found servers.</p>"
+msgstr ""
+"<p><big><b>查找本地网络中\n"
+"的服务器</b></big><br>\n"
+"要使用服务定位协议 (SLP) 在本地网络中查找 NTP 服务器，\n"
+"请单击<b>查找</b>。\n"
+"然后从找到的服务器的列表中选择服务器。</p>"
+
+#. help text 3/5
+#: src/helps.ycp:182
+msgid ""
+"<p><big><b>Selecting a Public NTP Server</b></big><br>\n"
+"Select the NTP server to use from the <b>Public NTP Servers</b> list. To display\n"
+"NTP servers only for a particular country, select it in <b>Country</b>.</p>"
+msgstr ""
+"<p><big><b>选择公共 NTP 服务器</b></big><br>\n"
+"从<b>公共 NTP 服务器</b>列表中选择要使用的 NTP 服务器。要显示\n"
+"只适用于特定国家/地区的 NTP 服务器，请在<b>国家/地区</b>中进行选择。</p>"
+
+#. help text 4/5
+#: src/helps.ycp:187
+msgid ""
+"<p><big><b>Note</b></big><br>\n"
+"The listed NTP servers may not be available from any country, but only\n"
+"for a particular country or region.\n"
+"Before using any NTP server from the list, ask your system administrator\n"
+"or Internet service provider if there is an NTP server closer to you and\n"
+"prefer this recommended server to any server from this list.\n"
+"You may also see <i>http://www.eecis.udel.edu/~mills/ntp/servers.html</i>\n"
+"to find an NTP server near you.</p>"
+msgstr ""
+"<p><big><b>注意</b></big><br>\n"
+"列出的 NTP 服务器可能不是在任何国家/地区都是可用的，而是只对\n"
+"特定的国家/地区或区域可用。\n"
+"在使用列表中的任一 NTP 服务器前，请询问您的系统管理员\n"
+"或因特网服务提供商是否有离您较近的 NTP 服务器，请\n"
+"尽量使用这个推荐的服务器而非此列表中的任何其它服务器。\n"
+"要找到您附近的 NTP 服务器，还可以访问 <i>http://www.eecis.udel.edu/~mills/ntp/servers.html</i>\n"
+"。</p>"
+
+#. help text 5/5
+#: src/helps.ycp:197
+msgid ""
+"<p><big><b>Testing Server Accessibility</b></big><br>\n"
+"To test if the selected server responds properly, click <b>Test</b>.</p>"
+msgstr ""
+"<p><big><b>测试服务器的可访问性</b></big><br>\n"
+"要测试所选的服务器是否能正确响应，请单击<b>测试</b>。</p>"
+
+#. help text connected with checkbox: "Use Random Server from pool.ntp.org"
+#. rwalter, please, correct it ;)
+#: src/helps.ycp:202
+msgid ""
+"<p><big><b>Use Random Servers</b></big><br>\n"
+"This service is offered by pool.ntp.org. If you select this option,\n"
+"three different servers are added to the configuration. The server names are\n"
+"permanent, but they change their DNS records (IPs) every hour. This means that\n"
+"your NTP client is synchronized with different servers every hour.</p>\n"
+msgstr ""
+"<p><big><b>使用随机服务器</b></big><br>\n"
+"此服务由 pool.ntp.org 提供。如果选中此选项，\n"
+"则将三个不同的服务器添加到配置中。服务器名称是\n"
+"永久的，但它们的 DNS 记录 (IP) 每小时变更一次。这意味着\n"
+"您的 NTP 客户机每小时与不同的服务器同步。</p>\n"
+
+#. help text 1/2
+#: src/helps.ycp:217
+msgid ""
+"<p><big><b>Clock Driver Calibration</b></big><br>\n"
+"The clock driver may need to be calibrated. In this dialog, various calibration\n"
+"options can be set. The meaning of particular options depends on the particular\n"
+"driver. Some drivers do not use all the options.</p>"
+msgstr ""
+"<p><big><b>时钟驱动程序校准</b></big><br>\n"
+"可能需要校准时钟驱动程序。在此对话框中，可以设置各种\n"
+"校准选项。特定选项的含义取决于特定的\n"
+"驱动程序。某些驱动程序不使用所有选项。</p>"
+
+#. help text 2/2
+#: src/helps.ycp:223
+msgid ""
+"To learn more about available options, install the package\n"
+"<i>ntp-doc</i> and see <i>/usr/share/doc/packages/ntp-doc/html/refclock.htm</i>.</p>\n"
+msgstr ""
+"有关选项含义的信息，请安装包 \n"
+"<i>ntp-doc</i> 并参见 \n"
+"<i>/usr/share/doc/packages/ntp-doc/html/refclock.htm</i>。</p>\n"
+
+#. yes-no popup
+#: src/misc.ycp:29
+msgid ""
+"Really exit?\n"
+"All changes will be lost."
+msgstr ""
+"是否确实要退出？\n"
+"所有更改都将丢失。"
+
+#. progress step title
+#: src/ntp-client_finish.ycp:33
+msgid "Writing NTP Configuration..."
+msgstr "正在写入 NTP 配置..."
+
+#. help text
+#: src/ntp-client_proposal.ycp:49
+msgid "<p>Press <b>Synchronize Now</b>, to get your system time set correctly using the selected NTP server. If you want to make use of NTP permanently, enable the <b>Save NTP Configuration</b> option</p>"
+msgstr "<p>点击<b>现在同步</b>，可以根据选定 NTP 服务器校正您的系统时间。如果您希望永久性使用 NTP， 请启用<b>保存 NTP 配置</b>选项。</p>"
+
+#: src/ntp-client_proposal.ycp:51
+msgid "<p>Enabling <b>Run NTP as daemon</b> option, the NTP service will be started as daemon. Otherwise the system time will be synchronized periodically. The default interval is 15 min. You can change it after installation with the <b>yast2 ntp-client module</b>.</p>"
+msgstr "<p>启用 <b>以守护精灵方式运行 NTP</b>选项，NTP 服务将作为守护精灵启动。否则系统时间将被定时同步。默认间隔是 15 分钟。您可以在安装后通过 <b>yast2 ntp-client 模块</b>修改它。</p>"
+
+#: src/ntp-client_proposal.ycp:55
+msgid "<p>Using the <b>Configure</b> button, open the advanced NTP configuration.</p>"
+msgstr "<p>使用<b>配置</b>按钮打开高级 NTP 配置。</p>"
+
+#. help text, cont.
+#: src/ntp-client_proposal.ycp:58
+msgid "<p>Synchronization with the NTP server can be done only when the network is configured.</p>"
+msgstr "<p>只有在网络已经配置好的情况下，才能与 NTP 服务器进行同步。</p>"
+
+#. translators: error popup
+#: src/ntp-client_proposal.ycp:76
+#, ycp-format
+msgid "Invalid NTP server hostname %1"
+msgstr "无效的 NTP 服务器主机名 %1。"
+
+#. combo box label
+#: src/ntp-client_proposal.ycp:177
+msgid "&NTP Server Address"
+msgstr "NTP 服务器地址(&N)"
+
+#. check box label
+#: src/ntp-client_proposal.ycp:183
+msgid "&Run NTP as daemon"
+msgstr "以守护精灵方式运行 NTP(&R)"
+
+#. check box label
+#: src/ntp-client_proposal.ycp:188
+msgid "&Save NTP Configuration"
+msgstr "保存 NTP 配置(&S)"
+
+#. try to line up the widgets horizontally
+#. push button label
+#: src/ntp-client_proposal.ycp:195
+msgid "S&ynchronize now"
+msgstr "立即同步(&y)"
+
+#. push button label
+#. bnc#449615: only simple config for inst-sys
+#: src/ntp-client_proposal.ycp:199
+msgid "&Configure..."
+msgstr "配置(&C)..."
+
+#: src/ntp-client_proposal.ycp:323
+#, ycp-format
+msgid ""
+"Synchronization with NTP server is not possible\n"
+"without package %1 installed.\n"
+msgstr ""
+"没有安装软件包 %1 \n"
+"无法与 NTP 服务器同步。\n"
+
+#. Only if network is running try to synchronize the ntp server
+#: src/ntp-client_proposal.ycp:331
+msgid "Synchronizing with NTP server..."
+msgstr "正在与 NTP 服务器同步..."
+
+#. Translators: yes-no popup,
+#. ntpdate is a command, %1 is the server address
+#: src/ntp-client_proposal.ycp:412
+#, ycp-format
+msgid "'Test query to server '%1' failed. If server is not yet accessible or network is not configured click 'No' to ignore. Revisit NTP server configuration?"
+msgstr "到服务器 '%1' 的测试查询失败。如果服务器不可访问或未配置网络请点击 '否' 来忽略。重新查看 NTP 服务器配置？"
+
+#. menubutton entry, try to keep short
+#: src/widgets.ycp:59
+msgid "Restart NTP Daemon"
+msgstr "重启 NTP 守护精灵"
+
+#. menubutton entry, try to keep short
+#: src/widgets.ycp:62
+msgid "Save Settings and Restart NTP Daemon"
+msgstr "保存设置并重启 NTP 守护精灵"
+
+#. continue-cancel popup
+#: src/widgets.ycp:166
+msgid ""
+"Warning!\n"
+"\n"
+"If you do not have a permanent Internet connection,\n"
+"starting the NTP daemon can take a very long time and \n"
+"the daemon might not run properly."
+msgstr ""
+"警告！\n"
+"\n"
+"如果没有永久因特网连接，\n"
+"则启动 NTP 守护精灵可能需要很长的时间，\n"
+"而且该守护精灵可能无法正常运行。"
+
+#. TRANSLATORS: Popup error message
+#: src/widgets.ycp:219
+#, ycp-format
+msgid ""
+"NTP server '%1' is not a valid hostname,\n"
+"fully qualified hostname, IPv4 address, or IPv6 address."
+msgstr ""
+"NTP 服务器\"%1\"不是有效的主机名、\n"
+"完全限定的主机名、Ipv4 地址或 IPv6 地址。"
+
+#: src/widgets.ycp:482
+msgid ""
+"Enabling Random Servers from pool.ntp.org would\n"
+"replace the current NTP server.\n"
+"\n"
+"Really replace the current NTP server?"
+msgstr ""
+"通过 pool.ntp.org 启用随机服务器将\n"
+"会替换当前 NTP 服务器。\n"
+" \n"
+"是否确定要替换当前 NTP 服务器？"
+
+#. popup header
+#: src/widgets.ycp:939
+msgid "Select the Device"
+msgstr "选择设备"
+
+#. selection box header
+#: src/widgets.ycp:997 src/widgets.ycp:1566
+msgid "Public NTP &Servers"
+msgstr "公共 NTP 服务器(&S)"
+
+#. message report (no server selected)
+#. report message
+#: src/widgets.ycp:1010 src/widgets.ycp:1107
+msgid "Select an NTP server."
+msgstr "选择 NTP 服务器。"
+
+#. combo box item
+#: src/widgets.ycp:1057
+msgid "All Countries"
+msgstr "全部国家/地区"
+
+#. combo box header
+#: src/widgets.ycp:1061 src/widgets.ycp:1562
+msgid "&Country"
+msgstr "国家/地区(&C)"
+
+#. TRANSLATORS: Busy message
+#: src/widgets.ycp:1133
+msgid "Scanning for NTP servers on your network..."
+msgstr "正在扫描网络中的 NTP 服务器..."
+
+#. TRANSLATORS: Popup error - no NTP server has been found during scanning the network.
+#. There is a very high possibility that is is because of running firewall.
+#: src/widgets.ycp:1147
+msgid ""
+"No NTP server has been found on your network.\n"
+"This could be caused by a running SuSEfirewall2,\n"
+"which probably blocks the network scanning."
+msgstr ""
+"在网络中尚未找到 NTP 服务器。\n"
+"可能是由于运行中的 SuSEfirewall2 导致的，\n"
+"这可能会阻止网络扫描。"
+
+#. TRANSLATORS: Popup error - no NTP server has been found during scanning the network.
+#: src/widgets.ycp:1153
+msgid "No NTP server has been found on your network."
+msgstr "在网络中尚未找到 NTP 服务器。"
+
+#. combo box label
+#. table header
+#: src/widgets.ycp:1162 src/widgets.ycp:1403
+msgid "Address"
+msgstr "地址"
+
+#. popup message
+#: src/widgets.ycp:1221
+msgid "No server is selected."
+msgstr "未选择任何服务器。"
+
+#. text entry label
+#: src/widgets.ycp:1263
+msgid "A&ddress"
+msgstr "地址(&D)"
+
+#. push button label
+#: src/widgets.ycp:1272
+msgid "Ad&vanced Configuration"
+msgstr "高级配置(&V)"
+
+#. push button label
+#: src/widgets.ycp:1280
+msgid "&Driver Calibration"
+msgstr "驱动程序校准(&D)"
+
+#: src/widgets.ycp:1287
+msgid "&Interval of the Synchronization in Minutes"
+msgstr "以分钟计的同步间隔(&I)"
+
+#. frame
+#: src/widgets.ycp:1298
+msgid "Start NTP Daemon"
+msgstr "启动 NTP 守护精灵"
+
+#. radio button
+#: src/widgets.ycp:1301
+msgid "Only &Manually"
+msgstr "仅手动(&M)"
+
+#. radio button
+#: src/widgets.ycp:1303
+msgid "&Synchronize without Daemon"
+msgstr "不用守护精灵的同步(&S)"
+
+#. radio button
+#: src/widgets.ycp:1305
+msgid "Now and on &Boot"
+msgstr "立即和在引导时(&B)"
+
+#. check box
+#: src/widgets.ycp:1317
+msgid "Run NTP Daemon in Chroot &Jail"
+msgstr "在 Chroot 囚牢中运行 NTP 守护精灵(&J)"
+
+#. TRANSLATORS:
+#: src/widgets.ycp:1326
+msgid "&Restrict NTP Service to Configured Servers Only "
+msgstr "限制 NTP 服务到配置过的服务器(&R)"
+
+#. combo box item FIXME usability
+#: src/widgets.ycp:1336
+msgid "Manual"
+msgstr "手动"
+
+#. combo box item
+#: src/widgets.ycp:1338
+msgid "Auto"
+msgstr "自动"
+
+#. combo box item
+#: src/widgets.ycp:1340
+msgid "Custom"
+msgstr "自定义"
+
+#: src/widgets.ycp:1342
+msgid "&Runtime Configuration Policy"
+msgstr "运行时配置策略(&R)"
+
+#: src/widgets.ycp:1350
+msgid "&Custom Policy"
+msgstr "自定义策略(&C)"
+
+#. check box
+#: src/widgets.ycp:1358
+msgid "&Use Random Servers from pool.ntp.org"
+msgstr "通过 pool.ntp.org 使用随机服务器(&U)"
+
+#. text entry label
+#. text entry
+#. combo box label
+#: src/widgets.ycp:1366 src/widgets.ycp:1377 src/widgets.ycp:1538
+msgid "&Address"
+msgstr "地址(&A)"
+
+#. push button
+#: src/widgets.ycp:1382
+msgid "&Select..."
+msgstr "选择(&S)..."
+
+#. push button
+#: src/widgets.ycp:1391 src/widgets.ycp:1578 src/widgets.ycp:1586
+msgid "&Test"
+msgstr "测试(&T)"
+
+#. table header
+#: src/widgets.ycp:1401
+msgid "Synchronization Type"
+msgstr "同步类型"
+
+#. push button
+#: src/widgets.ycp:1410
+msgid "Display &Log..."
+msgstr "显示日志(&L)..."
+
+#. combo box label
+#: src/widgets.ycp:1434
+msgid "Clock &Type"
+msgstr "时钟类型(&T)"
+
+#. int field
+#: src/widgets.ycp:1445
+msgid "Unit &Number"
+msgstr "单元号(&N)"
+
+#. check box
+#: src/widgets.ycp:1455
+msgid "Create &Symlink"
+msgstr "创建符号链接(&S)"
+
+#. text entry
+#: src/widgets.ycp:1467
+msgid "&Device"
+msgstr "设备(&D)"
+
+#: src/widgets.ycp:1489
+msgid "Access Control Options"
+msgstr "访问控制选项"
+
+#. radio button, NTP relationship type
+#: src/widgets.ycp:1498
+msgid "&Server"
+msgstr "服务器(&S)"
+
+#. radio button, NTP relationship type
+#: src/widgets.ycp:1500
+msgid "&Peer"
+msgstr "对等点(&P)"
+
+#. radio button, NTP relationship type
+#: src/widgets.ycp:1502
+msgid "&Radio Clock"
+msgstr "无线电时钟(&R)"
+
+#. radio button, NTP relationship type
+#: src/widgets.ycp:1504
+msgid "&Outgoing Broadcast"
+msgstr "发出的广播(&O)"
+
+#. radio button, NTP relationship type
+#: src/widgets.ycp:1506
+msgid "&Incoming Broadcast"
+msgstr "进来的广播(&I)"
+
+#. frame
+#: src/widgets.ycp:1509
+msgid "Type"
+msgstr "类型"
+
+#. radio button
+#: src/widgets.ycp:1520
+msgid "Loc&al Network"
+msgstr "本地网络(&A)"
+
+#. radio button
+#: src/widgets.ycp:1522
+msgid "&Public NTP Server"
+msgstr "公共 NTP 服务器(&P)"
+
+#. frame label
+#: src/widgets.ycp:1527
+msgid "NTP Server Location"
+msgstr "NTP 服务器位置"
+
+#. push button
+#: src/widgets.ycp:1545
+msgid "&Lookup"
+msgstr "查找(&L)"
+
+#. dialog caption
+#: src/wizards.ycp:226
+msgid "NTP Client Configuration"
+msgstr "NTP 客户机配置"
+
+#. label
+#: src/wizards.ycp:228
+msgid "Initializing ..."
+msgstr "正在初始化..."
+
+#~ msgid "Cannot write sysconfig variables."
+#~ msgstr "无法写入系统配置变量。"
+
+#~ msgid "'ntpdate %1' failed. Revisit NTP server configuration?"
+#~ msgstr "\"ntpdate %1\"失败。是否检查 NTP 服务器配置？"
+
+#~ msgid "Configure..."
+#~ msgstr "配置..."
+
+#~ msgid "Configure NTP daemon via DHCP."
+#~ msgstr "通过 DHCP 配置 NTP 守护程序。"
+
+#~ msgid "Configure NTP Daemon via &DHCP"
+#~ msgstr "通过 DHCP 配置 NTP 守护程序(&D)"
+
+#~ msgid ""
+#~ "<p><b><big>Initial Synchronization</big></b><br>\n"
+#~ "The first synchronization of the clock is performed before the NTP daemon is\n"
+#~ "started. To use this host for initial synchronization, select\n"
+#~ "<b>Use for Initial Synchronization</b>.</p>"
+#~ msgstr ""
+#~ "<p><b><big>初始同步</big></b><br>\n"
+#~ "第一次时钟同步在启动 NTP 守护程序前\n"
+#~ "执行。要使用此主机进行初始同步，请选择\n"
+#~ "<b>用于初始同步</b>。</p>"
+
+#~ msgid "Use for &Initial Synchronization"
+#~ msgstr "用于初始同步(&I)"

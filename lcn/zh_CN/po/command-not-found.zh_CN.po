@@ -1,0 +1,81 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-23 15:20+0200\n"
+"PO-Revision-Date: 2012-05-11 01:10+0800\n"
+"Last-Translator: margurite <i@marguerite.su>\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: handlers/bin/command_not_found_bash:9
+#: handlers/bin/command_not_found_bash:17
+msgid "$1: command not found"
+msgstr "$1: 命令未找到"
+
+#: handlers/bin/command_not_found_bash:24
+msgid "Absolute path to '$1' is '$prefix/sbin/$1', so running it may require superuser privileges (eg. root)."
+msgstr "'$1' 命令的绝对路径是 '$prefix/sbin/$1'，因此需要超级用户权限（例如根用户 root）才能运行它。"
+
+#: handlers/bin/command_not_found_bash:32
+msgid ""
+"If '$1' is not a typo you can use command-not-found to lookup the package that contains it, like this:\n"
+"    cnf $1"
+msgstr ""
+"如果 '$1' 不是输入错误的话，你可以使用 command-not-found 命令来查找提供它的软件包，就像这样：\n"
+"    cnf $1"
+
+#: handlers/bin/command-not-found:8
+#, python-format
+msgid "The program '%(prog)s' can be found in the following package:"
+msgid_plural "The program '%(prog)s' can be found in following packages:"
+msgstr[0] "程序 '%(prog)s' 在如下软件包中被找到："
+
+#: handlers/bin/command-not-found:11
+#, python-format
+msgid "  * %(prog)s [ path: %(path)s/%(binary)s, repository: %(repo)s ]"
+msgstr "  * %(prog)s [ 路径：%(path)s/%(binary)s, 安装源：%(repo)s ]"
+
+#: handlers/bin/command-not-found:14
+msgid "Try installing with:"
+msgstr "尝试通过下面程序安装："
+
+#: handlers/bin/command-not-found:16
+msgid "<selected_package>"
+msgstr "<选取的软件包>"
+
+#: handlers/bin/command-not-found:24
+#, python-format
+msgid "Program '%(prog)s' is present in package '%(pkg)s', which is installed on your system."
+msgstr "程序 '%(prog)s' 由软件包 '%(pkg)s' 提供，该软件包已安装在您的系统上。"
+
+#: handlers/bin/command-not-found:27
+#, python-format
+msgid "Absolute path to '%(prog)s' is '%(path)s/%(prog)s', so running it may require superuser privileges (eg. root)."
+msgstr "'%(prog)s' 的绝对路径是 '%(path)s/%(prog)s'，所以需要超级用户权限（例如根用户 root）才能运行它。"
+
+#: handlers/bin/command-not-found:30
+#, python-format
+msgid "Absolute path to '%(prog)s' is '%(path)s/%(prog)s'. Please check your $PATH variable to see whether it contains the mentioned path."
+msgstr "'%(prog)s' 的绝对路径是 '%(path)s/%(prog)s'。请检查您的 $PATH 环境变量，看看它是否包含这个路径。"
+
+#: handlers/bin/command-not-found:59 handlers/bin/command-not-found:60
+#, python-format
+msgid "searching ..."
+msgstr "搜索中 ..."
+
+#: handlers/bin/command-not-found:87
+#, python-format
+msgid "command not found"
+msgstr "命令未找到"

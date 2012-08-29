@@ -1,0 +1,371 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:49+0200\n"
+"PO-Revision-Date: 2012-07-06 21:54+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. popup error
+#: src/Snapper.ycp:84
+#, ycp-format
+msgid "Snapshot '%1' was not found."
+msgstr "未找到快照 '%1'。"
+
+#. error popup
+#: src/Snapper.ycp:206
+msgid "File /etc/sysconfig/snapper is not available."
+msgstr "未找到 /etc/sysconfig/snapper 文件。"
+
+#: src/Snapper.ycp:229
+msgid "Reason not known."
+msgstr "未知原因。"
+
+#: src/Snapper.ycp:232
+msgid "Configuration not found."
+msgstr "未找到配置。"
+
+#: src/Snapper.ycp:236
+msgid "Configuration is not valid."
+msgstr "配置无效。"
+
+#. error popup
+#: src/Snapper.ycp:241
+#, ycp-format
+msgid ""
+"Failed to initialize snapper library:\n"
+"%1"
+msgstr ""
+"初始化 Snapper 库失败：\n"
+"%1"
+
+#. Snapper read dialog caption
+#: src/Snapper.ycp:255
+msgid "Initializing Snapper"
+msgstr "初始化 Snapper"
+
+#. Progress stage 1/3
+#: src/Snapper.ycp:262
+msgid "Read the list of snapshots"
+msgstr "读取快照列表"
+
+#. Progress step 1/3
+#: src/Snapper.ycp:265
+msgid "Reading the database..."
+msgstr "正在读取数据库..."
+
+#. Progress finished
+#: src/Snapper.ycp:267
+msgid "Finished"
+msgstr "已完成"
+
+#. label for log window
+#: src/Snapper.ycp:314
+msgid "Restoring Files..."
+msgstr "正在恢复文件..."
+
+#. log entry (%1 is file name)
+#: src/Snapper.ycp:334
+#, ycp-format
+msgid "Deleted %1\n"
+msgstr "已删除 %1\n"
+
+#. log entry (%1 is file name)
+#: src/Snapper.ycp:362
+#, ycp-format
+msgid "%1 skipped\n"
+msgstr "%1 已跳过\n"
+
+#. summary dialog caption
+#: src/dialogs.ycp:69
+msgid "Snapshots"
+msgstr "快照"
+
+#: src/dialogs.ycp:91
+msgid "Single"
+msgstr "单一"
+
+#: src/dialogs.ycp:105
+msgid "Pre & Post"
+msgstr "之前 & 之后"
+
+#. combo box label
+#: src/dialogs.ycp:118
+msgid "Current Configuration"
+msgstr "当前配置"
+
+#. table header
+#: src/dialogs.ycp:126
+msgid "ID"
+msgstr "ID"
+
+#: src/dialogs.ycp:126
+msgid "Type"
+msgstr "类型"
+
+#: src/dialogs.ycp:126
+msgid "Start Date"
+msgstr "开始日期"
+
+#: src/dialogs.ycp:126
+msgid "End Date"
+msgstr "结束日期"
+
+#: src/dialogs.ycp:126
+msgid "Description"
+msgstr "描述"
+
+#: src/dialogs.ycp:130
+msgid "Show Changes"
+msgstr "显示更改"
+
+#. busy popup message
+#: src/dialogs.ycp:176
+msgid "Reading list of snapshots..."
+msgstr "正在读取快照列表..."
+
+#. dialog caption
+#: src/dialogs.ycp:205
+msgid "Selected Snapshot Overview"
+msgstr "选中的快照概览"
+
+#. '%1: %2' means 'ID: description', adapt the order if necessary
+#: src/dialogs.ycp:235
+#, ycp-format
+msgid "%1: %2"
+msgstr "%1：%2"
+
+#. busy popup message
+#: src/dialogs.ycp:252
+msgid "Calculating changed files..."
+msgstr "计算修改的文件..."
+
+#. busy popup message
+#: src/dialogs.ycp:320
+msgid "Calculating file modifications..."
+msgstr "计算文件修改..."
+
+#. text label, %1, %2 are file modes (like '-rw-r--r--')
+#: src/dialogs.ycp:353
+#, ycp-format
+msgid "File mode was changed from '%1' to '%2'."
+msgstr "文件模式已从 '%1' 变为 '%2'。"
+
+#. text label, %1, %2 are user names
+#: src/dialogs.ycp:361
+#, ycp-format
+msgid "File user ownership was changed from '%1' to '%2'."
+msgstr "文件用户权限已从 '%1' 变为 '%2'。"
+
+#. text label, %1, %2 are group names
+#: src/dialogs.ycp:370
+#, ycp-format
+msgid "File group ownership was changed from '%1' to '%2'."
+msgstr "文件组权限已经从 '%1' 变为 '%2'。"
+
+#. button label
+#: src/dialogs.ycp:409
+msgid "R&estore from First"
+msgstr "从第一个快照恢复 (&e)"
+
+#. button label
+#: src/dialogs.ycp:411
+msgid "Restore"
+msgstr "恢复"
+
+#: src/dialogs.ycp:424
+msgid "Res&tore from Second"
+msgstr "从第二个快照恢复 (&t)"
+
+#. radio button label
+#: src/dialogs.ycp:447
+msgid "Show the difference between snapshot and current system"
+msgstr "显示快照和当前系统之间的差异"
+
+#. radio button label, snapshot selection will follow
+#: src/dialogs.ycp:451
+msgid "Show the difference between current and selected snapshot:"
+msgstr "显示当前系统和选中快照之间的差异："
+
+#. radio button label
+#: src/dialogs.ycp:472
+msgid "Show the difference between first and second snapshot"
+msgstr "显示第一个和第二个快照之间的差异"
+
+#. radio button label
+#: src/dialogs.ycp:475
+msgid "Show the difference between first snapshot and current system"
+msgstr "显示第一个快照和当前系统之间的差异"
+
+#. radio button label
+#: src/dialogs.ycp:478
+msgid "Show the difference between second snapshot and current system"
+msgstr "显示第二个快照和当前系统之间的差异"
+
+#. label, date string will follow at the end of line
+#: src/dialogs.ycp:500
+msgid "Time of taking the first snapshot:"
+msgstr "第一个快照花费的时间："
+
+#. label, date string will follow at the end of line
+#: src/dialogs.ycp:505
+msgid "Time of taking the second snapshot:"
+msgstr "第二个快照花费的时间："
+
+#. label, date string will follow at the end of line
+#: src/dialogs.ycp:514
+msgid "Time of taking the snapshot:"
+msgstr "快照花费的时间："
+
+#. button label
+#: src/dialogs.ycp:534
+msgid "&Open"
+msgstr "打开(&O)"
+
+#. button label
+#: src/dialogs.ycp:558
+msgid "Restore Selected"
+msgstr "恢复选中内容"
+
+#. yes/no question, %1 is file name, %2 is number
+#: src/dialogs.ycp:633
+#, ycp-format
+msgid ""
+"Do you want to delete the file\n"
+"\n"
+"%1\n"
+"\n"
+"from current system?"
+msgstr ""
+"您想要从当前系统中删除文件\n"
+"\n"
+"%1 吗？"
+
+#. yes/no question, %1 is file name, %2 is number
+#: src/dialogs.ycp:645 src/dialogs.ycp:657
+#, ycp-format
+msgid ""
+"Do you want to copy the file\n"
+"\n"
+"%1\n"
+"\n"
+"from snapshot '%2' to current system?"
+msgstr ""
+"您想要从快照 '%2' 中复制文件\n"
+"\n"
+"%1\n"
+"\n"
+"到当前系统吗？"
+
+#. popup message
+#: src/dialogs.ycp:685
+msgid "No file was selected for restoring"
+msgstr "没有选择任何要恢复的文件"
+
+#. popup headline
+#: src/dialogs.ycp:689
+msgid "Restoring files"
+msgstr "正在恢复文件"
+
+#. popup message, %1 is snapshot number, %2 list of files
+#: src/dialogs.ycp:691
+#, ycp-format
+msgid ""
+"<p>These files will be restored from snapshot '%1':</p>\n"
+"<p>\n"
+"%2\n"
+"</p>\n"
+"<p>Files existing in original snapshot will be copied to current system.</p>\n"
+"<p>Files that did not exist in the snapshot will be deleted.</p>Are you sure?"
+msgstr ""
+"<p>这些文件将从快照 '%1' 中恢复：</p>\n"
+"<p>\n"
+"%2\n"
+"</p><p>原始快照中存在的文件会被复制到当前系统。</p>\n"
+"<p>快照中不存在的文件将被删除。</p>您确定吗？"
+
+#. Read dialog help
+#: src/helps.ycp:40
+msgid ""
+"<p><b><big>Reading the list of snapshots</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在读取快照列表</big></b><br>\n"
+"</p>\n"
+
+#. Summary dialog help:
+#: src/helps.ycp:45
+msgid ""
+"<p><b><big>Snapshots Configuration</big></b><p>\n"
+"<p>The table shows a list of root filesystem snapshots. There are three types\n"
+"of snapshots, <b>single</b>, <b>pre</b> and <b>post</b>. Single snapshots are\n"
+"used for storing the file system state in a certain time, while Pre and Post are used to define the changes done by special operation performed between taking those two snapshots. Pre and Post snapshots are coupled together in the table.</p>\n"
+"<p>Select a snapshot or snapshot couple and click <b>Show Changes</b> to see the\n"
+"new file system changes in the specified snapshot.</p>\n"
+msgstr ""
+"<p><b><big>快照配置</big></b></p>\n"
+"<p>该表格显示了一份根文件系统快照列表。有三种类型的快照，\n"
+"<b>单一</b>，<b>之前</b> 和 <b>之后</b>。\"单一\"类型的快照\n"
+"用来存储某一特定时间的文件系统状态，\"之前\" 和 \"之后\" 类型的快照用来定义在两次快照之间执行的某特殊操作的更改。\n"
+"\"之前\" 和 \"之后\" 类型的快照在表格中是成对显示的。</p>\n"
+"<p>选择一个快照或一对快照，点击 <b>显示更改</b> 来查看指定快照中的新文件系统变更。</p>\n"
+
+#. Show snapshot dialog help
+#: src/helps.ycp:54
+msgid ""
+"<p><b><big>Snapshot Overview</big></b><p>\n"
+"<p>\n"
+"The tree shows all the files that were modified between creating the first ('pre') and second ('post') snapshot. On the right side, you see the description generated when the first snapshot was created and the time of creation for both snapshots.\n"
+"</p>\n"
+"<p>\n"
+"When a file is selected in the tree, you see the changes done to it. By default, changes between selected coupled snapshots are shown, but it is possible to compare the file with different versions.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>快照概览</big></b></p>\n"
+"<p>\n"
+"该树形结构显示了所有介于创建首个 ('之前') 和第二个 ('之后') 快照之间被改动的文件。在右边，您可以查看首个快照创建时生成的\n"
+"描述和两个快照的创建时间。\n"
+"</p>\n"
+"<p>\n"
+"当该树形结构中的一个文件被选中时，您可以查看它的改动。默认显示两个选中快照之间的差异，但也可以比较该文件的不同版本。\n"
+"</p>\n"
+
+#. Show snapshot dialog help, alternative for single snapshots
+#: src/helps.ycp:64
+msgid ""
+"<p><b><big>Snapshot Overview</big></b><p>\n"
+"<p>\n"
+"The tree shows all the files that differ in a selected snapshot and the current system. On the right side, you see the snapshot description and time of its creation.\n"
+"</p>\n"
+"<p>\n"
+"When a file is selected in the tree, you can see the its difference between snapshot version and current system.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>快照概览</big></b></p>\n"
+"<p>\n"
+"该树形结构显示了所有的选中快照与现有系统不同的文件。在右边，您可以查看快照描述和它的创建时间。\n"
+"</p>\n"
+"<p>\n"
+"当该树形结构中的一个文件被选中时，您可以查看快照版本和现有系统的不同之处。</p>\n"
+
+#: src/snapper.ycp:53
+msgid "Configuration of system snapshots"
+msgstr "系统快照的配置"
+
+#, fuzzy
+#~| msgid "File %1 does not exists"
+#~ msgid "%1 does not exist in snapshot %2\n"
+#~ msgstr "文件 %1 不存在"

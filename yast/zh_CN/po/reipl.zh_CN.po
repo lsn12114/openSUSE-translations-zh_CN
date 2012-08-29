@@ -1,0 +1,310 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:48+0200\n"
+"PO-Revision-Date: 2012-07-06 21:31+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/Reipl.ycp:756
+msgid "Configured reipl methods"
+msgstr "已配置的重启并初始化负载 (Re-IPL) 方法"
+
+#: src/Reipl.ycp:763
+msgid "The method ccw is configured and being used."
+msgstr "CCW (通道命令字) 方法已配置和使用。"
+
+#: src/Reipl.ycp:765
+msgid "The method ccw is configured."
+msgstr "CCW (通道命令字) 方法已配置。"
+
+#: src/Reipl.ycp:768
+msgid "The method ccw is not supported."
+msgstr "CCW (通道命令字) 方法不支持"
+
+#: src/Reipl.ycp:776
+msgid "The method fcp is configured and being used."
+msgstr "FCP (光纤通道协议) 方法已配置和使用。"
+
+#: src/Reipl.ycp:778
+msgid "The method fcp is configured."
+msgstr "FCP (光纤通道协议) 方法已配置。"
+
+#: src/Reipl.ycp:781
+msgid "The method fcp is not supported."
+msgstr "FCP (光纤通道协议) 方法不支持。"
+
+#. Reipl configure dialog caption
+#. Initialization dialog caption
+#: src/dialogs.ycp:58 src/wizards.ycp:129
+msgid "Reipl Configuration"
+msgstr "重引导并初始化程序负载的配置"
+
+#: src/dialogs.ycp:62
+msgid "reipl methods"
+msgstr "重引导并初始化程序负载的方法"
+
+#: src/dialogs.ycp:72
+msgid "&ccw"
+msgstr "通道命令字 (&c)"
+
+#: src/dialogs.ycp:80
+msgid "&fcp"
+msgstr "光纤通道协议 (&f)"
+
+#: src/dialogs.ycp:92
+msgid "ccw parameters"
+msgstr "通道命令字参数"
+
+#: src/dialogs.ycp:97
+msgid "&Device"
+msgstr "设备 (&D)"
+
+#: src/dialogs.ycp:103
+msgid "&Loadparm"
+msgstr "加载参数 (&L)"
+
+#: src/dialogs.ycp:112
+msgid "fcp parameters"
+msgstr "光纤通道协议参数"
+
+#: src/dialogs.ycp:117
+msgid "D&evice"
+msgstr "设备 (&E)"
+
+#: src/dialogs.ycp:123
+msgid "&Worldwide port number"
+msgstr "万维端口编号 (&W)"
+
+#: src/dialogs.ycp:129
+msgid "Lo&gical unit number"
+msgstr "逻辑单位编号 (&g)"
+
+#: src/dialogs.ycp:135
+msgid "B&oot program selector"
+msgstr "引导程序选择器 (&o)"
+
+#: src/dialogs.ycp:141
+msgid "Boo&t record logical block address"
+msgstr "引导记录逻辑块地址 (&t)"
+
+#: src/dialogs.ycp:158
+msgid "reipl configuration"
+msgstr "重引导并初始化程序负载的配置"
+
+#: src/dialogs.ycp:159
+msgid "help missing in helps.ycp"
+msgstr "helps.ycp 的帮助缺失"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:40
+msgid ""
+"<p><b><big>Initializing reipl Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在初始化重引导并初始化程序负载配置</big></b><br>\n"
+"</p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:45
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化:</big></b><br>\n"
+"请您现在点击<b>终止</b>, 以便安全中断配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:50
+msgid ""
+"<p><b><big>Saving reipl Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在保存重引导并初始化程序负载的配置</big></b><br>\n"
+"</p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:55
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"请点击<B>中断</B>,以便中断保存.\n"
+"一个附加对话框将告诉您这样做是否安全.\n"
+"</p>\n"
+
+#. Configure dialog help 1
+#: src/helps.ycp:62
+msgid "<p><b><big>s390 reIPL Configuration</big></b></p>"
+msgstr "<p><b><big>s390 重引导并初始化程序负载的配置</big></b></p>"
+
+#. Configure dialog help 2
+#: src/helps.ycp:65
+msgid ""
+"<p>Choose one of the methods for rebooting your machine with the radio buttons\n"
+"listed inside <b>reipl methods</b>. Depending on what your machine supports,\n"
+"choose between CCW (channel command word) devices and SCSI devices,\n"
+"which are attached through zFCP (fibre channel protocol). Then fill out the\n"
+"necessary parameter entry fields for the respective method.</p>\n"
+msgstr ""
+"<p>选择一种列示在 <b>重引导并初始化程序负载 方法</b> 中的方法来用电台按键重引导您的机器。\n"
+"根据您的机器的支持情况，在 CCW (通道命令字）设备和通过 zFCP (光纤通道协议) 附加的 SCSI (小型计算机系统接口) \n"
+"设备中选择。然后填满各自方法必要的参数输入字段。</p>\n"
+
+#. Configure dialog help 3
+#: src/helps.ycp:73
+msgid ""
+"<p>The <b>device</b> must be a valid device bus ID with lower case letters\n"
+"in a sysfs compatible format 0.<i>&lt;subchannel set ID&gt;</i>.<i>&lt;device ID&gt;</i>,\n"
+"such as 0.0.5c51. Depending on the chosen method, this can either refer to a DASD or to\n"
+"an FCP adapter.</p>"
+msgstr ""
+"<p><b>设备</b> 必须是一个有效的设备 bus ID，使用小写字母，并与 sysfs 格式 0.\n"
+"<i>&lt;子通道设置 ID&gt;</i>.<i>&lt;设备 ID&gt;</i> 兼容，例如 0.0.5c51。\n"
+"根据选择的方法，这可以指向一个可直接访问存储设备或者一个光纤通道协议适配器。</p>"
+
+#. Configure dialog help 4
+#: src/helps.ycp:79
+msgid ""
+"<p>The <b>loadparm</b> must be a maximum of 8 characters and selects a boot\n"
+"configuration from the menu of the zipl bootloader. Use one blank character\n"
+"to select the default configuration.</p>"
+msgstr ""
+"<p><b>加载参数</b>必须不能超过 8 个字符，以从 zipl 引导加载器菜单中选择一个\n"
+"引导配置。使用一个空格字符来选择默认配置。</p>"
+
+#. Configure dialog help 5
+#: src/helps.ycp:84
+msgid ""
+"<p>The <b>worldwide port number</b> (WWPN) must be entered with lowercase\n"
+"letters as a 16-digit hex value, such as 0x5005076300c40e5a.</p>\n"
+msgstr ""
+"<p><b>万维端口编号</b> (WWPN) 必须是小写的16位十六进制值，\n"
+"例如 0x5005076300c40e5a。</p>\n"
+
+#. Configure dialog help 6
+#: src/helps.ycp:89
+msgid ""
+"<p>The <b>logical unit number</b> (LUN) must be entered with lowercase letters\n"
+"as a 16-digit hex value with all trailing zeros, such as 0x52ca000000000000.</p>"
+msgstr ""
+"<p><b>逻辑单位编号</b> (LUN) 必须是小写的16位十六进制值，后面全是 0，\n"
+"例如 0x52ca000000000000。</p>"
+
+#. Configure dialog help 7
+#: src/helps.ycp:93
+msgid ""
+"<p>The <b>boot program selector</b> must be a non-negative integer choosing\n"
+"a boot configuration from the menu of the zipl bootloader. Use 0 to select\n"
+"the default configuration.</p>"
+msgstr ""
+"<p><b>引导程序选择器</b> 必须是一个非负整数，以从 zipl 引导加载器菜单中选择一个\n"
+"引导配置。使用 0 来选择默认配置。</p>"
+
+#. Configure dialog help 8
+#: src/helps.ycp:98
+msgid ""
+"<p>The <b>boot record logical block address</b> (LBA) specifies the master\n"
+"boot record and is currently always 0.</p>"
+msgstr "<p><b>引导记录逻辑块地址</b> (LBA) 指定了主引导记录，目前总是 0。</p>"
+
+#. Configure dialog help 9
+#: src/helps.ycp:102
+msgid ""
+"<p>After confirmation of this dialog, you may trigger a reboot, e.g. by shutdown,\n"
+"and the system will automatically restart from your specified device.</p>"
+msgstr ""
+"<p>在此对话框中确认后，您或许会触发重引导，例如，通过关机，\n"
+"系统会自动从您指定的设备重启。</p>"
+
+#. Command line help text for the Xreipl module
+#: src/reipl.ycp:54
+msgid "Configuration of reipl"
+msgstr "重引导并初始化程序负载的配置"
+
+#. TRANSLATORS: part of a shutdown message
+#. %1 is replaced with a device name
+#. Newline at the end is required
+#: src/reipl_bootloader_finish.ycp:68
+#, ycp-format
+msgid ""
+"\n"
+"After shutdown, reload the system\n"
+"with an IPL from DASD '%1'.\n"
+msgstr ""
+"\n"
+"关机后，从可直接访问存储设备 '%1'\n"
+"初始化程序负载以重加载系统。\n"
+
+#. TRANSLATORS: part of a shutdown message
+#. %1 is replaced with a FCP name
+#. %2 is replaced with a WWPN name
+#. %3 is replaced with a LUN name
+#. Newline at the end is required
+#: src/reipl_bootloader_finish.ycp:84
+#, ycp-format
+msgid ""
+"\n"
+"After shutdown, reload the system\n"
+"with an IPL from FCP '%1'\n"
+"with WWPN '%2'\n"
+"and LUN '%3'.\n"
+msgstr ""
+"\n"
+"关机后，从带万维端口编号 '%2' 和\n"
+"逻辑单位编号 '%3' 的光纤通道协议\n"
+"'%1' 初始化程序负载以重加载系统。\n"
+
+#: src/reipl_bootloader_finish.ycp:92
+#, ycp-format
+msgid ""
+"\n"
+"After shutdown, reload the system \n"
+"with an IPL from the device \n"
+"that contains /boot"
+msgstr ""
+"\n"
+"关机后，通过从包含 /boot 的设备初始化程序负载以重引导系统"
+
+#. Rich text title for Reipl in proposals
+#: src/reipl_proposal.ycp:85
+msgid "Reipl"
+msgstr "重引导并初始化程序负载"
+
+#. Menu title for Reipl in proposals
+#: src/reipl_proposal.ycp:87
+msgid "&Reipl"
+msgstr "重引导并初始化程序负载 (&R)"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:131
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#, fuzzy
+#~ msgid ""
+#~ "<p><b><big>Saving reipl Configuration</big></b><br>\n"
+#~ "Please wait...<br></p>\n"
+#~ msgstr ""
+#~ "<p><b><big>正在保存配置</big></b><br>\n"
+#~ "请稍候...<br></p>\n"
+
+#, fuzzy
+#~ msgid "This machine does not support reipl!"
+#~ msgstr "不支持该扫描仪。"

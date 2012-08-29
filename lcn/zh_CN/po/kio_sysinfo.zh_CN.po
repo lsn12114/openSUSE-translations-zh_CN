@@ -1,0 +1,334 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2010-04-13 19:46+0200\n"
+"PO-Revision-Date: 2012-05-23 01:29+0800\n"
+"Last-Translator: margurite <i@marguerite.su>\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: ksysinfopart.cpp:84
+msgid "KSysInfo"
+msgstr "KSysinfo"
+
+#: ksysinfopart.cpp:85
+msgid "Embeddable System Information"
+msgstr "可嵌入的系统信息"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "你的名字"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "你的邮件"
+
+#: sysinfo.cpp:86
+#, kde-format
+msgid "%1 GiB"
+msgstr "%1 GiB"
+
+#: sysinfo.cpp:89
+#, kde-format
+msgid "%1 MiB"
+msgstr "%1 MiB"
+
+#: sysinfo.cpp:91
+#, kde-format
+msgid "%1 KiB"
+msgstr "%1 KiB"
+
+#: sysinfo.cpp:136
+msgid "Network is <strong>shutting down</strong>"
+msgstr "网络将<strong>关闭</strong>"
+
+#: sysinfo.cpp:138
+msgid "<strong>Establishing</strong> connection to the network"
+msgstr "<strong>正在连接</strong>网络"
+
+#: sysinfo.cpp:140
+msgid "You are <strong>online</strong>"
+msgstr "您的状态为<strong>联机</strong>"
+
+#: sysinfo.cpp:142
+msgid "You are <strong>offline</strong>"
+msgstr "您的状态为<strong>脱机</strong>"
+
+#: sysinfo.cpp:145
+msgid "Unknown network status"
+msgstr "未知网络状态"
+
+#: sysinfo.cpp:165
+msgid "Looking for CPU information..."
+msgstr "正在查找 CPU 信息..."
+
+#: sysinfo.cpp:174 sysinfo.cpp:177
+msgid "My Computer"
+msgstr "我的电脑"
+
+#: sysinfo.cpp:178
+msgid "Folders, Harddisks, Removable Devices, System Information and more..."
+msgstr "文件夹、硬盘、可移除设备、系统信息等......"
+
+#: sysinfo.cpp:184
+msgid "Looking for disk information..."
+msgstr "正在查找磁盘信息..."
+
+#: sysinfo.cpp:186
+msgid "Disk Information"
+msgstr "磁盘信息"
+
+#: sysinfo.cpp:190
+msgid "OS Information"
+msgstr "操作系统信息"
+
+#: sysinfo.cpp:192
+msgid "OS:"
+msgstr "操作系统："
+
+#: sysinfo.cpp:194
+msgid "Current user:"
+msgstr "当前用户："
+
+#: sysinfo.cpp:196
+msgid "System:"
+msgstr "系统："
+
+#: sysinfo.cpp:197
+msgid "KDE:"
+msgstr "KDE："
+
+#: sysinfo.cpp:203
+msgid "Display Info"
+msgstr "显示信息"
+
+#: sysinfo.cpp:205
+msgid "Vendor:"
+msgstr "供应商："
+
+#: sysinfo.cpp:206
+msgid "Model:"
+msgstr "型号："
+
+#: sysinfo.cpp:207
+msgid "2D driver:"
+msgstr "2D 驱动程序："
+
+#: sysinfo.cpp:209
+msgid "3D driver:"
+msgstr "3D 驱动程序："
+
+#: sysinfo.cpp:214
+msgid "Looking for battery and AC information..."
+msgstr "正在查找电池和电源信息..."
+
+#: sysinfo.cpp:217
+msgid "Battery Information"
+msgstr "电池信息"
+
+#: sysinfo.cpp:219
+msgid "Battery present:"
+msgstr "当前电池："
+
+#: sysinfo.cpp:220
+msgctxt "battery state"
+msgid "State:"
+msgstr "状态："
+
+#: sysinfo.cpp:221
+msgid "Charge percent:"
+msgstr "充电比率："
+
+#: sysinfo.cpp:222
+msgid "Rechargeable:"
+msgstr "可充电："
+
+#: sysinfo.cpp:223
+msgid "AC plugged:"
+msgstr "电源已连接："
+
+#: sysinfo.cpp:230
+msgid "Getting OS information...."
+msgstr "正在获取操作系统信息..."
+
+#: sysinfo.cpp:233
+msgid "Common Folders"
+msgstr "常用文件夹"
+
+#: sysinfo.cpp:236
+msgid "My Documents"
+msgstr "我的文档"
+
+#: sysinfo.cpp:237
+msgid "My Home Folder"
+msgstr "我的家文件夹"
+
+#: sysinfo.cpp:238
+msgid "Root Folder"
+msgstr "根文件夹"
+
+#: sysinfo.cpp:239
+msgid "Network Folders"
+msgstr "网络文件夹"
+
+#: sysinfo.cpp:243
+msgid "Looking up network status..."
+msgstr "正在查找网络状态..."
+
+#: sysinfo.cpp:247
+msgid "Network Status"
+msgstr "网络状态"
+
+#: sysinfo.cpp:256
+msgid "CPU Information"
+msgstr "CPU 信息"
+
+#: sysinfo.cpp:258
+msgid "Processor (CPU):"
+msgstr "处理器 (CPU)："
+
+#: sysinfo.cpp:259
+msgid "Speed:"
+msgstr "速度："
+
+#: sysinfo.cpp:260
+#, kde-format
+msgid "%1 MHz"
+msgstr "%1 MHz"
+
+#: sysinfo.cpp:263
+msgid "Cores:"
+msgstr "核心："
+
+#: sysinfo.cpp:267
+msgid "Temperature:"
+msgstr "温度："
+
+#: sysinfo.cpp:273
+msgid "Looking for memory information..."
+msgstr "正在查找内存信息..."
+
+#: sysinfo.cpp:275
+msgid "Memory Information"
+msgstr "内存信息"
+
+#: sysinfo.cpp:277
+msgid "Total memory (RAM):"
+msgstr "内存总容量 (RAM)："
+
+#: sysinfo.cpp:278
+msgid "Free memory:"
+msgstr "可用内存："
+
+#: sysinfo.cpp:279
+msgid "Used Memory"
+msgstr "已用内存"
+
+#: sysinfo.cpp:280
+msgid "Total swap:"
+msgstr "总交换空间："
+
+#: sysinfo.cpp:281
+msgid "Free swap:"
+msgstr "可用交换空间："
+
+#: sysinfo.cpp:344
+#, kde-format
+msgid "%1 (+ %2 Caches)"
+msgstr "%1（+ %2 超速缓存）"
+
+#: sysinfo.cpp:377
+#, kde-format
+msgctxt "temperature"
+msgid "%1 °C"
+msgstr "%1 °C"
+
+#: sysinfo.cpp:389
+msgid "Device"
+msgstr "设备"
+
+#: sysinfo.cpp:389
+msgid "Filesystem"
+msgstr "文件系统"
+
+#: sysinfo.cpp:390
+msgid "Total space"
+msgstr "总空间"
+
+#: sysinfo.cpp:390
+msgid "Available space"
+msgstr "可用空间"
+
+#: sysinfo.cpp:396
+msgid "Press the right mouse button for more options (such as Mount or Eject.)"
+msgstr "点击鼠标右键获取更多选项（如“装入”或“弹出”）"
+
+#: sysinfo.cpp:634
+msgid "No 3D Acceleration"
+msgstr "无 3D 加速"
+
+#: sysinfo.cpp:644 sysinfo.cpp:654 sysinfo.cpp:704
+msgid "Unknown"
+msgstr "未知"
+
+#: sysinfo.cpp:694
+#, kde-format
+msgid "%1 (3D Support)"
+msgstr "%1（3D 支持）"
+
+#: sysinfo.cpp:698
+#, kde-format
+msgid "%1 (No 3D Support)"
+msgstr "%1（无 3D 支持）"
+
+#: sysinfo.cpp:740
+msgctxt "Unknown operating system version"
+msgid "Unknown"
+msgstr "未知"
+
+#: sysinfo.cpp:877 sysinfo.cpp:893 sysinfo.cpp:898
+msgid "yes"
+msgstr "是"
+
+#: sysinfo.cpp:877 sysinfo.cpp:893 sysinfo.cpp:898
+msgid "no"
+msgstr "否"
+
+#: sysinfo.cpp:878
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: sysinfo.cpp:882
+msgctxt "battery charge state"
+msgid "No Charge"
+msgstr "没在充电"
+
+#: sysinfo.cpp:885
+msgctxt "battery charge state"
+msgid "Charging"
+msgstr "正在充电"
+
+#: sysinfo.cpp:888
+msgctxt "battery charge state"
+msgid "Discharging"
+msgstr "正在放电"
+
+#: sysinfo.cpp:891
+msgctxt "battery charge state"
+msgid "Unknown"
+msgstr "未知"

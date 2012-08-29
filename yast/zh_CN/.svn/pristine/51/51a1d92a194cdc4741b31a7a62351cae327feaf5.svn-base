@@ -1,0 +1,31 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kernel-update-tool\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:34+0200\n"
+"PO-Revision-Date: 2006-11-02 14:29\n"
+"Last-Translator: Novell Language <language@novell.com>\n"
+"Language-Team: Novell Language <language@novell.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/clients/kernel-update.ycp:209
+msgid "Warning"
+msgstr "警告"
+
+#: src/clients/kernel-update.ycp:210
+msgid "Abort the kernel upgrade?"
+msgstr "中止内核升级？"
+
+#: src/clients/kernel-update.ycp:267
+msgid "Alternate Download Location"
+msgstr "备用下载位置"
+
+#: src/clients/kernel-update.ycp:530
+msgid "Kernel Update Status Log"
+msgstr "内核更新状态日志"

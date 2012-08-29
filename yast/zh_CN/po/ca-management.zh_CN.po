@@ -1,0 +1,2537 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-23 15:52+0200\n"
+"PO-Revision-Date: 2012-07-23 05:16+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/YaPI/CaManagement.pm:485
+msgid "Cannot read CA list."
+msgstr "无法读取 CA 列表。"
+
+#: src/YaPI/CaManagement.pm:546
+msgid "Cannot read CA tree."
+msgstr "无法读取 CA 树。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:662 src/YaPI/CaManagement.pm:1343
+#: src/YaPI/CaManagement.pm:1835 src/YaPI/CaManagement.pm:2110
+#: src/YaPI/CaManagement.pm:2866 src/YaPI/CaManagement.pm:2964
+#: src/YaPI/CaManagement.pm:4312 src/YaPI/CaManagement.pm:7188
+#: src/YaPI/CaManagement.pm:7311
+msgid "Missing value 'caName'."
+msgstr "缺少值“caName”。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:669
+msgid "Missing value 'keyPasswd' or password is too short."
+msgstr "缺少值“keyPasswd”或密码太短。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:674 src/YaPI/CaManagement.pm:1847
+#: src/YaPI/CaManagement.pm:4334
+msgid "Missing value 'commonName'."
+msgstr "缺少值“commonName”。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:680 src/YaPI/CaManagement.pm:4340
+msgid "According to 'basicConstraints', this is not a CA."
+msgstr "根据“basicConstraints”，这不是一个 CA。"
+
+#: src/YaPI/CaManagement.pm:767 src/YaPI/CaManagement.pm:1590
+#: src/YaPI/CaManagement.pm:1990 src/YaPI/CaManagement.pm:4487
+msgid "Modifying RequestGenerationData failed."
+msgstr "未能修改 RequestGenerationData。"
+
+#: src/YaPI/CaManagement.pm:907 src/YaPI/CaManagement.pm:1518
+#: src/YaPI/CaManagement.pm:2292 src/YaPI/CaManagement.pm:4618
+msgid "Modifying CertificateIssueData failed."
+msgstr "未能修改 CertificateIssueData。"
+
+#: src/YaPI/CaManagement.pm:931
+msgid "Creating Root CA failed."
+msgstr "未能创建根 CA。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:1041
+msgid "Missing parameter 'certType'."
+msgstr "缺少参数“certType”。"
+
+#: src/YaPI/CaManagement.pm:1246 src/YaPI/CaManagement.pm:7126
+msgid "Getting defaults failed."
+msgstr "未能获取默认值。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:1350 src/YaPI/CaManagement.pm:2126
+msgid "Missing value 'certType'."
+msgstr "缺少值“certType”。"
+
+#: src/YaPI/CaManagement.pm:1371 src/YaPI/CaManagement.pm:1873
+#: src/YaPI/CaManagement.pm:2152 src/YaPI/CaManagement.pm:2993
+#: src/YaPI/CaManagement.pm:3308 src/YaPI/CaManagement.pm:3671
+#: src/YaPI/CaManagement.pm:4005 src/YaPI/CaManagement.pm:4370
+#: src/YaPI/CaManagement.pm:6010 src/YaPI/CaManagement.pm:6695
+#: src/YaPI/CaManagement.pm:7209
+msgid "Initializing the CA failed."
+msgstr "未能初始化 CA。"
+
+#: src/YaPI/CaManagement.pm:1621 src/YaPI/CaManagement.pm:7252
+msgid "Writing the defaults failed."
+msgstr "未能写入默认值。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:1682 src/YaPI/CaManagement.pm:2746
+#: src/YaPI/CaManagement.pm:3101 src/YaPI/CaManagement.pm:3253
+#: src/YaPI/CaManagement.pm:3603 src/YaPI/CaManagement.pm:3953
+#: src/YaPI/CaManagement.pm:4134 src/YaPI/CaManagement.pm:4705
+#: src/YaPI/CaManagement.pm:4961 src/YaPI/CaManagement.pm:5750
+#: src/YaPI/CaManagement.pm:5981 src/YaPI/CaManagement.pm:6411
+#: src/YaPI/CaManagement.pm:6777 src/YaPI/CaManagement.pm:6865
+#: src/YaPI/CaManagement.pm:6971 src/YaPI/CaManagement.pm:7076
+msgid "Invalid value for parameter 'caName'."
+msgstr "参数“caName”的值无效。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:1690 src/YaPI/CaManagement.pm:2754
+#: src/YaPI/CaManagement.pm:3109 src/YaPI/CaManagement.pm:5348
+#: src/YaPI/CaManagement.pm:6419
+msgid "Invalid value for parameter 'type'."
+msgstr "参数“type”的值无效。"
+
+#: src/YaPI/CaManagement.pm:1736
+msgid "Parsing the CA failed."
+msgstr "未能解析 CA。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:1842 src/YaPI/CaManagement.pm:4324
+msgid "Missing value 'keyPasswd'."
+msgstr "缺少值“keyPasswd”。"
+
+#: src/YaPI/CaManagement.pm:2004
+msgid "Creating request failed."
+msgstr "未能创建请求。"
+
+#: src/YaPI/CaManagement.pm:2115
+msgid "Missing value 'request'"
+msgstr "缺少值“request”"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:2121 src/YaPI/CaManagement.pm:2873
+#: src/YaPI/CaManagement.pm:2970 src/YaPI/CaManagement.pm:4329
+#: src/YaPI/CaManagement.pm:6889
+msgid "Missing value 'caPasswd'."
+msgstr "缺少值“caPasswd”。"
+
+#: src/YaPI/CaManagement.pm:2306
+msgid "Signing certificate failed."
+msgstr "签署证书失败。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:2533 src/YaPI/CaManagement.pm:2638
+#: src/YaPI/CaManagement.pm:6546 src/YaPI/CaManagement.pm:6652
+msgid "Missing parameter 'caName'."
+msgstr "缺少参数“caName”。"
+
+#: src/YaPI/CaManagement.pm:2539
+msgid "Missing parameter 'caPasswd'."
+msgstr "缺少参数“caPasswd”。"
+
+#: src/YaPI/CaManagement.pm:2587
+msgid "Getting the certificate list failed."
+msgstr "未能获取证书列表。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:2644 src/YaPI/CaManagement.pm:3289
+#: src/YaPI/CaManagement.pm:3610 src/YaPI/CaManagement.pm:3960
+#: src/YaPI/CaManagement.pm:6978
+msgid "Invalid value for parameter 'caPasswd'."
+msgstr "参数“caPasswd”的值无效。"
+
+#. error message; displayed in an popup dialog
+#: src/YaPI/CaManagement.pm:2671
+msgid "Invalid password."
+msgstr "密码无效。"
+
+#. error message; displayed in an popup dialog
+#: src/YaPI/CaManagement.pm:2678
+msgid "UpdateDB failed."
+msgstr "UpdateDB 失败。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:2761 src/YaPI/CaManagement.pm:3616
+#: src/YaPI/CaManagement.pm:4141 src/YaPI/CaManagement.pm:5757
+#: src/YaPI/CaManagement.pm:5988
+msgid "Invalid value for parameter 'certificate'."
+msgstr "参数“certificate”的值无效。"
+
+#: src/YaPI/CaManagement.pm:2807
+msgid "Parsing the certificate failed."
+msgstr "未能解析证书。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:2878
+msgid "Missing value 'certificate'."
+msgstr "缺少值“certificate”。"
+
+#: src/YaPI/CaManagement.pm:2909
+msgid "Revoking the certificate failed."
+msgstr "未能撤销证书。"
+
+#: src/YaPI/CaManagement.pm:2974
+msgid "Missing value 'days'."
+msgstr "缺少值“days”。"
+
+#: src/YaPI/CaManagement.pm:3027 src/YaPI/CaManagement.pm:7241
+msgid "Modifying CRLGenerationData failed."
+msgstr "未能修改 CRLGenerationData。"
+
+#: src/YaPI/CaManagement.pm:3039
+msgid "Creating the CRL failed."
+msgstr "未能创建 CRL。"
+
+#: src/YaPI/CaManagement.pm:3159
+msgid "No CRL available."
+msgstr "无可用 CRL。"
+
+#: src/YaPI/CaManagement.pm:3163
+msgid "Parsing the CRL failed."
+msgstr "未能解析 CRL。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:3263 src/YaPI/CaManagement.pm:3625
+#: src/YaPI/CaManagement.pm:3976
+#, perl-format
+msgid "Cannot parse destinationFile %s."
+msgstr "无法解析目标文件 %s。"
+
+#: src/YaPI/CaManagement.pm:3270 src/YaPI/CaManagement.pm:3632
+#: src/YaPI/CaManagement.pm:3983
+msgid "Directory does not exist."
+msgstr "目录不存在。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:3282 src/YaPI/CaManagement.pm:3644
+#: src/YaPI/CaManagement.pm:3967 src/YaPI/CaManagement.pm:4058
+msgid "Invalid value for parameter 'exportFormat'."
+msgstr "参数“exportFormat”的值无效。"
+
+#: src/YaPI/CaManagement.pm:3331 src/YaPI/CaManagement.pm:3353
+#: src/YaPI/CaManagement.pm:3375 src/YaPI/CaManagement.pm:3402
+#: src/YaPI/CaManagement.pm:3428 src/YaPI/CaManagement.pm:3450
+#: src/YaPI/CaManagement.pm:3478 src/YaPI/CaManagement.pm:3508
+#: src/YaPI/CaManagement.pm:3694 src/YaPI/CaManagement.pm:3718
+#: src/YaPI/CaManagement.pm:3742 src/YaPI/CaManagement.pm:3772
+#: src/YaPI/CaManagement.pm:3801 src/YaPI/CaManagement.pm:3823
+#: src/YaPI/CaManagement.pm:3854 src/YaPI/CaManagement.pm:3884
+#: src/YaPI/CaManagement.pm:4029 src/YaPI/CaManagement.pm:4051
+msgid "Export failed."
+msgstr "未能导出。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:3458 src/YaPI/CaManagement.pm:3487
+#: src/YaPI/CaManagement.pm:3832 src/YaPI/CaManagement.pm:3862
+msgid "Parameter 'P12Password' missing."
+msgstr "缺少参数“P12Password”。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:3651
+msgid "Invalid value for parameter 'keyPasswd'."
+msgstr "参数“keyPasswd”的值无效。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:4172
+msgid "Invalid value for parameter 'purpose'."
+msgstr "参数“purpose”的值无效。"
+
+#: src/YaPI/CaManagement.pm:4186
+msgid "Verification failed."
+msgstr "校验失败。"
+
+#: src/YaPI/CaManagement.pm:4318
+msgid "Missing value 'newCaName'."
+msgstr "缺少值“newCaName”。"
+
+#: src/YaPI/CaManagement.pm:4633
+msgid "Creating the SubCA failed."
+msgstr "未能创建 SubCA。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:4716 src/YaPI/CaManagement.pm:4972
+#: src/YaPI/CaManagement.pm:5773
+msgid "Invalid value for parameter 'ldapHostname'."
+msgstr "参数“ldapHostname”的值无效。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:4728 src/YaPI/CaManagement.pm:4984
+#: src/YaPI/CaManagement.pm:5785
+msgid "Invalid value for parameter 'ldapPort'."
+msgstr "参数“ldapPort”的值无效。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:4737 src/YaPI/CaManagement.pm:4743
+#: src/YaPI/CaManagement.pm:4993 src/YaPI/CaManagement.pm:4998
+#: src/YaPI/CaManagement.pm:5792
+msgid "Invalid value for parameter 'destinationDN'."
+msgstr "参数“destination判别名”的值无效。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:4763 src/YaPI/CaManagement.pm:5018
+#: src/YaPI/CaManagement.pm:5799
+msgid "Invalid value for parameter 'BindDN'."
+msgstr "参数“Bind判别名”的值无效。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:4770 src/YaPI/CaManagement.pm:5025
+#: src/YaPI/CaManagement.pm:5806
+msgid "Invalid value for parameter 'ldapPasswd'."
+msgstr "参数“ldapPasswd”的值无效。"
+
+#: src/YaPI/CaManagement.pm:4776
+msgid "CA certificate does not exist."
+msgstr "CA 证书不存在。"
+
+#: src/YaPI/CaManagement.pm:4787
+msgid "Cannot read the CA."
+msgstr "无法读取 CA。"
+
+#: src/YaPI/CaManagement.pm:4795
+msgid "Cannot parse the CA certificate."
+msgstr "无法解析 CA 证书。"
+
+#: src/YaPI/CaManagement.pm:4816 src/YaPI/CaManagement.pm:5071
+#: src/YaPI/CaManagement.pm:5404 src/YaPI/CaManagement.pm:5568
+#: src/YaPI/CaManagement.pm:5860
+msgid "LDAP initialization failed."
+msgstr "LDAP 初始化失败。"
+
+#: src/YaPI/CaManagement.pm:4823 src/YaPI/CaManagement.pm:5078
+#: src/YaPI/CaManagement.pm:5411 src/YaPI/CaManagement.pm:5577
+#: src/YaPI/CaManagement.pm:5867
+msgid "LDAP bind failed."
+msgstr "LDAP 联结失败。"
+
+#: src/YaPI/CaManagement.pm:4836 src/YaPI/CaManagement.pm:5091
+#, perl-format
+msgid "Container %s is not available in the LDAP directory."
+msgstr "LDAP 目录中找不到容器 %s。"
+
+#: src/YaPI/CaManagement.pm:4854 src/YaPI/CaManagement.pm:5110
+#: src/YaPI/CaManagement.pm:5127
+msgid "Error while searching in LDAP."
+msgstr "在 LDAP 中搜索时出错。"
+
+#: src/YaPI/CaManagement.pm:4873
+msgid "Cannot add CA certificate to the LDAP directory."
+msgstr "无法将 CA 证书添加到 LDAP 目录。"
+
+#: src/YaPI/CaManagement.pm:4885
+msgid "Cannot modify CA certificate in the LDAP directory."
+msgstr "无法修改 LDAP 目录中的 CA 证书。"
+
+#: src/YaPI/CaManagement.pm:5031
+msgid "CRL does not exist."
+msgstr "CRL 不存在。"
+
+#: src/YaPI/CaManagement.pm:5042
+msgid "Cannot read the CRL."
+msgstr "无法读取 CRL。"
+
+#: src/YaPI/CaManagement.pm:5050
+msgid "Cannot parse the CRL."
+msgstr "无法解析 CRL。"
+
+#: src/YaPI/CaManagement.pm:5148
+msgid "Cannot add the CRL to the LDAP directory."
+msgstr "无法将 CRL 添加到 LDAP 目录。"
+
+#: src/YaPI/CaManagement.pm:5161
+msgid "Cannot modify the CRL in the LDAP directory."
+msgstr "无法修改 LDAP 目录中的 CRL。"
+
+#: src/YaPI/CaManagement.pm:5264
+msgid "Checking for new CRL Distribution Point failed."
+msgstr "未能检查新的 CRL 分布点。"
+
+#: src/YaPI/CaManagement.pm:5357
+msgid "Missing parameter 'commonName'."
+msgstr "缺少参数“commonName”。"
+
+#: src/YaPI/CaManagement.pm:5389 src/YaPI/CaManagement.pm:5560
+msgid "No LDAP server configured."
+msgstr "未配置 LDAP 服务器。"
+
+#: src/YaPI/CaManagement.pm:5429 src/YaPI/CaManagement.pm:5447
+#: src/YaPI/CaManagement.pm:5492 src/YaPI/CaManagement.pm:5606
+#: src/YaPI/CaManagement.pm:5622 src/YaPI/CaManagement.pm:5655
+msgid "LDAP search failed."
+msgstr "LDAP 搜索失败。"
+
+#: src/YaPI/CaManagement.pm:5457
+msgid "No configuration available in LDAP."
+msgstr "LDAP 中没有配置。"
+
+#: src/YaPI/CaManagement.pm:5546
+msgid "LDAP password required."
+msgstr "要求 LDAP 密码。"
+
+#: src/YaPI/CaManagement.pm:5600
+msgid "Cannot add base configuration entry."
+msgstr "无法添加基本配置条目。"
+
+#: src/YaPI/CaManagement.pm:5650 src/YaPI/CaManagement.pm:5672
+msgid "Cannot add CA configuration entry."
+msgstr "无法添加 CA 配置条目。"
+
+#: src/YaPI/CaManagement.pm:5812
+msgid "Certificate does not exist."
+msgstr "证书不存在。"
+
+#: src/YaPI/CaManagement.pm:5832 src/ca_mgm_auto.ycp:304
+msgid "Cannot read the certificate."
+msgstr "无法读取证书。"
+
+#: src/YaPI/CaManagement.pm:5839
+msgid "Cannot parse the certificate."
+msgstr "无法解析证书。"
+
+#: src/YaPI/CaManagement.pm:5880
+#, perl-format
+msgid "%s is not available in the LDAP directory."
+msgstr "LDAP 目录中找不到 %s。"
+
+#: src/YaPI/CaManagement.pm:5891
+msgid "Cannot modify userCertificate in the LDAP directory."
+msgstr "无法修改 LDAP 目录中的 userCertificate。"
+
+#: src/YaPI/CaManagement.pm:5909
+msgid "Exporting the certificate failed."
+msgstr "未能导出证书。"
+
+#: src/YaPI/CaManagement.pm:5920
+msgid "Cannot modify userPKCS12 in LDAP directory."
+msgstr "无法修改 LDAP 目录中的 userPKCS12。"
+
+#: src/YaPI/CaManagement.pm:6022
+msgid "Deleting the certificate failed."
+msgstr "未能删除证书。"
+
+#. parameter check
+#: src/YaPI/CaManagement.pm:6090
+msgid "Path to certificate file is needed."
+msgstr "需要提供证书文件的路径。"
+
+#: src/YaPI/CaManagement.pm:6097
+msgid "Certificate not found in"
+msgstr "在以下位置找不到证书："
+
+#. parameter check
+#: src/YaPI/CaManagement.pm:6103
+msgid "Password is required."
+msgstr "要求密码。"
+
+#: src/YaPI/CaManagement.pm:6115
+msgid "Importing the certificate failed."
+msgstr "未能导入证书。"
+
+#: src/YaPI/CaManagement.pm:6203
+msgid "Missing parameter 'inFile'."
+msgstr "缺少参数“inFile”。"
+
+#: src/YaPI/CaManagement.pm:6208
+msgid "File not found."
+msgstr "找不到文件。"
+
+#: src/YaPI/CaManagement.pm:6214
+msgid "Missing parameter 'type'."
+msgstr "缺少参数“type”。"
+
+#: src/YaPI/CaManagement.pm:6218
+#, perl-format
+msgid "Invalid value '%s' in 'type'."
+msgstr "“type”中的值“%s”无效。"
+
+#: src/YaPI/CaManagement.pm:6225
+msgid "Missing parameter 'datatype'."
+msgstr "缺少参数“datatype”。"
+
+#: src/YaPI/CaManagement.pm:6229
+#, perl-format
+msgid "Unknown value '%s' in 'datatype'."
+msgstr "“datatype”中的值“%s”未知。"
+
+#: src/YaPI/CaManagement.pm:6235
+msgid "Missing parameter 'inForm'."
+msgstr "缺少参数“inForm”。"
+
+#: src/YaPI/CaManagement.pm:6239
+#, perl-format
+msgid "Unknown value '%s' in 'inForm'."
+msgstr "“inForm”中的值“%s”未知。"
+
+#: src/YaPI/CaManagement.pm:6344
+msgid "Parsing failed."
+msgstr "解析失败。"
+
+#. parameter check failed
+#: src/YaPI/CaManagement.pm:6426 src/YaPI/CaManagement.pm:6784
+msgid "Invalid value for parameter 'request'."
+msgstr "参数“request”的值无效。"
+
+#: src/YaPI/CaManagement.pm:6472
+msgid "Parsing the request failed."
+msgstr "未能解析请求。"
+
+#: src/YaPI/CaManagement.pm:6586
+msgid "Getting the request list failed."
+msgstr "未能获取请求列表。"
+
+#: src/YaPI/CaManagement.pm:6661
+#, perl-format
+msgid "Request not found in %s."
+msgstr "未在 %s 中发现请求。"
+
+#: src/YaPI/CaManagement.pm:6668
+msgid "Cannot read the request."
+msgstr "无法读取请求。"
+
+#: src/YaPI/CaManagement.pm:6674
+msgid "No request data found."
+msgstr "找不到请求数据。"
+
+#: src/YaPI/CaManagement.pm:6717
+msgid "Importing the request failed."
+msgstr "未能导入请求。"
+
+#: src/YaPI/CaManagement.pm:6808
+msgid "Deleting the request failed."
+msgstr "未能删除请求。"
+
+#: src/YaPI/CaManagement.pm:6871
+msgid "Invalid value for parameter 'caCertificate'."
+msgstr "参数“caCertifiCAte”的值无效。"
+
+#: src/YaPI/CaManagement.pm:6876
+msgid "Invalid value for parameter 'caKey'."
+msgstr "参数“caKey”的值无效。"
+
+#: src/YaPI/CaManagement.pm:6883
+#, perl-format
+msgid "CA key not available in %s."
+msgstr "CA 密钥在 %s 中不可用。"
+
+#: src/YaPI/CaManagement.pm:6912
+msgid "Importing the CA failed."
+msgstr "未能导入 CA。"
+
+#: src/YaPI/CaManagement.pm:7009
+msgid "Deleting the CA failed."
+msgstr "未能删除 CA。"
+
+#: src/YaPI/CaManagement.pm:7349 src/YaPI/CaManagement.pm:7365
+msgid "Keyfile does not exist."
+msgstr "密钥文件不存在。"
+
+#: src/YaPI/CaManagement.pm:7384
+msgid "Password change failed."
+msgstr "密码修改失败。"
+
+#: src/YaPI/caUtils.pm:216
+#, perl-format
+msgid "Invalid type for StringExtension '%s'."
+msgstr "StringExtension“%s”的类型无效。"
+
+#: src/YaPI/caUtils.pm:1814
+msgid "Missing 'data' map."
+msgstr "缺少“data”映射。"
+
+#: src/YaPI/caUtils.pm:1823 src/YaPI/caUtils.pm:1827 src/YaPI/caUtils.pm:1833
+#: src/YaPI/caUtils.pm:1839 src/YaPI/caUtils.pm:1845 src/YaPI/caUtils.pm:1858
+#: src/YaPI/caUtils.pm:1865 src/YaPI/caUtils.pm:1874 src/YaPI/caUtils.pm:1883
+#: src/YaPI/caUtils.pm:1889 src/YaPI/caUtils.pm:1912 src/YaPI/caUtils.pm:1933
+#: src/YaPI/caUtils.pm:1938 src/YaPI/caUtils.pm:1955 src/YaPI/caUtils.pm:1960
+#: src/YaPI/caUtils.pm:1974 src/YaPI/caUtils.pm:1978 src/YaPI/caUtils.pm:1993
+#: src/YaPI/caUtils.pm:1997 src/YaPI/caUtils.pm:2015 src/YaPI/caUtils.pm:2022
+#: src/YaPI/caUtils.pm:2029 src/YaPI/caUtils.pm:2036 src/YaPI/caUtils.pm:2043
+#: src/YaPI/caUtils.pm:2050 src/YaPI/caUtils.pm:2057 src/YaPI/caUtils.pm:2063
+#: src/YaPI/caUtils.pm:2070 src/YaPI/caUtils.pm:2085 src/YaPI/caUtils.pm:2097
+#: src/YaPI/caUtils.pm:2115 src/YaPI/caUtils.pm:2120 src/YaPI/caUtils.pm:2139
+#: src/YaPI/caUtils.pm:2146 src/YaPI/caUtils.pm:2153 src/YaPI/caUtils.pm:2160
+#: src/YaPI/caUtils.pm:2167 src/YaPI/caUtils.pm:2173 src/YaPI/caUtils.pm:2179
+#: src/YaPI/caUtils.pm:2185 src/YaPI/caUtils.pm:2200 src/YaPI/caUtils.pm:2206
+#: src/YaPI/caUtils.pm:2212
+#, perl-format
+msgid "Invalid value '%s' for parameter '%s'."
+msgstr "值“%s”（参数“'%s”）无效。"
+
+#: src/YaPI/caUtils.pm:1851
+#, perl-format
+msgid "Password (%s) is too simple."
+msgstr "密码 (%s) 太简单。"
+
+#: src/YaPI/caUtils.pm:1898 src/YaPI/caUtils.pm:1919 src/YaPI/caUtils.pm:1926
+#: src/YaPI/caUtils.pm:1945 src/YaPI/caUtils.pm:1967 src/YaPI/caUtils.pm:1985
+#: src/YaPI/caUtils.pm:2004 src/YaPI/caUtils.pm:2079 src/YaPI/caUtils.pm:2093
+#: src/YaPI/caUtils.pm:2104 src/YaPI/caUtils.pm:2128 src/YaPI/caUtils.pm:2192
+#, perl-format
+msgid "Wrong use of 'critical' in '%s'."
+msgstr "“%s”中的“critical”使用错误。"
+
+#: src/YaPI/caUtils.pm:1907
+#, perl-format
+msgid "Unknown value '%s' in '%s'."
+msgstr "未知值 '%s'('%s' 中)。"
+
+#. help text 1/2
+#: src/ca.ycp:54
+msgid "<p>Here, see the most important values of the CA.</p>"
+msgstr "<p>在此可查看该 CA 最重要的值。</p>"
+
+#. help text 2/2
+#: src/ca.ycp:56
+msgid "<p>Special information about the current CA is provided by <b>Certificates</b>, <b>CRL</b>, and <b>Advanced</b>.</p>"
+msgstr "<p>当前 CA 的特殊信息是由<b>证书</b>、<b>CRL</b> 和<b>高级</b>提供的。</p>"
+
+#. popup window header
+#: src/ca.ycp:125 src/certificate.ycp:205 src/common_cert.ycp:84
+#: src/crl.ycp:122 src/request.ycp:211
+msgid "Description"
+msgstr "描述"
+
+#: src/ca.ycp:148
+#, ycp-format
+msgid "<p><b> Description for %1 </b></p>"
+msgstr "<p><b> %1 的描述 </b></p>"
+
+#: src/ca.ycp:154
+msgid ""
+"\n"
+"CA not found"
+msgstr ""
+"\n"
+"找不到 CA"
+
+#: src/ca.ycp:161
+msgid "<p><b>Issued For:</b></p>"
+msgstr "<p><b>发行原因：</b></p>"
+
+#: src/ca.ycp:175
+msgid "<p><b>Issued By:</b></p>"
+msgstr "<p><b>发行方：</b></p>"
+
+#: src/ca.ycp:186
+msgid ""
+"\n"
+"Valid from: "
+msgstr ""
+"\n"
+"有效起始时间："
+
+#: src/ca.ycp:187
+msgid ""
+"\n"
+"Valid to: "
+msgstr ""
+"\n"
+"有效截止时间："
+
+#. To translators: pushbutton label
+#: src/ca.ycp:211
+msgid "&Advanced..."
+msgstr "高级(&A)..."
+
+#: src/ca.ycp:213 src/certificate.ycp:352 src/crl.ycp:200 src/request.ycp:309
+msgid "&View"
+msgstr "查看(&V)"
+
+#: src/ca.ycp:214
+msgid "&Change CA Password"
+msgstr "修改 CA 密码(&C)"
+
+#: src/ca.ycp:215
+msgid "C&reate SubCA"
+msgstr "创建子 CA(&R)"
+
+#: src/ca.ycp:216
+msgid "Export to &File"
+msgstr "导出到文件(&F)"
+
+#: src/ca.ycp:217
+msgid "Export to &LDAP"
+msgstr "导出到 LDAP(&L)"
+
+#: src/ca.ycp:218
+msgid "&Edit Default"
+msgstr "编辑默认值(&E)"
+
+#: src/ca_mgm.ycp:28
+msgid "Managing CA and certificates"
+msgstr "管理 CA 和证书"
+
+#: src/ca_mgm.ycp:32
+msgid "Create a root CA"
+msgstr "创建根 CA"
+
+#: src/ca_mgm.ycp:35
+msgid "Create a certificate of a CA"
+msgstr "创建 CA 的证书"
+
+#: src/ca_mgm.ycp:37
+msgid "Create a CRL of a CA"
+msgstr "创建 CA 的 CRL"
+
+#: src/ca_mgm.ycp:39
+msgid "Export a CA to a file"
+msgstr "将 CA 导出到文件"
+
+#: src/ca_mgm.ycp:41
+msgid "Export a certificate to a file"
+msgstr "将证书导出到文件"
+
+#: src/ca_mgm.ycp:43
+msgid "Export a CRL to a file"
+msgstr "将 CRL 导出到文件"
+
+#: src/ca_mgm.ycp:59
+msgid "E-mail address"
+msgstr "电子邮件地址"
+
+#: src/ca_mgm.ycp:64
+msgid "Organizational unit"
+msgstr "组织单元"
+
+#: src/ca_mgm.ycp:68 src/ca_mgm_auto.ycp:502 src/certificate.ycp:333
+#: src/request.ycp:283
+msgid "Organization"
+msgstr "组织"
+
+#: src/ca_mgm.ycp:72 src/ca_mgm_auto.ycp:506 src/certificate.ycp:334
+#: src/request.ycp:284
+msgid "Locality"
+msgstr "位置"
+
+#: src/ca_mgm.ycp:76 src/ca_mgm_auto.ycp:508 src/certificate.ycp:335
+#: src/request.ycp:285
+msgid "State"
+msgstr "省/州"
+
+#: src/ca_mgm.ycp:80 src/ca_mgm_auto.ycp:500 src/certificate.ycp:335
+#: src/request.ycp:285
+msgid "Country"
+msgstr "国家/地区"
+
+#: src/ca_mgm.ycp:84
+msgid "Valid days"
+msgstr "有效天数"
+
+#: src/ca_mgm.ycp:88
+msgid "Key length"
+msgstr "密钥长度"
+
+#: src/ca_mgm.ycp:93
+msgid "Password (Security: This should be given by an environment variable)"
+msgstr "密码(安全性：这应当由环境变量指定)"
+
+#: src/ca_mgm.ycp:106
+msgid "CA password (Security: This should be given by an environment variable)"
+msgstr "CA 密码(安全性：这应当由环境变量指定)"
+
+#: src/ca_mgm.ycp:111
+msgid "P12 password (Security: This should be given by an environment variable)"
+msgstr "P12 密码(安全性：这应当由环境变量指定)"
+
+#: src/ca_mgm.ycp:124
+msgid "Path of the exported CA, certificate, or CRL"
+msgstr "已导出 CA、证书或 CRL 的路径"
+
+#: src/ca_mgm_auto.ycp:68
+msgid "CA Configuration"
+msgstr "CA 配置"
+
+#: src/ca_mgm_auto.ycp:70
+msgid ""
+"<p>\n"
+"YaST generates a default CA and certificate automatically. This CA and certificate\n"
+"is used for communicating with the Apache server.\n"
+"Here, change the settings of this CA and certificate or import a CA and certificate from a file.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"YaST 将自动生成默认 CA 和证书。在与 Apache\n"
+"服务器通信时将使用此 CA 和证书。\n"
+"在此处更改此 CA 和证书的设置或从文件中导入 CA 和证书。\n"
+"</p>\n"
+
+#: src/ca_mgm_auto.ycp:86
+msgid "Import Common CA and Certificate"
+msgstr "导入通用 CA 和证书"
+
+#: src/ca_mgm_auto.ycp:91
+msgid "&Path of Certificate"
+msgstr "证书的路径(&P)"
+
+#: src/ca_mgm_auto.ycp:99 src/ca_mgm_auto.ycp:134 src/ca_mgm_proposal.ycp:253
+#: src/ca_select_proposal.ycp:239 src/new_cert.ycp:408 src/util.ycp:265
+#: src/util.ycp:1068
+msgid "&Password:"
+msgstr "密码(&P)："
+
+#: src/ca_mgm_auto.ycp:101 src/ca_mgm_auto.ycp:136 src/ca_mgm_proposal.ycp:254
+#: src/ca_select_proposal.ycp:241
+msgid "Co&nfirm Password"
+msgstr "确认密码(&N)"
+
+#: src/ca_mgm_auto.ycp:106
+msgid "Generate Common CA and Certificate"
+msgstr "生成通用 CA 和证书"
+
+#: src/ca_mgm_auto.ycp:110 src/ca_select_proposal.ycp:216 src/new_cert.ycp:140
+#: src/util.ycp:1402
+msgid "&CA Name:"
+msgstr "CA 名称(&C)："
+
+#: src/ca_mgm_auto.ycp:113 src/ca_select_proposal.ycp:219 src/new_cert.ycp:142
+msgid "&Common Name:"
+msgstr "通用名(&C)："
+
+#: src/ca_mgm_auto.ycp:116 src/ca_select_proposal.ycp:243
+msgid "E-Mail"
+msgstr "电子邮件"
+
+#: src/ca_mgm_auto.ycp:119 src/ca_select_proposal.ycp:225 src/new_cert.ycp:152
+msgid "C&ountry:"
+msgstr "国家/地区(&O)："
+
+#: src/ca_mgm_auto.ycp:122 src/ca_select_proposal.ycp:228 src/new_cert.ycp:145
+msgid "O&rganization:"
+msgstr "组织(&R)："
+
+#: src/ca_mgm_auto.ycp:125 src/ca_select_proposal.ycp:231 src/new_cert.ycp:147
+msgid "Or&ganizational Unit:"
+msgstr "组织单元(&G)："
+
+#: src/ca_mgm_auto.ycp:128 src/ca_select_proposal.ycp:234 src/new_cert.ycp:148
+msgid "Loca&lity:"
+msgstr "位置(&L)："
+
+#: src/ca_mgm_auto.ycp:131 src/ca_select_proposal.ycp:237 src/new_cert.ycp:150
+msgid "&State:"
+msgstr "省/州(&S)："
+
+#: src/ca_mgm_auto.ycp:139
+msgid "Take Local Server Name"
+msgstr "采用逻辑服务器名称"
+
+#: src/ca_mgm_auto.ycp:141 src/ca_select_proposal.ycp:222
+msgid "&Server Name:"
+msgstr "服务器名称(&S)："
+
+#: src/ca_mgm_auto.ycp:234 src/ca_mgm_auto.ycp:280 src/ca_mgm_proposal.ycp:274
+#: src/ca_select_proposal.ycp:287 src/util.ycp:200 src/util.ycp:540
+#: src/util.ycp:709 src/util.ycp:991
+msgid "New passwords do not match."
+msgstr "新密码不匹配。"
+
+#: src/ca_mgm_auto.ycp:239 src/ca_mgm_auto.ycp:285
+#: src/ca_select_proposal.ycp:292
+msgid "Password length should be greater than three characters."
+msgstr "密码长度应该超过 3 个字符。"
+
+#. Error popup
+#: src/ca_mgm_auto.ycp:247 src/new_cert.ycp:276 src/util.ycp:1488
+msgid "CA name required."
+msgstr "要求 CA 名称。"
+
+#: src/ca_mgm_auto.ycp:254 src/new_cert.ycp:282
+msgid "Common name required."
+msgstr "要求通用名。"
+
+#: src/ca_mgm_auto.ycp:261 src/ca_mgm_proposal.ycp:241
+#: src/ca_select_proposal.ycp:331 src/new_cert.ycp:220 src/new_cert.ycp:307
+msgid "Invalid e-mail format."
+msgstr "电子邮件的格式无效。"
+
+#: src/ca_mgm_auto.ycp:270
+msgid "Server name required."
+msgstr "需要服务器名称。"
+
+#: src/ca_mgm_auto.ycp:480
+msgid "Import Certificate from File"
+msgstr "从文件中导入证书。"
+
+#: src/ca_mgm_auto.ycp:485
+msgid "Server Name"
+msgstr "服务器名"
+
+#: src/ca_mgm_auto.ycp:488
+msgid "[local server name]"
+msgstr "[逻辑服务器名称]"
+
+#: src/ca_mgm_auto.ycp:494
+msgid "CA Name"
+msgstr "CA 名称"
+
+#. To translators: table headers
+#: src/ca_mgm_auto.ycp:496 src/certificate.ycp:332 src/request.ycp:282
+msgid "Common Name"
+msgstr "通用名"
+
+#: src/ca_mgm_auto.ycp:497 src/ca_mgm_auto.ycp:499 src/ca_mgm_auto.ycp:501
+#: src/ca_mgm_auto.ycp:503 src/ca_mgm_auto.ycp:505 src/ca_mgm_auto.ycp:507
+#: src/ca_mgm_auto.ycp:509 src/ca_mgm_auto.ycp:514
+msgid "[not set]"
+msgstr "[未设置]"
+
+#: src/ca_mgm_auto.ycp:498
+msgid "Email"
+msgstr "电子邮件"
+
+#: src/ca_mgm_auto.ycp:504 src/certificate.ycp:334 src/request.ycp:284
+msgid "Organizational Unit"
+msgstr "组织单元"
+
+#: src/ca_mgm_auto.ycp:511
+msgid "Password"
+msgstr "密码"
+
+#: src/ca_mgm_auto.ycp:518
+msgid "[set]"
+msgstr "[设置]"
+
+#: src/ca_mgm_auto.ycp:532
+msgid "Generating Common Server Certificate"
+msgstr "生成通用服务器证书"
+
+#. Progress stage 1/2
+#: src/ca_mgm_auto.ycp:542 src/ca_mgm_auto.ycp:547
+msgid "Read server information"
+msgstr "读取服务器信息"
+
+#. Progress stage 2/2
+#: src/ca_mgm_auto.ycp:544
+msgid "Create the default CA and server certificate"
+msgstr "创建默认 CA 和服务器证书"
+
+#. Progress step 2/2
+#: src/ca_mgm_auto.ycp:549
+msgid "Creating the default CA and server certificate..."
+msgstr "正在创建默认 CA 和服务器证书..."
+
+#. Progress finished
+#: src/ca_mgm_auto.ycp:551
+msgid "Finished"
+msgstr "已完成"
+
+#. Error message
+#: src/ca_mgm_auto.ycp:648
+msgid "Cannot create certificates."
+msgstr "无法创建证书。"
+
+#: src/ca_mgm_proposal.ycp:88
+msgid "Cannot evaluate the name of the local machine. Change the values of Server Name and E-Mail."
+msgstr "无法评估逻辑机器的名称。更改服务器名称和电子邮件的值。"
+
+#. richtext label
+#: src/ca_mgm_proposal.ycp:145 src/ca_mgm_proposal.ycp:192
+#: src/ca_mgm_proposal.ycp:364 src/ca_mgm_proposal.ycp:392
+msgid "CA Management"
+msgstr "CA 管理"
+
+#: src/ca_mgm_proposal.ycp:146 src/ca_mgm_proposal.ycp:193
+#: src/ca_mgm_proposal.ycp:365
+msgid "Settings have already been written."
+msgstr "设置已写入。"
+
+#: src/ca_mgm_proposal.ycp:147 src/ca_mgm_proposal.ycp:194
+#: src/ca_mgm_proposal.ycp:366
+msgid "Delete the old settings?"
+msgstr "是否删除旧设置？"
+
+#: src/ca_mgm_proposal.ycp:251 src/ca_mgm_proposal.ycp:290
+msgid "Unable to retrieve the system root password. Set a CA password to continue."
+msgstr "无法获取到系统根密码。请设置一个 CA 密码继续。"
+
+#: src/ca_mgm_proposal.ycp:279
+msgid ""
+"The password is too short for use as the password for the certificates. \n"
+" Enter a valid password for the certificates or disable certificate creation.\n"
+msgstr ""
+"密码过短，不能充当证书的密码。\n"
+"请为证书输入有效密码或禁用证书创建。\n"
+
+#: src/ca_mgm_proposal.ycp:300
+msgid "Current default CA and certificate."
+msgstr "当前默认的 CA 和证书。"
+
+#: src/ca_mgm_proposal.ycp:305 src/ca_mgm_proposal.ycp:311
+msgid "Creating default CA and certificate."
+msgstr "正在创建默认的 CA 和证书。"
+
+#: src/ca_mgm_proposal.ycp:307
+msgid "With higher security requirements, you should change the password."
+msgstr "由于需要更高的安全性，应更改该密码。"
+
+#: src/ca_mgm_proposal.ycp:315
+msgid "[manually set]"
+msgstr "[手工设置]"
+
+#: src/ca_mgm_proposal.ycp:315
+msgid "[root password]"
+msgstr "[根密码]"
+
+#: src/ca_mgm_proposal.ycp:322 src/crlExport.ycp:270 src/dialog-ca.ycp:165
+msgid "CA Name: "
+msgstr "CA 名称："
+
+#: src/ca_mgm_proposal.ycp:323
+msgid "Common Name: "
+msgstr "通用名："
+
+#: src/ca_mgm_proposal.ycp:324
+msgid "Server Name: "
+msgstr "服务器名："
+
+#: src/ca_mgm_proposal.ycp:325
+msgid "Country: "
+msgstr "国家/地区："
+
+#: src/ca_mgm_proposal.ycp:326
+msgid "Password: "
+msgstr "密码："
+
+#: src/ca_mgm_proposal.ycp:327
+msgid "E-Mail: "
+msgstr "电子邮件："
+
+#: src/ca_mgm_proposal.ycp:328
+msgid "Alternative Names: "
+msgstr "备用名："
+
+#: src/ca_mgm_proposal.ycp:333
+msgid ""
+"The root password is too short for use as the password for the certificates. \n"
+" Enter a valid password for the certificates or disable certificate creation.\n"
+msgstr ""
+"根密码过短，不能充当证书的密码。\n"
+"请为证书输入有效密码或禁用证书创建。\n"
+
+#: src/ca_mgm_proposal.ycp:341
+msgid "Not creating a CA and certificate."
+msgstr "未创建 CA 和证书。"
+
+#: src/ca_mgm_proposal.ycp:345
+msgid "Importing a CA and certificate from file"
+msgstr "从文件导入 CA 和证书"
+
+#: src/ca_mgm_proposal.ycp:352
+msgid "<p>Is the default hostname <b>linux</b> really unique? The certificate is only valid if the hostname is correct.</p>"
+msgstr "<p>默认主机名 <b>linux</b> 是否确实唯一？证书只有在主机名正确时才有效。</p>"
+
+#. menu title
+#: src/ca_mgm_proposal.ycp:394
+msgid "&CA Management"
+msgstr "CA 管理(&C)"
+
+#: src/ca_select_proposal.ycp:66 src/new_cert_callbacks.ycp:358
+#: src/new_cert_callbacks.ycp:712
+msgid "&Name:"
+msgstr "名称(&N)："
+
+#: src/ca_select_proposal.ycp:78 src/new_cert_items.ycp:106
+#: src/new_cert_items.ycp:142 src/new_cert_items.ycp:174
+#: src/new_cert_items.ycp:222 src/new_cert_items.ycp:277
+#: src/new_cert_items.ycp:294 src/new_cert_items.ycp:341
+#: src/new_cert_items.ycp:357 src/new_cert_items.ycp:424
+#: src/new_cert_items.ycp:433 src/new_cert_items.ycp:448
+#: src/new_cert_items.ycp:466 src/new_cert_items.ycp:482
+#: src/new_cert_items.ycp:498 src/new_cert_items.ycp:514
+#: src/new_cert_items.ycp:530 src/new_cert_items.ycp:546
+#: src/new_cert_items.ycp:562
+msgid "critical"
+msgstr "紧急"
+
+#. To translators: table headers
+#: src/ca_select_proposal.ycp:87 src/crlDefault.ycp:145
+#: src/new_cert_items.ycp:186 src/new_cert_items.ycp:371
+msgid "Kind"
+msgstr "类型"
+
+#: src/ca_select_proposal.ycp:88 src/crlDefault.ycp:146
+#: src/new_cert_items.ycp:187 src/new_cert_items.ycp:372
+msgid "Name"
+msgstr "名称"
+
+#: src/ca_select_proposal.ycp:128 src/ca_select_proposal.ycp:175
+#: src/new_cert_callbacks.ycp:405 src/new_cert_callbacks.ycp:444
+#: src/new_cert_callbacks.ycp:767 src/new_cert_callbacks.ycp:805
+msgid "No item has been selected."
+msgstr "未选中任何条目。"
+
+#. To translators: ContinueCancel Popup headline
+#: src/ca_select_proposal.ycp:183 src/certificate.ycp:447
+#: src/new_cert_callbacks.ycp:414 src/new_cert_callbacks.ycp:776
+#: src/request.ycp:378 src/startup.ycp:81
+msgid "Delete"
+msgstr "删除"
+
+#. To translators: ContinueCancel Popup
+#: src/ca_select_proposal.ycp:185 src/new_cert_callbacks.ycp:416
+#: src/new_cert_callbacks.ycp:778
+msgid "Really delete this entry?"
+msgstr "确实要删除此项吗？"
+
+#: src/ca_select_proposal.ycp:207
+msgid ""
+"<p>\n"
+"YaST generates a <b>default CA and certificate</b> automatically. This CA and certificate\n"
+"is used for communicating with the <b>Apache server</b>.\n"
+"Here, change these <b>default settings</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"YaST 会自动生成一个<b>默认的 CA 和证书</b>。该 CA 和证书\n"
+"用于与 <b>Apache 服务器</b>进行通讯。\n"
+"在此，更改这些<b>默认设置</b>。\n"
+"</p>\n"
+
+#. Screen title for the first interactive dialog
+#: src/ca_select_proposal.ycp:250 src/certDefault.ycp:66
+msgid "Edit Default Settings"
+msgstr "编辑默认设置"
+
+#: src/ca_select_proposal.ycp:362
+msgid "Managing CAs and Certificates"
+msgstr "管理 CA 和证书"
+
+#: src/ca_select_proposal.ycp:364
+msgid "Selection"
+msgstr "选择"
+
+#: src/ca_select_proposal.ycp:368
+msgid "Create &Default CA and Certificate"
+msgstr "创建默认的 CA 和证书(&D)"
+
+#: src/ca_select_proposal.ycp:371
+msgid "Edit Default &Settings"
+msgstr "编辑默认设置(&S)"
+
+#: src/ca_select_proposal.ycp:374
+msgid "Do &Not Create CA and Certificate"
+msgstr "不创建 CA 和证书(&N)"
+
+#: src/ca_select_proposal.ycp:376
+msgid "Import CA and Certificate from D&isk"
+msgstr "从磁盘导入 CA 和证书(&I)"
+
+#: src/ca_select_proposal.ycp:381
+msgid ""
+"<p>\n"
+"In this frame, select the desired installation method for <b>CAs</b> and <b>certificates</b>\n"
+"while completing the installation.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"在此框架中，选择要用于 <b>CA</b> 和<b>证书</b>的安装方式，\n"
+"同时完成安装。\n"
+"</p>\n"
+
+#: src/ca_select_proposal.ycp:387
+msgid ""
+"<p>\n"
+"You also have the possibility of creating the default CA and certificate in the installed system \n"
+"if you do not want to create or import it now.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"如果不想马上创建或导入它，则可以在已安装的系统中创建默认 CA\n"
+" 和证书。\n"
+" </p>\n"
+
+#. help text 1/4
+#: src/certDefault.ycp:42
+msgid "<p>When creating a new subCA or certificate, the system suggests some default values.</p>"
+msgstr "<p>当创建新的子 CA 或证书时，系统会推荐一些默认值。</p>"
+
+#. help text 2/4 
+#: src/certDefault.ycp:44
+msgid "<p>With this workflow, change these default settings.</p>"
+msgstr "<p>使用此工作流程，更改这些默认设置。</p>"
+
+#. help text 3/4
+#. help text 3/3
+#: src/certDefault.ycp:46 src/crlDefault.ycp:116
+msgid "<p>However, the modified settings will be used for <b>new</B> entries only.</p>"
+msgstr "<p>不过，修改后的设置仅用于<b>新</B>条目。</p>"
+
+#. help text 4/4
+#: src/certDefault.ycp:48
+msgid "<p>You can edit the default settings for <b>subCAs</b>, <b>client certificates</b>, and  <b>server certificates</b>.</p>"
+msgstr "<p>您可以编辑<b>子 CA</b>、<b>客户机证书</b>和<b>服务器证书</b>的默认设置。</p>"
+
+#: src/certDefault.ycp:52
+msgid "Default Settings for:"
+msgstr "以下项的默认设置："
+
+#: src/certDefault.ycp:56
+msgid "&Sub CA"
+msgstr "子 CA(&S)"
+
+#: src/certDefault.ycp:58
+msgid "&Client Certificate"
+msgstr "客户身份验证(&C)"
+
+#: src/certDefault.ycp:60
+msgid "S&erver Certificate"
+msgstr "服务器证书(&E)"
+
+#. help text 1/2
+#: src/certDefault.ycp:112
+msgid "<p>This frame gives an overview of all default settings before they are saved.</p>"
+msgstr "<p>在保存所有默认的设置前，此框架将它们一一列出。</p>"
+
+#. help text 2/2
+#: src/certDefault.ycp:114
+msgid "<p>Click <b>Save</b> to finish the input.</p>"
+msgstr "<p>单击<b>保存</b>，完成输入。</p>"
+
+#: src/certDefault.ycp:116 src/new_cert.ycp:529 src/signRequest.ycp:720
+msgid "<p><b>Summary</b></p>"
+msgstr "<p><b>摘要</b></p>"
+
+#: src/certDefault.ycp:120 src/certDefault.ycp:130 src/certDefault.ycp:296
+#: src/certDefault.ycp:309 src/certDefault.ycp:417 src/certDefault.ycp:454
+#: src/certDefault.ycp:459 src/certDefault.ycp:464 src/certDefault.ycp:469
+#: src/certDefault.ycp:474 src/certDefault.ycp:479 src/certDefault.ycp:484
+#: src/certDefault.ycp:489 src/certDefault.ycp:494 src/new_cert.ycp:596
+#: src/new_cert.ycp:604 src/new_cert.ycp:774 src/new_cert.ycp:787
+#: src/new_cert.ycp:895 src/new_cert.ycp:937 src/new_cert.ycp:942
+#: src/new_cert.ycp:947 src/new_cert.ycp:952 src/new_cert.ycp:957
+#: src/new_cert.ycp:962 src/new_cert.ycp:967 src/new_cert.ycp:972
+#: src/new_cert.ycp:977 src/signRequest.ycp:733 src/signRequest.ycp:745
+#: src/signRequest.ycp:853 src/signRequest.ycp:858 src/signRequest.ycp:863
+#: src/signRequest.ycp:928 src/signRequest.ycp:933 src/signRequest.ycp:938
+#: src/signRequest.ycp:1071 src/signRequest.ycp:1076 src/signRequest.ycp:1081
+#: src/signRequest.ycp:1086
+msgid " (critical)\n"
+msgstr "(紧急)\n"
+
+#: src/certDefault.ycp:124
+msgid "Path Length:              "
+msgstr "路径长度："
+
+#: src/certDefault.ycp:137 src/certDefault.ycp:424 src/new_cert.ycp:615
+#: src/new_cert.ycp:903 src/signRequest.ycp:869 src/signRequest.ycp:899
+msgid "(critical) "
+msgstr "(紧急)"
+
+#: src/certDefault.ycp:138 src/new_cert.ycp:616 src/new_cert_items.ycp:179
+#: src/signRequest.ycp:900
+msgid "Copy Subject Alt Name from CA"
+msgstr "从 CA 复制主题替换名称"
+
+#: src/certDefault.ycp:175 src/new_cert.ycp:653 src/signRequest.ycp:951
+msgid "(critical)\n"
+msgstr "(紧急)\n"
+
+#: src/certDefault.ycp:295 src/new_cert.ycp:773 src/signRequest.ycp:732
+msgid "nsComment:                "
+msgstr "nsComment：          "
+
+#: src/certDefault.ycp:308 src/new_cert.ycp:786 src/signRequest.ycp:744
+msgid "nsCertType:               "
+msgstr "nsCertType：         "
+
+#: src/certDefault.ycp:425 src/new_cert.ycp:904 src/new_cert_items.ycp:362
+#: src/signRequest.ycp:870
+msgid "Copy Standard E-Mail Address"
+msgstr "复制标准的电子邮件地址"
+
+#. To translators: dialog label
+#: src/certDefault.ycp:503
+msgid "Save Settings (step 3/3)"
+msgstr "保存设置(步骤 3/3)"
+
+#: src/certDefault.ycp:522
+msgid "Default has been saved."
+msgstr "默认值已保存。"
+
+#. help text 1/6
+#: src/certificate.ycp:34
+msgid "<p>First, see a list view with all available certificates from this CA. The columns are the DN of the certificates including the e-mail address and the state of the certificate (such as valid or revoked).</p>"
+msgstr "<p>首先，请查看列表视图，其中列出了可从此 CA 处获得的所有证书。视图中的列有证书的判别名，包括电子邮件地址和证书的状态(例如有效或已吊销)。</p>"
+
+#. help text 2/6 
+#: src/certificate.ycp:36
+msgid "<p>Select one of the certificates and execute some actions.</p>"
+msgstr "<p>选择其中一个证书并执行某些操作。</p>"
+
+#. help text 3/6 
+#: src/certificate.ycp:38
+msgid "<p><b>View</b> opens a window with a text representation of the complete certificate.</p>"
+msgstr "<p><b>查看</b>用于打开一个窗口，其中有完整证书的文字叙述。</p>"
+
+#. help text 4/6
+#: src/certificate.ycp:40
+msgid "<p>Furthermore, you can <b>Revoke</b>, <b>Delete</b>, or <b>Export</b> a certificate.</p>"
+msgstr "<p>此外，还可以<b>吊销</b>、<b>删除</b>或<b>导出</b>证书。</p>"
+
+#. help text 5/6
+#: src/certificate.ycp:42
+msgid "<p>With <b>Add</b>, generate a new server or client certificate.</p>"
+msgstr "<p>使用<b>添加</b>，生成新的服务器或客户机证书。</p>"
+
+#. help text 6/6
+#: src/certificate.ycp:44
+msgid "<p>In the area below, see the most important values of the selected certificate.</p>"
+msgstr "<p>在下列区域中，查看所选证书的最重要的值。</p>"
+
+#. popup window header
+#: src/certificate.ycp:107
+msgid "Revoke Certificate"
+msgstr "吊销证书"
+
+#: src/certificate.ycp:109
+msgid "You are only revoking the certificate. No new CRL will be created."
+msgstr "您只是吊销该证书。将不创建新的 CRL。"
+
+#: src/certificate.ycp:110
+msgid "Reasons"
+msgstr "原因"
+
+#: src/certificate.ycp:228 src/signRequest.ycp:44
+msgid "<p><b>Description</b></p>"
+msgstr "<p><b>描述</b></p>"
+
+#: src/certificate.ycp:232
+msgid ""
+"\n"
+"Certificate not found"
+msgstr ""
+"\n"
+"找不到证书"
+
+#. Certificate status displayed in a table (Valid, Revoked, Expired)
+#: src/certificate.ycp:283 src/certificate.ycp:397
+msgid "Valid"
+msgstr "有效"
+
+#. Certificate status displayed in a table (Valid, Revoked, Expired)
+#: src/certificate.ycp:287
+msgid "Revoked"
+msgstr "已吊销"
+
+#. Certificate status displayed in a table (Valid, Revoked, Expired)
+#: src/certificate.ycp:292
+msgid "Expired"
+msgstr "已失效"
+
+#. To translators: table headers
+#: src/certificate.ycp:332
+msgid "Status"
+msgstr "状态"
+
+#: src/certificate.ycp:333 src/request.ycp:283
+msgid "E-Mail Address"
+msgstr "电子邮件地址"
+
+#: src/certificate.ycp:346 src/request.ycp:298
+msgid "Add"
+msgstr "添加"
+
+#: src/certificate.ycp:348
+msgid "Add Server Certificate"
+msgstr "添加服务器证书"
+
+#: src/certificate.ycp:349
+msgid "Add Client Certificate"
+msgstr "添加客户机证书"
+
+#: src/certificate.ycp:353 src/request.ycp:310
+msgid "&Change Password"
+msgstr "修改密码(&C)"
+
+#: src/certificate.ycp:354
+msgid "&Revoke"
+msgstr "吊销(&R)"
+
+#: src/certificate.ycp:355 src/request.ycp:317
+msgid "&Delete"
+msgstr "删除(&D)"
+
+#. Fate (#2613)
+#: src/certificate.ycp:358 src/crl.ycp:204
+msgid "Export"
+msgstr "导出"
+
+#: src/certificate.ycp:360
+msgid "Export to File"
+msgstr "导出到文件"
+
+#. popup window header
+#: src/certificate.ycp:361 src/crlExport.ycp:279 src/util.ycp:471
+msgid "Export to LDAP"
+msgstr "导出到 LDAP"
+
+#: src/certificate.ycp:362
+msgid "Export as Common Server Certificate"
+msgstr "导出为通用服务器证书"
+
+#: src/certificate.ycp:447
+msgid "Delete current certificate?"
+msgstr "是否删除当前证书？"
+
+#: src/commandline.ycp:73
+msgid "Wrong kind of certificate."
+msgstr "证书类型错误。"
+
+#. help text 1/8
+#: src/common_cert.ycp:41
+msgid "<p>A Server Certificate is used by services which provide SSL/TLS encrypted network connections.</p>"
+msgstr "<p>服务器证书被服务用来提供 SSL/TLS 加密网络连接。</p>"
+
+#. help text 2/8
+#: src/common_cert.ycp:44
+msgid "<p>The purpose of the <b>Common Server Certificate</b> is, to provide a certificate for several services running on this host. "
+msgstr "<p><b>通用服务器证书</b>的目的是为此主机上运行的多种服务提供一个通用的证书。"
+
+#. help text 3/8
+#: src/common_cert.ycp:47
+msgid "Some YaST modules provide the capability to use this certificate during configuration of such a service.</p>"
+msgstr "一些 YaST 模块提供了在配置这样的服务时使用此证书的能力。</p>"
+
+#. help text 4/8
+#: src/common_cert.ycp:50
+msgid "<p>With the <b>Import/Replace</b> button you can add a new server certificate or replace the currect one.</p>"
+msgstr "<p>使用 <b>导入/替换</b> 按钮您可以添加一个新服务器证书或者替换当前证书。</p>"
+
+#. help text 5/8
+#: src/common_cert.ycp:53
+msgid "<p>You can remove the Certificates by clicking the <b>Remove</b> button. But make sure, that it is not used anymore by other services.</p>"
+msgstr "<p>您可以通过点击 <b>删除</b> 按钮来删除证书。但请确保它没有被任何其他服务使用。</p>"
+
+#. help text 6/8
+#: src/common_cert.ycp:56
+msgid "<p>Certificates can be written to a file using <b>Export to File</b> in section <b>Certificate</b> in the <b>CA Management</b> module.</p>"
+msgstr "<p>可以使用 <b>CA 管理</b>模块中<b>证书</b>部分中的<b>导出到文件</b>将证书写到文件中。</p>"
+
+#. help text 7/8
+#: src/common_cert.ycp:59
+msgid "<p>Certificates to import from disk must have been written in <b>PKCS12 format with CA chain</b>.</p>"
+msgstr "<p>从磁盘导入的证书必须是以<b>含 CA 链的 PKCS12 格式</b>写入的。</p>"
+
+#. help text 8/8
+#: src/common_cert.ycp:62
+msgid "<p>For more informations, please read the manual.</p>"
+msgstr "<p>更多信息请阅读手册。</p>"
+
+#. push button label
+#: src/common_cert.ycp:91
+msgid "&Remove"
+msgstr "删除(&R)"
+
+#. push button label
+#: src/common_cert.ycp:93
+msgid "&Import/Replace"
+msgstr "导入/替换(&I)"
+
+#. To translators: dialog label
+#. To translators: ContinueCancel Popup headline
+#: src/common_cert.ycp:97 src/common_cert.ycp:151 src/util.ycp:1173
+msgid "Common Server Certificate"
+msgstr "通用服务器证书"
+
+#. To translators: warning popup yes/no question (1/3)
+#: src/common_cert.ycp:124
+msgid "The certificate is not yet expired.\n"
+msgstr "证书尚未失效。\n"
+
+#. To translators: warning popup yes/no question (2/3)
+#: src/common_cert.ycp:126
+msgid ""
+"Please make sure, that no service use this certificate anymore.\n"
+"\n"
+msgstr ""
+"请确保，没有服务使用此证书。\n"
+"\n"
+
+#. To translators: warning popup yes/no question (3/3)
+#: src/common_cert.ycp:128
+msgid "Are you sure, that you want to remove the certificate?"
+msgstr "您确定要删除该证书吗？"
+
+#. help text 1/4
+#: src/crl.ycp:31
+msgid "<p>Here, see the most important values of the CRL.</p>"
+msgstr "<p>在此可查看该 CRL 最重要的值。</p>"
+
+#. help text 2/4
+#: src/crl.ycp:33
+msgid "<p>With <b>Generate CRL</b>, a new CRL will be generated.</p>"
+msgstr "<p>使用<b>生成 CRL</b>，将生成一个新的 CRL。</p>"
+
+#. help text 3/4
+#: src/crl.ycp:35
+msgid "<p><b>View</b> shows a complete description.</p>"
+msgstr "<p><b>查看</b>显示完整的描述。</p>"
+
+#. help text 4/4
+#: src/crl.ycp:37
+msgid "<p>You can <b>Export</b> the CRL to a file or LDAP Directory.</p>"
+msgstr "<p>您可以将 CRL <b>导出</b>到一个文件或 LDAP 目录中。</p>"
+
+#. popup window header
+#: src/crl.ycp:57
+msgid "Generate New CRL"
+msgstr "生成新的 CRL"
+
+#: src/crl.ycp:59
+msgid "&Valid to (days):"
+msgstr "有效期(天)(&V)："
+
+#: src/crl.ycp:160
+msgid "<p><b>Certificate Revocation List (CRL):</b></p>"
+msgstr "<p><b>吊销证书列表 (CRL)：</b></p>"
+
+#: src/crl.ycp:165
+msgid ""
+"\n"
+"\n"
+"Last Update: "
+msgstr ""
+"\n"
+"\n"
+"上次更新时间："
+
+#: src/crl.ycp:166
+msgid ""
+"\n"
+"Next Update: "
+msgstr ""
+"\n"
+"下次更新时间："
+
+#: src/crl.ycp:171
+msgid ""
+"\n"
+"\n"
+"Revoked Certificates: "
+msgstr ""
+"\n"
+"\n"
+"已吊销的证书："
+
+#: src/crl.ycp:199
+msgid "&Generate CRL"
+msgstr "生成 CRL(&G)"
+
+#: src/crl.ycp:201 src/new_cert_advanced.ycp:95
+msgid "&Default"
+msgstr "默认值(&D)"
+
+#. help text 1/3
+#: src/crlDefault.ycp:112
+msgid "<p>When creating a new CRL, the system suggests some default values.</p>"
+msgstr "<p>创建新 CRL 时，系统会建议一些默认值。</p>"
+
+#. help text 2/3
+#: src/crlDefault.ycp:114
+msgid "<p>With this frame, change these default settings.</p>"
+msgstr "<p>使用此框架更改这些默认设置。</p>"
+
+#: src/crlDefault.ycp:121 src/new_cert.ycp:415 src/signRequest.ycp:677
+msgid "&Valid Period (days):"
+msgstr "有效期(天)(&V)："
+
+#: src/crlDefault.ycp:126
+msgid "&Critical"
+msgstr "紧急(&C)"
+
+#: src/crlDefault.ycp:135
+msgid "C&ritical"
+msgstr "紧急(&R)"
+
+#: src/crlDefault.ycp:139
+msgid "C&opy Subject Alternative Name from CA"
+msgstr "从 CA 复制主题备用名(&O)"
+
+#: src/crlDefault.ycp:171
+msgid "Default CRL Settings"
+msgstr "默认 CRL 设置"
+
+#. Translators: window caption 
+#: src/crlExport.ycp:64
+msgid "Security Information"
+msgstr "安全信息"
+
+#. Translators: long help text - security information
+#: src/crlExport.ycp:66
+msgid "Warning!<br>Activating the automatic creation and export of a CRL will write the CA password to a configuration file on disk. The password will be stored there in plain text as it is needed to create a CRL. The file will only be readable for the root user."
+msgstr "警告！<br>激活自动创建和导出 CRL 将写入 CA 密码到磁盘上的配置文件。此密码将被以纯文本格式存储，以用于创建一个 CRL.。该文件仅对 roor 用户可读。"
+
+#: src/crlExport.ycp:206 src/crlExport.ycp:290
+msgid "Export CRL"
+msgstr "导出 CRL"
+
+#: src/crlExport.ycp:212
+msgid "<p>Export the CRL of this CA once by selecting <b>Export once</b>.</p>"
+msgstr "<p>选择<b>一次导出</b>，可以一次导出此 CA 的 CRL。</p>"
+
+#: src/crlExport.ycp:213
+msgid "<p>To set up a repeated recreation of the CRL select <b>Repeated recreation and export</b>. In this case set the interval for the recreation in <b>Periodic interval</b>. If you set the interval to 24 hours you can additionally select the hour for the export. Please make sure you read and understood the <b>Security Information</b>.</p>"
+msgstr "<p>要设置重复创建 CRL 请选择 <b>重复创建和导出</b>。此时需到<b>间隔周期</b>设置重复创建的间隔时间。如果您将间隔设定为 24 小时，您还可以接着选择具体导出的时间。请确定您阅读并理解<b>安全信息</b>。</p>"
+
+#: src/crlExport.ycp:214
+msgid "<p>You can activate an export of the CRL to a local file or to an LDAP server or both. Set up the respective parameters in <b>Export to local file</b> and <b>Export to LDAP</b>.</p>"
+msgstr "<p>您可以导出一份 CRL 到本地文件，LDAP 服务器或者两者兼用。在<b>导出到本地文件</b>和<b>导出到 LDAP</b>分别设置参数。</p>"
+
+#: src/crlExport.ycp:220
+msgid "Export once"
+msgstr "一次导出"
+
+#: src/crlExport.ycp:221
+msgid "Repeated recreation and export"
+msgstr "重复创建和导出"
+
+#: src/crlExport.ycp:228 src/util.ycp:473
+msgid "&Host Name:"
+msgstr "主机名(&H)："
+
+#: src/crlExport.ycp:229 src/util.ycp:474
+msgid "&Port:"
+msgstr "端口(&P)："
+
+#: src/crlExport.ycp:230 src/util.ycp:475
+msgid "&DN:"
+msgstr "判别名(&D)："
+
+#: src/crlExport.ycp:233 src/util.ycp:476
+msgid "&Bind DN:"
+msgstr "联结判别名(&B)："
+
+#: src/crlExport.ycp:234
+msgid "Pass&word"
+msgstr "密码(&W)"
+
+#: src/crlExport.ycp:239
+msgid "Save &as"
+msgstr "另存为(&A)"
+
+#: src/crlExport.ycp:244 src/util.ycp:604 src/util.ycp:775 src/util.ycp:883
+msgid "Export Format"
+msgstr "导出格式"
+
+#: src/crlExport.ycp:245
+msgid "PEM Format"
+msgstr "PEM 格式"
+
+#: src/crlExport.ycp:246
+msgid "DER Format"
+msgstr "DER 格式"
+
+#: src/crlExport.ycp:253
+msgid "Periodic interval"
+msgstr "间隔周期"
+
+#. `HSquash( `IntField( `id(`interval_days), "&days", 0, 100, 30 )),
+#. Translators: this is used to express a setting of  "every XX hour(s)"
+#: src/crlExport.ycp:257
+msgid "every"
+msgstr "每隔"
+
+#. Translators: this is used to express a setting of  "every XX hour(s)"
+#: src/crlExport.ycp:259
+msgid "&hour(s)"
+msgstr "小时(&h)"
+
+#. (bnc#446137)
+#. Translators: in case "every XX hour(s)" is set to 24, the user can set "at XX o'clock"
+#: src/crlExport.ycp:261
+msgid "at"
+msgstr "于"
+
+#. Translators: in case "every XX hour(s)" is set to 24, the user can set "at XX o'clock"
+#: src/crlExport.ycp:263
+msgid "&o'clock"
+msgstr "时(&o)"
+
+#: src/crlExport.ycp:265
+msgid "&Security Information"
+msgstr "安全信息(&S)"
+
+#: src/crlExport.ycp:276
+msgid "Export to file"
+msgstr "导出到文件"
+
+#: src/crlExport.ycp:312
+msgid "Save as"
+msgstr "另存为"
+
+#: src/crlExport.ycp:374
+msgid "Export to file failed"
+msgstr "导出到文件失败。"
+
+#: src/crlExport.ycp:374 src/crlExport.ycp:394
+msgid "Do you want to retry?"
+msgstr "希望重试？"
+
+#: src/crlExport.ycp:379
+msgid "Saved to file successfully"
+msgstr "已成功保存到文件。"
+
+#: src/crlExport.ycp:390 src/util.ycp:581
+msgid "Saved to LDAP successfully."
+msgstr "已成功保存到 LDAP。"
+
+#: src/crlExport.ycp:394
+msgid "Export to LDAP failed"
+msgstr "导出到 LDAP 失败"
+
+#. When no dialog defined for this tab (software error)
+#: src/dialog-ca.ycp:74
+msgid "Software error - Unknown Tab"
+msgstr "软件错误 - 未知的选项卡"
+
+#. Dialog Caption - Expert Settings - Zone Editor
+#: src/dialog-ca.ycp:148
+msgid "Certificate Authority (CA)"
+msgstr "数字证书认证机构 (CA)"
+
+#. Menu Item - CA - Tab
+#: src/dialog-ca.ycp:154
+msgid "&Description"
+msgstr "描述(&D)"
+
+#. Menu Item - CA - Tab
+#: src/dialog-ca.ycp:156
+msgid "C&ertificates"
+msgstr "证书(&E)"
+
+#. Menu Item - CA - Tab
+#: src/dialog-ca.ycp:158
+msgid "CR&L"
+msgstr "CR&L(&L)"
+
+#. Menu Item - CA - Tab
+#: src/dialog-ca.ycp:160
+msgid "&Requests"
+msgstr "请求(&R)"
+
+#: src/new_cert.ycp:65
+msgid "<p>To generate a new CA, some entries are needed.</p>"
+msgstr "<p>要生成新的 CA，需要某些项。</p>"
+
+#: src/new_cert.ycp:70
+msgid "<p>To generate a new certificate, some entries are needed.</p>"
+msgstr "<p>要生成新的证书，需要某些项。</p>"
+
+#: src/new_cert.ycp:76
+msgid "<p>To generate a new request, some entries are needed.</p>"
+msgstr "<p>要生成新请求，需要一些条目。</p>"
+
+#. help text 2/7
+#: src/new_cert.ycp:84
+msgid "<p>It depends on the policy defined in the configuration file.</p>"
+msgstr "<p>具体取决于配置文件中定义的策略。</p>"
+
+#. help text 4/7
+#: src/new_cert.ycp:86
+msgid "<p>Only US ASCII characters are allowed.</p>"
+msgstr "<p>只允许 US ASCII 字符。</p>"
+
+#: src/new_cert.ycp:91
+msgid "<p><b>CA Name</b> is the name of a CA certificate. Use only the characters, \"a-z\", \"A-Z\", \"-\", and \"_\".</p>"
+msgstr "<p><b>CA 名称</b>是 CA 证书的名称。仅使用字符“a”到“z”，“A”到“Z”，“-”和“_”。</p>"
+
+#: src/new_cert.ycp:92
+msgid "<p><b>Common Name</b> is the name of the CA.</p>"
+msgstr "<p><b>通用名</b>是 CA 的名称。</p>"
+
+#: src/new_cert.ycp:99
+msgid "<p><b>Common Name</b> is the name of the user for whom to create the certificate.</p>"
+msgstr "<p><b>通用名</b>是指要给其创建该证书的用户的名称。</p>"
+
+#: src/new_cert.ycp:103
+msgid "<p><b>Common Name</b> is the fully qualified domain name of the server.</p>"
+msgstr "<p><b>通用名</b>是服务器的完全限定的域名。</p>"
+
+#. help text 6/7
+#: src/new_cert.ycp:107
+msgid "<p><b>E-Mail Addresses</b> are valid e-mail addresses of the user or server administrator.</p>"
+msgstr "<p><b>电子邮件地址</b>是用户或服务器管理员的有效电子邮件地址。</p>"
+
+#. help text 7/7
+#: src/new_cert.ycp:109
+msgid "<p><b>Organization</b>, <b>Organizational Unit</b>, <b>Locality</b>, and <b>State</b> are often optional.</p>"
+msgstr "<p><b>组织</b>、<b>组织单元</b>、<b>位置</b>和<b>状态</b>经常是可选的。</p>"
+
+#: src/new_cert.ycp:117
+msgid "D&efault"
+msgstr "默认值(&E)"
+
+#. To translators: table headers
+#: src/new_cert.ycp:128
+msgid "E-Mail Addresses"
+msgstr "电子邮件地址"
+
+#: src/new_cert.ycp:128
+msgid "default"
+msgstr "默认值"
+
+#. To translators: dialog label
+#: src/new_cert.ycp:156 src/new_cert.ycp:420 src/new_cert.ycp:986
+msgid "Create New "
+msgstr "新建"
+
+#: src/new_cert.ycp:156
+msgid " (step 1/3)"
+msgstr "(步骤 1/3)"
+
+#. help text 1/4
+#: src/new_cert.ycp:359
+msgid "<p>The private key of the CA needs a <B>Password</B> with a minimum length of five characters. For verification reasons, reenter it in the next field.</p>"
+msgstr "<p>CA 的私用密钥要求<B>密码</B>的长度最少为 5 个字符。为了校验，请在下一个字段中重新输入它。</p>"
+
+#. help text 2/4
+#: src/new_cert.ycp:362
+msgid "<p>Each CA has its own <b>Key Length</b>. Some applications that use certificates need special key lengths.</p>"
+msgstr "<p>每个 CA 都有它自己的<b>密钥长度</b>。一些使用证书的应用程序需要特殊的密钥长度。</p>"
+
+#. help text 3/4
+#: src/new_cert.ycp:365
+msgid "<p>The CA is valid for only specific period (<b>Valid Period</b>). Enter the time frame in days.</p>"
+msgstr "<p>CA 只有在特定时间段(<b>有效期</b>)内才有效。输入时间段(以天为单位)。</p>"
+
+#. help text 4/4
+#. help text 3/3
+#: src/new_cert.ycp:368 src/new_cert.ycp:383 src/new_cert.ycp:396
+msgid "<p><b>Advanced Options</b> are very special options. If you change these options, SUSE cannot guarantee that the generated certificate will work correctly.</p>"
+msgstr "<p><b>高级选项</b>是一些非常特殊的选项。如果您更改这些选项，SUSE 将无法保证生成的证书能够正常发挥作用。</p>"
+
+#. help text 1/4
+#: src/new_cert.ycp:374
+msgid "<p>The private key of the certificate needs a <B>Password</B> with a minimum length of five characters. For verification reasons, reenter it in the next field.</p>"
+msgstr "<p>证书的私用密钥必须是至少五个字符的<B>密码</B>。为了校验，请在下一个字段中再次输入它。</p>"
+
+#. help text 2/4
+#: src/new_cert.ycp:377
+msgid "<p>Each certificate has its own <b>Key Length</b>. Some applications that use certificates need special key lengths.</p>"
+msgstr "<p>每个证书都有其自己的<b>密钥长度</b>。某些使用证书的应用程序要求特殊的密钥长度。</p>"
+
+#. help text 3/4
+#: src/new_cert.ycp:380
+msgid "<p>The certificate is valid for only specific period (<b>Valid Period</b>). Enter the time frame in days.</p>"
+msgstr "<p>该证书仅在特定的期间(<b>有效期</b>)有效。输入时间范围(以天为单位)。</p>"
+
+#. help text 1/3
+#: src/new_cert.ycp:390
+msgid "<p>The private key of the request needs a <B>Password</B> with a minimum length of five characters. For verification reasons, reenter it in the next field.</p>"
+msgstr "<p>请求的私用密钥要求<B>密码</B>的长度最少为 5 个字符。为了校验，请在下一个字段中重新输入它。</p>"
+
+#. help text 2/3
+#: src/new_cert.ycp:393
+msgid "<p>Each request has its own <b>Key Length</b>. Some applications that use certificates need special key lengths.</p>"
+msgstr "<p>每个请求都有它自己的<b>密钥长度</b>。一些使用证书的应用程序需要特殊的密钥长度。</p>"
+
+#: src/new_cert.ycp:405
+msgid "&Use CA Password as Certificate Password"
+msgstr "使用 CA 密码作为证书密码(&U)"
+
+#: src/new_cert.ycp:409
+msgid "V&erify Password:"
+msgstr "校验密码(&E)："
+
+#: src/new_cert.ycp:410
+msgid "&Key Length (bit):"
+msgstr "密钥长度(位)(&K)："
+
+#. tree widget label
+#: src/new_cert.ycp:417 src/new_cert_advanced.ycp:85
+msgid "&Advanced Options"
+msgstr "高级选项(&A)"
+
+#: src/new_cert.ycp:420
+msgid " (step 2/3)"
+msgstr "(步骤 2/3)"
+
+#: src/new_cert.ycp:463
+msgid "Passwords are different."
+msgstr "密码不相同。"
+
+#: src/new_cert.ycp:471
+msgid "Password required."
+msgstr "要求密码。"
+
+#. help text 1/2
+#: src/new_cert.ycp:507
+msgid "<p>This frame gives an overview of all settings for the CA that will be created.</p>"
+msgstr "<p>此框架概述了将要创建的 CA 的所有设置。</p>"
+
+#. help text 2/2
+#: src/new_cert.ycp:509
+msgid "<p>Click <b>Create</b> to generate the CA.</p>"
+msgstr "<p>单击<b>创建</b>生成 CA。</p>"
+
+#. help text 1/2
+#: src/new_cert.ycp:515
+msgid "<p>This frame gives an overview of all settings for the certificate that will be created.</p>"
+msgstr "<p>此框架一一列出了将创建的证书的所有设置。</p>"
+
+#. help text 2/2
+#: src/new_cert.ycp:517
+msgid "<p>Click <b>Create</b> to generate the certificate.</p>"
+msgstr "<p>单击<b>创建</b>，生成该证书。</p>"
+
+#. help text 1/2
+#: src/new_cert.ycp:524
+msgid "<p>This frame gives an overview of all settings for the request that will be created.</p>"
+msgstr "<p>此框架概述了将要创建的请求的所有设置。</p>"
+
+#. help text 2/2
+#: src/new_cert.ycp:526
+msgid "<p>Click <b>Create</b> to generate the request.</p>"
+msgstr "<p>单击<b>创建</b>生成请求。</p>"
+
+#: src/new_cert.ycp:536
+msgid "CA Name:                  "
+msgstr "CA 名称：            "
+
+#: src/new_cert.ycp:540
+msgid "Common Name:              "
+msgstr "通用名：        "
+
+#: src/new_cert.ycp:544
+msgid "Organization:             "
+msgstr "组织：       "
+
+#: src/new_cert.ycp:548
+msgid "Organizational Unit:      "
+msgstr "组织单元："
+
+#: src/new_cert.ycp:553
+msgid "E-Mail Addresses:         "
+msgstr "电子邮件地址："
+
+#: src/new_cert.ycp:583
+msgid "Locality:                 "
+msgstr "位置：           "
+
+#: src/new_cert.ycp:587
+msgid "State:                    "
+msgstr "省/州：              "
+
+#: src/new_cert.ycp:591
+msgid "Country:                  "
+msgstr "国家/地区：            "
+
+#: src/new_cert.ycp:593
+msgid "Key Length:               "
+msgstr "密钥长度：         "
+
+#: src/new_cert.ycp:594
+msgid "Valid Period:             "
+msgstr "有效期：       "
+
+#: src/new_cert.ycp:594
+msgid " days\n"
+msgstr "天\n"
+
+#: src/new_cert.ycp:599 src/signRequest.ycp:728
+msgid "Path Length "
+msgstr "路径长度"
+
+#: src/new_cert.ycp:986
+msgid " (step 3/3)"
+msgstr "(步骤 3/3)"
+
+#. label widget
+#. header label
+#: src/new_cert_advanced.ycp:91 src/new_cert_advanced.ycp:233
+msgid "Current Selection: "
+msgstr "当前选择："
+
+#. popup window header
+#: src/new_cert_advanced.ycp:174
+msgid "Help"
+msgstr "帮助"
+
+#: src/new_cert_items.ycp:33
+msgid "<P>This frame shows further attributes and OpenSSL X509v3 extensions that can be set. If you are not familiar with these extentions, refer to the file /usr/share/doc/packages/openssl-doc/openssl.txt (package openssl-doc).</P>"
+msgstr "<P>此框架显示更多属性和可设置的 OpenSSL X509v3 扩展。如果您不熟悉这些扩展，请参见文件 /usr/share/doc/packages/openssl-doc/openssl.txt (软件包 openssl-doc)。</P>"
+
+#: src/new_cert_items.ycp:35
+msgid "<P>Wrong entries can make the certificate unusable.</P>"
+msgstr "<P>错误条目会导致证书不能用。</P>"
+
+#: src/new_cert_items.ycp:39 src/new_cert_items.ycp:76
+#: src/new_cert_items.ycp:100
+msgid "Advanced Settings"
+msgstr "高级设置"
+
+#: src/new_cert_items.ycp:57 src/new_cert_items.ycp:92
+#: src/new_cert_items.ycp:418
+msgid "Expert Settings"
+msgstr "专家设置"
+
+#: src/new_cert_read_write.ycp:1716
+msgid "Creating certificate..."
+msgstr "正在创建证书..."
+
+#: src/new_cert_read_write.ycp:1761 src/new_cert_read_write.ycp:1810
+msgid ""
+"The default certificate can also be created in\n"
+"the CA Management module.\n"
+msgstr ""
+"默认证书也可以在 \n"
+"CA 管理模块中创建。\n"
+
+#. To translators: ContinueCancel Popup headline
+#: src/popup.ycp:28
+msgid "Finish"
+msgstr "完成"
+
+#. To translators: ContinueCancel Popup
+#: src/popup.ycp:30
+msgid "Really save configuration ?"
+msgstr "是否确实要保存配置？"
+
+#. To translators: YesNo Popup headline
+#: src/popup.ycp:44
+msgid "Exit"
+msgstr "退出"
+
+#. To translators: YesNo Popup
+#: src/popup.ycp:46
+msgid "Really exit configuration without saving ?"
+msgstr "是否确实退出配置而不保存？"
+
+#: src/popup.ycp:72
+msgid "Details"
+msgstr "细节"
+
+#. help text 1/6
+#: src/request.ycp:36
+msgid "<p>First, see a list view with all available requests of this CA. The columns are the DN of the request including the e-mail address.</p>"
+msgstr "<p>首先，请查看此CA 的所有可用请求的列表视图。列是包含电子邮件地址的请求的判别名。</p>"
+
+#. help text 2/6 
+#: src/request.ycp:38
+msgid "<p>Select one of the requests and execute some actions.</p>"
+msgstr "<p>选择某个请求并执行一些操作。</p>"
+
+#. help text 3/6 
+#: src/request.ycp:40
+msgid "<p><b>View</b> opens a window with a text representation of the complete request.</p>"
+msgstr "<p><b>查看</b>将打开一个窗口，在该窗口中用文本表示了整个请求。</p>"
+
+#. help text 4/6
+#: src/request.ycp:42
+msgid "<p>You can also <b>Sign</b>, <b>Delete</b>, or <b>Export</b> a request.</p>"
+msgstr "<p>还可以<b>签署</b>、<b>删除</b>或<b>导出</b>请求。</p>"
+
+#. help text 5/6
+#: src/request.ycp:44
+msgid "<p>With <b>Import</b>, read a new request. With <b>Add</b>, generate a new request.</p>"
+msgstr "<p>使用<b>导入</b>，读取新请求。使用<b>添加</b>，生成新请求。</p>"
+
+#. help text 6/6
+#: src/request.ycp:46
+msgid "<p>In the area below, see the most important values of the selected request.</p>"
+msgstr "<p>在下面的区域中，可以看到选定请求的最重要的值。</p>"
+
+#: src/request.ycp:285
+msgid "Generate Time"
+msgstr "生成时间"
+
+#: src/request.ycp:296
+msgid "&Import"
+msgstr "导入(&I)"
+
+#: src/request.ycp:300
+msgid "Add Sub-CA Request"
+msgstr "添加子 CA 请求"
+
+#: src/request.ycp:301
+msgid "Add Server Request"
+msgstr "添加服务器请求"
+
+#: src/request.ycp:302
+msgid "Add Client Request"
+msgstr "添加客户机请求"
+
+#: src/request.ycp:307
+msgid "&Request"
+msgstr "请求(&R)"
+
+#: src/request.ycp:311
+msgid "Sign"
+msgstr "签署"
+
+#: src/request.ycp:313
+msgid "As Client Certificate"
+msgstr "充当客户机证书"
+
+#: src/request.ycp:314
+msgid "As Server Certificate"
+msgstr "充当服务器证书"
+
+#: src/request.ycp:315
+msgid "As CA Certificate"
+msgstr "充当 CA 证书"
+
+#: src/request.ycp:378
+msgid "Delete current request?"
+msgstr "是否删除当前请求？"
+
+#: src/request.ycp:406
+msgid "Currently not supported."
+msgstr "当前不受支持。"
+
+#: src/signRequest.ycp:48
+msgid ""
+"\n"
+"Request not found.\n"
+msgstr ""
+"\n"
+"未发现请求。\n"
+
+#: src/signRequest.ycp:217 src/signRequest.ycp:547 src/signRequest.ycp:648
+#, ycp-format
+msgid "Extension \"%1\" not found."
+msgstr "找不到扩展名“%1”。"
+
+#: src/signRequest.ycp:600
+#, ycp-format
+msgid "This is a CA request. Really sign it as a %1?"
+msgstr "这是 CA 请求。是否将它签署为“%1”？"
+
+#: src/signRequest.ycp:612
+msgid "This is not a CA request. Really sign it as a CA request?"
+msgstr "这不是 CA 请求。是否将它签署为 CA 请求？"
+
+#. help text 1/3
+#: src/signRequest.ycp:668
+msgid "<p>This frame shows the signing request.</p>"
+msgstr "<p>此框架显示了签名请求。</p>"
+
+#. help text 2/3 
+#: src/signRequest.ycp:671
+msgid "<p>The request has special request extensions, which you can accept.</p>"
+msgstr "<p>此请求具有您可以接受的特殊请求扩展。</p>"
+
+#. help text 3/3
+#: src/signRequest.ycp:673
+msgid "<p>If you reject these extensions, the default values are taken instead.</p>"
+msgstr "<p>如果拒绝这些扩展，则将使用默认值替代。</p>"
+
+#: src/signRequest.ycp:678
+msgid "Requested Extensions"
+msgstr "请求的扩展"
+
+#: src/signRequest.ycp:682
+#, ycp-format
+msgid "Sign Request as a %1 (Step 1/2)"
+msgstr "将请求作为“%1”签署 (步骤 1/2)"
+
+#. help text 1/2
+#: src/signRequest.ycp:716
+msgid "<p>This frame gives an overview of all settings for the request that will be signed.</p>"
+msgstr "<p>此框架概述了将要签署的请求的所有设置。</p>"
+
+#. help text 2/2
+#: src/signRequest.ycp:718
+msgid "<p>Click <b>Sign Request</b> to go on.</p>"
+msgstr "<p>单击<b>签署请求</b>继续。</p>"
+
+#: src/signRequest.ycp:723
+msgid " days"
+msgstr " 天"
+
+#: src/signRequest.ycp:725
+msgid " (critical)</p>"
+msgstr "(紧急)</p>"
+
+#: src/signRequest.ycp:1093
+msgid "&Edit Request"
+msgstr "编辑请求(&E)"
+
+#. To translators: dialog label
+#: src/signRequest.ycp:1096
+#, ycp-format
+msgid "Sign Request as a %1 (Step 2/2)"
+msgstr "将请求作为“%1”签署 (步骤 2/2)"
+
+#: src/signRequest.ycp:1097
+msgid "Sign Request"
+msgstr "签署请求"
+
+#: src/signRequest.ycp:1116
+msgid "The request has been signed."
+msgstr "请求已被签署。"
+
+#: src/startup.ycp:79
+#, ycp-format
+msgid "Really delete CA %1?"
+msgstr "确实要删除 CA %1？"
+
+#: src/startup.ycp:91
+msgid "Force Delete"
+msgstr "强行删除"
+
+#: src/startup.ycp:92
+msgid "This CA is still in use. Delete it?"
+msgstr "此 CA 仍在使用。是否删除它？"
+
+#. help text 1/3
+#: src/startup.ycp:118
+msgid "<p>Select one CA and press <b>Enter CA</b>.</p>"
+msgstr "<p>选择一个 CA 并按 <b>输入 CA</b>。</p>"
+
+#. help text 2/3
+#: src/startup.ycp:120
+msgid "<p><b>Create Root CA</b> generates a new root certificate authority.</p>"
+msgstr "<p><b>创建根 CA</b> 将生成新的根证书权限。</p>"
+
+#. help text 3/3
+#: src/startup.ycp:122
+msgid "<p>For more informations about CA Management, please read the manual.</p>"
+msgstr "<p>关于 CA 管理的更多信息，请阅读手册。</p>"
+
+#. To translators: pushbutton label
+#: src/startup.ycp:128
+msgid "&Enter CA"
+msgstr "输入 CA(&E)"
+
+#: src/startup.ycp:129
+msgid "&Delete CA"
+msgstr "删除 CA(&D)"
+
+#. To translators: pushbutton label
+#: src/startup.ycp:132
+msgid "&Create Root CA"
+msgstr "创建根 CA(&C)"
+
+#. To translators: pushbutton label
+#: src/startup.ycp:134
+msgid "&Import CA"
+msgstr "导入 CA(&I)"
+
+#. To translators: tree headers
+#: src/startup.ycp:139
+msgid "CA Tree"
+msgstr "CA 树"
+
+#. To translators: dialog label
+#: src/startup.ycp:145
+msgid "CA Selection"
+msgstr "CA 选择"
+
+#: src/util.ycp:155
+msgid "Change Certificate Password"
+msgstr "修改证书密码"
+
+#: src/util.ycp:158
+msgid "Change CA Password"
+msgstr "修改 CA 密码"
+
+#: src/util.ycp:169
+msgid "&Old Password:"
+msgstr "旧密码(&O)："
+
+#: src/util.ycp:171 src/util.ycp:361
+msgid "&New Password:"
+msgstr "新密码(&N)："
+
+#: src/util.ycp:172
+msgid "&Verify Password:"
+msgstr "校验密码: (&W)"
+
+#: src/util.ycp:205
+msgid ""
+"The new password is too short for use as the password for the certificates.\n"
+" Enter a valid password for the certificates.\n"
+msgstr ""
+"密码过短，不能充当证书的密码。\n"
+"请为证书输入有效密码。\n"
+
+#: src/util.ycp:231
+msgid "CA Password changed."
+msgstr "CA 密码已修改。"
+
+#: src/util.ycp:235
+msgid "Certificate Password changed."
+msgstr "证书密码已修改。"
+
+#. popup window header
+#: src/util.ycp:263
+msgid "Enter CA Password"
+msgstr "输入 CA 密码"
+
+#: src/util.ycp:340
+msgid "LDAP P&assword:"
+msgstr "LDAP 密码(&A)："
+
+#: src/util.ycp:359 src/util.ycp:905 src/util.ycp:1204
+msgid "Certificate &Password:"
+msgstr "证书密码(&P)："
+
+#: src/util.ycp:362 src/util.ycp:628 src/util.ycp:908
+msgid "&Verify Password"
+msgstr "校验密码(&V)"
+
+#. popup window header
+#: src/util.ycp:400
+msgid "LDAP Initialization"
+msgstr "LDAP 初始化"
+
+#: src/util.ycp:401
+msgid ""
+"LDAP must initialize for the CA management.\n"
+"Enter the required LDAP password.\n"
+msgstr ""
+"LDAP 必须初始化，以进行 CA 管理。\n"
+"输入所需的 LDAP 密码。\n"
+
+#: src/util.ycp:405
+msgid "P&assword:"
+msgstr "密码(&A)："
+
+#. popup window header
+#: src/util.ycp:602
+msgid "Export CA to File"
+msgstr "将 CA 导出到文件"
+
+#: src/util.ycp:608
+msgid "O&nly the Certificate in PEM Format"
+msgstr "仅 PEM 格式的证书(&N)"
+
+#: src/util.ycp:610 src/util.ycp:889
+msgid "Only the Key &Unencrypted in PEM Format"
+msgstr "仅以 PEM 格式解密的密钥(&U)"
+
+#: src/util.ycp:612 src/util.ycp:891
+msgid "Only the &Key Encrypted in PEM Format"
+msgstr "仅以 PEM 格式加密的密钥(&K)"
+
+#: src/util.ycp:614 src/util.ycp:893
+msgid "Ce&rtificate and the Key Unencrypted in PEM Format"
+msgstr "证书和以 PEM 格式解密的密钥(&R)"
+
+#: src/util.ycp:616 src/util.ycp:895
+msgid "C&ertificate and the Key Encrypted in PEM Format"
+msgstr "证书和以 PEM 格式加密的密钥(&E)"
+
+#: src/util.ycp:618 src/util.ycp:897
+msgid "&Certificate in DER Format"
+msgstr "DER 格式的证书(&C)"
+
+#: src/util.ycp:620 src/util.ycp:899
+msgid "Cer&tificate and the Key in PKCS12 Format"
+msgstr "证书和PKCS12 格式的密钥(&T)"
+
+#: src/util.ycp:622 src/util.ycp:901
+msgid "&Like PKCS12 and Include the CA Chain"
+msgstr "偏好 PKCS12 并包括 CA 链(&L)"
+
+#: src/util.ycp:627 src/util.ycp:907
+msgid "&New Password"
+msgstr "新密码(&N)"
+
+#: src/util.ycp:631 src/util.ycp:786 src/util.ycp:911 src/util.ycp:1061
+#: src/util.ycp:1293
+msgid "&File Name:"
+msgstr "文件名(&F)："
+
+#: src/util.ycp:716 src/util.ycp:837 src/util.ycp:998 src/util.ycp:1116
+#: src/util.ycp:1336
+msgid "File name required."
+msgstr "要求文件名。"
+
+#: src/util.ycp:753
+msgid "CA saved to file."
+msgstr "CA 已保存到文件。"
+
+#. popup window header
+#: src/util.ycp:773
+msgid "Export CRL to File"
+msgstr "将 CRL 导出到文件"
+
+#: src/util.ycp:779
+msgid "&PEM Format"
+msgstr "PEM 格式(&P)"
+
+#: src/util.ycp:781
+msgid "&DER Format"
+msgstr "DER 格式(&D)"
+
+#: src/util.ycp:861
+msgid "CRL saved to file."
+msgstr "CRL 已保存到文件。"
+
+#. popup window header
+#: src/util.ycp:881
+msgid "Export Certificate to File"
+msgstr "导出证书到文件"
+
+#: src/util.ycp:887
+msgid "&Only the Certificate in PEM Format"
+msgstr "仅 PEM 格式的证书(&O)"
+
+#: src/util.ycp:1040
+msgid "Certificate saved to file."
+msgstr "证书已保存到文件。"
+
+#. help text 1/3
+#: src/util.ycp:1073
+msgid ""
+"<p><b><big>Importing Common Server Certificate (PKCS12 + CA Chain Format)\n"
+" from Disk:</big></b> Select one file name and press <b>Next</b> to continue.</p>\n"
+msgstr ""
+"<p><b><big>正从磁盘导入通用服务器证书(PKCS12 + CA 链格式)\n"
+"：</big></b>选择一个文件名，然后按<b>下一步</b>继续。</p>\n"
+
+#: src/util.ycp:1078
+msgid "Import a server certificate and correspondenting CA and copy them to a place where other YaST modules look for such a common certificate."
+msgstr "导入服务器证书和相应的 CA，并将它们复制到其它 YaST 模块寻找此类通用证书的地方。"
+
+#. help text 3/3
+#: src/util.ycp:1081
+msgid ""
+"<p><b>Password:</b><br>\n"
+"Certificate password</p>\n"
+msgstr ""
+"<p><b>密码：</b><br>\n"
+"证书密码</p>\n"
+
+#: src/util.ycp:1087
+msgid "Importing Common Certificate from Disk"
+msgstr "正在从磁盘导入通用证书"
+
+#: src/util.ycp:1124
+msgid "Importing certificate..."
+msgstr "正在导入证书..."
+
+#: src/util.ycp:1139
+msgid "Certificate has been imported."
+msgstr "证书已导入。"
+
+#. To translators: ContinueCancel Popup
+#: src/util.ycp:1175
+msgid "This is not a server certificate. Continue?"
+msgstr "这不是服务器证书。是否继续？"
+
+#: src/util.ycp:1188
+#, ycp-format
+msgid ""
+"The common name of the certificate (%1) is not the name of\n"
+"the server (%2).\n"
+"This certificate might be not practical as a common server certificate.\n"
+msgstr ""
+"证书的通用名 (%1) 不是\n"
+"服务器 (%2) 名称。\n"
+"该证书作为通用服务器证书可能是不现实的。\n"
+
+#. popup window header
+#: src/util.ycp:1202
+msgid "Exporting as Common Server Certificate"
+msgstr "正在导出为通用服务器证书"
+
+#: src/util.ycp:1226
+msgid "Exporting certificate..."
+msgstr "正在导出证书..."
+
+#: src/util.ycp:1264
+msgid "Certificate has been written as common server certificate."
+msgstr "证书已作为通用服务器证书写入。"
+
+#: src/util.ycp:1290
+msgid "Import Request from Disk"
+msgstr "从磁盘导入请求"
+
+#: src/util.ycp:1355
+msgid "File format not valid. Use PEM or DER files."
+msgstr "文件格式无效。使用 PEM 或 DER 文件。"
+
+#: src/util.ycp:1361 src/util.ycp:1495
+msgid "Importing request..."
+msgstr "正在导入请求..."
+
+#: src/util.ycp:1377
+msgid "Request has been imported."
+msgstr "请求已被导入。"
+
+#: src/util.ycp:1401
+msgid "Import CA from Disk"
+msgstr "从磁盘导入 CA"
+
+#: src/util.ycp:1404
+msgid "&Path of CA Certificate"
+msgstr "CA 证书的路径(&P)"
+
+#: src/util.ycp:1412
+msgid "&Path of Key"
+msgstr "密钥的路径(&P)"
+
+#: src/util.ycp:1419
+msgid "&Key Password"
+msgstr "密钥密码(&K)"
+
+#. Error popup
+#: src/util.ycp:1471
+msgid "Path to certificate file required."
+msgstr "需要证书文件的路径。"
+
+#. Error popup
+#: src/util.ycp:1476
+msgid "Path of the private key required."
+msgstr "需要私用密钥的路径。"
+
+#. Error popup
+#: src/util.ycp:1482
+msgid ""
+"Key Password is required. \n"
+"It must be the password for the encrypted key or a new one in case of a not encrypted key."
+msgstr ""
+"需要密钥密码。 \n"
+"这应该是己加密的密钥的密码，如果密钥没有加密，那就是一个新的密码。"
+
+#. Error popup
+#: src/util.ycp:1515
+msgid "CA has been imported."
+msgstr "CA 已导入。"
+
+#~ msgid "<p>The <b>Common Server Certificate</b> will be used by other YaST modules.</p>"
+#~ msgstr "<p>该<b>普通服务器证书</b>将由其它 YaST 模块使用。</p>"
+
+#~ msgid "<p>This certificate can be exchanged by importing a certificate from a file.</p>"
+#~ msgstr "<p>可以通过从文件导入证书来交换此证书。</p>"
+
+#~ msgid "Invalid value'%s' for parameter '%s'."
+#~ msgstr "值 '%s'(参数 '%s')无效。"
+
+#~ msgid "Cannot evaluate the name of the local machine."
+#~ msgstr "无法评估逻辑机器的名称。"
+
+#~ msgid "Request"
+#~ msgstr "请求"
+
+#~ msgid "View"
+#~ msgstr "查看"
+
+#~ msgid "to &File"
+#~ msgstr "到文件(&F)"
+
+#~ msgid "to &LDAP"
+#~ msgstr "到 LDAP(&L)"

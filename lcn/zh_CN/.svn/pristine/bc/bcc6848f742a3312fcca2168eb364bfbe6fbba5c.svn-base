@@ -1,0 +1,530 @@
+# translation of update-desktop-files.po to Chinese Simplified
+# @update-desktop-files@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# Eric Shan <ericalways@gmail.com>, 2008.
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-22 09:48+0000\n"
+"PO-Revision-Date: 2012-06-30 15:50+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: /usr/share/xsessions/icewm.desktop
+msgctxt "Comment(icewm.desktop)"
+msgid "A Windows 95-OS/2-Motif-like window manager"
+msgstr "类似 Windows-OS/2-Motif 的窗口管理器"
+
+#: /etc/xdg/autostart/glipper-autostart.desktop
+msgctxt "Comment(glipper-autostart.desktop)"
+msgid "A clipboard history manager"
+msgstr "一个剪切板历史管理器"
+
+#: /usr/share/xsessions/openbox.desktop
+msgctxt "Comment(openbox.desktop)"
+msgid "A lightweight window manager based on Blackbox"
+msgstr "基于 BlackBox 的轻量级窗口管理器"
+
+#: /usr/share/xsessions/fvwm2.desktop
+msgctxt "Comment(fvwm2.desktop)"
+msgid "A powerful ICCCM-compliant multiple virtual desktop window manager"
+msgstr "强大的多虚拟桌面窗口管理器，与 ICCCM 兼容"
+
+#: /usr/share/xsessions/WindowMaker.desktop
+msgctxt "Comment(WindowMaker.desktop)"
+msgid "A simple window manager that resembles the NeXTStep look very closely"
+msgstr "非常接近 NeXTStep 外观的简单窗口管理器"
+
+#: /etc/xdg/autostart/at-spi-registryd.desktop
+msgctxt "Name(at-spi-registryd.desktop)"
+msgid "AT SPI Registry"
+msgstr "AT SPI 注册项"
+
+#: /etc/xdg/autostart/at-spi-dbus-bus.desktop
+msgctxt "Name(at-spi-dbus-bus.desktop)"
+msgid "AT-SPI D-Bus Bus"
+msgstr "AT-SPI D-Bus Bus"
+
+#: /etc/xdg/autostart/gnome-fallback-mount-helper.desktop
+msgctxt "Comment(gnome-fallback-mount-helper.desktop)"
+msgid "Automount and autorun plugged devices"
+msgstr "自动挂载并运行插入的设备"
+
+#: /etc/xdg/autostart/deja-dup-monitor.desktop
+msgctxt "Name(deja-dup-monitor.desktop)"
+msgid "Backup Monitor"
+msgstr "备份监视器"
+
+#: /etc/xdg/autostart/bluetooth-applet.desktop
+msgctxt "Name(bluetooth-applet.desktop)"
+msgid "Bluetooth Manager"
+msgstr "蓝牙管理器"
+
+#: /etc/xdg/autostart/bluetooth-applet.desktop
+msgctxt "Comment(bluetooth-applet.desktop)"
+msgid "Bluetooth Manager applet"
+msgstr "蓝牙管理器小挂件"
+
+#: /etc/xdg/autostart/evolution-alarm-notify.desktop
+msgctxt "Comment(evolution-alarm-notify.desktop)"
+msgid "Calendar event notifications"
+msgstr "日历事件通知"
+
+#: /etc/xdg/autostart/caribou-autostart.desktop
+msgctxt "Name(caribou-autostart.desktop)"
+msgid "Caribou"
+msgstr "Caribou"
+
+#: /etc/xdg/autostart/gnome-keyring-pkcs11.desktop
+msgctxt "Name(gnome-keyring-pkcs11.desktop)"
+msgid "Certificate and Key Storage"
+msgstr "证书和密钥存储"
+
+#: /etc/xdg/autostart/parcellite-startup.desktop
+msgctxt "Comment(parcellite-startup.desktop)"
+msgid "Clipboard Manager"
+msgstr "剪切板管理器"
+
+#: /etc/xdg/autostart/parcellite-startup.desktop
+msgctxt "GenericName(parcellite-startup.desktop)"
+msgid "Clipboard Manager"
+msgstr "剪切板管理器"
+
+#: /etc/xdg/autostart/xfce4-clipman-plugin-autostart.desktop
+msgctxt "Comment(xfce4-clipman-plugin-autostart.desktop)"
+msgid "Clipboard manager"
+msgstr "剪贴板管理器"
+
+#: /etc/xdg/autostart/xfce4-clipman-plugin-autostart.desktop
+msgctxt "Name(xfce4-clipman-plugin-autostart.desktop)"
+msgid "Clipman"
+msgstr "Clipman 剪贴板管理器"
+
+#: /etc/xdg/autostart/tracker-miner-fs.desktop
+msgctxt "Comment(tracker-miner-fs.desktop)"
+msgid "Crawls and processes files on the file system"
+msgstr "抓取和处理文件系统上的文件"
+
+#: /etc/xdg/autostart/xfce4-volumed.desktop
+msgctxt "Comment(xfce4-volumed.desktop)"
+msgid ""
+"Daemon managing the volume multimedia keys and displaying volume "
+"notifications"
+msgstr "管理音量多媒体按键和显示音量通知的守护程序"
+
+#: /etc/xdg/autostart/vino-server.desktop
+msgctxt "Name(vino-server.desktop)"
+msgid "Desktop Sharing"
+msgstr "桌面共享"
+
+#: /usr/share/xsessions/e16.desktop
+msgctxt "Name(e16.desktop)"
+msgid "E16"
+msgstr "E16"
+
+#: /etc/xdg/autostart/evolution-alarm-notify.desktop
+msgctxt "Name(evolution-alarm-notify.desktop)"
+msgid "Evolution Alarm Notify"
+msgstr "Evolution 提醒通知"
+
+#: /usr/share/xsessions/fvwm2.desktop
+msgctxt "Name(fvwm2.desktop)"
+msgid "FVWM"
+msgstr "FVWM"
+
+#: /etc/xdg/autostart/tracker-miner-rss.desktop
+msgctxt "Comment(tracker-miner-rss.desktop)"
+msgid "Fetch RSS/ATOM feeds"
+msgstr "撷取 RSS/ATOM 种子"
+
+#: /etc/xdg/autostart/restorecond.desktop
+msgctxt "Name(restorecond.desktop)"
+msgid "File Context maintainer"
+msgstr "文件交互维护员"
+
+#: /etc/xdg/autostart/nautilus-autostart.desktop
+msgctxt "Name(nautilus-autostart.desktop)"
+msgid "Files"
+msgstr "文件"
+
+#: /etc/xdg/autostart/restorecond.desktop
+msgctxt "Comment(restorecond.desktop)"
+msgid "Fix file context in owned by the user"
+msgstr "修复由用户所有的文件交互"
+
+#: /usr/share/xsessions/gnome.desktop
+msgctxt "Name(gnome.desktop)"
+msgid "GNOME"
+msgstr "GNOME"
+
+#: /usr/share/xsessions/gnome2-look-and-feel.desktop
+msgctxt "Name(gnome2-look-and-feel.desktop)"
+msgid "GNOME 2 Look and Feel"
+msgstr "GNOME2 外观和感觉"
+
+#: /etc/xdg/autostart/vino-server.desktop
+msgctxt "Comment(vino-server.desktop)"
+msgid "GNOME Desktop Sharing Server"
+msgstr "GNOME 桌面共享服务器"
+
+#: /etc/xdg/autostart/gnome-keyring-gpg.desktop
+msgctxt "Comment(gnome-keyring-gpg.desktop)"
+msgid "GNOME Keyring: GPG Agent"
+msgstr "GNOME 密钥环：GPG 精灵"
+
+#: /etc/xdg/autostart/gnome-keyring-pkcs11.desktop
+msgctxt "Comment(gnome-keyring-pkcs11.desktop)"
+msgid "GNOME Keyring: PKCS#11 Component"
+msgstr "GNOME 密钥环：PKCS#11 组件"
+
+#: /etc/xdg/autostart/gnome-keyring-ssh.desktop
+msgctxt "Comment(gnome-keyring-ssh.desktop)"
+msgid "GNOME Keyring: SSH Agent"
+msgstr "GNOME 密钥环：SSH 精灵"
+
+#: /etc/xdg/autostart/gnome-keyring-secrets.desktop
+msgctxt "Comment(gnome-keyring-secrets.desktop)"
+msgid "GNOME Keyring: Secret Service"
+msgstr "GNOME 密钥环：保密服务"
+
+#: /etc/xdg/autostart/gnome-settings-daemon.desktop
+msgctxt "Name(gnome-settings-daemon.desktop)"
+msgid "GNOME Settings Daemon"
+msgstr "GNOME 设置守护程序"
+
+#: /usr/share/xsessions/openbox-gnome.desktop
+msgctxt "Name(openbox-gnome.desktop)"
+msgid "GNOME/Openbox"
+msgstr "GNOME/Openbox"
+
+#: /etc/xdg/autostart/gnome-keyring-gpg.desktop
+msgctxt "Name(gnome-keyring-gpg.desktop)"
+msgid "GPG Password Agent"
+msgstr "GPG 密码精灵"
+
+#: /etc/xdg/autostart/gsettings-data-convert.desktop
+msgctxt "Name(gsettings-data-convert.desktop)"
+msgid "GSettings Data Conversion"
+msgstr "GSettings 数据转换"
+
+#: /etc/xdg/autostart/glipper-autostart.desktop
+msgctxt "Name(glipper-autostart.desktop)"
+msgid "Glipper"
+msgstr "Glipper"
+
+#: /usr/share/xsessions/icewm.desktop
+msgctxt "Name(icewm.desktop)"
+msgid "IceWM"
+msgstr "IceWM"
+
+#: /etc/xdg/autostart/xfce4-notes-autostart.desktop
+msgctxt "Comment(xfce4-notes-autostart.desktop)"
+msgid "Ideal for your quick notes"
+msgstr "一个理想的快速便笺程序"
+
+#: /usr/share/xsessions/openbox-kde.desktop
+msgctxt "Name(openbox-kde.desktop)"
+msgid "KDE/Openbox"
+msgstr "KDE/Openbox"
+
+#: /usr/share/xsessions/lxde.desktop
+msgctxt "Name(lxde.desktop)"
+msgid "LXDE"
+msgstr "LXDE"
+
+#: /usr/share/xsessions/lxde.desktop
+msgctxt "Comment(lxde.desktop)"
+msgid "LXDE - Lightweight X11 desktop environment"
+msgstr "LXDE - 轻量的 X11 桌面环境"
+
+#: /etc/xdg/autostart/lxpolkit.desktop
+msgctxt "Name(lxpolkit.desktop)"
+msgid "LXPolKit"
+msgstr "LXPolKit"
+
+#: /etc/xdg/autostart/gnome-user-share.desktop
+msgctxt "Comment(gnome-user-share.desktop)"
+msgid "Launch Personal File Sharing if enabled"
+msgstr "如果已启用则启动个人文件共享"
+
+#: /etc/xdg/autostart/tracker-store.desktop
+msgctxt "Comment(tracker-store.desktop)"
+msgid "Metadata database store and lookup manager"
+msgstr "元数据库存储和查找管理器"
+
+#: /etc/xdg/autostart/gsettings-data-convert.desktop
+msgctxt "Comment(gsettings-data-convert.desktop)"
+msgid "Migrates user settings from GConf to dconf"
+msgstr "由 GConf 迁移用户设置到 dconf "
+
+#: /etc/xdg/autostart/gnome-fallback-mount-helper.desktop
+msgctxt "Name(gnome-fallback-mount-helper.desktop)"
+msgid "Mount Helper"
+msgstr "挂载助手"
+
+#: /etc/xdg/autostart/xfce4-notes-autostart.desktop
+msgctxt "Name(xfce4-notes-autostart.desktop)"
+msgid "Notes"
+msgstr "便笺"
+
+#: /etc/xdg/autostart/obexd-server.desktop
+msgctxt "Name(obexd-server.desktop)"
+msgid "Obexd Server"
+msgstr "Obexd 蓝牙服务器"
+
+#: /etc/xdg/autostart/obexd-server.desktop
+msgctxt "Comment(obexd-server.desktop)"
+msgid "Obexd Server Daemon"
+msgstr "Obexd 蓝牙服务器守护程序"
+
+#: /etc/xdg/autostart/pk-update-icon.desktop
+msgctxt "Comment(pk-update-icon.desktop)"
+msgid "PackageKit Update Applet"
+msgstr "PackageKit 系统更新小挂件"
+
+#: /etc/xdg/autostart/pk-update-icon.desktop
+msgctxt "Name(pk-update-icon.desktop)"
+msgid "PackageKit Update Applet"
+msgstr "PackageKit 系统更新小挂件"
+
+#: /etc/xdg/autostart/parcellite-startup.desktop
+msgctxt "Name(parcellite-startup.desktop)"
+msgid "Parcellite"
+msgstr "Parcellite 剪切板管理器"
+
+#: /etc/xdg/autostart/gnome-user-share.desktop
+msgctxt "Name(gnome-user-share.desktop)"
+msgid "Personal File Sharing"
+msgstr "个人文件共享"
+
+#: /etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop
+msgctxt "Comment(polkit-gnome-authentication-agent-1.desktop)"
+msgid "PolicyKit Authentication Agent"
+msgstr "PolicyKit 认证精灵"
+
+#: /etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop
+msgctxt "Name(polkit-gnome-authentication-agent-1.desktop)"
+msgid "PolicyKit Authentication Agent"
+msgstr "PolicyKit 认证精灵"
+
+#: /etc/xdg/autostart/lxpolkit.desktop
+msgctxt "Comment(lxpolkit.desktop)"
+msgid "Policykit Authentication Agent"
+msgstr "Policykit 认证精灵"
+
+#: /etc/xdg/autostart/xfce4-power-manager.desktop
+msgctxt "Name(xfce4-power-manager.desktop)"
+msgid "Power Manager"
+msgstr "电源管理器"
+
+#: /etc/xdg/autostart/xfce4-power-manager.desktop
+msgctxt "Comment(xfce4-power-manager.desktop)"
+msgid "Power management for the Xfce desktop"
+msgstr "Xfce 桌面的电源管理"
+
+#: /etc/xdg/autostart/tracker-miner-flickr.desktop
+msgctxt "Comment(tracker-miner-flickr.desktop)"
+msgid "Processes images and albums on Flickr"
+msgstr "处理 Flickr 上的图片和相册"
+
+#: /etc/xdg/autostart/pulseaudio.desktop
+msgctxt "Name(pulseaudio.desktop)"
+msgid "PulseAudio Sound System"
+msgstr "PulseAudio 声音系统"
+
+#: /etc/xdg/autostart/pulseaudio-kde.desktop
+msgctxt "Name(pulseaudio-kde.desktop)"
+msgid "PulseAudio Sound System KDE Routing Policy"
+msgstr "PulseAudio 声音系统 KDE 路由策略"
+
+#: /etc/xdg/autostart/gnome-keyring-ssh.desktop
+msgctxt "Name(gnome-keyring-ssh.desktop)"
+msgid "SSH Key Agent"
+msgstr "SSH 密钥精灵"
+
+#: /etc/xdg/autostart/deja-dup-monitor.desktop
+msgctxt "Comment(deja-dup-monitor.desktop)"
+msgid "Schedules backups at regular intervals"
+msgstr "每隔一段时间进行定期备份"
+
+#: /etc/xdg/autostart/seahorse-sharing.desktop
+msgctxt "Name(seahorse-sharing.desktop)"
+msgid "Seahorse Sharing Daemon"
+msgstr "Seahorse 共享守护程序"
+
+#: /etc/xdg/autostart/gnome-keyring-secrets.desktop
+msgctxt "Name(gnome-keyring-secrets.desktop)"
+msgid "Secret Storage Service"
+msgstr "保密存储服务"
+
+#: /etc/xdg/autostart/gsynaptics-init.desktop
+msgctxt "Comment(gsynaptics-init.desktop)"
+msgid "Set your touchpad preferences"
+msgstr "设置触摸板首选项"
+
+#: /etc/xdg/autostart/gnome-sound-applet.desktop
+msgctxt "Comment(gnome-sound-applet.desktop)"
+msgid "Show desktop volume control"
+msgstr "显示桌面音量控制"
+
+#: /etc/xdg/autostart/pulseaudio.desktop
+msgctxt "Comment(pulseaudio.desktop)"
+msgid "Start the PulseAudio Sound System"
+msgstr "启动 PulseAudio 声音系统"
+
+#: /etc/xdg/autostart/pulseaudio-kde.desktop
+msgctxt "Comment(pulseaudio-kde.desktop)"
+msgid "Start the PulseAudio Sound System with KDE Routing Policy"
+msgstr "启动带 KDE 路由策略的 PulseAudio 声音系统"
+
+#: /etc/xdg/autostart/zeitgeist-datahub.desktop
+msgctxt "Comment(zeitgeist-datahub.desktop)"
+msgid "Start the Zeitgeist Datahub for passive loggers"
+msgstr "为被动日志程序启动 Zeitgeist 数据交换中心"
+
+#: /usr/share/xsessions/twm.desktop
+msgctxt "Name(twm.desktop)"
+msgid "TWM"
+msgstr "TWM"
+
+#: /usr/share/xsessions/gnome.desktop
+msgctxt "Comment(gnome.desktop)"
+msgid ""
+"The GNU Network Object Model Environment. A complete, free and easy-to-use "
+"desktop environment"
+msgstr "GNU 网络对象模型环境。完整、自由、易用的桌面环境"
+
+#: /usr/share/xsessions/gnome2-look-and-feel.desktop
+msgctxt "Comment(gnome2-look-and-feel.desktop)"
+msgid ""
+"The GNU Network Object Model Environment. A complete, free and easy-to-use "
+"desktop environment"
+msgstr "GNU 网络对象模型环境。完整、自由、易用的桌面环境"
+
+#: /usr/share/xsessions/twm.desktop
+msgctxt "Comment(twm.desktop)"
+msgid "The Tab Window Manager"
+msgstr "标签式窗口管理器"
+
+#: /etc/xdg/autostart/xfsettingsd.desktop
+msgctxt "Comment(xfsettingsd.desktop)"
+msgid "The Xfce Settings Daemon"
+msgstr "Xfce 设置守护进程"
+
+#: /usr/share/xsessions/cinnamon.desktop
+msgctxt "Comment(cinnamon.desktop)"
+msgid "This session logs you into Cinnamon"
+msgstr "本会话将为您登陆 Cinnamon"
+
+#: /usr/share/xsessions/e16.desktop
+msgctxt "Comment(e16.desktop)"
+msgid "This session starts the Enlightenment (e16) window manager"
+msgstr "本会话启动「Enlightenment（启示）（e16）」窗口管理器"
+
+#: /etc/xdg/autostart/gsynaptics-init.desktop
+msgctxt "Name(gsynaptics-init.desktop)"
+msgid "Touchpad"
+msgstr "触摸板"
+
+#: /etc/xdg/autostart/tracker-miner-fs.desktop
+msgctxt "Name(tracker-miner-fs.desktop)"
+msgid "Tracker File System Miner"
+msgstr "Tracker 文件系统挖掘器"
+
+#: /etc/xdg/autostart/tracker-miner-flickr.desktop
+msgctxt "Name(tracker-miner-flickr.desktop)"
+msgid "Tracker Miner for Flickr"
+msgstr "Tracker 的 Flickr 挖掘器"
+
+#: /etc/xdg/autostart/tracker-miner-rss.desktop
+msgctxt "Name(tracker-miner-rss.desktop)"
+msgid "Tracker RSS/ATOM Feeds Miner"
+msgstr "Tracker RSS/ATOM 种子挖掘器"
+
+#: /etc/xdg/autostart/tracker-store.desktop
+msgctxt "Name(tracker-store.desktop)"
+msgid "Tracker Store"
+msgstr "Tracker 存储"
+
+#: /etc/xdg/autostart/pk-update-icon.desktop
+msgctxt "GenericName(pk-update-icon.desktop)"
+msgid "Update Applet"
+msgstr "系统更新小挂件"
+
+#: /etc/xdg/autostart/user-dirs-update-gtk.desktop
+msgctxt "Comment(user-dirs-update-gtk.desktop)"
+msgid "Update common folders names to match current locale"
+msgstr "更新公共文件夹名称以匹配当前区域设置"
+
+#: /usr/share/xsessions/openbox-gnome.desktop
+msgctxt "Comment(openbox-gnome.desktop)"
+msgid "Use the Openbox window manager inside of the GNOME desktop environment"
+msgstr "使用 Openbox 窗口管理器来替代 GNOME 桌面环境"
+
+#: /usr/share/xsessions/openbox-kde.desktop
+msgctxt "Comment(openbox-kde.desktop)"
+msgid "Use the Openbox window manager inside of the K Desktop Environment"
+msgstr "使用 Openbox 桌面管理器来替代 KDE 桌面环境"
+
+#: /usr/share/xsessions/xfce.desktop
+msgctxt "Comment(xfce.desktop)"
+msgid "Use this session to run Xfce as your desktop environment"
+msgstr "使用此会话将 Xfce 作为您的桌面环境运行"
+
+#: /etc/xdg/autostart/user-dirs-update-gtk.desktop
+msgctxt "Name(user-dirs-update-gtk.desktop)"
+msgid "User folders update"
+msgstr "用户文件夹更新"
+
+#: /etc/xdg/autostart/vmware-user-autostart.desktop
+msgctxt "Name(vmware-user-autostart.desktop)"
+msgid "VMware User Agent"
+msgstr "VMware 用户助手"
+
+#: /etc/xdg/autostart/gnome-sound-applet.desktop
+msgctxt "Name(gnome-sound-applet.desktop)"
+msgid "Volume Control"
+msgstr "音量控制"
+
+#: /etc/xdg/autostart/qwebyast-autostart.desktop
+msgctxt "Name(qwebyast-autostart.desktop)"
+msgid "WebYaST Applet"
+msgstr "WebYaST 小挂件"
+
+#: /usr/share/xsessions/WindowMaker.desktop
+msgctxt "Name(WindowMaker.desktop)"
+msgid "WindowMaker"
+msgstr "WindowMaker"
+
+#: /etc/xdg/autostart/xfce4-volumed.desktop
+msgctxt "Name(xfce4-volumed.desktop)"
+msgid "XFCE Volume Daemon"
+msgstr "XFCE 音量守护程序"
+
+#: /usr/share/xsessions/xfce.desktop
+msgctxt "Name(xfce.desktop)"
+msgid "Xfce Session"
+msgstr "Xfce 会话"
+
+#: /etc/xdg/autostart/xfsettingsd.desktop
+msgctxt "Name(xfsettingsd.desktop)"
+msgid "Xfsettingsd"
+msgstr "Xfsettingsd"
+
+#: /etc/xdg/autostart/zeitgeist-datahub.desktop
+msgctxt "Name(zeitgeist-datahub.desktop)"
+msgid "Zeitgeist Datahub"
+msgstr "Zeitgeist 数据交换"
+

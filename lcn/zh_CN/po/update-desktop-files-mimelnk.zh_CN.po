@@ -1,0 +1,242 @@
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2012-08-03 10:01+0000\n"
+"PO-Revision-Date: 2012-06-30 16:04+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"NADAProject-Id-Version: desktop-translations 20110110\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: /usr/share/mimelnk/application/x-treeline-gz.desktop
+msgctxt "Comment(x-treeline-gz.desktop)"
+msgid "Compressed TreeLine File"
+msgstr "压缩的 TreeLine 文件"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-web-template.desktop
+msgctxt "Comment(libreoffice-oasis-web-template.desktop)"
+msgid "HTML Document Template"
+msgstr "HTML 文档模板"
+
+#: /usr/share/mimelnk/application/libreoffice-drawing.desktop
+msgctxt "Comment(libreoffice-drawing.desktop)"
+msgid "LibreOffice Drawing"
+msgstr "LibreOffice 绘图"
+
+#: /usr/share/mimelnk/application/libreoffice-drawing-template.desktop
+msgctxt "Comment(libreoffice-drawing-template.desktop)"
+msgid "LibreOffice Drawing Template"
+msgstr "LibreOffice 绘图模板"
+
+#: /usr/share/mimelnk/application/libreoffice-extension.desktop
+msgctxt "Comment(libreoffice-extension.desktop)"
+msgid "LibreOffice Extension"
+msgstr "LibreOffice 扩展"
+
+#: /usr/share/mimelnk/application/libreoffice-formula.desktop
+msgctxt "Comment(libreoffice-formula.desktop)"
+msgid "LibreOffice Formula"
+msgstr "LibreOffice 公式"
+
+#: /usr/share/mimelnk/application/libreoffice-master-document.desktop
+msgctxt "Comment(libreoffice-master-document.desktop)"
+msgid "LibreOffice Master Document"
+msgstr "LibreOffice 主控文档"
+
+#: /usr/share/mimelnk/application/libreoffice-presentation.desktop
+msgctxt "Comment(libreoffice-presentation.desktop)"
+msgid "LibreOffice Presentation"
+msgstr "LibreOffice 演示文稿"
+
+#: /usr/share/mimelnk/application/libreoffice-presentation-template.desktop
+msgctxt "Comment(libreoffice-presentation-template.desktop)"
+msgid "LibreOffice Presentation Template"
+msgstr "LibreOffice 演示文稿模板"
+
+#: /usr/share/mimelnk/application/libreoffice-spreadsheet.desktop
+msgctxt "Comment(libreoffice-spreadsheet.desktop)"
+msgid "LibreOffice Spreadsheet"
+msgstr "LibreOffice 电子表格"
+
+#: /usr/share/mimelnk/application/libreoffice-spreadsheet-template.desktop
+msgctxt "Comment(libreoffice-spreadsheet-template.desktop)"
+msgid "LibreOffice Spreadsheet Template"
+msgstr "LibreOffice 电子表格模板"
+
+#: /usr/share/mimelnk/application/libreoffice-text.desktop
+msgctxt "Comment(libreoffice-text.desktop)"
+msgid "LibreOffice Text Document"
+msgstr "LibreOffice 文本文档"
+
+#: /usr/share/mimelnk/application/libreoffice-text-template.desktop
+msgctxt "Comment(libreoffice-text-template.desktop)"
+msgid "LibreOffice Text Document Template"
+msgstr "LibreOffice 文本文档模板"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-excel-sheet-12.desktop
+msgctxt "Comment(libreoffice-ms-excel-sheet-12.desktop)"
+msgid "Microsoft Excel Worksheet"
+msgstr "Microsoft Excel 工作表"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-excel-sheet-binary-12.desktop
+msgctxt "Comment(libreoffice-ms-excel-sheet-binary-12.desktop)"
+msgid "Microsoft Excel Worksheet"
+msgstr "Microsoft Excel 工作表"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-excel-sheet.desktop
+msgctxt "Comment(libreoffice-ms-excel-sheet.desktop)"
+msgid "Microsoft Excel Worksheet"
+msgstr "Microsoft Excel 工作表"
+
+#: /usr/share/mimelnk/application/libreoffice-openxmlformats-officedocument-spreadsheetml-sheet.desktop
+msgctxt ""
+"Comment(libreoffice-openxmlformats-officedocument-spreadsheetml-sheet."
+"desktop)"
+msgid "Microsoft Excel Worksheet"
+msgstr "Microsoft Excel 工作表"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-excel-template-12.desktop
+msgctxt "Comment(libreoffice-ms-excel-template-12.desktop)"
+msgid "Microsoft Excel Worksheet Template"
+msgstr "Microsoft Excel 工作表模板"
+
+#: /usr/share/mimelnk/application/libreoffice-openxmlformats-officedocument-spreadsheetml-template.desktop
+msgctxt ""
+"Comment(libreoffice-openxmlformats-officedocument-spreadsheetml-template."
+"desktop)"
+msgid "Microsoft Excel Worksheet Template"
+msgstr "Microsoft Excel 工作表模板"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-powerpoint-presentation-12.desktop
+msgctxt "Comment(libreoffice-ms-powerpoint-presentation-12.desktop)"
+msgid "Microsoft PowerPoint Presentation"
+msgstr "Microsoft PowerPoint 演示文稿"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-powerpoint-presentation.desktop
+msgctxt "Comment(libreoffice-ms-powerpoint-presentation.desktop)"
+msgid "Microsoft PowerPoint Presentation"
+msgstr "Microsoft PowerPoint 演示文稿"
+
+#: /usr/share/mimelnk/application/libreoffice-openxmlformats-officedocument-presentationml-presentation.desktop
+msgctxt ""
+"Comment(libreoffice-openxmlformats-officedocument-presentationml-"
+"presentation.desktop)"
+msgid "Microsoft PowerPoint Presentation"
+msgstr "Microsoft PowerPoint 演示文稿"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-powerpoint-template-12.desktop
+msgctxt "Comment(libreoffice-ms-powerpoint-template-12.desktop)"
+msgid "Microsoft PowerPoint Presentation Template"
+msgstr "Microsoft PowerPoint 演示文稿模板"
+
+#: /usr/share/mimelnk/application/libreoffice-openxmlformats-officedocument-presentationml-template.desktop
+msgctxt ""
+"Comment(libreoffice-openxmlformats-officedocument-presentationml-template."
+"desktop)"
+msgid "Microsoft PowerPoint Presentation Template"
+msgstr "Microsoft PowerPoint 演示文稿模板"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-word-document-12.desktop
+msgctxt "Comment(libreoffice-ms-word-document-12.desktop)"
+msgid "Microsoft Word Document"
+msgstr "Microsoft Word 文档"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-word-document.desktop
+msgctxt "Comment(libreoffice-ms-word-document.desktop)"
+msgid "Microsoft Word Document"
+msgstr "Microsoft Word 文档"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-word-document2.desktop
+msgctxt "Comment(libreoffice-ms-word-document2.desktop)"
+msgid "Microsoft Word Document"
+msgstr "Microsoft Word 文档"
+
+#: /usr/share/mimelnk/application/libreoffice-openxmlformats-officedocument-wordprocessingml-document.desktop
+msgctxt ""
+"Comment(libreoffice-openxmlformats-officedocument-wordprocessingml-document."
+"desktop)"
+msgid "Microsoft Word Document"
+msgstr "Microsoft Word 文档"
+
+#: /usr/share/mimelnk/application/libreoffice-ms-word-template-12.desktop
+msgctxt "Comment(libreoffice-ms-word-template-12.desktop)"
+msgid "Microsoft Word Document Template"
+msgstr "Microsoft Word 文档模板"
+
+#: /usr/share/mimelnk/application/libreoffice-openxmlformats-officedocument-wordprocessingml-template.desktop
+msgctxt ""
+"Comment(libreoffice-openxmlformats-officedocument-wordprocessingml-template."
+"desktop)"
+msgid "Microsoft Word Document Template"
+msgstr "Microsoft Word 文档模板"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-database.desktop
+msgctxt "Comment(libreoffice-oasis-database.desktop)"
+msgid "OpenDocument Database"
+msgstr "OpenDocument 数据库"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-drawing.desktop
+msgctxt "Comment(libreoffice-oasis-drawing.desktop)"
+msgid "OpenDocument Drawing"
+msgstr "OpenDocument 绘图"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-drawing-template.desktop
+msgctxt "Comment(libreoffice-oasis-drawing-template.desktop)"
+msgid "OpenDocument Drawing Template"
+msgstr "OpenDocument 绘图模板"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-formula.desktop
+msgctxt "Comment(libreoffice-oasis-formula.desktop)"
+msgid "OpenDocument Formula"
+msgstr "OpenDocument 公式"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-master-document.desktop
+msgctxt "Comment(libreoffice-oasis-master-document.desktop)"
+msgid "OpenDocument Master Document"
+msgstr "OpenDocument 主控文档"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-presentation.desktop
+msgctxt "Comment(libreoffice-oasis-presentation.desktop)"
+msgid "OpenDocument Presentation"
+msgstr "OpenDocument 演示文稿"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-presentation-template.desktop
+msgctxt "Comment(libreoffice-oasis-presentation-template.desktop)"
+msgid "OpenDocument Presentation Template"
+msgstr "OpenDocument 演示文稿模板"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-spreadsheet.desktop
+msgctxt "Comment(libreoffice-oasis-spreadsheet.desktop)"
+msgid "OpenDocument Spreadsheet"
+msgstr "OpenDocument 电子表格"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-spreadsheet-template.desktop
+msgctxt "Comment(libreoffice-oasis-spreadsheet-template.desktop)"
+msgid "OpenDocument Spreadsheet Template"
+msgstr "Open Office 电子表格模板"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-text.desktop
+msgctxt "Comment(libreoffice-oasis-text.desktop)"
+msgid "OpenDocument Text"
+msgstr "OpenDocument 文本"
+
+#: /usr/share/mimelnk/application/libreoffice-oasis-text-template.desktop
+msgctxt "Comment(libreoffice-oasis-text-template.desktop)"
+msgid "OpenDocument Text Template"
+msgstr "OpenDocument 文本模板"
+
+#: /usr/share/mimelnk/application/x-treeline.desktop
+msgctxt "Comment(x-treeline.desktop)"
+msgid "TreeLine File"
+msgstr "TreeLine 文件"
+
+#: /usr/share/mimelnk/application/x-treepad.desktop
+msgctxt "Comment(x-treepad.desktop)"
+msgid "TreePad File"
+msgstr "TreePad 文件"

@@ -1,0 +1,1389 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:49+0200\n"
+"PO-Revision-Date: 2012-07-21 04:29+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/Squid.ycp:1029
+msgid "Initializing Squid Configuration"
+msgstr "正在初始化 squid 配置"
+
+#: src/Squid.ycp:1032
+msgid "Read HTTP Ports from Config File."
+msgstr "从配置文件中读取 HTTP 端口。"
+
+#: src/Squid.ycp:1033
+msgid "Read Refresh Patterns from Config File."
+msgstr "从配置文件中读取刷新模式。"
+
+#: src/Squid.ycp:1034
+msgid "Read ACL Groups from Config File."
+msgstr "从配置文件中读取访问控制列表组。"
+
+#: src/Squid.ycp:1035
+msgid "Read Access Control Table from Config File."
+msgstr "从配置文件中读取访问控制表。"
+
+#: src/Squid.ycp:1036
+msgid "Read Other Settings."
+msgstr "读取其他设置。"
+
+#: src/Squid.ycp:1037
+msgid "Read Service Status."
+msgstr "读取服务状态。"
+
+#: src/Squid.ycp:1038
+msgid "Read Firewall Settings."
+msgstr "读取防火墙设置。"
+
+#: src/Squid.ycp:1039
+msgid "Reading HTTP Ports ..."
+msgstr "正在读取 HTTP 端口..."
+
+#: src/Squid.ycp:1040
+msgid "Reading Refresh Patterns ..."
+msgstr "正在读取刷新模式..."
+
+#: src/Squid.ycp:1041
+msgid "Reading ACL Groups ..."
+msgstr "正在读取访问控制列表组..."
+
+#: src/Squid.ycp:1042
+msgid "Reading Access Control Table ..."
+msgstr "正在读取访问控制表..."
+
+#: src/Squid.ycp:1043
+msgid "Reading Other Settings ..."
+msgstr "正在读取其他设置..."
+
+#: src/Squid.ycp:1044
+msgid "Reading Service Status ..."
+msgstr "正在读取服务状态..."
+
+#: src/Squid.ycp:1045
+msgid "Reading Firewall Settings ..."
+msgstr "正在读取防火墙设置..."
+
+#: src/Squid.ycp:1053
+msgid "Cannot read configuration file."
+msgstr "无法读取配置文件。"
+
+#: src/Squid.ycp:1058
+msgid "Cannot read service status."
+msgstr "无法读取服务状态。"
+
+#: src/Squid.ycp:1065
+msgid "Cannot read firewall settings."
+msgstr "无法读取防火墙设置。"
+
+#. We do not set help text here, because it was set outside
+#: src/Squid.ycp:1390
+msgid "Saving Squid Configuration"
+msgstr "正在保存 Squid 配置"
+
+#. Progress stage 1/2
+#: src/Squid.ycp:1395
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. Progress stage 1/2
+#: src/Squid.ycp:1397
+msgid "Write firewall settings"
+msgstr "写入防火墙设置"
+
+#. Progress stage 2/2
+#: src/Squid.ycp:1399
+msgid "Start Service"
+msgstr "启动服务"
+
+#. Progress step 1/2
+#: src/Squid.ycp:1403
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. Progress step 1/2
+#: src/Squid.ycp:1405
+msgid "Writing firewall settings..."
+msgstr "正在写入防火墙设置..."
+
+#. Progress step 2/2
+#: src/Squid.ycp:1407
+msgid "Starting Service..."
+msgstr "正在启动服务..."
+
+#. Progress finished
+#: src/Squid.ycp:1409
+msgid "Finished"
+msgstr "已完成"
+
+#: src/Squid.ycp:1419
+msgid "Cannot write settings."
+msgstr "无法写入设置。"
+
+#: src/Squid.ycp:1425
+msgid "Cannot write firewall settings."
+msgstr "无法写入防火墙设置。"
+
+#. Header
+#: src/Squid.ycp:1512
+msgid "Squid Cache Proxy"
+msgstr "Squid 缓存代理"
+
+#. Start daemon
+#: src/Squid.ycp:1515
+msgid "Start daemon: "
+msgstr "启动守护精灵："
+
+#: src/Squid.ycp:1516
+msgid "When booting"
+msgstr "引导时"
+
+#: src/Squid.ycp:1516 src/complex.ycp:103
+msgid "Manually"
+msgstr "手动"
+
+#. Http Ports
+#: src/Squid.ycp:1519
+msgid "Configured ports:"
+msgstr "已配置的端口："
+
+#: src/Squid.ycp:1526
+msgid " (transparent)"
+msgstr " (透明)"
+
+#. Cache directory
+#: src/Squid.ycp:1534
+msgid "Cache directory: "
+msgstr "缓存目录："
+
+#: src/SquidACL.ycp:78
+msgid "src"
+msgstr "来源"
+
+#. `TextEntry(`id("acl_addr1"), _("IP Address 1"), ""),
+#. `Label(" - "),
+#: src/SquidACL.ycp:82
+msgid "IP Address or Range of IP Addresses"
+msgstr "IP 地址或者 IP 地址范围"
+
+#. `Label("/"),
+#: src/SquidACL.ycp:84 src/SquidACL.ycp:96 src/SquidACL.ycp:108
+msgid "Network Mask"
+msgstr "网络掩码"
+
+#: src/SquidACL.ycp:90
+msgid "The IP address of the requesting client."
+msgstr "发出请求的客户机 IP 地址。"
+
+#: src/SquidACL.ycp:93
+msgid "dst"
+msgstr "目标"
+
+#: src/SquidACL.ycp:95
+msgid "IP Address"
+msgstr "IP 地址"
+
+#: src/SquidACL.ycp:102
+msgid "Destination IP Address."
+msgstr "目标 IP 地址。"
+
+#: src/SquidACL.ycp:105
+msgid "myip"
+msgstr "我的 IP"
+
+#: src/SquidACL.ycp:107
+msgid "Local IP Address"
+msgstr "本地 IP 地址"
+
+#: src/SquidACL.ycp:114
+msgid "The local IP address on which the client connection exists."
+msgstr "客户端连接所在的本地 IP 地址已存在。"
+
+#: src/SquidACL.ycp:117
+msgid "srcdomain"
+msgstr "来源域"
+
+#: src/SquidACL.ycp:119
+msgid "Clients Domain Name"
+msgstr "客户机域名"
+
+#: src/SquidACL.ycp:125
+msgid "This type matches the client's domain name."
+msgstr "此类型匹配客户机域名。"
+
+#: src/SquidACL.ycp:128
+msgid "dstdomain"
+msgstr "目标域"
+
+#: src/SquidACL.ycp:130
+msgid "Destination Domain"
+msgstr "目标域"
+
+#: src/SquidACL.ycp:136
+msgid "This refers to the destination domain, i.e. the source domain where the origin server is located."
+msgstr "这指向目标域，例如，原始服务器所在的源域。"
+
+#: src/SquidACL.ycp:138
+msgid "Matches the client domain name."
+msgstr "匹配客户机域名。"
+
+#: src/SquidACL.ycp:139
+msgid "Provides match for destination domain."
+msgstr "提供目标域匹配。"
+
+#: src/SquidACL.ycp:142
+msgid "time"
+msgstr "时间"
+
+#: src/SquidACL.ycp:144
+msgid "Days"
+msgstr "天"
+
+#: src/SquidACL.ycp:145
+msgid "Monday"
+msgstr "星期一"
+
+#: src/SquidACL.ycp:146
+msgid "Tuesday"
+msgstr "星期二"
+
+#: src/SquidACL.ycp:147
+msgid "Wednesday"
+msgstr "星期三"
+
+#: src/SquidACL.ycp:148
+msgid "Thursday"
+msgstr "星期四"
+
+#: src/SquidACL.ycp:149
+msgid "Friday"
+msgstr "星期五"
+
+#: src/SquidACL.ycp:150
+msgid "Saturday"
+msgstr "星期六"
+
+#: src/SquidACL.ycp:151
+msgid "Sunday"
+msgstr "星期日"
+
+#: src/SquidACL.ycp:153
+msgid "From (H:M)"
+msgstr "从(H:M)"
+
+#: src/SquidACL.ycp:154
+msgid "To (H:M)"
+msgstr "到(H:M)"
+
+#: src/SquidACL.ycp:163
+msgid "Matches using a regular expression on the complete URL."
+msgstr "在完整 URL 上使用正则表达式的匹配"
+
+#: src/SquidACL.ycp:165
+msgid "Matches the URL path minus any protocol, port, and host name information"
+msgstr "匹配 URL 路径去掉任何协议，端口和主机名信息"
+
+#: src/SquidACL.ycp:168
+msgid "port"
+msgstr "端口"
+
+#: src/SquidACL.ycp:169
+msgid "Port Number or Range of Ports"
+msgstr "端口号或者端口范围"
+
+#: src/SquidACL.ycp:174
+msgid "Matches the destination port for the request."
+msgstr "匹配请求的目标端口。"
+
+#: src/SquidACL.ycp:177
+msgid "myport"
+msgstr "我的端口"
+
+#: src/SquidACL.ycp:178
+msgid "Port Number"
+msgstr "端口号"
+
+#: src/SquidACL.ycp:183
+msgid "Provides match for local TCP port number."
+msgstr "提供本地 TCP 端口号的匹配。"
+
+#: src/SquidACL.ycp:186
+msgid "proto"
+msgstr "协议"
+
+#: src/SquidACL.ycp:187
+msgid "Protocol"
+msgstr "协议"
+
+#: src/SquidACL.ycp:192
+msgid "Matches the protocol of the request."
+msgstr "匹配请求的协议。"
+
+#: src/SquidACL.ycp:195
+msgid "method"
+msgstr "方式"
+
+#: src/SquidACL.ycp:196
+msgid "HTTP Method"
+msgstr "HTTP 方式"
+
+#: src/SquidACL.ycp:208
+msgid "This type matches the HTTP method in the request headers."
+msgstr "此类型匹配请求头部的 HTTP 方式。"
+
+#: src/SquidACL.ycp:210
+msgid "A regular expression that matches the client's browser type based on the user agent header."
+msgstr "匹配基于用户代理头部的客户机浏览器类型的正则表达式。"
+
+#: src/SquidACL.ycp:214
+msgid "Maximum Number of HTTP Connections"
+msgstr "最大 HTTP 连接数"
+
+#: src/SquidACL.ycp:219
+msgid "Matches when the client's IP address has more than the specified number of HTTP connections established."
+msgstr "当客户机 IP 地址建立了大于指定数字的 HTTP 连接的匹配。"
+
+#: src/SquidACL.ycp:221
+msgid "Matches Referer header."
+msgstr "匹配引用者头部。"
+
+#: src/SquidACL.ycp:226 src/SquidACL.ycp:239
+msgid "Header Name"
+msgstr "标题名"
+
+#: src/SquidACL.ycp:227 src/SquidACL.ycp:240
+msgid "Regular Expression(s)"
+msgstr "正则表达式(s)"
+
+#: src/SquidACL.ycp:228 src/SquidACL.ycp:241
+#: src/SquidACL_local_functions.ycp:227 src/popup_dialogs.ycp:107
+msgid "Case Insensitive"
+msgstr "不区分大小写"
+
+#: src/SquidACL.ycp:234
+msgid "Regular expression matching any of the known request headers."
+msgstr "匹配任何已知的请求头部的正则表达式。"
+
+#: src/SquidACL.ycp:247
+msgid ""
+"Regular expression matching the mime type of the reply received by squid. Can\n"
+"be used to detect file download or some types of HTTP tunnelling requests.\n"
+msgstr ""
+"匹配 Squid 收到的应答的 mime 类型的正则表达式。\n"
+"可用来检测文件下载或某些类型的 HTTP 隧道请求。\n"
+
+#: src/SquidACL.ycp:251
+msgid "Match the mime type of the request generated by the client."
+msgstr "匹配客户机生成的请求的 mime 类型。"
+
+#: src/SquidACL.ycp:252
+msgid "Match the mime type of the reply received by Squid."
+msgstr "匹配 Squid 收到的应答的 mime 类型。"
+
+#: src/SquidACL.ycp:256
+msgid "MAC Address"
+msgstr "MAC 地址"
+
+#: src/SquidACL.ycp:261
+msgid "Ethernet (MAC) address matching."
+msgstr "以太网 (MAC) 地址匹配。"
+
+#: src/SquidACL_local_functions.ycp:122 src/SquidACL_local_functions.ycp:163
+msgid "Invalid values."
+msgstr "无效的值。"
+
+#: src/SquidACL_local_functions.ycp:203
+msgid "Domain Name must not be empty."
+msgstr "域名不能为空。"
+
+#: src/SquidACL_local_functions.ycp:226 src/dialogs.ycp:60
+#: src/popup_dialogs.ycp:106
+msgid "Regular Expression"
+msgstr "正则表达式"
+
+#: src/SquidACL_local_functions.ycp:257
+msgid "Regular Expression must not be empty."
+msgstr "正则表达式不能为空。"
+
+#: src/SquidACL_local_functions.ycp:314
+msgid "You must select at least one day."
+msgstr "您必须至少选择一天。"
+
+#: src/SquidACL_local_functions.ycp:317
+msgid "Time is not set in correct format."
+msgstr "时间格式设定不正确。"
+
+#: src/SquidACL_local_functions.ycp:320
+msgid "From must be less than To."
+msgstr "“从”必须小于“到”。"
+
+#: src/SquidACL_local_functions.ycp:359 src/SquidACL_local_functions.ycp:388
+msgid "Invalid value."
+msgstr "无效的值。"
+
+#: src/SquidACL_local_functions.ycp:412
+msgid "Protocol must not be empty."
+msgstr "协议不能为空。"
+
+#: src/SquidACL_local_functions.ycp:485
+msgid "Header Name and Regular Expression must not be empty."
+msgstr "标题名和正则表达式不能为空。"
+
+#. error report
+#: src/SquidACL_local_functions.ycp:522
+msgid "MAC Address must not be empty."
+msgstr "MAC 地址不能为空。"
+
+#. error report
+#: src/SquidACL_local_functions.ycp:526
+msgid "Incorrect format of MAC Address."
+msgstr "MAC 地址格式不对。"
+
+# AM
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:91
+msgid "Armenian"
+msgstr "亚美尼亚语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:93
+msgid "Catalan"
+msgstr "加泰罗尼亚语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:95
+msgid "Dutch"
+msgstr "荷兰语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:97
+msgid "Finnish"
+msgstr "芬兰语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:99
+msgid "Greek"
+msgstr "希腊语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:101
+msgid "Italian"
+msgstr "意大利语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:103
+msgid "Lithuanian"
+msgstr "立陶宛语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:105
+msgid "Romanian"
+msgstr "罗马尼亚语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:107
+msgid "Serbian"
+msgstr "塞尔维亚语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:109
+msgid "Spanish"
+msgstr "西班牙语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:111
+msgid "Turkish"
+msgstr "土耳其语"
+
+#. language name - combo box entry; don't translate the encoding suffix
+#: src/SquidErrorMessages.ycp:113
+msgid "Ukrainian-1251"
+msgstr "乌克兰语-1251"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:115
+msgid "Azerbaijani"
+msgstr "阿塞拜疆语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:117
+msgid "Czech"
+msgstr "捷克语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:119
+msgid "English"
+msgstr "英语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:121
+msgid "French"
+msgstr "法语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:123
+msgid "Hebrew"
+msgstr "希伯来语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:125
+msgid "Japanese"
+msgstr "日语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:127
+msgid "Polish"
+msgstr "波兰语"
+
+#. language name - combo box entry; don't translate the encoding suffix
+#: src/SquidErrorMessages.ycp:129
+msgid "Russian-koi8-r"
+msgstr "俄语-koi8-r"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:131
+msgid "Simplified Chinese"
+msgstr "简体中文"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:133
+msgid "Swedish"
+msgstr "瑞典语"
+
+#. language name - combo box entry; don't translate the encoding suffix
+#: src/SquidErrorMessages.ycp:135
+msgid "Ukrainian-koi8-u"
+msgstr "乌克兰语-koi8-u"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:137
+msgid "Bulgarian"
+msgstr "保加利亚语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:139
+msgid "Danish"
+msgstr "丹麦语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:141
+msgid "Estonian"
+msgstr "爱沙尼亚语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:143
+msgid "German"
+msgstr "德语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:145
+msgid "Hungarian"
+msgstr "匈牙利语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:147
+msgid "Korean"
+msgstr "韩语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:149
+msgid "Portuguese"
+msgstr "葡萄牙语"
+
+#. language name - combo box entry; don't translate the encoding suffix
+#: src/SquidErrorMessages.ycp:151
+msgid "Russian-1251"
+msgstr "俄语-1251"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:153
+msgid "Slovak"
+msgstr "斯洛伐克语"
+
+#. language name - combo box entry
+#: src/SquidErrorMessages.ycp:155
+msgid "Traditional Chinese"
+msgstr "繁体中文"
+
+#. language name - combo box entry; don't translate the encoding suffix
+#: src/SquidErrorMessages.ycp:157
+msgid "Ukrainian-utf8"
+msgstr "乌克兰语-utf8"
+
+#: src/complex.ycp:93
+msgid "Squid"
+msgstr "Squid"
+
+#: src/complex.ycp:99
+msgid "When &Booting"
+msgstr "引导时(&B)"
+
+#: src/complex.ycp:100
+msgid "&Manually"
+msgstr "手动(&M)"
+
+#: src/complex.ycp:102
+msgid "When Booting"
+msgstr "引导时"
+
+#: src/complex.ycp:108
+msgid "Squid is running"
+msgstr "Squid 正在运行"
+
+#: src/complex.ycp:109
+msgid "Squid is not running"
+msgstr "Squid 没有运行"
+
+#: src/complex.ycp:110
+msgid "&Start Squid Now"
+msgstr "立即启动 Squid(&S)"
+
+#: src/complex.ycp:111
+msgid "S&top Squid Now"
+msgstr "立即停止 Squid(&T)"
+
+#: src/complex.ycp:113
+msgid "Sa&ve Settings and Restart Squid Now"
+msgstr "立即保存设置并重启动 Squid(&V)"
+
+#. TRANSLATORS: part of help text - push button label, NO SHORTCUT!!!
+#: src/complex.ycp:118
+msgid "Start Squid Now"
+msgstr "立即启动 Squid"
+
+#. TRANSLATORS: part of help text - push button label, NO SHORTCUT!!!
+#: src/complex.ycp:120
+msgid "Stop Squid Now"
+msgstr "立即停止 Squid"
+
+#. TRANSLATORS: part of help text - push button label, NO SHORTCUT!!!
+#: src/complex.ycp:122
+msgid "Save Settings and Restart Squid Now"
+msgstr "立即保存设置并重启动 Squid"
+
+#: src/complex.ycp:128
+msgid "Open Ports in Firewall"
+msgstr "在防火墙中打开端口"
+
+#: src/complex.ycp:222
+msgid "Firewall Settings"
+msgstr "防火墙设置"
+
+#: src/complex.ycp:226 src/complex.ycp:227
+msgid "Start-Up"
+msgstr "启动"
+
+#: src/complex.ycp:233
+msgid "HTTP Ports Setting"
+msgstr "HTTP 端口设置"
+
+#: src/complex.ycp:234 src/dialogs.ycp:42
+msgid "HTTP Ports"
+msgstr "HTTP 端口"
+
+#: src/complex.ycp:240
+msgid "Refresh Patterns Setting"
+msgstr "刷新模式设置"
+
+#: src/complex.ycp:241 src/dialogs.ycp:57
+msgid "Refresh Patterns"
+msgstr "刷新模式"
+
+#: src/complex.ycp:247 src/complex.ycp:248 src/dialogs.ycp:86
+msgid "Cache Setting"
+msgstr "缓存设置"
+
+#: src/complex.ycp:254
+msgid "Cache Directory Setting"
+msgstr "缓存目录设置"
+
+#: src/complex.ycp:255 src/dialogs.ycp:183 src/handlers.ycp:144
+msgid "Cache Directory"
+msgstr "缓存目录"
+
+#: src/complex.ycp:265
+msgid "Access Control Setting"
+msgstr "访问控制设置"
+
+#: src/complex.ycp:266 src/dialogs.ycp:222
+msgid "Access Control"
+msgstr "访问控制"
+
+#: src/complex.ycp:278
+msgid "Logging and Timeouts Setting"
+msgstr "日志和超时设置"
+
+#: src/complex.ycp:279
+msgid "Logging and Timeouts"
+msgstr "日志和超时"
+
+#: src/complex.ycp:285 src/dialogs.ycp:282
+msgid "Miscellaneous Setting"
+msgstr "杂项设置"
+
+#: src/complex.ycp:286
+msgid "Miscellaneous"
+msgstr "杂项"
+
+#: src/dialogs.ycp:43 src/popup_dialogs.ycp:54
+msgid "Host"
+msgstr "主机"
+
+#: src/dialogs.ycp:43 src/popup_dialogs.ycp:55
+msgid "Port"
+msgstr "端口"
+
+#: src/dialogs.ycp:43
+msgid "Options"
+msgstr "选项"
+
+#. table header, stands for minimum
+#: src/dialogs.ycp:62
+msgid "Min"
+msgstr "最短"
+
+#. table header
+#: src/dialogs.ycp:64 src/popup_dialogs.ycp:110
+msgid "Percent"
+msgstr "百分比"
+
+#. table header, stands for maximum
+#: src/dialogs.ycp:66
+msgid "Max"
+msgstr "最长"
+
+#: src/dialogs.ycp:89
+msgid "C&ache Memory"
+msgstr "缓存内存(&A)"
+
+#: src/dialogs.ycp:94
+msgid "Ma&x Object Size"
+msgstr "最大对象尺寸(&X)"
+
+#: src/dialogs.ycp:99
+msgid "M&in Object Size"
+msgstr "最小对象尺寸(&I)"
+
+#: src/dialogs.ycp:104
+msgid "Swap &Low-Water Mark (percentage)"
+msgstr "Swap 低水位 (百分比)(&L)"
+
+#: src/dialogs.ycp:108
+msgid "Swap &High-Water Mark (percentage)"
+msgstr "Swap 高水位 (百分比)(&H)"
+
+#: src/dialogs.ycp:113
+msgid "&Cache Replacement Policy"
+msgstr "缓存替换策略(&C)"
+
+#: src/dialogs.ycp:119
+msgid "&Memory Replacement Policy"
+msgstr "内存替换策略(&M)"
+
+#: src/dialogs.ycp:186
+msgid "&Directory Name"
+msgstr "目录名(&D)"
+
+#: src/dialogs.ycp:190
+msgid "&Size (in MB)"
+msgstr "大小(单位 MB)(&S)"
+
+#: src/dialogs.ycp:192
+msgid "L&evel 1 Directories"
+msgstr "第一层目录(&E)"
+
+#: src/dialogs.ycp:194
+msgid "Le&vel 2 Directories"
+msgstr "第二层目录(&V)"
+
+#: src/dialogs.ycp:207 src/dialogs.ycp:224
+msgid "ACL Groups"
+msgstr "访问控制表组"
+
+#: src/dialogs.ycp:208 src/popup_dialogs.ycp:294
+msgid "Name"
+msgstr "名称"
+
+#: src/dialogs.ycp:208 src/popup_dialogs.ycp:295
+msgid "Type"
+msgstr "类型"
+
+#: src/dialogs.ycp:208
+msgid "Description"
+msgstr "描述"
+
+#: src/dialogs.ycp:224 src/popup_dialogs.ycp:203
+msgid "Allow/Deny"
+msgstr "允许/拒绝"
+
+#: src/dialogs.ycp:242
+msgid "Logging"
+msgstr "日志"
+
+#: src/dialogs.ycp:245
+msgid "&Access Log"
+msgstr "访问日志(&A)"
+
+#: src/dialogs.ycp:249
+msgid "&Cache Log"
+msgstr "缓存日志(&C)"
+
+#: src/dialogs.ycp:253
+msgid "Cache &Store Log"
+msgstr "缓存存储日志(&S)"
+
+#: src/dialogs.ycp:256
+msgid "&Emulate httpd Log?"
+msgstr "模拟 httpd 日志？(&E)"
+
+#: src/dialogs.ycp:264
+msgid "Timeouts"
+msgstr "超时"
+
+#: src/dialogs.ycp:267
+msgid "Connection &Timeout"
+msgstr "连接超时(&T)"
+
+#: src/dialogs.ycp:271
+msgid "Client &Lifetime"
+msgstr "客户端生命期(&L)"
+
+#: src/dialogs.ycp:284
+msgid "&Language of error messages"
+msgstr "错误信息语言(&L)"
+
+#: src/dialogs.ycp:287
+msgid "&Administrator's email"
+msgstr "管理员的电子邮件(&A)"
+
+#: src/dialogs.ycp:289
+msgid "&Use FTP Passive Mode"
+msgstr "使用 FTP 被动模式(&U)"
+
+#: src/handlers.ycp:209
+msgid "Access Log"
+msgstr "访问日志"
+
+#: src/handlers.ycp:213
+msgid "Cache Log"
+msgstr "缓存日志"
+
+#: src/handlers.ycp:217
+msgid "Cache Store Log"
+msgstr "缓存存储日志"
+
+#: src/helper_functions.ycp:40
+msgid "&Units"
+msgstr "单位(&U)"
+
+#: src/helper_functions.ycp:60
+msgid "seconds"
+msgstr "秒"
+
+#: src/helper_functions.ycp:61
+msgid "minutes"
+msgstr "分钟"
+
+#: src/helper_functions.ycp:62
+msgid "hours"
+msgstr "小时"
+
+#: src/helper_functions.ycp:63
+msgid "days"
+msgstr " 天"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:38
+msgid ""
+"<p><b><big>Initializing Squid Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在初始化 squid 配置</big></b><br>\n"
+"</p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:42
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化:</big></b><br>\n"
+"请您现在点击<b>终止</b>, 以便安全中断配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:47
+msgid ""
+"<p><b><big>Saving Squid Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在保存 Squid 配置</big></b><br>\n"
+"</p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:51
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"请点击<B>中断</B>,以便中断保存.\n"
+"一个附加对话框将告诉您这样做是否安全.\n"
+"</p>\n"
+
+#. Summary dialog help
+#: src/helps.ycp:58
+msgid ""
+"<p><b><big>Squid Configuration</big></b><br>\n"
+"Configure Squid here.<br></p>\n"
+msgstr ""
+"<p><b><big>Squid 配置</big></b><br>\n"
+"请在此配置 squid。<br></p>\n"
+
+#. Ovreview dialog help
+#: src/helps.ycp:63
+msgid ""
+"<p><b><big>Squid Configuration Overview</big></b><br>\n"
+"Obtain an overview of installed squids and\n"
+"edit their configurations if necessary.<br></p>\n"
+msgstr ""
+"<p><b><big>Squid 配置概览</big></b><br>\n"
+"获取已安装的 squid 的概览。 此外，\n"
+"对它们的配置进行编辑。<br></p>\n"
+
+#: src/helps.ycp:72
+msgid ""
+"<p>Define all ports where Squid will\n"
+"listen for clients' http requests.</p>\n"
+msgstr "<p>定义所有 Squid 监听客户端 http 请求的端口。</p>\n"
+
+#: src/helps.ycp:75
+msgid ""
+"<p><b>Host</b> can contain a hostname or IP address\n"
+"or remain empty.</p>\n"
+msgstr "<p><b>主机</b>可以包含主机名或 IP 地址或留空。</p>\n"
+
+#: src/helps.ycp:82
+msgid "<p><b>Refresh Patterns</b> define how Squid treats the objects in the cache.</p>\n"
+msgstr "<p><b>刷新模式</b>定义了 Squid 如何处理缓存中的对象。</p>\n"
+
+#: src/helps.ycp:84
+msgid ""
+"<p>The refresh patterns are checked in the order listed here.\n"
+"The first matching entry is used.</p>\n"
+msgstr ""
+"<p>刷新模式在此以有序列表方式显示。\n"
+"正使用第一个匹配的条目。</p>\n"
+
+#: src/helps.ycp:87
+msgid ""
+"<p><b>Min</b> determines how long (in minutes) an object should be\n"
+"considered fresh if no explicit expiry time is given.\n"
+msgstr "<p><b>最短</b>决定了未给定失效时间的情况下对象被视为鲜活的时间(以分钟计)。\n"
+
+#: src/helps.ycp:90
+msgid ""
+"<p><b>Percent</b> is the percentage of the object's age (time since last\n"
+"modification). An object without explicit expiry time will be\n"
+"considered fresh.</p>\n"
+msgstr "<p><b>百分比</b>是对象寿命的百分比(自从上一次修改)。一个没有明确失效时间的对象将被认为是鲜活的。</p>\n"
+
+#: src/helps.ycp:94
+msgid ""
+"<p><b>Max</b> is the upper limit of how long objects without an explicit\n"
+"expiry time will be considered fresh.</p>\n"
+msgstr "<p><b>最大时间</b>是没有明确失效时间的对象被视为鲜活的上限时间。</p>\n"
+
+#: src/helps.ycp:101
+msgid "<p><b>Cache memory</b> defines the ideal amount of memory to be used for objects.</p>"
+msgstr "<p><b>缓存内存</b>定义了用于对象的理想内存大小。</p>"
+
+#: src/helps.ycp:102
+msgid ""
+"<p><b>Max Object Size</b> defines the maximum size for objects to be stored\n"
+"on the disk. Objects larger than this size will not be saved on disk.</p>\n"
+msgstr "<p><b>最大对象尺寸</b>定义了存储在磁盘上的对象的最大大小。大于此尺寸的对象将不被保存在磁盘上。</p>\n"
+
+#: src/helps.ycp:105
+msgid ""
+"<p><b>Min Object Size</b> specifies the minimum size for objects. Smaller \n"
+"objects will not be saved to the disk.</p>\n"
+msgstr "<p><b>最小对象尺寸</b>指定了对象的最小尺寸。小于此尺寸的对象将不被保存到磁盘上。</p>\n"
+
+#: src/helps.ycp:108
+msgid ""
+"<p>Replacement begins when the swap (disk) usage is above the\n"
+"<b>Swap Low-Water Mark</b> and attempts to maintain utilization near the\n"
+"<b>Swap Low-Water Mark</b>. As swap utilization gets close to\n"
+"<b>Swap High-Water Mark</b>, object eviction becomes more aggressive.\n"
+"If utilization is close to the <b>Swap Low-Water Mark</b>, less replacement\n"
+"is done each time.\n"
+msgstr ""
+"<p>替换开始于 swap (磁盘) 使用量超过 <b>Swap 低水位</b> 并试图维持 <b>Swap 低水位</b>时。\n"
+"随着 swap 利用接近 <b>Swap 高水位</b>，对象驱逐会更加激进。\n"
+"如果利用接近 <b>Swap 低水位</b>，将逐步减少替换。\n"
+
+#: src/helps.ycp:115
+msgid ""
+"<p><b>Cache Replacement Policy</b> determines which objects are to be replaced\n"
+"when disk space is needed.\n"
+"<b>Memory Replacement Policy</b> specifies the policy for object replacement in\n"
+"memory when space for new objects is not available.\n"
+"Policies could be:\n"
+"<table>\n"
+"    <tr>\n"
+"      <td>lru</td>\n"
+"      <td>least recently used</td>\n"
+"    </tr>\n"
+"    <tr>\n"
+"      <td>heap GDSF</td>\n"
+"      <td>Greedy-Dual Size Frequency</td>\n"
+"    </tr>\n"
+"    <tr>\n"
+"      <td>heap LFUDA</td>\n"
+"      <td>Least Frequently Used with Dynamic Aging</td>\n"
+"    <tr>\n"
+"    <tr>\n"
+"      <td>heap LRU</td>\n"
+"      <td>lru policy implemented using a heap</td>\n"
+"    </tr>\n"
+"</table>\n"
+"</p>"
+msgstr ""
+"<p><b>缓存替换策略</b>决定当磁盘空间近满时替换哪些对象。\n"
+"<b>内存替换策略</b>指定当没有空间存储新对象时使用的内存对象替换策略。\n"
+"策略有：\n"
+"<table>\n"
+"    <tr>\n"
+"       <td>lru</td>\n"
+"       <td>最近最少使用</td>\n"
+"    </tr>\n"
+"    <tr>\n"
+"       <td>heap GDSF</td>\n"
+"       <td>贪婪的双倍频率</td>\n"
+"    </tr>\n"
+"    <tr>\n"
+"       <td>heap LFUDA</td>\n"
+"       <td>动态老化模式下最不常使用</td>\n"
+"    </tr>\n"
+"    <tr>\n"
+"       <td>heap LRU</td>\n"
+"       <td>用堆实现的最近最少使用策略。</td>\n"
+"    </tr>\n"
+"</table>\n"
+"</p>"
+
+#: src/helps.ycp:142
+msgid "<p><b>Directory Name</b> defines a top-level directory where cache swap files will be stored.</p>"
+msgstr "<p><b>目录名称</b>定义了存储缓存 swap 文件的顶层目录。</p>"
+
+#: src/helps.ycp:143
+msgid "<p><b>Size</b> defines the amount of disk space (in MB) to use under this directory.</p>"
+msgstr "<p><b>大小</b>定义了此目录使用的磁盘空间大小 (以 MB 计)。</p>"
+
+#: src/helps.ycp:144
+msgid ""
+"<p><b>Level 1 Directories</b> defines a number of first-level subdirectories, \n"
+"which will be created under the <b>Directory Name</b> directory.</p>\n"
+msgstr "<p><b>一级目录</b>定义了一级子目录数，将在 <b>目录名称</b> 目录下创建。</p>\n"
+
+#: src/helps.ycp:147
+msgid ""
+"<p><b>Level 2 Directories</b> defines a number of second-level subdirectories,\n"
+"which will be created under each first-level directory.</p>\n"
+msgstr "<p><b>第二级目录</b>定义了二级子目录数，将在每个一级目录下创建。</p>\n"
+
+#: src/helps.ycp:154
+msgid "<p>Access to the Squid server can be controlled via <b>ACL Groups</b>.</p>"
+msgstr "<p>可以通过<b>访问控制表组</b>控制对 Squid 服务器的访问。</p>"
+
+#: src/helps.ycp:155
+msgid ""
+"<p><b>ACL Group</b> has various types and the description of ACL Group depends\n"
+"on the particular type.</p>\n"
+msgstr "<p><b>访问控制表组</b>有多种类型，访问控制表组的描述取决于特定类型。</p>\n"
+
+#: src/helps.ycp:159
+msgid ""
+"<p>In the <b>Access Control</b> table, access can be denied or allowed to ACL Groups.\n"
+"If there are more ACL Groups in one line, it means that access will be allowed\n"
+"or denied to members who belong to all ACL Groups at the same time.</p>\n"
+msgstr ""
+"<p>在<b>访问控制</b>表中，可以以访问控制表组的形式允许或拒绝访问。\n"
+"如果一行里有多个访问控制表组，意味着将同时允许或拒绝所有访问控制表组成员的访问。</p>\n"
+
+#: src/helps.ycp:163
+msgid ""
+"<p>The <b>Access Control</b> table is checked in the order listed here.\n"
+"The first matching entry is used.</p>\n"
+msgstr "<p><b>访问控制</b>表在此以有序列表的方式显示。正使用第一个匹配的条目。</p>\n"
+
+#: src/helps.ycp:170
+msgid "<p><b>Access Log</b> defines the file in which client activities are logged.</p>"
+msgstr "<p><b>访问日志</b>定义记录客户机活动的文件。</p>"
+
+#: src/helps.ycp:171
+msgid ""
+"<p><b>Cache Log</b> defines the file in which general information about your\n"
+"cache's behavior is logged.</p>\n"
+msgstr "<p><b>缓存日志</b>定义了记录您的缓存行为的常规信息的文件。</p>\n"
+
+#: src/helps.ycp:174
+msgid ""
+"<p><b>Cache Store Log</b> defines the location of the transaction log of all\n"
+"objects that are stored in the object store, as well as the time when an object\n"
+"gets deleted. This option can be left empty.</p>\n"
+msgstr "<p><b>缓存存储日志</b>定义了所有存储在对象存储中的操作日志的位置，和对象的删除时间。该选项可以留空。</p>\n"
+
+#: src/helps.ycp:178
+msgid ""
+"<p>With <b>Emulate httpd Log</b> specify that Squid writes its\n"
+"<b>Access Log</b> in HTTPD common log file format.</p>\n"
+msgstr "<p>通过 <b>模拟 httpd 日志</b> 指定 Squid 以 HTTPD 通用日志文件格式记录它的 <b>访问日志</b>。</p>\n"
+
+#: src/helps.ycp:182
+msgid ""
+"<p><b>Connection Timeout</b> is an option to force Squid to close\n"
+"connections after a specified time.</p>"
+msgstr "<p><b>连接超时</b>是在指定时间后强制 Squid 关闭连接的选项。</p>"
+
+#: src/helps.ycp:184
+msgid ""
+"<p><b>Client Lifetime</b> defines the maximum amount of time that a client\n"
+"(browser) is allowed to remain connected to the cache process.</p>"
+msgstr "<p><b>客户机有效期</b>定义了客户机(浏览器)允许保持到缓存进程的连接的最长时间。</p>"
+
+#: src/helps.ycp:190
+msgid ""
+"<p><b>Administrator's email</b> is the address which will be added to any\n"
+"error pages that are displayed to clients. Defaults to webmaster.</p>\n"
+msgstr "<p><b>管理员电子邮件</b>是添加到任何显示给客户机的错误页面的邮件地址。默认是 webmaster。</p>\n"
+
+#. table cell
+#: src/inits.ycp:72 src/popup_dialogs.ycp:56
+msgid "Transparent"
+msgstr "透明"
+
+#: src/popup_dialogs.ycp:48
+msgid "Add New HTTP Port"
+msgstr "添加新的 HTTP 端口"
+
+#: src/popup_dialogs.ycp:49
+msgid "Edit Current HTTP Port"
+msgstr "编辑当前 HTTP 端口"
+
+#: src/popup_dialogs.ycp:96
+msgid "Add New Refresh Pattern"
+msgstr "添加新的刷新模式"
+
+#: src/popup_dialogs.ycp:97
+msgid "Edit Current refresh Pattern"
+msgstr "编辑当前的刷新模式"
+
+#: src/popup_dialogs.ycp:109
+msgid "Min (in minutes)"
+msgstr "最短(分钟)"
+
+#: src/popup_dialogs.ycp:111
+msgid "Max (in minutes)"
+msgstr "最长(分钟)"
+
+#: src/popup_dialogs.ycp:196
+msgid "Add New HTTP Access"
+msgstr "增加新的 HTTP 访问权限"
+
+#: src/popup_dialogs.ycp:197
+msgid "Edit HTTP Access"
+msgstr "编辑 HTTP 访问权限"
+
+#: src/popup_dialogs.ycp:204
+msgid "Allow"
+msgstr "允许"
+
+#: src/popup_dialogs.ycp:204
+msgid "Deny"
+msgstr "拒绝"
+
+#: src/popup_dialogs.ycp:209
+msgid "ACL"
+msgstr "访问控制列表"
+
+#: src/popup_dialogs.ycp:213
+msgid "O&pposite"
+msgstr "相反(&P)"
+
+#: src/popup_dialogs.ycp:218
+msgid "Add ACL"
+msgstr "添加访问控制列表"
+
+#: src/popup_dialogs.ycp:220
+msgid "not"
+msgstr "否"
+
+#: src/popup_dialogs.ycp:285
+msgid "Add New ACL Group"
+msgstr "添加新的访问控制列表组"
+
+#: src/popup_dialogs.ycp:286
+msgid "Edit ACL Group"
+msgstr "编辑访问控制列表组"
+
+#. Command line help text for the Xsquid module
+#: src/squid.ycp:87
+msgid "Configuration of Squid cache proxy"
+msgstr "Squid 缓存代理配置"
+
+#: src/store_del.ycp:58
+msgid "Port number must not be empty."
+msgstr "端口号不能为空。"
+
+#: src/store_del.ycp:63
+msgid "Host must contain valid IP address or hostname."
+msgstr "主机必须包含有效 IP 地址或主机名。"
+
+#: src/store_del.ycp:110
+msgid "Regular expression must not be empty."
+msgstr "正则表达式不能为空。"
+
+#: src/store_del.ycp:171 src/store_del.ycp:215
+msgid ""
+"Cache Memory + Size of Cache Directory\n"
+"must be higher than Max Object Size.\n"
+msgstr "缓存内存 + 缓存目录大小必须比最大对象大小大。\n"
+
+#: src/store_del.ycp:203
+msgid "Cache directory must not be empty."
+msgstr "缓存目录不能为空。"
+
+#: src/store_del.ycp:263
+msgid "ACL table must not be empty."
+msgstr "访问控制列表表不能为空。"
+
+#: src/store_del.ycp:337
+#, ycp-format
+msgid "ACL Group '%1' already exists with different type.\n"
+msgstr "已经存在一个不同类型的访问控制列表组 '%1'。\n"
+
+#: src/store_del.ycp:338
+#, ycp-format
+msgid "ACL Group '%1' must have type '%2'.\n"
+msgstr "访问控制列表组 '%1' 的类型必须是 '%2'。\n"
+
+#: src/store_del.ycp:339
+msgid ""
+"If you want to change the type of this ACL Group, you must\n"
+"delete other ACL Groups with the same name before that.\n"
+msgstr "如果您想要修改此访问控制列表组的类型，您必须在此之前删除同名的其他访问控制列表组。\n"
+
+#: src/store_del.ycp:349
+msgid ""
+"You can not change the name of this ACL Group, because \n"
+"it is used in the Access Control table.\n"
+msgstr ""
+"您不能修改这个访问控制列表组的名称。\n"
+"因为访问控制表使用着它。\n"
+
+#: src/store_del.ycp:352 src/store_del.ycp:404
+msgid ""
+"If you want to change name of this ACL Group you must\n"
+"delete all of its occurrences in Access Control table."
+msgstr "如果您想要修改此访问控制列表组名称，您必须从访问控制标中删除它。"
+
+#: src/store_del.ycp:358
+msgid "If you change the name of this ACL Group, these options might be affected: \n"
+msgstr "如果您修改这个访问控制列表组名称，这些选项可能会受到影响：\n"
+
+#: src/store_del.ycp:360
+msgid "Change name anyway"
+msgstr "还是要更改名称"
+
+#: src/store_del.ycp:361
+msgid "Do not change name"
+msgstr "不更改名称"
+
+#: src/store_del.ycp:370
+msgid "Name must not be empty."
+msgstr "名称不能为空。"
+
+#. Report::Error( _("This ACL Group can't be deleted.\nIt's used in Access Control table."));
+#: src/store_del.ycp:401
+msgid ""
+"You must not delete this ACL Group, because \n"
+"it is used in the Access Control table.\n"
+msgstr ""
+"您不能删除这个访问控制列表组。\n"
+"因为访问控制表使用着它。\n"
+
+#: src/store_del.ycp:406
+msgid "If you delete this ACL Group, these options might be affected: \n"
+msgstr "如果您删除这个访问控制列表组，这些选项可能会受到影响：\n"
+
+#: src/store_del.ycp:411
+msgid "Delete anyway"
+msgstr "还是要删除"
+
+#. Label::YesButton(),
+#: src/store_del.ycp:412
+msgid "Do not delete"
+msgstr "不删除"
+
+#: src/store_del.ycp:448
+msgid "Access Log must not be empty."
+msgstr "访问日志不能为空。"
+
+#: src/store_del.ycp:452
+msgid "Cache Log must not be empty."
+msgstr "缓存日志不能为空。"
+
+#: src/store_del.ycp:456
+msgid "Incorrect pathname in Access Log field."
+msgstr "错误的访问日志路径名"
+
+#: src/store_del.ycp:460
+msgid "Incorrect pathname in Cache Log field."
+msgstr "错误的缓存日志路径名。"
+
+#: src/store_del.ycp:464
+msgid "Incorrect pathname in Cache Store Log field."
+msgstr "错误的缓存存储日志路径名。"
+
+#: src/store_del.ycp:513
+msgid "Administrator's email must not contain any white spaces."
+msgstr "管理员电子邮件地址不能包含任何空格。"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:103
+msgid "Squid Configuration"
+msgstr "Squid 配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:105
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#~ msgid ""
+#~ "<p><b><big>Saving squid Configuration</big></b><br>\n"
+#~ "Please wait...<br></p>\n"
+#~ msgstr ""
+#~ "<p><b><big>正在保存 squid 配置</big></b><br>\n"
+#~ "请等待...<br></p>\n"
+
+#, fuzzy
+#~ msgid "Simplify Chinese"
+#~ msgstr "简体中文"

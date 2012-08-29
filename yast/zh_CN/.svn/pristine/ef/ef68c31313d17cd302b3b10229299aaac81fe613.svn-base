@@ -1,0 +1,2711 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: autoinst\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:36+0200\n"
+"PO-Revision-Date: 2012-07-18 14:29+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. progress step title
+#: src/clients/autoinst_scripts1_finish.ycp:44
+#: src/clients/autoinst_scripts2_finish.ycp:42
+msgid "Executing autoinstall scripts in the installation environment..."
+msgstr "正在安装环境中执行自动安装脚本..."
+
+#: src/clients/autoyast.ycp:33
+msgid "Error while reading configuration data."
+msgstr "读取配置数据时出错。"
+
+#: src/clients/autoyast.ycp:45 src/clients/ayast_setup.ycp:88
+#: src/clients/inst_autoinit.ycp:93 src/clients/inst_autosetup.ycp:46
+#: src/clients/inst_autosetup_upgrade.ycp:46
+#: src/modules/AutoInstallRules.ycp:883
+msgid ""
+"Error while parsing the control file.\n"
+"Check the log files for more details or fix the\n"
+"control file and try again.\n"
+msgstr ""
+"对控制文件进行解析时出错。\n"
+"请检查日志文件以了解更多信息，或修复\n"
+"该控制文件，然后重试。\n"
+
+#: src/clients/autoyast.ycp:50 src/dialogs/dialogs.ycp:315
+#: src/include/conftree.ycp:544
+msgid "Reading configuration data"
+msgstr "正在读取配置数据"
+
+#: src/clients/autoyast.ycp:50 src/dialogs/dialogs.ycp:315
+#: src/include/conftree.ycp:544 src/modules/Profile.ycp:245
+#: src/tests/autoinst_test_clone.ycp:10
+msgid "This may take a while"
+msgstr "这或许需要一段时间"
+
+#: src/clients/autoyast.ycp:82
+msgid "AutoYaST"
+msgstr "AutoYaST"
+
+#: src/clients/ayast_setup.ycp:46 src/clients/clone_system.ycp:26
+msgid "Empty parameter list"
+msgstr "空参数列表"
+
+#: src/clients/ayast_setup.ycp:81
+msgid "Path to AutoYaST profile must be set."
+msgstr "必须设定 AutoYaST 配置文件路径."
+
+#: src/clients/ayast_setup.ycp:102
+msgid "Client for AutoYaST configuration on the running system"
+msgstr "运行中的系统的 AutoYaST 配置的客户端"
+
+#: src/clients/ayast_setup.ycp:107
+msgid "Configure the system using given AutoYaST profile"
+msgstr "使用所给的 autoyast 配置文件来配置系统"
+
+#: src/clients/ayast_setup.ycp:113
+msgid "Path to AutoYaST profile"
+msgstr "AutoYaST 配置文件路径"
+
+#: src/clients/ayast_setup.ycp:118
+msgid "enable/disable all package handling"
+msgstr "启用/禁用所有软件包处理"
+
+#: src/clients/clone_system.ycp:31
+msgid "Cloning the system..."
+msgstr "正在克隆系统..."
+
+#: src/clients/clone_system.ycp:31
+msgid "The resulting autoyast profile can be found in /root/autoinst.xml."
+msgstr "所生成的 autoyast 配置文件位于 /root/autoinst.xml。"
+
+#: src/clients/clone_system.ycp:55
+msgid "Client for creating an AutoYaST profile based on the currently running system"
+msgstr "基于当前运行系统创建 AutoYaST 配置的客户端"
+
+#: src/clients/clone_system.ycp:60
+#, ycp-format
+msgid "known modules: %1"
+msgstr "已知模块：%1"
+
+#: src/clients/clone_system.ycp:66
+msgid "comma separated list of modules to clone"
+msgstr "逗号分隔的要克隆的模块列表"
+
+#. help 1/2
+#: src/clients/files_auto.ycp:105
+msgid ""
+"<p>Using this dialog, copy the contents of the file and specify the final\n"
+"path on the installed system. YaST will copy this file to the specified location.</p>"
+msgstr "<p>使用此对话框，复制文件的内容并指定在已安装系统上的最终路径。YaST2 将此文件复制到指定的位置。</p>"
+
+#. help 2/2
+#: src/clients/files_auto.ycp:109
+msgid ""
+"<p>To protect copied files, set the owner and the permissions of the files.\n"
+"Set the owner using the syntax <i>userid:groupid</i>.  Permissions can be a symbolic\n"
+"representation of changes to make or an octal  number  representing  the bit pattern for the\n"
+"new permissions.</p>"
+msgstr ""
+"<p>为了保护所复制的文件，请设置文件的所有者和权限。\n"
+"使用语法 <i>userid:groupid</i> 设置所有者。权限可以是要进行的更改的符号\n"
+"表示，也可以是表示新权限的位模式的\n"
+"八进制数字。</p>"
+
+#: src/clients/files_auto.ycp:114
+msgid "Configuration File Editor"
+msgstr "配置文件编辑器"
+
+#: src/clients/files_auto.ycp:119
+msgid "&File Path"
+msgstr "文件路径(&F)"
+
+#: src/clients/files_auto.ycp:124
+msgid "&Owner"
+msgstr "所有者(&O)"
+
+#: src/clients/files_auto.ycp:126
+msgid "&Permissions"
+msgstr "权限(&P)"
+
+#: src/clients/files_auto.ycp:129
+msgid "&Retrieve from"
+msgstr "获取位置(&R)"
+
+#: src/clients/files_auto.ycp:131
+msgid "File So&urce"
+msgstr "文件源(&U)"
+
+#: src/clients/files_auto.ycp:135
+msgid "&Load new contents"
+msgstr "装载新内容(&L)"
+
+#: src/clients/files_auto.ycp:176
+msgid ""
+"Provide at least the file\n"
+"name and the contents of the file.\n"
+msgstr ""
+"至少提供文件名\n"
+"和文件的内容。\n"
+
+#: src/clients/files_auto.ycp:189 src/dialogs/script_dialogs.ycp:270
+#: src/include/conftree.ycp:532
+msgid "Select a file to load."
+msgstr "选择要装载的文件。"
+
+#: src/clients/files_auto.ycp:218
+msgid "Available Files"
+msgstr "可用的文件"
+
+#: src/clients/files_auto.ycp:221
+msgid "File Path"
+msgstr "文件路径"
+
+#: src/clients/files_auto.ycp:221
+msgid "Owner"
+msgstr "所有者"
+
+#: src/clients/files_auto.ycp:221
+msgid "Permissions"
+msgstr "权限"
+
+#: src/clients/files_auto.ycp:237
+msgid "Add Complete Configuration Files"
+msgstr "添加完整的配置文件"
+
+#: src/clients/files_auto.ycp:239
+msgid ""
+"<p>For many applications and services, you might have prepared\n"
+"a configuration file that should be copied in a complete form to a location in the\n"
+"installed system. For example, this is the case if you are installing a web server\n"
+"and have an httpd.conf configuration file prepared.</p>"
+msgstr ""
+"<p>对于许多应用程序和服务，\n"
+"应该准备一个配置文件，\n"
+"此文件要被完整地复制到已安装系统的指定位置。例如，您正在安装 Web 服务器，并且已经准备了一个\n"
+"httpd.conf 配置文件。</p>"
+
+#: src/clients/files_auto.ycp:249
+msgid "Select a file from the table first."
+msgstr "请先从表中选择文件。"
+
+#: src/clients/inst_autoconfigure.ycp:62
+#, ycp-format
+msgid "Processing resource %1"
+msgstr "正在处理资源 %1"
+
+#. Help text for last dialog of base installation
+#: src/clients/inst_autoconfigure.ycp:81
+msgid ""
+"<p>\n"
+"Please wait while the system is being configured.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"系统正在配置中，请稍候。\n"
+"</p>"
+
+#. Progress bar that displays overall progress in this dialog
+#: src/clients/inst_autoconfigure.ycp:92
+msgid "Progress"
+msgstr "进度"
+
+#. Dialog title for autoyast dialog
+#: src/clients/inst_autoconfigure.ycp:101
+msgid "Configuring System according to auto-install settings"
+msgstr "根据自动安装设置配置系统"
+
+#: src/clients/inst_autoconfigure.ycp:175
+#: src/clients/inst_autoconfigure.ycp:193
+#: src/clients/inst_autoconfigure.ycp:204
+#, ycp-format
+msgid "Configuring %1"
+msgstr "配置 %1"
+
+#: src/clients/inst_autoconfigure.ycp:177
+#: src/clients/inst_autoconfigure.ycp:195
+#: src/clients/inst_autoconfigure.ycp:206
+#, ycp-format
+msgid "Not Configuring %1"
+msgstr "未配置 %1"
+
+#: src/clients/inst_autoconfigure.ycp:243
+msgid "Executing Post-Scripts"
+msgstr "执行安装后脚本"
+
+#: src/clients/inst_autoconfigure.ycp:252
+msgid "Finishing Configuration"
+msgstr "正在完成配置"
+
+#: src/clients/inst_autoimage.ycp:31
+msgid ""
+"<p>\n"
+"Please wait while the image is retrieved.</p>\n"
+msgstr ""
+"<p>\n"
+"正在获取映像，请稍候。</p>\n"
+
+#: src/clients/inst_autoimage.ycp:36
+msgid "Retrieve Image File"
+msgstr "获取映像文件"
+
+#: src/clients/inst_autoimage.ycp:37
+msgid "Install image file"
+msgstr "安装映像文件"
+
+#: src/clients/inst_autoimage.ycp:42
+msgid "Retrieving image file..."
+msgstr "正在获取映像文件..."
+
+#: src/clients/inst_autoimage.ycp:43
+msgid "Installing image file..."
+msgstr "正在安装映像文件..."
+
+#: src/clients/inst_autoimage.ycp:47
+msgid "Installing image into system..."
+msgstr "正在将映像安装到系统中..."
+
+#: src/clients/inst_autoimage.ycp:63
+#, ycp-format
+msgid ""
+"fetching image-script failed:\n"
+"%1"
+msgstr ""
+"获取映像脚本失败：\n"
+"%1"
+
+#: src/clients/inst_autoimage.ycp:68
+#, ycp-format
+msgid ""
+"running image-script failed:\n"
+"%1"
+msgstr ""
+"运行映像脚本失败：\n"
+"%1"
+
+#: src/clients/inst_autoinit.ycp:38
+msgid "Processing Profiles and Rules"
+msgstr "正在处理配置文件和规则"
+
+#: src/clients/inst_autoinit.ycp:90
+msgid "Parsing control file"
+msgstr "正在解析控制文件"
+
+#: src/clients/inst_autoinit.ycp:104
+msgid "Initial Configuration"
+msgstr "初始配置"
+
+#: src/clients/inst_autoinit.ycp:117 src/clients/inst_autopost.ycp:64
+msgid ""
+"<p>\n"
+"Please wait while the system is prepared for autoinstallation.</p>\n"
+msgstr ""
+"<p>\n"
+"系统正在准备自动安装，请稍候。</p>\n"
+
+#: src/clients/inst_autoinit.ycp:122
+msgid "Probe hardware"
+msgstr "检测硬件"
+
+#: src/clients/inst_autoinit.ycp:123
+msgid "Retrieve & Read Control File"
+msgstr "获取并读取控制文件"
+
+#: src/clients/inst_autoinit.ycp:124
+msgid "Process Profiles and Rules"
+msgstr "处理配置文件和规则"
+
+#: src/clients/inst_autoinit.ycp:125
+msgid "Parse control file"
+msgstr "解析控制文件"
+
+#: src/clients/inst_autoinit.ycp:130 src/clients/inst_autopost.ycp:81
+msgid "Preparing System for Automatic Installation"
+msgstr "准备系统以进行自动安装"
+
+#: src/clients/inst_autoinit.ycp:137
+msgid "Preprobing stage"
+msgstr "预检测阶段"
+
+#: src/clients/inst_autoinit.ycp:168
+msgid "Probing hardware..."
+msgstr "正在检测硬件..."
+
+#: src/clients/inst_autopost.ycp:31
+#, ycp-format
+msgid "Checking for packages required for %1..."
+msgstr "正在检查 %1 所需的包..."
+
+#: src/clients/inst_autopost.ycp:69
+msgid "Install required packages"
+msgstr "安装所需的软件包"
+
+#: src/clients/inst_autopost.ycp:88
+msgid "Checking for required packages..."
+msgstr "正在检查所需的包..."
+
+#: src/clients/inst_autopost.ycp:186
+msgid "Adding found packages..."
+msgstr "正在添加找到的包..."
+
+#: src/clients/inst_autopost.ycp:194
+msgid "Running scripts..."
+msgstr "正在运行脚本..."
+
+#: src/clients/inst_autosetup.ycp:64 src/clients/inst_autosetup_upgrade.ycp:64
+msgid "<P>Please wait while the system is prepared for autoinstallation.</P>"
+msgstr "<P>系统正在准备自动安装，请稍候。</P>"
+
+#: src/clients/inst_autosetup.ycp:67 src/clients/inst_autosetup_upgrade.ycp:67
+msgid "Configure General Settings "
+msgstr "配置常规设置 "
+
+#: src/clients/inst_autosetup.ycp:68 src/clients/inst_autosetup_upgrade.ycp:68
+msgid "Execute pre-install user scripts"
+msgstr "执行安装前用户脚本"
+
+#: src/clients/inst_autosetup.ycp:69 src/clients/inst_autosetup_upgrade.ycp:69
+msgid "Set up language"
+msgstr "设置语言"
+
+#: src/clients/inst_autosetup.ycp:70
+msgid "Create partition plans"
+msgstr "创建分区计划"
+
+#: src/clients/inst_autosetup.ycp:71 src/clients/inst_autosetup_upgrade.ycp:70
+msgid "Configure Software selections"
+msgstr "配置软件选择"
+
+#: src/clients/inst_autosetup.ycp:72
+msgid "Configure Bootloader"
+msgstr "配置引导加载器"
+
+#: src/clients/inst_autosetup.ycp:73
+msgid "Configure runlevel"
+msgstr "配置运行级别"
+
+#: src/clients/inst_autosetup.ycp:78 src/clients/inst_autosetup_upgrade.ycp:75
+msgid "Configuring general settings..."
+msgstr "正在配置常规设置..."
+
+#: src/clients/inst_autosetup.ycp:79 src/clients/inst_autosetup_upgrade.ycp:76
+msgid "Executing pre-install user scripts..."
+msgstr "正在执行安装前用户脚本..."
+
+#: src/clients/inst_autosetup.ycp:80
+msgid "Creating partition plans..."
+msgstr "正在创建分区计划..."
+
+#: src/clients/inst_autosetup.ycp:81 src/clients/inst_autosetup_upgrade.ycp:77
+msgid "Configuring Software selections..."
+msgstr "正在配置软件选择..."
+
+#: src/clients/inst_autosetup.ycp:82
+msgid "Configuring Bootloader..."
+msgstr "正在配置引导加载器..."
+
+#: src/clients/inst_autosetup.ycp:83
+msgid "Configuring runlevel..."
+msgstr "正在配置运行级别..."
+
+#: src/clients/inst_autosetup.ycp:87 src/clients/inst_autosetup_upgrade.ycp:81
+msgid "Preparing System for Automated Installation"
+msgstr "准备系统以进行自动安装"
+
+#: src/clients/inst_autosetup.ycp:178
+#: src/clients/inst_autosetup_upgrade.ycp:162
+msgid "Configuring language..."
+msgstr "正在配置语言..."
+
+#: src/clients/inst_autosetup.ycp:246
+msgid ""
+"Error while configuring partitions.\n"
+"Try again.\n"
+msgstr ""
+"配置分区时出错。\n"
+"请重试。\n"
+
+#: src/clients/inst_autosetup.ycp:274
+msgid ""
+"Error while configuring software selections.\n"
+"Try again.\n"
+msgstr ""
+"配置软件选择时出错。\n"
+"请重试。\n"
+
+#: src/clients/report_auto.ycp:51
+msgid "Messages"
+msgstr "消息"
+
+#: src/clients/report_auto.ycp:53
+msgid "Sho&w messages"
+msgstr "显示消息(&W)"
+
+#: src/clients/report_auto.ycp:54
+msgid "Lo&g messages"
+msgstr "记录消息(&G)"
+
+#: src/clients/report_auto.ycp:57
+msgid "&Time-out (in sec.)"
+msgstr "超时(以秒为单位)(&T)"
+
+#: src/clients/report_auto.ycp:63
+msgid "Warnings"
+msgstr "警告"
+
+#: src/clients/report_auto.ycp:65
+msgid "Sh&ow warnings"
+msgstr "显示警告(&O)"
+
+#: src/clients/report_auto.ycp:66
+msgid "Log wa&rnings"
+msgstr "记录警告(&R)"
+
+#: src/clients/report_auto.ycp:69
+msgid "Time-out (in s&ec.)"
+msgstr "超时(以秒为单位)(&E)"
+
+#: src/clients/report_auto.ycp:75
+msgid "Errors"
+msgstr "错误"
+
+#: src/clients/report_auto.ycp:77
+msgid "Show error&s"
+msgstr "显示错误(&S)"
+
+#: src/clients/report_auto.ycp:78
+msgid "&Log errors"
+msgstr "记录错误(&L)"
+
+#: src/clients/report_auto.ycp:81
+msgid "Time-o&ut (in sec.)"
+msgstr "超时(以秒为单位)(&U)"
+
+#: src/clients/report_auto.ycp:91
+msgid ""
+"<p>Depending on your experience, you can skip, log, and show (with time-out)\n"
+"installation messages.</p> \n"
+msgstr "<p>根据您的经验，可以跳过、记录和显示(设置了超时)安装消息。</p> \n"
+
+#: src/clients/report_auto.ycp:95
+msgid ""
+"<p>It is recommended to show all  <b>messages</b> with time-out.\n"
+"Warnings can be skipped in some places, but should not be ignored.</p>\n"
+msgstr "<p>建议显示设置了超时的所有<b>消息</b>。在某些情况下可以跳过警告，但不应忽略它们。</p>\n"
+
+#: src/clients/report_auto.ycp:100
+msgid "Messages and Logging"
+msgstr "消息和日志记录"
+
+#: src/clients/software_auto.ycp:51
+msgid "Software Selection"
+msgstr "软件选择"
+
+#: src/clients/software_auto.ycp:52
+msgid ""
+"<p>\n"
+"Select one of the following <b>base</b> selections and click <i>Detailed<i> to add\n"
+"more <b>add-on</b> selections and packages.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"选择以下<b>基本</b>选择之一，然后单击<i>细节<i>以添加\n"
+"更多的<b>附加</b>选择和包。\n"
+"</p>\n"
+
+#: src/clients/software_auto.ycp:70
+msgid "Location of the installation source (like http://myhost/11.3/DVD1/)"
+msgstr "安装源位置 (如 http://myhost/11.3/DVD1/)"
+
+#: src/clients/software_auto.ycp:71
+msgid "The inst-source of this system (you can't create images if you choose this)"
+msgstr "此系统的安装源 (如果您选择了它就不能创建映像)"
+
+#: src/clients/software_auto.ycp:101
+msgid "using that installation source failed"
+msgstr "使用此安装源失败"
+
+#: src/clients/software_auto.ycp:123
+msgid "Reading package database..."
+msgstr "正在读取软件包数据库..."
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:48
+msgid ""
+"<p><b>Mount in /etc/fstab By:</b>\n"
+"\tNormally, a file system to mount is identified in /etc/fstab\n"
+"\tby the device name. This identification can be changed so the file system to mount\n"
+"\tis found by searching for a UUID or a volume label. Not all file systems can be\n"
+"\tmounted by UUID or a volume label. If an option is disabled, it is not possible.\n"
+"\t"
+msgstr ""
+"<p><b>挂载 /etc/fstab 的方式：</b>\n"
+"\t通常情况下，在 /etc/fstab 中按设备名称\n"
+"\t识别要挂载的文件系统。可以更改此标识，以便通过搜索 UUID 或\n"
+"\t卷标来查找要挂载的文件系统。不是所有文件系统都可通过 UUID 或\n"
+"\t卷标来挂载。如果某个选项被禁用，就无法执行此操作。\n"
+"\t"
+
+#. help text, richtext format
+#: src/dialogs/AdvancedPartitionDialog.ycp:56
+msgid ""
+"<p><b>Volume Label:</b>\n"
+"\t  The name entered in this field is used as the volume label. This usually makes sense only \n"
+"\t  when you activate the option for mounting by volume label.\n"
+"\t  A volume label cannot contain the / character or spaces.\n"
+"\t  "
+msgstr ""
+"<p><b>卷标：</b>\n"
+"\t  在此字段中输入的名称用作卷标。这通常只有\n"
+"\t  在激活按卷标挂载的选项时才有意义。\n"
+"\t  卷标不能包含 / 字符或空格。\n"
+"\t  "
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:62
+#: src/dialogs/AdvancedPartitionDialog.ycp:65
+msgid "Encryption"
+msgstr "加密"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:63
+msgid "Encryption key"
+msgstr "加密密钥"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:65
+msgid "Encryption is not available for physical volumes"
+msgstr "加密对于物理卷不可用"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:72
+msgid "Advanced Partition Settings"
+msgstr "高级磁盘分区设置"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:76
+msgid "Fstab options"
+msgstr "Fstab 选项"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:78
+msgid "Mount by"
+msgstr "挂载方式"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:82
+msgid "Device name"
+msgstr "设备名"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:83
+msgid "Device id"
+msgstr "设备 id"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:84
+#: src/dialogs/AdvancedPartitionDialog.ycp:90
+msgid "Volume label"
+msgstr "卷标"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:87
+msgid "Device path"
+msgstr "设备路径"
+
+#: src/dialogs/AdvancedPartitionDialog.ycp:88
+msgid "UUID"
+msgstr "UUID"
+
+#: src/dialogs/DriveDialog.ycp:40
+msgid "Edit Drive"
+msgstr "编辑驱动器"
+
+#: src/dialogs/DriveDialog.ycp:129
+msgid "D&evice"
+msgstr "设备(&E)"
+
+#: src/dialogs/DriveDialog.ycp:133
+msgid "&Intialize drive"
+msgstr "初始化驱动器(&I)"
+
+#. initially selected
+#: src/dialogs/DriveDialog.ycp:135
+msgid "Re&use"
+msgstr "重用(&u)"
+
+#: src/dialogs/DriveDialog.ycp:136 src/dialogs/script_dialogs.ycp:153
+msgid "&Type"
+msgstr "类型(&T)"
+
+#: src/dialogs/DriveDialog.ycp:140 src/dialogs/PartitionDialog.ycp:409
+#: src/dialogs/VolgroupDialog.ycp:110
+msgid "Apply"
+msgstr "应用"
+
+#: src/dialogs/PartitionDialog.ycp:88
+msgid "<none>"
+msgstr "<无>"
+
+#: src/dialogs/PartitionDialog.ycp:129
+msgid "Provide a logical volume name."
+msgstr "请提供一个逻辑卷名称。"
+
+#. for PV's its ok to have no fs
+#: src/dialogs/PartitionDialog.ycp:183
+msgid ""
+"You selected to create the partition, but you did not select a valid file\n"
+"system. Select a valid filesystem to continue.\n"
+msgstr "您选择要创建分区，但您没有选择有效的文件系统。请选择有效的文件系统以继续。\n"
+
+#: src/dialogs/PartitionDialog.ycp:346
+msgid "Store unsaved changes to partition?"
+msgstr "保存未存储的变更到分区？"
+
+#: src/dialogs/PartitionDialog.ycp:364
+msgid "Volgroup"
+msgstr "卷组"
+
+#: src/dialogs/PartitionDialog.ycp:366
+msgid "Logical volume name"
+msgstr "逻辑卷名称"
+
+#: src/dialogs/PartitionDialog.ycp:370
+msgid "Edit partition"
+msgstr "编辑分区 "
+
+#: src/dialogs/PartitionDialog.ycp:376
+msgid "&Mount point"
+msgstr "挂载点(&M)"
+
+#: src/dialogs/PartitionDialog.ycp:380
+msgid "File sys&tem"
+msgstr "文件系统(&T)"
+
+#: src/dialogs/PartitionDialog.ycp:384 src/dialogs/partition_dialogs.ycp:166
+msgid "&Size"
+msgstr "大小(&S)"
+
+#: src/dialogs/PartitionDialog.ycp:392
+msgid "Partiti&on number"
+msgstr "分区号(&O)"
+
+#: src/dialogs/PartitionDialog.ycp:396
+msgid "Reuse e&xisting partition"
+msgstr "重用现有的分区(&X)"
+
+#: src/dialogs/PartitionDialog.ycp:397
+msgid "Res&ize existing partition"
+msgstr "改变现有分区的大小(&I)"
+
+#: src/dialogs/PartitionDialog.ycp:401
+msgid "Activate Striping"
+msgstr "激活分带"
+
+#: src/dialogs/PartitionDialog.ycp:402
+msgid "Number of Stripes"
+msgstr "分带数"
+
+#: src/dialogs/PartitionDialog.ycp:403
+msgid "Stripe size"
+msgstr "分带大小"
+
+#: src/dialogs/PartitionDialog.ycp:407
+msgid "Advan&ced"
+msgstr "高级(&C)"
+
+#: src/dialogs/PartitionDialog.ycp:465
+msgid "Size \"auto\" is only valid if mount point \"/boot\" or \"swap\" is selected."
+msgstr "大小 \"auto\" 仅在挂载点 \"/boot\" 或者 \"swap\" 被选定的情况下有效。"
+
+#: src/dialogs/PartitionDialog.ycp:471
+msgid "Size \"auto\" is invalid for physical volumes."
+msgstr "大小 \"auto\" 对于物理卷无效。"
+
+#: src/dialogs/StorageDialog.ycp:40
+msgid "Nothing selected"
+msgstr "未选择任何项"
+
+#: src/dialogs/StorageDialog.ycp:182
+msgid "Partition p&lan"
+msgstr "分区计划(&L)"
+
+#: src/dialogs/StorageDialog.ycp:187
+msgid "Add D&rive"
+msgstr "添加驱动器(&R)"
+
+#: src/dialogs/StorageDialog.ycp:188 src/dialogs/partition_dialogs.ycp:940
+msgid "Add &Partition"
+msgstr "添加分区(&P)"
+
+#: src/dialogs/StorageDialog.ycp:193
+msgid "Add &Volume Group"
+msgstr "添加卷组(&V)"
+
+#: src/dialogs/StorageDialog.ycp:194 src/dialogs/partition_dialogs.ycp:942
+#: src/include/classes.ycp:62
+msgid "&Delete"
+msgstr "删除(&D)"
+
+#: src/dialogs/VolgroupDialog.ycp:41
+msgid "Edit Volume Group"
+msgstr "编辑卷组"
+
+#: src/dialogs/VolgroupDialog.ycp:88
+msgid "Store unsaved changes to volume group?"
+msgstr "保存未存储的变更到卷组？"
+
+#: src/dialogs/VolgroupDialog.ycp:107
+msgid "Volgroup device name"
+msgstr "卷组设备名"
+
+#: src/dialogs/autoinst_dialogs.ycp:22
+msgid ""
+"<p>\n"
+"A profile for this machine could not be found or retrieved.\n"
+"Check that you entered the correct location\n"
+"on the command line and try again. Because of this error, you\n"
+"can only enter a URL to a profile and not to a directory. If you\n"
+"are using rules or host name-based control files, restart the\n"
+"installation process and make sure the control files are accessible.</p>\n"
+msgstr ""
+"<p>\n"
+"未找到或获取到此计算机的配置文件。\n"
+"请确保在命令行上输入了正确的位置，\n"
+"然后重试。由于出现了此错误，\n"
+"您只能输入指向配置文件的 URL 而不是指向目录的 URL。如果使用\n"
+"基于规则或基于主机名的控制文件，\n"
+"则重启动安装过程并确保控制文件是可访问的。</p>\n"
+
+#: src/dialogs/autoinst_dialogs.ycp:30
+msgid "System Profile Location"
+msgstr "系统配置文件位置"
+
+#: src/dialogs/autoinst_dialogs.ycp:42
+msgid "&Profile Location:"
+msgstr "配置文件位置(&P)："
+
+#. This dialog selects the target disk for the installation.
+#. Below this label, all targets are listed that can be used as
+#. installation target
+#. heading text
+#: src/dialogs/autoinst_dialogs.ycp:115
+msgid "Choose a hard disk"
+msgstr "选择硬盘"
+
+#: src/dialogs/autoinst_dialogs.ycp:127
+msgid "No disks found."
+msgstr "未找到任何磁盘。"
+
+#. There are several hard disks found. Linux is completely installed on
+#. one hard disk - this selection is done here
+#. "Preparing Hard Disk - Step 1" is the description of the dialog what to
+#. do while the following locale is the help description
+#. help part 1 of 1
+#: src/dialogs/autoinst_dialogs.ycp:135
+msgid ""
+"<p>\n"
+"All hard disks automatically detected on your system\n"
+"are shown here. Select the hard disk on which to install &product;.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"在此显示在系统上自动检测到的所有硬盘。请选择要将 &product; 安装到的硬盘。\n"
+"</p>"
+
+#: src/dialogs/autoinst_dialogs.ycp:155
+msgid "Hard Disk Selection"
+msgstr "硬盘选择"
+
+#. there is a selection from that one option has to be
+#. chosen - at the moment no option is chosen
+#: src/dialogs/autoinst_dialogs.ycp:181
+msgid "Select one of the options to continue."
+msgstr "请选择其中一个选项，然后继续。"
+
+#: src/dialogs/dialogs.ycp:34
+msgid "&Profile Repository:"
+msgstr "配置文件仓库(&P)："
+
+#: src/dialogs/dialogs.ycp:37
+msgid "&Select Directory"
+msgstr "选择目录(&S)"
+
+#: src/dialogs/dialogs.ycp:43
+msgid "&Class directory:"
+msgstr "类目录(&C)："
+
+#: src/dialogs/dialogs.ycp:46
+msgid "Select &Directory"
+msgstr "选择目录(&D)"
+
+#: src/dialogs/dialogs.ycp:54
+msgid ""
+"<P>\n"
+"Enter the directory where all <em>control files</em> should be stored in\n"
+"the <b>Repository</b> field.</P>"
+msgstr ""
+"<P>\n"
+"请在<b>仓库</b>字段中输入所有<em>控制文件</em>的\n"
+"存储目录。</P>"
+
+#: src/dialogs/dialogs.ycp:58
+msgid ""
+"<P>If you are using the classes feature\n"
+"of Autoyast, also enter the class directory. This is where\n"
+"all class files are stored.</p>\n"
+msgstr ""
+"<P>如果使用 Autoyast 的类功能，\n"
+"则还应输入类目录。这是存储所有类文件\n"
+"的位置。</p>\n"
+
+#: src/dialogs/dialogs.ycp:63
+msgid "Settings"
+msgstr "设置"
+
+#: src/dialogs/dialogs.ycp:79 src/dialogs/dialogs.ycp:88
+msgid "Select Directory"
+msgstr "选择目录"
+
+#: src/dialogs/dialogs.ycp:147
+msgid ""
+"Invalid file name.\n"
+"Names can only contain letters, numbers, and underscore,\n"
+"must begin with letter, and must be\n"
+"127 characters long or less.\n"
+msgstr ""
+"文件名无效。\n"
+"名称只能包含字母、数字和下划线，\n"
+"必须以字母开头并且长度不能超过\n"
+"127 个字符。\n"
+
+#. title
+#: src/dialogs/dialogs.ycp:223
+msgid "Create a Reference Control File"
+msgstr "创建参考控制文件"
+
+#: src/dialogs/dialogs.ycp:227
+msgid "Select Additional Resources:"
+msgstr "选择附加资源："
+
+#: src/dialogs/dialogs.ycp:244
+msgid "Collecting system data..."
+msgstr "正在收集系统数据..."
+
+#: src/dialogs/dialogs.ycp:244
+msgid "This may take a while..."
+msgstr "这或许需要一段时间..."
+
+#: src/dialogs/dialogs.ycp:264
+msgid "Importing Kickstart file..."
+msgstr "正在导入 Kickstart 文件..."
+
+#: src/dialogs/dialogs.ycp:267 src/dialogs/general_dialogs.ycp:608
+#: src/include/wizards.ycp:86
+msgid "Initializing ..."
+msgstr "正在初始化..."
+
+#. progress stage
+#: src/dialogs/dialogs.ycp:276
+msgid "Read Kickstart file"
+msgstr "读取 Kickstart 文件"
+
+#: src/dialogs/dialogs.ycp:277
+msgid "Import data"
+msgstr "导入数据"
+
+#: src/dialogs/dialogs.ycp:279
+msgid "Reading Kickstart file..."
+msgstr "正在读取 Kickstart 文件..."
+
+#. progress step
+#: src/dialogs/dialogs.ycp:281
+msgid "Importing data..."
+msgstr "正在导入数据..."
+
+#. progress step
+#: src/dialogs/dialogs.ycp:283
+msgid "Finished"
+msgstr "已完成"
+
+#: src/dialogs/dialogs.ycp:291
+msgid "Select a kickstart file."
+msgstr "选择 kickstart 文件。"
+
+#: src/dialogs/dialogs.ycp:308
+msgid ""
+"Error while loading Kickstart file. Verify the syntax of\n"
+"file and try again."
+msgstr ""
+"装载 Kickstart 文件时出错。请确保文件的语法\n"
+"正确并重试。"
+
+#: src/dialogs/dialogs.ycp:335
+msgid ""
+"Kickstart file was imported.\n"
+"Check the imported syntax and make sure the package selection and partitioning\n"
+"were imported correctly."
+msgstr ""
+"已导入 Kickstart 文件。\n"
+"请检查导入的语法并确保正确导入了\n"
+"包选择和分区设置。"
+
+#: src/dialogs/dialogs.ycp:362
+msgid "Check profile validity"
+msgstr "检查配置文件的有效性"
+
+#: src/dialogs/dialogs.ycp:375
+msgid "OK"
+msgstr "确定"
+
+#: src/dialogs/dialogs.ycp:376 src/dialogs/script_dialogs.ycp:179
+msgid "Error"
+msgstr "错误"
+
+#: src/dialogs/dialogs.ycp:377 src/dialogs/script_dialogs.ycp:178
+msgid "Warning"
+msgstr "警告"
+
+#: src/dialogs/dialogs.ycp:395 src/modules/Profile.ycp:655
+msgid "Checking XML with RNG validation..."
+msgstr "正在检查 XML(进行 RNG 校验)..."
+
+#: src/dialogs/dialogs.ycp:410
+#, ycp-format
+msgid "Section %1: "
+msgstr "部分 %1："
+
+#: src/dialogs/dialogs.ycp:425 src/modules/Profile.ycp:662
+msgid "Checking XML with RNC validation..."
+msgstr "正在检查 XML(进行 RNC 校验)..."
+
+#. the autoyast interface can check if the profile is logical or if important stuff is missing
+#. the missing stuff is under the Label "Logic"
+#: src/dialogs/dialogs.ycp:451
+msgid "Logic"
+msgstr "逻辑"
+
+#. the autoyast config frontend can check if a root password is configured
+#. and can warn the user if it is missing
+#: src/dialogs/dialogs.ycp:455
+msgid "No root password configured"
+msgstr "未配置 root 密码"
+
+#: src/dialogs/general_dialogs.ycp:53
+msgid "Con&firm installation?"
+msgstr "确认安装吗(&F)？"
+
+#: src/dialogs/general_dialogs.ycp:54
+msgid "AutoYaST Second Stage"
+msgstr "AutoYaST 第二阶段"
+
+#: src/dialogs/general_dialogs.ycp:55
+msgid "Turn Off the Machine after the First Stage"
+msgstr "第一个阶段后关闭计算机"
+
+#: src/dialogs/general_dialogs.ycp:56
+msgid "Turn off the Machine after the Second Stage"
+msgstr "第二个阶段后关闭计算机"
+
+#: src/dialogs/general_dialogs.ycp:57
+msgid "Reboot the Machine after the Second Stage"
+msgstr "第二个阶段后重启计算机"
+
+#: src/dialogs/general_dialogs.ycp:58 src/modules/AutoinstGeneral.ycp:119
+msgid "Signature Handling"
+msgstr "签名处理"
+
+#: src/dialogs/general_dialogs.ycp:59
+msgid "Accept &Unsigned Files"
+msgstr "接受未签名文件(&U)"
+
+#: src/dialogs/general_dialogs.ycp:60
+msgid "Accept Files without a &Checksum"
+msgstr "接受无校验和的文件(&C)"
+
+#: src/dialogs/general_dialogs.ycp:61
+msgid "Accept Failed &Verifications"
+msgstr "接受失败的校验(&V)"
+
+#: src/dialogs/general_dialogs.ycp:62
+msgid "Accept Unknown &GPG Keys"
+msgstr "接受未知的 GPG 密钥(&G)"
+
+#: src/dialogs/general_dialogs.ycp:63
+msgid "Accept Non Trusted GPG Keys"
+msgstr "接受不信任的 GPG 密钥"
+
+#: src/dialogs/general_dialogs.ycp:64
+msgid "Import &New GPG Keys"
+msgstr "导入新的 GPG 密钥(&N)"
+
+#: src/dialogs/general_dialogs.ycp:68
+msgid ""
+"<P>\n"
+"The options in this dialog control the behavior of the AutoYaST during\n"
+"automatic installation.\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"此对话框中的选项控制自动安装过程中 AutoYaST\n"
+"的行为。\n"
+"</P>\n"
+
+#: src/dialogs/general_dialogs.ycp:73
+msgid ""
+"<P>\n"
+"The installation confirmation option is selected by default\n"
+"to avoid unwanted installation. It stops the system\n"
+"during installation and shows a summary of requested operations in the\n"
+"usual proposal screen.  Uncheck this option to install automatically without interruption.\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"默认情况下选择安装确认选项，\n"
+"以避免不需要的安装。此选项会在安装过程中停止系统\n"
+"并在通常的建议屏幕上显示请求操作的\n"
+"摘要。取消选中此选项可进行无中断的自动安装。\n"
+"</P>\n"
+
+#: src/dialogs/general_dialogs.ycp:80
+msgid ""
+"<P>\n"
+"If you turn off the second stage of AutoYaST, the installation continues in manual mode\n"
+"after the first reboot (after package installation).\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"如果关闭 AutoYaST 第二阶段，则在首次重引导(包\n"
+" 安装过程后)后，安装将以手动方式继续。\n"
+" </P>\n"
+
+#: src/dialogs/general_dialogs.ycp:86
+msgid ""
+"<P>\n"
+"For signature handling, read the AutoYaST documentation.\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"有关签名处理，请阅读 AutoYaST 文档。\n"
+"</P>\n"
+
+#: src/dialogs/general_dialogs.ycp:91
+msgid "Other Options"
+msgstr "其它选项"
+
+#: src/dialogs/general_dialogs.ycp:144
+msgid "Frametitle"
+msgstr "框架标题"
+
+#: src/dialogs/general_dialogs.ycp:145 src/dialogs/general_dialogs.ycp:352
+msgid "Question"
+msgstr "问题"
+
+#: src/dialogs/general_dialogs.ycp:146
+msgid "Timeout (zero means no timeout)"
+msgstr "超时 (0 表示不超时)"
+
+#: src/dialogs/general_dialogs.ycp:152
+msgid "Password"
+msgstr "密码"
+
+#: src/dialogs/general_dialogs.ycp:155
+msgid "Pathlist for answers (multiple paths are separated by space)"
+msgstr "答案的路径列表 (通过空格分隔多个路径)"
+
+#: src/dialogs/general_dialogs.ycp:156
+msgid "Store answer in this file"
+msgstr "在此文件中存储答案"
+
+#: src/dialogs/general_dialogs.ycp:157
+msgid "Selection List for type 'Symbol'"
+msgstr "类型 '符号' 的选择列表"
+
+#: src/dialogs/general_dialogs.ycp:162 src/dialogs/general_dialogs.ycp:170
+msgid "Label"
+msgstr "标签"
+
+#: src/dialogs/general_dialogs.ycp:162 src/dialogs/general_dialogs.ycp:171
+msgid "Value"
+msgstr "值"
+
+#: src/dialogs/general_dialogs.ycp:180 src/dialogs/general_dialogs.ycp:365
+msgid "<P></P>"
+msgstr "<P></P>"
+
+#: src/dialogs/general_dialogs.ycp:334
+msgid "1st Stage"
+msgstr "第一阶段"
+
+# US
+# fuzzy
+#: src/dialogs/general_dialogs.ycp:335
+msgid "2nd Stage"
+msgstr "第二阶段"
+
+#: src/dialogs/general_dialogs.ycp:336
+msgid "Dialog Title"
+msgstr "对话框标题"
+
+#: src/dialogs/general_dialogs.ycp:337
+msgid "Helptext"
+msgstr "帮助文本"
+
+#: src/dialogs/general_dialogs.ycp:339
+msgid "Add to Dialog List"
+msgstr "添加到对话框列表"
+
+#: src/dialogs/general_dialogs.ycp:340
+msgid "Apply changes to dialog"
+msgstr "应用更改到对话框"
+
+#: src/dialogs/general_dialogs.ycp:342
+msgid "Title"
+msgstr "标题"
+
+#: src/dialogs/general_dialogs.ycp:344
+msgid "Delete Dialog"
+msgstr "删除对话框"
+
+#: src/dialogs/general_dialogs.ycp:345
+msgid "Dialog up"
+msgstr "对话框上移"
+
+#: src/dialogs/general_dialogs.ycp:346
+msgid "Dialog down"
+msgstr "对话框下移"
+
+#: src/dialogs/general_dialogs.ycp:348
+msgid "Questions in dialog"
+msgstr "对话中问题"
+
+#: src/dialogs/general_dialogs.ycp:356
+msgid "Add Question"
+msgstr "添加问题"
+
+#: src/dialogs/general_dialogs.ycp:357 src/dialogs/general_dialogs.ycp:533
+msgid "Edit Question"
+msgstr "编辑问题"
+
+#: src/dialogs/general_dialogs.ycp:358
+msgid "Delete Question"
+msgstr "删除问题"
+
+#: src/dialogs/general_dialogs.ycp:359
+msgid "Question up"
+msgstr "问题上移"
+
+#: src/dialogs/general_dialogs.ycp:360
+msgid "Question down"
+msgstr "问题下移"
+
+#: src/dialogs/general_dialogs.ycp:366
+msgid "ASK Options"
+msgstr "ASK 选项"
+
+#. Translators: dialog caption
+#: src/dialogs/general_dialogs.ycp:607
+msgid "General Settings"
+msgstr "常规设置"
+
+#: src/dialogs/helps.ycp:20
+msgid "<p><b><big>Profile Validation</big></b><br>"
+msgstr "<p><b><big>配置文件校验</big></b><br>"
+
+#: src/dialogs/helps.ycp:21
+msgid ""
+"<p>This tool uses <em>xmllint</em> to validate the profile against the DTD and\n"
+"it checks for missing data. Some missing data might be intentional and any\n"
+"reported errors can be ignored, for example, when creating classes.</p>\n"
+msgstr ""
+"<p>该工具使用 <em>xmllint</em> 根据 DTD 对配置文件进行校验，并且\n"
+"它检查丢失的数据。某些数据可能是故意丢失的，因此可以忽略任何\n"
+"报告的错误，例如忽略在创建类时报告的错误。</p>\n"
+
+#: src/dialogs/helps.ycp:25
+msgid ""
+"<p>Load a profile first. Otherwise an empty file\n"
+"is validated.</p>\n"
+msgstr "<p>请先装载配置文件。否则，会校验空文件。</p>\n"
+
+#: src/dialogs/helps.ycp:29
+msgid "<p><b><big>Importing Kickstart Files</big></b><br>"
+msgstr "<p><b><big>正在导入 Kickstart 文件</big></b><br>"
+
+#: src/dialogs/helps.ycp:31
+msgid ""
+"<p>To import a Kickstart file, enter the path to the configuration file. \n"
+"The imported data is loaded into the configuration management system \n"
+"to add more configuration options available with SUSE.</p>\n"
+msgstr ""
+"<p>要导入 Kickstart 文件，请输入配置文件的路径。\n"
+"导入的数据被装载到配置管理系统中，\n"
+"以添加更多的可通过 SUSE 使用的配置选项。</p>\n"
+
+#: src/dialogs/helps.ycp:37
+msgid ""
+"<p>This tool creates a reference profile by reading\n"
+"information from this system. Select the resources to read from this system\n"
+"in addition to the default resources, like partitioning and package selections.</p>\n"
+msgstr ""
+"<p>此工具通过读取此系统中的信息\n"
+"创建参考配置文件。除默认资源外，选择要从此系统中读取的资源，\n"
+"例如分区设置和包选择。</p>\n"
+
+#: src/dialogs/helps.ycp:42
+msgid "<p> Partition your hard disks... </p>"
+msgstr "<p>对硬盘进行分区... </p>"
+
+#: src/dialogs/helps.ycp:44
+msgid ""
+"<p>The table to the right shows the partitions to create on the target system.\n"
+"</p>\n"
+msgstr ""
+"<p>右侧的表显示要在目标系统上创建的分区。\n"
+"</p>\n"
+
+#: src/dialogs/helps.ycp:47
+msgid "<p><b>Hard disks</b> are designated like this </p>"
+msgstr "<p>按如下方式指定<b>硬盘</b></p>"
+
+#: src/dialogs/helps.ycp:48
+msgid ""
+"<tt>/dev/hda </tt>1st EIDE disk\n"
+"<tt>/dev/hdb </tt>2nd EIDE disk\n"
+"<tt>/dev/hdc </tt>3rd EIDE disk"
+msgstr ""
+"<tt>/dev/hda </tt>第 1 个 EIDE 磁盘\n"
+"<tt>/dev/hdb </tt>第 2 个 EIDE 磁盘\n"
+"<tt>/dev/hdc </tt>第 3 个 EIDE 磁盘"
+
+#: src/dialogs/helps.ycp:51
+msgid "<p>etc.</p>"
+msgstr "<p>等</p>"
+
+#: src/dialogs/helps.ycp:52
+msgid "<p>- or - </p>"
+msgstr "<p>- 或者 - </p>"
+
+#: src/dialogs/helps.ycp:53
+msgid ""
+"<p><tt>/dev/sda </tt>1st SCSI disk\n"
+"<tt>/dev/sdb </tt>2nd SCSI disk\n"
+"<tt>/dev/sdc </tt>3rd SCSI disk</p>"
+msgstr ""
+"<p><tt>/dev/sda </tt>第 1 个 SCSI 磁盘\n"
+"<tt>/dev/sdb </tt>第 2 个 SCSI 磁盘\n"
+"<tt>/dev/sdc </tt>第 3 个 SCSI 磁盘</p>"
+
+#: src/dialogs/helps.ycp:57
+msgid ""
+"If no partitions are defined and the specified drive is also\n"
+"the drive where the root partition should reside, the following partitions are\n"
+"created automatically:"
+msgstr ""
+"如果没有定义分区并且指定的驱动器还是根分区应驻留的驱动器，\n"
+"则系统会自动创建\n"
+"以下分区："
+
+#: src/dialogs/helps.ycp:60
+msgid ""
+" <tt>/boot</tt>, <tt>swap</tt>, and a root partition <tt>/</tt>.\n"
+"Sizes are calculated automatically.\n"
+msgstr ""
+" <tt>/boot</tt>、<tt>swap</tt> 和根分区 <tt>/</tt>。\n"
+"分区大小是自动计算得到的。\n"
+
+#: src/dialogs/helps.ycp:64
+msgid "<p><b>Advanced Options</b></p>"
+msgstr "<p><b>高级选项</b></p>"
+
+#: src/dialogs/helps.ycp:66
+msgid "By default, AutoYaST will create an extended partition and adds all new partitions as logical devices. It is possible, however, to instruct AutoYaST to create a certain partition as a primary partition or as extended partition. Additionally, it is possible to specify the size of a partition using sectors rather than size in MBytes."
+msgstr "默认情况下，AutoYaST2 将创建扩展分区并将所有新分区作为逻辑设备进行添加。但是，可以指示 AutoYaST2 创建特定的分区作为主分区或扩展分区。另外，可以使用扇区而不是 MB 表示的大小来指定分区的大小。"
+
+#: src/dialogs/helps.ycp:68
+msgid ""
+"These options and other advanced options cannot be configured using this\n"
+"interface.  Instead, add them manually to the control file.\n"
+msgstr "使用此界面无法配置这些选项和其它高级选项。只能手动将这些选项添加到控制文件中。\n"
+
+#: src/dialogs/helps.ycp:72
+msgid ""
+"<p>\n"
+"For LVM and RAID setup, consult the documentation and add the configuration\n"
+"to an existing control file. You can only create unformatted LVM and RAID partitions as\n"
+"a preparation.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"对于 LVM 和 RAID 设置，请参考文档并将配置添加到\n"
+"现有的控制文件中。在准备时，您只能创建未格式化的 LVM 和 RAID\n"
+"分区。\n"
+"</p>\n"
+
+#: src/dialogs/partition_dialogs.ycp:142
+msgid ""
+"\n"
+"<P>Enter the partition information according to your\n"
+"needs. To reuse an existing partition, enter the partition number of the existing partition to reuse (counting starts with partition number 1) and no size.</P>\n"
+"<p>\n"
+"For partitions that are part of a volume group (not the logical partitions inside a volume group), set the partition ID to 0x8e then choose the volume group. The volume group must already be set up with AutoYaST.\n"
+"</p>\n"
+"<P>For more information, refer to the online documentation.\n"
+"</P>\n"
+msgstr ""
+"\n"
+"<P>根据需要输入分区信息。\n"
+" 要重新使用现有分区，请输入要重新使用的现有分区的分区号(从分区号 1 开始计数)，但不输入大小。</P>\n"
+" <p>\n"
+" 对于卷组中包含的分区(不是卷组中的逻辑分区)，需要将分区 ID 设置为 0x8e，然后选择卷组。卷组必须已用 AutoYaST 设置。\n"
+" </p>\n"
+" <P>有关更多信息，请参阅联机文档。\n"
+" </P>\n"
+
+#: src/dialogs/partition_dialogs.ycp:154
+msgid "Create New Partition"
+msgstr "创建新分区"
+
+#: src/dialogs/partition_dialogs.ycp:158
+msgid "Edit Partition"
+msgstr "编辑分区"
+
+#: src/dialogs/partition_dialogs.ycp:168
+msgid "&Partition Number"
+msgstr "分区号(&P)"
+
+#: src/dialogs/partition_dialogs.ycp:175
+msgid "&Fixed Size"
+msgstr "固定大小(&F)"
+
+#: src/dialogs/partition_dialogs.ycp:183
+msgid "&Reuse Partition"
+msgstr "重用分区(&R)"
+
+#: src/dialogs/partition_dialogs.ycp:190
+msgid "R&esize Partition"
+msgstr "改变分区大小(&E)"
+
+#: src/dialogs/partition_dialogs.ycp:197
+msgid "Fill to &maximum allowable space"
+msgstr "填充最大允许空间(&M)"
+
+#: src/dialogs/partition_dialogs.ycp:204
+msgid "Determine &automatically (only /boot and swap)"
+msgstr "自动确定(仅适用于 /boot 和 swap)(&A)"
+
+#: src/dialogs/partition_dialogs.ycp:212
+msgid "Create as a Primary Partition"
+msgstr "创建为主分区"
+
+#: src/dialogs/partition_dialogs.ycp:216
+msgid "Volume Group"
+msgstr "卷组"
+
+#: src/dialogs/partition_dialogs.ycp:219
+msgid "Logical Volume Name"
+msgstr "逻辑卷名称"
+
+#: src/dialogs/partition_dialogs.ycp:452
+msgid "The partition ID must be between 0x00 and 0xff."
+msgstr "分区 ID 必须介于 0x00 和 0xff 之间。"
+
+#: src/dialogs/partition_dialogs.ycp:476
+#: src/dialogs/partition_dialogs.ycp:1017
+msgid ""
+"No additional partitions can be added.\n"
+"The last partition created ends at the disk boundaries\n"
+"due to use of the \"max\" option.\n"
+msgstr ""
+"无法添加任何附加分区。\n"
+"由于使用了“最大化”选项，\n"
+"所创建的最后一个分区在磁盘边界处结束。\n"
+
+#: src/dialogs/partition_dialogs.ycp:496
+msgid "Enter the partition size or a partition number."
+msgstr "输入分区大小或分区号。"
+
+#: src/dialogs/partition_dialogs.ycp:500
+msgid "To reuse a partition, the partition number is required."
+msgstr "要复用分区，需要分区号。"
+
+#: src/dialogs/partition_dialogs.ycp:656
+msgid ""
+"\n"
+"<P>\n"
+"Create and edit your volume groups here. After that, assign physical partitions to this volume group in the partition dialog of a physical hard disk. Set the partition ID to 0x8e for those partitions.\n"
+"</P>\n"
+msgstr ""
+"\n"
+"<P>\n"
+" 在此处创建和编辑卷组。此后，需要在物理硬盘的分区对话框中向此卷组指定物理分区。将那些分区的分区 ID 设置为 0x8e。\n"
+" </P>\n"
+
+#: src/dialogs/partition_dialogs.ycp:661
+msgid "Configure Volume Groups"
+msgstr "配置卷组"
+
+#: src/dialogs/partition_dialogs.ycp:666
+msgid "&Volume Group"
+msgstr "卷组(&V)"
+
+#: src/dialogs/partition_dialogs.ycp:682 src/dialogs/partition_dialogs.ycp:828
+msgid "Help"
+msgstr "帮助"
+
+#: src/dialogs/partition_dialogs.ycp:707
+msgid ""
+"This volume group is already configured.\n"
+"Select or enter another name.\n"
+msgstr ""
+"已配置此卷组。\n"
+"请选择或输入其它名称。\n"
+
+#: src/dialogs/partition_dialogs.ycp:768
+msgid ""
+"\n"
+"<P>\n"
+"Specify the drive name to configure\n"
+"and how the partitioning should be performed.\n"
+"</P>\n"
+"<P>\n"
+"For more information, consult the documentation.\n"
+"</P>\n"
+msgstr ""
+"\n"
+"<P>\n"
+"请指定要配置的驱动器的名称\n"
+"和执行分区的方式。\n"
+"</P>\n"
+"<P>\n"
+"有关更多信息，请参考文档。\n"
+"</P>\n"
+
+#: src/dialogs/partition_dialogs.ycp:777
+msgid "Configure Drives"
+msgstr "配置驱动器"
+
+#: src/dialogs/partition_dialogs.ycp:784
+msgid "&Drive"
+msgstr "驱动器(&D)"
+
+#: src/dialogs/partition_dialogs.ycp:794
+msgid "Use available &free space only"
+msgstr "只使用可用空间(&F)"
+
+#: src/dialogs/partition_dialogs.ycp:799
+msgid "&Reuse all existing partitions"
+msgstr "重用所有现有的分区(&R)"
+
+#: src/dialogs/partition_dialogs.ycp:804
+msgid "&Use the following (comma separated) partitions"
+msgstr "使用以下(逗号分隔的)分区(&U)"
+
+#: src/dialogs/partition_dialogs.ycp:816
+msgid "&Partition Numbers (i.e.,  3,4,5)"
+msgstr "分区编号(例如 3、4、5)(&P)"
+
+#: src/dialogs/partition_dialogs.ycp:822
+msgid "Initialize hard dri&ve"
+msgstr "初始化硬盘驱动器(&V)"
+
+#: src/dialogs/partition_dialogs.ycp:884
+msgid ""
+"This device is already configured.\n"
+"Select or enter another device name.\n"
+msgstr ""
+"此设备已配置。\n"
+"请选择或输入另一个设备名。\n"
+
+#: src/dialogs/partition_dialogs.ycp:934
+msgid "Device"
+msgstr "设备"
+
+#: src/dialogs/partition_dialogs.ycp:934
+msgid "Mount"
+msgstr "挂载"
+
+#: src/dialogs/partition_dialogs.ycp:934
+msgid "  Size  "
+msgstr "  大小  "
+
+#: src/dialogs/partition_dialogs.ycp:934
+msgid "  Type  "
+msgstr "  类型  "
+
+#: src/dialogs/partition_dialogs.ycp:934
+msgid "  File System  "
+msgstr "  文件系统  "
+
+#: src/dialogs/partition_dialogs.ycp:934
+msgid "Region   "
+msgstr "区域   "
+
+#: src/dialogs/partition_dialogs.ycp:938
+msgid "Add Dri&ve"
+msgstr "添加驱动器(&V)"
+
+#: src/dialogs/partition_dialogs.ycp:939
+msgid "Add Volume Group"
+msgstr "添加卷组"
+
+#: src/dialogs/partition_dialogs.ycp:941 src/include/classes.ycp:61
+#: src/include/conftree.ycp:122
+msgid "&Edit"
+msgstr "编辑(&E)"
+
+#: src/dialogs/partition_dialogs.ycp:946
+msgid "Partition Plans"
+msgstr "分区计划"
+
+#: src/dialogs/partition_dialogs.ycp:1028
+msgid "Select a drive first."
+msgstr "请先选择一个驱动器。"
+
+#: src/dialogs/script_dialogs.ycp:42
+msgid "Available Scripts"
+msgstr "可用的脚本"
+
+#: src/dialogs/script_dialogs.ycp:45
+msgid "Script Name"
+msgstr "脚本名称"
+
+#: src/dialogs/script_dialogs.ycp:45
+msgid "Type"
+msgstr "类型"
+
+#: src/dialogs/script_dialogs.ycp:45
+msgid "Interpreter"
+msgstr "解释器"
+
+#. help 1/6
+#: src/dialogs/script_dialogs.ycp:78
+msgid ""
+"\n"
+"<h3>Preinstallation Scripts</h3>\n"
+"<P>Add commands to run on the system  before the installation begins. </P>\n"
+msgstr ""
+"\n"
+"<h3>安装前脚本</h3>\n"
+"<P>添加要在安装开始前在系统中运行的命令。</P>\n"
+
+#. help 2/6
+#: src/dialogs/script_dialogs.ycp:83
+msgid ""
+"\n"
+"<h3>Postinstallation Scripts</h3>\n"
+"<P>You can also add commands to execute on the system after the installation\n"
+"is completed. These scripts are run outside the chroot environment.\n"
+"</P>"
+msgstr ""
+"\n"
+"<h3>安装后脚本</h3>\n"
+"<P>您还可以添加要在安装完成后在系统中执行的\n"
+"命令。这些脚本在 chroot 环境之外运行。\n"
+"</P>"
+
+#. help 3/6
+#: src/dialogs/script_dialogs.ycp:89
+msgid ""
+"\n"
+"<H3>Chroot Scripts</H3>\n"
+"<P>For your postinstallation script to run inside the chroot\n"
+"environment, choose the <i>chroot scripts</i> options. Those scripts are\n"
+"run before the system reboots for the first time. By default, the chroot \n"
+"scripts are run in the installation system. To access files in the installed \n"
+"system, always use the mount point \"/mnt\" in your scripts.\n"
+"</P>\n"
+msgstr ""
+"\n"
+"<H3>Chroot 脚本</H3>\n"
+"<P>为使安装后脚本在 chroot 环境内运行，\n"
+"请选择 <i>chroot 脚本</i>选项。这些脚本\n"
+"在系统第一次重引导前运行。默认情况下，chroot \n"
+"脚本在安装系统中运行。要访问已安装系统中的文件，\n"
+"请始终在您的脚本中使用挂载点“/mnt”。\n"
+"</P>\n"
+
+#. help 4/6
+#: src/dialogs/script_dialogs.ycp:99
+msgid ""
+"\n"
+"<p>It is possible to run chroot scripts in a later stage after\n"
+"the boot loader has been configured using the special boolean tag \"chrooted\".\n"
+"This runs the scripts in the installed system. \n"
+"</p>\n"
+msgstr ""
+"\n"
+"<p>可以在使用特殊布尔标签“chrooted”配置了\n"
+"引导装载程序后的稍后时间里运行 chroot 脚本。\n"
+"这将在已安装系统中运行脚本。\n"
+"</p>\n"
+
+#. help 5/6
+#: src/dialogs/script_dialogs.ycp:106
+msgid ""
+"\n"
+"<H3>Init Scripts</H3>\n"
+"<P>These scripts are executed during the initial boot process and after\n"
+"YaST has finished configuring the system. The final scripts are executed \n"
+"using a special <b>rc</b> script that is executed only once. \n"
+"The final scripts are executed toward the end of the boot\n"
+"process and after network has been initialized.\n"
+"</P>\n"
+msgstr ""
+"\n"
+"<H3>启动脚本</H3>\n"
+"<P>这些脚本在初始引导过程中\n"
+"和 YaST 配置完系统后执行。最后的脚本使用\n"
+"只执行一次的特殊 <b>rc</b> 脚本执行。\n"
+"最后的脚本在引导过程结束时\n"
+"和网络已初始化后执行。\n"
+"</P>\n"
+
+#. help 6/6
+#: src/dialogs/script_dialogs.ycp:117
+msgid ""
+"\n"
+"<H3>Interpreter:</H3>\n"
+"<P>Preinstallation scripts can only be shell scripts. Do not use <i>Perl</i> or \n"
+"<i>Python</i> for preinstallation scripts.\n"
+"</P>\n"
+msgstr ""
+"\n"
+"<H3>解释器：</H3>\n"
+"<P>安装前脚本只能是壳层脚本。请不要对安装前脚本使用 <i>Perl</i> 或 \n"
+"<i>Python</i>。\n"
+"</P>\n"
+
+#: src/dialogs/script_dialogs.ycp:123
+msgid ""
+"\n"
+"<H3>Network Access:</H3>\n"
+"<P>While executing postinstallation scripts, the network is disabled and\n"
+"requires initialization in the scripts to make the network accessible. An\n"
+"alternative for postinstallation scripts with network is using init scripts, which\n"
+"guarantee a fully configured system when running the scripts. If you did an installation\n"
+"over a network, you can use the <b>Network</b> option for the postscript, too.\n"
+"</P>\n"
+msgstr ""
+"\n"
+"<H3>网络访问权：</H3>\n"
+"<P>执行安装后脚本时，网络是禁用的，并且\n"
+" 需要在这些脚本中进行初始化，这样才能进行网络访问。网络\n"
+"的备用安装后脚本就是启动脚本，它\n"
+" 能够确保在脚本运行期间系统得到完全的配置。如果在网络上\n"
+"执行安装，也可以使用 postscript 的<b>网络</b>选项。\n"
+" </P>\n"
+
+#: src/dialogs/script_dialogs.ycp:132
+msgid ""
+"\n"
+"<H3>Feedback and Debug:</H3>\n"
+"<P>All scripts except the init scripts can show STDOUT+STDERR in a pop-up box as feedback.\n"
+"If you turn on debugging, you get more output in the feedback dialog that might help\n"
+"you to debug your script.</P>\n"
+msgstr ""
+"\n"
+"<H3>反馈和调试：</H3>\n"
+" <P>启动脚本之外的所有脚本都能在弹出框中将系统输出+系统错误显示为反馈。\n"
+" 如果打开调试，您会在反馈对话框中获得更多输出，这可能会帮助\n"
+" 您调试脚本。</P>\n"
+
+#: src/dialogs/script_dialogs.ycp:139
+msgid "Script Editor"
+msgstr "脚本编辑器"
+
+#: src/dialogs/script_dialogs.ycp:144
+msgid "&File Name"
+msgstr "文件名(&F)"
+
+#: src/dialogs/script_dialogs.ycp:146
+msgid "&Interpreter"
+msgstr "解释器(&I)"
+
+#: src/dialogs/script_dialogs.ycp:148
+msgid "Perl"
+msgstr "Perl"
+
+#: src/dialogs/script_dialogs.ycp:149
+msgid "Shell"
+msgstr "Shell"
+
+#: src/dialogs/script_dialogs.ycp:150
+msgid "Python"
+msgstr "Python"
+
+#. a checkbox where you can choose if you want to see script-feedback output or not
+#: src/dialogs/script_dialogs.ycp:166
+msgid "&Feedback"
+msgstr "反馈(&F)"
+
+#. a checkbox where you can choose if you want to see script-debug output or not
+#: src/dialogs/script_dialogs.ycp:168
+msgid "&Debug"
+msgstr "调试(&D)"
+
+#: src/dialogs/script_dialogs.ycp:169
+msgid "&Chrooted"
+msgstr "Chrooted(&C)"
+
+#. a checkbox where you can choose if you need to have network when the script is running
+#: src/dialogs/script_dialogs.ycp:171
+msgid "&Network"
+msgstr "网络(&N)"
+
+#. a checkbox where you can choose if you want to see script-feedback output or not
+#: src/dialogs/script_dialogs.ycp:175
+msgid "&Feedback Type"
+msgstr "反馈类型(&F)"
+
+#: src/dialogs/script_dialogs.ycp:176
+msgid "none"
+msgstr "无"
+
+#: src/dialogs/script_dialogs.ycp:177
+msgid "Message"
+msgstr "消息"
+
+#: src/dialogs/script_dialogs.ycp:185
+msgid "Text of the notification popup"
+msgstr "通知提示文本"
+
+#: src/dialogs/script_dialogs.ycp:188
+msgid "Script Location"
+msgstr "脚本位置"
+
+#: src/dialogs/script_dialogs.ycp:191
+msgid "S&cript Source"
+msgstr "脚本源(&C)"
+
+#: src/dialogs/script_dialogs.ycp:196
+msgid "&Load new source"
+msgstr "挂载新源(&L)"
+
+#: src/dialogs/script_dialogs.ycp:257
+msgid ""
+"Provide at least the script\n"
+"name and the location or content of the script.\n"
+msgstr ""
+"至少提供脚本名称\n"
+"和脚本内容的位置。\n"
+
+#: src/dialogs/script_dialogs.ycp:336
+msgid ""
+"<p>\n"
+"By adding scripts to the autoinstallation process, customize the installation for\n"
+"your needs and take control in different stages of the installation.</p>\n"
+msgstr ""
+"<p>\n"
+"通过将脚本添加到自动安装过程，系统将会按照您的需要自定义安装，\n"
+"并在不同的安装阶段进行控制。</p>\n"
+
+#: src/dialogs/script_dialogs.ycp:341
+msgid "User Script Management"
+msgstr "用户脚本管理"
+
+#: src/dialogs/script_dialogs.ycp:368 src/dialogs/script_dialogs.ycp:382
+msgid "Select a script first."
+msgstr "请先选择一个脚本。"
+
+#: src/include/classes.ycp:52
+msgid "Class Name"
+msgstr "类名"
+
+#: src/include/classes.ycp:52
+msgid "Order"
+msgstr "顺序"
+
+#: src/include/classes.ycp:52
+msgid "Configurations"
+msgstr "配置"
+
+#: src/include/classes.ycp:57
+msgid "Class Description"
+msgstr "类描述"
+
+#: src/include/classes.ycp:60
+msgid "Ne&w"
+msgstr "新建(&W)"
+
+#: src/include/classes.ycp:97
+msgid "Edit or Create Classes"
+msgstr "编辑或创建类"
+
+#: src/include/classes.ycp:100
+msgid "Na&me"
+msgstr "名称(&M)"
+
+#: src/include/classes.ycp:101
+msgid "Or&der:"
+msgstr "顺序(&D)："
+
+#: src/include/classes.ycp:104
+msgid "Descri&ption:"
+msgstr "描述(&P)："
+
+#: src/include/classes.ycp:126 src/include/classes.ycp:132
+msgid "That name is already used. Select another name."
+msgstr "该名称已被使用。请另选一个名称。"
+
+#: src/include/classes.ycp:186
+msgid "Classes"
+msgstr "类"
+
+#: src/include/classes.ycp:188
+msgid "<p>Use this interface to define classes of control files. </p>\n"
+msgstr "<p>使用此界面来定义控制文件的类。</p>\n"
+
+#: src/include/classes.ycp:191
+msgid ""
+"<p>For example, you can define a class of configurations for\n"
+"a specific  department, group, or site in your company environment.</p>\n"
+msgstr ""
+"<p>例如，可以为公司环境中特定部门、组\n"
+"或地点定义配置类。</p>\n"
+
+#: src/include/classes.ycp:195
+msgid ""
+"<p>The order (priority) defines the hierarchy of a class\n"
+"and when it is merged when creating a control file.\n"
+"</p>\n"
+msgstr ""
+"<p>顺序(优先级)定义类的层次\n"
+"以及在创建控制文件时何时进行合并。\n"
+"</p>\n"
+
+#: src/include/classes.ycp:222
+msgid "No Description"
+msgstr "无描述"
+
+#: src/include/classes.ycp:238
+msgid ""
+"Select at least one class\n"
+"to edit.\n"
+msgstr ""
+"选择至少一个要编辑\n"
+"的类。\n"
+
+#: src/include/classes.ycp:251
+msgid ""
+"Select at least one class\n"
+"to delete.\n"
+msgstr ""
+"选择至少一个要删除\n"
+"的类。\n"
+
+#: src/include/classes.ycp:343
+#, ycp-format
+msgid ""
+"Merge failed:\n"
+" %1"
+msgstr ""
+"合并失败：\n"
+" %1"
+
+#: src/include/classes.ycp:383
+msgid "Merge Classes"
+msgstr "合并类"
+
+#: src/include/classes.ycp:396 src/include/classes.ycp:558
+msgid "None"
+msgstr "无"
+
+#: src/include/classes.ycp:429
+msgid "No control files defined"
+msgstr "未定义任何控制文件"
+
+#: src/include/classes.ycp:443
+msgid "&Merge with Empty Control File"
+msgstr "与空控制文件合并(&M)"
+
+#: src/include/classes.ycp:447
+msgid "Merge with &Currently-Loaded Control File"
+msgstr "与当前装载的控制文件合并(&C)"
+
+#: src/include/classes.ycp:451
+msgid "Merge Cla&sses"
+msgstr "合并类(&S)"
+
+#: src/include/classes.ycp:457
+msgid ""
+"<p>If you have defined and created <b>\n"
+"classes</b>, you will be able to merge them using this interface to create\n"
+"a new <i>Profile</i>, which will contain information from every class\n"
+"depending on the priority (order) set when\n"
+"creating the classes.</P>\n"
+msgstr ""
+"<p>如果已定义并创建了<b>\n"
+"类</b>，则将能使用此界面合并这些类，从而创建一个\n"
+"新的<i>配置文件</i>，该配置文件将根据创建类时设置的优先级(顺序)\n"
+"包含\n"
+"每个类的信息。</P>\n"
+
+#: src/include/classes.ycp:464
+msgid ""
+"<P>To merge the classes, an <b>XSLT</b>\n"
+"script is used.</P>\n"
+msgstr ""
+"<P>要合并这些类，请使用 <b>XSLT</b>\n"
+"脚本。</P>\n"
+
+#: src/include/classes.ycp:512
+#, ycp-format
+msgid ""
+"Select at least %1  configurations\n"
+"to perform a merge.\n"
+msgstr ""
+"选择至少 %1 个配置\n"
+"以执行合并。\n"
+
+#: src/include/classes.ycp:541
+msgid "Class Configuration"
+msgstr "类配置"
+
+#: src/include/classes.ycp:542
+msgid ""
+"<p>Choose one or more of the listed classes to which the current control\n"
+"file should belong.</p>\n"
+msgstr ""
+"<p>选择当前控制文件所属的一个\n"
+"或多个列出的类。</p>\n"
+
+#: src/include/classes.ycp:583
+msgid "No profiles in this class"
+msgstr "此类中无配置文件"
+
+#: src/include/classes.ycp:632
+msgid "Select at least one class configuration.\n"
+msgstr "选择至少一个类配置。\n"
+
+#: src/include/conftree.ycp:27
+msgid "Autoinstallation - Configuration"
+msgstr "自动安装－配置"
+
+#: src/include/conftree.ycp:31 src/include/conftree.ycp:617
+msgid "Save as..."
+msgstr "另存为..."
+
+#: src/include/conftree.ycp:37 src/include/conftree.ycp:630
+#, ycp-format
+msgid "File %1 was saved successfully."
+msgstr "已成功保存文件 %1。"
+
+#: src/include/conftree.ycp:46 src/include/conftree.ycp:636
+msgid "An error occurred while saving the file."
+msgstr "保存文件时发生错误。"
+
+#: src/include/conftree.ycp:76
+msgid "Groups"
+msgstr "组"
+
+#: src/include/conftree.ycp:101
+msgid "No modules available"
+msgstr "无可用模块"
+
+#: src/include/conftree.ycp:103
+msgid "Modules"
+msgstr "模块"
+
+#: src/include/conftree.ycp:117
+msgid "&Clone"
+msgstr "复制(&C)"
+
+#: src/include/conftree.ycp:118
+msgid "&Apply to System"
+msgstr "应用到系统(&A)"
+
+#: src/include/conftree.ycp:123
+msgid "Clea&r"
+msgstr "清除(&R)"
+
+#: src/include/conftree.ycp:141
+msgid "Details"
+msgstr "细节"
+
+#: src/include/conftree.ycp:322
+msgid "The module returned invalid data."
+msgstr "模块返回的数据无效。"
+
+#: src/include/conftree.ycp:349
+msgid "&File"
+msgstr "文件(&F)"
+
+#: src/include/conftree.ycp:350
+msgid "&View"
+msgstr "查看(&V)"
+
+#: src/include/conftree.ycp:351
+msgid "&Classes"
+msgstr "类(&C)"
+
+#: src/include/conftree.ycp:352
+msgid "&Tools"
+msgstr "工具(&T)"
+
+#: src/include/conftree.ycp:354
+msgid "&New"
+msgstr "新建(&N)"
+
+#: src/include/conftree.ycp:356
+msgid "&Open"
+msgstr "打开(&O)"
+
+#: src/include/conftree.ycp:358
+msgid "&Save"
+msgstr "保存(&S)"
+
+#: src/include/conftree.ycp:360
+msgid "Save &As"
+msgstr "另存为(&A)"
+
+#: src/include/conftree.ycp:362
+msgid "Im&port"
+msgstr "导入(&P)"
+
+#: src/include/conftree.ycp:364
+msgid "Import &Kickstart File"
+msgstr "导入 Kickstart 文件(&K)"
+
+#: src/include/conftree.ycp:366
+msgid "Settin&gs"
+msgstr "设置(&G)"
+
+#: src/include/conftree.ycp:368
+msgid "Change to Decrypted"
+msgstr "切换到不加密"
+
+#: src/include/conftree.ycp:368
+msgid "Change to Encrypted"
+msgstr "切换到加密"
+
+#: src/include/conftree.ycp:370
+msgid "Apply Profile to this System"
+msgstr "将配置文件应用到系统"
+
+#: src/include/conftree.ycp:372
+msgid "E&xit"
+msgstr "退出(&X)"
+
+#: src/include/conftree.ycp:375
+msgid "Configu&ration Tree"
+msgstr "配置树(&R)"
+
+#: src/include/conftree.ycp:378
+msgid "So&urce"
+msgstr "源(&U)"
+
+#: src/include/conftree.ycp:380
+msgid "Cla&sses"
+msgstr "类(&S)"
+
+#: src/include/conftree.ycp:382
+msgid "Me&rge Classes"
+msgstr "合并类(&R)"
+
+#: src/include/conftree.ycp:385
+msgid "Create Reference Pro&file"
+msgstr "创建参考配置文件(&F)"
+
+#: src/include/conftree.ycp:387
+msgid "Check &Validity of Profile"
+msgstr "检查配置文件的有效性(&V)"
+
+#: src/include/conftree.ycp:428
+msgid "Source"
+msgstr "源"
+
+#: src/include/conftree.ycp:502
+#, ycp-format
+msgid "Do you really want to apply the settings of the module '%1' to your current system?"
+msgstr "您确实想要应用模块 '%1' 的设置到您当前系统吗？"
+
+#. opening/parsing the xml file failed
+#: src/include/conftree.ycp:567
+msgid "An error occurred while opening/parsing the XML file."
+msgstr "打开/解析 XML 文件时发生错误。"
+
+#: src/include/conftree.ycp:660
+msgid "Available Modules"
+msgstr "可用的模块"
+
+#: src/include/conftree.ycp:672
+msgid "Do you really want to apply the settings of the profile to your current system?"
+msgstr "您确实想要应用配置文件中的设置到您当前系统吗？"
+
+#: src/include/conftree.ycp:709
+msgid "Control file changed."
+msgstr "控制文件已更改。"
+
+#: src/include/conftree.ycp:710
+#, ycp-format
+msgid "Save the changes to %1?"
+msgstr "是否将更改保存到 %1？"
+
+#. autoyast tried to read a file but had no success.
+#: src/include/io.ycp:93
+#, ycp-format
+msgid "Cannot find URL '%1' via protocol HTTP(S). Server returned code %2."
+msgstr "无法找到通过 HTTP(S) 协议的 URL“%1”。服务器返回了代码 %2。"
+
+#. autoyast tried to read a file but had no success.
+#: src/include/io.ycp:109
+#, ycp-format
+msgid "Cannot find URL '%1' via protocol FTP. Server returned code %2."
+msgstr "无法找到通过 FTP 协议的 URL“%1”。服务器返回了代码 %2。"
+
+#: src/include/io.ycp:124
+#, ycp-format
+msgid "Reading file on %1/%2 failed.\n"
+msgstr "读取 %1/%2 上的文件失败。\n"
+
+#: src/include/io.ycp:135
+#, ycp-format
+msgid "Reading file on %1 failed.\n"
+msgstr "读取 %1 上的文件失败。\n"
+
+#. autoyast tried to mount the CD but had no success.
+#. autoyast tried to mount a NFS directory which failed
+#: src/include/io.ycp:159 src/include/io.ycp:198 src/include/io.ycp:229
+#, ycp-format
+msgid "Mounting %1 failed."
+msgstr "挂载 %1 失败。"
+
+#. autoyast tried to read a file but had no success.
+#: src/include/io.ycp:182
+#, ycp-format
+msgid "Reading a file on CD failed. Path: %1/%2."
+msgstr "读取 CD 上的文件时失败。路径：%1/%2."
+
+#. autoyast tried to copy a file via NFS which failed
+#: src/include/io.ycp:213 src/include/io.ycp:244
+#, ycp-format
+msgid "Remote file %1 cannot be retrieved"
+msgstr "无法获取到远程文件 %1"
+
+#: src/include/io.ycp:331
+#, ycp-format
+msgid "%1 is not mounted and mount failed"
+msgstr "%1 未挂载，尝试挂载但失败了"
+
+#. autoyast tried to copy a file but that file can't be found
+#: src/include/io.ycp:338
+#, ycp-format
+msgid "File %1 cannot be found"
+msgstr "找不到文件 %1"
+
+#: src/include/io.ycp:363
+#, ycp-format
+msgid "Cannot find URL '%1' via protocol TFTP."
+msgstr "无法找到通过 TFTP 协议的 URL“%1”。"
+
+#. the user wanted autoyast to fetch it's profile via an unknown protocol
+#: src/include/io.ycp:370
+#, ycp-format
+msgid "Unknown protocol %1."
+msgstr "未知协议 %1。"
+
+#. Translators: dialog caption
+#: src/include/wizards.ycp:85
+msgid "Autoinstall Configuration"
+msgstr "自动安装配置"
+
+#: src/modules/AutoInstallRules.ycp:432
+msgid "Parsing the rules file failed. XML parser reports:\n"
+msgstr "解析规则文件失败。XML 解析器报告：\n"
+
+#. autoyast has read the autoyast configuration file but something went wrong
+#: src/modules/AutoInstallRules.ycp:804 src/modules/Profile.ycp:586
+msgid "The XML parser reported an error while parsing the autoyast profile. The error message is:\n"
+msgstr "XML 解析器在解析 autoyast 配置文件时报告了一个错误。错误消息为：\n"
+
+#: src/modules/AutoInstallRules.ycp:918
+msgid ""
+"\n"
+"User-defined classes could not be retrieved.  Make sure all classes \n"
+"are defined correctly and available for this system via the network\n"
+"or locally. The system cannot be installed with the original control \n"
+"file without using classes.\n"
+msgstr ""
+"\n"
+"无法获取用户定义的类。请确定所有类的定义都正确，并且此系统可通过网络或本地使用这些类。如果不使用类，就无法通过原始控制文件安装系统。\n"
+
+#: src/modules/AutoinstConfig.ycp:246
+msgid "Choose Profile"
+msgstr "选择配置文件"
+
+#: src/modules/AutoinstConfig.ycp:300
+msgid "Retrieving control file from floppy."
+msgstr "正在软盘中获取控制文件。"
+
+#: src/modules/AutoinstConfig.ycp:304
+#, ycp-format
+msgid "Retrieving control file (%1) from TFTP server: %2."
+msgstr "正在从 TFTP 服务器中获取控制文件(%1)：%2。"
+
+#: src/modules/AutoinstConfig.ycp:308
+#, ycp-format
+msgid "Retrieving control file (%1) from NFS server: %2."
+msgstr "正在从 NFS 服务器中获取控制文件(%1)：%2。"
+
+#: src/modules/AutoinstConfig.ycp:312
+#, ycp-format
+msgid "Retrieving control file (%1) from HTTP server: %2."
+msgstr "正在从 HTTP 服务器中获取控制文件(%1)：%2。"
+
+#: src/modules/AutoinstConfig.ycp:316
+#, ycp-format
+msgid "Retrieving control file (%1) from FTP server: %2."
+msgstr "正在从 FTP 服务器中获取控制文件(%1)：%2。"
+
+#: src/modules/AutoinstConfig.ycp:320
+#, ycp-format
+msgid "Copying control file from file: %1."
+msgstr "正在从文件中复制控制文件：%1。"
+
+#: src/modules/AutoinstConfig.ycp:324
+#, ycp-format
+msgid "Copying control file from device: /dev/%1."
+msgstr "正在从设备中复制控制文件：/dev/%1。"
+
+#: src/modules/AutoinstConfig.ycp:328
+msgid "Copying control file from default location."
+msgstr "正在从默认位置复制控制文件。"
+
+#: src/modules/AutoinstConfig.ycp:332
+msgid "Source unknown."
+msgstr "源未知。"
+
+#: src/modules/AutoinstConfig.ycp:414
+msgid ""
+"<h3>AutoYaST Configuration Management System</h3>\n"
+"<p>Almost all resources of the control file can be\n"
+"configured using the configuration management system.</p>\n"
+msgstr ""
+"<h3>AutoYaST 配置管理系统</h3>\n"
+"<p>使用配置管理系统几乎可以配置控制文件的所有资源。</p>\n"
+
+#: src/modules/AutoinstConfig.ycp:419
+msgid ""
+"<p>Most of the modules used to create the configuration are identical to those available\n"
+"through the YaST Control Center. Instead of configuring this system, the data\n"
+"entered is collected and exported to the control file that can be used to\n"
+"install another system using AutoYaST.\n"
+"</p>\n"
+msgstr ""
+"<p>用于创建配置的大多数模块也就是 YaST2 控制中心里的那些模块。输入数据不是用于配置此系统，而是被收集起来并导出到一个控制文件中，而该文件可通过 AutoYaST 安装另一个系统。\n"
+"</p>\n"
+
+#: src/modules/AutoinstConfig.ycp:426
+msgid ""
+"<p>In addition to the existing and familiar modules,\n"
+"new interfaces were created for special and complex configurations, including\n"
+"partitioning, general options, and software.</p>\n"
+msgstr "<p>除现有模块和熟悉的模块之外，还为特殊配置和复杂配置创建了新接口，这些配置包括分区、常规选项和软件。</p>\n"
+
+#: src/modules/AutoinstDrive.ycp:133
+msgid " - Drive"
+msgstr " - 驱动器"
+
+#. volume group
+#: src/modules/AutoinstDrive.ycp:137
+msgid " - Volume group"
+msgstr " - 卷组"
+
+#: src/modules/AutoinstFile.ycp:48
+msgid "Configured Files:"
+msgstr "已配置的文件："
+
+#: src/modules/AutoinstGeneral.ycp:90
+msgid "probe"
+msgstr "检测"
+
+#: src/modules/AutoinstGeneral.ycp:94
+msgid "Mouse"
+msgstr "鼠标"
+
+#: src/modules/AutoinstGeneral.ycp:98
+msgid "Confirm installation?"
+msgstr "是否确认安装？"
+
+#: src/modules/AutoinstGeneral.ycp:100 src/modules/AutoinstGeneral.ycp:104
+#: src/modules/AutoinstGeneral.ycp:108 src/modules/AutoinstGeneral.ycp:111
+#: src/modules/AutoinstGeneral.ycp:115
+msgid "Yes"
+msgstr "是"
+
+#: src/modules/AutoinstGeneral.ycp:100 src/modules/AutoinstGeneral.ycp:104
+#: src/modules/AutoinstGeneral.ycp:108
+msgid "No"
+msgstr "否"
+
+#: src/modules/AutoinstGeneral.ycp:102
+msgid "Second Stage of AutoYaST"
+msgstr "AutoYaST 第二阶段"
+
+#: src/modules/AutoinstGeneral.ycp:106
+msgid "Halting the machine after stage one"
+msgstr "第一阶段后挂起计算机"
+
+#: src/modules/AutoinstGeneral.ycp:110
+msgid "Halting the machine after stage two"
+msgstr "第二阶段后关闭计算机"
+
+#: src/modules/AutoinstGeneral.ycp:114
+msgid "Reboot the machine after stage two"
+msgstr "第二阶段后重启计算机"
+
+#: src/modules/AutoinstGeneral.ycp:121
+msgid "Accepting unsigned files"
+msgstr "接受未签名文件"
+
+#: src/modules/AutoinstGeneral.ycp:121
+msgid "Not accepting unsigned files"
+msgstr "不接受未签名文件"
+
+#: src/modules/AutoinstGeneral.ycp:123
+msgid "Accepting files without a checksum"
+msgstr "接受没有校验和的文件"
+
+#: src/modules/AutoinstGeneral.ycp:123
+msgid "Not accepting files without a checksum"
+msgstr "不接受没有校验和的文件"
+
+#: src/modules/AutoinstGeneral.ycp:125
+msgid "Accepting failed verifications"
+msgstr "接受失败的验证"
+
+#: src/modules/AutoinstGeneral.ycp:125
+msgid "Not accepting failed verifications"
+msgstr "不接受失败的验证"
+
+#: src/modules/AutoinstGeneral.ycp:127
+msgid "Accepting unknown GPG keys"
+msgstr "接受未知 GPG 密钥"
+
+#: src/modules/AutoinstGeneral.ycp:127
+msgid "Not accepting unknown GPG Keys"
+msgstr "不接受未知 GPG 密钥"
+
+#: src/modules/AutoinstGeneral.ycp:129
+msgid "Importing new GPG keys"
+msgstr "导入新 GPG 密钥"
+
+#: src/modules/AutoinstGeneral.ycp:129
+msgid "Not importing new GPG Keys"
+msgstr "不导入新 GPG 密钥"
+
+#: src/modules/AutoinstLVM.ycp:91
+#, ycp-format
+msgid "Cannot reuse volume group %1. The volume group does not exist."
+msgstr "无法重新使用卷组 %1。该卷组不存在。"
+
+#: src/modules/AutoinstPartPlan.ycp:295
+#, ycp-format
+msgid "Volume group '%1' must have at least one physical volume. Provide one."
+msgstr "卷组 '%1' 必须有至少一个物理卷。请提供一个。"
+
+#: src/modules/AutoinstPartPlan.ycp:581 src/modules/AutoinstStorage.ycp:644
+msgid "Drives"
+msgstr "驱动器"
+
+#: src/modules/AutoinstPartPlan.ycp:583 src/modules/AutoinstStorage.ycp:646
+#, ycp-format
+msgid "Total of %1 drive"
+msgid_plural "Total of %1 drives"
+msgstr[0] "%1 驱动器的总数"
+
+#: src/modules/AutoinstScripts.ycp:276
+msgid "Preinstallation Scripts"
+msgstr "安装前脚本"
+
+#: src/modules/AutoinstScripts.ycp:289
+msgid "Postinstallation Scripts"
+msgstr "安装后脚本"
+
+#: src/modules/AutoinstScripts.ycp:302
+msgid "Chroot Scripts"
+msgstr "Chroot 脚本"
+
+#: src/modules/AutoinstScripts.ycp:315
+msgid "Init Scripts"
+msgstr "启动脚本"
+
+#: src/modules/AutoinstScripts.ycp:328
+msgid "Postpartitioning Scripts"
+msgstr "分区后脚本"
+
+#: src/modules/AutoinstScripts.ycp:434
+msgid "Pre"
+msgstr "安装前"
+
+#: src/modules/AutoinstScripts.ycp:438
+msgid "Post"
+msgstr "安装后"
+
+#: src/modules/AutoinstScripts.ycp:442
+msgid "Init"
+msgstr "启动"
+
+#: src/modules/AutoinstScripts.ycp:446
+msgid "Chroot"
+msgstr "Chroot"
+
+#: src/modules/AutoinstScripts.ycp:450
+msgid "Postpartitioning"
+msgstr "分区后"
+
+#: src/modules/AutoinstScripts.ycp:452
+msgid "Unknown"
+msgstr "未知"
+
+#. warning text during the installation. %1 is a list of package names
+#: src/modules/AutoinstSoftware.ycp:152
+#, ycp-format
+msgid ""
+"These packages could not be found in the software repositories:\n"
+"%1"
+msgstr ""
+"无法在软件源中找到这些包：\n"
+"%1"
+
+#. 4 means "already exists"
+#: src/modules/AutoinstSoftware.ycp:224 src/modules/AutoinstSoftware.ycp:235
+#, ycp-format
+msgid "Adding repo %1 failed"
+msgstr "添加安装源 %1 失败"
+
+#: src/modules/AutoinstSoftware.ycp:248
+msgid "Image creation failed while pattern installation. Please check /tmp/ay_image.log"
+msgstr "映像创建失败于集合安装环节。请检查 /tmp/ay_image.log"
+
+#: src/modules/AutoinstSoftware.ycp:253
+msgid "Creating Image - installing packages"
+msgstr "正在创建映像 - 安装软件包"
+
+#: src/modules/AutoinstSoftware.ycp:257
+msgid "Image creation failed while package installation. Please check /tmp/ay_image.log"
+msgstr "映像创建失败于软件包安装环节。请检查 /tmp/ay_image.log"
+
+#. Popup::Message( _("in the next file dialog you have to choose the target directory to save the image") );
+#: src/modules/AutoinstSoftware.ycp:265
+msgid "Store image to ..."
+msgstr "存储映像到..."
+
+#: src/modules/AutoinstSoftware.ycp:277
+#, ycp-format
+msgid ""
+"You can do changes to the image now in %1/\n"
+"If you press the ok-button, the image will be compressed and can't be changed anymore."
+msgstr ""
+"您现在可以在 %1/ 更改映像。\n"
+"如果您点击了确认按钮，映像将被压缩，再也不能更改。"
+
+#: src/modules/AutoinstSoftware.ycp:282
+#, ycp-format
+msgid "Image compressing failed in '%1'. Please check /tmp/ay_image.log"
+msgstr "映像压缩失败于 '%1'。请检查 /tmp/ay_image.log"
+
+#: src/modules/AutoinstSoftware.ycp:285
+msgid "Image created successfully"
+msgstr "已成功创建映像"
+
+#: src/modules/AutoinstSoftware.ycp:302
+#, ycp-format
+msgid ""
+"can not get the directory.yast file at `%1`.\n"
+"You can create that file with 'ls -F > directory.yast' if it's missing."
+msgstr ""
+"无法于 '%1' 获取 directory.yast 文件。\n"
+"如果缺失，您可以通过 'ls -F > directory.yast' 命令创建该文件。"
+
+#: src/modules/AutoinstSoftware.ycp:314
+#, ycp-format
+msgid "can not read '%1'. Try again?"
+msgstr "无法读取 '%1'。重试吗？"
+
+#: src/modules/AutoinstSoftware.ycp:323
+#, ycp-format
+msgid "can not read '%1'. ISO creation failed"
+msgstr "无法读取 '%1'。创建 ISO 失败"
+
+#: src/modules/AutoinstSoftware.ycp:344
+msgid "Preparing ISO Filestructure ..."
+msgstr "正在准备 ISO 文件结构..."
+
+#: src/modules/AutoinstSoftware.ycp:368
+msgid "boot config for the DVD"
+msgstr "DVD 的引导配置"
+
+#: src/modules/AutoinstSoftware.ycp:370
+msgid "Ok"
+msgstr "确定"
+
+#: src/modules/AutoinstSoftware.ycp:371
+#, ycp-format
+msgid ""
+"You can do changes to the ISO now in %1, like adding a complete different AutoYaST XML file.\n"
+"If you press the ok-button, the iso will be created."
+msgstr ""
+"您现在可以在 %1 对 ISO 进行更改，比如添加一个完全不同的 AutoYaST XML 文件。\n"
+"如果您点击了确认按钮，将创建 ISO。"
+
+#. create the actual ISO file
+#. Popup::Message( _("Please choose a place where you want to save the ISO file in the next dialog") );
+#: src/modules/AutoinstSoftware.ycp:381
+msgid "Store ISO image to ..."
+msgstr "存储 ISO 映像到..."
+
+#: src/modules/AutoinstSoftware.ycp:382
+msgid "Creating ISO File ..."
+msgstr "正在创建 ISO 映像..."
+
+#: src/modules/AutoinstSoftware.ycp:391
+#, ycp-format
+msgid "ISO successfully created at %1"
+msgstr "ISO 成功创建于 %1"
+
+#: src/modules/AutoinstSoftware.ycp:463
+msgid "Selected Patterns"
+msgstr "选定的集合"
+
+#: src/modules/AutoinstSoftware.ycp:476
+msgid "Individually Selected Packages"
+msgstr "选择单个包"
+
+#: src/modules/AutoinstSoftware.ycp:480
+msgid "Packages to Remove"
+msgstr "要删除的包"
+
+#: src/modules/AutoinstSoftware.ycp:486
+msgid "Force Kernel Package"
+msgstr "强制内核包"
+
+#: src/modules/AutoinstSoftware.ycp:574
+#, ycp-format
+msgid "Could not set patterns: %1."
+msgstr "无法设置模式：%1。"
+
+#: src/modules/AutoinstSoftware.ycp:623
+msgid "The package resolver run failed. Please check your software section in the autoyast profile."
+msgstr "包解析程序运行失败。 请检查 autoyast 配置中的软件部分。"
+
+#: src/modules/AutoinstStorage.ycp:395
+#, ycp-format
+msgid "The partition plan configured in your XML profile does not fit on the hard disk. %1MB missing"
+msgstr "您 XML 存档中的分区规划并不适合这块硬盘。缺少 %1MB"
+
+#: src/modules/AutoinstStorage.ycp:649
+msgid "No specific device configured"
+msgstr "未配置任何特定设备"
+
+#: src/modules/AutoinstStorage.ycp:714
+msgid "Evaluating root partition. One moment please..."
+msgstr "正在评估根分区。请稍候..."
+
+#. a popup
+#: src/modules/AutoinstStorage.ycp:722
+msgid "No Linux root partition found."
+msgstr "未找到 Linux 根分区。"
+
+#: src/modules/AutoinstStorage.ycp:736
+msgid ""
+"Multiple root partitions found, but you did not configure\n"
+"which root partition should be used.  Automatic installation not possible.\n"
+msgstr "找到多个根分区，但您没有配置应使用哪个根分区。无法进行自动安装。\n"
+
+#: src/modules/AutoinstStorage.ycp:809
+#, ycp-format
+msgid "device '%1' not found by storage backend"
+msgstr "存储后端未找到设备 '%1'"
+
+#: src/modules/Profile.ycp:244
+msgid "Collecting configuration data..."
+msgstr "正在收集配置数据..."
+
+#: src/modules/Profile.ycp:348
+msgid "Encrypted AutoYaST profile. Enter the password twice."
+msgstr "加密的 AutoYaST 配置文件。请输入密码两次。"
+
+#: src/modules/Profile.ycp:398
+#, ycp-format
+msgid "Could not write section %1 to file %2."
+msgstr "无法将部分 %1 写入文件 %2。"
+
+#: src/modules/Profile.ycp:555 src/modules/ProfileLocation.ycp:129
+msgid "Encrypted AutoYaST profile. Enter the correct password."
+msgstr "加密的 AutoYaST 配置文件。请输入正确的密码。"
+
+#: src/modules/ProfileLocation.ycp:102
+msgid "label not found while looking for autoyast profile"
+msgstr "查找 autoyast 配置文件时未找到标签"
+
+#. autoyast hit an error while fetching it's config file
+#: src/modules/ProfileLocation.ycp:119
+msgid "An error occurred while fetching the profile:\n"
+msgstr "获取配置文件时发生错误：\n"
+
+#: src/modules/ProfileLocation.ycp:131
+msgid "&OK"
+msgstr "确定(&O)"
+
+#: src/tests/autoinst_test_clone.ycp:10
+msgid "Reading configuration data..."
+msgstr "正在读取配置数据..."
+
+#~ msgid "autoyast"
+#~ msgstr "autoyast"
+
+#~ msgid "Path to autoyast profile"
+#~ msgstr "autoyast 配置文件路径"
+
+#~ msgid "Dialog Up"
+#~ msgstr "对话框上移"
+
+#~ msgid "Dialog Down"
+#~ msgstr "对话框下移"
+
+#~ msgid "Question Up"
+#~ msgstr "问题上移"
+
+#~ msgid "Question Down"
+#~ msgstr "问题下移"
+
+#~ msgid "Default"
+#~ msgstr "默认值"
+
+#~ msgid "Path"
+#~ msgstr "路径"
+
+#~ msgid "File"
+#~ msgstr "文件"
+
+#~ msgid "Proposals"
+#~ msgstr "建议"
+
+#~ msgid "Checking XML without validation..."
+#~ msgstr "正在检查没有验证的 XML..."
+
+#~ msgid "Reset Confi&guration"
+#~ msgstr "重设置配置(&G)"
+
+#, fuzzy
+#~ msgid "Write to System"
+#~ msgstr "写入引导槽"
+
+#~ msgid "Configur&e"
+#~ msgstr "配置(&E)"
+
+#~ msgid "No modules available in this group."
+#~ msgstr "此组中无可用的模块。"
+
+#~ msgid "Delete"
+#~ msgstr "删除"
+
+#~ msgid "Add"
+#~ msgstr "添加"
+
+#~ msgid "Abort"
+#~ msgstr "终止"

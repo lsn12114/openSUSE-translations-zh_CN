@@ -1,0 +1,552 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# hillwood <hillwoodroc@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-07 15:20+0200\n"
+"PO-Revision-Date: 2012-07-05 16:46+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: app/models/patch.rb:150
+#| msgid "Please refer to your support contact."
+msgid "Please reboot your system."
+msgstr "请重新启动计算机。"
+
+#: app/models/patches_state.rb:30
+msgid "EULA accept required"
+msgstr "需要接受最终用户许可协议"
+
+#: app/models/patches_state.rb:31
+msgid ""
+"Package require accept specific EULA before its installation. Please follow "
+"the link."
+msgstr "软件包安装前需要接受特定最终用户许可协议。请点击链接。"
+
+#: app/models/patches_state.rb:34
+msgid "decide"
+msgstr "决定"
+
+#: app/models/patches_state.rb:43
+msgid "Patch installation messages not confirmed"
+msgstr "补丁安装消息未确认"
+
+# ok button label
+#: app/models/patches_state.rb:47
+msgid "OK"
+msgstr "确定"
+
+#: app/helpers/repositories_helper.rb:25
+msgid "Highest"
+msgstr "最高级"
+
+#: app/helpers/repositories_helper.rb:26
+msgid "Higher"
+msgstr "高级"
+
+#: app/helpers/repositories_helper.rb:27
+msgid "Default"
+msgstr "默认"
+
+#: app/helpers/repositories_helper.rb:28
+msgid "Low"
+msgstr "低级"
+
+#: app/helpers/repositories_helper.rb:29
+msgid "Lowest"
+msgstr "最低"
+
+#: app/helpers/repositories_helper.rb:35
+msgid "Highest priority"
+msgstr "最高优先级"
+
+#: app/helpers/repositories_helper.rb:36
+msgid "Higher priority"
+msgstr "高优先级"
+
+#: app/helpers/repositories_helper.rb:38
+msgid "Low priority"
+msgstr "低优先级"
+
+#: app/helpers/repositories_helper.rb:39
+msgid "Lowest priority"
+msgstr "最低优先级"
+
+#: app/helpers/repositories_helper.rb:44
+msgid "Custom priority"
+msgstr "自定义优先级"
+
+#: app/helpers/repositories_helper.rb:49
+msgid "Custom"
+msgstr "自定义"
+
+#: app/helpers/repositories_helper.rb:61
+#: app/views/repositories/new.html.erb:67
+#: app/views/repositories/index.html.erb:264
+msgid "enable"
+msgstr "启用"
+
+#: app/helpers/repositories_helper.rb:61
+#: app/views/repositories/new.html.erb:74
+#: app/views/repositories/index.html.erb:267
+msgid "disable"
+msgstr "禁用"
+
+#: app/helpers/repositories_helper.rb:66
+msgid "enabled"
+msgstr "已启用"
+
+#: app/helpers/repositories_helper.rb:66
+msgid "disabled"
+msgstr "已禁用"
+
+#: app/helpers/repositories_helper.rb:83
+msgid "Repository is currently %senabled%s."
+msgstr "软件源当前%s已启用%s。"
+
+#: app/helpers/repositories_helper.rb:85
+msgid "Repository is currently %sdisabled%s."
+msgstr "软件源当前%s已禁用%s。"
+
+#: app/helpers/repositories_helper.rb:90
+msgid "Autorefresh is currently %senabled%s."
+msgstr "自动刷新目前 %s已禁用%s"
+
+#: app/helpers/repositories_helper.rb:92
+msgid "Autorefresh is currently %sdisabled %s."
+msgstr "自动刷新目前 %s已禁用%s"
+
+#: app/helpers/repositories_helper.rb:97
+msgid "Keeping downloaded packages is currently %senabled%s."
+msgstr "保留下载的安装包目前 %s已启用%s。"
+
+#: app/helpers/repositories_helper.rb:99
+msgid "Keeping downloaded packages is currently %sdisabled%s."
+msgstr "保留下载的安装包目前 %s已禁用%s。"
+
+#: app/helpers/repositories_helper.rb:103
+msgid "Repository will be enabled."
+msgstr "软件源将被启用。"
+
+#: app/helpers/repositories_helper.rb:103
+msgid "Repository will be disabled."
+msgstr "软件源将被禁用。"
+
+#: app/helpers/repositories_helper.rb:107
+msgid "Autorefresh will be enabled."
+msgstr "自动刷新将被启用。"
+
+#: app/helpers/repositories_helper.rb:107
+msgid "Autorefresh will be disabled."
+msgstr "自动刷新将被禁用。"
+
+#: app/helpers/repositories_helper.rb:111
+msgid "Keep packages option will be enabled."
+msgstr "保留安装包选项将启用。"
+
+#: app/helpers/repositories_helper.rb:111
+msgid "Keep packages option will be disabled."
+msgstr "保留安装包选项将禁用。"
+
+#: app/controllers/patches_controller.rb:101
+msgid "There are patch installation messages available"
+msgstr "有可用补丁安装信息"
+
+#: app/controllers/patches_controller.rb:119
+msgid "Cannot obtain patches, installation in progress. Remain %d packages."
+msgstr "无法获取补丁，安装继续。遗留 %d 个软件包。"
+
+#: app/controllers/patches_controller.rb:129
+#: app/controllers/patches_controller.rb:182
+msgid ""
+"Cannot read patch updates: GPG key for repository <em>%s</em> is not trusted."
+msgstr "无法读取补丁更新：软件源 <em>%s</em> 的 GPG 密钥不被信任。"
+
+#: app/controllers/patches_controller.rb:170
+msgid "Cannot obtain patches, installation in progress. Remain %d patches."
+msgstr "无法获取补丁，安装继续进行。遗留 %d 个补丁。"
+
+#: app/controllers/repositories_controller.rb:50
+msgid "Cannot read repository list."
+msgstr "无法读取软件源列表"
+
+#: app/controllers/repositories_controller.rb:117
+#: app/controllers/repositories_controller.rb:126
+msgid "Cannot update repository '%s': missing parameters."
+msgstr "无法更新软件源 '%s' ：缺少参数"
+
+#: app/controllers/repositories_controller.rb:134
+msgid "Repository '%s' has been updated."
+msgstr "软件源 '%s' 已经被更新。"
+
+#: app/controllers/repositories_controller.rb:172
+msgid "Repository '%s' was not found."
+msgstr "找不到软件源 '%s'。"
+
+#: app/controllers/repositories_controller.rb:189
+#: app/controllers/repositories_controller.rb:196
+msgid "Cannot remove repository '%s'"
+msgstr "无法移除软件源 '%s'"
+
+#: app/controllers/repositories_controller.rb:203
+msgid "Repository '%s' has been deleted."
+msgstr "软件源 '%s' 已经被移除。"
+
+#: app/views/repositories/new.html.erb:32
+#: app/views/repositories/index.html.erb:167
+msgid "Enter a valid repository URL."
+msgstr "请输入一个可用的软件源地址。"
+
+#: app/views/repositories/new.html.erb:40
+#: app/views/repositories/index.html.erb:175
+msgid "Symbols <b>%s</b> are not allowed in repository alias."
+msgstr "符号 <b>%s</b> 不允许作为软件源的别名。"
+
+#: app/views/repositories/new.html.erb:47
+#: app/views/repositories/index.html.erb:78
+#: app/views/repositories/index.html.erb:222
+#: app/views/repositories/index.html.erb:240
+#: app/views/patches/license.html.erb:32 app/views/patches/license.html.erb:41
+#: app/views/patches/index.html.erb:37 app/views/patches/index.html.erb:141
+#: app/views/patches/index.html.erb:150
+msgid "Please wait"
+msgstr "请稍候"
+
+#: app/views/repositories/new.html.erb:56
+#: app/views/repositories/index.html.erb:179
+msgid "This value cannot be empty."
+msgstr "这个值不能为空。"
+
+#: app/views/repositories/new.html.erb:102
+msgid ""
+"A repository with this URL already exists.\n"
+"Create a duplicate?"
+msgstr "一个软件源的 URL 已存在，需要重复创建一个吗？"
+
+#: app/views/repositories/new.html.erb:136
+#: app/views/repositories/index.html.erb:30
+msgid "Software Repositories"
+msgstr "软件源"
+
+#: app/views/repositories/new.html.erb:138
+#: app/views/repositories/new.html.erb:152
+msgid "Add a new repository"
+msgstr "添加一个新软件源"
+
+#: app/views/repositories/new.html.erb:158
+msgid "Alias"
+msgstr "别名"
+
+#: app/views/repositories/new.html.erb:162
+#: app/views/patches/_patches.html.erb:22
+msgid "Name"
+msgstr "名称"
+
+#: app/views/repositories/new.html.erb:166
+msgid "URL"
+msgstr "URL"
+
+#: app/views/repositories/new.html.erb:174
+msgid "Repository will be %s."
+msgstr "软件源将 %s."
+
+#: app/views/repositories/new.html.erb:179
+msgid "Autorefresh will be %s."
+msgstr "自动刷新将 %s。"
+
+#: app/views/repositories/new.html.erb:184
+msgid "Keep packages option will be %s."
+msgstr "保留软件包的选项将 %s 。"
+
+#: app/views/repositories/index.html.erb:44
+msgid "Quick Search"
+msgstr "快速搜索"
+
+#: app/views/repositories/index.html.erb:49
+msgid "Filter repositories"
+msgstr "过滤软件源"
+
+#: app/views/repositories/index.html.erb:52
+msgid "All"
+msgstr "全部"
+
+#: app/views/repositories/index.html.erb:52
+msgid "Enabled"
+msgstr "已启用"
+
+#: app/views/repositories/index.html.erb:52
+msgid "Disabled"
+msgstr "已禁用"
+
+#: app/views/repositories/index.html.erb:56
+msgid "New Repository"
+msgstr "新安装源"
+
+#: app/views/repositories/index.html.erb:131
+msgid "Save"
+msgstr "保存"
+
+#: app/views/repositories/index.html.erb:132
+msgid "Delete"
+msgstr "删除"
+
+#: app/views/repositories/index.html.erb:134
+msgid "Really delete repository '%s'?"
+msgstr "真的要删除软件源 '%s' 吗？"
+
+#: app/views/patches/_patch_summary.html.erb:17
+msgid "No information about patches available"
+msgstr "没用关于补丁的信息"
+
+#: app/views/patches/_patch_summary.html.erb:24
+msgid ""
+"Update needs EULA license confirmation. Please follow to patch module to "
+"decide about license."
+msgstr "更新需要最终用户许可协议的授​​权确认，请遵循补丁模块以确认许可证。"
+
+#: app/views/patches/_patch_summary.html.erb:56
+msgid "Security Updates: %d"
+msgstr "安全更新： %d"
+
+#: app/views/patches/_patch_summary.html.erb:66
+msgid "Important Updates: %d"
+msgstr "重要更新： %d"
+
+#: app/views/patches/_patch_summary.html.erb:76
+msgid "Optional Updates: %d"
+msgstr "可选更新：%d"
+
+#: app/views/patches/_patch_summary.html.erb:84
+#: app/views/patches/index.html.erb:180
+msgid "Your system is up to date."
+msgstr "你的系统处于最新状态。"
+
+#: app/views/patches/_patch_summary.html.erb:91
+msgid "Install all"
+msgstr "全部安装"
+
+#: app/views/patches/_patch_summary.html.erb:100
+msgid "Loading patch information"
+msgstr "正在加载补丁信息"
+
+#: app/views/patches/_patch_summary.html.erb:108
+#: app/views/patches/_patch_installation.html.erb:13
+#: app/views/patches/index.html.erb:56 app/views/patches/index.html.erb:75
+#: app/views/patches/index.html.erb:94 app/views/patches/index.html.erb:113
+#: app/views/patches/index.html.erb:132
+#| msgid "Loading patch information"
+msgid "Error: Cannot get information."
+msgstr "错误：不能获取信息。"
+
+#: app/views/patches/_patch_installation.html.erb:22
+msgid "An error occured while installing patches."
+msgstr "安装补丁时出现一个错误。"
+
+#: app/views/patches/_patch_installation.html.erb:49
+msgid "Patch Installation"
+msgstr "安装补丁程序"
+
+#: app/views/patches/_patch_installation.html.erb:59
+msgid "Stop"
+msgstr "停止"
+
+#: app/views/patches/_patch_installation.html.erb:59
+msgid "Are you sure?"
+msgstr "你确定？"
+
+#: app/views/patches/_patches.html.erb:10
+msgid ""
+"One of the patches seems to update WebYaST itself.\n"
+"You may need to reload the page after applying the patch."
+msgstr "有个更新似乎是针对 WebYaST 的，你可能需要在安装补丁后刷新页面。"
+
+#: app/views/patches/_patches.html.erb:16
+msgid "No patches available"
+msgstr "没有可用的补丁"
+
+#: app/views/patches/_patches.html.erb:21
+msgid "Kind"
+msgstr "类别"
+
+#: app/views/patches/_patches.html.erb:24
+#: app/views/patches/_patches.html.erb:27
+msgid "Source"
+msgstr "源"
+
+#: app/views/patches/_patches.html.erb:25
+msgid "Install"
+msgstr "安装"
+
+#: app/views/patches/license.html.erb:63
+msgid "Accept"
+msgstr "同意"
+
+#: app/views/patches/license.html.erb:64
+msgid "Reject"
+msgstr "拒绝"
+
+#: app/views/patches/index.html.erb:166 app/views/patches/index.html.erb:226
+msgid "Updates"
+msgstr "更新"
+
+#: app/views/patches/index.html.erb:240
+msgid "All updates"
+msgstr "全部更新"
+
+#: app/views/patches/index.html.erb:243
+msgid "Security"
+msgstr "安全性"
+
+#: app/views/patches/index.html.erb:245
+msgid "Important"
+msgstr "重要"
+
+#: app/views/patches/index.html.erb:248
+msgid "Recommended"
+msgstr "推荐"
+
+#: app/views/patches/index.html.erb:251
+msgid "Optional"
+msgstr "额外的"
+
+#: app/views/patches/index.html.erb:269
+msgid "Update"
+msgstr "更新"
+
+#~ msgid "Autorefresh"
+#~ msgstr "自动刷新"
+
+#~ msgid "Priority"
+#~ msgstr "优先级"
+
+#~ msgid "Keep downloaded packages"
+#~ msgstr "保留下载的安装包"
+
+#~ msgid "Missing repository parameter"
+#~ msgstr "缺少源参数"
+
+#~ msgid "Invalid priority"
+#~ msgstr "无效的优先级"
+
+#~ msgid "Cannot update repository '%s': Unknown error"
+#~ msgstr "无法更新软件源 '%s' ：未知错误"
+
+#~ msgid "Cannot update repository '%s'"
+#~ msgstr "无法更新软件源 '%s' ："
+
+#~ msgid "Unknown backend error: %s"
+#~ msgstr "未知后端错误：%s"
+
+#~ msgid "Missing repository parameters"
+#~ msgstr "缺少源参数"
+
+#~ msgid "Repository '%s' has been added."
+#~ msgstr "软件源 '%s' 已添加。"
+
+#~ msgid "Cannot create repository '%s': Unknown error"
+#~ msgstr "无法创建软件源 '%s' ：未知错误"
+
+#~ msgid "Cannot create repository '%s'"
+#~ msgstr "无法创建软件源 '%s' "
+
+#~ msgid "Unknown backend error"
+#~ msgstr "未知后端错误"
+
+#~ msgid "A problem occured when loading patch information."
+#~ msgstr "加载补丁信息时出现一个问题。"
+
+#~ msgid "Refreshing package cache"
+#~ msgstr "正在刷新软件包缓存"
+
+#~ msgid "Starting package manager"
+#~ msgstr "正在启动软件管理器"
+
+#~ msgid "Waiting for the package manager lock"
+#~ msgstr "正在等待软件管理器解锁"
+
+#~ msgid "Evaluating available patches"
+#~ msgstr "评估可用的补丁程序"
+
+#~ msgid "Finished reading patches"
+#~ msgstr "读取补丁完成"
+
+#~ msgid "Please wait ..."
+#~ msgstr "请稍候..."
+
+#~ msgid "Cannot read patch updates - you have been logged out."
+#~ msgstr "无法读取补丁更新 - 你已经退出了登录。"
+
+#~ msgid "Updating all. Are you sure?"
+#~ msgstr "你确认要全部安装吗？"
+
+#~ msgid "See and manage configured software repositories"
+#~ msgstr "查看和管理配置软件源"
+
+#, fuzzy
+#~| msgid "Got list of repositories"
+#~ msgid "Configured software repositories"
+#~ msgstr "获取到软件源列表"
+
+#, fuzzy
+#~| msgid "Repository"
+#~ msgid "Add New Repository"
+#~ msgstr "软件源"
+
+#, fuzzy
+#~| msgid "No Updates Available"
+#~ msgid "Updates available"
+#~ msgstr "无可用更新"
+
+#, fuzzy
+#~| msgid "CheckBox"
+#~ msgid "Check"
+#~ msgstr "复选框"
+
+#~ msgid "Summary"
+#~ msgstr "小结"
+
+#, fuzzy
+#~| msgid "Update"
+#~ msgid "Update All"
+#~ msgstr "更新"
+
+#, fuzzy
+#~| msgid "Installing updates..."
+#~ msgid "Installing all patches..."
+#~ msgstr "正在安装更新..."
+
+#, fuzzy
+#~| msgid "Installation Source"
+#~ msgid "Installation stopped"
+#~ msgstr "软件源"
+
+#, fuzzy
+#~| msgid "Installation"
+#~ msgid "Installation finished"
+#~ msgstr "安装"
+
+#, fuzzy
+#~| msgid "%s installed ok"
+#~ msgid "%s installed."
+#~ msgstr "%s 安装成功"
+
+#, fuzzy
+#~| msgid "Package '%s' has been installed"
+#~ msgid "Patch has been installed. "
+#~ msgstr "软件包 '%s' 已被安装"
+
+#, fuzzy
+#~| msgid "Package '%s' has been installed"
+#~ msgid "All Patches have been installed. "
+#~ msgstr "软件包 '%s' 已被安装"

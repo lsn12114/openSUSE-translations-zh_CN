@@ -1,0 +1,4851 @@
+# translation of update-desktop-files.po to Chinese Simplified
+# @update-desktop-files@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Thruth Wang <wanglihao@gmail.com>, 2007-2008.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-22 09:48+0000\n"
+"PO-Revision-Date: 2012-07-05 20:04+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: /opt/kde3/share/applications/kde/klettres.desktop
+msgctxt "Comment(klettres.desktop)"
+msgid " a KDE program to learn the alphabet"
+msgstr "帮助学习字母表的 KDE 程序"
+
+#: /opt/kde3/share/applications/kde/basket.desktop
+msgctxt "GenericName(basket.desktop)"
+msgid "\"Multi-purpose notepad\""
+msgstr "多用途记事本"
+
+#: /usr/share/applications/kde4/kubrick.desktop
+msgctxt "GenericName(kubrick.desktop)"
+msgid "3-D Game based on Rubik's Cube"
+msgstr "三维魔方游戏"
+
+#: /usr/share/applications/kde4/kubrick.desktop
+msgctxt "Comment(kubrick.desktop)"
+msgid "A 3-D game based on Rubik's Cube"
+msgstr "一个三维魔方游戏"
+
+#: /usr/share/applications/kde4/ktorrent.desktop
+msgctxt "Comment(ktorrent.desktop)"
+msgid "A BitTorrent program for KDE"
+msgstr "一个 KDE 的 BitTorrent 程序"
+
+#: /opt/kde3/share/applications/kde/kdbus.desktop
+msgctxt "Comment(kdbus.desktop)"
+msgid "A D-BUS service browser"
+msgstr "D-BUS 服务浏览器"
+
+#: /usr/share/applications/kde4/kdiff3.desktop
+msgctxt "Comment(kdiff3.desktop)"
+msgid "A File And Directory Comparison And Merge Tool"
+msgstr "一个文件和目录的比较和合并的工具"
+
+#: /usr/share/applications/kde4/kgeography.desktop
+msgctxt "Comment(kgeography.desktop)"
+msgid "A Geography Learning Program"
+msgstr "地理学习程序"
+
+#: /usr/share/applications/kde4/kgpg.desktop
+msgctxt "Comment(kgpg.desktop)"
+msgid "A GnuPG frontend"
+msgstr "GnuPG 前端"
+
+#: /usr/share/applications/kde4/blogilo.desktop
+msgctxt "GenericName(blogilo.desktop)"
+msgid "A KDE Blogging Client"
+msgstr "KDE 的博客客户端"
+
+#: /opt/kde3/share/applications/kde/embedjs.desktop
+msgctxt "Comment(embedjs.desktop)"
+msgid "A KDE KPart Application"
+msgstr "一个KDE KPart应用程序"
+
+#: /opt/kde3/share/applications/kde/kturtle.desktop
+msgctxt "Comment(kturtle.desktop)"
+msgid "A KDE Logo programming environment"
+msgstr "KDE Logo 编程环境"
+
+#: /usr/share/applications/kde4/akregator.desktop
+msgctxt "Comment(akregator.desktop)"
+msgid "A KDE News Feed Reader"
+msgstr "一个 KDE 新闻种子阅读器"
+
+#: /usr/share/applications/kde4/kdesvn.desktop
+msgctxt "Comment(kdesvn.desktop)"
+msgid "A Subversion client for KDE"
+msgstr "KDE 的 SVN 客户端"
+
+#: /usr/share/applications/kde4/krename.desktop
+msgctxt "Comment(krename.desktop)"
+msgid "A batch renamer"
+msgstr "批量重命名工具"
+
+#: /usr/share/applications/kde4/klipper.desktop
+msgctxt "Comment(klipper.desktop)"
+msgid "A cut & paste history utility"
+msgstr "管理剪切和粘贴历史的工具"
+
+#: /usr/share/applications/kde4/yakuake.desktop
+msgctxt "Comment(yakuake.desktop)"
+msgid "A drop-down terminal emulator based on KDE Konsole technology."
+msgstr "一款基于 KDE Konsole 技术的下拉式终端仿真器。"
+
+#: /usr/share/applications/kde4/kwordquiz.desktop
+msgctxt "Comment(kwordquiz.desktop)"
+msgid "A flashcard and vocabulary learning program"
+msgstr "Flash 卡片和词汇学习程序"
+
+#: /usr/share/applications/kde4/KGoldrunner.desktop
+msgctxt "Comment(KGoldrunner.desktop)"
+msgid "A game of action and puzzle-solving"
+msgstr "一个结合动作与解谜的游戏"
+
+#: /usr/share/applications/kde4/blinken.desktop
+msgctxt "Comment(blinken.desktop)"
+msgid "A memory enhancement game"
+msgstr "记忆强化游戏"
+
+#: /opt/kde3/share/applications/kde/kcmsambaconf.desktop
+msgctxt "Comment(kcmsambaconf.desktop)"
+msgid "A module to configure shares for Microsoft Windows"
+msgstr "配置 Microsoft Windows 共享的模块"
+
+#: /usr/share/applications/kde4/icemon.desktop
+msgctxt "Comment(icemon.desktop)"
+msgid "A monitor for an Icecream compilation network"
+msgstr "用于 Icecream 汇编网络的监视器"
+
+#: /usr/share/applications/kde4/krandrtray.desktop
+msgctxt "Comment(krandrtray.desktop)"
+msgid "A panel applet for resizing and reorientating X screens."
+msgstr "调整 X 屏幕大小和方向的面板小程序"
+
+#: /opt/kde3/share/applications/kde/klatin.desktop
+msgctxt "Comment(klatin.desktop)"
+msgid "A program to help revise Latin"
+msgstr "帮助复习拉丁语的程序"
+
+#: /opt/kde3/share/applications/kde/blinken.desktop
+msgctxt "Comment(blinken.desktop)"
+msgid "A retro memory enhancement game"
+msgstr "一个记忆强化游戏"
+
+#: /opt/kde3/share/applications/kde/pgcalc.desktop
+msgctxt "Comment(pgcalc.desktop)"
+msgid "A simple KDE Application"
+msgstr "一个简单的KDE应用程序"
+
+#: /usr/share/applications/kde4/kollision.desktop
+msgctxt "Comment(kollision.desktop)"
+msgid "A simple ball dodging game"
+msgstr "一个简单的躲避球游戏"
+
+#: /usr/share/applications/kde4/gwenview.desktop
+msgctxt "Comment(gwenview.desktop)"
+msgid "A simple image viewer"
+msgstr "简单图像查看器"
+
+#: /usr/share/applications/kde4/scangui.desktop
+msgctxt "Comment(scangui.desktop)"
+msgid "A tool to acquire images using a flat scanner"
+msgstr "一个使用扫描仪捕获图像的工具"
+
+#: /usr/share/applications/kde4/panoramagui.desktop
+msgctxt "Comment(panoramagui.desktop)"
+msgid "A tool to assemble images as a panorama"
+msgstr "组合照片为全景的工具"
+
+#: /usr/share/applications/kde4/dngconverter.desktop
+msgctxt "Comment(dngconverter.desktop)"
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr "一个批量转换 RAW 图像为 DNG 的工具"
+
+#: /usr/share/applications/kde4/expoblending.desktop
+msgctxt "Comment(expoblending.desktop)"
+msgid "A tool to blend bracketed images"
+msgstr "一个混合加括号图像的工具"
+
+#: /usr/share/applications/kde4/kchmviewer.desktop
+msgctxt "Comment(kchmviewer.desktop)"
+msgid "A viewer of CHM (MS-Help) files"
+msgstr "CHM（MS 帮助）文件查看器"
+
+#: /opt/kde3/share/applications/kde/ktnef.desktop
+msgctxt "Comment(ktnef.desktop)"
+msgid "A viewer/extractor for TNEF files"
+msgstr "TNEF 文件的查看/提取器"
+
+#: /usr/share/applications/kde4/kvkbd.desktop
+msgctxt "Comment(kvkbd.desktop)"
+msgid "A virtual keyboard for KDE"
+msgstr "KDE 虚拟键盘"
+
+#: /opt/kde3/share/applications/kde/kwifimanager.desktop
+msgctxt "Comment(kwifimanager.desktop)"
+msgid "A wireless LAN connection monitor"
+msgstr "无线局域网连接监视器"
+
+#: /usr/share/applications/kde4/amor.desktop
+msgctxt "Name(amor.desktop)"
+msgid "AMOR"
+msgstr "AMOR"
+
+#: /opt/kde3/share/applications/kde/kenolaba.desktop
+msgctxt "GenericName(kenolaba.desktop)"
+msgid "Abalone-like Board Game"
+msgstr "角力棋游戏"
+
+#: /opt/kde3/share/applications/kde/kcmaccess.desktop
+msgctxt "Name(kcmaccess.desktop)"
+msgid "Accessibility"
+msgstr "辅助"
+
+#: /usr/share/applications/kde4/accountwizard.desktop
+msgctxt "Name(accountwizard.desktop)"
+msgid "Account Wizard"
+msgstr "账户向导"
+
+#: /usr/share/applications/kde4/scangui.desktop
+msgctxt "GenericName(scangui.desktop)"
+msgid "Acquire Images"
+msgstr "图像捕获"
+
+#: /usr/share/applications/kde4/scangui.desktop
+msgctxt "Name(scangui.desktop)"
+msgid "AcquireImages"
+msgstr "图像捕获"
+
+#: /opt/kde3/share/applications/kde/KGoldrunner.desktop
+msgctxt "GenericName(KGoldrunner.desktop)"
+msgid "Action & Puzzle Solving Game"
+msgstr "动作与解迷游戏"
+
+#: /opt/kde3/share/applications/kde/khtml_filter.desktop
+msgctxt "Name(khtml_filter.desktop)"
+msgid "AdBlocK Filters"
+msgstr "广告拦截过滤器"
+
+#: /opt/kde3/share/applications/kde/kaddressbook.desktop
+msgctxt "GenericName(kaddressbook.desktop)"
+msgid "Address Manager"
+msgstr "地址管理器"
+
+#: /usr/share/applications/kde4/smb4k.desktop
+msgctxt "Comment(smb4k.desktop)"
+msgid "Advanced Network Neighborhood Browser"
+msgstr "高级网上邻居浏览器"
+
+#: /usr/share/applications/kde4/smb4k.desktop
+msgctxt "GenericName(smb4k.desktop)"
+msgid "Advanced Network Neighborhood Browser"
+msgstr "高级网上邻居浏览器"
+
+#: /usr/share/applications/kde4/kate.desktop
+msgctxt "GenericName(kate.desktop)"
+msgid "Advanced Text Editor"
+msgstr "高级文本编辑器"
+
+#: /usr/share/applications/kde4/akonadiconsole.desktop
+msgctxt "Name(akonadiconsole.desktop)"
+msgid "Akonadi Console"
+msgstr "Akonadi 控制台"
+
+#: /usr/share/applications/kde4/akonadiconsole.desktop
+msgctxt "Comment(akonadiconsole.desktop)"
+msgid "Akonadi Management and Debugging Console"
+msgstr "用于管理和调试 Akonadi 的控制台"
+
+#: /usr/share/applications/kde4/akonaditray.desktop
+msgctxt "GenericName(akonaditray.desktop)"
+msgid "Akonadi Tray Utility"
+msgstr "Akonadi 托盘工具"
+
+#: /usr/share/applications/kde4/akonaditray.desktop
+msgctxt "Name(akonaditray.desktop)"
+msgid "Akonaditray"
+msgstr "Akonadi 托盘"
+
+#: /usr/share/applications/kde4/akregator.desktop
+msgctxt "Name(akregator.desktop)"
+msgid "Akregator"
+msgstr "Akregator"
+
+#: /opt/kde3/share/applications/kde/style.desktop
+msgctxt "Comment(style.desktop)"
+msgid ""
+"Allows the manipulation of widget behavior and changing the Style for KDE"
+msgstr "允许操纵修饰行为和更改 KDE 的样式"
+
+#: /usr/share/applications/kde4/amarok.desktop
+msgctxt "Name(amarok.desktop)"
+msgid "Amarok"
+msgstr "Amarok"
+
+#: /usr/share/applications/kde4/amarok_containers.desktop
+msgctxt "Name(amarok_containers.desktop)"
+msgid "Amarok"
+msgstr "Amarok"
+
+#: /usr/share/applications/kde4/amarok.desktop
+msgctxt "Comment(amarok.desktop)"
+msgid "Amarok - Rediscover Your Music!"
+msgstr "Amarok - 重新发现您的音乐！"
+
+#: /usr/share/applications/kde4/amarok_containers.desktop
+msgctxt "Comment(amarok_containers.desktop)"
+msgid "Amarok - Rediscover Your Music!"
+msgstr "Amarok - 重新发现您的音乐！"
+
+#: /opt/kde3/share/applications/kde/akregator.desktop
+msgctxt "Comment(akregator.desktop)"
+msgid "An RSS Aggregator for KDE"
+msgstr "KDE RSS 新闻收集器"
+
+#: /usr/share/applications/kde4/superkaramba.desktop
+msgctxt "Comment(superkaramba.desktop)"
+msgid "An engine for cool desktop eyecandy."
+msgstr "桌面养眼引擎。"
+
+#: /usr/share/applications/kde4/apper.desktop
+msgctxt "Name(apper.desktop)"
+msgid "Apper"
+msgstr "Apper"
+
+#: /usr/share/applications/kde4/apper_installer.desktop
+msgctxt "Name(apper_installer.desktop)"
+msgid "Apper Installer"
+msgstr "Apper 安装器"
+
+#: /usr/share/applications/kde4/apper_settings.desktop
+msgctxt "Name(apper_settings.desktop)"
+msgid "Apper Settings"
+msgstr "Apper 设置"
+
+#: /usr/share/applications/kde4/apper_updates.desktop
+msgctxt "Name(apper_updates.desktop)"
+msgid "Apper Updates"
+msgstr "Apper 升级"
+
+#: /usr/share/applications/kde4/krita_exr.desktop
+msgctxt "GenericName(krita_exr.desktop)"
+msgid "Application for Drawing and Handling of Images"
+msgstr "绘制和操纵图像的应用程序"
+
+#: /usr/share/applications/kde4/krita_jp2.desktop
+msgctxt "GenericName(krita_jp2.desktop)"
+msgid "Application for Drawing and Handling of Images"
+msgstr "绘制和操纵图像的应用程序"
+
+#: /usr/share/applications/kde4/apper.desktop
+msgctxt "Comment(apper.desktop)"
+msgid "Application to get and manage software"
+msgstr "获取和管理软件的应用程序"
+
+#: /usr/share/applications/kde4/apper_installer.desktop
+msgctxt "Comment(apper_installer.desktop)"
+msgid "Application to get and manage software"
+msgstr "获取和管理软件的应用程序"
+
+#: /usr/share/applications/kde4/apper_settings.desktop
+msgctxt "Comment(apper_settings.desktop)"
+msgid "Application to get and manage software"
+msgstr "获取和管理软件的应用程序"
+
+#: /usr/share/applications/kde4/apper_updates.desktop
+msgctxt "Comment(apper_updates.desktop)"
+msgid "Application to get and manage software"
+msgstr "获取和管理软件的应用程序"
+
+#: /usr/share/applications/kde4/bomber.desktop
+msgctxt "GenericName(bomber.desktop)"
+msgid "Arcade Bombing Game"
+msgstr "街机上的投弹游戏"
+
+#: /usr/share/applications/kde4/ark.desktop
+msgctxt "GenericName(ark.desktop)"
+msgid "Archiving Tool"
+msgstr "压缩归档工具"
+
+#: /usr/share/applications/kde4/ark.desktop
+msgctxt "Name(ark.desktop)"
+msgid "Ark"
+msgstr "Ark"
+
+#: /opt/kde3/share/applications/kde/atlantik.desktop
+msgctxt "Name(atlantik.desktop)"
+msgid "Atlantik"
+msgstr "Atlantik"
+
+#: /opt/kde3/share/applications/kde/atlantikdesigner.desktop
+msgctxt "Name(atlantikdesigner.desktop)"
+msgid "Atlantik Designer"
+msgstr "Atlantik 设计器"
+
+#: /opt/kde3/share/applications/kde/devices.desktop
+msgctxt "Comment(devices.desktop)"
+msgid "Attached devices information"
+msgstr "附加的设备信息"
+
+#: /opt/kde3/share/applications/kde/audiocd.desktop
+msgctxt "Name(audiocd.desktop)"
+msgid "Audio CDs"
+msgstr "音频 CD"
+
+#: /opt/kde3/share/applications/kde/artsbuilder.desktop
+msgctxt "GenericName(artsbuilder.desktop)"
+msgid "Audio Filter Designer"
+msgstr "音频滤波器设计程序"
+
+#: /usr/share/applications/kde4/amarok.desktop
+msgctxt "GenericName(amarok.desktop)"
+msgid "Audio Player"
+msgstr "音频播放器"
+
+#: /usr/share/applications/kde4/amarok_containers.desktop
+msgctxt "GenericName(amarok_containers.desktop)"
+msgid "Audio Player"
+msgstr "音频播放器"
+
+#: /opt/kde3/share/applications/kde/audiocd.desktop
+msgctxt "Comment(audiocd.desktop)"
+msgid "Audiocd IO Slave Configuration"
+msgstr "音频 CD 输入输出从属模块配置"
+
+#: /usr/share/applications/kde4/kmousetool.desktop
+msgctxt "GenericName(kmousetool.desktop)"
+msgid "Automatic Mouse Click"
+msgstr "自动鼠标点击"
+
+#: /usr/share/applications/kde4/backintime-kde4.desktop
+msgctxt "Name(backintime-kde4.desktop)"
+msgid "Back In Time"
+msgstr "时光机器"
+
+#: /opt/kde3/share/applications/kde/kbackgammon.desktop
+msgctxt "GenericName(kbackgammon.desktop)"
+msgid "Backgammon Game"
+msgstr "十五子棋游戏i"
+
+#: /opt/kde3/share/applications/kde/background.desktop
+msgctxt "Name(background.desktop)"
+msgid "Background"
+msgstr "背景"
+
+#: /opt/kde3/share/applications/kde/konserve.desktop
+msgctxt "GenericName(konserve.desktop)"
+msgid "Backup Tool"
+msgstr "备份工具"
+
+#: /usr/share/applications/kde4/kbounce.desktop
+msgctxt "GenericName(kbounce.desktop)"
+msgid "Ball Bouncing Game"
+msgstr "弹球游戏"
+
+#: /opt/kde3/share/applications/kde/basket.desktop
+msgctxt "Name(basket.desktop)"
+msgid "BasKet Note Pads"
+msgstr "BasKet 记事本"
+
+#: /usr/share/applications/kde4/krename.desktop
+msgctxt "GenericName(krename.desktop)"
+msgid "Batch File Renamer"
+msgstr "批量重命名工具"
+
+#: /opt/kde3/share/applications/kde/kbattleship.desktop
+msgctxt "GenericName(kbattleship.desktop)"
+msgid "Battleship Game"
+msgstr "战舰游戏"
+
+#: /opt/kde3/share/applications/kde/desktopbehavior.desktop
+msgctxt "Name(desktopbehavior.desktop)"
+msgid "Behavior"
+msgstr "行为"
+
+#: /opt/kde3/share/applications/kde/khexedit.desktop
+msgctxt "GenericName(khexedit.desktop)"
+msgid "Binary Editor"
+msgstr "二进制编辑器"
+
+#: /usr/share/applications/kde4/ktorrent.desktop
+msgctxt "GenericName(ktorrent.desktop)"
+msgid "BitTorrent Client"
+msgstr "BitTorrent 客户端"
+
+#: /usr/share/applications/kde4/kblackbox.desktop
+msgctxt "GenericName(kblackbox.desktop)"
+msgid "Blackbox Logic Game"
+msgstr "黑箱逻辑游戏"
+
+#: /usr/share/applications/kde4/blinken.desktop
+msgctxt "Name(blinken.desktop)"
+msgid "Blinken"
+msgstr "Blinken"
+
+#: /usr/share/applications/kde4/blogilo.desktop
+msgctxt "Name(blogilo.desktop)"
+msgid "Blogilo"
+msgstr "Blogilo"
+
+#: /usr/share/applications/kde4/bluedevil-monolithic.desktop
+msgctxt "GenericName(bluedevil-monolithic.desktop)"
+msgid "BlueDevil"
+msgstr "BlueDevil"
+
+#: /usr/share/applications/kde4/bluedevil-monolithic.desktop
+msgctxt "Name(bluedevil-monolithic.desktop)"
+msgid "BlueDevil"
+msgstr "BlueDevil"
+
+#: /usr/share/applications/kde4/bluedevil-audio.desktop
+msgctxt "Comment(bluedevil-audio.desktop)"
+msgid "BlueDevil Audio connect"
+msgstr "BlueDevil 音频连接"
+
+#: /usr/share/applications/kde4/bluedevil-audio.desktop
+msgctxt "GenericName(bluedevil-audio.desktop)"
+msgid "BlueDevil Audio connect"
+msgstr "BlueDevil 音频连接"
+
+#: /usr/share/applications/kde4/bluedevil-audio.desktop
+msgctxt "Name(bluedevil-audio.desktop)"
+msgid "BlueDevil Audio connect"
+msgstr "BlueDevil 音频连接"
+
+#: /usr/share/applications/kde4/bluedevil-input.desktop
+msgctxt "Comment(bluedevil-input.desktop)"
+msgid "BlueDevil Input connect"
+msgstr "BlueDevil 输入连接"
+
+#: /usr/share/applications/kde4/bluedevil-input.desktop
+msgctxt "GenericName(bluedevil-input.desktop)"
+msgid "BlueDevil Input connect"
+msgstr "BlueDevil 输入连接"
+
+#: /usr/share/applications/kde4/bluedevil-input.desktop
+msgctxt "Name(bluedevil-input.desktop)"
+msgid "BlueDevil Input connect"
+msgstr "BlueDevil 输入连接"
+
+#: /usr/share/applications/kde4/bluedevil-network-dun.desktop
+msgctxt "Comment(bluedevil-network-dun.desktop)"
+msgid "BlueDevil Network connect"
+msgstr "BlueDevil 网络连接"
+
+#: /usr/share/applications/kde4/bluedevil-network-panu.desktop
+msgctxt "Comment(bluedevil-network-panu.desktop)"
+msgid "BlueDevil Network connect"
+msgstr "BlueDevil 网络连接"
+
+#: /usr/share/applications/kde4/bluedevil-network-dun.desktop
+msgctxt "GenericName(bluedevil-network-dun.desktop)"
+msgid "BlueDevil Network connect"
+msgstr "BlueDevil 网络连接"
+
+#: /usr/share/applications/kde4/bluedevil-network-panu.desktop
+msgctxt "GenericName(bluedevil-network-panu.desktop)"
+msgid "BlueDevil Network connect"
+msgstr "BlueDevil 网络连接"
+
+#: /usr/share/applications/kde4/bluedevil-network-dun.desktop
+msgctxt "Name(bluedevil-network-dun.desktop)"
+msgid "BlueDevil Network connect"
+msgstr "BlueDevil 网络连接"
+
+#: /usr/share/applications/kde4/bluedevil-network-panu.desktop
+msgctxt "Name(bluedevil-network-panu.desktop)"
+msgid "BlueDevil Network connect"
+msgstr "BlueDevil 网络连接"
+
+#: /usr/share/applications/kde4/bluedevil-sendfile.desktop
+msgctxt "Comment(bluedevil-sendfile.desktop)"
+msgid "BlueDevil Send File"
+msgstr "BlueDevil 发送文件"
+
+#: /usr/share/applications/kde4/bluedevil-sendfile.desktop
+msgctxt "GenericName(bluedevil-sendfile.desktop)"
+msgid "BlueDevil Send File"
+msgstr "BlueDevil 发送文件"
+
+#: /usr/share/applications/kde4/bluedevil-sendfile.desktop
+msgctxt "Name(bluedevil-sendfile.desktop)"
+msgid "BlueDevil Send File"
+msgstr "BlueDevil 发送文件"
+
+#: /usr/share/applications/kde4/bluedevil-wizard.desktop
+msgctxt "Comment(bluedevil-wizard.desktop)"
+msgid "BlueDevil Wizard"
+msgstr "BlueDevil 向导"
+
+#: /usr/share/applications/kde4/bluedevil-wizard.desktop
+msgctxt "GenericName(bluedevil-wizard.desktop)"
+msgid "BlueDevil Wizard"
+msgstr "BlueDevil 向导"
+
+#: /usr/share/applications/kde4/bluedevil-wizard.desktop
+msgctxt "Name(bluedevil-wizard.desktop)"
+msgid "BlueDevil Wizard"
+msgstr "BlueDevil 向导"
+
+#: /usr/share/applications/kde4/klickety.desktop
+msgctxt "GenericName(klickety.desktop)"
+msgid "Board Game"
+msgstr "色块消去游戏"
+
+#: /usr/share/applications/kde4/ksame.desktop
+msgctxt "GenericName(ksame.desktop)"
+msgid "Board Game"
+msgstr "色块消去游戏"
+
+#: /usr/share/applications/kde4/bomber.desktop
+msgctxt "Name(bomber.desktop)"
+msgid "Bomber"
+msgstr "投弹者"
+
+#: /usr/share/applications/kde4/granatier.desktop
+msgctxt "GenericName(granatier.desktop)"
+msgid "Bomberman clone"
+msgstr "炸弹人游戏复刻"
+
+#: /usr/share/applications/kde4/keditbookmarks.desktop
+msgctxt "Name(keditbookmarks.desktop)"
+msgid "Bookmark Editor"
+msgstr "书签编辑器"
+
+#: /usr/share/applications/kde4/keditbookmarks.desktop
+msgctxt "Comment(keditbookmarks.desktop)"
+msgid "Bookmark Organizer and Editor"
+msgstr "书签组织和编辑器"
+
+#: /opt/kde3/share/applications/kde/kbounce.desktop
+msgctxt "GenericName(kbounce.desktop)"
+msgid "Bounce Ball Game"
+msgstr "弹球游戏"
+
+#: /usr/share/applications/kde4/bovo.desktop
+msgctxt "Name(bovo.desktop)"
+msgid "Bovo"
+msgstr "Bovo"
+
+#: /usr/share/applications/kde4/braindump.desktop
+msgctxt "Name(braindump.desktop)"
+msgid "Braindump"
+msgstr "Braindump"
+
+#: /usr/share/applications/kde4/kbreakout.desktop
+msgctxt "GenericName(kbreakout.desktop)"
+msgid "Breakout-like Game"
+msgstr "挡板弹球游戏"
+
+#: /opt/kde3/share/applications/kde/useragent.desktop
+msgctxt "Name(useragent.desktop)"
+msgid "Browser Identification"
+msgstr "浏览器识别"
+
+#: /usr/share/applications/kde4/kscd.desktop
+msgctxt "GenericName(kscd.desktop)"
+msgid "CD Player"
+msgstr "CD 播放器"
+
+#: /opt/kde3/share/applications/kde/kaudiocreator.desktop
+msgctxt "GenericName(kaudiocreator.desktop)"
+msgid "CD Ripper"
+msgstr "CD 提取器"
+
+#: /opt/kde3/share/applications/kde/cdinfo.desktop
+msgctxt "Name(cdinfo.desktop)"
+msgid "CD-ROM Information"
+msgstr "CD-ROM 信息"
+
+#: /opt/kde3/share/applications/kde/cdinfo.desktop
+msgctxt "Comment(cdinfo.desktop)"
+msgid "CD/DVD Drive Capabilites"
+msgstr "CD/DVD 光驱性能"
+
+#: /opt/kde3/share/applications/kde/libkcddb.desktop
+msgctxt "GenericName(libkcddb.desktop)"
+msgid "CDDB Configuration"
+msgstr "CDDB 配置"
+
+#: /opt/kde3/share/applications/kde/libkcddb.desktop
+msgctxt "Name(libkcddb.desktop)"
+msgid "CDDB Retrieval"
+msgstr "CDDB 查询"
+
+#: /opt/kde3/share/applications/kde/kcmcgi.desktop
+msgctxt "Name(kcmcgi.desktop)"
+msgid "CGI Scripts"
+msgstr "CGI 脚本"
+
+#: /usr/share/applications/kde4/kchmviewer.desktop
+msgctxt "GenericName(kchmviewer.desktop)"
+msgid "CHM file viewer"
+msgstr "CHM 文件查看器"
+
+#: /usr/share/applications/kde4/cervisia.desktop
+msgctxt "GenericName(cervisia.desktop)"
+msgid "CVS Frontend"
+msgstr "CVS 前端"
+
+#: /opt/kde3/share/applications/kde/cache.desktop
+msgctxt "Name(cache.desktop)"
+msgid "Cache"
+msgstr "缓存"
+
+#: /usr/share/applications/kde4/korganizer-import.desktop
+msgctxt "Comment(korganizer-import.desktop)"
+msgid "Calendar and Scheduling Program"
+msgstr "日历和日程安排程序"
+
+#: /usr/share/applications/kde4/korganizer.desktop
+msgctxt "Comment(korganizer.desktop)"
+msgid "Calendar and Scheduling Program"
+msgstr "日历和日程安排程序"
+
+#: /usr/share/applications/kde4/calligra.desktop
+msgctxt "Name(calligra.desktop)"
+msgid "Calligra"
+msgstr "Calligra"
+
+#: /usr/share/applications/kde4/flow.desktop
+msgctxt "Name(flow.desktop)"
+msgid "Calligra Flow"
+msgstr "Calligra Flow"
+
+#: /usr/share/applications/kde4/sheets.desktop
+msgctxt "Name(sheets.desktop)"
+msgid "Calligra Sheets"
+msgstr "Calligra Sheets"
+
+#: /usr/share/applications/kde4/stage.desktop
+msgctxt "Name(stage.desktop)"
+msgid "Calligra Stage"
+msgstr "Calligra Stage"
+
+#: /usr/share/applications/kde4/words.desktop
+msgctxt "Name(words.desktop)"
+msgid "Calligra Words"
+msgstr "Calligra Words"
+
+#: /usr/share/applications/kde4/cantor.desktop
+msgctxt "Name(cantor.desktop)"
+msgid "Cantor"
+msgstr "Cantor"
+
+#: /usr/share/applications/kde4/lskat.desktop
+msgctxt "GenericName(lskat.desktop)"
+msgid "Card Game"
+msgstr "牌类游戏"
+
+#: /opt/kde3/share/applications/kde/celestia.desktop
+msgctxt "Comment(celestia.desktop)"
+msgid "Celestia"
+msgstr "Celestia"
+
+#: /opt/kde3/share/applications/kde/celestia.desktop
+msgctxt "Name(celestia.desktop)"
+msgid "Celestia"
+msgstr "Celestia"
+
+#: /usr/share/applications/kde4/kleopatra_import.desktop
+msgctxt "Comment(kleopatra_import.desktop)"
+msgid "Certificate Manager and Unified Crypto GUI"
+msgstr "证书管理器和统一的密钥操作界面"
+
+#: /usr/share/applications/kde4/kleopatra.desktop
+msgctxt "GenericName(kleopatra.desktop)"
+msgid "Certificate Manager and Unified Crypto GUI"
+msgstr "证书管理器和统一的密钥操作界面"
+
+#: /usr/share/applications/kde4/cervisia.desktop
+msgctxt "Name(cervisia.desktop)"
+msgid "Cervisia"
+msgstr "Cervisia"
+
+#: /usr/share/applications/kde4/kdepasswd.desktop
+msgctxt "Name(kdepasswd.desktop)"
+msgid "Change Password"
+msgstr "更改密码"
+
+#: /opt/kde3/share/applications/kde/background.desktop
+msgctxt "Comment(background.desktop)"
+msgid "Change the background settings"
+msgstr "更改背景设置"
+
+#: /opt/kde3/share/applications/kde/desktoppath.desktop
+msgctxt "Comment(desktoppath.desktop)"
+msgid "Change the location important files are stored"
+msgstr "更改重要文件存储的位置"
+
+#: /usr/share/applications/kde4/KCharSelect.desktop
+msgctxt "GenericName(KCharSelect.desktop)"
+msgid "Character Selector"
+msgstr "字符选择器"
+
+#: /opt/kde3/share/applications/kde/kcmlaunch.desktop
+msgctxt "Comment(kcmlaunch.desktop)"
+msgid "Choose application-launch feedback style"
+msgstr "选择程序启动反馈风格"
+
+#: /opt/kde3/share/applications/kde/componentchooser.desktop
+msgctxt "Comment(componentchooser.desktop)"
+msgid "Choose the default components for various services"
+msgstr "选择各种服务的默认组件"
+
+#: /usr/share/applications/kde4/choqok.desktop
+msgctxt "Name(choqok.desktop)"
+msgid "Choqok"
+msgstr "Choqok"
+
+#: /usr/share/applications/kde4/kmousetool.desktop
+msgctxt "Comment(kmousetool.desktop)"
+msgid "Clicks the mouse for you, reducing the effects of RSI"
+msgstr "为您点击鼠标，减轻肢体重复性劳损(RSI)效应"
+
+#: /usr/share/applications/kde4/klipper.desktop
+msgctxt "GenericName(klipper.desktop)"
+msgid "Clipboard Tool"
+msgstr "剪贴板工具"
+
+#: /usr/share/applications/kde4/kcolorchooser.desktop
+msgctxt "GenericName(kcolorchooser.desktop)"
+msgid "Color Chooser"
+msgstr "颜色选择器"
+
+#: /opt/kde3/share/applications/kde/kcoloredit.desktop
+msgctxt "GenericName(kcoloredit.desktop)"
+msgid "Color Palette Editor"
+msgstr "调色板编辑器"
+
+#: /opt/kde3/share/applications/kde/colors.desktop
+msgctxt "Comment(colors.desktop)"
+msgid "Color settings"
+msgstr "颜色设置"
+
+#: /opt/kde3/share/applications/kde/colors.desktop
+msgctxt "Name(colors.desktop)"
+msgid "Colors"
+msgstr "颜色"
+
+#: /opt/kde3/share/applications/kde/componentchooser.desktop
+msgctxt "Name(componentchooser.desktop)"
+msgid "Component Chooser"
+msgstr "组件选择程序"
+
+#: /usr/share/applications/kde4/kchmviewer.desktop
+msgctxt "GenericName(kchmviewer.desktop)"
+msgid "Compressed HTML Viewer"
+msgstr "压缩的 HTML 查看器"
+
+#: /usr/share/applications/kde4/lokalize.desktop
+msgctxt "GenericName(lokalize.desktop)"
+msgid "Computer-Aided Translation System"
+msgstr "计算机辅助翻译系统"
+
+#: /opt/kde3/share/applications/kde/keys.desktop
+msgctxt "Comment(keys.desktop)"
+msgid "Configuration of keybindings"
+msgstr "键绑定配置"
+
+#: /opt/kde3/share/applications/kde/KControl.desktop
+msgctxt "GenericName(KControl.desktop)"
+msgid "Configure Desktop"
+msgstr "配置桌面"
+
+#: /usr/share/applications/kde4/systemsettings.desktop
+msgctxt "GenericName(systemsettings.desktop)"
+msgid "Configure Desktop"
+msgstr "系统设置"
+
+#: /usr/share/applications/kde4/systemsettings.desktop
+msgctxt "Name(systemsettings.desktop)"
+msgid "Configure Desktop"
+msgstr "系统设置"
+
+#: /opt/kde3/share/applications/kde/kcmkrfb.desktop
+msgctxt "Comment(kcmkrfb.desktop)"
+msgid "Configure Desktop Sharing"
+msgstr "配置桌面共享"
+
+#: /opt/kde3/share/applications/kde/khotkeys.desktop
+msgctxt "Comment(khotkeys.desktop)"
+msgid "Configure Hotkey settings"
+msgstr "配置热键设置"
+
+#: /opt/kde3/share/applications/kde/kresources.desktop
+msgctxt "Comment(kresources.desktop)"
+msgid "Configure KDE Resources"
+msgstr "配置 KDE 资源"
+
+#: /opt/kde3/share/applications/kde/kamera.desktop
+msgctxt "Comment(kamera.desktop)"
+msgid "Configure Kamera"
+msgstr "配置 Kamera"
+
+#: /opt/kde3/share/applications/kde/khtml_filter.desktop
+msgctxt "Comment(khtml_filter.desktop)"
+msgid "Configure Konqueror AdBlocK filters"
+msgstr "配置 Konqueror 的广告拦截过滤器"
+
+#: /opt/kde3/share/applications/kde/crypto.desktop
+msgctxt "Comment(crypto.desktop)"
+msgid "Configure SSL, manage certificates, and other cryptography settings"
+msgstr "配置 SSL，管理证书和其它加密设置"
+
+#: /opt/kde3/share/applications/kde/media.desktop
+msgctxt "Comment(media.desktop)"
+msgid "Configure Storage Media"
+msgstr "配置存储介质"
+
+#: /opt/kde3/share/applications/kde/ebrowsing.desktop
+msgctxt "Comment(ebrowsing.desktop)"
+msgid "Configure enhanced browsing"
+msgstr "配置增强浏览特性"
+
+#: /opt/kde3/share/applications/kde/filetypes.desktop
+msgctxt "Comment(filetypes.desktop)"
+msgid "Configure file associations"
+msgstr "配置文件关联"
+
+#: /opt/kde3/share/applications/kde/netpref.desktop
+msgctxt "Comment(netpref.desktop)"
+msgid "Configure generic network preferences, like timeout values"
+msgstr "配置通用网络首选项，例如超时值"
+
+#: /opt/kde3/share/applications/kde/kcm_kdnssd.desktop
+msgctxt "Comment(kcm_kdnssd.desktop)"
+msgid "Configure service discovery"
+msgstr "配置探索服务"
+
+#: /opt/kde3/share/applications/kde/kwinrules.desktop
+msgctxt "Comment(kwinrules.desktop)"
+msgid "Configure settings specifically for a window"
+msgstr "配置一个窗口的设置"
+
+#: /opt/kde3/share/applications/kde/kcmperformance.desktop
+msgctxt "Comment(kcmperformance.desktop)"
+msgid "Configure settings that can improve KDE performance"
+msgstr "配置提高 KDE 性能的设置"
+
+#: /opt/kde3/share/applications/kde/libkcddb.desktop
+msgctxt "Comment(libkcddb.desktop)"
+msgid "Configure the CDDB Retrieval"
+msgstr "配置 CDDB 获取"
+
+#: /opt/kde3/share/applications/kde/kcmcgi.desktop
+msgctxt "Comment(kcmcgi.desktop)"
+msgid "Configure the CGI KIO slave"
+msgstr "配置 CGI KIO 仆人"
+
+#: /opt/kde3/share/applications/kde/thinkpad.desktop
+msgctxt "Comment(thinkpad.desktop)"
+msgid "Configure the KDE Interface to the IBM Thinkpad Special Controls"
+msgstr "配置 KDE 界面使用 ThinkPad 特殊控制"
+
+#: /opt/kde3/share/applications/kde/kvaio.desktop
+msgctxt "Comment(kvaio.desktop)"
+msgid ""
+"Configure the KDE Interface to the Sony Programmable Interrupt Controller "
+"Driver"
+msgstr "配置 KDE 界面使用索尼可编程中断控制器驱动程序"
+
+#: /opt/kde3/share/applications/kde/kcmkicker.desktop
+msgctxt "Name(kcmkicker.desktop)"
+msgid "Configure the Panel"
+msgstr "配置面板"
+
+#: /opt/kde3/share/applications/kde/panel.desktop
+msgctxt "Comment(panel.desktop)"
+msgid "Configure the arrangement of the panel"
+msgstr "配置面板的排列"
+
+#: /opt/kde3/share/applications/kde/khtml_java_js.desktop
+msgctxt "Comment(khtml_java_js.desktop)"
+msgid "Configure the behavior of Java and JavaScript"
+msgstr "配置 Java 和 JavaScript 的行为"
+
+#: /opt/kde3/share/applications/kde/khtml_behavior.desktop
+msgctxt "Comment(khtml_behavior.desktop)"
+msgid "Configure the browser behavior"
+msgstr "配置浏览器行为"
+
+#: /opt/kde3/share/applications/kde/khtml_plugins.desktop
+msgctxt "Comment(khtml_plugins.desktop)"
+msgid "Configure the browser plugins"
+msgstr "配置浏览器插件"
+
+#: /opt/kde3/share/applications/kde/khtml_fonts.desktop
+msgctxt "Comment(khtml_fonts.desktop)"
+msgid "Configure the fonts used on web pages"
+msgstr "配置网页所使用的字体"
+
+#: /opt/kde3/share/applications/kde/kcmhistory.desktop
+msgctxt "Comment(kcmhistory.desktop)"
+msgid "Configure the history sidebar"
+msgstr "配置任务侧边栏"
+
+#: /opt/kde3/share/applications/kde/kdm.desktop
+msgctxt "Comment(kdm.desktop)"
+msgid "Configure the login manager (KDM)"
+msgstr "配置登录管理器(KDM)"
+
+#: /opt/kde3/share/applications/kde/kwindecoration.desktop
+msgctxt "Comment(kwindecoration.desktop)"
+msgid "Configure the look and feel of window titles"
+msgstr "配置窗口标题的观感"
+
+#: /opt/kde3/share/applications/kde/kcmtaskbar.desktop
+msgctxt "Comment(kcmtaskbar.desktop)"
+msgid "Configure the panel taskbar"
+msgstr "配置面板的任务条"
+
+#: /opt/kde3/share/applications/kde/proxy.desktop
+msgctxt "Comment(proxy.desktop)"
+msgid "Configure the proxy servers used"
+msgstr "配置所用的代理服务器"
+
+#: /opt/kde3/share/applications/kde/kcmsmserver.desktop
+msgctxt "Comment(kcmsmserver.desktop)"
+msgid "Configure the session manager and logout settings"
+msgstr "配置会话管理器和注销设置"
+
+#: /opt/kde3/share/applications/kde/spellchecking.desktop
+msgctxt "Comment(spellchecking.desktop)"
+msgid "Configure the spell checker"
+msgstr "配置拼写检查工具"
+
+#: /opt/kde3/share/applications/kde/kcmcss.desktop
+msgctxt "Comment(kcmcss.desktop)"
+msgid "Configure the stylesheets used to render web pages"
+msgstr "配置用来渲染网页的样式表"
+
+#: /opt/kde3/share/applications/kde/useragent.desktop
+msgctxt "Comment(useragent.desktop)"
+msgid "Configure the way Konqueror reports itself"
+msgstr "配置 Konqueror 的报告自己的方式"
+
+#: /opt/kde3/share/applications/kde/cookies.desktop
+msgctxt "Comment(cookies.desktop)"
+msgid "Configure the way cookies work"
+msgstr "配置 cookies 相关设置"
+
+#: /opt/kde3/share/applications/kde/kwinoptions.desktop
+msgctxt "Comment(kwinoptions.desktop)"
+msgid "Configure the window behavior"
+msgstr "配置窗口行为"
+
+#: /opt/kde3/share/applications/kde/cache.desktop
+msgctxt "Comment(cache.desktop)"
+msgid "Configure web cache settings"
+msgstr "配置网页缓存设置"
+
+#: /opt/kde3/share/applications/kde/kcmlirc.desktop
+msgctxt "Comment(kcmlirc.desktop)"
+msgid "Configure your remote controls for use with applications"
+msgstr "配置您的远程控制以供应用程序使用"
+
+#: /usr/share/applications/kde4/ksquares.desktop
+msgctxt "GenericName(ksquares.desktop)"
+msgid "Connect the dots to create squares"
+msgstr "通过点连接创建方形"
+
+#: /opt/kde3/share/applications/kde/netpref.desktop
+msgctxt "Name(netpref.desktop)"
+msgid "Connection Preferences"
+msgstr "连接首选项"
+
+#: /usr/share/applications/kde4/kaddressbook.desktop
+msgctxt "GenericName(kaddressbook.desktop)"
+msgid "Contact Manager"
+msgstr "联系人管理器"
+
+#: /opt/kde3/share/applications/kde/cookies.desktop
+msgctxt "Name(cookies.desktop)"
+msgid "Cookies"
+msgstr "Cookies"
+
+#: /usr/share/applications/kde4/ktimer.desktop
+msgctxt "GenericName(ktimer.desktop)"
+msgid "Countdown Launcher"
+msgstr "倒计时执行器"
+
+#: /opt/kde3/share/applications/kde/language.desktop
+msgctxt "Name(language.desktop)"
+msgid "Country/Region & Language"
+msgstr "国家/地区和语言"
+
+#: /usr/share/applications/kde4/photolayoutseditor.desktop
+msgctxt "Comment(photolayoutseditor.desktop)"
+msgid "Create beautiful and professional photo layouts from your photos"
+msgstr "从您的照片创建漂亮专业的照片布局"
+
+#: /usr/share/applications/kde4/karbon.desktop
+msgctxt "Comment(karbon.desktop)"
+msgid "Create scalable vector drawings"
+msgstr "创建可缩放矢量绘图"
+
+#: /opt/kde3/share/applications/kde/crypto.desktop
+msgctxt "Name(crypto.desktop)"
+msgid "Crypto"
+msgstr "加密"
+
+#: /opt/kde3/share/applications/kde/icons.desktop
+msgctxt "Comment(icons.desktop)"
+msgid "Customize KDE Icons"
+msgstr "定制 KDE 图标"
+
+#: /opt/kde3/share/applications/kde/kdbus.desktop
+msgctxt "GenericName(kdbus.desktop)"
+msgid "D-BUS Service Monitor"
+msgstr "D-BUS 设备监视器"
+
+#: /opt/kde3/share/applications/kde/dma.desktop
+msgctxt "Comment(dma.desktop)"
+msgid "DMA information"
+msgstr "DMA 信息"
+
+#: /opt/kde3/share/applications/kde/dma.desktop
+msgctxt "Name(dma.desktop)"
+msgid "DMA-Channels"
+msgstr "DMA 通道"
+
+#: /usr/share/applications/kde4/dngconverter.desktop
+msgctxt "GenericName(dngconverter.desktop)"
+msgid "DNG Image Converter"
+msgstr "DNG 图像转换器"
+
+#: /usr/share/applications/kde4/dngconverter.desktop
+msgctxt "Name(dngconverter.desktop)"
+msgid "DNGConverter"
+msgstr "DNG 转换器"
+
+#: /opt/kde3/share/applications/kde/kdvi.desktop
+msgctxt "GenericName(kdvi.desktop)"
+msgid "DVI Viewer"
+msgstr "DVI 查看器"
+
+#: /usr/share/applications/kde4/kexi.desktop
+msgctxt "GenericName(kexi.desktop)"
+msgid "Database Creator"
+msgstr "数据库创建器"
+
+#: /opt/kde3/share/applications/kde/clock.desktop
+msgctxt "Name(clock.desktop)"
+msgid "Date & Time"
+msgstr "日期和时间"
+
+#: /opt/kde3/share/applications/kde/clock.desktop
+msgctxt "Comment(clock.desktop)"
+msgid "Date and time settings"
+msgstr "日期和时间设置"
+
+#: /usr/share/applications/kde4/kdbg.desktop
+msgctxt "Comment(kdbg.desktop)"
+msgid "Debug programs"
+msgstr "调试程序"
+
+#: /usr/share/applications/kde4/kdbg.desktop
+msgctxt "GenericName(kdbg.desktop)"
+msgid "Debugger"
+msgstr "调试程序"
+
+#: /usr/share/applications/kde4/marble.desktop
+msgctxt "GenericName(marble.desktop)"
+msgid "Desktop Globe"
+msgstr "桌面地球仪"
+
+#: /opt/kde3/share/applications/kde/kpager.desktop
+msgctxt "GenericName(kpager.desktop)"
+msgid "Desktop Pager"
+msgstr "桌面分页器"
+
+#: /usr/share/applications/kde4/kstars.desktop
+msgctxt "Comment(kstars.desktop)"
+msgid "Desktop Planetarium"
+msgstr "桌面天文馆"
+
+#: /usr/share/applications/kde4/kstars.desktop
+msgctxt "GenericName(kstars.desktop)"
+msgid "Desktop Planetarium"
+msgstr "桌面天文馆"
+
+#: /opt/kde3/share/applications/kde/kpersonalizer.desktop
+msgctxt "Name(kpersonalizer.desktop)"
+msgid "Desktop Settings Wizard"
+msgstr "桌面设置向导"
+
+#: /usr/share/applications/kde4/krfb.desktop
+msgctxt "GenericName(krfb.desktop)"
+msgid "Desktop Sharing"
+msgstr "桌面共享"
+
+#: /opt/kde3/share/applications/kde/kcmkrfb.desktop
+msgctxt "Name(kcmkrfb.desktop)"
+msgid "Desktop Sharing"
+msgstr "桌面共享"
+
+#: /usr/share/applications/kde4/superkaramba.desktop
+msgctxt "GenericName(superkaramba.desktop)"
+msgid "Desktop Widgets"
+msgstr "桌面部件"
+
+#: /usr/share/applications/kde4/kexi.desktop
+msgctxt "Comment(kexi.desktop)"
+msgid "Develop desktop database applications"
+msgstr "开发桌面数据库应用程序"
+
+#: /opt/kde3/share/applications/kde/devices.desktop
+msgctxt "Name(devices.desktop)"
+msgid "Devices"
+msgstr "设备"
+
+#: /opt/kde3/share/applications/kde/kdict.desktop
+msgctxt "Name(kdict.desktop)"
+msgid "Dictionary"
+msgstr "字典"
+
+#: /usr/share/applications/kde4/kdiff3.desktop
+msgctxt "GenericName(kdiff3.desktop)"
+msgid "Diff/Patch Frontend"
+msgstr "Diff/Patch 前端"
+
+#: /usr/share/applications/kde4/kompare.desktop
+msgctxt "GenericName(kompare.desktop)"
+msgid "Diff/Patch Frontend"
+msgstr "Diff/Patch 前端"
+
+#: /opt/kde3/share/applications/kde/kamera.desktop
+msgctxt "Name(kamera.desktop)"
+msgid "Digital Camera"
+msgstr "数码相机"
+
+#: /opt/kde3/share/applications/kde/kdirstat.desktop
+msgctxt "GenericName(kdirstat.desktop)"
+msgid "Directory Statistics"
+msgstr "目录统计信息"
+
+#: /opt/kde3/share/applications/kde/kdirstat.desktop
+msgctxt "Comment(kdirstat.desktop)"
+msgid "Directory statistics and disk usage"
+msgstr "目录统计数字和磁盘使用情况"
+
+#: /usr/share/applications/kde4/k3b.desktop
+msgctxt "GenericName(k3b.desktop)"
+msgid "Disk Burning"
+msgstr "磁盘刻录"
+
+#: /usr/share/applications/kde4/filelight.desktop
+msgctxt "GenericName(filelight.desktop)"
+msgid "Disk Usage Statistics"
+msgstr "磁盘使用统计"
+
+#: /usr/share/applications/kde4/k3b.desktop
+msgctxt "Comment(k3b.desktop)"
+msgid "Disk writing program"
+msgstr "CD 刻录程序"
+
+#: /opt/kde3/share/applications/kde/display.desktop
+msgctxt "Name(display.desktop)"
+msgid "Display"
+msgstr "显示"
+
+#: /opt/kde3/share/applications/kde/display.desktop
+msgctxt "Comment(display.desktop)"
+msgid "Display Settings"
+msgstr "显示设置"
+
+#: /usr/share/applications/kde4/quassel.desktop
+msgctxt "Comment(quassel.desktop)"
+msgid "Distributed IRC client with central core component"
+msgstr "带有中央核心组件的分布式 IRC 客户端"
+
+#: /usr/share/applications/kde4/quasselclient.desktop
+msgctxt "Comment(quasselclient.desktop)"
+msgid "Distributed IRC client with central core component"
+msgstr "带有中央核心组件的分布式 IRC 客户端"
+
+#: /usr/share/applications/kde4/okularApplication_mobi.desktop
+msgctxt "GenericName(okularApplication_mobi.desktop)"
+msgid "Document Viewer"
+msgstr "文档查看器"
+
+#: /usr/share/applications/kde4/okularApplication_odp.desktop
+msgctxt "GenericName(okularApplication_odp.desktop)"
+msgid "Document Viewer"
+msgstr "文档查看器"
+
+#: /usr/share/applications/kde4/dolphin.desktop
+msgctxt "Name(dolphin.desktop)"
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: /usr/share/applications/kde4/kget.desktop
+msgctxt "GenericName(kget.desktop)"
+msgid "Download Manager"
+msgstr "下载管理器"
+
+#: /usr/share/applications/kde4/dragonplayer.desktop
+msgctxt "Name(dragonplayer.desktop)"
+msgid "Dragon Player"
+msgstr "巨龙播放器"
+
+#: /usr/share/applications/kde4/yakuake.desktop
+msgctxt "GenericName(yakuake.desktop)"
+msgid "Drop-down Terminal"
+msgstr "下拉式终端"
+
+#: /opt/kde3/share/applications/kde/kmdr-editor.desktop
+msgctxt "Comment(kmdr-editor.desktop)"
+msgid "Dynamic Dialog Editor"
+msgstr "动态对话框编辑器"
+
+#: /opt/kde3/share/applications/kde/kmdr-editor.desktop
+msgctxt "GenericName(kmdr-editor.desktop)"
+msgid "Dynamic Dialog Editor"
+msgstr "动态对话框编辑器"
+
+#: /usr/share/applications/kde4/kapman.desktop
+msgctxt "Comment(kapman.desktop)"
+msgid "Eat pills escaping ghosts"
+msgstr "逃脱精灵吃豆子"
+
+#: /usr/share/applications/kde4/krita.desktop
+msgctxt "Comment(krita.desktop)"
+msgid "Edit and paint images"
+msgstr "编辑和绘制图像"
+
+#: /usr/share/applications/kde4/kturtle.desktop
+msgctxt "GenericName(kturtle.desktop)"
+msgid "Educational Programming Environment"
+msgstr "教育编程环境"
+
+#: /opt/kde3/share/applications/kde/kbiff.desktop
+msgctxt "GenericName(kbiff.desktop)"
+msgid "Email Monitor"
+msgstr "电子邮件监视器"
+
+#: /opt/kde3/share/applications/kde/embedjs.desktop
+msgctxt "Name(embedjs.desktop)"
+msgid "EmbedJS"
+msgstr "嵌入 JS"
+
+#: /opt/kde3/share/applications/kde/fileshare.desktop
+msgctxt "Comment(fileshare.desktop)"
+msgid "Enable or disable file sharing"
+msgstr "启用或禁用文件共享"
+
+#: /usr/share/applications/kde4/kgpg.desktop
+msgctxt "GenericName(kgpg.desktop)"
+msgid "Encryption Tool"
+msgstr "加密工具"
+
+#: /opt/kde3/share/applnk/Applications/ksimus-execute.desktop
+msgctxt "Name(ksimus-execute.desktop)"
+msgid "Execute with KSimus"
+msgstr "使用 KSimus 执行"
+
+#: /opt/kde3/share/applications/kde/kmdr-executor.desktop
+msgctxt "Comment(kmdr-executor.desktop)"
+msgid "Executor for Kommander dialogs"
+msgstr "Kommander 对话框执行器"
+
+#: /usr/share/applications/kde4/kbruch.desktop
+msgctxt "GenericName(kbruch.desktop)"
+msgid "Exercise Fractions"
+msgstr "分数练习"
+
+#: /opt/kde3/share/applications/kde/kpercentage.desktop
+msgctxt "GenericName(kpercentage.desktop)"
+msgid "Exercise Percentages"
+msgstr "练习百分数"
+
+#: /usr/share/applications/kde4/kig.desktop
+msgctxt "Comment(kig.desktop)"
+msgid "Explore Geometric Constructions"
+msgstr "探索几何构造"
+
+#: /usr/share/applications/kde4/expoblending.desktop
+msgctxt "Name(expoblending.desktop)"
+msgid "ExpoBlending"
+msgstr "曝光混合"
+
+#: /usr/share/applications/kde4/expoblending.desktop
+msgctxt "GenericName(expoblending.desktop)"
+msgid "Exposure Blending"
+msgstr "曝光混合"
+
+#: /opt/kde3/share/applications/kde/basket.desktop
+msgctxt "GenericName(basket.desktop)"
+msgid "Extended Clipboard"
+msgstr "扩展剪贴板"
+
+#: /usr/share/applications/kde4/kblocks.desktop
+msgctxt "GenericName(kblocks.desktop)"
+msgid "Falling Blocks Game"
+msgstr "俄罗斯方块游戏"
+
+#: /opt/kde3/share/applications/kde/kdeprintfax.desktop
+msgctxt "GenericName(kdeprintfax.desktop)"
+msgid "Fax Utility"
+msgstr "传真工具"
+
+#: /opt/kde3/share/applications/kde/kfax.desktop
+msgctxt "GenericName(kfax.desktop)"
+msgid "Fax Viewer"
+msgstr "传真查看器"
+
+#: /opt/kde3/share/applications/kde/kfaxview.desktop
+msgctxt "GenericName(kfaxview.desktop)"
+msgid "Fax Viewer"
+msgstr "传真查看器"
+
+#: /usr/share/applications/kde4/akregator.desktop
+msgctxt "GenericName(akregator.desktop)"
+msgid "Feed Reader"
+msgstr "RSS 种子阅读器"
+
+#: /opt/kde3/share/applications/kde/filetypes.desktop
+msgctxt "Name(filetypes.desktop)"
+msgid "File Associations"
+msgstr "文件关联"
+
+#: /usr/share/applications/kde4/dolphin.desktop
+msgctxt "GenericName(dolphin.desktop)"
+msgid "File Manager"
+msgstr "文件管理器"
+
+#: /opt/kde3/share/applications/kde/konqfilemgr.desktop
+msgctxt "GenericName(konqfilemgr.desktop)"
+msgid "File Manager"
+msgstr "文件管理器"
+
+#: /usr/share/applications/kde4/krusader.desktop
+msgctxt "GenericName(krusader.desktop)"
+msgid "File Manager"
+msgstr "文件管理器"
+
+#: /usr/share/applications/kde4/krusader_root-mode.desktop
+msgctxt "GenericName(krusader_root-mode.desktop)"
+msgid "File Manager"
+msgstr "文件管理器"
+
+#: /opt/kde3/share/applications/kde/filebrowser.desktop
+msgctxt "Name(filebrowser.desktop)"
+msgid "File Manager"
+msgstr "文件管理器"
+
+#: /usr/share/applications/kde4/konqfilemgr_rpm.desktop
+msgctxt "Name(konqfilemgr_rpm.desktop)"
+msgid "File Manager"
+msgstr "文件管理器"
+
+#: /usr/share/applications/kde4/dolphinsu.desktop
+msgctxt "Name(dolphinsu.desktop)"
+msgid "File Manager - Super User Mode"
+msgstr "文件管理器 - 超级用户模式"
+
+#: /usr/share/applications/kde4/konquerorsu.desktop
+msgctxt "Name(konquerorsu.desktop)"
+msgid "File Manager - Super User Mode"
+msgstr "文件管理器 - 超级用户模式"
+
+#: /opt/kde3/share/applications/kde/fileshare.desktop
+msgctxt "Name(fileshare.desktop)"
+msgid "File Sharing"
+msgstr "文件共享"
+
+#: /usr/share/applications/kde4/filelight.desktop
+msgctxt "Name(filelight.desktop)"
+msgid "Filelight"
+msgstr "Filelight"
+
+#: /opt/kde3/share/applications/kde/Kfind.desktop
+msgctxt "Name(Kfind.desktop)"
+msgid "Find Files/Folders"
+msgstr "查找文件/文件夹"
+
+#: /usr/share/applications/kde4/kfind.desktop
+msgctxt "Name(kfind.desktop)"
+msgid "Find Files/Folders"
+msgstr "查找文件/文件夹"
+
+#: /usr/share/applications/kde4/bovo.desktop
+msgctxt "GenericName(bovo.desktop)"
+msgid "Five-in-a-row Board Game"
+msgstr "五子棋游戏"
+
+#: /usr/share/applications/kde4/kwordquiz.desktop
+msgctxt "GenericName(kwordquiz.desktop)"
+msgid "Flash Card Trainer"
+msgstr "卡片式训练程序"
+
+#: /usr/share/applications/kde4/KFloppy.desktop
+msgctxt "GenericName(KFloppy.desktop)"
+msgid "Floppy Formatter"
+msgstr "软盘格式化程序"
+
+#: /usr/share/applications/kde4/flow.desktop
+msgctxt "GenericName(flow.desktop)"
+msgid "Flowchart & Diagram Editing"
+msgstr "流程图和图表编辑"
+
+#: /opt/kde3/share/applications/kde/kcmfontinst.desktop
+msgctxt "Name(kcmfontinst.desktop)"
+msgid "Font Installer"
+msgstr "字体安装程序"
+
+#: /usr/share/applications/kde4/kfontview.desktop
+msgctxt "GenericName(kfontview.desktop)"
+msgid "Font Viewer"
+msgstr "字体查看器"
+
+#: /opt/kde3/share/applications/kde/fonts.desktop
+msgctxt "Comment(fonts.desktop)"
+msgid "Font settings"
+msgstr "字体设置"
+
+#: /opt/kde3/share/applications/kde/fonts.desktop
+msgctxt "Name(fonts.desktop)"
+msgid "Fonts"
+msgstr "字体"
+
+#: /opt/kde3/share/applications/kde/khtml_fonts.desktop
+msgctxt "Name(khtml_fonts.desktop)"
+msgid "Fonts"
+msgstr "字体"
+
+#: /opt/kde3/share/applnk/Settings/LookNFeel/panel.desktop
+msgctxt "Name(panel.desktop)"
+msgid "Foo"
+msgstr "Foo"
+
+#: /opt/kde3/share/applications/kde/panel_appearance.desktop
+msgctxt "Name(panel_appearance.desktop)"
+msgid "Foo"
+msgstr "Foo"
+
+#: /usr/share/applications/kde4/kfourinline.desktop
+msgctxt "GenericName(kfourinline.desktop)"
+msgid "Four-in-a-row Board Game"
+msgstr "四子连珠游戏"
+
+#: /opt/kde3/share/applications/kde/kaudiocreator.desktop
+msgctxt "Comment(kaudiocreator.desktop)"
+msgid "Frontend for audio file creation"
+msgstr "音频文件创建前端"
+
+#: /usr/share/applications/kde4/kmplot.desktop
+msgctxt "Comment(kmplot.desktop)"
+msgid "Function Plotter"
+msgstr "函数绘图程序"
+
+#: /usr/share/applications/kde4/kvpnc.desktop
+msgctxt "Comment(kvpnc.desktop)"
+msgid "GUI for various VPN clients"
+msgstr "多种 VPN 客户端的 GUI"
+
+#: /usr/share/applications/kde4/konquest.desktop
+msgctxt "GenericName(konquest.desktop)"
+msgid "Galactic Strategy Game"
+msgstr "星际策略游戏"
+
+#: /opt/kde3/share/applications/kde/atlantikdesigner.desktop
+msgctxt "Comment(atlantikdesigner.desktop)"
+msgid "Game board designer for Atlantik"
+msgstr "Atlantik 的游戏盘设计器"
+
+#: /opt/kde3/share/applications/kde/ktuberling.desktop
+msgctxt "GenericName(ktuberling.desktop)"
+msgid "Game for Children"
+msgstr "孩子们的游戏"
+
+#: /usr/share/applications/kde4/kgeography.desktop
+msgctxt "GenericName(kgeography.desktop)"
+msgid "Geography Trainer"
+msgstr "地理老师"
+
+#: /usr/share/applications/kde4/kigo.desktop
+msgctxt "GenericName(kigo.desktop)"
+msgid "Go Board Game"
+msgstr "围棋游戏"
+
+#: /usr/share/applications/kde4/granatier.desktop
+msgctxt "Name(granatier.desktop)"
+msgid "Granatier"
+msgstr "Granatier"
+
+#: /usr/share/applications/kde4/kalgebra.desktop
+msgctxt "GenericName(kalgebra.desktop)"
+msgid "Graph Calculator"
+msgstr "图形计算器"
+
+#: /usr/share/applications/kde4/rocs.desktop
+msgctxt "Comment(rocs.desktop)"
+msgid "Graph Theory Tool for Professors and Students."
+msgstr "面向授课场合的图论工具。"
+
+#: /usr/share/applications/kde4/gwenview.desktop
+msgctxt "Name(gwenview.desktop)"
+msgid "Gwenview"
+msgstr "Gwenview"
+
+#: /usr/share/applications/kde4/kimagemapeditor.desktop
+msgctxt "GenericName(kimagemapeditor.desktop)"
+msgid "HTML Image Map Editor"
+msgstr "HTML 图像映射编辑器"
+
+#: /usr/share/applications/kde4/khangman.desktop
+msgctxt "GenericName(khangman.desktop)"
+msgid "Hangman Game"
+msgstr "吊颈人游戏"
+
+#: /usr/share/applications/kde4/Help.desktop
+msgctxt "Name(Help.desktop)"
+msgid "Help"
+msgstr "帮助"
+
+#: /usr/share/applications/kde4/okteta.desktop
+msgctxt "GenericName(okteta.desktop)"
+msgid "Hex Editor"
+msgstr "十六进制编辑器"
+
+#: /opt/kde3/share/applications/kde/kcmhistory.desktop
+msgctxt "Name(kcmhistory.desktop)"
+msgid "History Sidebar"
+msgstr "历史侧边栏"
+
+#: /usr/share/applications/kde4/Home.desktop
+msgctxt "Name(Home.desktop)"
+msgid "Home"
+msgstr "主文件夹"
+
+#: /usr/share/applications/kde4/KGoldrunner.desktop
+msgctxt "GenericName(KGoldrunner.desktop)"
+msgid "Hunt Gold, Dodge Enemies and Solve Puzzles"
+msgstr "淘金、避敌，以及解谜"
+
+#: /opt/kde3/share/applications/kde/thinkpad.desktop
+msgctxt "Name(thinkpad.desktop)"
+msgid "IBM Thinkpad Laptop"
+msgstr "IBM ThinkPad 便携电脑"
+
+#: /opt/kde3/share/applications/kde/ioports.desktop
+msgctxt "Name(ioports.desktop)"
+msgid "IO-Ports"
+msgstr "IO 端口"
+
+#: /opt/kde3/share/applications/kde/ioports.desktop
+msgctxt "Comment(ioports.desktop)"
+msgid "IO-port information"
+msgstr "IO 端口信息"
+
+#: /usr/share/applications/kde4/konversation.desktop
+msgctxt "GenericName(konversation.desktop)"
+msgid "IRC Client"
+msgstr "IRC 客户端"
+
+#: /opt/kde3/share/applications/kde/ksirc.desktop
+msgctxt "GenericName(ksirc.desktop)"
+msgid "IRC Client"
+msgstr "IRC 客户端"
+
+#: /usr/share/applications/kde4/quassel.desktop
+msgctxt "GenericName(quassel.desktop)"
+msgid "IRC Client"
+msgstr "IRC 客户端"
+
+#: /usr/share/applications/kde4/quasselclient.desktop
+msgctxt "GenericName(quasselclient.desktop)"
+msgid "IRC Client"
+msgstr "IRC 客户端"
+
+#: /opt/kde3/share/applications/kde/irkick.desktop
+msgctxt "Name(irkick.desktop)"
+msgid "IRKick"
+msgstr "IRKick"
+
+#: /usr/share/applications/kde4/icemon.desktop
+msgctxt "GenericName(icemon.desktop)"
+msgid "Icecream Monitor"
+msgstr "Icecream 监视器"
+
+#: /usr/share/applications/kde4/icemon.desktop
+msgctxt "Name(icemon.desktop)"
+msgid "Icemon"
+msgstr "Icemon"
+
+#: /opt/kde3/share/applications/kde/kiconedit.desktop
+msgctxt "GenericName(kiconedit.desktop)"
+msgid "Icon Editor"
+msgstr "图标编辑器"
+
+#: /opt/kde3/share/applications/kde/icons.desktop
+msgctxt "Name(icons.desktop)"
+msgid "Icons"
+msgstr "图标"
+
+#: /usr/share/applications/kde4/skanlite.desktop
+msgctxt "GenericName(skanlite.desktop)"
+msgid "Image Scanning Application"
+msgstr "图像扫描程序"
+
+#: /usr/share/applications/kde4/gwenview.desktop
+msgctxt "GenericName(gwenview.desktop)"
+msgid "Image Viewer"
+msgstr "图像查看程序"
+
+#: /opt/kde3/share/applications/kde/kview.desktop
+msgctxt "GenericName(kview.desktop)"
+msgid "Image Viewer"
+msgstr "图像查看程序"
+
+#: /opt/kde3/share/applications/kde/kcmaccess.desktop
+msgctxt "Comment(kcmaccess.desktop)"
+msgid "Improve accessibility for disabled persons"
+msgstr "方便残疾人使用的辅助功能"
+
+#: /usr/share/applications/kde4/kinfocenter.desktop
+msgctxt "GenericName(kinfocenter.desktop)"
+msgid "Info Center"
+msgstr "信息中心"
+
+#: /opt/kde3/share/applications/kde/ioslaveinfo.desktop
+msgctxt "Comment(ioslaveinfo.desktop)"
+msgid "Information about the available protocols"
+msgstr "可用协议的信息"
+
+#: /opt/kde3/share/applications/kde/khotkeys.desktop
+msgctxt "Name(khotkeys.desktop)"
+msgid "Input Actions"
+msgstr "输入动作"
+
+#: /usr/share/applications/kde4/kimtoy.desktop
+msgctxt "GenericName(kimtoy.desktop)"
+msgid "Input Method Frontend"
+msgstr "输入法前端"
+
+#: /opt/kde3/share/applications/kde/kcmfontinst.desktop
+msgctxt "Comment(kcmfontinst.desktop)"
+msgid "Install & preview fonts"
+msgstr "安装和预览字体"
+
+#: /opt/kde3/share/applications/kde/installktheme.desktop
+msgctxt "Name(installktheme.desktop)"
+msgid "Install KDE Theme"
+msgstr "安装 KDE 主题"
+
+#: /usr/share/applications/kde4/kopete.desktop
+msgctxt "Comment(kopete.desktop)"
+msgid "Instant Messenger"
+msgstr "即时通讯客户程序"
+
+#: /usr/share/applications/kde4/kopete.desktop
+msgctxt "GenericName(kopete.desktop)"
+msgid "Instant Messenger"
+msgstr "即时通讯客户程序"
+
+#: /opt/kde3/share/applications/kde/sim-im.desktop
+#| msgctxt "Comment(kopete.desktop)"
+#| msgid "Instant Messenger"
+msgctxt "GenericName(sim-im.desktop)"
+msgid "Instant Messenger"
+msgstr "即时通讯客户程序"
+
+#: /usr/share/applications/kde4/kdevelop.desktop
+msgctxt "GenericName(kdevelop.desktop)"
+msgid "Integrated Development Environment"
+msgstr "集成开发环境"
+
+#: /usr/share/applications/kde4/kdevelop_ps.desktop
+msgctxt "GenericName(kdevelop_ps.desktop)"
+msgid "Integrated Development Environment (Pick Session to start with)"
+msgstr "集成开发环境（选择要开始的会话）"
+
+#: /usr/share/applications/kde4/kig.desktop
+msgctxt "GenericName(kig.desktop)"
+msgid "Interactive Geometry"
+msgstr "交互几何"
+
+#: /usr/share/applications/kde4/step.desktop
+msgctxt "GenericName(step.desktop)"
+msgid "Interactive Physical Simulator"
+msgstr "交互式物理模拟器"
+
+#: /opt/kde3/share/applnk/.hidden/.directory
+msgctxt "Name(.directory)"
+msgid "Internal Services"
+msgstr "内部服务"
+
+#: /usr/share/applications/kde4/Kppp.desktop
+msgctxt "GenericName(Kppp.desktop)"
+msgid "Internet Dial-Up Tool"
+msgstr "互联网拨号工具"
+
+#: /usr/share/applications/kde4/kppplogview.desktop
+msgctxt "GenericName(kppplogview.desktop)"
+msgid "Internet Dial-Up Tool Log Viewer"
+msgstr "互联网拨号工具日志查看器"
+
+#: /opt/kde3/share/applications/kde/interrupts.desktop
+msgctxt "Comment(interrupts.desktop)"
+msgid "Interrupt information"
+msgstr "中断信息"
+
+#: /opt/kde3/share/applications/kde/interrupts.desktop
+msgctxt "Name(interrupts.desktop)"
+msgid "Interrupts"
+msgstr "中断"
+
+#: /opt/kde3/share/applications/kde/kfouleggs.desktop
+msgctxt "GenericName(kfouleggs.desktop)"
+msgid "Japanese PuyoPuyo-like Game"
+msgstr "日语类魔法气泡游戏"
+
+#: /usr/share/applications/kde4/kiten.desktop
+msgctxt "Comment(kiten.desktop)"
+msgid "Japanese Reference and Study Tool"
+msgstr "日语参考/学习工具"
+
+#: /usr/share/applications/kde4/kiten.desktop
+msgctxt "GenericName(kiten.desktop)"
+msgid "Japanese Reference/Study Tool"
+msgstr "日语参考/学习工具"
+
+#: /opt/kde3/share/applications/kde/khtml_java_js.desktop
+msgctxt "Name(khtml_java_js.desktop)"
+msgid "Java & JavaScript"
+msgstr "Java 和 JavaScript"
+
+#: /opt/kde3/share/applications/kde/kjscmd.desktop
+msgctxt "GenericName(kjscmd.desktop)"
+msgid "JavaScript Console"
+msgstr "JavaScript 终端"
+
+#: /usr/share/applications/kde4/palapeli.desktop
+msgctxt "GenericName(palapeli.desktop)"
+msgid "Jigsaw puzzle game"
+msgstr "拼图游戏"
+
+#: /usr/share/applications/kde4/jovieapp.desktop
+msgctxt "Name(jovieapp.desktop)"
+msgid "Jovie"
+msgstr "Jovie 机器辅助发音"
+
+#: /usr/share/applications/kde4/juk.desktop
+msgctxt "Name(juk.desktop)"
+msgid "JuK"
+msgstr "JuK"
+
+#: /usr/share/applications/kde4/k3b.desktop
+msgctxt "Name(k3b.desktop)"
+msgid "K3b"
+msgstr "K3b 影像刻录"
+
+#: /usr/share/applications/kde4/kaddressbook.desktop
+msgctxt "Name(kaddressbook.desktop)"
+msgid "KAddressBook"
+msgstr "KAddressBook"
+
+#: /usr/share/applications/kde4/kalarm.desktop
+msgctxt "Name(kalarm.desktop)"
+msgid "KAlarm"
+msgstr "KAlarm"
+
+#: /usr/share/applications/kde4/kalgebra.desktop
+msgctxt "Name(kalgebra.desktop)"
+msgid "KAlgebra"
+msgstr "KAlgebra"
+
+#: /usr/share/applications/kde4/kalgebramobile.desktop
+msgctxt "Name(kalgebramobile.desktop)"
+msgid "KAlgebra Mobile"
+msgstr "KAlgebra 移动"
+
+#: /usr/share/applications/kde4/kapptemplate.desktop
+msgctxt "Name(kapptemplate.desktop)"
+msgid "KAppTemplate"
+msgstr "KAppTemplate"
+
+#: /opt/kde3/share/applications/kde/karm.desktop
+msgctxt "Name(karm.desktop)"
+msgid "KArm"
+msgstr "KArm"
+
+#: /opt/kde3/share/applications/kde/kasteroids.desktop
+msgctxt "Name(kasteroids.desktop)"
+msgid "KAsteroids"
+msgstr "KAsteroids"
+
+#: /usr/share/applications/kde4/katomic.desktop
+msgctxt "Name(katomic.desktop)"
+msgid "KAtomic"
+msgstr "KAtomic"
+
+#: /opt/kde3/share/applications/kde/kaudiocreator.desktop
+msgctxt "Name(kaudiocreator.desktop)"
+msgid "KAudioCreator"
+msgstr "KAudioCreator"
+
+#: /opt/kde3/share/applications/kde/kbabel.desktop
+msgctxt "Name(kbabel.desktop)"
+msgid "KBabel"
+msgstr "KBabel"
+
+#: /opt/kde3/share/applications/kde/catalogmanager.desktop
+msgctxt "Name(catalogmanager.desktop)"
+msgid "KBabel Catalog Manager"
+msgstr "KBabel 目录管理器"
+
+#: /opt/kde3/share/applications/kde/kbabeldict.desktop
+msgctxt "Name(kbabeldict.desktop)"
+msgid "KBabel Dictionary"
+msgstr "KBabel 词典"
+
+#: /opt/kde3/share/applications/kde/kbackgammon.desktop
+msgctxt "Name(kbackgammon.desktop)"
+msgid "KBackgammon"
+msgstr "KBackgammon"
+
+#: /opt/kde3/share/applications/kde/kbattleship.desktop
+msgctxt "Name(kbattleship.desktop)"
+msgid "KBattleship"
+msgstr "KBattleship"
+
+#: /opt/kde3/share/applications/kde/kbiff.desktop
+msgctxt "Name(kbiff.desktop)"
+msgid "KBiff"
+msgstr "KBiff"
+
+#: /usr/share/applications/kde4/kblackbox.desktop
+msgctxt "Name(kblackbox.desktop)"
+msgid "KBlackBox"
+msgstr "KBlackBox"
+
+#: /usr/share/applications/kde4/kblocks.desktop
+msgctxt "Name(kblocks.desktop)"
+msgid "KBlocks"
+msgstr "KBlocks"
+
+#: /usr/share/applications/kde4/kbounce.desktop
+msgctxt "Name(kbounce.desktop)"
+msgid "KBounce"
+msgstr "KBounce"
+
+#: /usr/share/applications/kde4/kbreakout.desktop
+msgctxt "Name(kbreakout.desktop)"
+msgid "KBreakOut"
+msgstr "KBreakOut"
+
+#: /usr/share/applications/kde4/kbruch.desktop
+msgctxt "Name(kbruch.desktop)"
+msgid "KBruch"
+msgstr "KBruch"
+
+#: /opt/kde3/share/applications/kde/kbugbuster.desktop
+msgctxt "Name(kbugbuster.desktop)"
+msgid "KBugBuster"
+msgstr "KBugBuster"
+
+#: /usr/share/applications/kde4/kcachegrind.desktop
+msgctxt "Name(kcachegrind.desktop)"
+msgid "KCachegrind"
+msgstr "KCachegrind"
+
+#: /usr/share/applications/kde4/kcalc.desktop
+msgctxt "Name(kcalc.desktop)"
+msgid "KCalc"
+msgstr "KCalc"
+
+#: /usr/share/applications/kde4/KCharSelect.desktop
+msgctxt "Name(KCharSelect.desktop)"
+msgid "KCharSelect"
+msgstr "KCharSelect"
+
+#: /usr/share/applications/kde4/kcolorchooser.desktop
+msgctxt "Name(kcolorchooser.desktop)"
+msgid "KColorChooser"
+msgstr "KColorChooser"
+
+#: /opt/kde3/share/applications/kde/kcoloredit.desktop
+msgctxt "Name(kcoloredit.desktop)"
+msgid "KColorEdit"
+msgstr "KColorEdit"
+
+#: /opt/kde3/share/applications/kde/kdbus.desktop
+msgctxt "Name(kdbus.desktop)"
+msgid "KDBus"
+msgstr "KDBus"
+
+#: /usr/share/applications/kde4/bluedevil-monolithic.desktop
+msgctxt "Comment(bluedevil-monolithic.desktop)"
+msgid "KDE Bluetooth support"
+msgstr "KDE 蓝牙支持"
+
+#: /opt/kde3/share/applications/kde/kbugbuster.desktop
+msgctxt "GenericName(kbugbuster.desktop)"
+msgid "KDE Bug Management"
+msgstr "KDE 除错管理"
+
+#: /opt/kde3/share/applnk/konqueror.desktop
+msgctxt "Comment(konqueror.desktop)"
+msgid "KDE File Manager & Web Browser"
+msgstr "KDE 文件管理器和 Web 浏览器"
+
+#: /usr/share/applications/kde4/cantor.desktop
+msgctxt "GenericName(cantor.desktop)"
+msgid "KDE Frontend to Mathematical Software"
+msgstr "数学软件的 KDE 前端"
+
+#: /opt/kde3/share/applications/kde/groupwarewizard.desktop
+msgctxt "Name(groupwarewizard.desktop)"
+msgid "KDE Groupware Wizard"
+msgstr "KDE 群件向导"
+
+#: /usr/share/applications/kde4/khangman.desktop
+msgctxt "Comment(khangman.desktop)"
+msgid "KDE Hangman Game"
+msgstr "KDE 吊颈人游戏"
+
+#: /usr/share/applications/kde4/kipiplugins.desktop
+msgctxt "Comment(kipiplugins.desktop)"
+msgid "KDE Image Plugins Interface"
+msgstr "KDE 图像插件接口"
+
+#: /opt/kde3/share/applications/kde/irkick.desktop
+msgctxt "GenericName(irkick.desktop)"
+msgid "KDE LIRC Server"
+msgstr "KDE LIRC 服务器"
+
+#: /usr/share/applications/kde4/kanagram.desktop
+msgctxt "Comment(kanagram.desktop)"
+msgid "KDE Letter Order Game"
+msgstr "字母顺序游戏"
+
+#: /opt/kde3/share/applications/kde/irkick.desktop
+msgctxt "Comment(irkick.desktop)"
+msgid "KDE Linux infrared remote control server."
+msgstr "KDE Linux 红外远程控制服务器。"
+
+#: /opt/kde3/share/applications/kde/kcmperformance.desktop
+msgctxt "Name(kcmperformance.desktop)"
+msgid "KDE Performance"
+msgstr "KDE 性能"
+
+#: /usr/share/applications/kde4/kalzium.desktop
+msgctxt "Comment(kalzium.desktop)"
+msgid "KDE Periodic Table of Elements"
+msgstr "KDE 元素周期表"
+
+#: /usr/share/applications/kde4/kradio4.desktop
+msgctxt "GenericName(kradio4.desktop)"
+msgid "KDE Radio Tuner"
+msgstr "KDE 电台调频"
+
+#: /opt/kde3/share/applications/kde/kresources.desktop
+msgctxt "Name(kresources.desktop)"
+msgid "KDE Resources"
+msgstr "KDE 资源"
+
+#: /usr/share/applications/kde4/kdesystemsettings.desktop
+msgctxt "GenericName(kdesystemsettings.desktop)"
+msgid "KDE System Settings"
+msgstr "KDE 系统设置"
+
+#: /usr/share/applications/kde4/kdesystemsettings.desktop
+msgctxt "Name(kdesystemsettings.desktop)"
+msgid "KDE System Settings"
+msgstr "KDE 系统设置"
+
+#: /usr/share/applications/kde4/kapptemplate.desktop
+msgctxt "GenericName(kapptemplate.desktop)"
+msgid "KDE Template Generator"
+msgstr "KDE 模板生成器"
+
+#: /opt/kde3/share/applications/kde/keduca.desktop
+msgctxt "Comment(keduca.desktop)"
+msgid "KDE Tests & Exams Program"
+msgstr "KDE 测验和考试程序"
+
+#: /usr/share/applications/kde4/jovieapp.desktop
+msgctxt "Comment(jovieapp.desktop)"
+msgid "KDE Text To Speech Service"
+msgstr "KDE 文本到语音服务"
+
+#: /opt/kde3/share/applications/kde/kttsmgr.desktop
+msgctxt "Comment(kttsmgr.desktop)"
+msgid "KDE Text-to-speech Manager"
+msgstr "KDE 文本到语音管理器"
+
+#: /opt/kde3/share/applications/kde/kwalletconfig.desktop
+msgctxt "Name(kwalletconfig.desktop)"
+msgid "KDE Wallet"
+msgstr "KDE 钱包"
+
+#: /opt/kde3/share/applications/kde/kwalletconfig.desktop
+msgctxt "Comment(kwalletconfig.desktop)"
+msgid "KDE Wallet Configuration"
+msgstr "KDE 钱包配置"
+
+#: /usr/share/xsessions/kde-compiz.desktop
+msgctxt "Name(kde-compiz.desktop)"
+msgid "KDE-Compiz"
+msgstr "KDE-Compiz"
+
+#: /usr/share/xsessions/kde.desktop
+msgctxt "Name(kde.desktop)"
+msgid "KDE3"
+msgstr "KDE3"
+
+#: /opt/kde3/share/applications/kde/kdvi.desktop
+msgctxt "Name(kdvi.desktop)"
+msgid "KDVI"
+msgstr "KDVI"
+
+#: /usr/share/applications/kde4/kdbg.desktop
+msgctxt "Name(kdbg.desktop)"
+msgid "KDbg"
+msgstr "KDbg"
+
+#: /usr/share/applications/kde4/kdevelop.desktop
+msgctxt "Name(kdevelop.desktop)"
+msgid "KDevelop 4"
+msgstr "KDevelop 4"
+
+#: /usr/share/applications/kde4/kdevelop_ps.desktop
+msgctxt "Name(kdevelop_ps.desktop)"
+msgid "KDevelop 4 (Pick Session)"
+msgstr "KDevelop 4 （选择会话）"
+
+#: /usr/share/applications/kde4/kdiamond.desktop
+msgctxt "Name(kdiamond.desktop)"
+msgid "KDiamond"
+msgstr "KDiamond"
+
+#: /usr/share/applications/kde4/kdiff3.desktop
+msgctxt "Name(kdiff3.desktop)"
+msgid "KDiff3"
+msgstr "KDiff3"
+
+#: /opt/kde3/share/applications/kde/kdirstat.desktop
+msgctxt "Name(kdirstat.desktop)"
+msgid "KDirStat"
+msgstr "KDirStat"
+
+#: /usr/share/applications/kde4/kdf.desktop
+msgctxt "Name(kdf.desktop)"
+msgid "KDiskFree"
+msgstr "KDiskFree"
+
+#: /opt/kde3/share/applications/kde/KEdit.desktop
+msgctxt "Name(KEdit.desktop)"
+msgid "KEdit"
+msgstr "KEdit"
+
+#: /opt/kde3/share/applications/kde/keduca.desktop
+msgctxt "Name(keduca.desktop)"
+msgid "KEduca"
+msgstr "KEduca"
+
+#: /opt/kde3/share/applications/kde/keducabuilder.desktop
+msgctxt "Name(keducabuilder.desktop)"
+msgid "KEduca-Editor"
+msgstr "KEduca 编辑器"
+
+#: /opt/kde3/share/applications/kde/kfax.desktop
+msgctxt "Name(kfax.desktop)"
+msgid "KFax"
+msgstr "KFax 传真机"
+
+#: /opt/kde3/share/applications/kde/kfaxview.desktop
+msgctxt "Name(kfaxview.desktop)"
+msgid "KFaxView"
+msgstr "KFaxView 传真机"
+
+#: /usr/share/applications/kde4/kfilereplace.desktop
+msgctxt "Name(kfilereplace.desktop)"
+msgid "KFileReplace"
+msgstr "KFileReplace"
+
+#: /usr/share/applications/kde4/KFloppy.desktop
+msgctxt "Name(KFloppy.desktop)"
+msgid "KFloppy"
+msgstr "KFloppy 软盘"
+
+#: /usr/share/applications/kde4/kfontview.desktop
+msgctxt "Name(kfontview.desktop)"
+msgid "KFontView"
+msgstr "KFontView 字体查看"
+
+#: /opt/kde3/share/applications/kde/kfouleggs.desktop
+msgctxt "Name(kfouleggs.desktop)"
+msgid "KFoulEggs"
+msgstr "KFoulEggs"
+
+#: /usr/share/applications/kde4/kfourinline.desktop
+msgctxt "Name(kfourinline.desktop)"
+msgid "KFourInLine"
+msgstr "KFourInLine"
+
+#: /usr/share/applications/kde4/kgeography.desktop
+msgctxt "Name(kgeography.desktop)"
+msgid "KGeography"
+msgstr "KGeography 地理"
+
+#: /usr/share/applications/kde4/kget.desktop
+msgctxt "Name(kget.desktop)"
+msgid "KGet"
+msgstr "KGet 下载"
+
+#: /opt/kde3/share/applications/kde/kghostview.desktop
+msgctxt "Name(kghostview.desktop)"
+msgid "KGhostView"
+msgstr "KGhostView"
+
+#: /usr/share/applications/kde4/KGoldrunner.desktop
+msgctxt "Name(KGoldrunner.desktop)"
+msgid "KGoldrunner"
+msgstr "KGoldrunner"
+
+#: /usr/share/applications/kde4/kgpg.desktop
+msgctxt "Name(kgpg.desktop)"
+msgid "KGpg"
+msgstr "KGpg 金钥管理"
+
+#: /usr/share/applications/kde4/khangman.desktop
+msgctxt "Name(khangman.desktop)"
+msgid "KHangMan"
+msgstr "KHangMan"
+
+#: /opt/kde3/share/applications/kde/khexedit.desktop
+msgctxt "Name(khexedit.desktop)"
+msgid "KHexEdit"
+msgstr "KHexEdit"
+
+#: /usr/share/applications/kde4/kimtoy.desktop
+msgctxt "Name(kimtoy.desktop)"
+msgid "KIMToy"
+msgstr "KIMToy"
+
+#: /usr/share/applications/kde4/kipiplugins.desktop
+msgctxt "Name(kipiplugins.desktop)"
+msgid "KIPI Plugins"
+msgstr "KIPI 插件"
+
+#: /opt/kde3/share/applications/kde/kiconedit.desktop
+msgctxt "Name(kiconedit.desktop)"
+msgid "KIconEdit"
+msgstr "KIconEdit"
+
+#: /usr/share/applications/kde4/kimagemapeditor.desktop
+msgctxt "Name(kimagemapeditor.desktop)"
+msgid "KImageMapEditor"
+msgstr "KImageMapEditor"
+
+#: /usr/share/applications/kde4/kinfocenter.desktop
+msgctxt "Name(kinfocenter.desktop)"
+msgid "KInfoCenter"
+msgstr "KInfoCenter"
+
+#: /opt/kde3/share/applications/kde/kjobviewer.desktop
+msgctxt "Name(kjobviewer.desktop)"
+msgid "KJobViewer"
+msgstr "打印查看器"
+
+#: /usr/share/applications/kde4/Kjots.desktop
+msgctxt "Name(Kjots.desktop)"
+msgid "KJots"
+msgstr "KJots"
+
+#: /usr/share/applications/kde4/kjumpingcube.desktop
+msgctxt "Name(kjumpingcube.desktop)"
+msgid "KJumpingCube"
+msgstr "KJumpingCube"
+
+#: /opt/kde3/share/applications/kde/klatin.desktop
+msgctxt "Name(klatin.desktop)"
+msgid "KLatin"
+msgstr "KLatin"
+
+#: /usr/share/applications/kde4/klettres.desktop
+msgctxt "Name(klettres.desktop)"
+msgid "KLettres"
+msgstr "KLettres"
+
+#: /usr/share/applications/kde4/klinkstatus.desktop
+msgctxt "Name(klinkstatus.desktop)"
+msgid "KLinkStatus"
+msgstr "KLinkStatus"
+
+#: /usr/share/applications/kde4/kmag.desktop
+msgctxt "Name(kmag.desktop)"
+msgid "KMag"
+msgstr "KMag"
+
+#: /usr/share/applications/kde4/kmahjongg.desktop
+msgctxt "Name(kmahjongg.desktop)"
+msgid "KMahjongg"
+msgstr "KMahjongg"
+
+#: /opt/kde3/share/applications/kde/KMail.desktop
+msgctxt "Name(KMail.desktop)"
+msgid "KMail"
+msgstr "KMail 邮件"
+
+#: /usr/share/applications/kde4/KMail2.desktop
+msgctxt "Name(KMail2.desktop)"
+msgid "KMail"
+msgstr "KMail 邮件"
+
+#: /opt/kde3/share/applications/kde/kmail_view.desktop
+msgctxt "Name(kmail_view.desktop)"
+msgid "KMail"
+msgstr "KMail 邮件"
+
+#: /usr/share/applications/kde4/kmail_view.desktop
+msgctxt "Name(kmail_view.desktop)"
+msgid "KMail view"
+msgstr "KMail 视图"
+
+#: /usr/share/applications/kde4/kmailservice.desktop
+msgctxt "Name(kmailservice.desktop)"
+msgid "KMailService"
+msgstr "KMailService"
+
+#: /opt/kde3/share/applications/kde/kmid.desktop
+msgctxt "Name(kmid.desktop)"
+msgid "KMid"
+msgstr "KMid"
+
+#: /usr/share/applications/kde4/kmines.desktop
+msgctxt "Name(kmines.desktop)"
+msgid "KMines"
+msgstr "K 扫雷"
+
+#: /usr/share/applications/kde4/kmix.desktop
+msgctxt "Name(kmix.desktop)"
+msgid "KMix"
+msgstr "KMix 音量工具"
+
+#: /usr/share/applications/kde4/kmousetool.desktop
+msgctxt "Name(kmousetool.desktop)"
+msgid "KMouseTool"
+msgstr "K 鼠标工具"
+
+#: /usr/share/applications/kde4/kmouth.desktop
+msgctxt "Name(kmouth.desktop)"
+msgid "KMouth"
+msgstr "K 语音精灵"
+
+#: /usr/share/applications/kde4/kmymoney.desktop
+msgctxt "Name(kmymoney.desktop)"
+msgid "KMyMoney"
+msgstr "KMyMoney"
+
+#: /usr/share/applications/kde4/knemo.desktop
+msgctxt "Name(knemo.desktop)"
+msgid "KNemo"
+msgstr "KNemo"
+
+#: /usr/share/applications/kde4/knetattach.desktop
+msgctxt "Name(knetattach.desktop)"
+msgid "KNetAttach"
+msgstr "KNetAttach"
+
+#: /usr/share/applications/kde4/knetwalk.desktop
+msgctxt "Name(knetwalk.desktop)"
+msgid "KNetWalk"
+msgstr "kNetwalk"
+
+#: /opt/kde3/share/applications/kde/knewsticker-standalone.desktop
+msgctxt "Name(knewsticker-standalone.desktop)"
+msgid "KNewsTicker"
+msgstr "KNewsTicker"
+
+#: /usr/share/applications/kde4/KNode.desktop
+msgctxt "Name(KNode.desktop)"
+msgid "KNode"
+msgstr "KNode"
+
+#: /usr/share/applications/kde4/knotes.desktop
+msgctxt "Name(knotes.desktop)"
+msgid "KNotes"
+msgstr "KNotes"
+
+#: /usr/share/applications/kde4/korganizer-import.desktop
+msgctxt "Name(korganizer-import.desktop)"
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+#: /usr/share/applications/kde4/korganizer.desktop
+msgctxt "Name(korganizer.desktop)"
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+#: /opt/kde3/share/applications/kde/kpdf.desktop
+msgctxt "Name(kpdf.desktop)"
+msgid "KPDF"
+msgstr "KPDF"
+
+#: /usr/share/applications/kde4/Kppp.desktop
+msgctxt "Name(Kppp.desktop)"
+msgid "KPPP"
+msgstr "KPPP"
+
+#: /usr/share/applications/kde4/kppplogview.desktop
+msgctxt "Name(kppplogview.desktop)"
+msgid "KPPPLogview"
+msgstr "KPPPLogview"
+
+#: /opt/kde3/share/applications/kde/kpager.desktop
+msgctxt "Name(kpager.desktop)"
+msgid "KPager"
+msgstr "分页器"
+
+#: /opt/kde3/share/applications/kde/kpalmdoc.desktop
+msgctxt "Name(kpalmdoc.desktop)"
+msgid "KPalmDOC"
+msgstr "KPalmDOC"
+
+#: /usr/share/applications/kde4/kpat.desktop
+msgctxt "Name(kpat.desktop)"
+msgid "KPatience"
+msgstr "KPatience"
+
+#: /opt/kde3/share/applications/kde/kpercentage.desktop
+msgctxt "Name(kpercentage.desktop)"
+msgid "KPercentage"
+msgstr "KPercentage"
+
+#: /opt/kde3/share/applications/kde/kpilot.desktop
+msgctxt "Name(kpilot.desktop)"
+msgid "KPilot"
+msgstr "KPilot"
+
+#: /opt/kde3/share/applications/kde/kpilotdaemon.desktop
+msgctxt "Name(kpilotdaemon.desktop)"
+msgid "KPilotDaemon"
+msgstr "KPilotDaemon"
+
+#: /opt/kde3/share/applications/kde/kpoker.desktop
+msgctxt "Name(kpoker.desktop)"
+msgid "KPoker"
+msgstr "KPoker"
+
+#: /opt/kde3/share/applications/kde/kpovmodeler.desktop
+msgctxt "Name(kpovmodeler.desktop)"
+msgid "KPovModeler"
+msgstr "KPovModeler"
+
+#: /usr/share/applications/kde4/krdc.desktop
+msgctxt "Name(krdc.desktop)"
+msgid "KRDC"
+msgstr "KRDC"
+
+#: /usr/share/applications/kde4/krandrtray.desktop
+msgctxt "Name(krandrtray.desktop)"
+msgid "KRandRTray"
+msgstr "KRandRTray"
+
+#: /opt/kde3/share/applications/kde/krec.desktop
+msgctxt "Name(krec.desktop)"
+msgid "KRec"
+msgstr "KRec"
+
+#: /opt/kde3/share/applications/kde/krecord.desktop
+msgctxt "Name(krecord.desktop)"
+msgid "KRecord"
+msgstr "KRecord"
+
+#: /opt/kde3/share/applications/kde/krecord.desktop
+msgctxt "Comment(krecord.desktop)"
+msgid "KRecord - a Sound Recorder"
+msgstr "KRecord － 声音记录器"
+
+#: /opt/kde3/share/applications/kde/kregexpeditor.desktop
+msgctxt "Name(kregexpeditor.desktop)"
+msgid "KRegExpEditor"
+msgstr "KRegExpEditor 正则表示式编辑器"
+
+#: /usr/share/applications/kde4/krcdnotifieritem.desktop
+msgctxt "Name(krcdnotifieritem.desktop)"
+msgid "KRemoteControl Notifier Item"
+msgstr "KRemoteControl 通知项"
+
+#: /usr/share/applications/kde4/krename.desktop
+msgctxt "Name(krename.desktop)"
+msgid "KRename"
+msgstr "KRename"
+
+#: /usr/share/applications/kde4/kreversi.desktop
+msgctxt "Name(kreversi.desktop)"
+msgid "KReversi"
+msgstr "KReversi 黑白棋"
+
+#: /usr/share/applications/kde4/kruler.desktop
+msgctxt "Name(kruler.desktop)"
+msgid "KRuler"
+msgstr "KRuler 屏幕标尺"
+
+#: /opt/kde3/share/applications/kde/ksayit.desktop
+msgctxt "Name(ksayit.desktop)"
+msgid "KSayIt"
+msgstr "KSayIt"
+
+#: /opt/kde3/share/applications/kde/ksig.desktop
+msgctxt "Name(ksig.desktop)"
+msgid "KSig"
+msgstr "KSig"
+
+#: /opt/kde3/share/applications/kde/ksimus.desktop
+msgctxt "Name(ksimus.desktop)"
+msgid "KSimus"
+msgstr "KSimus"
+
+#: /opt/kde3/share/applnk/Applications/ksimus-execute.desktop
+msgctxt "Comment(ksimus-execute.desktop)"
+msgid ""
+"KSimus is a tool for simulation, automatization and visualization of "
+"technical processes."
+msgstr "KSimus 是一种用来模拟、自动化和可视化技术处理的工具。"
+
+#: /opt/kde3/share/applications/kde/ksimus.desktop
+msgctxt "Comment(ksimus.desktop)"
+msgid ""
+"KSimus is a tool for simulation, automatization and visualization of "
+"technical processes."
+msgstr "KSimus 是一种用来模拟、自动化和可视化技术处理的工具。"
+
+#: /opt/kde3/share/applications/kde/ksirc.desktop
+msgctxt "Name(ksirc.desktop)"
+msgid "KSirc"
+msgstr "KSirc"
+
+#: /opt/kde3/share/applications/kde/ksirtet.desktop
+msgctxt "Name(ksirtet.desktop)"
+msgid "KSirtet"
+msgstr "KSirtet"
+
+#: /opt/kde3/share/applications/kde/ksmiletris.desktop
+msgctxt "Name(ksmiletris.desktop)"
+msgid "KSmileTris"
+msgstr "KSmiletris"
+
+#: /usr/share/applications/kde4/kdesnake.desktop
+msgctxt "Name(kdesnake.desktop)"
+msgid "KSnake"
+msgstr "KSnake"
+
+#: /usr/share/applications/kde4/ktron.desktop
+msgctxt "Name(ktron.desktop)"
+msgid "KSnakeDuel"
+msgstr "KSnakeDuel"
+
+#: /opt/kde3/share/applications/kde/ksnake.desktop
+msgctxt "Name(ksnake.desktop)"
+msgid "KSnakeRace"
+msgstr "KSnakeRace"
+
+#: /usr/share/applications/kde4/ksnapshot.desktop
+msgctxt "Name(ksnapshot.desktop)"
+msgid "KSnapshot"
+msgstr "KSnapshot 屏幕截图工具"
+
+#: /opt/kde3/share/applications/kde/ksokoban.desktop
+msgctxt "Name(ksokoban.desktop)"
+msgid "KSokoban"
+msgstr "KSokoban"
+
+#: /usr/share/applications/kde4/kspaceduel.desktop
+msgctxt "Name(kspaceduel.desktop)"
+msgid "KSpaceDuel"
+msgstr "KSpaceDuel"
+
+#: /usr/share/applications/kde4/ksquares.desktop
+msgctxt "Name(ksquares.desktop)"
+msgid "KSquares"
+msgstr "KSquares"
+
+#: /usr/share/applications/kde4/kstars.desktop
+msgctxt "Name(kstars.desktop)"
+msgid "KStars"
+msgstr "KStars"
+
+#: /usr/share/applications/kde4/ksudoku.desktop
+msgctxt "Name(ksudoku.desktop)"
+msgid "KSudoku"
+msgstr "KSudoku"
+
+#: /usr/share/applications/kde4/ksudoku.desktop
+msgctxt "Comment(ksudoku.desktop)"
+msgid "KSudoku, Sudoku game & more for KDE"
+msgstr "KSudoku，KDE 下的增强型数独游戏"
+
+#: /opt/kde3/share/applications/kde/ksysguard.desktop
+msgctxt "Name(ksysguard.desktop)"
+msgid "KSysGuard"
+msgstr "系统卫士"
+
+#: /usr/share/applications/kde4/ksystemlog.desktop
+msgctxt "Name(ksystemlog.desktop)"
+msgid "KSystemLog"
+msgstr "KSystemLog"
+
+#: /usr/share/applications/kde4/kteatime.desktop
+msgctxt "Name(kteatime.desktop)"
+msgid "KTeaTime"
+msgstr "KTeaTime"
+
+#: /usr/share/applications/kde4/ktelnetservice.desktop
+msgctxt "Name(ktelnetservice.desktop)"
+msgid "KTelnetService"
+msgstr "KTelnetService"
+
+#: /usr/share/applications/kde4/KThesaurus.desktop
+msgctxt "Name(KThesaurus.desktop)"
+msgid "KThesaurus"
+msgstr "KThesaurus 词典"
+
+#: /usr/share/applications/kde4/ktimetracker.desktop
+msgctxt "Name(ktimetracker.desktop)"
+msgid "KTimeTracker"
+msgstr "KTimeTracker 时间跟踪器"
+
+#: /usr/share/applications/kde4/ktimer.desktop
+msgctxt "Name(ktimer.desktop)"
+msgid "KTimer"
+msgstr "KTimer 定时器"
+
+#: /opt/kde3/share/applications/kde/ktip.desktop
+msgctxt "Name(ktip.desktop)"
+msgid "KTip"
+msgstr "KDE 提示"
+
+#: /opt/kde3/share/applications/kde/ktnef.desktop
+msgctxt "Name(ktnef.desktop)"
+msgid "KTnef"
+msgstr "KTnef"
+
+#: /usr/share/applications/kde4/ktorrent.desktop
+msgctxt "Name(ktorrent.desktop)"
+msgid "KTorrent"
+msgstr "KTorrent BT 下载工具"
+
+#: /usr/share/applications/kde4/ktouch.desktop
+msgctxt "Name(ktouch.desktop)"
+msgid "KTouch"
+msgstr "KTouch"
+
+#: /opt/kde3/share/applications/kde/ktron.desktop
+msgctxt "Name(ktron.desktop)"
+msgid "KTron"
+msgstr "KTron"
+
+#: /usr/share/applications/kde4/kturtle.desktop
+msgctxt "Name(kturtle.desktop)"
+msgid "KTurtle"
+msgstr "KTurtle"
+
+#: /usr/share/applications/kde4/kuiviewer.desktop
+msgctxt "Name(kuiviewer.desktop)"
+msgid "KUIViewer"
+msgstr "KUIViewer"
+
+#: /usr/share/applications/kde4/kuser.desktop
+msgctxt "Name(kuser.desktop)"
+msgid "KUser"
+msgstr "KUser"
+
+#: /opt/kde3/share/applications/kde/kview.desktop
+msgctxt "Name(kview.desktop)"
+msgid "KView"
+msgstr "KView"
+
+#: /opt/kde3/share/applications/kde/kvoctrain.desktop
+msgctxt "Name(kvoctrain.desktop)"
+msgid "KVocTrain"
+msgstr "KVocTrain"
+
+#: /usr/share/applications/kde4/kvpnc.desktop
+msgctxt "Name(kvpnc.desktop)"
+msgid "KVpnc"
+msgstr "KVpnc VPN 连接工具"
+
+#: /usr/share/applications/kde4/kwalletmanager.desktop
+msgctxt "Name(kwalletmanager.desktop)"
+msgid "KWalletManager"
+msgstr "KWalletManager"
+
+#: /opt/kde3/share/applications/kde/kwifimanager.desktop
+msgctxt "Name(kwifimanager.desktop)"
+msgid "KWiFiManager"
+msgstr "KWiFiManager 无线网管理器"
+
+#: /opt/kde3/share/applications/kde/kwin4.desktop
+msgctxt "Name(kwin4.desktop)"
+msgid "KWin4"
+msgstr "KWin4 窗口管理器"
+
+#: /usr/share/applications/kde4/kwordquiz.desktop
+msgctxt "Name(kwordquiz.desktop)"
+msgid "KWordQuiz"
+msgstr "KWordQuiz"
+
+#: /opt/kde3/share/applications/kde/kworldclock.desktop
+msgctxt "Name(kworldclock.desktop)"
+msgid "KWorldClock"
+msgstr "KWorldClock 世界时钟"
+
+#: /usr/share/applications/kde4/kwrite.desktop
+msgctxt "Name(kwrite.desktop)"
+msgid "KWrite"
+msgstr "KWrite 文本编辑器"
+
+#: /opt/kde3/share/applications/kde/kxsldbg.desktop
+msgctxt "Name(kxsldbg.desktop)"
+msgid "KXSLDbg"
+msgstr "KXSLDbg"
+
+#: /opt/kde3/share/applications/kde/kaboodle.desktop
+msgctxt "Name(kaboodle.desktop)"
+msgid "Kaboodle"
+msgstr "Kaboodle"
+
+#: /usr/share/applications/kde4/kaffeine.desktop
+msgctxt "Name(kaffeine.desktop)"
+msgid "Kaffeine"
+msgstr "Kaffeine 视频播放器"
+
+#: /usr/share/applications/kde4/kajongg.desktop
+msgctxt "Name(kajongg.desktop)"
+msgid "Kajongg"
+msgstr "Kajongg"
+
+#: /usr/share/applications/kde4/kalzium.desktop
+msgctxt "Name(kalzium.desktop)"
+msgid "Kalzium"
+msgstr "Kalzium"
+
+#: /usr/share/applications/kde4/kanagram.desktop
+msgctxt "Name(kanagram.desktop)"
+msgid "Kanagram"
+msgstr "Kanagram"
+
+#: /opt/kde3/share/applications/kde/kandy.desktop
+msgctxt "Name(kandy.desktop)"
+msgid "Kandy"
+msgstr "Kandy"
+
+#: /usr/share/applications/kde4/kapman.desktop
+msgctxt "Name(kapman.desktop)"
+msgid "Kapman"
+msgstr "Kapman"
+
+#: /usr/share/applications/kde4/karbon.desktop
+msgctxt "Name(karbon.desktop)"
+msgid "Karbon"
+msgstr "Karbon"
+
+#: /usr/share/applications/kde4/kate.desktop
+msgctxt "Name(kate.desktop)"
+msgid "Kate"
+msgstr "Kate 高级文本编辑器"
+
+#: /usr/share/applications/kde4/kchmviewer.desktop
+msgctxt "Name(kchmviewer.desktop)"
+msgid "KchmViewer"
+msgstr "KchmViewer"
+
+#: /usr/share/applications/kde4/kdenlive.desktop
+msgctxt "Name(kdenlive.desktop)"
+msgid "Kdenlive"
+msgstr "Kdenlive 视频工作环境"
+
+#: /opt/kde3/share/applications/kde/kdeprintfax.desktop
+msgctxt "Name(kdeprintfax.desktop)"
+msgid "KdeprintFax"
+msgstr "KdeprintFax"
+
+#: /opt/kde3/share/applications/kde/kenolaba.desktop
+msgctxt "Name(kenolaba.desktop)"
+msgid "Kenolaba"
+msgstr "Kenolaba"
+
+#: /usr/share/applications/kde4/kepas.desktop
+msgctxt "Name(kepas.desktop)"
+msgid "Kepas"
+msgstr "Kepas"
+
+#: /usr/share/applications/kde4/kepas.desktop
+msgctxt "Comment(kepas.desktop)"
+msgid "Kepas - KDE Easy Publish and Share"
+msgstr "Kepas - KDE 轻松发布共享"
+
+#: /usr/share/applications/kde4/kepas.desktop
+msgctxt "GenericName(kepas.desktop)"
+msgid "Kepas - KDE Easy Publish and Share"
+msgstr "Kepas - KDE 轻松发布和分享"
+
+#: /usr/share/applications/kde4/kexi.desktop
+msgctxt "Name(kexi.desktop)"
+msgid "Kexi"
+msgstr "Kexi"
+
+#: /opt/kde3/share/applications/kde/keyboard.desktop
+msgctxt "Name(keyboard.desktop)"
+msgid "Keyboard"
+msgstr "键盘"
+
+#: /opt/kde3/share/applications/kde/keyboard_layout.desktop
+msgctxt "Comment(keyboard_layout.desktop)"
+msgid "Keyboard Layout"
+msgstr "键盘布局"
+
+#: /opt/kde3/share/applications/kde/keyboard_layout.desktop
+msgctxt "Name(keyboard_layout.desktop)"
+msgid "Keyboard Layout"
+msgstr "键盘布局"
+
+#: /opt/kde3/share/applications/kde/keys.desktop
+msgctxt "Name(keys.desktop)"
+msgid "Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+#: /opt/kde3/share/applications/kde/keyboard.desktop
+msgctxt "Comment(keyboard.desktop)"
+msgid "Keyboard settings"
+msgstr "键盘设置"
+
+#: /usr/share/applications/kde4/kig.desktop
+msgctxt "Name(kig.desktop)"
+msgid "Kig"
+msgstr "Kig"
+
+#: /usr/share/applications/kde4/kigo.desktop
+msgctxt "Name(kigo.desktop)"
+msgid "Kigo"
+msgstr "Kigo"
+
+#: /usr/share/applications/kde4/killbots.desktop
+msgctxt "Name(killbots.desktop)"
+msgid "Killbots"
+msgstr "Killbots"
+
+#: /usr/share/applications/kde4/kiosktool.desktop
+msgctxt "Name(kiosktool.desktop)"
+msgid "Kiosk Admin Tool"
+msgstr "Kiosk 管理工具"
+
+#: /usr/share/applications/kde4/kiriki.desktop
+msgctxt "Name(kiriki.desktop)"
+msgid "Kiriki"
+msgstr "Kiriki"
+
+#: /opt/kde3/share/applications/kde/kitchensync.desktop
+msgctxt "Name(kitchensync.desktop)"
+msgid "KitchenSync"
+msgstr "KitchenSync 诺基亚手机同步"
+
+#: /usr/share/applications/kde4/kiten.desktop
+msgctxt "Name(kiten.desktop)"
+msgid "Kiten"
+msgstr "Kiten"
+
+#: /usr/share/applications/kde4/kleopatra.desktop
+msgctxt "Name(kleopatra.desktop)"
+msgid "Kleopatra"
+msgstr "Kleopatra 金钥管理器"
+
+#: /usr/share/applications/kde4/kleopatra_import.desktop
+msgctxt "Name(kleopatra_import.desktop)"
+msgid "Kleopatra"
+msgstr "Kleopatra 金钥管理器"
+
+#: /usr/share/applications/kde4/klickety.desktop
+msgctxt "Name(klickety.desktop)"
+msgid "Klickety"
+msgstr "Klickety"
+
+#: /usr/share/applications/kde4/klipper.desktop
+msgctxt "Name(klipper.desktop)"
+msgid "Klipper"
+msgstr "Klipper 剪贴板管理器"
+
+#: /usr/share/applications/kde4/kmplot.desktop
+msgctxt "Name(kmplot.desktop)"
+msgid "KmPlot"
+msgstr "KmPlot"
+
+#: /opt/kde3/share/applications/kde/kodo.desktop
+msgctxt "Name(kodo.desktop)"
+msgid "Kodo"
+msgstr "Kodo"
+
+#: /usr/share/applications/kde4/kolf.desktop
+msgctxt "Name(kolf.desktop)"
+msgid "Kolf"
+msgstr "Kolf"
+
+#: /usr/share/applications/kde4/kollision.desktop
+msgctxt "Name(kollision.desktop)"
+msgid "Kollision"
+msgstr "Kollision"
+
+#: /usr/share/applications/kde4/klines.desktop
+msgctxt "Name(klines.desktop)"
+msgid "Kolor Lines"
+msgstr "Kolor Lines"
+
+#: /usr/share/applications/kde4/kolourpaint.desktop
+msgctxt "Name(kolourpaint.desktop)"
+msgid "KolourPaint"
+msgstr "KolourPaint 画图"
+
+#: /opt/kde3/share/applications/kde/kmdr-editor.desktop
+msgctxt "Name(kmdr-editor.desktop)"
+msgid "Kommander Editor"
+msgstr "Kommander 编辑器"
+
+#: /opt/kde3/share/applications/kde/kmdr-executor.desktop
+msgctxt "Name(kmdr-executor.desktop)"
+msgid "Kommander Executor"
+msgstr "Kommander 执行器"
+
+#: /usr/share/applications/kde4/kompare.desktop
+msgctxt "Name(kompare.desktop)"
+msgid "Kompare"
+msgstr "Kompare 补丁对比"
+
+#: /usr/share/applications/kde4/kfmclient.desktop
+msgctxt "Name(kfmclient.desktop)"
+msgid "Konqueror"
+msgstr "Konqueror 网页浏览器"
+
+#: /usr/share/applications/kde4/kfmclient_dir.desktop
+msgctxt "Name(kfmclient_dir.desktop)"
+msgid "Konqueror"
+msgstr "Konqueror 网页浏览器"
+
+#: /usr/share/applications/kde4/kfmclient_html.desktop
+msgctxt "Name(kfmclient_html.desktop)"
+msgid "Konqueror"
+msgstr "Konqueror 网页浏览器"
+
+#: /usr/share/applications/kde4/kfmclient_war.desktop
+msgctxt "Name(kfmclient_war.desktop)"
+msgid "Konqueror"
+msgstr "Konqueror 网页浏览器"
+
+#: /usr/share/applications/kde4/konqbrowser.desktop
+msgctxt "Name(konqbrowser.desktop)"
+msgid "Konqueror"
+msgstr "Konqueror 网页浏览器"
+
+#: /opt/kde3/share/applications/kde/konqfilemgr.desktop
+msgctxt "Name(konqfilemgr.desktop)"
+msgid "Konqueror"
+msgstr "Konqueror 网页浏览器"
+
+#: /opt/kde3/share/applnk/konqueror.desktop
+msgctxt "Name(konqueror.desktop)"
+msgid "Konqueror"
+msgstr "Konqueror 网页浏览器"
+
+#: /usr/share/applications/kde4/konquest.desktop
+msgctxt "Name(konquest.desktop)"
+msgid "Konquest"
+msgstr "Konquest"
+
+#: /usr/share/applications/kde4/konsole.desktop
+msgctxt "Name(konsole.desktop)"
+msgid "Konsole"
+msgstr "Konsole 终端"
+
+#: /usr/share/applications/kde4/konsolekalendar.desktop
+msgctxt "Name(konsolekalendar.desktop)"
+msgid "KonsoleKalendar"
+msgstr "KonsoleKalendar"
+
+#: /usr/share/applications/kde4/Kontact.desktop
+msgctxt "Name(Kontact.desktop)"
+msgid "Kontact"
+msgstr "Kontact 个人信息管理"
+
+#: /opt/kde3/share/applications/kde/kontactdcop.desktop
+msgctxt "Name(kontactdcop.desktop)"
+msgid "Kontact"
+msgstr "Kontact 个人信息管理"
+
+#: /usr/share/applications/kde4/kontact-admin.desktop
+msgctxt "Name(kontact-admin.desktop)"
+msgid "Kontact Administration"
+msgstr "Kontact 管理"
+
+#: /usr/share/applications/kde4/konversation.desktop
+msgctxt "Name(konversation.desktop)"
+msgid "Konversation"
+msgstr "Konversation IRC 客户端"
+
+#: /opt/kde3/share/applications/kde/kooka.desktop
+msgctxt "Name(kooka.desktop)"
+msgid "Kooka"
+msgstr "Kooka"
+
+#: /usr/share/applications/kde4/kopete.desktop
+msgctxt "Name(kopete.desktop)"
+msgid "Kopete"
+msgstr "Kopete 即时消息"
+
+#: /opt/kde3/share/applications/kde/KOrn.desktop
+msgctxt "Name(KOrn.desktop)"
+msgid "Korn"
+msgstr "Korn"
+
+#: /opt/kde3/share/applications/kde/krdc.desktop
+msgctxt "Name(krdc.desktop)"
+msgid "Krdc"
+msgstr "Krdc"
+
+#: /usr/share/applications/kde4/krfb.desktop
+msgctxt "Name(krfb.desktop)"
+msgid "Krfb"
+msgstr "Krfb"
+
+#: /usr/share/applications/kde4/krita.desktop
+msgctxt "Name(krita.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_bmp.desktop
+msgctxt "Name(krita_bmp.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_exr.desktop
+msgctxt "Name(krita_exr.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_jp2.desktop
+msgctxt "Name(krita_jp2.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_jpeg.desktop
+msgctxt "Name(krita_jpeg.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_odg.desktop
+msgctxt "Name(krita_odg.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_ora.desktop
+msgctxt "Name(krita_ora.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_pdf.desktop
+msgctxt "Name(krita_pdf.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_png.desktop
+msgctxt "Name(krita_png.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_ppm.desktop
+msgctxt "Name(krita_ppm.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_psd.desktop
+msgctxt "Name(krita_psd.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_raw.desktop
+msgctxt "Name(krita_raw.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_tiff.desktop
+msgctxt "Name(krita_tiff.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krita_xcf.desktop
+msgctxt "Name(krita_xcf.desktop)"
+msgid "Krita"
+msgstr "Krita 绘图"
+
+#: /usr/share/applications/kde4/krusader.desktop
+msgctxt "Name(krusader.desktop)"
+msgid "Krusader"
+msgstr "Krusader"
+
+#: /usr/share/applications/kde4/krusader_root-mode.desktop
+msgctxt "Name(krusader_root-mode.desktop)"
+msgid "Krusader - root-mode"
+msgstr "Krusader － 根方式"
+
+#: /usr/share/applications/kde4/kscd.desktop
+msgctxt "Name(kscd.desktop)"
+msgid "KsCD"
+msgstr "KsCD CD 播放器和提取器"
+
+#: /usr/share/applications/kde4/ksirk.desktop
+msgctxt "Name(ksirk.desktop)"
+msgid "KsirK"
+msgstr "KsirK"
+
+#: /usr/share/applications/kde4/ksirkskineditor.desktop
+msgctxt "Name(ksirkskineditor.desktop)"
+msgid "KsirK Skin Editor"
+msgstr "KsirK 皮肤编辑器"
+
+#: /usr/share/applications/kde4/kubrick.desktop
+msgctxt "Name(kubrick.desktop)"
+msgid "Kubrick"
+msgstr "Kubrick"
+
+#: /opt/kde3/share/applications/kde/kverbos.desktop
+msgctxt "Name(kverbos.desktop)"
+msgid "Kverbos"
+msgstr "Kverbos"
+
+#: /usr/share/applications/kde4/kvkbd.desktop
+msgctxt "Name(kvkbd.desktop)"
+msgid "Kvkbd"
+msgstr "Kvkbd 虚拟键盘"
+
+#: /usr/share/applications/kde4/kwikdisk.desktop
+msgctxt "Name(kwikdisk.desktop)"
+msgid "KwikDisk"
+msgstr "KwikDisk"
+
+#: /usr/share/applications/kde4/lskat.desktop
+msgctxt "Name(lskat.desktop)"
+msgid "LSkat"
+msgstr "LSkat"
+
+#: /opt/kde3/share/applications/kde/language.desktop
+msgctxt "Comment(language.desktop)"
+msgid "Language, numeric, and time settings for your particular region"
+msgstr "您所在地区的语言、数字和时间设置"
+
+#: /opt/kde3/share/applnk/Edutainment/Languages/.directory
+msgctxt "Name(.directory)"
+msgid "Languages"
+msgstr "语言"
+
+#: /opt/kde3/share/applications/kde/klatin.desktop
+msgctxt "GenericName(klatin.desktop)"
+msgid "Latin Reviser"
+msgstr "拉丁语复习工具"
+
+#: /opt/kde3/share/applications/kde/kcmlaunch.desktop
+msgctxt "Name(kcmlaunch.desktop)"
+msgid "Launch Feedback"
+msgstr "启动反馈"
+
+#: /usr/share/applications/kde4/accountwizard.desktop
+msgctxt "Comment(accountwizard.desktop)"
+msgid "Launch the account wizard to configure PIM accounts."
+msgstr "调用账户向导配置个人信息账户。"
+
+#: /opt/kde3/share/applications/kde/klettres.desktop
+msgctxt "GenericName(klettres.desktop)"
+msgid "Learn Alphabet"
+msgstr "学习字母"
+
+#: /usr/share/applications/kde4/klettres.desktop
+msgctxt "GenericName(klettres.desktop)"
+msgid "Learn The Alphabet"
+msgstr "学习字母"
+
+#: /usr/share/applications/kde4/kanagram.desktop
+msgctxt "GenericName(kanagram.desktop)"
+msgid "Letter Order Game"
+msgstr "字母顺序游戏"
+
+#: /opt/kde3/share/applications/kde/lskat.desktop
+msgctxt "Name(lskat.desktop)"
+msgid "Lieutenant Skat"
+msgstr "Lieutenant Skat"
+
+#: /usr/share/applications/kde4/klinkstatus.desktop
+msgctxt "GenericName(klinkstatus.desktop)"
+msgid "Link Checker"
+msgstr "链接检查器"
+
+#: /opt/kde3/share/applications/kde/lanbrowser.desktop
+msgctxt "Name(lanbrowser.desktop)"
+msgid "Local Network Browsing"
+msgstr "局域网浏览"
+
+#: /opt/kde3/share/applications/kde/kdm.desktop
+msgctxt "Name(kdm.desktop)"
+msgid "Login Manager"
+msgstr "登录管理器"
+
+#: /opt/kde3/share/applications/kde/kturtle.desktop
+msgctxt "GenericName(kturtle.desktop)"
+msgid "Logo Programming Environment"
+msgstr "Logo 编程环境"
+
+#: /usr/share/applications/kde4/lokalize.desktop
+msgctxt "Name(lokalize.desktop)"
+msgid "Lokalize"
+msgstr "Lokalize 翻译工具"
+
+#: /usr/share/applications/kde4/kajongg.desktop
+msgctxt "GenericName(kajongg.desktop)"
+msgid "Mah Jongg"
+msgstr "麻将"
+
+#: /usr/share/applications/kde4/kmahjongg.desktop
+msgctxt "GenericName(kmahjongg.desktop)"
+msgid "Mahjongg Solitaire"
+msgstr "麻将纸牌"
+
+#: /opt/kde3/share/applications/kde/kmahjongg.desktop
+msgctxt "GenericName(kmahjongg.desktop)"
+msgid "Mahjongg-like Tile Game"
+msgstr "对对碰"
+
+#: /opt/kde3/share/applications/kde/KOrn.desktop
+msgctxt "GenericName(KOrn.desktop)"
+msgid "Mail Alert"
+msgstr "邮件警告"
+
+#: /opt/kde3/share/applications/kde/KMail.desktop
+msgctxt "GenericName(KMail.desktop)"
+msgid "Mail Client"
+msgstr "邮件客户程序"
+
+#: /usr/share/applications/kde4/KMail2.desktop
+msgctxt "GenericName(KMail2.desktop)"
+msgid "Mail Client"
+msgstr "邮件客户程序"
+
+#: /opt/kde3/share/applications/kde/kbiff.desktop
+msgctxt "Comment(kbiff.desktop)"
+msgid "Mail notification utility"
+msgstr "邮件通知实用程序"
+
+#: /usr/share/applications/kde4/rsibreak.desktop
+msgctxt "Comment(rsibreak.desktop)"
+msgid "Makes sure you rest now and then"
+msgstr "请确保从现在开始您会休息一下"
+
+#: /opt/kde3/share/applications/kde/kthememanager.desktop
+msgctxt "Comment(kthememanager.desktop)"
+msgid "Manage global KDE visual themes"
+msgstr "管理全局 KDE 视觉主题"
+
+#: /usr/share/applications/kde4/digikam.desktop
+msgctxt "Comment(digikam.desktop)"
+msgid ""
+"Manage your photographs like a professional with the power of open source"
+msgstr "专业照片管理 彰显开源力量"
+
+#: /usr/share/applications/kde4/showfoto.desktop
+msgctxt "Comment(showfoto.desktop)"
+msgid ""
+"Manage your photographs like a professional with the power of open source"
+msgstr "专业照片管理 彰显开源力量"
+
+#: /opt/kde3/share/applications/kde/ksplashthememgr.desktop
+msgctxt "Comment(ksplashthememgr.desktop)"
+msgid "Manager for Splash Screen Themes"
+msgstr "启动动画主题管理器"
+
+#: /usr/share/applications/kde4/marble.desktop
+msgctxt "Name(marble.desktop)"
+msgid "Marble"
+msgstr "Marble 地图"
+
+#: /usr/share/applications/kde4/kalgebra.desktop
+msgctxt "Comment(kalgebra.desktop)"
+msgid "Math Expression Solver and Plotter"
+msgstr "解数学式与绘图的工具"
+
+#: /usr/share/applications/kde4/kmplot.desktop
+msgctxt "GenericName(kmplot.desktop)"
+msgid "Mathematical Function Plotter"
+msgstr "数学函数绘图器"
+
+#: /opt/kde3/share/applnk/Edutainment/Mathematics/.directory
+msgctxt "Name(.directory)"
+msgid "Mathematics"
+msgstr "数学"
+
+#: /opt/kde3/share/applications/kde/kaboodle.desktop
+msgctxt "GenericName(kaboodle.desktop)"
+msgid "Media Player"
+msgstr "媒体播放器"
+
+#: /usr/share/applications/kde4/kaffeine.desktop
+msgctxt "GenericName(kaffeine.desktop)"
+msgid "Media Player"
+msgstr "媒体播放器"
+
+#: /opt/kde3/share/applications/kde/noatun.desktop
+msgctxt "GenericName(noatun.desktop)"
+msgid "Media Player"
+msgstr "媒体播放器"
+
+#: /opt/kde3/share/applications/kde/memory.desktop
+msgctxt "Name(memory.desktop)"
+msgid "Memory"
+msgstr "内存"
+
+#: /usr/share/applications/kde4/blinken.desktop
+msgctxt "GenericName(blinken.desktop)"
+msgid "Memory Enhancement Game"
+msgstr "记忆强化游戏"
+
+#: /opt/kde3/share/applications/kde/memory.desktop
+msgctxt "Comment(memory.desktop)"
+msgid "Memory information"
+msgstr "内存信息"
+
+#: /usr/share/applications/kde4/kmenuedit.desktop
+msgctxt "Name(kmenuedit.desktop)"
+msgid "Menu Editor"
+msgstr "菜单编辑器"
+
+#: /usr/share/applications/kde4/choqok.desktop
+msgctxt "GenericName(choqok.desktop)"
+msgid "Micro-blogging Client"
+msgstr "微博客户端"
+
+#: /opt/kde3/share/applications/kde/kmid.desktop
+msgctxt "GenericName(kmid.desktop)"
+msgid "Midi/Karaoke Player"
+msgstr "Midi/卡拉 OK 播放器"
+
+#: /usr/share/applications/kde4/kmines.desktop
+msgctxt "GenericName(kmines.desktop)"
+msgid "Minesweeper-like Game"
+msgstr "扫雷游戏"
+
+#: /usr/share/applications/kde4/kolf.desktop
+msgctxt "GenericName(kolf.desktop)"
+msgid "Miniature Golf"
+msgstr "微型高尔夫"
+
+#: /opt/kde3/share/applnk/Edutainment/Miscellaneous/.directory
+msgctxt "Name(.directory)"
+msgid "Miscellaneous"
+msgstr "杂项"
+
+#: /opt/kde3/share/applications/kde/kandy.desktop
+msgctxt "GenericName(kandy.desktop)"
+msgid "Mobile Phone Tool"
+msgstr "移动电话工具"
+
+#: /opt/kde3/share/applications/kde/kcm_knemo.desktop
+msgctxt "Comment(kcm_knemo.desktop)"
+msgid "Monitor network interfaces"
+msgstr "监视网络接口"
+
+#: /opt/kde3/share/applications/kde/atlantikdesigner.desktop
+msgctxt "GenericName(atlantikdesigner.desktop)"
+msgid "Monopoly®-like Board Designer"
+msgstr "类似 Monopoly(R) 的棋盘设计器"
+
+#: /opt/kde3/share/applications/kde/atlantik.desktop
+msgctxt "GenericName(atlantik.desktop)"
+msgid "Monopoly®-like Board Games"
+msgstr "类似 Monopoly® 的棋类游戏"
+
+#: /opt/kde3/share/applications/kde/mouse.desktop
+msgctxt "Name(mouse.desktop)"
+msgid "Mouse"
+msgstr "鼠标"
+
+#: /opt/kde3/share/applications/kde/kodo.desktop
+msgctxt "GenericName(kodo.desktop)"
+msgid "Mouse Odometer"
+msgstr "鼠标里程计"
+
+#: /opt/kde3/share/applications/kde/mouse.desktop
+msgctxt "Comment(mouse.desktop)"
+msgid "Mouse settings"
+msgstr "鼠标设置"
+
+#: /opt/kde3/share/applications/kde/desktop.desktop
+msgctxt "Name(desktop.desktop)"
+msgid "Multiple Desktops"
+msgstr "多个桌面"
+
+#: /usr/share/applications/kde4/juk.desktop
+msgctxt "GenericName(juk.desktop)"
+msgid "Music Player"
+msgstr "音乐播放器"
+
+#: /usr/share/applications/kde4/kbattleship.desktop
+msgctxt "Name(kbattleship.desktop)"
+msgid "Naval Battle"
+msgstr "Naval 战争"
+
+#: /usr/share/applications/kde4/nepomukbackup.desktop
+msgctxt "Name(nepomukbackup.desktop)"
+msgid "Nepomuk Backup"
+msgstr "Nepomuk 备份"
+
+#: /usr/share/applications/kde4/nepomukcontroller.desktop
+msgctxt "Name(nepomukcontroller.desktop)"
+msgid "Nepomuk File Indexing Controller"
+msgstr "Nepomuk 文件索引控制器"
+
+#: /usr/share/applications/kde4/knetwalk.desktop
+msgctxt "GenericName(knetwalk.desktop)"
+msgid "Network Construction Game"
+msgstr "网络建设游戏"
+
+#: /usr/share/applications/kde4/knetattach.desktop
+msgctxt "GenericName(knetattach.desktop)"
+msgid "Network Folder Wizard"
+msgstr "网络文件夹向导"
+
+#: /opt/kde3/share/applications/kde/nic.desktop
+msgctxt "Name(nic.desktop)"
+msgid "Network Interfaces"
+msgstr "网络接口"
+
+#: /usr/share/applications/kde4/knemo.desktop
+msgctxt "GenericName(knemo.desktop)"
+msgid "Network Monitor"
+msgstr "网络监视器"
+
+#: /opt/kde3/share/applications/kde/kcm_knemo.desktop
+msgctxt "Name(kcm_knemo.desktop)"
+msgid "Network Monitor"
+msgstr "网络监视器"
+
+#: /opt/kde3/share/applications/kde/ksimus.desktop
+msgctxt "GenericName(ksimus.desktop)"
+msgid "Network Simulator"
+msgstr "网络模拟程序"
+
+#: /opt/kde3/share/applications/kde/nic.desktop
+msgctxt "Comment(nic.desktop)"
+msgid "Network interface information"
+msgstr "网络接口信息"
+
+#: /usr/share/applications/kde4/KNode.desktop
+msgctxt "GenericName(KNode.desktop)"
+msgid "News Reader"
+msgstr "新闻组阅读器"
+
+#: /opt/kde3/share/applications/kde/knewsticker-standalone.desktop
+msgctxt "GenericName(knewsticker-standalone.desktop)"
+msgid "News Ticker"
+msgstr "新闻播报器"
+
+#: /opt/kde3/share/applications/kde/noatun.desktop
+msgctxt "Name(noatun.desktop)"
+msgid "Noatun"
+msgstr "Noatun"
+
+#: /usr/share/applications/kde4/kdenlive.desktop
+msgctxt "Comment(kdenlive.desktop)"
+msgid "Nonlinear video editor for KDE"
+msgstr "KDE 的非线性视频编辑器"
+
+#: /usr/share/applications/kde4/Kjots.desktop
+msgctxt "GenericName(Kjots.desktop)"
+msgid "Note Taker"
+msgstr "个人笔记"
+
+#: /usr/share/applications/kde4/braindump.desktop
+msgctxt "GenericName(braindump.desktop)"
+msgid "Notes and idea gathering."
+msgstr "笔记和备忘"
+
+#: /usr/share/applications/kde4/okteta.desktop
+msgctxt "Name(okteta.desktop)"
+msgid "Okteta"
+msgstr "Okteta"
+
+#: /usr/share/applications/kde4/okularApplication_mobi.desktop
+msgctxt "Name(okularApplication_mobi.desktop)"
+msgid "Okular"
+msgstr "Okular 图片查看"
+
+#: /usr/share/applications/kde4/amor.desktop
+msgctxt "GenericName(amor.desktop)"
+msgid "On-Screen Creature"
+msgstr "屏幕生物"
+
+#: /opt/kde3/share/applications/kde/kdict.desktop
+msgctxt "GenericName(kdict.desktop)"
+msgid "Online Dictionary"
+msgstr "在线字典"
+
+#: /opt/kde3/share/applications/kde/opengl.desktop
+msgctxt "Name(opengl.desktop)"
+msgid "OpenGL"
+msgstr "OpenGL"
+
+#: /opt/kde3/share/applications/kde/opengl.desktop
+msgctxt "Comment(opengl.desktop)"
+msgid "OpenGL information"
+msgstr "OpenGL 信息"
+
+#: /opt/kde3/share/applications/kde/pci.desktop
+msgctxt "Name(pci.desktop)"
+msgid "PCI"
+msgstr "PCI"
+
+#: /opt/kde3/share/applications/kde/pci.desktop
+msgctxt "Comment(pci.desktop)"
+msgid "PCI information"
+msgstr "PCI 信息"
+
+#: /opt/kde3/share/applications/kde/kpdf.desktop
+msgctxt "GenericName(kpdf.desktop)"
+msgid "PDF Viewer"
+msgstr "PDF 查看器"
+
+#: /opt/kde3/share/applications/kde/kghostview.desktop
+msgctxt "GenericName(kghostview.desktop)"
+msgid "PS/PDF Viewer"
+msgstr "PS/PDF 查看器"
+
+#: /usr/share/applications/kde4/kapman.desktop
+msgctxt "GenericName(kapman.desktop)"
+msgid "Pac-Man Clone"
+msgstr "吃豆人克隆"
+
+#: /usr/share/applications/kde4/kolourpaint.desktop
+msgctxt "GenericName(kolourpaint.desktop)"
+msgid "Paint Program"
+msgstr "绘图程序"
+
+#: /usr/share/applications/kde4/krita.desktop
+msgctxt "GenericName(krita.desktop)"
+msgid "Painting and Image Editing"
+msgstr "绘图和图像编辑"
+
+#: /usr/share/applications/kde4/palapeli.desktop
+msgctxt "Name(palapeli.desktop)"
+msgid "Palapeli"
+msgstr "Palapeli"
+
+#: /opt/kde3/share/applications/kde/kpalmdoc.desktop
+msgctxt "GenericName(kpalmdoc.desktop)"
+msgid "PalmDOC Converter"
+msgstr "PalmDOC 转换器"
+
+#: /opt/kde3/share/applications/kde/kpilot.desktop
+msgctxt "GenericName(kpilot.desktop)"
+msgid "PalmPilot Tool"
+msgstr "PalmPilot 工具"
+
+#: /opt/kde3/share/applications/kde/panel.desktop
+msgctxt "Name(panel.desktop)"
+msgid "Panels"
+msgstr "面板"
+
+#: /usr/share/applications/kde4/panoramagui.desktop
+msgctxt "GenericName(panoramagui.desktop)"
+msgid "Panorama"
+msgstr "Panorama 全景"
+
+#: /usr/share/applications/kde4/panoramagui.desktop
+msgctxt "Name(panoramagui.desktop)"
+msgid "Panorama"
+msgstr "Panorama 全景"
+
+#: /usr/share/applications/kde4/parley.desktop
+msgctxt "Name(parley.desktop)"
+msgid "Parley"
+msgstr "Parley 语言学习工具"
+
+#: /opt/kde3/share/applications/kde/partitions.desktop
+msgctxt "Comment(partitions.desktop)"
+msgid "Partition information"
+msgstr "分区信息"
+
+#: /opt/kde3/share/applications/kde/partitions.desktop
+msgctxt "Name(partitions.desktop)"
+msgid "Partitions"
+msgstr "分区"
+
+#: /opt/kde3/share/applications/kde/kcm_useraccount.desktop
+msgctxt "Name(kcm_useraccount.desktop)"
+msgid "Password & User Account"
+msgstr "密码和用户信息"
+
+#: /opt/kde3/share/applications/kde/desktoppath.desktop
+msgctxt "Name(desktoppath.desktop)"
+msgid "Paths"
+msgstr "路径"
+
+#: /opt/kde3/share/applications/kde/kpat.desktop
+msgctxt "Name(kpat.desktop)"
+msgid "Patience"
+msgstr "耐心"
+
+#: /usr/share/applications/kde4/kpat.desktop
+msgctxt "GenericName(kpat.desktop)"
+msgid "Patience Card Game"
+msgstr "考验耐心的牌类游戏"
+
+#: /opt/kde3/share/applications/kde/ksysguard.desktop
+msgctxt "GenericName(ksysguard.desktop)"
+msgid "Performance Monitor"
+msgstr "性能监视器"
+
+#: /usr/share/applications/kde4/kalzium.desktop
+msgctxt "GenericName(kalzium.desktop)"
+msgid "Periodic Table of Elements"
+msgstr "化学元素周期表"
+
+#: /usr/share/applications/kde4/kalarm.desktop
+msgctxt "GenericName(kalarm.desktop)"
+msgid "Personal Alarm Scheduler"
+msgstr "个人日程提醒"
+
+#: /usr/share/applications/kde4/Home.desktop
+msgctxt "GenericName(Home.desktop)"
+msgid "Personal Files"
+msgstr "个人文件"
+
+#: /usr/share/applications/kde4/kmymoney.desktop
+msgctxt "Comment(kmymoney.desktop)"
+msgid "Personal Finance Manager"
+msgstr "个人金融管理器"
+
+#: /usr/share/applications/kde4/kmymoney.desktop
+msgctxt "GenericName(kmymoney.desktop)"
+msgid "Personal Finance Manager"
+msgstr "个人金融管理器"
+
+#: /usr/share/applications/kde4/Kontact.desktop
+msgctxt "GenericName(Kontact.desktop)"
+msgid "Personal Information Manager"
+msgstr "个人信息管理器"
+
+#: /usr/share/applications/kde4/korganizer-import.desktop
+msgctxt "GenericName(korganizer-import.desktop)"
+msgid "Personal Organizer"
+msgstr "个人日程安排"
+
+#: /usr/share/applications/kde4/korganizer.desktop
+msgctxt "GenericName(korganizer.desktop)"
+msgid "Personal Organizer"
+msgstr "个人日程安排"
+
+#: /opt/kde3/share/applications/kde/KControl.desktop
+msgctxt "Name(KControl.desktop)"
+msgid "Personal Settings"
+msgstr "个人设定"
+
+#: /opt/kde3/share/applications/kde/karm.desktop
+msgctxt "GenericName(karm.desktop)"
+msgid "Personal Time Tracker"
+msgstr "个人时间记录"
+
+#: /usr/share/applications/kde4/ktimetracker.desktop
+msgctxt "GenericName(ktimetracker.desktop)"
+msgid "Personal Time Tracker"
+msgstr "个人时间记录"
+
+#: /usr/share/applications/kde4/photolayoutseditor.desktop
+msgctxt "Name(photolayoutseditor.desktop)"
+msgid "Photo Layouts Editor"
+msgstr "照片布局编辑器"
+
+#: /usr/share/applications/kde4/digikam.desktop
+msgctxt "GenericName(digikam.desktop)"
+msgid "Photo Management Program"
+msgstr "照片管理程序"
+
+#: /usr/share/applications/kde4/showfoto.desktop
+msgctxt "GenericName(showfoto.desktop)"
+msgid "Photo Viewer and Editor"
+msgstr "照片查看器和编辑器"
+
+#: /usr/share/applications/kde4/photolayoutseditor.desktop
+msgctxt "GenericName(photolayoutseditor.desktop)"
+msgid "Photo layouts management program"
+msgstr "照片布局管理程序"
+
+#: /usr/share/applications/kde4/ktuberling.desktop
+msgctxt "GenericName(ktuberling.desktop)"
+msgid "Picture Game for Children"
+msgstr "孩子们的游戏"
+
+#: /usr/share/applications/kde4/plan.desktop
+msgctxt "Name(plan.desktop)"
+msgid "Plan"
+msgstr "计划"
+
+#: /usr/share/applications/kde4/planwork.desktop
+msgctxt "Name(planwork.desktop)"
+msgid "Plan WorkPackage Handler"
+msgstr "计划工作包处理程序"
+
+#: /opt/kde3/share/applications/kde/khtml_plugins.desktop
+msgctxt "Name(khtml_plugins.desktop)"
+msgid "Plugins"
+msgstr "插件"
+
+#: /usr/share/applications/kde4/kalgebramobile.desktop
+msgctxt "GenericName(kalgebramobile.desktop)"
+msgid "Pocket Graph Calculator"
+msgstr "口袋图形计算器"
+
+#: /usr/share/applications/kde4/kalgebramobile.desktop
+msgctxt "Comment(kalgebramobile.desktop)"
+msgid "Pocket Math Expression Solver and Plotter"
+msgstr "口袋数学式解决与绘图工具"
+
+#: /opt/kde3/share/applications/kde/kpoker.desktop
+msgctxt "GenericName(kpoker.desktop)"
+msgid "Poker Card Game"
+msgstr "扑克卡牌游戏"
+
+#: /usr/share/applications/kde4/knotes.desktop
+msgctxt "GenericName(knotes.desktop)"
+msgid "Popup Notes"
+msgstr "弹出式记事本"
+
+#: /usr/share/applications/kde4/ktuberling.desktop
+msgctxt "Name(ktuberling.desktop)"
+msgid "Potato Guy"
+msgstr "土豆小子"
+
+#: /opt/kde3/share/applications/kde/kpovmodeler.desktop
+msgctxt "GenericName(kpovmodeler.desktop)"
+msgid "Povray Modeler"
+msgstr "Povray 建模器"
+
+#: /usr/share/applications/kde4/kbruch.desktop
+msgctxt "Comment(kbruch.desktop)"
+msgid "Practice exercises with fractions"
+msgstr "练习分数"
+
+#: /usr/share/applications/kde4/stage.desktop
+msgctxt "GenericName(stage.desktop)"
+msgid "Presentation"
+msgstr "幻灯片演示"
+
+#: /opt/kde3/share/applications/kde/kjobviewer.desktop
+msgctxt "GenericName(kjobviewer.desktop)"
+msgid "Print Jobs"
+msgstr "打印任务"
+
+#: /opt/kde3/share/applications/kde/printers.desktop
+msgctxt "Name(printers.desktop)"
+msgid "Printers"
+msgstr "打印机"
+
+#: /opt/kde3/share/applications/kde/printers.desktop
+msgctxt "Comment(printers.desktop)"
+msgid "Printing system configuration (printers, jobs, classes, ...)"
+msgstr "打印系统配置(打印机、任务、类等等)"
+
+#: /opt/kde3/share/applications/kde/privacy.desktop
+msgctxt "Name(privacy.desktop)"
+msgid "Privacy"
+msgstr "隐私"
+
+#: /opt/kde3/share/applications/kde/privacy.desktop
+msgctxt "Comment(privacy.desktop)"
+msgid ""
+"Privacy - a kcontrol module to clean unwanted traces the user leaves on the "
+"system"
+msgstr "隐私 - 清除用户留在系统中痕迹的 kcontrol 模块"
+
+#: /opt/kde3/share/applications/kde/processor.desktop
+msgctxt "Name(processor.desktop)"
+msgid "Processor"
+msgstr "处理器"
+
+#: /opt/kde3/share/applications/kde/processor.desktop
+msgctxt "Comment(processor.desktop)"
+msgid "Processor information"
+msgstr "处理器信息"
+
+#: /usr/share/applications/kde4/kcachegrind.desktop
+msgctxt "GenericName(kcachegrind.desktop)"
+msgid "Profiler Frontend"
+msgstr "性能测试数据前端"
+
+#: /usr/share/applications/kde4/plan.desktop
+msgctxt "GenericName(plan.desktop)"
+msgid "Project Management"
+msgstr "项目管理"
+
+#: /usr/share/applications/kde4/planwork.desktop
+msgctxt "GenericName(planwork.desktop)"
+msgid "Project Management"
+msgstr "项目管理"
+
+#: /opt/kde3/share/applications/kde/ioslaveinfo.desktop
+msgctxt "Name(ioslaveinfo.desktop)"
+msgid "Protocols"
+msgstr "协议"
+
+#: /usr/share/applications/kde4/kuiviewer.desktop
+msgctxt "GenericName(kuiviewer.desktop)"
+msgid "Qt Designer UI File Viewer"
+msgstr "Qt 设计师 UI 文件查看器"
+
+#: /opt/kde3/share/applications/kde/quanta.desktop
+msgctxt "Name(quanta.desktop)"
+msgid "Quanta Plus"
+msgstr "Quanta Plus"
+
+#: /usr/share/applications/kde4/quassel.desktop
+msgctxt "Name(quassel.desktop)"
+msgid "Quassel IRC"
+msgstr "Quassel IRC"
+
+#: /usr/share/applications/kde4/quasselclient.desktop
+msgctxt "Name(quasselclient.desktop)"
+msgid "Quassel IRC (Client only)"
+msgstr "Quassel IRC (仅仅包含客户端)"
+
+#: /usr/share/applications/kde4/rsibreak.desktop
+msgctxt "GenericName(rsibreak.desktop)"
+msgid "RSI Prevention"
+msgstr "RSI 阻止"
+
+#: /usr/share/applications/kde4/rsibreak.desktop
+msgctxt "Name(rsibreak.desktop)"
+msgid "RSIBreak"
+msgstr "RSIBreak"
+
+#: /opt/kde3/share/applications/kde/akregator.desktop
+msgctxt "GenericName(akregator.desktop)"
+msgid "RSS Feed Reader"
+msgstr "RSS 种子阅读器"
+
+#: /opt/kde3/share/applications/kde/krec.desktop
+msgctxt "GenericName(krec.desktop)"
+msgid "Recording Tool"
+msgstr "录音工具"
+
+#: /opt/kde3/share/applications/kde/kregexpeditor.desktop
+msgctxt "GenericName(kregexpeditor.desktop)"
+msgid "Regular Expression Editor"
+msgstr "正规表达式编辑器"
+
+#: /usr/share/applications/kde4/KThesaurus.desktop
+msgctxt "GenericName(KThesaurus.desktop)"
+msgid "Related Words"
+msgstr "相关单词"
+
+#: /opt/kde3/share/applications/kde/kcmlirc.desktop
+msgctxt "Name(kcmlirc.desktop)"
+msgid "Remote Controls"
+msgstr "远程控制"
+
+#: /usr/share/applications/kde4/krdc.desktop
+msgctxt "GenericName(krdc.desktop)"
+msgid "Remote Desktop Client"
+msgstr "远程桌面客户端"
+
+#: /opt/kde3/share/applications/kde/krdc.desktop
+msgctxt "GenericName(krdc.desktop)"
+msgid "Remote Desktop Connection"
+msgstr "远程桌面连接"
+
+#: /usr/share/applications/kde4/kwikdisk.desktop
+msgctxt "GenericName(kwikdisk.desktop)"
+msgid "Removable Media Utility"
+msgstr "可移动介质工具"
+
+#: /opt/kde3/share/applications/kde/krandrtray.desktop
+msgctxt "Comment(krandrtray.desktop)"
+msgid "Resize and rotate X screens."
+msgstr "更改 X 屏幕的大小和旋转。"
+
+#: /usr/share/applications/kde4/kreversi.desktop
+msgctxt "GenericName(kreversi.desktop)"
+msgid "Reversi Board Game"
+msgstr "黑白棋游戏"
+
+#: /usr/share/applications/kde4/rocs.desktop
+msgctxt "Name(rocs.desktop)"
+msgid "Rocs"
+msgstr "Rocs"
+
+#: /usr/share/applications/kde4/rocs.desktop
+msgctxt "GenericName(rocs.desktop)"
+msgid "Rocs Graph Theory"
+msgstr "Rocs 图论"
+
+#: /opt/kde3/share/applications/kde/scsi.desktop
+msgctxt "Name(scsi.desktop)"
+msgid "SCSI"
+msgstr "SCSI"
+
+#: /opt/kde3/share/applications/kde/scsi.desktop
+msgctxt "Comment(scsi.desktop)"
+msgid "SCSI information"
+msgstr "SCSI 信息"
+
+#: /opt/kde3/share/applications/kde/sim-im.desktop
+msgctxt "GenericName(sim-im.desktop)"
+msgid "SIM Instant Messenger"
+msgstr "SIM 即时消息"
+
+#: /usr/share/applications/kde4/SUSEgreeter.desktop
+msgctxt "Name(SUSEgreeter.desktop)"
+msgid "SUSE"
+msgstr "SUSE"
+
+#: /usr/share/applications/kde4/kdesvn.desktop
+msgctxt "GenericName(kdesvn.desktop)"
+msgid "SVN Client"
+msgstr "SVN 客户端"
+
+#: /usr/share/applications/kde4/kdesvn.desktop
+msgctxt "GenericName(kdesvn.desktop)"
+msgid "SVN client"
+msgstr "SVN 客户端"
+
+#: /opt/kde3/share/applications/kde/kcmsambaconf.desktop
+msgctxt "Name(kcmsambaconf.desktop)"
+msgid "Samba"
+msgstr "Samba"
+
+#: /opt/kde3/share/applications/kde/smbstatus.desktop
+msgctxt "Name(smbstatus.desktop)"
+msgid "Samba Status"
+msgstr "Samba 状态"
+
+#: /opt/kde3/share/applications/kde/smbstatus.desktop
+msgctxt "Comment(smbstatus.desktop)"
+msgid "Samba status monitor"
+msgstr "Samba 状态监视器"
+
+#: /usr/share/applications/kde4/ksame.desktop
+msgctxt "Name(ksame.desktop)"
+msgid "SameGame"
+msgstr "SameGame"
+
+#: /usr/share/applications/kde4/karbon.desktop
+msgctxt "GenericName(karbon.desktop)"
+msgid "Scalable Graphics"
+msgstr "可缩放图像"
+
+#: /opt/kde3/share/applications/kde/kooka.desktop
+msgctxt "GenericName(kooka.desktop)"
+msgid "Scan & OCR Program"
+msgstr "扫描和文字识别程序"
+
+#: /usr/share/applications/kde4/skanlite.desktop
+msgctxt "Comment(skanlite.desktop)"
+msgid "Scan and save images"
+msgstr "扫描和保存图像"
+
+#: /opt/kde3/share/applnk/Edutainment/Science/.directory
+msgctxt "Name(.directory)"
+msgid "Science"
+msgstr "科学"
+
+#: /usr/share/applications/kde4/kcalc.desktop
+msgctxt "GenericName(kcalc.desktop)"
+msgid "Scientific Calculator"
+msgstr "科学计算器"
+
+#: /opt/kde3/share/applications/kde/pgcalc.desktop
+msgctxt "GenericName(pgcalc.desktop)"
+msgid "Scientific Calculator"
+msgstr "科学计算器"
+
+#: /usr/share/applications/kde4/ksnapshot.desktop
+msgctxt "GenericName(ksnapshot.desktop)"
+msgid "Screen Capture Program"
+msgstr "屏幕截图程序"
+
+#: /usr/share/applications/kde4/kmag.desktop
+msgctxt "GenericName(kmag.desktop)"
+msgid "Screen Magnifier"
+msgstr "屏幕放大镜"
+
+#: /usr/share/applications/kde4/krandrtray.desktop
+msgctxt "GenericName(krandrtray.desktop)"
+msgid "Screen Resize & Rotate"
+msgstr "屏幕缩放和旋转"
+
+#: /usr/share/applications/kde4/kruler.desktop
+msgctxt "GenericName(kruler.desktop)"
+msgid "Screen Ruler"
+msgstr "屏幕标尺"
+
+#: /usr/share/applications/kde4/kfilereplace.desktop
+msgctxt "GenericName(kfilereplace.desktop)"
+msgid "Search & Replace Tool"
+msgstr "搜索替换工具"
+
+#: /opt/kde3/share/applications/kde/kcm_kdnssd.desktop
+msgctxt "Name(kcm_kdnssd.desktop)"
+msgid "Service Discovery"
+msgstr "服务探索"
+
+#: /opt/kde3/share/applications/kde/kcmkded.desktop
+msgctxt "Name(kcmkded.desktop)"
+msgid "Service Manager"
+msgstr "服务管理器"
+
+#: /opt/kde3/share/applications/kde/kcmsmserver.desktop
+msgctxt "Name(kcmsmserver.desktop)"
+msgid "Session Manager"
+msgstr "会话管理器"
+
+#: /opt/kde3/share/applications/kde/kcmwifi.desktop
+msgctxt "Comment(kcmwifi.desktop)"
+msgid "Set up your wireless LAN"
+msgstr "设置您的无线局域网"
+
+#: /opt/kde3/share/applications/kde/lanbrowser.desktop
+msgctxt "Comment(lanbrowser.desktop)"
+msgid "Setup lisa, reslisa and the ioslaves"
+msgstr "设置 lisa、reslisa 和 ioslaves"
+
+#: /usr/share/applications/kde4/kbattleship.desktop
+msgctxt "GenericName(kbattleship.desktop)"
+msgid "Ship Sinking Game"
+msgstr "沉船游戏"
+
+#: /usr/share/applications/kde4/kshisen.desktop
+msgctxt "Name(kshisen.desktop)"
+msgid "Shisen-Sho"
+msgstr "连连看"
+
+#: /usr/share/applications/kde4/kshisen.desktop
+msgctxt "GenericName(kshisen.desktop)"
+msgid "Shisen-Sho Mahjongg-like Tile Game"
+msgstr "类似连连看的麻将游戏"
+
+#: /opt/kde3/share/applications/kde/kcmdf.desktop
+msgctxt "Comment(kcmdf.desktop)"
+msgid "Shows the disk usage of the mounted devices"
+msgstr "显示挂载设备的磁盘使用率"
+
+#: /opt/kde3/share/applications/kde/ksig.desktop
+msgctxt "GenericName(ksig.desktop)"
+msgid "Signature Editor"
+msgstr "签名编辑器"
+
+#: /opt/kde3/share/applications/kde/sim-im.desktop
+msgctxt "Name(sim-im.desktop)"
+msgid "Sim-IM"
+msgstr "Sim 即时消息"
+
+#: /opt/kde3/share/applications/kde/blinken.desktop
+msgctxt "GenericName(blinken.desktop)"
+msgid "Simon Says Game"
+msgstr "我说你做游戏"
+
+#: /opt/kde3/share/applications/kde/KEdit.desktop
+msgctxt "GenericName(KEdit.desktop)"
+msgid "Simple Text Editor"
+msgstr "简单文本编辑器"
+
+#: /usr/share/applications/kde4/backintime-kde4.desktop
+msgctxt "Comment(backintime-kde4.desktop)"
+msgid "Simple backup system"
+msgstr "简洁地备份系统"
+
+#: /usr/share/applications/kde4/step.desktop
+msgctxt "Comment(step.desktop)"
+msgid "Simulate physics experiments"
+msgstr "物理实验模拟"
+
+#: /usr/share/applications/kde4/skanlite.desktop
+msgctxt "Name(skanlite.desktop)"
+msgid "Skanlite"
+msgstr "Skanlite 图像扫描程序"
+
+#: /usr/share/applications/kde4/ksirkskineditor.desktop
+msgctxt "GenericName(ksirkskineditor.desktop)"
+msgid "Skin Editor for the World Domination Strategy Game"
+msgstr "世界支配战略游戏的皮肤编辑器"
+
+#: /usr/share/applications/kde4/smb4k.desktop
+msgctxt "Name(smb4k.desktop)"
+msgid "Smb4K"
+msgstr "KDE SMB 前端"
+
+#: /opt/kde3/share/applications/kde/ksnake.desktop
+msgctxt "GenericName(ksnake.desktop)"
+msgid "Snake Race Game"
+msgstr "贪食蛇"
+
+#: /usr/share/applications/kde4/kdesnake.desktop
+msgctxt "GenericName(kdesnake.desktop)"
+msgid "Snake-like Game"
+msgstr "类似贪吃蛇的游戏"
+
+#: /usr/share/applications/kde4/ktesnippets_editor.desktop
+msgctxt "GenericName(ktesnippets_editor.desktop)"
+msgid "Snippets datafile editor"
+msgstr "代码片段数据文件编辑器"
+
+#: /usr/share/applications/kde4/ktesnippets_editor.desktop
+msgctxt "Name(ktesnippets_editor.desktop)"
+msgid "Snippets datafile editor"
+msgstr "代码片段数据文件编辑器"
+
+#: /usr/share/applications/kde4/apper.desktop
+msgctxt "GenericName(apper.desktop)"
+msgid "Software Management"
+msgstr "软件管理"
+
+#: /usr/share/applications/kde4/apper_installer.desktop
+msgctxt "GenericName(apper_installer.desktop)"
+msgid "Software Management"
+msgstr "软件管理"
+
+#: /usr/share/applications/kde4/apper_settings.desktop
+msgctxt "GenericName(apper_settings.desktop)"
+msgid "Software Management"
+msgstr "软件管理"
+
+#: /usr/share/applications/kde4/apper_updates.desktop
+msgctxt "GenericName(apper_updates.desktop)"
+msgid "Software Management"
+msgstr "软件管理"
+
+#: /opt/kde3/share/applications/kde/ksokoban.desktop
+msgctxt "GenericName(ksokoban.desktop)"
+msgid "Sokoban Game"
+msgstr "推箱子游戏"
+
+#: /usr/share/applications/kde4/katomic.desktop
+msgctxt "GenericName(katomic.desktop)"
+msgid "Sokoban-like Logic Game"
+msgstr "类似推箱子的逻辑游戏"
+
+#: /opt/kde3/share/applications/kde/kvaio.desktop
+msgctxt "Name(kvaio.desktop)"
+msgid "Sony Vaio Laptop"
+msgstr "索尼 Vaio 插件"
+
+#: /usr/share/applications/kde4/kmix.desktop
+msgctxt "GenericName(kmix.desktop)"
+msgid "Sound Mixer"
+msgstr "混音器"
+
+#: /opt/kde3/share/applications/kde/krecord.desktop
+msgctxt "GenericName(krecord.desktop)"
+msgid "Sound Recorder"
+msgstr "录音机"
+
+#: /opt/kde3/share/applications/kde/artscontrol.desktop
+msgctxt "GenericName(artscontrol.desktop)"
+msgid "Sound Server Control"
+msgstr "声音服务器控制"
+
+#: /opt/kde3/share/applications/kde/arts.desktop
+msgctxt "Name(arts.desktop)"
+msgid "Sound System"
+msgstr "声音系统"
+
+#: /opt/kde3/share/applications/kde/arts.desktop
+msgctxt "Comment(arts.desktop)"
+msgid "Sound System Configuration"
+msgstr "声音系统配置"
+
+#: /opt/kde3/share/applications/kde/sound.desktop
+msgctxt "Comment(sound.desktop)"
+msgid "Sound information"
+msgstr "音响效果信息"
+
+#: /usr/share/applications/kde4/kspaceduel.desktop
+msgctxt "GenericName(kspaceduel.desktop)"
+msgid "Space Arcade Game"
+msgstr "空间型街机游戏"
+
+#: /opt/kde3/share/applications/kde/kasteroids.desktop
+msgctxt "GenericName(kasteroids.desktop)"
+msgid "Space Game"
+msgstr "空间游戏"
+
+#: /opt/kde3/share/applications/kde/celestia.desktop
+msgctxt "GenericName(celestia.desktop)"
+msgid "Space Simulator"
+msgstr "空间模拟器"
+
+#: /usr/share/applications/kde4/kmouth.desktop
+msgctxt "GenericName(kmouth.desktop)"
+msgid "Speech Synthesizer Frontend"
+msgstr "语音合成器前端"
+
+#: /opt/kde3/share/applications/kde/spellchecking.desktop
+msgctxt "Name(spellchecking.desktop)"
+msgid "Spell Checker"
+msgstr "拼写检查工具"
+
+#: /opt/kde3/share/applications/kde/ksplashthememgr.desktop
+msgctxt "Name(ksplashthememgr.desktop)"
+msgid "Splash Screen"
+msgstr "启动动画"
+
+#: /usr/share/applications/kde4/sheets.desktop
+msgctxt "GenericName(sheets.desktop)"
+msgid "Spreadsheet"
+msgstr "电子表格"
+
+#: /usr/share/applications/kde4/step.desktop
+msgctxt "Name(step.desktop)"
+msgid "Step"
+msgstr "步骤"
+
+#: /opt/kde3/share/applications/kde/kcmdf.desktop
+msgctxt "Name(kcmdf.desktop)"
+msgid "Storage Devices"
+msgstr "存储设备"
+
+#: /opt/kde3/share/applications/kde/media.desktop
+msgctxt "Name(media.desktop)"
+msgid "Storage Media"
+msgstr "存储介质"
+
+#: /opt/kde3/share/applications/kde/kwin4.desktop
+msgctxt "GenericName(kwin4.desktop)"
+msgid "Strategy Game"
+msgstr "策略游戏"
+
+#: /opt/kde3/share/applications/kde/kverbos.desktop
+msgctxt "GenericName(kverbos.desktop)"
+msgid "Study Spanish Verbforms"
+msgstr "学习西班牙语动词形式"
+
+#: /opt/kde3/share/applications/kde/style.desktop
+msgctxt "Name(style.desktop)"
+msgid "Style"
+msgstr "风格"
+
+#: /opt/kde3/share/applications/kde/kcmcss.desktop
+msgctxt "Name(kcmcss.desktop)"
+msgid "Stylesheets"
+msgstr "样式表"
+
+#: /usr/share/applications/kde4/ksudoku.desktop
+msgctxt "GenericName(ksudoku.desktop)"
+msgid "Sudoku Game"
+msgstr "数独游戏"
+
+#: /usr/share/applications/kde4/ksudoku.desktop
+msgctxt "GenericName(ksudoku.desktop)"
+msgid "Sudoku Puzzles"
+msgstr "数独拼图"
+
+#: /usr/share/applications/kde4/superkaramba.desktop
+msgctxt "Name(superkaramba.desktop)"
+msgid "SuperKaramba"
+msgstr "SuperKaramba"
+
+#: /usr/share/applications/kde4/sweeper.desktop
+msgctxt "Name(sweeper.desktop)"
+msgid "Sweeper"
+msgstr "清理器"
+
+#: /opt/kde3/share/applications/kde/kitchensync.desktop
+msgctxt "GenericName(kitchensync.desktop)"
+msgid "Synchronization"
+msgstr "同步"
+
+#: /opt/kde3/share/applications/kde/bell.desktop
+msgctxt "Name(bell.desktop)"
+msgid "System Bell"
+msgstr "系统铃声"
+
+#: /opt/kde3/share/applications/kde/bell.desktop
+msgctxt "Comment(bell.desktop)"
+msgid "System Bell Configuration"
+msgstr "系统铃声配置"
+
+#: /usr/share/applications/kde4/sweeper.desktop
+msgctxt "GenericName(sweeper.desktop)"
+msgid "System Cleaner"
+msgstr "系统清理器"
+
+#: /usr/share/applications/kde4/kfmclient_sysinfo.desktop
+msgctxt "Name(kfmclient_sysinfo.desktop)"
+msgid "System Information"
+msgstr "系统信息"
+
+#: /usr/share/applications/kde4/ksystemlog.desktop
+msgctxt "GenericName(ksystemlog.desktop)"
+msgid "System Log Viewer"
+msgstr "系统日志查看器"
+
+#: /usr/share/applications/kde4/ksysguard.desktop
+msgctxt "GenericName(ksysguard.desktop)"
+msgid "System Monitor"
+msgstr "系统监视器"
+
+#: /usr/share/applications/kde4/ksysguard.desktop
+msgctxt "Name(ksysguard.desktop)"
+msgid "System Monitor"
+msgstr "系统监视器"
+
+#: /opt/kde3/share/applications/kde/kcmnotify.desktop
+msgctxt "Comment(kcmnotify.desktop)"
+msgid "System Notification Configuration"
+msgstr "系统通知配置"
+
+#: /opt/kde3/share/applications/kde/kcmnotify.desktop
+msgctxt "Name(kcmnotify.desktop)"
+msgid "System Notifications"
+msgstr "系统通知"
+
+#: /opt/kde3/share/applications/kde/kcmkded.desktop
+msgctxt "Comment(kcmkded.desktop)"
+msgid "System Services Configuration"
+msgstr "系统服务配置"
+
+#: /usr/share/applications/kde4/ksystemlog.desktop
+msgctxt "Comment(ksystemlog.desktop)"
+msgid "System log viewer tool"
+msgstr "系统日志查看工具"
+
+#: /usr/share/applications/kde4/nepomukcontroller.desktop
+msgctxt "Comment(nepomukcontroller.desktop)"
+msgid "System tray icon to control the behaviour of the Nepomuk file indexer"
+msgstr "控制 Nepomuk 文件索引器的系统托盘图标"
+
+#: /opt/kde3/share/applications/kde/ktnef.desktop
+msgctxt "GenericName(ktnef.desktop)"
+msgid "TNEF File Viewer"
+msgstr "TNEF 文件查看器"
+
+#: /opt/kde3/share/applications/kde/kjumpingcube.desktop
+msgctxt "GenericName(kjumpingcube.desktop)"
+msgid "Tactical Game"
+msgstr "战术游戏"
+
+#: /usr/share/applications/kde4/klines.desktop
+msgctxt "GenericName(klines.desktop)"
+msgid "Tactical Game"
+msgstr "战术游戏"
+
+#: /opt/kde3/share/applications/kde/knetwalk.desktop
+msgctxt "GenericName(knetwalk.desktop)"
+msgid "Tactical Game"
+msgstr "战术游戏"
+
+#: /opt/kde3/share/applications/kde/basket.desktop
+msgctxt "Comment(basket.desktop)"
+msgid "Taking care of your ideas."
+msgstr "关注您的想法。"
+
+#: /opt/kde3/share/applications/kde/kcmtaskbar.desktop
+msgctxt "Name(kcmtaskbar.desktop)"
+msgid "Taskbar"
+msgstr "任务条"
+
+#: /usr/share/applications/kde4/kteatime.desktop
+msgctxt "GenericName(kteatime.desktop)"
+msgid "Tea Cooker"
+msgstr "煮茶器"
+
+#: /opt/kde3/share/applnk/Edutainment/Tools/.directory
+msgctxt "Name(.directory)"
+msgid "Teaching Tools"
+msgstr "教学工具"
+
+#: /usr/share/applications/kde4/konsole.desktop
+msgctxt "GenericName(konsole.desktop)"
+msgid "Terminal"
+msgstr "终端"
+
+#: /usr/share/applications/kde4/konsolesu.desktop
+msgctxt "Name(konsolesu.desktop)"
+msgid "Terminal - Super User Mode"
+msgstr "终端 - 超级用户模式"
+
+#: /opt/kde3/share/applications/kde/konsole.desktop
+msgctxt "GenericName(konsole.desktop)"
+msgid "Terminal Program"
+msgstr "终端程序"
+
+#: /usr/share/applications/kde4/yakuake.desktop
+msgctxt "GenericName(yakuake.desktop)"
+msgid "Terminal Program"
+msgstr "终端程序"
+
+#: /opt/kde3/share/applications/kde/konsolesu.desktop
+msgctxt "Name(konsolesu.desktop)"
+msgid "Terminal Program - Super User Mode"
+msgstr "终端程序 - 超级用户模式"
+
+#: /usr/share/applications/kde4/kjumpingcube.desktop
+msgctxt "GenericName(kjumpingcube.desktop)"
+msgid "Territory Capture Game"
+msgstr "领土占领游戏"
+
+#: /opt/kde3/share/applications/kde/keduca.desktop
+msgctxt "GenericName(keduca.desktop)"
+msgid "Tests & Exams"
+msgstr "测验和考试"
+
+#: /opt/kde3/share/applications/kde/keducabuilder.desktop
+msgctxt "GenericName(keducabuilder.desktop)"
+msgid "Tests & Exams Editor"
+msgstr "测验和试卷编辑器"
+
+#: /opt/kde3/share/applications/kde/ksirtet.desktop
+msgctxt "GenericName(ksirtet.desktop)"
+msgid "Tetris Game"
+msgstr "俄罗斯方块"
+
+#: /opt/kde3/share/applications/kde/ksmiletris.desktop
+msgctxt "GenericName(ksmiletris.desktop)"
+msgid "Tetris-like Game"
+msgstr "俄罗斯方块"
+
+#: /usr/share/applications/kde4/kwrite.desktop
+msgctxt "GenericName(kwrite.desktop)"
+msgid "Text Editor"
+msgstr "文本编辑器"
+
+#: /opt/kde3/share/applications/kde/kcmkttsd.desktop
+msgctxt "Name(kcmkttsd.desktop)"
+msgid "Text-to-Speech"
+msgstr "文本到语音"
+
+#: /opt/kde3/share/applications/kde/kcmkttsd.desktop
+msgctxt "Comment(kcmkttsd.desktop)"
+msgid "Text-to-Speech Control Module"
+msgstr "文本到语音控制模块"
+
+#: /opt/kde3/share/applications/kde/ksayit.desktop
+msgctxt "GenericName(ksayit.desktop)"
+msgid "Text-to-Speech Frontend"
+msgstr "文本到语音前端"
+
+#: /opt/kde3/share/applications/kde/kttsmgr.desktop
+msgctxt "GenericName(kttsmgr.desktop)"
+msgid "Text-to-Speech Manager"
+msgstr "文本到语音管理器"
+
+#: /usr/share/xsessions/kde.desktop
+msgctxt "Comment(kde.desktop)"
+msgid ""
+"The K Desktop Environment. A powerful Open Source graphical desktop "
+"environment"
+msgstr "K 桌面环境。强大的开放源代码图形桌面环境"
+
+#: /usr/share/applications/kde4/kajongg.desktop
+msgctxt "Comment(kajongg.desktop)"
+msgid "The ancient Chinese board game for 4 players"
+msgstr "中国传统的四人桌上游戏"
+
+#: /opt/kde3/share/applications/kde/kthememanager.desktop
+msgctxt "Name(kthememanager.desktop)"
+msgid "Theme Manager"
+msgstr "主题管理器"
+
+#: /usr/share/xsessions/kde-compiz.desktop
+msgctxt "Comment(kde-compiz.desktop)"
+msgid "This session logs you into Compiz with KDE"
+msgstr "该会话登陆您到带 KDE 的 Compiz"
+
+#: /usr/share/applications/kde4/kdiamond.desktop
+msgctxt "GenericName(kdiamond.desktop)"
+msgid "Three-in-a-row game"
+msgstr "三子连线棋游戏"
+
+#: /opt/kde3/share/applications/kde/kandy.desktop
+msgctxt "Comment(kandy.desktop)"
+msgid "Tool for syncing address book data with mobile phones"
+msgstr "将地址簿数据与移动电话同步的工具"
+
+#: /usr/share/applications/kde4/ktouch.desktop
+msgctxt "GenericName(ktouch.desktop)"
+msgid "Touch Typing Tutor"
+msgstr "触摸输入教程"
+
+#: /usr/share/applications/kde4/synaptiks.desktop
+msgctxt "GenericName(synaptiks.desktop)"
+msgid "Touchpad management"
+msgstr "触摸板管理"
+
+#: /opt/kde3/share/applications/kde/kbabel.desktop
+msgctxt "GenericName(kbabel.desktop)"
+msgid "Translation Tool"
+msgstr "翻译工具"
+
+#: /opt/kde3/share/applications/kde/catalogmanager.desktop
+msgctxt "GenericName(catalogmanager.desktop)"
+msgid "Translation Tool Catalog Manager"
+msgstr "翻译工具目录管理器"
+
+#: /opt/kde3/share/applications/kde/kbabeldict.desktop
+msgctxt "GenericName(kbabeldict.desktop)"
+msgid "Translation Tool Dictionary"
+msgstr "翻译工具词典"
+
+#: /opt/kde3/share/applications/kde/ktron.desktop
+msgctxt "GenericName(ktron.desktop)"
+msgid "Tron-like Game"
+msgstr "类似电子世界争霸战一样的游戏"
+
+#: /usr/share/applications/kde4/krusader.desktop
+msgctxt "Comment(krusader.desktop)"
+msgid "Twin-Panel File Manager"
+msgstr "双面板文件管理器"
+
+#: /usr/share/applications/kde4/krusader_root-mode.desktop
+msgctxt "Comment(krusader_root-mode.desktop)"
+msgid "Twin-Panel File Manager with root-privileges"
+msgstr "具有 root 特权的双面板文件管理器"
+
+#: /usr/share/applications/kde4/umbrello.desktop
+msgctxt "GenericName(umbrello.desktop)"
+msgid "UML Modeller"
+msgstr "UML 建模工具"
+
+#: /opt/kde3/share/applications/kde/kcmusb.desktop
+msgctxt "Name(kcmusb.desktop)"
+msgid "USB Devices"
+msgstr "USB 设备"
+
+#: /usr/share/applications/kde4/umbrello.desktop
+msgctxt "Name(umbrello.desktop)"
+msgid "Umbrello"
+msgstr "Umbrello"
+
+#: /opt/kde3/share/applications/kde/ktip.desktop
+msgctxt "GenericName(ktip.desktop)"
+msgid "Useful Tips"
+msgstr "有用的提示"
+
+#: /usr/share/applications/kde4/kuser.desktop
+msgctxt "GenericName(kuser.desktop)"
+msgid "User Manager"
+msgstr "用户管理程序"
+
+#: /opt/kde3/share/applications/kde/kcm_useraccount.desktop
+msgctxt "Comment(kcm_useraccount.desktop)"
+msgid "User information such as password, name and email"
+msgstr "像密码、姓名和电子邮件这样的用户信息"
+
+#: /usr/share/applications/kde4/kradio4.desktop
+msgctxt "Comment(kradio4.desktop)"
+msgid "V4L/V4L2-Radio Application for KDE4"
+msgstr "V4L/V4L2 的 KDE4 电台应用程序"
+
+#: /usr/share/applications/kde4/kvpnc.desktop
+msgctxt "GenericName(kvpnc.desktop)"
+msgid "VPN Client GUI"
+msgstr "VPN 客户端图形界面"
+
+#: /usr/share/applications/kde4/kvpnc.desktop
+#| msgctxt "GenericName(cervisia.desktop)"
+#| msgid "CVS Frontend"
+msgctxt "GenericName(kvpnc.desktop)"
+msgid "VPNC FrontEnd"
+msgstr "VPNC 前端"
+
+#: /usr/share/applications/kde4/kdenlive.desktop
+msgctxt "GenericName(kdenlive.desktop)"
+msgid "Video Editor"
+msgstr "视频编辑器"
+
+#: /usr/share/applications/kde4/dragonplayer.desktop
+msgctxt "GenericName(dragonplayer.desktop)"
+msgid "Video Player"
+msgstr "视频播放器"
+
+#: /usr/share/applications/kde4/kdf.desktop
+msgctxt "GenericName(kdf.desktop)"
+msgid "View Disk Usage"
+msgstr "查看磁盘使用状况"
+
+#: /usr/share/applications/kde4/filelight.desktop
+msgctxt "Comment(filelight.desktop)"
+msgid "View disk usage information"
+msgstr "查看磁盘使用信息"
+
+#: /opt/kde3/share/applications/kde/kcmusb.desktop
+msgctxt "Comment(kcmusb.desktop)"
+msgid "View the USB devices attached to this computer"
+msgstr "查看连接到该计算机的 USB 设备"
+
+#: /usr/share/applications/kde4/kvkbd.desktop
+msgctxt "GenericName(kvkbd.desktop)"
+msgid "Virtual Keyboard"
+msgstr "虚拟键盘"
+
+#: /usr/share/applications/kde4/kcachegrind.desktop
+msgctxt "Comment(kcachegrind.desktop)"
+msgid "Visualization of Performance Profiling Data"
+msgstr "性能测试数据的可视化表现"
+
+#: /opt/kde3/share/applications/kde/kvoctrain.desktop
+msgctxt "GenericName(kvoctrain.desktop)"
+msgid "Vocabulary Trainer"
+msgstr "单词练习"
+
+#: /opt/kde3/share/applications/kde/kwordquiz.desktop
+msgctxt "GenericName(kwordquiz.desktop)"
+msgid "Vocabulary Trainer"
+msgstr "单词练习"
+
+#: /usr/share/applications/kde4/parley.desktop
+msgctxt "GenericName(parley.desktop)"
+msgid "Vocabulary Trainer"
+msgstr "单词练习"
+
+#: /usr/share/applications/kde4/kwalletmanager.desktop
+msgctxt "GenericName(kwalletmanager.desktop)"
+msgid "Wallet Management Tool"
+msgstr "钱包管理工具"
+
+#: /usr/share/applications/kde4/kwalletmanager-kwalletd.desktop
+msgctxt "Name(kwalletmanager-kwalletd.desktop)"
+msgid "Wallet Management Tool"
+msgstr "钱包管理工具"
+
+#: /opt/kde3/share/applications/kde/kwalletmanager.desktop
+msgctxt "Name(kwalletmanager.desktop)"
+msgid "Wallet Management Tool"
+msgstr "钱包管理工具"
+
+#: /opt/kde3/share/applications/kde/khtml_behavior.desktop
+msgctxt "Name(khtml_behavior.desktop)"
+msgid "Web Behavior"
+msgstr "网络行为"
+
+#: /usr/share/applications/kde4/konqbrowser.desktop
+msgctxt "GenericName(konqbrowser.desktop)"
+msgid "Web Browser"
+msgstr "网页浏览器"
+
+#: /usr/share/applications/kde4/rekonq.desktop
+msgctxt "GenericName(rekonq.desktop)"
+msgid "Web Browser"
+msgstr "网页浏览器"
+
+#: /opt/kde3/share/applications/kde/quanta.desktop
+msgctxt "Comment(quanta.desktop)"
+msgid "Web Development Environment"
+msgstr "Web 开发环境"
+
+#: /opt/kde3/share/applications/kde/quanta.desktop
+msgctxt "GenericName(quanta.desktop)"
+msgid "Web Development Environment"
+msgstr "Web 开发环境"
+
+#: /opt/kde3/share/applications/kde/ebrowsing.desktop
+msgctxt "Name(ebrowsing.desktop)"
+msgid "Web Shortcuts"
+msgstr "网页快捷键"
+
+#: /opt/kde3/share/applications/kde/kwinoptions.desktop
+msgctxt "Name(kwinoptions.desktop)"
+msgid "Window Behavior"
+msgstr "窗口行为"
+
+#: /opt/kde3/share/applications/kde/kwindecoration.desktop
+msgctxt "Name(kwindecoration.desktop)"
+msgid "Window Decorations"
+msgstr "窗口装饰"
+
+#: /opt/kde3/share/applications/kde/kwinrules.desktop
+msgctxt "Name(kwinrules.desktop)"
+msgid "Window-Specific Settings"
+msgstr "特定窗口的设置"
+
+#: /opt/kde3/share/applications/kde/kwifimanager.desktop
+msgctxt "GenericName(kwifimanager.desktop)"
+msgid "Wireless LAN Manager"
+msgstr "无线局域网管理器"
+
+#: /opt/kde3/share/applications/kde/kcmwifi.desktop
+msgctxt "Name(kcmwifi.desktop)"
+msgid "Wireless Network"
+msgstr "无线网"
+
+#: /usr/share/applications/kde4/words.desktop
+msgctxt "GenericName(words.desktop)"
+msgid "Word Processor"
+msgstr "字处理"
+
+#: /opt/kde3/share/applications/kde/kworldclock.desktop
+msgctxt "GenericName(kworldclock.desktop)"
+msgid "World Clock"
+msgstr "世界时钟"
+
+#: /usr/share/applications/kde4/ksirk.desktop
+msgctxt "GenericName(ksirk.desktop)"
+msgid "World Domination Strategy Game"
+msgstr "统治世界战略游戏"
+
+#: /usr/share/applications/kde4/words.desktop
+msgctxt "Comment(words.desktop)"
+msgid "Write documents"
+msgstr "编写文档"
+
+#: /usr/share/applications/kde4/stage.desktop
+msgctxt "Comment(stage.desktop)"
+msgid "Write presentation documents"
+msgstr "编写演示文稿文档"
+
+#: /usr/share/applications/kde4/sheets.desktop
+msgctxt "Comment(sheets.desktop)"
+msgid "Write spreadsheet documents"
+msgstr "编写电子表格文档"
+
+#: /opt/kde3/share/applications/kde/xserver.desktop
+msgctxt "Name(xserver.desktop)"
+msgid "X-Server"
+msgstr "X 服务器"
+
+#: /opt/kde3/share/applications/kde/xserver.desktop
+msgctxt "Comment(xserver.desktop)"
+msgid "X-Server information"
+msgstr "X 服务器信息"
+
+#: /opt/kde3/share/applications/kde/kxsldbg.desktop
+msgctxt "GenericName(kxsldbg.desktop)"
+msgid "XSLT Debugger"
+msgstr "XSLT 调试器"
+
+#: /usr/share/applications/kde4/kiriki.desktop
+msgctxt "GenericName(kiriki.desktop)"
+msgid "Yahtzee-like Dice Game"
+msgstr "快艇骰子游戏"
+
+#: /usr/share/applications/kde4/yakuake.desktop
+msgctxt "Name(yakuake.desktop)"
+msgid "Yakuake"
+msgstr "Yakuake 终端"
+
+#: /opt/kde3/share/applications/kde/filebrowser.desktop
+msgctxt "Comment(filebrowser.desktop)"
+msgid "You can configure Konqueror's file manager mode here"
+msgstr "在这里配置 Konqueror 的文件管理器模式"
+
+#: /opt/kde3/share/applications/kde/desktop.desktop
+msgctxt "Comment(desktop.desktop)"
+msgid "You can configure how many virtual desktops there are."
+msgstr "可以在这里配置虚拟桌面的数量。"
+
+#: /opt/kde3/share/applications/kde/desktopbehavior.desktop
+msgctxt "Comment(desktopbehavior.desktop)"
+msgid "You can configure how the desktop behaves here"
+msgstr "在这里配置桌面行为"
+
+#: /usr/share/applications/kde4/klettres.desktop
+msgctxt "Comment(klettres.desktop)"
+msgid "a KDE program to learn the alphabet"
+msgstr "帮助学习字母表的 KDE 程序"
+
+#: /opt/kde3/share/applications/kde/artsbuilder.desktop
+msgctxt "Name(artsbuilder.desktop)"
+msgid "aRts Builder"
+msgstr "aRts 构建程序"
+
+#: /opt/kde3/share/applications/kde/artscontrol.desktop
+msgctxt "Name(artscontrol.desktop)"
+msgid "aRts Control Tool"
+msgstr "aRts 控制工具"
+
+#: /opt/kde3/share/applications/kde/blinken.desktop
+msgctxt "Name(blinken.desktop)"
+msgid "blinKen"
+msgstr "blinKen"
+
+#: /usr/share/applications/kde4/digikam.desktop
+msgctxt "Name(digikam.desktop)"
+msgid "digiKam"
+msgstr "digiKam 照片管理"
+
+#: /opt/kde3/share/applications/kde/joystick.desktop
+msgctxt "Comment(joystick.desktop)"
+msgid "joystick - a kcontrol module to test joysticks"
+msgstr "joystick - 测试游戏手柄的 kcontrol 模块"
+
+#: /usr/share/applications/kde4/kdesvn.desktop
+msgctxt "Name(kdesvn.desktop)"
+msgid "kdesvn"
+msgstr "kdesvn"
+
+#: /opt/kde3/share/applications/kde/kjscmd.desktop
+msgctxt "Name(kjscmd.desktop)"
+msgid "kjscmd"
+msgstr "kjscmd"
+
+#: /opt/kde3/share/applications/kde/knetwalk.desktop
+msgctxt "Name(knetwalk.desktop)"
+msgid "knetwalk"
+msgstr "knetwalk"
+
+#: /opt/kde3/share/applications/kde/konserve.desktop
+msgctxt "Name(konserve.desktop)"
+msgid "konserve"
+msgstr "konserve"
+
+#: /usr/share/applications/kde4/kradio4.desktop
+msgctxt "Name(kradio4.desktop)"
+msgid "kradio4"
+msgstr "kradio4"
+
+#: /opt/kde3/share/applications/kde/kttsmgr.desktop
+msgctxt "Name(kttsmgr.desktop)"
+msgid "kttsmgr"
+msgstr "kttsmgr 机器发音"
+
+#: /usr/share/applications/kde4/okularApplication_odp.desktop
+msgctxt "Name(okularApplication_odp.desktop)"
+msgid "okular"
+msgstr "Okular 图片查看"
+
+#: /opt/kde3/share/applications/kde/opensuseupdater.desktop
+msgctxt "Name(opensuseupdater.desktop)"
+msgid "openSUSE Updater Applet"
+msgstr "openSUSE 升级挂件"
+
+#: /opt/kde3/share/applications/kde/pgcalc.desktop
+msgctxt "Name(pgcalc.desktop)"
+msgid "pgcalc"
+msgstr "pgcalc 计算器"
+
+#: /usr/share/applications/kde4/rekonq.desktop
+msgctxt "Name(rekonq.desktop)"
+msgid "rekonq"
+msgstr "rekonq 网页浏览器"
+
+#: /usr/share/applications/kde4/showfoto.desktop
+msgctxt "Name(showfoto.desktop)"
+msgid "showFoto"
+msgstr "showFoto 照片查看"
+
+#: /usr/share/applications/kde4/synaptiks.desktop
+msgctxt "Name(synaptiks.desktop)"
+msgid "synaptiks"
+msgstr "synaptiks 触摸板"
+
+

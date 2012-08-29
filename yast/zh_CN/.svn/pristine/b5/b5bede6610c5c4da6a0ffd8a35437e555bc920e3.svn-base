@@ -1,0 +1,191 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:50+0200\n"
+"PO-Revision-Date: 2012-07-08 02:13+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. error popup
+#. %1 is a command name (or a comma (, ) separated list of them)
+#: src/TftpServer.ycp:148
+#, ycp-format
+msgid ""
+"This module can only use xinetd to set up TFTP.\n"
+"However, another program is serving TFTP: %1.\n"
+"Exiting.\n"
+msgstr ""
+"此模块只能使用 xinetd 设置 TFTP。\n"
+"但是，另一个程序正在提供 TFTP 服务：%1。\n"
+"退出。\n"
+
+#. summary header
+#: src/TftpServer.ycp:321
+msgid "TFTP Server Enabled:"
+msgstr "TFTP 服务器已启用："
+
+#. summary item: an option is turned on
+#: src/TftpServer.ycp:323
+msgid "Yes"
+msgstr "是"
+
+#. summary header
+#: src/TftpServer.ycp:326
+msgid "Boot Image Directory:"
+msgstr "引导映像目录："
+
+#. Tftp-server dialog caption
+#: src/dialogs.ycp:81 src/wizards.ycp:55 src/wizards.ycp:94
+msgid "TFTP Server Configuration"
+msgstr "TFTP 服务器配置"
+
+#. dialog help text
+#: src/dialogs.ycp:91
+msgid "<p><big><b>Configuring a TFTP Server</b></big></p>"
+msgstr "<p><big><b>正在配置 TFTP 服务器</b></big></p>"
+
+#. dialog help text
+#: src/dialogs.ycp:93
+msgid "<p>Use this to enable a server for TFTP (trivial file transfer protocol). The server will be started using xinetd.</p>"
+msgstr "<p>使用此选项可为服务器启用 TFTP（普通文件传送协议）。服务器将使用 xinetd 来启动。</p>"
+
+#. enlighten newbies, #102946
+#. dialog help text
+#: src/dialogs.ycp:96
+msgid "<p>Note that TFTP and FTP are not the same.</p>"
+msgstr "<p>注意：TFTP 和 FTP 不同。</p>"
+
+#. dialog help text
+#: src/dialogs.ycp:98
+msgid ""
+"<p><b>Boot Image Directory</b>:\n"
+"Specify the directory where served files are located. The usual value is\n"
+"<tt>/tftpboot</tt>. The directory will be created if it does not exist. \n"
+"The server uses this as its root directory (using the <tt>-s</tt> option).</p>\n"
+msgstr ""
+"<p><b>引导映像目录</b>：\n"
+"指定放置服务文件的目录。\n"
+" 值一般为 <tt>/tftpboot</tt>。 如果不存在，则将创建该目录。\n"
+" 服务器使用该目录作为其根目录（使用 <tt>-s</tt> 选项）。</p>\n"
+
+#. Radio button label, disable TFTP server
+#: src/dialogs.ycp:114
+msgid "&Disable"
+msgstr "禁用(&D)"
+
+#. Radio button label, disable TFTP server
+#: src/dialogs.ycp:118
+msgid "&Enable"
+msgstr "启用(&E)"
+
+#. Text entry label
+#. Directory where served files (usually boot images) reside
+#: src/dialogs.ycp:125
+msgid "&Boot Image Directory"
+msgstr "引导映像目录(&B)"
+
+#. push button label
+#. select a directory from the filesystem
+#: src/dialogs.ycp:128
+msgid "Bro&wse..."
+msgstr "浏览(&W)..."
+
+#. push button label
+#. display a log file
+#: src/dialogs.ycp:135
+msgid "&View Log"
+msgstr "查看日志(&V)"
+
+#. error popup
+#: src/dialogs.ycp:204
+msgid ""
+"The directory must start with a slash (/)\n"
+"and must not contain spaces."
+msgstr ""
+"目录必须以反斜线 (/) 开始\n"
+"而且不能包含空格。"
+
+#. command line: show status of tftp-server
+#: src/tftp-server.ycp:34
+#, ycp-format
+msgid "Service Status: %1"
+msgstr "服务状态： %1"
+
+#. command line: show directory server by tftp-server
+#: src/tftp-server.ycp:54
+#, ycp-format
+msgid "Directory Path: %1"
+msgstr "目录路径： %1"
+
+#: src/tftp-server.ycp:70
+msgid "Configure a TFTP server"
+msgstr "配置 TFTP 服务器"
+
+#. command line: help text for "status" command
+#: src/tftp-server.ycp:74
+msgid "Status of the TFTP server"
+msgstr "TFTP 服务器的状态"
+
+#. command line: help text for "directory" command
+#: src/tftp-server.ycp:79
+msgid "Directory of the TFTP server"
+msgstr "TFTP 服务器的目录"
+
+#. command line: help text for "enable" command
+#: src/tftp-server.ycp:86
+msgid "Enable the TFTP service"
+msgstr "启用 TFTP 服务"
+
+#. command line: help text for "disable" command
+#: src/tftp-server.ycp:90
+msgid "Disable the TFTP service"
+msgstr "禁用 TFTP 服务"
+
+#. command line: help text for "show" command
+#: src/tftp-server.ycp:94
+msgid "Show the status of the TFTP service"
+msgstr "显示 TFTP 服务的状态"
+
+#. command line: help text for "path" command
+#: src/tftp-server.ycp:99
+msgid "Set the directory for the TFTP server"
+msgstr "设置 TFTP 服务器的目录"
+
+#. command line: help text for "list" command
+#: src/tftp-server.ycp:103
+msgid "Show the directory for the TFTP server"
+msgstr "显示 TFTP 服务器的目录"
+
+#. progress label
+#: src/wizards.ycp:58
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#. progress label
+#: src/wizards.ycp:97
+msgid "Initializing ..."
+msgstr "正在初始化..."
+
+#~ msgid ""
+#~ "<p><b>Boot Image Directory</b>:\n"
+#~ "Specify the directory where served files are\n"
+#~ "located. The usual value is <tt>/tftpboot</tt>. It is created if it\n"
+#~ "does not exist. The server uses this as its root directory (using the <tt>-s</tt> option).</p>\n"
+#~ msgstr ""
+#~ "<p><b>引导映像目录</b>：\n"
+#~ "指定放置服务文件的目录。\n"
+#~ " 值一般为 <tt>/tftpboot</tt>。如果不存在，则将创建该目录。\n"
+#~ " 服务器使用该目录作为其根目录（使用 <tt>-s</tt> 选项）。</p>\n"

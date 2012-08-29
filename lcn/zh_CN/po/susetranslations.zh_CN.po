@@ -1,0 +1,1457 @@
+# This file is put in the public domain.
+#
+#
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST2 (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-07-20 15:59+0200\n"
+"PO-Revision-Date: 2012-05-12 18:38+0800\n"
+"Last-Translator: margurite <i@marguerite.su>\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: china.cpp:2
+msgid "Country or region:"
+msgstr "国家或地区："
+
+#: china.cpp:3 china.cpp:13
+msgid ""
+"Here you can choose your country or region. The settings for languages, "
+"numbers etc. will automatically switch to the corresponding values."
+msgstr "您可以在此处选择国家或地区。语言、数字等设置将自动切换到相应的值。"
+
+#: china.cpp:5
+msgid ""
+"<h1>Country/Region & Language</h1>\n"
+"<p>From here you can configure language, numeric, and time \n"
+"settings for your particular region. In most cases it will be \n"
+"sufficient to choose the country you live in. For instance KDE \n"
+"will automatically choose \"German\" as language if you choose \n"
+"\"Germany\" from the list. It will also change the time format \n"
+"to use 24 hours and and use comma as decimal separator.</p>\n"
+msgstr ""
+"<h1>国家/地区和语言</h1>\n"
+"<p>在此处可以为您的特定地区\n"
+"配置语言、数字和时间设置。大多数情况下，此处的选项足以\n"
+"选择您居住的国家。例如，如果您从列表中\n"
+"选择\"Germany\"，KDE \n"
+"将自动选择\"German\"作为语言。它还会将时间格式\n"
+"改为 24 小时，并使用逗号作为十进制分隔符。</p>\n"
+
+#: china.cpp:12
+msgid ""
+"This is where you live. KDE will use the defaults for this country or region."
+msgstr "这是您的居住地。KDE 将使用该国家或地区的默认值。"
+
+#: dirfilter.cpp:1 kdeaddons3.spec.cpp:3
+msgid "Filter This Folder"
+msgstr "过滤此文件夹"
+
+#: dirfilter.cpp:2 kdeaddons3.spec.cpp:7 kdebase3.spec.cpp:310
+msgid "Search Index"
+msgstr "搜索索引"
+
+#: dirfilter.cpp:3 kdeaddons3.spec.cpp:10
+msgid ""
+"Enter here a text which shall be searched on the whole system in the Beagle "
+"index."
+msgstr "在此处输入将在整个系统的 Beagle 索引中搜索的文本。"
+
+#: kaffeine.spec.cpp:2
+msgid ""
+"This version of Xine (used by Kaffeine) has only a reduced\n"
+"set of supported codecs. It is not able to play DVDs.\n"
+"Read http://en.opensuse.org/XINE for further details."
+msgstr ""
+"该 Xine 版本（被 Kaffeine 使用）仅有一组缩减的\n"
+"编解码器。无法播放 DVD。\n"
+"有关详细信息，请阅读 http://portal.suse.com/sdb/en/2003/09/xine_dvd.htm l。"
+
+#: kaffeine.spec.cpp:5
+msgid ""
+"No WIN32 codecs found in /usr/lib/win32. You're not able to play Windows "
+"Media 9 files, newer Real Media files and some less common formats."
+msgstr ""
+"在 /usr/lib/win32 中未找到 WIN32 编解码器。您无法播放 Windows Media 9 文件，Real Media "
+"文件版本更高并缺少某些通用格式。"
+
+#: kaffeine.spec.cpp:8
+msgid ""
+"libdvdcss not found. You're not able to play encrypted (most commercial) "
+"DVD's."
+msgstr "未找到 libdvdcss。您无法播放加密的（最商业化的）DVD。"
+
+#: kaffeine.spec.cpp:11
+msgid ""
+"The xine-lib shipped by SuSE \"may lack certain features because of legal "
+"requirements (potential patent violation)\"."
+msgstr "SuSE 附带的 xine-lib \"由于法律要求（潜在的侵害专利）可能缺少一定的功能 \"。"
+
+#: kconfigeditor.spec.cpp:2
+msgid "Parsing configuration files..."
+msgstr "正在分析配置文件..."
+
+#: kconfigeditor.spec.cpp:5
+msgid "Application ready"
+msgstr "应用程序就绪"
+
+#: kdeaddons3.spec.cpp:13 searchbar.cpp:1
+msgid "Use Google Suggest"
+msgstr "使用 Google Suggest"
+
+#: kdeaddons3.spec.cpp:16 searchbar.cpp:2
+msgid "For Google Only"
+msgstr "仅可用于 Google"
+
+#: kdeaddons3.spec.cpp:19 searchbar.cpp:3
+msgid "For All Searches"
+msgstr "对于所有搜索"
+
+#: kdeaddons3.spec.cpp:22 searchbar.cpp:4
+msgid "Never"
+msgstr "从不"
+
+#: kdebase3.spec.cpp:2
+msgid "&Enable specific display power management"
+msgstr "启用特定的显示器电源管理(&E)"
+
+#: kdebase3.spec.cpp:5
+msgid "Configure KPowersave..."
+msgstr "配置 KPowersave..."
+
+#: kdebase3.spec.cpp:8
+msgid "XFree theme %1 - incomplete for KDE"
+msgstr "XFree 主题 %1 － 对 KDE 不完整"
+
+#: kdebase3.spec.cpp:11
+msgid "Change settings only for current session"
+msgstr "仅为当前会话改变设置"
+
+#: kdebase3.spec.cpp:14
+msgid ""
+"If this option is enabled the size and orientation settings will be only "
+"changed for the current session."
+msgstr "如果此项被启用，大小和 orientation 的设置将仅仅用于当前会话。"
+
+#: kdebase3.spec.cpp:17
+msgid "Please enter the Administrator (root) password to continue."
+msgstr "请输入管理员 (root) 口令以继续。"
+
+#: kdebase3.spec.cpp:20
+msgid "Please enter password for \"%1\" to continue."
+msgstr "请输入 \"%1\" 的密码以继续。"
+
+#: kdebase3.spec.cpp:26
+msgid "&Suspend Computer"
+msgstr "计算机挂起(&S)"
+
+#: kdebase3.spec.cpp:31
+msgid "Suspend to Disk"
+msgstr "挂起到磁盘"
+
+#: kdebase3.spec.cpp:36
+msgid "Suspend to RAM"
+msgstr "挂起到 RAM"
+
+#: kdebase3.spec.cpp:41
+msgid "Standby"
+msgstr "待机"
+
+#: kdebase3.spec.cpp:45
+msgid "Suspend Computer"
+msgstr "挂起计算机"
+
+#: kdebase3.spec.cpp:48
+msgid "&Language"
+msgstr "语言(&L)"
+
+#: kdebase3.spec.cpp:51
+msgid "&System"
+msgstr "系统(&S)"
+
+#: kdebase3.spec.cpp:54
+msgid "&Administration"
+msgstr "管理(&A)"
+
+#: kdebase3.spec.cpp:57
+msgid "&Disconnect"
+msgstr "断开连接(&D)"
+
+#: kdebase3.spec.cpp:63
+msgid "Power O&ff"
+msgstr "关闭电源(&F)"
+
+#: kdebase3.spec.cpp:66
+msgid "S&uspend"
+msgstr "挂起(&U)"
+
+#: kdebase3.spec.cpp:69
+msgid "&Reboot"
+msgstr "重引导(&R)"
+
+#: kdebase3.spec.cpp:72
+msgid "Caps Lock is enabled."
+msgstr "启用 大写锁定。"
+
+#: kdebase3.spec.cpp:75
+#, c-format
+msgid "User %s will log in in %d seconds"
+msgstr "用户 %s 将在 %d 秒内登录"
+
+#: kdebase3.spec.cpp:78
+msgid "&Username:"
+msgstr "用户名(&U):"
+
+#: kdebase3.spec.cpp:81
+msgid "&Password:"
+msgstr "口令(&P):"
+
+#: kdebase3.spec.cpp:84
+msgid "&Domain:"
+msgstr "域(&D)："
+
+#: kdebase3.spec.cpp:87
+msgid "&Top"
+msgstr "顶部(&T)："
+
+#: kdebase3.spec.cpp:90
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr "<p>此链接引用了主页或某些层次的顶层。</p>"
+
+#: kdebase3.spec.cpp:93
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "<p>此链接引用了当前文档的直接父文档。</p>"
+
+#: kdebase3.spec.cpp:96
+msgid "&First"
+msgstr "第一页(&F)"
+
+#: kdebase3.spec.cpp:99
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr "<p>此链接类型通知搜索引擎作者把哪个文档看作是一系列文档的起点。</p>"
+
+#: kdebase3.spec.cpp:105
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr "<p>此链接引用了一系列文档中的上一文档。</p>"
+
+#: kdebase3.spec.cpp:108
+msgid "&Next"
+msgstr "下一步(&N)"
+
+#: kdebase3.spec.cpp:111
+msgid ""
+"<p>This link references the next document in an ordered series of documents.<"
+"/p>"
+msgstr "<p>此链接引用了一系列文档中的下一文档。</p>"
+
+#: kdebase3.spec.cpp:114
+msgid "&Last"
+msgstr "最后一页(&L)"
+
+#: kdebase3.spec.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>此链接引用了一系列文档中的最后一个。</p>"
+
+#: kdebase3.spec.cpp:120
+msgid "<p>This link references the search.</p>"
+msgstr "<p>此链接引用搜索页。</p>"
+
+#: kdebase3.spec.cpp:123
+msgid "Document"
+msgstr "文档"
+
+#: kdebase3.spec.cpp:126
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+
+#: kdebase3.spec.cpp:129
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>此链接引用了目录。</p>"
+
+#: kdebase3.spec.cpp:132
+msgid "Chapters"
+msgstr "章"
+
+#: kdebase3.spec.cpp:135
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>此菜单引用了文档各章。</p>"
+
+#: kdebase3.spec.cpp:138
+msgid "Sections"
+msgstr "节"
+
+#: kdebase3.spec.cpp:141
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>此菜单引用了文档各节。</p>"
+
+#: kdebase3.spec.cpp:144
+msgid "Subsections"
+msgstr "小节"
+
+#: kdebase3.spec.cpp:147
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>此菜单引用了文档各小节。</p>"
+
+#: kdebase3.spec.cpp:150
+msgid "Appendix"
+msgstr "附录"
+
+#: kdebase3.spec.cpp:153
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>此链接引用附录。</p>"
+
+#: kdebase3.spec.cpp:156
+msgid "&Glossary"
+msgstr "词汇表(&G)"
+
+#: kdebase3.spec.cpp:159
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>此链接引用词汇表。</p>"
+
+#: kdebase3.spec.cpp:162
+msgid "&Index"
+msgstr "索引(&I)"
+
+#: kdebase3.spec.cpp:165
+msgid "<p>This link references the index.</p>"
+msgstr "<p>此链接引用索引。</p>"
+
+#: kdebase3.spec.cpp:168
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>此菜单包含其它重要链接。</p>"
+
+#: kdebase3.spec.cpp:174
+msgid "<p>This link references the help.</p>"
+msgstr "<p>此链接引用帮助。</p>"
+
+#: kdebase3.spec.cpp:177
+msgid "&Authors"
+msgstr "作者(&A)"
+
+#: kdebase3.spec.cpp:180
+msgid "<p>This link references the author.</p>"
+msgstr "<p>此链接引用作者。</p>"
+
+#: kdebase3.spec.cpp:183
+msgid "Copy&right"
+msgstr "版权(&R)"
+
+#: kdebase3.spec.cpp:186
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>此链接引用版权。</p>"
+
+#: kdebase3.spec.cpp:189
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>此链接引用书签。</p>"
+
+#: kdebase3.spec.cpp:192
+msgid "Other Versions"
+msgstr "其它版本"
+
+#: kdebase3.spec.cpp:195
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "<p>此链接引用此文档的备选版本。</p>"
+
+#: kdebase3.spec.cpp:198
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>杂类链接。</p>"
+
+#: kdebase3.spec.cpp:202
+msgid "&Alternate Button Order"
+msgstr "改变按钮顺序(&A)"
+
+#: kdebase3.spec.cpp:209
+#, c-format
+msgid "Folder: %1"
+msgstr "文件夹：%1"
+
+#: kdebase3.spec.cpp:214
+#, c-format
+msgid "Send Email to %1"
+msgstr "向 %1 发送电子邮件"
+
+#: kdebase3.spec.cpp:218
+#, c-format
+msgid "Open Addressbook at %1"
+msgstr "在 %1 打开地址簿"
+
+#: kdebase3.spec.cpp:221
+msgid "No subject"
+msgstr "无主题"
+
+#: kdebase3.spec.cpp:224
+msgid "(Attachment) "
+msgstr "（附件）"
+
+#: kdebase3.spec.cpp:228
+#, c-format
+msgid "From %1"
+msgstr "从 %1"
+
+#: kdebase3.spec.cpp:231
+#, c-format
+msgid "By %1"
+msgstr "由 %1"
+
+#: kdebase3.spec.cpp:234
+#, c-format
+msgid "From Album %1"
+msgstr "从相册 %1"
+
+#: kdebase3.spec.cpp:237
+#, c-format
+msgid "Title: %1"
+msgstr "标题：%1"
+
+#: kdebase3.spec.cpp:243
+#, c-format
+msgid "Conversation With %1"
+msgstr "与 %1 的会话"
+
+#: kdebase3.spec.cpp:246
+msgid "Unknown Person"
+msgstr "未知人员"
+
+#: kdebase3.spec.cpp:249
+#, c-format
+msgid "Date: %1"
+msgstr "日期：%1"
+
+#: kdebase3.spec.cpp:252
+msgid "Switch to SUSE Menu Style"
+msgstr "切换为 SUSE 菜单样式"
+
+#: kdebase3.spec.cpp:255
+msgid "Switch to KDE Menu Style"
+msgstr "切换为 KDE 菜单样式"
+
+#: kdebase3.spec.cpp:259
+msgid "New Applications"
+msgstr "新应用程序"
+
+#: kdebase3.spec.cpp:262
+#, c-format
+msgid "Host: %1"
+msgstr "主机：%1"
+
+#: kdebase3.spec.cpp:265
+msgid "Directory: /)"
+msgstr "目录：/）"
+
+#: kdebase3.spec.cpp:268
+msgid "Directory: "
+msgstr "目录：  "
+
+#: kdebase3.spec.cpp:271
+msgid "Press '/' to search..."
+msgstr "按\"/\"搜索..."
+
+#: kdebase3.spec.cpp:274
+msgid "User&nbsp;<b>%1</b>&nbsp;on&nbsp;<b>%2</b>"
+msgstr "用户 <b>%1</b>（在 <b>%2</b> 上）"
+
+#: kdebase3.spec.cpp:277
+msgid "Most commonly used applications and documents"
+msgstr "最常用的应用程序和文档"
+
+#: kdebase3.spec.cpp:280
+msgid "List of installed applications"
+msgstr "已安装应用程序的列表"
+
+#: kdebase3.spec.cpp:283
+msgid ""
+"Information and configuration of your system, access to personal files, "
+"network resources and connected disk drives"
+msgstr "系统的信息和配置，对个人文件、网络资源和已连接磁盘驱动器的访问"
+
+#: kdebase3.spec.cpp:286
+msgid "Recently used applications and documents"
+msgstr "最近使用的应用程序和文档"
+
+#: kdebase3.spec.cpp:289
+msgid "<qt>Logout, switch user, switch off or reset, suspend of the system"
+msgstr "<qt>注销、切换用户、关闭或重置、暂挂系统"
+
+#: kdebase3.spec.cpp:292
+msgid "<p align=\"center\"> <u>F</u>avorites</p>"
+msgstr "<p align=\"center\">收藏夹(<u>F</u>)</p>"
+
+#: kdebase3.spec.cpp:295
+msgid "<p align=\"center\"><u>H</u>istory</p>"
+msgstr "<p align=\"center\">历史记录(<u>H</u>)</p>"
+
+#: kdebase3.spec.cpp:298
+msgid "<p align=\"center\"> <u>C</u>omputer</p>"
+msgstr "<p align=\"center\">计算机(<u>C</u>)</p>"
+
+#: kdebase3.spec.cpp:301
+msgid "<p align=\"center\"><u>A</u>pplications</p>"
+msgstr "<p align=\"center\">应用程序(<u>A</u>)</p>"
+
+#: kdebase3.spec.cpp:304
+msgid "<p align=\"center\"><u>L</u>eave</p>"
+msgstr "<p align=\"center\">离开(<u>L</u>)</p>"
+
+#: kdebase3.spec.cpp:307
+msgid "Search Internet"
+msgstr "搜索因特网"
+
+#: kdebase3.spec.cpp:313
+msgid "Applications, Contacts and Documents"
+msgstr "应用程序、联系人和文档"
+
+#: kdebase3.spec.cpp:316
+msgid "Start '%1'"
+msgstr "启动“%1”"
+
+#: kdebase3.spec.cpp:319
+msgid "Start '%1' (current)"
+msgstr "启动“%1”（当前）"
+
+#: kdebase3.spec.cpp:322
+msgid "Restart and boot directly into '%1'"
+msgstr "重新启动并直接引导为“%1”"
+
+#: kdebase3.spec.cpp:325
+msgid "Start a parallel session"
+msgstr "启动并行会话"
+
+#: kdebase3.spec.cpp:328
+msgid "Lock screen and start a parallel session"
+msgstr "锁定屏幕并启动并行会话"
+
+#: kdebase3.spec.cpp:331
+msgid "Switch to Session of User '%1'"
+msgstr "切换到用户“%1”的会话"
+
+#: kdebase3.spec.cpp:334
+#, c-format
+msgid "Session: %1"
+msgstr "会话：%1"
+
+#: kdebase3.spec.cpp:338
+msgid "Logout"
+msgstr "注销"
+
+#: kdebase3.spec.cpp:341
+msgid "End session"
+msgstr "结束会话"
+
+#: kdebase3.spec.cpp:344
+msgid "Lock"
+msgstr "锁定"
+
+#: kdebase3.spec.cpp:347
+msgid "Lock screen"
+msgstr "锁定屏幕"
+
+#: kdebase3.spec.cpp:350
+msgid "Save current Session for next login"
+msgstr "保存当前会话以用于下一次登录"
+
+#: kdebase3.spec.cpp:353
+msgid "Manage parallel sessions"
+msgstr "管理并行会话"
+
+#: kdebase3.spec.cpp:356
+msgid "Shutdown Computer"
+msgstr "关闭计算机"
+
+#: kdebase3.spec.cpp:359
+msgid "Turn off computer"
+msgstr "关闭计算机"
+
+#: kdebase3.spec.cpp:362
+msgid "Restart and boot the default system"
+msgstr "重新启动并引导默认系统"
+
+#: kdebase3.spec.cpp:365
+msgid "Start Operating System"
+msgstr "启动操作系统"
+
+#: kdebase3.spec.cpp:368
+msgid "Restart and boot another operating system"
+msgstr "重新启动并引导另一个操作系统"
+
+#: kdebase3.spec.cpp:373
+msgid "Applications"
+msgstr "应用程序"
+
+#: kdebase3.spec.cpp:376
+msgid "System Information"
+msgstr "系统信息"
+
+#: kdebase3.spec.cpp:379
+msgid "System Folders"
+msgstr "系统文件夹"
+
+#: kdebase3.spec.cpp:382
+msgid "Home Folder"
+msgstr "主文件夹"
+
+#: kdebase3.spec.cpp:385
+msgid "My Documents"
+msgstr "我的文档"
+
+#: kdebase3.spec.cpp:388
+msgid "Network Folders"
+msgstr "网络文件夹"
+
+#: kdebase3.spec.cpp:391
+msgid "Documents"
+msgstr "文档"
+
+#: kdebase3.spec.cpp:394
+msgid "- Add ext:type to specify a file extension."
+msgstr "- 添加 ext:type 以指定文件扩展名。"
+
+#: kdebase3.spec.cpp:397
+msgid "- When searching for a phrase, add quotes."
+msgstr "- 当搜索短语时，请添加引号。"
+
+#: kdebase3.spec.cpp:400
+msgid "- To exclude search terms, use the minus symbol in front."
+msgstr "- 要排除搜索项，请在前面使用减号。"
+
+#: kdebase3.spec.cpp:403
+msgid "- To search for optional terms, use OR."
+msgstr "- 要搜索可选项，请使用 OR。"
+
+#: kdebase3.spec.cpp:406
+msgid "- You can use upper and lower case."
+msgstr "- 可以使用大写和小写。"
+
+#: kdebase3.spec.cpp:409
+msgid "Search Quick Tips"
+msgstr "搜索快速提示"
+
+#: kdebase3.spec.cpp:412
+msgid "%1 = %2"
+msgstr "%1 = %2"
+
+#: kdebase3.spec.cpp:415
+#, c-format
+msgid "Open Local File: %1"
+msgstr "打开本地文件：%1"
+
+#: kdebase3.spec.cpp:418
+#, c-format
+msgid "Open Local Dir: %1"
+msgstr "打开本地目录：%1"
+
+#: kdebase3.spec.cpp:421
+#, c-format
+msgid "Open Remote Location: %1"
+msgstr "打开远程位置：%1"
+
+#: kdebase3.spec.cpp:424
+msgid "Run '%1'"
+msgstr "运行“%1”"
+
+#: kdebase3.spec.cpp:428
+msgid "No matches found"
+msgstr "找不到匹配项"
+
+#: kdebase3.spec.cpp:431
+msgid "top %1 of %2"
+msgstr "前 %1 个（共 %2 个）"
+
+#: kdebase3.spec.cpp:434
+msgid "%1 (top %2 of %3)"
+msgstr "%1 - 前 %2 个（共 %3 个）"
+
+#: kdebase3.spec.cpp:437
+msgid "Do you really want to end the session?"
+msgstr "确实要结束会话？"
+
+#: kdebase3.spec.cpp:440
+msgid "Logout Confirmation"
+msgstr "注销确认"
+
+#: kdebase3.spec.cpp:443
+msgid "Do you really want to turn off the computer?"
+msgstr "确实要关闭计算机？"
+
+#: kdebase3.spec.cpp:446
+msgid "Shutdown Confirmation"
+msgstr "关机确认"
+
+#: kdebase3.spec.cpp:449
+msgid "Shutdown"
+msgstr "关机"
+
+#: kdebase3.spec.cpp:452
+msgid ""
+"Do you really want to reset the computer and boot (another operating system)?"
+msgstr "确实要重置计算机并引导（另一个操作系统）？"
+
+#: kdebase3.spec.cpp:455
+msgid "Restart Confirmation"
+msgstr "重新启动确认"
+
+#: kdebase3.spec.cpp:458
+msgid "Restart"
+msgstr "重启动"
+
+#: kdebase3.spec.cpp:461
+msgid "Do you really want to reset the computer and boot Microsoft Windows"
+msgstr "确实要重置计算机并引导 Microsoft Windows？"
+
+#: kdebase3.spec.cpp:464
+msgid "Start Windows Confirmation"
+msgstr "启动 Windows 确认"
+
+#: kdebase3.spec.cpp:467
+msgid "Start Windows"
+msgstr "启动 Windows"
+
+#: kdebase3.spec.cpp:470
+msgid "Could not start Tomboy."
+msgstr "无法启动 Tomboy。"
+
+#: kdebase3.spec.cpp:473
+msgid "Remove From Favorites"
+msgstr "从\"收藏夹\"中除去"
+
+#: kdebase3.spec.cpp:476
+msgid "Add to Favorites"
+msgstr "添加至\"收藏夹\""
+
+#: kdebase3.spec.cpp:479
+msgid "Clear Recently Used Applications"
+msgstr "清除最近使用的应用程序"
+
+#: kdebase3.spec.cpp:482
+msgid "Clear Recently Used Documents"
+msgstr "清除最近使用的文档"
+
+#: kdebase3.spec.cpp:485
+msgid "Media"
+msgstr "介质"
+
+#: kdebase3.spec.cpp:488
+msgid "(%1 available)"
+msgstr "（%1 可用）"
+
+#: kdebase3.spec.cpp:492
+#, c-format
+msgid "Directory: %1"
+msgstr "目录：%1"
+
+#: kdebase3.spec.cpp:497
+msgid "Pause without logging out"
+msgstr "暂停而不注销"
+
+#: kdebase3.spec.cpp:502
+msgid "Suspend failed"
+msgstr "挂起失败"
+
+#: kdebase3.spec.cpp:505
+msgid "Notes"
+msgstr "记事"
+
+#: kdebase3.spec.cpp:508
+msgid "Emails"
+msgstr "电子邮件"
+
+#: kdebase3.spec.cpp:514
+msgid "Music"
+msgstr "音乐"
+
+#: kdebase3.spec.cpp:517
+msgid "Browsing History"
+msgstr "浏览历史记录"
+
+#: kdebase3.spec.cpp:520
+msgid "Chat Logs"
+msgstr "聊天日志"
+
+#: kdebase3.spec.cpp:523
+msgid "Feeds"
+msgstr "Feeds"
+
+#: kdebase3.spec.cpp:526
+msgid "Pictures"
+msgstr "图片"
+
+#: kdebase3.spec.cpp:529
+msgid "Videos"
+msgstr "视频"
+
+#: kdebase3.spec.cpp:532
+msgid "Documentation"
+msgstr "文档"
+
+#: kdebase3.spec.cpp:535
+msgid "Others"
+msgstr "其他"
+
+#: kdebase3.spec.cpp:538
+msgid "Low Disk Space"
+msgstr "磁盘空间不足"
+
+#: kdebase3.spec.cpp:541
+msgid "Start Konqueror"
+msgstr "启动 Konqueror"
+
+#: kdebase3.spec.cpp:544
+msgid ""
+"You are running low on disk space on your home partition (currently %1% "
+"free), would you like to run Konqueror to free some disk space and fix the "
+"problem?"
+msgstr "您的主分区上的磁盘空间不足（目前仅有 %1% 的可用空间），要运行 Konqueror 来释放部分磁盘空间并修复此问题吗？"
+
+#: kdebase3.spec.cpp:547
+msgid ""
+"<qt><h3>End Current Session</h3><p>Log out of the current session to login "
+"with a different user</p></qt>"
+msgstr "<qt><h3>结束当前会话</h3><p>从当前会话注销，再以另一个用户身份登录</p></qt>"
+
+#: kdebase3.spec.cpp:550
+msgid ""
+"<qt><h3>Turn Off Computer</h3><p>Log out of the current session and turn off "
+"the computer</p></qt>"
+msgstr "<qt><h3>关闭计算机</h3><p>从当前会话注销并关闭计算机</p></qt>"
+
+#: kdebase3.spec.cpp:553
+msgid ""
+"<qt><h3>Restart Computer</h3><p>Log out of the current session and restart "
+"the computer</p><p>Hold the mouse button or the space bar for a short while "
+"to get a list of options what to boot</p></qt>"
+msgstr ""
+"<qt><h3>重启动计算机</h3><p>从当前会话注销并重启动计算机</p><p>按住鼠标按键或空格键片刻，以获取一组引导内容选项</p></qt>"
+
+#: kdebase3.spec.cpp:556
+msgid ""
+"<qt><h3>Restart Computer</h3><p>Log out of the current session and restart "
+"the computer</p></qt>"
+msgstr "<qt><h3>重启动计算机</h3><p>从当前会话注销并重启动计算机</p></qt>"
+
+#: kdebase3.spec.cpp:559
+msgid "Would you like to turn off your computer?"
+msgstr "要关闭计算机吗？"
+
+#: kdebase3.spec.cpp:562
+msgid ""
+"This computer will turn off automatically\n"
+"after %1 seconds."
+msgstr ""
+"此计算机将在\n"
+"%1 秒之后自动关闭。"
+
+#: kdebase3.spec.cpp:565
+msgid "Would you like to reboot your computer?"
+msgstr "要重引导计算机吗？"
+
+#: kdebase3.spec.cpp:568
+msgid "Would you like to reboot to \"%1\"?"
+msgstr "要重引导至“%1”吗？"
+
+#: kdebase3.spec.cpp:571
+msgid ""
+"This computer will reboot automatically\n"
+"after %1 seconds."
+msgstr ""
+"此计算机将在\n"
+"%1 秒之后自动重引导。"
+
+#: kdebase3.spec.cpp:574
+msgid "Would you like to end your current session?"
+msgstr "要结束当前会话吗？"
+
+#: kdebase3.spec.cpp:577
+msgid ""
+"This session will end\n"
+"after %1 seconds automatically."
+msgstr ""
+"此会话将在\n"
+"%1 秒之后自动结束。"
+
+#: kdebase3.spec.cpp:580
+msgid "Unable to start ksplashx."
+msgstr "无法启动 ksplashx。"
+
+#: kdebase3.spec.cpp:583 xinerama.cpp:1
+msgid "S&eparate screen focus"
+msgstr "分隔屏幕焦点(&E)"
+
+#: kdebase3.spec.cpp:586 xinerama.cpp:2
+msgid ""
+"When this option is enabled, focus operations are limited only to the active "
+"Xinerama screen"
+msgstr "当启用此选项时，焦点操作仅限制在活动的 Xinerama 屏幕内"
+
+#: kdebase3.spec.cpp:589 xinerama.cpp:3
+msgid "Active &mouse screen"
+msgstr "活动鼠标屏幕(&M)"
+
+#: kdebase3.spec.cpp:592 xinerama.cpp:4
+msgid ""
+"When this option is enabled, active Xinerama screen (where for example new "
+"windows appear) is the screen with the mouse pointer. When disabled, the "
+"active Xinerama screen is the screen with the focused window. This option is "
+"by default disabled for Click to focus and enabled for other focus policies."
+msgstr ""
+"当启用此选项时，活动的 Xinerama 屏幕（例如出现新窗口的位置）是拥有鼠标指针的屏幕。当禁用时，活动的 Xinerama "
+"屏幕是拥有焦点窗口的屏幕。默认情况下，此选项对于“单击以聚焦”是禁用的，对于其他焦点策略是启用的。"
+
+#: kdebase3.spec.cpp:595 xinerama.cpp:8
+msgid "Window to Screen 0"
+msgstr "以窗口打开屏幕 0"
+
+#: kdebase3.spec.cpp:598 xinerama.cpp:9
+msgid "Window to Screen 1"
+msgstr "以窗口打开屏幕 1"
+
+#: kdebase3.spec.cpp:601 xinerama.cpp:10
+msgid "Window to Screen 2"
+msgstr "以窗口打开屏幕 2"
+
+#: kdebase3.spec.cpp:604 xinerama.cpp:11
+msgid "Window to Screen 3"
+msgstr "以窗口打开屏幕 3"
+
+#: kdebase3.spec.cpp:607 xinerama.cpp:12
+msgid "Window to Screen 4"
+msgstr "以窗口打开屏幕 4"
+
+#: kdebase3.spec.cpp:610 xinerama.cpp:13
+msgid "Window to Screen 5"
+msgstr "以窗口打开屏幕 5"
+
+#: kdebase3.spec.cpp:613 xinerama.cpp:14
+msgid "Window to Screen 6"
+msgstr "以窗口打开屏幕 6"
+
+#: kdebase3.spec.cpp:616 xinerama.cpp:15
+msgid "Window to Screen 7"
+msgstr "以窗口打开屏幕 7"
+
+#: kdebase3.spec.cpp:619 xinerama.cpp:16
+msgid "Window to Next Screen"
+msgstr "以窗口打开下一个屏幕"
+
+#: kdebase3.spec.cpp:622 xinerama.cpp:17
+msgid "Switch to Screen 0"
+msgstr "切换到屏幕 0"
+
+#: kdebase3.spec.cpp:625 xinerama.cpp:18
+msgid "Switch to Screen 1"
+msgstr "切换到屏幕 1"
+
+#: kdebase3.spec.cpp:628 xinerama.cpp:19
+msgid "Switch to Screen 2"
+msgstr "切换到屏幕 2"
+
+#: kdebase3.spec.cpp:631 xinerama.cpp:20
+msgid "Switch to Screen 3"
+msgstr "切换到屏幕 3"
+
+#: kdebase3.spec.cpp:634 xinerama.cpp:21
+msgid "Switch to Screen 4"
+msgstr "切换到屏幕 4"
+
+#: kdebase3.spec.cpp:637 xinerama.cpp:22
+msgid "Switch to Screen 5"
+msgstr "切换到屏幕 5"
+
+#: kdebase3.spec.cpp:640 xinerama.cpp:23
+msgid "Switch to Screen 6"
+msgstr "切换到屏幕 6"
+
+#: kdebase3.spec.cpp:643 xinerama.cpp:24
+msgid "Switch to Screen 7"
+msgstr "切换到屏幕 7"
+
+#: kdebase3.spec.cpp:646 xinerama.cpp:25
+msgid "Switch to Next Screen"
+msgstr "切换到下一个屏幕"
+
+#: kdebase3.spec.cpp:649
+msgid "Start menu style:"
+msgstr "开始菜单风格："
+
+#: kdebase3.spec.cpp:652
+msgid "SUSE"
+msgstr "SUSE"
+
+#: kdebase3.spec.cpp:655
+msgid "KDE"
+msgstr "KDE"
+
+#: kdebase3.spec.cpp:658
+msgid "Open menu on mouse hover"
+msgstr "鼠标悬停打开菜单"
+
+#: kdebase3.spec.cpp:661
+msgid "Name (&Description)"
+msgstr "名称描述 (描述)(&D)"
+
+#: kdebase3.spec.cpp:664
+msgid ""
+"When this option is selected, items in the K Menu will appear with the "
+"application's name and a brief description in brackets next to the icon."
+msgstr "选取此项，K 菜单将在图标旁边会出现程序名称和简短描述。"
+
+#: kdebase3.spec.cpp:667
+msgid "Alt+I"
+msgstr "Alt+I"
+
+#: kdebase3.spec.cpp:670
+msgid "Alt+F"
+msgstr "Alt+F"
+
+#: kdebase3.spec.cpp:673
+msgid "Alt+P"
+msgstr "Alt+P"
+
+#: kdebase3.spec.cpp:676
+msgid "Alt+M"
+msgstr "Alt+M"
+
+#: kdebase3.spec.cpp:679
+msgid "Preferred Window Manager:"
+msgstr "首选窗口管理器："
+
+#: kdebase3.spec.cpp:682
+msgid "KMenu"
+msgstr "KMenu"
+
+#: kdebase3.spec.cpp:685
+msgid "MShadow"
+msgstr "MShadow"
+
+#: kdebase3.spec.cpp:688
+msgid "MShape"
+msgstr "MShape"
+
+#: kdebase3.spec.cpp:691
+msgid "Search:"
+msgstr "搜索："
+
+#: kdebase3.spec.cpp:694
+msgid "User&nbsp;<b>user</b>&nbsp;on&nbsp;<b>host</b>"
+msgstr "用户 <b>user</b>（在 <b>host</b> 上）"
+
+#: kdebase3.spec.cpp:697
+msgid "KMenuItemBase"
+msgstr "KMenuItemBase"
+
+#: kdebase3.spec.cpp:700
+msgid "Would you like to shutdown your computer?"
+msgstr "要关闭计算机吗？"
+
+#: kdebase3.spec.cpp:703
+msgid ""
+"If you do not act, your computer will shutdown\n"
+"after X automatically."
+msgstr ""
+"如果没有操作，计算机将在\n"
+"X 之后自动关闭。"
+
+#: kdebase3.spec.cpp:706
+msgid "Confirm"
+msgstr "确认"
+
+#: kdelibs3.spec.cpp:2
+msgid "Conversion to KDEMM"
+msgstr "KDEMM 转换"
+
+#: kdelibs3.spec.cpp:6
+msgid "&Edit History..."
+msgstr "编辑历史(&E)"
+
+#: kdelibs3.spec.cpp:9
+msgid "History Editor"
+msgstr "历史编辑器"
+
+#: kdelibs3.spec.cpp:12
+msgid "&Delete Entry"
+msgstr "删除条目(&D)"
+
+#: kdelibs3.spec.cpp:15
+msgid "This dialog allows you to delete unwanted history items."
+msgstr "这个对话框允许你删除不需要的历史项。"
+
+#: kdelibs3.spec.cpp:18
+msgid "Clear Search"
+msgstr "清除搜索"
+
+#: kdelibs3.spec.cpp:21
+msgid "&Search:"
+msgstr "搜索(&S)："
+
+#: kdelibs3.spec.cpp:24 kfile-beagle.cpp:2
+msgid "search term"
+msgstr "搜索项"
+
+#: kdelibs3.spec.cpp:27 kfile-beagle.cpp:1
+msgid "Desktop Search"
+msgstr "桌面搜索"
+
+#: kdelibs3.spec.cpp:30
+msgid ""
+"Could not access %1.\n"
+"Offline mode active."
+msgstr ""
+"无法访问 %1。\n"
+"现在处于脱机方式。"
+
+#: kdepim3.spec.cpp:2
+#, c-format
+msgid ""
+"Cannot open audio file:\n"
+"%1"
+msgstr ""
+"无法打开文件：\n"
+"%1"
+
+#: kdepim3.spec.cpp:5
+msgid "Stop sound"
+msgstr "停止声音"
+
+#: kdepim3.spec.cpp:8
+msgid "Stop playing the sound"
+msgstr "停止播放声音"
+
+#: kdepim3.spec.cpp:11
+msgid "<qt><p>KMail does not support attaching files bigger than 30 MB.</p>"
+msgstr "<qt><p>KMail 不支持附件文件大于 30 MB。</p>"
+
+#: kdepim3.spec.cpp:14
+msgid "KMail is now offline; all network operations cancelled"
+msgstr "KMail 现在脱机；所有网络操作取消"
+
+#: kdepim3.spec.cpp:17
+msgid "KMail is now online; network operations resumed"
+msgstr "KMail 现在上线；网络操作恢复"
+
+#: mediamanager.cpp:1
+msgid "Access time updates"
+msgstr "访问时间更新"
+
+#: mediamanager.cpp:2
+msgid "All Data"
+msgstr "所有数据"
+
+#: mediamanager.cpp:3
+msgid "All I/O to the file system should be done synchronously."
+msgstr "所有针对文件系统的 I/O 操作应同步执行。"
+
+#: mediamanager.cpp:4
+msgid "Device is already mounted."
+msgstr "设备已装入。"
+
+#: mediamanager.cpp:5
+msgid "Device is Busy:"
+msgstr "设备正忙："
+
+#: mediamanager.cpp:6
+msgid "Feature only available with HAL"
+msgstr "功能仅对于 HAL 可用"
+
+#: mediamanager.cpp:7
+#, c-format
+msgid "Filesystem: %1"
+msgstr "文件系统：%1"
+
+#: mediamanager.cpp:8
+msgid "Filesystem: iso9660"
+msgstr "文件系统：iso9660"
+
+#: mediamanager.cpp:9
+msgid "Filesystem Specific Mount Options"
+msgstr "特定于文件系统的装入选项"
+
+#: mediamanager.cpp:10
+msgid "Flushed IO"
+msgstr "IO 已刷新"
+
+#: mediamanager.cpp:11
+msgid "Generic Mount Options"
+msgstr "通用装入选项"
+
+#: mediamanager.cpp:12
+msgid "Internal Error"
+msgstr "内部错误"
+
+#: mediamanager.cpp:13
+msgid "Invalid filesystem type"
+msgstr "无效的文件系统类型"
+
+#: mediamanager.cpp:14
+msgid "Journaling:"
+msgstr "日志："
+
+#: mediamanager.cpp:15
+msgid "Lower"
+msgstr "小写"
+
+#: mediamanager.cpp:16
+msgid "Mixed"
+msgstr "混合"
+
+#: mediamanager.cpp:17
+msgid "Mount as user"
+msgstr "作为用户装入"
+
+#: mediamanager.cpp:18
+msgid "Mount automatically"
+msgstr "自动装入"
+
+#: mediamanager.cpp:19
+msgid "&Mounting"
+msgstr "装入(&M)"
+
+#: mediamanager.cpp:20
+msgid "Mount label:"
+msgstr "装入标签："
+
+#: mediamanager.cpp:21
+msgid "Mountpoint:"
+msgstr "装入点："
+
+#: mediamanager.cpp:22
+msgid "Mountpoint has to be below /media"
+msgstr "装入点必须位于 /media 之下"
+
+#: mediamanager.cpp:23
+msgid "Mount the file system read-only."
+msgstr "装入只读的文件系统。"
+
+#: mediamanager.cpp:24
+msgid "Mount this file system as user."
+msgstr "以用户的身份装入该文件。"
+
+#: mediamanager.cpp:25
+msgid "Mount this file system automatically."
+msgstr "自动装入该文件系统。"
+
+#: mediamanager.cpp:26
+#, c-format
+msgid "No such medium: %1"
+msgstr "没有此类介质： %1"
+
+#: mediamanager.cpp:27
+msgid "Ordered"
+msgstr "按顺序"
+
+#: mediamanager.cpp:28
+msgid "Permissions denied"
+msgstr "拒绝许可权限"
+
+#: mediamanager.cpp:29
+msgid "PropertiesPageGUI"
+msgstr "属性页面 GUI"
+
+#: mediamanager.cpp:30
+msgid "Quiet"
+msgstr "安静"
+
+#: mediamanager.cpp:31
+msgid "Read only"
+msgstr "只读"
+
+#: mediamanager.cpp:32
+msgid "Saving the changes failed"
+msgstr "保存更改失败"
+
+#: mediamanager.cpp:33
+msgid "Short names:"
+msgstr "短名称："
+
+#: mediamanager.cpp:34
+msgid "Synchronous"
+msgstr "同步"
+
+#: mediamanager.cpp:35
+msgid "The option 'flush' is not allowed"
+msgstr "不允许选项\"flush\""
+
+#: mediamanager.cpp:36
+msgid "Under what label this file system shall be mounted."
+msgstr "该文件应装入什么标签下。"
+
+#: mediamanager.cpp:37
+msgid "Update inode access time for each access."
+msgstr "更新每次 inode 访问的时间。"
+
+#: mediamanager.cpp:38
+msgid "UTF-8 charset"
+msgstr "UTF-8 字符集"
+
+#: mediamanager.cpp:39
+msgid "Windows 95"
+msgstr "Windows 95"
+
+#: mediamanager.cpp:40
+msgid "Windows NT"
+msgstr "Windows NT"
+
+#: mediamanager.cpp:41
+msgid "Write Back"
+msgstr "回写"
+
+#: mediamanager.cpp:42
+msgid ""
+"Attempts to chown or chmod files do not return errors, although they fail. "
+"Use with caution!"
+msgstr "即使对chown 或chmod 文件的尝试失败，也不会返回错误。请谨慎使用！"
+
+#: mediamanager.cpp:43
+msgid ""
+"Under what directory this file system shall be mounted. Please note that "
+"there is no guarantee that the system will respect your wish. For one the "
+"directory has to be below /media - and it does not yet have to exist."
+msgstr "该文件系统应装入什么目录下。请注意，不能保证系统将遵循您的意愿。目录必须位于 /media 之下，但是它尚不存在。"
+
+#: mediamanager.cpp:46
+msgid ""
+"Always flush all data to the hot plug devices immediately and don't cache it."
+msgstr "始终将立即刷新热插拔设备上的数据而不会对其进行缓存。"
+
+#: mediamanager.cpp:47
+msgid ""
+"UTF8 is the filesystem safe 8-bit encoding of Unicode that is used by the "
+"console. It can be be enabled for the filesystem with this option."
+msgstr "UTF8 是控制台使用的 Unicode 文件系统安全 8 位编码。可通过此选项对文件系统启用它。"
+
+#: mediamanager.cpp:49
+msgid ""
+"<h2>Specifies  the journalling mode for file data. Metadata is always "
+"journaled. </h2>\n"
+"           \n"
+"<h3><b>All Data</b></h3>\n"
+"           All  data  is  committed into the journal prior to being written "
+"into the main file system. This is the slowest variant with the highest data "
+"security.\n"
+"\n"
+"<h3><b>Ordered</b></h3>\n"
+"           All data is forced directly out to the main  file system prior to "
+"its metadata being committed to the journal.\n"
+"\n"
+"<h3><b>Write Back</b></h3>\n"
+"           Data ordering is not preserved - data may be written into the main "
+"file system after its metadata has been committed to the journal.  This is "
+"rumoured to  be the  highest-throughput option.  It guarantees internal file "
+"system integrity,  however it can allow old data to appear in files after  a  "
+"crash  and  journal recovery."
+msgstr ""
+"<h2>为文件数据指定日志模式。始终对元数据进行日志记录。</h2>\n"
+"\n"
+" <h3><b>所有数据</b></h3>\n"
+"所有的数据在写入主文件系统之前都将提交到日志中。 这种方式的速度最慢，但是数据安全性最高。\n"
+"\n"
+" <h3><b>按顺序</b></h3>\n"
+"            所有的数据在其元数据提交到日志之前，都将直接写出到文件系统。\n"
+" \n"
+" <h3><b>回写</b></h3>\n"
+"            不保持数据顺序 － 数据可以在其元数据提交到日志之前写入主文件系统中。  这其实并不是最高吞吐量选项。  "
+"它保证了内部文件系统的完整性，但是在崩溃和日志恢复之后，它可能允许旧数据出现在文件中。"
+
+#: mediamanager.cpp:67
+msgid ""
+"<h2>Defines  the  behaviour  for  creation and display of filenames which fit "
+"into 8.3 characters. If a long name for a file exists, it will always be "
+"preferred display.</h2>\n"
+"\n"
+"<h3><b>Lower</b></h3>\n"
+"Force the short name to lower case upon display; store a long name when the "
+"short name is not all upper case.\n"
+"\n"
+"<h3><b>Windows 95</b></h3>\n"
+"Force the short name to upper case upon display; store a long name when the "
+"short name is not all upper case.\n"
+"\n"
+"<h3><b>Windows NT</b></h3>\n"
+"Display the shortname as is; store a long name when the short name is not all "
+"lower case or all upper case.\n"
+"\n"
+"<h3><b>Mixed</b></h3>\n"
+"Display the short name as is; store a long name when the short name is not "
+"all upper case."
+msgstr ""
+"<h2>定义创建和显示文件名的行为，这些文件名符合 8.3 命名规范。 如果文件的长名称存在，则它将始终优先显示。</h2>\n"
+"\n"
+" <h3><b>小写</b></h3>\n"
+"强制使短名称以小写形式显示；当短名称不是全部大写时存储长名称。\n"
+"\n"
+"<h3><b>Windows 95</b></h3>\n"
+"强制使短名称以大写形式显示；当短名称不是全部大写时存储长名称。\n"
+"\n"
+" <h3><b>Windows NT</b></h3>\n"
+" 按现状显示短名称；当短名称不全是小写或大写时存储长名称。\n"
+" \n"
+" <h3><b>混合</b></h3>\n"
+" 按现状显示短名称；当短名称不全是大写时存储长名称。"
+
+#: qt3-devel-doc.spec.cpp:2 qt3-extensions.spec.cpp:2 qt3-static.spec.cpp:2
+#: qt3.spec.cpp:2
+msgid "Select Input &Method"
+msgstr "选择输入法(&M)"
+
+#: qt3-devel-doc.spec.cpp:5 qt3-extensions.spec.cpp:5 qt3-static.spec.cpp:5
+#: qt3.spec.cpp:5
+msgid "Multiple Input Method Switcher"
+msgstr "多种输入法切换器"
+
+#: qt3-devel-doc.spec.cpp:8 qt3-extensions.spec.cpp:8 qt3-static.spec.cpp:8
+#: qt3.spec.cpp:8
+msgid ""
+"Multiple input method switcher that uses the context menu of the text widgets"
+msgstr "使用文本挂件的交互菜单的多种输入法切换器"
+
+#: qt3-devel-doc.spec.cpp:11 qt3-extensions.spec.cpp:11 qt3-static.spec.cpp:11
+#: qt3.spec.cpp:11
+msgid "Dummy Input Method Switcher"
+msgstr "虚拟输入法切换器"
+
+#: qt3-devel-doc.spec.cpp:14 qt3-extensions.spec.cpp:14 qt3-static.spec.cpp:14
+#: qt3.spec.cpp:14
+msgid ""
+"Dummy input method switcher that uses the context menu of the text widgets"
+msgstr "使用文本挂件的交互菜单的虚拟输入法切换器"
+
+#: qt3-devel-doc.spec.cpp:17 qt3-extensions.spec.cpp:17 qt3-static.spec.cpp:17
+#: qt3.spec.cpp:17
+msgid "Simple Composing Input Method"
+msgstr "简单的输入法"
+
+#: qt3-devel-doc.spec.cpp:20 qt3-extensions.spec.cpp:20 qt3-static.spec.cpp:20
+#: qt3.spec.cpp:20
+msgid "Simple composing input method"
+msgstr "简单的输入法"
+
+#: qt3-devel-doc.spec.cpp:23 qt3-extensions.spec.cpp:23 qt3-static.spec.cpp:23
+#: qt3.spec.cpp:23
+msgid "XIM"
+msgstr "XIM X11 窗口系统的输入法"
+
+#: qt3-devel-doc.spec.cpp:26 qt3-extensions.spec.cpp:26 qt3-static.spec.cpp:26
+#: qt3.spec.cpp:26
+msgid "XIM input method"
+msgstr "XIM 输入法"
+
+#: qt3-devel-doc.spec.cpp:29 qt3-extensions.spec.cpp:29 qt3-static.spec.cpp:29
+#: qt3.spec.cpp:29
+msgid "Unknown Input Method"
+msgstr "未知输入法"
+
+#: qt3-devel-doc.spec.cpp:32 qt3-extensions.spec.cpp:32 qt3-static.spec.cpp:32
+#: qt3.spec.cpp:32
+msgid "Default Input Method:"
+msgstr "默认输入法："
+

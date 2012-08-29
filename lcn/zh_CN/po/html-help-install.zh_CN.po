@@ -1,0 +1,889 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: html-help-install\n"
+"POT-Creation-Date: 2012-03-30 17:55+0200\n"
+"PO-Revision-Date: 2012-07-01 18:16+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: help-install.html:10(a)
+msgid "Boot Loader Help"
+msgstr "引导加载程序帮助"
+
+#: help-install.html:14(em)
+msgid "@@@product@@@"
+msgstr "@@@product@@@"
+
+#: help-install.html:13(p)
+msgid "Welcome to <placeholder-1/>"
+msgstr "欢迎使用 <placeholder-1/>"
+
+#: help-install.html:20(em)
+msgid "@@@fkey_help@@@"
+msgstr "@@@fkey_help@@@"
+
+#: help-install.html:20(a)
+msgid "description"
+msgstr "描述"
+
+#: help-install.html:17(p)
+msgid ""
+"Use this menu to select the desired function. If you have problems navigating "
+"in this help system, press <placeholder-1/> to enter the <placeholder-2/> of "
+"the help system. The main functions in this menu are:"
+msgstr ""
+"可使用此菜单选择所需的功能。如果您在导航此帮助系统时有问题，请按 <placeholder-1/> 以进入帮助系统的 <placeholder-2/>"
+"。此菜单中的主要功能有："
+
+#: help-install.html:25(a) help-install.html:164(a)
+msgid "Boot from Hard Disk"
+msgstr "从硬盘引导"
+
+#: help-install.html:24(p)
+msgid ""
+"<placeholder-1/>: This selection will not do anything to the system. It only "
+"starts a previously installed operating system."
+msgstr "<placeholder-1/>：此选择对系统无影响。它只会启动先前安装的操作系统。"
+
+#: help-install.html:31(a) help-install.html:56(em) help-install.html:232(a)
+#: help-install.html:236(em)
+msgid "Installation"
+msgstr "安装"
+
+#: help-install.html:30(p)
+msgid ""
+"<placeholder-1/>: This installation mode works on most machines. If you "
+"experience a system freeze during boot or problems with detection of your "
+"hardware components, such as disk controllers or network cards, try one of "
+"the following installation options."
+msgstr ""
+"<placeholder-1/>"
+"：此安装方式在大部分计算机上有效。如果在引导期间遇到系统僵死或检测硬件组件时遇到问题（如磁盘控制器或网卡），则尝试使用以下安装选项之一。"
+
+#: help-install.html:39(a) help-install.html:260(a) help-install.html:270(em)
+msgid "Installation -- ACPI Disabled"
+msgstr "安装 － 禁用 ACPI"
+
+#: help-install.html:38(p)
+msgid ""
+"<placeholder-1/>: Many of the currently-sold computers have incomplete or "
+"faulty ACPI implementations. This selection disables ACPI support in the "
+"kernel, but still enables many performance features, like DMA for IDE hard "
+"disks."
+msgstr ""
+"<placeholder-1/>：许多市面销售的计算机的 ACPI 实现都不完整或有错。本章节在内核中"
+"禁用了 ACPI 支持，但依然启动着许多优化特性，如 IDE 硬盘的 DMA。"
+
+#: help-install.html:47(a) help-install.html:286(a)
+msgid "Installation -- Local APIC Disabled"
+msgstr "安装 － 禁用本地 APIC"
+
+#: help-install.html:46(p)
+msgid ""
+"<placeholder-1/>: If the normal installation fails, this might be due to the "
+"system hardware not supporting local APIC. If this seems to be the case, use "
+"this option to install without local APIC support."
+msgstr ""
+"<placeholder-1/>：如果正常安装失败，这可能是由于系统硬件不支持本地 APIC。"
+"如果这是原因的话，使用本选项来安装不带本地 APIC 支持的系统。"
+
+#: help-install.html:55(a) help-install.html:140(a) help-install.html:144(em)
+msgid "Installation -- Safe Settings"
+msgstr "安装 － 安全设置"
+
+#: help-install.html:54(p)
+msgid ""
+"<placeholder-1/>: If you were not successful with <placeholder-2/>, this "
+"selection might solve the issue."
+msgstr "<placeholder-1/>：如果遇到 <placeholder-2/> 的问题，则此选择可能会解决问题。"
+
+#: help-install.html:61(a) help-install.html:497(a) help-install.html:501(em)
+msgid "Rescue System"
+msgstr "救援系统"
+
+#: help-install.html:60(p)
+msgid ""
+"<placeholder-1/>: This boot image starts a small Linux system in RAM. This is "
+"useful if the system does not start properly. After booting this system, log "
+"in as root."
+msgstr ""
+"<placeholder-1/>：此启动镜像会在内存中启动一个极简 Linux 系统。如果系统"
+"不能正常启动的话这帮助就大了。在启动此系统之后，使用 root 登陆。"
+
+# menu item, like 'memory test'
+#: help-install.html:67(a) help-install.html:153(a) help-install.html:280(a)
+msgid "Firmware Test"
+msgstr "固件测试"
+
+#: help-install.html:66(p)
+msgid ""
+"<placeholder-1/>: Runs a BIOS test tool that validates ACPI and other parts "
+"of your BIOS."
+msgstr "<placeholder-1/>：运行一个 BIOS 测试工具，验证您的 ACPI 和 BIOS 的其他部分。"
+
+#: help-install.html:72(a) help-install.html:244(a) help-install.html:248(em)
+msgid "Memory Test"
+msgstr "内存测试"
+
+#: help-install.html:71(p)
+msgid ""
+"<placeholder-1/>: Memory testing is useful for more than checking "
+"installation of new memory modules. It is a stress test for a big part of "
+"your computer system and may indicate hardware problems."
+msgstr "<placeholder-1/>：内存测试不光对检查新内存模块的安装有用。它是一种对计算机系统的大部分执行的压力测试，可能检测出硬件问题。 "
+
+#: help-install.html:79(a) help-install.html:302(a)
+msgid "Boot Options"
+msgstr "引导选项"
+
+#: help-install.html:78(p)
+msgid ""
+"<placeholder-1/>: The boot options may change the behavior of your system "
+"completely. They are settings for the kernel."
+msgstr "<placeholder-1/>：引导选项可能会完全更改系统的行为。它们是用于内核的设置。"
+
+#: help-install.html:85(a)
+msgid "@@@fkey_help@@@ Help"
+msgstr "@@@fkey_help### 帮助"
+
+#: help-install.html:84(p)
+msgid ""
+"<placeholder-1/>: This is context sensitive. It will show different screens "
+"depending on the active element of the boot screen. There is also a "
+"description of this help system available."
+msgstr "<placeholder-1/>：对用户行为敏感，它将根据引导屏幕的活动元素显示不同的屏幕。还提供了此帮助系统的描述。"
+
+#: help-install.html:92(a) help-install.html:227(em)
+msgid "@@@fkey_lang@@@"
+msgstr "@@@fkey_lang@@@"
+
+#: help-install.html:91(p)
+msgid ""
+"<placeholder-1/>: Set language and keyboard mapping used by the boot loader."
+msgstr "<placeholder-1/>：设置引导加载程序使用的语言和键盘映射。"
+
+#: help-install.html:97(a)
+msgid "@@@fkey_video@@@ Video Mode"
+msgstr "@@@fkey_vdeo@@@ 视频模式"
+
+#: help-install.html:99(em) help-install.html:524(em)
+msgid "text mode"
+msgstr "文本模式"
+
+#: help-install.html:96(p)
+msgid ""
+"<placeholder-1/>: Here, choose between different screen resolutions while "
+"installing. If you encounter problems with the graphical installation, the <"
+"placeholder-2/> may be a work-around for you."
+msgstr ""
+"<placeholder-1/>：安装时可在此处选择不同的屏幕分辨率。如果图形安装时遇到问题，则可以使用 <placeholder-2/> 来解决问题。"
+
+#: help-install.html:104(a)
+msgid "@@@fkey_inst@@@ Installation Source"
+msgstr "@@@fkey_inst@@@ 安装源"
+
+#: help-install.html:103(p)
+msgid "<placeholder-1/>: Choose the installation source."
+msgstr "<placeholder-1/>：选择安装源。"
+
+#: help-install.html:109(a)
+msgid "@@@fkey_dud@@@ Driver Update"
+msgstr "@@@fkey_dud@@@ 添加驱动程序更新"
+
+#: help-install.html:108(p)
+msgid ""
+"<placeholder-1/>: For very new machines, a driver update may be needed to "
+"install the system."
+msgstr "<placeholder-1/>：对于较新的计算机，安装系统可能需要驱动程序更新。"
+
+#: help-install.html:115(a)
+msgid "Software Type Selection"
+msgstr "软件类型选择"
+
+#: help-install.html:118(p)
+msgid ""
+"You have the choice to install the 32-bit or 64-bit version of @@@product@@@."
+msgstr "您可以选择安装 32 位或 64 位版本的 @product@。 "
+
+#: help-install.html:124(a)
+msgid "Driver Update"
+msgstr "驱动程序更新"
+
+#: help-install.html:128(em)
+msgid "@@@fkey_dud@@@"
+msgstr "@@@fkey_dud@@@"
+
+#: help-install.html:127(p)
+msgid ""
+"If you need a driver update floppy or CD-ROM, press <placeholder-1/>. The "
+"boot loader asks you to insert the driver update medium after loading the "
+"Linux kernel."
+msgstr ""
+"如果您需要驱动程序更新软盘或 CD-ROM，请按 <placeholder-1/>"
+"。引导加载程序会要求您在加载 Linux 内核后插入驱动程序更新介质。"
+
+#: help-install.html:133(p)
+msgid ""
+"A driver update is typically a floppy with new versions of hardware drivers "
+"or bug fixes needed during installation."
+msgstr "驱动程序更新通常是在安装期间需要的一张软盘，带有新版本硬件驱动程序或漏洞修复程序。"
+
+#: help-install.html:147(a) help-install.html:324(a) help-install.html:389(a)
+msgid "apm"
+msgstr "apm"
+
+#: help-install.html:148(a) help-install.html:325(a) help-install.html:375(em)
+msgid "acpi"
+msgstr "acpi"
+
+#: help-install.html:148(a) help-install.html:326(a)
+msgid "ide"
+msgstr "ide"
+
+#: help-install.html:143(p)
+msgid ""
+"Select <placeholder-1/> if you encounter hangs while installing or "
+"irreproducible errors. This option disables DMA for IDE drives and all power "
+"management features. See also the kernel options for <placeholder-2/>, <"
+"placeholder-3/> and <placeholder-4/>."
+msgstr ""
+"如果安装时遇到挂起或遇到不能再现的错误，则选择 <placeholder-1/>。此选项会对 IDE "
+"驱动器和所有电源管理功能禁用 DMA。另请参阅 <placeholder-2/>、<placeholder-3/> 和 <placeholder-4/> "
+"的内核选项。"
+
+#: help-install.html:156(p)
+msgid ""
+"Starts a BIOS checker that validates the ACPI tables and many other parts of "
+"your BIOS. Test results can be stored on usb disk or saved via network."
+msgstr ""
+"启动 BIOS 检查程序，对 ACPI  表和其它许多 BIOS 部分进行验证。测试结果可以存储到 "
+"USB 磁盘上，或者通过网络进行保存。"
+
+#: help-install.html:168(em)
+msgid "Boot Installed OS"
+msgstr "引导已安装的操作系统"
+
+#: help-install.html:167(p)
+msgid ""
+"Select <placeholder-1/> to start the system installed on your local hard disk."
+" This system must be installed properly, because only the MBR (Master Boot "
+"Record) on the first hard disk is started. The device ID of the first hard "
+"disk is provided by the BIOS of the computer."
+msgstr ""
+"选择 <placeholder-1/> "
+"以启动本地硬盘上安装的系统。必须正确安装此系统，因为将只启动第一个硬盘上的 MBR（主引导记录）。第一个硬盘的设备标识由计算机的 BIOS 提供。"
+
+#: help-install.html:175(p)
+msgid ""
+"Use this if you forgot to remove the CD or DVD from your drive and want to "
+"start the computer from the hard disk."
+msgstr "如果您忘记从驱动器除去 CD 或 DVD 并且想要从硬盘启动计算机，则使用此选项。"
+
+#: help-install.html:182(a)
+msgid "Using the Help System"
+msgstr "使用帮助系统"
+
+#: help-install.html:185(p)
+msgid ""
+"The boot loader online help is context sensitive. It gives information about "
+"the selected menu item or, if you are editing boot options, it tries to look "
+"up information about the option in which the cursor is positioned."
+msgstr ""
+"引导加载程序联机帮助是可对用户行为做出反馈的。它可提供有关选定菜单项的信息，或如果您正在编辑引导选项，它会尝试查找有关鼠标所在位置的选项的信息。"
+
+#: help-install.html:195(em)
+msgid "Up Arrow"
+msgstr "向上箭头"
+
+#: help-install.html:195(li)
+msgid "<placeholder-1/>: highlight previous link"
+msgstr "<placeholder-1/>：突出显示上个链接"
+
+#: help-install.html:196(em)
+msgid "Down Arrow"
+msgstr "向下箭头"
+
+#: help-install.html:196(li)
+msgid "<placeholder-1/>: highlight next link"
+msgstr "<placeholder-1/>：突出显示下个链接"
+
+#: help-install.html:197(em)
+msgid "Left Arrow"
+msgstr "向左箭头"
+
+#: help-install.html:197(em)
+msgid "Backspace"
+msgstr "退格键"
+
+#: help-install.html:197(li)
+msgid "<placeholder-1/>, <placeholder-2/>: return to previous topic"
+msgstr "<placeholder-1/> 和 <placeholder-2/>：返回上个主题"
+
+#: help-install.html:198(em)
+msgid "Right Arrow"
+msgstr "向右箭头"
+
+#: help-install.html:198(em)
+msgid "Enter"
+msgstr "回车键"
+
+#: help-install.html:198(em)
+msgid "Space"
+msgstr "空格键"
+
+#: help-install.html:198(li)
+msgid "<placeholder-1/>, <placeholder-2/>, <placeholder-3/>: follow link"
+msgstr "<placeholder-1/>、<placeholder-2/> 和 <placeholder-3/>：转到链接"
+
+#: help-install.html:199(em)
+msgid "Page Up"
+msgstr "上一页键"
+
+#: help-install.html:199(li)
+msgid "<placeholder-1/>: scroll up one page"
+msgstr "<placeholder-1/>：上翻一个页面"
+
+#: help-install.html:200(em)
+msgid "Page Down"
+msgstr "下一页键"
+
+#: help-install.html:200(li)
+msgid "<placeholder-1/>: scroll down one page"
+msgstr "<placeholder-1/>：下翻一个页面"
+
+#: help-install.html:201(em)
+msgid "Home"
+msgstr "Home 键"
+
+#: help-install.html:201(li)
+msgid "<placeholder-1/>: go to page start"
+msgstr "<placeholder-1/>：转至页面开头"
+
+#: help-install.html:202(em)
+msgid "End"
+msgstr "End 键"
+
+#: help-install.html:202(li)
+msgid "<placeholder-1/>: go to page end"
+msgstr "<placeholder-1/>：转至页面尾部"
+
+#: help-install.html:203(em)
+msgid "Esc"
+msgstr "Esc"
+
+#: help-install.html:203(li)
+msgid "<placeholder-1/>: leave help"
+msgstr "<placeholder-1/>：退出帮助"
+
+#: help-install.html:192(p)
+msgid ""
+"Navigation Keys <ul><placeholder-1/><placeholder-2/><placeholder-3/><"
+"placeholder-4/><placeholder-5/><placeholder-6/><placeholder-7/><"
+"placeholder-8/><placeholder-9/></ul>"
+msgstr ""
+"导航键 <ul><placeholder-1/><placeholder-2/><placeholder-3/><placeholder-4/><"
+"placeholder-5/><placeholder-6/><placeholder-7/><placeholder-8/><"
+"placeholder-9/></ul>"
+
+#: help-install.html:209(a)
+msgid "Installation Source"
+msgstr "安装源"
+
+#: help-install.html:213(em)
+msgid "@@@fkey_inst@@@"
+msgstr "@@@fkey_inst@@@"
+
+#: help-install.html:212(p)
+msgid "Press <placeholder-1/> to choose an installation source."
+msgstr "按 <placeholder-1/> 来选择安装源。"
+
+#: help-install.html:217(a) help-install.html:314(a) help-install.html:437(em)
+msgid "install"
+msgstr "安装"
+
+#: help-install.html:216(p)
+msgid "This is the same as using the <placeholder-1/> boot option."
+msgstr "这与使用 <placeholder-1/> 引导选项是一样的。"
+
+#: help-install.html:223(a)
+msgid "Language and Keyboard Layout Selection"
+msgstr "语言和键盘布局选择"
+
+#: help-install.html:226(p)
+msgid ""
+"Press <placeholder-1/> to change language and keyboard layout the boot loader "
+"uses."
+msgstr "按 <placeholder-1/> 以更改引导加载程序使用的语言和键盘布局。"
+
+#: help-install.html:237(a)
+msgid "boot options"
+msgstr "引导选项"
+
+#: help-install.html:235(p)
+msgid ""
+"Select <placeholder-1/> to start the default installation. The <"
+"placeholder-2/> entered are used in the start-up. This item activates many "
+"features of commonly available hardware."
+msgstr ""
+"选择 <placeholder-1/> 以启动默认安装。启动时会使用输入的 <"
+"placeholder-2/>。此项会激活常用硬件的许多功能。"
+
+#: help-install.html:247(p)
+msgid ""
+"The included <placeholder-1/> provides good possibilities to stress test the "
+"hardware of a system. Its main purpose is to detect broken RAM, but it also "
+"stresses many other parts of the system."
+msgstr ""
+"所包含的 <placeholder-1/> 使您能够对系统硬件执行压力测试。它的主要用途是检测损坏的 "
+"RAM，但是它还可以对系统的其他部件执行压力测试。"
+
+#: help-install.html:253(p)
+msgid ""
+"There is no guarantee that the memory is good if no errors are found, "
+"although most of memory defects will be found."
+msgstr "尽管大部分内存缺陷都能够被发现，但是如果未找到错误，也不能保证内存是良好的。"
+
+#: help-install.html:263(p)
+msgid ""
+"Current hardware usually requires ACPI (Advanced Configuration and Power "
+"Interface) to control the interrupt handling. ACPI completely replaces the "
+"old APM system."
+msgstr ""
+"较新的硬件有时会需要 ACPI （高级配置和电源接口）来控制中断处理。ACPI 会完全替换旧的 APM "
+"系统。"
+
+#: help-install.html:274(li)
+msgid "kernel freezes when booting"
+msgstr "引导时内核僵死"
+
+#: help-install.html:275(li)
+msgid "PCI Cards are not detected or initialized properly"
+msgstr "不能检测到或初始化 PCI 卡"
+
+#: help-install.html:269(p)
+msgid ""
+"Select <placeholder-1/> if you encounter problems during boot of the kernel. "
+"Known problems with machines that have problems with ACPI are: <ul><"
+"placeholder-2/><placeholder-3/></ul>"
+msgstr ""
+"如果在内核引导期间遇到问题，则选择 <placeholder-1/>。计算机（有 ACPI 问题的计算机）的已知问题有：<ul><"
+"placeholder-2/><placeholder-3/></ul>"
+
+#: help-install.html:279(p)
+msgid ""
+"You may also try the <placeholder-1/> boot option and look at the test "
+"results of the ACPI validation."
+msgstr "您可以使用 <placeholder-1/> 引导选项查看 ACPI 验证测试的结果。"
+
+#: help-install.html:289(p)
+msgid ""
+"Normally there are no problems with the APIC (Advanced Programmable Interrupt "
+"Controller). But if you seem to have some, try this option to boot without "
+"local APIC support."
+msgstr ""
+"一般情况下 APIC（高级可编程中断控制器）不会出现问题。但是如果出现问题，请尝试通过此选项在没有本地 "
+"APIC 的情况下引导。"
+
+#: help-install.html:296(a) help-install.html:412(a)
+msgid "ACPI"
+msgstr "ACPI"
+
+#: help-install.html:295(p)
+msgid ""
+"Please don't confuse this with <placeholder-1/> (Advanced Configuration and "
+"Power Interface)."
+msgstr "请勿将此项与<placeholder-1/>（高级配置和电源接口）混淆。"
+
+#: help-install.html:305(p)
+msgid ""
+"There are two types of boot options available. First, there are options that "
+"affect the installer. Second, there are kernel options. Some of the more "
+"common options are:"
+msgstr "提供了两种类型的引导选项。首先，提供了影响安装程序的选项。其次，提供了内核选项。以下是一些更常用的选项:"
+
+#: help-install.html:314(li)
+msgid "<placeholder-1/> -- select an installation source"
+msgstr "<placeholder-1/> — 选择安装源"
+
+#: help-install.html:315(a) help-install.html:458(a)
+msgid "network options"
+msgstr "网络选项"
+
+#: help-install.html:315(li)
+msgid "<placeholder-1/> -- the network options"
+msgstr "<placeholder-1/> — 网络选项"
+
+#: help-install.html:316(a)
+msgid "vnc options"
+msgstr "VNC 选项"
+
+#: help-install.html:316(li)
+msgid "<placeholder-1/> -- options for installation via VNC"
+msgstr "<placeholder-1/> — 通过 VNC 进行安装的选项"
+
+#: help-install.html:311(p)
+msgid ""
+"a) installer options <ul><placeholder-1/><placeholder-2/><placeholder-3/></ul>"
+msgstr "a) 安装程序选项<ul><placeholder-1/><placeholder-2/><placeholder-3/></ul>"
+
+#: help-install.html:323(a)
+msgid "splash"
+msgstr "启动动画"
+
+#: help-install.html:323(li)
+msgid "<placeholder-1/> -- influence the behavior of the splash screen"
+msgstr "<placeholder-1/> — 影响启动动画的行为"
+
+#: help-install.html:324(li)
+msgid "<placeholder-1/> -- toggle power management"
+msgstr "<placeholder-1/> — 切换电源管理"
+
+#: help-install.html:325(li)
+msgid "<placeholder-1/> -- advanced configuration and power interface"
+msgstr "<placeholder-1/> — 高级配置和电源接口"
+
+#: help-install.html:326(li)
+msgid "<placeholder-1/> -- control the IDE subsystem"
+msgstr "<placeholder-1/> — 控制 IDE 子系统"
+
+#: help-install.html:320(p)
+msgid ""
+"b) kernel options <ul><placeholder-1/><placeholder-2/><placeholder-3/><"
+"placeholder-4/></ul>"
+msgstr ""
+"a) 内核选项 <ul><placeholder-1/><placeholder-2/><placeholder-3/><placeholder-4/><"
+"/ul>"
+
+#: help-install.html:336(a)
+msgid "Installer Options: Network Options"
+msgstr "安装程序选项：网络选项"
+
+#: help-install.html:345(li)
+msgid "hostip=192.168.0.10 netmask=255.255.255.0"
+msgstr "hostip=192.168.0.10 netmask=255.255.255.0"
+
+#: help-install.html:339(p)
+msgid ""
+"It is possible to configure the network interface right now. The hardware "
+"will be detected later by YaST2. The minimum set of options to configure your "
+"network card consists of host IP and netmask. For example: <ul><"
+"placeholder-1/></ul>"
+msgstr ""
+"您可以立即配置网络接口。YaST2 将在以后检测硬件。用于配置网卡的最低选项集合包括主机 IP "
+"和子网掩码。例如：<ul><placeholder-1/></ul>"
+
+#: help-install.html:352(li)
+msgid "hostip=192.168.0.10/24"
+msgstr "hostip=192.168.0.10/24"
+
+#: help-install.html:349(p)
+msgid "or in a shorter form: <ul><placeholder-1/></ul>"
+msgstr "或者更短的格式 ：<ul><placeholder-1/></ul>"
+
+#: help-install.html:357(a)
+msgid "network-based install"
+msgstr "基于网络的安装"
+
+#: help-install.html:359(em) help-install.html:456(em)
+msgid "dhcp"
+msgstr "dhcp"
+
+#: help-install.html:360(em)
+msgid "gateway"
+msgstr "网关"
+
+#: help-install.html:363(li)
+msgid "gateway=192.168.0.8"
+msgstr "gateway=192.168.0.8"
+
+#: help-install.html:356(p)
+msgid ""
+"If you specified a <placeholder-1/> and do not specify both of these options, "
+"the installer tries to configure the network interface with <placeholder-2/>. "
+"If you need a default gateway, specify this with the option <placeholder-3/>. "
+"For example: <ul><placeholder-4/></ul>"
+msgstr ""
+"如果指定了 <placeholder-1/> 并且不指定这两个选项，则安装程序将尝试通过 <placeholder-2/> "
+"配置网络接口。如果需要默认网关，则通过选项 <placeholder-3/> 指定此设置。例如：<ul><placeholder-4/></ul>"
+
+#: help-install.html:369(a)
+msgid "Kernel Options: acpi"
+msgstr "内核选项：acpi"
+
+#: help-install.html:380(em)
+msgid "pci=noacpi"
+msgstr "pci=noacpi"
+
+#: help-install.html:380(li)
+msgid "<placeholder-1/> -- do not use ACPI to route PCI interrupts"
+msgstr "<placeholder-1/> — 不使用 ACPI 控制 PCI 中断"
+
+#: help-install.html:381(em)
+msgid "acpi=oldboot"
+msgstr "acpi=oldboot"
+
+#: help-install.html:381(li)
+msgid ""
+"<placeholder-1/> -- only the parts of ACPI that are relevant for booting "
+"remain activated"
+msgstr "<placeholder-1/> — 仅与引导相关的 APCI 部分保持为已激活状态"
+
+#: help-install.html:382(em)
+msgid "acpi=off"
+msgstr "acpi=off"
+
+#: help-install.html:382(li)
+msgid "<placeholder-1/> -- switch off ACPI completely"
+msgstr "<placeholder-1/> — 完全关闭 ACPI"
+
+#: help-install.html:383(em)
+msgid "acpi=force"
+msgstr "acpi=force"
+
+#: help-install.html:383(li)
+msgid ""
+"<placeholder-1/> -- switch on ACPI even if your BIOS is dated before 2000"
+msgstr "<placeholder-1/> — 即使将 BIOS 的日期设置为 2000 之前的日期，也要打开 ACPI"
+
+#: help-install.html:372(p)
+msgid ""
+"ACPI (Advanced Configuration and Power Interface) is a standard that defines "
+"power and configuration management interfaces between an operating system and "
+"the BIOS. By default, <placeholder-1/> is switched on when a BIOS is detected "
+"that is newer than from year 2000. There are several commonly used parameters "
+"to control the behavior of ACPI: <ul><placeholder-2/><placeholder-3/><"
+"placeholder-4/><placeholder-5/></ul>"
+msgstr ""
+"ACPI（高级配置与电源接口）是一种标准，它定义操作系统和 BIOS "
+"之间的电源和配置管理接口。默认情况下，检测到 2000 年以后的 BIOS 时，会打开 <placeholder-1/>。可使用多种常用参数来控制 "
+"ACPI 的行为：<ul><placeholder-2/><placeholder-3/></placeholder-4/><placeholder-5/>"
+"</ul>"
+
+#: help-install.html:387(p)
+msgid ""
+"Especially on new computers, it replaces the old <placeholder-1/> system."
+msgstr "尤其在新计算机中，它会替换旧的 <placeholder-1/> 系统。"
+
+#: help-install.html:394(a)
+msgid "Kernel Options: apm"
+msgstr "内核选项：apm"
+
+#: help-install.html:406(em)
+msgid "apm=off"
+msgstr "apm=off"
+
+#: help-install.html:406(li)
+msgid "<placeholder-1/> -- switch off APM completely"
+msgstr "<placeholder-1/> — 完全关闭 APM"
+
+#: help-install.html:397(p)
+msgid ""
+"APM is one of the two power management strategies used on current computers. "
+"It is mainly used with laptops for functions like suspend to disk, but it may "
+"also be responsible for switching off the computer after power down. APM "
+"relies on a correct working BIOS. If the BIOS is broken, APM may have only "
+"limited use or even prevent the computer from working. Therefore, it may be "
+"switched off with the parameter <ul><placeholder-1/></ul>"
+msgstr ""
+"APM "
+"是当今计算机上使用的两种电源管理策略的其中一种。它主要用于笔记本电脑，例如挂起硬盘功能，但是它还可负责在关闭电源后关闭计算机。APM 依靠正确运行的 "
+"BIOS 来运作。如果 BIOS 损坏，则 APM 的使用将受限或甚至会使计算机无法工作。因此，可以使用以下参数关闭 APM <ul><"
+"placeholder-1/></ul>"
+
+#: help-install.html:410(p)
+msgid ""
+"Some very new computers may take more advantage from the newer <"
+"placeholder-1/>."
+msgstr "一些较新的计算机可以从更新版本的 <placeholder-1/> 受益更多。"
+
+#: help-install.html:417(a)
+msgid "Kernel Options: ide"
+msgstr "内核选项：ide"
+
+#: help-install.html:425(em)
+msgid "ide=nodma"
+msgstr "ide=nodma"
+
+#: help-install.html:425(li)
+msgid "<placeholder-1/> -- switch off DMA for IDE drives"
+msgstr "<placeholder-1/> — 为 IDE 驱动器关闭 DMA"
+
+#: help-install.html:420(p)
+msgid ""
+"IDE is, unlike SCSI, commonly used in most desktop workstations. To "
+"circumvent some hardware problems that occur with IDE systems, use the kernel "
+"parameter: <ul><placeholder-1/></ul>"
+msgstr ""
+"与 SCSI 不同，IDE 常用于大部分台式机工作站。要解决 IDE "
+"系统发生的某些硬件问题，可使用内核参数：<ul><placeholder-1/></ul>"
+
+#: help-install.html:431(a)
+msgid "Installer Options: install"
+msgstr "安装程序选项：install"
+
+#: help-install.html:439(li)
+msgid "FTP"
+msgstr "FTP"
+
+#: help-install.html:440(li)
+msgid "NFS"
+msgstr "NFS"
+
+#: help-install.html:441(li)
+msgid "HTTP"
+msgstr "HTTP "
+
+#: help-install.html:434(p)
+msgid ""
+"By default, the local CD-ROMs are searched for the installation source. For a "
+"network install, select the <placeholder-1/> option. Possible installation "
+"protocols are <ul><placeholder-2/><placeholder-3/><placeholder-4/></ul>"
+msgstr ""
+"默认情况下，会搜索本地 CD-ROM 以查找安装源。对于网络安装，请选择 <"
+"placeholder-1/> 选项。可能的安装协议有 <ul><placeholder-2/><placeholder-3/><"
+"placeholder-4/></ul>"
+
+#: help-install.html:451(li)
+msgid "install=nfs://192.168.0.1/install"
+msgstr "install=nfs://192.168.0.1/install"
+
+#: help-install.html:445(p)
+msgid ""
+"The syntax to use is just like standard URLs. For example, if your server is "
+"found at 192.168.0.1 and you want to do an NFS-based install from the "
+"directory /install on this server, specify the source as follows: <ul><"
+"placeholder-1/></ul>"
+msgstr ""
+"使用语法类似于标准 URL。例如，如果服务器的地址为 192.168.0.1，并且您想要从此服务器上的目录 /install 来执行基于 NFS "
+"的安装，则如下指定源：<ul><placeholder-1/></ul>"
+
+#: help-install.html:455(p)
+msgid ""
+"The network card will either be configured with <placeholder-1/> or you must "
+"specify the parameters yourself as described in the <placeholder-2/>."
+msgstr "可通过 <placeholder-1/> 配置网卡或必须按照 <placeholder-2/> 中的描述来自行指定参数。"
+
+#: help-install.html:463(a)
+msgid "Kernel Options: splash"
+msgstr "内核选项：splash"
+
+#: help-install.html:469(em)
+msgid "splash=0"
+msgstr "splash=0"
+
+#: help-install.html:469(li)
+msgid ""
+"<placeholder-1/> -- The splash screen is switched off. This may be useful "
+"with very old monitors or if some error occurs."
+msgstr "<placeholder-1/>-- 禁用开机屏幕。这对于超旧的显示器或在发生某种错误时非常有用。"
+
+#: help-install.html:470(em)
+msgid "splash=verbose"
+msgstr "splash=verbose"
+
+#: help-install.html:470(li)
+msgid ""
+"<placeholder-1/> -- Activates splash, kernel and boot messages are still "
+"shown."
+msgstr "<placeholder-1/>-- 激活开机屏幕，仍然显示内核和引导讯息。"
+
+#: help-install.html:471(em)
+msgid "splash=silent"
+msgstr "splash=silent"
+
+#: help-install.html:471(li)
+msgid ""
+"<placeholder-1/> -- Activates splash, but no messages. Instead a progress bar "
+"is drawn."
+msgstr "<placeholder-1/>-- 激活开机屏幕，但不显示讯息，而是绘制一个进程条。"
+
+#: help-install.html:466(p)
+msgid ""
+"The splash screen is the picture shown during system start-up. <ul><"
+"placeholder-1/><placeholder-2/><placeholder-3/></ul>"
+msgstr ""
+"开机屏幕是系统启动期间显示的画面。<ul><placeholder-1/><placeholder-2/><placeholder-3/></ul>"
+
+#: help-install.html:479(a)
+msgid "Installer Options: vnc"
+msgstr "安装程序选项：vnc"
+
+#: help-install.html:486(em)
+msgid "vnc=1 vncpassword=example"
+msgstr "vnc=1 vncpassword=example"
+
+#: help-install.html:482(p)
+msgid ""
+"To enable the VNC installation, specify the parameters vnc and vncpassword: <"
+"ul><li><placeholder-1/></li></ul>"
+msgstr "要启用 VNC 安装，请指定参数 vnc 和 vncpassword：<ul><li><placeholder-1/></li></ul>"
+
+#: help-install.html:490(p)
+msgid ""
+"The VNC server will be started and you may control YaST2 over any VNC client "
+"from a remote system."
+msgstr "将启动 VNC 服务器，并且您可以从远程系统通过任意 VNC 客户端来控制 YaST2。"
+
+#: help-install.html:500(p)
+msgid ""
+"The <placeholder-1/> is a small RAM disk base system. From there, it is "
+"possible to make all kinds of changes to an installed system. Because only "
+"low-level tools are available in this system, it is intended for experts."
+msgstr ""
+"<placeholder-1/> 是小型的 RAM "
+"磁盘库系统。从中可对已安装的系统执行所有类型的更改。此系统中仅提供了低级工具，因此仅供专家使用。（计算机科学中越面向最终用户越高级）"
+
+#: help-install.html:509(a)
+msgid "Video Mode Selection"
+msgstr "视频模式选择"
+
+#: help-install.html:513(em)
+msgid "@@@fkey_video@@@"
+msgstr "@@@fkey_video@@@"
+
+#: help-install.html:512(p)
+msgid ""
+"Press <placeholder-1/> to get the list of video modes your graphics card "
+"supports. The highest mode your monitor can display is preselected."
+msgstr "按 <placeholder-1/> 以获取显卡支持的视频模式列表。将预先选择显示器能够显示的最高模式。"
+
+#: help-install.html:517(p)
+msgid ""
+"It is possible that your monitor cannot be detected automatically. In that "
+"case, select your preferred mode manually."
+msgstr "可能无法自动检测显示器。在此情况下，请手动选择所偏好的模式。"
+
+#: help-install.html:522(p)
+msgid ""
+"If your system has problems with the graphics card during the installation, "
+"the <placeholder-1/> may be a usable work-around."
+msgstr "如果系统在安装期间遇到显卡问题，则使用 <placeholder-1/> 可能可以解决此问题。"
+
+#: help-install.html:529(a)
+msgid "FOOBAR"
+msgstr "FOOBAR"
+
+#: help-install.html:528(p)
+msgid "Return to <placeholder-1/>"
+msgstr "返回 <placeholder-1/>"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: help-install.html:0(None)
+msgid "translator-credits"
+msgstr ""
+"开源软件国际化之简体中文组 <http://i18n.linux.net.cn>\n"
+"Thruth Wang <lihaow@opera.com>, 2007\n"
+"Eric Shan <ericalways@gmail.com>, 2008.\n"
+"玛丽苏 <i@marguerite.su>, 2012."
+
+

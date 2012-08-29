@@ -1,0 +1,75 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: limal-runlevel\n"
+"Report-Msgid-Bugs-To: translation@suse.de\n"
+"POT-Creation-Date: 2009-07-10 14:15+0200\n"
+"PO-Revision-Date: 2006-11-02 14:21\n"
+"Last-Translator: Novell Language <language@novell.com>\n"
+"Language-Team: Novell Language <language@novell.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/LineReader.cpp:257
+msgid "Cannot open file '%1'."
+msgstr "无法打开文件“%1”。"
+
+#: src/LineReader.cpp:269
+msgid "Cannot lock file '%1'."
+msgstr "无法锁定文件“%1”。"
+
+#: src/LSBService.cpp:219
+msgid "Unable to open initialization script '%1'."
+msgstr "无法打开初始化脚本“%1”。"
+
+#: src/LSBService.cpp:393
+msgid "The action for service '%1' may not be empty."
+msgstr "服务“%1”的操作不能为空。"
+
+#: src/LSBService.cpp:411
+msgid "Action '%1' is not allowed for service '%2'."
+msgstr "服务“%2”不允许使用操作“%1”。"
+
+#: src/Runlevel.cpp:300
+msgid "Cannot create temporary '%1'.XXXXXX file."
+msgstr "无法创建临时“%1”.XXXXXX 文件。"
+
+#: src/Runlevel.cpp:311
+msgid "Cannot lock temporary '%1' file."
+msgstr "无法锁定临时“%1”文件。"
+
+#: src/Runlevel.cpp:340 src/Runlevel.cpp:370
+msgid "Cannot write to temporary '%1' file."
+msgstr "无法写入临时“%1”文件。"
+
+#: src/Runlevel.cpp:353
+msgid "Cannot read '%1' file."
+msgstr "无法读取“%1”文件。"
+
+#: src/Runlevel.cpp:618
+msgid "Invalid runlevel %1."
+msgstr "运行级别 %1 无效。"
+
+#: src/Runlevel.cpp:628
+msgid "Failed to read the contents of the %1 directory."
+msgstr "读取 %1 目录内容失败。"
+
+#: src/Service.cpp:79
+msgid "Failed to read the contents of the '%1' directory."
+msgstr "读取“%1”目录内容失败。"
+
+#: src/Service.cpp:138
+msgid "Invalid service name '%1'."
+msgstr "服务名称“%1”无效。"
+
+#: src/Service.cpp:146
+msgid "Invalid service script path '%1'."
+msgstr "服务脚本路径“%1”无效。"
+
+#: src/Service.cpp:159
+msgid "Invalid service script name '%1'."
+msgstr "服务脚本名称“%1”无效。"

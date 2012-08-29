@@ -1,0 +1,367 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:45+0200\n"
+"PO-Revision-Date: 2012-07-12 14:04+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. error popup: no config of non-existent device
+#: src/FingerprintReader.ycp:120
+msgid "Fingerprint reader device is not available on this system."
+msgstr "系统无可用指纹识别设备。"
+
+#. error popup (pam_fp cannot work with pam_mount)
+#: src/FingerprintReader.ycp:126
+msgid "Fingerprint reader devices cannot be used when encrypted directories are used."
+msgstr "使用加密目录时指纹识别设备将不可用。"
+
+#. FingerprintReader read dialog captio
+#: src/FingerprintReader.ycp:145
+msgid "Saving Fingerprint Reader Configuration"
+msgstr "正在保存指纹识别程序配置"
+
+#. Progress stage
+#: src/FingerprintReader.ycp:153
+msgid "Write the PAM settings"
+msgstr "写入可插拔安全模块 (PAM) 设置"
+
+#. Progress stage
+#: src/FingerprintReader.ycp:155
+msgid "Import fingerprint files"
+msgstr "导入指纹文件"
+
+#. Progress step
+#: src/FingerprintReader.ycp:158
+msgid "Writing the PAM settings..."
+msgstr "正在写入可插拔安全模块 (PAM) 设置..."
+
+#. Progress step
+#: src/FingerprintReader.ycp:160
+msgid "Importing fingerprint files..."
+msgstr "正在导入指纹文件..."
+
+#. Progress finished
+#: src/FingerprintReader.ycp:162
+msgid "Finished"
+msgstr "已完成"
+
+#. Error message
+#: src/FingerprintReader.ycp:173
+msgid "Cannot write PAM settings."
+msgstr "无法写入可插拔安全模块 (PAM) 设置。"
+
+#. summary header
+#: src/FingerprintReader.ycp:217
+msgid "PAM Login"
+msgstr "可插拔安全模块 (PAM) 登录"
+
+#. summary item
+#: src/FingerprintReader.ycp:221 src/fingerprint-reader.ycp:86
+msgid "Use Fingerprint Authentication"
+msgstr "使用指纹验证"
+
+#. summary item
+#: src/FingerprintReader.ycp:223 src/fingerprint-reader.ycp:88
+msgid "Do Not Use Fingerprint Authentication"
+msgstr "不使用指纹验证"
+
+#. summary text (yes/no follows)
+#: src/FingerprintReader.ycp:235
+#, ycp-format
+msgid "<b>Fingerprint Authentication Enabled</b>: %1<br>"
+msgstr "<b>指纹验证已启用</b>：%1<br>"
+
+#. summary value
+#: src/FingerprintReader.ycp:237
+msgid "Yes"
+msgstr "是"
+
+#. summary value
+#: src/FingerprintReader.ycp:239
+msgid "No"
+msgstr "否"
+
+#. plugin name
+#: src/UsersPluginFingerprintReader.pm:172
+msgid "Fingerprint configuration"
+msgstr "指纹配置"
+
+#. plugin summary (table item)
+#: src/UsersPluginFingerprintReader.pm:182
+msgid "Set the User's Fingerprint"
+msgstr "设置用户指纹"
+
+#. error popup
+#: src/UsersPluginFingerprintReader.pm:253
+#: src/UsersPluginFingerprintReader.pm:283
+msgid "Fingerprint reader is not configured. Run 'yast2-fingerprint-reader' to configure it."
+msgstr "指纹识别程序未被配置。运行 'yast2-fingerprint-reader' 来配置它。"
+
+#. FingerprintReader summary dialog caption
+#. Initialization dialog caption
+#: src/dialogs.ycp:78 src/wizards.ycp:106
+msgid "Fingerprint Reader Configuration"
+msgstr "指纹识别程序配置"
+
+#. help text
+#: src/dialogs.ycp:82
+msgid ""
+"<p>\n"
+"<b>Fingerprint Authentication</b><br>\n"
+"The fingerprint reader configuration updates your PAM settings to enable authentication with fingerprints.</p>\n"
+msgstr ""
+"<p>\n"
+"<b>指纹认证</b><br>\n"
+"指纹识别程序配置更新您的可插拔安全模块 (PAM) 设置以启用指纹认证。</p>\n"
+
+#. help text, cont.
+#: src/dialogs.ycp:88
+msgid "<p>To register fingerprints for a user, start YaST User Management and see the Plug-Ins tab of the selected user. To automatically start YaST User Management, activate <b>Start User Management After Finish</b>.</p>"
+msgstr "<p>要为用户注册指纹，启动 YaST 用户管理并查看选定用户的插件标签页。要自动启动 YaST 用户管理，激活<b>完成后启动用户管理</b>。</p>"
+
+#. frame label
+#: src/dialogs.ycp:92
+msgid "User Authentication"
+msgstr "用户身份验证"
+
+#. radio button label
+#: src/dialogs.ycp:98
+msgid "Do No&t Use Fingerprint Reader"
+msgstr "不使用指纹识别程序"
+
+#. radio button label
+#: src/dialogs.ycp:101
+msgid "&Use Fingerprint Reader"
+msgstr "使用指纹识别程序(&U)"
+
+#. button label
+#: src/dialogs.ycp:109
+msgid "&Start User Management after Finish"
+msgstr "完成后启动用户管理(&S)"
+
+#. Command line help text for the Xfingerprint-reader module
+#: src/fingerprint-reader.ycp:95
+msgid "Configuration of fingerprint-reader"
+msgstr "指纹识别程序配置"
+
+#. command line help text for 'enable' action
+#: src/fingerprint-reader.ycp:103
+msgid "Enable fingerprint authentication"
+msgstr "启用指纹验证"
+
+#. command line help text for 'disable' action
+#: src/fingerprint-reader.ycp:108
+msgid "Disable fingerprint authentication"
+msgstr "禁用指纹验证"
+
+#. command line help text for 'summary' action
+#: src/fingerprint-reader.ycp:113
+msgid "Configuration summary"
+msgstr "配置摘要"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:40
+msgid ""
+"<p><b>Initializing Fingerprint Reader Configuration</b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b>正在初始化指纹识别程序配置</b><br>\n"
+"</p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:45
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化:</big></b><br>\n"
+"请您现在点击<b>终止</b>, 以便安全中断配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:50
+msgid ""
+"<p><b>Saving Fingerprint Reader Configuration</b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b>正在保存指纹识别程序配置</b><br>\n"
+"</p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:55
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"请点击<B>中断</B>,以便中断保存.\n"
+"一个附加对话框将告诉您这样做是否安全.\n"
+"</p>\n"
+
+#. help text for fingerprint reader plugin
+#: src/users_plugin_fingerprint_reader.ycp:75
+msgid ""
+"<p>Swipe your finger on the fingerprint reader. Three successful attempts  \n"
+"are needed to save the new fingerprint.</p>"
+msgstr ""
+"<p>请将您的手指按在指纹识别器上。需要三次成功尝试才能存下\n"
+"新指纹。</p>"
+
+#. status label
+#: src/users_plugin_fingerprint_reader.ycp:89
+msgid "Initializing fingerprint reader..."
+msgstr "正在初始化指纹识别程序..."
+
+#. status label (canceled after user action)
+#: src/users_plugin_fingerprint_reader.ycp:134
+#: src/users_plugin_fingerprint_reader.ycp:268
+msgid "Canceled"
+msgstr "已取消"
+
+#: src/users_plugin_fingerprint_reader.ycp:159
+msgid "Initialization of fingerprint reader failed."
+msgstr "指纹识别程序初始化失败。"
+
+#. status label
+#: src/users_plugin_fingerprint_reader.ycp:164
+msgid "Device initialized."
+msgstr "已初始化设备。"
+
+#. status message
+#: src/users_plugin_fingerprint_reader.ycp:166
+msgid "Swipe your right index finger."
+msgstr "扫描您的右手食指。"
+
+#. status label
+#: src/users_plugin_fingerprint_reader.ycp:179
+msgid "Storing data..."
+msgstr "正在存储数据..."
+
+#. status label
+#: src/users_plugin_fingerprint_reader.ycp:187
+#: src/users_plugin_fingerprint_reader.ycp:209
+#: src/users_plugin_fingerprint_reader.ycp:218
+#: src/users_plugin_fingerprint_reader.ycp:228
+msgid "Scan failed."
+msgstr "扫描失败。"
+
+#. status message
+#: src/users_plugin_fingerprint_reader.ycp:189
+#: src/users_plugin_fingerprint_reader.ycp:198
+msgid "Swipe finger again."
+msgstr "请再次扫描指纹。"
+
+#. status label
+#: src/users_plugin_fingerprint_reader.ycp:196
+msgid "Enroll stage passed."
+msgstr "注册阶段通过。"
+
+#. status message (%1 is number)
+#: src/users_plugin_fingerprint_reader.ycp:201
+#, ycp-format
+msgid "Successful swipes: %1"
+msgstr "扫描成功：%1"
+
+#. status message
+#: src/users_plugin_fingerprint_reader.ycp:211
+msgid "Swipe was too short, try again."
+msgstr "扫描过短，请重试。"
+
+#. status message
+#: src/users_plugin_fingerprint_reader.ycp:220
+msgid "Center your finger on the sensor and try again."
+msgstr "将您的手指放置到感应区中间并重试。"
+
+#. status message
+#: src/users_plugin_fingerprint_reader.ycp:230
+msgid "Remove your finger from the sensor and try again."
+msgstr "将手指离开感应区并重试。"
+
+#. status label
+#: src/users_plugin_fingerprint_reader.ycp:237
+#: src/users_plugin_fingerprint_reader.ycp:247
+msgid "Acquiring fingerprint failed."
+msgstr "获取指纹失败。"
+
+#. status label
+#: src/users_plugin_fingerprint_reader.ycp:279
+msgid "Fingerprint acquired successfully."
+msgstr "成功获取指纹。"
+
+#. error message, part 1
+#: src/users_plugin_fingerprint_reader.ycp:288
+msgid "Could not acquire fingerprint."
+msgstr "无法获取指纹。"
+
+#. error message, part 2
+#: src/users_plugin_fingerprint_reader.ycp:293
+msgid "Initialization failed."
+msgstr "初始化失败。"
+
+#. error message, part 2
+#: src/users_plugin_fingerprint_reader.ycp:296
+msgid "No devices detected."
+msgstr "未检测到设备。"
+
+#. error message, part 2
+#: src/users_plugin_fingerprint_reader.ycp:299
+msgid "Device could not be opened."
+msgstr "无法打开设备。"
+
+#. error message, part 2
+#: src/users_plugin_fingerprint_reader.ycp:302
+msgid "USB error occurred."
+msgstr "USB 发生错误。"
+
+#. error message, part 2
+#: src/users_plugin_fingerprint_reader.ycp:305
+msgid "Communication with fingerprint reader failed."
+msgstr "与指纹识别程序通信失败。"
+
+#. button label
+#: src/users_plugin_fingerprint_reader.ycp:317
+msgid "Retry"
+msgstr "重试"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:108
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#~ msgid "Importing fingerprint files failed."
+#~ msgstr "导入指纹文件失败。"
+
+#, fuzzy
+#~ msgid "<p>To <b>Import Fingerprint Files</b> from different installations, choose the directory where the original files are located. The files will be copied to directory %1.</p>"
+#~ msgstr "<p>要从不同的安装中<b>导入指纹文件</b>，请选择初始文件所在的目录。这些文件会拷贝到 %1 目录。</p>"
+
+#~ msgid "Directory with fingerprint files for import"
+#~ msgstr "用来导入的指纹文件所在目录"
+
+#~ msgid ""
+#~ "The path to fingerprint files\n"
+#~ "does not point to the valid directory."
+#~ msgstr ""
+#~ "指纹文件路径指向\n"
+#~ "的目录无效。"
+
+#~ msgid "Successful swipes: %1, failed swipes: %2"
+#~ msgstr "成功下压：%1，失败下压： %2"
+
+#~ msgid "Please swipe your finger..."
+#~ msgstr "请下压您的手指。"

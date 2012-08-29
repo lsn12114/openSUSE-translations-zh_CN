@@ -1,0 +1,791 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+# hillwood <hillwoodroc@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: base\n"
+"Report-Msgid-Bugs-To: apparmor-general@forge.novell.com\n"
+"POT-Creation-Date: 2010-10-06 14:21-0400\n"
+"PO-Revision-Date: 2012-06-02 00:03+0800\n"
+"Last-Translator: hillwood <hillwoodroc@gmail.com>\n"
+"Language-Team: Simplified Chinese <>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: KBabel 1.9\n"
+
+#: ../genprof:55 ../unconfined:57
+msgid "AppArmor does not appear to be started.  Please enable AppArmor and try again."
+msgstr "子域可能未启动。请启用子域并重试。"
+
+#: ../genprof:69
+msgid "Please enter the program to profile: "
+msgstr "请输入您的支持关键字"
+
+#: ../genprof:88
+#, perl-format
+msgid "Can't find %s in the system path list.  If the name of the application is correct, please run 'which %s' in the other window in order to find the fully-qualified path."
+msgstr "系统路径列表中找不到 %s。如果应用程序名称正确，请在其他窗口中运行\"which %s\"，以便找到完全限定的路径。"
+
+#: ../genprof:90 ../autodep:112 ../audit:122 ../complain:122 ../enforce:132
+#, perl-format
+msgid "%s does not exist, please double-check the path."
+msgstr "%s 不存在，请复查路径。"
+
+#: ../genprof:115
+msgid ""
+"Please start the application to be profiled in \n"
+"another window and exercise its functionality now.\n"
+"\n"
+"Once completed, select the \"Scan\" button below in \n"
+"order to scan the system logs for AppArmor events.  \n"
+"\n"
+"For each AppArmor event, you will be given the  \n"
+"opportunity to choose whether the access should be  \n"
+"allowed or denied."
+msgstr ""
+"请立即启动要在\n"
+"其他窗口中制作简报的应用程序并运用其功能。\n"
+"\n"
+"一旦完成，选择下面的\"扫描\"按钮，\n"
+"以进行 AppArmor 事件的系统日志扫描。\n"
+"\n"
+"对于每个 AppArmor 事件，您都将有机会\n"
+"选择应该允许\n"
+"还是拒绝此访问。"
+
+#: ../genprof:135
+msgid "Profiling"
+msgstr "检测"
+
+#: ../genprof:169
+msgid "Reloaded AppArmor profiles in enforce mode."
+msgstr "以强制模式重新装载子域简报。"
+
+#: ../genprof:170
+#, perl-format
+msgid "Finished generating profile for %s."
+msgstr "%s 简报生成完毕。"
+
+#: ../genprof:174
+#, perl-format
+msgid "usage: %s [ -d /path/to/profiles ] [ -f /path/to/logfile ] [ program to profile ]"
+msgstr "用法：%s [ -d /path/to/profiles ] [ -f /path/to/logfile ] [ 制作简报的程序 ]"
+
+#: ../logprof:72
+#, perl-format
+msgid "usage: %s [ -d /path/to/profiles ] [ -f /path/to/logfile ] [ -m \"mark in log to start processing after\""
+msgstr "用法：%s [ -d /path/to/profiles ] [ -f /path/to/logfile ] [ -m \"日志中用于启动后处理的标记 \""
+
+#: ../autodep:63
+#, perl-format
+msgid "Can't find subdomain profiles in %s."
+msgstr "无法在 %s 中找到子域配置文件。"
+
+#: ../autodep:71
+msgid "Please enter the program to create a profile for: "
+msgstr "请进入程序以为以下内容创建一个配置文件："
+
+#: ../autodep:95
+#, perl-format
+msgid "%s is currently marked as a program that should not have it's own profile.  Usually, programs are marked this way if creating a profile for them is likely to break the rest of the system.  If you know what you're doing and are certain you want to create a profile for this program, edit the corresponding entry in the [qualifiers] section in /etc/apparmor/logprof.conf."
+msgstr "%s 当前标记为不应具有自身简报的程序。通常，当为程序创建简报可能会破坏系统的其余部分时，如此标记。如果您知道您在做什么，并确信您要创建该程序的简报，请编辑 /etc/apparmor/logprof.conf 中 [qualifiers] 部分中的相应条目。"
+
+#: ../autodep:102
+#, perl-format
+msgid "Profile for %s already exists - skipping."
+msgstr "%s 的简报已存在 - 正在跳过。"
+
+#: ../autodep:109 ../audit:119 ../complain:119 ../enforce:129
+#, perl-format
+msgid "Can't find %s in the system path list.  If the name of the application is correct, please run 'which %s' as a user with the correct PATH environment set up in order to find the fully-qualified path."
+msgstr "无法在系统路径列表中找到 %s。如果此应用程序的名称正确，请作为具有正确 PATH 环境设置用户来运行“which %s”以查找标准路径。"
+
+#: ../audit:106
+#, perl-format
+msgid "Setting %s to audit mode."
+msgstr "将 %s 设置为审计模式。"
+
+#: ../audit:131
+#, perl-format
+msgid "usage: %s [ -d /path/to/profiles ] [ program to switch to audit mode ]"
+msgstr "用法：%s [ -d /path/to/profiles ] [ 切换到审计模式的程序 ]"
+
+#: ../complain:64
+msgid "Please enter the program to switch to complain mode: "
+msgstr "请进入程序以切换为申诉模式："
+
+#: ../complain:106 ../SubDomain.pm:575 ../SubDomain.pm:896
+#, perl-format
+msgid "Setting %s to complain mode."
+msgstr "正在将 %s 设置为抱怨模式。"
+
+#: ../complain:131
+#, perl-format
+msgid "usage: %s [ -d /path/to/profiles ] [ program to switch to complain mode ]"
+msgstr "用法：%s [ -d /path/to/profiles ] [ 切换到抱怨模式的程序 ]"
+
+#: ../enforce:64
+msgid "Please enter the program to switch to enforce mode: "
+msgstr "请进入程序以切换为强制模式："
+
+#: ../enforce:105 ../SubDomain.pm:588
+#, perl-format
+msgid "Setting %s to enforce mode."
+msgstr "正在将 %s 设置为强制模式。"
+
+#: ../enforce:141
+#, perl-format
+msgid "usage: %s [ -d /path/to/profiles ] [ program to switch to enforce mode ]"
+msgstr "用法：%s [ -d /path/to/profiles ] [ 切换到强制模式的程序 ]"
+
+#: ../unconfined:51
+#, perl-format
+msgid "Usage: %s [ --paranoid ]\n"
+msgstr "用法：%s [ --paranoid ]\n"
+
+#: ../unconfined:62
+msgid "Can't read /proc\n"
+msgstr "无法读取 /proc\n"
+
+#: ../unconfined:100 ../unconfined:102
+msgid "not confined\n"
+msgstr "未限制\n"
+
+#: ../unconfined:111 ../unconfined:113
+msgid "confined by"
+msgstr "限制者"
+
+#: ../SubDomain.pm:573 ../SubDomain.pm:586
+#, perl-format
+msgid "Can't find %s."
+msgstr "找不到 %s。"
+
+#: ../SubDomain.pm:774 ../SubDomain.pm:3240
+msgid "Connecting to repository....."
+msgstr "正在连接到仓库..."
+
+#: ../SubDomain.pm:783
+#, perl-format
+msgid ""
+"WARNING: Error fetching profiles from the repository:\n"
+"%s\n"
+msgstr ""
+"警告：从仓库中获取简报发生错误：\n"
+"%s\n"
+
+#: ../SubDomain.pm:792
+msgid "Inactive local profile for "
+msgstr "处于非活动状态的本地简报 "
+
+#: ../SubDomain.pm:829 ../SubDomain.pm:1851 ../SubDomain.pm:2139
+#: ../SubDomain.pm:3367 ../SubDomain.pm:3400 ../SubDomain.pm:3600
+#: ../SubDomain.pm:3866 ../SubDomain.pm:3918
+msgid "Profile"
+msgstr "简报"
+
+#: ../SubDomain.pm:863
+msgid "Profile submitted by"
+msgstr "简报提交者："
+
+#: ../SubDomain.pm:904
+#, perl-format
+msgid "Error activating profiles: %s\n"
+msgstr "激活设置存档出错：%s\n"
+
+#: ../SubDomain.pm:1051 ../SubDomain.pm:1104
+#, perl-format
+msgid ""
+"WARNING: Error syncronizing profiles with the repository:\n"
+"%s\n"
+msgstr ""
+"警告：与仓库同步简报发生错误：\n"
+"%s\n"
+
+#: ../SubDomain.pm:1131
+msgid "New profiles"
+msgstr "新简报"
+
+#: ../SubDomain.pm:1133
+msgid ""
+"Please choose the newly created profiles that you would like\n"
+"to store in the repository"
+msgstr "请选择您想要保存到仓库的新建的简报"
+
+#: ../SubDomain.pm:1140
+msgid "Submit newly created profiles to the repository"
+msgstr "把新建的简报提交到仓库"
+
+#: ../SubDomain.pm:1142
+msgid "Would you like to upload the newly created profiles?"
+msgstr "您想要上传新建的简报吗？"
+
+#: ../SubDomain.pm:1155
+msgid ""
+"Select which of the changed profiles you would like to upload\n"
+"to the repository"
+msgstr "选择您想要上传到仓库的变更过的简报"
+
+#: ../SubDomain.pm:1157
+msgid "Changed profiles"
+msgstr "变更过的简报"
+
+#: ../SubDomain.pm:1163
+msgid "Submit changed profiles to the repository"
+msgstr "把变更过的简报提交到仓库"
+
+#: ../SubDomain.pm:1165
+msgid ""
+"The following profiles from the repository were changed.\n"
+"Would you like to upload your changes?"
+msgstr ""
+"仓库中的以下简报发生了变更。\n"
+"你想要上传你的更改吗？"
+
+#: ../SubDomain.pm:1232 ../SubDomain.pm:1312
+#, perl-format
+msgid ""
+"WARNING: An error occured while uploading the profile %s\n"
+"%s\n"
+msgstr ""
+"警告：上传设置存档出错 %s\n"
+"%s\n"
+
+#: ../SubDomain.pm:1237
+msgid "Uploaded changes to repository."
+msgstr "已经对安装源上传变更。"
+
+#: ../SubDomain.pm:1259 ../SubDomain.pm:3099 ../SubDomain.pm:3129
+msgid "Repository"
+msgstr "安装源"
+
+#: ../SubDomain.pm:1286
+msgid "Changelog Entry: "
+msgstr "更改日志编目："
+
+#: ../SubDomain.pm:1307
+#, perl-format
+msgid "Uploaded %s to repository."
+msgstr "已向安装源上传  %s ？"
+
+#: ../SubDomain.pm:1318
+msgid ""
+"Repository Error\n"
+"Registration or Signin was unsuccessful. User login\n"
+"information is required to upload profiles to the\n"
+"repository. These changes have not been sent.\n"
+msgstr ""
+"仓库错误\n"
+"注册或登录失败。\n"
+"上传到仓库需要用户登录信息。\n"
+"这些变更没有被发送出去。\n"
+
+#: ../SubDomain.pm:1375 ../SubDomain.pm:1415
+msgid "(Y)es"
+msgstr "是(Y)"
+
+#: ../SubDomain.pm:1376 ../SubDomain.pm:1416
+msgid "(N)o"
+msgstr "否(N)"
+
+#: ../SubDomain.pm:1379 ../SubDomain.pm:1420
+msgid "Invalid hotkey for"
+msgstr "以下项目的热键无效："
+
+#: ../SubDomain.pm:1417
+msgid "(C)ancel"
+msgstr "取消(C)"
+
+#: ../SubDomain.pm:1742
+msgid "Are you sure you want to abandon this set of profile changes and exit?"
+msgstr "是否确实要放弃这组简报更改并退出？"
+
+#: ../SubDomain.pm:1744
+msgid "Abandoning all changes."
+msgstr "正在放弃所有更改。"
+
+#: ../SubDomain.pm:1853
+msgid "Default Hat"
+msgstr "默认 Hat"
+
+#: ../SubDomain.pm:1855
+msgid "Requested Hat"
+msgstr "必需的 Hat"
+
+#: ../SubDomain.pm:2141
+msgid "Program"
+msgstr "程序"
+
+#: ../SubDomain.pm:2146
+msgid "Execute"
+msgstr "执行"
+
+#: ../SubDomain.pm:2147 ../SubDomain.pm:3369 ../SubDomain.pm:3402
+#: ../SubDomain.pm:3655
+msgid "Severity"
+msgstr "严重性"
+
+#: ../SubDomain.pm:2192
+msgid "Enter profile name to transition to: "
+msgstr "输入转换的设置存档名称："
+
+#: ../SubDomain.pm:2200
+msgid ""
+"Should AppArmor sanitize the environment when\n"
+"switching profiles?\n"
+"\n"
+"Sanitizing the environment is more secure,\n"
+"but some applications depend on the presence\n"
+"of LD_PRELOAD or LD_LIBRARY_PATH."
+msgstr ""
+"切换配置文件时 AppArmor 是否应\n"
+"清理环境？\n"
+"\n"
+"清理环境比较安全，\n"
+"但是有些应用程序需要存在\n"
+" LD_PRELOAD 或 LD_LIBRARY_PATH。"
+
+#: ../SubDomain.pm:2202
+msgid ""
+"Should AppArmor sanitize the environment when\n"
+"switching profiles?\n"
+"\n"
+"Sanitizing the environment is more secure,\n"
+"but this application appears to use LD_PRELOAD\n"
+"or LD_LIBRARY_PATH and clearing these could\n"
+"cause functionality problems."
+msgstr ""
+"切换配置文件时 AppArmor 是否应\n"
+"清理环境？\n"
+"\n"
+"清理环境比较安全，\n"
+"但是此应用程序可能使用 LD_PRELOAD\n"
+" 或 LD_LIBRARY_PATH，清除它们可能会\n"
+"导致发生功能问题。"
+
+#: ../SubDomain.pm:2211
+#, perl-format
+msgid ""
+"Launching processes in an unconfined state is a very\n"
+"dangerous operation and can cause serious security holes.\n"
+"\n"
+"Are you absolutely certain you wish to remove all\n"
+"AppArmor protection when executing %s?"
+msgstr ""
+"在未限制的状态下启动进程是非常\n"
+"危险的操作，并且可能会导致产生严重的安全漏洞。\n"
+"\n"
+"确实希望在执行 %s? 时删除所有 \n"
+"AppArmor 保护吗？"
+
+#: ../SubDomain.pm:2213
+msgid ""
+"Should AppArmor sanitize the environment when\n"
+"running this program unconfined?\n"
+"\n"
+"Not sanitizing the environment when unconfining\n"
+"a program opens up significant security holes\n"
+"and should be avoided if at all possible."
+msgstr ""
+"在未限制的状态下运行此程序时 AppArmor 是否应\n"
+"清理环境？\n"
+"\n"
+"在取消程序限制时不清理\n"
+"环境会产生严重的安全漏洞，请\n"
+"尽量清理环境。"
+
+#: ../SubDomain.pm:2303
+#, perl-format
+msgid "A profile for %s does not exist.  Create one?"
+msgstr "关于 %s 的设置存档不存在，是否创建？"
+
+#: ../SubDomain.pm:2330
+#, perl-format
+msgid "A local profile for %s does not exist.  Create one?"
+msgstr "关于 %s 的本地设置存档不存在，是否创建？"
+
+#: ../SubDomain.pm:2519 ../SubDomain.pm:6634 ../SubDomain.pm:6639
+#, perl-format
+msgid "Log contains unknown mode %s."
+msgstr "日志包含未知模式 %s。"
+
+#: ../SubDomain.pm:2982
+msgid "An updated version of this profile has been found in the profile repository.  Would you like to use it?"
+msgstr "在简报仓库中找到这个简报的新版本。您要使用新的简报吗？"
+
+#: ../SubDomain.pm:3012
+#, perl-format
+msgid "Updated profile %s to revision %s."
+msgstr "更新简报 %s 到修订版 %s。"
+
+#: ../SubDomain.pm:3019
+msgid "Error parsing repository profile."
+msgstr "分析仓库简报时发生的错误。"
+
+#: ../SubDomain.pm:3055
+msgid "Create New User?"
+msgstr "是否创建新用户？"
+
+#: ../SubDomain.pm:3056
+msgid "Username: "
+msgstr "用户名："
+
+#: ../SubDomain.pm:3057
+msgid "Password: "
+msgstr "口令："
+
+#: ../SubDomain.pm:3058
+msgid "Email Addr: "
+msgstr "Email 地址："
+
+#: ../SubDomain.pm:3060
+msgid "Save Configuration? "
+msgstr "是否保存配置？"
+
+#: ../SubDomain.pm:3069
+msgid "The Profile Repository server returned the following error:"
+msgstr "简报仓库服务器返回了以下错误："
+
+#: ../SubDomain.pm:3071
+msgid "Please re-enter registration information or contact the administrator."
+msgstr "请重新输入注册信息或者联系管理员。"
+
+#: ../SubDomain.pm:3072
+msgid "Login Error\n"
+msgstr "登录错误\n"
+
+#: ../SubDomain.pm:3079
+msgid ""
+"Login failure\n"
+" Please check username and password and try again."
+msgstr ""
+"登录失败\n"
+"请检查用户名和密码然后重试。"
+
+#: ../SubDomain.pm:3101
+msgid ""
+"Would you like to enable access to the\n"
+"profile repository?"
+msgstr "您想要启用对设置存档仓库的访问吗？"
+
+#: ../SubDomain.pm:3132
+msgid ""
+"Would you like to upload newly created and changed profiles to\n"
+"      the profile repository?"
+msgstr ""
+"您希望把新建的和更改过的简报上传到\n"
+"      简报仓库中吗？"
+
+#: ../SubDomain.pm:3251
+#, perl-format
+msgid ""
+"WARNING: Profile update check failed\n"
+"Error Detail:\n"
+"%s"
+msgstr ""
+"警告：设置存档更新检查失败\n"
+"错误详情：\n"
+"%s"
+
+#: ../SubDomain.pm:3265
+msgid "Change mode modifiers"
+msgstr "更改模式限制"
+
+#: ../SubDomain.pm:3309
+msgid "Complain-mode changes:"
+msgstr "抱怨模式更改："
+
+#: ../SubDomain.pm:3311
+msgid "Enforce-mode changes:"
+msgstr "强制模式更改："
+
+#: ../SubDomain.pm:3317
+#, perl-format
+msgid "Invalid mode found: %s"
+msgstr "发现无效模式：%s"
+
+#: ../SubDomain.pm:3368 ../SubDomain.pm:3401
+msgid "Capability"
+msgstr "功能"
+
+#: ../SubDomain.pm:3421 ../SubDomain.pm:3695 ../SubDomain.pm:3942
+#, perl-format
+msgid "Adding #include <%s> to profile."
+msgstr "正在将 #include <%s> 添加到简报中。"
+
+#: ../SubDomain.pm:3424 ../SubDomain.pm:3696 ../SubDomain.pm:3736
+#: ../SubDomain.pm:3946
+#, perl-format
+msgid "Deleted %s previous matching profile entries."
+msgstr "已删除 %s 个以前匹配的简报项。"
+
+#: ../SubDomain.pm:3435
+#, perl-format
+msgid "Adding capability %s to profile."
+msgstr "正在添加功能 %s 到简报。"
+
+#: ../SubDomain.pm:3440
+#, perl-format
+msgid "Denying capability %s to profile."
+msgstr "正在对简报拒绝功能 %s。"
+
+#: ../SubDomain.pm:3601
+msgid "Path"
+msgstr "路径"
+
+#: ../SubDomain.pm:3612 ../SubDomain.pm:3644
+msgid "(owner permissions off)"
+msgstr "(所有者权限关闭)"
+
+#: ../SubDomain.pm:3618
+msgid "(force new perms to owner)"
+msgstr "(强制新的权限给给所有者)"
+
+#: ../SubDomain.pm:3621
+msgid "(force all rule perms to owner)"
+msgstr "(强制所有规则权限给所有者)"
+
+#: ../SubDomain.pm:3633
+msgid "Old Mode"
+msgstr "旧模式"
+
+#: ../SubDomain.pm:3634
+msgid "New Mode"
+msgstr "新模式"
+
+#: ../SubDomain.pm:3650
+msgid "(force perms to owner)"
+msgstr "(强制权限给所有者)"
+
+#: ../SubDomain.pm:3653
+msgid "Mode"
+msgstr "模式"
+
+#: ../SubDomain.pm:3735
+#, perl-format
+msgid "Adding %s %s to profile."
+msgstr "正在将 %s %s 添加到简报。"
+
+#: ../SubDomain.pm:3751
+msgid "Enter new path: "
+msgstr "输入新路径："
+
+#: ../SubDomain.pm:3754
+msgid "The specified path does not match this log entry:"
+msgstr "指定的路径与此日志条目不匹配："
+
+#: ../SubDomain.pm:3755
+msgid "Log Entry"
+msgstr "日志项"
+
+#: ../SubDomain.pm:3756
+msgid "Entered Path"
+msgstr "已输入的路径"
+
+#: ../SubDomain.pm:3757
+msgid "Do you really want to use this path?"
+msgstr "确实要使用此路径吗？"
+
+#: ../SubDomain.pm:3869 ../SubDomain.pm:3921
+msgid "Network Family"
+msgstr "网络族"
+
+#: ../SubDomain.pm:3872 ../SubDomain.pm:3924
+msgid "Socket Type"
+msgstr "接口类型"
+
+#: ../SubDomain.pm:3972
+#, perl-format
+msgid "Adding network access %s %s to profile."
+msgstr "正在将网络访问 %s %s 添加到简报。"
+
+#: ../SubDomain.pm:3991
+#, perl-format
+msgid "Denying network access %s %s to profile."
+msgstr "正在拒绝对简报的网络访问 %s %s 。"
+
+#: ../SubDomain.pm:4199
+#, perl-format
+msgid "Reading log entries from %s."
+msgstr "正在从 %s 读取日志条目。"
+
+#: ../SubDomain.pm:4200
+#, perl-format
+msgid "Updating AppArmor profiles in %s."
+msgstr "正在更新 %s 中的 AppArmor 简报。"
+
+#: ../SubDomain.pm:4204
+msgid "unknown\n"
+msgstr "未知\n"
+
+#: ../SubDomain.pm:4238
+msgid ""
+"The profile analyzer has completed processing the log files.\n"
+"\n"
+"All updated profiles will be reloaded"
+msgstr ""
+"简报分析程序已完成对日志文件的处理。\n"
+"\n"
+"将重新装载所有已更新的简报。"
+
+#: ../SubDomain.pm:4244
+msgid "No unhandled AppArmor events were found in the system log."
+msgstr "在系统日志中没有发现未处理的 AppArmor 事件。"
+
+#: ../SubDomain.pm:4305
+msgid ""
+"Select which profile changes you would like to save to the\n"
+"local profile set"
+msgstr "选择您想要保存到本地简报集中的更改"
+
+#: ../SubDomain.pm:4306
+msgid "Local profile changes"
+msgstr "本地简报的变更"
+
+#: ../SubDomain.pm:4333
+msgid "The following local profiles were changed.  Would you like to save them?"
+msgstr "以下本地简报发生变更。您想要保存吗？"
+
+#: ../SubDomain.pm:4430
+msgid "Profile Changes"
+msgstr "简报变更"
+
+#: ../SubDomain.pm:5046 ../SubDomain.pm:5062 ../SubDomain.pm:5073
+#: ../SubDomain.pm:5081 ../SubDomain.pm:5102 ../SubDomain.pm:5122
+#: ../SubDomain.pm:5131 ../SubDomain.pm:5163 ../SubDomain.pm:5241
+#: ../SubDomain.pm:5289
+#, perl-format
+msgid "%s contains syntax errors."
+msgstr "%s 包含语法错误。"
+
+#: ../SubDomain.pm:5182
+#, perl-format
+msgid "Profile %s contains invalid regexp %s."
+msgstr "简报 %s 包含无效的 regexp %s。"
+
+#: ../SubDomain.pm:5187
+#, perl-format
+msgid "Profile %s contains invalid mode %s."
+msgstr "简报 %s 包含无效的模式 %s。"
+
+#: ../SubDomain.pm:5335
+#, perl-format
+msgid "%s contains syntax errors. Line [%s]"
+msgstr "%s 包含语法错误。行 [%s]"
+
+#: ../SubDomain.pm:5927
+#, perl-format
+msgid "Writing updated profile for %s."
+msgstr "正在写入 %s 已更新的简报。"
+
+#: ../SubDomain.pm:6245
+#, fuzzy, perl-format
+#| msgid "%s is currently marked as a program that should not have it's own profile.  Usually, programs are marked this way if creating a profile for them is likely to break the rest of the system.  If you know what you're doing and are certain you want to create a profile for this program, edit the corresponding entry in the [qualifiers] section in /etc/apparmor/logprof.conf."
+msgid ""
+"%s is currently marked as a program that should not have its own\n"
+"profile.  Usually, programs are marked this way if creating a profile for \n"
+"them is likely to break the rest of the system.  If you know what you're\n"
+"doing and are certain you want to create a profile for this program, edit\n"
+"the corresponding entry in the [qualifiers] section in /etc/apparmor/logprof.conf."
+msgstr "%s 当前标记为不应具有自身简报的程序。通常，当为程序创建简报可能会破坏系统的其余部分时，如此标记。如果您知道您在做什么，并确信您要创建该程序的简报，请编辑 /etc/apparmor/logprof.conf 中 [qualifiers] 部分中的相应条目。"
+
+#: ../SubDomain.pm:6438
+msgid "Unknown command"
+msgstr "未知命令"
+
+#: ../SubDomain.pm:6446
+msgid "Invalid hotkey in"
+msgstr "以下项目中的热键无效："
+
+#: ../SubDomain.pm:6456
+msgid "Duplicate hotkey for"
+msgstr "以下项目热键重复："
+
+#: ../SubDomain.pm:6477
+msgid "Invalid hotkey in default item"
+msgstr "默认项目中热键无效"
+
+#: ../SubDomain.pm:6486
+msgid "Invalid default"
+msgstr "无效默认"
+
+#: ../Reports.pm:443 ../Reports.pm:532 ../Reports.pm:970 ../Reports.pm:983
+#: ../Reports.pm:991 ../Reports.pm:1480
+#, perl-format
+msgid "DBI Execution failed: %s."
+msgstr "DBI 执行失败： %s."
+
+#: ../Reports.pm:556
+#, perl-format
+msgid "Couldn't open file: %s."
+msgstr "无法打开文件： %s."
+
+#: ../Reports.pm:560
+msgid "No type value passed.  Unable to determine page count."
+msgstr "没有传递类型值。无法确定页数。"
+
+#: ../Reports.pm:626
+#, perl-format
+msgid "Failed copying %s."
+msgstr "未能复制 %s。"
+
+#: ../Reports.pm:750
+#, perl-format
+msgid "Export Log Error: Couldn't open %s"
+msgstr "导出日志错误：无法打开 %s"
+
+#: ../Reports.pm:772
+msgid "Fatal error.  No report name given. Exiting."
+msgstr "致命错误。没有给定报告名。正在退出。"
+
+#: ../Reports.pm:781
+#, perl-format
+msgid ""
+"Unable to get configuration info for %s.\n"
+"                Unable to find %s."
+msgstr ""
+"无法获取 %s 的配置信息。\n"
+"      无法找到 %s。"
+
+#: ../Reports.pm:828
+#, perl-format
+msgid "Failed to parse: %s."
+msgstr "未能对 %s 进行语法分析."
+
+#: ../Reports.pm:837
+#, perl-format
+msgid "Fatal Error.  Couldn't open %s."
+msgstr "致命错误。无法打开 %s。"
+
+#: ../Reports.pm:885
+#, perl-format
+msgid "Fatal Error.  Can't run %s.  Exiting."
+msgstr "致命错误。无法运行 %s。正在退出。"
+
+#: ../Reports.pm:925
+#, perl-format
+msgid "Fatal Error.  No directory, %s, found.  Exiting."
+msgstr "致命错误。未找到目录 %s。正在退出。"
+
+#: ../Reports.pm:943
+#, perl-format
+msgid "Fatal Error.  Couldn't open %s.  Exiting"
+msgstr "致命错误。无法打开 %s。正在退出"
+
+#: ../Reports.pm:1592
+#, perl-format
+msgid "Fatal Error.  getArchReport() couldn't open %s"
+msgstr "致命错误。getArchReport() 无法打开  %s"
+
+#, fuzzy
+#~| msgid "SubDomain does not appear to be started. Please enable SubDomain and try again."
+#~ msgid "AppArmor does not appear to be started. Please enable AppArmor and try again."
+#~ msgstr "子域可能未启动。请启用子域并重试。"
+
+#~ msgid "DBI Execution failed: %s"
+#~ msgstr "DBI 执行失败： %s"

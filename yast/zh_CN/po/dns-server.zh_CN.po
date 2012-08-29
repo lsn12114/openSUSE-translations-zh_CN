@@ -1,0 +1,3059 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: dns server\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:35+0200\n"
+"PO-Revision-Date: 2012-07-19 05:53+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. DNS server read dialog caption
+#: src/DnsServer.pm:931
+msgid "Initializing DNS Server Configuration"
+msgstr "正在初始化 DNS 服务器配置"
+
+#. progress stage
+#: src/DnsServer.pm:935
+msgid "Check the environment"
+msgstr "检查环境"
+
+#. progress stage
+#: src/DnsServer.pm:937 src/DnsServer.pm:1232
+msgid "Flush caches of the DNS daemon"
+msgstr "清理 DNS 守护程序的缓存"
+
+#. progress stage
+#: src/DnsServer.pm:939
+msgid "Read the firewall settings"
+msgstr "读取防火墙设置"
+
+#. progress stage
+#: src/DnsServer.pm:941
+msgid "Read the settings"
+msgstr "读取设置"
+
+#. progress step
+#: src/DnsServer.pm:945
+msgid "Checking the environment..."
+msgstr "正在检查环境..."
+
+#. progress step
+#: src/DnsServer.pm:947 src/DnsServer.pm:1248
+msgid "Flushing caches of the DNS daemon..."
+msgstr "正在清理 DNS 守护精灵的缓存..."
+
+#. progress step
+#: src/DnsServer.pm:949
+msgid "Reading the firewall settings..."
+msgstr "正在读取防火墙设置..."
+
+#. progress step
+#: src/DnsServer.pm:951
+msgid "Reading the settings..."
+msgstr "正在读取设置..."
+
+#. progress step
+#: src/DnsServer.pm:953 src/DnsServer.pm:1262
+msgid "Finished"
+msgstr "已完成"
+
+#. DNS server read dialog caption
+#: src/DnsServer.pm:1228
+msgid "Saving DNS Server Configuration"
+msgstr "正在保存 DNS 服务器配置"
+
+#. progress stage
+#: src/DnsServer.pm:1234
+msgid "Save configuration files"
+msgstr "保存配置文件"
+
+#. progress stage
+#: src/DnsServer.pm:1236
+msgid "Restart the DNS daemon"
+msgstr "重启 DNS 守护精灵"
+
+#. progress stage
+#: src/DnsServer.pm:1238
+msgid "Update zone files"
+msgstr "更新区域文件"
+
+#. progress stage
+#: src/DnsServer.pm:1240
+msgid "Adjust the DNS service"
+msgstr "调整 DNS 服务"
+
+#. progress stage
+#: src/DnsServer.pm:1242
+msgid "Call netconfig"
+msgstr "调用 netconfig"
+
+#. progress stage
+#: src/DnsServer.pm:1244
+msgid "Write the firewall settings"
+msgstr "写入防火墙设置"
+
+#. progress step
+#: src/DnsServer.pm:1250
+msgid "Saving configuration files..."
+msgstr "正在保存配置文件..."
+
+#. progress step
+#: src/DnsServer.pm:1252
+msgid "Restarting the DNS daemon..."
+msgstr "正在重启 DNS 守护精灵..."
+
+#. progress step
+#: src/DnsServer.pm:1254
+msgid "Updating zone files..."
+msgstr "正在更新区域文件..."
+
+#. progress step
+#: src/DnsServer.pm:1256
+msgid "Adjusting the DNS service..."
+msgstr "正在调整 DNS 服务..."
+
+#. progress step
+#: src/DnsServer.pm:1258
+msgid "Calling netconfig..."
+msgstr "正在调用 netconfig..."
+
+#. progress step
+#: src/DnsServer.pm:1260
+msgid "Writing the firewall settings..."
+msgstr "正在写入防火墙设置..."
+
+#: src/DnsServer.pm:1417 src/DnsServer.pm:1483
+msgid ""
+"Error occurred while calling netconfig.\n"
+"Error: "
+msgstr ""
+"调用 netconfig 时出错。\n"
+"错误："
+
+#. Cannot start service 'named', because of error that follows Error:.  Do not translate named.
+#: src/DnsServer.pm:1444
+msgid ""
+"Error occurred while starting service named.\n"
+"Error: "
+msgstr ""
+"启动 named 服务时出错。\n"
+"错误："
+
+#. type of zone to be used in summary
+#. Combobox - DNS adding zone - Type Master
+#. TRANSLATORS: Table item - Server type
+#: src/DnsServer.pm:1559 src/dialog-main.ycp:1501 src/dialog-main.ycp:1582
+msgid "Master"
+msgstr "主"
+
+#. type of zone to be used in summary
+#. Combobox - DNS adding zone - Type Slave
+#. TRANSLATORS: Table item - Server type
+#: src/DnsServer.pm:1561 src/dialog-main.ycp:1503 src/dialog-main.ycp:1586
+#: src/dialog-main.ycp:1590
+msgid "Slave"
+msgstr "从属"
+
+#. type of zone to be used in summary
+#: src/DnsServer.pm:1563
+msgid "Stub"
+msgstr "存根"
+
+#. type of zone to be used in summary
+#: src/DnsServer.pm:1565
+msgid "Hint"
+msgstr "提示"
+
+#. type of zone to be used in summary
+#. Combobox - DNS adding zone - Type Slave
+#. TRANSLATORS: Table item - Server type
+#: src/DnsServer.pm:1567 src/dialog-main.ycp:1505 src/dialog-main.ycp:1594
+msgid "Forward"
+msgstr "转发"
+
+#. summary string
+#: src/DnsServer.pm:1574
+msgid "The DNS server starts when booting the system."
+msgstr "在引导系统时启动 DNS 服务器。"
+
+#. summary string
+#: src/DnsServer.pm:1580
+msgid "The DNS server does not start when booting the system."
+msgstr "在引导系统时不启动 DNS 服务器。"
+
+#. summary string, %s is list of DNS zones (their names), coma separated
+#: src/DnsServer.pm:1609
+#, perl-format
+msgid "Configured Zones: %s"
+msgstr "已配置的区域：%s"
+
+#. error message
+#: src/DnsServer.pm:1623
+msgid "Invalid LDAP configuration. Cannot use LDAP."
+msgstr "LDAP 配置无效。无法使用 LDAP。"
+
+#. yes-no popup
+#: src/DnsServer.pm:1704
+msgid "Enable LDAP support?"
+msgstr "是否启用 LDAP 支持？"
+
+#. error popup
+#: src/DnsServer.pm:1792
+msgid ""
+"Installation of required packages failed.\n"
+"LDAP support will not be active."
+msgstr ""
+"安装必需的包失败。\n"
+"LDAP 支持将不处于活动状态。"
+
+#. BNC #679960
+#: src/DnsServer.pm:1857
+msgid "Unknown LDAP initialization error."
+msgstr "未知的 LDAP 初始化错误。"
+
+#. TRANSLATORS: Popup error message, %1 is an LDAP object whose creation failed
+#: src/DnsServer.pm:1893
+msgid "Error occurred while creating %1."
+msgstr "创建 %1 时出错。"
+
+#: src/DnsServer.pm:1902
+msgid ""
+"Required LDAP schemas (yast, dnszone) are not included.\n"
+"Cannot write to LDAP."
+msgstr ""
+"未包含所需的 LDAP 方案 (yast, dnszone)。\n"
+"不能写到 LDAP。"
+
+#. error report, %1 is ldap object
+#: src/DnsServer.pm:1932
+msgid "Error occurred while creating cn=defaultDNS,%1. Not using LDAP."
+msgstr "创建 cn=defaultDNS 的 %1 时出错。未使用 LDAP。"
+
+#. error report, %1 is LDAP record DN
+#: src/DnsServer.pm:1958
+msgid "Error occurred while updating %1."
+msgstr "更新 %1 时出错。"
+
+#. error report, %1 is LDAP record DN
+#: src/DnsServer.pm:1993
+msgid "Error occurred while creating %1. Not using LDAP."
+msgstr "创建 %1 时出错。未使用 LDAP。"
+
+#. TRANSLATORS: command line error message, %1 is a missing required parameter
+#: src/cmdline.ycp:35
+#, ycp-format
+msgid "Parameter %1 is required."
+msgstr "参数 %1 是必需的。"
+
+#. TRANSLATORS: command line error message, %1 is a parameter name
+#: src/cmdline.ycp:43
+#, ycp-format
+msgid "Unknown value for parameter %1."
+msgstr "参数 %1 的值未知。"
+
+#. TRANSLATORS: commandline section header
+#: src/cmdline.ycp:52 src/cmdline.ycp:59 src/cmdline.ycp:69 src/cmdline.ycp:86
+msgid "Start-Up Settings:"
+msgstr "启动设置："
+
+#. TRANSLATORS: commandline error message
+#: src/cmdline.ycp:54
+msgid "Only one parameter is allowed."
+msgstr "只允许一个参数。"
+
+#. TRANSLATORS: commandline progress information
+#: src/cmdline.ycp:61
+msgid "Enabling DNS server in the boot process..."
+msgstr "正在引导进程中启用 DNS 服务器..."
+
+#. TRANSLATORS: commandline progress information
+#: src/cmdline.ycp:71
+msgid "Removing DNS server from the boot process..."
+msgstr "正在从引导进程删除 DNS 服务器..."
+
+#. TRANSLATORS: commandline DNS service status information
+#: src/cmdline.ycp:80
+msgid "DNS server is enabled in the boot process."
+msgstr "在引导进程中启用了 DNS 服务器。"
+
+#. TRANSLATORS: commandline DNS service status information
+#: src/cmdline.ycp:83
+msgid "DNS server needs manual starting."
+msgstr "DNS 服务器需要手动启动。"
+
+#. TRANSLATORS: commandline section header, 
+#: src/cmdline.ycp:103
+msgid "Forwarding:"
+msgstr "正在转发："
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:105
+msgid "Forwarder IP"
+msgstr "转发对象 IP"
+
+#. TRANSLATORS: commandline error message
+#: src/cmdline.ycp:110 src/cmdline.ycp:345 src/cmdline.ycp:465
+#: src/cmdline.ycp:513 src/cmdline.ycp:563 src/cmdline.ycp:671
+#: src/cmdline.ycp:724
+msgid "Only one action parameter is allowed."
+msgstr "只允许一个操作参数。"
+
+#. TRANSLATORS: commandline table item
+#: src/cmdline.ycp:176 src/cmdline.ycp:183
+msgid "Logging destination"
+msgstr "日志记录目标"
+
+#. TRANSLATORS: commandline table item
+#: src/cmdline.ycp:178
+msgid "System log"
+msgstr "系统日志"
+
+#. TRANSLATORS: commandline table item
+#: src/cmdline.ycp:185
+msgid "File"
+msgstr "文件"
+
+#. TRANSLATORS: commandline table item
+#: src/cmdline.ycp:190
+msgid "Filename"
+msgstr "文件名"
+
+#. TRANSLATORS: commandline table item
+#: src/cmdline.ycp:194
+msgid "Maximum size"
+msgstr "最大大小"
+
+#. TRANSLATORS: commandline table item
+#: src/cmdline.ycp:198
+msgid "Maximum versions"
+msgstr "最大版本数"
+
+#. TRANSLATORS: commandline table item, do not translate named
+#: src/cmdline.ycp:207
+msgid "Log named queries"
+msgstr "记录命名查询"
+
+#. TRANSLATORS: commandline table item
+#: src/cmdline.ycp:211
+msgid "Log zone updates"
+msgstr "记录区域更新"
+
+#. TRANSLATORS: commandline table item
+#: src/cmdline.ycp:215
+msgid "Log zone transfers"
+msgstr "记录区域传输"
+
+#. TRANSLATORS: commandline section header
+#: src/cmdline.ycp:220
+msgid "Logging Settings:"
+msgstr "日志记录设置："
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:224
+msgid "Setting"
+msgstr "设置"
+
+#. TRANSLATORS: commandline table header item
+#. Table header item - basic-options listing
+#. Table header item - ACL-options
+#. Table menu item - Records listing
+#: src/cmdline.ycp:226 src/cmdline.ycp:237 src/cmdline.ycp:417
+#: src/cmdline.ycp:609 src/dialog-main.ycp:804 src/dialog-main.ycp:1279
+#: src/dialog-masterzone.ycp:1105
+msgid "Value"
+msgstr "值"
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:235
+msgid "Logging Rule"
+msgstr "日志记录规则"
+
+#. TRANSLATORS: commandline section header, 
+#: src/cmdline.ycp:318
+msgid "DNS Zones:"
+msgstr "DNS 区域："
+
+#. TRANSLATORS: commandline table header item
+#. Textentry - DNS adding zone - Name
+#: src/cmdline.ycp:322 src/cmdline.ycp:413 src/dialog-main.ycp:1497
+msgid "Name"
+msgstr "名称"
+
+#. TRANSLATORS: commandline table header item
+#. Combobox - DNS adding zone - Type
+#. Table header item - DNS listing zones
+#. Table menu item - Records listing
+#. frame containing radio buttons group
+#. table header
+#: src/cmdline.ycp:324 src/cmdline.ycp:415 src/dialog-main.ycp:1499
+#: src/dialog-main.ycp:1536 src/dialog-masterzone.ycp:1103 src/widgets.ycp:226
+#: src/widgets.ycp:640
+msgid "Type"
+msgstr "类型"
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:326
+msgid "Master Server"
+msgstr "主服务器"
+
+#. TRANSLATORS: commandline table header item
+#. Dialog Label - DNS - expert settings
+#. Tree Menu Item - DNS - expert settings
+#: src/cmdline.ycp:328 src/dialog-main.ycp:1890 src/dialog-main.ycp:1892
+msgid "Forwarders"
+msgstr "转发对象"
+
+#. TRANSLATORS: table item - ACL type
+#: src/cmdline.ycp:398
+msgid "Predefined"
+msgstr "预定义"
+
+#. TRANSLATORS: table item - ACL type
+#: src/cmdline.ycp:401
+msgid "Custom"
+msgstr "自定义"
+
+#. TRANSLATORS: commandline section header
+#: src/cmdline.ycp:409
+msgid "ACLs:"
+msgstr "访问控制列表："
+
+#. TRANSLATORS: commandline section header
+#: src/cmdline.ycp:447
+msgid "Zone Transport:"
+msgstr "区域传输："
+
+#. TRANSLATORS: commandline table header item
+#. Table header item - DNS listing zones
+#. text entry
+#. table header
+#: src/cmdline.ycp:451 src/cmdline.ycp:500 src/cmdline.ycp:548
+#: src/cmdline.ycp:654 src/cmdline.ycp:709 src/dialog-main.ycp:1534
+#: src/widgets.ycp:262 src/widgets.ycp:638
+msgid "Zone"
+msgstr "区域"
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:453
+msgid "Enabled ACL"
+msgstr "已启用的访问控制列表"
+
+#. TRANSLATORS: commandline section header
+#: src/cmdline.ycp:496
+msgid "Name Servers:"
+msgstr "名称服务器："
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:502
+msgid "Name Server"
+msgstr "名称服务器"
+
+#. TRANSLATORS: commandline section header
+#: src/cmdline.ycp:544 src/cmdline.ycp:650
+msgid "Mail Servers:"
+msgstr "邮件服务器："
+
+#. TRANSLATORS: commandline table header item
+#. Table header item - listing mail servers
+#: src/cmdline.ycp:550 src/dialog-masterzone.ycp:578
+msgid "Mail Server"
+msgstr "邮件服务器"
+
+#. TRANSLATORS: commandline table header item
+#. Table header item - listing mail servers
+#: src/cmdline.ycp:552 src/dialog-masterzone.ycp:580
+msgid "Priority"
+msgstr "优先级"
+
+#. TRANSLATORS: commandline section header
+#: src/cmdline.ycp:603
+msgid "Start of Authority (SOA):"
+msgstr "授权起始记录(SOA)："
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:607
+msgid "Key"
+msgstr "密钥"
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:656
+msgid "Record Query"
+msgstr "记录查询"
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:658
+msgid "Record Type"
+msgstr "记录类型"
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:660
+msgid "Record Value"
+msgstr "记录值"
+
+#. TRANSLATORS: commandline section header
+#: src/cmdline.ycp:705
+msgid "Hostname Record:"
+msgstr "主机名记录："
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:711
+msgid "Hostname"
+msgstr "主机名"
+
+#. TRANSLATORS: commandline table header item
+#: src/cmdline.ycp:713
+msgid "IP"
+msgstr "IP"
+
+#. TRANSLATORS: commandline general name of the module in help
+#: src/cmdline.ycp:744
+msgid "DNS server configuration"
+msgstr "DNS 服务器配置"
+
+#: src/cmdline.ycp:751
+msgid "Start-up settings"
+msgstr "启动设置"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:760
+msgid "DNS forwarders"
+msgstr "DNS 转发对象"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:770
+msgid "Logging settings"
+msgstr "日志记录设置"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:781
+msgid "DNS zones"
+msgstr "DNS 区域"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:795
+msgid "Access control lists"
+msgstr "访问控制列表"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:803
+msgid "Zone transport rules"
+msgstr "区域传输规则"
+
+#. TRANSLATORS: commandline short help for command, base cmdline command
+#: src/cmdline.ycp:813
+msgid "Zone name servers"
+msgstr "区域名称服务器"
+
+#. TRANSLATORS: commandline short help for command, base cmdline command
+#: src/cmdline.ycp:825
+msgid "Zone mail servers"
+msgstr "区域邮件服务器"
+
+#. TRANSLATORS: commandline short help for command, base cmdline command
+#: src/cmdline.ycp:837
+msgid "Start of authority (SOA)"
+msgstr "授权起始记录(SOA)"
+
+#. TRANSLATORS: commandline short help for command, base cmdline command
+#: src/cmdline.ycp:847
+msgid "Zone resource records, such as A, CNAME, NS, MX, or PTR"
+msgstr "区域资源记录，例如 A、CNAME、NS、MX 或 PTR"
+
+#. TRANSLATORS: commandline short help for command, base cmdline command, A is record type
+#: src/cmdline.ycp:860
+msgid "Handles A and corresponding PTR record at once"
+msgstr "立即处理 A 和相应的 PTR 记录"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:872
+msgid "Show current settings"
+msgstr "显示当前设置"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:876
+msgid "Start DNS server in the boot process"
+msgstr "在引导进程中启动 DNS 服务器"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:880
+msgid "Start DNS server manually"
+msgstr "手动启动 DNS 服务器"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:884
+msgid "Add a new record"
+msgstr "添加新记录"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:888
+msgid "Remove a record"
+msgstr "删除记录"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:893
+msgid "IPv4 address"
+msgstr "IPv4 地址"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:898
+msgid "Logging destination (syslog|file)"
+msgstr "日志记录目标 (syslog|file)"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:902
+msgid "Set option"
+msgstr "设置选项"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:907
+msgid "Filename for logging (full path)"
+msgstr "用于日志记录的文件名(完整路径)"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:912
+msgid "Maximum log size [0-9]+(KMG)*"
+msgstr "最大日志大小 [0-9]+(KMG)*"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:917
+msgid "Maximum number of versions for rotation, '0' means no rotation"
+msgstr "重复使用的最大版本数，\"0\"表示不重复使用"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:922 src/cmdline.ycp:937
+msgid "Zone name"
+msgstr "区域名"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:927
+msgid "Zone type, master or slave"
+msgstr "区域类型(主或从属)"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:932
+msgid "DNS zone master server"
+msgstr "DNS 区域主服务器"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:942
+msgid "Enable option"
+msgstr "启用选项"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:947
+msgid "Disable option"
+msgstr "禁用选项"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:952
+msgid "Name server (in fully qualified format finished with a dot or relative name)"
+msgstr "名称服务器(使用以一个点结尾的完全限定格式或相对名称)"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:957
+msgid "Mail server (in fully qualified format finished with a dot or relative name)"
+msgstr "邮件服务器(使用以一个点结尾的完全限定格式或相对名称)"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:962
+msgid "Mail server priority (number from 0 to 65535)"
+msgstr "邮件服务器优先级(从 0 到 65535 的数字)"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:967
+msgid "Serial number of zone update"
+msgstr "区域更新的序列号"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:972
+msgid "General time to live of records in zone"
+msgstr "记录在区域中的一般存活时间"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:977
+msgid "An interval before the zone records should be refreshed"
+msgstr "刷新区域记录的时间间隔"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:982
+msgid "Interval between retries of failed refresh"
+msgstr "刷新失败与尝试重新刷新之间的时间间隔"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:987
+msgid "Interval after which zone records are no longer authoritative"
+msgstr "区域记录持续保持可信的时间间隔"
+
+#. TRANSLATORS: commandline short help for command, TTL is DNS-Specific (Time to Live), shouldn't be translated
+#: src/cmdline.ycp:992
+msgid "Minimum TTL that should be exported with records in this zone"
+msgstr "应通过本区域中的记录导出的最小 TTL"
+
+#. TRANSLATORS: commandline short help for command, Types are DNS-Specific, cannot be translated
+#: src/cmdline.ycp:997
+msgid "DNS resource record type, such as A, CNAME, NS, MX, or PTR"
+msgstr "DNS 资源记录类型，例如 A、CNAME、NS、MX 或 PTR"
+
+#. TRANSLATORS: commandline short help for command, DNS query is a question for value when we have a /key/ and type, ('A' record for 'example.org'? -> 192.0.34.166)
+#: src/cmdline.ycp:1002
+msgid "DNS query, such as example.org for A record"
+msgstr "DNS 查询，诸如 example.org 的 A 记录"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:1007
+msgid "DNS resource record value, such as 192.0.34.166 for example.org's A record"
+msgstr "DNS 资源记录值，诸如表示 example.org 的 A 记录的 192.0.34.166"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:1012
+msgid "Hostname for the DNS record"
+msgstr "DNS 主机名记录"
+
+#. TRANSLATORS: commandline short help for command, %1 are possible untranlatable parameters "(yes|no)"
+#: src/cmdline.ycp:1017
+#, ycp-format
+msgid "Log named queries %1"
+msgstr "记录命名查询 %1"
+
+#. TRANSLATORS: commandline short help for command, %1 are possible untranlatable parameters "(yes|no)"
+#: src/cmdline.ycp:1022
+#, ycp-format
+msgid "Log zone updates %1"
+msgstr "记录区域更新 %1"
+
+#. TRANSLATORS: commandline short help for command, %1 are possible untranlatable parameters "(yes|no)"
+#: src/cmdline.ycp:1027
+#, ycp-format
+msgid "Log zone transfers %1"
+msgstr "记录区域传送 %1"
+
+#. TRANSLATORS: commandline short help for command
+#: src/cmdline.ycp:1032
+msgid "Comma-separated list of zone forwarders"
+msgstr "用逗号分隔的区域转发对象列表"
+
+#. Dialog caption (before a colon)
+#: src/dialog-installwizard.ycp:27 src/dialog-installwizard.ycp:77
+#: src/dialog-installwizard.ycp:140
+msgid "DNS Server Installation"
+msgstr "DNS 服务器安装"
+
+#. Dialog caption (after a colon)
+#: src/dialog-installwizard.ycp:30
+msgid "Forwarder Settings"
+msgstr "转发对象设置"
+
+#. Dialog caption (after a colon)
+#. Dialog Label - DNS - expert settings
+#. Tree Menu Item - DNS - expert settings
+#: src/dialog-installwizard.ycp:80 src/dialog-main.ycp:1935
+#: src/dialog-main.ycp:1937
+msgid "DNS Zones"
+msgstr "DNS 区域"
+
+#. Dialog caption (after a colon)
+#: src/dialog-installwizard.ycp:143
+msgid "Finish Wizard"
+msgstr "完成向导"
+
+#. Rich Text Item - Installation overview
+#: src/dialog-installwizard.ycp:155
+#, ycp-format
+msgid "<li>Forwarders: %1</li>"
+msgstr "<li>转发对象：%1</li>"
+
+#. Rich Text Item - Installation overview
+#: src/dialog-installwizard.ycp:157
+#, ycp-format
+msgid "<li>Domains: %1</li>"
+msgstr "<li>域：%1</li>"
+
+#. check box
+#. TRANSLATORS: checkbox label, turning LDAP support on or off
+#: src/dialog-installwizard.ycp:173 src/dialog-main.ycp:68
+#: src/dialog-main.ycp:1802
+msgid "&LDAP Support Active"
+msgstr "LDAP 支持处于活动状态(&L)"
+
+#. Label for Radiobuttons - DNS starting
+#: src/dialog-installwizard.ycp:188
+msgid "Start-up Behavior"
+msgstr "启动行为"
+
+#. Radiobutton label - DNS starting
+#: src/dialog-installwizard.ycp:193
+msgid "O&n: Start Now and When Booting"
+msgstr "打开(&N)：立即启动和在引导时"
+
+#. Radiobutton label - DNS starting
+#: src/dialog-installwizard.ycp:195
+msgid "O&ff: Only Start Manually"
+msgstr "关闭(&F)：仅手动启动"
+
+#. Push Button - start expert configuration
+#: src/dialog-installwizard.ycp:207
+msgid "DNS Server &Expert Configuration..."
+msgstr "DNS 服务器专家配置(&E)..."
+
+#. Frame label (DNS starting)
+#. Dialog Label - DNS - expert settings
+#. Tree Menu Item - DNS - expert settings
+#: src/dialog-main.ycp:53 src/dialog-main.ycp:1875 src/dialog-main.ycp:1877
+msgid "Start-Up"
+msgstr "启动"
+
+#. Radiobutton label
+#: src/dialog-main.ycp:58
+msgid "Now and When Booting"
+msgstr "立即和在引导时"
+
+#. Radiobutton label
+#: src/dialog-main.ycp:60
+msgid "Only Manually"
+msgstr "仅手动"
+
+#. Frame label (stoping starting DNS server)
+#: src/dialog-main.ycp:71
+msgid "Switch On and Off"
+msgstr "打开和关闭"
+
+#. Current status
+#: src/dialog-main.ycp:77
+msgid "Current Status: "
+msgstr "当前状态："
+
+#. service status - label
+#. service sttus - label
+#. label - service status, informative text
+#: src/dialog-main.ycp:80 src/dialog-main.ycp:112 src/dialog-main.ycp:1776
+msgid "DNS server is running."
+msgstr "DNS 服务器正在运行。"
+
+#. Pushbutton for starting the DNS server
+#. push button (DNS service handling)
+#: src/dialog-main.ycp:85 src/dialog-main.ycp:1780
+msgid "&Start DNS Server Now"
+msgstr "立即启动 DNS 服务器(&S)"
+
+#. Pushbutton for stopping the DNS server
+#. push button (DNS service handling)
+#: src/dialog-main.ycp:87 src/dialog-main.ycp:1782
+msgid "S&top DNS Server Now"
+msgstr "立即停止 DNS 服务器(&T)"
+
+#. service sttus - label
+#. label - service status, informative text
+#: src/dialog-main.ycp:114 src/dialog-main.ycp:1778
+msgid "DNS server is not running."
+msgstr "DNS 服务器没有运行。"
+
+#. yes-no popup
+#. if (! Popup::YesNo (
+#: src/dialog-main.ycp:181
+msgid ""
+"All your changes will be lost. Settings will\n"
+"be reread from new data storage.\n"
+"Continue?\n"
+msgstr ""
+"您所作的一切更改都将丢失。将从\n"
+"新的数据存储区中重读取设置。\n"
+"是否继续？\n"
+
+#: src/dialog-main.ycp:223
+msgid "Netconfig DNS policy"
+msgstr "Netconfig DNS 策略"
+
+#: src/dialog-main.ycp:229
+msgid "Custom policy"
+msgstr "自定义策略"
+
+#. Frame label for DNS-Forwarders adding IP
+#: src/dialog-main.ycp:237
+msgid "Add IP Address"
+msgstr "添加 IP 地址"
+
+#. Textentry for DNS-Forwarders adding IP
+#: src/dialog-main.ycp:242
+msgid "IPv4 or IPv6 A&ddress"
+msgstr "IPv4 或 IPv6 地址(&d)"
+
+#. Selectionbox for listing current DNS-Forwarders
+#: src/dialog-main.ycp:258 src/dialog-main.ycp:279
+msgid "Forwarder &List"
+msgstr "转发对象列表(&L)"
+
+#. An error message, %1 is replaced with a variable IP
+#: src/dialog-main.ycp:479
+#, ycp-format
+msgid "Cannot find local equivalent for IP %1."
+msgstr "未能找到 IP %1 的本地等价。"
+
+#. TRANSLATORS: A warning message, %1 is replaced with the input IP, %2 with the output IP
+#: src/dialog-main.ycp:482
+#, ycp-format
+msgid ""
+"Forwarding DNS queries to itself would create an infinite loop.\n"
+"IP address %1 is currently used by this server, so it has\n"
+"been changed to its local equivalent %2."
+msgstr ""
+"转发 DNS 查询到它自身将创建一个无限循环。\n"
+"此服务器目前使用 %1 IP 地址，因此它被修改为它的本地等价 %2。"
+
+#: src/dialog-main.ycp:504
+msgid "Invalid IPv4 or IPv6 address."
+msgstr "无效的 IPv4 或 IPv6 地址。"
+
+#: src/dialog-main.ycp:507
+msgid ""
+"A valid IPv6 address consists of letters a-f, numbers,\n"
+"and colons."
+msgstr "有效 IPv6 地址包含字母 a 到 f，数字，和冒号。"
+
+#. error report
+#: src/dialog-main.ycp:522
+msgid "The specified forwarder is already present."
+msgstr "指定的转发对象已存在。"
+
+#. Frame label for Basic-Options
+#: src/dialog-main.ycp:757
+msgid "Add or Change Option"
+msgstr "添加或更改选项"
+
+#. Combobox for choosing the basic-option
+#: src/dialog-main.ycp:766
+msgid "O&ption"
+msgstr "选项(&P)"
+
+#. Textentry for setting the basic-option value
+#. Textentry - adding ACL-optiopn - value
+#: src/dialog-main.ycp:772 src/dialog-main.ycp:1253
+msgid "&Value"
+msgstr "值(&V)"
+
+#. Pushbutton for changing the basic-option
+#. Pushbutton - Change Record
+#: src/dialog-main.ycp:783 src/dialog-masterzone.ycp:1083
+msgid "C&hange"
+msgstr "更改(&H)"
+
+#. Table label for basic-options listing
+#: src/dialog-main.ycp:795
+msgid "Current Options"
+msgstr "当前选项"
+
+#. Table header item - basic-options listing
+#: src/dialog-main.ycp:802
+msgid "Option"
+msgstr "选项"
+
+#. TRANSLATORS: Popup question
+#: src/dialog-main.ycp:915
+msgid ""
+"Really set this\n"
+"option without any value?\n"
+msgstr ""
+"是否确实要设置此\n"
+"选项而不带任何值？\n"
+
+#. TRANSLATORS: Popup question. Please, do not translate 'yes' and 'no' strings. %1 is a name of the option, %2 is the value of the option.
+#: src/dialog-main.ycp:928
+#, ycp-format
+msgid ""
+"Option %1 can only have a yes or no value set.\n"
+"Really set it to %2?\n"
+msgstr ""
+"选项 %1 的值只能设置为 yes 或 no。\n"
+"确实要将它设置为 %2 吗？\n"
+
+#. TRANSLATORS: Popup question. %1 is a name of the option, %2 is the value of the option.
+#: src/dialog-main.ycp:945
+#, ycp-format
+msgid ""
+"Option %1 can only be a number.\n"
+"Really set it to %2?\n"
+msgstr ""
+"选项 %1 的值只能是数字。\n"
+"确实要将它设置为 %2 吗？\n"
+
+#. TRANSLATORS: Popup question. %1 is the value of the option.
+#: src/dialog-main.ycp:959
+#, ycp-format
+msgid ""
+"Quotes are not used correctly in this option.\n"
+"Really set it to %1?\n"
+msgstr ""
+"此选项中的引号使用不正确。\n"
+"确实将它设置为 %1 吗？\n"
+
+#. TRANSLATORS: Popup question. %1 is the value of the option.
+#: src/dialog-main.ycp:971
+#, ycp-format
+msgid ""
+"Brackets are not used correctly in this option.\n"
+"Really set it to %1?\n"
+msgstr ""
+"此选项中的方括号使用不正确。\n"
+"确实将它设置为 %1 吗？\n"
+
+#. Popup question, %1 is the name of the option
+#: src/dialog-main.ycp:1020
+#, ycp-format
+msgid ""
+"Option %1 should be set only once.\n"
+"Really add another one?\n"
+msgstr ""
+"选项 %1 只能设置一次。\n"
+"确实还要添加一个吗？\n"
+
+#. Table header - logging options
+#: src/dialog-main.ycp:1063
+msgid "Log Type"
+msgstr "日志类型"
+
+#. Radiobutton - log type
+#: src/dialog-main.ycp:1070
+msgid "&System Log"
+msgstr "系统日志(&S)"
+
+#. Radiobutton - log type
+#: src/dialog-main.ycp:1072
+msgid "&File"
+msgstr "文件(&F)"
+
+#. IntField - max. log size
+#: src/dialog-main.ycp:1091
+msgid "Maximum &Size (MB)"
+msgstr "最大大小 (MB)(&S)"
+
+#. IntField - max. log age
+#: src/dialog-main.ycp:1093
+msgid "Maximum &Versions"
+msgstr "最大版本数(&V)"
+
+#. Frame label - additional-logging
+#: src/dialog-main.ycp:1104
+msgid "Additional Logging"
+msgstr "附加日志记录"
+
+#. Checkbox - additional-logging
+#: src/dialog-main.ycp:1108
+msgid "Log All DNS &Queries"
+msgstr "记录所有 DNS 查询(&Q)"
+
+#. Checkbox - additional-logging
+#: src/dialog-main.ycp:1110
+msgid "Log Zone &Updates"
+msgstr "记录区域更新(&U)"
+
+#. Checkbox - additional-logging
+#: src/dialog-main.ycp:1112
+msgid "Log Zone &Transfers"
+msgstr "记录区域传送(&T)"
+
+#. popup headline
+#: src/dialog-main.ycp:1223
+msgid "Select File for Log"
+msgstr "选择日志的文件"
+
+#. Frame label - adding ACL-optiopn
+#: src/dialog-main.ycp:1241
+msgid "Option Setup"
+msgstr "选项设置"
+
+#. Textentry - adding ACL-optiopn - name
+#: src/dialog-main.ycp:1249
+msgid "&Name"
+msgstr "名称(&N)"
+
+#. Table header - ACL-options listing
+#: src/dialog-main.ycp:1272
+msgid "Current ACL List"
+msgstr "当前访问控制列表列表"
+
+#. Table header item - ACL-options
+#: src/dialog-main.ycp:1277
+msgid "ACL"
+msgstr "访问控制列表"
+
+#. A popup question, %1 is number of zones
+#: src/dialog-main.ycp:1379
+#, ycp-format
+msgid ""
+"This ACL is used by %1 zones.\n"
+"Really remove it?\n"
+msgstr ""
+"此访问控制列表被 %1 区域使用。\n"
+"是否确实要删除它？\n"
+
+#. An error popup message
+#: src/dialog-main.ycp:1467
+msgid "The specified ACL entry already exists."
+msgstr "指定的访问控制列表条目已存在。"
+
+#. frame label
+#: src/dialog-main.ycp:1488
+msgid "Add New Zone "
+msgstr "添加新区域"
+
+#. Table header - DNS listing zones
+#: src/dialog-main.ycp:1526
+msgid "Configured DNS Zones"
+msgstr "已配置的 DNS 区域"
+
+#. error report
+#: src/dialog-main.ycp:1710
+msgid "A zone with the specified name is already configured."
+msgstr "指定名称的区域已配置。"
+
+#. Dialog label DNS - expert settings
+#: src/dialog-main.ycp:1748
+msgid "DNS Server"
+msgstr "DNS 服务器"
+
+#. radio button (starting DNS service - option 1)
+#: src/dialog-main.ycp:1763
+msgid "When &Booting"
+msgstr "引导时(&B)"
+
+#. radio button (starting DNS service - option 2)
+#: src/dialog-main.ycp:1765
+msgid "&Manually"
+msgstr "手动(&M)"
+
+#. part of help text, used to describe radiobuttons (matching starting DNS service but without "&")
+#: src/dialog-main.ycp:1768
+msgid "When Booting"
+msgstr "引导时"
+
+#. part of help text, used to describe radiobuttons (matching starting DNS service but without "&")
+#: src/dialog-main.ycp:1770
+msgid "Manually"
+msgstr "手动"
+
+#. push button (DNS service handling)
+#: src/dialog-main.ycp:1785
+msgid "Save Settings and Reload DNS Server &Now"
+msgstr "保存设置并立即重新装载 DNS 服务器(&N)"
+
+#. part of help text, used to describe pusbuttons (matching DNS service handling but without "&")
+#: src/dialog-main.ycp:1788
+msgid "Start DNS Server Now"
+msgstr "立即启动 DNS 服务器"
+
+#. part of help text, used to describe pusbuttons (matching DNS service handling but without "&")
+#: src/dialog-main.ycp:1790
+msgid "Stop DNS Server Now"
+msgstr "立即停止 DNS 服务器"
+
+#. part of help text, used to describe pusbuttons (matching DNS service handling but without "&")
+#: src/dialog-main.ycp:1792
+msgid "Save Settings and Reload DNS Server Now"
+msgstr "保存设置并立即重新装载 DNS 服务器"
+
+#. Dialog Label - DNS - expert settings
+#. Tree Menu Item - DNS - expert settings
+#: src/dialog-main.ycp:1898 src/dialog-main.ycp:1900
+msgid "Basic Options"
+msgstr "基本选项"
+
+#. Dialog Label - DNS - expert settings
+#: src/dialog-main.ycp:1906 src/dialog-main.ycp:1907
+msgid "Logging"
+msgstr "日志记录"
+
+#. Dialog Label - DNS - expert settings
+#. Tree Menu Item - DNS - expert settings
+#. multi selection box
+#: src/dialog-main.ycp:1914 src/dialog-main.ycp:1916
+#: src/dialog-masterzone.ycp:112 src/dialog-masterzone.ycp:2165
+msgid "ACLs"
+msgstr "访问控制列表"
+
+#. Dialog Label - DNS - expert settings
+#. Tree Menu Item - DNS - expert settings
+#: src/dialog-main.ycp:1926 src/dialog-main.ycp:1928
+msgid "TSIG Keys"
+msgstr "TSIG 密钥"
+
+#. Yes-No popup
+#: src/dialog-main.ycp:1949
+msgid ""
+"All changes will be lost.\n"
+"Really leave the DNS server configuration without saving?"
+msgstr ""
+"所有更改都将丢失。\n"
+"是否确实要放弃对 DNS 服务器配置的保存？"
+
+#. check box
+#: src/dialog-masterzone.ycp:65
+msgid "A&llow Dynamic Updates"
+msgstr "允许动态更新(&L)"
+
+#. combo box
+#: src/dialog-masterzone.ycp:69 src/widgets.ycp:1316
+msgid "TSIG &Key"
+msgstr "TSIG 密钥(&K)"
+
+#. check box
+#: src/dialog-masterzone.ycp:109 src/dialog-masterzone.ycp:2163
+msgid "Enable &Zone Transport"
+msgstr "启用区域传输(&Z)"
+
+#. check box
+#: src/dialog-masterzone.ycp:122
+msgid "A&utomatically Generate Records From"
+msgstr "自动生成记录自(&U)"
+
+#: src/dialog-masterzone.ycp:126
+msgid "Zon&e"
+msgstr "区域(&E)"
+
+#. frame label
+#: src/dialog-masterzone.ycp:135
+msgid "Connected Reverse Zones"
+msgstr "连接的反向区域"
+
+#. popup message
+#: src/dialog-masterzone.ycp:343
+msgid ""
+"This function is not available during\n"
+"preparation for autoinstallation.\n"
+msgstr ""
+"此功能在准备自动\n"
+"安装期间不可用。\n"
+
+#. error report
+#: src/dialog-masterzone.ycp:354
+msgid "No TSIG key is defined."
+msgstr "未定义 TSIG 密钥。"
+
+#. Textentry - adding nameserver
+#: src/dialog-masterzone.ycp:380
+msgid "&Name Server to Add"
+msgstr "要添加的名称服务器(&N)"
+
+#. Selectionbox - listing current nameservers
+#. selection box label
+#: src/dialog-masterzone.ycp:394 src/dialog-masterzone.ycp:416
+msgid "Na&me Server List"
+msgstr "名称服务器列表(&M)"
+
+#. error message
+#: src/dialog-masterzone.ycp:512
+msgid "The specified name server already exists."
+msgstr "指定的名称服务器已存在。"
+
+#. Frame label - adding mail server
+#: src/dialog-masterzone.ycp:549
+msgid "Mail Server to Add"
+msgstr "要添加的邮件服务器"
+
+#. Textentry - addind mail server - Name
+#: src/dialog-masterzone.ycp:555
+msgid "&Address"
+msgstr "地址(&A)"
+
+#. IntField - adding mail server - Priority
+#. IntField - zone settings - Record Value
+#. int field
+#: src/dialog-masterzone.ycp:557 src/dialog-masterzone.ycp:966
+#: src/dialog-masterzone.ycp:1006 src/options.ycp:365 src/widgets.ycp:865
+msgid "&Priority"
+msgstr "优先级(&P)"
+
+#. Table label - listing mail servers
+#: src/dialog-masterzone.ycp:575
+msgid "Mail Relay List"
+msgstr "邮件中继列表"
+
+#. A popup error message
+#: src/dialog-masterzone.ycp:693
+msgid "The specified value is not a valid hostname or IP address."
+msgstr "指定的值不是有效的主机名或 IP 地址。"
+
+#. error message
+#: src/dialog-masterzone.ycp:717
+msgid "The specified mail server already exists."
+msgstr "指定的邮件服务器已存在。"
+
+#. DNS Settings time units (combobox item)
+#: src/dialog-masterzone.ycp:757
+msgid "Seconds"
+msgstr "秒"
+
+#. DNS Settings time units (combobox item)
+#: src/dialog-masterzone.ycp:759
+msgid "Minutes"
+msgstr "分钟"
+
+#. DNS Settings time units (combobox item)
+#: src/dialog-masterzone.ycp:761
+msgid "Hours"
+msgstr "小时"
+
+#. DNS Settings time units (combobox item)
+#: src/dialog-masterzone.ycp:763
+msgid "Days"
+msgstr "天"
+
+#. DNS Settings time units (combobox item)
+#: src/dialog-masterzone.ycp:765
+msgid "Weeks"
+msgstr "周"
+
+#. Textentry - setting Serial for zone
+#: src/dialog-masterzone.ycp:774
+msgid "Seri&al"
+msgstr "序列号(&A)"
+
+#. Textentry - setting TTL for zone
+#: src/dialog-masterzone.ycp:778
+msgid "TT&L"
+msgstr "TTL(&L)"
+
+#. Combobox - Setting DNS Retry - Unit
+#: src/dialog-masterzone.ycp:779 src/dialog-masterzone.ycp:797
+msgid "&Unit"
+msgstr "单元(&U)"
+
+#. IntField - Setting DNS Refresh - Value
+#. text entry
+#: src/dialog-masterzone.ycp:789 src/widgets.ycp:351
+msgid "Re&fresh"
+msgstr "刷新(&F)"
+
+#. Combobox - Setting DNS Refresh - Unit
+#: src/dialog-masterzone.ycp:791
+msgid "Un&it"
+msgstr "单元(&I)"
+
+#. IntField - Setting DNS Retry - Value
+#: src/dialog-masterzone.ycp:795
+msgid "Retr&y"
+msgstr "重试(&Y)"
+
+#. IntField - Setting DNS Expiry - Value
+#: src/dialog-masterzone.ycp:801
+msgid "Ex&piration"
+msgstr "失效时间(&P)"
+
+#. Combobox - Setting DNS Expiry - Unit
+#: src/dialog-masterzone.ycp:803
+msgid "U&nit"
+msgstr "单元(&N)"
+
+#. IntField - Setting DNS Minimum - Value
+#: src/dialog-masterzone.ycp:807
+msgid "&Minimum"
+msgstr "最小值(&M)"
+
+#. Combobox - Setting DNS Minimum - Unit
+#: src/dialog-masterzone.ycp:809
+msgid "Uni&t"
+msgstr "单元(&T)"
+
+#: src/dialog-masterzone.ycp:913
+msgid "The serial number of the zone must be specified."
+msgstr "必须指定区域的序列号。"
+
+#. error report, %1 is an integer
+#: src/dialog-masterzone.ycp:921
+#, ycp-format
+msgid "The serial number must be no more than %1 digits long."
+msgstr "序列号的长度不能超过 %1 个数字。"
+
+#. TRANSLATORS: A popup with question, current setting could produce errors
+#: src/dialog-masterzone.ycp:935
+msgid ""
+"The expiration time-out is higher than the time period\n"
+"of zone refreshes. The zone will not be reachable\n"
+"from slave name servers all the time.\n"
+"Continue?"
+msgstr ""
+"失效超时大于区域刷新的\n"
+"时间段。始终不能从\n"
+"从属名称服务器访问该区域。\n"
+"是否继续？"
+
+#. Textentry - zone settings - Record Name
+#: src/dialog-masterzone.ycp:962 src/dialog-masterzone.ycp:978
+#: src/dialog-masterzone.ycp:1021
+msgid "&Record Key"
+msgstr "记录键(&R)"
+
+#. Combobox - zone settings - Record Type
+#: src/dialog-masterzone.ycp:964 src/dialog-masterzone.ycp:999
+#: src/dialog-masterzone.ycp:1023
+msgid "T&ype"
+msgstr "类型(&Y)"
+
+#. Textentry - zone settings - Record Value
+#. IntField - zone settings - Record Value
+#. Textentry - zone settings - Record Value
+#: src/dialog-masterzone.ycp:968 src/dialog-masterzone.ycp:1003
+#: src/dialog-masterzone.ycp:1025
+msgid "Val&ue"
+msgstr "值(&U)"
+
+#. Textentry - zone settings - Record Name
+#: src/dialog-masterzone.ycp:981
+msgid "&Service"
+msgstr "服务(&S)"
+
+#. Textentry - zone settings - Record Name
+#: src/dialog-masterzone.ycp:990
+msgid "&Protocol"
+msgstr "协议(&P)"
+
+#. IntField - zone settings - Record Value
+#: src/dialog-masterzone.ycp:1008
+msgid "&Weight"
+msgstr "权重(&W)"
+
+#. IntField - zone settings - Record Value
+#: src/dialog-masterzone.ycp:1010
+msgid "&Port"
+msgstr "端口(&P)"
+
+#: src/dialog-masterzone.ycp:1050
+msgid "A: IPv4 Domain Name Translation"
+msgstr "A：IPv4 域名转换"
+
+#: src/dialog-masterzone.ycp:1051
+msgid "AAAA: IPv6 Domain Name Translation"
+msgstr "AAAA：IPv6 域名转换"
+
+#: src/dialog-masterzone.ycp:1052
+msgid "CNAME: Alias for Domain Name"
+msgstr "CNAME：域名的别名"
+
+#: src/dialog-masterzone.ycp:1053
+msgid "NS: Name Server"
+msgstr "NS：名称服务器"
+
+#: src/dialog-masterzone.ycp:1054
+msgid "MX: Mail Relay"
+msgstr "MX：邮件中继"
+
+#: src/dialog-masterzone.ycp:1055
+msgid "PTR: Reverse Translation"
+msgstr "PTR：反向转换"
+
+#: src/dialog-masterzone.ycp:1056
+msgid "SRV: Services Record"
+msgstr "SRV：服务记录"
+
+#: src/dialog-masterzone.ycp:1057
+msgid "TXT: Text Record"
+msgstr "TXT：文本记录"
+
+#. Frame label - Adding/Changing IP/CNAME/Type... zone settings
+#: src/dialog-masterzone.ycp:1071
+msgid "Record Settings"
+msgstr "记录设置"
+
+#. Table label - Records listing
+#: src/dialog-masterzone.ycp:1093
+msgid "Configured Resource Records"
+msgstr "已配置的资源记录"
+
+#. Table menu item - Records listing
+#: src/dialog-masterzone.ycp:1101
+msgid "Record Key"
+msgstr "记录键"
+
+#. Pop-up error message, %1 is replaced with an example
+#: src/dialog-masterzone.ycp:1440
+#, ycp-format
+msgid ""
+"Invalid IPv6 reverse IP.\n"
+"\n"
+"IPv6 reverse records are supported either in the full form (%1)\n"
+"or in the relative form to the current zone."
+msgstr ""
+"无效的 IPv6 反向 IP。\n"
+"\n"
+"IPv6 反向记录支持完整格式 (%1) 或当前区域的相对格式。"
+
+#: src/dialog-masterzone.ycp:1470
+msgid "Invalid IPv6 address."
+msgstr "无效的 IPv6 地址。"
+
+#: src/dialog-masterzone.ycp:1493
+msgid ""
+"Invalid TXT record key. It should consist of printable US-ASCII characters excluding '='\n"
+"and must be at least one character long."
+msgstr "无效的 TXT 记录键。它应该包括可打印的 US-ASCII 字符，除了 '='，并且必须至少有一个字符的长度。"
+
+#. TRANSLATORS: Error message, %1 is replaced with the maximal length
+#. %2 with the current length of a new TXT record.
+#: src/dialog-masterzone.ycp:1501
+#, ycp-format
+msgid ""
+"Maximal length of a TXT record is %1 characters.\n"
+"This message is %2 characters long."
+msgstr ""
+"一个 TXT 记录的最大长度是 %1 个字符。\n"
+"该消息的长度为 %2 个字符。"
+
+#. TRANSLATORS: a popup message, CNAME (link) points to itself
+#: src/dialog-masterzone.ycp:1533
+msgid "CNAME cannot point to itself."
+msgstr "CNAME 不能指向自身。"
+
+#. When no dialog defined for this tab (software error)
+#: src/dialog-masterzone.ycp:1803
+msgid "An internal error has occurred."
+msgstr "出现内部错误。"
+
+#. Dialog Caption - Expert Settings - Zone Editor
+#. dialog caption
+#: src/dialog-masterzone.ycp:1908 src/dialog-masterzone.ycp:2170
+msgid "Zone Editor"
+msgstr "区域编辑器"
+
+#. Menu Item - Zone Editor - Tab
+#: src/dialog-masterzone.ycp:1929 src/dialog-masterzone.ycp:1941
+msgid "&Basics"
+msgstr "基础(&B)"
+
+#. Menu Item - Zone Editor - Tab
+#: src/dialog-masterzone.ycp:1931 src/dialog-masterzone.ycp:1943
+msgid "NS Recor&ds"
+msgstr "NS 记录(&D)"
+
+#. Menu Item - Zone Editor - Tab
+#: src/dialog-masterzone.ycp:1933 src/dialog-masterzone.ycp:1947
+msgid "&SOA"
+msgstr "SOA(&S)"
+
+#. Menu Item - Zone Editor - Tab
+#: src/dialog-masterzone.ycp:1935 src/dialog-masterzone.ycp:1949
+msgid "R&ecords"
+msgstr "记录(&E)"
+
+#. Menu Item - Zone Editor - Tab
+#: src/dialog-masterzone.ycp:1945
+msgid "M&X Records"
+msgstr "MX 记录(&X)"
+
+#. Label - connected with Textentry which shows current edited zone
+#: src/dialog-masterzone.ycp:1960 src/dialog-masterzone.ycp:2151
+#: src/dialog-masterzone.ycp:2323
+msgid "Settings for Zone"
+msgstr "区域设置"
+
+#. );
+#. Menu Item - Zone Editor - Tab
+#. menu button
+#: src/dialog-masterzone.ycp:1983 src/widgets.ycp:668
+msgid "Ad&vanced"
+msgstr "高级(&V)"
+
+#: src/dialog-masterzone.ycp:2019
+msgid "At least one NS server must be set."
+msgstr "必须至少设置一个 NS 服务器。"
+
+#. warning message, %1 is replaced with a zone name
+#.
+#. Automatically Generate Records From is a feature that makes YaST to generate
+#. DNS records manually from selected zone
+#: src/dialog-masterzone.ycp:2066
+#, ycp-format
+msgid ""
+"Current zone records are automatically generated from %1 zone.\n"
+"To change records manually disable the Automatically Generate Records From feature."
+msgstr ""
+"当前区域记录自动生成自 %1 区域。\n"
+"要手动修改记录，请禁用自动生成记录自这一功能。"
+
+#. TRANSLATORS: Text entry
+#: src/dialog-masterzone.ycp:2159
+msgid "&Master DNS Server IP"
+msgstr "主 DNS 服务器 IP(&M)"
+
+#. TRANSLATORS: Popup error headline
+#: src/dialog-masterzone.ycp:2211
+msgid "Missing Master Server"
+msgstr "缺少主服务器"
+
+#. TRANSLATORS: Popup error text
+#: src/dialog-masterzone.ycp:2213
+msgid ""
+"Every slave zone must have its master server IP defined.\n"
+"Configuration of a DNS server without a master server would fail.\n"
+"If you continue, the current zone will be removed."
+msgstr ""
+"每一从属区域的主服务器 IP 必须都已定义。\n"
+"没有主服务器的 DNS 服务器配置将失败。\n"
+"如果您继续，当前区域将被删除。"
+
+#. TRANSLATORS: A popup error message
+#: src/dialog-masterzone.ycp:2233
+msgid "No master DNS server defined."
+msgstr "未定义任何主 DNS 服务器。"
+
+#. A popup error message
+#: src/dialog-masterzone.ycp:2246
+msgid "The specified master name server is not a valid IP address."
+msgstr "指定的主名称服务器不是有效的 IP 地址。"
+
+#. Textentry - adding forwarder
+#: src/dialog-masterzone.ycp:2334
+msgid "New &Forwarder IP Address"
+msgstr "新转发对象 IP 地址(&F)"
+
+#. Selectionbox - listing current forwarders
+#: src/dialog-masterzone.ycp:2347
+msgid "Current &Zone Forwarders"
+msgstr "当前区域转发对象(&Z)"
+
+#. dialog caption
+#: src/dialog-masterzone.ycp:2360
+msgid "Forward Zone Editor"
+msgstr "转发区域编辑器"
+
+#. TRANSLATORS: popup question
+#: src/dialog-masterzone.ycp:2389
+msgid ""
+"This forward zone has no forwarders defined, which means\n"
+"that all DNS queries for this zone are denied.\n"
+"Really deny these queries?"
+msgstr ""
+"此转发区域未定义任何转发对象，这意味着\n"
+"对此区域的所有 DNS 查询都将被拒绝。\n"
+"确实拒绝这些查询？"
+
+#. yes-no popup
+#: src/dialogs.ycp:34
+msgid ""
+"All changes will be lost.\n"
+"Really exit?"
+msgstr ""
+"所有更改都将丢失。\n"
+"是否确实要退出？"
+
+#. yes-no popup
+#: src/dialogs.ycp:79
+msgid "Saving the configuration failed. Change the settings?"
+msgstr "保存配置失败。是否更改设置？"
+
+#. message popup
+#: src/dialogs.ycp:99
+msgid "A zone of this type cannot be edited with this tool."
+msgstr "此类型的区域不能用此工具编辑。"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:23
+msgid ""
+"<p><b><big>Initializing DNS Server Configuration</big></b><br>\n"
+"Please wait...<br></p>"
+msgstr ""
+"<p><b><big>正在初始化 DNS 服务器配置</big></b><br>\n"
+"请稍候...<br></p>"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:27
+msgid ""
+"<p><b><big>Aborting Initialization</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>"
+msgstr ""
+"<p><b><big>正在中止初始化</big></b><br>\n"
+"可以按<b>中止</b>立即安全地中止配置工具。</p>"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:31
+msgid ""
+"<p><b><big>Saving DNS Server Configuration</big></b><br>\n"
+"Please wait...<br></p>"
+msgstr ""
+"<p><b><big>正在保存 DNS 服务器配置</big></b><br>\n"
+"请稍候...<br></p>"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:35
+msgid ""
+"<p><b><big>Aborting Saving</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs you whether it is safe to do so.</p>"
+msgstr ""
+"<p><b><big>正在中止保存</big></b><br>\n"
+"按<b>中止</b>，中止该保存过程。\n"
+"另一个对话框将指示这样操作是否安全。</p>"
+
+#. main dialog
+#. help 1/4
+#: src/helps.ycp:41
+msgid ""
+"<p><b><big>Start DNS Server</big></b><br>\n"
+"To run the DNS server every time your computer is started, set\n"
+"<b>Start DNS Server</b>.</p>"
+msgstr ""
+"<p><b><big>启动 DNS 服务器</big></b><br>\n"
+"要在每次启动计算机时运行 DNS 服务器，请设置\n"
+"<b>启动DNS 服务器</b>。</p>"
+
+#. help 2/4
+#: src/helps.ycp:46
+msgid ""
+"<p><b><big>Chroot Jail</big></b><br>\n"
+"To run the DNS server in chroot jail, set\n"
+"<b>Run DNS Server in Chroot Jail</b>. Starting any daemon in a chroot jail\n"
+"is more secure and strongly recommended.</p>"
+msgstr ""
+"<p><b><big>Chroot 囚牢</big></b><br>\n"
+"要在 chroot 囚牢中运行 DNS 服务器，请设置\n"
+"<b>在 Chroot 囚牢中运行 DNS 服务器</b>。在 chroot 囚牢中启动任何守护精灵\n"
+"会更安全，强烈建议采用此方法。</p>"
+
+#. help 3/4
+#: src/helps.ycp:52
+msgid ""
+"<p><b><big>Editing DNS Zones</big></b><br>\n"
+"To edit settings of a DNS zone, choose the appropriate\n"
+"entry of the table and click <B>Edit</B>.\n"
+"To add a new DNS zone, use <B>Add</B>. To remove\n"
+"a configured DNS zone, select it and click <B>Delete</B>.</P>"
+msgstr ""
+"<p><b><big>编辑 DNS 区域</big></b><br>\n"
+"要编辑 DNS 区域的设置，请在表中选择\n"
+"适当的项并单击<B>编辑</B>。\n"
+"要添加新的 DNS 区域，请使用<B>添加</B>。要删除\n"
+"已配置的 DNS 区域，请选择此区域，然后单击<B>删除</B>。</P>"
+
+#. help 4/4
+#: src/helps.ycp:59
+msgid ""
+"<p><b><big>Advanced Functions</big></b><br>\n"
+"To edit global options,\n"
+"adjust firewall settings,\n"
+"manage the TSIG keys for dynamic updates of the zones,\n"
+"or display the log of the DNS server,\n"
+"use <b>Advanced</b>.</p>"
+msgstr ""
+"<p><b><big>高级功能</big></b><br>\n"
+"要编辑全局选项，\n"
+"调整防火墙设置，\n"
+"管理用于区域动态更新的 TSIG 密钥，\n"
+"或显示 DNS 服务器的日志，请\n"
+"使用<b>高级</b>。</p>"
+
+#. zone dialog
+#. help 1/5
+#: src/helps.ycp:68
+msgid ""
+"<p><b><big>Zone Name</big></b><br>\n"
+"Enter the name of the zone (domain) in <b>Zone Name</b>.</p>"
+msgstr ""
+"<p><b><big>区域名</big></b><br>\n"
+"在<b>区域名</b>中输入区域(域)的名称。</p>"
+
+#. help 2/5, alt. 1
+#: src/helps.ycp:72
+msgid ""
+"<p><b><big>Dynamic DNS Zone Updates</big></b><br>\n"
+"The zone can be updated automatically, usually because of dynamically\n"
+"assigned IP addresses by DHCP server. To allow DDNS updates, set\n"
+"<b>Allow Dynamic Updates</b> and the <b>TSIG Key</b>\n"
+"to use for authentication. The key must be the same for\n"
+"both DHCP and DNS servers.</p>"
+msgstr ""
+"<p><b><big>动态 DNS 区域更新</big></b><br>\n"
+"为了管理由 DHCP 服务器动态指派的 IP 地址，\n"
+"可以自动更新 DNS 区域。要允许 DDNS 更新，请设置\n"
+"<b>允许动态更新</b>和用于验证的 <b>TSIG 密钥</b>\n"
+"。DHCP 服务器和 DNS 服务器的\n"
+"密钥必须相同。</p>"
+
+#. help 3/5, only for alt. 1
+#: src/helps.ycp:80
+msgid ""
+"<p><b><big>Editing a DNS Zone</big></b><br>\n"
+"To edit the zone settings, choose the appropriate\n"
+"entry of the table then click <b>Edit</b>.</p>"
+msgstr ""
+"<p><b><big>编辑 DNS 区域</big></b><br>\n"
+"要编辑区域设置，请在表中选择\n"
+"适当的项，然后单击<b>编辑</b>。</p>"
+
+#. help 4/5, only for alt. 1
+#: src/helps.ycp:84
+msgid ""
+"<p>To add a new record to the zone, click <b>Add</b>. To remove\n"
+"a record, select it and click <b>Delete</b>.</p>"
+msgstr ""
+"<p>要将新记录添加到区域中，请单击<b>添加</b>。要删除\n"
+"某选项，请先选择该选项，然后单击<b>删除</b>。</p>"
+
+#. help 5/5, only for alt. 1
+#: src/helps.ycp:88
+msgid ""
+"<p><b><big>SOA Record</big></b><br>\n"
+"To edit the SOA (Start of Authority) record of the zone, click\n"
+"<b>Edit SOA</b>.</p>"
+msgstr ""
+"<p><b><big>SOA 记录</big></b><br>\n"
+"要编辑区域的 SOA(起始授权机构)记录，请单击\n"
+"<b>编辑 SOA</b>。</p>"
+
+#. help 2/5 alt. 2
+#: src/helps.ycp:93
+msgid ""
+"<p><b><big>Master Servers</big></b><br>\n"
+"Set the IP addresses of the master name servers for this zone. Use <b>Add</b>\n"
+"to add a new master name server. Select an existing one then click <b>Delete</b>\n"
+"to remove an existing one.</p>"
+msgstr ""
+"<p><b><big>主服务器</big></b><br>\n"
+"设置此区域的主名称服务器的 IP 地址。使用<b>添加</b>\n"
+"可添加新的主名称服务器。选择一个现有的主名称服务器，然后单击<b>删除</b>\n"
+"可删除现有的主名称服务器。</p>"
+
+#. help 1/2
+#: src/helps.ycp:99
+msgid ""
+"<p><b><big>Zone Type</big></b><br>\n"
+"To make this name server the primary source of the data of the zone,\n"
+"select <b>Master</b>. To make it the secondary name server, select <b>Slave</b>\n"
+"or <b>Stub</b>, so the data of the zone will be mirrored from the master\n"
+"server.</p>"
+msgstr ""
+"<p><b><big>区域类型</big></b><br>\n"
+"要使此名称服务器成为区域的主要数据源，\n"
+"请选择<b>主</b>。要使它成为二级名称服务器，请选择<b>从属</b>\n"
+"或<b>存根</b>，则区域数据将从主服务器镜像\n"
+"而来。</p>"
+
+#. help 2/2
+#: src/helps.ycp:106
+msgid ""
+"<p><b><big>Zone Direction</big></b><br>\n"
+"DNS is used both for translating from domain names to IP addresses and back.\n"
+"Select if this zone will be used to translate from domain names to IP\n"
+"addresses (<b>Forward</b>) or from IP addresses to domain names\n"
+"(<b>Reverse</b>).</p>\n"
+msgstr ""
+"<p><b><big>区域方向</big></b><br>\n"
+"DNS 用于在域名和 IP 地址之间进行转换。\n"
+"如果此区域要将域名转换\n"
+"为 IP 地址，请选择<b>正向</b>。如果要将 IP 地址转换为域名，\n"
+"请选择<b>反向</b>。</p>\n"
+
+#. firewall dialog
+#. help text 1/2
+#: src/helps.ycp:115
+msgid ""
+"<p><b><big>Interface Classes</big></b><br>\n"
+"Select which interface classes should have access to the DNS server. The\n"
+"interface classes are defined in the firewall configuration component.</p>\n"
+msgstr ""
+"<p><b><big>接口类</big></b><br>\n"
+"选择允许通过哪些接口类访问 DNS\n"
+"服务器。可以在防火墙配置组件\n"
+"中定义接口类。</p>\n"
+
+#. help text 2/2
+#: src/helps.ycp:121
+msgid ""
+"<p><b><big>Adapting Firewall Settings</big></b><br>\n"
+"To adapt the firewall settings so that the DNS server can be accessed\n"
+"via all network interfaces to which it listens, check\n"
+"<b>Adapt Firewall Settings</b>.</p>\n"
+msgstr ""
+"<p><b><big>调整防火墙设置</big></b><br>\n"
+"要调整防火墙设置，以便可以通过所有被\n"
+"监听的网络接口访问该 DNS 服务器，请选中\n"
+"<b>调整防火墙设置</b>。</p>\n"
+
+#. soa dialog
+#. help text 1/9
+#. Zone Editor - Help for tab - Zone (SOA) 1/7
+#: src/helps.ycp:129 src/helps.ycp:374
+msgid ""
+"<p><b><big>SOA Record Configuration</big></b><br>\n"
+"Set the entries of the SOA record.</p>"
+msgstr ""
+"<p><b><big>SOA 记录配置</big></b><br>\n"
+"设置 SOA 记录的项。</p>"
+
+#. help text 2/9 - TTL
+#: src/helps.ycp:133
+msgid ""
+"<p><b>$TTL</b> specifies the time to live for all records in the\n"
+"zone that do not have an explicit TTL.</p>"
+msgstr ""
+"<p><b>$TTL</b> 指定区域中所有没有显式 TTL 的记录\n"
+"的存活时间。</p>"
+
+#. help text 3/9 - Primary source
+#: src/helps.ycp:137
+msgid ""
+"<p><b>Primary Source</b> must contain the fully qualified domain name\n"
+"of the primary name server.</p>"
+msgstr ""
+"<p><b>主要源</b>必须包含主名称服务器的\n"
+"完全限定的域名。</p>"
+
+#. help text 4/9 - Administrator's mail
+#: src/helps.ycp:141
+msgid ""
+"<p><b>Administrator's Mail</b> must contain the e-mail address of\n"
+"the administrator responsible for the zone.</p>\n"
+msgstr ""
+"<p><b>管理员的邮件地址</b>必须包含负责该区域\n"
+"的管理员的电子邮件地址。</p>\n"
+
+#. help text 5/9 - Serial
+#: src/helps.ycp:146
+msgid ""
+"<p><b>Serial</b> number is used for determining if the zone has changed on\n"
+"the master servers (so that slave servers do not always need to synchronize the\n"
+"entire zone).</p>\n"
+msgstr ""
+"<p><b>序列号</b>用于确定该区域是否已经在\n"
+"主服务器上被更改(因而从属服务器不必始终与\n"
+"整个区域同步)。</p>\n"
+
+#. help text 6/9 - Refresh
+#. Zone Editor - Help for tab - Zone (SOA) 4/7
+#: src/helps.ycp:152 src/helps.ycp:389
+msgid ""
+"<p><b>Refresh</b> sets how often the zone should be synchronized from\n"
+"master name server to slave name servers.</p>"
+msgstr ""
+"<p><b>刷新</b>设置该区域在主名称服务器和从属名称\n"
+"服务器之间同步的频率。</p>"
+
+#. help text 7/9 - Retry
+#. Zone Editor - Help for tab - Zone (SOA) 5/7
+#: src/helps.ycp:156 src/helps.ycp:393
+msgid ""
+"<p><b>Retry</b> sets how often slave servers try to synchronize\n"
+"the zone from the master server if synchronization fails.</p>"
+msgstr ""
+"<p><b>重试</b>设置在同步失败时，从属服务器尝试与\n"
+"主服务器同步该区域的频率。</p>"
+
+#. help text 8/9 - Expiry
+#: src/helps.ycp:160
+msgid ""
+"<p><b>Expiry</b> means the period after which the zone expires on slave\n"
+"servers and slave servers stop answering replies until it is synchronized.\n"
+"</p>"
+msgstr ""
+"<p><b>失效</b>是指该区域在从属服务器上的失效时间，\n"
+"超过该时间后，从属服务器将停止对该区域的应答，直到被同步为止。\n"
+"</p>"
+
+#. help text 9/9 - Minimum
+#. Zone Editor - Help for tab - Zone (SOA) 7/7
+#: src/helps.ycp:165 src/helps.ycp:402
+msgid ""
+"<p><b>Minimum</b> sets for how long the slave servers should cache\n"
+"negative answers (name resolution failed).</p>"
+msgstr ""
+"<p><b>最小值</b>设置从属服务器应缓存\n"
+"否定应答(名称解析失败)的时间。</p>"
+
+#. ddns keys dialog
+#. help text 1/1
+#: src/helps.ycp:170
+msgid ""
+"<p><b><big>TSIG Key Management</big></b><br>\n"
+"Define TSIG keys used for dynamic zone updates.\n"
+"To add a new TSIG key, use the \n"
+"<b>File Name</b> text field or the <b>Browse</b> button then click <b>Add</b>.\n"
+"To delete an existing TSIG key, select it in the list and click <b>Delete</b>.\n"
+"</p>"
+msgstr ""
+"<p><b><big>TSIG 密钥管理</big></b><br>\n"
+"定义用于动态区域更新的 TSIG 密钥。\n"
+"要添加新的 TSIG 密钥，请使用\n"
+"<b>文件名</b>文本字段或<b>浏览</b>按钮，然后单击<b>添加</b>。\n"
+"要删除现有的 TSIG 密钥，请在列表中选择该密钥，然后单击<b>删除</b>。\n"
+"</p>"
+
+#. Expert Mode Configuration - Start Up 1/3
+#: src/helps.ycp:179
+msgid ""
+"<p><b><big>Booting</big></b><br>\n"
+"To start the DNS server every time your computer is booted, set\n"
+"<b>On</b>. Otherwise set <b>Off</b>.</p> "
+msgstr ""
+"<p><b><big>引导</big></b><br>\n"
+"要在每次引导计算机时启动 DNS 服务器，请设置为\n"
+"<b>开</b>。否则，设置为<b>关</b>。</p> "
+
+#. Expert Mode Configuration - Start Up 1/3
+#: src/helps.ycp:185
+msgid ""
+"<p><b><big>LDAP Support</big></b><br>\n"
+"To store the DNS zones in LDAP instead of native configuration files,\n"
+"set <b>LDAP Support Active</b>.</p>"
+msgstr ""
+"<p><b><big>LDAP 支持</big></b><br>\n"
+"要在 LDAP 而不是本机配置文件中存储 DNS 区域，\n"
+"请设置 <b>LDAP 支持处于活动状态</b>。</p>"
+
+#. Expert Mode Configuration - Start Up 3/3
+#: src/helps.ycp:192
+msgid ""
+"<p><b><big>Switch On or Off</big></b><br>\n"
+"To start or stop the DNS server immediately, use \n"
+"<b>Start DNS Server Now</b> or\n"
+"<b>Stop DNS Server Now</b>.</p>\n"
+msgstr ""
+"<p><b><big>打开或关闭</big></b><br>\n"
+"要立即启动或停止 DNS 服务器，请使用\n"
+"<b>立即启动 DNS 服务器</b>或\n"
+"<b>立即停止 DNS 服务器</b>。</p>\n"
+
+#. Expert Mode Configuration - Forwarders 1/3
+#: src/helps.ycp:199
+msgid ""
+"<p><b><big>Forwarders</big></b><br>\n"
+"Forwarders are DNS servers to which your DNS server should send queries\n"
+"it cannot answer.</p>\n"
+msgstr ""
+"<p><b><big>转发对象</big></b><br>\n"
+"转发对象是您的 DNS 服务器应发送它不能回答的查询到的 DNS 服务器。</p>\n"
+
+#. Expert Mode Configuration - Forwarders 2/3
+#. _("<p>To ask forwarders during name resolution and in case of fail do full
+#. DNS lookup, set <b>Forward First</b>. To ask forwarders only, set
+#. <b>Forwarders Only</b>. To do full DNS lookup always, do not check any
+#. of these check boxes.</p>
+#. ") +
+#. Expert Mode Configuration - Forwarders 3/3
+#: src/helps.ycp:212
+msgid ""
+"<p>To add a new forwarder, set its <b>IP Address</b> and click <b>Add</b>.\n"
+"To delete a configured forwarder, select it and click <b>Delete</b>.</p>"
+msgstr ""
+"<p>要添加新的转发对象，请设置其 <b>IP 地址</b>，然后单击<b>添加</b>。\n"
+"要删除已配置的转发对象，请先选择该转发对象，然后单击<b>删除</b>。</p>"
+
+#. Expert Mode Configuration - Basic Options 1/2
+#: src/helps.ycp:216
+msgid ""
+"<p><b><big>Edit DNS Server Options</big></b><br>\n"
+"Use this dialog to edit options of the DNS server.</p>"
+msgstr ""
+"<p><b><big>编辑 DNS 服务器选项</big></b><br>\n"
+"使用此对话框可以编辑 DNS 服务器的选项。</p>"
+
+#. Expert Mode Configuration - Basic Options 2/3
+#: src/helps.ycp:220
+msgid ""
+"<p>To add new options, select the <b>Option</b>,\n"
+"enter its <b>Value</b>, and click <b>Add</b>.</p>\n"
+"<p>To modify a configured option, select it in the table,\n"
+"change the <b>Value</b>, and click <b>Change</b>.</p>\n"
+msgstr ""
+"<p>要添加新选项，请选择<b>选项</b>，\n"
+"输入选项的<b>值</b>，然后单击<b>添加</b>。</p>\n"
+"<p>要修改已配置的选项，请在表中选择该选项，\n"
+"更改<b>值</b>，然后单击<b>更改</b>。</p>\n"
+
+#. Expert Mode Configuration - Basic Options 3/3
+#: src/helps.ycp:227
+msgid "<p>To remove an option, select it and click <b>Delete</b>.</p>"
+msgstr "<p>要删除某选项，请先选择该选项，然后单击<b>删除</b>。</p>"
+
+#. Expert Mode Configuration - Logging 1/3
+#: src/helps.ycp:230
+msgid ""
+"<p><b><big>Logging</big></b><br>\n"
+"Use this dialog to define various options of the DNS server logging.</p>"
+msgstr ""
+"<p><b><big>日志记录</big></b><br>\n"
+"使用此对话框可以定义 DNS 服务器日志记录的各种选项。</p>"
+
+#. Expert Mode Configuration - Logging 2/3
+#: src/helps.ycp:234
+msgid ""
+"<p>\n"
+"Select <b>Log to System Log</b> to save DNS server log messages to the system log. \n"
+"To save the DNS server log messages to a separate file, select \n"
+"<b>Log to File</b> and set the <b>Filename</b> to which to save the log and \n"
+"the <b>Maximum Size</b> of the log file.\n"
+"The DNS server automatically rotates the log files. Use <b>Maximum Versions</b>\n"
+"to specify how many log files should be saved.</p>\n"
+msgstr ""
+"<p>\n"
+"选择<b>记录到系统日志</b>可将 DNS 服务器日志消息保存至系统日志。\n"
+"要将 DNS 服务器日志消息另保存至一个文件，请选择\n"
+"<b>记录到文件</b>并将<b>文件名</b>设置为保存日志的文件名，然后设置日志文件的\n"
+"<b>最大大小</b>。\n"
+"DNS 服务器将自动循环使用这些日志文件。使用<b>最大版本数</b>\n"
+"可指定日志文件可保存的次数。</p>\n"
+
+#. Expert Mode Configuration - Logging 3/3
+#: src/helps.ycp:244
+msgid ""
+"<p>In <b>Additional Logging</b>,\n"
+"set which actions should be logged. Common actions are always logged.\n"
+"<b>Log All DNS Queries</b> logs all queries from clients to the DNS server.\n"
+"<b>Log Zone Updates</b> logs when DNS has been updated.\n"
+"<b>Log Zone Transfers</b> logs when zone is completely transferred to the \n"
+"secondary\n"
+"name server.</p>\n"
+msgstr ""
+"<p>在<b>附加日志记录</b>中，\n"
+"设置应记录哪些操作。始终会记录普通操作。\n"
+"<b>记录所有 DNS 查询</b>记录客户机发给 DNS 服务器的所有查询。\n"
+" <b>记录区域更新</b>记录 DNS 的更新时间。\n"
+" <b>记录区域传送</b> 记录区域完全传送到二级\n"
+" 名称服务器的时间。\n"
+"</p>\n"
+
+#. Expert Mode Configuration - ACLs 1/2
+#: src/helps.ycp:254
+msgid ""
+"<p><b><big>ACLs</big></b><br>\n"
+"In this dialog, define access control lists to control\n"
+"access to zones.</p>\n"
+msgstr ""
+"<p><b><big>访问控制列表</big></b><br>\n"
+"在此对话框中，定义访问控制列表来控制\n"
+"对区域的访问。</p>\n"
+
+#. Expert Mode Configuration - ACLs 2/2
+#: src/helps.ycp:260
+msgid ""
+"<p>To add a new ACL entry, just enter the option's <b>Name</b>\n"
+"and <b>Value</b> then click <b>Add</b>.  To remove an \n"
+"ACL entry, select it and click <b>Delete</b>.</p>\n"
+msgstr ""
+"<p>要添加新的访问控制列表条目，仅需输入条目的<b>名称</b>\n"
+"和<b>值</b>，然后单击<b>添加</b>。要删除已设置的访问控制列表条目，请选择该条目，\n"
+"然后单击<b>删除</b>。</p>\n"
+
+#. Expert Mode Configuration - Keys 1/3
+#: src/helps.ycp:266
+msgid ""
+"<p><b><big>TSIG Keys</big></b><br>\n"
+"TSIG keys are used for authentication when remotely\n"
+"changing the configuration of the DNS server. This is needed\n"
+"for the dynamic updates of DNS zones (DDNS).</p>\n"
+msgstr ""
+"<p><b><big>TSIG 密钥</big></b><br>\n"
+"TSIG 密钥用于在远程\n"
+"更改 DNS 服务器的配置时进行验证。\n"
+"动态更新 DNS 区域 (DDNS) 时，需要使用该密钥。</p>\n"
+
+#. Expert Mode Configuration - Keys 2/3
+#: src/helps.ycp:273
+msgid ""
+"<p>To add an already created key, set the <b>Filename</b>\n"
+"(or use the <b>Browse</b> button to select it) and click <b>Add</b>.\n"
+"To generate a new key, enter the <b>Filename</b> and the <b>Key ID</b>\n"
+"then click <b>Generate</b>. The new key will be generated and also added.</p>\n"
+msgstr ""
+"<p>要添加已创建的密钥，请设置<b>文件名</b>\n"
+"(或使用<b>浏览</b>按钮来选择文件名)并单击<b>添加</b>。\n"
+" 要生成新的密钥，请输入<b>文件名</b>和<b>密钥标识</b>\n"
+"，然后单击<b>生成</b>。这样，将生成并添加新的密钥。</p>\n"
+
+#. Expert Mode Configuration - Keys 3/3
+#: src/helps.ycp:280
+msgid ""
+"<p>To remove an existing key, select it and\n"
+"click <b>Delete</b>.</p>"
+msgstr ""
+"<p>要删除现有的密钥，请选择该密钥，\n"
+"然后单击<b>删除</b>。</p>"
+
+#. Expert Mode Configuration - Zones #1
+#: src/helps.ycp:284
+msgid ""
+"<p><b><big>DNS Zones</big></b><br>\n"
+"Use this dialog to manage the DNS zones.</p>\n"
+msgstr ""
+"<p><b><big>DNS 区域</big></b><br>\n"
+"使用此对话框可以管理 DNS 区域。</p>\n"
+
+#. Expert Mode Configuration - Zones #2
+#: src/helps.ycp:289
+msgid ""
+"<p>To add a new zone, enter its <b>Zone Name</b>, select the <b>Zone Type</b>,\n"
+"and click <b>Add</b>.</p>\n"
+msgstr ""
+"<p>要添加新的区域，输入它的<b>区域名称</b>，选择<b>区域类型</b>，\n"
+"然后单击<b>添加</b>。</p>\n"
+
+#. Expert Mode Configuration - Zones #3
+#: src/helps.ycp:294
+msgid ""
+"<p>To add a new IPv4 reverse zone, enter a part of the reverse IPv4 address followed by\n"
+"<tt>.in-addr.arpa</tt> as its <b>Zone Name</b> (for example, zone name\n"
+"<tt>0.168.192.in-addr.arpa</tt> for network <tt>192.168.0.0/24</tt>), select\n"
+"the <b>Zone Type</b>, and click <b>Add</b>.</p>\n"
+msgstr ""
+"<p>要添加新 IPv4 反向区域，请输入一部分反向 IPv4 地址，加上 <tt>.in-addr.arpa</tt> 作为它的 <b>区域名</b>\n"
+"(例如，网络 <tt>192.168.0.0/24</tt> 的区域名为 <tt>0.168.192.in-addr.arpa</tt>)，选择 <b>区域类型</t>，\n"
+"然后点击 <b>添加</b>。</p>\n"
+
+#.
+#. * Expert Mode Configuration - Zones #4
+#. * %1, %2, %3, and %4 are replaced with examples
+#.
+#: src/helps.ycp:304
+#, ycp-format
+msgid ""
+"<p>To add a new IPv6 reverse zone, enter a part of the reverse IPv6 address followed by\n"
+"<tt>%1</tt> as its <b>Zone Name</b>. Several formats for entering the zone name are\n"
+"supported: Standard form: <tt>%2</tt>;\n"
+"Forward form: <tt>%3</tt>;\n"
+"Forward form without netmask bits: <tt>%4</tt>\n"
+"(by default <tt>64</tt> netmask bits are used).</p>\n"
+msgstr ""
+"<p>要添加新 IPv6 反向区域，请输入一部分反向 IPv6 地址，加上 <tt>%1</tt> 作为它的 <b>区域名</b>。\n"
+"支持以下区域名格式：标准格式：<tt>%2</tt>; 转发格式：<tt>%3</tt>; 无网络掩码位的转发格式：<tt>%4</tt>\n"
+"(默认使用 <tt>64</tt> 位网络掩码位)。</p>\n"
+
+#. Expert Mode Configuration - Zones #5
+#: src/helps.ycp:313
+msgid ""
+"<p>To modify settings for a zone, such as zone transport and name and\n"
+"mail servers, select it, and click <b>Edit</b>.\n"
+"To remove a configured zone, select it and click <b>Delete</b>.</p>\n"
+msgstr ""
+"<p>要修改一个区域的设置，如区域传输以及名称和\n"
+"邮件服务器，请选择它，然后单击<b>编辑</b>。\n"
+"要删除一个已配置的区域，请选择它并单击<b>删除</b>。</p>\n"
+
+#. Zone Editor - Help for tab - Basics  1/3
+#: src/helps.ycp:322
+msgid ""
+"<p><b><big>DDNS and Zone Transport</big></b><br>\n"
+"Use this dialog to change dynamic DNS settings of the zone and control access\n"
+"to the zone.</p>\n"
+msgstr ""
+"<p><b><big>DDNS 和区域传输</big></b><br>\n"
+"使用此对话框可以更改区域的动态 DNS 设置，\n"
+"控制对区域的访问。</p>\n"
+
+#. Zone Editor - Help for tab - Basics  2/3
+#: src/helps.ycp:331
+msgid ""
+"<p>\n"
+"To allow dynamic updates of the zone, set <b>Allow Dynamic Updates</b>\n"
+"and select the <b>TSIG Key</b>. At least one TSIG key must be defined\n"
+"before the zone can be updated dynamically.</p>\n"
+msgstr ""
+"<p>\n"
+"要允许动态更新区域，请设置<b>允许动态更新</b>\n"
+"，并选择 <b>TSIG 密钥</b>。必须至少先定义一个 TSIG 密钥，\n"
+"然后才能动态更新区域。</p>\n"
+
+#. Zone Editor - Help for tab - Basics  3/3
+#: src/helps.ycp:340
+msgid ""
+"<p>\n"
+"To allow transports of the zone, set <b>Enable Zone Transport</b>\n"
+"and select the <b>ACLs</b> to check when a remote host\n"
+"attempts to transfer the zone. At least one ACL must be defined\n"
+"to allow zone transports.</p>"
+msgstr ""
+"<p>\n"
+"要允许区域传输，请设置<b>启用区域传输</b>\n"
+"，并选择当远程主机尝试传送区域时\n"
+"需要检查的 <b>访问控制列表</b>。必须至少先定义一个访问控制列表，\n"
+"才能进行区域传输。</p>"
+
+#. Zone Editor - Help
+#: src/helps.ycp:347
+msgid ""
+"<p>\n"
+"Reverse zone records can be generated from another master zone.\n"
+"Select the <b>Automatically Generate Records From</b>\n"
+"check-box and choose the zone to generate the records from.</p>\n"
+msgstr ""
+"<p>\n"
+"反向区域记录可以从另一个主区域生成。\n"
+"选择 <b>自动生成记录自</b> 复选框并选择要生成记录的区域。</p>\n"
+
+#. Zone Editor - Help
+#: src/helps.ycp:354
+msgid ""
+"<p>\n"
+"If this is not a reverse zone, you can see which zones are generated\n"
+"from the current on in the <b>Connected Reverse Zones</b> field.</p>"
+msgstr ""
+"<p>\n"
+"如果这不是一个反向区域，您可以在 <b>连接的反向区域</b> 字段中查看当前区域生成的区域。</p>"
+
+#. Zone Editor - Help for tab - Name Servers
+#: src/helps.ycp:359
+msgid ""
+"<p><b><big>NS Records</big></b><br>\n"
+"To add a new name server, enter the name server address and click <b>Add</b>.\n"
+"To remove one of the listed name servers, select it and click\n"
+"<b>Delete</b>.</p>\n"
+msgstr ""
+"<p><b><big>NS 记录</big></b><br>\n"
+"要添加新的名称服务器，请输入该名称服务器的地址，然后单击<b>添加</b>。\n"
+"要删除列出的名称服务器之一，请选择该名称服务器，然后单击\n"
+"<b>删除</b>。</p>\n"
+
+#. Zone Editor - Help for tab - Mail Servers
+#: src/helps.ycp:366
+msgid ""
+"<p><b><big>MX Records</big></b><br>\n"
+"To add a new mail server, enter the <b>Address</b> and <b>Priority</b>\n"
+"and click <b>Add</b>.\n"
+"To remove one of the listed mail servers, select it and click\n"
+"<b>Delete</b>.</p>\n"
+msgstr ""
+"<p><b><big>MX 记录</big></b><br>\n"
+"要添加新的邮件服务器，请输入<b>地址</b>和<b>优先级</b>\n"
+"，然后单击<b>添加</b>。\n"
+"要删除所列的邮件服务器之一，请选择该邮件服务器，然后单击\n"
+"<b>删除</b>。</p>\n"
+
+#. Zone Editor - Help for tab - Zone (SOA) 2/7
+#: src/helps.ycp:378
+msgid ""
+"<p><b>Serial</b> is the number used for determining if the zone has \n"
+"changed on\n"
+"the master servers (then slave servers do not always need to synchronize the\n"
+"entire zone).</p>\n"
+msgstr ""
+"<p><b>序列号</b>是用于确定区域是否已经在\n"
+"主服务器上被更改的数字(因而从属服务器不必始终同步\n"
+"整个区域)。</p>\n"
+
+#. Zone Editor - Help for tab - Zone (SOA) 3/7
+#: src/helps.ycp:385
+msgid ""
+"<p><b>TTL</b> specifies the time to live for all records in the\n"
+"zone that do not have an explicit TTL.</p>"
+msgstr ""
+"<p><b>TTL</b> 指定区域中所有没有显式 TTL 的记录\n"
+"的存活时间。</p>"
+
+#. Zone Editor - Help for tab - Zone (SOA) 6/7
+#: src/helps.ycp:397
+msgid ""
+"<p><b>Expiration</b> means the period after which the zone expires on slave\n"
+"servers and slave servers stop answering replies until it is synchronized.\n"
+"</p>"
+msgstr ""
+"<p><b>失效时间</b>是指区域在从属服务器上到期的时间，\n"
+"超过该时间后，从属服务器将停止应答该区域，直到被同步为止。\n"
+"</p>"
+
+#. Zone Editor - Help for tab - Records 1/7  or 1/5
+#: src/helps.ycp:406
+msgid ""
+"<p><b><big>Records</big></b><br>\n"
+"In this dialog, edit the resource records of the zone. To add new resource\n"
+"records, set the <b>Record Key</b>, <b>Type</b>, and <b>Value</b> then\n"
+"click <b>Add</b>.</p>"
+msgstr ""
+"<p><b><big>记录</big></b><br>\n"
+"在此对话框中，编辑区域的资源记录。要添加新的资源记录，\n"
+"请设置<b>记录键</b>、<b>类型</b>和<b>值</b>，\n"
+"然后单击<b>添加</b>。</p>"
+
+#. Zone Editor - Help for tab - Records 2/7 or 2/5
+#: src/helps.ycp:412
+msgid ""
+"<p>To change an existing record, select it, modify the desired entries,\n"
+"and click <b>Change</b>. To delete a record, select it and click\n"
+"<b>Delete</b>.</p>"
+msgstr ""
+"<p>要更改现有记录，请选择它，修改要修改的条目，\n"
+"然后单击<b>更改</b>。要删除记录，请选择它然后单击\n"
+"<b>删除</b>。</p>"
+
+#. Zone Editor - Help for tab - Records 3/7 or 3/5
+#: src/helps.ycp:417
+msgid ""
+"<p>\n"
+"Each type of record has its own syntax defined in the RFC.</p>\n"
+msgstr ""
+"<p>\n"
+"RFC 中定义了每种类型记录的语法。</p>\n"
+
+#. Zone Editor - Help for tab - Records 4/7 (alt. 1)
+#: src/helps.ycp:422
+msgid ""
+"<p><b>A: Domain Name Translation</b>:\n"
+"<b>Record Key</b> is a hostname without domain or a fully qualified \n"
+"hostname followed by a dot.\n"
+" <b>Value</b> is an IP address.</p>"
+msgstr ""
+"<p><b>A：域名转换</b>：\n"
+"<b>记录键</b>是没有域的主机名\n"
+"或是完全限定主机名后跟一个点。\n"
+"<b>值</b>是一个 IP 地址。</p>"
+
+#. Zone Editor - Help for tab - Records 5/7 (alt. 1)
+#: src/helps.ycp:428
+msgid ""
+"<p><b>CNAME: Alias for Domain Name</b>:\n"
+"<b>Record Key</b> is a hostname relative to the current zone or a fully\n"
+"qualified hostname followed by a dot.\n"
+"<b>Value</b> is a hostname relative to the current zone or a fully\n"
+"qualified hostname followed by a dot. It must be represented by\n"
+"an A record.</p>\n"
+msgstr ""
+"<p><b>CNAME：域名的别名</b>：\n"
+"</b>记录键</b>是相对于当前区域的主机名\n"
+"或是完全限定主机名后跟一个点。\n"
+"<b>值</b>是相对于当前区域的主机名\n"
+"或是完全限定主机名后跟一个点。它必须用 A 记录\n"
+"表示。</p>\n"
+
+#. Zone Editor - Help for tab - Records 6/7 (alt. 1)
+#. Zone Editor - Help for tab - Records 5/5 (alt. 2)
+#: src/helps.ycp:437 src/helps.ycp:464
+msgid ""
+"<p><b>NS: Name Server</b>:\n"
+"<b>Record Key</b> is a zone name relative to the current zone or an absolute\n"
+"domain name followed by a dot.\n"
+"<b>Value</b> is a hostname relative to the current zone or fully qualified\n"
+"hostname followed by a dot.  It must be represented by an A record.</p>\n"
+msgstr ""
+"<p><b>NS：名称服务器</b>：\n"
+"<b>记录键</b>是相对于当前区域的区域名\n"
+"或是绝对域名后跟一个点。\n"
+"<b>值</b>是相对于当前区域的主机名或完全限定主机名后跟一个点。它必须用 A 记录表示。</p>\n"
+
+#. Zone Editor - Help for tab - Records 7/7 (alt. 1)
+#: src/helps.ycp:445
+msgid ""
+"<p><b>MX: Mail Relay</b>:\n"
+"<b>Record Key</b> is a hostname or zone name relative to the current zone\n"
+"or an absolute hostname or zone name followed by a dot.\n"
+"<b>Value</b> is a hostname relative to the current zone or fully qualified\n"
+"hostname followed by a dot.  It must be represented by an A record.</p>\n"
+msgstr ""
+"<p><b>MX：邮件中继</b>：\n"
+"<b>记录键</b>是相对于当前区域的主机名或区域名\n"
+"或是绝对主机名或区域名后跟一个点。\n"
+"<b>值</b>是相对于当前区域的主机名\n"
+"或完全限定主机名后跟一个点。它必须用 A 记录表示。</p>\n"
+
+#. Zone Editor - Help for tab - Records 4/5 (alt. 2)
+#: src/helps.ycp:453
+msgid ""
+"<p><b>PTR: Reverse Translation</b>:\n"
+"<b>Record Key</b> is a full reverse zone name (derived from the IP address)\n"
+"followed by a dot\n"
+"(such as <tt>1.0.168.192.in-addr.arpa.</tt> for IP address <tt>192.168.0.1</tt>)\n"
+" or a part of reverse zone name relative to the current zone\n"
+"(such as <tt>1</tt> for IP address <tt>192.168.0.1</tt> in zone\n"
+"<tt>0.168.192.in-addr.arpa.</tt>).\n"
+"<b>Value</b> is a fully qualified hostname followed by a dot.</p>\n"
+msgstr ""
+"<p><b>PTR：反向转换</b>：\n"
+"<b>记录键</b>是完整反向区域名(派生自 IP 地址)\n"
+"后跟一个点(例如，IP 地址为 <tt>192.168.0.1</tt>，则记录键为 </tt>1.0.168.192.in-addr.arpa.<tt>)，\n"
+"或者是相对于当前区域的反向区域名的一部分\n"
+"(例如，区域 <tt>0.168.192.in-addr.arpa.</tt> 中的 IP 地址 \n"
+"<tt>192.168.0.1</tt> 的记录键为 <tt>1</tt>)。\n"
+"<b>值</b>是完全限定主机名后跟一个点。</p>\n"
+
+#. Final step of the installation wizard - 1/5
+#: src/helps.ycp:472
+msgid ""
+"<p><b><big>Finishing the Configuration</big></b></p>\n"
+"<p>Check the entered settings before finishing the configuration.</p> \n"
+msgstr ""
+"<p><b><big>完成配置</big></b></p>\n"
+"<p>完成配置之前请检查输入的设置。</p> \n"
+
+#. Final step of the installation wizard - 2/5
+#: src/helps.ycp:477
+msgid ""
+"<p>Select <b>Open Port in Firewall</b> to adapt the\n"
+"SuSEfirewall2 settings to allow all connections to your DNS server.</p>"
+msgstr ""
+"<p>选择<b>打开防火墙中的端口</b>以改变\n"
+"SuSEfirewall2 设置，使得所有连接都可连接到 DNS 服务器。</p>"
+
+#. Final step of the installation wizard - 3/5
+#: src/helps.ycp:481
+msgid ""
+"<p>\n"
+"To start the DNS server every time your computer is booted, set the \n"
+"start-up behavior to <b>On</b>. Otherwise set it to <b>Off</b>.</p> \n"
+msgstr ""
+"<p>\n"
+"要在每次引导计算机时启动 DNS 服务器，请将启动行为设置为\n"
+"<b>开</b>。否则，设置为<b>关</b>。</p> \n"
+
+#. Final step of the installation wizard - 4/5
+#: src/helps.ycp:488
+msgid ""
+"<p>\n"
+"To store the DNS zones in LDAP instead of native configuration files,\n"
+"set <b>LDAP Support Active</b>.</p>"
+msgstr ""
+"<p>\n"
+"要在 LDAP 而不是本机配置文件中存储 DNS 区域，\n"
+"请设置 <b>LDAP 支持处于活动状态</b>。</p>"
+
+#. Final step of the installation wizard - 5/5
+#: src/helps.ycp:495
+msgid ""
+"<p>\n"
+"To enter the expert mode of the DNS server configuration, click\n"
+"<b>DNS Server Expert Configuration</b>.</p>"
+msgstr ""
+"<p>\n"
+"要进入 DNS 服务器配置的专家方式，请单击 \n"
+"<b>DNS 服务器专家配置</b>。</p>"
+
+#. slave zone help text 1/2
+#: src/helps.ycp:500
+msgid ""
+"<p><big><b>Slave DNS Zone</b></big><br>\n"
+"Each slave zone must have the master name server defined. Use\n"
+"<b>Master DNS Server IP</b> to define the master name server.</p>"
+msgstr ""
+"<p><big><b>从属 DNS 区域</b></big><br>\n"
+"必须为每个从属区域定义主名称服务器。使用\n"
+"<b>主 DNS 服务器 IP</b> 可以定义主名称服务器。</p>"
+
+#. slave zone help text 2/2
+#: src/helps.ycp:505
+msgid ""
+"<p><big><b>Zone Transport</b></big><br>\n"
+"To allow transports of the zone, set <b>Enable Zone Transport</b>\n"
+"and select the <b>ACLs</b> to check when a remote host\n"
+"attempts to transfer the zone. At least one ACL must be defined\n"
+"to allow zone transports.</p>"
+msgstr ""
+"<p><big><b>区域传输</b></big><br>\n"
+"要允许传输，请设置<b>启用区域传输</b>\n"
+"并选择当远程主机尝试传送区域时\n"
+"需要检查的 <b>访问控制列表</b>。必须至少先定义一个访问控制列表，\n"
+"才能进行区域传输。</p>"
+
+#. forward zone help text 1/2
+#: src/helps.ycp:512
+msgid ""
+"<p><big><b>Forward DNS Zone</b></big><br>\n"
+"This type of DNS zone only forwards DNS queries to forwarders\n"
+"defined in it.</p>"
+msgstr ""
+"<p><big><b>转发 DNS 区域</b></big><br>\n"
+"这类 DNS 区域只向其中定义的\n"
+"转发对象转发 DNS 查询。</p>"
+
+#. forward zone help text 2/2
+#: src/helps.ycp:517
+msgid ""
+"<p>If there are no forwarders defined, all DNS queries\n"
+"for the respective zone are denied, because there is no DNS\n"
+"server to which that query should be forwarded.</p>"
+msgstr ""
+"<p>如果没有定义转发对象，将拒绝对各区域的\n"
+"所有 DNS 查询，因为没有查询应转发到的 DNS \n"
+"服务器。</p>"
+
+#. %1 is usually an IP address
+#: src/options.ycp:137
+#, ycp-format
+msgid "Unknown Record Type: %1"
+msgstr "未知的记录类型：%1"
+
+#. table entry, %1 is IP address
+#: src/options.ycp:158
+#, ycp-format
+msgid "Host %1"
+msgstr "主机 %1"
+
+#. combo box item, A is more technical description
+#: src/options.ycp:166
+msgid "A -- Domain Name Translation"
+msgstr "A -- 域名转换"
+
+#. text entry
+#: src/options.ycp:175
+msgid "&IP Addresses"
+msgstr "IP 地址(&I)"
+
+#. table entry, %1 is host name
+#: src/options.ycp:189
+#, ycp-format
+msgid "Alias for %1"
+msgstr "%1 的别名"
+
+#. combo box item, CNAME is more technical description
+#: src/options.ycp:197
+msgid "CNAME -- Alias for Domain Name"
+msgstr "CNAME -- 域名的别名"
+
+#. text entry
+#: src/options.ycp:204
+msgid "&Alias"
+msgstr "别名(&A)"
+
+#. text entry
+#: src/options.ycp:207
+msgid "&Base Host Name"
+msgstr "基本主机名(&B)"
+
+#. table entry, %1 is host name
+#: src/options.ycp:221
+#, ycp-format
+msgid "Pointer to %1"
+msgstr "指向 %1 的指针"
+
+#. combo box item, PTR is more technical description
+#: src/options.ycp:229
+msgid "PTR -- Reverse Translation"
+msgstr "PTR -- 反向转换"
+
+#. text entry
+#: src/options.ycp:236
+msgid "&IP Address"
+msgstr "IP 地址(&I)"
+
+#. table entry, %1 is host name
+#: src/options.ycp:252
+#, ycp-format
+msgid "Name Server %1"
+msgstr "名称服务器 %1"
+
+#. combo box item, NS is more technical description
+#: src/options.ycp:260
+msgid "NS -- Name Server"
+msgstr "NS -- 名称服务器"
+
+#. text entry
+#: src/options.ycp:267
+msgid "&Domain"
+msgstr "域(&D)"
+
+#. text entry
+#: src/options.ycp:270 src/widgets.ycp:744
+msgid "&Name Server"
+msgstr "名称服务器(&N)"
+
+#. table entry, %1 is host name, %2 is integer
+#: src/options.ycp:287
+#, ycp-format
+msgid "Mail Relay %1, Priority %2"
+msgstr "邮件中继 %1，优先级 %2"
+
+#. combo box item, MX is more technical description
+#: src/options.ycp:350
+msgid "MX -- Mail Relay"
+msgstr "MX -- 邮件中继"
+
+#. text entry
+#: src/options.ycp:359
+msgid "&Domain Name"
+msgstr "域名(&D)"
+
+#. text entry
+#: src/options.ycp:362 src/widgets.ycp:863
+msgid "&Mail Relay"
+msgstr "邮件中继(&M)"
+
+#. check box
+#: src/widgets.ycp:72
+msgid "&Start DNS Server"
+msgstr "启动 DNS 服务器(&S)"
+
+#. check box
+#: src/widgets.ycp:130
+msgid "&Run DNS Server in Chroot Jail"
+msgstr "在 Chroot 囚牢中运行 DNS 服务器(&R)"
+
+#. radio button, type of zone
+#: src/widgets.ycp:175
+msgid "For&ward"
+msgstr "正向(&W)"
+
+#. radio button, type of zone
+#: src/widgets.ycp:177
+msgid "Re&verse"
+msgstr "反向(&V)"
+
+#. frame containing radio buttons group
+#: src/widgets.ycp:181
+msgid "Zone Direction"
+msgstr "区域方向"
+
+#. radio button, type of zone
+#: src/widgets.ycp:218
+msgid "&Master"
+msgstr "主(&M)"
+
+#. radio button, type of zone
+#: src/widgets.ycp:220
+msgid "&Slave"
+msgstr "从属(&S)"
+
+#. radio button, type of zone
+#: src/widgets.ycp:222
+msgid "S&tub"
+msgstr "存根(&T)"
+
+#. text entry
+#: src/widgets.ycp:335
+msgid "$TT&L"
+msgstr "$TTL(&L)"
+
+#. text entry
+#: src/widgets.ycp:339
+msgid "Primary &Source"
+msgstr "主要源(&S)"
+
+#. text entry
+#: src/widgets.ycp:342
+msgid "&Administrator's Mail"
+msgstr "管理员的邮件地址(&A)"
+
+#. text entry
+#: src/widgets.ycp:348
+msgid "Serial"
+msgstr "序列号"
+
+#. text entry
+#: src/widgets.ycp:354
+msgid "Re&try"
+msgstr "重试(&T)"
+
+#. text entry
+#: src/widgets.ycp:357
+msgid "E&xpiration"
+msgstr "失效(&X)"
+
+#. text entry
+#: src/widgets.ycp:360
+msgid "Mi&nimum"
+msgstr "最小值(&N)"
+
+#. push button
+#: src/widgets.ycp:377 src/widgets.ycp:408
+msgid "Edit &SOA"
+msgstr "编辑 SOA(&S)"
+
+#. push button
+#: src/widgets.ycp:434
+msgid "Edit &NS and MX Records"
+msgstr "编辑 NS 和 MX 记录(&N)"
+
+#. popup error message
+#: src/widgets.ycp:601 src/widgets.ycp:615
+msgid "No zone is selected."
+msgstr "未选中任何区域。"
+
+#. yes-no popup
+#: src/widgets.ycp:619
+msgid "Delete selected zone?"
+msgstr "是否删除选定的区域？"
+
+#. menubutton item
+#: src/widgets.ycp:670
+msgid "&Edit Global Options"
+msgstr "编辑全局选项(&E)"
+
+#. menubutton item
+#: src/widgets.ycp:672
+msgid "&Firewall Configuration"
+msgstr "防火墙配置(&F)"
+
+#. menubutton item
+#: src/widgets.ycp:674
+msgid "Manage &TSIG Keys"
+msgstr "管理 TSIG 密钥(&T)"
+
+#. menubutton item
+#: src/widgets.ycp:676
+msgid "&Display Log"
+msgstr "显示日志(&D)"
+
+#. menubutton entry, try to keep short
+#: src/widgets.ycp:703
+msgid "Reload DNS Server"
+msgstr "重新装载 DNS 服务器"
+
+#. menubutton entry, try to keep short
+#: src/widgets.ycp:706
+msgid "Save Settings and Reload DNS Server"
+msgstr "保存设置并重新装载 DNS 服务器"
+
+#. popup message
+#: src/widgets.ycp:769 src/widgets.ycp:893 src/widgets.ycp:1146
+msgid "No name server selected."
+msgstr "没有选中任何名称服务器。"
+
+#. selection box label
+#: src/widgets.ycp:777 src/widgets.ycp:831
+msgid "&Name Servers"
+msgstr "名称服务器(&N)"
+
+#. selection box label
+#: src/widgets.ycp:901 src/widgets.ycp:957
+msgid "&Mail Relays"
+msgstr "邮件中继(&M)"
+
+#. push button
+#: src/widgets.ycp:962
+msgid "Set &Priority"
+msgstr "设置优先级(&P)"
+
+#. message popup
+#: src/widgets.ycp:1002
+msgid "Delete selected resource record?"
+msgstr "是否删除选定的资源记录？"
+
+#. text entry
+#: src/widgets.ycp:1121
+msgid "Address of &Master"
+msgstr "主服务器地址(&M)"
+
+#. selection box
+#: src/widgets.ycp:1155 src/widgets.ycp:1203
+msgid "Master Name Servers"
+msgstr "主名称服务器"
+
+#. frame
+#: src/widgets.ycp:1257
+msgid "Interface Classes"
+msgstr "接口类"
+
+#. check box
+#: src/widgets.ycp:1260
+msgid "Allow &Internal Interfaces"
+msgstr "允许使用内部接口(&I)"
+
+#. check box
+#: src/widgets.ycp:1263
+msgid "Allow &External Interfaces"
+msgstr "允许使用外部接口(&E)"
+
+#. check box
+#: src/widgets.ycp:1266
+msgid "Allow &Demilitarized Zone"
+msgstr "允许使用隔离区域(&D)"
+
+#. yes-no popup
+#: src/widgets.ycp:1288
+msgid "No TSIG key is defined. Define it now?"
+msgstr "未定义 TSIG 密钥。是否立即定义？"
+
+#~ msgid "The DNS server starts when booting the system"
+#~ msgstr "在引导系统时启动 DNS 服务器"
+
+#~ msgid "The DNS server does not start when booting the system"
+#~ msgstr "在引导系统时不启动 DNS 服务器。"
+
+#~ msgid "Start-Up Behavior"
+#~ msgstr "启动行为"
+
+#~ msgid "DNS server is running"
+#~ msgstr "DNS 服务器正在运行"
+
+#~ msgid "DNS server is not running"
+#~ msgstr "DNS 服务器未运行"
+
+#~ msgid "IP A&ddress"
+#~ msgstr "IP 地址(&D)"
+
+#~ msgid "&PPP Daemon Sets Forwarders"
+#~ msgstr "&PPP 守护程序设置转发器"
+
+#~ msgid "Set Forwarders &Manually"
+#~ msgstr "手动设置转发器(&M)"
+
+#~ msgid ""
+#~ "<p><b><big>Forwarders</big></b><br>\n"
+#~ "Forwarders are DNS servers to which your DNS server should send queries\n"
+#~ "it cannot answer.\n"
+#~ "For a dial-up connection, it can be useful\n"
+#~ "to allow the PPP daemon to update the forwarders after the connection\n"
+#~ "is established. For this, select <b>PPP Daemon Sets Forwarders</b>. To update forwarders\n"
+#~ "only manually, select <b>Set Forwarders Manually</b>.</p>\n"
+#~ msgstr ""
+#~ "<p><b><big>转发器</big></b><br>\n"
+#~ "转发器是您的 DNS 服务器将它无法回答的查询\n"
+#~ "发送所往的 DNS 服务器。\n"
+#~ "对于拨号连接，允许 PPP 守护程序在\n"
+#~ "连接建立之后更新转发器\n"
+#~ "会很有用。要执行此操作，请选择 <b>PPP 守护程序设置转发器</b>。要仅手动更新转发器，\n"
+#~ "请选择<b>手动设置转发器</b>。</p>\n"
+
+#~ msgid "%1 is not a valid IPv4 address."
+#~ msgstr "%1 不是有效的 Ipv4 地址。"
+
+#~ msgid "The zone name must be defined."
+#~ msgstr "必须定义区域名。"
+
+#~ msgid "DNS zone %1 does not exist."
+#~ msgstr "DNS 区域 %1 不存在。"
+
+#~ msgid "DNS zone %1 is not type master."
+#~ msgstr "DNS 区域 %1 不是主类型"
+
+#~ msgid "The zone type must be defined."
+#~ msgstr "必须定义区域类型。"
+
+#~ msgid "Zone type %1 is not supported."
+#~ msgstr "不支持区域类型 %1。"
+
+#~ msgid "The ACL name must be defined."
+#~ msgstr "必须定义 ACL 名称。"
+
+#~ msgid "An ACL named %1 does not exist."
+#~ msgstr "不存在名为 %1 的 ACL。"
+
+#~ msgid "The hostname must be defined."
+#~ msgstr "必须定义主机名。"
+
+#~ msgid "The hostname must be in the fully qualified domain name format."
+#~ msgstr "主机名必须使用完全限定的域名格式。"
+
+#~ msgid "The fully qualified hostname must end with a dot."
+#~ msgstr "完全限定的主机名必须以一个点结束。"
+
+#~ msgid "The hostname is invalid."
+#~ msgstr "主机名无效。"
+
+#~ msgid "The mail exchange priority must be defined."
+#~ msgstr "必须定义邮件交换优先级。"
+
+#~ msgid ""
+#~ "The mail exchange priority is invalid.\n"
+#~ "It must be a number from 0 to 65535.\n"
+#~ msgstr ""
+#~ "邮件交换优先级无效。\n"
+#~ "它必须是一个从 0 到 65535 的数字。\n"
+
+#~ msgid ""
+#~ "The hostname %1 is not part of the zone %2.\n"
+#~ "\n"
+#~ "The hostname must be relative to the zone or must end \n"
+#~ "with the zone name followed by a dot, for example,\n"
+#~ "'dhcp1' or 'dhcp1.example.org.' for the zone 'dhcp.org'.\n"
+#~ msgstr ""
+#~ "主机名 %1 不是区域 %2 的一部分。\n"
+#~ "\n"
+#~ "主机名必须相对于区域或必须以\n"
+#~ "区域名后跟一个点结束，例如，\n"
+#~ "区域 'dhcp.org' 的名称应为 'dhcp1' 或 'dhcp1.example.org.'。\n"
+
+#~ msgid ""
+#~ "The reverse IPv4 address %1 is invalid.\n"
+#~ "\n"
+#~ "A valid reverse IPv4 consists of four integers in the range 0-255\n"
+#~ "separated by a dot then followed by the string '.in-addr.arpa.'.\n"
+#~ "For example, '1.32.168.192.in-addr.arpa.' for the IPv4 address '192.168.32.1'.\n"
+#~ msgstr ""
+#~ "该反向 IPv4 地址 %1 无效。\n"
+#~ "\n"
+#~ "有效的反向 IPv4 包含由点分隔的 4 个范围在 0-255\n"
+#~ "之间的整数，再后跟字符串 '.in-addr.arpa.'。\n"
+#~ "例如，IPv4 地址 '192.168.32.1' 的反向地址是 '1.32.168.192.in-addr.arpa.'。\n"
+
+#~ msgid ""
+#~ "The relative hostname %1 cannot be used with zone %2.\n"
+#~ "Use a fully qualified hostname finished with a dot instead,\n"
+#~ "such as 'host.example.org.'.\n"
+#~ msgstr ""
+#~ "不能对区域 %2 使用相对主机名 %1。\n"
+#~ "请使用以点结束的完全限定的主机名，\n"
+#~ "诸如 'host.example.org.'。\n"
+
+#~ msgid ""
+#~ "Invalid MX record.\n"
+#~ "Use the format 'priority server-name'.\n"
+#~ msgstr ""
+#~ "MX 记录无效。\n"
+#~ "请使用格式\"priority server-name\"。\n"
+
+#~ msgid ""
+#~ "Invalid SOA record.\n"
+#~ "%1 must be from %2 to %3 seconds.\n"
+#~ msgstr ""
+#~ "无效 SOA 记录。\n"
+#~ "%1 必须在 %2 到 %3 秒之间。\n"
+
+#~ msgid ""
+#~ "Invalid SOA record.\n"
+#~ "%1 must be a BIND time type.\n"
+#~ "A BIND time type consists of numbers and the case-insensitive\n"
+#~ "suffixes W, D, H, M, and S. Time in seconds is allowed without the suffix.\n"
+#~ "Enter values such as 12H15m, 86400, or 1W30M.\n"
+#~ msgstr ""
+#~ "无效 SOA 记录。\n"
+#~ "%1 必须是 BIND 时间类型。\n"
+#~ "BIND 时间类型由数字和不区分大小写的\n"
+#~ "后缀 W、D、H、M 和 S 组成。以秒为单位的时间允许不带后缀。\n"
+#~ "请输入诸如这样的值，12H15m、86400 或 1W30M。\n"
+
+#~ msgid ""
+#~ "Invalid SOA record.\n"
+#~ "%1 must be a number from %2 to %3.\n"
+#~ msgstr ""
+#~ "无效 SOA 记录。\n"
+#~ "%1 必须是 %2 到 %2 之间的一个数字。\n"
+
+#~ msgid "The filename must be defined when logging to a file."
+#~ msgstr "要记录到文件，必须定义文件名。"
+
+#~ msgid ""
+#~ "Invalid file size.\n"
+#~ "\n"
+#~ "It must be set in the format 'number[suffix]'.\n"
+#~ "\n"
+#~ "Possible suffixes are k, K, m, M, g, and G.\n"
+#~ msgstr ""
+#~ "无效文件大小。\n"
+#~ "这必须以格式 'number[suffix]' 设\n"
+#~ "置。可以使用后缀 k、K、m、M、g 和 G。\n"
+
+#~ msgid "The count of file versions must be a number."
+#~ msgstr "文件版本的计数必须是一个数字。"
+
+#~ msgid ""
+#~ "Only slave zones have a master server defined.\n"
+#~ "Zone %1 is type %2.\n"
+#~ msgstr ""
+#~ "只有从属区域有一个已定义的主服务器。\n"
+#~ "区域 %1 的类型是 %2。\n"
+
+#~ msgid "Zone name %1 already exists."
+#~ msgstr "区域名 %1 已存在。"
+
+#~ msgid "Option masterserver is needed for slave zones."
+#~ msgstr "masterserver 选项对于从属区域是必需的。"
+
+#~ msgid "Host's IP cannot be empty."
+#~ msgstr "主机 IP 不能为空。"
+
+#~ msgid ""
+#~ "There is no reverse zone for %1 administered by your DNS server.\n"
+#~ "Hostname %2 cannot be added."
+#~ msgstr ""
+#~ "DNS 服务器管理的 %1 没有反向区域。\n"
+#~ "无法添加主机名 %2."
+
+#~ msgid "Error occurred while configuring firewall settings."
+#~ msgstr "配置防火墙设置时出错。"
+
+#~ msgid "Adapt &Firewall Settings"
+#~ msgstr "调整防火墙设置(&F)"

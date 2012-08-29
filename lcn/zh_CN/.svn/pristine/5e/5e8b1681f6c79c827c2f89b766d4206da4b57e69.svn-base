@@ -1,0 +1,423 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Eric Shan <ericalways@gmail.com>, 2008.
+# Thruth Wang <lihaow@opera.com>, 2008.
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-13 16:08+0100\n"
+"PO-Revision-Date: 2012-05-12 18:32+0800\n"
+"Last-Translator: margurite <i@marguerite.su>\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@lists.kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: plasma.cpp:56
+msgid "Default Panel"
+msgstr "默认面板"
+
+#: plasma.cpp:57
+msgid "Empty Panel"
+msgstr "空面板"
+
+#: plasma.cpp:58
+msgid "Do you want a panel with the default widgets or an empty panel?"
+msgstr "您想要一个带有默认小挂件的面板还是一个空面板？"
+
+#: App.cpp:120
+msgid ""
+"IRC:\n"
+"irc.freenode.net - #amarok, #amarok.de, #amarok.es, #amarok.fr\n"
+"\n"
+"Feedback:\n"
+"amarok@kde.org"
+msgstr ""
+"IRC：\n"
+"irc.freenode.net - #amarok, #amarok.de, #amarok.es, #amarok.fr\n"
+"\n"
+"反馈:\n"
+"amarok@kde.org"
+
+#: EngineController.cpp:287 backend-xine/xinemediawidget.cpp:841
+msgctxt "@action:button"
+msgid "Restart Now"
+msgstr "现在重启"
+
+# gmenu/edit.c:336 gsm/session-properties.c:167
+#: EngineController.cpp:289 backend-xine/xinemediawidget.cpp:843
+msgctxt "@action:button"
+msgid "Restart Later"
+msgstr "稍后重启"
+
+#: EngineController.cpp:291 backend-xine/xinemediawidget.cpp:845
+msgid "The necessary support has been successfully installed. It may be necessary to restart the application for the support to be activated."
+msgstr "必要的支持已成功安装。或许需要重启程序以激活改动。"
+
+#: backend-xine/xinemediawidget.cpp:829 suseinstall/ksuseinstall.cpp:145
+msgctxt "@action:button"
+msgid "Install"
+msgstr "安装"
+
+#: backend-xine/xinemediawidget.cpp:831
+msgid "Kaffeine currently cannot play some file formats. Do you want to install additional support?"
+msgstr "咖啡因多媒体视频播放器目前不能播放一些文件格式。请问您想要安装额外格式的支持吗？"
+
+#: backend-xine/xinemediawidget.cpp:832
+msgid "Install Additional Codecs"
+msgstr "安装额外的编解码器"
+
+#: panelcontroller.cpp:434
+msgid "Height"
+msgstr "高度"
+
+#: panelcontroller.cpp:434
+msgid "Left"
+msgstr "左"
+
+#: panelcontroller.cpp:434
+msgid "Center"
+msgstr "中"
+
+#: panelcontroller.cpp:434
+msgid "Right"
+msgstr "右"
+
+#: folderview.cpp:434
+msgid "Location"
+msgstr "位置"
+
+#: folderview.cpp:434
+msgid "Small"
+msgstr "小"
+
+#: folderview.cpp:434
+msgid "Large"
+msgstr "大"
+
+#: folderview.cpp:434
+msgid "Deselect All"
+msgstr "全部不选"
+
+#: desktopsettings.cpp:434
+msgid "Slideshow"
+msgstr "幻灯片"
+
+#: desktopsettings.cpp:434
+msgid "Image"
+msgstr "图像"
+
+#: desktopsettings.cpp:434
+msgid "Color:"
+msgstr "颜色："
+
+#: kdmshutdown.cpp:532 kdmshutdown.cpp:549
+msgid "&Suspend Computer"
+msgstr "挂起计算机(&S）"
+
+#: kdmshutdown.cpp:730
+msgid "Suspend Computer"
+msgstr "挂起计算机"
+
+#: kgreet_generic.cpp:197
+msgid "Password: "
+msgstr "密钥："
+
+#: kgreet_generic.cpp:198
+msgid "Password or swipe finger: "
+msgstr "输入密钥或指纹验证： "
+
+#: core/systemmodel.cpp:84
+msgid "Administration"
+msgstr "管理"
+
+#: core/systemmodel.cpp:231
+msgid "System Information"
+msgstr "系统信息"
+
+#: core/applicationmodel.cpp:318
+msgid "Recently Installed"
+msgstr "最近安装"
+
+#. i18n: file: applet/kickoffConfig.ui:126
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: simpleapplet/simpleapplet.cpp:512 rc.cpp:17
+msgid "Show 'Recently Installed':"
+msgstr "显示「最近安装」："
+
+#. i18n: file: applet/kickoffConfig.ui:113
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: simpleapplet/simpleapplet.cpp:518 rc.cpp:14
+msgid "Reduce menu depth:"
+msgstr "减少菜单层级"
+
+#: panelcontroller.cpp:597 panelcontroller.cpp:607
+#, kde-format
+msgid "Width: %1"
+msgstr "宽度：%1"
+
+#: panelcontroller.cpp:617 panelcontroller.cpp:628
+#, kde-format
+msgid "Height: %1"
+msgstr "高度：%1"
+
+#: suseinstall/ksuseinstall.cpp:51
+#, kde-format
+msgid "<qt><p>The application or utility <b>%1</b> is required but it does not appear to be installed.</p><p>Do you want to try to install it?</p></qt>"
+msgstr "<qt><p>需要程序或应用 <b>%1</b>，但它好像没安装。 </p><p>您想要系统试着安装它吗？</p></qt>"
+
+#: suseinstall/ksuseinstall.cpp:53 suseinstall/ksuseinstall.cpp:146
+#: suseinstall/ksuseinstall.cpp:198
+msgid "Install Additional Software"
+msgstr "安装额外软件"
+
+#: suseinstall/ksuseinstall.cpp:134
+#, kde-format
+msgid "<qt><p>There is no specialized application for files of the type <b>%1</b>.</p><p>The file can be opened in a more generic application as file type <b>%2</b>, or you can try to install a specialized application for file type <b>%1</b>.</p><p>Do you want to try to install a specialized application?</p>"
+msgstr "<qt><p>没有特定程序可用来处理 <b>%1</b> 类型的文件。</p><p>该文件可以被更加通用的程序当作 <b>%2</b> 类型打开，或者请安装针对 <b>%1</b> 类型的特定程序。你想要尝试安装特定程序吗？</p>"
+
+#: suseinstall/ksuseinstall.cpp:141
+#, kde-format
+msgid "<qt><p>There is no application installed that can open files of the type <b>%1</b>.</p><p>Do you want to try to install one?</p></qt>"
+msgstr "<qt><p>没有已安装的程序可以打开文件类型 <b>%1</b>。</p><p>您想要安装一个吗？</p></qt>"
+
+#: suseinstall/ksuseinstall.cpp:199
+msgid "Checking for additional software to install"
+msgstr "正在检查待安装的额外软件包..."
+
+#: suseinstall/ksuseinstall.cpp:301
+#, kde-format
+msgctxt "added text is URL"
+msgid "<qt><p>Some of the software to install could not be found in the currently enabled software repositories.It may be located in other repositories.</p><p>See %1 for details.</p><p>Do you want to configure your repositories now?</p></qt>"
+msgstr "<qt><p>一些待安装的软件不能在目前启用的软件安装源中找到。它或许在其他的软件安装源里。</p><p> 详情参考 %1。</p><p>您想要配置您的软件安装源吗？</p></qt>"
+
+#: suseinstall/ksuseinstall.cpp:309
+#, kde-format
+msgctxt "added text is URL"
+msgid "<qt><p>The software to install could not be found in the currently enabled software repositories.It may be located in other repositories.</p><p>See %1 for details.</p><p>Do you want to configure your repositories?</p></qt>"
+msgstr "<qt><p>待安装的软件不能在目前启用的软件安装源中找到。它或许在其他的软件安装源里。</p><p>详情参考 %1。</p><p>您想要配置您的软件安装源吗？</p></qt>"
+
+#: suseinstall/ksuseinstall.cpp:315
+msgid "Configure Software Repositories"
+msgstr "配置软件安装源"
+
+#: suseinstall/ksuseinstall.cpp:537
+msgid "Select package to install"
+msgstr "选择要安装的软件包"
+
+#: suseinstall/ksuseinstall.cpp:542
+msgid ""
+"There are several alternatives.\n"
+"\n"
+"Please select which package to install."
+msgstr ""
+"有一些选择可用。\n"
+"\n"
+"请选择要安装哪个软件包。"
+
+#: suseinstall/ksuseinstall.cpp:545
+msgid "Package name"
+msgstr "软件包名称"
+
+#: suseinstall/ksuseinstall.cpp:545
+msgid "Summary"
+msgstr "摘要"
+
+#: suseinstall/ksuseinstall.cpp:545
+msgid "Version"
+msgstr "版本"
+
+#: kmixprefdlg.cpp:84
+msgid "Disable automatic startup on login"
+msgstr "禁用登录时自动启动"
+
+#: main.cpp:59
+msgid "Used by kmix_autostart.desktop"
+msgstr "被 kmix_autostart.desktop 使用"
+
+#: label.cpp:44
+msgid "Open"
+msgstr "打开 "
+
+#: popupdialog.cpp:87
+msgid "Sort by Name"
+msgstr "按名称排列"
+
+#: popupdialog.cpp:90
+msgid "Sort by Size"
+msgstr "按大小排列 "
+
+#: popupdialog.cpp:93
+msgid "Sort by Last Modified"
+msgstr "按上次修改时间排列"
+
+#: quickaccess.cpp:207
+msgid "Sorry, but the \"applications:\" KIO slave is not supported, because it will crash QuickAccess/Plasma..."
+msgstr "抱歉，但不支持 \"applications:\" KDE 输入输出组件，因为它会导致 QuickAccess/Plasma 等崩溃。"
+
+#. i18n: file: pluginwidgetbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, PluginWidgetBase)
+#. i18n: file: quickaccessConfig.ui:13
+#. i18n: ectx: property (windowTitle), widget (KTabWidget, QuickAccessConfig)
+#: rc.cpp:3 rc.cpp:6
+msgid "Form"
+msgstr "表格"
+
+#. i18n: file: quickaccessConfig.ui:28
+#. i18n: ectx: attribute (title), widget (QWidget, general)
+#: rc.cpp:9
+msgid "General"
+msgstr "常规"
+
+#. i18n: file: quickaccessConfig.ui:39
+#. i18n: ectx: property (text), widget (QLabel, selectLabel)
+#: rc.cpp:12
+msgid "Directory:"
+msgstr "目录：  "
+
+#. i18n: file: quickaccessConfig.ui:62
+#. i18n: ectx: property (text), widget (QLabel, filterLabel)
+#: rc.cpp:15
+msgid "Filters:"
+msgstr "过滤器："
+
+#. i18n: file: quickaccessConfig.ui:104
+#. i18n: ectx: property (text), widget (QCheckBox, hiddenBox)
+#: rc.cpp:18
+msgid "Show hidden files"
+msgstr "显示隐藏文件"
+
+#. i18n: file: quickaccessConfig.ui:111
+#. i18n: ectx: property (text), widget (QCheckBox, onlyDirsBox)
+#: rc.cpp:21
+msgid "Show only folders"
+msgstr "仅显示目录"
+
+#. i18n: file: quickaccessConfig.ui:118
+#. i18n: ectx: property (text), widget (QCheckBox, navigationBox)
+#: rc.cpp:24
+msgid "Allow navigation"
+msgstr "允许导航"
+
+#. i18n: file: quickaccessConfig.ui:147
+#. i18n: ectx: attribute (title), widget (QWidget, appearance)
+#: rc.cpp:27
+msgid "Appearance"
+msgstr "外观"
+
+#. i18n: file: quickaccessConfig.ui:170
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: rc.cpp:30
+msgid "Custom icon:"
+msgstr "自定义图标："
+
+#. i18n: file: quickaccessConfig.ui:199
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:33
+msgid "Icon size:"
+msgstr "图标大小："
+
+#. i18n: file: quickaccessConfig.ui:210
+#. i18n: ectx: property (text), item, widget (QComboBox, iconSizeCombo)
+#: rc.cpp:36
+msgid "16"
+msgstr "16"
+
+#. i18n: file: quickaccessConfig.ui:215
+#. i18n: ectx: property (text), item, widget (QComboBox, iconSizeCombo)
+#: rc.cpp:39
+msgid "22"
+msgstr "22"
+
+#. i18n: file: quickaccessConfig.ui:220
+#. i18n: ectx: property (text), item, widget (QComboBox, iconSizeCombo)
+#: rc.cpp:42
+msgid "32"
+msgstr "32"
+
+#. i18n: file: quickaccessConfig.ui:225
+#. i18n: ectx: property (text), item, widget (QComboBox, iconSizeCombo)
+#: rc.cpp:45
+msgid "48"
+msgstr "48"
+
+#. i18n: file: quickaccessConfig.ui:230
+#. i18n: ectx: property (text), item, widget (QComboBox, iconSizeCombo)
+#: rc.cpp:48
+msgid "64"
+msgstr "64"
+
+#. i18n: file: quickaccessConfig.ui:235
+#. i18n: ectx: property (text), item, widget (QComboBox, iconSizeCombo)
+#: rc.cpp:51
+msgid "128"
+msgstr "128"
+
+#. i18n: file: quickaccessConfig.ui:249
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: rc.cpp:54
+msgid "View mode:"
+msgstr "视图模式："
+
+# video mode menu item
+#. i18n: file: quickaccessConfig.ui:260
+#. i18n: ectx: property (text), item, widget (QComboBox, viewModeCombo)
+#: rc.cpp:57
+msgid "List Mode"
+msgstr "列表模式"
+
+#. i18n: file: quickaccessConfig.ui:265
+#. i18n: ectx: property (text), item, widget (QComboBox, viewModeCombo)
+#: rc.cpp:60
+msgid "Icon Mode"
+msgstr "图标模式"
+
+#. i18n: file: quickaccessConfig.ui:275
+#. i18n: ectx: property (text), widget (QCheckBox, tooltipBox)
+#: rc.cpp:63
+msgid "Show tooltips"
+msgstr "显示工具提示"
+
+#. i18n: file: quickaccessConfig.ui:282
+#. i18n: ectx: property (text), widget (QCheckBox, customLabelBox)
+#: rc.cpp:66
+msgid "Use a custom label"
+msgstr "使用自定义标签"
+
+#. i18n: file: quickaccessConfig.ui:307
+#. i18n: ectx: property (text), widget (QLabel, customLabel)
+#: rc.cpp:69
+msgid "Label:"
+msgstr "标签："
+
+#. i18n: file: quickaccessConfig.ui:357
+#. i18n: ectx: attribute (title), widget (QWidget, preview)
+#: rc.cpp:72
+msgid "Preview"
+msgstr "预览"
+
+#. i18n: file: quickaccessConfig.ui:363
+#. i18n: ectx: property (text), widget (QCheckBox, previewBox)
+#: rc.cpp:75
+msgid "Show previews"
+msgstr "显示预览"
+
+#. i18n: file: quickaccessConfig.ui:377
+#. i18n: ectx: property (text), widget (QLabel, previewLabel1)
+#: rc.cpp:78
+msgid "Preview plugins:"
+msgstr "预览插件："
+
+#. i18n: file: quickaccessConfig.ui:386
+#. i18n: ectx: property (text), widget (QLabel, previewLabel2)
+#: rc.cpp:81
+msgid "Here you can enable/disable the plugins."
+msgstr "在此处您可以启用/禁用插件。"

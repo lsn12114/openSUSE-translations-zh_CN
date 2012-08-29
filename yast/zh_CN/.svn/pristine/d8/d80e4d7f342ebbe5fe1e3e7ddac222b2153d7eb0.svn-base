@@ -1,0 +1,1848 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+# Thruth Wang <lihaow@opera.com>
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: ldap client\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:33+0200\n"
+"PO-Revision-Date: 2012-07-21 05:44+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. hint to error message
+#: src/Ldap.ycp:347
+msgid "Verify that the LDAP Server is running and reachable."
+msgstr "校验 LDAP 服务器正在运行并可访问。"
+
+#. hint to error message
+#: src/Ldap.ycp:349
+msgid ""
+"Failed to establish TLS encryption.\n"
+"Verify that the correct CA Certificate is installed and the Server Certificate is valid."
+msgstr ""
+"建立 TLS 加密失败。\n"
+"请校验安装了正确的 CA 证书并且服务证书有效。"
+
+#. hint to error message
+#: src/Ldap.ycp:352
+msgid ""
+"Failed to establish TLS encryption.\n"
+"Verify that the Server has StartTLS support enabled."
+msgstr ""
+"建立 TLS 加密失败。\n"
+"请校验服务器启用了 StartTLS 支持。"
+
+#. summary item
+#: src/Ldap.ycp:551 yast2-ldap-client-2.20.0/src/Ldap.ycp:475
+msgid "LDAP Client Enabled"
+msgstr "LDAP 客户机已启用"
+
+#. summary (is LDAP enabled?)
+#. summary (use TLS?)
+#. summary (SSSD Set?)
+#. summary (client enabled?)
+#. summary (is LDAP enabled?)
+#. summary (LDAP version 2?)
+#. summary (use TLS?)
+#. summary (client enabled?)
+#: src/Ldap.ycp:553 src/Ldap.ycp:563 src/Ldap.ycp:568 src/Ldap.ycp:587
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:477
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:487
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:491
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:510
+msgid "Yes"
+msgstr "是"
+
+#. summary item
+#: src/Ldap.ycp:555 yast2-ldap-client-2.20.0/src/Ldap.ycp:479
+msgid "LDAP Domain"
+msgstr "LDAP 域"
+
+#. summary item
+#. textentry label
+#. summary item
+#. textentry label
+#: src/Ldap.ycp:558 src/ldap_browser.ycp:361
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:482
+#: yast2-ldap-client-2.20.0/src/ldap_browser.ycp:341
+msgid "LDAP Server"
+msgstr "LDAP 服务器"
+
+#. summary item
+#: src/Ldap.ycp:561 yast2-ldap-client-2.20.0/src/Ldap.ycp:489
+msgid "LDAP TLS/SSL"
+msgstr "LDAP TLS/SSL"
+
+#. summary item
+#. summary
+#: src/Ldap.ycp:566 src/Ldap.ycp:601
+msgid "System Security Services Daemon (SSSD) Set"
+msgstr "系统安全服务域 (SSSD) 集"
+
+#. summary text
+#: src/Ldap.ycp:581 yast2-ldap-client-2.20.0/src/Ldap.ycp:504
+#, ycp-format
+msgid "<b>Servers</b>:%1<br>"
+msgstr "<b>服务器</b>：%1<br>"
+
+#. summary text
+#: src/Ldap.ycp:583 yast2-ldap-client-2.20.0/src/Ldap.ycp:506
+#, ycp-format
+msgid "<b>Base DN</b>:%1<br>"
+msgstr "<b>基础判别名</b>：%1<br>"
+
+#. summary text (yes/no follows)
+#: src/Ldap.ycp:585 yast2-ldap-client-2.20.0/src/Ldap.ycp:508
+#, ycp-format
+msgid "<b>Client Enabled</b>:%1"
+msgstr "<b>客户机已启用</b>：%1"
+
+#. summary (client enabled?)
+#: src/Ldap.ycp:589 yast2-ldap-client-2.20.0/src/Ldap.ycp:512
+msgid "No"
+msgstr "否"
+
+#. summary
+#: src/Ldap.ycp:592 yast2-ldap-client-2.20.0/src/Ldap.ycp:515
+msgid "Automounter Configured"
+msgstr "已配置自动挂载"
+
+#. summary
+#: src/Ldap.ycp:596 yast2-ldap-client-2.20.0/src/Ldap.ycp:519
+msgid "LDAP TLS/SSL Configured"
+msgstr "LDAP TLS/SSL 已配置"
+
+#. error message:
+#: src/Ldap.ycp:996 yast2-ldap-client-2.20.0/src/Ldap.ycp:817
+msgid ""
+"\n"
+"The server could be down or unreachable.\n"
+msgstr ""
+"\n"
+"服务器可能已关机或无法连接。\n"
+
+#. error message:
+#: src/Ldap.ycp:1000 yast2-ldap-client-2.20.0/src/Ldap.ycp:821
+msgid ""
+"\n"
+"The value of DN is missing or invalid.\n"
+msgstr ""
+"\n"
+"缺少判别名值或该值无效。\n"
+
+#. error message:
+#: src/Ldap.ycp:1004 yast2-ldap-client-2.20.0/src/Ldap.ycp:825
+msgid ""
+"\n"
+"Attribute type not found.\n"
+msgstr ""
+"\n"
+"未找到属性类型。\n"
+
+#. error message:
+#: src/Ldap.ycp:1008 yast2-ldap-client-2.20.0/src/Ldap.ycp:829
+msgid ""
+"\n"
+"Object class not found.\n"
+msgstr ""
+"\n"
+"未找到对象类。\n"
+
+#. error message, more specific description follows
+#. error message
+#. error message, more specific description follows
+#. error message
+#: src/Ldap.ycp:1014 src/Ldap.ycp:1242 src/Ldap.ycp:1298
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:835
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:1010
+msgid "Connection to the LDAP server cannot be established."
+msgstr "无法建立与 LDAP 服务器的连接。"
+
+#. error message, more specific description follows
+#: src/Ldap.ycp:1016 yast2-ldap-client-2.20.0/src/Ldap.ycp:837
+msgid "A problem occurred while connecting to the LDAP server."
+msgstr "连接到 LDAP 服务器时出现问题。"
+
+#. error message, more specific description follows
+#: src/Ldap.ycp:1018 yast2-ldap-client-2.20.0/src/Ldap.ycp:839
+msgid "A problem occurred while reading data from the LDAP server."
+msgstr "从 LDAP 服务器读取数据时出现问题。"
+
+#. error message, more specific description follows
+#: src/Ldap.ycp:1020
+msgid "A problem occurred while writing LDAP users."
+msgstr "写入 LDAP 用户时出现问题。"
+
+#. error message, more specific description follows
+#: src/Ldap.ycp:1022
+msgid "A problem occurred while writing LDAP groups."
+msgstr "写入 LDAP 用户组时出现问题。"
+
+#. error message, more specific description follows
+#: src/Ldap.ycp:1024
+msgid "A problem occurred while writing data to the LDAP server."
+msgstr "写入数据到 LDAP 服务器时出现问题。"
+
+#. error message, more specific description follows
+#: src/Ldap.ycp:1026 yast2-ldap-client-2.20.0/src/Ldap.ycp:847
+msgid "A problem occurred while reading schema from the LDAP server."
+msgstr "从 LDAP 服务器读取方案时出现问题。"
+
+#. default error message
+#: src/Ldap.ycp:1044 yast2-ldap-client-2.20.0/src/Ldap.ycp:865
+msgid "An unknown LDAP error occurred."
+msgstr "发生了未知的 LDAP 错误。"
+
+#. checkbox label
+#: src/Ldap.ycp:1049 src/Ldap.ycp:1247 src/Ldap.ycp:1303
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:870
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:1015
+msgid "&Show Details"
+msgstr "显示细节(&S)"
+
+#. error message
+#: src/Ldap.ycp:1178 src/Ldap.ycp:1203 src/Ldap.ycp:1356
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:985
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:1065
+msgid "Unknown error. Perhaps 'yast2-ldap' is not available."
+msgstr "未知的错误。可能\"yast2-ldap\"不可用。"
+
+#. question following error message (yes/no buttons follow)
+#: src/Ldap.ycp:1255
+msgid "Really keep this configuration?"
+msgstr "是否确实要保留此配置？"
+
+#. question following error message (yes/no buttons follow)
+#: src/Ldap.ycp:1307 yast2-ldap-client-2.20.0/src/Ldap.ycp:1019
+msgid ""
+"A possible reason for the failed connection may be that your client is\n"
+"configured for TLS/SSL but the server does not support it.\n"
+"\n"
+"Retry connection without TLS/SSL?\n"
+msgstr ""
+"连接失败的一个可能原因是您的客户端被配置为使用 TLS/SSL \n"
+"但服务器并不支持。\n"
+"\n"
+"不使用 TLS/SSL 重试？\n"
+
+#. password entering label
+#: src/Ldap.ycp:1425 src/ldap_browser.ycp:367
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:1133
+#: yast2-ldap-client-2.20.0/src/ldap_browser.ycp:347
+msgid "&LDAP Server Password"
+msgstr "LDAP 服务器密码(&L)"
+
+#. label
+#: src/Ldap.ycp:1427 yast2-ldap-client-2.20.0/src/Ldap.ycp:1135
+#, ycp-format
+msgid "Server: %1:%2"
+msgstr "服务器：%1:%2"
+
+#. label (%1 is admin DN - string)
+#: src/Ldap.ycp:1430 yast2-ldap-client-2.20.0/src/Ldap.ycp:1138
+#, ycp-format
+msgid "Administrator: %1"
+msgstr "管理员：%1"
+
+#. button label
+#: src/Ldap.ycp:1435 yast2-ldap-client-2.20.0/src/Ldap.ycp:1143
+msgid "&Anonymous Access"
+msgstr "匿名访问(&A)"
+
+#. error message, %1 is DN
+#: src/Ldap.ycp:1782 yast2-ldap-client-2.20.0/src/Ldap.ycp:1490
+#, ycp-format
+msgid ""
+"A direct parent for DN '%1' \n"
+"does not exist in the LDAP directory.\n"
+"The object with the selected DN cannot be created.\n"
+msgstr ""
+"LDAP 目录中不存在判别名\"%1\"的\n"
+"直接父项。\n"
+"无法创建具有选定判别名的对象。\n"
+
+#. error message
+#: src/Ldap.ycp:1992 yast2-ldap-client-2.20.0/src/Ldap.ycp:1700
+msgid ""
+"An object with the selected DN exists, but it is not a template object.\n"
+"Select another one.\n"
+msgstr ""
+"已存在带有选定判别名的对象，但它不是模板对象。\n"
+"请选择另一个对象。\n"
+
+#. progress caption
+#: src/Ldap.ycp:2647 yast2-ldap-client-2.20.0/src/Ldap.ycp:2258
+msgid "Writing LDAP Configuration..."
+msgstr "正在写入 LDAP 配置..."
+
+#. progress stage label
+#: src/Ldap.ycp:2652 yast2-ldap-client-2.20.0/src/Ldap.ycp:2263
+msgid "Stop services"
+msgstr "停止服务"
+
+#. progress stage label
+#: src/Ldap.ycp:2654 yast2-ldap-client-2.20.0/src/Ldap.ycp:2265
+msgid "Update configuration files"
+msgstr "更新配置文件"
+
+#. progress stage label
+#: src/Ldap.ycp:2656 yast2-ldap-client-2.20.0/src/Ldap.ycp:2267
+msgid "Start services"
+msgstr "启动服务"
+
+#. progress stage label
+#: src/Ldap.ycp:2658 yast2-ldap-client-2.20.0/src/Ldap.ycp:2269
+msgid "Update configuration in LDAP directory"
+msgstr "更新 LDAP 目录中的配置"
+
+#. progress step label
+#: src/Ldap.ycp:2661 yast2-ldap-client-2.20.0/src/Ldap.ycp:2272
+msgid "Stopping services..."
+msgstr "正在停止服务..."
+
+#. progress step label
+#: src/Ldap.ycp:2663 yast2-ldap-client-2.20.0/src/Ldap.ycp:2274
+msgid "Updating configuration files..."
+msgstr "正在更新配置文件..."
+
+#. progress step label
+#: src/Ldap.ycp:2665 yast2-ldap-client-2.20.0/src/Ldap.ycp:2276
+msgid "Starting services..."
+msgstr "正在启动服务..."
+
+#. progress step label
+#: src/Ldap.ycp:2667 yast2-ldap-client-2.20.0/src/Ldap.ycp:2278
+msgid "Updating configuration in LDAP directory..."
+msgstr "正在更新 LDAP 目录中的配置..."
+
+#. final progress step label
+#: src/Ldap.ycp:2669 yast2-ldap-client-2.20.0/src/Ldap.ycp:2280
+msgid "Finished"
+msgstr "已完成"
+
+#. yes/no popup, %1 is value of DN
+#: src/Ldap.ycp:3123 yast2-ldap-client-2.20.0/src/Ldap.ycp:2663
+#, ycp-format
+msgid ""
+"No entry with DN '%1'\n"
+"exists on the LDAP server. Create it now?\n"
+msgstr ""
+"LDAP 服务器中不存在\n"
+"具有判别\"%1\"的项。是否立即创建？\n"
+
+#. button label
+#: src/LdapPopup.ycp:72 src/ldap_browser.ycp:134
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:54
+#: yast2-ldap-client-2.20.0/src/ldap_browser.ycp:114
+msgid "&Open"
+msgstr "打开(&O)"
+
+#. help text 1/3
+#: src/LdapPopup.ycp:249 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:227
+msgid "<p>Set the new value for the current attribute.</p>"
+msgstr "<p>为当前属性设置新值。</p>"
+
+#. help text 2/3
+#: src/LdapPopup.ycp:252 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:230
+msgid ""
+"<p>If the attribute can have more values, add new entries\n"
+"with <b>Add Value</b>. Sometimes the button contains the list of\n"
+"possible values to use for the current attribute.\n"
+"If the value of the edited attribute should be a distinguished name (DN),\n"
+"it is possible to choose it from the LDAP tree using <b>Browse</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>如果该属性可具有更多值，请使用\n"
+"<b>添加值</b>来添加新项。有时，该按钮包含\n"
+"可用于当前属性的值的列表。\n"
+"如果所编辑属性的值应该是一个判别名 (DN)，\n"
+"则可使用<b>浏览</b>从 LDAP 树选择该值。\n"
+" </p>\n"
+
+#. help text 3/3, %1 is attribute name, description follows.
+#. The description will be not translated: maybe add a note
+#. "available only in english" to the sentence for other languages?
+#. Example:
+#. "<p>The description of attribute \"%1\"<br>(available only in english):</p>"
+#. or:
+#. "<p>The description (only in english) of attribute \"%1\":<br></p>"
+#: src/LdapPopup.ycp:270 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:248
+#, ycp-format
+msgid "<p>The description of attribute \"%1\":<br></p>"
+msgstr "<p>属性\"%1\"的描述：<br></p>"
+
+#. textentry label
+#: src/LdapPopup.ycp:289 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:267
+#, ycp-format
+msgid "&Value of \"%1\" Attribute"
+msgstr "\"%1\"属性的值(&V)"
+
+#. textentry label
+#: src/LdapPopup.ycp:295 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:273
+#, ycp-format
+msgid "&Values of \"%1\" Attribute"
+msgstr "\"%1\"属性的值(&V)"
+
+#. button label
+#: src/LdapPopup.ycp:311 src/LdapPopup.ycp:323
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:289
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:301
+msgid "&Add Value"
+msgstr "添加值(&A)"
+
+#. menubutton item (default value)
+#: src/LdapPopup.ycp:316 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:294
+msgid "&Empty Entry"
+msgstr "清除项(&E)"
+
+#. button label
+#: src/LdapPopup.ycp:318 src/ui.ycp:912
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:296
+#: yast2-ldap-client-2.20.0/src/ui.ycp:862
+#: yast2-ldap-client-2.20.0/src/ui.ycp:924
+msgid "Bro&wse"
+msgstr "浏览(&W)"
+
+#. error popup
+#: src/LdapPopup.ycp:400 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:375
+#, ycp-format
+msgid ""
+"The value '%1' already exists.\n"
+"Please select another one."
+msgstr ""
+"值\"%1\"已存在。\n"
+"请选择另一个值。"
+
+#. description of configuration object
+#: src/LdapPopup.ycp:425 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:400
+msgid "Configuration of user management tools"
+msgstr "用户管理工具的配置"
+
+#. description of configuration object
+#: src/LdapPopup.ycp:427 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:402
+msgid "Configuration of group management tools"
+msgstr "组管理工具的配置"
+
+#. label
+#: src/LdapPopup.ycp:430 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:405
+msgid "Object Class of New Module"
+msgstr "新模块的对象类"
+
+#. textentry label, do not translate "cn"
+#: src/LdapPopup.ycp:444 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:419
+msgid "&Name of New Module (\"cn\" Value)"
+msgstr "新模块的名称（“cn”值）(&N)"
+
+#. error popup
+#: src/LdapPopup.ycp:471 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:446
+msgid ""
+"The entered value already exists.\n"
+"Select another one.\n"
+msgstr ""
+"输入的值已存在。\n"
+"请选择另一个值。\n"
+
+#. error popup
+#: src/LdapPopup.ycp:479 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:454
+msgid "Enter the module name."
+msgstr "请输入模块名。"
+
+#. help text 1/3
+#: src/LdapPopup.ycp:499 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:474
+msgid ""
+"<p>Here, set the values of attributes belonging\n"
+"to an object using the current template. Such values are used as defaults when\n"
+"the new object is created.</p>\n"
+msgstr ""
+"<p>在此，使用当前模板设置属于某个\n"
+"对象的属性的值。这些值在\n"
+"创建新对象时用作默认值。</p>\n"
+
+#.
+#. // help text 2/3 do not translate "defaultObjectClass"
+#. _("<p>The list of attributes provided in <b>Attribute Name</b> is the
+#. list of allowed attributes for objects described in the \"defaultObjectClass\"
+#. entry of the current template.</p>
+#. ") +
+#.
+#. help text 3/3 do not translate "homedirectory"
+#: src/LdapPopup.ycp:513 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:488
+msgid ""
+"<p>You can use special syntax to create attribute\n"
+"values from existing ones. The expression <i>%attr_name</i> will be replaced\n"
+"with the value of attribute \"attr_name\" (for example, use \"/home/%uid\"\n"
+"as a value of \"homeDirectory\").</p>\n"
+msgstr ""
+"<p>可以使用特殊语法从现有的\n"
+"值创建属性值。表达式 <i>%attr_name</i> 将被\n"
+"属性\"attr_name\"的值替换(例如，将\"/home/%uid\"\n"
+"用作\"homeDirectory\"的值)。</p>\n"
+
+#. combobox label
+#: src/LdapPopup.ycp:527 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:502
+msgid "Attribute &Name"
+msgstr "属性名(&N)"
+
+#. textentry label
+#: src/LdapPopup.ycp:531 yast2-ldap-client-2.20.0/src/LdapPopup.ycp:506
+msgid "Attribute &Value"
+msgstr "属性值(&V)"
+
+#. password entering label
+#: src/ldap.ycp:165 yast2-ldap-client-2.20.0/src/ldap.ycp:101
+msgid "LDAP Server Password:"
+msgstr "LDAP 服务器密码："
+
+#. translators: command line help text for Ldap client module
+#: src/ldap.ycp:202 yast2-ldap-client-2.20.0/src/ldap.ycp:138
+msgid "LDAP client configuration module"
+msgstr "LDAP 客户机配置模块"
+
+#. translators: command line help text for pam action
+#: src/ldap.ycp:210 yast2-ldap-client-2.20.0/src/ldap.ycp:146
+msgid "Enable or disable authentication with LDAP"
+msgstr "启用或禁用 LDAP 身份验证"
+
+#. translators: command line help text for summary action
+#: src/ldap.ycp:215 yast2-ldap-client-2.20.0/src/ldap.ycp:151
+msgid "Configuration summary of the LDAP client"
+msgstr "LDAP 客户机的配置摘要"
+
+#. translators: command line help text for configure action
+#: src/ldap.ycp:220 yast2-ldap-client-2.20.0/src/ldap.ycp:156
+msgid "Change the global settings of the LDAP client"
+msgstr "更改 LDAP 客户机的全局设置"
+
+#. translators: command line help text for pam enable option
+#: src/ldap.ycp:226 yast2-ldap-client-2.20.0/src/ldap.ycp:162
+msgid "Enable the service"
+msgstr "启用服务"
+
+#. translators: command line help text for pam disable option
+#: src/ldap.ycp:230 yast2-ldap-client-2.20.0/src/ldap.ycp:166
+msgid "Disable the service"
+msgstr "禁用服务"
+
+#. translators: command line help text for the server option
+#: src/ldap.ycp:234 yast2-ldap-client-2.20.0/src/ldap.ycp:170
+msgid "The LDAP server name"
+msgstr "LDAP 服务器名"
+
+#. translators: command line help text for the base option
+#: src/ldap.ycp:239 yast2-ldap-client-2.20.0/src/ldap.ycp:175
+msgid "Distinguished name (DN) of the search base"
+msgstr "搜索基础的判别名 (DN)"
+
+#. command line help text for the 'createconfig' option
+#: src/ldap.ycp:244 yast2-ldap-client-2.20.0/src/ldap.ycp:180
+msgid "Create default configuration objects."
+msgstr "创建默认配置对象。"
+
+#. command line help text for the 'ldappw' option
+#: src/ldap.ycp:248 yast2-ldap-client-2.20.0/src/ldap.ycp:184
+msgid "LDAP Server Password"
+msgstr "LDAP 服务器密码"
+
+#. help text for the 'automounter' option
+#: src/ldap.ycp:253 yast2-ldap-client-2.20.0/src/ldap.ycp:189
+msgid "Start or stop automounter"
+msgstr "启动或停止自动挂载"
+
+#. help text for the 'mkhomedir' option
+#. checkbox label
+#: src/ldap.ycp:259 yast2-ldap-client-2.20.0/src/ldap.ycp:195
+#: yast2-ldap-client-2.20.0/src/ui.ycp:251
+msgid "Create Home Directory on Login"
+msgstr "在登录时创建主目录"
+
+#. help text for the 'tls' option
+#: src/ldap.ycp:265 yast2-ldap-client-2.20.0/src/ldap.ycp:201
+msgid "Encrypted connection (StartTLS)"
+msgstr "加密连接（StartTLS）"
+
+#. help text for the 'sssd' option
+#: src/ldap.ycp:271 yast2-ldap-client-2.20.0/src/ui.ycp:829
+msgid "Use System Security Services Daemon (SSSD)"
+msgstr "使用系统安全服务守护精灵 (SSSD)"
+
+#. help text for the 'cache_credentials' option
+#: src/ldap.ycp:277 yast2-ldap-client-2.20.0/src/ui.ycp:319
+msgid "SSSD Offline Authentication"
+msgstr "SSSD 脱机认证"
+
+#. command line help text for the 'realm' option
+#: src/ldap.ycp:283
+msgid "Kerberos Realm"
+msgstr "Kerberos 领域"
+
+#. command line help text for the 'kdc' option
+#: src/ldap.ycp:288
+msgid "KDC Server Address"
+msgstr "KDC 服务器地址"
+
+#. general help text for LDAP browser
+#: src/ldap_browser.ycp:67 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:47
+msgid "<p>Browse the LDAP tree in the left part of the dialog.</p>"
+msgstr "<p>在对话框左侧浏览 LDAP 树。</p>"
+
+#. help text for LDAP browser
+#: src/ldap_browser.ycp:69 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:49
+msgid "<p>Once the LDAP object is selected in the tree, the table shows the object data. Use <b>Edit</b> to change the value of the selected attribute. Use <b>Save</b> to save your changes to LDAP.</p>"
+msgstr "<p>一旦在树中选择了 LDAP 对象，表格将显示对象数据。使用<b>编辑</b>更改所选属性的值。使用<b>保存</b>来保存更改到 LDAP。</p>"
+
+#. popup question (Continue/Cancel follows)
+#: src/ldap_browser.ycp:72 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:52
+msgid ""
+"There are unsaved changes in the current entry.\n"
+"Discard these changes?\n"
+msgstr ""
+"当前项中存在未保存的更改。\n"
+"要放弃这些更改吗？\n"
+
+#. button label
+#: src/ldap_browser.ycp:137 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:117
+msgid "&Reload"
+msgstr "重新装载(&R)"
+
+#. table header 1/2
+#: src/ldap_browser.ycp:252 src/ui.ycp:1221 src/ui.ycp:1518
+#: yast2-ldap-client-2.20.0/src/ldap_browser.ycp:232
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1412
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1709
+msgid "Attribute"
+msgstr "属性"
+
+#. table header 2/2
+#: src/ldap_browser.ycp:254 src/ui.ycp:1223 src/ui.ycp:1520
+#: yast2-ldap-client-2.20.0/src/ldap_browser.ycp:234
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1414
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1711
+msgid "Value"
+msgstr "值"
+
+#. dialog caption
+#: src/ldap_browser.ycp:283 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:263
+msgid "LDAP Browser"
+msgstr "LDAP 浏览器"
+
+#. combobox item
+#: src/ldap_browser.ycp:295 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:275
+msgid "Current LDAP Client settings"
+msgstr "当前 LDAP 客户机设置"
+
+#. combo box label
+#: src/ldap_browser.ycp:331 src/ldap_browser.ycp:348
+#: yast2-ldap-client-2.20.0/src/ldap_browser.ycp:311
+#: yast2-ldap-client-2.20.0/src/ldap_browser.ycp:328
+msgid "LDAP Connections"
+msgstr "LDAP 连接"
+
+#. textentry label
+#: src/ldap_browser.ycp:365 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:345
+msgid "Administrator DN"
+msgstr "管理员判别名"
+
+#. check box label
+#: src/ldap_browser.ycp:370 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:350
+msgid "L&DAP TLS"
+msgstr "L&DAP TLS"
+
+#. button label
+#: src/ldap_browser.ycp:376 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:356
+msgid "A&nonymous Access"
+msgstr "匿名访问(&n)"
+
+#. InputField label
+#: src/ldap_browser.ycp:425 yast2-ldap-client-2.20.0/src/ldap_browser.ycp:405
+msgid "Enter the name of the new LDAP connection"
+msgstr "输入新 LDAP 连接的名称。"
+
+#. error popup, %1 is attribute name
+#: src/ldap_browser.ycp:637 src/ui.ycp:1373 src/ui.ycp:1559
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:864
+#: yast2-ldap-client-2.20.0/src/ldap_browser.ycp:617
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1564
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1750
+#, ycp-format
+msgid ""
+"The \"%1\" attribute is mandatory.\n"
+"Enter a value."
+msgstr ""
+"\"%1\"属性是必备的。\n"
+"请输入值。"
+
+#. popup text
+#: src/ui.ycp:92 yast2-ldap-client-2.20.0/src/ui.ycp:80
+msgid "Really abort the writing process?"
+msgstr "是否确实要中止写入过程？"
+
+#. help text
+#: src/ui.ycp:100 yast2-ldap-client-2.20.0/src/ui.ycp:88
+msgid "Writing LDAP Client Settings"
+msgstr "正在写入 LDAP 客户机设置"
+
+#. popup window
+#: src/ui.ycp:140 yast2-ldap-client-2.20.0/src/ui.ycp:128
+msgid "Scanning for LDAP servers provided by SLP..."
+msgstr "正在扫描 SLP 提供的 LDAP 服务器... "
+
+#. multiselection box label
+#: src/ui.ycp:160 yast2-ldap-client-2.20.0/src/ui.ycp:148
+msgid "LDAP &Servers Provided by SLP"
+msgstr "SLP 提供的 LDAP 服务器(&S)"
+
+#. inputfield label
+#: src/ui.ycp:195
+msgid "Cer&tificate Directory"
+msgstr "证书目录(&t)"
+
+#. button label
+#: src/ui.ycp:198 yast2-ldap-client-2.20.0/src/ui.ycp:887
+msgid "B&rowse"
+msgstr "浏览(&B)"
+
+#. inputfield label
+#: src/ui.ycp:204
+msgid "CA Cert&ificate File"
+msgstr "CA 证书文件(&i)"
+
+#. button label
+#: src/ui.ycp:207 yast2-ldap-client-2.20.0/src/ui.ycp:896
+msgid "Brows&e"
+msgstr "浏览(&E)"
+
+#. inputfield label
+#: src/ui.ycp:213 yast2-ldap-client-2.20.0/src/ui.ycp:400
+msgid "CA Certificate URL for Download"
+msgstr "CA 证书下载 URL"
+
+#. push button label
+#: src/ui.ycp:216
+msgid "Do&wnload CA Certificate"
+msgstr "下载 CA 证书(&w)"
+
+#. popup label
+#: src/ui.ycp:233 yast2-ldap-client-2.20.0/src/ui.ycp:1075
+msgid "Choose the directory with certificates"
+msgstr "选择证书目录"
+
+#. popup label
+#: src/ui.ycp:244 yast2-ldap-client-2.20.0/src/ui.ycp:1084
+msgid "Choose the certificate file"
+msgstr "选择证书文件"
+
+#. error message
+#: src/ui.ycp:266 yast2-ldap-client-2.20.0/src/ui.ycp:427
+msgid "Could not download the certificate file from specified URL."
+msgstr "不能从指定的 URL 下载证书文件。"
+
+#. popup message, %1 is file name, %2 directory
+#: src/ui.ycp:284
+#, ycp-format
+msgid ""
+"The downloaded certificate file\n"
+"\n"
+"'%1'\n"
+"\n"
+"has been copied to '%2' directory.\n"
+msgstr ""
+"下载的证书文件\n"
+"\n"
+"'%1'\n"
+"\n"
+"已被复制到 '%2' 目录。\n"
+
+#. help text 1/9
+#: src/ui.ycp:315
+msgid "<p>Set up your machine as an LDAP client.</p>\n"
+msgstr "<p>将计算机设置为 LDAP 客户机。</p>\n"
+
+#. help text 2/9
+#: src/ui.ycp:319 yast2-ldap-client-2.20.0/src/ui.ycp:181
+msgid "<p>To authenticate your users with an OpenLDAP server, select <b>Use LDAP</b>. NSS and PAM will be configured accordingly.</p>"
+msgstr "<p>要向 OpenLDAP 服务器验证您的用户，请选择<b>使用 LDAP</b>。相应地还将配置 NSS 和 PAM。</p>"
+
+#. help text 3/9
+#: src/ui.ycp:322 yast2-ldap-client-2.20.0/src/ui.ycp:184
+msgid ""
+"<p>To deactivate LDAP services, click <b>Do Not Use LDAP</b>.\n"
+"If you deactivate LDAP, the current LDAP entry for passwd in /etc/nsswitch.conf\n"
+"will be removed. The PAM configuration will be modified and the LDAP entry\n"
+"removed.</p>"
+msgstr ""
+"<p>要取消激活 LDAP 服务，请单击<b>不使用 LDAP</b>。\n"
+"如果取消激活 LDAP，则 /etc/nsswitch.conf 中的当前 LDAP 密码项\n"
+"将被删除。PAM 配置将被修改，LDAP 项\n"
+"将被删除。</p>"
+
+#. help text 3.5/9
+#: src/ui.ycp:328 yast2-ldap-client-2.20.0/src/ui.ycp:190
+msgid "<p>To activate LDAP but forbid users from logging in to this machine, select <b>Enable LDAP Users but Disable Logins</b>.</p>"
+msgstr "<p>要激活 LDAP，但要禁止用户登录到该机器，请选择<b>启用 LDAP 用户但禁用登录</b>。</p>"
+
+#. help text
+#: src/ui.ycp:331
+msgid "<p>Check <b>Use System Security Services Daemon</b> if you want the system to use SSSD instead of nss_ldap.</p>"
+msgstr "<p>如果您想要系统使用 SSSD 而不是 nss_ldap，请选中<b>使用系统安全服务守护精灵</b>。</p>"
+
+#. help text 4/9
+#: src/ui.ycp:334 yast2-ldap-client-2.20.0/src/ui.ycp:193
+msgid ""
+"<p>Enter the LDAP server's address (such as ldap.example.com or 10.20.0.2) in <b>Addresses</b> and the distinguished name of the search base (<b>Base DN</b>, such as dc=example,dc=com). Specify multiple servers\n"
+"by separating their addresses with spaces. It must be possible to resolve the\n"
+"addresses without using LDAP. You can also specify the port on which the server is running using the syntax \"server:port\", for example, <tt>ldap.example.com:379</tt>.\n"
+"</p>\n"
+msgstr ""
+"<p>请在<b>地址</b>中输入 LDAP 服务器的地址（比如 ldap.example.com 或 10.20.0.2）并输入搜索基础的判别名（<b>基础判别名</b>，比如 dc=example,dc=com）。指定多个服务器时\n"
+"请使用空格分隔各个地址。必须能在不使用 LDAP 的情况下\n"
+"解析地址。也可以使用语法“服务器:端口”来指定运行服务器的端口，例如 <tt>ldap.example.com:379</tt>。\n"
+" </p>\n"
+
+#. help text 5/9
+#: src/ui.ycp:341 yast2-ldap-client-2.20.0/src/ui.ycp:200
+msgid "<p>With <b>Find</b>, select the LDAP server from the list provided by the service location protocol (SLP). Using <b>Fetch DN</b>, read the base DN from server.</p>"
+msgstr "<p>通过<b>查找</b>，从服务定位协议 (SLP) 提供的列表中选择 LDAP 服务器。使用<b>提取判别名</b>，从服务器读取基本判别名。</p>"
+
+#. help text 6/9
+#: src/ui.ycp:344
+msgid ""
+"<p>Some LDAP servers support StartTLS (RFC2830).\n"
+"If your server supports it and it is configured, activate <b>LDAP TLS/SSL</b>\n"
+"to encrypt your communication with the LDAP server. You may download a CA\n"
+"certificate file in PEM format from a given URL.</p>\n"
+msgstr ""
+"<p>有些 LDAP 服务器支持 StartTLS (RFC2830)。\n"
+"如果服务器支持 StartTLS 并且 StartTLS 已配置，请激活 <b>LDAP TLS/SSL</b>\n"
+"，以对与 LDAP 服务器的通讯进行加密。\n"
+"您或许可以从给出的 URL 下载一个 PEM 格式的 CA 证书文件。</p>\n"
+
+#. help text 8/9
+#: src/ui.ycp:351
+msgid ""
+"<p>To configure advanced LDAP settings, click\n"
+"<b>Advanced Configuration</b>.</p>\n"
+msgstr ""
+"<p>要配置高级 LDAP 设置，请单击\n"
+"<b>高级配置</b>。</p>\n"
+
+#. help text 9/9 (additional)
+#: src/ui.ycp:355
+msgid ""
+"<p><b>Automounter</b> is a daemon that automatically mounts directories, such\n"
+"as users' home directories. Its configuration files (auto.*) should already\n"
+"exist locally or over LDAP. If the automounter is not installed yet but you\n"
+"want to use it, it will be installed automatically.</p>\n"
+msgstr ""
+"<p><b>自动挂载</b> 是一种自动挂载目录的守护精灵，\n"
+"例如用户的主目录。\n"
+"其配置文件 (auto.*) 已经存在于\n"
+"本地或通过 LDAP 存在。\n"
+"如果尚未安装该程序，而您又需要使用它，那么将\n"
+"自动安装。</p>\n"
+
+#. check box label
+#: src/ui.ycp:379 yast2-ldap-client-2.20.0/src/ui.ycp:241
+msgid "Start Auto&mounter"
+msgstr "启动自动挂载(&M)"
+
+#. checkbox label
+#: src/ui.ycp:388
+msgid "C&reate Home Directory on Login"
+msgstr "在登录时创建主目录(&r)"
+
+#. checkbox label
+#: src/ui.ycp:394
+msgid "Disable User &Logins"
+msgstr "禁止用户登录(&L)"
+
+#. frame label
+#: src/ui.ycp:401 yast2-ldap-client-2.20.0/src/ui.ycp:258
+msgid "User Authentication"
+msgstr "用户身份验证"
+
+#. radio button label
+#: src/ui.ycp:407
+msgid "Do &Not Use LDAP"
+msgstr "不使用 LDAP(&N)"
+
+#. radio button label
+#: src/ui.ycp:410 yast2-ldap-client-2.20.0/src/ui.ycp:267
+msgid "&Use LDAP"
+msgstr "使用 LDAP(&U)"
+
+#. frame label
+#: src/ui.ycp:417 yast2-ldap-client-2.20.0/src/ui.ycp:284
+msgid "LDAP Client"
+msgstr "LDAP 客户机"
+
+#: src/ui.ycp:422 yast2-ldap-client-2.20.0/src/ui.ycp:289
+msgid "Addresses of LDAP &Servers"
+msgstr "LDAP 服务器的地址(&S)"
+
+#. push button label
+#: src/ui.ycp:426 yast2-ldap-client-2.20.0/src/ui.ycp:293
+msgid "F&ind"
+msgstr "查找(&I)"
+
+#. text entry label
+#: src/ui.ycp:432 yast2-ldap-client-2.20.0/src/ui.ycp:299
+msgid "LDAP Base &DN"
+msgstr "LDAP 基础判别名(&D)"
+
+#. push button label
+#: src/ui.ycp:436 yast2-ldap-client-2.20.0/src/ui.ycp:303
+msgid "F&etch DN"
+msgstr "提取判别名(&E)"
+
+#. pushbutton label
+#: src/ui.ycp:447
+msgid "SSL/TLS Configuration..."
+msgstr "SSL/TLS 配置..."
+
+#. pushbutton label
+#: src/ui.ycp:449 yast2-ldap-client-2.20.0/src/ui.ycp:322
+msgid "&Advanced Configuration..."
+msgstr "高级配置(&A)..."
+
+#. dialog title
+#. dialog label
+#. dialog title
+#. dialog label
+#: src/ui.ycp:455 src/wizards.ycp:94 yast2-ldap-client-2.20.0/src/ui.ycp:327
+#: yast2-ldap-client-2.20.0/src/wizards.ycp:74
+msgid "LDAP Client Configuration"
+msgstr "LDAP 客户机配置"
+
+#. question popup
+#: src/ui.ycp:471
+msgid ""
+"Previous LDAP client configuration was detected.\n"
+"\n"
+"Current configuration does not use SSSD but nss_ldap.\n"
+"Only SSSD based configurations are supported by YaST.\n"
+"Do you want to continue and use SSSD or cancel to keep the old configuration?"
+msgstr ""
+"检测到之前的 LDAP 客户机配置。\n"
+"\n"
+"当前配置没有使用 SSSD，而是用了 nss_ldap。\n"
+"YaST 只支持基于 SSSD 的配置。\n"
+"您想要继续并使用 SSSD 或者取消并保留旧配置吗？"
+
+#. error popup label
+#: src/ui.ycp:553 yast2-ldap-client-2.20.0/src/ui.ycp:470
+msgid "Enter an LDAP base DN."
+msgstr "请输入 LDAP 基础判别名。"
+
+#. error popup label
+#: src/ui.ycp:561 yast2-ldap-client-2.20.0/src/ui.ycp:478
+msgid "Enter at least one address of an LDAP server."
+msgstr "至少输入 LDAP 服务器的一个地址。"
+
+#. error popup label
+#: src/ui.ycp:568 yast2-ldap-client-2.20.0/src/ui.ycp:485
+msgid "The LDAP server address is invalid."
+msgstr "LDAP 服务器地址无效。"
+
+#. popup question: user enabled LDAP now, but probably has
+#. enabled NIS client before
+#: src/ui.ycp:585 yast2-ldap-client-2.20.0/src/ui.ycp:502
+msgid ""
+"When you configure your machine as an LDAP client,\n"
+"you cannot retrieve data with NIS. Really use LDAP instead of NIS?\n"
+msgstr ""
+"如果将计算机配置为 LDAP 客户机，\n"
+"则无法使用 NIS 来检索数据。确实要使用 LDAP，而不是 NIS 吗？\n"
+
+#. popup text
+#: src/ui.ycp:657 yast2-ldap-client-2.20.0/src/ui.ycp:560
+msgid "LDAP is now enabled."
+msgstr "LDAP 现已启用。"
+
+#. message popup, part 1/2
+#: src/ui.ycp:661 yast2-ldap-client-2.20.0/src/ui.ycp:564
+msgid ""
+"This change only affects newly created processes and not already\n"
+"running services. Restart your services manually or reboot \n"
+"the machine to enable it for all services.\n"
+msgstr ""
+"此更改只影响刚创建的进程，不影响\n"
+"已在运行的服务。手动重启动服务或重引导\n"
+"计算机以为所有服务启用它。\n"
+
+#. message popup, part 1/2
+#: src/ui.ycp:670 yast2-ldap-client-2.20.0/src/ui.ycp:573
+msgid ""
+"\n"
+"To enable remote login for LDAP users, sshd is\n"
+"restarted automatically by YaST.\n"
+msgstr ""
+"\n"
+"为了启用 LDAP 用户远程登录，\n"
+"YaST 将自动重启动 sshd。\n"
+
+#. yes/no question
+#: src/ui.ycp:681 yast2-ldap-client-2.20.0/src/ui.ycp:584
+msgid ""
+"The security connection is enabled, but server certificate verification is disabled.\n"
+"Enable certificate checks now?"
+msgstr ""
+"已启用了安全连接，但服务器证书校验被禁用。\n"
+"立即启用证书检查吗？"
+
+#. help text caption 1
+#: src/ui.ycp:720 yast2-ldap-client-2.20.0/src/ui.ycp:623
+msgid "<p><b>Advanced LDAP Client Settings</b></p>"
+msgstr "<p><b>高级 LDAP 客户机设置</b></p>"
+
+#. help text 1/3
+#: src/ui.ycp:723
+msgid ""
+"<p>If Kerberos authentication should be used, specify the <b>realm</b> and <b>KDC Address</b>.\n"
+"Determine if user credentials should be cached locally by checking <b>SSSD Offline Authentication</b>.\n"
+"For more info about SSSD settings, check the man page of <tt>sssd.conf</tt>.</p>\n"
+msgstr ""
+"<p>如果应使用 Kerberos 验证，请指定 <b>领域</b> 和 <b>KDC 地址</b>。\n"
+"通过点击 <b>SSSD 脱机认证</b> 来决定是否本地缓存用户机密。\n"
+"更多 SSSD 设置信息，请参考 <tt>sssd.conf</tt> 的 man 页面。</p>\n"
+
+#. help text 2/3
+#: src/ui.ycp:729
+msgid ""
+"<p><b>Password Change Protocol</b> refers to the pam_password attribute of the\n"
+"<tt>/etc/ldap.conf</tt> file. See <tt>man pam_ldap</tt> for an explanation of its values.</p>"
+msgstr "<p><b>密码更改协议</b>指的是 <tt>/etc/ldap.conf</tt> 文件的 pam_password 属性。请参阅<tt>man pam_ldap</tt>以了解该属性的值的含义。</p>"
+
+#. help text 3/3, %1 is attribute name
+#: src/ui.ycp:732 yast2-ldap-client-2.20.0/src/ui.ycp:635
+#, ycp-format
+msgid ""
+"<p>Set the type of LDAP groups to use.\n"
+"The default value for <b>Group Member Attribute</b> is <i>%1</i>.</p>\n"
+msgstr ""
+"<p>请设置要使用的 LDAP 组的类型。\n"
+"<b>组成员属性</b>的默认值为 <i>%1</i>。</p>\n"
+
+#: src/ui.ycp:737
+msgid ""
+"<p>If secure connection requires certificate checking, specify where your\n"
+"certificate file is located. Enter either a directory containing certificates\n"
+"or the explicit path to one certificate file.</p>"
+msgstr "<p>如果安全连接要求证书检查，请指定您证书文件的位置。输入包含证书的目录或一个证书文件的绝对路径。</p>"
+
+#. help text caption 2
+#: src/ui.ycp:742 yast2-ldap-client-2.20.0/src/ui.ycp:651
+msgid "<p><b>Access to Server</b></p>"
+msgstr "<p><b>访问服务器</b></p>"
+
+#. help text 1/4
+#: src/ui.ycp:745
+msgid ""
+"<p>First, set <b>Configuration Base DN</b>.\n"
+"This is the base for storing your configuration data on the LDAP\n"
+"server.</p>\n"
+msgstr ""
+"<p>首先，设置<b>配置基础判别名</b>。\n"
+"它是存储配置数据的基础，这些数据保存在 LDAP \n"
+"服务器上。</p>\n"
+
+#. help text 2/4
+#: src/ui.ycp:751
+msgid ""
+"<p>To access the data stored on the server, enter the\n"
+"<b>Administrator DN</b>.\n"
+"You can enter the full DN (for example, cn=Administrator,dc=mydomain,dc=com) or \n"
+"the relative DN (for example, cn=Administrator). The LDAP base DN is appended automatically if the appropriate option is checked.</p>\n"
+msgstr ""
+"<p>要访问存储在服务器上的数据，请输入\n"
+"<b>管理员判别名</b>。\n"
+"可输入完整判别名（例如 cn=Administrator,dc=mydomain,dc=com），也可以只输入\n"
+"相对判别名（例如 cn=Administrator）。如果选中了适当的选项，则会自动追加 LDAP 基础判别名。</p>\n"
+
+#. help text 3/4
+#: src/ui.ycp:758 yast2-ldap-client-2.20.0/src/ui.ycp:667
+msgid ""
+"<p>To create the default configuration objects for LDAP users and groups,\n"
+"check <b>Create Default Configuration Objects</b>. The objects are only created when they do not already exist.</p>\n"
+msgstr ""
+"<p>要为 LDAP 用户和组创建默认的配置对象，\n"
+"请选中<b>创建默认配置对象</b>。只有在不存在对象时才创建这些对象。</p>\n"
+
+#. help text 4/4
+#: src/ui.ycp:763 yast2-ldap-client-2.20.0/src/ui.ycp:672
+msgid ""
+"<p>Press <b>Configure</b> to configure settings stored on the\n"
+"LDAP server. You will be asked for the password if you are not connected yet or\n"
+"have changed your configuration.</p>\n"
+msgstr ""
+"<p>按<b>配置</b>，可以配置存储在\n"
+"LDAP 服务器上的设置。如果您尚未连接或已更改配置，\n"
+"则系统将提示您提供密码。</p>\n"
+
+#. tab label
+#: src/ui.ycp:821 yast2-ldap-client-2.20.0/src/ui.ycp:802
+msgid "C&lient Settings"
+msgstr "客户机设置(&L)"
+
+#. tab label
+#: src/ui.ycp:823 yast2-ldap-client-2.20.0/src/ui.ycp:804
+msgid "Ad&ministration Settings"
+msgstr "管理设置(&M)"
+
+#. checkbox label
+#: src/ui.ycp:853
+msgid "&Use Kerberos"
+msgstr "使用 Kerberos(&U)"
+
+#. textentry label
+#: src/ui.ycp:858
+msgid "Default Real&m"
+msgstr "默认领域(&M)"
+
+#. textentry label
+#: src/ui.ycp:860
+msgid "&KDC Server Address"
+msgstr "KDC 服务器地址(&K)"
+
+#. combobox label
+#: src/ui.ycp:864
+msgid "LDAP Schema"
+msgstr "LDAP 方案"
+
+#. checkbox label
+#: src/ui.ycp:871
+msgid "Enable user and group enumeration"
+msgstr "启用用户和组列举"
+
+#. check box label
+#: src/ui.ycp:878
+msgid "SSSD O&ffline Authentication"
+msgstr "SSSD 脱机认证(&f)"
+
+#. combobox label
+#: src/ui.ycp:885 yast2-ldap-client-2.20.0/src/ui.ycp:872
+msgid "Passwor&d Change Protocol"
+msgstr "密码更改协议(&d)"
+
+#. combobox label
+#: src/ui.ycp:888 yast2-ldap-client-2.20.0/src/ui.ycp:876
+msgid "Group Member &Attribute"
+msgstr "组成员属性(&A)"
+
+#. textentry label
+#: src/ui.ycp:908 yast2-ldap-client-2.20.0/src/ui.ycp:920
+msgid "Configuration &Base DN"
+msgstr "配置基本判别名(&B)"
+
+#. textentry label
+#: src/ui.ycp:919 yast2-ldap-client-2.20.0/src/ui.ycp:931
+msgid "Administrator &DN"
+msgstr "管理员判别名(&D)"
+
+#. checkbox label
+#: src/ui.ycp:923 yast2-ldap-client-2.20.0/src/ui.ycp:935
+msgid "A&ppend Base DN"
+msgstr "追加基本判别名(&P)"
+
+#. checkbox label
+#: src/ui.ycp:929 yast2-ldap-client-2.20.0/src/ui.ycp:941
+msgid "Crea&te Default Configuration Objects"
+msgstr "创建默认配置对象(&T)"
+
+#. pushbutton label
+#: src/ui.ycp:933 yast2-ldap-client-2.20.0/src/ui.ycp:951
+msgid "Configure User Management &Settings..."
+msgstr "配置用户管理设置(&S)..."
+
+#. dialog label
+#: src/ui.ycp:949 yast2-ldap-client-2.20.0/src/ui.ycp:982
+msgid "Advanced Configuration"
+msgstr "高级配置"
+
+#. error popup label
+#: src/ui.ycp:1043 yast2-ldap-client-2.20.0/src/ui.ycp:1195
+msgid "Enter the DN used for binding to the LDAP server."
+msgstr "输入用于联结到 LDAP 服务器的判别名。"
+
+#. error popup label
+#: src/ui.ycp:1051 yast2-ldap-client-2.20.0/src/ui.ycp:1203
+msgid "Enter the configuration base DN."
+msgstr "请输入配置基础判别名。"
+
+#. yes/no popup
+#: src/ui.ycp:1144 yast2-ldap-client-2.20.0/src/ui.ycp:1335
+msgid ""
+"If you reread settings from the server,\n"
+"all changes will be lost. Really reread?\n"
+msgstr ""
+"从服务器重读设置\n"
+"将导致所有更改丢失。确实要重读吗？\n"
+
+#. help text 1/3
+#: src/ui.ycp:1168
+msgid ""
+"<p>Configure the template used for creating \n"
+"new objects (like users or groups).</p>\n"
+msgstr ""
+"<p>在此，配置用于\n"
+"创建新对象(用户或组)的模板。</p>\n"
+
+#. help text 2/3
+#: src/ui.ycp:1173 yast2-ldap-client-2.20.0/src/ui.ycp:1364
+msgid ""
+"<p>Edit the template attribute values with <b>Edit</b>.\n"
+"Changing the <b>cn</b> value renames the template.</p>\n"
+msgstr ""
+"<p>使用<b>编辑</b>来编辑模板属性值。\n"
+"更改 <b>CN</b> 值可以重命名模板。</p>\n"
+
+#. help text 3/3
+#: src/ui.ycp:1178
+msgid ""
+"<p>The second table contains a list of <b>default values</b> used\n"
+"for new objects. Modify the list by adding new values, editing or\n"
+"removing current ones.</p>\n"
+msgstr ""
+"<p>第二个表包含一个用于\n"
+"新对象的<b>默认值</b>的列表。可以通过添加新值、编辑或\n"
+"删除当前值修改该列表。</p>\n"
+
+#. label (table folows)
+#: src/ui.ycp:1230 yast2-ldap-client-2.20.0/src/ui.ycp:1421
+msgid "Default Values for New Objects"
+msgstr "新对象的默认值"
+
+#. table header 1/2
+#: src/ui.ycp:1233 yast2-ldap-client-2.20.0/src/ui.ycp:1424
+msgid "Attribute of Object"
+msgstr "对象的属性"
+
+#. table header 2/2
+#: src/ui.ycp:1235 yast2-ldap-client-2.20.0/src/ui.ycp:1426
+msgid "Default Value"
+msgstr "默认值"
+
+#. button label (with non-default shortcut)
+#: src/ui.ycp:1239 yast2-ldap-client-2.20.0/src/ui.ycp:1430
+msgid "A&dd"
+msgstr "添加(&D)"
+
+#. button label
+#: src/ui.ycp:1241 yast2-ldap-client-2.20.0/src/ui.ycp:1432
+msgid "&Edit"
+msgstr "编辑(&E)"
+
+#. dialog label
+#: src/ui.ycp:1251 yast2-ldap-client-2.20.0/src/ui.ycp:1442
+msgid "Object Template Configuration"
+msgstr "对象模板配置"
+
+#. yes/no popup, %1 is name
+#: src/ui.ycp:1351 yast2-ldap-client-2.20.0/src/ui.ycp:1542
+#, ycp-format
+msgid "Really delete default attribute \"%1\"?"
+msgstr "是否确实要删除默认属性\"%1\"？"
+
+#. helptext 1/4
+#: src/ui.ycp:1395
+msgid "<p>Manage the configuration stored in the LDAP directory.</p>"
+msgstr "<p>在此，管理存储在 LDAP 目录中的配置。</p>"
+
+#. helptext 2/4
+#: src/ui.ycp:1398 yast2-ldap-client-2.20.0/src/ui.ycp:1589
+msgid ""
+"<p>Each configuration set is called a \"configuration module.\" If there\n"
+"is no configuration module in the provided location (base configuration),\n"
+"create one with <b>New</b>. Delete the current module\n"
+"using <b>Delete</b>.</p>\n"
+msgstr ""
+"<p>每个配置集都称为一个“配置模块”。如果\n"
+"给定位置中不存在配置模块（基本配置），\n"
+"请使用<b>新建</b>来创建一个。使用<b>删除</b>\n"
+"来删除当前的模块。</p>\n"
+
+#. helptext 3/4
+#: src/ui.ycp:1405 yast2-ldap-client-2.20.0/src/ui.ycp:1596
+msgid ""
+"<p>Edit the values of attributes in the table with <b>Edit</b>.\n"
+"Some values have special meanings, for example, changing the <b>cn</b> value renames the\n"
+"current module.</p>\n"
+msgstr ""
+"<p>使用<b>编辑</b>可编辑表中属性的值。\n"
+"某些值具有特殊含义，例如更改 <b>cn</b> 值可以重命名\n"
+"当前模块。</p>\n"
+
+#. helptext 4/4
+#: src/ui.ycp:1411 yast2-ldap-client-2.20.0/src/ui.ycp:1602
+msgid ""
+"<p>To configure the default template of the current module,\n"
+"click <b>Configure Template</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>要配置当前模块的默认模板，请\n"
+"单击<b>配置模板</b>。\n"
+"</p>\n"
+
+#. combobox label
+#: src/ui.ycp:1479 yast2-ldap-client-2.20.0/src/ui.ycp:1670
+msgid "Configuration &Module"
+msgstr "配置模块(&M)"
+
+#. button label
+#: src/ui.ycp:1498 yast2-ldap-client-2.20.0/src/ui.ycp:1689
+msgid "C&onfigure Template"
+msgstr "配置模板(&O)"
+
+#. dialog label
+#: src/ui.ycp:1532 yast2-ldap-client-2.20.0/src/ui.ycp:1723
+msgid "Module Configuration"
+msgstr "模块配置"
+
+#. yes/no popup, %1 is name
+#: src/ui.ycp:1583 yast2-ldap-client-2.20.0/src/ui.ycp:1774
+#, ycp-format
+msgid "Really delete module \"%1\"?"
+msgstr "是否确实要删除模块\"%1\"？"
+
+#. message
+#: src/ui.ycp:1615
+msgid ""
+"You currently have a configuration module of each \n"
+"type, therefore you cannot add a new one.\n"
+msgstr ""
+"当前您已拥有各种类型的配置模块，\n"
+"因此无法添加新模块。\n"
+
+#. label (init dialog)
+#: src/wizards.ycp:96 yast2-ldap-client-2.20.0/src/wizards.ycp:76
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#. summary item
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:485
+msgid "LDAP Version 2"
+msgstr "LDAP 版本 2"
+
+#. error message, more specific description follows
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:841
+msgid "There was a problem with writing LDAP users."
+msgstr "写入 LDAP 用户时出现问题。"
+
+#. error message, more specific description follows
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:843
+msgid "There was a problem with writing LDAP groups."
+msgstr "写入 LDAP 组时出现问题。"
+
+#. error message, more specific description follows
+#: yast2-ldap-client-2.20.0/src/Ldap.ycp:845
+msgid "There was a problem with writing data to the LDAP server."
+msgstr "将数据写入 LDAP 服务器时出现问题。"
+
+#. help text for Password Policy Dialog
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:562
+msgid "<p>Select the <b>Password Change Policies</b>, <b>Password Aging Policies</b>, and <b>Lockout Policies</b> tabs to choose LDAP password policy groups of attributes to configure.</p>"
+msgstr "<p>请选择<b>密码更改策略</b>、<b>密码过期策略</b>和<b>锁定策略</b>选项卡，以选择要配置属性的 LDAP 密码策略组。</p>"
+
+#. help text for pwdInHistory attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:568
+msgid "<p>Specify the <b>Maximum Number of Passwords Stored in History</b> to set how many previously used passwords should be saved. Saved passwords may not be used.</p>"
+msgstr "<p>请指定<b>历史中储存密码的最大数量</b>，以设置应保存的以前所用密码的数量。不能使用已保存的密码。</p>"
+
+#. help text for pwdMustChange attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:571
+msgid "<p>Check <b>User Must Change Password after Reset</b> to force users to change their passwords after the the password is reset or changed by an administrator.</p>"
+msgstr "<p>请选中<b>用户必须在重置后更改密码</b>，以强制用户在管理员重置或更改密码后更改其密码。</p>"
+
+#. help text for pwdAllowUserChange attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:574
+msgid "<p>Check <b>User Can Change Password</b> to allow users to change their passwords.</p>"
+msgstr "<p>请选中<b>用户可以更改密码</b>，以允许用户更改其密码。</p>"
+
+#. help text for pwdSafeModify attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:577
+msgid "<p>If the existing password must be provided along with the new password, check <b>Old Password Required for Password Change</b>.</p>"
+msgstr "<p>如果提供新密码的同时还必须提供现有密码，则选中<b>更改密码时要求提供旧密码</b>。</p>"
+
+#. help text for pwdCheckQuality attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:580
+msgid "<p>Select whether the password quality should be verified while passwords are modified or added. Select <b>No Checking</b> if passwords should not be checked at all. With <b>Accept Uncheckable Passwords</b>, passwords are accepted even if the check cannot be performed, for example, if the user has provided an encrypted password. With <b>Only Accept Checked Passwords</b> passwords are refused if the quality test fails or the password cannot be checked.</p>"
+msgstr "<p>请选择修改或添加密码时是否应校验密码的强度。如果根本不用检查密码，请选择<b>不检查</b>。如果选择了<b>接受不可检查的密码</b>，则即使无法执行检查（例如，用户提供的密码是加密的），密码也将被接受。如果选择<b>只接受已检查的密码</b>，则当密码强度测试失败或无法检查密码时，将拒绝该密码。<p>"
+
+#. help text for pwdMinLength attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:583
+msgid "Set the minimum number of characters that must be used in a password in <b>Minimum Password Length</b>.</p>"
+msgstr "在<b>最小密码长度</b>中设置密码必须使用的字符的最小数量。</p>"
+
+#. help text for pwdMinAge attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:586
+msgid "<p><b>Minimum Password Age</b> sets how much time must pass between modifications to the password.</p>"
+msgstr "<p><b>最小密码有效期</b>设置修改密码的最小时间间隔。</p>"
+
+#. help text for pwdMaxAge attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:589
+msgid "<p><b>Maximum Password Age</b> sets how long after modification a password expires.</p>"
+msgstr "<p><b>最大密码有效期</b>用于设置密码在修改后多长时间过期。</p>"
+
+#. help text for pwdExpireWarning attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:592
+msgid "<p>In <b>Time before Password Expiration to Issue Warning</b> set how long before a password is due to expire that an expiration warning messages should be given to an authenticating user.</p>"
+msgstr "<p><b>提前多长时间发出密码失效警告</b>设置在密码失效前多长时间向正在验证的用户发出失效警告消息。</p>"
+
+#. help text for pwdGraceAuthNLimit attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:595
+msgid "<p>Set the number of times an expired password can be used to authenticate in <b>Allowed Uses of an Expired Password</b>.</p>"
+msgstr "<p>在<b>失效密码的允许使用次数</b>中设置允许使用失效密码进行验证的次数。</p>"
+
+#. help text for pwdLockout attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:598
+msgid "<p>Check <b>Enable Password Locking</b> to forbid use of a password after a specified number of consecutive failed bind attempts.</p>"
+msgstr "<p>选中<b>启用密码锁定</b>，以禁止在指定次数的连续联结尝试失败后使用密码。</p>"
+
+#. help text for pwdMaxFailure attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:601
+msgid "<p>Set the number of consecutive failed bind  attempts after which the password may not be used to authenticate in <b>Bind Failures to Lock the Password</b>.</p>"
+msgstr "<p>在<b>锁定密码的联结失败次数</b>中设置在多少次连续联结尝试失败后禁止使用密码进行验证。</p>"
+
+#. help text for pwdLockoutDuration attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:604
+msgid "<p>Set how long the password cannot be used in <b>Password Lock Duration</b>.</p>"
+msgstr "<p>在<b>密码锁定持续时间</b>中设置无法使用密码的持续时间。</p>"
+
+#. help text for pwdFailureCountInterval attribute
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:607
+msgid "<p><b>Bind Failures Cache Duration</b> sets how long before password failures are purged from the failure counter even though no successful authentication has occurred.</p>"
+msgstr "<p><b>联结失败缓存持续时间</b>设置从失败计数器清除密码失败次数的时间间隔（即使未成功验证）。</p>"
+
+#. tab label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:642
+msgid "&Password Change Policies"
+msgstr "密码更改策略(&P)"
+
+#. tab label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:644
+msgid "Pa&ssword Aging Policies"
+msgstr "密码过期策略(&S)"
+
+#. tab label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:646
+msgid "&Lockout Policies"
+msgstr "锁定策略(&L)"
+
+#. IntField label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:675
+msgid "Ma&ximum Number of Passwords Stored in History"
+msgstr "历史中储存密码的最大数量(&X)"
+
+#. checkbox label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:680
+msgid "U&ser Must Change Password after Reset"
+msgstr "重置后用户必须更改密码(&S)"
+
+#. checkbox label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:685
+msgid "&User Can Change Password"
+msgstr "用户可以更改密码(&U)"
+
+#. checkbox label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:690
+msgid "&Old Password Required for Password Change"
+msgstr "更改密码时要求提供旧密码(&O)"
+
+#. frame label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:694
+msgid "Password Quality Checking"
+msgstr "密码强度检查"
+
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:698
+msgid "&No Checking"
+msgstr "不检查(&N)"
+
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:700
+msgid "Acc&ept Uncheckable Passwords"
+msgstr "接受不可检查的密码(&E)"
+
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:703
+msgid "&Only Accept Checked Passwords"
+msgstr "只接受已检查的密码(&O)"
+
+#. IntField label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:708
+msgid "&Minimum Password Length"
+msgstr "最小密码长度(&M)"
+
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:728
+msgid "Days"
+msgstr "天"
+
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:729
+msgid "Hours"
+msgstr "小时"
+
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:730
+msgid "Minutes"
+msgstr "分钟"
+
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:731
+msgid "Seconds"
+msgstr "秒"
+
+#. frame label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:750
+msgid "Minimum Password Age"
+msgstr "最小密码有效期"
+
+#. frame label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:753
+msgid "Maximum Password Age"
+msgstr "最大密码有效期"
+
+#. frame label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:757
+msgid "Time before Password Expiration to Issue Warning"
+msgstr "提前多长时间发出密码失效警告"
+
+#. IntField label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:761
+msgid "Allowed Uses of an Expired Password"
+msgstr "失效密码的允许使用次数"
+
+#. check box label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:778
+msgid "Enable Password Locking"
+msgstr "启用密码锁定"
+
+#. intField label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:783
+msgid "Bind Failures to Lock the Password"
+msgstr "锁定密码的联结失败次数"
+
+#. frame label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:786
+msgid "Password Lock Duration"
+msgstr "密码锁定持续时间"
+
+#. frame label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:790
+msgid "Bind Failures Cache Duration"
+msgstr "联结失败缓存持续时间"
+
+#. dialog label
+#: yast2-ldap-client-2.20.0/src/LdapPopup.ycp:810
+msgid "Password Policy Configuration"
+msgstr "密码策略配置"
+
+#. help text 1/9
+#: yast2-ldap-client-2.20.0/src/ui.ycp:176
+msgid ""
+"<p>Here, your machine can be set up as an\n"
+"LDAP client.</p>\n"
+msgstr ""
+"<p>在此处，可将计算机设置为\n"
+"LDAP 客户机。</p>\n"
+
+#. help text 6/9
+#: yast2-ldap-client-2.20.0/src/ui.ycp:203
+msgid ""
+"<p>Some LDAP servers support StartTLS (RFC2830).\n"
+"If your server supports it and it is configured, activate <b>LDAP TLS/SSL</b>\n"
+"to encrypt your communication with the LDAP server. You may download CA certificate file in PEM format from given URL.</p>\n"
+msgstr ""
+"<p>有些 LDAP 服务器支持 StartTLS (RFC2830)。\n"
+"如果服务器支持 StartTLS 并且 StartTLS 已配置，请激活 <b>LDAP TLS/SSL</b>\n"
+"，以对与 LDAP 服务器的通讯进行加密。您或许可以从给出的 URL 下载 PEM 格式的 CA 证书。</p>\n"
+
+#. help text 8/9
+#: yast2-ldap-client-2.20.0/src/ui.ycp:209
+msgid ""
+"<p>For configuration of advanced LDAP settings, click\n"
+"<b>Advanced Configuration</b>.</p>\n"
+msgstr ""
+"<p>要配置高级 LDAP 设置，请单击\n"
+"<b>高级配置</b>。</p>\n"
+
+#. help text 9/9 (additional)
+#: yast2-ldap-client-2.20.0/src/ui.ycp:213
+msgid ""
+"<p><b>Automounter</b> is a daemon that automatically mounts directories,\n"
+"such as users' home directories.\n"
+"It is assumed that its configuration files (auto.*) already exist\n"
+"locally or over LDAP.\n"
+"If it is not installed and you want to use it, it is installed\n"
+"automatically.</p>\n"
+msgstr ""
+"<p><b>自动挂载</b> 是一种自动挂载目录的守护精灵，\n"
+"例如用户的主目录。\n"
+"假定其配置文件 (auto.*) 已经存在于\n"
+"本地或通过 LDAP 存在。\n"
+"如果尚未安装该程序，而您又需要使用它，那么将\n"
+"自动安装。</p>\n"
+
+#. radio button label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:264
+msgid "Do N&ot Use LDAP"
+msgstr "不使用 LDAP(&O)"
+
+#. radio button label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:270
+msgid "Use LDAP but Disable &Logins"
+msgstr "使用 LDAP 但禁用登录(&L)"
+
+#: yast2-ldap-client-2.20.0/src/ui.ycp:308
+msgid "Secure Connection"
+msgstr "安全连接"
+
+#. check box label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:311
+msgid "LDAP &TLS/SSL"
+msgstr "LDAP TLS/SSL(&T)"
+
+#. push button label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:313
+msgid "Download CA Certificate"
+msgstr "下载 CA 证书"
+
+#. popup message, %1 is file name, %2 directory
+#: yast2-ldap-client-2.20.0/src/ui.ycp:447
+#, ycp-format
+msgid ""
+"The downloaded certificate file\n"
+"\n"
+"'%1'\n"
+"\n"
+"was copied to '%2' directory"
+msgstr ""
+"下载的证书文件\n"
+"\n"
+"'%1'\n"
+"\n"
+"已被复制到 '%2' 目录"
+
+#. help text 1/3
+#: yast2-ldap-client-2.20.0/src/ui.ycp:626
+msgid ""
+"<p>Specify the search bases to use for specific maps (users, passwords, and groups) if they are different from the base DN. These values are\n"
+"set to the nss_base_passwd, nss_base_shadow, and nss_base_group attributes\n"
+"in /etc/ldap.conf file.</p>\n"
+msgstr ""
+"<p>如果特定映射(用户、密码和组)与基本判别名不同，请指定用于这些映射的搜索基准。在 /etc/ldap.conf 文件中，这些值\n"
+"设置为 nss_base_passwd、nss_base_shadow 和 nss_base_group 属性。\n"
+"</p>\n"
+
+#. help text 2/3
+#: yast2-ldap-client-2.20.0/src/ui.ycp:632
+msgid "<p><b>Password Change Protocol</b> refers to the pam_password attribute of the <tt>/etc/ldap.conf</tt> file. See <tt>man pam_ldap</tt> for the meaning of its values.</p>"
+msgstr "<p><b>密码更改协议</b>指的是 <tt>/etc/ldap.conf</tt> 文件的 pam_password 属性。请参阅<tt>《pam_ldap 手册》</tt>以了解该属性的值的含义。</p>"
+
+#: yast2-ldap-client-2.20.0/src/ui.ycp:640
+msgid "<p>If secure connection requires certificate checking, you may specify where is your certificate file located. It is possible to enter either directory with certificates, or the explicit path to one certificate file.</p>"
+msgstr "<p>如果安全连接要求证书检查，您可以指定您证书文件的位置。可以输入证书所在的目录或一个证书文件的绝对路径。</p>"
+
+#. help text 7/9
+#: yast2-ldap-client-2.20.0/src/ui.ycp:643
+msgid ""
+"<p>Normally, the LDAP version 3 protocol is used. If you have\n"
+"an LDAP server using protocol 2 (for example, OpenLDAP v1), activate\n"
+"<b>LDAP Version 2</b>.</p>\n"
+msgstr ""
+"<p>通常情况下使用 LDAP 版本 3 协议。如果具有\n"
+"使用协议 2（例如，OpenLDAP  v1）的 LDAP 服务器，则激活\n"
+"<b>LDAP 版本 2</b>。</p>\n"
+
+#. help text 1/4
+#: yast2-ldap-client-2.20.0/src/ui.ycp:654
+msgid ""
+"<p>First, set <b>Configuration Base DN</b>.\n"
+"It is the base for storing your configuration data, which is saved on the LDAP\n"
+"server.</p>\n"
+msgstr ""
+"<p>首先，设置<b>配置基础判别名</b>。\n"
+"它是存储配置数据的基础，这些数据保存在 LDAP \n"
+"服务器上。</p>\n"
+
+#. help text 2/4
+#: yast2-ldap-client-2.20.0/src/ui.ycp:660
+msgid ""
+"<p>To access the data stored on the server, enter the\n"
+"<b>Administrator DN</b>.\n"
+"You can enter the full DN (for example, cn=Administrator,dc=mydomain,dc=com) or just\n"
+"the relative DN (for example, cn=Administrator). The LDAP base DN is appended automatically if the appropriate option is checked.</p>\n"
+msgstr ""
+"<p>要访问存储在服务器上的数据，请输入\n"
+"<b>管理员判别名</b>。\n"
+"可输入完整判别名（例如 cn=Administrator,dc=mydomain,dc=com），也可以只输入\n"
+"相对判别名（例如 cn=Administrator）。如果选中了适当的选项，则会自动追加 LDAP 基础判别名。</p>\n"
+
+#. help text caption 3
+#: yast2-ldap-client-2.20.0/src/ui.ycp:678
+msgid "<p><b>Home Directories</b></p>"
+msgstr "<p><b>主目录</b></p>"
+
+#. help text 1/1
+#: yast2-ldap-client-2.20.0/src/ui.ycp:681
+msgid ""
+"<p>If home directories of users should be stored on this machine,\n"
+"check the appropriate option. Changing this value does not cause any direct\n"
+"action.  It is only information for the YaST users module, which can manage\n"
+"user home directories.</p>\n"
+msgstr ""
+"<p>如果用户的主目录应存储在该机器上，\n"
+"请选择相应的选项。更改该值不会直接引起任何\n"
+"操作。它只是有关 YaST 用户模块的信息，该模块可以管理\n"
+"用户主目录。</p>\n"
+
+#. password policy help text caption
+#: yast2-ldap-client-2.20.0/src/ui.ycp:688
+msgid "<p><b>Password Policy</b></p>"
+msgstr "<p><b>密码策略</b></p>"
+
+#. password policy help
+#: yast2-ldap-client-2.20.0/src/ui.ycp:691
+msgid ""
+"<p>Configure the selected password policy with <b>Edit</b>. Use <b>Add</b> to add a new password policy. The configuration is only possible,\n"
+"  if the password policies are already enabled on the LDAP server.</p>"
+msgstr "<p>使用<b>编辑</b>配置选中的密码策略。使用<b>添加</b>可添加新的密码策略。仅仅在 LDAP 服务器上启用密码策略的情况下，配置才会生效。</p>"
+
+#. frame label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:832
+msgid "Naming Contexts"
+msgstr "命名上下文"
+
+#. textentry label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:838
+msgid "&User Map"
+msgstr "用户映射(&U)"
+
+#. button label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:842
+msgid "&Browse"
+msgstr "浏览(&B)"
+
+#. textentry label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:848
+msgid "&Password Map"
+msgstr "密码映射(&P)"
+
+#. button label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:852
+msgid "Brow&se"
+msgstr "浏览(&s)"
+
+#. textentry label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:858
+msgid "&Group Map"
+msgstr "组映射(&G)"
+
+#: yast2-ldap-client-2.20.0/src/ui.ycp:881
+msgid "Certificate Directory"
+msgstr "证书目录"
+
+#: yast2-ldap-client-2.20.0/src/ui.ycp:890
+msgid "CA Certificate File"
+msgstr "CA 证书文件"
+
+#: yast2-ldap-client-2.20.0/src/ui.ycp:901
+msgid "LDAP &Version 2"
+msgstr "LDAP 版本 2(&V)"
+
+#. checkbox label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:945
+msgid "&Home Directories on This Machine"
+msgstr "本机主目录(&H)"
+
+#. table header
+#: yast2-ldap-client-2.20.0/src/ui.ycp:955
+msgid "Password Policy"
+msgstr "密码策略"
+
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1099
+msgid "Name of Password Policy Object"
+msgstr "密码策略对象的名称"
+
+#. text label,suffix will follow in next label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1102
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1133
+msgid "Suffix:"
+msgstr "后缀："
+
+#. pushbutton label
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1105
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1136
+msgid "Change Suffix"
+msgstr "更改后缀"
+
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1147
+#, ycp-format
+msgid ""
+"The Policy '%1' already exists.\n"
+"Please select another one."
+msgstr ""
+"策略“%1”已存在。\n"
+"请选择其他策略。"
+
+#. help text 1/3
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1359
+msgid ""
+"<p>Here, configure the template used for\n"
+"creating new objects (like users or groups).</p>\n"
+msgstr ""
+"<p>在此，配置用于\n"
+"创建新对象(用户或组)的模板。</p>\n"
+
+#. help text 3/3
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1369
+msgid ""
+"<p>The second table contains a list of <b>default values</b>, used\n"
+"for new objects. Modify the list by adding new values and editing or\n"
+"removing current ones.</p>\n"
+msgstr ""
+"<p>第二个表包含一个用于\n"
+"新对象的<b>默认值</b>的列表。可以通过添加新值、编辑或\n"
+"删除当前值修改该列表。</p>\n"
+
+#. helptext 1/4
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1586
+msgid "<p>Here, manage the configuration stored in LDAP directory.</p>"
+msgstr "<p>在此，管理存储在 LDAP 目录中的配置。</p>"
+
+#. message
+#: yast2-ldap-client-2.20.0/src/ui.ycp:1806
+msgid ""
+"You currently have configuration modules\n"
+"of each type, so you cannot add a new one."
+msgstr ""
+"当前您已拥有各种类型的配置模块，\n"
+"因此无法添加新模块。"
+
+#, fuzzy
+#~| msgid "Basic Settings"
+#~ msgid "Basic SSSD Settings"
+#~ msgstr "基本设置"
+
+#~ msgid "Basic Kerberos Settings"
+#~ msgstr "基本 Kerberos 设置"
+
+#~ msgid "Br&owse"
+#~ msgstr "浏览(&O)"
+
+#~ msgid "Pa&ssword Change Protocol"
+#~ msgstr "密码更改协议(&S)"
+
+#~ msgid "<p>Edit attributes of the selected LDAP object in the <b>Entry Data</b> tab.</p>"
+#~ msgstr "<p>在<b>项数据</b>选项卡中编辑所选 LDAP 对象的属性。</p>"
+
+#~ msgid "LDAP &Tree"
+#~ msgstr "LDAP 树(&T)"
+
+#~ msgid "Entry &Data"
+#~ msgstr "项数据(&D)"

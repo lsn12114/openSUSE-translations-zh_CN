@@ -1,0 +1,25 @@
+@HEADER-COMMENT@
+
+@HEADER@
+
+BuildRequires:		pkgconfig yast2-devtools
+BuildArch:	noarch
+
+Summary:	YaST2 translations for zh_CN configuration
+
+%description
+-
+
+@PREP@
+
+@BUILD-PO@
+
+@INSTALL-PO@
+
+@CLEAN@
+
+%files
+%defattr(-,root,root)
+%doc @docdir@
+%dir @localedir@
+%lang(@ISO639@) @localedir@/@LL@

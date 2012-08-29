@@ -1,0 +1,5661 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2010-01-20 19:33:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. summary(gio-sharp)
+#, fuzzy
+msgid ".NET/C# Bindings for GIO"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(gkeyfile-sharp)
+#, fuzzy
+msgid ".NET/C# Bindings for GKeyFile"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(gudev-sharp)
+#, fuzzy
+msgid ".NET/C# Bindings for GUDev"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(gtk-sharp2)
+msgid ".Net Language Bindings for GTK+"
+msgstr ""
+
+#. summary(libdc1394:libdc1394-22)
+msgid "1394-Based Digital Camera Control Library"
+msgstr ""
+
+#. summary(mono-core)
+#, fuzzy
+msgid "A .NET Runtime Environment"
+msgstr "x86 运行时环境"
+
+#. summary(notify-sharp)
+msgid "A C# client implementation for Desktop Notifications"
+msgstr ""
+
+#. summary(phalanx)
+msgid "A Chess Program"
+msgstr ""
+
+#. summary(spandsp:libspandsp2)
+msgid "A DSP library for Telephony and SoftFAX"
+msgstr ""
+
+#. summary(libdvdnav:libdvdnav4)
+msgid "A DVD Navigation Library"
+msgstr ""
+
+#. summary(gucharmap)
+msgid "A Featureful Unicode Character Map"
+msgstr ""
+
+#. summary(gucharmap:libgucharmap_2_90-7)
+msgid "A Featureful Unicode Character Map -- Library"
+msgstr ""
+
+#. summary(dante:libsocks0)
+msgid "A Free Socks v4 and v5 Client Implementation"
+msgstr ""
+
+#. summary(gcalctool)
+#, fuzzy
+msgid "A GNOME Calculator Application"
+msgstr "使用默认的应用程序打开"
+
+#. description(gcalctool)
+msgid "A GNOME calculator package based on calctool and MP library."
+msgstr ""
+
+#. summary(tracker-extras:gnome-panel-applet-tracker)
+msgid "A GNOME panel applet for Tracker"
+msgstr ""
+
+#. summary(libgexiv2:libgexiv2-1)
+msgid "A GObject-based Exiv2 wrapper"
+msgstr ""
+
+#. summary(gpgme)
+msgid "A Library Designed to Give Applications Easy Access to GnuPG"
+msgstr ""
+
+#. summary(libieee1284)
+msgid "A Library for Interfacing IEEE 1284-Compatible Devices"
+msgstr ""
+
+#. summary(mono-core:libmono-2_0-1)
+#, fuzzy
+msgid "A Library for embedding Mono in your Application"
+msgstr "起动应用程序"
+
+#. summary(python-httplib2)
+msgid "A Python HTTP library"
+msgstr ""
+
+#. summary(sofia-sip:libsofia-sip-ua0)
+msgid "A RFC3261 compliant SIP User-Agent library"
+msgstr ""
+
+#. summary(sofia-sip:libsofia-sip-ua-glib3)
+msgid "A RFC3261 compliant SIP User-Agent library  (glib2 bindings)"
+msgstr ""
+
+#. summary(samba)
+msgid "A SMB/CIFS File, Print, and Authentication Server"
+msgstr ""
+
+#. summary(gnome-system-monitor)
+msgid "A Simple Process Monitor"
+msgstr ""
+
+#. description(vino)
+#, fuzzy
+msgid "A VNC Server for GNOME"
+msgstr "VNC 服务器"
+
+#. summary(metacity)
+#, fuzzy
+msgid "A Window Manager for the GNOME Desktop"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. summary(gbrainy)
+msgid "A brain teaser game and trainer"
+msgstr ""
+
+#. description(gnome-video-effects)
+msgid ""
+"A collection of GStreamer effects to be used in different GNOME Modules."
+msgstr ""
+
+#. description(xdg-user-dirs-gtk)
+msgid ""
+"A companion to xdg-user-dirs that integrates it into the Gnome desktop and "
+"Gtk+ applications. Presents a dialog when a user changes locales to help "
+"move they standard user directories to the correct names."
+msgstr ""
+
+#. description(python-httplib2)
+msgid ""
+"A comprehensive python HTTP client library, which supports many features "
+"left out of other HTTP libraries."
+msgstr ""
+
+#. description(telepathy-salut)
+msgid ""
+"A connection manager for Telepathy that implements peer to peer XMPP using "
+"local-link as done by and compatible with Apple Bonjour(tm) chat."
+msgstr ""
+
+#. description(telepathy-haze)
+msgid ""
+"A connection manager for Telepathy that provides support for AIM, ICQ, MSN, "
+"Yahoo! and Groupwise using Pidgin's libpurple."
+msgstr ""
+
+#. summary(mono-zeroconf)
+msgid "A cross platform Zero Configuration Networking library for Mono"
+msgstr ""
+
+#. summary(gnome-font-viewer)
+#, fuzzy
+msgid "A font viewer utility for GNOME"
+msgstr "找不到 Xscreensaver。"
+
+#. summary(gc:libgc1)
+msgid "A garbage collector for C and C++"
+msgstr ""
+
+#. summary(telepathy-haze)
+msgid "A libpurple connection manager for Telepathy"
+msgstr ""
+
+#. description(libquicktime:libquicktime0)
+msgid ""
+"A library for reading and writing Quicktime movie files, based on and forked "
+"from quicktime4linux."
+msgstr ""
+
+#. summary(libunique1:libunique-1_0-0)
+msgid "A library for writing single instance application"
+msgstr ""
+
+#. description(libgtop:libgtop-2_0-7)
+msgid ""
+"A library that fetches information about the running system, such as CPU and "
+"memory usage and active processes.\n"
+"\n"
+"On Linux systems, this information is taken directly from the /proc file "
+"system. On other systems, a server is used to read information from /dev/"
+"kmem."
+msgstr ""
+
+#. summary(liblrdf:liblrdf2)
+msgid "A library to Manipulate RDF Files for LADSPA Plug-Ins"
+msgstr ""
+
+#. summary(banshee)
+msgid "A media playback and management application"
+msgstr ""
+
+#. description(python-smbc)
+msgid "A module for using the Samba client API in Python programs."
+msgstr ""
+
+#. description(yast2-control-center-gnome)
+msgid ""
+"A nicely GNOME integrated YaST control center, with several new ease of use "
+"features."
+msgstr ""
+
+#. summary(libsocialweb)
+#, fuzzy
+msgid "A personal social data server"
+msgstr "个人财务管理器"
+
+#. summary(libsocialweb-branding-openSUSE)
+#, fuzzy
+msgid "A personal social data server -- API keys from openSUSE"
+msgstr "个人财务管理器"
+
+#. summary(libsocialweb:libsocialweb-client2)
+msgid "A personal social data server -- Client Library"
+msgstr ""
+
+#. summary(libsocialweb:libsocialweb0)
+msgid "A personal social data server -- Library for Services"
+msgstr ""
+
+#. summary(system-config-printer)
+msgid "A printer administration tool"
+msgstr ""
+
+#. summary(system-config-printer:system-config-printer-common)
+msgid "A printer administration tool -- Common Files"
+msgstr ""
+
+#. summary(system-config-printer:system-config-printer-dbus-service)
+msgid "A printer administration tool -- D-Bus Service to Configure Printing"
+msgstr ""
+
+#. summary(system-config-printer:system-config-printer-applet)
+msgid "A printer administration tool -- Notification Icon for Printing"
+msgstr ""
+
+#. description(libsexy)
+msgid ""
+"A set of extensions on top of GTK+ widgets, to provide extra functionality."
+msgstr ""
+
+#. summary(totem-pl-parser:libtotem-plparser17)
+msgid "A simple GObject-based library to parse playlist formats"
+msgstr ""
+
+#. summary(totem-pl-parser:typelib-1_0-TotemPlParser-1_0)
+msgid ""
+"A simple GObject-based library to parse playlist formats -- Introspection "
+"bindings"
+msgstr ""
+
+#. summary(totem-pl-parser:libtotem-plparser-mini17)
+msgid ""
+"A simple GObject-based library to parse playlist formats -- Mini version"
+msgstr ""
+
+#. description(phalanx)
+msgid "A smart chess playing program which uses opening book."
+msgstr ""
+
+#. summary(gnome-tweak-tool)
+msgid "A tool to customize advanced GNOME 3 options"
+msgstr ""
+
+#. description(gnome-font-viewer)
+msgid "A utility to let you see the installed fonts at a glance."
+msgstr ""
+
+#. summary(brltty:brltty-driver-at-spi2)
+msgid "AT-SPI 2 driver for BRLTTY"
+msgstr ""
+
+#. description(at-spi2-core:libatspi0)
+msgid ""
+"AT-SPI is a general interface for applications to make use of the "
+"accessibility toolkit. This version is based on dbus."
+msgstr ""
+
+#. description(at-spi2-atk:at-spi2-atk-common)
+msgid ""
+"AT-SPI is a general interface for applications to make use of the "
+"accessibility toolkit. This version is based on dbus.\n"
+"\n"
+"This package contains files common to the GTK+ 2 and GTK+ 3 modules for at-"
+"spi."
+msgstr ""
+
+#. description(at-spi2-core)
+msgid ""
+"AT-SPI is a general interface for applications to make use of the "
+"accessibility toolkit. This version is based on dbus.\n"
+"\n"
+"This package contains the AT-SPI registry daemon. It provides a mechanism "
+"for all assistive technologies to discover and interact with applications "
+"running on the desktop."
+msgstr ""
+
+#. description(at-spi2-atk:at-spi2-atk-gtk2)
+msgid ""
+"AT-SPI is a general interface for applications to make use of the "
+"accessibility toolkit. This version is based on dbus.\n"
+"\n"
+"This package contains the GTK+ 2 module for at-spi, based on ATK."
+msgstr ""
+
+#. description(at-spi2-atk:at-spi2-atk-gtk3)
+msgid ""
+"AT-SPI is a general interface for applications to make use of the "
+"accessibility toolkit. This version is based on dbus.\n"
+"\n"
+"This package contains the GTK+ 3 module for at-spi, based on ATK."
+msgstr ""
+
+#. description(python-atspi)
+msgid ""
+"AT-SPI is a general interface for applications to make use of the "
+"accessibility toolkit. This version is based on dbus.\n"
+"\n"
+"This package contains the python bindings for AT-SPI."
+msgstr ""
+
+#. description(at-spi2-core:typelib-1_0-Atspi-2_0)
+msgid ""
+"AT-SPI is a general interface for applications to make use of the "
+"accessibility toolkit. This version is based on dbus.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the libatspi "
+"library."
+msgstr ""
+
+#. summary(gnome-themes-standard:gnome-themes-accessibility)
+#, fuzzy
+msgid "Accessibility GNOME Themes"
+msgstr "GNOME 系统"
+
+#. summary(xorg-x11-server:xorg-x11-server-extra)
+msgid "Additional Xservers (Xdmx, Xephyr, Xnest)"
+msgstr ""
+
+#. summary(t1lib)
+msgid "Adobe Type 1 Font Rasterizing Library"
+msgstr ""
+
+#. summary(gnome-themes-standard:metatheme-adwaita-common)
+#, fuzzy
+msgid "Adwaita GNOME Theme -- Common Files"
+msgstr "GNOME 系统"
+
+#. summary(gnome-themes-standard:gtk2-metatheme-adwaita)
+msgid "Adwaita GNOME Theme -- GTK+ 2 Support"
+msgstr ""
+
+#. summary(gnome-themes-standard:gtk3-metatheme-adwaita)
+msgid "Adwaita GNOME Theme -- GTK+ 3 Support"
+msgstr ""
+
+#. summary(gnome-themes-standard:gtk3-theming-engine-adwaita)
+msgid "Adwaita GTK+ Theming Engine"
+msgstr ""
+
+#. description(gnome-themes-standard:gtk3-theming-engine-adwaita)
+msgid "Adwaita is the default GNOME theme in GNOME 3."
+msgstr ""
+
+#. description(aisleriot)
+msgid "Aisleriot is a compilation of 80 different solitaire card games."
+msgstr ""
+
+#. description(alacarte)
+msgid ""
+"Alacarte is a simple freedesktop.org compliant menu editor for GNOME that "
+"lets you change your menus, simply and quickly. Just click and type to edit, "
+"add, and delete any menu entry."
+msgstr ""
+
+#. summary(atk:typelib-1_0-Atk-1_0)
+msgid "An Accessibility ToolKit -- Introspection bindings"
+msgstr ""
+
+#. summary(at-spi2-core:libatspi0)
+msgid "An Accessibility ToolKit -- Library"
+msgstr ""
+
+#. summary(file-roller)
+msgid "An Archive Manager for GNOME"
+msgstr ""
+
+#. summary(file-roller:nautilus-file-roller)
+msgid "An Archive Manager for GNOME - Nautilus extension"
+msgstr ""
+
+#. summary(xchat)
+msgid "An IRC Client"
+msgstr ""
+
+#. summary(xchat:xchat-perl)
+msgid "An IRC Client - Support for perl plugins"
+msgstr ""
+
+#. summary(xchat:xchat-python)
+msgid "An IRC Client - Support for python plugins"
+msgstr ""
+
+#. summary(xchat:xchat-tcl)
+msgid "An IRC Client - Support for tcl plugins"
+msgstr ""
+
+#. summary(gdk-pixbuf:typelib-1_0-GdkPixbuf-2_0)
+#, fuzzy
+msgid "An image loading library -- Introspection bindings"
+msgstr "KDE 开发"
+
+#. summary(cogl:libcogl9)
+msgid "An object oriented GL/GLES Abstraction/Utility Layer"
+msgstr ""
+
+#. summary(cogl:typelib-1_0-Cogl-1_0)
+#, fuzzy
+msgid ""
+"An object oriented GL/GLES Abstraction/Utility Layer -- Introspection "
+"bindings"
+msgstr "开发"
+
+#. summary(cogl:libcogl-pango0)
+msgid ""
+"An object oriented GL/GLES Abstraction/Utility Layer -- Pango Integration"
+msgstr ""
+
+#. summary(cogl:typelib-1_0-CoglPango-1_0)
+#, fuzzy
+msgid ""
+"An object oriented GL/GLES Abstraction/Utility Layer -- Pango Integration, "
+"Introspection bindings"
+msgstr "开发"
+
+#. summary(banshee:banshee-dmp-apple-devices)
+msgid "Apple(R) iPod(R) Digital Media Player support for Banshee"
+msgstr ""
+
+#. summary(gnome-packagekit)
+msgid "Applications for the PackageKit API"
+msgstr ""
+
+#. summary(at-spi2-core)
+msgid ""
+"Assistive Technology Service Provider Interface - D-Bus based implementation"
+msgstr ""
+
+#. summary(at-spi2-atk:at-spi2-atk-gtk2)
+msgid "Assistive Technology Service Provider Interface - GTK+ 2 Module"
+msgstr ""
+
+#. summary(at-spi2-atk:at-spi2-atk-gtk3)
+msgid "Assistive Technology Service Provider Interface - GTK+ 3 Module"
+msgstr ""
+
+#. summary(python-atspi)
+msgid "Assistive Technology Service Provider Interface - Python bindings"
+msgstr ""
+
+#. summary(at-spi2-atk:at-spi2-atk-common)
+msgid ""
+"Assistive Technology Service Provider Interface -- Common Files for GTK+ "
+"Modules"
+msgstr ""
+
+#. summary(soundtouch:libSoundTouch0)
+msgid "Audio Processing Library"
+msgstr ""
+
+#. description(lapack:libblas3)
+msgid ""
+"BLAS (Basic Linear Algebra Subprograms) is a standard library for numerical "
+"algebra.  BLAS provides a number of basic algorithms for linear algebra."
+msgstr ""
+
+#. summary(lapack:libblas3)
+msgid "BLAS Shared Library"
+msgstr ""
+
+#. description(brltty)
+msgid ""
+"BRLTTY is a background process (daemon) which provides access to the Linux/"
+"Unix console (when in text mode) for a blind person using a refreshable "
+"braille display. It drives the braille display and provides complete screen "
+"review functionality."
+msgstr ""
+
+#. description(brltty:brltty-driver-at-spi2)
+msgid ""
+"BRLTTY is a background process (daemon) which provides access to the Linux/"
+"Unix console (when in text mode) for a blind person using a refreshable "
+"braille display. It drives the braille display and provides complete screen "
+"review functionality.\n"
+"\n"
+"This package contains the AT-SPI 2 screen driver."
+msgstr ""
+
+#. description(brltty:brltty-driver-brlapi)
+msgid ""
+"BRLTTY is a background process (daemon) which provides access to the Linux/"
+"Unix console (when in text mode) for a blind person using a refreshable "
+"braille display. It drives the braille display and provides complete screen "
+"review functionality.\n"
+"\n"
+"This package contains the BrlAPI braille driver."
+msgstr ""
+
+#. description(brltty:brltty-driver-speech-dispatcher)
+msgid ""
+"BRLTTY is a background process (daemon) which provides access to the Linux/"
+"Unix console (when in text mode) for a blind person using a refreshable "
+"braille display. It drives the braille display and provides complete screen "
+"review functionality.\n"
+"\n"
+"This package contains the Speech Dispatcher speech driver."
+msgstr ""
+
+#. description(brltty:brltty-driver-xwindow)
+msgid ""
+"BRLTTY is a background process (daemon) which provides access to the Linux/"
+"Unix console (when in text mode) for a blind person using a refreshable "
+"braille display. It drives the braille display and provides complete screen "
+"review functionality.\n"
+"\n"
+"This package contains the XWindow braille driver."
+msgstr ""
+
+#. description(brltty:brltty-driver-espeak)
+msgid ""
+"BRLTTY is a background process (daemon) which provides access to the Linux/"
+"Unix console (when in text mode) for a blind person using a refreshable "
+"braille display. It drives the braille display and provides complete screen "
+"review functionality.\n"
+"\n"
+"This package contains the eSpeak speech driver."
+msgstr ""
+
+#. description(python-beautifulsoup)
+msgid ""
+"Beautiful Soup is a Python HTML/XML parser designed for quick turnaround "
+"projects like screen-scraping. Three features make it powerful:\n"
+"\n"
+"* Beautiful Soup won't choke if you give it bad markup. It yields a parse "
+"tree   that makes approximately as much sense as your original document. "
+"This is   usually good enough to collect the data you need and run away\n"
+"\n"
+"* Beautiful Soup provides a few simple methods and Pythonic idioms for   "
+"navigating, searching, and modifying a parse tree: a toolkit for dissecting "
+"a   document and extracting what you need. You don't have to create a "
+"custom   parser for each application\n"
+"\n"
+"* Beautiful Soup automatically converts incoming documents to Unicode and   "
+"outgoing documents to UTF-8. You don't have to think about encodings, "
+"unless   the document doesn't specify an encoding and Beautiful Soup can't "
+"autodetect   one. Then you just have to specify the original encoding\n"
+"\n"
+"Beautiful Soup parses anything you give it, and does the tree traversal "
+"stuff for you. You can tell it \"Find all the links\", or \"Find all the "
+"links of class externalLink\", or \"Find all the links whose urls match "
+"\"foo.com\", or \"Find the table heading that's got bold text, then give me "
+"that text.\"\n"
+"\n"
+"Valuable data that was once locked up in poorly-designed websites is now "
+"within your reach. Projects that would have taken hours take only minutes "
+"with Beautiful Soup."
+msgstr ""
+
+#. description(libbonobo)
+msgid ""
+"Bonobo is a component system for the GNOME platform. Libbonobo is the new "
+"version for the GNOME 2.x Desktop platform."
+msgstr ""
+
+#. summary(liblouis:liblouis2)
+msgid "Braille Translator and Back-Translator"
+msgstr ""
+
+#. summary(python-louis)
+msgid "Braille Translator and Back-Translator - Python Bindings"
+msgstr ""
+
+#. summary(brltty)
+msgid "Braille display driver for Linux/Unix"
+msgstr ""
+
+#. summary(brasero:brasero-nautilus)
+msgid "Brasero CD/DVD burning extension for Nautilus"
+msgstr ""
+
+#. description(brasero)
+msgid ""
+"Brasero is an application to burn CD/DVDs for the GNOME Desktop. It is "
+"designed to be as simple as possible and has some unique features to enable "
+"users to create their discs easily and quickly.\n"
+"\n"
+"It supports creating audio discs, data discs, burning ISO and other image "
+"files, and duplicating discs."
+msgstr ""
+
+#. summary(brltty:brltty-driver-brlapi)
+msgid "BrlAPI driver for BRLTTY"
+msgstr ""
+
+#. description(brltty:libbrlapi0_5)
+msgid ""
+"BrlAPI is a service provided by the brltty daemon.\n"
+"\n"
+"Its purpose is to allow programmers to write applications that take "
+"advantage of a braille terminal in order to deliver a blind user suitable "
+"information for his/her specific needs.\n"
+"\n"
+"While an application communicates with the braille terminal, everything "
+"brltty sends to the braille terminal in the application's console is "
+"ignored, whereas each piece of data coming from the braille terminal is sent "
+"to the application, rather than to brltty."
+msgstr ""
+
+#. summary(totem:totem-browser-plugin)
+msgid "Browser Plugin Based on Totem Movie Player"
+msgstr ""
+
+#. description(bug-buddy)
+msgid ""
+"Bug Buddy makes bug reporting for GNOME end-users as easy as possible. It "
+"can generate crash backtraces and include that information into the bug "
+"report."
+msgstr ""
+
+#. description(gio-sharp)
+#, fuzzy
+msgid "C#/CLI bindings for GIO"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(gkeyfile-sharp)
+msgid "C#/CLI bindings for GKeyFile"
+msgstr ""
+
+#. description(gudev-sharp)
+msgid "C#/CLI bindings for GUDev"
+msgstr ""
+
+#. summary(atkmm:libatkmm-1_6-1)
+msgid "C++ Binding for the ATK library"
+msgstr ""
+
+#. summary(gtkmm3:libgtkmm-3_0-1)
+msgid "C++ Interface for GTK3 (a GUI library for X)"
+msgstr ""
+
+#. summary(glibmm2:libgiomm-2_4-1)
+#, fuzzy
+msgid "C++ Interface for Gio"
+msgstr "启动时选择的接口："
+
+#. summary(glibmm2:libglibmm-2_4-1)
+msgid "C++ Interface for Glib"
+msgstr ""
+
+#. summary(cairomm:libcairomm-1_0-1)
+msgid "C++ interface for Cairo"
+msgstr ""
+
+#. summary(pangomm:libpangomm-1_4-1)
+msgid "C++ interface for pango"
+msgstr ""
+
+#. summary(brasero)
+msgid "CD/DVD burning application for GNOME"
+msgstr ""
+
+#. summary(libcue:libcue1)
+msgid "CUE sheet parsing library"
+msgstr ""
+
+#. description(caribou)
+msgid ""
+"Caribou is a text entry and UI navigation application being developed as an "
+"alternative to the Gnome On-screen Keyboard. The overarching goal for "
+"Caribou is to create a usable solution for people whose primary way of "
+"accessing a computer is a switch device."
+msgstr ""
+
+#. description(caribou:caribou-gtk-module-common)
+msgid ""
+"Caribou is a text entry and UI navigation application being developed as an "
+"alternative to the Gnome On-screen Keyboard. The overarching goal for "
+"Caribou is to create a usable solution for people whose primary way of "
+"accessing a computer is a switch device.\n"
+"\n"
+"This package contains files common to both the GTK+ 2 and GTK+ 3 modules."
+msgstr ""
+
+#. description(caribou:typelib-1_0-Caribou-1_0)
+msgid ""
+"Caribou is a text entry and UI navigation application being developed as an "
+"alternative to the Gnome On-screen Keyboard. The overarching goal for "
+"Caribou is to create a usable solution for people whose primary way of "
+"accessing a computer is a switch device.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the caribou "
+"library."
+msgstr ""
+
+#. summary(telepathy-logger)
+msgid "Centralized Logging for the Telepathy Framework"
+msgstr ""
+
+#. summary(telepathy-logger:typelib-1_0-TelepathyLogger-0_2)
+msgid ""
+"Centralized Logging for the Telepathy Framework - Introspection bindings"
+msgstr ""
+
+#. summary(telepathy-logger:libtelepathy-logger2)
+msgid "Centralized Logging for the Telepathy Framework - Shared Library"
+msgstr ""
+
+#. description(cheese)
+msgid ""
+"Cheese is an application to take photos and videos with your webcam, with "
+"fun graphical effects."
+msgstr ""
+
+#. description(cheese:libcheese-gtk21)
+msgid ""
+"Cheese is an application to take photos and videos with your webcam, with "
+"fun graphical effects.\n"
+"\n"
+"This package contains a library providing widgets to allow third party "
+"applications to include parts of cheese functionality."
+msgstr ""
+
+#. description(cheese:libcheese-common)
+msgid ""
+"Cheese is an application to take photos and videos with your webcam, with "
+"fun graphical effects.\n"
+"\n"
+"This package contains common data that is used by the cheese libraries, like "
+"schemas."
+msgstr ""
+
+#. summary(gnome-games:glchess)
+msgid "Chess Game for GNOME"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-engine-clearlooks)
+msgid "Clearlooks GTK+ 2 Theme Engine"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-theme-clearlooks)
+msgid "Clearlooks Theme for GTK+ 2"
+msgstr ""
+
+#. summary(gdm:libgdmgreeter1)
+msgid "Client Library for Communicating with GDM Greeter Server"
+msgstr ""
+
+#. summary(gdm:typelib-1_0-GdmGreeter-1_0)
+msgid ""
+"Client Library for Communicating with GDM Greeter Server -- Introspection "
+"bindings"
+msgstr ""
+
+#. description(clutter:libclutter-1_0-0)
+msgid ""
+"Clutter is an open source software library for creating fast, visually rich "
+"and animated graphical user interfaces."
+msgstr ""
+
+#. description(clutter-gst:libclutter-gst-1_0-0)
+msgid ""
+"Clutter is an open source software library for creating fast, visually rich "
+"and animated graphical user interfaces.\n"
+"\n"
+"Clutter GStreamer enables the use of GStreamer with Clutter."
+msgstr ""
+
+#. description(clutter-gst:typelib-1_0-ClutterGst-1_0)
+msgid ""
+"Clutter is an open source software library for creating fast, visually rich "
+"and animated graphical user interfaces.\n"
+"\n"
+"Clutter GStreamer enables the use of GStreamer with Clutter.\n"
+"\n"
+"This package provides the GObject Introspection bindings for Clutter "
+"GStreamer."
+msgstr ""
+
+#. description(clutter-gtk:libclutter-gtk-1_0-0)
+msgid ""
+"Clutter is an open source software library for creating fast, visually rich "
+"and animated graphical user interfaces.\n"
+"\n"
+"Clutter GTK+ enables the use of GTK+ with Clutter."
+msgstr ""
+
+#. description(clutter-gtk:typelib-1_0-GtkClutter-1_0)
+msgid ""
+"Clutter is an open source software library for creating fast, visually rich "
+"and animated graphical user interfaces.\n"
+"\n"
+"Clutter GTK+ enables the use of GTK+ with Clutter.\n"
+"\n"
+"This package provides the GObject Introspection bindings for Clutter GTK+."
+msgstr ""
+
+#. description(clutter:typelib-1_0-Clutter-1_0)
+msgid ""
+"Clutter is an open source software library for creating fast, visually rich "
+"and animated graphical user interfaces.\n"
+"\n"
+"This package provides the GObject Introspection bindings for Clutter."
+msgstr ""
+
+#. description(clutter-gst:gstreamer-0_10-plugin-gstclutter)
+msgid ""
+"Clutter is an open source software library for creating fast, visually rich "
+"and animated graphical user interfaces.\n"
+"\n"
+"This plug-in for GStreamer contains elements to render to Clutter textures."
+msgstr ""
+
+#. summary(mx:libmx-1_0-2)
+msgid "Clutter-based Toolkit"
+msgstr ""
+
+#. description(cogl:libcogl-pango0)
+msgid ""
+"Cogl is a small open source library for using 3D graphics hardware to draw "
+"pretty pictures."
+msgstr ""
+
+#. description(cogl:typelib-1_0-Cogl-1_0)
+msgid ""
+"Cogl is a small open source library for using 3D graphics hardware to draw "
+"pretty pictures.\n"
+"\n"
+"This package provides the GObject Introspection bindings for Cogl."
+msgstr ""
+
+#. description(cogl:typelib-1_0-CoglPango-1_0)
+msgid ""
+"Cogl is a small open source library for using 3D graphics hardware to draw "
+"pretty pictures.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the Pango "
+"integration in Cogl."
+msgstr ""
+
+#. summary(gnome-video-effects)
+msgid "Collection of GStreamer effects"
+msgstr ""
+
+#. summary(libgme:libgme0)
+msgid "Collection of video game music file emulators"
+msgstr ""
+
+#. summary(dotconf:libdotconf0)
+#, fuzzy
+msgid "Configuration file parser library"
+msgstr "显示器配置"
+
+#. summary(gnome-contacts)
+#, fuzzy
+msgid "Contacts Manager for GNOME"
+msgstr "电源管理 (APM)"
+
+#. summary(NetworkManager:typelib-1_0-NMClient-1_0)
+msgid ""
+"Convenience library for clients of NetworkManager -- Introspection bindings"
+msgstr ""
+
+#. summary(geocode-glib:libgeocode-glib0)
+msgid "Convenience library for the Yahoo! Place Finder APIs"
+msgstr ""
+
+#. summary(banshee:banshee-core)
+msgid "Core Banshee platform libraries, services, and resources"
+msgstr ""
+
+#. description(banshee:banshee-dmp)
+msgid ""
+"Core support for Digital Media Player support. Includes generic USB mass "
+"storage device support."
+msgstr ""
+
+#. description(notification-daemon)
+msgid "D-BUS notification daemon."
+msgstr ""
+
+#. description(libnotify:libnotify-tools)
+msgid ""
+"D-BUS notifications library.\n"
+"\n"
+"This package contains the notify-send tool to create notifications."
+msgstr ""
+
+#. summary(accountsservice)
+msgid "D-Bus Service to Manipulate User Account Information"
+msgstr ""
+
+#. summary(accountsservice:libaccountsservice0)
+msgid "D-Bus Service to Manipulate User Account Information -- Client Library"
+msgstr ""
+
+#. summary(accountsservice:typelib-1_0-AccountsService-1_0)
+msgid ""
+"D-Bus Service to Manipulate User Account Information -- Introspection "
+"bindings"
+msgstr ""
+
+#. description(dante:libsocks0)
+msgid ""
+"Dante is a free implementation of the following proxy protocols: socks "
+"version 4, socks version 5 (rfc1928), and msproxy. It can be used as a "
+"firewall between networks. It is being developed by Inferno Nettverk A/S, a "
+"Norwegian consulting company. Commercial support is available.\n"
+"\n"
+"This package contains the dynamic libraries required to make existing "
+"applications become socks clients."
+msgstr ""
+
+#. summary(mono-core:mono-data)
+msgid "Database connectivity for Mono"
+msgstr ""
+
+#. summary(speech-dispatcher)
+msgid "Device independent layer for speech synthesis"
+msgstr ""
+
+#. summary(speech-dispatcher:libspeechd2)
+#, fuzzy
+msgid "Device independent layer for speech synthesis - Client library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(speech-dispatcher:python-speechd)
+msgid "Device independent layer for speech synthesis - Python Bindings"
+msgstr ""
+
+#. summary(banshee:banshee-dmp)
+msgid "Digital Media Player support for Banshee"
+msgstr ""
+
+#. summary(dirac:libdirac_encoder0)
+msgid "Dirac Video Codec Encoder Library"
+msgstr ""
+
+#. description(dirac:libdirac_encoder0)
+msgid ""
+"Dirac is an open source video codec. It uses a traditional hybrid video "
+"codec architecture, but with the wavelet transform instead of the usual "
+"block transforms.  Motion compensation uses overlapped blocks to reduce "
+"block artefacts that would upset the transform coding stage.\n"
+"\n"
+"Dirac can code just about any size of video, from streaming up to HD and "
+"beyond, although certain presets are defined for different applications and "
+"standards.  These cover the parameters that need to be set for the encoder "
+"to work, such as block sizes and temporal prediction structures, which must "
+"otherwise be set by hand.\n"
+"\n"
+"Dirac is intended to develop into real coding and decoding software, capable "
+"of plugging into video processing applications and media players that need "
+"compression. It is intended to develop into a simple set of reliable but "
+"effective coding tools that work over a wide variety of content and formats, "
+"using well-understood compression techniques, in a clear and accessible "
+"software structure. It is not intended as a demonstration or reference coder."
+msgstr ""
+
+#. summary(udisks2)
+msgid "Disk Management Service, version 2"
+msgstr ""
+
+#. summary(baobab)
+msgid "Disk Usage Analyzer"
+msgstr ""
+
+#. description(baobab)
+msgid ""
+"Disk Usage Analyzer is a graphical, menu-driven application to analyse disk "
+"usage in any GNOME environment. Disk Usage Analyzer can easily scan either "
+"the whole filesystem tree, or a specific user-requested directory branch "
+"(local or remote).\n"
+"\n"
+"It also auto-detects in real-time any changes made to your home directory as "
+"far as any mounted/unmounted device. Disk Usage Analyzer also provides a "
+"full graphical treemap window for each selected folder."
+msgstr ""
+
+#. summary(gnome-disk-utility)
+msgid "Disks application for dealing with storage devices"
+msgstr ""
+
+#. summary(gnome-documents)
+#, fuzzy
+msgid "Document Manager for GNOME"
+msgstr "电源管理 (APM)"
+
+#. description(gnome-documents)
+#, fuzzy
+msgid "Documents is a document manager application for GNOME."
+msgstr "新应用程序"
+
+#. summary(branding-openSUSE:dynamic-wallpaper-branding-openSUSE)
+msgid "Dynamic wallpaper for GNOME, with openSUSE look"
+msgstr ""
+
+#. summary(speech-dispatcher:speech-dispatcher-module-espeak)
+msgid "ESpeak module for Speech Dispatcher"
+msgstr ""
+
+#. summary(libepc:libepc-1_0-2)
+msgid "Easy Publish and Consume Library"
+msgstr ""
+
+#. description(empathy)
+msgid ""
+"Empathy is a messaging program which supports text, voice, and video chat "
+"and file transfers over many different protocols. You can tell it about your "
+"accounts on all those services and do all your chatting within one "
+"application.\n"
+"\n"
+"Empathy uses Telepathy for protocol support and has a user interface based "
+"on Gossip. Empathy is the default chat client in current versions of GNOME, "
+"making it easier for other GNOME applications to integrate collaboration "
+"functionality using Telepathy."
+msgstr ""
+
+#. summary(empathy:nautilus-sendto-plugin-empathy)
+msgid "Empathy plugin for nautilus-sendto"
+msgstr ""
+
+#. summary(bundle-lang-gnome:bundle-lang-gnome-en)
+#, fuzzy
+msgid "English translations for many GNOME programs"
+msgstr "另一个事务已在运行中"
+
+#. summary(evince:nautilus-evince)
+msgid "Evince Plugin for Nautilus"
+msgstr ""
+
+#. description(evince)
+msgid ""
+"Evince is a document viewer capable of displaying multiple and singlepage "
+"document formats like PDF and PostScript."
+msgstr ""
+
+#. description(evince:nautilus-evince)
+msgid ""
+"Evince is a document viewer capable of displaying multiple and singlepage "
+"document formats like PDF and PostScript.\n"
+"\n"
+"This package contains a plugin to integrate Evince into Nautilus."
+msgstr ""
+
+#. summary(evolution-data-server:libebook-1_2-13)
+msgid "Evolution Data Server - Address Book Client Library"
+msgstr ""
+
+#. summary(evolution-data-server:libebackend-1_2-2)
+#, fuzzy
+msgid "Evolution Data Server - Backend Utilities Library"
+msgstr "打印服务器"
+
+#. summary(evolution-data-server:libecal-1_2-11)
+#, fuzzy
+msgid "Evolution Data Server - Calendar Client Library"
+msgstr "打印服务器"
+
+#. summary(evolution-data-server:libedataserverui-3_0-1)
+msgid "Evolution Data Server - Graphical Utilities Library"
+msgstr ""
+
+#. summary(evolution-data-server:libcamel-1_2-33)
+#, fuzzy
+msgid "Evolution Data Server - Messaging Library"
+msgstr "打印服务器"
+
+#. summary(evolution-data-server:libedataserver-1_2-16)
+#, fuzzy
+msgid "Evolution Data Server - Utilities Library"
+msgstr "打印服务器"
+
+#. description(evolution-data-server:libebackend-1_2-2)
+msgid ""
+"Evolution Data Server provides a central location for your address book and "
+"calendar in the GNOME Desktop.\n"
+"\n"
+"This package contains a shared system library for backends."
+msgstr ""
+
+#. description(evolution-data-server:libcamel-1_2-33)
+msgid ""
+"Evolution Data Server provides a central location for your address book and "
+"calendar in the GNOME Desktop.\n"
+"\n"
+"This package contains a shared system library for messaging."
+msgstr ""
+
+#. description(evolution-data-server:libebook-1_2-13)
+msgid ""
+"Evolution Data Server provides a central location for your address book and "
+"calendar in the GNOME Desktop.\n"
+"\n"
+"This package contains a shared system library to access address books."
+msgstr ""
+
+#. description(evolution-data-server:libecal-1_2-11)
+msgid ""
+"Evolution Data Server provides a central location for your address book and "
+"calendar in the GNOME Desktop.\n"
+"\n"
+"This package contains a shared system library to access calendars."
+msgstr ""
+
+#. description(evolution-data-server:libedataserver-1_2-16)
+msgid ""
+"Evolution Data Server provides a central location for your address book and "
+"calendar in the GNOME Desktop.\n"
+"\n"
+"This package contains a shared system library."
+msgstr ""
+
+#. summary(evolution-webcal)
+msgid "Evolution Webcal"
+msgstr ""
+
+#. description(evolution)
+msgid ""
+"Evolution consists of modular components (at the moment: mailer, calendar, "
+"and address book) that should make daily life easier. Because of the modular "
+"design, it is possible to plug new components into Evolution or embed the "
+"existing ones in other applications."
+msgstr ""
+
+#. summary(nautilus-sendto:nautilus-sendto-plugin-evolution)
+msgid "Evolution plugin for nautilus-sendto"
+msgstr ""
+
+#. summary(libsexy)
+msgid "Extended Widgets for GTK+"
+msgstr ""
+
+#. summary(libgsf:libgsf-1-114)
+msgid ""
+"Extensible I/O abstraction library for dealing with structured file formats"
+msgstr ""
+
+#. summary(seahorse-nautilus:nautilus-extension-seahorse)
+msgid "Extension for nautilus which allows encryption and decryption of files"
+msgstr ""
+
+#. description(gnome-icon-theme-extras)
+msgid "Extra GNOME icons for specific devices and file types."
+msgstr ""
+
+#. summary(gtk-sharp-beans)
+msgid "Extra Gtk# bindings"
+msgstr ""
+
+#. summary(banshee:banshee-extensions-default)
+msgid "Extra features extending the Banshee Media Player"
+msgstr ""
+
+#. summary(tracker:libtracker-extract-0_14-0)
+msgid "Extract library for Tracker"
+msgstr ""
+
+#. description(eog)
+msgid ""
+"Eye of GNOME is an image viewer program. It is meant to be a fast and "
+"functional image viewer."
+msgstr ""
+
+#. description(farstream:gstreamer-0_10-plugins-farstream)
+msgid ""
+"Farstream is a collection of GStreamer modules and libraries for "
+"videoconferencing."
+msgstr ""
+
+#. description(farstream:farstream-data)
+msgid ""
+"Farstream is a collection of GStreamer modules and libraries for "
+"videoconferencing.\n"
+"\n"
+"This package contains data (codec preferences, element properties) used by "
+"the library."
+msgstr ""
+
+#. summary(nautilus)
+#, fuzzy
+msgid "File Manager for the GNOME Desktop"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. summary(nautilus:libnautilus-extension1)
+#, fuzzy
+msgid "File Manager for the GNOME Desktop -- Extension Library"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. description(file-roller)
+msgid ""
+"File Roller is an archive manager for GNOME. With it, you can create and "
+"modify archives, view the contents of an archive, view a file contained in "
+"the archive, and extract files from the archive."
+msgstr ""
+
+#. description(file-roller:nautilus-file-roller)
+msgid ""
+"File Roller is an archive manager for GNOME. With it, you can create and "
+"modify archives, view the contents of an archive, view a file contained in "
+"the archive, and extract files from the archive.\n"
+"\n"
+"This package contains a plugin to integrate File Roller into Nautilus."
+msgstr ""
+
+#. description(fortune)
+msgid ""
+"Fortune displays a random text string from a set of files in a certain "
+"format.\n"
+"\n"
+"This occurs each time you start a login shell. To get this feature just "
+"uncomment the respective lines in the user's .profile."
+msgstr ""
+
+#. summary(grilo:libgrilo-0_1-0)
+msgid "Framework for browsing and searching media content"
+msgstr ""
+
+#. summary(grilo:libgrlnet-0_1-0)
+msgid ""
+"Framework for browsing and searching media content -- Networking Helper "
+"Library"
+msgstr ""
+
+#. summary(fribidi)
+msgid "Free Implementation of BiDi Algorithm"
+msgstr ""
+
+#. summary(libcdaudio)
+msgid "Functions to Control Operation of a CD-ROM When Playing Audio CDs"
+msgstr ""
+
+#. description(gcr:typelib-1_0-Gck-1)
+msgid ""
+"GCK is a library for accessing PKCS#11 modules like smart cards, in a (G)"
+"object oriented way.\n"
+"\n"
+"This package provides the GObject Introspection bindings for GCK."
+msgstr ""
+
+#. summary(pulseaudio:pulseaudio-module-gconf)
+msgid "GCONF module for PulseAudio"
+msgstr ""
+
+#. description(gcr:typelib-1_0-Gcr-3)
+msgid ""
+"GCR is a library for displaying certificates, and crypto UI, accessing key "
+"stores.\n"
+"\n"
+"This package provides the GObject Introspection bindings for GCR."
+msgstr ""
+
+#. summary(banshee:banshee-backend-io-gio)
+msgid "GIO backend for non-local files for Banshee"
+msgstr ""
+
+#. summary(gjs:typelib-1_0-GjsDBus-1_0)
+#, fuzzy
+msgid "GJS DBus utility library -- Introspection bindings"
+msgstr "7.0 文档"
+
+#. summary(Mesa-demo:Mesa-demo-x)
+msgid "GLX-based demos"
+msgstr ""
+
+#. description(avahi-glib2:libavahi-glib1)
+msgid ""
+"GLib support for avahi.\n"
+"\n"
+"Avahi is an implementation the DNS Service Discovery and Multicast DNS "
+"specifications for Zeroconf Computing. It uses D-BUS for communication "
+"between user applications and a system daemon. The daemon is used to "
+"coordinate application efforts in caching replies, necessary to minimize the "
+"traffic imposed on networks.\n"
+"\n"
+"The Avahi mDNS responder is now feature complete implementing all MUSTs and "
+"the majority of the SHOULDs of the mDNS/DNS-SD RFCs. It passes all tests in "
+"the Apple Bonjour conformance test suite. In addition it supports some nifty "
+"things that have never been seen elsewhere like correct mDNS reflection "
+"across LAN segments."
+msgstr ""
+
+#. summary(pidgin:libpurple)
+#, fuzzy
+msgid "GLib-based Instant Messenger Library"
+msgstr "XF86Messenger"
+
+#. summary(pidgin-branding-openSUSE:libpurple-branding-openSUSE)
+#, fuzzy
+msgid "GLib-based Instant Messenger Library -- openSUSE Default Configuration"
+msgstr "XF86Messenger"
+
+#. summary(libgdata:libgdata13)
+msgid ""
+"GLib-based library for accessing online service APIs using the GData protocol"
+msgstr ""
+
+#. summary(libgdata:typelib-1_0-GData-0_0)
+msgid ""
+"GLib-based library for accessing online service APIs using the GData "
+"protocol -- Introspection bindings"
+msgstr ""
+
+#. description(gmime:libgmime-2_6-0)
+msgid ""
+"GMime is a C/C++ library for parsing and creating messages using the "
+"Multipurpose Internet Mail Extension (MIME)."
+msgstr ""
+
+#. summary(gnome-bluetooth:gnome-bluetooth-plugins-geoclue)
+msgid "GNOME Bluetooth Support"
+msgstr ""
+
+#. summary(gnome-bluetooth)
+msgid "GNOME Bluetooth graphical utilities"
+msgstr ""
+
+#. summary(gnome-bluetooth:typelib-1_0-GnomeBluetooth-1_0)
+msgid "GNOME Bluetooth graphical utilities -- Introspection bindings"
+msgstr ""
+
+#. summary(zenity)
+msgid "GNOME Command Line Dialog Utility"
+msgstr ""
+
+#. summary(gnome-user-docs)
+msgid "GNOME Desktop Documentation"
+msgstr ""
+
+#. summary(evince)
+#, fuzzy
+msgid "GNOME Document Viewer"
+msgstr "GNOME 开发"
+
+#. summary(evince:libevdocument3-4)
+#, fuzzy
+msgid "GNOME Document Viewer - System Library"
+msgstr "GNOME 开发"
+
+#. summary(evince:typelib-1_0-EvinceDocument-3_0)
+#, fuzzy
+msgid "GNOME Document Viewer -- Introspection bindings"
+msgstr "默认菜单和应用程序浏览器"
+
+#. summary(gnome-icon-theme)
+msgid "GNOME Icon Theme"
+msgstr ""
+
+#. summary(gnome-icon-theme-extras)
+#, fuzzy
+msgid "GNOME Icon Theme Extras"
+msgstr "GNOME 系统"
+
+#. summary(gnome-nettool)
+msgid "GNOME Interface for Various Networking Tools"
+msgstr ""
+
+#. summary(libgnomekbd)
+msgid "GNOME Keyboard Library"
+msgstr ""
+
+#. description(gnome-nettool)
+msgid ""
+"GNOME Nettool is a set of front-ends to various networking command line "
+"tools, like ping, netstat, ifconfig, whois, traceroute, and finger."
+msgstr ""
+
+#. summary(tomboy)
+#, fuzzy
+msgid "GNOME Note Taking Application"
+msgstr "新应用程序"
+
+#. description(gnome-packagekit)
+msgid ""
+"GNOME PackageKit provides session applications for the PackageKit API. There "
+"are several utilities designed for installing, updating and removing "
+"packages on your system."
+msgstr ""
+
+#. summary(gnome-panel:libpanel-applet-4-0)
+msgid "GNOME Panel Applet Library -- D-Bus-based library"
+msgstr ""
+
+#. description(gnome-power-manager)
+msgid ""
+"GNOME Power Manager is a GNOME session daemon that acts as a policy agent. "
+"It listens for system events and responds with user-configurable actions."
+msgstr ""
+
+#. summary(gnome-screensaver)
+#, fuzzy
+msgid "GNOME Screen Saver and Locker"
+msgstr "GNOME 屏幕保护程序"
+
+#. summary(gnome-shell)
+#, fuzzy
+msgid "GNOME Shell"
+msgstr "GNOME 系统"
+
+#. summary(gnome-shell:gnome-shell-browser-plugin)
+msgid "GNOME Shell Browser Plugin for the Extensions Repository"
+msgstr ""
+
+#. summary(gnome-shell-extensions:gnome-shell-extensions-common)
+#, fuzzy
+msgid "GNOME Shell Extension -- Common Files"
+msgstr "GNOME 系统"
+
+#. summary(gnome-shell-extensions:gnome-shell-extension-alt-status-menu)
+msgid "GNOME Shell Extension -- Power Off Item in Status Menu"
+msgstr ""
+
+#. summary(gnome-terminal)
+#, fuzzy
+msgid "GNOME Terminal"
+msgstr "XF86Terminal"
+
+#. description(gnome-tweak-tool)
+msgid ""
+"GNOME Tweak Tool is an application for changing the advanced settings of "
+"GNOME 3."
+msgstr ""
+
+#. summary(vino)
+#, fuzzy
+msgid "GNOME VNC Server"
+msgstr "VNC 服务器"
+
+#. summary(gnome-web-photo)
+msgid "GNOME Web Photographer"
+msgstr ""
+
+#. description(gnome-web-photo)
+msgid ""
+"GNOME Web Photographer is a tool to generate full-size image files and "
+"thumbnails from HTML files and web pages."
+msgstr ""
+
+#. summary(NetworkManager-gnome)
+msgid "GNOME applications for use with NetworkManager"
+msgstr ""
+
+#. description(gnome-games:gnome-games-support)
+msgid ""
+"GNOME games is a collection of simple, but addictive, games from the GNOME "
+"desktop project. They represent many of the popular games and include card "
+"games, puzzle games and arcade games. They are meant to be the sort of game "
+"that can be played in five minutes or so. They are also meant to be fun "
+"enough that you will play them again and again. Of course we can't be held "
+"responsible for the time and productivity lost while playing them.\n"
+"\n"
+"This package contains shared libraries and data files needed by the various "
+"games."
+msgstr ""
+
+#. description(gnome-games:gnome-games-recommended)
+msgid ""
+"GNOME games is a collection of simple, but addictive, games from the GNOME "
+"desktop project. They represent many of the popular games and include card "
+"games, puzzle games and arcade games. They are meant to be the sort of game "
+"that can be played in five minutes or so. They are also meant to be fun "
+"enough that you will play them again and again. Of course we can't be held "
+"responsible for the time and productivity lost while playing them.\n"
+"\n"
+"This package will install a set of recommended games."
+msgstr ""
+
+#. summary(seahorse)
+msgid "GNOME interface for gnupg"
+msgstr ""
+
+#. description(libgnomekbd)
+msgid "GNOME keyboard library, utility and applet."
+msgstr ""
+
+#. summary(banshee:banshee-backend-platform-gnome)
+msgid "GNOME platform support for Banshee"
+msgstr ""
+
+#. summary(gnome-online-accounts)
+msgid "GNOME service to access online accounts"
+msgstr ""
+
+#. summary(gnome-online-accounts:libgoa-backend-1_0-0)
+msgid "GNOME service to access online accounts -- Backend Library"
+msgstr ""
+
+#. summary(gnome-online-accounts:libgoa-1_0-0)
+msgid "GNOME service to access online accounts -- Client Library"
+msgstr ""
+
+#. summary(gnome-online-accounts:typelib-1_0-Goa-1_0)
+#, fuzzy
+msgid "GNOME service to access online accounts -- Introspection bindings"
+msgstr "GNOME 开发"
+
+#. summary(libgnomesu)
+msgid "GNOME su Library"
+msgstr ""
+
+#. summary(gnome-user-share)
+msgid "GNOME user file sharing"
+msgstr ""
+
+#. summary(gnome-desktop:gnome-version)
+#, fuzzy
+msgid "GNOME version"
+msgstr "GNOME 系统"
+
+#. description(gnome-system-monitor)
+msgid ""
+"GNOME-system-monitor is a simple process and system monitor for the GNOME "
+"Desktop."
+msgstr ""
+
+#. summary(guile)
+msgid "GNU's Ubiquitous Intelligent Language for Extension"
+msgstr ""
+
+#. summary(gcr:typelib-1_0-Gck-1)
+#, fuzzy
+msgid "GObject library to access for PKCS#11 modules -- Introspection bindings"
+msgstr "GNOME 开发"
+
+#. summary(libpeas:libpeas-1_0-0)
+msgid "GObject-based Plugin Engine"
+msgstr ""
+
+#. summary(libpeas:libpeas-loader-gjs)
+msgid "GObject-based Plugin Engine - GJS runtime loader"
+msgstr ""
+
+#. summary(libpeas:libpeas-loader-python)
+msgid "GObject-based Plugin Engine - Python runtime loader"
+msgstr ""
+
+#. summary(libpeas:libpeas-loader-seed)
+msgid "GObject-based Plugin Engine - Seed runtime loader"
+msgstr ""
+
+#. summary(libpeas:typelib-1_0-Peas-1_0)
+msgid "GObject-based Plugin Engine -- Introspection bindings"
+msgstr ""
+
+#. summary(telepathy-glib:libtelepathy-glib0)
+msgid "GObject-based library for the Telepathy D-Bus API"
+msgstr ""
+
+#. summary(telepathy-glib:typelib-1_0-TelepathyGlib-0_12)
+msgid ""
+"GObject-based library for the Telepathy D-Bus API -- Introspection bindings"
+msgstr ""
+
+#. summary(libgee:libgee2)
+msgid "GObject-based library providing commonly used data structures"
+msgstr ""
+
+#. summary(libgee:typelib-1_0-Gee-1_0)
+msgid ""
+"GObject-based library providing commonly used data structures -- "
+"Introspection bindings"
+msgstr ""
+
+#. summary(clutter-gst:gstreamer-0_10-plugin-gstclutter)
+msgid "GStreamer Clutter Plug-In"
+msgstr ""
+
+#. summary(farstream:gstreamer-0_10-plugins-farstream)
+msgid "GStreamer Plug-Ins for videoconferencing"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-base:typelib-1_0-GstInterfaces-0_10)
+msgid "GStreamer Streaming-Media Framework Plug-Ins -- Introspection bindings"
+msgstr ""
+
+#. summary(banshee:banshee-backend-engine-gstreamer)
+msgid "GStreamer engine support for Banshee"
+msgstr ""
+
+#. summary(clutter-gst:libclutter-gst-1_0-0)
+msgid "GStreamer integration for Clutter"
+msgstr ""
+
+#. summary(clutter-gst:typelib-1_0-ClutterGst-1_0)
+#, fuzzy
+msgid "GStreamer integration for Clutter -- Introspection bindings"
+msgstr "开发"
+
+#. description(gstreamer-0_10-plugins-base:typelib-1_0-GstInterfaces-0_10)
+msgid ""
+"GStreamer is a streaming media framework based on graphs of filters that "
+"operate on media data. Applications using this library can do anything media-"
+"related, from real-time sound processing to playing videos. Its plug-in-"
+"based architecture means that new data types or processing capabilities can "
+"be added simply by installing new plug-ins.\n"
+"\n"
+"This package provides the GObject Introspection bindings for GStreamer plug-"
+"ins."
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-bad)
+msgid ""
+"GStreamer is a streaming media framework based on graphs of filters that "
+"operate on media data. Applications using this library can do anything media-"
+"related,from real-time sound processing to playing videos. Its plug-in-based "
+"architecture means that new data types or processing capabilities can be "
+"added simply by installing new plug-ins."
+msgstr ""
+
+#. description(gstreamer-0_10:typelib-1_0-Gst-0_10)
+msgid ""
+"GStreamer is a streaming-media framework, based on graphs of filters which "
+"operate on media data. Applications using this library can do anything from "
+"real-time sound processing to playing videos, and just about anything else "
+"media-related.  Its plug-in-based architecture means that new data types or "
+"processing capabilities can be added by installing new plug-ins.\n"
+"\n"
+"This package provides the GObject Introspection bindings for GStreamer."
+msgstr ""
+
+#. summary(farstream:libfarstream-0_1-0)
+#, fuzzy
+msgid "GStreamer modules and libraries for videoconferencing"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(farstream:farstream-data)
+msgid ""
+"GStreamer modules and libraries for videoconferencing -- Codec preferences"
+msgstr ""
+
+#. summary(gtksourceview:libgtksourceview-3_0-0)
+msgid "GTK+ Source Editing Widget"
+msgstr ""
+
+#. summary(gtksourceview:typelib-1_0-GtkSource-3_0)
+msgid "GTK+ Source Editing Widget -- Introspection bindings"
+msgstr ""
+
+#. summary(clutter-gtk:libclutter-gtk-1_0-0)
+msgid "GTK+ integration for Clutter"
+msgstr ""
+
+#. summary(clutter-gtk:typelib-1_0-GtkClutter-1_0)
+#, fuzzy
+msgid "GTK+ integration for Clutter -- Introspection bindings"
+msgstr "开发"
+
+#. description(gtk2:typelib-1_0-Gtk-2_0)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides the GObject Introspection bindings for GTK+."
+msgstr ""
+
+#. description(gtk2-branding-openSUSE)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides the openSUSE theme configuration for widgets and icon "
+"themes."
+msgstr ""
+
+#. summary(gtkspell:libgtkspell0)
+msgid "GTK2 Spell Checker Interface Library"
+msgstr ""
+
+#. description(gupnp-av:libgupnp-av-1_0-2)
+msgid ""
+"GUPnP A/V is a small utility library that aims to ease the handling and "
+"implementation of UPnP A/V profiles."
+msgstr ""
+
+#. description(gupnp:libgupnp-1_0-4)
+msgid ""
+"GUPnP implements the UPnP specification: resource announcement and "
+"discovery, description, control, event notification, and presentation (GUPnP "
+"includes basic web server functionality through libsoup). GUPnP does not "
+"include helpers for construction or control of specific standardized "
+"resources (e.g. MediaServer); this is left for higher level libraries "
+"utilizing the GUPnP framework."
+msgstr ""
+
+#. description(gupnp-igd:libgupnp-igd-1_0-4)
+msgid ""
+"GUPnP-IGD is a library to handle UPnP IGD port mapping. It is supposed to "
+"have a very simple API."
+msgstr ""
+
+#. description(telepathy-gabble)
+msgid ""
+"Gabble is a Jabber/XMPP connection manager for the Telepathy framework, "
+"currently supporting single user chats, multi user chats and voice/video "
+"calls. Install this package to use Telepathy instant messaging clients with "
+"Jabber/XMPP servers, including Google Talk."
+msgstr ""
+
+#. description(libgme:libgme0)
+msgid ""
+"Game_Music_Emu is a collection of video game music file emulators that "
+"support the following formats and systems:\n"
+"- AY: ZX Spectrum/Amstrad CPC\n"
+"- GBS: Nintendo Game Boy\n"
+"- GYM: Sega Genesis/Mega Drive\n"
+"- HES: NEC TurboGrafx-16/PC Engine\n"
+"- KSS: MSX Home Computer/other Z80 systems (doesn't support FM sound)\n"
+"- NSF/NSFE: Nintendo NES/Famicom (with VRC 6, Namco 106, and FME-7 sound)\n"
+"- SAP: Atari systems using POKEY sound chip\n"
+"- SPC: Super Nintendo/Super Famicom\n"
+"- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro"
+msgstr ""
+
+#. summary(gnome-games:gnome-games-support)
+msgid "Games for GNOME - Shared files"
+msgstr ""
+
+#. summary(gdm:gdmflexiserver)
+msgid "Gdmflexiserver Compatibility Wrapper for Display Managers"
+msgstr ""
+
+#. description(gedit)
+msgid ""
+"Gedit is a small and lightweight UTF-8 text editor for the GNOME environment."
+msgstr ""
+
+#. description(geoclue:geoclue-recommended)
+msgid ""
+"Geoclue is a modular geoinformation service built on top of the D-Bus "
+"messaging system. The goal of the Geoclue project is to make creating "
+"location-aware applications as simple as possible.\n"
+"\n"
+"This package contains providers that do not require external dependencies."
+msgstr ""
+
+#. summary(libglade2:libglade-2_0-0)
+msgid "Glade Library Compatible with the GNOME 2.x Desktop Platform"
+msgstr ""
+
+#. summary(avahi-glib2:libavahi-glib1)
+msgid "Glib Bindings for avahi, the D-BUS Service for Zeroconf and Bonjour"
+msgstr ""
+
+#. summary(dbus-sharp-glib)
+#, fuzzy
+msgid "Glib integration for DBus"
+msgstr "俄联邦"
+
+#. description(glibmm2:libgiomm-2_4-1)
+msgid ""
+"Glibmm is the official C++ interface for the popular cross-platform library "
+"Glib. It provides non-UI API that is not available in standard C++ and makes "
+"it possible for gtkmm to wrap GObject-based APIs."
+msgstr ""
+
+#. description(gpgme)
+msgid ""
+"GnuPG Made Easy (GPGME) is a library designed to make access to GnuPG easier "
+"for applications. It provides a high-level Crypto API for encryption, "
+"decryption, signing, signature verification, and key management. Currently "
+"it uses GnuPG as its back-end, but the API is not restricted to this "
+"engine.\n"
+"\n"
+"Because the direct use of GnuPG from an application can be a complicated "
+"programming task, it is suggested that all software should try to use GPGME "
+"instead. This way bug fixes or improvements can be done at a central place "
+"and every application benefits from this. Authors of MUAs should especially "
+"consider using GPGME. Creating a set of standard widgets for common key "
+"selection tasks is even planned."
+msgstr ""
+
+#. summary(gdata-sharp)
+msgid "Google GData .NET Client Library"
+msgstr ""
+
+#. summary(tk)
+msgid "Graphical User Interface Toolkit for Tcl"
+msgstr ""
+
+#. summary(tracker-extras:tracker-gui)
+#, fuzzy
+msgid "Graphical User Interface for Tracker"
+msgstr "输入抽象层 的用户界面"
+
+#. description(grilo:libgrilo-0_1-0)
+msgid ""
+"Grilo is a framework for browsing and searching media content from various "
+"sources using a single API."
+msgstr ""
+
+#. description(grilo-plugins)
+msgid ""
+"Grilo is a framework for browsing and searching media content from various "
+"sources using a single API.\n"
+"\n"
+"This package provides plugins for accessing content from various media "
+"providers, including podcasts, UPnP/DLNA, Apple trailers, Flickr, Jamendo, "
+"Vimeo, YouTube."
+msgstr ""
+
+#. description(gtk-sharp-beans)
+msgid ""
+"Gtk# Beans aims to fill the gap between the current Gtk# packages state and "
+"all the blings and desktop integration stuffs anyone would want to use.\n"
+"\n"
+"It builds on top of Gtk# and extend it by adding new classes and extension "
+"methods."
+msgstr ""
+
+#. description(gtkhtml:libgtkhtml-4_0-0)
+msgid ""
+"GtkHTML is a lightweight HTML rendering/printing/editing engine. It was "
+"originally based on KHTMLW, part of the KDE project, but is now being "
+"developed independently."
+msgstr ""
+
+#. description(gtksourceview:libgtksourceview-3_0-0)
+msgid ""
+"GtkSourceView is a text widget that extends GtkTextView, the standard GTK+ "
+"text widget.\n"
+"\n"
+"It improves GtkTextView by implementing syntax highlighting and other "
+"features typical of a source editor."
+msgstr ""
+
+#. description(gtksourceview:typelib-1_0-GtkSource-3_0)
+msgid ""
+"GtkSourceView is a text widget that extends GtkTextView, the standard GTK+ "
+"text widget.\n"
+"\n"
+"It improves GtkTextView by implementing syntax highlighting and other "
+"features typical of a source editor.\n"
+"\n"
+"This package provides the GObject Introspection bindings for GtkSourceView."
+msgstr ""
+
+#. description(gtkspell:libgtkspell0)
+msgid ""
+"GtkSpell provides MSWord-style and MacOSX-style highlighting of misspelled "
+"words in a GtkTextView widget. Right-clicking a misspelled word opens a menu "
+"of suggested replacements."
+msgstr ""
+
+#. description(gtkmm3:libgtkmm-3_0-1)
+msgid ""
+"Gtkmm provides a C++ interface to the GTK+ GUI library. gtkmm3 wraps GTK+ 3. "
+"Highlights include typesafe callbacks, widgets extensible via inheritance "
+"and a comprehensive set of widget classes that can be freely combined to "
+"quickly create complex user interfaces."
+msgstr ""
+
+#. description(gucharmap)
+msgid "Gucharmap is a featureful unicode character map."
+msgstr ""
+
+#. description(gucharmap:libgucharmap_2_90-7)
+msgid ""
+"Gucharmap is a featureful unicode character map.\n"
+"\n"
+"This package contains a library to use the character map."
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-engine-hcengine)
+msgid "HC GTK+ 2 Theme Engine"
+msgstr ""
+
+#. summary(python-beautifulsoup)
+msgid "HTML/XML Parser for Quick-Turnaround Applications Like Screen-Scraping"
+msgstr ""
+
+#. summary(libsoup:typelib-1_0-Soup-2_4)
+msgid "HTTP client/server library for GNOME -- Introspection bindings"
+msgstr ""
+
+#. summary(yelp)
+#, fuzzy
+msgid "Help Browser for the GNOME Desktop"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. summary(yelp:libyelp0)
+msgid "Help Browser for the GNOME Desktop -- Library"
+msgstr ""
+
+#. summary(orbit2)
+msgid "High-Performance CORBA Object Request Broker"
+msgstr ""
+
+#. summary(system-config-printer:python-cupshelpers)
+msgid "High-level Python Bindings for CUPS"
+msgstr ""
+
+#. summary(libidl:libIDL-2-0)
+msgid "IDL Parsing Library"
+msgstr ""
+
+#. description(telepathy-sofiasip)
+msgid ""
+"IETF SIP connection manager for Telepathy using the SofiaSIP protocol stack."
+msgstr ""
+
+#. summary(libiptcdata)
+msgid "IPTC Metadata Tag Manipulation Library"
+msgstr ""
+
+#. summary(telepathy-idle)
+msgid "IRC support for Telepathy"
+msgstr ""
+
+#. description(gnome-games:iagno)
+msgid ""
+"Iagno is the two player strategy game of Othello, which is also known as "
+"Reversi and is similar to Go. The pieces are tiles that are black on one "
+"side and white on the other and the objective is for the player to flip his/"
+"her opponent's tiles to his/her color, while keeping the opponent from doing "
+"the same. Once the board is filled with tiles, the winner is the player with "
+"the most of his/her color tiles on the board.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(eog)
+#, fuzzy
+msgid "Image Viewer for GNOME"
+msgstr "VNC 服务器"
+
+#. summary(gupnp:libgupnp-1_0-4)
+msgid "Implementation of the UPnP specification"
+msgstr ""
+
+#. description(banshee)
+msgid ""
+"Import, organize, and discover new music with Banshee through its simple and "
+"powerful interface and wide array of innovative features. Create your own "
+"radio stations or listen to a friends' through Last.fm integration; "
+"experience automatic cover art fetching as you listen; and easily browse, "
+"search, and control your media collection.\n"
+"\n"
+"This package provides the Classic Banshee client, a familiar user interface "
+"with a source list and three-pane layout for browsing and exploring media. "
+"This client is the most feature rich, but does not sacrifice usability."
+msgstr ""
+
+#. summary(empathy)
+msgid "Instant Messenger Client for GNOME, based on Telepathy"
+msgstr ""
+
+#. summary(nautilus-sendto)
+msgid "Integrate Nautilus, Evolution, Empathy and Pidgin"
+msgstr ""
+
+#. summary(libnice:libnice10)
+msgid "Interactive Connectivity Establishment implementation"
+msgstr ""
+
+#. summary(libnice:gstreamer-0_10-libnice)
+msgid ""
+"Interactive Connectivity Establishment implementation - GStreamer plug-in"
+msgstr ""
+
+#. description(json-glib:libjson-glib-1_0-0)
+msgid ""
+"JSON is a lightweight data-interchange format.It is easy for humans to read "
+"and write. It is easy for machines to parse and generate.\n"
+"\n"
+"JSON-GLib provides a parser and a generator GObject classes and various "
+"wrappers for the complex data types employed by JSON, such as arrays and "
+"objects.\n"
+"\n"
+"JSON-GLib uses GLib native data types and the generic value container GValue "
+"for ease of development. It also provides integration with the GObject "
+"classes for direct serialization into, and deserialization from, JSON data "
+"streams."
+msgstr ""
+
+#. description(json-glib:typelib-1_0-Json-1_0)
+msgid ""
+"JSON is a lightweight data-interchange format.It is easy for humans to read "
+"and write. It is easy for machines to parse and generate.\n"
+"\n"
+"JSON-GLib provides a parser and a generator GObject classes and various "
+"wrappers for the complex data types employed by JSON, such as arrays and "
+"objects.\n"
+"\n"
+"JSON-GLib uses GLib native data types and the generic value container GValue "
+"for ease of development. It also provides integration with the GObject "
+"classes for direct serialization into, and deserialization from, JSON data "
+"streams.\n"
+"\n"
+"This package provides the GObject Introspection bindings for JSON-GLib."
+msgstr ""
+
+#. summary(libwebkit:typelib-1_0-JSCore-1_0)
+msgid "JavaScript Core Engine, GTK+ Port -- Introspection bindings"
+msgstr ""
+
+#. summary(gjs)
+msgid "JavaScript bindings based on gobject-introspection and Mozilla"
+msgstr ""
+
+#. summary(gnome-js-common)
+msgid "JavaScript bindings based on gobject-introspection and WebKit"
+msgstr ""
+
+#. summary(lapack:liblapack3)
+msgid "LAPACK Shared Library"
+msgstr ""
+
+#. description(lapack:liblapack3)
+msgid ""
+"LAPACK provides routines for solving systems of simultaneous linear "
+"equations, least-squares solutions of linear systems of equations, "
+"eigenvalue problems, and singular value problems. The associated matrix "
+"factorizations (LU, Cholesky, QR, SVD, Schur, generalized Schur) are also "
+"provided, as are related computations such as reordering of the Schur "
+"factorizations and estimating condition numbers. Dense and banded matrices "
+"are handled, but not general sparse matrices. In all areas, similar "
+"functionality is provided for real and complex matrices, in both single and "
+"double precision."
+msgstr ""
+
+#. summary(gnome-games:quadrapassel-lang)
+msgid "Languages for package gnome-games"
+msgstr ""
+
+#. summary(gnome-panel:gnome-panel-lang)
+msgid "Languages for package gnome-panel"
+msgstr ""
+
+#. summary(libsocialweb:libsocialweb-lang)
+msgid "Languages for package libsocialweb"
+msgstr ""
+
+#. summary(sushi:sushi-lang)
+#, fuzzy
+msgid "Languages for package sushi"
+msgstr "语言：     "
+
+#. summary(libgtop:libgtop-2_0-7)
+msgid "LibGTop Library"
+msgstr ""
+
+#. description(libidl:libIDL-2-0)
+msgid ""
+"LibIDL is a small library for creating parse trees of CORBA v2.2-compliant "
+"Interface Definition Language (IDL) files. IDL is a specification for "
+"defining interfaces that can be used between different CORBA implementations."
+msgstr ""
+
+#. description(memphis:libmemphis-0_2-0)
+msgid ""
+"LibMemphis provides a GObject based API to render OpenStreetMap data on a "
+"cairo surface. Libmemphis implements the 'Slippy Map Tilename' "
+"specification, like Mapnik and Osmarender.\n"
+"\n"
+"It supports zoom level 12 to 18, projected with the Mercator projection."
+msgstr ""
+
+#. description(libraw:libraw2)
+msgid ""
+"LibRaw is a library for reading RAW files obtained from digital photo "
+"cameras (CRW/CR2, NEF, RAF, DNG, and others).\n"
+"\n"
+"LibRaw is based on the source codes of the dcraw utility, where part of "
+"drawbacks have already been eliminated and part will be fixed in future."
+msgstr ""
+
+#. description(libchamplain:libchamplain-0_12-0)
+msgid ""
+"Libchamplain is a C library providing a ClutterActor to display maps. It "
+"also provides a Gtk+ widget to display maps in Gtk+ applications.\n"
+"\n"
+"It supports numerous free map sources such as OpenStreetMap, OpenAerialMap "
+"and Maps for free."
+msgstr ""
+
+#. description(libcryptui:libcryptui-data)
+msgid "Libcryptui is a library used for prompting for PGP keys."
+msgstr ""
+
+#. description(libgee:libgee2)
+msgid ""
+"Libgee is a collection library providing GObject-based interfaces and "
+"classes for commonly used data structures."
+msgstr ""
+
+#. description(libgee:typelib-1_0-Gee-1_0)
+msgid ""
+"Libgee is a collection library providing GObject-based interfaces and "
+"classes for commonly used data structures.\n"
+"\n"
+"This package provides the GObject Introspection bindings for libgee."
+msgstr ""
+
+#. description(libgnomesu)
+msgid ""
+"Libgnomesu is a library for providing superuser privileges to GNOME "
+"applications. It supports sudo, consolehelper, PAM, and su."
+msgstr ""
+
+#. description(liblouis:liblouis2)
+msgid ""
+"Liblouis is an open-source braille translator and back-translator. It "
+"features support for computer and literary braille, supports contracted and "
+"uncontracted translation for many, many languages and has support for "
+"hyphenation. New languages can easily be added through tables that support a "
+"rule- or dictionary based approach.\n"
+"\n"
+"Liblouis also supports math braille (Nemeth and Marburg). The formatting of "
+"braille is provided by the companion project liblouisxml.\n"
+"\n"
+"Liblouis is based on the translation routines in the BRLTTY screenreader for "
+"Linux. It has, however, gone far beyond these routines. It is named in honor "
+"of Louis Braille."
+msgstr ""
+
+#. description(python-louis)
+msgid ""
+"Liblouis is an open-source braille translator and back-translator. It "
+"features support for computer and literary braille, supports contracted and "
+"uncontracted translation for many, many languages and has support for "
+"hyphenation. New languages can easily be added through tables that support a "
+"rule- or dictionary based approach.\n"
+"\n"
+"Liblouis also supports math braille (Nemeth and Marburg). The formatting of "
+"braille is provided by the companion project liblouisxml.\n"
+"\n"
+"Liblouis is based on the translation routines in the BRLTTY screenreader for "
+"Linux. It has, however, gone far beyond these routines. It is named in honor "
+"of Louis Braille.\n"
+"\n"
+"Included are also tools for testing and debugging tables."
+msgstr ""
+
+#. summary(libproxy-plugins:libproxy1-pacrunner-webkit)
+msgid ""
+"Libproxy module to support WPAD/PAC parsing via WebKit JavaScript Engine"
+msgstr ""
+
+#. summary(gcr:typelib-1_0-Gcr-3)
+#, fuzzy
+msgid "Library for Crypto UI related task -- Introspection bindings"
+msgstr "开发"
+
+#. summary(gdm:libgdmsimplegreeter1)
+#, fuzzy
+msgid "Library for GDM Simple Greeter Extensions"
+msgstr "等待导航栏应用程序"
+
+#. summary(libgadu:libgadu3)
+msgid "Library for Handling of Gadu-Gadu Instant Messaging"
+msgstr ""
+
+#. summary(json-glib:libjson-glib-1_0-0)
+msgid "Library for JavaScript Object Notation format"
+msgstr ""
+
+#. summary(json-glib:typelib-1_0-Json-1_0)
+msgid "Library for JavaScript Object Notation format -- Introspection bindings"
+msgstr ""
+
+#. summary(pango:typelib-1_0-Pango-1_0)
+msgid "Library for Layout and Rendering of Text -- Introspection bindings"
+msgstr ""
+
+#. summary(libquicktime:libquicktime0)
+msgid "Library for Reading and Writing Quicktime Movie Files"
+msgstr ""
+
+#. summary(schroedinger:libschroedinger-1_0-0)
+msgid "Library for decoding and encoding video in the Dirac format"
+msgstr ""
+
+#. summary(libcryptui:libcryptui0)
+#, fuzzy
+msgid "Library for prompting for PGP keys"
+msgstr "电源管理 (APM)"
+
+#. summary(libcryptui:seahorse-daemon)
+#, fuzzy
+msgid "Library for prompting for PGP keys -- Daemon"
+msgstr "等待导航栏应用程序"
+
+#. summary(libcryptui:libcryptui-data)
+#, fuzzy
+msgid "Library for prompting for PGP keys -- Data"
+msgstr "电源管理 (APM)"
+
+#. summary(libraw:libraw2)
+msgid "Library for reading RAW files obtained from digital photo cameras"
+msgstr ""
+
+#. summary(libgxps:libgxps2)
+#, fuzzy
+msgid "Library for rendering XPS documents"
+msgstr "等待导航栏应用程序"
+
+#. summary(libwebkit:typelib-1_0-WebKit-1_0)
+msgid "Library for rendering web content, GTK+ Port -- Introspection bindings"
+msgstr ""
+
+#. summary(gssdp:libgssdp-1_0-3)
+msgid "Library for resource discovery and announcement over SSDP"
+msgstr ""
+
+#. summary(fuse:libfuse2)
+msgid "Library of FUSE, the User space File System for GNU/Linux and BSD"
+msgstr ""
+
+#. summary(libbluray:libbluray1)
+msgid "Library to access Blu-Ray disk"
+msgstr ""
+
+#. summary(librest:librest0)
+msgid "Library to access RESTful web services"
+msgstr ""
+
+#. summary(folks:libfolks25)
+msgid "Library to create metacontacts from multiple sources"
+msgstr ""
+
+#. summary(folks:libfolks-eds25)
+msgid "Library to create metacontacts from multiple sources -- EDS Backend"
+msgstr ""
+
+#. summary(folks:typelib-1_0-Folks-0_6)
+msgid ""
+"Library to create metacontacts from multiple sources -- Introspection "
+"bindings"
+msgstr ""
+
+#. summary(folks:libfolks-telepathy25)
+msgid ""
+"Library to create metacontacts from multiple sources -- Telepathy Backend"
+msgstr ""
+
+#. summary(folks:libfolks-libsocialweb25)
+msgid ""
+"Library to create metacontacts from multiple sources -- libsocialweb Backend"
+msgstr ""
+
+#. summary(libchamplain:libchamplain-0_12-0)
+msgid "Library to display maps"
+msgstr ""
+
+#. summary(gupnp-av:libgupnp-av-1_0-2)
+msgid "Library to ease the handling and implementation of UPnP A/V profiles"
+msgstr ""
+
+#. summary(libgweather:libgweather-3-0)
+msgid "Library to get online weather information"
+msgstr ""
+
+#. summary(gupnp-igd:libgupnp-igd-1_0-4)
+msgid "Library to handle UPnP IGD port mapping"
+msgstr ""
+
+#. summary(libwacom:libwacom2)
+msgid "Library to identify wacom tablets"
+msgstr ""
+
+#. summary(libwacom:libwacom-data)
+msgid "Library to identify wacom tablets -- Data Files"
+msgstr ""
+
+#. summary(gnome-dictionary:libgdict-1_0-6)
+msgid "Library to look up words in dictionary sources"
+msgstr ""
+
+#. summary(libquvi:libquvi7)
+msgid "Library to parse flash media stream URLs"
+msgstr ""
+
+#. summary(brltty:libbrlapi0_5)
+#, fuzzy
+msgid "Library to use BRLTTY from applications"
+msgstr "等待导航栏应用程序"
+
+#. summary(brltty:python-brlapi)
+msgid "Library to use BRLTTY from applications -- Python Bindings"
+msgstr ""
+
+#. summary(libxklavier:libxklavier16)
+msgid "Library with X keyboard related functions"
+msgstr ""
+
+#. summary(libxklavier:typelib-1_0-Xkl-1_0)
+msgid "Library with X keyboard related functions -- Introspection bindings"
+msgstr ""
+
+#. description(libsocialweb)
+msgid ""
+"Libsocialweb is a personal social data server, that can interact with social "
+"web services, like Flickr, Last.fm, Twitter and Vimeo."
+msgstr ""
+
+#. description(libsocialweb:libsocialweb-client2)
+msgid ""
+"Libsocialweb is a personal social data server, that can interact with social "
+"web services, like Flickr, Last.fm, Twitter and Vimeo.\n"
+"\n"
+"This package contains libraries used by clients willing to use libsocialweb "
+"features."
+msgstr ""
+
+#. description(libsocialweb:libsocialweb0)
+msgid ""
+"Libsocialweb is a personal social data server, that can interact with social "
+"web services, like Flickr, Last.fm, Twitter and Vimeo.\n"
+"\n"
+"This package contains libraries used by libsocialweb services."
+msgstr ""
+
+#. description(libsocialweb-branding-openSUSE)
+msgid ""
+"Libsocialweb is a personal social data server, that can interact with social "
+"web services, like Flickr, Last.fm, Twitter and Vimeo.\n"
+"\n"
+"This package provides API keys from openSUSE, for the web services "
+"accessible with libsocialweb."
+msgstr ""
+
+#. description(libsoup:typelib-1_0-Soup-2_4)
+msgid ""
+"Libsoup is an HTTP client/server library for GNOME. It uses GObjects and the "
+"glib main loop, to integrate well with GNOME applications.\n"
+"\n"
+"This package provides the GObject Introspection bindings for libsoup."
+msgstr ""
+
+#. description(liferea)
+msgid ""
+"Liferea is an abbreviation for Linux Feed Reader. It is a news aggregator "
+"for online news feeds. It supports a number of different feed formats "
+"including RSS/RDF, CDF, Atom, OCS, and OPML. There are many other news "
+"readers available, but these others are not available for Linux or require "
+"many extra libraries to be installed. Liferea tries to fill this gap by "
+"creating a fast, easy-to-use, easy-to-install news aggregator for GTK and "
+"GNOME."
+msgstr ""
+
+#. summary(gnome-games:lightsoff)
+msgid "Lights Out Game for GNOME"
+msgstr ""
+
+#. description(gnome-games:lightsoff)
+msgid ""
+"Lights Out is a board game where the goal is to switch off all tiles. "
+"Toggling the status of one tile, will also toggle the status of its adjacent "
+"tiles.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(gtkhtml:libgtkhtml-4_0-0)
+msgid "Lightweight HTML rendering/printing/editing engine"
+msgstr ""
+
+#. summary(transmission:transmission-gtk)
+msgid "Lightweight, yet powerful BitTorrent client"
+msgstr ""
+
+#. summary(transmission:transmission-common)
+msgid "Lightweight, yet powerful BitTorrent client - Common Data"
+msgstr ""
+
+#. summary(telepathy-salut)
+msgid "Link-local XMPP connection manager for Telepathy"
+msgstr ""
+
+#. summary(liferea)
+msgid "Linux Feed Reader"
+msgstr ""
+
+#. summary(gnome-control-center:gnome-control-center-user-faces)
+msgid "Login Managers user avatars"
+msgstr ""
+
+#. summary(libquvi-scripts)
+msgid "Lua scripts used by libquvi"
+msgstr ""
+
+#. summary(net-snmp:snmp-mibs)
+msgid "MIB files from net-snmp"
+msgstr ""
+
+#. summary(libtimidity:libtimidity-0_1-0)
+msgid "MIDI to WAVE converter library"
+msgstr ""
+
+#. summary(gmime:libgmime-2_6-0)
+#, fuzzy
+msgid "MIME Parser and Utility Library"
+msgstr "打印服务器"
+
+#. summary(mjpegtools:libmjpegutils-2_0-0)
+msgid "MJPEG Video Capture and Processing Tools"
+msgstr ""
+
+#. summary(banshee:banshee-dmp-mtp)
+msgid "MTP/PlaysForSure Digital Media Player support for Banshee"
+msgstr ""
+
+#. summary(gnome-games:mahjongg)
+msgid "Mahjong Solitaire Game for GNOME"
+msgstr ""
+
+#. description(gnome-games:mahjongg)
+msgid ""
+"Mahjongg is a solitaire version of the classic Eastern tile game. It "
+"involves clearing as much of the board as possible by matching corresponding "
+"tiles and taking them out of play.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(libosinfo)
+#, fuzzy
+msgid "Manage information about operating systems and hypervisors"
+msgstr "没有可用信息。"
+
+#. summary(dbus-sharp)
+msgid "Managed C# implementation of D-Bus"
+msgstr ""
+
+#. summary(memphis:libmemphis-0_2-0)
+msgid "Map-rendering library for OpenStreetMap -- Library"
+msgstr ""
+
+#. summary(media-player-info)
+#, fuzzy
+msgid "Media Player Information"
+msgstr "切换信息"
+
+#. summary(grilo-plugins)
+msgid "Media discovering and browsing framework -- Media and Metadata Plugins"
+msgstr ""
+
+#. summary(alacarte)
+#, fuzzy
+msgid "Menu editor for GNOME"
+msgstr "VNC 服务器"
+
+#. summary(DirectFB:DirectFB-Mesa)
+msgid "Mesa backend of Graphics Library for Framebuffer Devices"
+msgstr ""
+
+#. description(DirectFB:DirectFB-Mesa)
+msgid ""
+"Mesa backend of Graphics Library for Framebuffer Devices:  * gfxdrivers/"
+"libdirectfb_gl.so  * systems/libdirectfb_x11.so"
+msgstr ""
+
+#. description(Mesa)
+msgid ""
+"Mesa is a 3-D graphics library with an API which is very similar to that of "
+"OpenGL.* To the extent that Mesa utilizes the OpenGL command syntax or state "
+"machine, it is being used with authorization from Silicon Graphics, Inc."
+"(SGI). However, the author does not possess an OpenGL license from SGI, and "
+"makes no claim that Mesa is in any way a compatible replacement for OpenGL "
+"or associated with SGI. Those who want a licensed implementation of OpenGL "
+"should contact a licensed vendor.\n"
+"\n"
+"Please do not refer to the library as MesaGL (for legal reasons). It's just "
+"Mesa or The Mesa 3-D graphics library.\n"
+"\n"
+"* OpenGL is a trademark of Silicon Graphics Incorporated."
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome)
+msgid "Meta package for pattern gnome"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome_basis)
+msgid "Meta package for pattern gnome_basis"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome_games)
+msgid "Meta package for pattern gnome_games"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome_imaging)
+msgid "Meta package for pattern gnome_imaging"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome_internet)
+msgid "Meta package for pattern gnome_internet"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome_laptop)
+msgid "Meta package for pattern gnome_laptop"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome_multimedia)
+msgid "Meta package for pattern gnome_multimedia"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome_office)
+msgid "Meta package for pattern gnome_office"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome_utilities)
+msgid "Meta package for pattern gnome_utilities"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-gnome_yast)
+msgid "Meta package for pattern gnome_yast"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-sw_management_gnome)
+msgid "Meta package for pattern sw_management_gnome"
+msgstr ""
+
+#. description(metacity)
+#, fuzzy
+msgid "Metacity is a window manager for the GNOME Desktop."
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. summary(tracker:libtracker-miner-0_14-0)
+msgid "Miner library for Tracker"
+msgstr ""
+
+#. summary(gnome-games:gnomine)
+msgid "Minesweeper Game for GNOME"
+msgstr ""
+
+#. description(telepathy-mission-control:libmission-control-plugins0)
+msgid ""
+"Mission Control, or MC, is a Telepathy component providing a way for \"end-"
+"user\" applications to abstract some of the details of connection managers, "
+"to provide a simple way to manipulate a bunch of connection managers at "
+"once, to remove the need to have in each program the account definitions and "
+"credentials, to manage channel handling/request and to manage presence "
+"statuses."
+msgstr ""
+
+#. summary(geoclue)
+msgid "Modular Geoinformation Service"
+msgstr ""
+
+#. summary(geoclue:geoclue-recommended)
+msgid "Modular Geoinformation Service - Recommended providers"
+msgstr ""
+
+#. summary(mono-addins)
+msgid "Mono Addins Framework"
+msgstr ""
+
+#. summary(gnome-sharp2:gconf-sharp2)
+msgid "Mono bindings for gconf"
+msgstr ""
+
+#. summary(gtk-sharp2:glib-sharp2)
+msgid "Mono bindings for glib"
+msgstr ""
+
+#. summary(mono-core:mono-web)
+msgid "Mono implementation of ASP.NET, Remoting and Web Services"
+msgstr ""
+
+#. description(mono-addins)
+msgid ""
+"Mono.Addins is a generic framework for creating extensible applications, and "
+"for creating libraries which extend those applications."
+msgstr ""
+
+#. description(mono-zeroconf)
+msgid ""
+"Mono.Zeroconf is a cross platform Zero Configuration Networking library for "
+"Mono and .NET. It provides a unified API for performing the most common "
+"zeroconf operations on a variety of platforms and subsystems: all the "
+"operating systems supported by Mono and both the Avahi and Bonjour/"
+"mDNSResponder transports."
+msgstr ""
+
+#. summary(totem)
+msgid "Movie Player for the GNOME Desktop"
+msgstr ""
+
+#. summary(taglib-sharp)
+msgid "Multimedia metadata reading/writing library for popular formats"
+msgstr ""
+
+#. description(libofa:libofa0)
+msgid ""
+"MusicDNS and the Open Fingerprint Architecture provide a system for "
+"identifying a piece of music with nothing more than the sound of the piece "
+"itself. This library is by design compatible with the MusicDNS web service. "
+"Non-commercial access to the service is available at http://www.musicdns.org."
+msgstr ""
+
+#. description(mutter)
+msgid ""
+"Mutter is a window and compositing manager based on Clutter, forked from "
+"Metacity."
+msgstr ""
+
+#. description(mx:libmx-1_0-2)
+msgid ""
+"Mx is a widget toolkit using Clutter that provides a set of standard "
+"interface elements, including buttons, progress bars, scroll bars and others."
+msgstr ""
+
+#. summary(nautilus-open-terminal)
+msgid "Nautilus Extension to Open Terminal in Folders"
+msgstr ""
+
+#. description(nautilus)
+#, fuzzy
+msgid "Nautilus is the file manager for the GNOME desktop."
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. description(nautilus:libnautilus-extension1)
+msgid ""
+"Nautilus is the file manager for the GNOME desktop.\n"
+"\n"
+"This package contains the library used by nautilus extensions."
+msgstr ""
+
+#. description(net-snmp:libsnmp30)
+msgid ""
+"Net-SNMP is a suite of applications used to implement SNMP v1, SNMP v2c and "
+"SNMP v3 using both IPv4 and IPv6. The suite includes:\n"
+"\n"
+"* An extensible agent for responding to SNMP queries including built-in   "
+"support for a wide range of MIB information modules\n"
+"* Command-line applications to retrieve and manipulate information from   "
+"SNMP-capable devices\n"
+"* A daemon application for receiving SNMP notifications\n"
+"* A library for developing new SNMP applications, with C and Perl APIs\n"
+"* A graphical MIB browser.\n"
+"\n"
+"This package holds the shared libraries from the net-snmp package."
+msgstr ""
+
+#. description(net-snmp:snmp-mibs)
+msgid ""
+"Net-SNMP is a suite of applications used to implement SNMP v1, SNMP v2c and "
+"SNMP v3 using both IPv4 and IPv6. The suite includes:\n"
+"\n"
+"- An extensible agent for responding to SNMP queries including built-in   "
+"support for a wide range of MIB information modules\n"
+"- Command-line applications to retrieve and manipulate information from   "
+"SNMP-capable devices\n"
+"- A daemon application for receiving SNMP notifications\n"
+"- A library for developing new SNMP applications, with C and Perl APIs\n"
+"- A graphical MIB browser.\n"
+"\n"
+"This package holds the MIB files from the net-snmp package."
+msgstr ""
+
+#. summary(NetworkManager-gnome:libnm-gtk0)
+msgid "NetworkManager Gtk+ dialogs"
+msgstr ""
+
+#. summary(gnokii)
+msgid "Nokia Connectivity Program"
+msgstr ""
+
+#. summary(notification-daemon)
+msgid "Notification Daemon"
+msgstr ""
+
+#. summary(libnotify:libnotify-tools)
+msgid "Notifications Library -- Tools"
+msgstr ""
+
+#. summary(python-numpy)
+msgid "NumPy array processing for numbers, strings, records and objects"
+msgstr ""
+
+#. description(python-numpy)
+msgid ""
+"NumPy is a general-purpose array-processing package designed to efficiently "
+"manipulate large multi-dimensional arrays of arbitrary records without "
+"sacrificing too much speed for small multi-dimensional arrays.  NumPy is "
+"built on the Numeric code base and adds features introduced by numarray as "
+"well as an extended C-API and the ability to create arrays of arbitrary type "
+"which also makes NumPy suitable for interfacing with general-purpose data-"
+"base applications.\n"
+"\n"
+"There are also basic facilities for discrete fourier transform, basic linear "
+"algebra and random number generation."
+msgstr ""
+
+#. description(orbit2)
+msgid ""
+"ORBit is a high-performance CORBA (Common Object Request Broker "
+"Architecture) ORB (Object Request Broker). It allows programs to send "
+"requests and receive replies from other programs, regardless of the "
+"locations of the two programs. CORBA is an architecture that enables "
+"communication between program objects, regardless of the programming "
+"language they are written in or the operating system they run on.\n"
+"\n"
+"You will need to install this package if you want to run programs that use "
+"the CORBA technology ORBit implementation."
+msgstr ""
+
+#. summary(libgsf:gsf-office-thumbnailer)
+#, fuzzy
+msgid "Office files thumbnailer for the GNOME desktop"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. summary(caribou)
+#, fuzzy
+msgid "On-screen Keyboard for GNOME"
+msgstr "GNOME 屏幕保护程序"
+
+#. summary(caribou:caribou-gtk-module-common)
+msgid "On-screen Keyboard for GNOME -- Common Files for GTK+ Modules"
+msgstr ""
+
+#. summary(caribou:caribou-gtk2-module)
+msgid "On-screen Keyboard for GNOME -- GTK+ 2 Module"
+msgstr ""
+
+#. summary(caribou:caribou-gtk3-module)
+msgid "On-screen Keyboard for GNOME -- GTK+ 3 Module"
+msgstr ""
+
+#. summary(caribou:typelib-1_0-Caribou-1_0)
+#, fuzzy
+msgid "On-screen Keyboard for GNOME -- Introspection bindings"
+msgstr "GNOME 屏幕保护程序"
+
+#. summary(caribou:libcaribou0)
+msgid "On-screen Keyboard for GNOME -- Library"
+msgstr ""
+
+#. description(yast2-gtk)
+msgid ""
+"One of several user interfaces available for YaST2, based on GTK and the X "
+"Window System."
+msgstr ""
+
+#. summary(libofa:libofa0)
+msgid "Open Fingerprint Architecture Library"
+msgstr ""
+
+#. summary(libgdiplus0)
+msgid "Open Source Implementation of the GDI+ API"
+msgstr ""
+
+#. summary(openal-soft:libopenal1-soft)
+msgid "OpenAL Soft"
+msgstr ""
+
+#. description(openal-soft:libopenal1-soft)
+msgid ""
+"OpenAL is an audio library designed in the spirit of OpenGL--machine "
+"independent, cross platform, and data format neutral with a clean, simple C-"
+"based API.\n"
+"\n"
+"OpenAL Soft is an alternative software implementation with a shared and a "
+"cleaned up codebase, based on the windows reference implementation."
+msgstr ""
+
+#. description(orca)
+msgid ""
+"Orca is a free, open source, flexible, and extensible screen reader that "
+"provides access to the graphical desktop via user-customizable combinations "
+"of speech, braille, and/or magnification."
+msgstr ""
+
+#. summary(pcsc-lite:libpcsclite1)
+#, fuzzy
+msgid "PCSC Smart Card Library"
+msgstr "编目管理"
+
+#. summary(pcsc-lite)
+#, fuzzy
+msgid "PCSC Smart Cards Library"
+msgstr "编目管理"
+
+#. description(pango:typelib-1_0-Pango-1_0)
+msgid ""
+"Pango is a library for layout and rendering of text, with an emphasis on "
+"internationalization. It can be used anywhere that text layout is needed.\n"
+"\n"
+"Pango forms the core of text and font handling for GTK+.\n"
+"\n"
+"This package provides the GObject Introspection bindings for Pango."
+msgstr ""
+
+#. summary(gnome-phone-manager)
+msgid "Phone Manager for GNOME"
+msgstr ""
+
+#. summary(gnome-phone-manager:gnome-bluetooth-plugin-phone-manager)
+msgid "Phone Manager for GNOME -- Plugin for GNOME Bluetooth"
+msgstr ""
+
+#. summary(shotwell)
+#, fuzzy
+msgid "Photo Manager for GNOME"
+msgstr "电源管理 (APM)"
+
+#. summary(totem:totem-plugins)
+msgid "Plugins for Totem Movie Player"
+msgstr ""
+
+#. summary(polkit:typelib-1_0-Polkit-1_0)
+msgid "PolicyKit Authorization Framework -- Introspection bindings"
+msgstr ""
+
+#. summary(cups-pk-helper)
+msgid "PolicyKit helper to configure cups with fine-grained privileges"
+msgstr ""
+
+#. summary(polkit-gnome)
+msgid "PolicyKit integration for the GNOME desktop"
+msgstr ""
+
+#. description(polkit:typelib-1_0-Polkit-1_0)
+msgid ""
+"PolicyKit is a toolkit for defining and handling authorizations. It is used "
+"for allowing unprivileged processes to speak to privileged processes.\n"
+"\n"
+"This package provides the GObject Introspection bindings for PolicyKit."
+msgstr ""
+
+#. summary(libass:libass4)
+msgid "Portable Library for SSA/ASS Subtitles Rendering"
+msgstr ""
+
+#. summary(libcanberra:canberra-gtk-play)
+msgid "Portable sound event library -- Utility"
+msgstr ""
+
+#. summary(upower:typelib-1_0-UpowerGlib-1_0)
+msgid "Power Device Enumeration Framework - Introspection bindings"
+msgstr ""
+
+#. summary(gnome-power-manager)
+#, fuzzy
+msgid "Power Management for GNOME"
+msgstr "电源管理 (APM)"
+
+#. summary(tracker)
+msgid ""
+"Powerful object database, tag/metadata database, search tool and indexer"
+msgstr ""
+
+#. description(gnome-games:quadrapassel-lang)
+msgid "Provides translations to the package gnome-games"
+msgstr ""
+
+#. description(gnome-panel:gnome-panel-lang)
+msgid "Provides translations to the package gnome-panel"
+msgstr ""
+
+#. description(libsocialweb:libsocialweb-lang)
+msgid "Provides translations to the package libsocialweb"
+msgstr ""
+
+#. description(sushi:sushi-lang)
+#, fuzzy
+msgid "Provides translations to the package sushi"
+msgstr "等待导航栏应用程序"
+
+#. description(python-gtk)
+msgid ""
+"PyGTK is an extension module for python that gives you access to the GTK+ "
+"widget set.  Just about anything you can write in C with GTK+ you can write "
+"in python with PyGTK (within reason), but with all of python's benefits."
+msgstr ""
+
+#. description(python-gobject:libpyglib-gi-2_0-python0)
+msgid ""
+"Pygobjects is an extension module for python that gives you access to GLib's "
+"GObjects.\n"
+"\n"
+"The bindings are handled by gobject-introspection libraries."
+msgstr ""
+
+#. description(python-gobject:python-gobject-cairo)
+msgid ""
+"Pygobjects is an extension module for python that gives you access to GLib's "
+"GObjects.\n"
+"\n"
+"This package contains the Python Cairo bindings for GObject."
+msgstr ""
+
+#. summary(python-cups)
+msgid "Python Bindings for CUPS"
+msgstr ""
+
+#. description(python-cups)
+msgid "Python Bindings for CUPS, the Common Unix Printing System"
+msgstr ""
+
+#. summary(python-cairo)
+msgid "Python Bindings for Cairo"
+msgstr ""
+
+#. summary(python-gstreamer-0_10)
+msgid "Python Bindings for GStreamer"
+msgstr ""
+
+#. summary(gnome-menus-legacy:python-gnome-menus)
+msgid "Python Bindings for the GNOME Desktop Menu"
+msgstr ""
+
+#. summary(python-gobject:libpyglib-gi-2_0-python0)
+msgid "Python Gobject Introspeciton binding"
+msgstr ""
+
+#. summary(gnome-python-desktop:python-gnomekeyring)
+#, fuzzy
+msgid "Python bindings for GNOME Keyring"
+msgstr "电源管理 (APM)"
+
+#. summary(python-gobject:python-gobject-cairo)
+msgid "Python bindings for GObject -- Cairo bindings"
+msgstr ""
+
+#. description(python-cairo)
+msgid "Python bindings for cairo."
+msgstr ""
+
+#. summary(python-notify)
+msgid "Python bindings for libnotify"
+msgstr ""
+
+#. description(python-notify)
+msgid "Python bindings for libnotify."
+msgstr ""
+
+#. summary(python-smbc)
+msgid "Python bindings for samba clients (libsmbclient)"
+msgstr ""
+
+#. summary(python-gtk)
+msgid "Python bindings for the GTK+ widget set"
+msgstr ""
+
+#. description(gnome-games:quadrapassel)
+msgid ""
+"Quadrapassel is a version of Tetris, the classic game of interlocking four-"
+"piece blocks. As they fall from the top, the player must orient them to fit "
+"the other blocks at the bottom so that they form a complete horizontal line, "
+"in which case that line disappears and the player gains points.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(sushi)
+msgid "Quick Previewer for Nautilus"
+msgstr ""
+
+#. summary(sushi:typelib-1_0-Sushi-1_0)
+msgid "Quick Previewer for Nautilus -- Introspection bindings"
+msgstr ""
+
+#. summary(sushi:libsushi-1_0-0)
+msgid "Quick Previewer for Nautilus -- Library"
+msgstr ""
+
+#. summary(fortune)
+msgid "Random Saying"
+msgstr ""
+
+#. summary(gnome-games:gnome-games-recommended)
+msgid "Recommended Games for GNOME"
+msgstr ""
+
+#. summary(gnome-games:iagno)
+msgid "Reversi Game for GNOME"
+msgstr ""
+
+#. summary(sane-backends)
+msgid "SANE (Scanner Access Now Easy) Scanner Drivers"
+msgstr ""
+
+#. description(silc-toolkit:libsilc-1_1-2)
+msgid ""
+"SILC Toolkit is a software development toolkit which provides full SILC "
+"protocol implementation for application developers. The SILC Toolkit "
+"provides SILC Client Library, SILC Protocol Core Library, SILC Key Exchange "
+"Library, SILC Crypto Library, SILC Math Library, SILC Utility Library, and "
+"other libraries. The SILC Toolkit also includes full reference manual and "
+"developer guide with examples and tutorials.\n"
+"\n"
+"SILC (Secure Internet Live Conferencing) is a protocol which provides secure "
+"conferencing services on the Internet over insecure channel. SILC is IRC-"
+"like software although internally they are very different. The biggest "
+"similarity between SILC and IRC is that they both provide conferencing "
+"services and that SILC has almost the same commands as IRC. Other than that "
+"they are nothing alike.  Major differences are that SILC is secure what IRC "
+"is not in any way.  The network model is also entirely different compared to "
+"IRC."
+msgstr ""
+
+#. description(silc-toolkit)
+msgid ""
+"SILC Toolkit is a software development toolkit which provides full SILC "
+"protocol implementation for application developers. The SILC Toolkit "
+"provides SILC Client Library, SILC Protocol Core Library, SILC Key Exchange "
+"Library, SILC Crypto Library, SILC Math Library, SILC Utility Library, as "
+"well as other libraries. The SILC Toolkit also includes a full reference "
+"manual and developer guide with examples and tutorials.\n"
+"\n"
+"SILC (Secure Internet Live Conferencing) is a protocol which provides secure "
+"conferencing services on the Internet over insecure channels. SILC is "
+"similar to IRC, as they both provide conferencing services and almost have "
+"the same commands. However, they differ internally: unlike IRC, SILC is "
+"secure and has an entirely different network model compared to IRC."
+msgstr ""
+
+#. summary(telepathy-sofiasip)
+msgid "SIP connection manager for Telepathy"
+msgstr ""
+
+#. summary(samba:samba-client)
+msgid "Samba Client Utilities"
+msgstr ""
+
+#. description(samba)
+msgid ""
+"Samba is a suite of programs that allows SMB/CIFS clients to use the Unix "
+"file space, printers, and authentication subsystem.\n"
+"\n"
+"The package named samba contains all programs that are needed to act as a "
+"server.  The binaries expect the configuration file to be found in /etc/"
+"samba/smb.conf\n"
+"\n"
+"For a more detailed description of Samba, check the samba-doc package or the "
+"Samba.org Web page at http://www.Samba.org/\n"
+"\n"
+"Please check http://en.openSUSE.org/Samba for general information on Samba "
+"as part of SUSE Linux Enterprise or openSUSE products, links to binary "
+"packages of the most current Samba version, and a bug reporting how to.\n"
+"\n"
+" Source Timestamp: 2798 Branch      : 3.6.5.PTF"
+msgstr ""
+
+#. description(samba:samba-client)
+msgid ""
+"Samba is a suite of programs that allows SMB/CIFS clients to use the Unix "
+"file space, printers, and authentication subsystem.\n"
+"\n"
+"The package named samba-client contains all programs that are needed to act "
+"as a Samba client. The binaries expect the configuration file to be found "
+"in /etc/samba/smb.conf\n"
+"\n"
+"For a more detailed description of Samba, check the samba-doc package or the "
+"Samba.org Web page at http://www.Samba.org/\n"
+"\n"
+"Please check http://en.openSUSE.org/Samba for general information on Samba "
+"as part of SUSE Linux Enterprise or openSUSE products, links to binary "
+"packages of the most current Samba version, and a bug reporting how to.\n"
+"\n"
+" Source Timestamp: 2798 Branch      : 3.6.5.PTF"
+msgstr ""
+
+#. summary(gnome-games:swell-foop)
+msgid "Same Game for GNOME"
+msgstr ""
+
+#. summary(orca)
+msgid "Screen reader for GNOME"
+msgstr ""
+
+#. description(seahorse)
+msgid "Seahorse is a GNOME interface for gnupg. It uses gpgme as the backend."
+msgstr ""
+
+#. description(seahorse-nautilus:nautilus-extension-seahorse)
+msgid ""
+"Seahorse nautilus is an extension for nautilus which allows encryption and "
+"decryption of OpenPGP files using GnuPG."
+msgstr ""
+
+#. summary(silc-toolkit:libsilc-1_1-2)
+msgid "Secure Internet Live Conferencing Software Development Toolkit"
+msgstr ""
+
+#. description(gnome-js-common)
+msgid ""
+"Seed is a library and interpreter, dynamically bridging (through gobject-"
+"introspection) the WebKit JavaScriptCore engine with the GObject type "
+"system. In a more concrete sense, Seed enables you to immediately write "
+"applications around a significant portion of the GNOME platform, and easily "
+"embed JavaScript as a scripting language in your GObject library."
+msgstr ""
+
+#. summary(gnome-session:gnome-session-default-session)
+msgid "Session Manager for GNOME -- Default GNOME Session"
+msgstr ""
+
+#. summary(gnome-session:gnome-session-fallback-session)
+msgid "Session Manager for GNOME -- Fallback GNOME Session"
+msgstr ""
+
+#. summary(gnome-session:gnome-session-core)
+msgid "Session Manager for GNOME -- Minimal Version"
+msgstr ""
+
+#. summary(gnome-session)
+#, fuzzy
+msgid "Session Tools for the GNOME Desktop"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. summary(gnome-settings-daemon)
+#, fuzzy
+msgid "Settings daemon for the GNOME desktop"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. summary(net-snmp:libsnmp30)
+msgid "Shared Libraries from net-snmp"
+msgstr ""
+
+#. summary(libpst:libpst4)
+msgid "Shared library for libpst"
+msgstr ""
+
+#. summary(liboauth:liboauth0)
+msgid "Shared library from liboauth"
+msgstr ""
+
+#. description(shotwell)
+msgid ""
+"Shotwell is a digital photo organizer designed for the GNOME desktop "
+"environment. It allows you to import photos from disk or camera, organize "
+"them in various ways, view them in full-window or fullscreen mode, and "
+"export them to share with others."
+msgstr ""
+
+#. description(simple-scan)
+msgid ""
+"Simple Scan is an easy-to-use application, designed to let users connect "
+"their scanner and quickly have the image/document in an appropriate format.\n"
+"\n"
+"Simple Scan is basically a frontend for SANE - which is the same backend as "
+"XSANE uses. This means that all existing scanners will work and the "
+"interface is well tested."
+msgstr ""
+
+#. summary(simple-scan)
+#, fuzzy
+msgid "Simple Scanning Utility"
+msgstr "新应用程序"
+
+#. summary(gedit)
+msgid "Small and lightweight UTF-8 text editor"
+msgstr ""
+
+#. description(sofia-sip:libsofia-sip-ua-glib3)
+msgid ""
+"Sofia-SIP is an open-source SIP  User-Agent library, compliant with the IETF "
+"RFC3261 specification. It can be used as a building block for SIP client "
+"software for uses such as VoIP, IM, and many other real-time and person-to-"
+"person communication services. The primary target platform for Sofia-SIP is "
+"GNU/Linux. Sofia-SIP is based on a SIP stack developed at the Nokia Research "
+"Center.\n"
+"\n"
+"This package holds the glib2 bindings."
+msgstr ""
+
+#. description(sofia-sip:libsofia-sip-ua0)
+msgid ""
+"Sofia-SIP is an open-source SIP  User-Agent library, compliant with the IETF "
+"RFC3261 specification. It can be used as a building block for SIP client "
+"software for uses such as VoIP, IM, and many other real-time and person-to-"
+"person communication services. The primary target platform for Sofia-SIP is "
+"GNU/Linux. Sofia-SIP is based on a SIP stack developed at the Nokia Research "
+"Center.\n"
+"\n"
+"This package holds the shared libraries."
+msgstr ""
+
+#. summary(aisleriot)
+msgid "Solitaire Card Games for GNOME"
+msgstr ""
+
+#. description(soundtouch:libSoundTouch0)
+msgid ""
+"SoundTouch is an open source audio processing library that allows changing "
+"the sound tempo, pitch and playback rate parameters independently from each "
+"other."
+msgstr ""
+
+#. description(spandsp:libspandsp2)
+msgid ""
+"SpanDSP is a library of DSP functions for telephony, in the 8000 sample per "
+"second world of E1s, T1s, and higher order PCM channels. It contains low "
+"level functions, such as basic filters. It also contains higher level "
+"functions, such as cadenced supervisory tone detection, and a complete "
+"software FAX machine."
+msgstr ""
+
+#. summary(tracker:libtracker-sparql-0_14-0)
+msgid "Sparql library for Tracker"
+msgstr ""
+
+#. summary(tracker:typelib-1_0-Tracker-0_14)
+msgid "Sparql library for Tracker -- Introspection bindings"
+msgstr ""
+
+#. summary(brltty:brltty-driver-speech-dispatcher)
+msgid "Speech Dispatcher driver for BRLTTY"
+msgstr ""
+
+#. summary(gstreamer-0_10:typelib-1_0-Gst-0_10)
+msgid "Streaming-Media Framework Runtime -- Introspection bindings"
+msgstr ""
+
+#. summary(gnome-games:gnome-sudoku)
+#, fuzzy
+msgid "Sudoku Game for GNOME"
+msgstr "电源管理 (APM)"
+
+#. description(gnome-games:gnome-sudoku)
+msgid ""
+"Sudoku is a logic puzzle game, in which one must fill a 9 by 9 square with "
+"the correct digits.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. description(banshee:banshee-dmp-apple-devices)
+msgid ""
+"Support for iPod(R) devices including the iPod Classic(R) and iPod Nano(R). "
+"Does not support iPod Touch(R) or iPhone(R)."
+msgstr ""
+
+#. description(banshee:banshee-dmp-mtp)
+msgid ""
+"Support for various MTP/PlaysForSure/Certified For Windows Vista(R) devices "
+"as provided by libmtp."
+msgstr ""
+
+#. description(sushi:libsushi-1_0-0)
+msgid ""
+"Sushi is a quick previewer for Nautilus, the GNOME desktop file manager."
+msgstr ""
+
+#. description(sushi:typelib-1_0-Sushi-1_0)
+msgid ""
+"Sushi is a quick previewer for Nautilus, the GNOME desktop file manager.\n"
+"\n"
+"This package provides the GObject Introspection bindings for libsushi."
+msgstr ""
+
+#. description(gnome-games:swell-foop)
+msgid ""
+"Swell Foop is a puzzle game, of which the objective is to clear the window "
+"of as many pieces as possible by clicking on groups of the same colored "
+"pieces. That group will vanish and the pieces on top will fall until there "
+"are none left or no more color groups.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(gnome-icon-theme-symbolic)
+#, fuzzy
+msgid "Symbolic icon theme for GNOME"
+msgstr "电源管理 (APM)"
+
+#. summary(Mesa)
+msgid "System for rendering interactive 3-D graphics"
+msgstr ""
+
+#. description(t1lib)
+msgid ""
+"T1lib is a library for generating character and string glyphs from Adobe "
+"Type 1 fonts under UNIX. T1lib uses most of the code of the X Window System "
+"rasterizer donated by IBM to the X Window System project. Some disadvantages "
+"of the rasterizer included in the X Window System have been eliminated."
+msgstr ""
+
+#. summary(pidgin:libpurple-tcl)
+msgid "TCL Plugin Support for Pidgin"
+msgstr ""
+
+#. description(pidgin:libpurple-tcl)
+msgid ""
+"TCL plugin loader for Pidgin. This package will allow you to write or use "
+"Pidgin plugins written in the TCL programming language."
+msgstr ""
+
+#. description(taglib-sharp)
+msgid ""
+"TagLib# is a metadata or \"tag\" reader and writer library that supports the "
+"most common movie and music formats, abstracting away format specificity. "
+"TagLib# offers either a common API for all formats or access to specific "
+"APIs for a given format."
+msgstr ""
+
+#. summary(libreoffice-icon-themes:libreoffice-icon-theme-tango)
+msgid "Tango LibreOffice Icon Theme (GNOME default)"
+msgstr ""
+
+#. description(telepathy-farstream:libtelepathy-farstream2)
+msgid ""
+"Telepathy Farstream is a Telepathy client library that uses Farsight2 to "
+"handle Call channels."
+msgstr ""
+
+#. summary(empathy:telepathy-mission-control-plugin-goa)
+msgid "Telepathy Mission Control Plugin to use data from GNOME Online Accounts"
+msgstr ""
+
+#. summary(telepathy-mission-control:libmission-control-plugins0)
+msgid "Telepathy Mission Control instant messaging connection manager"
+msgstr ""
+
+#. summary(telepathy-farstream:libtelepathy-farstream2)
+msgid "Telepathy library to handle Call channels"
+msgstr ""
+
+#. description(telepathy-idle)
+msgid "Telepathy-idle provides IRC support for Telepathy."
+msgstr ""
+
+#. summary(vte:libvte2_90-9)
+#, fuzzy
+msgid "Terminal Emulator Library"
+msgstr "多语言终端模拟器"
+
+#. summary(vte:gnome-pty-helper)
+#, fuzzy
+msgid "Terminal Emulator Library -- Helper for utmp/wtmp/lastlog logging"
+msgstr "开发"
+
+#. summary(gnome-games:quadrapassel)
+msgid "Tetris Game for GNOME"
+msgstr ""
+
+#. description(atk:typelib-1_0-Atk-1_0)
+msgid ""
+"The ATK library provides a set of accessibility interfaces. By supporting "
+"the ATK interfaces, an application or toolkit can be used with screen "
+"readers, magnifiers, and alternate input devices.\n"
+"\n"
+"This package provides the GObject Introspection bindings for ATK."
+msgstr ""
+
+#. description(gc:libgc1)
+msgid ""
+"The Boehm-Demers-Weiser conservative garbage collector can be used as a "
+"garbage collecting replacement for C malloc or C++ new. It allows you to "
+"allocate memory basically as you normally would, without explicitly "
+"deallocating memory that is no longer useful. The collector automatically "
+"recycles memory when it determines that it can no longer be otherwise "
+"accessed."
+msgstr ""
+
+#. summary(libbonobo)
+msgid "The Bonobo Component System for the GNOME 2.x Desktop Platform"
+msgstr ""
+
+#. description(gtk2-engines:gtk2-engine-clearlooks)
+msgid ""
+"The Clearlooks engine was the default theme of GNOME 2 since 2.12. It is a "
+"modular engine providing multiple styles such as glossy and gummy."
+msgstr ""
+
+#. description(gnome-contacts)
+#, fuzzy
+msgid "The Contacts Manager for GNOME"
+msgstr "电源管理 (APM)"
+
+#. description(gnome-dictionary)
+msgid ""
+"The Dictionary application enables you to search words and terms on a "
+"dictionary source."
+msgstr ""
+
+#. description(libepc:libepc-1_0-2)
+msgid ""
+"The Easy Publish and Consume library provides an easy method to:\n"
+"\n"
+"    * publish data using HTTPS: EpcPublisher     * announce that information "
+"via DNS-SD: EpcDispatcher     * find that information: EpcConsumer     * and "
+"finally consume it\n"
+"\n"
+"You can use this library as a key/value store published to the network, "
+"using encryption, authentication and service discovery."
+msgstr ""
+
+#. description(gdata-sharp)
+msgid ""
+"The GData .NET Client Library provides a library and source code that make "
+"it easy to access data through Google Data APIs."
+msgstr ""
+
+#. summary(gnome-control-center)
+msgid "The GNOME Control Center"
+msgstr ""
+
+#. summary(gnome-control-center-branding-openSUSE)
+#, fuzzy
+msgid "The GNOME Control Center -- openSUSE Definition of Shell Content"
+msgstr "默认菜单和应用程序浏览器"
+
+#. summary(gnome-desktop:libgnome-desktop-3-2)
+msgid "The GNOME Desktop API Library"
+msgstr ""
+
+#. summary(bug-buddy)
+msgid "The GNOME Desktop Bug Reporting Tool"
+msgstr ""
+
+#. summary(gnome-menus)
+#, fuzzy
+msgid "The GNOME Desktop Menu"
+msgstr "GNOME 主菜单"
+
+#. summary(gnome-menus:typelib-1_0-GMenu-3_0)
+#, fuzzy
+msgid "The GNOME Desktop Menu -- Introspection bindings"
+msgstr "默认菜单和应用程序浏览器"
+
+#. summary(gnome-menus-branding-openSUSE)
+#, fuzzy
+msgid "The GNOME Desktop Menu -- openSUSE Menus Definitions"
+msgstr "默认菜单和应用程序浏览器"
+
+#. summary(gnome-panel)
+#, fuzzy
+msgid "The GNOME Desktop Panel"
+msgstr "GNOME 主菜单"
+
+#. summary(gnome-panel-branding-openSUSE)
+#, fuzzy
+msgid "The GNOME Desktop Panel -- openSUSE default layout"
+msgstr "GNOME 主菜单"
+
+#. summary(gdm)
+#, fuzzy
+msgid "The GNOME Display Manager"
+msgstr "GNOME 主菜单"
+
+#. summary(gdm-branding-openSUSE)
+msgid "The GNOME Display Manager -- openSUSE default configuration"
+msgstr ""
+
+#. description(gdm)
+msgid ""
+"The GNOME Display Manager is a system service that is responsible for "
+"providing graphical log-ins and managing local and remote displays."
+msgstr ""
+
+#. description(gdm:typelib-1_0-GdmGreeter-1_0)
+msgid ""
+"The GNOME Display Manager is a system service that is responsible for "
+"providing graphical log-ins and managing local and remote displays.\n"
+"\n"
+"This package provides the GObject Introspection bindings for communicating "
+"with the GDM greeter server."
+msgstr ""
+
+#. description(gdm-branding-openSUSE)
+msgid ""
+"The GNOME Display Manager is a system service that is responsible for "
+"providing graphical log-ins and managing local and remote displays.\n"
+"\n"
+"This package provides the openSUSE default configuration for gdm."
+msgstr ""
+
+#. description(gnome-shell:gnome-shell-browser-plugin)
+msgid ""
+"The GNOME Shell Browser Plugin provides integration with gnome-shell and the "
+"corresponding extensions repository. The plugin allows the extensions "
+"repository to provide good integration, letting the website know which "
+"extensions are enabled and disabled, and allowing the website to enable, "
+"disable and install them."
+msgstr ""
+
+#. description(gnome-shell)
+msgid ""
+"The GNOME Shell redefines user interactions with the GNOME desktop. In "
+"particular, it offers new paradigms for launching applications, accessing "
+"documents, and organizing open windows in GNOME."
+msgstr ""
+
+#. summary(gcc46:libquadmath46)
+msgid "The GNU Fortran Compiler Quadmath Runtime Library"
+msgstr ""
+
+#. summary(gcc47:libgfortran47)
+msgid "The GNU Fortran Compiler Runtime Library"
+msgstr ""
+
+#. summary(gimp:gimp-help-browser)
+msgid "The GNU Image Manipulation Program - Help Browser"
+msgstr ""
+
+#. summary(gtk2:typelib-1_0-Gtk-2_0)
+#, fuzzy
+msgid "The GTK+ toolkit library (version 2) -- Introspection bindings"
+msgstr "内核接口"
+
+#. summary(gtk2-branding-openSUSE)
+#, fuzzy
+msgid "The GTK+ toolkit library (version 2) -- openSUSE theme configuration"
+msgstr "内核接口"
+
+#. summary(gtk3:typelib-1_0-Gtk-3_0)
+#, fuzzy
+msgid "The GTK+ toolkit library (version 3) -- Introspection bindings"
+msgstr "内核接口"
+
+#. summary(gtk3-branding-openSUSE)
+#, fuzzy
+msgid "The GTK+ toolkit library (version 3) -- openSUSE theme configuration"
+msgstr "内核接口"
+
+#. description(gnome-dictionary:libgdict-1_0-6)
+msgid "The Gdict library is an engine to look up words in dictionary sources."
+msgstr ""
+
+#. description(gtk2-engines:gtk2-engine-hcengine)
+msgid ""
+"The High Contrast engine is targeted for usability themes, such as the GNOME "
+"HighContrast theme."
+msgstr ""
+
+#. summary(evolution)
+msgid "The Integrated GNOME Mail, Calendar, and Address Book Suite"
+msgstr ""
+
+#. description(libpst:libpst4)
+msgid ""
+"The Libpst utilities include readpst which can convert email messages to "
+"both mbox and MH mailbox formats, pst2ldif which can convert the contacts "
+"to .ldif format for import into ldap databases, and pst2dii which can "
+"convert email messages to the DII load file format used by Summation."
+msgstr ""
+
+#. description(miniupnpc:libminiupnpc8)
+msgid ""
+"The MiniUPnP project offers software which supports the UPnP Internet "
+"Gateway Device (IGD) specifications."
+msgstr ""
+
+#. description(mono-core)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization."
+msgstr ""
+
+#. description(mono-core:libmono-2_0-1)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"A Library for embedding Mono in your Application."
+msgstr ""
+
+#. description(mono-core:mono-data)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"Database connectivity for Mono."
+msgstr ""
+
+#. description(mono-core:mono-web)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"Mono implementation of ASP.NET, Remoting and Web Services."
+msgstr ""
+
+#. description(mousetweaks)
+msgid ""
+"The Mousetweaks package provides mouse accessibility enhancements for the "
+"GNOME desktop."
+msgstr ""
+
+#. summary(libdv:libdv4)
+msgid "The Quasar DV Codec"
+msgstr ""
+
+#. description(libdv:libdv4)
+msgid ""
+"The Quasar DV codec (libdv) is a software codec for DV video, the encoding "
+"format used by most digital camcorders, typically those that support the "
+"IEEE 1394 (FireWire or i.Link) interface. Libdv was developed according to "
+"the official standards for DV video: IEC 61834 and SMPTE 314M.\n"
+"\n"
+"There are two sample applications included with libdv: playdv and encode."
+msgstr ""
+
+#. description(schroedinger:libschroedinger-1_0-0)
+msgid ""
+"The Schroedinger project implements portable libraries for the high quality "
+"Dirac video codec created by BBC Research and Development. Dirac is a free "
+"and open source codec producing very high image quality video. The project "
+"produces two libraries in ANSI C89, one for decoding and one for encoding."
+msgstr ""
+
+#. description(libwnck2:libwnck-1-22)
+msgid ""
+"The Window Navigator Construction Kit is a library that can be used to write "
+"task lists, pagers, and similar GNOME programs."
+msgstr ""
+
+#. description(libwnck2:typelib-1_0-Wnck-1_0)
+msgid ""
+"The Window Navigator Construction Kit is a library that can be used to write "
+"task lists, pagers, and similar GNOME programs.\n"
+"\n"
+"This package provides the GObject Introspection bindings for libwnck."
+msgstr ""
+
+#. description(accountsservice)
+msgid ""
+"The accountsservice server provides a set of D-Bus interfaces for querying "
+"and manipulating user account information.\n"
+"\n"
+"The implementation is based on the useradd, usermod and userdel commands."
+msgstr ""
+
+#. description(accountsservice:libaccountsservice0)
+msgid ""
+"The accountsservice server provides a set of D-Bus interfaces for querying "
+"and manipulating user account information.\n"
+"\n"
+"This package provides a client library for the service."
+msgstr ""
+
+#. description(accountsservice:typelib-1_0-AccountsService-1_0)
+msgid ""
+"The accountsservice server provides a set of D-Bus interfaces for querying "
+"and manipulating user account information.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the client "
+"library."
+msgstr ""
+
+#. summary(clutter:libclutter-1_0-0)
+msgid "The clutter library"
+msgstr ""
+
+#. summary(clutter:typelib-1_0-Clutter-1_0)
+#, fuzzy
+msgid "The clutter library -- Introspection bindings"
+msgstr "7.0 文档"
+
+#. description(gnome-control-center)
+msgid ""
+"The control center is GNOME's main interface for configuration of various "
+"aspects of your desktop."
+msgstr ""
+
+#. description(gnome-control-center-branding-openSUSE)
+msgid ""
+"The control center is GNOME's main interface for configuration of various "
+"aspects of your desktop.\n"
+"\n"
+"This package provides the openSUSE definition of what appears in the control "
+"center."
+msgstr ""
+
+#. description(gnome-icon-theme)
+msgid "The default GNOME icon theme."
+msgstr ""
+
+#. description(gdm:gdmflexiserver)
+msgid ""
+"The gdmflexiserver tool interacts with the display manager to enable fast "
+"user switching. This package contains a wrapper that selects the correct "
+"gdmflexiserver implementatoin, based on the running display manager."
+msgstr ""
+
+#. description(geocode-glib:libgeocode-glib0)
+msgid ""
+"The geocode-glib library is a convenience library for the Yahoo! Place "
+"Finder APIs, as described at http://developer.yahoo.com/geo/placefinder/\n"
+"\n"
+"The Place Finder web service allows to do geocoding (finding longitude and "
+"latitude from an address), and reverse geocoding (finding an address from "
+"coordinates)."
+msgstr ""
+
+#. description(gnome-bluetooth)
+msgid ""
+"The gnome-bluetooth package contains graphical utilities to setup, monitor "
+"and use Bluetooth devices."
+msgstr ""
+
+#. description(gnome-bluetooth:typelib-1_0-GnomeBluetooth-1_0)
+msgid ""
+"The gnome-bluetooth package contains graphical utilities to setup, monitor "
+"and use Bluetooth devices.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the gnome-"
+"bluetooth library."
+msgstr ""
+
+#. description(gnome-disk-utility)
+msgid ""
+"The gnome-disk-utility project provides the Disks application for dealing "
+"with storage devices."
+msgstr ""
+
+#. description(speech-dispatcher:libspeechd2)
+msgid ""
+"The goal of Speech Dispatcher project is to provide a high-level device "
+"independent layer for speech synthesis through a simple, stable and well "
+"documented interface.\n"
+"\n"
+"What is a very high level GUI library to graphics, Speech Dispatcher is to "
+"speech synthesis. The application neither needs to talk to the devices "
+"directly nor to handle concurrent access, sound output and other tricky "
+"aspects of the speech subsystem."
+msgstr ""
+
+#. description(speech-dispatcher:speech-dispatcher-module-espeak)
+msgid ""
+"The goal of Speech Dispatcher project is to provide a high-level device "
+"independent layer for speech synthesis through a simple, stable and well "
+"documented interface.\n"
+"\n"
+"What is a very high level GUI library to graphics, Speech Dispatcher is to "
+"speech synthesis. The application neither needs to talk to the devices "
+"directly nor to handle concurrent access, sound output and other tricky "
+"aspects of the speech subsystem.\n"
+"\n"
+"This package contains the espeak module."
+msgstr ""
+
+#. description(gnome-desktop:libgnome-desktop-3-2)
+msgid ""
+"The libgnome-desktop library provides API shared by several applications on "
+"the desktop, but that cannot live in the platform for various reasons."
+msgstr ""
+
+#. description(libgsf:libgsf-1-114)
+msgid ""
+"The libgsf library is an extensible I/O abstraction library for dealing with "
+"structured file formats."
+msgstr ""
+
+#. description(mjpegtools:libmjpegutils-2_0-0)
+msgid ""
+"The mjpegtools allow for capture, playback, processing, and simple editing "
+"of MJPEG AV data. The hardware I/O applications are intended for use with "
+"Zoran MJPEG framegrabber-based hardware (see the zoran-driver package), but "
+"the processing tools can be used with MJPEG data from other sources as well."
+msgstr ""
+
+#. description(gnome-menus:typelib-1_0-GMenu-3_0)
+msgid ""
+"The package contains an implementation of the draft \"Desktop Menu "
+"Specification\" from freedesktop.org\n"
+"\n"
+"This package provides the GObject Introspection bindings for the libgnome-"
+"menu library."
+msgstr ""
+
+#. description(gnome-menus)
+msgid ""
+"The package contains an implementation of the draft \"Desktop Menu "
+"Specification\" from freedesktop.org:\n"
+"\n"
+"http://www.freedesktop.org/Standards/menu-spec"
+msgstr ""
+
+#. description(gnome-menus-legacy:libgnome-menu2)
+msgid ""
+"The package contains an implementation of the draft \"Desktop Menu "
+"Specification\" from freedesktop.org:\n"
+"\n"
+"http://www.freedesktop.org/Standards/menu-spec\n"
+"\n"
+"This package is provided for backwards compatibility only and is likely to "
+"disappear soon."
+msgstr ""
+
+#. description(gnome-menus-branding-openSUSE)
+msgid ""
+"The package contains an implementation of the draft \"Desktop Menu "
+"Specification\" from freedesktop.org:\n"
+"\n"
+"http://www.freedesktop.org/Standards/menu-spec\n"
+"\n"
+"This package provides the openSUSE definitions for menus."
+msgstr ""
+
+#. description(pcsc-lite:libpcsclite1)
+msgid ""
+"The purpose of PCSC Lite is to provide a Windows(R) SCard interface in a "
+"very small form factor for communication with smart cards and readers. PCSC "
+"Lite can be compiled directly for a desired reader driver or can be used to "
+"dynamically allocate/deallocate reader drivers at runtime (the default "
+"behavior).\n"
+"\n"
+"PCSC Lite uses the same winscard API as used in Windows(R).\n"
+"\n"
+"Security aware people should read the SECURITY file for possible "
+"vulnerabilities of pcsclite and how to fix them. For information on how to "
+"install drivers please read the DRIVERS file.\n"
+"\n"
+"Memory cards will be supported through the MCT specification, which is an "
+"APDU like manner sent normally through the SCardTransmit() function. This "
+"functionality is exercised in the driver."
+msgstr ""
+
+#. description(gnome-icon-theme-symbolic)
+msgid ""
+"The purpose of this icon theme is to extend the base icon theme that follows "
+"the Tango style guidelines for specific purposes. This would include OSD "
+"messages, panel system/notification area, and possibly menu icons.\n"
+"\n"
+"Icons follow the naming specification, but have a -symbolic suffix, so only "
+"applications specifically looking up these symbolic icons will render them. "
+"If a -symbolic icon is missing, the app will fall back to the regular name."
+msgstr ""
+
+#. description(gcc46:libquadmath46)
+msgid ""
+"The runtime library needed to run programs compiled with the Fortran "
+"compiler of the GNU Compiler Collection (GCC) and quadruple precision "
+"floating point operations."
+msgstr ""
+
+#. description(gcc47:libgfortran47)
+msgid ""
+"The runtime library needed to run programs compiled with the Fortran "
+"compiler of the GNU Compiler Collection (GCC)."
+msgstr ""
+
+#. description(gnome-screenshot)
+msgid ""
+"The screenshot tool captures the screen, a window, or an user-defined area "
+"and save the snapshot image to a file."
+msgstr ""
+
+#. description(sane-backends)
+msgid ""
+"The software consists of SANE scanner drivers, \"scanimage,\" and the \"saned"
+"\" daemon.\n"
+"\n"
+"A SANE scanner driver is used via a SANE front-end. This package contains "
+"the command line front-end \"scanimage\". There are various graphical front-"
+"ends like \"xscanimage\" (package sane-frontends), XSane (package xsane), "
+"and the KDE front-end Kooka (package kdegraphics3-scan).\n"
+"\n"
+"The \"saned\" daemon provides the service \"sane-port\" to access scanners "
+"that are connected to a server via network from client hosts that run the "
+"\"net\" meta driver."
+msgstr ""
+
+#. description(telepathy-glib:libtelepathy-glib0)
+msgid ""
+"The telepathy-glib library is a GObject-based C binding for the Telepathy D-"
+"Bus API."
+msgstr ""
+
+#. description(telepathy-glib:typelib-1_0-TelepathyGlib-0_12)
+msgid ""
+"The telepathy-glib library is a GObject-based C binding for the Telepathy D-"
+"Bus API.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the telepathy-"
+"glib library."
+msgstr ""
+
+#. description(brltty:xbrlapi)
+msgid "The xbrlapi utility is a helper to have BrlAPI work on a X system."
+msgstr ""
+
+#. description(gnome-shell-extensions:gnome-shell-extension-alt-status-menu)
+msgid ""
+"This GNOME Shell extension adds a power off item in the status menu, and "
+"provides the ability to hibernate."
+msgstr ""
+
+#. description(dbus-sharp)
+msgid ""
+"This is DBus-Sharp, a fork of ndesk-dbus or simply a C# implementation of D-"
+"Bus.\n"
+"\n"
+"It is a clean-room implementation based on the D-Bus Specification Version "
+"0.11 and study of the wire protocol of existing tools."
+msgstr ""
+
+#. description(guile)
+msgid ""
+"This is Guile, a portable, embeddable Scheme implementation written in C. "
+"Guile provides a machine independent execution platform that can be linked "
+"in as a library when building extensible programs."
+msgstr ""
+
+#. description(guile:guile-modules-2_0)
+msgid ""
+"This is Guile, a portable, embeddable Scheme implementation written in C. "
+"Guile provides a machine independent execution platform that can be linked "
+"in as a library when building extensible programs. This package contains "
+"guile modules."
+msgstr ""
+
+#. description(guile:libguile-2_0-22)
+msgid ""
+"This is Guile, a portable, embeddable Scheme implementation written in C. "
+"Guile provides a machine independent execution platform that can be linked "
+"in as a library when building extensible programs. This package contains the "
+"shared libraries."
+msgstr ""
+
+#. description(gnome-games:glchess)
+msgid ""
+"This is a game for playing the classic board game of chess, in which two "
+"players simulate a battle by capturing the opponents pieces and ultimately "
+"the king. It can be played in 2D or 3D mode, full screen or in a window.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. description(libgweather:libgweather-3-0)
+msgid "This is a library to download weather information from online sources."
+msgstr ""
+
+#. description(libgweather:libgweather-data)
+msgid ""
+"This is a library to download weather information from online sources. This "
+"package provides the architecture independent files."
+msgstr ""
+
+#. description(liblrdf:liblrdf2)
+msgid ""
+"This is a library to make it easy to manipulate RDF files describing LADSPA "
+"plug-ins. It can also be used for general RDF manipulation.\n"
+"\n"
+"It can read RDF, XLM, and N3 files and export N3 files. Ot also has a light "
+"taxonomic inference capability."
+msgstr ""
+
+#. description(nautilus-open-terminal)
+msgid ""
+"This is a nautilus extension that allows you to open a terminal in arbitrary "
+"folders."
+msgstr ""
+
+#. description(libgdiplus0)
+msgid ""
+"This is part of the Mono project. It is required when using Windows.Forms."
+msgstr ""
+
+#. description(gnome-games:gnomine)
+msgid ""
+"This is the popular logic puzzle minesweeper, which includes avoiding mines "
+"while receiving clues for the location of the mines.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. description(libglade2:libglade-2_0-0)
+msgid ""
+"This library allows you to load Glade interface files in a program at "
+"runtime. It does not require that you use Glade, but Glade is the easiest "
+"way to create the interface files.  For an idea of how to use the library, "
+"see the documentation, especially /usr/share/doc/packages/libglade/test-"
+"libgladee.c and the glade-xml.h include, which is in the libglade package."
+msgstr ""
+
+#. description(libxklavier:libxklavier16)
+msgid "This library allows you to simplify XKB-related development."
+msgstr ""
+
+#. description(libxklavier:typelib-1_0-Xkl-1_0)
+msgid ""
+"This library allows you to simplify XKB-related development.\n"
+"\n"
+"This package provides the GObject Introspection bindings for libxklavier."
+msgstr ""
+
+#. description(libdvdnav:libdvdnav4)
+msgid "This library contains functions to display DVD video menus."
+msgstr ""
+
+#. description(libsigc++2:libsigc-2_0-0)
+msgid ""
+"This library implements a full callback system for use in widget libraries, "
+"abstract interfaces, and general programming. It is the most complete "
+"library of its kind with the ability to connect an abstract callback to a "
+"class method, function, or function object. It contains adaptor classes for "
+"connection of dissimilar callbacks and has an ease of use unmatched by other "
+"C++ callback libraries."
+msgstr ""
+
+#. description(fribidi)
+msgid ""
+"This library implements the algorithm as described in the \"Unicode Standard "
+"Annex #9, the Bidirectional Algorithm, http://www.unicode.org/unicode/"
+"reports/tr9/\". FriBidi is exhaustively tested against the Bidi Reference "
+"Code and, to the best of the developers' knowledge, does notcontain any "
+"conformance bugs.\n"
+"\n"
+"The API was inspired by the document \"Bi-Di languages support - BiDi API "
+"proposal\" by Franck Portaneri, which he wrote as a proposal for adding BiDi "
+"support to Mozilla."
+msgstr ""
+
+#. description(libtimidity:libtimidity-0_1-0)
+msgid ""
+"This library is based on the TiMidity decoder from SDL_sound library. "
+"Purpose to create this library is to avoid unnecessary dependences. "
+"SDL_sound requires SDL and some other libraries, that not needed to process "
+"MIDI files. In addition libtimidity provides more suitable API to work with "
+"MIDI songs, it enables to specify full path to the timidity configuration "
+"file, and have function to retrieve meta data from MIDI song."
+msgstr ""
+
+#. description(libieee1284)
+msgid ""
+"This library is intended to be used by applications that need to communicate "
+"with (or at least identify) devices that are attached via a parallel port.\n"
+"\n"
+"For Linux, there are some wrinkles in communicating with devices on parallel "
+"ports (see /usr/share/doc/packages/libieee1284/README). The aim of this "
+"library is to take all the worry about these wrinkles from the application.  "
+"It figures out which method is appropriate for the currently running "
+"kernel.  For instance, if the application wants to know the device ID of a "
+"device on a particular port, it asks the library for the the device ID.\tThe "
+"library then figures out if it is available via /proc (in any of the "
+"possible locations) and, if not, tries asking the device itself.  If /dev/"
+"parport0 is not available for use, it tries ioperm; if that fails, it tries /"
+"dev/port.  The application does not have to care."
+msgstr ""
+
+#. description(libbluray:libbluray1)
+msgid ""
+"This library is written for the purpose of playing Blu-ray movies. It is "
+"intended for software that want to support Blu-ray playback (such as VLC and "
+"MPlayer). We, the authors of this library, do not condone nor endorse piracy."
+msgstr ""
+
+#. description(NetworkManager-gnome:libnm-gtk0)
+msgid "This library provides GTK+ dialogs for NetworkManager integration."
+msgstr ""
+
+#. description(libdc1394:libdc1394-22)
+msgid ""
+"This library provides functionality for controlling any camera that conforms "
+"to the 1394-Based Digital Camera Specification (which can be found at http://"
+"www.1394ta.org/Download/Technology/Specifications/Camera120.pdf). It "
+"utilizes the low-level functionality provided by libraw1394 to communicate "
+"with the camera."
+msgstr ""
+
+#. description(librest:librest0)
+msgid ""
+"This library was designed to make it easier to access web services that "
+"claim to be \"RESTful\". A reasonable description is that a RESTful service "
+"should have urls that represent remote objects, which methods can then be "
+"called on.\n"
+"\n"
+"It is comprised of two parts:\n"
+"\n"
+"    * the first aims to make it easier to make requests by providing a       "
+"wrapper around libsoup.     * the second aids with XML parsing by wrapping "
+"libxml2."
+msgstr ""
+
+#. description(gjs)
+msgid ""
+"This module contains JavaScript bindings based on gobject-introspection and "
+"the Mozilla SpiderMonkey JavaScript engine."
+msgstr ""
+
+#. description(python-gstreamer-0_10)
+msgid ""
+"This module contains a wrapper that allows GStreamer applications to be "
+"written in Python."
+msgstr ""
+
+#. description(NetworkManager-gnome)
+msgid ""
+"This package contains GNOME utilities and applications for use with "
+"NetworkManager, including a panel applet for wireless networks."
+msgstr ""
+
+#. description(gnome-sharp2:gconf-sharp2)
+msgid "This package contains Mono bindings for gconf and gconf peditors."
+msgstr ""
+
+#. description(gtk-sharp2:glib-sharp2)
+msgid "This package contains Mono bindings for glib."
+msgstr ""
+
+#. description(gtk-sharp2)
+msgid "This package contains Mono bindings for gtk+, gdk, atk, and pango."
+msgstr ""
+
+#. description(gnome-python-desktop:python-gnomekeyring)
+#, fuzzy
+msgid "This package contains Python bindings for GNOME Keyring."
+msgstr "包中含有意外的版本"
+
+#. description(yelp-xsl)
+#, fuzzy
+msgid ""
+"This package contains XSL stylesheets that are used by the yelp help browser."
+msgstr "包中含有意外的版本"
+
+#. description(branding-openSUSE:dynamic-wallpaper-branding-openSUSE)
+msgid ""
+"This package contains a dynamic wallpaper with openSUSE look.\n"
+"\n"
+"A dynamic wallpaper changes depending on the time of the day: it is "
+"generally bright during the day, and dark during the night."
+msgstr ""
+
+#. description(gnome-session:gnome-session-core)
+msgid ""
+"This package contains a minimal version of gnome-session, that can be used "
+"for specific cases. The gnome-session package is needed for a fully "
+"functional GNOME desktop."
+msgstr ""
+
+#. description(media-player-info)
+msgid ""
+"This package contains a repository of data files describing media player "
+"(mostly USB Mass Storage ones) capabilities. These files contain information "
+"about the directory layout to use to add music to these devices, about the "
+"supported file formats, ... These capabilities used to be provided by HAL in "
+"the 10-usb-music-players.fdi file but had to be moved elsewhere as part of "
+"the big HALectomy."
+msgstr ""
+
+#. description(xorg-x11-server:xorg-x11-server-extra)
+#, fuzzy
+msgid "This package contains additional Xservers (Xdmx, Xephyr, Xnest)."
+msgstr "包中含有意外的版本"
+
+#. description(system-config-printer:udev-configure-printer)
+msgid ""
+"This package contains an utility that will ensure printers get automatically "
+"configured when plugged on the computer."
+msgstr ""
+
+#. description(gnome-user-docs)
+msgid "This package contains documents that are targeted for GNOME end-users."
+msgstr ""
+
+#. description(gnome-themes-standard:gnome-themes-accessibility)
+#, fuzzy
+msgid "This package contains high-contrast and low-contrast themes for GNOME."
+msgstr "包中含有意外的版本"
+
+#. description(gnome-desktop:gnome-version)
+#, fuzzy
+msgid ""
+"This package contains information on the version of GNOME that is installed."
+msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+
+#. description(Mesa-demo:Mesa-demo-x)
+#, fuzzy
+msgid "This package contains some common GLX-based demos."
+msgstr "包中含有意外的版本"
+
+#. description(gnome-panel)
+msgid ""
+"This package contains the GNOME Desktop Panel. The panel is an easy-to-use "
+"and functional interface to manage your desktop, start programs, and "
+"organize access to your data."
+msgstr ""
+
+#. description(gnome-panel:libpanel-applet-4-0)
+msgid ""
+"This package contains the GNOME Desktop Panel. The panel is an easy-to-use "
+"and functional interface to manage your desktop, start programs, and "
+"organize access to your data.\n"
+"\n"
+"This package contains the libpanel-applet library used by GNOME panel "
+"applets, based on D-Bus."
+msgstr ""
+
+#. description(gnome-panel-branding-openSUSE)
+msgid ""
+"This package contains the GNOME Desktop Panel. The panel is an easy-to-use "
+"and functional interface to manage your desktop, start programs, and "
+"organize access to your data.\n"
+"\n"
+"This package contains the openSUSE default layout for GNOME Panel."
+msgstr ""
+
+#. description(gnome-session:gnome-session-default-session)
+#, fuzzy
+msgid "This package contains the definition of the default GNOME session."
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. description(gnome-session:gnome-session-fallback-session)
+msgid ""
+"This package contains the definition of the fallback GNOME session, which is "
+"used when the graphics are not hardware-accelerated."
+msgstr ""
+
+#. description(NetworkManager:typelib-1_0-NMClient-1_0)
+msgid ""
+"This package contains the gi-bindings that make it easier to use some "
+"Network Manager functionality from applications that use glib.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the "
+"NetworkManager library."
+msgstr ""
+
+#. description(gimp:gimp-help-browser)
+msgid "This package contains the help browser for the GIMP."
+msgstr ""
+
+#. description(libvdpau:libvdpau1)
+msgid ""
+"This package contains the libvdpau wrapper library and the libvdpau_trace "
+"debugging library, along with the header files needed to build VDPAU "
+"applications.  To actually use a VDPAU device, you need a vendor-specific "
+"implementation library.  Currently, this is always libvdpau_nvidia.  You can "
+"override the driver name by setting the VDPAU_DRIVER environment variable."
+msgstr ""
+
+#. description(bundle-lang-gnome:bundle-lang-gnome-en)
+msgid "This package groups English translations for many GNOME programs."
+msgstr ""
+
+#. description(libreoffice-icon-themes:libreoffice-icon-theme-tango)
+msgid ""
+"This package provides Tango LibreOffice icon theme. It is used in GNOME by "
+"default and obsoleted the old Industrial theme."
+msgstr ""
+
+#. description(cairomm:libcairomm-1_0-1)
+msgid "This package provides a C++ interface for Cairo."
+msgstr ""
+
+#. description(cups-pk-helper)
+msgid ""
+"This package provides a PolicyKit helper to configure cups with fine-grained "
+"privileges. For example, it's possible to let users enable/disable printers "
+"without requiring a password, while still requiring a password for editing "
+"printer settings."
+msgstr ""
+
+#. description(gvfs:gvfs-backend-afc)
+msgid ""
+"This package provides a gvfs backend that supports iPod / iPhone devices."
+msgstr ""
+
+#. description(banshee:banshee-extensions-default)
+msgid ""
+"This package provides a number of useful features for Banshee, including a "
+"Play Queue, Last.fm streaming, Last.fm Audioscrobbling, and Multimedia Key "
+"support. This package is highly recommended as it greatly enhances the end "
+"user experience of Banshee.\n"
+"\n"
+"Import, organize, and discover new music with Banshee through its simple and "
+"powerful interface and wide array of innovative features. Create your own "
+"radio stations or listen to a friends' through Last.fm integration; "
+"experience automatic cover art fetching as you listen; and easily browse, "
+"search, and control your media collection."
+msgstr ""
+
+#. description(libgsf:gsf-office-thumbnailer)
+#, fuzzy
+msgid "This package provides a thumbnailer for office files."
+msgstr "包未经签名"
+
+#. description(banshee:banshee-core)
+msgid ""
+"This package provides core libraries, services, and resources for building "
+"Banshee clients and user experiences."
+msgstr ""
+
+#. description(gnome-shell-extensions:gnome-shell-extensions-common)
+#, fuzzy
+msgid "This package provides files common to several GNOME Shell Extensions"
+msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+
+#. description(dbus-sharp-glib)
+#, fuzzy
+msgid "This package provides glib integration for Mono.DBus."
+msgstr "包中含有意外的版本"
+
+#. description(system-config-printer:python-cupshelpers)
+#, fuzzy
+msgid ""
+"This package provides high-level python bindings for CUPS, and can be used "
+"on top of python-cups."
+msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+
+#. description(banshee:banshee-backend-platform-unix)
+msgid ""
+"This package provides many optimizations for UNIX based platforms. In "
+"particular, it provides a POSIX IO layer that performs better than the "
+"default System.IO/.NET IO layer provided in the base banshee-1 package."
+msgstr ""
+
+#. description(banshee:banshee-backend-platform-gnome)
+msgid ""
+"This package provides platform integration with the GNOME Desktop for "
+"Banshee. Most notably it provides a configuration backend to GConf, so all "
+"user settings can be stored there. Other GNOME specific integration hooks "
+"are provided as well.\n"
+"\n"
+"Users running Banshee on GNOME are recommended to install this package."
+msgstr ""
+
+#. description(banshee:banshee-backend-io-gio)
+msgid ""
+"This package provides support for importing non-local files into Banshee, eg "
+"over a ssh mount or similar."
+msgstr ""
+
+#. description(brasero:brasero-nautilus)
+#, fuzzy
+msgid "This package provides the Brasero extension for Nautilus."
+msgstr "包中含有意外的版本"
+
+#. description(gtk2-engines:gtk2-theme-clearlooks)
+#, fuzzy
+msgid "This package provides the Clearlooks GTK+ 2 theme."
+msgstr "包中含有意外的版本"
+
+#. description(gnome-terminal)
+#, fuzzy
+msgid "This package provides the GNOME terminal emulator application."
+msgstr "最近使用过的应用程序"
+
+#. description(gnome-session)
+#, fuzzy
+msgid ""
+"This package provides the basic session tools, like session management "
+"functionality, for the GNOME Desktop."
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. description(nautilus-sendto)
+msgid ""
+"This package provides the functionality to the Nautilus file browser to send "
+"files over e-mail or instant messaging protocols via Evolution, Empathy and "
+"Pidgin."
+msgstr ""
+
+#. description(empathy:nautilus-sendto-plugin-empathy)
+msgid ""
+"This package provides the functionality to the Nautilus file browser to send "
+"files over instant messaging protocols via Empathy."
+msgstr ""
+
+#. description(banshee:banshee-backend-engine-gstreamer)
+msgid ""
+"This package provides the playback engine used by Banshee, built on the "
+"GStreamer multimedia framework."
+msgstr ""
+
+#. description(gnome-control-center:gnome-control-center-user-faces)
+#, fuzzy
+msgid "This package provides user avatars to be used by display managers"
+msgstr "包中含有意外的版本"
+
+#. description(gnome-phone-manager:gnome-bluetooth-plugin-phone-manager)
+msgid ""
+"This plugin for GNOME Bluetooth extends the new device wizard to allow 1-"
+"click configuration of Phone Manager to use a newly paired phone."
+msgstr ""
+
+#. description(empathy:telepathy-mission-control-plugin-goa)
+msgid ""
+"This plugin for Mission Control provides integration with the GNOME Online "
+"Accounts service. Mission Control will automatically create a Telepathy "
+"account for GNOME Online Accounts configured with the \"Chat\" feature "
+"enabled."
+msgstr ""
+
+#. description(gnome-phone-manager)
+msgid ""
+"This program connects to your mobile phone over a serial port with a cable, "
+"infrared, or Bluetooth connection. It listens for text messages and, when "
+"they arrive, displays them on the desktop. A visual indicator is displayed "
+"in the notification area, if available, in the panel."
+msgstr ""
+
+#. description(tk)
+msgid ""
+"Tk is a graphical user interface toolkit that takes developing desktop "
+"applications to a higher level than conventional approaches. Tk is the "
+"standard GUI not only for Tcl, but for many other dynamic languages, and can "
+"produce rich, native applications that run unchanged across Windows, Mac OS "
+"X, Linux and more."
+msgstr ""
+
+#. description(tomboy)
+msgid ""
+"Tomboy is a desktop note taking application for Linux and Unix. Simple and "
+"easy to use, but with potential to help you organize the ideas and "
+"information you deal with every day."
+msgstr ""
+
+#. summary(totem:nautilus-totem)
+msgid "Totem Plugin for Nautilus"
+msgstr ""
+
+#. description(totem)
+msgid ""
+"Totem is a movie player for the GNOME desktop based on GStreamer. It "
+"features a playlist, a full-screen mode, seek and volume controls, and "
+"complete keyboard navigation."
+msgstr ""
+
+#. description(totem:totem-browser-plugin)
+msgid ""
+"Totem is movie player for the GNOME desktop based on GStreamer.\n"
+"\n"
+"Apart from a movie player, it also includes a Mozilla plugin.\n"
+"\n"
+"This package does not include the Windows Media (gmp) browser plugin, nor "
+"the Flash video (vegas) plugin."
+msgstr ""
+
+#. description(totem:nautilus-totem)
+msgid ""
+"Totem is movie player for the GNOME desktop based on GStreamer.\n"
+"\n"
+"This package contains a plugin to integrate Totem into Nautilus."
+msgstr ""
+
+#. description(totem:totem-browser-plugin-gmp)
+msgid ""
+"Totem is movie player for the GNOME desktop based on GStreamer.\n"
+"\n"
+"This package includes only the Windows Media (gmp) browser plugin."
+msgstr ""
+
+#. description(totem:totem-plugins)
+msgid ""
+"Totem is movie player for the GNOME desktop based on GStreamer.\n"
+"\n"
+"This package includes plugins for Totem, to add advanced features."
+msgstr ""
+
+#. summary(tracker-extras:nautilus-extension-tracker-tags)
+#, fuzzy
+msgid "Tracker Plugin for Nautilus"
+msgstr "包中含有意外的版本"
+
+#. description(tracker:libtracker-extract-0_14-0)
+msgid ""
+"Tracker is a powerful desktop-neutral first class object database, tag/"
+"metadata database, search tool and indexer.\n"
+"\n"
+"It consists of a common object database that allows entities to have an "
+"almost infinite number of properties, metadata (both embedded/harvested as "
+"well as user definable), a comprehensive database of keywords/tags and links "
+"to other entities.\n"
+"\n"
+"It provides additional features for file-based objects including context "
+"linking and audit trails for a file object.\n"
+"\n"
+"It has the ability to index, store, harvest metadata, retrieve and search "
+"all types of files and other first class objects."
+msgstr ""
+
+#. description(tracker:typelib-1_0-Tracker-0_14)
+msgid ""
+"Tracker is a powerful desktop-neutral first class object database, tag/"
+"metadata database, search tool and indexer.\n"
+"\n"
+"It consists of a common object database that allows entities to have an "
+"almost infinite number of properties, metadata (both embedded/harvested as "
+"well as user definable), a comprehensive database of keywords/tags and links "
+"to other entities.\n"
+"\n"
+"It provides additional features for file-based objects including context "
+"linking and audit trails for a file object.\n"
+"\n"
+"It has the ability to index, store, harvest metadata, retrieve and search "
+"all types of files and other first class objects.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the sparql "
+"library for Tracker."
+msgstr ""
+
+#. description(tracker-extras:tracker-miner-firefox)
+msgid ""
+"Tracker is a powerful desktop-neutral first class object database, tag/"
+"metadata database, search tool and indexer.\n"
+"\n"
+"This package contains a Firefox extension that will index Firefox bookmarks."
+msgstr ""
+
+#. description(tracker:tracker-miner-files)
+msgid ""
+"Tracker is a powerful desktop-neutral first class object database, tag/"
+"metadata database, search tool and indexer.\n"
+"\n"
+"This package contains a miner to index files and applications."
+msgstr ""
+
+#. description(tracker-extras:gnome-panel-applet-tracker)
+msgid ""
+"Tracker is a powerful desktop-neutral first class object database, tag/"
+"metadata database, search tool and indexer.\n"
+"\n"
+"This package contains a panel applet to easily use Tracker."
+msgstr ""
+
+#. description(tracker-extras:tracker-miner-evolution)
+msgid ""
+"Tracker is a powerful desktop-neutral first class object database, tag/"
+"metadata database, search tool and indexer.\n"
+"\n"
+"This package contains an Evolution plugin that will index Evolution mails."
+msgstr ""
+
+#. description(tracker-extras:nautilus-extension-tracker-tags)
+msgid ""
+"Tracker is a powerful desktop-neutral first class object database, tag/"
+"metadata database, search tool and indexer.\n"
+"\n"
+"This package contains an nautilus plugin to tag files with Tracker."
+msgstr ""
+
+#. summary(tracker-extras:tracker-miner-evolution)
+msgid "Tracker miner to index Evolution mails"
+msgstr ""
+
+#. summary(tracker-extras:tracker-miner-firefox)
+msgid "Tracker miner to index Firefox bookmarks"
+msgstr ""
+
+#. summary(tracker:tracker-miner-files)
+msgid "Tracker miner to index files and applications"
+msgstr ""
+
+#. description(transmission:transmission-common)
+msgid ""
+"Transmission is a fast, easy, and free multi-platform BitTorrent client with "
+"a focus on being lightweight yet feature-filled. Its simple, intuitive "
+"interface is designed to integrate tightly with whatever computing "
+"environment you choose to use. Transmission strikes a balance between "
+"providing useful functionality without feature bloat. Furthermore, it is "
+"free for anyone to use or modify."
+msgstr ""
+
+#. description(transmission:transmission-gtk)
+msgid ""
+"Transmission is a fast, easy, and free multi-platform BitTorrent client with "
+"a focus on being lightweight yet feature-filled. Its simple, intuitive "
+"interface is designed to integrate tightly with whatever computing "
+"environment you choose to use. Transmission strikes a balance between "
+"providing useful functionality without feature bloat. Furthermore, it is "
+"free for anyone to use or modify.\n"
+"\n"
+"This package contains a graphical user interface to transmission."
+msgstr ""
+
+#. summary(mousetweaks)
+msgid "Tweak mouse settings in GNOME"
+msgstr ""
+
+#. summary(libsigc++2:libsigc-2_0-0)
+msgid "Typesafe Signal Framework for C++"
+msgstr ""
+
+#. summary(udisks2:libudisks2-0)
+msgid "UDisks Client Library, version 2"
+msgstr ""
+
+#. summary(banshee:banshee-backend-platform-unix)
+msgid "UNIX platform support for Banshee"
+msgstr ""
+
+#. summary(nautilus-sendto:nautilus-sendto-plugin-upnp)
+msgid "UPnP plugin for nautilus-sendto"
+msgstr ""
+
+#. description(upower:typelib-1_0-UpowerGlib-1_0)
+msgid ""
+"UPower is an abstraction for enumerating power devices, listening to device "
+"events and querying history and statistics. Any application or service on "
+"the system can access the org.freedesktop.UPower service via the system "
+"message bus. Some operations (such as suspending the system) are restricted "
+"using PolicyKit.\n"
+"\n"
+"This package provides the GObject Introspection bindings for libupower-glib."
+msgstr ""
+
+#. summary(sane-backends:sane-backends-autoconfig)
+msgid "USB Scanner Autoconfiguration"
+msgstr ""
+
+#. description(sane-backends:sane-backends-autoconfig)
+msgid ""
+"USB scanner autoconfiguration happens via udev.\n"
+"\n"
+"The file /etc/udev/rules.d/56-sane-backends-autoconfig.rules contains "
+"entries for those USB scanners where the USB IDs are known, which are "
+"supported by a free driver, where the support status is \"complete\" or "
+"\"good\", and which do not require firmware upload.\n"
+"\n"
+"When a USB scanner is connected and its USB IDs match to an entry in the 56-"
+"sane-backends-autoconfig.rules file, the matching scanner driver is "
+"activated (i.e. the driver line in /etc/sane.d/dll.conf is activated).\n"
+"\n"
+"It enables scanner drivers but never disables them. The reason is that "
+"enabled drivers do not hurt so that an automated disable would make it only "
+"overcomplicated because when more than one scanner uses the same driver, a "
+"complicated check would be needed to avoid that the driver is accidentally "
+"disabled when only one scanner was disconnected.\n"
+"\n"
+"If you do not like automated driver activation, do not install this package "
+"or remove it when it is already installed."
+msgstr ""
+
+#. description(libunique1:libunique-1_0-0)
+msgid ""
+"Unique is a library for writing single instance application. If you launch a "
+"single instance application twice, the second instance will either just quit "
+"or will send a message to the running instance."
+msgstr ""
+
+#. summary(miniupnpc:libminiupnpc8)
+msgid "Universal Plug'n'Play (UPnP) Client Library"
+msgstr ""
+
+#. summary(fuse)
+#, fuzzy
+msgid "User space File System"
+msgstr "救援系统"
+
+#. summary(system-config-printer:udev-configure-printer)
+msgid "Utility to autoconfigure printers when plugged"
+msgstr ""
+
+#. summary(gnome-dictionary)
+msgid "Utility to look up words in dictionary sources"
+msgstr ""
+
+#. summary(gnome-screenshot)
+msgid "Utility to take pictures of your screen"
+msgstr ""
+
+#. summary(zvbi:libzvbi0)
+msgid "VBI Decoding Library"
+msgstr ""
+
+#. description(zvbi:libzvbi0)
+msgid ""
+"VBI stands for Vertical Blanking Interval, a gap between the image data "
+"transmitted in an analog video signal. This gap is used to transmit AM "
+"modulated data for various data services like Teletext and Closed Caption.\n"
+"\n"
+"The zvbi library provides routines to read from raw VBI sampling devices, to "
+"demodulate raw to sliced VBI data, and to interpret the data of several "
+"popular services."
+msgstr ""
+
+#. summary(libvdpau:libvdpau1)
+msgid "VDPAU wrapper library"
+msgstr ""
+
+#. summary(gvfs)
+msgid "VFS functionality for GLib"
+msgstr ""
+
+#. summary(gvfs:gvfs-backend-afc)
+msgid "VFS functionality for GLib -- iPod / iPhone Support"
+msgstr ""
+
+#. description(gvfs)
+msgid "VFS functionality for GLib."
+msgstr ""
+
+#. summary(libvpx:libvpx0)
+msgid "VP8 codec library"
+msgstr ""
+
+#. description(vte:libvte2_90-9)
+msgid ""
+"VTE is a terminal emulator library that provides a terminal widget for use "
+"with GTK+ as well as handling of child process and terminal emulation "
+"settings."
+msgstr ""
+
+#. description(vte:gnome-pty-helper)
+msgid ""
+"VTE is a terminal emulator library that provides a terminal widget for use "
+"with GTK+ as well as handling of child process and terminal emulation "
+"settings.\n"
+"\n"
+"This package provides a helper for utmp/wtmp/lastlog logging."
+msgstr ""
+
+#. description(libwebkit:typelib-1_0-WebKit-1_0)
+msgid ""
+"WebKit is a web content engine, derived from KHTML and KJS from KDE, and "
+"used primarily in Apple's Safari browser.  It is made to be embedded in "
+"other applications, such as mail readers, or web browsers.\n"
+"\n"
+"It is able to display content such as HTML, SVG, XML, and others. It also "
+"supports DOM, XMLHttpRequest, XSLT, CSS, Javascript/ECMAscript and more.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the GTK+ port "
+"of WebKit."
+msgstr ""
+
+#. description(libwebkit:typelib-1_0-JSCore-1_0)
+msgid ""
+"WebKit is a web content engine, derived from KHTML and KJS from KDE, and "
+"used primarily in Apple's Safari browser.  It is made to be embedded in "
+"other applications, such as mail readers, or web browsers.\n"
+"\n"
+"It is able to display content such as HTML, SVG, XML, and others. It also "
+"supports DOM, XMLHttpRequest, XSLT, CSS, Javascript/ECMAscript and more.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the GTK+ port "
+"of the JavaScript Core engine."
+msgstr ""
+
+#. description(libvpx:libvpx0)
+msgid ""
+"WebM is an open, royalty-free, media file format designed for the web.\n"
+"\n"
+"WebM defines the file container structure, video and audio formats. WebM "
+"files consist of video streams compressed with the VP8 video codec and audio "
+"streams compressed with the Vorbis audio codec. The WebM file structure is "
+"based on the Matroska container."
+msgstr ""
+
+#. description(evolution-webcal)
+msgid "Webcal subscribes to Web calendars for Evolution."
+msgstr ""
+
+#. summary(cheese)
+msgid "Webcam Booth for GNOME"
+msgstr ""
+
+#. summary(cheese:libcheese-common)
+msgid "Webcam Booth for GNOME - Common Data used by Libraries"
+msgstr ""
+
+#. summary(cheese:libcheese3)
+msgid "Webcam Booth for GNOME - Library"
+msgstr ""
+
+#. summary(cheese:libcheese-gtk21)
+msgid "Webcam Booth for GNOME - UI Library"
+msgstr ""
+
+#. summary(libwnck2:libwnck-1-22)
+msgid "Window Navigator Construction Kit (Library Package)"
+msgstr ""
+
+#. summary(libwnck2:typelib-1_0-Wnck-1_0)
+msgid ""
+"Window Navigator Construction Kit (Library Package) -- Introspection bindings"
+msgstr ""
+
+#. summary(mutter)
+msgid "Window and compositing manager based on Clutter"
+msgstr ""
+
+#. summary(totem:totem-browser-plugin-gmp)
+msgid "Windows Media Browser Plugin Based on Totem Movie Player"
+msgstr ""
+
+#. description(fuse:libfuse2)
+msgid ""
+"With FUSE, a user space program can export a file system through the kernel-"
+"default (Linux kernel).\n"
+"\n"
+"A FUSE file system which only needs libfuse2 is ntfs-3g, other FUSE file "
+"systems might need the fuse package in addition to have fusermount and /sbin/"
+"mount.fuse.\n"
+"\n"
+"User space file systems which are implemented using FUSE are provided by the "
+"following packages:\n"
+"\n"
+"- curlftpfs (mount FTP servers),\n"
+"\n"
+"- encfs (layered file encryption),\n"
+"\n"
+"- fuseiso (mount iso, img, bin, mdf and nrg CD-ROM images),\n"
+"\n"
+"- fusepod (mount iPods),\n"
+"\n"
+"- fusesmb (mount a fully browseable network neighborhood),\n"
+"\n"
+"- gphotofs (mount gphoto-supported cameras),\n"
+"\n"
+"- ntfs-3g (mount NTFS volumes read-write),\n"
+"\n"
+"- obexfs (mount of bluetooth devices),\n"
+"\n"
+"- sshfs (mount over ssh),\n"
+"\n"
+"- wdfs (mount of WebDAV shares)\n"
+"\n"
+"After installing fuse-devel, administrators can compile and install other "
+"user space file systems which can be found at http://fuse.sourceforge.net/"
+"wiki"
+msgstr ""
+
+#. description(fuse)
+msgid ""
+"With FUSE, a user space program can export a file system through the kernel-"
+"default (Linux kernel).\n"
+"\n"
+"User space file systems which are implemented using FUSE are provided by the "
+"following packages:\n"
+"\n"
+"- curlftpfs (mount FTP servers),\n"
+"\n"
+"- encfs (layered file encryption),\n"
+"\n"
+"- fuseiso (mount iso, img, bin, mdf and nrg CD-ROM images),\n"
+"\n"
+"- fusepod (mount iPods),\n"
+"\n"
+"- fusesmb (mount a fully browseable network neighborhood),\n"
+"\n"
+"- gphotofs (mount gphoto-supported cameras),\n"
+"\n"
+"- ntfs-3g (mount NTFS volumes read-write),\n"
+"\n"
+"- obexfs (mount of bluetooth devices),\n"
+"\n"
+"- sshfs (mount over ssh),\n"
+"\n"
+"- wdfs (mount of WebDAV shares)\n"
+"\n"
+"This package contains the mount binaries for fuse (might not be needed by "
+"some FUSE filesystems like ntfs-3g) and the documentation for FUSE.\n"
+"\n"
+"After installing fuse-devel, administrators can compile and install other "
+"user space file systems which can be found at http://fuse.sourceforge.net/"
+"wiki"
+msgstr ""
+
+#. summary(brltty:xbrlapi)
+msgid "X BrlAPI helper"
+msgstr ""
+
+#. summary(libXevie:libXevie1)
+#, fuzzy
+msgid "X Event Interception Extension library"
+msgstr "SUSE 硬件检测"
+
+#. description(xchat)
+msgid ""
+"X-Chat is yet another IRC client for the X Window System.  It uses the Gtk+ "
+"toolkit. It is easy to use compared to the other Gtk+ IRC clients and it has "
+"a nicely designed interface."
+msgstr ""
+
+#. description(xchat:xchat-perl)
+msgid ""
+"X-Chat is yet another IRC client for the X Window System.  It uses the Gtk+ "
+"toolkit. It is easy to use compared to the other Gtk+ IRC clients and it has "
+"a nicely designed interface.\n"
+"\n"
+"This package contains the files necessary to support perl plugins."
+msgstr ""
+
+#. description(xchat:xchat-python)
+msgid ""
+"X-Chat is yet another IRC client for the X Window System.  It uses the Gtk+ "
+"toolkit. It is easy to use compared to the other Gtk+ IRC clients and it has "
+"a nicely designed interface.\n"
+"\n"
+"This package contains the files necessary to support python plugins."
+msgstr ""
+
+#. description(xchat:xchat-tcl)
+msgid ""
+"X-Chat is yet another IRC client for the X Window System.  It uses the Gtk+ "
+"toolkit. It is easy to use compared to the other Gtk+ IRC clients and it has "
+"a nicely designed interface.\n"
+"\n"
+"This package contains the files necessary to support tcl plugins."
+msgstr ""
+
+#. description(exempi:libexempi3)
+msgid "XMP parsing and IO library"
+msgstr ""
+
+#. summary(exempi:libexempi3)
+msgid "XMP support library"
+msgstr ""
+
+#. summary(telepathy-gabble)
+msgid "XMPP connection manager for Telepathy"
+msgstr ""
+
+#. summary(yelp-xsl)
+msgid "XSL stylesheets for the yelp help browser"
+msgstr ""
+
+#. summary(brltty:brltty-driver-xwindow)
+msgid "XWindow driver for BRLTTY"
+msgstr ""
+
+#. summary(yast2-control-center-gnome)
+#, fuzzy
+msgid "YaST2 - Control Center (GNOME version)"
+msgstr "SaX 控制中心"
+
+#. summary(yast2-gtk)
+#, fuzzy
+msgid "YaST2 - GTK+ Graphical User Interface"
+msgstr "SUSE 硬件检测"
+
+#. description(yelp:libyelp0)
+msgid ""
+"Yelp is the default help browser for the GNOME desktop. Yelp provides a "
+"simple graphical interface for viewing DocBook, HTML, man, and info "
+"formatted documentation."
+msgstr ""
+
+#. description(zenity)
+msgid ""
+"Zenity is a basic rewrite of gdialog, without the pain involved of trying to "
+"figure out commandline parsing.  Zenity is zen-like; simple and easy to "
+"use.\n"
+"\n"
+"Zenity Dialogs: Calendar, Text Entry, Error, Informational, File Selection, "
+"List, Progress, Question, Text Information, Warning and Password.\n"
+"\n"
+"Zenity is especially useful in scripts."
+msgstr ""
+
+#. description(atkmm:libatkmm-1_6-1)
+msgid ""
+"atkmm is the C++ binding for the ATK library. This module is part of the "
+"GNOME C++ bindings effort."
+msgstr ""
+
+#. description(dotconf:libdotconf0)
+msgid ""
+"dotconf is a simple-to-use and powerful configuration-file parser library "
+"written in C. The configuration files created for dotconf look very similar "
+"to those used by the Apache Webserver. Even Container-Directives known from "
+"httpd.conf can easily be used in the exact same manner as for Apache-"
+"Modules. It supports various types of arguments, dynamically loadable "
+"modules that create their own configuration options on-the-fly, a here-"
+"documents feature to pass very long ARG_STR data to your app, and on-the-fly "
+"inclusion of additional config files."
+msgstr ""
+
+#. summary(brltty:brltty-driver-espeak)
+msgid "eSpeak driver for BRLTTY"
+msgstr ""
+
+#. description(gbrainy)
+msgid ""
+"gbrainy is a brain teaser game and trainer to have fun and to keep your "
+"brain trained.\n"
+"\n"
+"It provides the following types of games:\n"
+"\n"
+"* Logic puzzles. Games designed to challenge your reasoning and   thinking "
+"skills.\n"
+"\n"
+"* Mental calculation. Games based on arithmetical operations   designed to "
+"prove your mental calculation skills.\n"
+"\n"
+"* Memory trainers. Games designed to challenge your short term   memory.\n"
+"\n"
+"* Verbal analogies. Games that challenge your verbal aptitude."
+msgstr ""
+
+#. description(gdk-pixbuf:typelib-1_0-GdkPixbuf-2_0)
+msgid ""
+"gdk-pixbuf is an image loading library that can be extended by loadable "
+"modules for new image formats. It is used by toolkits such as GTK+ or "
+"Clutter.\n"
+"\n"
+"This package provides the GObject Introspection bindings for gdk-pixbuf."
+msgstr ""
+
+#. description(libgexiv2:libgexiv2-1)
+msgid ""
+"gexiv2 is a GObject-based wrapper around the Exiv2 library. It makes the "
+"basic features of Exiv2 available to GNOME applications."
+msgstr ""
+
+#. description(gnokii)
+msgid ""
+"gnokii is a package of programs for communicating with a Nokia cellular "
+"phone in Linux. Read the READMEs in /usr/share/doc/packages/gnokii to find "
+"out which models are supported."
+msgstr ""
+
+#. description(gnome-online-accounts)
+msgid ""
+"gnome-online-accounts provides interfaces so applications and libraries in "
+"GNOME can access the user's online accounts."
+msgstr ""
+
+#. description(gnome-online-accounts:typelib-1_0-Goa-1_0)
+msgid ""
+"gnome-online-accounts provides interfaces so applications and libraries in "
+"GNOME can access the user's online accounts.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the libgoa "
+"client library."
+msgstr ""
+
+#. description(gnome-screensaver)
+msgid ""
+"gnome-screensaver is a screen saver and locker that aims to have simple, "
+"sane, secure defaults and be well integrated in the desktop. It is designed "
+"to support:\n"
+"\n"
+"        * the ability to lock down configuration settings         * "
+"translation into other languages         * user switching"
+msgstr ""
+
+#. description(gnome-settings-daemon)
+msgid ""
+"gnome-settings-daemon provides a daemon run by all GNOME sessions to provide "
+"live access to configuration settings and the changes done to them as well "
+"as basic services like a clipboard manager, controlling the startup of the "
+"screensaver, etc.\n"
+"\n"
+"This module was previously part of GNOME Control Center, but has been "
+"splitted from it for a more general use."
+msgstr ""
+
+#. description(gnome-user-share)
+msgid ""
+"gnome-user-share is a small package that binds together various free "
+"software projects to bring easy to use user-level file sharing to the "
+"masses.\n"
+"\n"
+"The program is meant to run in the background when the user is logged in, "
+"and when file sharing is enabled a webdav server is started that shares the "
+"$HOME/Public folder. The share is then published to all computers on the "
+"local network using mDNS/rendezvous, so that it shows up in the Network "
+"location in GNOME.\n"
+"\n"
+"The program also allows to share files using ObexFTP over Bluetooth."
+msgstr ""
+
+#. description(gssdp:libgssdp-1_0-3)
+msgid ""
+"gssdp offers a GObject-based API for handling resource discovery and "
+"announcement over SSDP."
+msgstr ""
+
+#. description(libXevie:libXevie1)
+msgid ""
+"libXevie provides an X Window System client interface to the EvIE extension "
+"to the X protocol. The EvIE (Event Interception Extension) allows for "
+"clients to be able to intercept all events coming through the server and "
+"then decide what to do with them, including being able to modify or discard "
+"events."
+msgstr ""
+
+#. description(libass:libass4)
+msgid ""
+"libass is a portable subtitle renderer for the ASS/SSA  (Advanced Substation "
+"Alpha/Substation Alpha) subtitle format. It is mostly compatible with "
+"VSFilter."
+msgstr ""
+
+#. description(libcanberra:canberra-gtk-play)
+msgid ""
+"libcanberra is an implementation of the XDG Sound Theme and Name "
+"Specifications, for generating event sounds on free desktops, such as GNOME. "
+"It comes with several backends (ALSA, PulseAudio, null) and is designed to "
+"be portable.\n"
+"\n"
+"This package provides the canberra-gtk-play utility."
+msgstr ""
+
+#. description(libcdaudio)
+msgid ""
+"libcdaudio is a library designed to provide functions to control operation "
+"of a CD-ROM when playing audio CDs.  It also contains functions for CDDB and "
+"CD index lookup."
+msgstr ""
+
+#. description(libcue:libcue1)
+msgid ""
+"libcue parses so-called cue sheets from a char string or a FILE pointer. "
+"This project is meant as a fork of (defunct) cuetools."
+msgstr ""
+
+#. description(folks:libfolks-eds25)
+msgid ""
+"libfolks is a library that aggregates people from multiple sources (eg, "
+"Telepathy connection managers) to create metacontacts."
+msgstr ""
+
+#. description(folks:typelib-1_0-Folks-0_6)
+msgid ""
+"libfolks is a library that aggregates people from multiple sources (eg, "
+"Telepathy connection managers) to create metacontacts.\n"
+"\n"
+"This package provides the GObject Introspection bindings for libfolks."
+msgstr ""
+
+#. description(libgadu:libgadu3)
+msgid ""
+"libgadu is a library for handling of protocol of a popular Polish instant "
+"messenger Gadu-Gadu."
+msgstr ""
+
+#. description(libgdata:libgdata13)
+msgid ""
+"libgdata is a GLib-based library for accessing online service APIs using the "
+"GData protocol â most notably, Google's services. It provides APIs to access "
+"the common Google services, and has full asynchronous support."
+msgstr ""
+
+#. description(libgdata:typelib-1_0-GData-0_0)
+msgid ""
+"libgdata is a GLib-based library for accessing online service APIs using the "
+"GData protocol â most notably, Google's services. It provides APIs to access "
+"the common Google services, and has full asynchronous support.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the libgdata "
+"library."
+msgstr ""
+
+#. description(libgxps:libgxps2)
+msgid ""
+"libgxps is a GObject based library for handling and rendering XPS documents."
+msgstr ""
+
+#. description(libiptcdata)
+msgid ""
+"libiptcdata is a library for parsing, editing, and saving IPTC data.\n"
+"\n"
+"libiptcdata is a library for manipulating the International Press "
+"Telecommunications Council (IPTC) metadata stored within multimedia files "
+"such as images. This metadata can include captions and keywords, often used "
+"by popular photo management applications. The library provides routines for "
+"parsing, viewing, modifying, and saving this metadata. The libiptcdata "
+"package also includes a command line utility, iptc, for editing IPTC data in "
+"JPEG files. The library implements the IPTC Information Interchange Model "
+"according to its specification."
+msgstr ""
+
+#. description(libnice:gstreamer-0_10-libnice)
+msgid ""
+"libnice is an implementation of the IETF's draft Interactive Connectivity "
+"Establishment standard (ICE)."
+msgstr ""
+
+#. description(liboauth:liboauth0)
+msgid ""
+"liboauth is a collection of c functions implementing the http://oauth.net "
+"API.\n"
+"\n"
+"liboauth provides functions to escape and encode stings according to OAuth "
+"specifications and offers high-level functionality built on top to sign "
+"requests or verify signatures using either NSS or OpenSSL for calculating "
+"the hash/signatures.\n"
+"\n"
+"This archive contains the shared library files from liboauth."
+msgstr ""
+
+#. description(libosinfo)
+msgid ""
+"libosinfo is a GObject based library API for managing information about "
+"operating systems, hypervisors and the (virtual) hardware devices they can "
+"support. It includes a database containing device metadata and provides APIs "
+"to match/identify optimal devices for deploying an operating system on a "
+"hypervisor. Via the magic of GObject Introspection, the API is available in "
+"all common programming languages."
+msgstr ""
+
+#. description(libpeas:libpeas-1_0-0)
+msgid ""
+"libpeas is a gobject-based plugin engine, and is targetted at giving every "
+"application the chance to assume its own extensibility."
+msgstr ""
+
+#. description(libpeas:libpeas-loader-gjs)
+msgid ""
+"libpeas is a gobject-based plugin engine, and is targetted at giving every "
+"application the chance to assume its own extensibility.\n"
+"\n"
+"This package contains the gjs loader."
+msgstr ""
+
+#. description(libpeas:libpeas-loader-python)
+msgid ""
+"libpeas is a gobject-based plugin engine, and is targetted at giving every "
+"application the chance to assume its own extensibility.\n"
+"\n"
+"This package contains the python loader."
+msgstr ""
+
+#. description(libpeas:libpeas-loader-seed)
+msgid ""
+"libpeas is a gobject-based plugin engine, and is targetted at giving every "
+"application the chance to assume its own extensibility.\n"
+"\n"
+"This package contains the seed loader."
+msgstr ""
+
+#. description(libpeas:typelib-1_0-Peas-1_0)
+msgid ""
+"libpeas is a gobject-based plugin engine, and is targetted at giving every "
+"application the chance to assume its own extensibility.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the libpeas "
+"library."
+msgstr ""
+
+#. description(libpeas:typelib-1_0-PeasGtk-1_0)
+msgid ""
+"libpeas is a gobject-based plugin engine, and is targetted at giving every "
+"application the chance to assume its own extensibility.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the libpeas-gtk "
+"library."
+msgstr ""
+
+#. description(pidgin:libpurple)
+msgid ""
+"libpurple is a library intended to be used by programmers seeking to write "
+"an IM client that connects to many IM networks.\n"
+"\n"
+"libpurple is compatible with the following chat networks out of the box: "
+"AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo!, Bonjour, Gadu-"
+"Gadu, IRC, Novell GroupWise Messenger, QQ, Lotus Sametime, SILC, SIMPLE, "
+"MXit, MySpaceIM, and Zephyr. It can support many more with plugins."
+msgstr ""
+
+#. description(pidgin-branding-openSUSE:libpurple-branding-openSUSE)
+msgid ""
+"libpurple is a library intended to be used by programmers seeking to write "
+"an IM client that connects to many IM networks.\n"
+"\n"
+"libpurple is compatible with the following chat networks out of the box: "
+"AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo!, Bonjour, Gadu-"
+"Gadu, IRC, Novell GroupWise Messenger, QQ, Lotus Sametime, SILC, SIMPLE, "
+"MXit, MySpaceIM, and Zephyr. It can support many more with plugins.\n"
+"\n"
+"This package provides the openSUSE default configuration for libpurple."
+msgstr ""
+
+#. description(libquvi:libquvi7)
+msgid ""
+"libquvi is a cross-platform library for parsing flash media stream URLs with "
+"C API."
+msgstr ""
+
+#. description(libquvi-scripts)
+msgid ""
+"libquvi-scripts contains the embedded lua scripts that libquvi uses for "
+"parsing the media details. Some additional utility scripts are also included."
+msgstr ""
+
+#. description(libwacom:libwacom-data)
+msgid ""
+"libwacom is a library to identify wacom tablets and their model-specific "
+"features. It provides easy access to information such as \"is this a built-"
+"in on-screen tablet\", \"what is the size of this model\", etc."
+msgstr ""
+
+#. description(notify-sharp)
+msgid ""
+"notify-sharp is a C# client implementation for Desktop Notifications, i.e. "
+"notification-daemon. It is inspired by the libnotify API.\n"
+"\n"
+"Desktop Notifications provide a standard way of doing passive pop-up "
+"notifications on the Linux desktop. These are designed to notify the user of "
+"something without interrupting their work with a dialog box that they must "
+"close. Passive popups can automatically disappear after a short period of "
+"time."
+msgstr ""
+
+#. description(pangomm:libpangomm-1_4-1)
+msgid "pangomm provides a C++ interface to the pango library."
+msgstr ""
+
+#. description(polkit-gnome)
+msgid ""
+"polkit-gnome provides an authentication agent for PolicyKit that matches the "
+"look and feel of the GNOME desktop."
+msgstr ""
+
+#. description(pulseaudio:pulseaudio-module-gconf)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"This package provides gconf storage of PulseAudio sound server settings."
+msgstr ""
+
+#. description(system-config-printer)
+msgid ""
+"system-config-printer is a graphical user interface that allows the user to "
+"configure a CUPS print server."
+msgstr ""
+
+#. description(system-config-printer:system-config-printer-applet)
+msgid ""
+"system-config-printer is a graphical user interface that allows the user to "
+"configure a CUPS print server.\n"
+"\n"
+"This package provides a notification icon to configure new printers and "
+"monitor print jobs."
+msgstr ""
+
+#. description(system-config-printer:system-config-printer-common)
+msgid ""
+"system-config-printer is a graphical user interface that allows the user to "
+"configure a CUPS print server.\n"
+"\n"
+"This package provides files common to various binaries."
+msgstr ""
+
+#. description(system-config-printer:system-config-printer-dbus-service)
+msgid ""
+"system-config-printer is a graphical user interface that allows the user to "
+"configure a CUPS print server.\n"
+"\n"
+"This packages provides a D-Bus service to configure printers and manage "
+"print jobs."
+msgstr ""
+
+#. description(totem-pl-parser:libtotem-plparser-mini17)
+msgid ""
+"totem-pl-parser is a simple GObject-based library to parse a host of "
+"playlist formats, to save them too."
+msgstr ""
+
+#. description(totem-pl-parser:typelib-1_0-TotemPlParser-1_0)
+msgid ""
+"totem-pl-parser is a simple GObject-based library to parse a host of "
+"playlist formats, to save them too.\n"
+"\n"
+"This package provides the GObject Introspection bindings for the totem-pl-"
+"parser library."
+msgstr ""
+
+#. description(telepathy-logger:libtelepathy-logger2)
+msgid ""
+"tp-logger is a headless Observer client that logs information received by "
+"the Telepathy framework. It features pluggable backends to log different "
+"sorts of messages, in different formats.\n"
+"\n"
+"tp-logger features a Telepathy-style D-Bus API to expose logs and "
+"interesting information related to logging (most frequent contacts, etc.). "
+"It also provides a GLib-compatible client API for making bulk log requests "
+"(e.g. for display logs in applications without having to provide lots of "
+"information over D-Bus)."
+msgstr ""
+
+#. description(telepathy-logger:typelib-1_0-TelepathyLogger-0_2)
+msgid ""
+"tp-logger is a headless Observer client that logs information received by "
+"the Telepathy framework. It features pluggable backends to log different "
+"sorts of messages, in different formats.\n"
+"\n"
+"tp-logger features a Telepathy-style D-Bus API to expose logs and "
+"interesting information related to logging (most frequent contacts, etc.). "
+"It also provides a GLib-compatible client API for making bulk log requests "
+"(e.g. for display logs in applications without having to provide lots of "
+"information over D-Bus).\n"
+"\n"
+"This package provides the GObject Introspection bindings for Telepathy "
+"Logger."
+msgstr ""
+
+#. summary(xdg-user-dirs-gtk)
+msgid "xdg-user-dir support for Gnome and Gtk+ applications"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Evolution Data Server"
+#~ msgstr "打印服务器"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains a PolicyKit helper to set the system date and time."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Evolution Data Server - Calendar Backend Library"
+#~ msgstr "打印服务器"
+
+#, fuzzy
+#~ msgid "GNOME Extensions for LibreOffice"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "This package contains some GNOME extensions for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "GNU Unicode string library - development files"
+#~ msgstr "KDE 开发"
+
+#, fuzzy
+#~ msgid "Cryptographic modules for Python"
+#~ msgstr "启动时选择的接口："
+
+#, fuzzy
+#~ msgid "Utilities for GNOME"
+#~ msgstr "VNC 服务器"
+
+#, fuzzy
+#~ msgid "This package contains the theme engine libraries for GTK2."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Shared library used by GNOME control center"
+#~ msgstr "控制中心"
+
+#, fuzzy
+#~ msgid "German translations for many GNOME programs"
+#~ msgstr "另一个事务已在运行中"
+
+#, fuzzy
+#~ msgid "This package contains the openSUSE splash screen for the GIMP."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Languages for package gnome-documents"
+#~ msgstr "语言：     "
+
+#, fuzzy
+#~ msgid "Provides translations to the package gnome-documents"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package includes the openSUSE branding for LibreOffice office suite."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "The GNOME Desktop Menu - Legacy compatibility version"
+#~ msgstr "默认菜单和应用程序浏览器"
+
+#, fuzzy
+#~ msgid "Python bindings for libwnck"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for libwnck."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "The GNOME Desktop Menu -- Upstream Menus Definitions"
+#~ msgstr "默认菜单和应用程序浏览器"
+
+#, fuzzy
+#~ msgid "Provides translations to the package gnome-menus-legacy"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "ISO Code Lists and Translations"
+#~ msgstr "俄联邦"
+
+#, fuzzy
+#~ msgid "Python X11 interface"
+#~ msgstr "LDAP 客户机服务"
+
+#, fuzzy
+#~ msgid "GNOME Photo Management Application"
+#~ msgstr "选择应用程序"
+
+#, fuzzy
+#~ msgid "GNOME Screen Magnifier"
+#~ msgstr "GNOME 屏幕保护程序"
+
+#, fuzzy
+#~ msgid "This package contains Mono bindings gnomevfs."
+#~ msgstr "包未经签名"
+
+#, fuzzy
+#~ msgid ""
+#~ "This library contains the Bonobo-related part of the GNOME UI libraries."
+#~ msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#, fuzzy
+#~ msgid "Evolution Data Server - Groupwise Library"
+#~ msgstr "打印服务器"
+
+#, fuzzy
+#~ msgid "C++ Interface for GConf"
+#~ msgstr "启动时选择的接口："
+
+#, fuzzy
+#~ msgid "GNOME Media Profiles Library"
+#~ msgstr "通知"
+
+#, fuzzy
+#~ msgid "User Interface Part of the GNOME Printing Library"
+#~ msgstr "输入抽象层 的用户界面"
+
+#, fuzzy
+#~ msgid "PulseAudio Preferences"
+#~ msgstr "参考设置"
+
+#, fuzzy
+#~ msgid "Python bindings for Bonobo"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for Bonobo."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Python bindings for Bug-Buddy"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for Bug-Buddy."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Python bindings for Evolution"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for Evolution."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Python bindings for GConf"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for GConf."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for libgnome and libgnomeui."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Python bindings for libgnomecanvas"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for libgnomecanvas."
+#~ msgstr "包未经签名"
+
+#, fuzzy
+#~ msgid "Python bindings for libgnome-desktop"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for libgnome-desktop."
+#~ msgstr "包未经签名"
+
+#, fuzzy
+#~ msgid "Python bindings for libgnomeprint"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for libgnomeprint."
+#~ msgstr "包未经签名"
+
+#, fuzzy
+#~ msgid "Python bindings for GNOME-VFS"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for GNOME-VFS."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Python bindings for libgtop"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for libgtop."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Python bindings for Metacity"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for Metacity."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Python bindings for librsvg"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for librsvg."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Python bindings for Totem"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "This package contains Python bindings for Totem."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "This package provides openSUSE Look and Feel for gdm."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Desktop Search Application"
+#~ msgstr "选择切换应用程序"
+
+#, fuzzy
+#~ msgid "Evolution Plugin for the Desktop search application beagle"
+#~ msgstr "切换应用程序："
+
+#, fuzzy
+#~ msgid "The GNOME Mount Program"
+#~ msgstr "GNOME 主菜单"
+
+#, fuzzy
+#~ msgid "Beagle C Interface"
+#~ msgstr "内核接口"
+
+#, fuzzy
+#~ msgid "Extra packages"
+#~ msgstr "安装包"
+
+#, fuzzy
+#~ msgid "A Networked Sound Server"
+#~ msgstr "网络和服务器"
+
+#, fuzzy
+#~ msgid "The GNOME 2.x Desktop Help Browser"
+#~ msgstr "帮助浏览器"

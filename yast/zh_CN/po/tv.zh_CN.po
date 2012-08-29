@@ -1,0 +1,1437 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: tv\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:50+0200\n"
+"PO-Revision-Date: 2012-07-22 17:35+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. Item text in the list of card vendors
+#: data/tv_dvbcards.ycp:12
+msgid "DVB Cards"
+msgstr "数字视频播放卡"
+
+#. checkbox label
+#: src/Tv.ycp:334
+msgid "Do Not Show This Message &Again"
+msgstr "不再显示此消息(&A)"
+
+#. Error message popup:
+#: src/Tv.ycp:403 src/Tv.ycp:415 src/Tv.ycp:428
+msgid "Unable to read the TV card database."
+msgstr "无法读取电视卡数据库。"
+
+#. Default item of tuners list:
+#: src/Tv.ycp:504 src/Tv.ycp:3033 src/Tv.ycp:3067
+msgid "Default (detected)"
+msgstr "默认值(检测到的)"
+
+#. Error message popup:
+#: src/Tv.ycp:518
+msgid "Unable to read the tuner database."
+msgstr "无法读取调谐器数据库。"
+
+#. Warning message popup:
+#: src/Tv.ycp:565 src/Tv.ycp:617 src/Tv.ycp:635
+msgid ""
+"Unable to read the list of\n"
+"available kernel modules."
+msgstr ""
+"无法读取可用内核模块的\n"
+"列表。"
+
+#: src/Tv.ycp:1030
+#, ycp-format
+msgid ""
+"Firmware must be installed for \n"
+"TV card '%1' to work.\n"
+"\n"
+"Enter the location of the firmware file then\n"
+"press Continue to install the firmware.\n"
+msgstr ""
+"为使电视卡\"%1\"正常工作，必须\n"
+"安装固件。\n"
+"\n"
+"请输入固件文件的位置，然后\n"
+"按\"继续\"安装固件。\n"
+
+#: src/Tv.ycp:1039
+msgid "Install Firmware"
+msgstr "安装固件"
+
+#. header in file selection popup
+#: src/Tv.ycp:1071
+msgid "Select Firmware File"
+msgstr "选择固件文件"
+
+#. firmware is not installed, display warning message
+#: src/Tv.ycp:1165
+msgid "The TV card will not work without firmware."
+msgstr "没有固件电视卡将无法工作。"
+
+#. warning popup - md5sum returned non-zero exit status
+#: src/Tv.ycp:1182
+msgid "Could not check the MD5 sum of the firmware."
+msgstr "无法校验固件的 MD5 和。"
+
+#. warning popup - computed and expected md5sum don't match
+#: src/Tv.ycp:1200
+msgid ""
+"The MD5 check sum of the installed firmware\n"
+"does not match the value in the database. \n"
+"\n"
+"Use the firmware file anyway?\n"
+msgstr ""
+"已安装固件的 MD5 校验和\n"
+"与数据库中的值不匹配。\n"
+"\n"
+"是否一定要使用该固件文件？\n"
+
+#. try installation of the firmware again?
+#: src/Tv.ycp:1401
+msgid ""
+"Installation of the firmware has failed.\n"
+"Try the installation again?"
+msgstr ""
+"固件的安装已失败。\n"
+"是否尝试再次安装？"
+
+#. Error message popup, %1 is file name
+#: src/Tv.ycp:2029
+#, ycp-format
+msgid ""
+"Unable to write parameters\n"
+"to %1."
+msgstr ""
+"无法将参数\n"
+"写入 %1。"
+
+#. Error message popup,  %1 is file name
+#: src/Tv.ycp:2046 src/Tv.ycp:2054
+#, ycp-format
+msgid "Unable to write %1."
+msgstr "无法写入 %1。"
+
+#: src/Tv.ycp:2067
+#, ycp-format
+msgid "Cannot start device %1."
+msgstr "无法启动设备 %1。"
+
+#. Confirmation: label text (detecting hardware: xxx)
+#: src/Tv.ycp:2110
+msgid "TV cards"
+msgstr "电视卡"
+
+#. Warning message popup (detection problem):
+#: src/Tv.ycp:2121
+msgid "Unable to probe the TV cards."
+msgstr "无法检测电视卡。"
+
+#. Warning message popup (detection problem):
+#: src/Tv.ycp:2134
+msgid "Unable to probe the DVB cards."
+msgstr "无法检测数字视频播放卡。"
+
+#. Summary text (%1 is number)
+#: src/Tv.ycp:2275
+#, ycp-format
+msgid "Installed as radio card number %1."
+msgstr "已安装为无线电卡编号 %1。"
+
+#. Summary text (%1 is number)
+#: src/Tv.ycp:2280
+#, ycp-format
+msgid "Installed as DVB card number %1."
+msgstr "已安装为数字视频播放卡编号 %1。"
+
+#. Summary text (%1 is number)
+#: src/Tv.ycp:2287
+#, ycp-format
+msgid "Installed as TV card number %1"
+msgstr "已安装为电视卡编号 %1"
+
+#: src/Tv.ycp:2303 src/Tv.ycp:2699
+msgid "Firmware: "
+msgstr "固件："
+
+#: src/Tv.ycp:2304 src/Tv.ycp:2700
+#, ycp-format
+msgid "Installed (%1)"
+msgstr "已安装 (%1)"
+
+#: src/Tv.ycp:2304
+#, ycp-format
+msgid "Not installed (%1)"
+msgstr "未安装 (%1)"
+
+#. summary string, %1 is a package name, %2 is a status string: installed
+#: src/Tv.ycp:2318 src/Tv.ycp:2714
+#, ycp-format
+msgid "Package: %1 (%2)"
+msgstr "包：%1 (%2)"
+
+#. package status
+#: src/Tv.ycp:2320 src/Tv.ycp:2716
+msgid "Installed"
+msgstr "已安装"
+
+#: src/Tv.ycp:2320 src/Tv.ycp:2716
+msgid "Not Installed"
+msgstr "未安装"
+
+#. suffix to differ between analog (TV) and digital (DVB) cards
+#: src/Tv.ycp:2591 src/Tv.ycp:2653
+msgid "DVB"
+msgstr "数字视频播放"
+
+#: src/Tv.ycp:2591 src/Tv.ycp:2653
+msgid "TV"
+msgstr "电视"
+
+#. %1 is "TV" or "DVB", %2 is card number
+#: src/Tv.ycp:2665
+#, ycp-format
+msgid "Configured as %1 card number %2"
+msgstr "已配置为 %1 卡编号 %2"
+
+#: src/Tv.ycp:2670
+#, ycp-format
+msgid "Driver %1"
+msgstr "驱动程序 %1"
+
+#: src/Tv.ycp:2675
+#, ycp-format
+msgid "Attached to sound card '%1'"
+msgstr "已连接到声卡“%1”"
+
+#: src/Tv.ycp:2700
+#, ycp-format
+msgid "Not installed (%1 -> %2)"
+msgstr "未安装(%1 -> %2)"
+
+#. status of the card, the text used in table, translation should be as short as possible
+#: src/Tv.ycp:2773
+msgid "Not configured"
+msgstr "未配置"
+
+#. For translators: Entry for manual selection in the list of the cards to configure
+#: src/Tv.ycp:2879
+msgid "Other (not detected)"
+msgstr "其它(未检测到的)"
+
+#. Item of cards list:
+#: src/Tv.ycp:2953
+msgid "Autodetected card"
+msgstr "自动检测的卡"
+
+#. error message, %1 is a file name
+#: src/Tv.ycp:3160
+#, ycp-format
+msgid ""
+"File %1 is missing,\n"
+"check your installation."
+msgstr ""
+"文件 %1 缺失，\n"
+"请检查您的安装。"
+
+#. description for ir-kbd-gpio module
+#: src/Tv.ycp:3257
+msgid "Input driver for bt8x8 gpio IR remote controls"
+msgstr "bt8x8 gpio 红外线遥控器的输入驱动程序"
+
+#. description for ir-kbd-i2c module
+#: src/Tv.ycp:3259
+msgid "Input driver for i2c IR remote controls"
+msgstr "i2c 红外遥控器的输入驱动程序"
+
+#. Title of initialization dialog
+#. Header of TV Initialization Dialog
+#: src/Tv.ycp:3449 src/tv_auto.ycp:52 src/ui.ycp:1914
+msgid "Initializing TV and Radio Card Configuration"
+msgstr "正在初始化电视卡和无线电卡的配置"
+
+#. For translators: Title of the "save" dialog
+#: src/Tv.ycp:3493
+msgid "Saving TV and Radio Card Configuration"
+msgstr "保存电视卡和无线电卡的配置"
+
+#. Progress stage
+#: src/Tv.ycp:3502
+msgid "Install firmware"
+msgstr "安装固件"
+
+#. Progress stage
+#: src/Tv.ycp:3504
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. Progress stage
+#: src/Tv.ycp:3506
+msgid "Update sound volume"
+msgstr "更新音量"
+
+#. Progress step
+#: src/Tv.ycp:3510
+msgid "Installing firmware..."
+msgstr "正在安装固件..."
+
+#. Progress step
+#: src/Tv.ycp:3512
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. Progress step
+#: src/Tv.ycp:3514
+msgid "Updating the sound volume..."
+msgstr "正在更新音量..."
+
+#. Progress stage
+#: src/Tv.ycp:3519
+msgid "Check for TV and radio applications"
+msgstr "检查电视和无线电应用程序"
+
+#. Progress step
+#: src/Tv.ycp:3521
+msgid "Checking for TV and radio applications..."
+msgstr "正在检查电视和无线电应用程序..."
+
+#. Progress stage
+#: src/Tv.ycp:3525
+msgid "Write IRC settings"
+msgstr "写入红外控制设置"
+
+#. Progress step
+#: src/Tv.ycp:3528
+msgid "Writing IRC settings..."
+msgstr "正在写入红外控制设置..."
+
+#. Progress stage
+#: src/Tv.ycp:3531
+msgid "Write TV stations"
+msgstr "写入电视台"
+
+#. Progress step
+#: src/Tv.ycp:3534
+msgid "Writing TV stations..."
+msgstr "正在写入电视台..."
+
+#. Progress step
+#: src/Tv.ycp:3537
+msgid "Finished"
+msgstr "已完成"
+
+#. Popup text (required application are %1):
+#: src/Tv.ycp:3645
+#, ycp-format
+msgid ""
+"<p>To enable you to watch TV and listen to radio on your computer,<br>\n"
+"these packages should be installed:<br>\n"
+"<b>%1</b><br>\n"
+"Install them now?\n"
+"</p>\n"
+msgstr ""
+"<p>要在计算机上收看电视和收听无线电广播，<br>\n"
+"需要安装以下包：<br>\n"
+"<b>%1</b><br>\n"
+"是否立即安装？\n"
+"</p>\n"
+
+#. Popup text (required application are %1):
+#: src/Tv.ycp:3656
+#, ycp-format
+msgid ""
+"<p>To enable you to watch TV on your computer,<br>\n"
+"these packages should be installed:<br>\n"
+"<b>%1</b><br>\n"
+"Install them now?\n"
+"</p>\n"
+msgstr ""
+"<p>要在计算机上收看电视，<br>\n"
+"需要安装以下包：<br>\n"
+"<b>%1</b><br>\n"
+"是否立即安装？\n"
+"</p>\n"
+
+#. Popup text (required application is %1):
+#: src/Tv.ycp:3667
+#, ycp-format
+msgid ""
+"<p>To listen to radio on your computer, you can use the <b>%1</b> application.\n"
+"Install it now?</p>"
+msgstr ""
+"<p>要在计算机上收听无线电广播，可以使用 <b>%1</b> 应用程序。\n"
+"是否立即安装？</p>"
+
+#. automatic configuration skipped - details
+#: src/Tv.ycp:3790
+#, ycp-format
+msgid "the driver is disabled"
+msgstr "驱动已禁用"
+
+#. automatic configuration skipped - details
+#: src/Tv.ycp:3796
+#, ycp-format
+msgid "the card is disabled"
+msgstr "卡已禁用"
+
+#. summary line in the HW proposal, %1 - details why it cannot be autoconfigured
+#: src/Tv.ycp:3801
+#, ycp-format
+msgid "Automatic configuration skipped (%1)"
+msgstr "跳过自动配置(%1)"
+
+#. For translators: tv read dialog help, part 1 of 2
+#: src/helps.ycp:23
+msgid ""
+"<P><B><BIG>Initializing TV and Radio Card Configuration</BIG></B><BR>\n"
+"Please wait...\n"
+"<BR></P>\n"
+msgstr ""
+"<P><B><BIG>正在初始化电视卡和无线电卡的配置</BIG></B><BR>\n"
+"请稍候...\n"
+"<BR></P>\n"
+
+#. For translators: tv read dialog help, part 2 of 2
+#: src/helps.ycp:28
+msgid ""
+"<P><B><BIG>Aborting the Initialization</BIG></B><BR>\n"
+"Safely abort the configuration utility by pressing <B>Abort</B>\n"
+"now.\n"
+"</P>\n"
+msgstr ""
+"<P><B><BIG>中止初始化</BIG></B><BR>\n"
+"可以按<B>中止</B>\n"
+"立即安全地中止配置工具。\n"
+"</P>\n"
+
+#. For translators: tv write dialog help
+#: src/helps.ycp:42
+msgid ""
+"<P><B><BIG>Saving TV and Radio Configuration</BIG></B><BR>\n"
+"Please wait...\n"
+"<BR></P>\n"
+msgstr ""
+"<P><B><BIG>正在保存电视和无线电配置</BIG></B><BR>\n"
+"请稍候...\n"
+"<BR></P>\n"
+
+#. Help: Detected cards, part 1 of 3
+#: src/helps.ycp:55
+msgid ""
+"<P><B><BIG>TV and Radio Card Configuration</BIG></B><BR>\n"
+"Here, configure your TV and radio cards.\n"
+"<BR></P>\n"
+msgstr ""
+"<P><B><BIG>电视卡和无线电卡的设置</BIG></B><BR>\n"
+"在此配置电视卡和无线电卡。\n"
+"<BR></P>\n"
+
+#. Help: Detected cards, part 2 of 3
+#: src/helps.ycp:60
+msgid ""
+"<P><B><BIG>Adding a TV or Radio Card</BIG></B><BR>\n"
+"Select the card from the list of the unconfigured cards. If your card was\n"
+"not detected, press <B>Add</B> and configure the card manually.\n"
+"</P>\n"
+msgstr ""
+"<P><B><BIG>添加电视卡或无线电卡</BIG></B><BR>\n"
+"从未配置卡的列表中选择卡。如果未检测到卡，\n"
+"请按<B>添加</B>，然后手动配置卡。\n"
+" </P>\n"
+
+#. Help: Overview of the installed cards, part 3 of 3
+#: src/helps.ycp:67
+msgid ""
+"<P><B><BIG>Editing or Deleting</BIG></B><BR>\n"
+"To change or remove the configuration of a card, select the card.\n"
+"Then press <B>Edit</B> or <B>Delete</B>.\n"
+"</P>\n"
+msgstr ""
+"<P><B><BIG>编辑或删除</BIG></B><BR>\n"
+"要更改或删除卡的配置，请选择该卡。\n"
+"然后按<B>编辑</B>或<B>删除</B>。\n"
+"</P>\n"
+
+#. Help: Manual addition of a card, part 1/3
+#: src/helps.ycp:81
+msgid ""
+"<P><B><BIG>Manual TV Card Selection</BIG></B><BR>\n"
+"Select the card type from <b>Vendor</b> and <b>Card</b>.\n"
+"<BR></P>"
+msgstr ""
+"<P><B><BIG>手动选择电视卡</BIG></B><BR>\n"
+"从<b>制造商</b>和<b>卡</b>中选择卡类型。\n"
+"<BR></P>"
+
+#. Help: Manual addition of a card, part 2/3
+#: src/helps.ycp:85
+msgid ""
+"<P>\n"
+"If you need to specify the tuner type to get a working\n"
+"configuration, select your card then press <B>Select Tuner</B>. In the dialog\n"
+"that opens, select the tuner type.\n"
+"</P>"
+msgstr ""
+"<P>\n"
+"需要指定调谐器类型以获取有效的配置，\n"
+"请选择使用的卡，然后按<B>选择调谐器</B>。在打开的对话框中，\n"
+"选择调谐器类型。\n"
+"</P>"
+
+#. Help: Manual addition of a card, part 3/3
+#: src/helps.ycp:91
+msgid ""
+"<P>\n"
+"In <B>Expert Settings</B>, configure the \n"
+"kernel module and parameters to use. \n"
+"This is required for configuring a radio card.\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"在<B>专家设置</B>中，配置要使用的\n"
+"内核模块和参数。\n"
+"这是配置无线电卡所必需的。\n"
+"</P>\n"
+
+#. Help: Manual addition of a card: Details, part 1/4
+#: src/helps.ycp:108
+msgid ""
+"<P><B><BIG>Manual Selection: Details</BIG></B><BR>\n"
+"Here, you can control all the parameters of the driver of your TV or radio card. This is for experts.\n"
+"<BR></P>\n"
+msgstr ""
+"<P><B><BIG>手动选择：细节</BIG></B><BR>\n"
+"在此可以控制电视卡或无线电卡的驱动程序的所有参数。这是供专家使用的。\n"
+"<BR></P>\n"
+
+#. Help: Manual addition of a card: Details, part 2/4
+#: src/helps.ycp:113
+msgid ""
+"In <B>Kernel Module</B>, select the driver to use for the card. The available \n"
+"parameters for the selected module are listed in <b>Module Parameters</p>.\n"
+"</P>\n"
+msgstr ""
+"在<B>内核模块</B>中，选择卡使用的驱动程序。\n"
+"所选模块的可用参数显示在<b>模块参数</p>中。\n"
+"</P>\n"
+
+#. Help: Manual addition of a card: Details, part 3/4
+#: src/helps.ycp:118
+msgid ""
+"<P>To modify a parameter, select the parameter to change from the list, \n"
+"write the value in <b>Parameter</b>,  \n"
+"then press <b>Set</b>. To restore the default setting for the parameter, \n"
+"press <B>Reset</B>.\n"
+"</P>"
+msgstr ""
+"<P>要修改参数，请从列表中选择要更改的参数，\n"
+"在<b>参数</b>中输入值，\n"
+"然后按<b>设置</b>。要恢复参数的默认设置，\n"
+"请按<B>重置</B>。\n"
+"</P>"
+
+#. Help: Manual addition of a card: Details, part 4/4
+#: src/helps.ycp:126
+msgid ""
+"<P><B><BIG>Radio Card Configuration</BIG></B><BR>\n"
+"To select the module for your radio card, check <B>Radio Card Modules</B>.\n"
+"</P>\n"
+msgstr ""
+"<P><B><BIG>无线电卡配置</BIG></B><BR>\n"
+"要为无线电卡选择模块，请选中<B>无线电卡模块</B>。\n"
+"</P>\n"
+
+#. Help: Setup the audio of the card, part 1/3
+#: src/helps.ycp:140
+msgid ""
+"<P><B><BIG>Audio for TV or Radio Card</BIG></B><BR>\n"
+"If your TV or radio card has an audio output and it is connected to your sound\n"
+"card, the sound card's input must be enabled. This can be done here.\n"
+"<BR></P>\n"
+msgstr ""
+"<P><B><BIG>电视卡或无线电卡的音频</BIG></B><BR>\n"
+"如果电视卡或无线电卡\n"
+"有音频输出端口，并且该端口与声卡相连，则必须启用声卡的输入端口。可在此完成该操作。\n"
+"<BR></P>\n"
+
+#. Help: Setup the audio of the card, part 2/3
+#: src/helps.ycp:146
+msgid ""
+"<P>If your card is not connected to the sound card, select \n"
+"<b>Not Connected</b>. If a connection is present, select <b>Connected To</b>. \n"
+"Select the sound card to which the TV or radio card is connected from the list. \n"
+"</P>"
+msgstr ""
+"<P>如果卡未与声卡相连，则请选择\n"
+"<b>未连接</b>。如果连接存在，请选择<b>已连接</b>。\n"
+"从列表中选择电视卡或无线电卡连接的声卡。\n"
+"</P>"
+
+#. Help: Setup the audio of the card, part 3/3
+#: src/helps.ycp:151
+msgid ""
+"<P>If the sound card has not been configured yet, press \n"
+"<b>Configure Sound Cards</b> to start the sound configuration module.\n"
+"</P>"
+msgstr ""
+"<P>如果声卡尚未配置，请按\n"
+"<b>配置声卡</b>以启动声音配置模块。\n"
+"</P>"
+
+#. helptext for TV Stations Dialog 1/3
+#: src/helps.ycp:165
+msgid ""
+"<p><b><big>TV Station Configuration</big></b>\n"
+"Here, see the list of TV stations defined for your system.</p>"
+msgstr ""
+"<p><b><big>电视台配置</big></b>\n"
+"在这里可以查看为系统定义的电视台的列表。</p>"
+
+#. helptext for TV Stations Dialog 2/3
+#: src/helps.ycp:169
+msgid ""
+"<p>Edit the entries in the table directly using <b>Add</b>,\n"
+"<b>Edit</b>, and <b>Delete</b>. Alternatively, use\n"
+"<b>Scan the Channels</b> to run the scan, which could find the available\n"
+"TV stations for the given <b>TV Standard</b> and <b>Frequency Table</b>.</b>\n"
+msgstr ""
+"<p>使用<b>添加</b>、<b>编辑</b>和<b>删除</b>直接在表中\n"
+"编辑各项。或者，使用\n"
+"<b>扫描频道</b>来运行扫描，这样可以按照\n"
+"指定的<b>电视标准</b>和<b>频率表</b>找到可用的电视台。</b>\n"
+
+#. helptext for TV Stations Dialog 3/3
+#: src/helps.ycp:176
+msgid "<p>The list of stations shown in this table is saved to the <tt>/etc/X11/xawtvrc</tt> file.</p>"
+msgstr "<p>此表中显示的电视台列表将保存到 <tt>/etc/X11/xawtvrc</tt> 文件中。</p>"
+
+#. IRC helptext 1/3
+#: src/helps.ycp:188
+msgid ""
+"<p><b><big>Infrared Control Configuration</big></b><br>\n"
+"In this dialog, configure the infrared control of your TV card. To skip this configuration, select <b>Do Not Use IRC</b>.</p>"
+msgstr ""
+"<p><b><big>红外控制配置</big></b><br>\n"
+"在该对话框中，可对电视卡的红外控制进行配置。要跳过该配置，请选择<b>不使用红外控制</b>。</p>"
+
+#. IRC helptext 2/3
+#: src/helps.ycp:192
+msgid "<p>If you know which kernel module to use with your TV card, select one from the list. When <b>Show Module Description</b> is checked, also see the description of the module.</p>"
+msgstr "<p>如果您了解适用于电视卡的内核模块，请从列表中选择一个。如果选中了<b>显示模块描述</b>，还可以查看对模块的描述。</p>"
+
+#. IRC helptext 3/3
+#: src/helps.ycp:195
+msgid "<p>Press <b>Test</b> to test your IR control.</p>"
+msgstr "<p>按<b>测试</b>对红外控制进行测试。</p>"
+
+#: src/irc_ui.ycp:100 src/tv_auto.ycp:53 src/ui.ycp:1915
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#. error popup text
+#: src/irc_ui.ycp:107
+msgid "Starting the 'lirc' service failed."
+msgstr "启动\"lirc\"服务失败。"
+
+#: src/irc_ui.ycp:107
+msgid ""
+"Output from /etc/init.d/lirc command:\n"
+"\n"
+msgstr ""
+"/etc/init.d/lirc 命令的输出：\n"
+"\n"
+
+#. Popup label (heading)
+#: src/irc_ui.ycp:137
+msgid "IRC Test"
+msgstr "红外控制测试"
+
+#. Popup label (info text)
+#: src/irc_ui.ycp:139
+msgid "Push the buttons of your IR controller to test its functionality."
+msgstr "按红外控制器的按钮测试其功能。"
+
+#. error text
+#: src/irc_ui.ycp:166
+msgid "The testing application is not responding."
+msgstr "测试应用程序没有响应。"
+
+#. For translators: Caption of the dialog
+#: src/irc_ui.ycp:194
+msgid "Infrared Control Configuration"
+msgstr "红外控制配置"
+
+#. radio button label
+#: src/irc_ui.ycp:231
+msgid "Do No&t Use IRC"
+msgstr "不使用红外控制(&T)"
+
+#. radio button label
+#: src/irc_ui.ycp:234
+msgid "&Use IRC"
+msgstr "使用红外控制(&U)"
+
+#. frame label
+#: src/irc_ui.ycp:238
+msgid "IRC Settings"
+msgstr "红外控制设置"
+
+#. combobox label
+#. ComboBox label:
+#. combo label
+#: src/irc_ui.ycp:256 src/ui.ycp:677 src/ui.ycp:733 src/ui.ycp:742
+#: src/ui.ycp:752 src/ui.ycp:761 src/ui.ycp:795 src/ui.ycp:807 src/ui.ycp:818
+msgid "&Kernel Module"
+msgstr "内核模块(&K)"
+
+#. checkbox label
+#: src/irc_ui.ycp:260
+msgid "Show Module &Description"
+msgstr "显示模块描述(&D)"
+
+#. button label
+#: src/irc_ui.ycp:266
+msgid "&Test"
+msgstr "测试(&T)"
+
+#. busy popup text (waiting for other action):
+#: src/irc_ui.ycp:310
+msgid ""
+"Retrieving list\n"
+"of kernel module descriptions...\n"
+msgstr ""
+"正在获取\n"
+"内核模块描述列表...\n"
+
+#. checkbox label
+#: src/misc.ycp:103
+msgid "&Show Details"
+msgstr "显示细节(&S)"
+
+#: src/misc.ycp:116
+msgid "Details"
+msgstr "细节"
+
+#. Force translation of "No tuner" string, it is in a generated file
+#. which might be missing when generating .pot file
+#. (see bnc#371289, esp. comment #6)
+#: src/misc.ycp:128
+msgid "No tuner"
+msgstr "没有调整器"
+
+#. table item for all other card vendors (bnc#583240)
+#: src/misc.ycp:131
+msgid "Other vendors"
+msgstr "其它制造商"
+
+#. unknown/generic card using 'bttv' driver
+#: src/misc.ycp:133
+msgid "Unknown card (driver bttv)"
+msgstr "未知卡 (驱动 bttv)"
+
+#. unknown/generic card using 'cx88xx' driver
+#: src/misc.ycp:135
+msgid "Unknown card (driver cx88xx)"
+msgstr "未知卡 (驱动 cx88xx)"
+
+#. unknown/generic card using 'saa7134' driver
+#: src/misc.ycp:137
+msgid "Unknown card (driver saa7134)"
+msgstr "未知卡 (驱动 saa7134) "
+
+#. error message
+#: src/tv.ycp:90
+msgid "The specified card does not exist."
+msgstr "指定的卡不存在。"
+
+#. error message, %1 is module (driver) name
+#: src/tv.ycp:100
+#, ycp-format
+msgid "The specified card does not exist. Module %1 is unknown."
+msgstr "指定的卡不存在。模块 %1 未知。"
+
+#. DVB modules don't use card type option
+#. For translators: The name of the card is set to "User defined"...
+#: src/tv.ycp:103 src/ui.ycp:955
+msgid "User-Defined TV Card"
+msgstr "用户定义的电视卡"
+
+#. For translators: The name of the card is set to "User defined",
+#. because the user changed kernel module parameters and so we
+#. do not have a good name...
+#: src/tv.ycp:106 src/ui.ycp:952
+msgid "User-Defined Radio Card"
+msgstr "用户定义的无线电卡"
+
+#. error message
+#: src/tv.ycp:116
+msgid "The specified card does not exist. Probably the driver or card model is wrong."
+msgstr "指定的卡不存在。驱动程序或卡型号可能不正确。"
+
+#. error message, %1 is name
+#: src/tv.ycp:127
+#, ycp-format
+msgid "The card '%1' is already configured."
+msgstr "已配置卡\"%1\"。"
+
+#. error message
+#: src/tv.ycp:175 src/tv.ycp:212 src/tv.ycp:239
+msgid "Specify the card number."
+msgstr "指定卡号。"
+
+#. error message, %1 is number
+#: src/tv.ycp:182 src/tv.ycp:219 src/tv.ycp:246
+#, ycp-format
+msgid "There is no card with number %1."
+msgstr "没有编号为 %1 的卡。"
+
+#. list of card parameters will follow; %1 is card name, %2 driver
+#: src/tv.ycp:252
+#, ycp-format
+msgid "Parameters of Card '%1' (using module %2):\n"
+msgstr "卡\"%1\"的参数(使用模块 %2)：\n"
+
+#. label (current value of sound module parameter)
+#: src/tv.ycp:263
+#, ycp-format
+msgid ""
+"\n"
+"\tCurrent Value: %1\n"
+msgstr ""
+"\n"
+"\t当前值：%1\n"
+
+#. command line status text
+#: src/tv.ycp:323
+msgid "Infrared control is disabled"
+msgstr "已禁用红外控制"
+
+#: src/tv.ycp:327
+#, ycp-format
+msgid "Infrared control is enabled using module %1"
+msgstr "红外控制通过模块 %1 启用"
+
+#. translators: command line help text for Tv module
+#: src/tv.ycp:365
+msgid "TV card configuration module"
+msgstr "电视卡配置模块"
+
+#. translators: command line help text for summary action
+#: src/tv.ycp:373
+msgid "Configuration summary of TV cards"
+msgstr "电视卡配置摘要"
+
+#. translators: command line help text for add action
+#: src/tv.ycp:378
+msgid "Add TV card. Without parameters, add the first one detected."
+msgstr "添加电视卡。如果没有参数，则添加检测到的第一块电视卡。"
+
+#. help text for unknown parameters
+#. command line help text for 'add'
+#: src/tv.ycp:381 src/tv.ycp:404
+msgid "Value of the specific module parameter"
+msgstr "特定模块参数的值"
+
+#. translators: command line help text for remove action
+#: src/tv.ycp:386
+msgid "Remove TV or radio card"
+msgstr "删除电视卡或无线电卡"
+
+#. translators: command line help text for modules action
+#: src/tv.ycp:391
+msgid "List all available TV kernel modules (drivers)"
+msgstr "列出所有可用的电视内核模块(驱动程序)"
+
+#. translators: command line help text for 'cards' action
+#: src/tv.ycp:396
+msgid "List supported TV models with their ID numbers"
+msgstr "列出所支持的电视型号(按其 ID 号)"
+
+#. translators: command line help text for set action
+#: src/tv.ycp:401
+msgid "Set the new values for given card parameters"
+msgstr "设置给定声卡参数的值"
+
+#. translators: command line help text for 'show'
+#: src/tv.ycp:409
+msgid "Show the information of the given TV card"
+msgstr "显示指定电视卡的信息"
+
+#. translators: command line help text for 'irc'
+#: src/tv.ycp:414
+msgid "Enable or disable infrared control"
+msgstr "启用或禁用红外控制"
+
+#. translators: command line help text for the 'no' option
+#: src/tv.ycp:420
+msgid "TV or radio card number"
+msgstr "电机卡或无线电卡编号"
+
+#. translators: command line help text for the 'tuner' option
+#: src/tv.ycp:425
+msgid "TV tuner type"
+msgstr "电视调谐器类型"
+
+#. translators: command line help text for the 'module' option
+#: src/tv.ycp:430
+msgid "Kernel module (driver) for the TV or radio card"
+msgstr "电视卡或无线电卡的内核模块(驱动程序)"
+
+#. translators: command line help text for the 'card' option
+#: src/tv.ycp:435
+msgid "ID of specific TV card model. Use the 'cards' command to see the list of possible values."
+msgstr "特定电视卡型号的 ID。使用\"cards\"命令来查看可能值的列表。"
+
+#. translators: command line help text for the 'radio' option
+#: src/tv.ycp:440
+msgid "List radio modules instead of TV ones"
+msgstr "列出无线电模块而非电视模块"
+
+#. translators: command line help text for the 'enable' option
+#: src/tv.ycp:444
+msgid "Enable IRC"
+msgstr "启用红外控制"
+
+#. translators: command line help text for the 'disable' option
+#: src/tv.ycp:448
+msgid "Disable IRC"
+msgstr "禁用红外控制"
+
+#. translators: command line help text for the 'status' option
+#: src/tv.ycp:452
+msgid "Show current status of IRC"
+msgstr "显示红外控制的当前状态"
+
+#. Progress message
+#: src/tv_proposal.ycp:42
+msgid "Detecting TV cards..."
+msgstr "正在检测电视卡..."
+
+#. Richtext title
+#: src/tv_proposal.ycp:94
+msgid "TV Cards"
+msgstr "电视卡"
+
+#. Richtext title
+#: src/tv_proposal.ycp:97
+msgid "&TV Cards"
+msgstr "电视卡(&T)"
+
+#: src/ui.ycp:105
+msgid "TV and Radio Card Configuration"
+msgstr "电视卡和无线电卡配置"
+
+#. Header of table with sound card list 1/2
+#: src/ui.ycp:107 src/ui.ycp:1062
+msgid "Number"
+msgstr "编号"
+
+#: src/ui.ycp:107
+msgid "Card Name"
+msgstr "卡名称"
+
+#: src/ui.ycp:182
+#, ycp-format
+msgid ""
+"Card '%1' (or its driver) is currently disabled.\n"
+"\n"
+"There might be serious reasons for this like:\n"
+"- the card is not supported by the driver,\n"
+"- the driver does not work correctly with this card,\n"
+"- enabling the card may make the system unstable or freeze it.\n"
+"\n"
+"Really configure and enable the card?\n"
+msgstr ""
+"卡“%1” (或者是它的驱动) 目前被禁用。\n"
+"\n"
+"禁用的重要原因可能有：\n"
+"- 没有支持这张卡的驱动，\n"
+"- 驱动不能正确的让卡工作，\n"
+"- 系统可能会变得不稳定甚至可能僵死。\n"
+"\n"
+"确定要配置并启用这张卡吗？\n"
+
+#. The user chose [Delete] in the overview dialog
+#. %1 is name of the selected card
+#: src/ui.ycp:221
+#, ycp-format
+msgid ""
+"Really\n"
+"remove the configuration\n"
+"of %1?"
+msgstr ""
+"确实要\n"
+"删除 %1 的配置吗？"
+
+#. SelectionBox label:
+#: src/ui.ycp:292
+msgid "&Card"
+msgstr "卡(&C)"
+
+#. SelectionBox label:
+#: src/ui.ycp:309
+msgid "&Tuner"
+msgstr "调谐器(&T)"
+
+#. For translators: The user chose [OK] but did not select a tuner
+#: src/ui.ycp:338
+msgid "Select your tuner."
+msgstr "选择调谐器。"
+
+#. For translators: Header of the dialog
+#: src/ui.ycp:361
+msgid "Manual TV Card Selection"
+msgstr "手动选择电视卡"
+
+#. PushButton label:
+#: src/ui.ycp:409
+msgid "&Tuner..."
+msgstr "调谐器(&T)..."
+
+#. Frame label
+#: src/ui.ycp:415
+msgid "Card Type"
+msgstr "卡类型"
+
+#. SelectioBox label:
+#: src/ui.ycp:424
+msgid "&Vendor"
+msgstr "制造商(&V)"
+
+#. PushButton label:
+#: src/ui.ycp:441
+msgid "&Expert Settings..."
+msgstr "专家设置(&E)..."
+
+#. PushButton label:
+#: src/ui.ycp:443
+msgid "TV &Channels..."
+msgstr "电视频道(&C)..."
+
+#. For translators: A warning popup
+#: src/ui.ycp:459
+msgid ""
+"The selected card does not provide full\n"
+"information for automatic detection.\n"
+"Select the exact type from\n"
+"the list in the following dialog."
+msgstr ""
+"所选的卡未提供\n"
+"用于自动检测的完整信息。\n"
+"请从以下对话框中\n"
+"选择确切的类型。"
+
+#. label, %1 is tuner type
+#: src/ui.ycp:492
+#, ycp-format
+msgid "Tuner: %1"
+msgstr "调谐器：%1"
+
+#. For translators: The user chose [Next] but did not select a card
+#. message popup
+#: src/ui.ycp:529 src/ui.ycp:556
+msgid "Select your card."
+msgstr "选择卡。"
+
+#. message popup
+#: src/ui.ycp:569
+msgid ""
+"No tuner is available\n"
+"for the selected card."
+msgstr ""
+"没有可供所选的卡\n"
+"使用的调谐器。"
+
+#. Busy popup text (waiting for other action):
+#: src/ui.ycp:620
+msgid ""
+"Getting list\n"
+"of available kernel modules..."
+msgstr ""
+"正在获取\n"
+"可用内核模块的列表..."
+
+#. For translators: Header of the dialog
+#: src/ui.ycp:632
+msgid "Manual TV and Radio Card Selection: Details"
+msgstr "手动选择电视卡和无线电卡：细节"
+
+#. For translators: Label for the TextEntry. %1 means name of the kernel module's parameter.
+#: src/ui.ycp:656
+#, ycp-format
+msgid "&Parameter %1"
+msgstr "参数 %1(&P)"
+
+#. For translators: Label for the TextEntry, when kernel module has no parameters.
+#: src/ui.ycp:658
+msgid "&Parameter (none)"
+msgstr "参数(无)(&P)"
+
+#. Frame label:
+#: src/ui.ycp:679
+msgid "Module Parameters"
+msgstr "模块参数"
+
+#. Header of a table with kernel module params.
+#: src/ui.ycp:685
+msgid "Parameter"
+msgstr "参数"
+
+#. Header of a table with kernel module params.
+#: src/ui.ycp:687
+msgid "Value"
+msgstr "值"
+
+#. Header of a table with kernel module params.
+#: src/ui.ycp:689
+msgid "Description"
+msgstr "描述"
+
+#. PushButton label
+#: src/ui.ycp:700
+msgid "&Set"
+msgstr "设置(&S)"
+
+#. PushButton label
+#: src/ui.ycp:703
+msgid "R&eset"
+msgstr "重置(&E)"
+
+#. checkbox label
+#: src/ui.ycp:715
+msgid "R&adio Card Modules"
+msgstr "无线电卡模块(&A)"
+
+#. User chose [Set] but did not select a parameter to set
+#. User chose [Set] but did select a parameter she wants to set
+#: src/ui.ycp:903 src/ui.ycp:932
+msgid ""
+"Select the parameter\n"
+"to edit."
+msgstr ""
+"选择要编辑的\n"
+"参数。"
+
+#. User wants to set kernel parameters but string is invalid
+#: src/ui.ycp:914
+msgid ""
+"Do not use characters other\n"
+"than a-z, A-Z, _, -, +, /, and 0-9."
+msgstr ""
+"请不要使用除\n"
+"a-z、A-Z、_、-、+、/ 和 0-9 之外的字符。"
+
+#. For translators: Header of the dialog
+#: src/ui.ycp:1003
+msgid "Audio for TV and Radio Card"
+msgstr "电视卡和无线电卡的音频"
+
+#. Label text:
+#: src/ui.ycp:1036
+msgid "TV or Radio Card"
+msgstr "电视卡或无线电卡"
+
+#. Frame label:
+#: src/ui.ycp:1041
+msgid "Audio Output Connection to Sound Card"
+msgstr "与声卡的音频输出连接"
+
+#. radio button label - tv card is not connected to any sound card
+#: src/ui.ycp:1049
+msgid "Not Connected"
+msgstr "未连接"
+
+#. radio button label - tv card is not connected to any sound card
+#: src/ui.ycp:1054
+msgid "Connected To"
+msgstr "已连接"
+
+#. Header of table with sound card list 2/2
+#: src/ui.ycp:1064
+msgid "Sound Card"
+msgstr "声卡"
+
+#. PushButton label:
+#: src/ui.ycp:1069
+msgid "&Configure Sound Cards..."
+msgstr "配置声卡(&C)..."
+
+#. For translators: The user chose [Next] but did not select a sound card
+#: src/ui.ycp:1131
+msgid "Select a sound card."
+msgstr "选择声卡。"
+
+#. Popup label (heading)
+#: src/ui.ycp:1189
+msgid "TV Channel Scan"
+msgstr "电视频道扫描"
+
+#. error message
+#: src/ui.ycp:1207 src/ui.ycp:1389
+msgid "The kernel module for TV support could not be loaded."
+msgstr "无法装载支持电视的内核模块。"
+
+#. label (with the meaning: there is no station for this channel)
+#. Keep it short! It is only note after channel + frequency data.
+#. Example of the output strings:
+#. E2   ( 48.25 MHz): no station
+#. E3   ( 55.25 MHz): no station etc.
+#: src/ui.ycp:1247
+msgid "No station"
+msgstr "无电台"
+
+#. label: summary of scanning for stations
+#: src/ui.ycp:1284
+#, ycp-format
+msgid "Number of TV Stations Found: %1"
+msgstr "找到的电视台数目：%1"
+
+#. textentry label
+#: src/ui.ycp:1309
+msgid "&Channel"
+msgstr "通道(&C)"
+
+#. textentry label
+#: src/ui.ycp:1312
+msgid "Station &Name"
+msgstr "电台名称(&N)"
+
+#. message popup
+#: src/ui.ycp:1337
+msgid "Enter a TV channel."
+msgstr "输入电视频道。"
+
+#. message popup
+#: src/ui.ycp:1344
+msgid "Enter a station name."
+msgstr "输入电台名。"
+
+#. error message
+#: src/ui.ycp:1352
+msgid "This channel already exists in the table."
+msgstr "该频道已存在于表中。"
+
+#. error message
+#: src/ui.ycp:1355
+msgid "This station name already exists in the table."
+msgstr "该电视台名称已存在于表中。"
+
+#. busy popup
+#: src/ui.ycp:1381
+msgid "Detecting supported TV norms..."
+msgstr "正在检测支持的电视规格..."
+
+#. dialog caption for TV Stations Dialog
+#: src/ui.ycp:1454
+msgid "TV Station Configuration"
+msgstr "电视台配置"
+
+#. TV norm
+#: src/ui.ycp:1458
+msgid "PAL"
+msgstr "PAL"
+
+#. TV norm
+#: src/ui.ycp:1460
+msgid "NTSC"
+msgstr "NTSC"
+
+#. TV norm
+#: src/ui.ycp:1462
+msgid "SECAM"
+msgstr "SECAM"
+
+#. TV norm
+#: src/ui.ycp:1464
+msgid "PAL-NC"
+msgstr "PAL-NC"
+
+#. TV norm
+#: src/ui.ycp:1466
+msgid "PAL-N"
+msgstr "PAL-N"
+
+#. TV norm
+#: src/ui.ycp:1468
+msgid "PAL-M"
+msgstr "PAL-M"
+
+#. TV norm
+#: src/ui.ycp:1470
+msgid "NTSC-JP"
+msgstr "NTSC-JP"
+
+#. Tv frequency table
+#: src/ui.ycp:1474
+msgid "us-bcast"
+msgstr "美国广播"
+
+#. Tv frequency table
+#: src/ui.ycp:1476
+msgid "us-cable"
+msgstr "美国有线"
+
+#. Tv frequency table
+#: src/ui.ycp:1478
+msgid "us-cable-hrc"
+msgstr "美国有线谐波相关载具"
+
+#. Tv frequency table
+#: src/ui.ycp:1480
+msgid "japan-bcast"
+msgstr "日本广播"
+
+#. Tv frequency table
+#: src/ui.ycp:1482
+msgid "japan-cable"
+msgstr "日本有线"
+
+#. Tv frequency table
+#: src/ui.ycp:1484
+msgid "europe-west"
+msgstr "西欧"
+
+#. Tv frequency table
+#: src/ui.ycp:1486
+msgid "europe-east"
+msgstr "东欧"
+
+#. Tv frequency table
+#: src/ui.ycp:1488
+msgid "italy"
+msgstr "意大利"
+
+#. Tv frequency table
+#: src/ui.ycp:1490
+msgid "newzealand"
+msgstr "新西兰"
+
+#. Tv frequency table
+#: src/ui.ycp:1492
+msgid "australia"
+msgstr "澳大利亚"
+
+#. Tv frequency table
+#: src/ui.ycp:1494
+msgid "ireland"
+msgstr "冰岛"
+
+#. Tv frequency table
+#: src/ui.ycp:1496
+msgid "france"
+msgstr "法国"
+
+#. Tv frequency table
+#: src/ui.ycp:1498
+msgid "china-bcast"
+msgstr "中国广播"
+
+#. Tv frequency table
+#: src/ui.ycp:1500
+msgid "southafrica"
+msgstr "南非"
+
+#. Tv frequency table
+#: src/ui.ycp:1502
+msgid "argentina"
+msgstr "阿根廷"
+
+#. Tv frequency table
+#: src/ui.ycp:1504
+msgid "australia-optus"
+msgstr "澳大利亚 optus"
+
+#. Tv frequency table
+#: src/ui.ycp:1506
+msgid "russia"
+msgstr "俄罗斯"
+
+#. combobox label for values like NTSC and PAL
+#: src/ui.ycp:1518
+msgid "&TV Standard"
+msgstr "电视标准(&T)"
+
+#. combobox label
+#: src/ui.ycp:1520
+msgid "&Frequency Table"
+msgstr "频率表(&F)"
+
+#. button label
+#: src/ui.ycp:1525
+msgid "&Scan the Channels"
+msgstr "扫描频道(&S)"
+
+#. frame label
+#: src/ui.ycp:1530
+msgid "TV Stations"
+msgstr "电视台"
+
+#. table header 1/2
+#: src/ui.ycp:1534
+msgid "Channel"
+msgstr "频道"
+
+#. table header 2/2
+#: src/ui.ycp:1536
+msgid "Station Name"
+msgstr "电台名"
+
+#. popup label (install required application?)
+#: src/ui.ycp:1578
+#, ycp-format
+msgid ""
+"To scan the TV channels, package '%1' is required.\n"
+"Install it now?"
+msgstr ""
+"要扫描电视频道，必须安装\"%1\"包。\n"
+"是否立即安装？"
+
+#~ msgid ""
+#~ "Package 'lirc' is required for using infrared devices.\n"
+#~ "Install it now?\n"
+#~ msgstr ""
+#~ "要使用红外设备，必须安装\"lirc\"包。\n"
+#~ "是否立即安装？\n"
+
+#~ msgid "Read the database"
+#~ msgstr "读取数据库"
+
+#~ msgid "Read the previous settings"
+#~ msgstr "读取以前的设置"
+
+#~ msgid "Detect the devices"
+#~ msgstr "检测设备"
+
+#~ msgid "Reading the database..."
+#~ msgstr "正在读取数据库..."
+
+#~ msgid "Reading the previous settings..."
+#~ msgstr "正在读取以前的设置..."
+
+#~ msgid "Detecting the devices..."
+#~ msgstr "正在检测设备..."
+
+#~ msgid "&File"
+#~ msgstr "文件(&F)"
+
+#~ msgid "Browse..."
+#~ msgstr "浏览..."
+
+#~ msgid "Kernel Module"
+#~ msgstr "内核模块"

@@ -1,0 +1,296 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# hillwood <hillwoodroc@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-07 15:19+0200\n"
+"PO-Revision-Date: 2012-07-05 16:34+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: app/controllers/network_controller.rb:235
+msgid "Network settings have been written."
+msgstr "网络设置已被写入。"
+
+#: app/views/network/edit.html.erb:36 app/views/network/new.html.erb:36
+#: app/views/network/index.html.erb:18
+msgid "Network"
+msgstr "网络"
+
+#: app/views/network/_form.html.erb:15 app/views/network/_form.html.erb:45
+#: app/views/network/_form.html.erb:79 app/views/network/_form.html.erb:121
+#| msgid "Interface"
+msgid "Interface name"
+msgstr "接口名称"
+
+#: app/views/network/_form.html.erb:26 app/views/network/index.html.erb:80
+msgid "Physical interface"
+msgstr "物理接口"
+
+#: app/views/network/_form.html.erb:31
+msgid "VLAN ID"
+msgstr "VLAN 虚拟局域网 ID"
+
+#: app/views/network/_form.html.erb:56
+#| msgid "Filter services"
+msgid "Bridge devices:"
+msgstr "桥接设备："
+
+#: app/views/network/_form.html.erb:91
+msgid "Bond driver options"
+msgstr "转发驱动选项"
+
+#: app/views/network/_form.html.erb:97 app/views/network/index.html.erb:89
+msgid "Bond slaves"
+msgstr "转发 slaves"
+
+#: app/views/network/_form.html.erb:132
+#| msgid "Configuration"
+msgid "Configuration mode"
+msgstr "配置模式"
+
+#: app/views/network/_form.html.erb:162
+msgid "DNS configuration"
+msgstr "DNS 设置"
+
+#: app/views/network/_form.html.erb:168
+msgid "Hostname"
+msgstr "主机名"
+
+# as in Windows Authentication Domain
+#: app/views/network/_form.html.erb:172
+msgid "Domain"
+msgstr "域"
+
+#: app/views/network/_form.html.erb:177
+msgid "Name servers"
+msgstr "名称服务器"
+
+#: app/views/network/_form.html.erb:182
+msgid "Search domains"
+msgstr "搜索域"
+
+#: app/views/network/_form.html.erb:187
+msgid "Change hostname by DHCP"
+msgstr "使用 DHCP 更改主机名"
+
+#: app/views/network/_form.html.erb:202
+msgid "IP configuration"
+msgstr "IP 设置"
+
+#: app/views/network/_form.html.erb:209 app/views/network/index.html.erb:50
+msgid "IP address"
+msgstr "IP 地址"
+
+#: app/views/network/_form.html.erb:213
+msgid "Subnet mask/Prefixlen"
+msgstr "子网掩码或前缀"
+
+#: app/views/network/_form.html.erb:217
+msgid "Default route"
+msgstr "默认路由"
+
+#: app/views/network/_form.html.erb:227
+msgid "Save"
+msgstr "保存"
+
+#: app/views/network/_form.html.erb:229 app/views/network/index.html.erb:184
+msgid "back"
+msgstr "后退"
+
+#: app/views/network/_validation.html.erb:54
+#: app/views/network/_validation.html.erb:58
+#: app/views/network/_validation.html.erb:62
+#: app/views/network/_validation.html.erb:66
+#: app/views/network/_validation.html.erb:70
+#: app/views/network/_validation.html.erb:74
+#: app/views/network/_validation.html.erb:78
+msgid "This field is required"
+msgstr "该字段不能为空"
+
+#: app/views/network/_validation.html.erb:55
+#: app/views/network/_validation.html.erb:63
+#: app/views/network/_validation.html.erb:75
+msgid "Enter a valid IP address"
+msgstr "输入一个有效的 IP 地址。"
+
+#: app/views/network/_validation.html.erb:59
+msgid "Enter a valid subnet mask or prefix"
+msgstr "输入一个有效的子网掩码或前缀"
+
+#: app/views/network/_validation.html.erb:67
+msgid "Enter a valid hostname"
+msgstr "输入一个有效的主机名"
+
+#: app/views/network/_validation.html.erb:71
+#: app/views/network/_validation.html.erb:79
+msgid "Enter a valid domain name"
+msgstr "输入一个有效的域名"
+
+#: app/views/network/_validation.html.erb:83
+msgid "Please wait"
+msgstr "请稍候"
+
+#: app/views/network/index.html.erb:36
+#| msgid "Interface"
+msgid "Physical Interfaces"
+msgstr "物理接口"
+
+#: app/views/network/index.html.erb:49 app/views/network/index.html.erb:75
+msgid "Interface"
+msgstr "接口"
+
+#: app/views/network/index.html.erb:51
+msgid "Mode"
+msgstr "模式"
+
+#: app/views/network/index.html.erb:54 app/views/network/index.html.erb:95
+#| msgid "Not configured"
+msgid "configure"
+msgstr "配置"
+
+#: app/views/network/index.html.erb:64
+#| msgid "Interface"
+msgid "Virtual Interfaces"
+msgstr "虚拟接口"
+
+#: app/views/network/index.html.erb:79
+msgid "Vlan ID"
+msgstr "虚拟局域网 ID"
+
+#: app/views/network/index.html.erb:84
+msgid "Bridge ports"
+msgstr "桥接端口"
+
+#: app/views/network/index.html.erb:88
+msgid "Bond option"
+msgstr "转发选项"
+
+#: app/views/network/index.html.erb:98
+#| msgid "Delete"
+msgid "delete"
+msgstr "删除"
+
+#: app/views/network/index.html.erb:108
+msgid "New virtual interface"
+msgstr "新的虚拟接口"
+
+#: app/views/network/index.html.erb:119
+msgid "Please select one of the virtual interfaces"
+msgstr "请选择一个虚拟接口"
+
+#: app/views/network/index.html.erb:144
+msgid "BRIDGE"
+msgstr "桥接"
+
+#: app/views/network/index.html.erb:164
+msgid "BOND"
+msgstr "转发"
+
+#: app/views/network/index.html.erb:185
+msgid "next"
+msgstr "下一步"
+
+#~ msgid "Manual"
+#~ msgstr "手动"
+
+#~ msgid "Automatic"
+#~ msgstr "自动"
+
+#~ msgid "Current IP address (DHCP)"
+#~ msgstr "当前 IP 地址 (DHCP)"
+
+#~ msgid "Manage network devices"
+#~ msgstr "管理网络设备"
+
+#, fuzzy
+#~| msgid "The search text contains invalid characters"
+#~ msgid "whitespace - invalid character."
+#~ msgstr "搜索文字包括了无效的字符"
+
+#, fuzzy
+#~| msgid "The VM's name cannot start with a digit."
+#~ msgid " - can not start with a digit."
+#~ msgstr "VM 的名称不能以数字开头。"
+
+#, fuzzy
+#~| msgid "The option 'flush' is not allowed"
+#~ msgid "periodic '-' is not allowed."
+#~ msgstr "不允许选项\"flush\""
+
+#, fuzzy
+#~| msgid "General Settings"
+#~ msgid "General settings"
+#~ msgstr "一般设置"
+
+#, fuzzy
+#~| msgid "IP Address:"
+#~ msgid "IP Address"
+#~ msgstr "IP 地址："
+
+#, fuzzy
+#~| msgid "DSL"
+#~ msgid "DNS"
+#~ msgstr "DSL"
+
+#, fuzzy
+#~| msgid "No valid request file specified."
+#~ msgid "Hostname is required. It must be specified."
+#~ msgstr "未指定有效的请求文件。"
+
+#, fuzzy
+#~| msgid "Select item"
+#~ msgid "Select"
+#~ msgstr "选择项目"
+
+#, fuzzy
+#~| msgid "Do not start"
+#~ msgid "not set"
+#~ msgstr "不启动"
+
+#~ msgid "dhcp"
+#~ msgstr "dhcp"
+
+# cancel button label
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#, fuzzy
+#~| msgid "Network Servers"
+#~ msgid "Edit Network Device"
+#~ msgstr "网络服务器"
+
+#~ msgid "Description"
+#~ msgstr "说明"
+
+#, fuzzy
+#~| msgid "DMA"
+#~ msgid "MAC"
+#~ msgstr "DMA"
+
+#, fuzzy
+#~| msgid "Device"
+#~ msgid "Device Name"
+#~ msgstr "设备"
+
+#, fuzzy
+#~| msgid "Start-Up"
+#~ msgid "Startup"
+#~ msgstr "启动"
+
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "Back"
+#~ msgstr "后退"

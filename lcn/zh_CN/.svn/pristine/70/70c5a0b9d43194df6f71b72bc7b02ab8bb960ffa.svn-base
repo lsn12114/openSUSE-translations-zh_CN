@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST2 (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-28 19:25+0200\n"
+"PO-Revision-Date: 2007-07-31 19:55+0800\n"
+"Last-Translator: Thruth Wang <lihaow@opera.com>\n"
+"Language-Team: Novell Language <language@novell.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: krpmview.cpp:56
+msgid "Install Package with YaST"
+msgstr "使用 YaST 安装包"
+
+#: krpmview.cpp:62
+msgid "Use Directory as Source with YaST"
+msgstr "使用 YaST 将目录用作源"
+
+#: krpmview.cpp:83
+msgid "Description"
+msgstr "说明"
+
+#: krpmview.cpp:84
+msgid "Technical Data"
+msgstr "技术细节"
+
+#: krpmview.cpp:85
+msgid "Dependencies"
+msgstr "依赖性"
+
+#: krpmview.cpp:86
+msgid "File List"
+msgstr "文件列表"
+
+#: krpmview.cpp:87
+msgid "Change Log"
+msgstr "变更日志"
+
+#: krpmview.cpp:259
+msgid "License: %1\n"
+msgstr "许可证: %1\n"
+
+#: krpmview.cpp:262
+msgid "RPM group: %1\n"
+msgstr "RPM 组: %1\n"
+
+#: krpmview.cpp:265
+msgid "Distribution: %1\n"
+msgstr "发行版: %1\n"
+
+#: krpmview.cpp:268
+msgid "Packager: %1\n"
+msgstr "打包者: %1\n"
+
+#: krpmview.cpp:271
+msgid "Vendor: %1\n"
+msgstr "供应商: %1\n"
+
+#: krpmview.cpp:277
+msgid "Build time: %1\n"
+msgstr "打包时间: %1\n"
+
+#: krpmview.cpp:281
+msgid "Build host: %1\n"
+msgstr "打包主机: %1\n"
+
+#: krpmview.cpp:286
+msgid "Size: %1\n"
+msgstr "大小: %1\n"
+
+#: krpmview.cpp:289
+msgid "Source RPM: %1\n"
+msgstr "源 RPM: %1\n"
+
+#: krpmview.cpp:291
+msgid "Provides"
+msgstr "提供"
+
+#: krpmview.cpp:293
+msgid "Requires"
+msgstr "需要"
+
+#: krpmview.cpp:295
+msgid "Conflicts"
+msgstr "冲突"
+
+#: krpmview.cpp:297
+msgid "Obsoletes"
+msgstr "过时"
+
+#: krpmview.cpp:299
+msgid "Recommends"
+msgstr "推荐"
+
+#: krpmview.cpp:301
+msgid "Suggests"
+msgstr "建议"
+
+#: krpmview.cpp:303
+msgid "Enhances"
+msgstr "优化"
+
+#: krpmview.cpp:305
+msgid "Supplements"
+msgstr "补充"
+
+#: krpmview.cpp:315
+msgid "Project Page: "
+msgstr "项目页："
+
+#: krpmview.cpp:333
+msgid "Parsing complete."
+msgstr "语法分析完成。"
+
+#: krpmview.cpp:365
+msgid "krpmview"
+msgstr "krpmview"
+
+#: krpmview.cpp:367
+msgid "Viewer for RPM files"
+msgstr "RPM 文件的查看器"
+
+#: krpmview.cpp:370
+msgid "KRPMView views the content of RPM archives and can use YaST to install them"
+msgstr "KRPMView 可查看 RPM 归档文件的内容，可以使用 YaST 安装"
+
+#: krpmview.cpp:373
+msgid "Current Maintainer"
+msgstr "当前维护人员"

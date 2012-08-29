@@ -1,0 +1,1897 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com, 2007.
+# Eric Shan <ericalways@gmail.com>, 2008,2009, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: backup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:42+0200\n"
+"PO-Revision-Date: 2012-07-23 03:37+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. TRANSLATORS: name of device (the same as in yast2-tune) - the first device
+#: src/Backup.ycp:44
+msgid "Mass storage device"
+msgstr "大容量存储设备"
+
+#: src/Backup.ycp:45
+msgid "Disk"
+msgstr "磁盘"
+
+#: src/Backup.ycp:46
+msgid "Tape"
+msgstr "磁带"
+
+#: src/Backup.ycp:47
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+#: src/Backup.ycp:48
+msgid "Floppy disk"
+msgstr "软盘"
+
+#. TRANSLATORS: name of device (the same as in yast2-tune) - the last device
+#: src/Backup.ycp:50
+msgid "Storage device"
+msgstr "存储设备"
+
+#: src/Backup.ycp:64
+msgid "Monday"
+msgstr "星期一"
+
+#: src/Backup.ycp:65
+msgid "Tuesday"
+msgstr "星期二"
+
+#: src/Backup.ycp:66
+msgid "Wednesday"
+msgstr "星期三"
+
+#: src/Backup.ycp:67
+msgid "Thursday"
+msgstr "星期四"
+
+#: src/Backup.ycp:68
+msgid "Friday"
+msgstr "星期五"
+
+#: src/Backup.ycp:69
+msgid "Saturday"
+msgstr "星期六"
+
+#: src/Backup.ycp:70
+msgid "Sunday"
+msgstr "星期日"
+
+#: src/Backup.ycp:74
+msgid "1st"
+msgstr "1日"
+
+#: src/Backup.ycp:75
+msgid "2nd"
+msgstr "2日"
+
+#: src/Backup.ycp:76
+msgid "3rd"
+msgstr "3日"
+
+#: src/Backup.ycp:77
+msgid "4th"
+msgstr "4日"
+
+#: src/Backup.ycp:78
+msgid "5th"
+msgstr "5日"
+
+#: src/Backup.ycp:79
+msgid "6th"
+msgstr "6日"
+
+#: src/Backup.ycp:80
+msgid "7th"
+msgstr "7日"
+
+#: src/Backup.ycp:81
+msgid "8th"
+msgstr "8日"
+
+#: src/Backup.ycp:82
+msgid "9th"
+msgstr "9日"
+
+#: src/Backup.ycp:83
+msgid "10th"
+msgstr "10日"
+
+#: src/Backup.ycp:84
+msgid "11th"
+msgstr "11日"
+
+#: src/Backup.ycp:85
+msgid "12th"
+msgstr "12日"
+
+#: src/Backup.ycp:86
+msgid "13th"
+msgstr "13日"
+
+#: src/Backup.ycp:87
+msgid "14th"
+msgstr "14日"
+
+#: src/Backup.ycp:88
+msgid "15th"
+msgstr "15日"
+
+#: src/Backup.ycp:89
+msgid "16th"
+msgstr "16日"
+
+#: src/Backup.ycp:90
+msgid "17th"
+msgstr "17日"
+
+#: src/Backup.ycp:91
+msgid "18th"
+msgstr "18日"
+
+#: src/Backup.ycp:92
+msgid "19th"
+msgstr "19日"
+
+#: src/Backup.ycp:93
+msgid "20th"
+msgstr "20日"
+
+#: src/Backup.ycp:94
+msgid "21st"
+msgstr "21日"
+
+#: src/Backup.ycp:95
+msgid "22nd"
+msgstr "22日"
+
+#: src/Backup.ycp:96
+msgid "23rd"
+msgstr "23日"
+
+#: src/Backup.ycp:97
+msgid "24th"
+msgstr "24日"
+
+#: src/Backup.ycp:98
+msgid "25th"
+msgstr "25日"
+
+#: src/Backup.ycp:99
+msgid "26th"
+msgstr "26日"
+
+#: src/Backup.ycp:100
+msgid "27th"
+msgstr "27日"
+
+#: src/Backup.ycp:101
+msgid "28th"
+msgstr "28日"
+
+#: src/Backup.ycp:102
+msgid "29th"
+msgstr "29日"
+
+#: src/Backup.ycp:103
+msgid "30th"
+msgstr "30日"
+
+#: src/Backup.ycp:104
+msgid "31st"
+msgstr "31日"
+
+#: src/Backup.ycp:268
+msgid "CD-R/RW 650 MB (74 min.)"
+msgstr "CD-R/RW 650 MB(74 分钟)"
+
+#: src/Backup.ycp:273
+msgid "CD-R/RW 700 MB (80 min.)"
+msgstr "CD-R/RW 700 MB(80 分钟)"
+
+#: src/Backup.ycp:281
+msgid "Floppy 1.44 MB"
+msgstr "软盘 1.44 MB"
+
+#: src/Backup.ycp:286
+msgid "Floppy 1.2 MB"
+msgstr "软盘 1.2 MB"
+
+#: src/Backup.ycp:294
+msgid "ZIP 100 MB"
+msgstr "ZIP 100 MB"
+
+#: src/Backup.ycp:317
+msgid "bytes"
+msgstr "字节"
+
+#. 10^3 bytes
+#: src/Backup.ycp:323
+msgid "kB"
+msgstr "kB"
+
+#. 2^10 bytes
+#: src/Backup.ycp:329
+msgid "KiB"
+msgstr "KiB"
+
+#. 10^6 bytes
+#: src/Backup.ycp:335
+msgid "MB"
+msgstr "MB"
+
+#. 2^20 bytes
+#: src/Backup.ycp:341
+msgid "MiB"
+msgstr "MiB"
+
+#. %1 is profile name, %2 is filename
+#: src/Backup.ycp:1003
+#, ycp-format
+msgid ""
+"cron settings for profile %1\n"
+"in file %2\n"
+"are not fully supported.\n"
+msgstr ""
+"不完全支持文件 %2\n"
+"中配置文件 %1\n"
+"的 cron 设置。\n"
+
+#. %1 is profile name, %2 is file name
+#: src/Backup.ycp:1012
+#, ycp-format
+msgid ""
+"Some time values for profile %1\n"
+"in file %2\n"
+"are out of range."
+msgstr ""
+"文件 %2 中配置文件 %1\n"
+"的某些时间值\n"
+"超出范围。"
+
+#. TRANSLATORS: An error popup message
+#. %1 is the file name
+#: src/Backup.ycp:1261
+#, ycp-format
+msgid ""
+"Could not store profiles to the file %1.\n"
+"The profile changes will be lost."
+msgstr ""
+"无法将配置文件存储到文件 %1。\n"
+"配置文件更改将丢失。"
+
+#. hour/minutes time format - set according your local used format
+#. usually used conversion specificators:
+#. %H - hour (0..23), %I - hour (0..12)
+#. %M - minute (0..59), %p - `AM' or `PM'
+#. (see man date for more details)
+#: src/Backup.ycp:1536
+msgid "%I:%M %p"
+msgstr "%I:%M %p"
+
+#. table item - specified time is invalid
+#: src/Backup.ycp:1546
+msgid "Invalid time"
+msgstr "无效时间"
+
+#. table item - start backup every day (%1 is time)
+#: src/Backup.ycp:1551
+#, ycp-format
+msgid "Back up daily at %1"
+msgstr "每日 %1 备份"
+
+#. table item - start backup every week (%1 is day name, %2 is time)
+#: src/Backup.ycp:1556
+#, ycp-format
+msgid "Back up weekly (%1 at %2)"
+msgstr "每周备份(%1 的 %2)"
+
+#. table item - start backup once a month (%1 is day (ordinal number, e.g. 5th), %2 is time)
+#: src/Backup.ycp:1561
+#, ycp-format
+msgid "Back up monthly (%1 day at %2)"
+msgstr "每月备份(%1 日的 %2)"
+
+#. type of device (cdrom, disk, tape...) was not detected
+#: src/Backup.ycp:1665
+msgid "Unknown device type"
+msgstr "未知设备类型"
+
+#. CD-R or CD-RW writer device
+#: src/Backup.ycp:1702
+msgid "CD Writer"
+msgstr "CD 刻录机"
+
+#. DVD-R, DVD+R... writer device
+#: src/Backup.ycp:1710
+msgid "DVD Writer"
+msgstr "DVD 刻录机"
+
+#. busy message
+#: src/Backup.ycp:1859
+msgid "Creating the list of files for the backup..."
+msgstr "正在创建要备份的文件列表..."
+
+#. a popup error, %1 is as file name
+#: src/Backup.ycp:1879 src/Backup.ycp:1901
+#, ycp-format
+msgid "Cannot write the list of selected files to file %1."
+msgstr "无法将选定文件的列表写入文件 %1。"
+
+#. popup dialog header
+#: src/functions.ycp:43
+msgid "Abort Confirmation"
+msgstr "中止确认"
+
+#. popup dialog question
+#: src/functions.ycp:45
+msgid "Really abort the backup?"
+msgstr "是否确实要中止备份？"
+
+#: src/functions.ycp:174
+msgid "Select a directory to be included..."
+msgstr "选择要包含的目录..."
+
+#. e-mail subject - %1 is profile name
+#: src/functions.ycp:624
+#, ycp-format
+msgid "YaST Automatic Backup (%1)"
+msgstr "YaST 自动备份 (%1)"
+
+#. text added to the subject if an error occured
+#: src/functions.ycp:633
+msgid ": FAILED"
+msgstr ": 失败"
+
+#. header in email body followed by list of files
+#: src/functions.ycp:642
+msgid "Removed Old Archives:"
+msgstr "已删除的旧的存档："
+
+#. header in email body followed by list of files
+#: src/functions.ycp:654
+msgid "Renamed Old Archives:"
+msgstr "已重命名的旧的存档："
+
+#. header in email body
+#: src/functions.ycp:663
+msgid "Changed Existing Archives:"
+msgstr "已更改的现有的存档："
+
+#. header in email body
+#: src/functions.ycp:667
+msgid "Summary:"
+msgstr "摘要："
+
+#. header in email body
+#: src/functions.ycp:669
+msgid "Details:"
+msgstr "细节："
+
+#. header in email body
+#: src/functions.ycp:672
+#, ycp-format
+msgid "BACKUP REPORT for Profile %1"
+msgstr "配置文件 %1 的备份报告"
+
+#. header in email body followed by errors or warnings
+#: src/functions.ycp:674
+msgid "Problems During Automatic Backup:"
+msgstr "自动备份期间出现问题："
+
+#: src/functions.ycp:874
+msgid "Unknown file system"
+msgstr "未知文件系统"
+
+#. Popup error message, %1 is a directory somewhere under %2, %2 was tested for existency
+#: src/functions.ycp:1003
+#, ycp-format
+msgid ""
+"Cannot create backup archive in %1.\n"
+"%2 is not a directory.\n"
+"Enter another one or remove %2."
+msgstr ""
+"无法在 %1 中创建备份存档。\n"
+"%2 不是目录。\n"
+"请另输入一个或删除 %2。"
+
+#. For translators: help text in archive setting dialog - part 1/3
+#: src/help_texts.ycp:29
+msgid ""
+"<P><B><big>Backup</big></B><BR>To create a backup of your system,\n"
+"enter the absolute path for the file in which to store the backup in \n"
+"<b>Filename</b>. To store the file on an NFS server, select <b>Network</b> \n"
+"as the location and enter the server details."
+msgstr ""
+"<P><B><big>备份</big></B><BR>要创建系统备份，\n"
+"请在<b>文件名</b>中输入存储备份的\n"
+"文件的绝对路径。要将文件存储在 NFS 服务器上，请选择<b>网络</b>\n"
+"作为位置，并输入服务器细节。"
+
+#. For translators: help text in archive setting dialog - part 2/3
+#: src/help_texts.ycp:35
+msgid ""
+"<P>The backup module creates a tar archive with changed files and \n"
+"an autoinstallation profile for easy and fast system reinstallation. \n"
+"To store only the names of detected files instead of creating an archive, \n"
+"select <B>Only Create List of Files Found</B>.</P>"
+msgstr ""
+"<P>备份模块将针对已更改文件创建一个 tar 存档并创建一个自动安装配置文件，\n"
+"以方便用户快速重安装系统。\n"
+"若要只存储已检测到文件的名称而不创建存档，\n"
+"请选择<B>只创建找到文件的列表</B>。</P>"
+
+#. For translators: help text in archive setting dialog - part 3/3
+#: src/help_texts.ycp:41
+msgid ""
+"<P>If you use ACLs (access control lists) for file access and \n"
+"want to back them up, select the subarchive type star.  To create a \n"
+"multivolume archive, for example, for storage on a fixed-size media \n"
+"like CDs, use <b>Options</b> to configure these settings.</P>"
+msgstr ""
+"<P>如果将 ACL(访问控制列表)用于文件访问并要对其进行备份，\n"
+"请选择子存档类型 star。要创建多卷存档，\n"
+"例如，用于诸如 CD 等的固定大小介质上的存储，请使用<b>选项</b>来配置这些设置。</P>"
+
+#. For translators: help text in tar options dialog - part 1/3
+#: src/help_texts.ycp:55
+msgid ""
+"<P><B><BIG>Multivolume Archive</BIG></B><BR>\n"
+"A backup archive can be divided into several smaller parts. This is useful \n"
+"if an archive is larger than the space available on the backup medium.</P>"
+msgstr ""
+"<P><B><BIG>多卷存档</BIG></B><BR>\n"
+"备份存档可以分为多个较小的部分。这在存档大于备份介质\n"
+"上的可用空间时很有用。</P>"
+
+#. For translators: help text in tar options dialog - part 2/3
+#: src/help_texts.ycp:60
+msgid ""
+"<P>To create a multivolume archive,  enable that option and \n"
+"select your backup medium.  If your backup medium is not in the list, \n"
+"select <B>Custom</B>.  Then enter the volume size in <b>Custom Size</b>.</P>"
+msgstr ""
+"<P>要创建多卷存档，请启用该选项\n"
+"并选择您的备份介质。如果您的备份介质不在列表中，\n"
+"请选择<B>自定义</B>。然后在<b>自定义大小</b>中输入卷大小。</P>"
+
+#. For translators: help text in tar options dialog - part 3/3
+#. http://en.wikipedia.org/wiki/Byte
+#: src/help_texts.ycp:66
+msgid ""
+"<P><B>Note:</B> 1 kB=1000 bytes, 1 KiB=1024 bytes, etc. \n"
+"The entered volume size will be rounded down to a \n"
+"multiple of 2048 bytes.</P>"
+msgstr ""
+"<P><B>注意：</B> 1 kB=1000 字节，1 kiB=1024 字节等。\n"
+"输入的卷大小将向下舍入为 2048 字节的倍数。</P>"
+
+#. For translators: help text in backup settings dialog - part 1
+#: src/help_texts.ycp:79
+msgid "<P><B><BIG>Backup Options</BIG></B><BR>Here, select which parts of the system to search and back up. <B>Archive Description</B> is an optional description of the backup archive.</P>"
+msgstr "<P><B><BIG>备份选项</BIG></B><BR>在此选择要搜索和备份系统的哪些部分。<B>存档描述</B>是备份存档的可选描述。</P>"
+
+#. For translators: help text in backup settings dialog - part 2
+#: src/help_texts.ycp:82
+msgid ""
+"<P>The archive will contain files from packages that were changed since\n"
+"package installation or upgrade. Files that do not belong to any\n"
+"package can be optionally added to the archive.</P>"
+msgstr ""
+"<P>存档将包含包中自包安装或升级后发生更改的\n"
+"文件。可以将不属于任何包的文件有选择地\n"
+"添加到存档中。</P>"
+
+#. For translators: help text in backup settings dialog - part 3
+#: src/help_texts.ycp:87
+msgid "<P>Check <B>Display List of Files</B> to show and edit a list of files found before creating the backup archive.</P>"
+msgstr "<P>检查<B>显示文件列表</B>可在创建备份存档之前显示和编辑找到文件的列表。</P>"
+
+#. For translators: help text in backup settings dialog - part 4
+#: src/help_texts.ycp:90
+msgid "<P>If you select <b>Check MD5 Sum</b>, the MD5 sum is used to determine if the file was changed. It is more reliable than checking the size or modification time, but takes longer.</P>"
+msgstr "<P>如果选择<b>检查 MD5 和</b>，MD5 之和将用于确定文件是否已更改。这比检查大小或修改时间更可靠，但需要更长的时间。</P>"
+
+#. TRANSLATORS: help text in backup settings dialog - part 5
+#: src/help_texts.ycp:93
+msgid ""
+"<p>Select <b>Backup Content of All Packages</b> to back up all files belonging\n"
+"to all installed packages. This option is useful when creating an archive that\n"
+"need not have the same installation repositories or the same packages\n"
+"available in order to restore. It is faster not to use this option.</p>\n"
+msgstr ""
+"<p>选择<b>备份所有包的内容</b>来备份属于所有已经安装的包的文件。\n"
+"当创建一个不需要有用于恢复的同样安装源或安装包的存档时，该选项非常有用。\n"
+"不使用这个选项速度会更快。</p>\n"
+
+#. For translators: help text in system backup dialog
+#: src/help_texts.ycp:109
+msgid ""
+"<P><B><BIG>System Backup</BIG></B><BR>\n"
+"Critical disk system areas can be added to the backup archive. \n"
+"They can be used to restore the system in case of a crash.</P>"
+msgstr ""
+"<P><B><BIG>系统备份</BIG></B><BR>\n"
+"可以将关键磁盘系统区域添加到备份存档中。\n"
+"在系统崩溃时，可以使用它们来恢复系统。</P>"
+
+#. For translators: help text in searching modified dialog - part 1/3
+#: src/help_texts.ycp:122
+msgid ""
+"<P><B><BIG>Searching</BIG></B><BR>\n"
+"The modified file search is in progress.  This takes several minutes, \n"
+"depending on the speed of your system and the number of installed \n"
+"packages.</P>"
+msgstr ""
+"<P><B><BIG>搜索</BIG></B><BR>\n"
+"正在搜索已修改的文件。这将需要几分钟，\n"
+"所需时间取决于系统的\n"
+"速度和已安装包的数量。</P>"
+
+#. For translators: help text in searching files dialog - part 1/3
+#: src/help_texts.ycp:136
+msgid "<P><B><BIG>Searching</BIG></B><BR>The search is in progress for files that do not belong to a package. This takes several minutes, depending on the speed of your system and the size of the file system.</P>"
+msgstr "<P><B><BIG>搜索</BIG></B><BR>正在搜索不属于某包的文件。这将需要几分钟，所需时间取决于系统的速度和文件系统的大小。</P>"
+
+#. For translators: help text in file dialog - part 1/2
+#: src/help_texts.ycp:147
+msgid "<P><B><BIG>Detected Files</BIG></B><BR>This is a list of files found. Select which files to store in the archive.</P>"
+msgstr "<P><B><BIG>检测到的文件</BIG></B><BR>这是已找到文件的列表。选择要在存档中存储哪些文件。</P>"
+
+#. For translators: help text in file dialog - part 2/2
+#: src/help_texts.ycp:150
+msgid "<P>A mark in the first column indicates that the file will be backed up.</P>"
+msgstr "<P>第一列中的标记指示将备份该文件。</P>"
+
+#. For translators: help text in creating archive dialog - part 1/2
+#: src/help_texts.ycp:161
+msgid "<P><B><BIG>Creating Archive</BIG></B><BR>Archive creation is in progress.</P>"
+msgstr "<P><B><BIG>创建存档</BIG></B><BR>正在创建存档。</P>"
+
+#. For translators: help text in summary dialog - part 1/2
+#: src/help_texts.ycp:172
+msgid ""
+"<P><B><BIG>Summary</BIG></B><BR>This displays the result \n"
+"of the backup. Click <B>Details</B> to see more information.</P>"
+msgstr ""
+"<P><B><BIG>摘要</BIG></B><BR>显示备份的\n"
+"结果。单击<B>细节</B>可了解更多信息。</P>"
+
+#. For translators: help text in the automatic backup dialog (1/4)
+#: src/help_texts.ycp:185
+msgid ""
+"<P><B><BIG>Automatic Backup</BIG></B><BR>\n"
+"The selected profile can be started automatically in the background without \n"
+"any user interaction.</P>"
+msgstr ""
+"<P><B><BIG>自动备份</BIG></B><BR>\n"
+"选定的配置文件可以在后台自动启动，\n"
+"而无需任何用户干预。</P>"
+
+#. For translators: help text in the automatic backup dialog (2/4)
+#: src/help_texts.ycp:190
+msgid ""
+"<P>To start the backup automatically with the selected profile, \n"
+"check <b>Start Backup Automatically</b> and set how often and when the \n"
+"backup should be started. Use the 24-hour clock format for <b>Hour</b>.</P>"
+msgstr ""
+"<P>要使用选定的配置文件自动启动备份，请选中\n"
+"<b>自动启动备份</b>并设置应启动备份\n"
+"的时间和频率。请对</b>小时</b>值使用 24 小时制格式。</P>"
+
+#. For translators: help text in the automatic backup dialog (3/4)
+#: src/help_texts.ycp:195
+msgid ""
+"<P>The previous full backup archive, if it exists, will be renamed by \n"
+"putting the date in the form YYYYMMDDHHMMSS at the beginning of the \n"
+"filename. If the number of old archives is greater than the predefined \n"
+"value, the oldest archives are deleted. All archives are stored\n"
+"as <b>full backups</b>.</P>"
+msgstr ""
+"<P>通过把 YYYYMMDDHHMMSS 格式的日期附加在文件名的前面，将重命名以前的备份存档(如果存在)\n"
+"。如果旧存档的数量大于预定义的值，则将删除一些最早的存档。所有的存档都作为 <b>完整备份</b> 存储。</P>"
+
+#. For translators: help text in automatic backup dialog (4/4)
+#: src/help_texts.ycp:202
+msgid ""
+"<p>For the root user to receive information about the backup, \n"
+"select <b>Send Summary Mail to User root</b>.  This summary contains \n"
+"information about the files included in the backup and any errors that \n"
+"occur.</p>"
+msgstr ""
+"<p>要让 root 用户接收有关备份信息，请选择<b>向 root 用户发送摘要邮件</b>。此摘要包含有关备份\n"
+"中所含文件的信息以及发生的任何错误。</p>"
+
+#. For translators: help text in profile management dialog - part 1/4
+#: src/help_texts.ycp:217
+msgid ""
+"<P><B><BIG>System Backup</BIG></B><BR>\n"
+"This backup tool searches files on your system and creates a backup \n"
+"archive from them. It is a small, easy-to-use backup program. \n"
+"If you need advanced features, such as incremental backup or \n"
+"network backup, you should use an expert tool.</P>"
+msgstr ""
+"<P><B><BIG>系统备份</BIG></B><BR>\n"
+"此备份工具搜索系统中的文件，\n"
+"然后从这些文件创建备份存档。这是一个很小的、易于使用的备份程序。\n"
+"如果需要高级功能(如递增备份或网络备份)，\n"
+"则应使用专家工具。</P>"
+
+#. For translators: help text in profile management dialog - part 2/4
+#: src/help_texts.ycp:224
+msgid ""
+"<P>This dialog shows the list of currently stored backup \n"
+"profiles. A backup profile is used to name a group of different settings, \n"
+"such as the name of an archive and how to search for files.</P>"
+msgstr ""
+"<P>此对话框显示当前存储的备份配置文件\n"
+"的列表。备份配置文件用于对一组不同的设置进行命名，\n"
+"例如存档的名称和搜索文件的方式。</P>"
+
+#. For translators: help text in profile management dialog - part 3/4
+#: src/help_texts.ycp:228
+msgid ""
+"<P>You can have a number of profiles, each with a unique name. \n"
+"Using the actions in <B>Profile Management</B>, you can add a new profile \n"
+"based on default values, duplicate an existing profile, change the settings \n"
+"stored in a profile, or delete a profile. Use the <b>Automatic Backup</b> \n"
+"option to configure routine backups of the selected profile.</P>"
+msgstr ""
+"<P>您可以有许多配置文件，每个配置文件都具有一个唯一的名称。\n"
+"使用<B>配置文件管理</B>中的操作，\n"
+"您可以基于默认值来添加新配置文件、复制现有的配置文件、\n"
+"更改配置文件中存储的设置或删除配置文件。使用<b>自动备份</b>\n"
+"选项可配置选定配置文件的常规备份。</P>"
+
+#. For translators: help text in profile management dialog - part 4/4
+#: src/help_texts.ycp:234
+msgid ""
+"<P>Press <B>Create Backup</B> to start the backup using \n"
+"settings stored in the currently selected profile. Press \n"
+"<B>Back Up Manually</B> to use default settings that can be \n"
+"modified before starting the backup process.</P>"
+msgstr ""
+"<P>按<B>创建备份</B>可使用存储在当前选定\n"
+"配置文件中的设置启动备份。按<B>手动备份</B>可使用默认设置，\n"
+"您可以在启动备份进程前\n"
+"对默认设置进行修改。</P>"
+
+#. For translators: help text in backup expert options dialog - part 1/3
+#: src/help_texts.ycp:249
+msgid ""
+"<P><BIG><B>Expert Options</B></BIG><BR>Some advanced configuration options\n"
+"can be set in this dialog. Usually there is no need to modify the default values.</P>"
+msgstr ""
+"<P><BIG><B>专家选项</B></BIG><BR>可在此对话框中设置某些\n"
+"高级配置选项。通常无需修改默认值。</P>"
+
+#. For translators: help text in backup expert options dialog - part 3/3
+#: src/help_texts.ycp:252
+msgid "<P>System areas, such as partition table or ext2 image, can be added to the backup archive with <b>Back Up Hard Disk System Areas</b>. These system areas can only be restored from an archive manually.</P>"
+msgstr "<P>使用<b>备份硬盘系统区域</b>可以将系统区域(如分区表或ext2 映像)添加到备份存档中。只能从存档中手动恢复这些系统区域。</P>"
+
+#. For translators: help text in backup expert options dialog - part 2/3
+#: src/help_texts.ycp:254
+msgid ""
+"<P>In <B>Temporary Directory</B>, set the location in which parts\n"
+"of the archive are stored before the final archive is created. The temporary directory should have enough\n"
+"free space for the entire archive.</P>\n"
+msgstr ""
+"<P>在<B>临时目录</B>中，设置在创建最终存档前\n"
+"存存储档部分的位置。临时目录应有足够的\n"
+"可用空间来存放整个存档。</P>\n"
+
+#. For translators: help text in exclude directory dialog - part 1/5
+#: src/help_texts.ycp:270
+msgid ""
+"<p><b>Included Directories</b><br>\n"
+"It is possible to limit the search to back up only selected directories.\n"
+"To add a new directory, click <b>Add</b> and select a directory.\n"
+"To change or delete a directory, select it and click \n"
+"<b>Edit</b> or <b>Delete</b>.\n"
+"If you do not select any directory or if you delete all the already listed ones,\n"
+"the entire file system is searched and backed up.</p>\n"
+msgstr ""
+"<p><big><b>包含的目录</b></big><br>\n"
+"可以将搜索限制为仅备份选定的目录。\n"
+"要添加新目录，请单击<b>添加</b>并选择一个目录。\n"
+"要更改或删除一个目录，请选择它并单击\n"
+"<b>编辑</b>或<b>删除</b>。\n"
+"如果不选择任何目录，或如果删除所有已列出的目录，\n"
+"则会搜索并备份整个文件系统。</p>\n"
+
+#. For translators: help text in exclude directory dialog - part 2/5
+#: src/help_texts.ycp:280
+msgid ""
+"<P><BIG><B>Constraints</B></BIG>\n"
+"<BR>It is possible to exclude some files from the backup.\n"
+"Search constraints can be a directory, file system, or regular expression.\n"
+"Use <b>Edit</b> to modify an existing constraint, or\n"
+"<b>Delete</b> to remove the selected constraint.\n"
+"To add a new constraint, click <b>Add</b> then select the type of constraint. </P>"
+msgstr ""
+"<P><BIG><B>限制</B></BIG>\n"
+"<BR>可以将某些文件排除在备份之外。\n"
+"搜索限制可以是目录、文件系统或正则表达式。\n"
+"使用<b>编辑</b>可修改现有限制。\n"
+"<b>删除</b>将删除选定的限制。\n"
+"要添加新的限制，请单击<b>添加</b>，然后选择限制的类型。</P>"
+
+#. For translators: help text in exclude directory dialog - part 3/5
+#: src/help_texts.ycp:288
+msgid "<P><B>Directory</B>: All files located in the specified directories will not be backed up.</P>"
+msgstr "<P><B>目录</B>：指定目录中的所有文件将不会备份。</P>"
+
+#. For translators: help text in exclude directory dialog - part 4/5
+#: src/help_texts.ycp:291
+msgid ""
+"<P><B>File System</B>: It is possible to exclude all files located\n"
+"on a certain type of file system (such as ReiserFS or Ext2).\n"
+"The root directory will always be searched, even if its file system is selected.\n"
+"File systems that cannot be used on a local disk, such as network file systems,\n"
+"are excluded by default.</P>"
+msgstr ""
+"<P><B>文件系统</B>：可以排除位于某类文件系统\n"
+"（例如 ReiserFS 或 Ext2）上的所有文件。\n"
+"将始终搜索根目录，即使已选定其文件系统。\n"
+"无法在本地磁盘上使用的文件系统（如网络文件系统）\n"
+"默认情况下就会排除。</P>"
+
+#. For translators: help text in exclude directory dialog - part 5/5
+#: src/help_texts.ycp:298
+msgid "<P><B>Regular Expressions</B>: Any filename that matches any of the regular expressions will not be backed up. Use Perl regular expressions. To exclude, for example, <tt>*.bak</tt> files, add the regular expression <tt>\\.bak$</tt>.</P>"
+msgstr "<P><B>正则表达式</B>：与任何正则表达式匹配的任何文件名将不备份。请使用 perl 正则表达式。例如，要排除 <tt>*.bak</tt> 文件，请添加正则表达式 <tt>\\.bak$</tt>。</P>"
+
+#. headline of a popup message
+#: src/ui.ycp:103 src/ui.ycp:133 src/ui.ycp:4470
+msgid "Warning"
+msgstr "警告"
+
+#. a popup question - no free space, %1 is the name of the directory
+#: src/ui.ycp:105
+#, ycp-format
+msgid ""
+"There is not enough free space in the temporary directory %1.\n"
+"Continue anyway?"
+msgstr ""
+"临时目录 %1 中没有足够的可用空间。\n"
+"仍继续？"
+
+#. a popup error message - no free space, %1 is the name of the directory
+#: src/ui.ycp:117 src/ui.ycp:147
+#, ycp-format
+msgid ""
+"There is not enough free space in the backup target directory %1.\n"
+"Aborting the backup."
+msgstr ""
+"备份目标目录 %1 中没有足够的可用空间。\n"
+"正在中止备份。"
+
+#. a popup question - no free space, %1 is the name of the directory
+#: src/ui.ycp:135
+#, ycp-format
+msgid ""
+"There is not enough free space in the backup target directory %1.\n"
+"Continue anyway?"
+msgstr ""
+"备份目标目录 %1 中没有足够的可用空间。\n"
+"仍继续？"
+
+#. type of item (displayed in the table)
+#: src/ui.ycp:213
+msgid "File system"
+msgstr "文件系统"
+
+#. type of item (displayed in the table)
+#: src/ui.ycp:215
+msgid "Directory"
+msgstr "目录"
+
+#. type of item (displayed in the table)
+#: src/ui.ycp:217
+msgid "Regular expression"
+msgstr "正则表达式"
+
+#. For translators %1 is archive file name (e.g. /tmp/backup.tar)
+#: src/ui.ycp:399
+#, ycp-format
+msgid ""
+"File %1 already exists.\n"
+"Overwrite it?"
+msgstr ""
+"文件 %1 已存在。\n"
+"是否覆盖它？"
+
+#. dialog header - %1 is profile name
+#: src/ui.ycp:432
+#, ycp-format
+msgid "Automatic Backup Options for Profile %1"
+msgstr "配置文件 %1 的自动备份选项"
+
+#. check box label
+#: src/ui.ycp:436
+msgid "&Start Backup Automatically"
+msgstr "自动启动备份(&S)"
+
+#: src/ui.ycp:449
+msgid "&Frequency"
+msgstr "频率(&F)"
+
+#: src/ui.ycp:450
+msgid "Daily"
+msgstr "每日"
+
+#: src/ui.ycp:451
+msgid "Weekly"
+msgstr "每周"
+
+#: src/ui.ycp:452
+msgid "Monthly"
+msgstr "每月"
+
+#. frame label
+#: src/ui.ycp:463
+msgid "Backup Start Time"
+msgstr "备份开始时间"
+
+#. combo box label
+#: src/ui.ycp:469
+msgid "Day of the &Week"
+msgstr "星期几(&W)"
+
+#. integer field widget label
+#: src/ui.ycp:472
+msgid "&Day of the Month"
+msgstr "一月中的几号(&D)"
+
+#. integer field widget label
+#: src/ui.ycp:479
+msgid "&Hour"
+msgstr "小时(&H)"
+
+#. integer field widget label
+#: src/ui.ycp:482
+msgid "&Minute"
+msgstr "分钟(&M)"
+
+#. integer field widget label
+#: src/ui.ycp:496
+msgid "Ma&ximum Number of Old Full Backups"
+msgstr "旧完整备份的最大数量(&X)"
+
+#. Checkbox label
+#: src/ui.ycp:501
+msgid "S&end Summary Mail to User root"
+msgstr "向 root 用户发送摘要邮件(&E)"
+
+#. TRANSLATORS: Popup question, [Yes] means `cancel the profile creation`
+#: src/ui.ycp:604
+msgid "Really cancel the profile creation?"
+msgstr "是否确实要取消配置文件创建？"
+
+#. error popup message - NFS mount failed
+#: src/ui.ycp:639 src/ui.ycp:657 src/ui.ycp:956
+msgid "Cannot mount the selected NFS share."
+msgstr "无法装入选定的 NFS 共享。"
+
+#. For translators %1 is volume file name (e.g. /tmp/01_backup.tar)
+#: src/ui.ycp:693 src/ui.ycp:995
+#, ycp-format
+msgid ""
+"The existing file %1 could become part of new volume set and be overwritten.\n"
+"Really continue?"
+msgstr ""
+"现有文件 %1 会成为新卷集的一部分，并被覆盖。\n"
+"是否继续？"
+
+#. dialog header
+#: src/ui.ycp:715
+msgid "Archive Settings"
+msgstr "存档设置"
+
+#: src/ui.ycp:728
+msgid "Backup Location"
+msgstr "备份位置"
+
+#. radio button label
+#: src/ui.ycp:734
+msgid "&Local File"
+msgstr "本地文件(&L)"
+
+#. radio button label
+#: src/ui.ycp:737
+msgid "Network (N&FS)"
+msgstr "网络(NFS)(&F)"
+
+#. text entry label
+#: src/ui.ycp:741
+msgid "I&P Address or Name of NFS Server"
+msgstr "NFS 服务器的 IP 地址或名称(&P)"
+
+#. Pushbutton label
+#: src/ui.ycp:747
+msgid "&Select..."
+msgstr "选择(&S)..."
+
+#. text entry label
+#: src/ui.ycp:753
+msgid "&Remote Directory"
+msgstr "远程目录(&R)"
+
+#. Pushbutton label
+#: src/ui.ycp:759
+msgid "S&elect..."
+msgstr "选择(&E)..."
+
+#. frame label
+#: src/ui.ycp:771
+msgid "Archive Type"
+msgstr "存档类型"
+
+#: src/ui.ycp:776
+msgid "Create Backup Archive"
+msgstr "创建备份存档"
+
+#. combo box label
+#: src/ui.ycp:781
+msgid "Archive &Type"
+msgstr "存档类型(&T)"
+
+#. archive type - combo box item
+#: src/ui.ycp:783
+msgid "tar with tar-gzip subarchives"
+msgstr "带 tar-gzip 子存档的 tar"
+
+#. archive type - combo box item
+#: src/ui.ycp:785
+msgid "tar with tar-bzip2 subarchives"
+msgstr "带 tar-bzip2 子存档的 tar"
+
+#. archive type - combo box item
+#: src/ui.ycp:787
+msgid "tar with tar subarchives"
+msgstr "带 tar 子存档的 tar"
+
+#. archive type - combo box item
+#: src/ui.ycp:789
+msgid "tar with star-gzip subarchives"
+msgstr "带 star-gzip 子存档的 tar"
+
+#. archive type - combo box item
+#: src/ui.ycp:791
+msgid "tar with star-bzip2 subarchives"
+msgstr "带 star-bzip2 子存档的 tar"
+
+#. archive type - combo box item
+#: src/ui.ycp:793
+msgid "tar with star subarchives"
+msgstr "带 star 子存档的 tar"
+
+#. push button label
+#: src/ui.ycp:800 src/ui.ycp:3680
+msgid "&Options..."
+msgstr "选项(&O)..."
+
+#. radiobutton label
+#: src/ui.ycp:806
+msgid "Only Create List of Files Found"
+msgstr "只创建找到文件的列表"
+
+#. warning popup message
+#: src/ui.ycp:838
+msgid ""
+"You are not logged in as root.\n"
+"Some files can only be read by the user root.\n"
+"Not all files will be backed up,\n"
+"so it will not be possible to restore\n"
+"the system completely later.\n"
+"\n"
+"System areas on hard disks can only\n"
+"be backed up by root.\n"
+msgstr ""
+"您没有以 root 用户身份登录。\n"
+"某些文件只能由 root 用户读取。\n"
+"由于并非将备份所有文件，\n"
+"因而以后无法完整地恢复\n"
+"系统。\n"
+"\n"
+"硬盘上的系统区域只能\n"
+"由 root 用户备份。\n"
+
+#. TRANSLATORS: explanatory headline for UI::AskForExistingFile pop-up
+#: src/ui.ycp:857
+msgid "Where would you like to store the backup?"
+msgstr "何处储存备份？"
+
+#: src/ui.ycp:895
+msgid ""
+"A server name is required.\n"
+"Enter the server name to use.\n"
+msgstr ""
+"服务器名是必填项。\n"
+"请输入要使用的服务器名。\n"
+
+#: src/ui.ycp:902
+msgid ""
+"A remote directory name is required.\n"
+"Enter the directory name to use.\n"
+msgstr ""
+"远程目录名是必填项。\n"
+"请输入要使用的目录名。\n"
+
+#. warning popup message
+#: src/ui.ycp:920
+msgid ""
+"An archive filename is required.\n"
+"Enter the filename to use.\n"
+msgstr ""
+"存档文件名是必需的。\n"
+"请输入要使用的文件名。\n"
+
+#. warning popup message
+#: src/ui.ycp:930
+msgid ""
+"Enter the archive filename with\n"
+"its absolute path, as in /tmp/backup.tar."
+msgstr ""
+"请输入存档文件名及其\n"
+"绝对路径(例如 /tmp/backup.tar)。"
+
+#: src/ui.ycp:1060
+msgid "Enter a server name."
+msgstr "请输入服务器名。"
+
+#. combo box item - user defined volume size of archive
+#: src/ui.ycp:1095
+msgid "Custom"
+msgstr "自定义"
+
+#. dialog header
+#: src/ui.ycp:1103
+msgid "Archive File Options"
+msgstr "存档文件选项"
+
+#. frame label
+#: src/ui.ycp:1107
+msgid "Multivolume Archive"
+msgstr "多卷存档"
+
+#. check box label
+#: src/ui.ycp:1111
+msgid "&Create a Multivolume Archive"
+msgstr "创建多卷存档(&C)"
+
+#. combo box label
+#: src/ui.ycp:1119
+msgid "&Volume Size"
+msgstr "卷大小(&V)"
+
+#. text entry label
+#: src/ui.ycp:1125
+msgid "Custom &Size"
+msgstr "自定义大小(&S)"
+
+#. warning popup message
+#: src/ui.ycp:1183
+msgid "Volume size must be at least 10240 bytes."
+msgstr "卷大小必须至少为 10240 个字节。"
+
+#. dialog header
+#: src/ui.ycp:1234
+msgid "Backup Options"
+msgstr "备份选项"
+
+#. rwalter consider whether this frame and the next should be eliminated to simplify the dialog
+#. frame label
+#. dialog header
+#: src/ui.ycp:1238 src/ui.ycp:2358
+msgid "File Selection"
+msgstr "文件选择"
+
+#. check box label
+#: src/ui.ycp:1242
+msgid "&Back Up Files Not Belonging to Any Package"
+msgstr "备份不属于任何包的文件(&B)"
+
+#. check box label
+#: src/ui.ycp:1244
+msgid "Back up Content of &All Packages"
+msgstr "备份所有包的内容(&A)"
+
+#. check box label
+#: src/ui.ycp:1247
+msgid "Display List of Files Before &Creating Archive"
+msgstr "在创建存档之前显示文件的列表(&C)"
+
+#. frame label
+#: src/ui.ycp:1255
+msgid "Search Options"
+msgstr "搜索选项"
+
+#. frame label
+#: src/ui.ycp:1259
+msgid "Check MD&5 Sum instead of Time or Size"
+msgstr "检查 MD5 之和而非时间或大小(&5)"
+
+#. multi line widget label
+#: src/ui.ycp:1266
+msgid "Archive &Description"
+msgstr "存档描述(&D)"
+
+#: src/ui.ycp:1269
+msgid "E&xpert..."
+msgstr "专家(&X)..."
+
+#. status message - label
+#: src/ui.ycp:1313
+msgid "Detecting mounted ext2 file systems..."
+msgstr "正在检测装入的 ext2 文件系统..."
+
+#. dialog header
+#: src/ui.ycp:1319
+msgid "System Area Backup"
+msgstr "系统区域备份"
+
+#. frame label
+#: src/ui.ycp:1323
+msgid "Partition Table"
+msgstr "分区表"
+
+#. check box label
+#: src/ui.ycp:1327
+msgid "Ba&ck Up Partition Tables"
+msgstr "备份分区表(&C)"
+
+#. frame label
+#: src/ui.ycp:1334
+msgid "Ext2 File System Critical Area Backup"
+msgstr "Ext2 文件系统关键区域备份"
+
+#. radio button label
+#: src/ui.ycp:1339
+msgid "N&one"
+msgstr "无(&O)"
+
+#. radio button label
+#: src/ui.ycp:1342
+msgid "All &Mounted"
+msgstr "所有挂载的(&M)"
+
+#. radio button label
+#: src/ui.ycp:1345
+msgid "&Selected"
+msgstr "选定的(&S)"
+
+#. table header
+#: src/ui.ycp:1350
+msgid "Ext2 Partition"
+msgstr "Ext2 分区"
+
+#: src/ui.ycp:1350
+msgid "Mount Point"
+msgstr "挂载点"
+
+#. push button label
+#: src/ui.ycp:1353
+msgid "A&dd..."
+msgstr "添加(&D)..."
+
+#. push button label
+#: src/ui.ycp:1355 src/ui.ycp:3699 src/ui.ycp:4283 src/ui.ycp:4301
+msgid "&Edit..."
+msgstr "编辑(&E)..."
+
+#. push button label
+#: src/ui.ycp:1357 src/ui.ycp:4285 src/ui.ycp:4303
+msgid "De&lete"
+msgstr "删除(&L)"
+
+#. error popup message, %1 is partition name (e.g. /dev/hda1)
+#: src/ui.ycp:1407 src/ui.ycp:1475
+#, ycp-format
+msgid "Partition %1 is already in the list."
+msgstr "分区 %1 已在列表中。"
+
+#. popup dialog header
+#: src/ui.ycp:1461
+msgid "&Add Ext2 Partition"
+msgstr "添加 Ext2 分区(&A)"
+
+#. there is no enough space
+#: src/ui.ycp:1586
+#, ycp-format
+msgid ""
+"There is not enough free space in directory %1.\n"
+"Continue anyway?\n"
+msgstr ""
+"目录 %1 中没有足够的可用空间。\n"
+"是否继续？\n"
+
+#. may be that there is not enough space
+#: src/ui.ycp:1593
+#, ycp-format
+msgid ""
+"There may not be enough free space in directory %1.\n"
+"Continue anyway?\n"
+msgstr ""
+"目录 %1 中可能没有足够的可用空间。\n"
+"是否继续？\n"
+
+#. dialog header
+#: src/ui.ycp:1669
+msgid "Searching for Modified Files"
+msgstr "搜索已修改的文件"
+
+#. label text, followed by number of files found so far
+#. label text, followed by value
+#: src/ui.ycp:1674 src/ui.ycp:1790 src/ui.ycp:1883
+msgid "Modified Files: "
+msgstr "已修改的文件："
+
+#. label text, followed by sizes of files
+#. label text, followed by value
+#. part of summary text
+#: src/ui.ycp:1679 src/ui.ycp:1788 src/ui.ycp:1888 src/ui.ycp:3129
+#: src/ui.ycp:3136
+msgid "Total Size: "
+msgstr "总大小："
+
+#. label text, followed by name of current package
+#: src/ui.ycp:1684 src/ui.ycp:1763
+msgid "Searching in Package: "
+msgstr "在包中搜索："
+
+#. progress bar label
+#: src/ui.ycp:1693
+msgid "Search"
+msgstr "搜索"
+
+#. label text
+#: src/ui.ycp:1712
+msgid "Reading packages available at the software repositories..."
+msgstr "正在读取软件源中可用的包..."
+
+#. label text
+#: src/ui.ycp:1845
+msgid "Reading packages files..."
+msgstr "正在读取包文件..."
+
+#. label text
+#: src/ui.ycp:1853
+msgid "Reading list of installed packages..."
+msgstr "正在读取已安装包的列表..."
+
+#. dialog header
+#: src/ui.ycp:1877
+msgid "Searching Files"
+msgstr "正在搜索文件"
+
+#. label text, followed by current directory name
+#: src/ui.ycp:1896 src/ui.ycp:2053
+msgid "Searching in Directory: "
+msgstr "在目录中搜索："
+
+#: src/ui.ycp:1921
+msgid "User-Defined Scripts Output"
+msgstr "用户定义的脚本输出"
+
+#: src/ui.ycp:1941
+#, ycp-format
+msgid "Starting script %1...\n"
+msgstr "正在启动脚本 %1...\n"
+
+#: src/ui.ycp:1948
+#, ycp-format
+msgid "Cannot start %1 script\n"
+msgstr "无法启动 %1 脚本\n"
+
+#: src/ui.ycp:2015 src/ui.ycp:2033
+msgid "User-Defined Scripts"
+msgstr "用户定义的脚本"
+
+#. error popup message
+#: src/ui.ycp:2084
+msgid ""
+"Could not start the search script.\n"
+"Aborting the backup.\n"
+msgstr ""
+"无法启动搜索脚本。\n"
+"正在中止备份。\n"
+
+#. busy message
+#: src/ui.ycp:2343
+msgid "Adding files to table..."
+msgstr "正在将文件添加到表中..."
+
+#. label text
+#: src/ui.ycp:2362
+msgid "Files to Back Up"
+msgstr "要备份的文件"
+
+#. table header
+#: src/ui.ycp:2367
+msgid "Filename"
+msgstr "文件名"
+
+#: src/ui.ycp:2367
+msgid "Package"
+msgstr "包"
+
+#. push button label
+#: src/ui.ycp:2372
+msgid "Select or Deselect &File"
+msgstr "选择或取消选择文件(&F)"
+
+#. push button label
+#: src/ui.ycp:2374
+msgid "&Select All"
+msgstr "全选(&S)"
+
+#. push button label
+#: src/ui.ycp:2376
+msgid "&Deselect All"
+msgstr "全部不选(&D)"
+
+#: src/ui.ycp:2389
+msgid "Internal error"
+msgstr "内部错误"
+
+#. busy message
+#: src/ui.ycp:2409
+msgid "Deselecting files..."
+msgstr "正在取消选择文件..."
+
+#. An informative popup label during selecting all items in the table (can consume a lot of time)
+#: src/ui.ycp:2463
+msgid "Selecting all items..."
+msgstr "正在选择所有项目..."
+
+#. An informative popup label during deselecting all items in the table (can consume a lot of time)
+#: src/ui.ycp:2466
+msgid "Deselecting all items..."
+msgstr "正在取消选择所有项目..."
+
+#. create Progress bar
+#. progress stage
+#: src/ui.ycp:2619
+msgid "Store host information"
+msgstr "存储主机信息"
+
+#. progress step
+#: src/ui.ycp:2621
+msgid "Storing host information..."
+msgstr "正在存储主机信息..."
+
+#. progress stage
+#: src/ui.ycp:2635
+msgid "Create system area backup"
+msgstr "创建系统区域备份"
+
+#. progress step
+#: src/ui.ycp:2637
+msgid "Creating system area backup..."
+msgstr "正在创建系统区域备份..."
+
+#. progress stage
+#: src/ui.ycp:2669
+msgid "Create package archives"
+msgstr "创建包存档"
+
+#. progress stage
+#: src/ui.ycp:2671
+msgid "Create target archive"
+msgstr "创建目标存档"
+
+#. progress step
+#: src/ui.ycp:2674
+msgid "Creating package archives..."
+msgstr "正在创建包存档..."
+
+#. progress step
+#: src/ui.ycp:2676
+msgid "Creating target archive..."
+msgstr "正在创建目标存档..."
+
+#. progress stage
+#: src/ui.ycp:2679
+msgid "Write autoinstallation profile"
+msgstr "写入自动安装配置文件"
+
+#. progress step
+#: src/ui.ycp:2681
+msgid "Writing autoinstallation profile..."
+msgstr "正在写入自动安装配置文件..."
+
+#. progress
+#: src/ui.ycp:2689
+msgid "Creating Archive"
+msgstr "正在创建存档"
+
+#: src/ui.ycp:2728
+#, ycp-format
+msgid "Cannot write comment to file %1."
+msgstr "无法将注释写入文件 %1。"
+
+#. error popup message
+#: src/ui.ycp:2763
+msgid ""
+"Could not start archiving script.\n"
+"Aborting the backup.\n"
+msgstr ""
+"无法启动存档脚本。\n"
+"正在中止备份。\n"
+
+#. Translators: text of a popup dialog
+#. double-quote in name breaks backup at several places
+#: src/ui.ycp:3055 src/ui.ycp:3071
+msgid "Enter a name for the new profile."
+msgstr "输入新配置文件的名称。"
+
+#. TRANSLATORS: text of a popup dialog, %1 is a profile name to be renamed
+#: src/ui.ycp:3059
+#, ycp-format
+msgid "Enter a new name for the %1 profile."
+msgstr "为配置文件 %1 输入一个新的名称。"
+
+#. Translators: error popup, %1 is profile name
+#: src/ui.ycp:3067
+#, ycp-format
+msgid ""
+"A profile %1 already exists.\n"
+"Replace the existing profile?\n"
+msgstr ""
+"配置文件 %1 已存在。\n"
+"是否替换现有的配置文件？\n"
+
+#. For translators: %1 is entered archive file name (summary text)
+#: src/ui.ycp:3119
+#, ycp-format
+msgid "List of files saved to file %1"
+msgstr "已将文件列表保存到文件 %1"
+
+#. part of summary text
+#. summary text
+#: src/ui.ycp:3122
+msgid "Error storing list of files"
+msgstr "存储文件列表时出错"
+
+#. part of summary text
+#: src/ui.ycp:3127
+msgid "Modified Files Found: "
+msgstr "找到的已修改文件："
+
+#. part of summary text
+#: src/ui.ycp:3134
+msgid "Files Not in a Package Found: "
+msgstr "找到的不在包中的文件："
+
+#. part of summary text
+#: src/ui.ycp:3142
+msgid "Selected Files to Back Up: "
+msgstr "要备份的选定文件："
+
+#. part of summary text
+#: src/ui.ycp:3146
+msgid "Hostname stored successfully"
+msgstr "成功存储主机名"
+
+#. part of summary text
+#: src/ui.ycp:3148
+msgid "Storing hostname failed"
+msgstr "存储主机名失败"
+
+#: src/ui.ycp:3148
+msgid "Date stored successfully"
+msgstr "已成功存储日期"
+
+#. part of summary text
+#: src/ui.ycp:3150
+msgid "Storing date failed"
+msgstr "存储日期失败"
+
+#: src/ui.ycp:3150
+msgid "File list stored successfully"
+msgstr "已成功存储文件列表"
+
+#. part of summary text
+#: src/ui.ycp:3152
+msgid "Storing file list failed"
+msgstr "存储文件列表失败"
+
+#: src/ui.ycp:3152
+msgid "Comment stored successfully"
+msgstr "已成功存储注释"
+
+#. part of summary text
+#: src/ui.ycp:3154
+msgid "Storing comment failed"
+msgstr "存储注释失败"
+
+#. part of summary text
+#: src/ui.ycp:3156
+msgid "List of installed packages stored successfully"
+msgstr "已成功存储已安装包的列表"
+
+#. part of summary text
+#: src/ui.ycp:3158
+msgid "Storing list of installed packages failed"
+msgstr "存储已安装包的列表失败"
+
+#. part of summary text, 'Details' is button label
+#: src/ui.ycp:3164
+msgid "Some errors occurred during backup. Press Details for more information."
+msgstr "备份过程中出现某些错误。请按“细节”以了解更多信息。"
+
+#. part of summary text
+#: src/ui.ycp:3171
+msgid "Errors Creating Archive:"
+msgstr "创建存档时出错："
+
+#. For translators: %1 file name - part of summary text
+#: src/ui.ycp:3176
+#, ycp-format
+msgid "Cannot read file %1"
+msgstr "无法读取文件 %1"
+
+#. part of summary text
+#: src/ui.ycp:3193
+msgid "Detecting disk partitions failed"
+msgstr "删除磁盘分区失败"
+
+#. For translators: %1 is device name of disk, e.g. hda - part of summary text
+#: src/ui.ycp:3199
+#, ycp-format
+msgid "Storing partition table of disk /dev/%1 failed"
+msgstr "存储磁盘 /dev/%1 的分区表失败"
+
+#. For translators: %1 is device name of disk, e.g. hda - part of summary text
+#: src/ui.ycp:3206
+#, ycp-format
+msgid "Storing partition table of disk /dev/%1 was successful"
+msgstr "已成功存储磁盘 /dev/%1 的分区表"
+
+#. For translators: %1 is partition name e.g. /dev/hda1 - part of summary text
+#: src/ui.ycp:3226
+#, ycp-format
+msgid "Ext2 image of %1 stored successfully"
+msgstr "已成功存储 %1 的 Ext2 映像"
+
+#. For translators: %1 is partition name e.g. /dev/hda1 - part of summary text
+#: src/ui.ycp:3234
+#, ycp-format
+msgid "Storing ext2 image of %1 failed"
+msgstr "存储 %1 的 ext2 映像失败"
+
+#. part of summary text
+#: src/ui.ycp:3276
+msgid "Warning: Some files were not backed up"
+msgstr "警告：某些文件未进行备份"
+
+#. For translators: %1 is entered archive file name - part of summary text
+#: src/ui.ycp:3284
+#, ycp-format
+msgid "Archive %1 created successfully"
+msgstr "已成功创建存档 %1"
+
+#. part of summary text
+#: src/ui.ycp:3289
+msgid "Archive created successfully"
+msgstr "已成功创建存档"
+
+#. part of summary text - %1 is file name
+#: src/ui.ycp:3293
+#, ycp-format
+msgid "Autoinstallation profile saved to file %1."
+msgstr "已将自动安装配置文件保存到文件 %1。"
+
+#: src/ui.ycp:3293
+msgid "Autoinstallation profile was not saved."
+msgstr "未保存自动安装配置文件。"
+
+#. part of summary text
+#: src/ui.ycp:3297
+msgid "Archive creation failed"
+msgstr "存档创建失败"
+
+#. part of summary text
+#: src/ui.ycp:3302
+msgid "Total Archived Files: "
+msgstr "已存档文件的总数："
+
+#: src/ui.ycp:3324 src/ui.ycp:3329
+msgid "&Details..."
+msgstr "细节(&D)..."
+
+#: src/ui.ycp:3330
+msgid "&Save as Profile..."
+msgstr "另存为配置文件(&S)..."
+
+#. dialog header
+#: src/ui.ycp:3346
+msgid "Backup Summary"
+msgstr "备份摘要"
+
+#. popup dialog header
+#: src/ui.ycp:3373
+msgid "Backup Summary Details"
+msgstr "备份摘要细节"
+
+#. Script type
+#: src/ui.ycp:3416
+msgid "Run before backup"
+msgstr "在备份之前运行"
+
+#. Script type
+#: src/ui.ycp:3419
+msgid "Run after backup"
+msgstr "在备份之后运行"
+
+#: src/ui.ycp:3467
+msgid "Invalid file name."
+msgstr "文件名无效。"
+
+#: src/ui.ycp:3479
+#, ycp-format
+msgid ""
+"Cannot create file %1.\n"
+"Details: %2"
+msgstr ""
+"无法创建文件 %1。\n"
+"详情：%2"
+
+#: src/ui.ycp:3486
+#, ycp-format
+msgid "Cannot write to %1 file."
+msgstr "不能写入文件 %1。"
+
+#: src/ui.ycp:3543
+msgid "Edit Backup Helper Script Options"
+msgstr "编辑备份助手脚本选项"
+
+#: src/ui.ycp:3545
+msgid "Add Backup Helper Script"
+msgstr "添加备份助手脚本"
+
+#. a header item
+#: src/ui.ycp:3549 src/ui.ycp:3691
+msgid "Script Type"
+msgstr "脚本类型"
+
+#: src/ui.ycp:3552
+msgid "&Before Backup"
+msgstr "备份之前(&B)"
+
+#: src/ui.ycp:3553
+msgid "&After Backup"
+msgstr "备份之后(&A)"
+
+#: src/ui.ycp:3558
+msgid "Script &Path"
+msgstr "脚本路径(&P)"
+
+#: src/ui.ycp:3562
+msgid "Script &Content"
+msgstr "脚本内容(&C)"
+
+#: src/ui.ycp:3605
+msgid "Script file name must be set."
+msgstr "必须设置脚本文件名。"
+
+#: src/ui.ycp:3646
+msgid "Choose a Script File Name"
+msgstr "选择一个脚本文件名"
+
+#. dialog header
+#: src/ui.ycp:3672
+msgid "Expert Backup Options"
+msgstr "专家备份选项"
+
+#: src/ui.ycp:3677
+msgid "Back Up &Hard Disk System Areas"
+msgstr "备份硬盘系统区域(&H)"
+
+#. text entry label
+#: src/ui.ycp:3684
+msgid "Temporary &Location of Archive Parts"
+msgstr "存档部分的临时位置(&L)"
+
+#: src/ui.ycp:3686
+msgid "Pre and Post-Backup Scripts"
+msgstr "备份之前和之后的脚本"
+
+#. a header item
+#: src/ui.ycp:3693
+msgid "Path"
+msgstr "路径"
+
+#. push button label
+#: src/ui.ycp:3698 src/ui.ycp:4281
+msgid "&Add..."
+msgstr "添加(&A)..."
+
+#: src/ui.ycp:3806
+msgid "Name"
+msgstr "名称"
+
+#: src/ui.ycp:3807
+msgid "Description"
+msgstr "描述"
+
+#: src/ui.ycp:3808
+msgid "Automatic Backup"
+msgstr "自动备份"
+
+#: src/ui.ycp:3810
+msgid "System Backup"
+msgstr "系统备份"
+
+#: src/ui.ycp:3812
+msgid "Available Profiles"
+msgstr "可用的配置文件"
+
+#: src/ui.ycp:3817
+msgid "&Create Backup"
+msgstr "创建备份(&C)"
+
+#: src/ui.ycp:3818
+msgid "Profile Mana&gement"
+msgstr "配置文件管理(&G)"
+
+#: src/ui.ycp:3821
+msgid "&Duplicate..."
+msgstr "复制(&D)..."
+
+#. TRANSLATORS: Menu button selection
+#: src/ui.ycp:3824
+msgid "Re&name"
+msgstr "重命名(&N)"
+
+#: src/ui.ycp:3829
+msgid "Back Up &Manually..."
+msgstr "手动备份(&M)..."
+
+#. remove the selected profile
+#: src/ui.ycp:3911
+msgid "Remove the selected profile?"
+msgstr "是否删除选定的配置文件？"
+
+#: src/ui.ycp:4001
+msgid "&Browse..."
+msgstr "浏览(&B)..."
+
+#. title in the file selection dialog
+#: src/ui.ycp:4023
+msgid "Directory Selection"
+msgstr "目录选择"
+
+#. TRANSLATORS: informative text in the multiline select-box
+#: src/ui.ycp:4202
+msgid "Entire file system will be searched"
+msgstr "将搜索整个文件系统"
+
+#. busy message
+#: src/ui.ycp:4259
+msgid "Detecting file system types..."
+msgstr "正在检测文件系统类型..."
+
+#. dialog header
+#: src/ui.ycp:4271
+msgid "Search Constraints"
+msgstr "搜索限制"
+
+#. selection box
+#: src/ui.ycp:4276
+msgid "&Directories Included in Search"
+msgstr "在搜索中包含的目录(&D)"
+
+#. table label
+#: src/ui.ycp:4289
+msgid "Items Excluded from Search"
+msgstr "排除在搜索之外的项目"
+
+#. table header
+#: src/ui.ycp:4291
+msgid "Value"
+msgstr "值"
+
+#: src/ui.ycp:4291
+msgid "Type"
+msgstr "类型"
+
+#. push button label
+#: src/ui.ycp:4294
+msgid "A&dd"
+msgstr "添加(&D)"
+
+#: src/ui.ycp:4295
+msgid "&Directory..."
+msgstr "目录(&D)..."
+
+#: src/ui.ycp:4296
+msgid "&File System..."
+msgstr "文件系统(&F)..."
+
+#: src/ui.ycp:4297
+msgid "&Regular Expression..."
+msgstr "正则表达式(&R)..."
+
+#. textentry label
+#: src/ui.ycp:4323
+msgid "&Add New Expression"
+msgstr "添加新表达式(&A)"
+
+#. error poup message - %1 is an entered regular expression
+#. error popup message
+#: src/ui.ycp:4332 src/ui.ycp:4395
+#, ycp-format
+msgid "Expression %1 is already in the list."
+msgstr "表达式 %1 已在列表中。"
+
+#. textentry label
+#. return $[ "text" : text, "clicked" : input ];
+#: src/ui.ycp:4344 src/ui.ycp:4465
+msgid "&Add New Directory"
+msgstr "添加新目录(&A)"
+
+#. error poup message - %1 is a directory name
+#. error popup message
+#: src/ui.ycp:4353 src/ui.ycp:4403
+#, ycp-format
+msgid "Directory %1 is already in the list."
+msgstr "目录 %1 已在列表中。"
+
+#. combobox label
+#: src/ui.ycp:4365
+msgid "&Add New File System"
+msgstr "添加新文件系统(&A)"
+
+#. error poup message - %1 is a directory name
+#. error popup message
+#: src/ui.ycp:4374 src/ui.ycp:4411
+#, ycp-format
+msgid "File system %1 is already in the list."
+msgstr "文件系统 %1 已在列表中。"
+
+#: src/ui.ycp:4471
+#, ycp-format
+msgid ""
+"Directory %1 does not exist.\n"
+"\n"
+"Use it anyway?"
+msgstr ""
+"目录 %1 不存在。\n"
+"\n"
+"确认使用它么？"
+
+#: src/ui.ycp:4474
+msgid "Yes, Use It"
+msgstr "是的, 使用"
+
+#: src/ui.ycp:4501
+msgid "&Edit Included Directory"
+msgstr "编辑包含的目录(&E)"
+
+#~ msgid "&Edit"
+#~ msgstr "编辑(&E)"
+
+#~ msgid "Reading packages available on the installation sources..."
+#~ msgstr "正在读取安装源中可用的包..."

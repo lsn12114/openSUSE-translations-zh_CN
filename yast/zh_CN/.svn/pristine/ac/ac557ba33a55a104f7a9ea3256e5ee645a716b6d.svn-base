@@ -1,0 +1,150 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 14:06+0200\n"
+"PO-Revision-Date: 2012-07-07 00:26+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/QY2DiskUsageList.cc:196
+msgid "Name"
+msgstr "名称"
+
+#. Translators: Please keep this short!
+#: src/QY2DiskUsageList.cc:198
+msgid "Disk Usage"
+msgstr "磁盘使用状况"
+
+#. columnLabels << _("Used"); _usedSizeCol		= numCol++;
+#: src/QY2DiskUsageList.cc:201
+msgid "Free"
+msgstr "空闲"
+
+#: src/QY2DiskUsageList.cc:202
+msgid "Total"
+msgstr "总共"
+
+#: src/QY2DiskUsageList.cc:204
+msgid "Device"
+msgstr "设备"
+
+#: src/QY2DiskUsageList.cc:272
+msgid "Used %1"
+msgstr "已用 %1"
+
+#. Window title for help wizard window
+#. Help button - intentionally without keyboard shortcut
+#. "Help" button - intentionally without keyboard shortcut
+#: src/QY2HelpDialog.cc:78 src/QY2HelpDialog.cc:126 src/YQWizard.cc:834
+#: src/YQWizard.cc:1276
+msgid "Help"
+msgstr "帮助"
+
+#. Close button for wizard help window
+#: src/QY2HelpDialog.cc:81 src/QY2HelpDialog.cc:127
+msgid "&Close"
+msgstr "关闭(&C)"
+
+#: src/QY2StyleEditor.cc:62
+msgid "Stylesheet Editor"
+msgstr "样式表编辑器"
+
+#: src/YQApplication.cc:650
+msgid ""
+"You clicked the right mouse button where a left-click was expected.\n"
+"Switch left and right mouse buttons?"
+msgstr ""
+"您在应当单击鼠标左键的地方单击了鼠标右键。\n"
+"是否要切换左右鼠标键？"
+
+#. Popup dialog caption
+#: src/YQApplication.cc:663
+msgid "Unexpected Click"
+msgstr "意外的点击"
+
+#. parent
+#: src/YQDialog.cc:639
+msgid "Color switching"
+msgstr "颜色切换"
+
+#. caption
+#: src/YQDialog.cc:640
+msgid ""
+"Switching to color palette for vision impaired users -\n"
+"press Shift-F4 again to switch back to normal colors."
+msgstr ""
+"对视力不佳的用户切换到调色板 -\n"
+"再次按 Shift-F4 切换回正常颜色。"
+
+#. Translators: This is a very short warning that the CapsLock key
+#. is active while trying to type in a password field. This warning
+#. replaces the normal label (caption) of that password field while
+#. CapsLock is active, so please keep it short. Please don't translate it
+#. at all if the term "CapsLock" can reasonably expected to be understood
+#. by the target audience.
+#.
+#. In particular, please don't translate this to death in German.
+#. Simply leave it.
+#: src/YQInputField.cc:254
+msgid "CapsLock!"
+msgstr "大小写切换键!"
+
+#: src/YQUI_builtins.cc:180
+msgid "Save screen shot to..."
+msgstr "保存截屏到..."
+
+#: src/YQUI_builtins.cc:297
+msgid "YaST Logging"
+msgstr "YaST 日志"
+
+#: src/YQUI_builtins.cc:298
+msgid "Configure YaST Logging:"
+msgstr "配置 YaST 日志："
+
+#. Steps panel bottom buttons ("Help", "Release Notes")
+#. Layouts for the buttons
+#: src/YQWizard.cc:295
+msgid "Release Notes..."
+msgstr "发行日志..."
+
+#. "Steps" button - intentionally without keyboard shortcut
+#: src/YQWizard.cc:1280
+msgid "Steps"
+msgstr "步骤"
+
+#. "Tree" button - intentionally without keyboard shortcut
+#: src/YQWizard.cc:1284
+msgid "Tree"
+msgstr "树"
+
+#~ msgid "%1 exists! Really overwrite?"
+#~ msgstr "%1 已存在！是否确实要覆盖？"
+
+#~ msgid ""
+#~ "%1 exists and is write-protected!\n"
+#~ "Really overwrite?"
+#~ msgstr ""
+#~ "%1 已存在并且是写保护的！\n"
+#~ "是否确实要覆盖？"
+
+#~ msgid "Confirm"
+#~ msgstr "确认"
+
+#~ msgid "C&ontinue"
+#~ msgstr "继续(&O)"
+
+#~ msgid "&Cancel"
+#~ msgstr "取消(&C)"

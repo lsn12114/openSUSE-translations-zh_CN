@@ -1,0 +1,271 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as opensuse-org-theme package. FIRST
+#
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: opensuse-org-theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-07 16:32+0200\n"
+"PO-Revision-Date: 2012-07-27 21:49+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../global-navigation-data.js.in:6
+msgid "http://software.opensuse.org/"
+msgstr "http://software.opensuse.org/"
+
+#: ../global-navigation-data.js.in:8
+msgid "Latest stable release"
+msgstr "最新稳定版本"
+
+#: ../global-navigation-data.js.in:9
+msgid "Get the latest stable release of openSUSE"
+msgstr "获取最新稳定版本的 openSUSE"
+
+#: ../global-navigation-data.js.in:12
+msgid "http://software.opensuse.org/developer/"
+msgstr "http://software.opensuse.org/developer/"
+
+#: ../global-navigation-data.js.in:14
+msgid "Latest development release"
+msgstr "最新开发版本"
+
+#: ../global-navigation-data.js.in:15
+msgid "Get the latest development release of openSUSE"
+msgstr "获取最新开发版本的 openSUSE"
+
+#: ../global-navigation-data.js.in:20
+msgid "Search for packages"
+msgstr "查找软件包"
+
+#: ../global-navigation-data.js.in:21
+msgid "Get additional software from openSUSE Build Service"
+msgstr "从 openSUSE 编译服务获取额外的软件包"
+
+#: ../global-navigation-data.js.in:24
+msgid "http://en.opensuse.org/Derivatives"
+msgstr "http://zh.opensuse.org/Derivatives"
+
+#: ../global-navigation-data.js.in:26
+msgid "Derivatives"
+msgstr "衍生版"
+
+#: ../global-navigation-data.js.in:27
+msgid "Get one of the specialized distributions built on openSUSE"
+msgstr "获取基于 openSUSE 定制的发行版"
+
+#: ../global-navigation-data.js.in:35
+msgid "http://en.opensuse.org/Portal:Support"
+msgstr "http://zh.opensuse.org/Portal:Support"
+
+#: ../global-navigation-data.js.in:37
+msgid "Help"
+msgstr "帮助"
+
+#: ../global-navigation-data.js.in:38
+msgid "Go to the Support Portal"
+msgstr "前往「支持」专题"
+
+#: ../global-navigation-data.js.in:41
+msgid "http://doc.opensuse.org"
+msgstr "http://doc.opensuse.org"
+
+#: ../global-navigation-data.js.in:43
+msgid "Documentation"
+msgstr "文档"
+
+#: ../global-navigation-data.js.in:44
+msgid "Read guides and manuals"
+msgstr "阅读指南和手册"
+
+#: ../global-navigation-data.js.in:47
+msgid "http://en.opensuse.org/"
+msgstr "http://zh.opensuse.org/"
+
+#: ../global-navigation-data.js.in:49
+msgid "Wiki"
+msgstr "维基"
+
+#: ../global-navigation-data.js.in:50
+msgid "Read and write articles in our Wiki"
+msgstr "到我们的维基阅读和撰写文章"
+
+#: ../global-navigation-data.js.in:53
+msgid "http://tube.opensuse.org"
+msgstr "http://tube.opensuse.org/"
+
+#: ../global-navigation-data.js.in:55
+msgid "Video"
+msgstr "影像"
+
+#: ../global-navigation-data.js.in:56
+msgid ""
+"Watch various tutorials, screencasts and recordings from talks and "
+"presentations"
+msgstr "观看超多教学片，屏幕录像和访谈与演讲的影像资料"
+
+#: ../global-navigation-data.js.in:59
+msgid "http://forums.opensuse.org/"
+msgstr "http://forums.opensuse.org/"
+
+#: ../global-navigation-data.js.in:61
+msgid "Forums"
+msgstr "论坛 "
+
+#: ../global-navigation-data.js.in:62
+msgid "Participate in our forums"
+msgstr "加入我们的论坛"
+
+#: ../global-navigation-data.js.in:65
+msgid "http://en.opensuse.org/openSUSE:Mailing_lists"
+msgstr "http://zh.opensuse.org/openSUSE:Communicate"
+
+#: ../global-navigation-data.js.in:67
+msgid "Mailing lists"
+msgstr "邮件列表"
+
+#: ../global-navigation-data.js.in:68
+msgid "Subscribe to mailinglists and look into their archives"
+msgstr "订阅邮件列表或从存档中查找知识"
+
+#: ../global-navigation-data.js.in:71
+msgid "http://en.opensuse.org/openSUSE:IRC_list"
+msgstr "http://zh.opensuse.org/openSUSE:Communicate"
+
+#: ../global-navigation-data.js.in:73
+msgid "IRC channels"
+msgstr "IRC 频道"
+
+#: ../global-navigation-data.js.in:74
+msgid "Communicate online using Internet Relay Chat"
+msgstr "使用万维网延时聊天(IRC) 在线交流"
+
+#: ../global-navigation-data.js.in:82
+msgid "http://connect.opensuse.org/"
+msgstr "http://connect.opensuse.org/"
+
+#: ../global-navigation-data.js.in:84
+msgid "Connect"
+msgstr "圈子"
+
+#: ../global-navigation-data.js.in:85
+msgid "Connect with your openSUSE friends"
+msgstr "关注您的 openSUSE 朋友"
+
+#: ../global-navigation-data.js.in:88
+msgid "http://planet.opensuse.org/"
+msgstr "http://planet.opensuse.org/zh/"
+
+#: ../global-navigation-data.js.in:90
+msgid "Planet"
+msgstr "星球"
+
+#: ../global-navigation-data.js.in:91
+msgid "See blogposts aggregated into one stream"
+msgstr "浏览聚合成一个串流种子的博文"
+
+#: ../global-navigation-data.js.in:94
+msgid "http://news.opensuse.org/"
+msgstr "http://news.opensuse.org/"
+
+#: ../global-navigation-data.js.in:96
+msgid "News"
+msgstr "新闻"
+
+#: ../global-navigation-data.js.in:97
+msgid "Latest announcements from the team"
+msgstr "来自 openSUSE 团队的最新消息"
+
+#: ../global-navigation-data.js.in:100
+msgid "http://lizards.opensuse.org/"
+msgstr "http://lizards.opensuse.org/"
+
+#: ../global-navigation-data.js.in:102
+msgid "Lizards"
+msgstr "蜥蜴"
+
+#: ../global-navigation-data.js.in:103
+msgid "Users blog platform"
+msgstr "会员博客平台"
+
+#: ../global-navigation-data.js.in:106
+msgid "http://shop.opensuse.org/"
+msgstr "http://shop.opensuse.org/"
+
+#: ../global-navigation-data.js.in:108
+msgid "Shop"
+msgstr "商店"
+
+#: ../global-navigation-data.js.in:109
+msgid "openSUSE gear here!"
+msgstr "openSUSE 的外设！"
+
+#: ../global-navigation-data.js.in:118
+msgid "http://en.opensuse.org/Portal:Development"
+msgstr "http://zh.opensuse.org/Portal:Development"
+
+#: ../global-navigation-data.js.in:120
+msgid "Developer documentation"
+msgstr "开发者文档"
+
+#: ../global-navigation-data.js.in:121
+msgid "Centralized developer's documentation"
+msgstr "集中的开发者文档"
+
+#: ../global-navigation-data.js.in:124
+msgid "http://features.opensuse.org/"
+msgstr "http://features.opensuse.org/"
+
+#: ../global-navigation-data.js.in:126
+msgid "Features"
+msgstr "特性"
+
+#: ../global-navigation-data.js.in:127
+msgid "Vote and work on upcoming openSUSE features"
+msgstr "投票和开发未来的 openSUSE 特性"
+
+#: ../global-navigation-data.js.in:130
+msgid "http://build.opensuse.org/"
+msgstr "http://build.opensuse.org/"
+
+#: ../global-navigation-data.js.in:132
+msgid "Build Service"
+msgstr "编译服务"
+
+#: ../global-navigation-data.js.in:133
+msgid "Create, build and enhance packages"
+msgstr "创建，编译和扩展软件包"
+
+#: ../global-navigation-data.js.in:136
+msgid "http://bugs.opensuse.org/"
+msgstr "http://bugs.opensuse.org/"
+
+#: ../global-navigation-data.js.in:138
+msgid "Bugs"
+msgstr "臭虫"
+
+#: ../global-navigation-data.js.in:139
+msgid "Report bugs using Bugzilla"
+msgstr "使用 Bugzilla 报告和跟踪错误"
+
+#: ../global-navigation-data.js.in:142
+msgid "http://susestudio.com"
+msgstr "http://susestudio.com"
+
+#: ../global-navigation-data.js.in:144
+msgid "SUSE Studio"
+msgstr "SUSE 工作室"
+
+#: ../global-navigation-data.js.in:145
+msgid "Create your own images using Studio"
+msgstr "使用工作室创建你自己的安装映像"
+

@@ -1,0 +1,903 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+#
+# margurite <i@marguerite.su>, 2012.
+# hillwood <hillwoodroc@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-02 13:32+0200\n"
+"PO-Revision-Date: 2012-07-27 21:37+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: app/helpers/package_helper.rb:14 app/helpers/package_helper.rb:16
+#: app/views/package/_download_rows.html.erb:26
+msgid "Source"
+msgstr "源代码"
+
+#: app/controllers/main_controller.rb:48
+msgid "http://www.suse.de/relnotes/i386/openSUSE/11.3/RELEASE-NOTES.en.html"
+msgstr ""
+"http://www.suse.de/relnotes/i386/openSUSE/11.3/RELEASE-NOTES.zh_CN.html"
+
+#: app/controllers/main_controller.rb:67
+msgid "http://www.suse.de/relnotes/i386/openSUSE/11.4/RELEASE-NOTES.en.html"
+msgstr ""
+"http://www.suse.de/relnotes/i386/openSUSE/11.4/RELEASE-NOTES.zh_CN.html"
+
+#: app/controllers/main_controller.rb:86
+msgid "http://www.suse.de/relnotes/i386/openSUSE/12.1/RELEASE-NOTES.en.html"
+msgstr ""
+"http://www.suse.de/relnotes/i386/openSUSE/12.1/RELEASE-NOTES.zh_CN.html"
+
+#: app/controllers/main_controller.rb:105
+msgid "http://www.suse.de/relnotes/i386/openSUSE/12.2/RELEASE-NOTES.en.html"
+msgstr ""
+"http://www.suse.de/relnotes/i386/openSUSE/12.1/RELEASE-NOTES.zh_CN.html"
+
+#: app/controllers/main_controller.rb:115
+msgid ""
+"Konqueror of KDE 3 is unfortunately unmaintained and its javascript "
+"implementation contains bugs that make it impossible to use with this page. "
+"Please make sure you have javascript disabled before you <a href='%s'>"
+"continue</a>."
+msgstr ""
+"KDE 3 中的 Konqueror 很不幸没人维护了，它的 javascript 实现有 bug，因此不能正确渲染此页面。在这种情况下点击 <a "
+"href='%s'>继续</a> 之前请确保您禁用了 javascript。"
+
+#: app/controllers/main_controller.rb:126
+msgid ""
+"We currently don't have a Factory Snapshot that is more recent than our last "
+"openSUSE release. <br/>Please check <a href='http://en.opensuse.org/Portal:Fac"
+"tory'>http://en.opensuse.org/Portal:Factory</a> for more information."
+msgstr ""
+"目前我们没有比最新的 openSUSE 稳定版本还新的 openSUSE 工厂版抢先版 <br/>详情可见 <a "
+"href='http://zh.opensuse.org/Portal:Factory'>工厂版专题</a>。"
+
+#: app/controllers/main_controller.rb:142
+msgid ""
+"Please note that this is not the latest openSUSE release. You can get the "
+"latest version <a href='/'>here</a>. "
+msgstr "请注意这不是最新版本的 openSUSE。您可以在<a href='/'>这儿</a>获取最新版本。 "
+
+#: app/controllers/download_controller.rb:36
+msgid "Download appliance from %s"
+msgstr "从 %s 下载程序"
+
+#: app/controllers/download_controller.rb:76
+msgid "Install package %s / %s"
+msgstr "安装软件包 %s / %s"
+
+#: app/controllers/download_controller.rb:121
+msgid "Install pattern %s / %s"
+msgstr "安装软件集合 %s / %s"
+
+#: app/controllers/search_controller.rb:89
+msgid "Please use search strings of at least 2 characters"
+msgstr "请使用至少两个字符的搜索关键词"
+
+#: app/controllers/search_controller.rb:106
+msgid "Switched to exact match due to too many hits on substring search."
+msgstr "由于关键词太多，子句搜索已切换为「严格匹配」。"
+
+#: app/controllers/search_controller.rb:108
+#: app/controllers/search_controller.rb:117
+msgid "Please be more precise in your search, search limit reached."
+msgstr "请更精确的描述您的搜索，目前已是搜索极限。"
+
+#: app/controllers/search_controller.rb:112
+msgid "Could not perform search: "
+msgstr "不能执行搜索： "
+
+#: app/views/layouts/download.rhtml:54 app/views/layouts/application.rhtml:65
+msgid "Header Logo"
+msgstr "头部标志"
+
+#: app/views/layouts/download.rhtml:57 app/views/layouts/application.rhtml:68
+msgid "Downloads"
+msgstr "下载"
+
+#: app/views/layouts/download.rhtml:58 app/views/layouts/application.rhtml:69
+msgid "Support"
+msgstr "支持"
+
+#: app/views/layouts/download.rhtml:59 app/views/layouts/application.rhtml:70
+msgid "Community"
+msgstr "社区"
+
+#: app/views/layouts/download.rhtml:60 app/views/layouts/application.rhtml:71
+msgid "Development"
+msgstr "开发"
+
+#: app/views/layouts/application.rhtml:98
+msgid "Popular Software"
+msgstr "流行软件"
+
+#: app/views/layouts/application.rhtml:116
+msgid "Getting Help"
+msgstr "获取帮助"
+
+#: app/views/layouts/application.rhtml:118
+msgid "http://en.opensuse.org/SDB:Download_help"
+msgstr "http://zh.opensuse.org/SDB:下载帮助"
+
+#: app/views/layouts/application.rhtml:118
+msgid "Download Help"
+msgstr "下载帮助"
+
+#: app/views/layouts/application.rhtml:119 app/views/main/release.rhtml:103
+msgid "http://en.opensuse.org/SDB:Download_help#Burn_the_ISO_image.28s.29"
+msgstr ""
+"http://zh.opensuse.org/SDB:下载帮助#.E7.83.A7.E5.BD.95_ISO_.E6.98.A0.E5.83.8F.E6.A"
+"1.A3"
+
+#: app/views/layouts/application.rhtml:119
+msgid "Burn CD/DVD Image(s)"
+msgstr "刻录 CD/DVD 镜像文件"
+
+#: app/views/layouts/application.rhtml:120
+msgid "http://en.opensuse.org/Portal:Installation"
+msgstr "http://zh.opensuse.org/SDB:DVD_安装方式"
+
+#: app/views/layouts/application.rhtml:120
+msgid "Installation Guides"
+msgstr "安装指南"
+
+#: app/views/layouts/application.rhtml:121
+msgid "http://doc.opensuse.org/"
+msgstr "http://doc.opensuse.org/"
+
+#: app/views/layouts/application.rhtml:121
+msgid "Official Manuals"
+msgstr "官方手册"
+
+#: app/views/layouts/application.rhtml:122
+msgid "http://en.opensuse.org/Package_repositories"
+msgstr "http://zh.opensuse.org/主软件源"
+
+#: app/views/layouts/application.rhtml:122
+msgid "Package Repositories"
+msgstr "软件包安装源"
+
+#: app/views/layouts/application.rhtml:123
+msgid "http://en.opensuse.org/openSUSE:Submitting_bug_reports"
+msgstr "http://zh.opensuse.org/openSUSE:Submitting_bug_reports"
+
+#: app/views/layouts/application.rhtml:123
+msgid "Reporting Bugs"
+msgstr "报告错误"
+
+#: app/views/layouts/application.rhtml:128
+msgid "Countdown"
+msgstr "倒计时"
+
+#: app/views/layouts/application.rhtml:130
+msgid "openSUSE Countdown"
+msgstr "openSUSE 新版倒计时"
+
+#: app/views/layouts/application.rhtml:136
+#: app/views/layouts/application.rhtml:138
+#: app/views/layouts/application.rhtml:141
+msgid "Buy openSUSE"
+msgstr "订购 openSUSE"
+
+#: app/views/layouts/application.rhtml:138
+#: app/views/layouts/application.rhtml:141
+msgid "http://en.opensuse.org/Buy_openSUSE"
+msgstr "http://en.opensuse.org/Buy_openSUSE"
+
+#: app/views/layouts/application.rhtml:147
+msgid "Sponsored by"
+msgstr "赞助商"
+
+#: app/views/layouts/application.rhtml:148
+msgid "Platinum Sponsor"
+msgstr "白金赞助商"
+
+#: app/views/layouts/application.rhtml:149
+msgid "Gold Sponsor"
+msgstr "黄金赞助商"
+
+#: app/views/layouts/application.rhtml:151
+msgid "Sponsored by AMD"
+msgstr "由 AMD 资助"
+
+#: app/views/layouts/application.rhtml:152
+msgid "Sponsored by: IP Exchange"
+msgstr "由 IP Exchange 资助"
+
+#: app/views/layouts/application.rhtml:154
+msgid "Silver Sponsor"
+msgstr "白银赞助商"
+
+#: app/views/layouts/application.rhtml:156
+msgid "Sponsored by: B1 Systems"
+msgstr "由 B1 Systems 资助"
+
+#: app/views/layouts/application.rhtml:158
+msgid "Bronze Sponsor"
+msgstr "青铜赞助商"
+
+# label for language selection
+#: app/views/layouts/application.rhtml:162
+msgid "Language"
+msgstr "语言"
+
+#: app/views/main/_change_install.rhtml:34
+msgid ""
+"Some of the live distributions based on openSUSE. Those interested in trying "
+"to build their own derivatives can take a look at <a "
+"href=\"http://susestudio.com/\">SUSE Studio</a>."
+msgstr ""
+"一些基于 openSUSE 的发行版。想要制作自己的 openSUSE 衍生版本的人可以看一看 <a "
+"href=\"http://susestudio.com/\">SuSE 工作室</a>。"
+
+#: app/views/main/_change_install.rhtml:36
+msgid "http://en.opensuse.org/Derivatives"
+msgstr "http://zh.opensuse.org/Derivatives"
+
+#: app/views/main/_change_install.rhtml:36
+msgid "see Derivatives on wiki"
+msgstr "参考维基上的「衍生版本」文章"
+
+#: app/views/main/_download_link.rhtml:2 app/views/main/_options.rhtml:60
+msgid "Download"
+msgstr "下载"
+
+#: app/views/main/_download_link.rhtml:2
+msgid "Click to Download"
+msgstr "点击下载"
+
+#: app/views/main/release.rhtml:3
+msgid "Download %s"
+msgstr "下载 %s "
+
+#: app/views/main/release.rhtml:12 app/views/main/release.rhtml:14
+msgid "switch to"
+msgstr "切换至"
+
+#: app/views/main/release.rhtml:12
+msgid "Development Version"
+msgstr "开发版本"
+
+#: app/views/main/release.rhtml:14
+msgid "Released Version"
+msgstr "稳定版本"
+
+#: app/views/main/release.rhtml:37
+msgid "Installation Medium"
+msgstr "安装介质"
+
+#: app/views/main/release.rhtml:42
+msgid "4.7GB DVD"
+msgstr "4.7 GB DVD"
+
+#: app/views/main/release.rhtml:42
+msgid ""
+"Contains a large collection of software for desktop or server use.<br/>"
+"Suitable for installation or upgrade."
+msgstr "包含桌面或服务器使用的一篮子软件。<br/>适用于安装或升级。"
+
+#: app/views/main/release.rhtml:43
+msgid "Live GNOME"
+msgstr "GNOME LiveCD"
+
+#: app/views/main/release.rhtml:43
+msgid ""
+"A GNOME desktop you can run from CD or from USB stick.<br/>Can be installed "
+"as is (no upgrade)."
+msgstr "可以在 CD 或 U 盘运行的 GNOME 桌面环境。<br/>可以用来安装（不能升级）。"
+
+#: app/views/main/release.rhtml:44
+msgid "Live KDE"
+msgstr "KDE LiveCD"
+
+#: app/views/main/release.rhtml:44
+msgid ""
+"A KDE desktop you can run from CD or from USB stick.<br/>Can be installed as "
+"is (no upgrade)."
+msgstr "可以在 CD 或 U 盘运行的 KDE 桌面环境。<br/>可以用来安装（不能升级）。"
+
+#: app/views/main/release.rhtml:45
+msgid "Network"
+msgstr "网络"
+
+#: app/views/main/release.rhtml:45
+msgid ""
+"Downloads the installation system and all packages from online repositories.<"
+"br/>Suitable for installation or upgrade."
+msgstr "从在线安装源下载安装系统和所有的包。<br/>适用于安装或升级。"
+
+#: app/views/main/release.rhtml:46
+msgid "openSUSE Derivatives"
+msgstr "openSUSE 衍生版本"
+
+#: app/views/main/release.rhtml:46
+msgid "Get one of the specialized distribution built on openSUSE."
+msgstr "获取基于 openSUSE 定制的衍生发行版"
+
+#: app/views/main/release.rhtml:55
+msgid ""
+"Choose an installation medium by clicking it and hit the Download button to "
+"start the download. Optionally choose your computer type or an alternative "
+"download method."
+msgstr "通过点击来选择安装介质，然后点击下载按钮来开始下载。另外您也可以选择您的计算机架构或者额外的下载方式。"
+
+#: app/views/main/release.rhtml:57
+msgid "Need help?"
+msgstr "需要帮助吗？"
+
+#: app/views/main/release.rhtml:59
+msgid ""
+"More information on downloading openSUSE is available from the <a "
+"href=\"http://en.opensuse.org/SDB:Download_help\">Download Help</a> and <a "
+"href=\"http://en.opensuse.org/SDB:Network_installation\">Network "
+"Installation</a> pages in our <a href=\"http://en.opensuse.org/Portal:Document"
+"ation\">Documentation Wiki</a>."
+msgstr ""
+"更多关于 openSUSE 下载的信息可以看一看我们<a href=\"http://zh.opensuse.org/Category:SDB:安装\">"
+"维基的支持数据库专题</a>上的 <a href=\"http://zh.opensuse.org/SDB:下载帮助\">下载帮助</a> ，以及 <a "
+"href=\"http://zh.opensuse.org/SDB:网络安装方式\">网络安装</a> 页面。"
+
+#: app/views/main/release.rhtml:60
+msgid ""
+"User manuals are available from <a href=\"http://doc.opensuse.org\">"
+"doc.opensuse.org</a>, for example the <a "
+"href=\"http://doc.opensuse.org/products/opensuse/openSUSE/opensuse-startup/\">"
+"Official Start-Up Guide</a>."
+msgstr ""
+"用户手册可从 <a href=\"http://doc.opensuse.org\">doc.opensuse.org</a> 获取，例如<a "
+"href=\"http://doc.opensuse.org/products/opensuse/openSUSE/opensuse-startup/\">"
+"官方新手指南</a>。"
+
+#: app/views/main/release.rhtml:63
+msgid "Verify your download (optional, for experts)"
+msgstr "验证您的下载（可选，针对高级用户）"
+
+#: app/views/main/release.rhtml:65
+msgid ""
+"Many applications can verify the checksum of a download. To verify your "
+"download can be important as it verifies you really have got the ISO file you "
+"wanted to download and not some broken version."
+msgstr "许多程序都可以验证下载的 checksum。验证您的下载是重要的，因为它会检验您是否获取了真正想要的 ISO 镜像文件而不是损坏的版本。"
+
+#: app/views/main/release.rhtml:66
+msgid ""
+"You could verify the file in the process of downloading. For example a "
+"checksum (SHA256) will be used automatically if you choose <a "
+"href='http://en.opensuse.org/SDB:Metalink'>Metalink</a> in the field above "
+"and use the add-on DownThemAll! in <a href='http://en.opensuse.org/Firefox'>"
+"Firefox</a>."
+msgstr ""
+"你可以在下载进行时验证文件。例如如果您在上面框中选择了 <a href='http://zh.opensuse.org/SDB:Metalink'>"
+"Metalink</a> 下载方式，并使用 <a href='http://zh.opensuse.org/Firefox'>火狐浏览器</a> 的 "
+"DownThemAll 插件下载，就会自动使用一个 SHA256 checksum 验证。"
+
+#: app/views/main/release.rhtml:67
+msgid "We offer three different checksums:"
+msgstr "我们提供了三种不同的 checksums："
+
+#: app/views/main/release.rhtml:71 app/views/main/release.rhtml:82
+msgid "gpg signature"
+msgstr "GPG 签名"
+
+#: app/views/main/release.rhtml:72 app/views/main/release.rhtml:82
+msgid ""
+"offers the most security as you can verify who signed it. It should be <tt>%"
+"s</tt>."
+msgstr "提供了最大安全性，您可以查看是谁签发了它。签发人应该是 <tt>%s</tt>。"
+
+#: app/views/main/release.rhtml:75 app/views/main/release.rhtml:83
+msgid "md5 checksum"
+msgstr "md5 checksum"
+
+#: app/views/main/release.rhtml:76 app/views/main/release.rhtml:83
+msgid ""
+"is still the most commonly used checksum. Many ISO burners display it right "
+"before burning."
+msgstr "依然是最常用的 checksum。许多 ISO 刻录程序会在真正开始刻录前显示它。"
+
+#: app/views/main/release.rhtml:77 app/views/main/release.rhtml:84
+msgid "sha1 checksum"
+msgstr "sha1 checksum"
+
+#: app/views/main/release.rhtml:78 app/views/main/release.rhtml:84
+msgid "is the less known but more secure checksum than md5."
+msgstr "比较鲜为人知但比 md5 要安全一些。"
+
+#: app/views/main/release.rhtml:87
+msgid "Add-On Downloads (optional)"
+msgstr "扩展下载 (可选)"
+
+#: app/views/main/release.rhtml:89
+msgid "Extra Languages (32 Bit)"
+msgstr "额外语言（32位）"
+
+#: app/views/main/release.rhtml:90
+msgid "Extra Languages (64 Bit)"
+msgstr "额外语言（64位）"
+
+#: app/views/main/release.rhtml:91
+msgid "Extra Languages"
+msgstr "其他语言"
+
+#: app/views/main/release.rhtml:92
+msgid ""
+"Live CDs contain only four languages (English, German, Russian and Italian). "
+"If you want to have support for remaining languages you need to download it "
+"from the Internet during the installation or any time after it. If you have "
+"easy access to the Internet or if you use DVD containing all languages, you "
+"do not need this CD."
+msgstr ""
+"Live CD 只包含了四种语言（英文、德文、俄文和意大利语）。如果想要剩下的其他语言，您需要在安装时或安装后从万维网下载它。如果您可以访问网络或者您使用的"
+"是包含所有语言的 DVD，您不需要下载本 CD。"
+
+#: app/views/main/release.rhtml:93
+msgid "NonOSS CD"
+msgstr "NonOSS CD"
+
+#: app/views/main/release.rhtml:94
+msgid ""
+"This CD contains free software distributed under proprietary licence not "
+"allowing its inclusion to main installation media together with free "
+"open-source software. All software from this CD could be downloaded from "
+"NON-OSS repository."
+msgstr ""
+"本 CD 包含了私有协议下发布的自由软件，因此不能与自由开源软件一起包含到主要的安装媒介里。所有本 CD 中的软件都能从 NON-OSS 安装源里下载。"
+
+#: app/views/main/release.rhtml:100
+msgid "How to Proceed"
+msgstr "如何进行"
+
+#: app/views/main/release.rhtml:102
+msgid ""
+"After having successfully downloaded the ISO image(s), burn the image(s) with "
+"your favorite burning application to a DVD or CD. Please do <em>not</em> burn "
+"a data DVD/CD, but rather choose the option to burn an ISO image."
+msgstr ""
+"在成功下载了 ISO 镜像文件之后，使用您最爱的刻录程序刻录镜像文件到 DVD/CD。请 <em>不要</em> 刻录成“数据 "
+"DVD/CD”，而应该选择“烧录 ISO 镜像”的选项。"
+
+#: app/views/main/release.rhtml:104
+msgid "More information on burning the ISO file to CD/DVD"
+msgstr "更多关于刻录 ISO 文件到 CD/DVD 上的信息"
+
+#: app/views/main/release.rhtml:105
+msgid ""
+"More information on creating a <a href='http://en.opensuse.org/Live_USB_stick'"
+">bootable USB stick</a>"
+msgstr ""
+"更多关于创建 <a href='http://zh.opensuse.org/Live_USB_stick'> 可引导 U 盘</a> 的信息"
+
+#: app/views/main/release.rhtml:107
+msgid ""
+"Boot from the DVD or CD. In case your computer does not automatically boot "
+"from CD/DVD, open the BIOS setup to allow booting from CD or DVD."
+msgstr "从 DVD 或 CD 启动。如果您的计算机没有自动从 CD/DVD 启动，打开 BIOS 设定，允许从 CD 或 DVD 启动。"
+
+#: app/views/main/_options.rhtml:4
+msgid "Download Method"
+msgstr "下载方式"
+
+#: app/views/main/_options.rhtml:6 app/views/main/_options.rhtml:17
+msgid "Direct Link"
+msgstr "直接链接"
+
+#: app/views/main/_options.rhtml:7 app/views/main/_options.rhtml:21
+msgid "BitTorrent"
+msgstr "BitTorrent 种子"
+
+#: app/views/main/_options.rhtml:8 app/views/main/_options.rhtml:25
+msgid "Metalink"
+msgstr "Metalink"
+
+#: app/views/main/_options.rhtml:9 app/views/main/_options.rhtml:29
+msgid "Pick Mirror"
+msgstr "选择镜像站点"
+
+#: app/views/main/_options.rhtml:13
+msgid "Help on Download Method"
+msgstr "下载方式帮助"
+
+#: app/views/main/_options.rhtml:15
+msgid ""
+"openSUSE is available via http (direct link) or BitTorrent. The CD for "
+"network installation is only available via http."
+msgstr "openSUSE 可以由 http(直接链接) 或 BitTorrent 种子获取。CD 或网络安装只有直接链接。"
+
+#: app/views/main/_options.rhtml:19
+msgid ""
+"When downloading images other than the CD for network installation, it is <i>"
+"strongly</i> recommended to use a proper download manager to reduce the risk "
+"of corrupted data."
+msgstr "当下载镜像文件而不是网络安装 CD 时，<i>强烈</i>建议使用下载管理器来降低数据损坏的风险。"
+
+#: app/views/main/_options.rhtml:23
+msgid ""
+"Using <a href=\"http://en.opensuse.org/SDB:BitTorrent\">BitTorrent</a> is "
+"recommended on slow links, especially when downloading the DVD image. "
+"BitTorrent downloads have several benefits, the clients protect against data "
+"corruption and you help relieving the load on the servers by participating in "
+"the upload - if enough people participate it will also be faster than the "
+"centralized servers - for everybody. Whatsmore, it allows you to stop the "
+"download at any time and resume it later."
+msgstr ""
+"对于网速较慢的人，推荐使用 <a href=\"http://zh.opensuse.org/SDB:BitTorrent\">BitTorrent "
+"种子</a>，尤其是下载 DVD 镜像文件时。BT 有诸多好处，客户端能防护数据损坏，并且您可以通过上传来自我加速。如果参与的人足够多，它甚至比中央服务器还"
+"快，对每个人都快。更赞的是，你可以随时停止下载，在有时间时再续传。"
+
+#: app/views/main/_options.rhtml:27
+msgid ""
+"<a href=\"http://en.opensuse.org/SDB:Metalink\">Metalink</a> is an open "
+"standard that bundles the various ways (FTP/HTTP/BitTorrent) to get files "
+"into one format for easier downloads. This makes it good for downloading "
+"ISOs; particularly for people who can't use P2P because of restrictions from "
+"their ISP or University. It can deliver very fast download speeds since most "
+"clients support multiple connections, to multiple mirrors, automatically. In "
+"addition, it can do automatic error detection, and correction. It needs a "
+"special client to handle it though."
+msgstr ""
+"<a href=\"http://zh.opensuse.org/SDB:Metalink\">Metalink</a> "
+"是一种开源标准，集成了多种下载方式（FTP/HTTP/BT）来便利下载。这使得用它下载 ISO 变得非常赞; 尤其是对于那些由于他的 ISP "
+"或大学限制而不能使用 P2P 的人来说。它可以提供非常快的下载速度，因为大多数支持它的客户端同样支持自动多点链接，以及从多镜像下载。另外，它能自动查错并纠错"
+"。然而您需要特殊的客户端来使用它。"
+
+#: app/views/main/_options.rhtml:31
+msgid ""
+"If you want to use a direct link but live in a place in the world where our "
+"download redirector has not enough information to redirect to the fastest "
+"mirror, you can pick a mirror yourself."
+msgstr ""
+"如果您想要直接下载但是居住在世界上的某个角落，我们的下载中转器没有您位置的足够信息因此不能自动中转您到最快的镜像，您这时可以手动选择一个镜像。"
+
+#: app/views/main/_options.rhtml:37
+msgid "Type of Computer"
+msgstr "计算机架构"
+
+#: app/views/main/_options.rhtml:40
+msgid "32&nbsp;Bit&nbsp;PC"
+msgstr "32位计算机"
+
+#: app/views/main/_options.rhtml:41 app/views/main/_options.rhtml:47
+msgid "64 Bit PC"
+msgstr "64位计算机"
+
+#: app/views/main/_options.rhtml:43
+msgid "Help on Type of Computer"
+msgstr "关于计算机架构的帮助"
+
+#: app/views/main/_options.rhtml:45
+msgid "openSUSE only supports PCs with 32 Bits and 64 Bits."
+msgstr "openSUSE 只支持32/64位的计算机"
+
+#: app/views/main/_options.rhtml:49
+msgid ""
+"Most new computers support <a href=\"http://en.wikipedia.org/wiki/X86-64\">"
+"x86-64</a> (also known as AMD64 and Intel64), but some laptop processors and "
+"netbook processors do not support it. So you need to check wikipedia if you "
+"want to be sure your computer supports it."
+msgstr ""
+"许多新计算机都支持 <a href=\"http://en.wikipedia.org/wiki/X86-64\">x86_64</>（也叫做 AMD64 "
+"或 Intel64），但是一些台式/笔记本处理器可能不支持它。所以您想要确保您的计算机支持它，您需要自己从维基百科上确认一下。"
+
+#: app/views/main/_options.rhtml:51
+msgid "32 Bit PC"
+msgstr "32位计算机"
+
+#: app/views/main/_options.rhtml:53
+msgid ""
+"This version runs on all PCs including those that support 64 Bit. If you have "
+"more than 3 GB of RAM you should prefer the 64 Bit version though. openSUSE "
+"does not support processors before Pentium - the live CDs even support only "
+"i686 (Pentium Pro and later)."
+msgstr ""
+"这个版本可以在所有计算机上运行，包括那些支持 64 位的计算机。如果您有大于 3GB 内存，您可能会倾向于选择 64位的版本。openSUSE "
+"不支持奔腾之前的处理器 - live CD 甚至只支持 i686（奔腾专业版和之后的处理器）。"
+
+#: app/views/main/_options.rhtml:62
+msgid "Download&nbsp;KDE"
+msgstr "下载&nbsp;KDE"
+
+#: app/views/main/_options.rhtml:63
+msgid "Download&nbsp;GNOME"
+msgstr "下载&nbsp;GNOME"
+
+#: app/views/main/_options.rhtml:64
+msgid "Download&nbsp;DVD"
+msgstr "下载&nbsp;DVD"
+
+#: app/views/main/_options.rhtml:65
+msgid "Download&nbsp;Network"
+msgstr "网络下载"
+
+#: app/views/main/_options.rhtml:74
+msgid "Documentation"
+msgstr "文档"
+
+#: app/views/main/_options.rhtml:76
+msgid ""
+"<a href=\"http://doc.opensuse.org/products/opensuse/openSUSE/opensuse-startup/"
+"\">openSUSE startup guide</a>"
+msgstr ""
+"<a href=\"http://doc.opensuse.org/products/opensuse/openSUSE/opensuse-startup/"
+"\">openSUSE 官方新手指南</a>"
+
+#: app/views/main/_options.rhtml:77
+msgid "<a href='%s'>Release Notes</a>"
+msgstr "<a href='%s'>发行日志</a>"
+
+#: app/views/main/_options.rhtml:78
+msgid "<a href=\"http://en.opensuse.org/openSUSE:License\">License</a>"
+msgstr "<a href=\"http://en.opensuse.org/openSUSE:License\">授权许可</a>"
+
+#: app/views/search/_result_box.rhtml:22
+#: app/views/search/_pattern_box.rhtml:26
+msgid "1-Click Install"
+msgstr "一键安装"
+
+#: app/views/search/_result_box.rhtml:28
+msgid "Manual Package Download"
+msgstr "手动下载软件包"
+
+#: app/views/search/_result_box.rhtml:30
+msgid "Go to OBS Project"
+msgstr "前往编译服务上的该项目"
+
+#: app/views/search/find.rhtml:1 app/views/search/_find_form.rhtml:85
+#: app/views/search/_search_box.html.erb:13
+msgid "Search"
+msgstr "搜索"
+
+#: app/views/search/_pattern_box.rhtml:4
+msgid "[Software collection]"
+msgstr "[软件集]"
+
+#: app/views/search/_find_results.rhtml:26
+msgid "No packages found matching your search. "
+msgstr "没有找到匹配您搜索的软件包"
+
+#: app/views/search/_find_results.rhtml:80
+msgid "Development packages:"
+msgstr "开发包："
+
+#: app/views/search/_find_results.rhtml:90
+msgid "Sub-packages:"
+msgstr "子包："
+
+#: app/views/search/_find_results.rhtml:105
+msgid "Show more..."
+msgstr "显示更多..."
+
+#: app/views/search/_find_form.rhtml:43
+msgid "An internal error happened :-("
+msgstr "发生了一个内部错误呦 :-("
+
+#: app/views/search/_find_form.rhtml:49
+msgid "Please enter more than 2 characters"
+msgstr "请输入至少两个字符"
+
+#: app/views/search/_find_form.rhtml:76
+msgid "App Browser"
+msgstr "应用程序浏览器"
+
+#: app/views/search/_find_form.rhtml:82
+#: app/views/search/_search_box.html.erb:3
+msgid "Package Search"
+msgstr "软件包搜索"
+
+#: app/views/search/_find_form.rhtml:92
+msgid "Show development, language and debug packages"
+msgstr "显示开发包、语言包和调试包"
+
+#: app/views/search/_find_form.rhtml:95 app/views/package/show.html.erb:171
+msgid "Show unsupported packages"
+msgstr "显示不受官方支持的软件包"
+
+#: app/views/search/_find_form.rhtml:97
+msgid "Show distribution:"
+msgstr "显示发行版："
+
+#: app/views/search/_category_header.rhtml:9
+msgid "Related categories:"
+msgstr "相关分类："
+
+#: app/views/search/index.rhtml:1
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: app/views/search/_search_result.rhtml:5
+msgid ""
+"No packages found in the openSUSE build service that matched your query."
+msgstr "没有在 openSUSE 编译服务上找到匹配您的查询的软件包。"
+
+#: app/views/search/_search_result.rhtml:10
+msgid "%d collections and %d binaries from %d source packages"
+msgstr "%d 集合和 %d 二进制文件，来自 %d 源代码包"
+
+#: app/views/main/redirect_with_notice.erb:1
+msgid "Browser incompatibility"
+msgstr "浏览器不兼容"
+
+#: app/views/package/show.html.erb:83
+msgid ""
+"Please be aware that the following packages are from unofficial "
+"repositories.\n"
+"    That means they are not reviewed by openSUSE and may contain unstable or "
+"experimental software."
+msgstr ""
+"请注意如下软件包来自于非官方的安装源。\n"
+"    这意味着它们没有被 openSUSE 复核过，因此可能包含不稳定或实验性的软件。"
+
+#: app/views/package/show.html.erb:87
+msgid "Don't show this warning the next time"
+msgstr "下次不要显示此提醒"
+
+#: app/views/package/show.html.erb:98
+msgid "Package %s not found..."
+msgstr "软件包 %s 未找到。"
+
+#: app/views/package/show.html.erb:108
+msgid "Screenshot of  "
+msgstr "软件截图"
+
+#: app/views/package/show.html.erb:117
+msgid "Categories"
+msgstr "分类"
+
+#: app/views/package/show.html.erb:117
+msgid "Category"
+msgstr "分类"
+
+#: app/views/package/show.html.erb:127
+msgid "No description found..."
+msgstr "未发现该软件的描述..."
+
+#: app/views/package/show.html.erb:136
+msgid "Direct Install"
+msgstr "直接安装"
+
+#: app/views/package/show.html.erb:138
+msgid "Version"
+msgstr "版本"
+
+#: app/views/package/show.html.erb:140
+msgid "Show other versions"
+msgstr "显示其它版本"
+
+#: app/views/package/show.html.erb:190
+msgid "Show more packages for unsupported distributions"
+msgstr "显示适用于不支持的发行版的更多软件包"
+
+#: app/views/package/show.html.erb:191
+msgid "Unsupported distributions:"
+msgstr "不支持的发行版："
+
+#: app/views/package/_download_rows.html.erb:5
+msgid "official release"
+msgstr "官方发布版本"
+
+#: app/views/package/_download_rows.html.erb:7
+msgid "official update"
+msgstr "官方升级版本"
+
+#: app/views/package/categories.html.erb:25
+msgid "Games"
+msgstr "游戏"
+
+#: app/views/package/categories.html.erb:50
+msgid "Multimedia"
+msgstr "多媒体"
+
+#: app/views/download/package.erb:2
+msgid "No data for %s / %s"
+msgstr "没有关于 %s / %s 的数据"
+
+#: app/views/download/package.erb:6 app/views/download/appliance.erb:6
+msgid "(hide)"
+msgstr "(隐藏)"
+
+#: app/views/download/package.erb:7 app/views/download/appliance.erb:7
+msgid "(show)"
+msgstr "(显示)"
+
+#: app/views/download/package.erb:60
+msgid "Select Your Operating System"
+msgstr "选择您的操作系统"
+
+#: app/views/download/package.erb:68
+msgid "No downloads found for %s in project %s"
+msgstr "在项目 %s 中没有找到关于 %s 的下载"
+
+#: app/views/download/package.erb:73
+msgid "Install using One Click Install"
+msgstr "使用一键安装"
+
+#: app/views/download/package.erb:83
+msgid "Add repository and install manually"
+msgstr "手动添加安装源后安装"
+
+#: app/views/download/package.erb:87
+msgid "For <strong>%s</strong> run the following as <strong>root</strong>:"
+msgstr "对于 <strong>%s</strong>，请以 <strong>根用户 root</strong> 运行下面程序："
+
+#: app/views/download/package.erb:116
+msgid "Grab binary packages directly"
+msgstr "直接抓取软件包"
+
+#: app/views/download/package.erb:121
+msgid "Packages for %s:"
+msgstr "%s 的软件包："
+
+#: app/views/download/appliance.erb:2
+msgid "No appliance data for %s"
+msgstr "没有 %s 的软件包数据："
+
+#: app/views/download/appliance.erb:39
+msgid "Select the image type"
+msgstr "选择镜像文件类型"
+
+#: app/views/download/appliance.erb:47
+msgid "No appliances found in project %s"
+msgstr "在项目 %s 没有找到安装包"
+
+#: app/views/download/appliance.erb:52
+msgid "Available Images"
+msgstr "可用镜像文件"
+
+#: app/views/download/appliance.erb:57
+msgid "Image:"
+msgstr "镜像文件："
+
+#: app/views/statistic/index.html.erb:1
+msgid "Statistics"
+msgstr "统计"
+
+#: app/views/statistic/index.html.erb:8
+msgid "Search Statistics:"
+msgstr "搜索统计："
+
+#: app/views/statistic/index.html.erb:11
+msgid "Top searches:"
+msgstr "流行搜索："
+
+#: app/views/statistic/index.html.erb:20
+msgid "Top searches without hits:"
+msgstr "搜索排行榜"
+
+#: app/views/statistic/index.html.erb:30
+msgid "Download Statistics:"
+msgstr "下载统计："
+
+#: app/views/statistic/index.html.erb:32
+msgid "Top 1-click downloads:"
+msgstr "流行的一键安装："
+
+#: app/views/search/_search_box.html.erb:5
+msgid ""
+"Search and install software packages from the <a "
+"href=\"http://build.opensuse.org\">openSUSE Build Service</a>:"
+msgstr "从 <a href=\"http://build.opensuse.org\">openSUSE 编译服务</a>搜索和安装软件包："
+
+#: app/views/search/_search_box.html.erb:8
+msgid "Search options"
+msgstr "搜索选项"
+
+#: app/views/search/_search_box.html.erb:16
+msgid "Include users' home projects"
+msgstr "包含用户的私人车库"
+
+#: app/views/search/_search_box.html.erb:17
+msgid "Exclude debug packages"
+msgstr "排除调试包"
+

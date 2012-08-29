@@ -1,0 +1,354 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: RELEASE-NOTES\n"
+"POT-Creation-Date: 2012-08-17 10:39+0200\n"
+"PO-Revision-Date: 2012-08-09 00:45+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: RELEASE-NOTES-openSUSE.xml:8(title)
+msgid "<phrase os=\"slprof\">openSUSE 12.2</phrase> Release Notes"
+msgstr "<phrase os=\"slprof\">openSUSE 12.2</phrase> 发布说明"
+
+#: RELEASE-NOTES-openSUSE.xml:10(para)
+msgid "Version:"
+msgstr "版本："
+
+#: RELEASE-NOTES-openSUSE.xml:11(para)
+#, fuzzy
+#| msgid "12.2.4 (2012-08-02)"
+msgid "12.2.5 (2012-08-02)"
+msgstr "12.2.4（2012-08-02）"
+
+#: RELEASE-NOTES-openSUSE.xml:13(para)
+msgid "Copyright © 2012 Novell, Inc."
+msgstr "版权所有 © 2012 Novell, Inc."
+
+#: RELEASE-NOTES-openSUSE.xml:14(para)
+msgid "Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included as the <filename>fdl.txt</filename> file."
+msgstr "您有权以 GNU 自由文档协议（1.2版及以后，由自由软件基金会发布）对此文档进行复制、传播和/或修改；但必须保持原有章节、封面和底面文本。该协议的拷贝在文件 <filename>fdl.txt</filename> 中。"
+
+#. Previous Release Notes
+#: RELEASE-NOTES-openSUSE.xml:51(para)
+msgid "If you upgrade from an older version to this openSUSE release, see previous release notes listed here: <ulink url=\"http://en.opensuse.org/openSUSE:Release_Notes\"/>"
+msgstr "如果你是从旧版本升级到本版 openSUSE，以前的发行注记在此：<ulinkurl=\"http://en.opensuse.org/openSUSE:Release_Notes\" />"
+
+#. <para os="slprof">
+#.   This public beta test is part of the &opensuse; project.  Information 
+#.   about the project is available at <ulink url="http://opensuse.org"/>.</para>
+#.  
+#.  <para os="slprof">Find information about known bugs for this beta in the
+#.   &opensuse; wiki at <ulink url="http://en.opensuse.org/Bugs:Most_Annoying_Bugs"/>.
+#.   Please report all bugs you encounter using this prerelease of &opensuse;
+#.   &suse-version; in the Novell Bugzilla at <ulink
+#.    url="http://en.opensuse.org/Submitting_Bug_Reports"/>.  If you would like to
+#.   see anything added to the release notes, please file a bug report against the
+#.   <quote>Release Notes</quote> component.
+#.  </para>
+#: RELEASE-NOTES-openSUSE.xml:72(para)
+msgid "These release notes cover the following areas:"
+msgstr "这些发行注记覆盖以下领域："
+
+#: RELEASE-NOTES-openSUSE.xml:78(para)
+msgid "<xref linkend=\"misc\"/>: These entries are automatically included from openFATE, the Feature- and Requirements Management System (<ulink url=\"http://features.opensuse.org\"/>)."
+msgstr "<xref linkedn=\"misc\"/>：这些条目自动从 openFATE 获取，openFATE 是 openSUSE 的特性/需求管理系统 (<ulink url=\"http://features.opensuse.org\"/>)。"
+
+#. <para>For the moment, these snippets are listed unsorted&mdash;we are
+#.     working on improvements.</para>
+#: RELEASE-NOTES-openSUSE.xml:86(para) RELEASE-NOTES-openSUSE.xml:117(para)
+msgid "N/A"
+msgstr "不可用"
+
+#: RELEASE-NOTES-openSUSE.xml:95(para)
+msgid "<xref linkend=\"installation\"/>: Read this if you want to install the system from scratch."
+msgstr "<xref linkend=\"installaion\"/>：如果您想要从头开始安装系统，请阅读此章节。"
+
+#: RELEASE-NOTES-openSUSE.xml:100(para)
+msgid "<xref linkend=\"general\"/>: Information that everybody should read."
+msgstr "<xref linkedn=\"general\"/>：任何人都应当阅读的信息。"
+
+#: RELEASE-NOTES-openSUSE.xml:105(para)
+msgid "<xref linkend=\"upgrade\"/>: Issues related to the process if you run a system upgrade from the previous release to this openSUSE version."
+msgstr "<xref linkend=\"upgrade\"/>：如果您从之前的旧版本升级到本版 openSUSE 会遇到的相关问题。"
+
+#: RELEASE-NOTES-openSUSE.xml:110(para)
+msgid "<xref linkend=\"technical\"/>: This section contains a number of technical changes and enhancements for the experienced user."
+msgstr "<xref linkend=\"technical\"/>：此部分包含一系列针有经验用户的技术更改和增强内容。"
+
+#: RELEASE-NOTES-openSUSE.xml:116(title)
+msgid "Miscellaneous"
+msgstr "杂项"
+
+#: RELEASE-NOTES-openSUSE.xml:138(title)
+msgid "Installation"
+msgstr "安装"
+
+#: RELEASE-NOTES-openSUSE.xml:141(title)
+msgid "For Detailed Installation Information"
+msgstr "了解详细安装信息"
+
+#: RELEASE-NOTES-openSUSE.xml:143(para)
+msgid "For detailed installation information, see the <quote>openSUSE Documentation</quote> referenced below."
+msgstr "详细安装信息，请参阅下面参考链接内的 <quote>openSUSE 文档</quote>。"
+
+#: RELEASE-NOTES-openSUSE.xml:150(title)
+msgid "General"
+msgstr "常规"
+
+#: RELEASE-NOTES-openSUSE.xml:154(title)
+msgid "openSUSE Documentation"
+msgstr "openSUSE 文档"
+
+#: RELEASE-NOTES-openSUSE.xml:157(para)
+msgid "In Start-Up, find step-by-step installation instructions, as well as introductions to the KDE and Gnome desktops and to the LibreOffice suite. Also covered are basic administration topics such as deployment and software management and an introduction to the bash shell."
+msgstr "在新手指南里，能找到逐步安装指南，还有 KDE/GNOME 桌面环境、LibreOffice 套装的安装指南，以及基本的系统管理科目例如部署、软件管理和 bash 终端指南。"
+
+#: RELEASE-NOTES-openSUSE.xml:164(para)
+msgid "Reference covers administration, and system configuration in detail and explains how to set up various network services."
+msgstr "参考链接包括系统管理、系统详细配置和设定多种网络服务的指南。"
+
+#: RELEASE-NOTES-openSUSE.xml:168(para)
+msgid "The Security Guide introduces basic concepts of system security, covering both local and network security aspects."
+msgstr "安全指南介绍了系统安全的基本概念，覆盖了本地以及网络安全领域。"
+
+#: RELEASE-NOTES-openSUSE.xml:172(para)
+msgid "The System Analysis and Tuning Guide helps with problem detection, resolution and optimization."
+msgstr "系统分析和调试指南帮助您检测问题，找到解决和优化方案。"
+
+#: RELEASE-NOTES-openSUSE.xml:176(para)
+msgid "Virtualization with KVM offers an introduction to setting up and managing virtualization with KVM, libvirt and QEMU tools."
+msgstr "使用 KVM 虚拟化提供了设定和管理 KVM、libvirt 和 QEMU 虚拟化工具的指南。"
+
+#. bnc#721782
+#: RELEASE-NOTES-openSUSE.xml:186(title)
+msgid "Windows Domain Logon with KDM"
+msgstr "使用 KDM 进行窗口域登录(Windows Domain Logon)"
+
+#. FIXME
+#: RELEASE-NOTES-openSUSE.xml:189(para)
+msgid "CHECKIT for 12.2"
+msgstr "12.2 必读"
+
+#: RELEASE-NOTES-openSUSE.xml:191(para)
+msgid "The SUSE KDM theme does not allow Windows Domain logons."
+msgstr "SuSE KDM 主题不允许窗口域登录。"
+
+#: RELEASE-NOTES-openSUSE.xml:193(para)
+msgid "To work around this issue, set DISPLAYMANAGER_KDM_THEME to an empty string in <filename>/etc/sysconfig/displaymanager</filename> to use the default KDM theme:"
+msgstr "针对这个问题，可以设定 <filename>/etc/sysconfig/displaymanager</filename> 中的 DISPLAYMANAGER_KDM_THEME 条目为空，以使用上游默认的 KDM 主题："
+
+#: RELEASE-NOTES-openSUSE.xml:197(screen)
+#, no-wrap
+msgid "DISPLAYMANAGER_KDM_THEME=\"\""
+msgstr "DISPLAYMANAGER_KDM_THEME=\"\""
+
+#: RELEASE-NOTES-openSUSE.xml:203(title)
+msgid "System Upgrade"
+msgstr "系统升级"
+
+#. bnc#769570
+#: RELEASE-NOTES-openSUSE.xml:207(title)
+msgid "sysvinit Deprecated"
+msgstr "sysvinit 已弃用"
+
+#: RELEASE-NOTES-openSUSE.xml:208(para)
+msgid "Some desktop components depend on services provided by systemd only. So while openSUSE 12.2 still has basic support for booting a system with sysvinit as fallback, sysvinit nevertheless is considered deprecated and probably even faulty or broken in some regard. If you have any issues with a sysvinit booted system, use systemd before filing bug reports."
+msgstr "一些桌面组件只依赖于 systemd 提供的服务。所以虽然 openSUSE 12.2 依然提供使用 sysvinit 启动系统这一回退方法的基本支持，但是 sysvinit 无论怎样都已经过时了，有时甚至会出错或崩溃。如果您使用 sysvinit 启动系统时遇到了任何问题，请在提交错误报告前试试 systemd 管不管用。"
+
+#. bnc#748879
+#: RELEASE-NOTES-openSUSE.xml:220(title)
+msgid "mount and losetup Dropped Support for cryptoloop"
+msgstr "mount 和 losetup 不再支持 cryptoloop"
+
+#: RELEASE-NOTES-openSUSE.xml:221(para)
+msgid "<command>cryptoloop</command> has known weaknesses and is therefore considered obsolete in favor of <command>dm-crypt</command> since years. <command>mount</command> (e.g., via <filename>/etc/fstab</filename>) and <command>losetup</command> now finally dropped support for <command>cryptoloop</command>. This means old fstab entries that use <command>cryptoloop</command> to access encrypted containers no longer work this way. The containers can still be accessed with <command>dm-crypt</command> (<filename>/etc/crypttab</filename>), though. Refer to <ulink url=\"http://en.opensuse.org/Encrypted_Filesystems\"/> for examples how to use to the new method."
+msgstr "<command>cryptoloop</command> 有已知弱点，因此作废并被 <command>dm-crypt</command> 取代已经好多年了。<command>mount</command> (例如，通过 <filename>/etc/fstab</filename>) 和 <command>losetup</command> 现在最终放弃了 <command>cryptoloop</command> 的支持。这意味着旧的使用 <command>cryptoloop</command> 来访问加密容器的条目已经不再可用了。但加密容器依然可以通过 <command>dm-crypt</command> 访问 (<filename>/etc/crypttab</filename>)。请参考 <ulink url=\"http://zh.opensuse.org/SDB:Encrypted_Filesystems\"/> 获取如何使用新方法的实例。"
+
+#. bnc#716136
+#: RELEASE-NOTES-openSUSE.xml:238(title)
+msgid "Mounting Encrypted Partitions Using systemd"
+msgstr "使用 systemd 挂载加密分区"
+
+#: RELEASE-NOTES-openSUSE.xml:239(para)
+msgid "If encrypted partitions are not automatically mounted when using systemd, the <literal>noauto</literal> flag in <filename>/etc/fstab</filename> for these partitions could be the cause. Replacing this flag with <literal>nofail</literal> will fix it. For instance, change the following line:"
+msgstr "当使用 systemd 时没有自动挂载加密分区，<filename>/etc/fstab</filename> 中的 <literal>noauto</libteral> 参数可能是问题的源头。使用 <literal>nofail</literal> 参数可以修正它。详情，请改动下面这行："
+
+#: RELEASE-NOTES-openSUSE.xml:246(screen)
+#, no-wrap
+msgid "/dev/mapper/cr_sda3  /home   ext4    acl,user_xattr,noauto 0 2"
+msgstr "/dev/mapper/cr_sda3 /home ext4 acl,user_xattr,noauto 0 2"
+
+#: RELEASE-NOTES-openSUSE.xml:247(para)
+msgid "to"
+msgstr "到"
+
+#: RELEASE-NOTES-openSUSE.xml:248(screen)
+#, no-wrap
+msgid "/dev/mapper/cr_sda3  /home   ext4    acl,user_xattr,nofail 0 2"
+msgstr "/dev/mapper/cr_sda3 /home ext4 acl,user_xattr,nofail 0 2"
+
+#: RELEASE-NOTES-openSUSE.xml:254(title)
+msgid "Technical"
+msgstr "技术"
+
+#: RELEASE-NOTES-openSUSE.xml:258(title)
+msgid "Initializing Graphics with KMS (Kernel Mode Setting)"
+msgstr "使用 KMS 初始化图形界面（内核模式设定）"
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:261(para)
+msgid "With openSUSE 11.3 we switched to KMS (Kernel Mode Setting) for Intel, ATI and NVIDIA graphics, which now is our default. If you encounter problems with the KMS driver support (intel, radeon, nouveau), disable KMS by adding <literal>nomodeset</literal> to the kernel boot command line. To set this permanently, add it to the kernel command line in <filename>/boot/grub/menu.lst</filename>. This option makes sure the appropriate kernel module (intel, radeon, nouveau) is loaded with <literal>modeset=0</literal> in <filename>initrd</filename>, i.e. KMS is disabled."
+msgstr "自 openSUSE 11.3 起，我们为 Intel、ATI 和 NVIDIA 显卡切换到了 KMS（内核模式设定），因此现在 KMS 是我们的默认设定。如果你遇到了 KMS 的驱动支持问题（intel，radeon，nouveau），可以通过向内核启动命令行添加 <literal>nomodeset</literal> 来禁用 KMS。欲永久修改可以添加到 <filename>/boot/grub/menu.lst</filename> 里的内核命令行。这个选项会确保在 <filename>initrd</filename> 里使用 <literal>modeset=0</literal> 参数挂载合适的内核模块（intel，radeon，nouveu），也就是说，KMS 禁用了。"
+
+#: RELEASE-NOTES-openSUSE.xml:272(para)
+#, fuzzy
+#| msgid "In the rare cases when loading the DRM module from <filename>initrd</filename> is a general problem and unrelated to KMS, it is even possible to disable loading of the DRM module in <filename>initrd</filename> completely. For this set the <literal>NO_KMS_IN_INITRD</literal> sysconfig variable to <literal>yes</literal> via YAST, which then recreates <filename>initrd</filename> afterwards. Reboot your machine."
+msgid "In the rare cases when loading the DRM module from <filename>initrd</filename> is a general problem and unrelated to KMS, it is even possible to disable loading of the DRM module in <filename>initrd</filename> completely. For this set the <literal>NO_KMS_IN_INITRD</literal> sysconfig variable to <literal>yes</literal> via YaST, which then recreates <filename>initrd</filename> afterwards. Reboot your machine."
+msgstr "在极少见的情况下从 <filename>initrd</filename> 挂载 DRM 模块出错是一个常见的问题，KMS 只是躺着中枪而已。这时更应该在 <filename>initrd</filename> 里完全禁用加载 DRM 模块而不是去搞 KMS。通过 YaST 设定 <literal>NO_KMS_IN_INITRD</literal> sysconfig 变量为 <literal>yes</literal>，之后会重新创建 <filename>initrd</filename>。然后重启计算机。"
+
+#: RELEASE-NOTES-openSUSE.xml:280(para)
+msgid "On Intel without KMS the Xserver falls back to the <literal>fbdev</literal> driver (the <literal>intel</literal> driver only supports KMS); alternatively, for legacy GPUs from Intel the \"intellegacy\" driver (<systemitem>xorg-x11-driver-video-intel-legacy</systemitem> package) is available, which still supports UMS (User Mode Setting). To use it, edit <filename>/etc/X11/xorg.conf.d/50-device.conf</filename> and change the driver entry to <literal>intellegacy</literal>."
+msgstr "针对没有 KMS 的 Intel 图形驱动， X 服务器会退而求其次使用 <literal>fbdev</literal> 驱动（<literal>intel</literal> 驱动只支持 KMS）;还有，对于旧款 Intel 图形显示卡，<systemitem>xorg-x11-driver-video-intel-legacy</systemitem> 软件包依然可用，它依然支持 UMS（用户模式设定）。欲使用它可以编辑 <filename>/etc/X11/xorg.conf.d/50-device.conf</filename>，变更 driver 驱动条目为 <literal>intellegacy</literal>。"
+
+#: RELEASE-NOTES-openSUSE.xml:290(para)
+msgid "On ATI for current GPUs it falls back to <literal>radeonhd</literal>. On NVIDIA without KMS the <literal>nv</literal> driver is used (the <literal>nouveau</literal> driver supports only KMS). Note, newer ATI and NVIDIA GPUs are falling back to <literal>fbdev</literal>, if you specify the <literal>nomodeset</literal> kernel boot parameter."
+msgstr "针对目前的 ATI 显卡处理器它会退而求其次使用 <literal>radeonhd</literal>。针对没有开启 KMS 的 NVIDIA 会使用 <literal>nv</literal> 官方驱动。（<literal>nouveau</literal> 驱动只支持 KMS）。注意，如果您指定了 <literal>nomodeset</literal> 参数给内核启动选项，新型号的 ATI 和 NVIDIA 显卡处理器会退而求其次使用 <literal>fbdev</literal>。"
+
+#. bnc#727092 and bnc#769570
+#: RELEASE-NOTES-openSUSE.xml:329(title)
+msgid "Booting with Deprecated sysvinit"
+msgstr "使用过时的 sysvinit 启动"
+
+#: RELEASE-NOTES-openSUSE.xml:331(para)
+msgid "By default, openSUSE now boots using <command>systemd</command>. In case of trouble, you can try to switch back to the deprecated <command>sysvinit</command> way by pressing the F5 key on the boot. For more information about limitations when booting with sysvinit, see <xref linkend=\"sec.122.sysv\"/>."
+msgstr "openSUSE 现在默认用 <command>systemd</command> 启动。如果遇到了问题，您可以在启动时按 F5 切换回旧式的 <command>sysvinit</command>。更多使用 sysvinit 启动的限制，见 <xref linkend=\"sec.122.sysv\"/>。"
+
+#. bnc#725942
+#: RELEASE-NOTES-openSUSE.xml:341(title)
+msgid "systemd: Supplying Service Start-up Parameters"
+msgstr "systemd：提供服务启动参数"
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:343(para)
+msgid "<command>systemctl</command> only supports \"standard\" parameters (see <ulink url=\"http://www.freedesktop.org/wiki/Software/systemd/Incompatibilities\"/>)."
+msgstr "<command>systemctl</command> 只支持标准参数（参考 <ulink url=\"http://www.freedesktop.org/wiki/Software/systemd/Incompatibilities\"/>)。"
+
+#: RELEASE-NOTES-openSUSE.xml:348(para)
+msgid "You can bypass this new behavior by calling the start-up script directly, for example:"
+msgstr "您可以直接调用启动脚本来覆盖这个新行为，例如："
+
+#: RELEASE-NOTES-openSUSE.xml:352(screen)
+#, no-wrap
+msgid ""
+"cd /etc/init.d\n"
+"./apache2 &lt;your_parameters&gt;\n"
+msgstr ""
+"cd /etc/init.d\n"
+"./apache2 &lt;参数&gt;\n"
+
+#. bnc#726387
+#: RELEASE-NOTES-openSUSE.xml:359(title)
+msgid "systemd: System Shutdown"
+msgstr "systemd：关机"
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:362(para)
+msgid "To halt and poweroff the system when using <command>systemd</command>, issue <command>halt -p</command> or <command>shutdown -h now</command> on the command-line or use the shutdown button provided by your desktop environment."
+msgstr "使用 <command>systemd</command> 挂机和关闭系统，需要在命令行中输入 <command> halt -p</command> 或 <command>shutdown -h now</command>, 或者使用您的桌面环境提供的关机按钮。"
+
+#: RELEASE-NOTES-openSUSE.xml:369(para)
+msgid "Note: A plain <command>halt</command> will not shutdown the system properly."
+msgstr "注意：单纯的 <command>halt</command> 不能正确关机哦。"
+
+#. bnc#731890
+#: RELEASE-NOTES-openSUSE.xml:375(title)
+msgid "systemd: Making Use of tmpfs: /run, /var/run, /media, etc."
+msgstr "systemd：/run，/var/run，/media 等临时目录的使用"
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:378(para)
+msgid "systemd mounts several directories that are meant to contain volatile data only, as tmpfs filesystems: <filename>/run</filename>, <filename>/var/run</filename>, <filename>/var/lock</filename>, and <filename>/media</filename> are those directories. For background information, see <ulink url=\"http://lwn.net/Articles/436012/\"/>."
+msgstr "systemd 会挂载几个只用于存放临时数据的目录作为缓存文件系统，这些目录包括：<filename>/run</filename>,<filename>/var/run</filename>, <filename>/var/lock</filename> 和 <filename>/media</filename>。背景知识请参考 <ulink url=\"http://lwn.net/Articles/436012/\" />。"
+
+#: RELEASE-NOTES-openSUSE.xml:386(para)
+msgid "Note: Do not store files that are meant to survive a reboot, in <filename>/run</filename>, <filename>/var/run</filename>, etc."
+msgstr "注意：不要存储下次启动后还会需要的文件到 <filename>/run</filename>,<filename>/var/run</filename> 等目录下。"
+
+#. bnc#735027
+#: RELEASE-NOTES-openSUSE.xml:394(title)
+msgid "systemd: Cleaning Directories (/tmp and /var/tmp)"
+msgstr "systemd：清理目录（/tmp 和 /var/tmp）"
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:397(para)
+msgid "systemd maintains directories as specified in the <filename>tmpfiles.d</filename> directories and in <filename>/lib/systemd/system/systemd-tmpfiles-clean.timer</filename>. For more information, see the <filename>tmpfiles.d</filename> manpage."
+msgstr "systemd 会维护 <filename>tmpfiles.d</filenme> 目录和 <filename>/lib/systemd/system/systemd-tmpfiles-clean.timer</filename> 中指定的目录。详情参考 <filename>tempfiles.d</filename> man 帮助页面。"
+
+#: RELEASE-NOTES-openSUSE.xml:404(para)
+msgid "By default, systemd cleans <filename>tmp</filename> directories daily as configured in <filename>/usr/lib/tmpfiles.d/tmp.conf</filename>:"
+msgstr "systemd 默认按天清理 <filename>tmp</filename> 目录，由 <filename>/usr/lib/tempfiles.d/tmp.conf</filename> 设定："
+
+#: RELEASE-NOTES-openSUSE.xml:409(screen)
+#, no-wrap
+msgid ""
+"d /tmp 1777 root root 10d\n"
+"d /var/tmp 1777 root root 30d\n"
+msgstr ""
+"d /tmp 1777 root root 10d\n"
+"d /var/tmp 1777 root root 30d\n"
+
+#: RELEASE-NOTES-openSUSE.xml:413(para)
+msgid "Note: systemd does not honor sysconfig variables in <filename>/etc/sysconfig/cron</filename> such as <literal>TMP_DIRS_TO_CLEAR</literal>."
+msgstr "注意：systemd 不尊重 <filename>/etc/sysconfig/cron</filename> 中的 sysconfig 变量例如 <literal>TMP_DIRS_TO_CLEAR</literal> 这样。"
+
+#. bnc#774716
+#: RELEASE-NOTES-openSUSE.xml:422(title)
+msgid "Timezone Information in <filename>/etc/adjtime</filename>"
+msgstr "<filename>/etc/adjtime</filename> 中的时区信息"
+
+#: RELEASE-NOTES-openSUSE.xml:424(para)
+msgid "The third line of <filename>/etc/adjtime</filename> now contains information whether your BIOS clock runs on UTC or in local timezone (previously stored in <literal>HWCLOCK</literal> in <filename>/etc/sysconfig/clock</filename>)."
+msgstr "现在 <filename>/etc/adjtime</filename> 的第三行包含了您的 BIOS 时钟运行在 UTC 或是本地时区中的信息 (原来存储在 <filename>/etc/sysconfig/clock</filename> 中的 <literal>HWCLOCK</literal> 条目)。"
+
+#: RELEASE-NOTES-openSUSE.xml:431(para)
+msgid "If <filename>/etc/adjtime</filename> contains wrong drift information (for example after fixing date and time with <command>ntpdate</command> or have <command>ntpd</command> running), set the variable <literal>USE_ADJUST</literal> to \"<literal>no</literal>\" in <filename>/etc/sysconfig/clock</filename>."
+msgstr "如果 <filename>/etc/adjtime</filename> 包含错误的飘移信息 (例如在使用 <command>ntpdate</command> 命令修复日期和时间后，或启动了 <command>ntpd</command>)，请设置 <filename>/etc/sysconfig/clock</filename> 中的 <literal>USE_ADJUST</literal> 变量为 \"<literal>否</literal>\"。"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: RELEASE-NOTES-openSUSE.xml:0(None)
+msgid "translator-credits"
+msgstr "玛丽苏 <i@marguerite.su>, 2012"
+
+#~ msgid "CHECKIT for 12.2. Is this entry still required?"
+#~ msgstr "12.2 必读。本条目还需要吗？"
+
+#~ msgid "Radeon HDMI Sound Output Being Disabled"
+#~ msgstr "Radeon HDMI 声音输入被禁用"
+
+#~ msgid "Due to problems on some hardware HDMI sound output has been disabled by default on the radeon driver, which is the default driver for AMD/ATI graphics cards."
+#~ msgstr "由于一些硬件上的已知问题，radeon 驱动，AMD/ATI 图形显示卡的默认驱动，上的 HDMI 声音输入默认被禁用了。"
+
+#~ msgid "It can be re-enabled by adding <literal>radeon.audio=1</literal> as a kernel parameter. In YaST, go to System -&gt; Boot Loader, then click Edit on the default entry, and add the following to the end of 'Optional Kernel Command Line Parameter':"
+#~ msgstr "可以通过向内核添加 <literal>radeon.audio=1</literal> 参数来重新启动。在 YaST 中，前往 系统 - &gt; 启动引导器，然后在默认条目上点击编辑，添加下面这行到 'Optional Kernel Command Line Parameter' 的最后面："
+
+#~ msgid "radeon.audio=1"
+#~ msgstr "radeon.audio=1"
+
+#~ msgid "Then reboot to apply the change."
+#~ msgstr "然后重启以适应变更。"
+
+#~ msgid "Alternatively, users can install the proprietary driver from AMD. For more information, see <ulink url=\"http://en.opensuse.org/SDB:ATI_drivers\"/>."
+#~ msgstr "同样，用户可以安装 AMD 的私有驱动。详情见 <ulink url=\"http://zh.opensuse.org/SDB:ATI_驱动\"/>。"
+
+#~ msgid "If you want to switch to <command>sysvinit</command> permanently, install the <systemitem>sysvinit-init</systemitem> package. To switch back to <command>systemd</command>, reinstall the <systemitem>systemd-sysvinit</systemitem> package."
+#~ msgstr "如果您想要永久的切换到 <command>sysvinit</command>，请安装 <systemitem>sysvinit-init</systemitem> 软件包。想切换回 <command>systemd</command>，重新安装 <systemitem>systemd-sysvinit</systemitem> 软件包即可。"

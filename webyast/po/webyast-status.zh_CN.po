@@ -1,0 +1,270 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# hillwood <hillwoodroc@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-07 15:20+0200\n"
+"PO-Revision-Date: 2012-07-05 16:47+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: app/models/graph.rb:109
+msgid "GByte"
+msgstr "GB"
+
+#: app/models/graph.rb:110
+msgid "Disk"
+msgstr "磁盘"
+
+#: app/models/graph.rb:133
+msgid "MByte/s"
+msgstr "MB/s"
+
+#: app/models/graph.rb:134
+msgid "Network"
+msgstr "网络"
+
+#: app/models/graph.rb:157
+msgid "MByte"
+msgstr "MB"
+
+#: app/models/graph.rb:158
+msgid "Memory"
+msgstr "内存"
+
+#: app/models/graph.rb:179
+msgid "Percent"
+msgstr "百分之"
+
+#: app/models/graph.rb:180
+msgid "CPU"
+msgstr "CPU"
+
+#: app/helpers/status_helper.rb:57 app/views/status/_status_graph.html.erb:125
+#: app/views/status/index.html.erb:53 app/views/status/index.html.erb:68
+#: app/views/status/index.html.erb:88 app/views/status/index.html.erb:237
+#| msgid "Loading patch information"
+msgid "Error: Cannot get information."
+msgstr "错误：不能获取信息。"
+
+#: app/controllers/status_controller.rb:119
+msgid "No data found for showing system status."
+msgstr "没有数据显示系统状态。"
+
+#: app/controllers/status_controller.rb:122
+#: app/controllers/status_controller.rb:160
+#: app/controllers/status_controller.rb:162
+#: app/controllers/status_controller.rb:164
+msgid "Status not available."
+msgstr "状态不可用。"
+
+#: app/controllers/status_controller.rb:125
+#: app/controllers/status_controller.rb:169
+msgid "Collectd is out of sync."
+msgstr "Collectd 很久未同步。"
+
+#: app/controllers/status_controller.rb:140
+#: app/controllers/status_controller.rb:198
+msgid "Status not available (no permissions)"
+msgstr "状态不可用（无权限）"
+
+#: app/controllers/status_controller.rb:150
+msgid "Limits exceeded for "
+msgstr "超出限制"
+
+#: app/controllers/status_controller.rb:263
+msgid "exceeded"
+msgstr "超过"
+
+#: app/controllers/status_controller.rb:277
+msgid "undercut"
+msgstr "底割"
+
+#: app/controllers/status_controller.rb:376
+msgid "Limits have been written."
+msgstr "限制已被写入。"
+
+#: app/views/status/_status_graph.html.erb:2
+msgid "A problem occured when loading status information."
+msgstr "加载状态信息时出现一个错误。"
+
+#: app/views/status/_status_graph.html.erb:11
+#| msgid "No patches available"
+msgid "No data available"
+msgstr "没有可用的数据"
+
+#: app/views/status/_status_graph.html.erb:100
+msgid "Show last"
+msgstr "显示上次"
+
+#: app/views/status/_status_graph.html.erb:102
+msgid "5 Minutes"
+msgstr "5分钟"
+
+#: app/views/status/_status_graph.html.erb:103
+msgid "15 Minutes"
+msgstr "15分钟"
+
+#: app/views/status/_status_graph.html.erb:104
+msgid "30 Minutes"
+msgstr "30分钟"
+
+#: app/views/status/_status_graph.html.erb:105
+msgid "1 Hour"
+msgstr "一小时"
+
+#: app/views/status/_status_graph.html.erb:106
+msgid "6 Hours"
+msgstr "六小时"
+
+#: app/views/status/_status_graph.html.erb:107
+msgid "12 Hours"
+msgstr "十二小时"
+
+#: app/views/status/edit.html.erb:49
+msgid "Only numbers are valid !"
+msgstr "仅有数字是有效的！"
+
+#: app/views/status/edit.html.erb:81 app/views/status/index.html.erb:108
+msgid "Status"
+msgstr "状态"
+
+#: app/views/status/edit.html.erb:81
+msgid "Settings"
+msgstr "设置"
+
+#: app/views/status/edit.html.erb:102
+msgid "undercuts"
+msgstr "底割"
+
+#: app/views/status/edit.html.erb:102
+msgid "exceeds"
+msgstr "超过"
+
+#: app/views/status/_status_summary.html.erb:4
+msgid "An problem occured when loading status information."
+msgstr "加载状态信息时出现一个问题。"
+
+#: app/views/status/_status_summary.html.erb:38
+msgid "Your system is healthy."
+msgstr "你的系统处于健康状态。"
+
+#: app/views/status/_status_summary.html.erb:49
+msgid "Loading system information"
+msgstr "正在载入系统信息"
+
+#: app/views/status/_status_summary.html.erb:57
+msgid "Error: Cannot check the current status."
+msgstr "错误：不能检查当前状态。"
+
+#: app/views/status/index.html.erb:157
+msgid "details"
+msgstr "详情"
+
+#: app/views/status/index.html.erb:173
+msgid "Details"
+msgstr "详情"
+
+#: app/views/status/index.html.erb:218
+msgid "Edit Limits"
+msgstr "编辑限制"
+
+#~ msgid "Can't connect to host"
+#~ msgstr "无法连接到主机"
+
+#~ msgid "Can't connect to host %s."
+#~ msgstr "无法连接到主机 '%s'。"
+
+#~ msgid "Status not available"
+#~ msgstr "状态不可用"
+
+#~ msgid "Cannot read system status - you have been logged out."
+#~ msgstr "无法读取状态 - 你已经退出了登录。"
+
+#~ msgid "Checking system status"
+#~ msgstr "正在检查系统状态"
+
+#~ msgid "Show system status"
+#~ msgstr "显示系统状态"
+
+#, fuzzy
+#~| msgid "Required file is missing: "
+#~ msgid "Registration is missing"
+#~ msgstr "找不到所需文件："
+
+#, fuzzy
+#~| msgid "Please restart your system as soon as possible."
+#~ msgid "Please register your system in order to get updates."
+#~ msgstr "请尽快重启你的系统。"
+
+#, fuzzy
+#~| msgid "The configuration is not initialized."
+#~ msgid "Mail configuration test not confirmed"
+#~ msgstr "配置未初始化。"
+
+#, fuzzy
+#~| msgid "Start VPN connection"
+#~ msgid "Start collectd"
+#~ msgstr "启动 VPN 连接"
+
+#, fuzzy
+#~| msgid "Saving the changes failed"
+#~ msgid "Saving limits failed!"
+#~ msgstr "保存更改失败"
+
+#, fuzzy
+#~| msgid "Disks"
+#~ msgid "Disk usage"
+#~ msgstr "磁盘"
+
+#~ msgid "Back"
+#~ msgstr "后退"
+
+#, fuzzy
+#~| msgid "Last used"
+#~ msgid "used"
+#~ msgstr "上次使用的"
+
+#, fuzzy
+#~| msgid "Configure Compiz Settings"
+#~ msgid "Configure Status Limits"
+#~ msgstr "配置 Compiz"
+
+#, fuzzy
+#~| msgid "Status: "
+#~ msgid "Status Path"
+#~ msgstr "状态："
+
+#, fuzzy
+#~| msgid "Maximum Memory"
+#~ msgid "Maximum Value"
+#~ msgstr "最大内存"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#, fuzzy
+#~| msgid "No information available."
+#~ msgid "No status information available"
+#~ msgstr "没有可用信息。"
+
+#, fuzzy
+#~| msgid "Button Events"
+#~ msgid "Events"
+#~ msgstr "按钮事件"
+
+#, fuzzy
+#~| msgid "Details..."
+#~ msgid "Show details..."
+#~ msgstr "细节"

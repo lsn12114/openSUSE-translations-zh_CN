@@ -1,0 +1,4293 @@
+# translation of update-desktop-files.po to Chinese Simplified
+# @update-desktop-files@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-22 09:48+0000\n"
+"PO-Revision-Date: 2012-07-06 11:08+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/hypertorus.desktop
+msgctxt "Name(hypertorus.desktop)"
+msgid "4D Hypertorus"
+msgstr "4D 超环面"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/abstractile.desktop
+msgctxt "Name(abstractile.desktop)"
+msgid "Abstractile"
+msgstr "抽象演绎"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/anemone.desktop
+msgctxt "Name(anemone.desktop)"
+msgid "Anemone"
+msgstr "海葵"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/anemotaxis.desktop
+msgctxt "Name(anemotaxis.desktop)"
+msgid "Anemotaxis"
+msgstr "追风"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antinspect.desktop
+msgctxt "Name(antinspect.desktop)"
+msgid "AntInspect"
+msgstr "AntInspect"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antmaze.desktop
+msgctxt "Name(antmaze.desktop)"
+msgid "AntMaze"
+msgstr "蚂蚁迷宫"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antspotlight.desktop
+msgctxt "Name(antspotlight.desktop)"
+msgid "AntSpotlight"
+msgstr "聚光灯"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/apollonian.desktop
+msgctxt "Name(apollonian.desktop)"
+msgid "Apollonian"
+msgstr "阿波罗"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/apple2.desktop
+msgctxt "Name(apple2.desktop)"
+msgid "Apple ]["
+msgstr "Apple ]["
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/atlantis.desktop
+msgctxt "Name(atlantis.desktop)"
+msgid "Atlantis (GL)"
+msgstr "大西洋(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/attraction.desktop
+msgctxt "Name(attraction.desktop)"
+msgid "Attraction"
+msgstr "吸引"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/atunnel.desktop
+msgctxt "Name(atunnel.desktop)"
+msgid "Atunnel"
+msgstr "Atunnel"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bsod.desktop
+msgctxt "Name(bsod.desktop)"
+msgid "BSOD"
+msgstr "蓝屏死机"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBanner.desktop
+msgctxt "Name(KBanner.desktop)"
+msgid "Banner"
+msgstr "横幅"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/barcode.desktop
+msgctxt "Name(barcode.desktop)"
+msgid "Barcode"
+msgstr "条形码"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KWave.desktop
+msgctxt "Name(KWave.desktop)"
+msgid "Bitmap Flag (GL)"
+msgstr "位图旗帜(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBlankscreen.desktop
+msgctxt "Name(KBlankscreen.desktop)"
+msgid "Blank Screen"
+msgstr "空屏幕"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blaster.desktop
+msgctxt "Name(blaster.desktop)"
+msgid "Blaster"
+msgstr "太空激战"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blinkbox.desktop
+msgctxt "Name(blinkbox.desktop)"
+msgid "BlinkBox"
+msgstr "闪烁盒子"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blitspin.desktop
+msgctxt "Name(blitspin.desktop)"
+msgid "BlitSpin"
+msgstr "旋转拼图"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBlob.desktop
+msgctxt "Name(KBlob.desktop)"
+msgid "Blob"
+msgstr "光线"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blocktube.desktop
+msgctxt "Name(blocktube.desktop)"
+msgid "BlockTube"
+msgstr "块方"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boing.desktop
+msgctxt "Name(boing.desktop)"
+msgid "Boing"
+msgstr "弹跳"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bouboule.desktop
+msgctxt "Name(bouboule.desktop)"
+msgid "Bouboule"
+msgstr "泡泡团"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bouncingcow.desktop
+msgctxt "Name(bouncingcow.desktop)"
+msgid "BouncingCow"
+msgstr "康康牛"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boxfit.desktop
+msgctxt "Name(boxfit.desktop)"
+msgid "BoxFit"
+msgstr "填塞"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boxed.desktop
+msgctxt "Name(boxed.desktop)"
+msgid "Boxed"
+msgstr "盒子"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/braid.desktop
+msgctxt "Name(braid.desktop)"
+msgid "Braid"
+msgstr "交织圆环"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bubble3d.desktop
+msgctxt "Name(bubble3d.desktop)"
+msgid "Bubble 3D (GL)"
+msgstr "立体泡泡(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bumps.desktop
+msgctxt "Name(bumps.desktop)"
+msgid "Bumps"
+msgstr "探照灯"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ccurve.desktop
+msgctxt "Name(ccurve.desktop)"
+msgid "C Curve"
+msgstr "C 曲线"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cwaves.desktop
+msgctxt "Name(cwaves.desktop)"
+msgid "CWaves"
+msgstr "C 波"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cage.desktop
+msgctxt "Name(cage.desktop)"
+msgid "Cage (GL)"
+msgstr "笼子(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/carousel.desktop
+msgctxt "Name(carousel.desktop)"
+msgid "Carousel"
+msgstr "Carousel"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/celtic.desktop
+msgctxt "Name(celtic.desktop)"
+msgid "Celtic"
+msgstr "凯尔特"
+
+#: /usr/share/applications/xscreensaver-properties.desktop
+msgctxt "Comment(xscreensaver-properties.desktop)"
+msgid "Change screensaver properties"
+msgstr "修改屏幕保护属性"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/circuit.desktop
+msgctxt "Name(circuit.desktop)"
+msgid "Circuit"
+msgstr "电路"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KClock.desktop
+msgctxt "Name(KClock.desktop)"
+msgid "Clock"
+msgstr "时钟"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cloudlife.desktop
+msgctxt "Name(cloudlife.desktop)"
+msgid "CloudLife"
+msgstr "云海"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/compass.desktop
+msgctxt "Name(compass.desktop)"
+msgid "Compass"
+msgstr "罗盘"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/coral.desktop
+msgctxt "Name(coral.desktop)"
+msgid "Coral"
+msgstr "珊瑚"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/crackberg.desktop
+msgctxt "Name(crackberg.desktop)"
+msgid "Crackberg"
+msgstr "Crackberg"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/crystal.desktop
+msgctxt "Name(crystal.desktop)"
+msgid "Crystal"
+msgstr "晶格"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cube21.desktop
+msgctxt "Name(cube21.desktop)"
+msgid "Cube 21"
+msgstr "Cube 21 魔方"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cubestorm.desktop
+msgctxt "Name(cubestorm.desktop)"
+msgid "CubeStorm"
+msgstr "立方风暴"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cubenetic.desktop
+msgctxt "Name(cubenetic.desktop)"
+msgid "Cubenetic"
+msgstr "立方体"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cynosure.desktop
+msgctxt "Name(cynosure.desktop)"
+msgid "Cynosure"
+msgstr "变幻矩形"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/dangerball.desktop
+msgctxt "Name(dangerball.desktop)"
+msgid "DangerBall"
+msgstr "扎手的球"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/decayscreen.desktop
+msgctxt "Name(decayscreen.desktop)"
+msgid "DecayScreen"
+msgstr "熔化的屏幕"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/deco.desktop
+msgctxt "Name(deco.desktop)"
+msgid "Deco"
+msgstr "矩形拼板"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/deluxe.desktop
+msgctxt "Name(deluxe.desktop)"
+msgid "Deluxe"
+msgstr "豪华"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/demon.desktop
+msgctxt "Name(demon.desktop)"
+msgid "Demon"
+msgstr "魔鬼"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/discrete.desktop
+msgctxt "Name(discrete.desktop)"
+msgid "Discrete"
+msgstr "离散"
+
+#: /usr/share/applications/screensavers/f-spot-screensaver.desktop
+msgctxt "Comment(f-spot-screensaver.desktop)"
+msgid "Display a slideshow from F-Spot"
+msgstr "显示来自 F-Spot 的幻灯片"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBanner.desktop
+msgctxt "Name(KBanner.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBlankscreen.desktop
+msgctxt "Name(KBlankscreen.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBlob.desktop
+msgctxt "Name(KBlob.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KClock.desktop
+msgctxt "Name(KClock.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KEuphoria.desktop
+msgctxt "Name(KEuphoria.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KFlux.desktop
+msgctxt "Name(KFlux.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KFountain.desktop
+msgctxt "Name(KFountain.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KGravity.desktop
+msgctxt "Name(KGravity.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KLines-saver.desktop
+msgctxt "Name(KLines-saver.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KLorenz.desktop
+msgctxt "Name(KLorenz.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KPendulum.desktop
+msgctxt "Name(KPendulum.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KPolygon.desktop
+msgctxt "Name(KPolygon.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KRandom.desktop
+msgctxt "Name(KRandom.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KRotation.desktop
+msgctxt "Name(KRotation.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KScience.desktop
+msgctxt "Name(KScience.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSlideshow.desktop
+msgctxt "Name(KSlideshow.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSolarWinds.desktop
+msgctxt "Name(KSolarWinds.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSpace.desktop
+msgctxt "Name(KSpace.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSwarm.desktop
+msgctxt "Name(KSwarm.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KVm.desktop
+msgctxt "Name(KVm.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KWave.desktop
+msgctxt "Name(KWave.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/abstractile.desktop
+msgctxt "Name(abstractile.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/anemone.desktop
+msgctxt "Name(anemone.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/anemotaxis.desktop
+msgctxt "Name(anemotaxis.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antinspect.desktop
+msgctxt "Name(antinspect.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antmaze.desktop
+msgctxt "Name(antmaze.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antspotlight.desktop
+msgctxt "Name(antspotlight.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/apollonian.desktop
+msgctxt "Name(apollonian.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/apple2.desktop
+msgctxt "Name(apple2.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/atlantis.desktop
+msgctxt "Name(atlantis.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/attraction.desktop
+msgctxt "Name(attraction.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/atunnel.desktop
+msgctxt "Name(atunnel.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/barcode.desktop
+msgctxt "Name(barcode.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blaster.desktop
+msgctxt "Name(blaster.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blinkbox.desktop
+msgctxt "Name(blinkbox.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blitspin.desktop
+msgctxt "Name(blitspin.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blocktube.desktop
+msgctxt "Name(blocktube.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boing.desktop
+msgctxt "Name(boing.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bouboule.desktop
+msgctxt "Name(bouboule.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bouncingcow.desktop
+msgctxt "Name(bouncingcow.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boxed.desktop
+msgctxt "Name(boxed.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boxfit.desktop
+msgctxt "Name(boxfit.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/braid.desktop
+msgctxt "Name(braid.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bsod.desktop
+msgctxt "Name(bsod.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bubble3d.desktop
+msgctxt "Name(bubble3d.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bumps.desktop
+msgctxt "Name(bumps.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cage.desktop
+msgctxt "Name(cage.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/carousel.desktop
+msgctxt "Name(carousel.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ccurve.desktop
+msgctxt "Name(ccurve.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/celtic.desktop
+msgctxt "Name(celtic.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/circuit.desktop
+msgctxt "Name(circuit.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cloudlife.desktop
+msgctxt "Name(cloudlife.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/compass.desktop
+msgctxt "Name(compass.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/coral.desktop
+msgctxt "Name(coral.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/crackberg.desktop
+msgctxt "Name(crackberg.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/crystal.desktop
+msgctxt "Name(crystal.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cube21.desktop
+msgctxt "Name(cube21.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cubenetic.desktop
+msgctxt "Name(cubenetic.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cubestorm.desktop
+msgctxt "Name(cubestorm.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cwaves.desktop
+msgctxt "Name(cwaves.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cynosure.desktop
+msgctxt "Name(cynosure.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/dangerball.desktop
+msgctxt "Name(dangerball.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/decayscreen.desktop
+msgctxt "Name(decayscreen.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/deco.desktop
+msgctxt "Name(deco.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/deluxe.desktop
+msgctxt "Name(deluxe.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/demon.desktop
+msgctxt "Name(demon.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/discrete.desktop
+msgctxt "Name(discrete.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/distort.desktop
+msgctxt "Name(distort.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/drift.desktop
+msgctxt "Name(drift.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/endgame.desktop
+msgctxt "Name(endgame.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/engine.desktop
+msgctxt "Name(engine.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/epicycle.desktop
+msgctxt "Name(epicycle.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/eruption.desktop
+msgctxt "Name(eruption.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/euler2d.desktop
+msgctxt "Name(euler2d.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/extrusion.desktop
+msgctxt "Name(extrusion.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fadeplot.desktop
+msgctxt "Name(fadeplot.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fiberlamp.desktop
+msgctxt "Name(fiberlamp.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fireworkx.desktop
+msgctxt "Name(fireworkx.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flame.desktop
+msgctxt "Name(flame.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flipflop.desktop
+msgctxt "Name(flipflop.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flipscreen3d.desktop
+msgctxt "Name(flipscreen3d.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fliptext.desktop
+msgctxt "Name(fliptext.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flow.desktop
+msgctxt "Name(flow.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fluidballs.desktop
+msgctxt "Name(fluidballs.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flurry.desktop
+msgctxt "Name(flurry.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flyingtoasters.desktop
+msgctxt "Name(flyingtoasters.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fontglide.desktop
+msgctxt "Name(fontglide.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fuzzyflakes.desktop
+msgctxt "Name(fuzzyflakes.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/galaxy.desktop
+msgctxt "Name(galaxy.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gears.desktop
+msgctxt "Name(gears.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gflux.desktop
+msgctxt "Name(gflux.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glblur.desktop
+msgctxt "Name(glblur.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glcells.desktop
+msgctxt "Name(glcells.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gleidescope.desktop
+msgctxt "Name(gleidescope.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glhanoi.desktop
+msgctxt "Name(glhanoi.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glknots.desktop
+msgctxt "Name(glknots.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glmatrix.desktop
+msgctxt "Name(glmatrix.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glplanet.desktop
+msgctxt "Name(glplanet.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glschool.desktop
+msgctxt "Name(glschool.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glslideshow.desktop
+msgctxt "Name(glslideshow.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glsnake.desktop
+msgctxt "Name(glsnake.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gltext.desktop
+msgctxt "Name(gltext.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/goop.desktop
+msgctxt "Name(goop.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/grav.desktop
+msgctxt "Name(grav.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/greynetic.desktop
+msgctxt "Name(greynetic.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/halftone.desktop
+msgctxt "Name(halftone.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/halo.desktop
+msgctxt "Name(halo.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/helix.desktop
+msgctxt "Name(helix.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/hopalong.desktop
+msgctxt "Name(hopalong.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/hypertorus.desktop
+msgctxt "Name(hypertorus.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ifs.desktop
+msgctxt "Name(ifs.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/imsmap.desktop
+msgctxt "Name(imsmap.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/interaggregate.desktop
+msgctxt "Name(interaggregate.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/interference.desktop
+msgctxt "Name(interference.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/intermomentary.desktop
+msgctxt "Name(intermomentary.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/jigglypuff.desktop
+msgctxt "Name(jigglypuff.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/jigsaw.desktop
+msgctxt "Name(jigsaw.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/juggler3d.desktop
+msgctxt "Name(juggler3d.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/julia.desktop
+msgctxt "Name(julia.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kaleidescope.desktop
+msgctxt "Name(kaleidescope.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/klein.desktop
+msgctxt "Name(klein.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kpartsaver.desktop
+msgctxt "Name(kpartsaver.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ktux.desktop
+msgctxt "Name(ktux.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kumppa.desktop
+msgctxt "Name(kumppa.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lament.desktop
+msgctxt "Name(lament.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lavalite.desktop
+msgctxt "Name(lavalite.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lockward.desktop
+msgctxt "Name(lockward.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/loop.desktop
+msgctxt "Name(loop.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/m6502.desktop
+msgctxt "Name(m6502.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/maze.desktop
+msgctxt "Name(maze.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/memscroller.desktop
+msgctxt "Name(memscroller.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/menger.desktop
+msgctxt "Name(menger.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/metaballs.desktop
+msgctxt "Name(metaballs.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/mirrorblob.desktop
+msgctxt "Name(mirrorblob.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moebius.desktop
+msgctxt "Name(moebius.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moebiusgears.desktop
+msgctxt "Name(moebiusgears.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moire.desktop
+msgctxt "Name(moire.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moire2.desktop
+msgctxt "Name(moire2.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/molecule.desktop
+msgctxt "Name(molecule.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/morph3d.desktop
+msgctxt "Name(morph3d.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/mountain.desktop
+msgctxt "Name(mountain.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/munch.desktop
+msgctxt "Name(munch.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/nerverot.desktop
+msgctxt "Name(nerverot.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/noof.desktop
+msgctxt "Name(noof.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/noseguy.desktop
+msgctxt "Name(noseguy.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pacman.desktop
+msgctxt "Name(pacman.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pedal.desktop
+msgctxt "Name(pedal.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/penetrate.desktop
+msgctxt "Name(penetrate.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/penrose.desktop
+msgctxt "Name(penrose.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/petri.desktop
+msgctxt "Name(petri.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/phosphor.desktop
+msgctxt "Name(phosphor.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/piecewise.desktop
+msgctxt "Name(piecewise.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pinion.desktop
+msgctxt "Name(pinion.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pipes.desktop
+msgctxt "Name(pipes.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polyhedra.desktop
+msgctxt "Name(polyhedra.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polyominoes.desktop
+msgctxt "Name(polyominoes.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polytopes.desktop
+msgctxt "Name(polytopes.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pong.desktop
+msgctxt "Name(pong.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/popsquares.desktop
+msgctxt "Name(popsquares.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/providence.desktop
+msgctxt "Name(providence.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pulsar.desktop
+msgctxt "Name(pulsar.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pyro.desktop
+msgctxt "Name(pyro.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/qix.desktop
+msgctxt "Name(qix.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/queens.desktop
+msgctxt "Name(queens.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rd-bomb.desktop
+msgctxt "Name(rd-bomb.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ripples.desktop
+msgctxt "Name(ripples.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rocks.desktop
+msgctxt "Name(rocks.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rorschach.desktop
+msgctxt "Name(rorschach.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rotzoomer.desktop
+msgctxt "Name(rotzoomer.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rubik.desktop
+msgctxt "Name(rubik.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sballs.desktop
+msgctxt "Name(sballs.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/shadebobs.desktop
+msgctxt "Name(shadebobs.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sierpinski.desktop
+msgctxt "Name(sierpinski.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sierpinski3d.desktop
+msgctxt "Name(sierpinski3d.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/slidescreen.desktop
+msgctxt "Name(slidescreen.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/slip.desktop
+msgctxt "Name(slip.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sonar.desktop
+msgctxt "Name(sonar.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/speedmine.desktop
+msgctxt "Name(speedmine.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/spheremonics.desktop
+msgctxt "Name(spheremonics.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/spotlight.desktop
+msgctxt "Name(spotlight.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sproingies.desktop
+msgctxt "Name(sproingies.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/squiral.desktop
+msgctxt "Name(squiral.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/stairs.desktop
+msgctxt "Name(stairs.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/starfish.desktop
+msgctxt "Name(starfish.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/starwars.desktop
+msgctxt "Name(starwars.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/stonerview.desktop
+msgctxt "Name(stonerview.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/strange.desktop
+msgctxt "Name(strange.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/substrate.desktop
+msgctxt "Name(substrate.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/superquadrics.desktop
+msgctxt "Name(superquadrics.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/swirl.desktop
+msgctxt "Name(swirl.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/tangram.desktop
+msgctxt "Name(tangram.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/thornbird.desktop
+msgctxt "Name(thornbird.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/timetunnel.desktop
+msgctxt "Name(timetunnel.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/topblock.desktop
+msgctxt "Name(topblock.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/triangle.desktop
+msgctxt "Name(triangle.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/truchet.desktop
+msgctxt "Name(truchet.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/twang.desktop
+msgctxt "Name(twang.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/vermiculate.desktop
+msgctxt "Name(vermiculate.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/vidwhacker.desktop
+msgctxt "Name(vidwhacker.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/voronoi.desktop
+msgctxt "Name(voronoi.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/wander.desktop
+msgctxt "Name(wander.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/whirlwindwarp.desktop
+msgctxt "Name(whirlwindwarp.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/wormhole.desktop
+msgctxt "Name(wormhole.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xanalogtv.desktop
+msgctxt "Name(xanalogtv.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xflame.desktop
+msgctxt "Name(xflame.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xjack.desktop
+msgctxt "Name(xjack.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xlyap.desktop
+msgctxt "Name(xlyap.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xmatrix.desktop
+msgctxt "Name(xmatrix.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xrayswarm.desktop
+msgctxt "Name(xrayswarm.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xspirograph.desktop
+msgctxt "Name(xspirograph.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/zoom.desktop
+msgctxt "Name(zoom.desktop)"
+msgid "Display in Root Window"
+msgstr "在根窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBanner.desktop
+msgctxt "Name(KBanner.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBlankscreen.desktop
+msgctxt "Name(KBlankscreen.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBlob.desktop
+msgctxt "Name(KBlob.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KClock.desktop
+msgctxt "Name(KClock.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KEuphoria.desktop
+msgctxt "Name(KEuphoria.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KFlux.desktop
+msgctxt "Name(KFlux.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KFountain.desktop
+msgctxt "Name(KFountain.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KGravity.desktop
+msgctxt "Name(KGravity.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KLines-saver.desktop
+msgctxt "Name(KLines-saver.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KLorenz.desktop
+msgctxt "Name(KLorenz.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KPendulum.desktop
+msgctxt "Name(KPendulum.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KPolygon.desktop
+msgctxt "Name(KPolygon.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KRandom.desktop
+msgctxt "Name(KRandom.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KRotation.desktop
+msgctxt "Name(KRotation.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KScience.desktop
+msgctxt "Name(KScience.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSlideshow.desktop
+msgctxt "Name(KSlideshow.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSolarWinds.desktop
+msgctxt "Name(KSolarWinds.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSpace.desktop
+msgctxt "Name(KSpace.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSwarm.desktop
+msgctxt "Name(KSwarm.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KVm.desktop
+msgctxt "Name(KVm.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KWave.desktop
+msgctxt "Name(KWave.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/abstractile.desktop
+msgctxt "Name(abstractile.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/anemone.desktop
+msgctxt "Name(anemone.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/anemotaxis.desktop
+msgctxt "Name(anemotaxis.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antinspect.desktop
+msgctxt "Name(antinspect.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antmaze.desktop
+msgctxt "Name(antmaze.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antspotlight.desktop
+msgctxt "Name(antspotlight.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/apollonian.desktop
+msgctxt "Name(apollonian.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/apple2.desktop
+msgctxt "Name(apple2.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/atlantis.desktop
+msgctxt "Name(atlantis.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/attraction.desktop
+msgctxt "Name(attraction.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/atunnel.desktop
+msgctxt "Name(atunnel.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/barcode.desktop
+msgctxt "Name(barcode.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blaster.desktop
+msgctxt "Name(blaster.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blinkbox.desktop
+msgctxt "Name(blinkbox.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blitspin.desktop
+msgctxt "Name(blitspin.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blocktube.desktop
+msgctxt "Name(blocktube.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boing.desktop
+msgctxt "Name(boing.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bouboule.desktop
+msgctxt "Name(bouboule.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bouncingcow.desktop
+msgctxt "Name(bouncingcow.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boxed.desktop
+msgctxt "Name(boxed.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boxfit.desktop
+msgctxt "Name(boxfit.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/braid.desktop
+msgctxt "Name(braid.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bsod.desktop
+msgctxt "Name(bsod.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bubble3d.desktop
+msgctxt "Name(bubble3d.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bumps.desktop
+msgctxt "Name(bumps.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cage.desktop
+msgctxt "Name(cage.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/carousel.desktop
+msgctxt "Name(carousel.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ccurve.desktop
+msgctxt "Name(ccurve.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/celtic.desktop
+msgctxt "Name(celtic.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/circuit.desktop
+msgctxt "Name(circuit.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cloudlife.desktop
+msgctxt "Name(cloudlife.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/compass.desktop
+msgctxt "Name(compass.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/coral.desktop
+msgctxt "Name(coral.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/crackberg.desktop
+msgctxt "Name(crackberg.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/crystal.desktop
+msgctxt "Name(crystal.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cube21.desktop
+msgctxt "Name(cube21.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cubenetic.desktop
+msgctxt "Name(cubenetic.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cubestorm.desktop
+msgctxt "Name(cubestorm.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cwaves.desktop
+msgctxt "Name(cwaves.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cynosure.desktop
+msgctxt "Name(cynosure.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/dangerball.desktop
+msgctxt "Name(dangerball.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/decayscreen.desktop
+msgctxt "Name(decayscreen.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/deco.desktop
+msgctxt "Name(deco.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/deluxe.desktop
+msgctxt "Name(deluxe.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/demon.desktop
+msgctxt "Name(demon.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/discrete.desktop
+msgctxt "Name(discrete.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/distort.desktop
+msgctxt "Name(distort.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/drift.desktop
+msgctxt "Name(drift.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/endgame.desktop
+msgctxt "Name(endgame.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/engine.desktop
+msgctxt "Name(engine.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/epicycle.desktop
+msgctxt "Name(epicycle.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/eruption.desktop
+msgctxt "Name(eruption.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/euler2d.desktop
+msgctxt "Name(euler2d.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/extrusion.desktop
+msgctxt "Name(extrusion.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fadeplot.desktop
+msgctxt "Name(fadeplot.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fiberlamp.desktop
+msgctxt "Name(fiberlamp.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fireworkx.desktop
+msgctxt "Name(fireworkx.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flame.desktop
+msgctxt "Name(flame.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flipflop.desktop
+msgctxt "Name(flipflop.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flipscreen3d.desktop
+msgctxt "Name(flipscreen3d.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fliptext.desktop
+msgctxt "Name(fliptext.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flow.desktop
+msgctxt "Name(flow.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fluidballs.desktop
+msgctxt "Name(fluidballs.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flurry.desktop
+msgctxt "Name(flurry.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flyingtoasters.desktop
+msgctxt "Name(flyingtoasters.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fontglide.desktop
+msgctxt "Name(fontglide.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fuzzyflakes.desktop
+msgctxt "Name(fuzzyflakes.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/galaxy.desktop
+msgctxt "Name(galaxy.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gears.desktop
+msgctxt "Name(gears.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gflux.desktop
+msgctxt "Name(gflux.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glblur.desktop
+msgctxt "Name(glblur.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glcells.desktop
+msgctxt "Name(glcells.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gleidescope.desktop
+msgctxt "Name(gleidescope.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glhanoi.desktop
+msgctxt "Name(glhanoi.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glknots.desktop
+msgctxt "Name(glknots.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glmatrix.desktop
+msgctxt "Name(glmatrix.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glplanet.desktop
+msgctxt "Name(glplanet.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glschool.desktop
+msgctxt "Name(glschool.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glslideshow.desktop
+msgctxt "Name(glslideshow.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glsnake.desktop
+msgctxt "Name(glsnake.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gltext.desktop
+msgctxt "Name(gltext.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/goop.desktop
+msgctxt "Name(goop.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/grav.desktop
+msgctxt "Name(grav.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/greynetic.desktop
+msgctxt "Name(greynetic.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/halftone.desktop
+msgctxt "Name(halftone.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/halo.desktop
+msgctxt "Name(halo.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/helix.desktop
+msgctxt "Name(helix.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/hopalong.desktop
+msgctxt "Name(hopalong.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/hypertorus.desktop
+msgctxt "Name(hypertorus.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ifs.desktop
+msgctxt "Name(ifs.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/imsmap.desktop
+msgctxt "Name(imsmap.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/interaggregate.desktop
+msgctxt "Name(interaggregate.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/interference.desktop
+msgctxt "Name(interference.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/intermomentary.desktop
+msgctxt "Name(intermomentary.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/jigglypuff.desktop
+msgctxt "Name(jigglypuff.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/jigsaw.desktop
+msgctxt "Name(jigsaw.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/juggler3d.desktop
+msgctxt "Name(juggler3d.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/julia.desktop
+msgctxt "Name(julia.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kaleidescope.desktop
+msgctxt "Name(kaleidescope.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/klein.desktop
+msgctxt "Name(klein.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kpartsaver.desktop
+msgctxt "Name(kpartsaver.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ktux.desktop
+msgctxt "Name(ktux.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kumppa.desktop
+msgctxt "Name(kumppa.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lament.desktop
+msgctxt "Name(lament.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lavalite.desktop
+msgctxt "Name(lavalite.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lockward.desktop
+msgctxt "Name(lockward.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/loop.desktop
+msgctxt "Name(loop.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/m6502.desktop
+msgctxt "Name(m6502.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/maze.desktop
+msgctxt "Name(maze.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/memscroller.desktop
+msgctxt "Name(memscroller.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/menger.desktop
+msgctxt "Name(menger.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/metaballs.desktop
+msgctxt "Name(metaballs.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/mirrorblob.desktop
+msgctxt "Name(mirrorblob.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moebius.desktop
+msgctxt "Name(moebius.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moebiusgears.desktop
+msgctxt "Name(moebiusgears.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moire.desktop
+msgctxt "Name(moire.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moire2.desktop
+msgctxt "Name(moire2.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/molecule.desktop
+msgctxt "Name(molecule.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/morph3d.desktop
+msgctxt "Name(morph3d.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/mountain.desktop
+msgctxt "Name(mountain.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/munch.desktop
+msgctxt "Name(munch.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/nerverot.desktop
+msgctxt "Name(nerverot.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/noof.desktop
+msgctxt "Name(noof.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/noseguy.desktop
+msgctxt "Name(noseguy.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pacman.desktop
+msgctxt "Name(pacman.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pedal.desktop
+msgctxt "Name(pedal.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/penetrate.desktop
+msgctxt "Name(penetrate.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/penrose.desktop
+msgctxt "Name(penrose.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/petri.desktop
+msgctxt "Name(petri.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/phosphor.desktop
+msgctxt "Name(phosphor.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/piecewise.desktop
+msgctxt "Name(piecewise.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pinion.desktop
+msgctxt "Name(pinion.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pipes.desktop
+msgctxt "Name(pipes.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polyhedra.desktop
+msgctxt "Name(polyhedra.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polyominoes.desktop
+msgctxt "Name(polyominoes.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polytopes.desktop
+msgctxt "Name(polytopes.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pong.desktop
+msgctxt "Name(pong.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/popsquares.desktop
+msgctxt "Name(popsquares.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/providence.desktop
+msgctxt "Name(providence.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pulsar.desktop
+msgctxt "Name(pulsar.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pyro.desktop
+msgctxt "Name(pyro.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/qix.desktop
+msgctxt "Name(qix.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/queens.desktop
+msgctxt "Name(queens.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rd-bomb.desktop
+msgctxt "Name(rd-bomb.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ripples.desktop
+msgctxt "Name(ripples.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rocks.desktop
+msgctxt "Name(rocks.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rorschach.desktop
+msgctxt "Name(rorschach.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rotzoomer.desktop
+msgctxt "Name(rotzoomer.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rubik.desktop
+msgctxt "Name(rubik.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sballs.desktop
+msgctxt "Name(sballs.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/shadebobs.desktop
+msgctxt "Name(shadebobs.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sierpinski.desktop
+msgctxt "Name(sierpinski.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sierpinski3d.desktop
+msgctxt "Name(sierpinski3d.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/slidescreen.desktop
+msgctxt "Name(slidescreen.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/slip.desktop
+msgctxt "Name(slip.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sonar.desktop
+msgctxt "Name(sonar.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/speedmine.desktop
+msgctxt "Name(speedmine.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/spheremonics.desktop
+msgctxt "Name(spheremonics.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/spotlight.desktop
+msgctxt "Name(spotlight.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sproingies.desktop
+msgctxt "Name(sproingies.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/squiral.desktop
+msgctxt "Name(squiral.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/stairs.desktop
+msgctxt "Name(stairs.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/starfish.desktop
+msgctxt "Name(starfish.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/starwars.desktop
+msgctxt "Name(starwars.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/stonerview.desktop
+msgctxt "Name(stonerview.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/strange.desktop
+msgctxt "Name(strange.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/substrate.desktop
+msgctxt "Name(substrate.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/superquadrics.desktop
+msgctxt "Name(superquadrics.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/swirl.desktop
+msgctxt "Name(swirl.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/tangram.desktop
+msgctxt "Name(tangram.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/thornbird.desktop
+msgctxt "Name(thornbird.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/timetunnel.desktop
+msgctxt "Name(timetunnel.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/topblock.desktop
+msgctxt "Name(topblock.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/triangle.desktop
+msgctxt "Name(triangle.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/truchet.desktop
+msgctxt "Name(truchet.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/twang.desktop
+msgctxt "Name(twang.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/vermiculate.desktop
+msgctxt "Name(vermiculate.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/vidwhacker.desktop
+msgctxt "Name(vidwhacker.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/voronoi.desktop
+msgctxt "Name(voronoi.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/wander.desktop
+msgctxt "Name(wander.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/whirlwindwarp.desktop
+msgctxt "Name(whirlwindwarp.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/wormhole.desktop
+msgctxt "Name(wormhole.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xanalogtv.desktop
+msgctxt "Name(xanalogtv.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xflame.desktop
+msgctxt "Name(xflame.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xjack.desktop
+msgctxt "Name(xjack.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xlyap.desktop
+msgctxt "Name(xlyap.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xmatrix.desktop
+msgctxt "Name(xmatrix.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xrayswarm.desktop
+msgctxt "Name(xrayswarm.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xspirograph.desktop
+msgctxt "Name(xspirograph.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/zoom.desktop
+msgctxt "Name(zoom.desktop)"
+msgid "Display in Specified Window"
+msgstr "在指定的窗口中显示"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/distort.desktop
+msgctxt "Name(distort.desktop)"
+msgid "Distort"
+msgstr "扭曲透镜"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/drift.desktop
+msgctxt "Name(drift.desktop)"
+msgid "Drift"
+msgstr "宇宙焰火"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/endgame.desktop
+msgctxt "Name(endgame.desktop)"
+msgid "Endgame"
+msgstr "决战"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/engine.desktop
+msgctxt "Name(engine.desktop)"
+msgid "Engine"
+msgstr "引擎"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/epicycle.desktop
+msgctxt "Name(epicycle.desktop)"
+msgid "Epicycle"
+msgstr "周转圆"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/eruption.desktop
+msgctxt "Name(eruption.desktop)"
+msgid "Eruption"
+msgstr "火山爆发"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/euler2d.desktop
+msgctxt "Name(euler2d.desktop)"
+msgid "Euler2d"
+msgstr "欧拉平面"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KEuphoria.desktop
+msgctxt "Name(KEuphoria.desktop)"
+msgid "Euphoria (GL)"
+msgstr "陶醉(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/extrusion.desktop
+msgctxt "Name(extrusion.desktop)"
+msgid "Extrusion"
+msgstr "突出形体"
+
+#: /usr/share/applications/screensavers/f-spot-screensaver.desktop
+msgctxt "Name(f-spot-screensaver.desktop)"
+msgid "F-Spot photos"
+msgstr "F-Spot 照片"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fadeplot.desktop
+msgctxt "Name(fadeplot.desktop)"
+msgid "Fade Plot"
+msgstr "飘逝的彩带"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fiberlamp.desktop
+msgctxt "Name(fiberlamp.desktop)"
+msgid "Fiberlamp"
+msgstr "Fiberlamp"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fireworkx.desktop
+msgctxt "Name(fireworkx.desktop)"
+msgid "Fireworkx"
+msgstr "烟花"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flame.desktop
+msgctxt "Name(flame.desktop)"
+msgid "Flame"
+msgstr "火焰"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flipflop.desktop
+msgctxt "Name(flipflop.desktop)"
+msgid "FlipFlop"
+msgstr "翻转"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fliptext.desktop
+#| msgctxt "Name(keximigrate_txt.desktop)"
+#| msgid "Text"
+msgctxt "Name(fliptext.desktop)"
+msgid "FlipText"
+msgstr "翻滚文本"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flipscreen3d.desktop
+msgctxt "Name(flipscreen3d.desktop)"
+msgid "Flipscreen3d"
+msgstr "立体翻转屏幕"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flow.desktop
+msgctxt "Name(flow.desktop)"
+msgid "Flow"
+msgstr "流动"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fluidballs.desktop
+msgctxt "Name(fluidballs.desktop)"
+msgid "FluidBalls"
+msgstr "液体中的球"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flurry.desktop
+msgctxt "Name(flurry.desktop)"
+msgid "Flurry"
+msgstr "飓风"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KFlux.desktop
+msgctxt "Name(KFlux.desktop)"
+msgid "Flux (GL)"
+msgstr "流动(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flyingtoasters.desktop
+msgctxt "Name(flyingtoasters.desktop)"
+msgid "Flying Toasters"
+msgstr "飞行面包机"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fontglide.desktop
+msgctxt "Name(fontglide.desktop)"
+msgid "FontGlide"
+msgstr "滑翔的字"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/imsmap.desktop
+msgctxt "Name(imsmap.desktop)"
+msgid "Fractal Maps"
+msgstr "分形地图"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fuzzyflakes.desktop
+msgctxt "Name(fuzzyflakes.desktop)"
+msgid "FuzzyFlakes"
+msgstr "模糊薄片"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gflux.desktop
+msgctxt "Name(gflux.desktop)"
+msgid "GFlux"
+msgstr "G流体"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glplanet.desktop
+msgctxt "Name(glplanet.desktop)"
+msgid "GL Planet (GL)"
+msgstr "GL行星(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glblur.desktop
+msgctxt "Name(glblur.desktop)"
+msgid "GLBlur"
+msgstr "GL模糊"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glcells.desktop
+msgctxt "Name(glcells.desktop)"
+msgid "GLCells"
+msgstr "GL分子"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glhanoi.desktop
+msgctxt "Name(glhanoi.desktop)"
+msgid "GLHanoi"
+msgstr "GLHanoi"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glknots.desktop
+msgctxt "Name(glknots.desktop)"
+msgid "GLKnots"
+msgstr "GLKnots"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glmatrix.desktop
+msgctxt "Name(glmatrix.desktop)"
+msgid "GLMatrix"
+msgstr "GL黑客帝国"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glslideshow.desktop
+msgctxt "Name(glslideshow.desktop)"
+msgid "GLSlideshow"
+msgstr "GL幻灯"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glsnake.desktop
+msgctxt "Name(glsnake.desktop)"
+msgid "GLSnake"
+msgstr "GL蛇"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gltext.desktop
+msgctxt "Name(gltext.desktop)"
+msgid "GLText"
+msgstr "GL文字"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/galaxy.desktop
+msgctxt "Name(galaxy.desktop)"
+msgid "Galaxy"
+msgstr "星系"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gears.desktop
+msgctxt "Name(gears.desktop)"
+msgid "Gears (GL)"
+msgstr "齿轮(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gleidescope.desktop
+msgctxt "Name(gleidescope.desktop)"
+msgid "Gleidescope"
+msgstr "Gleidescope"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/goop.desktop
+msgctxt "Name(goop.desktop)"
+msgid "Goop"
+msgstr "蠕动胶体"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/grav.desktop
+msgctxt "Name(grav.desktop)"
+msgid "Gravity"
+msgstr "引力"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KGravity.desktop
+msgctxt "Name(KGravity.desktop)"
+msgid "Gravity (GL)"
+msgstr "重力(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/halftone.desktop
+msgctxt "Name(halftone.desktop)"
+msgid "Halftone"
+msgstr "网板"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/halo.desktop
+msgctxt "Name(halo.desktop)"
+msgid "Halo"
+msgstr "晕轮"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/helix.desktop
+msgctxt "Name(helix.desktop)"
+msgid "Helix"
+msgstr "螺旋"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/hopalong.desktop
+msgctxt "Name(hopalong.desktop)"
+msgid "Hopalong"
+msgstr "分形花边"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/interaggregate.desktop
+msgctxt "Name(interaggregate.desktop)"
+msgid "Interaggregate"
+msgstr "Interaggregate"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/interference.desktop
+msgctxt "Name(interference.desktop)"
+msgid "Interference"
+msgstr "干涉"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/intermomentary.desktop
+msgctxt "Name(intermomentary.desktop)"
+msgid "Intermomentary"
+msgstr "干涉"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ifs.desktop
+msgctxt "Name(ifs.desktop)"
+msgid "Iterated-function-system Images"
+msgstr "迭代函数系统图形"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/jigglypuff.desktop
+msgctxt "Name(jigglypuff.desktop)"
+msgid "JigglyPuff"
+msgstr "JigglyPuff"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/jigsaw.desktop
+msgctxt "Name(jigsaw.desktop)"
+msgid "Jigsaw"
+msgstr "拼图"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/juggler3d.desktop
+msgctxt "Name(juggler3d.desktop)"
+msgid "Juggler3D"
+msgstr "三维杂耍"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/julia.desktop
+msgctxt "Name(julia.desktop)"
+msgid "Julia"
+msgstr "Julia 集"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KPendulum.desktop
+msgctxt "Name(KPendulum.desktop)"
+msgid "KPendulum (GL)"
+msgstr "K 钟摆(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KRotation.desktop
+msgctxt "Name(KRotation.desktop)"
+msgid "KRotation (GL)"
+msgstr "K 旋转(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ktux.desktop
+msgctxt "Name(ktux.desktop)"
+msgid "KTux"
+msgstr "KTux"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kaleidescope.desktop
+msgctxt "Name(kaleidescope.desktop)"
+msgid "Kaleidescope"
+msgstr "万花筒"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/klein.desktop
+msgctxt "Name(klein.desktop)"
+msgid "Klein"
+msgstr "Klein"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kumppa.desktop
+msgctxt "Name(kumppa.desktop)"
+msgid "Kumppa"
+msgstr "旋转俯冲"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lament.desktop
+msgctxt "Name(lament.desktop)"
+msgid "Lament (GL)"
+msgstr "Lemarchand 的箱子 (GL)"
+
+#: /etc/xdg/autostart/gnome-screensaver.desktop
+msgctxt "Comment(gnome-screensaver.desktop)"
+msgid "Launch screensaver and locker program"
+msgstr "加载屏幕保护并锁定程序"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lavalite.desktop
+msgctxt "Name(lavalite.desktop)"
+msgid "LavaLite"
+msgstr "小型熔岩"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KLines-saver.desktop
+msgctxt "Name(KLines-saver.desktop)"
+msgid "Lines"
+msgstr "线条"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lockward.desktop
+msgctxt "Name(lockward.desktop)"
+msgid "Lockward"
+msgstr "旋转色带"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/loop.desktop
+msgctxt "Name(loop.desktop)"
+msgid "Loop"
+msgstr "循环"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KLorenz.desktop
+msgctxt "Name(KLorenz.desktop)"
+msgid "Lorenz Attractor"
+msgstr "洛仑兹吸引子"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/m6502.desktop
+msgctxt "Name(m6502.desktop)"
+msgid "M6502"
+msgstr "M6502 微处理器"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/maze.desktop
+msgctxt "Name(maze.desktop)"
+msgid "Maze"
+msgstr "迷宫"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kpartsaver.desktop
+msgctxt "Name(kpartsaver.desktop)"
+msgid "Media Screen Saver"
+msgstr "媒体屏幕保护程序"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/memscroller.desktop
+msgctxt "Name(memscroller.desktop)"
+msgid "MemScroller"
+msgstr "内存滚动条"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/menger.desktop
+msgctxt "Name(menger.desktop)"
+msgid "Menger"
+msgstr "门格海绵"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/metaballs.desktop
+msgctxt "Name(metaballs.desktop)"
+msgid "MetaBalls"
+msgstr "元球"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/mirrorblob.desktop
+msgctxt "Name(mirrorblob.desktop)"
+msgid "MirrorBlob"
+msgstr "魔镜"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moebius.desktop
+msgctxt "Name(moebius.desktop)"
+msgid "Moebius (GL)"
+msgstr "墨比乌斯带(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moebiusgears.desktop
+msgctxt "Name(moebiusgears.desktop)"
+msgid "MoebiusGears"
+msgstr "墨比乌斯轮"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moire.desktop
+msgctxt "Name(moire.desktop)"
+msgid "Moire"
+msgstr "干涉波纹"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moire2.desktop
+msgctxt "Name(moire2.desktop)"
+msgid "Moire2"
+msgstr "干涉波纹2"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/molecule.desktop
+msgctxt "Name(molecule.desktop)"
+msgid "Molecule"
+msgstr "分子"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/morph3d.desktop
+msgctxt "Name(morph3d.desktop)"
+msgid "Morph3D"
+msgstr "立体变形"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/mountain.desktop
+msgctxt "Name(mountain.desktop)"
+msgid "Mountain"
+msgstr "山峰"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/munch.desktop
+msgctxt "Name(munch.desktop)"
+msgid "Munch"
+msgstr "咀嚼"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/nerverot.desktop
+msgctxt "Name(nerverot.desktop)"
+msgid "NerveRot"
+msgstr "神经错乱"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/noof.desktop
+msgctxt "Name(noof.desktop)"
+msgid "Noof"
+msgstr "多彩风车"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/noseguy.desktop
+msgctxt "Name(noseguy.desktop)"
+msgid "Noseguy"
+msgstr "大鼻头"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pacman.desktop
+msgctxt "Name(pacman.desktop)"
+msgid "Pacman"
+msgstr "吃豆人"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KFountain.desktop
+msgctxt "Name(KFountain.desktop)"
+msgid "Particle Fountain (GL)"
+msgstr "粒子喷泉(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pedal.desktop
+msgctxt "Name(pedal.desktop)"
+msgid "Pedal"
+msgstr "脚踏轮"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/penetrate.desktop
+msgctxt "Name(penetrate.desktop)"
+msgid "Penetrate"
+msgstr "贯穿"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/penrose.desktop
+msgctxt "Name(penrose.desktop)"
+msgid "Penrose"
+msgstr "彭罗斯球"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/petri.desktop
+msgctxt "Name(petri.desktop)"
+msgid "Petri"
+msgstr "培养皿"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/phosphor.desktop
+msgctxt "Name(phosphor.desktop)"
+msgid "Phosphor"
+msgstr "荧光终端"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/piecewise.desktop
+msgctxt "Name(piecewise.desktop)"
+msgid "Piecewise"
+msgstr "分段"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pinion.desktop
+msgctxt "Name(pinion.desktop)"
+msgid "Pinion"
+msgstr "乓"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pipes.desktop
+msgctxt "Name(pipes.desktop)"
+msgid "Pipes - another (GL)"
+msgstr "管道 - 另一个(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KPolygon.desktop
+msgctxt "Name(KPolygon.desktop)"
+msgid "Polygons"
+msgstr "多边形"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polyhedra.desktop
+msgctxt "Name(polyhedra.desktop)"
+msgid "Polyhedra"
+msgstr "多面体"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polyominoes.desktop
+msgctxt "Name(polyominoes.desktop)"
+msgid "Polyominoes"
+msgstr "多联骨牌"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pong.desktop
+msgctxt "Name(pong.desktop)"
+msgid "Pong"
+msgstr "乓"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/popsquares.desktop
+msgctxt "Name(popsquares.desktop)"
+msgid "Popsquares"
+msgstr "跳跳方"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/providence.desktop
+msgctxt "Name(providence.desktop)"
+msgid "Providence"
+msgstr "上帝"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pulsar.desktop
+msgctxt "Name(pulsar.desktop)"
+msgid "Pulsar (GL)"
+msgstr "脉冲星(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pyro.desktop
+msgctxt "Name(pyro.desktop)"
+msgid "Pyro"
+msgstr "焰火"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/qix.desktop
+msgctxt "Name(qix.desktop)"
+msgid "Qix"
+msgstr "跳动的线条"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/queens.desktop
+msgctxt "Name(queens.desktop)"
+msgid "Queens"
+msgstr "皇后"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rd-bomb.desktop
+msgctxt "Name(rd-bomb.desktop)"
+msgid "RD-Bomb"
+msgstr "炸弹"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KRandom.desktop
+msgctxt "Name(KRandom.desktop)"
+msgid "Random"
+msgstr "随机"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polytopes.desktop
+msgctxt "Name(polytopes.desktop)"
+msgid "Regular 4D Polytopes"
+msgstr "规则 4D 多面体"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ripples.desktop
+msgctxt "Name(ripples.desktop)"
+msgid "Ripples"
+msgstr "雨打屏幕"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rocks.desktop
+msgctxt "Name(rocks.desktop)"
+msgid "Rocks"
+msgstr "陨石"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rorschach.desktop
+msgctxt "Name(rorschach.desktop)"
+msgid "Rorschach"
+msgstr "墨迹"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rotzoomer.desktop
+msgctxt "Name(rotzoomer.desktop)"
+msgid "RotZoomer"
+msgstr "转动缩放"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rubik.desktop
+msgctxt "Name(rubik.desktop)"
+msgid "Rubik Cube (GL)"
+msgstr "魔方(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sballs.desktop
+msgctxt "Name(sballs.desktop)"
+msgid "Sballs"
+msgstr "旋转球"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KScience.desktop
+msgctxt "Name(KScience.desktop)"
+msgid "Science"
+msgstr "科学"
+
+#: /opt/kde3/share/applications/kde/screensaver.desktop
+msgctxt "Name(screensaver.desktop)"
+msgid "Screen Saver"
+msgstr "屏幕保护程序"
+
+#: /opt/kde3/share/applications/kde/screensaver.desktop
+msgctxt "Comment(screensaver.desktop)"
+msgid "Screen Saver Settings"
+msgstr "屏幕保护程序设置"
+
+#: /etc/xdg/autostart/gnome-screensaver.desktop
+msgctxt "Name(gnome-screensaver.desktop)"
+msgid "Screensaver"
+msgstr "屏幕保护程序"
+
+#: /usr/share/applications/xscreensaver-properties.desktop
+msgctxt "Name(xscreensaver-properties.desktop)"
+msgid "Screensaver"
+msgstr "屏幕保护程序"
+
+#: /usr/share/applications/xscreensaver-properties.desktop
+msgctxt "GenericName(xscreensaver-properties.desktop)"
+msgid "Screensaver properties"
+msgstr "屏幕保护程序属性"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBanner.desktop
+msgctxt "Name(KBanner.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBlankscreen.desktop
+msgctxt "Name(KBlankscreen.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KBlob.desktop
+msgctxt "Name(KBlob.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KClock.desktop
+msgctxt "Name(KClock.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KEuphoria.desktop
+msgctxt "Name(KEuphoria.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KFlux.desktop
+msgctxt "Name(KFlux.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KFountain.desktop
+msgctxt "Name(KFountain.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KGravity.desktop
+msgctxt "Name(KGravity.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KLines-saver.desktop
+msgctxt "Name(KLines-saver.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KLorenz.desktop
+msgctxt "Name(KLorenz.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KPendulum.desktop
+msgctxt "Name(KPendulum.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KPolygon.desktop
+msgctxt "Name(KPolygon.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KRandom.desktop
+msgctxt "Name(KRandom.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KRotation.desktop
+msgctxt "Name(KRotation.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KScience.desktop
+msgctxt "Name(KScience.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSlideshow.desktop
+msgctxt "Name(KSlideshow.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSolarWinds.desktop
+msgctxt "Name(KSolarWinds.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSpace.desktop
+msgctxt "Name(KSpace.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSwarm.desktop
+msgctxt "Name(KSwarm.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KVm.desktop
+msgctxt "Name(KVm.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KWave.desktop
+msgctxt "Name(KWave.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/abstractile.desktop
+msgctxt "Name(abstractile.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/anemone.desktop
+msgctxt "Name(anemone.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/anemotaxis.desktop
+msgctxt "Name(anemotaxis.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antinspect.desktop
+msgctxt "Name(antinspect.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antmaze.desktop
+msgctxt "Name(antmaze.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/antspotlight.desktop
+msgctxt "Name(antspotlight.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/apollonian.desktop
+msgctxt "Name(apollonian.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/apple2.desktop
+msgctxt "Name(apple2.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/atlantis.desktop
+msgctxt "Name(atlantis.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/attraction.desktop
+msgctxt "Name(attraction.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/atunnel.desktop
+msgctxt "Name(atunnel.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/barcode.desktop
+msgctxt "Name(barcode.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blaster.desktop
+msgctxt "Name(blaster.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blinkbox.desktop
+msgctxt "Name(blinkbox.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blitspin.desktop
+msgctxt "Name(blitspin.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/blocktube.desktop
+msgctxt "Name(blocktube.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boing.desktop
+msgctxt "Name(boing.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bouboule.desktop
+msgctxt "Name(bouboule.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bouncingcow.desktop
+msgctxt "Name(bouncingcow.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boxed.desktop
+msgctxt "Name(boxed.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/boxfit.desktop
+msgctxt "Name(boxfit.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/braid.desktop
+msgctxt "Name(braid.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bsod.desktop
+msgctxt "Name(bsod.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bubble3d.desktop
+msgctxt "Name(bubble3d.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/bumps.desktop
+msgctxt "Name(bumps.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cage.desktop
+msgctxt "Name(cage.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/carousel.desktop
+msgctxt "Name(carousel.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ccurve.desktop
+msgctxt "Name(ccurve.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/celtic.desktop
+msgctxt "Name(celtic.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/circuit.desktop
+msgctxt "Name(circuit.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cloudlife.desktop
+msgctxt "Name(cloudlife.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/compass.desktop
+msgctxt "Name(compass.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/coral.desktop
+msgctxt "Name(coral.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/crackberg.desktop
+msgctxt "Name(crackberg.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/crystal.desktop
+msgctxt "Name(crystal.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cube21.desktop
+msgctxt "Name(cube21.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cubenetic.desktop
+msgctxt "Name(cubenetic.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cubestorm.desktop
+msgctxt "Name(cubestorm.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cwaves.desktop
+msgctxt "Name(cwaves.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/cynosure.desktop
+msgctxt "Name(cynosure.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/dangerball.desktop
+msgctxt "Name(dangerball.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/decayscreen.desktop
+msgctxt "Name(decayscreen.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/deco.desktop
+msgctxt "Name(deco.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/deluxe.desktop
+msgctxt "Name(deluxe.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/demon.desktop
+msgctxt "Name(demon.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/discrete.desktop
+msgctxt "Name(discrete.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/distort.desktop
+msgctxt "Name(distort.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/drift.desktop
+msgctxt "Name(drift.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/endgame.desktop
+msgctxt "Name(endgame.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/engine.desktop
+msgctxt "Name(engine.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/epicycle.desktop
+msgctxt "Name(epicycle.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/eruption.desktop
+msgctxt "Name(eruption.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/euler2d.desktop
+msgctxt "Name(euler2d.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/extrusion.desktop
+msgctxt "Name(extrusion.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fadeplot.desktop
+msgctxt "Name(fadeplot.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fiberlamp.desktop
+msgctxt "Name(fiberlamp.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fireworkx.desktop
+msgctxt "Name(fireworkx.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flame.desktop
+msgctxt "Name(flame.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flipflop.desktop
+msgctxt "Name(flipflop.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flipscreen3d.desktop
+msgctxt "Name(flipscreen3d.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fliptext.desktop
+msgctxt "Name(fliptext.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flow.desktop
+msgctxt "Name(flow.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fluidballs.desktop
+msgctxt "Name(fluidballs.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flurry.desktop
+msgctxt "Name(flurry.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/flyingtoasters.desktop
+msgctxt "Name(flyingtoasters.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fontglide.desktop
+msgctxt "Name(fontglide.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/fuzzyflakes.desktop
+msgctxt "Name(fuzzyflakes.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/galaxy.desktop
+msgctxt "Name(galaxy.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gears.desktop
+msgctxt "Name(gears.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gflux.desktop
+msgctxt "Name(gflux.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glblur.desktop
+msgctxt "Name(glblur.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glcells.desktop
+msgctxt "Name(glcells.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gleidescope.desktop
+msgctxt "Name(gleidescope.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glhanoi.desktop
+msgctxt "Name(glhanoi.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glknots.desktop
+msgctxt "Name(glknots.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glmatrix.desktop
+msgctxt "Name(glmatrix.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glplanet.desktop
+msgctxt "Name(glplanet.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glschool.desktop
+msgctxt "Name(glschool.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glslideshow.desktop
+msgctxt "Name(glslideshow.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glsnake.desktop
+msgctxt "Name(glsnake.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/gltext.desktop
+msgctxt "Name(gltext.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/goop.desktop
+msgctxt "Name(goop.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/grav.desktop
+msgctxt "Name(grav.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/greynetic.desktop
+msgctxt "Name(greynetic.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/halftone.desktop
+msgctxt "Name(halftone.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/halo.desktop
+msgctxt "Name(halo.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/helix.desktop
+msgctxt "Name(helix.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/hopalong.desktop
+msgctxt "Name(hopalong.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/hypertorus.desktop
+msgctxt "Name(hypertorus.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ifs.desktop
+msgctxt "Name(ifs.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/imsmap.desktop
+msgctxt "Name(imsmap.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/interaggregate.desktop
+msgctxt "Name(interaggregate.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/interference.desktop
+msgctxt "Name(interference.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/intermomentary.desktop
+msgctxt "Name(intermomentary.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/jigglypuff.desktop
+msgctxt "Name(jigglypuff.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/jigsaw.desktop
+msgctxt "Name(jigsaw.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/juggler3d.desktop
+msgctxt "Name(juggler3d.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/julia.desktop
+msgctxt "Name(julia.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kaleidescope.desktop
+msgctxt "Name(kaleidescope.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/klein.desktop
+msgctxt "Name(klein.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kpartsaver.desktop
+msgctxt "Name(kpartsaver.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ktux.desktop
+msgctxt "Name(ktux.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/kumppa.desktop
+msgctxt "Name(kumppa.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lament.desktop
+msgctxt "Name(lament.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lavalite.desktop
+msgctxt "Name(lavalite.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/lockward.desktop
+msgctxt "Name(lockward.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/loop.desktop
+msgctxt "Name(loop.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/m6502.desktop
+msgctxt "Name(m6502.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/maze.desktop
+msgctxt "Name(maze.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/memscroller.desktop
+msgctxt "Name(memscroller.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/menger.desktop
+msgctxt "Name(menger.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/metaballs.desktop
+msgctxt "Name(metaballs.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/mirrorblob.desktop
+msgctxt "Name(mirrorblob.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moebius.desktop
+msgctxt "Name(moebius.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moebiusgears.desktop
+msgctxt "Name(moebiusgears.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moire.desktop
+msgctxt "Name(moire.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/moire2.desktop
+msgctxt "Name(moire2.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/molecule.desktop
+msgctxt "Name(molecule.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/morph3d.desktop
+msgctxt "Name(morph3d.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/mountain.desktop
+msgctxt "Name(mountain.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/munch.desktop
+msgctxt "Name(munch.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/nerverot.desktop
+msgctxt "Name(nerverot.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/noof.desktop
+msgctxt "Name(noof.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/noseguy.desktop
+msgctxt "Name(noseguy.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pacman.desktop
+msgctxt "Name(pacman.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pedal.desktop
+msgctxt "Name(pedal.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/penetrate.desktop
+msgctxt "Name(penetrate.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/penrose.desktop
+msgctxt "Name(penrose.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/petri.desktop
+msgctxt "Name(petri.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/phosphor.desktop
+msgctxt "Name(phosphor.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/piecewise.desktop
+msgctxt "Name(piecewise.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pinion.desktop
+msgctxt "Name(pinion.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pipes.desktop
+msgctxt "Name(pipes.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polyhedra.desktop
+msgctxt "Name(polyhedra.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polyominoes.desktop
+msgctxt "Name(polyominoes.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/polytopes.desktop
+msgctxt "Name(polytopes.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pong.desktop
+msgctxt "Name(pong.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/popsquares.desktop
+msgctxt "Name(popsquares.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/providence.desktop
+msgctxt "Name(providence.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pulsar.desktop
+msgctxt "Name(pulsar.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/pyro.desktop
+msgctxt "Name(pyro.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/qix.desktop
+msgctxt "Name(qix.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/queens.desktop
+msgctxt "Name(queens.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rd-bomb.desktop
+msgctxt "Name(rd-bomb.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/ripples.desktop
+msgctxt "Name(ripples.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rocks.desktop
+msgctxt "Name(rocks.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rorschach.desktop
+msgctxt "Name(rorschach.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rotzoomer.desktop
+msgctxt "Name(rotzoomer.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/rubik.desktop
+msgctxt "Name(rubik.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sballs.desktop
+msgctxt "Name(sballs.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/shadebobs.desktop
+msgctxt "Name(shadebobs.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sierpinski.desktop
+msgctxt "Name(sierpinski.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sierpinski3d.desktop
+msgctxt "Name(sierpinski3d.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/slidescreen.desktop
+msgctxt "Name(slidescreen.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/slip.desktop
+msgctxt "Name(slip.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sonar.desktop
+msgctxt "Name(sonar.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/speedmine.desktop
+msgctxt "Name(speedmine.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/spheremonics.desktop
+msgctxt "Name(spheremonics.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/spotlight.desktop
+msgctxt "Name(spotlight.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sproingies.desktop
+msgctxt "Name(sproingies.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/squiral.desktop
+msgctxt "Name(squiral.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/stairs.desktop
+msgctxt "Name(stairs.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/starfish.desktop
+msgctxt "Name(starfish.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/starwars.desktop
+msgctxt "Name(starwars.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/stonerview.desktop
+msgctxt "Name(stonerview.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/strange.desktop
+msgctxt "Name(strange.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/substrate.desktop
+msgctxt "Name(substrate.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/superquadrics.desktop
+msgctxt "Name(superquadrics.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/swirl.desktop
+msgctxt "Name(swirl.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/tangram.desktop
+msgctxt "Name(tangram.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/thornbird.desktop
+msgctxt "Name(thornbird.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/timetunnel.desktop
+msgctxt "Name(timetunnel.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/topblock.desktop
+msgctxt "Name(topblock.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/triangle.desktop
+msgctxt "Name(triangle.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/truchet.desktop
+msgctxt "Name(truchet.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/twang.desktop
+msgctxt "Name(twang.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/vermiculate.desktop
+msgctxt "Name(vermiculate.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/vidwhacker.desktop
+msgctxt "Name(vidwhacker.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/voronoi.desktop
+msgctxt "Name(voronoi.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/wander.desktop
+msgctxt "Name(wander.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/whirlwindwarp.desktop
+msgctxt "Name(whirlwindwarp.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/wormhole.desktop
+msgctxt "Name(wormhole.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xanalogtv.desktop
+msgctxt "Name(xanalogtv.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xflame.desktop
+msgctxt "Name(xflame.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xjack.desktop
+msgctxt "Name(xjack.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xlyap.desktop
+msgctxt "Name(xlyap.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xmatrix.desktop
+msgctxt "Name(xmatrix.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xrayswarm.desktop
+msgctxt "Name(xrayswarm.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xspirograph.desktop
+msgctxt "Name(xspirograph.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/zoom.desktop
+msgctxt "Name(zoom.desktop)"
+msgid "Setup..."
+msgstr "设置..."
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/shadebobs.desktop
+msgctxt "Name(shadebobs.desktop)"
+msgid "ShadeBobs"
+msgstr "霓虹灯管"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sierpinski.desktop
+msgctxt "Name(sierpinski.desktop)"
+msgid "Sierpinski"
+msgstr "谢尔宾斯基三角形"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sierpinski3d.desktop
+msgctxt "Name(sierpinski3d.desktop)"
+msgid "Sierpinski3D"
+msgstr "谢尔宾斯基立体三角锥"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSlideshow.desktop
+msgctxt "Name(KSlideshow.desktop)"
+msgid "Slide Show"
+msgstr "幻灯播放"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/slidescreen.desktop
+msgctxt "Name(slidescreen.desktop)"
+msgid "SlideScreen"
+msgstr "滑动屏幕"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/slip.desktop
+msgctxt "Name(slip.desktop)"
+msgid "Slip"
+msgstr "走光"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSolarWinds.desktop
+msgctxt "Name(KSolarWinds.desktop)"
+msgid "Solar Winds (GL)"
+msgstr "太阳风(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sonar.desktop
+msgctxt "Name(sonar.desktop)"
+msgid "Sonar"
+msgstr "声纳"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSpace.desktop
+msgctxt "Name(KSpace.desktop)"
+msgid "Space (GL)"
+msgstr "星际空间(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/speedmine.desktop
+msgctxt "Name(speedmine.desktop)"
+msgid "SpeedMine"
+msgstr "极速矿井"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/spheremonics.desktop
+msgctxt "Name(spheremonics.desktop)"
+msgid "Spheremonics"
+msgstr "球体谐波"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/spotlight.desktop
+msgctxt "Name(spotlight.desktop)"
+msgid "Spotlight"
+msgstr "聚光灯"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/sproingies.desktop
+msgctxt "Name(sproingies.desktop)"
+msgid "Sproingies (GL)"
+msgstr "垃圾山 (GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/squiral.desktop
+msgctxt "Name(squiral.desktop)"
+msgid "Squiral"
+msgstr "方螺旋"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/stairs.desktop
+msgctxt "Name(stairs.desktop)"
+msgid "Stairs (GL)"
+msgstr "楼梯(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/starwars.desktop
+msgctxt "Name(starwars.desktop)"
+msgid "StarWars"
+msgstr "星球大战"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/starfish.desktop
+msgctxt "Name(starfish.desktop)"
+msgid "Starfish"
+msgstr "海星"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/stonerview.desktop
+msgctxt "Name(stonerview.desktop)"
+msgid "StonerView"
+msgstr "藏宝图"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/strange.desktop
+msgctxt "Name(strange.desktop)"
+msgid "Strange"
+msgstr "奇异吸引"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/substrate.desktop
+msgctxt "Name(substrate.desktop)"
+msgid "Substrate"
+msgstr "基板"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/superquadrics.desktop
+msgctxt "Name(superquadrics.desktop)"
+msgid "Superquadrics (GL)"
+msgstr "超二次曲面(GL)"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KSwarm.desktop
+msgctxt "Name(KSwarm.desktop)"
+msgid "Swarm"
+msgstr "蜂群"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/swirl.desktop
+msgctxt "Name(swirl.desktop)"
+msgid "Swirl"
+msgstr "漩涡"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/tangram.desktop
+msgctxt "Name(tangram.desktop)"
+msgid "Tangram"
+msgstr "七巧板"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xmatrix.desktop
+msgctxt "Name(xmatrix.desktop)"
+msgid "The Matrix"
+msgstr "黑客帝国"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/thornbird.desktop
+msgctxt "Name(thornbird.desktop)"
+msgid "Thornbird"
+msgstr "荆棘鸟"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/timetunnel.desktop
+#| msgctxt "Name(atunnel.desktop)"
+#| msgid "Atunnel"
+msgctxt "Name(timetunnel.desktop)"
+msgid "Timetunnel"
+msgstr "时间隧道"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/triangle.desktop
+msgctxt "Name(triangle.desktop)"
+msgid "Triangle"
+msgstr "三角形"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/truchet.desktop
+msgctxt "Name(truchet.desktop)"
+msgid "Truchet"
+msgstr "拼接线条"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/twang.desktop
+msgctxt "Name(twang.desktop)"
+msgid "Twang"
+msgstr "拨弄屏幕碎块"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/vermiculate.desktop
+msgctxt "Name(vermiculate.desktop)"
+msgid "Vermiculate"
+msgstr "蠕虫窜动"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/KVm.desktop
+msgctxt "Name(KVm.desktop)"
+msgid "Virtual Machine"
+msgstr "虚拟机"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/voronoi.desktop
+msgctxt "Name(voronoi.desktop)"
+msgid "Voronoi"
+msgstr "细胞"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/wander.desktop
+msgctxt "Name(wander.desktop)"
+msgid "Wander"
+msgstr "徘徊"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/whirlwindwarp.desktop
+msgctxt "Name(whirlwindwarp.desktop)"
+msgid "WhirlwindWarp"
+msgstr "旋风"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/wormhole.desktop
+msgctxt "Name(wormhole.desktop)"
+msgid "Wormhole"
+msgstr "虫洞"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xanalogtv.desktop
+msgctxt "Name(xanalogtv.desktop)"
+msgid "XAnalogTV"
+msgstr "模拟电视"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xflame.desktop
+msgctxt "Name(xflame.desktop)"
+msgid "XFlame"
+msgstr "火焰"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xjack.desktop
+msgctxt "Name(xjack.desktop)"
+msgid "XJack"
+msgstr "疯子"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xrayswarm.desktop
+msgctxt "Name(xrayswarm.desktop)"
+msgid "XRaySwarm"
+msgstr "闪光飞行虫"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xspirograph.desktop
+msgctxt "Name(xspirograph.desktop)"
+msgid "XSpiroGraph"
+msgstr "旋转圆弧花纹"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/xlyap.desktop
+msgctxt "Name(xlyap.desktop)"
+msgid "Xlyap"
+msgstr "Xlyap"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/zoom.desktop
+msgctxt "Name(zoom.desktop)"
+msgid "Zoom"
+msgstr "超级放大"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/glschool.desktop
+msgctxt "Name(glschool.desktop)"
+msgid "glschool"
+msgstr "glschool"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/greynetic.desktop
+msgctxt "Name(greynetic.desktop)"
+msgid "graynetic"
+msgstr "灰色情怀"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/topblock.desktop
+#| msgctxt "Name(kblocks.desktop)"
+#| msgid "KBlocks"
+msgctxt "Name(topblock.desktop)"
+msgid "topBlock"
+msgstr "3D 积木雨"
+
+#: /opt/kde3/share/applnk/System/ScreenSavers/vidwhacker.desktop
+msgctxt "Name(vidwhacker.desktop)"
+msgid "vidwhacker"
+msgstr "视频混排"
+

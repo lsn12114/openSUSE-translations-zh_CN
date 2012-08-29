@@ -1,0 +1,5770 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Base\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:30+0200\n"
+"PO-Revision-Date: 2012-07-19 23:25+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: data/country.ycp:11 data/country_long.ycp:12
+msgid "United Arab Emirates"
+msgstr "阿拉伯联合酋长国"
+
+#: data/country.ycp:12 data/country_long.ycp:123
+msgid "Albania"
+msgstr "阿尔巴尼亚"
+
+#: data/country.ycp:13 data/country_long.ycp:60
+msgid "Argentina"
+msgstr "阿根廷"
+
+#: data/country.ycp:14 data/country_long.ycp:39
+msgid "Austria"
+msgstr "奥地利"
+
+#: data/country.ycp:15 data/country_long.ycp:45
+msgid "Australia"
+msgstr "澳大利亚"
+
+#: data/country.ycp:16 data/country_long.ycp:34
+msgid "Bosnia and Herzegowina"
+msgstr "波斯尼亚和黑塞哥维那"
+
+#: data/country.ycp:17 data/country_long.ycp:40 data/country_long.ycp:47
+#: data/country_long.ycp:84 data/country_long.ycp:109
+msgid "Belgium"
+msgstr "比利时"
+
+#: data/country.ycp:18 data/country_long.ycp:31
+msgid "Bulgaria"
+msgstr "保加利亚"
+
+#: data/country.ycp:19 data/country_long.ycp:13
+msgid "Bahrein"
+msgstr "巴林"
+
+#: data/country.ycp:20 data/country_long.ycp:32
+msgid "Bangladesh"
+msgstr "孟加拉国"
+
+#: data/country.ycp:21 data/country_long.ycp:61
+msgid "Bolivia"
+msgstr "玻利维亚"
+
+#: data/country.ycp:22 data/country_long.ycp:115
+msgid "Brasil"
+msgstr "巴西"
+
+#: data/country.ycp:23 data/country_long.ycp:46
+msgid "Botswana"
+msgstr "博茨瓦纳"
+
+#: data/country.ycp:24 data/country_long.ycp:30
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+#: data/country.ycp:25 data/country_long.ycp:48 data/country_long.ycp:85
+msgid "Canada"
+msgstr "加拿大"
+
+#: data/country.ycp:26 data/country_long.ycp:41 data/country_long.ycp:86
+#: data/country_long.ycp:97
+msgid "Switzerland"
+msgstr "瑞士"
+
+#: data/country.ycp:27 data/country_long.ycp:62
+msgid "Chile"
+msgstr "智利"
+
+#: data/country.ycp:28 data/country_long.ycp:137
+msgid "Peoples Republic of China"
+msgstr "中华人民共和国"
+
+#: data/country.ycp:29 data/country_long.ycp:63
+msgid "Colombia"
+msgstr "哥伦比亚"
+
+#: data/country.ycp:30 data/country_long.ycp:64
+msgid "Costa Rica"
+msgstr "哥斯达黎加"
+
+#: data/country.ycp:31 data/country_long.ycp:36
+msgid "Czech Republic"
+msgstr "捷克共和国"
+
+#: data/country.ycp:32 data/country_long.ycp:42
+msgid "Germany"
+msgstr "德国"
+
+#: data/country.ycp:33 data/country_long.ycp:38 data/country_long.ycp:49
+msgid "Denmark"
+msgstr "丹麦"
+
+#: data/country.ycp:34 data/country_long.ycp:65
+msgid "Dominican Republic"
+msgstr "多米尼加共和国"
+
+#: data/country.ycp:35 data/country_long.ycp:14
+msgid "Algeria"
+msgstr "阿尔及利亚"
+
+#: data/country.ycp:36 data/country_long.ycp:66
+msgid "Ecuador"
+msgstr "厄瓜多尔"
+
+#: data/country.ycp:37 data/country_long.ycp:80
+msgid "Estonia"
+msgstr "爱沙尼亚"
+
+#: data/country.ycp:38 data/country_long.ycp:15
+msgid "Egypt"
+msgstr "埃及"
+
+#: data/country.ycp:39 data/country_long.ycp:35
+msgid "Catalonia"
+msgstr "加泰罗尼亚"
+
+#: data/country.ycp:40 data/country_long.ycp:67 data/country_long.ycp:81
+#: data/country_long.ycp:90
+msgid "Spain"
+msgstr "西班牙"
+
+#: data/country.ycp:41 data/country_long.ycp:82 data/country_long.ycp:125
+msgid "Finland"
+msgstr "芬兰"
+
+#: data/country.ycp:42 data/country_long.ycp:83
+msgid "Faroe Islands"
+msgstr "法罗群岛"
+
+#: data/country.ycp:43 data/country_long.ycp:33 data/country_long.ycp:87
+#: data/country_long.ycp:113
+msgid "France"
+msgstr "法国"
+
+#: data/country.ycp:44 data/country_long.ycp:37 data/country_long.ycp:50
+#: data/country_long.ycp:91 data/country_long.ycp:102
+msgid "Great Britain"
+msgstr "英国"
+
+#: data/country.ycp:45 data/country_long.ycp:100
+msgid "Georgia"
+msgstr "格鲁吉亚"
+
+#: data/country.ycp:46 data/country_long.ycp:101
+msgid "Greenland"
+msgstr "格陵兰"
+
+#: data/country.ycp:47 data/country_long.ycp:44
+msgid "Greece"
+msgstr "希腊"
+
+#: data/country.ycp:48 data/country_long.ycp:68
+msgid "Guatemala"
+msgstr "危地马拉"
+
+#: data/country.ycp:49 data/country_long.ycp:51 data/country_long.ycp:138
+msgid "Hong Kong"
+msgstr "中国香港特别行政区"
+
+#: data/country.ycp:50 data/country_long.ycp:69
+msgid "Honduras"
+msgstr "洪都拉斯"
+
+#: data/country.ycp:51 data/country_long.ycp:93
+msgid "Croatia"
+msgstr "克罗地亚"
+
+#: data/country.ycp:52 data/country_long.ycp:94
+msgid "Hungary"
+msgstr "匈牙利"
+
+#: data/country.ycp:53 data/country_long.ycp:95
+msgid "Indonesia"
+msgstr "印度尼西亚"
+
+#: data/country.ycp:54 data/country_long.ycp:52 data/country_long.ycp:89
+msgid "Ireland"
+msgstr "爱尔兰"
+
+#: data/country.ycp:55 data/country_long.ycp:92 data/country_long.ycp:99
+msgid "Israel"
+msgstr "以色列"
+
+#: data/country.ycp:56 data/country_long.ycp:16 data/country_long.ycp:53
+#: data/country_long.ycp:127 data/country_long.ycp:128
+msgid "India"
+msgstr "印度"
+
+#: data/country.ycp:57 data/country_long.ycp:17
+msgid "Iraq"
+msgstr "伊拉克"
+
+#: data/country.ycp:58 data/country_long.ycp:96
+msgid "Iceland"
+msgstr "冰岛"
+
+#: data/country.ycp:59 data/country_long.ycp:98
+msgid "Italy"
+msgstr "意大利"
+
+#: data/country.ycp:60 data/country_long.ycp:18
+msgid "Jordan"
+msgstr "约旦"
+
+#: data/country.ycp:61
+msgid "Japan"
+msgstr "日本"
+
+#: data/country.ycp:62 data/country_long.ycp:19
+msgid "Kuwait"
+msgstr "科威特"
+
+#: data/country.ycp:63 data/country_long.ycp:20
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+#: data/country.ycp:64
+msgid "Liechtenstein"
+msgstr "列支敦士登"
+
+#: data/country.ycp:65 data/country_long.ycp:103
+msgid "Lithuania"
+msgstr "立陶宛"
+
+#: data/country.ycp:66 data/country_long.ycp:43 data/country_long.ycp:88
+msgid "Luxemburg"
+msgstr "卢森堡"
+
+#: data/country.ycp:67 data/country_long.ycp:104
+msgid "Latvia"
+msgstr "拉脱维亚"
+
+#: data/country.ycp:68 data/country_long.ycp:21
+msgid "Libyan Arab Jamahiriya"
+msgstr "利比亚"
+
+#: data/country.ycp:69 data/country_long.ycp:22
+msgid "Morocco"
+msgstr "摩洛哥"
+
+#: data/country.ycp:70 data/country_long.ycp:106
+msgid "Macedonia"
+msgstr "马其顿"
+
+#: data/country.ycp:71 data/country_long.ycp:108
+msgid "Malta"
+msgstr "马耳他"
+
+#: data/country.ycp:72 data/country_long.ycp:70
+msgid "Mexico"
+msgstr "墨西哥"
+
+#: data/country.ycp:73 data/country_long.ycp:107
+msgid "Malaysia"
+msgstr "马来西亚"
+
+#: data/country.ycp:74 data/country_long.ycp:71
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+#: data/country.ycp:75 data/country_long.ycp:110
+msgid "Netherlands"
+msgstr "荷兰"
+
+#: data/country.ycp:76 data/country_long.ycp:111 data/country_long.ycp:112
+msgid "Norway"
+msgstr "挪威"
+
+#: data/country.ycp:77 data/country_long.ycp:54 data/country_long.ycp:105
+msgid "New Zealand"
+msgstr "新西兰"
+
+#: data/country.ycp:78 data/country_long.ycp:23
+msgid "Oman"
+msgstr "阿曼"
+
+#: data/country.ycp:79 data/country_long.ycp:72
+msgid "Panama"
+msgstr "巴拿马"
+
+#: data/country.ycp:80 data/country_long.ycp:73
+msgid "Peru"
+msgstr "秘鲁"
+
+#: data/country.ycp:81 data/country_long.ycp:55 data/country_long.ycp:131
+msgid "Philippines"
+msgstr "菲律宾"
+
+#: data/country.ycp:82 data/country_long.ycp:134
+msgid "Pakistan"
+msgstr "巴基斯坦"
+
+#: data/country.ycp:83 data/country_long.ycp:114
+msgid "Poland"
+msgstr "波兰"
+
+#: data/country.ycp:84 data/country_long.ycp:74
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+#: data/country.ycp:85 data/country_long.ycp:116
+msgid "Portugal"
+msgstr "葡萄牙"
+
+#: data/country.ycp:86 data/country_long.ycp:75
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+#: data/country.ycp:87 data/country_long.ycp:24
+msgid "Qatar"
+msgstr "卡塔尔"
+
+#: data/country.ycp:88 data/country_long.ycp:117
+msgid "Romania"
+msgstr "罗马尼亚"
+
+#: data/country.ycp:89 data/country_long.ycp:118
+msgid "Russia"
+msgstr "俄罗斯"
+
+#: data/country.ycp:90 data/country_long.ycp:25
+msgid "Saudi Arabia"
+msgstr "沙特阿拉伯"
+
+#: data/country.ycp:91 data/country_long.ycp:26
+msgid "Sudan"
+msgstr "苏丹"
+
+#: data/country.ycp:92 data/country_long.ycp:126
+msgid "Sweden"
+msgstr "瑞典"
+
+#: data/country.ycp:93 data/country_long.ycp:56
+msgid "Singapore"
+msgstr "新加坡"
+
+#: data/country.ycp:94 data/country_long.ycp:122
+msgid "Slovenia"
+msgstr "斯洛文尼亚"
+
+#: data/country.ycp:95 data/country_long.ycp:121
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+#: data/country.ycp:96 data/country_long.ycp:76
+msgid "El Salvador"
+msgstr "萨尔瓦多"
+
+#: data/country.ycp:97 data/country_long.ycp:27
+msgid "Syrian Arab Republic"
+msgstr "叙利亚"
+
+#: data/country.ycp:98 data/country_long.ycp:130
+msgid "Thailand"
+msgstr "泰国"
+
+#: data/country.ycp:99 data/country_long.ycp:129
+msgid "Tajikistan"
+msgstr "塔吉克斯坦"
+
+#: data/country.ycp:100 data/country_long.ycp:28
+msgid "Tunisia"
+msgstr "突尼斯"
+
+#: data/country.ycp:101 data/country_long.ycp:132
+msgid "Turkey"
+msgstr "土耳其"
+
+#. "TW" : _("Taiwan"),
+#: data/country.ycp:103 data/country_long.ycp:119 data/country_long.ycp:133
+msgid "Ukraine"
+msgstr "乌克兰"
+
+#: data/country.ycp:104 data/country_long.ycp:57 data/country_long.ycp:77
+#: data/country_long.ycp:136
+msgid "USA"
+msgstr "美国"
+
+#: data/country.ycp:105 data/country_long.ycp:78
+msgid "Uruguay"
+msgstr "乌拉圭"
+
+#: data/country.ycp:106 data/country_long.ycp:135
+msgid "Uzbekistan"
+msgstr "乌兹别克斯坦"
+
+#: data/country.ycp:107 data/country_long.ycp:79
+msgid "Venezuela"
+msgstr "委内瑞拉"
+
+#: data/country.ycp:108 data/country_long.ycp:29
+msgid "Yemen"
+msgstr "也门"
+
+#: data/country.ycp:109 data/country_long.ycp:120 data/country_long.ycp:124
+msgid "Yugoslavia"
+msgstr "南斯拉夫"
+
+#: data/country.ycp:110 data/country_long.ycp:11 data/country_long.ycp:58
+msgid "South Africa"
+msgstr "南非"
+
+#: data/country.ycp:111 data/country_long.ycp:59
+msgid "Zimbabwe"
+msgstr "津巴布韦"
+
+#: data/country_long.ycp:139
+msgid "Taiwan"
+msgstr "中国台湾"
+
+#. translators: help for 'help' option on command line
+#: library/commandline/src/CommandLine.ycp:34
+msgid "Print the help for this module"
+msgstr "打印此模块的帮助"
+
+#. translators: help for 'longhelp' option on command line
+#: library/commandline/src/CommandLine.ycp:38
+msgid "Print a long version of help for this module"
+msgstr "打印此模块较长版本的帮助"
+
+#. translators: help for 'xmlhelp' option on command line
+#: library/commandline/src/CommandLine.ycp:42
+msgid "Print a long version of help for this module in XML format"
+msgstr "以 XML 格式打印此模块的较长版本的帮助"
+
+#. translators: help for 'interactive' option on command line
+#: library/commandline/src/CommandLine.ycp:46
+msgid "Start interactive shell to control the module"
+msgstr "启动交互壳层来控制模块"
+
+#. translators: help for 'exit' command line interactive mode
+#: library/commandline/src/CommandLine.ycp:50
+msgid "Exit interactive mode and save the changes"
+msgstr "退出交互方式并保存更改"
+
+#. translators: help for 'abort' command line interactive mode
+#: library/commandline/src/CommandLine.ycp:54
+msgid "Abort interactive mode without saving the changes"
+msgstr "中止交互方式且不保存更改"
+
+#. translators:  command line "help" option 
+#: library/commandline/src/CommandLine.ycp:60
+msgid "Print the help for this command"
+msgstr "打印此命令的帮助"
+
+#. translators: command line "verbose" option
+#: library/commandline/src/CommandLine.ycp:64
+msgid "Show progress information"
+msgstr "显示进度信息"
+
+#. translators: command line "xmlfile" option
+#: library/commandline/src/CommandLine.ycp:68
+msgid "Where to store the XML output"
+msgstr "何处存储 XML 输出"
+
+#. string: command line interface is not supported
+#: library/commandline/src/CommandLine.ycp:121
+msgid "This YaST2 module does not support the command line interface."
+msgstr "此 YaST2 模块不支持命令行界面。"
+
+#. translators: default error message for command line
+#: library/commandline/src/CommandLine.ycp:213
+msgid "Use 'help' for a complete list of available commands."
+msgstr "使用“help”来查看可用命令的完整列表。"
+
+#. translators: default error message for command line
+#: library/commandline/src/CommandLine.ycp:216
+#, ycp-format
+msgid "Use 'yast2 %1 help' for a complete list of available commands."
+msgstr "使用“yast2 %1 help”来查看可用命令的完整列表。"
+
+#. translators: error message in command line interface
+#: library/commandline/src/CommandLine.ycp:246
+#, ycp-format
+msgid "Unknown Command: %1"
+msgstr "未知命令：%1"
+
+#. translators: error message - user did not provide a value for option %1 on the command line
+#: library/commandline/src/CommandLine.ycp:275
+#, ycp-format
+msgid "Option '%1' is missing value."
+msgstr "选项“%1”缺少值。"
+
+#. translators: error message, %1 is a command, %2 is the wrong option given by the user
+#: library/commandline/src/CommandLine.ycp:307
+#, ycp-format
+msgid "Unknown option for command '%1': %2"
+msgstr "命令“%1”的选项未知：%2"
+
+#. translators: error message, %2 is the value given
+#: library/commandline/src/CommandLine.ycp:327
+#: library/commandline/src/CommandLine.ycp:334
+#: library/commandline/src/CommandLine.ycp:342
+#, ycp-format
+msgid "Invalid value for option '%1': %2"
+msgstr "选项“%1”的值无效：%2"
+
+#. translators: error message, %2 is expected type, %3 is the value given
+#: library/commandline/src/CommandLine.ycp:356
+#, ycp-format
+msgid "Invalid value for option '%1' -- expected '%2', received %3"
+msgstr "选项“%1”的值无效 -- 应该是\"%2\"，但输入的是 %3"
+
+#. translators: error message if option has a value, but cannot have one
+#: library/commandline/src/CommandLine.ycp:368
+#, ycp-format
+msgid "Option '%1' cannot have a value. Given value: %2"
+msgstr "不能为选项“%1”指定值。指定的值：%2"
+
+#. translators: error message, how to get command line help for interactive mode
+#. %1 is the module name, %2 is the action name
+#: library/commandline/src/CommandLine.ycp:384
+#, ycp-format
+msgid "Use '%1 %2 help' for a complete list of available options."
+msgstr "使用“%1 %2 help”来查看可用选项的完整列表。"
+
+#. translators: error message, how to get command line help for non-interactive mode
+#. %1 is the module name, %2 is the action name
+#: library/commandline/src/CommandLine.ycp:388
+#, ycp-format
+msgid "Use 'yast2 %1 %2 help' for a complete list of available options."
+msgstr "使用“yast2 %1 %2 help”来查看可用选项的完整列表。"
+
+#. translators: command line interface header, %1 is identification of the module
+#: library/commandline/src/CommandLine.ycp:404
+#, ycp-format
+msgid "YaST Configuration Module %1\n"
+msgstr "YaST 配置模块 %1\n"
+
+#: library/commandline/src/CommandLine.ycp:423
+msgid "No help available"
+msgstr "没有可用帮助"
+
+#. Process <command> "help"
+#. translators: %1 is the command name
+#: library/commandline/src/CommandLine.ycp:428
+#, ycp-format
+msgid "Command '%1'"
+msgstr "命令“%1”"
+
+#. translators: command line options
+#: library/commandline/src/CommandLine.ycp:452
+msgid ""
+"\n"
+"    Options:"
+msgstr ""
+"\n"
+"    选项："
+
+#. additional help for using command line
+#: library/commandline/src/CommandLine.ycp:527
+msgid ""
+"\n"
+"    Options of the [string] type must be written in the form 'option=value'."
+msgstr ""
+"\n"
+"    [string] 类型的选项必须以 '选项=值' 的格式写入。"
+
+#. translators: example title for command line
+#: library/commandline/src/CommandLine.ycp:531
+msgid ""
+"\n"
+"    Example:"
+msgstr ""
+"\n"
+"    示例："
+
+#. translators: default module description if none is provided by the module itself
+#: library/commandline/src/CommandLine.ycp:567
+msgid "This is a YaST module."
+msgstr "这是一个 YaST 模块。"
+
+#. translators: short help title for command line
+#: library/commandline/src/CommandLine.ycp:569
+msgid "Basic Syntax:"
+msgstr "基本语法："
+
+#. translators: module command line help, %1 is the module name
+#. translate <command> and [options] only!
+#: library/commandline/src/CommandLine.ycp:577
+#, ycp-format
+msgid "    yast2 %1 <command> [verbose] [options]"
+msgstr "    yast2 %1 <命令> [详细命令] [选项]"
+
+#. translators: module command line help, %1 is the module name
+#. translate <command> only!
+#: library/commandline/src/CommandLine.ycp:584
+#, ycp-format
+msgid "    yast2 %1 <command> help"
+msgstr "    yast2 %1 <命令> help"
+
+#. translators: module command line help
+#. translate <command> and [options] only!
+#: library/commandline/src/CommandLine.ycp:588
+msgid "    <command> [options]"
+msgstr "    <命令> [选项]"
+
+#. translators: module command line help
+#. translate <command> only!
+#: library/commandline/src/CommandLine.ycp:591
+msgid "    <command> help"
+msgstr "    <命令> 帮助"
+
+#. translators: command line title: list of available commands
+#: library/commandline/src/CommandLine.ycp:603
+msgid "Commands:"
+msgstr "命令："
+
+#. translators: error message: module does not provide any help messages
+#: library/commandline/src/CommandLine.ycp:614
+msgid "No help available."
+msgstr "没有可用帮助。"
+
+#. fallback message - invalid help has been provided by the yast module
+#: library/commandline/src/CommandLine.ycp:638
+msgid "<Error: invalid help>"
+msgstr "<错误：无效帮助>"
+
+#. translators: module command line help, %1 is the module name
+#: library/commandline/src/CommandLine.ycp:644
+#, ycp-format
+msgid "Run 'yast2 %1 <command> help' for a list of available options."
+msgstr "运行“yast2 %1 <命令> help”来查看可用选项的列表。"
+
+#. error message - command line option xmlfile is missing
+#: library/commandline/src/CommandLine.ycp:708
+msgid "Target file name ('xmlfile' option) is missing. Use xmlfile=<target_XML_file> command line option."
+msgstr "缺少目标文件名(“xmlfile”选项)。使用 xmlfile=<target_XML_file> 命令行选项。"
+
+#. error message - command line option xmlfile is missing
+#: library/commandline/src/CommandLine.ycp:717
+msgid "Target file name ('xmlfile' option) is empty. Use xmlfile=<target_XML_file> command line option."
+msgstr "目标文件名(“xmlfile”选项)未填。使用 xmlfile=<target_XML_file> 命令行选项。"
+
+#. translators: fallback name for a module at command line
+#: library/commandline/src/CommandLine.ycp:847
+msgid "unknown"
+msgstr "未知"
+
+#. translators: the last command %1 in a list of unique commands
+#: library/commandline/src/CommandLine.ycp:1191
+#, ycp-format
+msgid "or '%1'"
+msgstr "或“%1”"
+
+#. translators: error message - missing unique command for command line execution
+#: library/commandline/src/CommandLine.ycp:1196
+#, ycp-format
+msgid "Specify the command '%1'."
+msgstr "指定命令“%1”。"
+
+#. translators: error message - missing unique command for command line execution
+#: library/commandline/src/CommandLine.ycp:1199
+#, ycp-format
+msgid "Specify one of the commands: %1."
+msgstr "指定命令之一：%1。"
+
+#. size( unique_options ) == 1 here does not make sense
+#: library/commandline/src/CommandLine.ycp:1207
+#, ycp-format
+msgid "Specify only one of the commands: %1."
+msgstr "仅指定命令之一：%1。"
+
+#. translators: error message - the module does not provide command line interface
+#: library/commandline/src/CommandLine.ycp:1283
+msgid "There is no user interface available for this module."
+msgstr "此模块没有可用的用户界面。"
+
+#. translators: progress message - command line interface ready
+#: library/commandline/src/CommandLine.ycp:1311
+msgid "Ready"
+msgstr "就绪"
+
+#. non-GUI handling
+#: library/commandline/src/CommandLine.ycp:1335
+msgid "Initializing"
+msgstr "初始化"
+
+#. translators: Progress message - the command line interface is about to finish
+#: library/commandline/src/CommandLine.ycp:1374
+msgid "Finishing"
+msgstr "完成"
+
+#. translators: The command line interface is finished
+#: library/commandline/src/CommandLine.ycp:1381
+msgid "Done"
+msgstr "完毕"
+
+#. translators: The command line interface is finished without writing the changes
+#: library/commandline/src/CommandLine.ycp:1384
+msgid "Quitting (without changes)"
+msgstr "退出(不更改)"
+
+#. prompt message displayed in the commandline mode
+#. when user is asked to replay "yes" or "no" (localized)
+#: library/commandline/src/CommandLine.ycp:1399
+msgid "yes or no?"
+msgstr "是否确定？"
+
+#. yes - used in the command line mode as input text for yes/no confirmation
+#: library/commandline/src/CommandLine.ycp:1404
+msgid "yes"
+msgstr "是"
+
+#. no - used in the command line mode as input text for yes/no confirmation
+#: library/commandline/src/CommandLine.ycp:1407
+msgid "no"
+msgstr "否"
+
+#: library/control/src/InstError.ycp:37
+msgid "Save y2logs to..."
+msgstr "保存 y2logs 到..."
+
+#. Busy message, %1 is replaced with a filename
+#: library/control/src/InstError.ycp:44
+#, ycp-format
+msgid "Saving YaST logs to %1..."
+msgstr "保存 YaST 日志到 %1..."
+
+#. Error message, %1 is replaced with a filename
+#. %2 with am error reason (there is a newline between %1 and %2)
+#: library/control/src/InstError.ycp:56
+#, ycp-format
+msgid ""
+"Unable to save YaST logs to %1\n"
+"%2"
+msgstr ""
+"无法保存 YaST 日志到 %1\n"
+"%2"
+
+#. TRANSLATORS: part of an error message
+#. // %1 - logfile, possibly with errors
+#: library/control/src/InstError.ycp:96
+#, ycp-format
+msgid "More information can be found near the end of the '%1' file."
+msgstr "接近 '%1' 文件的底部未找到更多信息。"
+
+#. TRANSLATORS: part of an error message
+#. %1 - link to our bugzilla
+#. %2 - directory where YaST logs are stored
+#. %3 - link to the Yast Bug Reporting HOWTO Web page
+#: library/control/src/InstError.ycp:108
+#, ycp-format
+msgid ""
+"This is worth reporting a bug at %1.\n"
+"Please, attach also all YaST logs stored in the '%2' directory.\n"
+"See %3 for more information about YaST logs."
+msgstr ""
+"这值得去 %1 报告错误。\n"
+"请附上保存在“%2”目录下的所有 YaST 日志。\n"
+"关于 YaST 日志的更多信息请见 %3。"
+
+#. link to the Yast Bug Reporting HOWTO
+#. for translators: use the localized page for your language if it exists,
+#. check the combo box "In other laguages" on top of the page
+#: library/control/src/InstError.ycp:116
+#: library/control/src/ProductControl.ycp:1447
+msgid "http://en.opensuse.org/Bugs/YaST"
+msgstr "http://en.opensuse.org/Bugs/YaST"
+
+#. FIXME: BNC #422612, Use `opt(`noSanityCheck) later
+#: library/control/src/InstError.ycp:122
+msgid "&Save YaST Logs..."
+msgstr "保存 YaST 日志(&S)..."
+
+#: library/control/src/InstError.ycp:157
+msgid "Installation Error"
+msgstr "安装出错"
+
+#. error report
+#: library/control/src/ProductControl.ycp:1267
+msgid "No workflow defined for this installation mode."
+msgstr "没有为此安装方式定义工作流程。"
+
+#: library/control/src/WorkflowManager.ycp:1203
+msgid "An internal error occurred when integrating additional workflow."
+msgstr "整合附加工作流程时发生内部错误。"
+
+#. message popup, %1 is a label of some widget
+#: library/cwm/src/CWM.ycp:635
+#, ycp-format
+msgid "The value of %1 is invalid."
+msgstr "%1 的值无效。"
+
+#. service status - label
+#: library/cwm/src/CWMServiceStart.ycp:54
+msgid "Unavailable"
+msgstr "不可用"
+
+#. help text for service auto start widget
+#. %1 and %2 are button labels
+#. %1 is eg. "On -- Start Service when Booting"
+#. %2 is eg. "Off -- Start Service Manually"
+#. (both without quotes)
+#: library/cwm/src/CWMServiceStart.ycp:196
+#, ycp-format
+msgid ""
+"<p><b><big>Service Start</big></b><br>\n"
+"To start the service every time your computer is booted, set\n"
+"<b>%1</b>. Otherwise set <b>%2</b>.</p>"
+msgstr ""
+"<p><b><big>启动服务></big></b><br>\n"
+"要在每次引导计算机时启动该服务，请设置\n"
+"<b>%1</b>。否则，请设置 <b>%2</b>。</p>"
+
+#. help text for service auto start widget
+#. %1, %2 and %3 are button labels
+#. %1 is eg. "On -- Start Service when Booting"
+#. %2 is eg. "Off -- Start Service Manually"
+#. %3 is eg. "Start Service via xinetd"
+#. (both without quotes)
+#: library/cwm/src/CWMServiceStart.ycp:212
+#, ycp-format
+msgid ""
+"<p><b><big>Service Start</big></b><br>\n"
+"To start the service every time your computer is booted, set\n"
+"<b>%1</b>. To start the service via the xinetd daemon, set <b>%3</b>.\n"
+"Otherwise set <b>%2</b>.</p>"
+msgstr ""
+"<p><b><big>启动服务</big></b><br>\n"
+"要在每次引导计算机时启动该服务，请设置\n"
+"<b>%1</b>。要通过 xinetd 守护精灵启动服务，请设置 <b>%3</b>。\n"
+"否则，请设置 <b>%2</b>。</p>"
+
+#. part of help text - radio button label, NO SHORTCUT!!!
+#. radio button
+#: library/cwm/src/CWMServiceStart.ycp:225
+#: library/cwm/src/CWMServiceStart.ycp:237
+#: library/cwm/src/CWMServiceStart.ycp:282
+msgid "During Boot"
+msgstr "引导期间"
+
+#. part of help text - radio button label, NO SHORTCUT!!!
+#. radio button
+#: library/cwm/src/CWMServiceStart.ycp:227
+#: library/cwm/src/CWMServiceStart.ycp:239
+#: library/cwm/src/CWMServiceStart.ycp:285
+msgid "Manually"
+msgstr "手动"
+
+#. part of help text - radio button label, NO SHORTCUT!!!
+#: library/cwm/src/CWMServiceStart.ycp:241
+msgid "Via xinetd"
+msgstr "通过 xinetd"
+
+#. radio button
+#: library/cwm/src/CWMServiceStart.ycp:288
+msgid "Via &xinetd"
+msgstr "通过 xinetd(&X)"
+
+#. frame
+#: library/cwm/src/CWMServiceStart.ycp:320
+msgid "Service Start"
+msgstr "启动服务"
+
+#. service status - label
+#: library/cwm/src/CWMServiceStart.ycp:399
+msgid "Service is running"
+msgstr "服务正在运行"
+
+#. service status - label
+#: library/cwm/src/CWMServiceStart.ycp:402
+msgid "Service is not running"
+msgstr "服务未运行"
+
+#. help text for service status displaying and switching  widget 1/2
+#. %1 and %2 are push button labels
+#. %1 is eg. "Start the Service Now"
+#. %2 is eg. "Stop the Service Now"
+#. (both without quotes)
+#: library/cwm/src/CWMServiceStart.ycp:435
+#, ycp-format
+msgid ""
+"<p><b><big>Switch On or Off</big></b><br>\n"
+"To start or stop the service immediately, use \n"
+"<b>%1</b> or <b>%2</b>.</p>"
+msgstr ""
+"<p><b><big>打开或关闭</big></b><br>\n"
+"要立即启动或停止服务，请使用\n"
+"<b>%1</b> 或 <b>%2</b>。</p>"
+
+#. help text for service start widget 2/2, optional
+#. %3 is push button label, eg. "Save Changes and Restart Service Now"
+#. (without quotes)
+#. note: %3 is correct, do not replace with %1!!!
+#: library/cwm/src/CWMServiceStart.ycp:444
+#, ycp-format
+msgid ""
+"<p>To save all changes and restart the\n"
+"service immediately, use <b>%3</b>.</p>\n"
+msgstr ""
+"<p>要立即保存所有更改并重启动\n"
+"服务，请使用 <b>%3</b>。</p>\n"
+
+#. part of help text - push button label, NO SHORTCUT!!!
+#: library/cwm/src/CWMServiceStart.ycp:459
+msgid "Start the Service Now"
+msgstr "立即启动服务"
+
+#. part of help text - push button label, NO SHORTCUT!!!
+#: library/cwm/src/CWMServiceStart.ycp:461
+msgid "Stop the Service Now"
+msgstr "立即停止服务"
+
+#. part of help text - push button label, NO SHORTCUT!!!
+#: library/cwm/src/CWMServiceStart.ycp:463
+msgid "Save Changes and Restart Service Now"
+msgstr "立即保存更改并重启动服务"
+
+#. push button for immediate service starting
+#: library/cwm/src/CWMServiceStart.ycp:502
+msgid "&Start the Service Now"
+msgstr "立即启动服务(&S)"
+
+#. push button for immediate service stopping
+#: library/cwm/src/CWMServiceStart.ycp:505
+msgid "S&top the Service Now"
+msgstr "立即停止服务(&T)"
+
+#. push button for immediate saving of the settings and service starting
+#: library/cwm/src/CWMServiceStart.ycp:509
+msgid "S&ave Changes and Restart Service Now"
+msgstr "立即保存更改并重启动服务(&A)"
+
+#. Frame label (stoping starting service)
+#: library/cwm/src/CWMServiceStart.ycp:530
+msgid "Switch On and Off"
+msgstr "打开和关闭"
+
+#. Current status
+#: library/cwm/src/CWMServiceStart.ycp:534
+msgid "Current Status: "
+msgstr "当前状态："
+
+#. help text for LDAP enablement widget
+#. %1 is button label, eg. "LDAP Support Active" (without quotes)
+#: library/cwm/src/CWMServiceStart.ycp:625
+#, ycp-format
+msgid ""
+"<p><b><big>LDAP Support</big></b><br>\n"
+"To store the settings in LDAP instead of native configuration files,\n"
+"set <b>%1</b>.</p>"
+msgstr ""
+"<p><b><big>LDAP 支持</big></b><br>\n"
+"要将设置储存在 LDAP 而非本机配置文件中，\n"
+"请设置 <b>%1</b>。</p>"
+
+#. part of help text - check box label, NO SHORTCUT!!!
+#: library/cwm/src/CWMServiceStart.ycp:637
+msgid "LDAP Support Active"
+msgstr "LDAP 支持处于活动状态"
+
+#. check box
+#: library/cwm/src/CWMServiceStart.ycp:663
+msgid "&LDAP Support Active"
+msgstr "LDAP 支持处于活动状态(&L)"
+
+#. *
+#. * Fallback label for a tab if no is defined
+#.
+#: library/cwm/src/CWMTab.ycp:30
+msgid "Tab"
+msgstr "选项卡"
+
+#. push button
+#. Button label
+#: library/cwm/src/CWMTable.ycp:331 library/cwm/src/TablePopup.ycp:871
+#: library/modules/Label.ycp:185
+msgid "&Up"
+msgstr "向上(&U)"
+
+#. push button
+#: library/cwm/src/CWMTable.ycp:333 library/cwm/src/TablePopup.ycp:873
+msgid "&Down"
+msgstr "向下(&D)"
+
+#. popup message
+#: library/cwm/src/CWMTsigKeys.ycp:279
+msgid ""
+"The selected TSIG key cannot be deleted,\n"
+"because it is in use.\n"
+"Stop using it in the configuration first."
+msgstr ""
+"无法删除所选的 TSIG 密钥，\n"
+"原因是它正在使用中。\n"
+"请先在配置中停止使用该密钥。"
+
+#. popup title
+#: library/cwm/src/CWMTsigKeys.ycp:283
+msgid "Cannot delete TSIG key."
+msgstr "无法删除 TSIG 密钥。"
+
+#. popup headline
+#: library/cwm/src/CWMTsigKeys.ycp:295
+msgid "Select File with the Authentication Key"
+msgstr "选择含有验证密钥的文件"
+
+#. popup headline
+#: library/cwm/src/CWMTsigKeys.ycp:309
+msgid "Select File for the Authentication Key"
+msgstr "选择验证密钥的文件"
+
+#. error report
+#: library/cwm/src/CWMTsigKeys.ycp:331
+msgid "Specified filename is an existing directory."
+msgstr "指定的文件名是一个现有的目录。"
+
+#. yes-no popup
+#: library/cwm/src/CWMTsigKeys.ycp:335
+msgid "Specified file exists. Rewrite it?"
+msgstr "指定的文件已存在。是否重写？"
+
+#. error report
+#: library/cwm/src/CWMTsigKeys.ycp:349
+msgid "The TSIG key ID was not specified."
+msgstr "未指定 TSIG 密钥 ID。"
+
+#. yes-no popup
+#: library/cwm/src/CWMTsigKeys.ycp:356
+msgid ""
+"The key with the specified ID exists and is used.\n"
+"Remove it?"
+msgstr ""
+"具有指定 ID 的密钥存在并已被使用。\n"
+"是否移除？"
+
+#. yes-no popup
+#: library/cwm/src/CWMTsigKeys.ycp:374
+msgid ""
+"A key with the specified ID was found\n"
+"on your disk. Remove it?"
+msgstr ""
+"磁盘上存在具有指定 ID 的\n"
+"密钥。是否移除？"
+
+#. yes-no popup
+#: library/cwm/src/CWMTsigKeys.ycp:391
+msgid "The key will be created now. Continue?"
+msgstr "将立即创建密钥。是否继续？"
+
+#. error report
+#: library/cwm/src/CWMTsigKeys.ycp:403
+msgid "Creating the TSIG key failed."
+msgstr "创建 TSIG 密钥失败。"
+
+#. message popup
+#: library/cwm/src/CWMTsigKeys.ycp:415
+msgid "The specified file does not exist."
+msgstr "指定的文件不存在。"
+
+#. message popup
+#: library/cwm/src/CWMTsigKeys.ycp:422
+msgid "The specified file does not contain any TSIG key."
+msgstr "指定的文件不包含任何 TSIG 密钥。"
+
+#. yes-no popup
+#: library/cwm/src/CWMTsigKeys.ycp:434
+msgid ""
+"The specified file contains a TSIG key with the same\n"
+"identifier as some of already present keys.\n"
+"Old keys will be removed. Continue?"
+msgstr ""
+"指定的文件中包含的 TSIG 密钥的标识符\n"
+"与某些已存在密钥的标识符相同。\n"
+"旧的密钥将被移除。是否继续？"
+
+#. tsig keys management dialog help 1/4
+#: library/cwm/src/CWMTsigKeys.ycp:536
+msgid ""
+"<p><big><b>TSIG Key Management</b></big><br>\n"
+"Use this dialog to manage the TSIG keys.</p>\n"
+msgstr ""
+"<p><big><b>TSIG 密钥管理</b></big><br>\n"
+"使用此对话框可以管理 TSIG 密钥。</p>\n"
+
+#. tsig keys management dialog help 2/4
+#: library/cwm/src/CWMTsigKeys.ycp:541
+msgid ""
+"<p><big><b>Adding an Existing TSIG Key</b></big><br>\n"
+"To add an already created TSIG key, select a <b>Filename</b> of the file\n"
+"containing the key and click <b>Add</b>.</p>\n"
+msgstr ""
+"<p><big><b>添加现有的 TSIG 密钥</b></big><br>\n"
+"要添加已创建的 TSIG 密钥，请选择包含此密钥的文件的<b>文件名</b>，\n"
+"然后单击<b>添加</b>。</p>\n"
+
+#. tsig keys management dialog help 3/4
+#: library/cwm/src/CWMTsigKeys.ycp:547
+msgid ""
+"<p><big><b>Creating a New TSIG Key</b></big><br>\n"
+"To create a new TSIG key, set the <b>Filename</b> of the file in which to\n"
+"create the key and the <b>Key ID</b> to identify the key then click\n"
+"<b>Generate</b>.</p>\n"
+msgstr ""
+"<p><big><b>创建新的 TSIG 密钥</b></big><br>\n"
+"要创建新的 TSIG 密钥，请设置将在其中创建密钥的文件的<b>文件名</b>，以及\n"
+"用以标识密钥的<b>密钥 ID</b>，然后单击\n"
+"<b>生成</b>。</p>\n"
+
+#. tsig keys management dialog help 4/4
+#: library/cwm/src/CWMTsigKeys.ycp:554
+msgid ""
+"<p><big><b>Removing a TSIG Key</b></big><br>\n"
+"To remove a configured TSIG key, select it and click <b>Delete</b>.\n"
+"All keys in the same file are deleted.\n"
+"If a TSIG key is in use in the configuration\n"
+"of the server, it cannot be deleted. The server must stop using it\n"
+"in the configuration first.</p>\n"
+msgstr ""
+"<p><big><b>去除 TSIG 密钥</b></big><br>\n"
+"要去除已配置的 TSIG 密钥，请选择此密钥，然后单击<b>删除</b>。\n"
+"这将删除同一个文件中的所有密钥。\n"
+"如果服务器的配置中正在使用某个 TSIG 密钥，\n"
+"则无法删除此密钥。服务器必须先在配置中停止使用\n"
+"此密钥。</p>\n"
+
+#. Frame label - adding a created server key
+#: library/cwm/src/CWMTsigKeys.ycp:564
+msgid "Add an Existing TSIG Key"
+msgstr "添加现有的 TSIG 密钥"
+
+#. Frame label - creating a new server key
+#: library/cwm/src/CWMTsigKeys.ycp:596
+msgid "Create a New TSIG Key"
+msgstr "创建新的 TSIG 密钥"
+
+#. text entry
+#: library/cwm/src/CWMTsigKeys.ycp:603
+msgid "&Key ID"
+msgstr "密钥 ID(&K)"
+
+#. push button
+#: library/cwm/src/CWMTsigKeys.ycp:621
+msgid "&Generate"
+msgstr "生成(&G)"
+
+#. Table header - in fact label
+#: library/cwm/src/CWMTsigKeys.ycp:631
+msgid "Current TSIG Keys"
+msgstr "当前 TSIG 密钥"
+
+#. Table header item - DNS key listing
+#. table header - GPG key ID
+#. GnuPG key ID used as "Key ID: 1144AAAA444"
+#: library/cwm/src/CWMTsigKeys.ycp:635 library/gpg/src/GPGWidgets.ycp:158
+#: library/gpg/src/GPGWidgets.ycp:189
+#: library/packages/src/SignatureCheckDialogs.ycp:230
+msgid "Key ID"
+msgstr "密钥 ID"
+
+#. Table header item - DNS key listing
+#: library/cwm/src/CWMTsigKeys.ycp:637
+msgid "Filename"
+msgstr "文件名"
+
+#. combobox header
+#: library/cwm/src/TablePopup.ycp:417
+msgid "&Selected Option"
+msgstr "所选选项(&S)"
+
+#. heading / label
+#: library/cwm/src/TablePopup.ycp:463
+msgid "Current Option: "
+msgstr "当前选项："
+
+#. error report
+#: library/cwm/src/TablePopup.ycp:663
+msgid "The selected option is already present."
+msgstr "选定选项已存在。"
+
+#. table header, shortcut for changed, keep very short
+#: library/cwm/src/TablePopup.ycp:835
+msgid "Ch."
+msgstr "已更改"
+
+#. table header
+#: library/cwm/src/TablePopup.ycp:837 library/cwm/src/TablePopup.ycp:842
+msgid "Option"
+msgstr "选项"
+
+#. table header
+#: library/cwm/src/TablePopup.ycp:839 library/cwm/src/TablePopup.ycp:844
+msgid "Value"
+msgstr "值"
+
+#. help 1/4
+#: library/cwm/src/TablePopup.ycp:848
+msgid ""
+"<p><b><big>Editing the Settings</big></b><br>\n"
+"To edit the settings, choose the appropriate\n"
+"entry of the table then click <b>Edit</b>.</p>"
+msgstr ""
+"<p><b><big>编辑设置</big></b><br>\n"
+"要编辑设置，请从表中选择适当的\n"
+"条目，然后单击<b>编辑</b>。</p>"
+
+#. help 2/4, optional
+#: library/cwm/src/TablePopup.ycp:853
+msgid ""
+"<p>To add a new option, click <b>Add</b>. To remove\n"
+"an option, select it and click <b>Delete</b>.</p>"
+msgstr ""
+"<p>要添加新选项，请单击<b>添加</b>。要移除某选项，\n"
+"请先选择该选项，然后单击<b>删除</b>。</p>"
+
+#. help 3/4, optional
+#: library/cwm/src/TablePopup.ycp:858
+msgid ""
+"<P>The <B>Ch.</B> column of the table shows \n"
+"whether the option was changed.</P>"
+msgstr ""
+"<P>表的<B>已更改</B>列显示\n"
+"此选项是否已更改。</P>"
+
+#. help 4/4, optional
+#: library/cwm/src/TablePopup.ycp:863
+msgid ""
+"<p>To reorder the options, select an option\n"
+"and use <b>Up</b> and <b>Down</b> to move it up or down\n"
+"in the list.</p>"
+msgstr ""
+"<p>要对选项重新排序，请选择某选项，\n"
+"然后使用<b>向上</b>或<b>向下</b>按钮，令其在列表中\n"
+"上下移动。</p>"
+
+#. menu button
+#: library/cwm/src/WizardHW.ycp:213
+msgid "&Other"
+msgstr "其它(&O)"
+
+#. translators: message for hardware configuration without any configured
+#. device
+#: library/cwm/src/WizardHW.ycp:526
+msgid "The device is not configured"
+msgstr "未配置此设备"
+
+#. translators: message for hardware configuration without any configured
+#. device
+#: library/cwm/src/WizardHW.ycp:529
+msgid "Press <B>Edit</B> to configure"
+msgstr "请按<B>编辑</B>进行配置"
+
+#. Message shown while loading modules information
+#: library/desktop/src/menu.ycp:37
+msgid "Loading modules, please wait ..."
+msgstr "正在装载模块，请稍候..."
+
+#. Heading for NCurses Control Center
+#: library/desktop/src/menu.ycp:58
+msgid "YaST Control Center"
+msgstr "YaST 控制中心"
+
+#: library/desktop/src/menu.ycp:92
+msgid ""
+"YaST2 Control Center is not running as root.\n"
+"You can only see modules that do not require root privileges."
+msgstr ""
+"没有以 root 用户身份运行 YaST2 控制中心。\n"
+"您只能看到不需要 root 权限的模块。"
+
+#. NCurses (textmode) Control Center headline
+#: library/desktop/src/menu.ycp:142
+msgid "Controlling YaST ncurses with the Keyboard"
+msgstr "使用键盘控制 YaST ncurses"
+
+#. NCurses Control Center help 1/
+#: library/desktop/src/menu.ycp:145
+msgid ""
+"<p>1) <i>General</i><br>\n"
+"Navigate through the dialog elements with [TAB] to go to\n"
+"the next element and [SHIFT] (or [ALT]) + [TAB] to move backwards.\n"
+"Select or activate elements with [SPACE] or [ENTER].\n"
+"Some elements use arrow keys (e.g., to scroll in lists).</p>"
+msgstr ""
+"<p>1) <i>一般性描述</i><br>\n"
+"在对话框要素之间导航，使用 [TAB] 可前进至下一个\n"
+"要素，使用 [SHIFT](或 [ALT])+ [TAB] 可向后移动。\n"
+"使用 [SPACE] 或 [ENTER] 可选择或激活要素。\n"
+"某些要素需要使用箭头键(例如在列表中滚动)。</p>"
+
+#. NCurses Control Center help 2/9
+#: library/desktop/src/menu.ycp:152
+msgid ""
+"<p>Buttons are equipped with shortcut keys (the highlighted\n"
+"letter). Use [ALT] and the letter to activate the button.</p>"
+msgstr ""
+"<p>各按钮都配有快捷键(高亮显示的\n"
+"字母)。同时按下 [ALT] 和该字母可激活相应的按钮。</p>"
+
+#. NCurses Control Center help 3/9
+#: library/desktop/src/menu.ycp:156
+msgid ""
+"<p>Press [ESC] to close selection pop-ups (e.g., from\n"
+"menu buttons) without choosing anything.</p>\n"
+msgstr ""
+"<p>按 [ESC] 键，可以在不选择任何内容的情况下关闭选择弹出列表(例如，\n"
+"菜单按钮)。</p>\n"
+
+#. NCurses Control Center help 4/9
+#: library/desktop/src/menu.ycp:161
+msgid ""
+"<p>2) <i>Substitution of Keystrokes</i><br>\n"
+"<p>Because the environment can affect the use of the keyboard,\n"
+"there is more than one way to navigate the dialog pages.\n"
+"If [TAB] and [SHIFT] (or [ALT]) + [TAB] do not work,\n"
+"move focus forward with [CTRL] + [F] and backward with [CTRL] + [B].</p>"
+msgstr ""
+"<p>2) <i>按键替代</i><br>\n"
+"<p>因为环境可能会影响键盘的使用，\n"
+"所以系统提供了多种在对话框页之间进行导航的方法。\n"
+"如果 [TAB] 和 [SHIFT](或 [ALT])+ [TAB] 无效，\n"
+"则可使用 [CTRL] + [F] 使焦点前移，使用 [CTRL] + [B] 使焦点后移。</p>"
+
+#. NCurses Control Center help 5/9
+#: library/desktop/src/menu.ycp:168
+msgid ""
+"<p>If [ALT] + [letter] does not work,\n"
+"try [ESC] + [letter]. Example: [ESC] + [H] for [ALT] + [H].\n"
+"[ESC] + [TAB] is also a substitute for [ALT] + [TAB].</p>"
+msgstr ""
+"<p>如果 [ALT] + [字母] 无效，则\n"
+"可尝试使用 [ESC] + [字母]。例如：[ESC] + [H] 可替代 [ALT] + [H]。\n"
+"[ESC] + [TAB] 也可替代 [ALT] + [TAB]。</p>"
+
+#. NCurses Control Center help 6/9
+#: library/desktop/src/menu.ycp:173
+msgid ""
+"<p>3) <i>Function Keys</i><br>\n"
+"F keys provide a quick access to main functions.\n"
+"Press F1 to get the function key bindings for the current dialog.</p>"
+msgstr ""
+"<p>3) <i>功能键</i><br>\n"
+"使用功能键可快速访问各种主要功能。\n"
+"按 F1 可查看当前对话框的功能键绑定。</p>"
+
+#. NCurses Control Center help 7/9
+#: library/desktop/src/menu.ycp:178
+msgid "<p>The F keys are usually connected to a certain action:</p>"
+msgstr "<p>各个功能键通常与特定操作相联系。</p>"
+
+#. NCurses Control Center help 8/9
+#: library/desktop/src/menu.ycp:181
+msgid ""
+"F1  = Help<br>\n"
+"F2  = Info or Description<br>\n"
+"F3  = Add<br>\n"
+"F4  = Edit or Configure<br>\n"
+"F5  = Delete<br>\n"
+"F6  = Test<br>\n"
+"F7  = Expert or Advanced<br>\n"
+"F8  = Back<br>\n"
+"F9  = Abort or Cancel<br>\n"
+"F10 = OK, Next, Finish, or Accept<br>"
+msgstr ""
+"F1  = 帮助<br>\n"
+"F2  = 信息或描述<br>\n"
+"F3  = 添加<br>\n"
+"F4  = 编辑或配置<br>\n"
+"F5  = 删除<br>\n"
+"F6  = 测试<br>\n"
+"F7  = 专家或高级<br>\n"
+"F8  = 后退<br>\n"
+"F9  = 中止或取消<br>\n"
+"F10 = 确定、下一步、完成或接受<br>"
+
+#. NCurses Control Center help 9/9
+#: library/desktop/src/menu.ycp:193
+msgid ""
+"<p>In some environments, all or some\n"
+"F keys are not available.</p>"
+msgstr ""
+"<p>在某些环境中，部分或全部\n"
+"F 键不可用。</p>"
+
+#. TODO FIXME
+#: library/gpg/src/GPG.ycp:268
+msgid "Xterm is missing, install xterm package."
+msgstr "缺少 Xterm，请安装 xterm 软件包"
+
+#: library/gpg/src/GPGWidgets.ycp:154
+msgid "GPG Private Keys"
+msgstr "GPG 私用密钥"
+
+#. table header - GPG key user ID
+#: library/gpg/src/GPGWidgets.ycp:160 library/gpg/src/GPGWidgets.ycp:191
+msgid "User ID"
+msgstr "用户 ID"
+
+#. table header - GPG key fingerprint
+#. Standard text strings
+#. GnuPG fingerprint used as "Fingerprint: AAA BBB CCC"
+#: library/gpg/src/GPGWidgets.ycp:162 library/gpg/src/GPGWidgets.ycp:193
+#: library/packages/src/SignatureCheckDialogs.ycp:228
+msgid "Fingerprint"
+msgstr "指纹"
+
+#: library/gpg/src/GPGWidgets.ycp:170
+msgid ""
+"<p><big><b>GPG Private Key</b></big><br>\n"
+"The table contains list of the private GPG keys.</p>"
+msgstr ""
+"<p><big><b>GPG 私用密钥</b></big><br>\n"
+"该表含有私用 GPG 密钥的列表。</p>"
+
+#: library/gpg/src/GPGWidgets.ycp:185
+msgid "GPG Public Keys"
+msgstr "GPG 公共密钥"
+
+#: library/gpg/src/GPGWidgets.ycp:201
+msgid ""
+"<p><big><b>GPG Public Key</b></big><br>\n"
+"The table contains list of the public GPG keys.</p>"
+msgstr ""
+"<p><big><b>GPG 公共密钥</b></big><br>\n"
+"该表包含公共 GPG 密钥的列表。</p>"
+
+#: library/gpg/src/GPGWidgets.ycp:247
+msgid "&Create a new GPG key..."
+msgstr "创建新的 GPG 密钥(&C)..."
+
+#: library/gpg/src/GPGWidgets.ycp:250
+msgid ""
+"<p><big><b>Create a new GPG key</b></big><br>\n"
+"<tt>gpg --gen-key</tt> is started, see <tt>gpg</tt> manual pager for more information.\n"
+"Press Ctrl+C to cancel.\n"
+"</p>"
+msgstr ""
+"<p><big><b>创建新的 GPG 密钥</b></big><br>\n"
+"<tt>gpg --gen-key</tt> 已启动，详细信息请参阅 <tt>gpg</tt> 手册页。\n"
+"按 Ctrl+C 取消该操作。\n"
+" </p>"
+
+#. text entry
+#: library/gpg/src/GPGWidgets.ycp:299
+#, ycp-format
+msgid "&Passphrase for GPG Key %1"
+msgstr "GPG 密钥 %1 的密码(&P)"
+
+#. help text
+#: library/gpg/src/GPGWidgets.ycp:303
+msgid ""
+"<p><big><b>Passphrase</b></big><br>\n"
+"Enter passphrase to unlock the GPG key."
+msgstr ""
+"<p><big><b>密码</b></big><br>\n"
+"请输入密码，以解除 GPG 密钥的锁定。"
+
+#: library/gpg/src/GPGWidgets.ycp:318
+msgid "Enter Passphrase"
+msgstr "输入密码"
+
+#. ask for the passphrase in the commandline (interactive) mode
+#: library/gpg/src/GPGWidgets.ycp:344
+#, ycp-format
+msgid "Enter Passphrase to Unlock GPG Key %1: "
+msgstr "输入密码，以解除 GPG 密钥 %1 的锁定："
+
+#: library/log/src/ALog.ycp:80
+msgid "Enter a log message that describes the changes you made."
+msgstr "输入一条日志信息描述您所作的变更。"
+
+#. help for the log widget, part 1, alt. 1
+#: library/log/src/LogView.ycp:98
+msgid ""
+"<p><b><big>Displayed Log</big></b><br>\n"
+"Use <b>Log</b> to select the log to display. It will be displayed in\n"
+"the field below.</p>\n"
+msgstr ""
+"<p><b><big>显示的日志</big></b><br>\n"
+"使用<b>日志</b>以选择要显示的日志。它将在下面的\n"
+"字段中显示出来。</p>\n"
+
+#. help for the log widget, part 1, alt. 2
+#: library/log/src/LogView.ycp:110
+msgid ""
+"<p><b><big>The Log</big></b><br>\n"
+"This screen displays the log.</p>"
+msgstr ""
+"<p><b><big>日志</big></b><br>\n"
+"此屏幕显示日志。</p>"
+
+#. help for the log widget, part 2, alt. 1, %1 is a menu button label
+#: library/log/src/LogView.ycp:123
+#, ycp-format
+msgid ""
+"<p>\n"
+"To process advanced actions or save the log into a file, click <b>%1</b>\n"
+"and select the action to process.</p>"
+msgstr ""
+"<p>\n"
+"要处理高级操作或将日志保存到文件中，请单击 <b>%1</b>\n"
+"并选择要进行的操作。</p>"
+
+#. help for the log widget, part 2, alt. 2, %1 is a menu button label
+#: library/log/src/LogView.ycp:136
+#, ycp-format
+msgid ""
+"<p>\n"
+"To process advanced actions, click <b>%1</b>\n"
+"and select the action to process.</p>"
+msgstr ""
+"<p>\n"
+"要进行高级操作，请单击 <b>%1</b>\n"
+"并选择要进行的操作。</p>"
+
+#. help for the log widget, part 2, alt. 3
+#: library/log/src/LogView.ycp:148
+msgid ""
+"<p>\n"
+"To save the log into a file, click <b>Save Log</b> and select the file\n"
+"to which to save the log.</p>\n"
+msgstr ""
+"<p>\n"
+"要将日志保存到文件中，请单击<b>保存日志</b>并选择\n"
+"要保存日志的文件。</p>\n"
+
+#. menu button
+#. menubutton
+#: library/log/src/LogView.ycp:171 library/log/src/LogView.ycp:283
+#: library/log/src/LogView.ycp:320 library/log/src/LogView.ycp:549
+msgid "Ad&vanced"
+msgstr "高级(&V)"
+
+#. combo box entry (only used as fallback in case
+#. of error in the YaST code)
+#: library/log/src/LogView.ycp:238
+msgid "Log"
+msgstr "日志"
+
+#. logview caption
+#: library/log/src/LogView.ycp:242 library/log/src/LogView.ycp:361
+#: library/log/src/LogView.ycp:479 library/log/src/LogView.ycp:550
+msgid "&Log"
+msgstr "日志(&L)"
+
+#. menubutton entry
+#: library/log/src/LogView.ycp:261
+msgid "&Save Log"
+msgstr "保存日志(&S)"
+
+#. popup caption, save into home directory by default (bnc#653601)
+#: library/log/src/LogView.ycp:399
+msgid "Save Log as..."
+msgstr "将日志另存为..."
+
+#: library/log/src/LogViewCore.ycp:62
+msgid "Error occurred while reading the log."
+msgstr "读取日志时出错。"
+
+#. TRANSLATORS: popup question (with continue / cancel buttons)
+#. %1 is the filesystem path
+#: library/modules/FileUtils.ycp:300
+#, ycp-format
+msgid ""
+"Although the path %1 exists, it is not a directory.\n"
+"Continue or cancel the operation?\n"
+msgstr ""
+"尽管路径 %1 存在，但它不是一个目录。\n"
+"继续还是取消操作？\n"
+
+#. TRANSLATORS: question popup (with yes / no buttons). A user entered non-existent path
+#. for a share, %1 is entered path
+#: library/modules/FileUtils.ycp:312
+#, ycp-format
+msgid ""
+"The path %1 does not exist.\n"
+"Create it now?\n"
+msgstr ""
+"路径 %1 不存在。\n"
+"是否现在创建？\n"
+
+#. TRANSLATORS: popup question (with continue / cancel buttons)
+#. %1 is the name (path) of the directory
+#: library/modules/FileUtils.ycp:328
+#, ycp-format
+msgid ""
+"Failed to create the directory %1.\n"
+"Continue or cancel the current operation?\n"
+msgstr ""
+"未能创建目录 %1。\n"
+"继续还是取消当前操作？\n"
+
+#. Button label
+#: library/modules/Label.ycp:25
+msgid "&Add"
+msgstr "添加(&A)"
+
+#. Button label
+#: library/modules/Label.ycp:33
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+#. Button label
+#: library/modules/Label.ycp:41
+msgid "C&ontinue"
+msgstr "继续(&O)"
+
+#. Button label
+#: library/modules/Label.ycp:49
+msgid "&Yes"
+msgstr "是(&Y)"
+
+#. Button label
+#: library/modules/Label.ycp:57
+msgid "&No"
+msgstr "否(&N)"
+
+#. Button label
+#: library/modules/Label.ycp:65
+msgid "&Finish"
+msgstr "完成(&F)"
+
+#. Button label
+#: library/modules/Label.ycp:73
+msgid "Ed&it"
+msgstr "编辑(&I)"
+
+#. Button label
+#: library/modules/Label.ycp:81
+msgid "&OK"
+msgstr "确定(&O)"
+
+#. Button label
+#: library/modules/Label.ycp:89
+msgid "Abo&rt"
+msgstr "中止(&R)"
+
+#. Button label
+#: library/modules/Label.ycp:97
+msgid "Abo&rt Installation"
+msgstr "中止安装(&R)"
+
+#. Button label
+#: library/modules/Label.ycp:105
+msgid "&Ignore"
+msgstr "忽略(&I)"
+
+#. Button label
+#: library/modules/Label.ycp:113
+msgid "&Next"
+msgstr "下一步(&N)"
+
+#. Button label
+#: library/modules/Label.ycp:121
+msgid "Ne&w"
+msgstr "新建(&W)"
+
+#. Button label
+#: library/modules/Label.ycp:129
+msgid "Dele&te"
+msgstr "删除(&T)"
+
+#. Button label
+#: library/modules/Label.ycp:137
+msgid "&Back"
+msgstr "后退(&B)"
+
+#. Button label
+#: library/modules/Label.ycp:145
+msgid "&Accept"
+msgstr "接受(&A)"
+
+#. Button label
+#: library/modules/Label.ycp:153
+msgid "&Do Not Accept"
+msgstr "不接受(&D)"
+
+#. Button label
+#: library/modules/Label.ycp:161
+msgid "&Quit"
+msgstr "退出(&Q)"
+
+#. Button label
+#: library/modules/Label.ycp:169
+msgid "Retr&y"
+msgstr "重试(&Y)"
+
+#. Button label
+#: library/modules/Label.ycp:177
+msgid "&Replace"
+msgstr "替换(&R)"
+
+#. Button label
+#: library/modules/Label.ycp:193
+msgid "Do&wn"
+msgstr "向下(&W)"
+
+#. Button label
+#: library/modules/Label.ycp:201
+msgid "Sele&ct"
+msgstr "选择(&C)"
+
+#. Button label
+#: library/modules/Label.ycp:209
+msgid "Remo&ve"
+msgstr "移除(&V)"
+
+#. Button label
+#: library/modules/Label.ycp:217
+msgid "&Refresh"
+msgstr "刷新(&R)"
+
+#. Button label
+#: library/modules/Label.ycp:225
+msgid "&Help"
+msgstr "帮助(&H)"
+
+#. Button label
+#: library/modules/Label.ycp:233
+msgid "&Install"
+msgstr "安装(&I)"
+
+#. Button label
+#: library/modules/Label.ycp:241
+msgid "&Do Not Install"
+msgstr "不安装(&D)"
+
+#. Button label
+#: library/modules/Label.ycp:249
+msgid "&Download"
+msgstr "下载(&D)"
+
+#. Button label
+#: library/modules/Label.ycp:257
+msgid "&Save"
+msgstr "保存(&S)"
+
+#. Button label
+#: library/modules/Label.ycp:265
+msgid "&Stop"
+msgstr "停止(&S)"
+
+#. Button label
+#: library/modules/Label.ycp:273
+msgid "C&lose"
+msgstr "关闭(&L)"
+
+#. Button label
+#: library/modules/Label.ycp:281
+msgid "Bro&wse..."
+msgstr "浏览(&W)..."
+
+#. Button label
+#: library/modules/Label.ycp:289
+msgid "Crea&te"
+msgstr "创建(&T)"
+
+#. Button label
+#. push button label during media change popup, user can skip
+#. this media (CD) so no packages from this media will be installed
+#. PushButton label
+#: library/modules/Label.ycp:297 library/packages/src/PackageCallbacks.ycp:824
+#: library/wizard/src/Confirm.ycp:84
+msgid "&Skip"
+msgstr "跳过(&S)"
+
+#. this string is usually used as headline of a popup
+#: library/modules/Label.ycp:305
+msgid "Warning"
+msgstr "警告"
+
+#. this string is usually used as headline of a popup
+#: library/modules/Label.ycp:313
+msgid "Error"
+msgstr "错误"
+
+#. this string is usually used as headline of a popup
+#: library/modules/Label.ycp:321
+msgid "Please wait..."
+msgstr "请稍候..."
+
+#. TextEntry Label
+#: library/modules/Label.ycp:370
+msgid "&Filename"
+msgstr "文件名(&F)"
+
+#. TextEntry Label
+#. textentry label
+#: library/modules/Label.ycp:378
+#: library/packages/src/PackageCallbacks.ycp:2469
+msgid "&Password"
+msgstr "密码(&P)"
+
+#. TextEntry Label
+#: library/modules/Label.ycp:386
+msgid "C&onfirm Password"
+msgstr "确认密码(&O)"
+
+#. TextEntry Label
+#: library/modules/Label.ycp:394
+msgid "&Port"
+msgstr "端口(&P)"
+
+#. TextEntry Label
+#: library/modules/Label.ycp:402
+msgid "&Hostname"
+msgstr "主机名(&H)"
+
+#. TextEntry Label
+#: library/modules/Label.ycp:410
+msgid "&Options"
+msgstr "选项(&O)"
+
+#. TRANSLATORS: Popup message
+#: library/modules/Message.ycp:25
+msgid ""
+"YaST cannot continue the configuration\n"
+"without installing the required packages."
+msgstr ""
+"未安装必需的包，YaST 无法\n"
+"继续配置。"
+
+#. TRANSLATORS: Popup message, %1 is a service name like "smbd"
+#: library/modules/Message.ycp:36
+#, ycp-format
+msgid "Cannot start '%1' service"
+msgstr "无法启动\"%1\"服务"
+
+#. TRANSLATORS: Popup message, %1 is a service name like "smbd"
+#: library/modules/Message.ycp:46
+#, ycp-format
+msgid "Cannot restart '%1' service"
+msgstr "无法重启“%1”服务"
+
+#. TRANSLATORS: Popup message, %1 is a service name like "smbd"
+#: library/modules/Message.ycp:56
+#, ycp-format
+msgid "Cannot stop '%1' service"
+msgstr "无法停止“%1”服务"
+
+#. TRANSLATORS: Popup message, %1 is file or service name like "/tmp/out" or "LDAP"
+#. *  For Right-To-Left languages, you want to put %1 into its own empty line so
+#. *  the text renderer doesn't get trip with the English filename
+#. *  (see BNC #584466 for details)
+#.
+#: library/modules/Message.ycp:70
+#, ycp-format
+msgid "Cannot write settings to '%1'"
+msgstr "无法将设置写入“%1”"
+
+#. TRANSLATORS: Popup message, %1 is file or service name like "/tmp/out" or "LDAP", %2 is the reason of error
+#. *  For Right-To-Left languages, you want to put %1 into its own empty line so
+#. *  the text renderer doesn't get trip with the English filename
+#. *  (see BNC #584466 for details)
+#.
+#: library/modules/Message.ycp:85
+#, ycp-format
+msgid ""
+"Cannot write settings to '%1'.\n"
+"\n"
+"Reason: %2"
+msgstr ""
+"无法将设置写入“%1”。\n"
+"\n"
+"原因：%2"
+
+#. TRANSLATORS: Popup message, %1 is a file name like "/tmp/out"
+#. *  For Right-To-Left languages, you want to put %1 into its own empty line so
+#. *  the text renderer doesn't get trip with the English filename
+#. *  (see BNC #584466 for details)
+#.
+#: library/modules/Message.ycp:101
+#, ycp-format
+msgid "Error writing file '%1'"
+msgstr "写入文件“%1”时出错"
+
+#. TRANSLATORS: Popup message, %1 is a file name like "/tmp/out", %2 is the reason of error
+#. *  For Right-To-Left languages, you want to put %1 into its own empty line so
+#. *  the text renderer doesn't get trip with the English filename
+#. *  (see BNC #584466 for details)
+#.
+#: library/modules/Message.ycp:116
+#, ycp-format
+msgid ""
+"Error writing file '%1'.\n"
+"\n"
+"Reason: %2"
+msgstr ""
+"写入文件“%1”时出错。\n"
+"\n"
+"原因：%2"
+
+#. TRANSLATORS: Popup message, %1 is the name of file like "/tmp/in"
+#. *  For Right-To-Left languages, you want to put %1 into its own empty line so
+#. *  the text renderer doesn't get trip with the English filename
+#. *  (see BNC #584466 for details)
+#.
+#: library/modules/Message.ycp:132
+#, ycp-format
+msgid "Cannot open file '%1'"
+msgstr "无法打开文件“%1”"
+
+#. TRANSLATORS: Popup message, %1 is the name of file like "/tmp/in", %2 is the reason of error
+#. *  For Right-To-Left languages, you want to put %1 into its own empty line so
+#. *  the text renderer doesn't get trip with the English filename
+#. *  (see BNC #584466 for details)
+#.
+#: library/modules/Message.ycp:147
+#, ycp-format
+msgid ""
+"Cannot open file '%1'.\n"
+"\n"
+"Reason: %2"
+msgstr ""
+"无法打开文件“%1”。\n"
+"\n"
+"原因：%2"
+
+#. TRANSLATORS: Progress stage text
+#: library/modules/Message.ycp:158
+msgid "Finished"
+msgstr "已完成"
+
+#. TRANSLATORS: Progress stage text
+#: library/modules/Message.ycp:167
+msgid "Check the environment"
+msgstr "检查环境"
+
+#. TRANSLATORS: Popup message, %1 is the description of error
+#: library/modules/Message.ycp:177
+#, ycp-format
+msgid ""
+"Unknown Error.\n"
+"\n"
+"Description: %1"
+msgstr ""
+"未知的错误。\n"
+"\n"
+"描述：%1"
+
+#. TRANSLATORS: Popup message
+#: library/modules/Message.ycp:188
+msgid "This item must be completed."
+msgstr "此项必须完成。"
+
+#. TRANSLATORS: Popup question
+#. *  For Right-To-Left languages, you want to put %1 into its own empty line so
+#. *  the text renderer doesn't get trip with the English directory
+#. *  (see BNC #584466 for details)
+#.
+#: library/modules/Message.ycp:201
+#, ycp-format
+msgid ""
+"The directory '%1' does not exist.\n"
+"Create it?"
+msgstr ""
+"目录“%1”不存在。\n"
+"是否创建？"
+
+#. TRANSLATORS: Popup message
+#: library/modules/Message.ycp:212
+msgid ""
+"The domain has changed.\n"
+"You must reboot for the changes to take effect."
+msgstr ""
+"域名已更改。\n"
+"要让更该生效，您必须重新启动。"
+
+#. TRANSLATORS: CheckBox / Button
+#: library/modules/Message.ycp:222
+msgid "Do Not Show This Message &Again"
+msgstr "不再显示此信息(&A)"
+
+#. TRANSLATORS: Popup message, %1 is a service name like "smbd"
+#: library/modules/Message.ycp:232
+#, ycp-format
+msgid "Cannot adjust '%1' service."
+msgstr "无法调整“%1”服务。"
+
+#. TRANSLATORS: Popup message, %1 is a missing-parameter name
+#: library/modules/Message.ycp:242
+#, ycp-format
+msgid "Missing parameter '%1'."
+msgstr "缺少参数“%1”。"
+
+#. TRANSLATORS: Popup message, %1 is a directory name
+#. *  For Right-To-Left languages, you want to put %1 into its own empty line so
+#. *  the text renderer doesn't get trip with the English directory
+#. *  (see BNC #584466 for details)
+#.
+#: library/modules/Message.ycp:256
+#, ycp-format
+msgid "Cannot create directory '%1'."
+msgstr "无法创建目录“%1”。"
+
+#. TRANSLATORS: Popup message
+#: library/modules/Message.ycp:265
+msgid "Cannot read current settings."
+msgstr "不能读取当前设置."
+
+#. TRANSLATORS: Popup message
+#: library/modules/Message.ycp:274
+msgid "SuSEconfig script failed."
+msgstr "SuSEconfig 脚本执行失败."
+
+#. TRANSLATORS: Popup message
+#: library/modules/Message.ycp:283
+msgid "Failed to install required packages."
+msgstr "不能够安装所有必需的软件包"
+
+#. Confirm user request to abort installation
+#: library/modules/Popup.ycp:786
+msgid "Really abort the installation?"
+msgstr "是否确实要中止安装？"
+
+#. Button that will really abort the installation
+#: library/modules/Popup.ycp:788
+msgid "&Abort Installation"
+msgstr "中止安装(&A)"
+
+#. Button that will continue with the installation
+#: library/modules/Popup.ycp:790
+msgid "&Continue Installation"
+msgstr "继续安装(&C)"
+
+#. Confirm user request to abort System Repair
+#: library/modules/Popup.ycp:799
+msgid "Really abort YaST System Repair?"
+msgstr "是否确实要中止 YaST 系统修复？"
+
+#. Button that will really abort the repair
+#: library/modules/Popup.ycp:801
+msgid "Abort System Repair"
+msgstr "中止系统修复"
+
+#. Button that will continue with the repair
+#: library/modules/Popup.ycp:803
+msgid "&Continue System Repair"
+msgstr "继续系统修复(&C)"
+
+#. Warning text for aborting an installation before anything is installed
+#: library/modules/Popup.ycp:808
+msgid ""
+"If you abort the installation now,\n"
+"Linux will not be installed.\n"
+"Your hard disk will remain untouched."
+msgstr ""
+"如果现在中止安装，\n"
+"则不会安装 Linux。\n"
+"您的硬盘将保持原样不变。"
+
+#. Warning text for aborting an installation during the install process
+#. - After some installation steps have been performed - e.g.
+#. disks formatted / some packages already installed
+#: library/modules/Popup.ycp:819
+msgid ""
+"If you abort the installation now, you will\n"
+"have an incomplete Linux system\n"
+"that might or might not be usable.\n"
+"You might need to reinstall.\n"
+msgstr ""
+"如果现在中止安装，\n"
+"将得到一个不完整的 Linux 系统。\n"
+"该系统不一定能够正常使用。\n"
+"您可能需要重安装。\n"
+
+#. Warning text for aborting an installation during the install process
+#. right in the middle of some critical process (e.g. formatting)
+#: library/modules/Popup.ycp:829
+msgid ""
+"If you abort the installation now,\n"
+"Linux will be unusable.\n"
+"You will need to reinstall."
+msgstr ""
+"如果现在中止安装，\n"
+"则 Linux 将不可用。\n"
+"您将需要重安装。"
+
+#. Confirm aborting the program
+#: library/modules/Popup.ycp:879
+msgid "Really abort?"
+msgstr "是否确实要中止？"
+
+#. Additional hint when trying to abort program in spite of changes
+#: library/modules/Popup.ycp:886
+msgid "All changes will be lost!"
+msgstr "所有更改都将丢失！"
+
+#. FIXME: BNC #422612, Use `opt(`noSanityCheck) later
+#. button label
+#: library/modules/Popup.ycp:917
+msgid "&Details..."
+msgstr "细节(&D)..."
+
+#. translators: summary header for messages generated through autoinstallation
+#: library/modules/Report.ycp:82
+msgid "Messages"
+msgstr "消息"
+
+#. Report configuration - will be normal messages displayed?
+#. '%1' will be replaced by translated string "Yes" or "No"
+#: library/modules/Report.ycp:87
+#, ycp-format
+msgid "Display Messages: %1"
+msgstr "显示消息：%1"
+
+#. translators: summary if the messages should be displayed
+#. translators: summary if the messages should be written to log file
+#. translators: summary if the warnings should be displayed
+#. translators: summary if the warnings should be written to log file
+#. translators: summary if the errors should be displayed
+#. translators: summary if the errors should be written to log file
+#. human text for Boolean value
+#: library/modules/Report.ycp:89 library/modules/Report.ycp:97
+#: library/modules/Report.ycp:106 library/modules/Report.ycp:114
+#: library/modules/Report.ycp:123 library/modules/Report.ycp:131
+#: library/network/src/NetworkPopup.ycp:61 library/types/src/String.ycp:88
+msgid "Yes"
+msgstr "是"
+
+#. translators: summary if the errors should be written to log file
+#. human text for Boolean value
+#: library/modules/Report.ycp:89 library/modules/Report.ycp:97
+#: library/modules/Report.ycp:106 library/modules/Report.ycp:114
+#: library/modules/Report.ycp:123 library/modules/Report.ycp:133
+#: library/network/src/NetworkPopup.ycp:60 library/types/src/String.ycp:93
+msgid "No"
+msgstr "否"
+
+#. Report configuration - will have normal messages timeout?
+#. '%1' will be replaced by number of seconds
+#: library/modules/Report.ycp:92
+#, ycp-format
+msgid "Time-out Messages: %1"
+msgstr "超时消息：%1"
+
+#. Report configuration - will be normal messages logged to file?
+#. '%1' will be replaced by translated string "Yes" or "No"
+#: library/modules/Report.ycp:95
+#, ycp-format
+msgid "Log Messages: %1"
+msgstr "记录消息：%1"
+
+#. translators: summary header for warnings generated through autoinstallation
+#: library/modules/Report.ycp:100
+msgid "Warnings"
+msgstr "警告"
+
+#. Report configuration - will be warning messages displayed?
+#. '%1' will be replaced by translated string "Yes" or "No"
+#: library/modules/Report.ycp:104
+#, ycp-format
+msgid "Display Warnings: %1"
+msgstr "显示警告：%1"
+
+#. Report configuration - will have warning messages timeout?
+#. '%1' will be replaced by number of seconds
+#: library/modules/Report.ycp:109
+#, ycp-format
+msgid "Time-out Warnings: %1"
+msgstr "超时警告：%1"
+
+#. Report configuration - will be warning messages logged to file?
+#. '%1' will be replaced by translated string "Yes" or "No"
+#: library/modules/Report.ycp:112
+#, ycp-format
+msgid "Log Warnings: %1"
+msgstr "记录警告：%1"
+
+#. translators: summary header for errors generated through autoinstallation
+#: library/modules/Report.ycp:117
+msgid "Errors"
+msgstr "错误"
+
+#. Report configuration - will be error messages displayed?
+#. '%1' will be replaced by translated string "Yes" or "No"
+#: library/modules/Report.ycp:121
+#, ycp-format
+msgid "Display Errors: %1"
+msgstr "显示错误：%1"
+
+#. Report configuration - will have error messages timeout?
+#. '%1' will be replaced by number of seconds
+#: library/modules/Report.ycp:126
+#, ycp-format
+msgid "Time-out Errors: %1"
+msgstr "超时错误：%1"
+
+#. Report configuration - will be error messages logged to file?
+#. '%1' will be replaced by translated string "Yes" or "No"
+#: library/modules/Report.ycp:129
+#, ycp-format
+msgid "Log Errors: %1"
+msgstr "记录错误：%1"
+
+#. translators: warnings summary header
+#: library/modules/Report.ycp:687
+msgid "Warning:"
+msgid_plural "Warnings:"
+msgstr[0] "警告："
+
+#. translators: errors summary header
+#: library/modules/Report.ycp:701
+msgid "Error:"
+msgid_plural "Errors:"
+msgstr[0] "错误："
+
+#. translators: message summary header
+#: library/modules/Report.ycp:715 library/modules/Report.ycp:729
+msgid "Message:"
+msgid_plural "Messages:"
+msgstr[0] "消息："
+
+#. translators: summary if the module has not been used yet in AutoYaST profile
+#: library/modules/Summary.ycp:49
+msgid "Not configured yet."
+msgstr "尚未配置。"
+
+#. translators: summary if no hardware was detected
+#: library/modules/Summary.ycp:65
+msgid "Not detected."
+msgstr "未检测到。"
+
+#: library/modules/UIHelper.ycp:71
+msgid "A&dd"
+msgstr "添加(&D)"
+
+#: library/modules/UIHelper.ycp:72
+msgid "&Edit"
+msgstr "编辑(&E)"
+
+#: library/modules/UIHelper.ycp:73
+msgid "De&lete"
+msgstr "删除(&L)"
+
+#. translators: Tree header
+#: library/modules/ValueBrowser.ycp:147
+msgid "&Variable"
+msgstr "变量(&V)"
+
+#. label
+#: library/network/src/CWMFirewallInterfaces.ycp:99
+msgid "Firewall cannot be adjusted during first stage installation."
+msgstr "在安装第一阶段，不能调整防火墙。"
+
+#. label
+#: library/network/src/CWMFirewallInterfaces.ycp:102
+msgid "Firewall package is not installed."
+msgstr "防火墙软件包未安装。"
+
+#. label
+#: library/network/src/CWMFirewallInterfaces.ycp:108
+msgid "Firewall is disabled"
+msgstr "防火墙已禁用"
+
+#. label
+#: library/network/src/CWMFirewallInterfaces.ycp:113
+msgid "Firewall port is closed"
+msgstr "防火墙端口已关闭"
+
+#. label
+#: library/network/src/CWMFirewallInterfaces.ycp:118
+msgid "Firewall port is open on all interfaces"
+msgstr "已在所有的接口上打开防火墙端口"
+
+#. label
+#: library/network/src/CWMFirewallInterfaces.ycp:123
+msgid "Firewall port is open on selected interfaces"
+msgstr "已在所选的接口上打开防火墙端口"
+
+#. label
+#: library/network/src/CWMFirewallInterfaces.ycp:128
+msgid "No network interfaces are configured"
+msgstr "没有配置网络接口"
+
+#: library/network/src/CWMFirewallInterfaces.ycp:161
+msgid "Interface is not assigned to any zone"
+msgstr "未指派该接口到任何区域"
+
+#. transaltors: selection box title
+#: library/network/src/CWMFirewallInterfaces.ycp:396
+msgid "&Network Interfaces with Open Port in Firewall"
+msgstr "网络接口中有打开的防火墙端口(&N)"
+
+#: library/network/src/CWMFirewallInterfaces.ycp:472
+#, ycp-format
+msgid ""
+"These network interfaces assigned to internal network cannot be deselected:\n"
+"%1\n"
+msgstr ""
+"不能取消选择指派到内部网络的网络接口：\n"
+"%1\n"
+
+#. question popup
+#: library/network/src/CWMFirewallInterfaces.ycp:488
+msgid ""
+"No interface is selected. Service will not\n"
+"be available for other computers.\n"
+"\n"
+"Continue?"
+msgstr ""
+"未选择任何接口。其它计算机\n"
+"将无法使用服务。\n"
+"\n"
+"是否继续？"
+
+#. yes-no popup
+#: library/network/src/CWMFirewallInterfaces.ycp:515
+#, ycp-format
+msgid ""
+"Because of SuSE Firewall settings, the port\n"
+"on the following interfaces will additionally be open:\n"
+"%1\n"
+"\n"
+"Continue?"
+msgstr ""
+"根据 SuSE 防火墙设置，还将打开\n"
+"以下接口上的端口：\n"
+"%1\n"
+"\n"
+"是否继续？"
+
+#. yes-no popup
+#: library/network/src/CWMFirewallInterfaces.ycp:531
+#: library/network/src/CWMFirewallInterfaces.ycp:579
+#, ycp-format
+msgid ""
+"Because of SuSE Firewall settings, the port\n"
+"on the following interfaces cannot be opened:\n"
+"%1\n"
+"\n"
+"Continue?"
+msgstr ""
+"根据 SuSE 防火墙设置，无法打开\n"
+"以下接口上的端口：\n"
+"%1\n"
+"\n"
+"是否继续？"
+
+#. translators: selection box title
+#: library/network/src/CWMFirewallInterfaces.ycp:664
+msgid "Network &Interfaces with Open Port in Firewall"
+msgstr "网络接口中有打开的防火墙端口(&I)"
+
+#. push button to select all network intefaces for firewall
+#: library/network/src/CWMFirewallInterfaces.ycp:673
+msgid "Select &All"
+msgstr "选择全部(&A)"
+
+#. push button to deselect all network intefaces for firewall
+#: library/network/src/CWMFirewallInterfaces.ycp:676
+msgid "Select &None"
+msgstr "不选择(&N)"
+
+#. help text for firewall settings widget 1/3,
+#. %1 is check box label, eg. "Open Port in Firewall" (without quotes)
+#: library/network/src/CWMFirewallInterfaces.ycp:921
+#, ycp-format
+msgid ""
+"<p><b><big>Firewall Settings</big></b><br>\n"
+"To open the firewall to allow access to the service from remote computers,\n"
+"set <b>%1</b>.<br>"
+msgstr ""
+"<p><b><big>防火墙设置</big></b><br>\n"
+"要打开防火墙，以便访问远程计算机中的服务，\n"
+"请设置 <b>%1</b>。<br>"
+
+#. help text for firewall port openning widget 2/3, optional
+#. %1 is push button label, eg. "Firewall &Details" (without quotes)
+#. note: %2 is correct, do not replace with %1!!!
+#: library/network/src/CWMFirewallInterfaces.ycp:929
+#, ycp-format
+msgid ""
+"To select interfaces on which to open the port,\n"
+"click <b>%2</b>.<br>"
+msgstr ""
+"要选择将在其上打开端口的接口，\n"
+"请单击 <b>%2</b>。<br>"
+
+#. help text for firewall settings widget 3/3,
+#: library/network/src/CWMFirewallInterfaces.ycp:933
+msgid ""
+"This option is available only if the firewall\n"
+"is enabled.</p>"
+msgstr ""
+"此选项仅当启用了防火墙时\n"
+"才可用。</p>"
+
+#. part of help text - check box label, NO SHORTCUT!!!
+#: library/network/src/CWMFirewallInterfaces.ycp:946
+msgid "Open Port in Firewall"
+msgstr "打开防火墙中的端口"
+
+#. part of help text - push button label, NO SHORTCUT!!!
+#: library/network/src/CWMFirewallInterfaces.ycp:948
+msgid "Firewall Details"
+msgstr "防火墙细节"
+
+#. check box
+#: library/network/src/CWMFirewallInterfaces.ycp:977
+msgid "Open Port in &Firewall"
+msgstr "打开防火墙中的端口(&F)"
+
+#. push button
+#: library/network/src/CWMFirewallInterfaces.ycp:980
+msgid "Firewall &Details..."
+msgstr "防火墙细节(&D)..."
+
+#. label text
+#: library/network/src/CWMFirewallInterfaces.ycp:1009
+msgid "Firewall is open"
+msgstr "防火墙已打开"
+
+#. TRANSLATORS: Popup error message during parameters validation,
+#. %1 is a string that should be IPv4
+#: library/network/src/DnsServerAPI.pm:129
+msgid "%1 is not a valid IPv4 address."
+msgstr "%1 不是有效的 IPv4 地址。"
+
+#. TRANSLATORS: Popup error message, Calling function which needs DNS zone name defined
+#. TRANSLATORS: Popup error message, Calling function which needs DNS zone defined
+#: library/network/src/DnsServerAPI.pm:142
+#: library/network/src/DnsServerAPI.pm:1431
+msgid "The zone name must be defined."
+msgstr "必须定义区域名。"
+
+#. TRANSLATORS: Popup error message, Trying to get information from zone which doesn't exist,
+#. %1 is the zone name
+#: library/network/src/DnsServerAPI.pm:153
+msgid "DNS zone %1 does not exist."
+msgstr "DNS 区域 %1 不存在。"
+
+#. TRANSLATORS: Popup error message, Trying manage records in zone which is not 'master' type
+#. only 'master' zone records can be managed
+#. %1 is the zone name
+#: library/network/src/DnsServerAPI.pm:187
+msgid "DNS zone %1 is not type master."
+msgstr "DNS 区域 %1 不是主类型."
+
+#. TRANSLATORS: Popup error message, Calling function which needs DNS zone type defined
+#: library/network/src/DnsServerAPI.pm:197
+msgid "The zone type must be defined."
+msgstr "必须定义区域类型。"
+
+#. TRANSLATORS: Popup error message, Calling function with unsupported DNZ zone type,
+#. %1 is the zone type
+#: library/network/src/DnsServerAPI.pm:204
+msgid "Zone type %1 is not supported."
+msgstr "不支持区域类型 %1。"
+
+#. TRANSLATORS: Popup error message, Calling function which needs ACL name defined
+#: library/network/src/DnsServerAPI.pm:217
+msgid "The ACL name must be defined."
+msgstr "必须定义访问控制列表名称。"
+
+#. TRANSLATORS:  Popup error message, Calling function with unknown ACL,
+#. %1 is the ACL's name
+#: library/network/src/DnsServerAPI.pm:228
+msgid "An ACL named %1 does not exist."
+msgstr "不存在名为 %1 的访问控制列表。"
+
+#. TRANSLATORS:  Popup error message, Calling function with undefined parameter
+#: library/network/src/DnsServerAPI.pm:238
+msgid "The hostname must be defined."
+msgstr "必须定义主机名。"
+
+#. Popup error message, wrong FQDN format
+#: library/network/src/DnsServerAPI.pm:250
+msgid "The hostname must be in the fully qualified domain name format."
+msgstr "主机名必须使用完全限定的域名格式。"
+
+#. Popup error message, FQDN hostname must finish with a dot
+#: library/network/src/DnsServerAPI.pm:256
+msgid "The fully qualified hostname must end with a dot."
+msgstr "完全限定的主机名必须以一个点结束。"
+
+#. TRANSLATORS: Popup error message, wrong hostname, allowed syntax is described
+#. two lines below using a pre-defined text
+#: library/network/src/DnsServerAPI.pm:266
+msgid "The hostname is invalid."
+msgstr "主机名无效。"
+
+#. TRANSLATORS: Popup error message, Checking parameters, MX priority is a needed parameter
+#: library/network/src/DnsServerAPI.pm:278
+msgid "The mail exchange priority must be defined."
+msgstr "必须定义邮件交换优先级。"
+
+#. TRANSLATORS: Popup error message, Checking parameters, wrong format
+#: library/network/src/DnsServerAPI.pm:284
+msgid ""
+"The mail exchange priority is invalid.\n"
+"It must be a number from 0 to 65535.\n"
+msgstr ""
+"邮件交换优先级无效。\n"
+"它必须是一个从 0 到 65535 的数字。\n"
+
+#. TRANSLATORS: Popup error message, Wrong hostname which should be part of the zone,
+#. %1 is the hostname, %2 is the zone name
+#: library/network/src/DnsServerAPI.pm:305
+msgid ""
+"The hostname %1 is not part of the zone %2.\n"
+"\n"
+"The hostname must be relative to the zone or must end \n"
+"with the zone name followed by a dot, for example,\n"
+"'dhcp1' or 'dhcp1.example.org.' for the zone 'dhcp.org'.\n"
+msgstr ""
+"主机名 %1 不是区域 %2 的一部分。\n"
+"\n"
+"主机名必须相对于区域或必须以\n"
+"区域名后跟一个点结束，例如，\n"
+"区域 'dhcp.org' 的名称应为 'dhcp1' 或 'dhcp1.example.org.'。\n"
+
+#. TRANSLATORS: Popup error message, Wrong reverse IPv4,
+#. %1 is the reveresed IPv4
+#: library/network/src/DnsServerAPI.pm:341
+msgid ""
+"The reverse IPv4 address %1 is invalid.\n"
+"\n"
+"A valid reverse IPv4 consists of four integers in the range 0-255\n"
+"separated by a dot then followed by the string '.in-addr.arpa.'.\n"
+"For example, '1.32.168.192.in-addr.arpa.' for the IPv4 address '192.168.32.1'.\n"
+msgstr ""
+"该反向 IPv4 地址 %1 无效。\n"
+"\n"
+"有效的反向 IPv4 包含由点分隔的 4 个范围在 0-255\n"
+"之间的整数，再后跟字符串 '.in-addr.arpa.'。\n"
+"例如，IPv4 地址 '192.168.32.1' 的反向地址是 '1.32.168.192.in-addr.arpa.'。\n"
+
+#. TRANSLATORS: Popup error message, user can't use hostname %1 because it doesn't make
+#. sense to e relative to zone %2 (%2 is a reverse zone name like '32.200.192.in-addr.arpa')
+#: library/network/src/DnsServerAPI.pm:363
+msgid ""
+"The relative hostname %1 cannot be used with zone %2.\n"
+"Use a fully qualified hostname finished with a dot instead,\n"
+"such as 'host.example.org.'.\n"
+msgstr ""
+"不能对区域 %2 使用相对主机名 %1。\n"
+"请使用以点结束的完全限定的主机名，\n"
+"诸如 'host.example.org.'。\n"
+
+#. Popup error message, Checking MX (Mail eXchange) record format
+#: library/network/src/DnsServerAPI.pm:432
+msgid ""
+"Invalid MX record.\n"
+"Use the format 'priority server-name'.\n"
+msgstr ""
+"MX 记录无效。\n"
+"请使用格式\"priority server-name\"。\n"
+
+#. TRANSLATORS: Popup error message, Checking time value for specific SOA section (key),
+#. %1 is the section name, %2 is the minimal value, %3 si the maximal value of the section
+#: library/network/src/DnsServerAPI.pm:543
+#: library/network/src/DnsServerAPI.pm:554
+msgid ""
+"Invalid SOA record.\n"
+"%1 must be from %2 to %3 seconds.\n"
+msgstr ""
+"无效 SOA 记录。\n"
+"%1 必须在 %2 到 %3 秒之间。\n"
+
+#. TRANSLATORS: Popup error message, Checking special BIND time format consisting of numbers
+#. and defined suffies, also only number (as seconds) is allowed, %1 is a section name
+#. like 'ttl' or 'refresh'
+#: library/network/src/DnsServerAPI.pm:583
+msgid ""
+"Invalid SOA record.\n"
+"%1 must be a BIND time type.\n"
+"A BIND time type consists of numbers and the case-insensitive\n"
+"suffixes W, D, H, M, and S. Time in seconds is allowed without the suffix.\n"
+"Enter values such as 12H15m, 86400, or 1W30M.\n"
+msgstr ""
+"无效 SOA 记录。\n"
+"%1 必须是 BIND 时间类型。\n"
+"BIND 时间类型由数字和不区分大小写的\n"
+"后缀 W、D、H、M 和 S 组成。以秒为单位的时间允许不带后缀。\n"
+"请输入诸如这样的值，12H15m、86400 或 1W30M。\n"
+
+#. TRANSLATORS: Popup error message, Checking SOA record,
+#. %1 is a part of SOA, %2 is typically 0, %3 is some huge number
+#: library/network/src/DnsServerAPI.pm:614
+msgid ""
+"Invalid SOA record.\n"
+"%1 must be a number from %2 to %3.\n"
+msgstr ""
+"无效 SOA 记录。\n"
+"%1 必须是 %2 到 %2 之间的一个数字。\n"
+
+#. TRANSLATORS: Popup error message, parameters validation, 'filename' is needed parameter
+#: library/network/src/DnsServerAPI.pm:1020
+msgid "The filename must be defined when logging to a file."
+msgstr "要记录到文件，必须定义文件名。"
+
+#. TRANSLATORS: Popup error message, parameters validation, wrongly set file size
+#: library/network/src/DnsServerAPI.pm:1028
+msgid ""
+"Invalid file size.\n"
+"\n"
+"It must be set in the format 'number[suffix]'.\n"
+"\n"
+"Possible suffixes are k, K, m, M, g, and G.\n"
+msgstr ""
+"无效文件大小。\n"
+"这必须以格式 '数字[后缀]' 设\n"
+"置。可以使用后缀 k、K、m、M、g 和 G。\n"
+
+#. TRANSLATORS: Popup error message, parameters validation, wrongly set number of versions
+#: library/network/src/DnsServerAPI.pm:1041
+msgid "The count of file versions must be a number."
+msgstr "文件版本的计数必须是一个数字。"
+
+#. TRANSLATORS: Popup error message, Trying to get 'master server' for zone which is not 'slave' type,
+#. 'master' servers haven't any 'masterservers', they ARE masterservers
+#. %1 is name of the zone, %2 is type of the zone
+#. TRANSLATORS: Popup error message, Trying to set 'master server' for zone which is not 'slave' type,
+#. %1 is name of the zone, %2 is type of the zone
+#: library/network/src/DnsServerAPI.pm:1334
+#: library/network/src/DnsServerAPI.pm:1381
+msgid ""
+"Only slave zones have a master server defined.\n"
+"Zone %1 is type %2.\n"
+msgstr ""
+"只有从属区域有一个已定义的主服务器。\n"
+"区域 %1 的类型是 %2。\n"
+
+#. TRANSLATORS: Popup error message, Trying to add new zone which already exists
+#: library/network/src/DnsServerAPI.pm:1440
+msgid "Zone name %1 already exists."
+msgstr "区域名 %1 已存在。"
+
+#. TRANSLATORS: Popup error message, Adding new 'slave' zone without defined needed option 'masterserver'
+#: library/network/src/DnsServerAPI.pm:1449
+msgid "Option masterserver is needed for slave zones."
+msgstr "主服务器的选项对于从属区域是必需的。"
+
+#. TRANSLATORS: Popup error message
+#: library/network/src/DnsServerAPI.pm:2531
+#: library/network/src/DnsServerAPI.pm:2581
+msgid "Host's IP cannot be empty."
+msgstr "主机 IP 不能为空。"
+
+#. TRANSLATORS: Popup error message, No reverse zone for %1 record found,
+#. %2 is the hostname, %1 is the IPv4
+#: library/network/src/DnsServerAPI.pm:2539
+msgid ""
+"There is no reverse zone for %1 administered by your DNS server.\n"
+"Hostname %2 cannot be added."
+msgstr ""
+"DNS 服务器管理的 %1 没有反向区域。\n"
+"无法添加主机名 %2。"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:260
+#: library/network/src/NetworkInterfaces.ycp:951
+#: library/network/src/NetworkInterfaces.ycp:959
+#: library/system/src/classnames.ycp:98 library/system/src/classnames.ycp:210
+#: library/system/src/classnames.ycp:211
+msgid "Modem"
+msgstr "调制解调器"
+
+#: library/network/src/NetworkInterfaces.ycp:263
+msgid "Network Card"
+msgstr "网卡"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:266
+#: library/network/src/NetworkInterfaces.ycp:917
+#: library/network/src/NetworkInterfaces.ycp:937
+#: library/network/src/NetworkInterfaces.ycp:943
+#: library/network/src/NetworkInterfaces.ycp:955
+msgid "ISDN"
+msgstr "综合业务数字网"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:269
+#: library/network/src/NetworkInterfaces.ycp:921
+msgid "DSL"
+msgstr "数字用户线路(电话拨号)"
+
+#: library/network/src/NetworkInterfaces.ycp:271
+#: library/packages/src/SignatureCheckDialogs.ycp:386
+#: library/packages/src/SignatureCheckDialogs.ycp:556
+#: library/packages/src/SignatureCheckDialogs.ycp:557
+#: library/packages/src/SignatureCheckDialogs.ycp:762
+#: library/packages/src/SignatureCheckDialogs.ycp:763
+msgid "Unknown"
+msgstr "未知"
+
+#. Device type label
+#. This is what used to be Virtual Interface (eth0:1).
+#. In our data model, additional addresses for an interface
+#. are represented as its sub-interfaces.
+#. And also we frequently confuse "device" and "interface"
+#. :-(
+#: library/network/src/NetworkInterfaces.ycp:903
+msgid "Additional Address"
+msgstr "附加地址"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:907
+msgid "ARCnet"
+msgstr "ARCnet"
+
+#: library/network/src/NetworkInterfaces.ycp:907
+msgid "ARCnet Network Card"
+msgstr "ARCnet 网卡"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:909
+msgid "ATM"
+msgstr "ATM"
+
+#: library/network/src/NetworkInterfaces.ycp:909
+msgid "Asynchronous Transfer Mode (ATM)"
+msgstr "异步传送方式 (ATM)"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:911
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+#: library/network/src/NetworkInterfaces.ycp:911
+msgid "Bluetooth Connection"
+msgstr "蓝牙连接"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:913
+msgid "Bond"
+msgstr "绑定"
+
+#: library/network/src/NetworkInterfaces.ycp:913
+msgid "Bond Network"
+msgstr "绑定网络"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:915
+msgid "CLAW"
+msgstr "CLAW"
+
+#: library/network/src/NetworkInterfaces.ycp:915
+msgid "Common Link Access for Workstation (CLAW)"
+msgstr "工作站普通链接访问 (CLAW)"
+
+#: library/network/src/NetworkInterfaces.ycp:917
+msgid "ISDN Card"
+msgstr "综合业务数字网卡"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:919
+#: library/system/src/classnames.ycp:247
+msgid "CTC"
+msgstr "CTC"
+
+#: library/network/src/NetworkInterfaces.ycp:919
+msgid "Channel to Channel Interface (CTC)"
+msgstr "通道到通道接口 (CTC)"
+
+#: library/network/src/NetworkInterfaces.ycp:921
+msgid "DSL Connection"
+msgstr "电话拨号连接"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:923
+msgid "Dummy"
+msgstr "虚设"
+
+#: library/network/src/NetworkInterfaces.ycp:923
+msgid "Dummy Network Device"
+msgstr "虚设网络设备"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:925
+#: library/system/src/classnames.ycp:251
+msgid "ESCON"
+msgstr "ESCON"
+
+#: library/network/src/NetworkInterfaces.ycp:925
+msgid "Enterprise System Connector (ESCON)"
+msgstr "企业系统连接器 (ESCON)"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:927
+#: library/system/src/classnames.ycp:244
+msgid "Ethernet"
+msgstr "以太网"
+
+#: library/network/src/NetworkInterfaces.ycp:927
+msgid "Ethernet Network Card"
+msgstr "有线网卡"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:929
+#: library/system/src/classnames.ycp:246
+msgid "FDDI"
+msgstr "FDDI"
+
+#: library/network/src/NetworkInterfaces.ycp:929
+msgid "FDDI Network Card"
+msgstr "光纤分布式数据接口网卡"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:931
+msgid "FICON"
+msgstr "FICON"
+
+#: library/network/src/NetworkInterfaces.ycp:931
+msgid "Fiberchannel System Connector (FICON)"
+msgstr "光纤通道系统连接器 (FICON)"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:933
+msgid "HIPPI"
+msgstr "HIPPI"
+
+#: library/network/src/NetworkInterfaces.ycp:933
+msgid "HIgh Performance Parallel Interface (HIPPI)"
+msgstr "高性能并行接口 (HIPPI)"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:935
+msgid "Hipersockets"
+msgstr "Hipersockets"
+
+#: library/network/src/NetworkInterfaces.ycp:935
+msgid "Hipersockets Interface (HSI)"
+msgstr "超速套接字接口 (HSI)"
+
+#: library/network/src/NetworkInterfaces.ycp:937
+#: library/network/src/NetworkInterfaces.ycp:943
+#: library/network/src/NetworkInterfaces.ycp:955
+msgid "ISDN Connection"
+msgstr "综合业务数字网连接"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:939
+#: library/network/src/NetworkInterfaces.ycp:941
+msgid "IrDA"
+msgstr "IrDA"
+
+#: library/network/src/NetworkInterfaces.ycp:939
+msgid "Infrared Network Device"
+msgstr "红外网络设备"
+
+#: library/network/src/NetworkInterfaces.ycp:941
+msgid "Infrared Device"
+msgstr "红外设备"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:945
+#: library/system/src/classnames.ycp:248
+msgid "IUCV"
+msgstr "IUCV"
+
+#: library/network/src/NetworkInterfaces.ycp:945
+msgid "Inter User Communication Vehicle (IUCV)"
+msgstr "用户间通讯载体 (IUCV)"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:947
+msgid "OSA LCS"
+msgstr "OSA LCS"
+
+#: library/network/src/NetworkInterfaces.ycp:947
+msgid "OSA LCS Network Card"
+msgstr "OSA 本地通道站网卡"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:949
+#: library/system/src/classnames.ycp:243
+msgid "Loopback"
+msgstr "回路"
+
+#: library/network/src/NetworkInterfaces.ycp:949
+msgid "Loopback Device"
+msgstr "回路设备"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:953
+#: library/system/src/classnames.ycp:252
+msgid "Myrinet"
+msgstr "Myrinet"
+
+#: library/network/src/NetworkInterfaces.ycp:953
+msgid "Myrinet Network Card"
+msgstr "Myrinet 网卡"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:957
+msgid "Parallel Line"
+msgstr "并行线路"
+
+#: library/network/src/NetworkInterfaces.ycp:957
+msgid "Parallel Line Connection"
+msgstr "并行线路连接"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:961
+#: library/system/src/classnames.ycp:250
+msgid "QETH"
+msgstr "QETH"
+
+#: library/network/src/NetworkInterfaces.ycp:961
+msgid "OSA-Express or QDIO Device (QETH)"
+msgstr "OSA-Express 或 QDIO 设备 (QETH)"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:963
+msgid "IPv6-in-IPv4"
+msgstr "IPv6-in-IPv4"
+
+#: library/network/src/NetworkInterfaces.ycp:963
+msgid "IPv6-in-IPv4 Encapsulation Device"
+msgstr "IPv6-in-IPv4 封装设备"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:965
+msgid "Serial Line"
+msgstr "串行线路"
+
+#: library/network/src/NetworkInterfaces.ycp:965
+msgid "Serial Line Connection"
+msgstr "串行线路连接"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:967
+msgid "Token Ring"
+msgstr "令牌环"
+
+#: library/network/src/NetworkInterfaces.ycp:967
+msgid "Token Ring Network Card"
+msgstr "令牌环网卡"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:969
+msgid "USB"
+msgstr "USB"
+
+#: library/network/src/NetworkInterfaces.ycp:969
+msgid "USB Network Device"
+msgstr "USB 网络设备"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:971
+msgid "VMWare"
+msgstr "VMWare"
+
+#: library/network/src/NetworkInterfaces.ycp:971
+msgid "VMWare Network Device"
+msgstr "VMWare 网络设备"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:973
+msgid "Wireless"
+msgstr "无线"
+
+#: library/network/src/NetworkInterfaces.ycp:973
+msgid "Wireless Network Card"
+msgstr "无线网卡"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:975
+msgid "XPNET"
+msgstr "XPNET"
+
+#: library/network/src/NetworkInterfaces.ycp:975
+msgid "XP Network"
+msgstr "XP 网络"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:977
+msgid "VLAN"
+msgstr "VLAN"
+
+#: library/network/src/NetworkInterfaces.ycp:977
+msgid "Virtual LAN"
+msgstr "虚拟局域网"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:979
+#: library/system/src/classnames.ycp:78 library/system/src/classnames.ycp:90
+msgid "Bridge"
+msgstr "网桥"
+
+#: library/network/src/NetworkInterfaces.ycp:979
+msgid "Network Bridge"
+msgstr "网桥"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:981
+msgid "TUN"
+msgstr "TUN"
+
+#: library/network/src/NetworkInterfaces.ycp:981
+msgid "Network TUNnel"
+msgstr "网络秘道"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:983
+msgid "TAP"
+msgstr "TAP"
+
+#: library/network/src/NetworkInterfaces.ycp:983
+msgid "Network TAP"
+msgstr "网络 TAP"
+
+#. Device type label
+#: library/network/src/NetworkInterfaces.ycp:985
+#: library/system/src/classnames.ycp:147
+msgid "InfiniBand"
+msgstr "InfiniBand"
+
+#: library/network/src/NetworkInterfaces.ycp:985
+msgid "InfiniBand Device"
+msgstr "InfiniBand 设备"
+
+#. TRANSLATORS: Informs that device name is not known
+#: library/network/src/NetworkPopup.ycp:46
+msgid "Unknown device"
+msgstr "未知设备"
+
+#. TRANSLATORS: Informs that the IP address is assigned via DHCP
+#: library/network/src/NetworkPopup.ycp:53
+msgid "DHCP address"
+msgstr "DHCP 地址"
+
+#. TRANSLATORS: table item, informing that device has no IP address
+#: library/network/src/NetworkPopup.ycp:58
+msgid "No IP address assigned"
+msgstr "未指派 IP 地址"
+
+#. translators: table header - details about the network device
+#: library/network/src/NetworkPopup.ycp:71
+msgid "Device Type"
+msgstr "设备类型"
+
+#: library/network/src/NetworkPopup.ycp:71
+msgid "Device Name"
+msgstr "设备名"
+
+#: library/network/src/NetworkPopup.ycp:71
+msgid "IP Address"
+msgstr "IP 地址"
+
+#: library/network/src/NetworkPopup.ycp:71
+msgid "Device ID"
+msgstr "设备 ID"
+
+#: library/network/src/NetworkPopup.ycp:71
+msgid "Connected"
+msgstr "已连接"
+
+#. label message
+#: library/network/src/NetworkPopup.ycp:153
+#: library/network/src/NetworkPopup.ycp:188
+msgid "Scanning for hosts on this LAN..."
+msgstr "正在扫描此局域网上的主机..."
+
+#. selection box label
+#: library/network/src/NetworkPopup.ycp:173
+msgid "&NFS Servers"
+msgstr "NFS 服务器(&N)"
+
+#. selection box label
+#: library/network/src/NetworkPopup.ycp:199
+msgid "Re&mote Hosts"
+msgstr "远程主机(&M)"
+
+#. selection box label
+#: library/network/src/NetworkPopup.ycp:220
+msgid "&Exported Directories"
+msgstr "导出的目录(&E)"
+
+#. TRANSLATORS: pop-up question when reading the service configuration
+#: library/network/src/NetworkService.ycp:117
+msgid ""
+"Your network interfaces are currently controlled by NetworkManager\n"
+"but the service to configure might not work well with it.\n"
+"\n"
+"Really continue?"
+msgstr ""
+"您的网络接口当前由 NetworkManager 控制\n"
+"但是要配置的服务可能无法与之很好地协作。\n"
+"是否确实要继续？"
+
+#: library/network/src/NetworkService.ycp:168
+msgid "No running network detected."
+msgstr "没有检测到运行中的网络。"
+
+#: library/network/src/NetworkService.ycp:170
+msgid "Restart installation and configure network in Linuxrc"
+msgstr "重新开始安装和配置网络于 Linuxrc"
+
+#: library/network/src/NetworkService.ycp:171
+msgid ""
+"Configure network with YaST or Network Manager plug-in\n"
+"and start this module again"
+msgstr ""
+"使用 YaST 或者 Network Manager 插件配置网络\n"
+"然后再启动这个模块"
+
+#: library/network/src/NetworkService.ycp:174
+msgid "or continue without network."
+msgstr "或者不带网络继续。"
+
+#. TRANSLATORS: popup informing message, allowed characters for port-names
+#: library/network/src/PortAliases.ycp:115
+msgid ""
+"A port name may consist of the characters 'a-z', 'A-Z', '0-9', and '*+._-'.\n"
+"A port number may be a number from 0 to 65535.\n"
+"No spaces are allowed.\n"
+msgstr ""
+"端口名可以由字符“a-z”、“A-Z”、“0-9”和“*+._-”组成。\n"
+"端口号可以是一个从 0 到 65535 的数字。\n"
+"不允许使用空格。\n"
+
+#. TRANSLATORS: Firewall zone name - used in combo box or dialog title
+#: library/network/src/SuSEFirewall.ycp:95
+msgid "External Zone"
+msgstr "外部区域"
+
+#. TRANSLATORS: Firewall zone name - used in combo box or dialog title
+#: library/network/src/SuSEFirewall.ycp:97
+msgid "Internal Zone"
+msgstr "内部区域"
+
+#. TRANSLATORS: Firewall zone name - used in combo box or dialog title
+#: library/network/src/SuSEFirewall.ycp:99
+msgid "Demilitarized Zone"
+msgstr "隔离区域"
+
+#. TRANSLATORS: Firewall zone full-name, used as combo box item or dialog title
+#: library/network/src/SuSEFirewall.ycp:1044
+msgid "Unknown Zone"
+msgstr "未知区域"
+
+#. TRANSLATORS: a popup error message
+#: library/network/src/SuSEFirewall.ycp:1305
+#, ycp-format
+msgid "Cannot enable service '%1'."
+msgstr "无法启用服务“%1”。"
+
+#. TRANSLATORS: a popup error message
+#: library/network/src/SuSEFirewall.ycp:1328
+#, ycp-format
+msgid "Cannot disable service '%1'."
+msgstr "无法禁用服务“%1”。"
+
+#. TRANSLATORS: Error message, %1 = interface name (like eth0)
+#: library/network/src/SuSEFirewall.ycp:1445
+#, ycp-format
+msgid ""
+"Interface '%1' is included in multiple firewall zones.\n"
+"Continuing with configuration can produce errors.\n"
+"\n"
+"It is recommended to leave the configuration and repair it manually in\n"
+"the file '/etc/sysconfig/SuSEFirewall'."
+msgstr ""
+"接口“%1”包含在多个防火墙区域中。\n"
+"继续配置可能导致错误。\n"
+"\n"
+"建议保留配置并\n"
+"在文件\"/etc/sysconfig/SuSEFirewall\"中手动修复它。"
+
+#. TRANSLATORS: Error message, %1 = interface name (like eth0)
+#: library/network/src/SuSEFirewall.ycp:1856
+#: library/network/src/SuSEFirewall.ycp:1919
+#, ycp-format
+msgid ""
+"Interface '%1' is not assigned to any firewall zone.\n"
+"Run YaST2 Firewall and assign it.\n"
+msgstr ""
+"未将接口“%1”指派到任何防火墙区域。\n"
+"运行 YaST2 防火墙并指派它。\n"
+
+#. TRANSLATORS: Dialog caption
+#: library/network/src/SuSEFirewall.ycp:2327
+msgid "Initializing Firewall Configuration"
+msgstr "初始化防火墙配置"
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2332
+msgid "Check for network devices"
+msgstr "检查网络设备"
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2334
+msgid "Read current configuration"
+msgstr "读取当前配置"
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2336
+msgid "Check possibly conflicting services"
+msgstr "检查可能的冲突服务"
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2338
+msgid "Read dynamic definitions of installed services"
+msgstr "读取已安装服务的动态定义"
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2342
+msgid "Checking for network devices..."
+msgstr "正在检查网络设备..."
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2344
+msgid "Reading current configuration..."
+msgstr "正在读取当前配置..."
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2346
+msgid "Checking possibly conflicting services..."
+msgstr "正在检查可能的冲突服务..."
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2348
+msgid "Reading dynamic definitions of installed services..."
+msgstr "正在读取已安装服务的动态定义..."
+
+#. TRANSLATORS: Dialog caption
+#: library/network/src/SuSEFirewall.ycp:2500
+msgid "Writing Firewall Configuration"
+msgstr "写入防火墙配置"
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2505
+msgid "Write firewall settings"
+msgstr "写入防火墙设置"
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2507
+msgid "Adjust firewall service"
+msgstr "调整防火墙服务"
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2511
+msgid "Writing firewall settings..."
+msgstr "正在写入防火墙设置..."
+
+#. TRANSLATORS: Progress step
+#: library/network/src/SuSEFirewall.ycp:2513
+msgid "Adjusting firewall service..."
+msgstr "正在调整防火墙服务..."
+
+#. TRANSLATORS: a popup error message
+#: library/network/src/SuSEFirewall.ycp:2529
+msgid "Writing settings failed"
+msgstr "写入设置失败"
+
+#. protocol name
+#: library/network/src/SuSEFirewall.ycp:3237
+msgid "TCP"
+msgstr "TCP"
+
+#. protocol name
+#: library/network/src/SuSEFirewall.ycp:3239
+msgid "UDP"
+msgstr "UDP"
+
+#. protocol name
+#: library/network/src/SuSEFirewall.ycp:3241
+msgid "RPC"
+msgstr "RPC"
+
+#. protocol name
+#: library/network/src/SuSEFirewall.ycp:3243
+msgid "IP"
+msgstr "IP"
+
+#. table item, %1 stands for the buggy protocol name
+#: library/network/src/SuSEFirewall.ycp:3261
+#, ycp-format
+msgid "Unknown protocol (%1)"
+msgstr "未知协议 (%1)"
+
+#. TRANSLATORS: description of the valid network definition
+#: library/network/src/SuSEFirewallExpertRules.ycp:118
+msgid ""
+"A valid network definition can contain the IP,\n"
+"IP/Netmask, IP/Netmask_Bits, or 0/0 for all networks.\n"
+"\n"
+"Examples:\n"
+"IP: 192.168.0.1\n"
+"IP/Netmask: 192.168.0.0/255.255.255.0\n"
+"IP/Netmask_Bits: 192.168.0.0/24 or 192.168.0.1/32\n"
+msgstr ""
+"有效的网络定义可以包含 IP、\n"
+"IP/网络掩码、IP/网络掩码位或 0/0（表示所有网络）。\n"
+"\n"
+"例如：\n"
+"IP：192.168.0.1\n"
+"IP/网络掩码：192.168.0.0/255.255.255.0\n"
+"IP/网络掩码位：192.168.0.0/24 或 192.168.0.1/32\n"
+
+#. TRANSLATORS: Warning in installation proposal, %1 is a device name (eth0, sl0, ...)
+#: library/network/src/SuSEFirewallProposal.ycp:147
+#, ycp-format
+msgid "New network device '%1' found; added as an internal firewall interface"
+msgstr "找到新的网络设备“%1”；已作为内部防火墙接口添加了此设备"
+
+#. TRANSLATORS: Warning in installation proposal, %1 is a device name (eth0, sl0, ...)
+#: library/network/src/SuSEFirewallProposal.ycp:154
+#, ycp-format
+msgid "New network device '%1' found; added as an external firewall interface"
+msgstr "找到新的网络设备“%1”；已作为外部防火墙接口添加了此设备"
+
+#. TRANSLATORS: Proposal informative text
+#: library/network/src/SuSEFirewallProposal.ycp:456
+msgid "SuSEfirewall2 package is not installed, firewall will be disabled."
+msgstr "未安装 SuSEfirewall2 包。 防火墙被禁用。"
+
+#. TRANSLATORS: Proposal informative text "Firewall is enabled (disable)" with link around
+#. IMPORTANT: Please, do not change the HTML link <a href="...">...</a>, only visible text
+#: library/network/src/SuSEFirewallProposal.ycp:472
+msgid "Firewall is enabled (<a href=\"firewall--disable_firewall_in_proposal\">disable</a>)"
+msgstr "防火墙已启用 (<a href=\"firewall--disable_firewall_in_proposal\">禁用</a>)"
+
+#. TRANSLATORS: Proposal informative text "Firewall is disabled (enable)" with link around
+#. IMPORTANT: Please, do not change the HTML link <a href="...">...</a>, only visible text
+#: library/network/src/SuSEFirewallProposal.ycp:476
+msgid "Firewall is disabled (<a href=\"firewall--enable_firewall_in_proposal\">enable</a>)"
+msgstr "防火墙已禁用 (<a href=\"firewall--enable_firewall_in_proposal\">启用</a>)"
+
+#. TRANSLATORS: Network proposal informative text with link around
+#. IMPORTANT: Please, do not change the HTML link <a href="...">...</a>, only visible text
+#: library/network/src/SuSEFirewallProposal.ycp:504
+msgid "SSH port is open (<a href=\"firewall--disable_ssh_in_proposal\">close</a>)"
+msgstr "SSH 端口已打开(<a href=\"firewall--disable_ssh_in_proposal\">关闭</a>)"
+
+#. TRANSLATORS: Network proposal informative text with link around
+#. IMPORTANT: Please, do not change the HTML link <a href="...">...</a>, only visible text
+#: library/network/src/SuSEFirewallProposal.ycp:508
+msgid "SSH port is blocked (<a href=\"firewall--enable_ssh_in_proposal\">open</a>)"
+msgstr "SSH 端口已关闭(<a href=\"firewall--enable_ssh_in_proposal\">打开</a>)"
+
+#. TRANSLATORS: Network proposal informative text with link around
+#. IMPORTANT: Please, do not change the HTML link <a href="...">...</a>, only visible text
+#: library/network/src/SuSEFirewallProposal.ycp:520
+msgid ""
+"SSH port is open (<a href=\"firewall--disable_ssh_in_proposal\">close</a>), but\n"
+"there are no network interfaces configured"
+msgstr "SSH 端口已打开(<a href=\"firewall--disable_ssh_in_proposal\">关闭</a>), 但尚未配置网络接口"
+
+#. TRANSLATORS: This is a warning message. Installation over SSH without SSH allowed on firewall
+#: library/network/src/SuSEFirewallProposal.ycp:527
+msgid "You are installing a system over SSH, but you have not opened the SSH port on the firewall."
+msgstr "您正在通过 SSH 安装系统，但您还没有打开防火墙上的 SSH 端口。"
+
+#. TRANSLATORS: Network proposal informative text "Remote Administration (VNC) is enabled" with link around
+#. IMPORTANT: Please, do not change the HTML link <a href="...">...</a>, only visible text
+#: library/network/src/SuSEFirewallProposal.ycp:556
+msgid "Remote Administration (VNC) ports are open (<a href=\"firewall--disable_vnc_in_proposal\">close</a>)"
+msgstr "远程管理 (VNC) 端口已打开(<a href=\"firewall--disable_vnc_in_proposal\">关闭</a>)"
+
+#. TRANSLATORS: Network proposal informative text "Remote Administration (VNC) is disabled" with link around
+#. IMPORTANT: Please, do not change the HTML link <a href="...">...</a>, only visible text
+#: library/network/src/SuSEFirewallProposal.ycp:560
+msgid "Remote Administration (VNC) ports are blocked (<a href=\"firewall--enable_vnc_in_proposal\">open</a>)"
+msgstr "远程管理 (VNC) 端口已关闭(<a href=\"firewall--enable_vnc_in_proposal\">打开</a>)"
+
+#. TRANSLATORS: This is a warning message. Installation over VNC without VNC allowed on firewall
+#: library/network/src/SuSEFirewallProposal.ycp:565
+msgid "You are installing a system using remote administration (VNC), but you have not opened the VNC ports on the firewall."
+msgstr "您正在通过远程管理 (VNC) 安装系统，但您还没有打开防火墙上的 VNC 端口。"
+
+#. Fallback for presented service
+#: library/network/src/SuSEFirewallServices.ycp:352
+#, ycp-format
+msgid "Service: %1"
+msgstr "服务：%1"
+
+#. TRANSLATORS: Name of unknown service. This should never happen, just for cases..., %1 is a requested service id like nis-server
+#: library/network/src/SuSEFirewallServices.ycp:407
+#, ycp-format
+msgid "Unknown service '%1'"
+msgstr "未知服务“%1”"
+
+#: library/packages/src/PackageCallbacks.ycp:154
+#: library/packages/src/PackageCallbacks.ycp:1628
+msgid "Package: "
+msgstr "包："
+
+#: library/packages/src/PackageCallbacks.ycp:155
+msgid "Size: "
+msgstr "大小："
+
+#: library/packages/src/PackageCallbacks.ycp:184
+#, ycp-format
+msgid "Remaining time to automatic retry: %1"
+msgstr "自动重试前剩余时间：%1"
+
+#: library/packages/src/PackageCallbacks.ycp:197
+#: library/packages/src/PackageCallbacks.ycp:208
+#, ycp-format
+msgid "Downloading package %1 (%2)..."
+msgstr "正在下载包 %1 (%2)..."
+
+#. popup heading
+#: library/packages/src/PackageCallbacks.ycp:213
+msgid "Downloading Package"
+msgstr "正在下载包"
+
+#. check box
+#: library/packages/src/PackageCallbacks.ycp:266
+msgid "Show &details"
+msgstr "显示细节(&D)"
+
+#. error message, %1 is a package name
+#: library/packages/src/PackageCallbacks.ycp:332
+#, ycp-format
+msgid "Package %1 is broken, integrity check has failed."
+msgstr "软件包 %1 已损坏，未通过完整性检查。"
+
+#. command line mode - ask user whether installation of the failed package should be retried
+#: library/packages/src/PackageCallbacks.ycp:344
+#: library/packages/src/PackageCallbacks.ycp:557
+msgid "Retry installation of the package?"
+msgstr "是否重试安装包?"
+
+#. command line mode - ask user whether the installation should be aborted
+#: library/packages/src/PackageCallbacks.ycp:353
+#: library/packages/src/PackageCallbacks.ycp:566
+msgid "Abort the installation?"
+msgstr "是否中止安装?"
+
+#. error message, %1 is code of the error,
+#. detail string is appended to the end
+#: library/packages/src/PackageCallbacks.ycp:376
+#: library/packages/src/PackageCallbacks.ycp:413
+#: library/packages/src/PackageCallbacks.ycp:2397
+#, ycp-format
+msgid "Error: %1:"
+msgstr "错误：%1："
+
+#. TODO: add "Don't show again" checkbox
+#. a warning popup displayed after pressing [Ignore] after a download error
+#: library/packages/src/PackageCallbacks.ycp:437
+msgid ""
+"Ignoring a download failure may result in a broken system.\n"
+"Verify the system later by running the Software Management module.\n"
+msgstr ""
+"忽略下载失败可能会导致系统的损坏。\n"
+"建议之后运行软件管理模块来校验系统。\n"
+
+#: library/packages/src/PackageCallbacks.ycp:482
+#, ycp-format
+msgid "Uninstalling package %1 (%2)..."
+msgstr "正在卸载包 %1 (%2)..."
+
+#: library/packages/src/PackageCallbacks.ycp:483
+#, ycp-format
+msgid "Installing package %1 (%2)..."
+msgstr "正在安装包 %1 (%2)..."
+
+#: library/packages/src/PackageCallbacks.ycp:488
+msgid "Uninstalling Package"
+msgstr "正在卸载包"
+
+#: library/packages/src/PackageCallbacks.ycp:489
+msgid "Installing Package"
+msgstr "正在安装包"
+
+#. error popup during package installation, %1 is the name of the package
+#: library/packages/src/PackageCallbacks.ycp:542
+#, ycp-format
+msgid "Removal of package %1 failed."
+msgstr "未能删除包 %1。"
+
+#. error popup during package installation, %1 is the name of the package
+#: library/packages/src/PackageCallbacks.ycp:544
+#, ycp-format
+msgid "Installation of package %1 failed."
+msgstr "安装包 %1 失败。"
+
+#. TODO: add "Don't show again" checkbox
+#. a warning popup displayed after pressing [Ignore] after a package installation error
+#: library/packages/src/PackageCallbacks.ycp:621
+msgid ""
+"Ignoring a package failure may result in a broken system.\n"
+"The system should be later verified by running the Software Management module."
+msgstr ""
+"忽略某个软件包失败可能导致系统损坏。\n"
+"应在之后运行软件管理模块验证系统。"
+
+#. error report
+#: library/packages/src/PackageCallbacks.ycp:745
+msgid ""
+"<p>The repository at the specified URL now provides a different media ID.\n"
+"If the URL is correct, this indicates that the repository content has changed. To \n"
+"continue using this repository, start <b>Installation Repositories</b> from \n"
+"the YaST control center and refresh the repository.</p>\n"
+msgstr ""
+"<p>指定的 URL 上的安装源现在提供了不同的介质 ID。\n"
+"如果此 URL 是正确的，则表示其内容已改变。\n"
+"要继续使用此源，请从 YaST 控制中心 启动\n"
+"<b>安装源</b>并刷新安装源。</p>\n"
+
+#. media is double sided, we want the user to insert the 'Side A' of the media
+#. the complete string will be "<product> <media> <number>, <side>"
+#. e.g. "'SuSE Linux 9.0' DVD 1, Side A"
+#: library/packages/src/PackageCallbacks.ycp:760
+msgid "Side A"
+msgstr "A 面"
+
+#. media is double sided, we want the user to insert the 'Side B' of the media
+#: library/packages/src/PackageCallbacks.ycp:764
+msgid "Side B"
+msgstr "B 面"
+
+#. label for a repository - %1 product name (e.g. openSUSE 10.2), %2 medium number (e.g. 2)
+#: library/packages/src/PackageCallbacks.ycp:779
+#, ycp-format
+msgid "%1 (Disc %2)"
+msgstr "%1 (光盘 %2)"
+
+#. label for a repository - %1 product name (e.g. openSUSE 10.2), %2 medium number (e.g. 2)
+#: library/packages/src/PackageCallbacks.ycp:781
+#, ycp-format
+msgid "%1 (Medium %2)"
+msgstr "%1 (介质 %2)"
+
+#. prompt to insert product (%1 == "SuSE Linux version 9.2 CD 2")
+#: library/packages/src/PackageCallbacks.ycp:786
+#, ycp-format
+msgid ""
+"Insert\n"
+"'%1'"
+msgstr ""
+"插入\n"
+"\"%1\""
+
+#. report error while accessing local directory with product (%1 = URL, %2 = "SuSE Linux ...")
+#: library/packages/src/PackageCallbacks.ycp:791
+#, ycp-format
+msgid ""
+"Cannot access installation media\n"
+"%1\n"
+"%2.\n"
+"Check whether the directory is accessible."
+msgstr ""
+"无法访问安装介质\n"
+"%1\n"
+"%2。\n"
+"请检查目录能否访问。"
+
+#. report error while accessing network media of product (%1 = URL, %2 = "SuSE Linux ...")
+#: library/packages/src/PackageCallbacks.ycp:799
+#, ycp-format
+msgid ""
+"Cannot access installation media \n"
+"%1\n"
+"%2.\n"
+"Check whether the server is accessible."
+msgstr ""
+"无法访问安装介质\n"
+"%1\n"
+"%2。\n"
+"请检查服务器能否访问。"
+
+#. currently unused
+#: library/packages/src/PackageCallbacks.ycp:806
+msgid "The correct repository medium could not be mounted."
+msgstr "无法挂载正确的安装源介质。"
+
+#. push button label
+#: library/packages/src/PackageCallbacks.ycp:819
+#: library/packages/src/PackageCallbacks.ycp:2088
+msgid "Skip Autorefresh"
+msgstr "跳过自动刷新"
+
+#. menu button label - used for more then one device
+#. push button label - in the media change popup, user can eject the CD/DVD
+#: library/packages/src/PackageCallbacks.ycp:841
+#: library/packages/src/PackageCallbacks.ycp:846
+msgid "&Eject"
+msgstr "弹出(&E)"
+
+#: library/packages/src/PackageCallbacks.ycp:857
+msgid "A&utomatically Eject CD or DVD Medium"
+msgstr "自动弹出 CD 或 DVD 介质(&U)"
+
+#. command line mode - ask user whether installation of the failed package should be retried
+#: library/packages/src/PackageCallbacks.ycp:920
+msgid "Retry the installation?"
+msgstr "是否重试安装？"
+
+#. command line mode - ask user whether the installation should be aborted
+#: library/packages/src/PackageCallbacks.ycp:929
+msgid "Skip the medium?"
+msgstr "是否跳过介质？"
+
+#. otherwise ignore the medium
+#: library/packages/src/PackageCallbacks.ycp:937
+msgid "Ignoring the bad medium..."
+msgstr "正在忽略无效的介质..."
+
+#. TextEntry label
+#: library/packages/src/PackageCallbacks.ycp:950
+#: library/packages/src/PackageCallbacks.ycp:1014
+msgid "&URL"
+msgstr "URL(&U)"
+
+#. popup label (%1 is repository URL)
+#: library/packages/src/PackageCallbacks.ycp:1278
+#, ycp-format
+msgid "Creating Repository %1"
+msgstr "正在创建安装源 %1"
+
+#. error message - a label followed by a richtext with details
+#: library/packages/src/PackageCallbacks.ycp:1309
+msgid "An error occurred while creating the repository."
+msgstr "创建安装源时出错。"
+
+#. error message - a label followed by a richtext with details
+#: library/packages/src/PackageCallbacks.ycp:1313
+#: library/packages/src/PackageCallbacks.ycp:1426
+#: library/packages/src/PackageCallbacks.ycp:1525
+msgid "Unable to retrieve the remote repository description."
+msgstr "无法获取到远程安装源的描述。"
+
+#. error message - a label followed by a richtext with details
+#: library/packages/src/PackageCallbacks.ycp:1316
+#: library/packages/src/PackageCallbacks.ycp:1429
+#: library/packages/src/PackageCallbacks.ycp:1528
+msgid "An error occurred while retrieving the new metadata."
+msgstr "获取新的元数据时出错。"
+
+#. error message - a label followed by a richtext with details
+#: library/packages/src/PackageCallbacks.ycp:1319
+#: library/packages/src/PackageCallbacks.ycp:1432
+#: library/packages/src/PackageCallbacks.ycp:1531
+msgid "The repository is not valid."
+msgstr "该安装源无效。"
+
+#. error message - a label followed by a richtext with details
+#: library/packages/src/PackageCallbacks.ycp:1322
+msgid "The repository metadata is invalid."
+msgstr "该安装源的元数据无效。"
+
+#. command line mode - ask user whether the repository refreshment should be retried
+#. command line mode - ask user whether target initializatin can be restarted
+#: library/packages/src/PackageCallbacks.ycp:1336
+#: library/packages/src/PackageCallbacks.ycp:1452
+#: library/packages/src/PackageCallbacks.ycp:1545
+#: library/packages/src/PackageCallbacks.ycp:2348
+msgid "Retry?"
+msgstr "重试吗？"
+
+#. popup label (%1 is repository URL)
+#: library/packages/src/PackageCallbacks.ycp:1378
+#: library/packages/src/PackageCallbacks.ycp:1387
+#, ycp-format
+msgid "Probing Repository %1"
+msgstr "正在检测安装源 %1"
+
+#. error message - a label followed by a richtext with details
+#: library/packages/src/PackageCallbacks.ycp:1422
+msgid "Error occurred while probing the repository."
+msgstr "检测安装源时出错。"
+
+#. error message - a label followed by a richtext with details
+#: library/packages/src/PackageCallbacks.ycp:1435
+msgid "Repository probing details."
+msgstr "安装源检测的详细信息。"
+
+#. error message - a label followed by a richtext with details
+#: library/packages/src/PackageCallbacks.ycp:1438
+msgid "Repository metadata is invalid."
+msgstr "该安装源的元数据无效。"
+
+#. error message - a label followed by a richtext with details
+#: library/packages/src/PackageCallbacks.ycp:1521
+#, ycp-format
+msgid "Repository %1"
+msgstr "安装源 %1"
+
+#: library/packages/src/PackageCallbacks.ycp:1600
+#, ycp-format
+msgid "Downloading delta RPM package %1 (%2)..."
+msgstr "正在下载增量 RPM 包 %1 (%2)..."
+
+#. popup heading
+#: library/packages/src/PackageCallbacks.ycp:1606
+msgid "Downloading Delta RPM package"
+msgstr "正在下载增量 RPM 包"
+
+#: library/packages/src/PackageCallbacks.ycp:1619
+#, ycp-format
+msgid "Applying delta RPM package %1..."
+msgstr "正在应用增量 RPM 包 %1..."
+
+#. popup heading
+#: library/packages/src/PackageCallbacks.ycp:1626
+msgid "Applying delta RPM package"
+msgstr "正在应用增量 RPM 包"
+
+#: library/packages/src/PackageCallbacks.ycp:1648
+#, ycp-format
+msgid "Downloading patch RPM package %1 (%2)..."
+msgstr "正在下载补丁 RPM 包 %1 (%2)..."
+
+#. popup heading
+#: library/packages/src/PackageCallbacks.ycp:1654
+msgid "Downloading Patch RPM Package"
+msgstr "正在下载补丁 RPM 包"
+
+#: library/packages/src/PackageCallbacks.ycp:1713
+#, ycp-format
+msgid "Starting script %1 (patch %2)..."
+msgstr "正在启动脚本 %1（补丁 %2）..."
+
+#. popup heading
+#: library/packages/src/PackageCallbacks.ycp:1720
+msgid "Running Script"
+msgstr "正在运行脚本"
+
+#. label, patch name follows
+#: library/packages/src/PackageCallbacks.ycp:1726
+msgid "Patch: "
+msgstr "补丁："
+
+#. label, script name follows
+#: library/packages/src/PackageCallbacks.ycp:1735
+msgid "Script: "
+msgstr "脚本："
+
+#. label
+#: library/packages/src/PackageCallbacks.ycp:1742
+msgid "Output of the Script"
+msgstr "脚本输出"
+
+#. label, %1 is patch name with version and architecture
+#: library/packages/src/PackageCallbacks.ycp:1840
+#, ycp-format
+msgid ""
+"Patch: %1\n"
+"\n"
+msgstr ""
+"补丁：%1\n"
+"\n"
+
+#. a popup question with "Continue", "Skip" and "Abort" buttons
+#: library/packages/src/PackageCallbacks.ycp:1855
+msgid ""
+"The repositories are being refreshed.\n"
+"Continue with refreshing?\n"
+"\n"
+"Note: If the refresh is skipped some packages\n"
+"might be missing or out of date."
+msgstr ""
+"安装源正在刷新过程中。\n"
+"是否继续刷新？\n"
+"\n"
+"注意：如果跳过刷新，一些软件包\n"
+"可能会缺失或者过期。"
+
+#. push button label
+#: library/packages/src/PackageCallbacks.ycp:1863
+msgid "&Skip Refresh"
+msgstr "跳过刷新(&S)"
+
+#. heading of popup
+#: library/packages/src/PackageCallbacks.ycp:1907
+#: library/packages/src/PackageCallbacks.ycp:1947
+msgid "Downloading"
+msgstr "下载"
+
+#. message in a progress popup
+#. progress bar label, %1 is URL with optional download rate
+#: library/packages/src/PackageCallbacks.ycp:1955
+#: library/packages/src/PackageCallbacks.ycp:2009
+#, ycp-format
+msgid "Downloading: %1"
+msgstr "正在下载：%1"
+
+#. heading of popup
+#: library/packages/src/PackageCallbacks.ycp:2124
+#: library/packages/src/PackageCallbacks.ycp:2190
+msgid "Checking Package Database"
+msgstr "正在检查包数据库"
+
+#. message in a progress popup
+#: library/packages/src/PackageCallbacks.ycp:2127
+msgid "Rebuilding package database. This process can take some time."
+msgstr "正在重构建包数据库。此过程将需要一些时间。"
+
+#. progress bar label
+#: library/packages/src/PackageCallbacks.ycp:2130
+#: library/packages/src/PackageCallbacks.ycp:2203
+msgid "Status"
+msgstr "状态"
+
+#. error message, %1 is the cause for the error
+#: library/packages/src/PackageCallbacks.ycp:2163
+#, ycp-format
+msgid ""
+"Rebuilding of package database failed:\n"
+"%1"
+msgstr ""
+"重构建包数据库失败：\n"
+"%1"
+
+#. message in a progress popup
+#: library/packages/src/PackageCallbacks.ycp:2193
+msgid "Converting package database. This process can take some time."
+msgstr "正在转换包数据库。此过程将需要一些时间。"
+
+#. error message, %1 is the cause for the error
+#: library/packages/src/PackageCallbacks.ycp:2226
+#, ycp-format
+msgid ""
+"Conversion of package database failed:\n"
+"%1"
+msgstr ""
+"转换包数据库失败：\n"
+"%1"
+
+#. progress message (command line mode)
+#: library/packages/src/PackageCallbacks.ycp:2259
+msgid "Reading RPM database..."
+msgstr "正在读取 RPM 数据库..."
+
+#. popup heading
+#: library/packages/src/PackageCallbacks.ycp:2269
+msgid "Reading Installed Packages"
+msgstr "读取已安装的软件包"
+
+#. progress bar label
+#: library/packages/src/PackageCallbacks.ycp:2272
+#: library/packages/src/PackageCallbacks.ycp:2289
+msgid "Scanning RPM database..."
+msgstr "正在扫描 RPM 数据库..."
+
+#. error message, could not read RPM database
+#: library/packages/src/PackageCallbacks.ycp:2335
+msgid "Initialization of the target failed."
+msgstr "目标初始化失败。"
+
+#. status message (command line mode)
+#: library/packages/src/PackageCallbacks.ycp:2431
+msgid "RPM database read"
+msgstr "已读取 RPM 数据库管理"
+
+#. heading in a popup window
+#: library/packages/src/PackageCallbacks.ycp:2454
+msgid "User Authentication"
+msgstr "用户身份验证"
+
+#: library/packages/src/PackageCallbacks.ycp:2458
+#, ycp-format
+msgid ""
+"URL: %1\n"
+"\n"
+"%2"
+msgstr ""
+"URL: %1\n"
+"\n"
+"%2"
+
+#. textentry label
+#: library/packages/src/PackageCallbacks.ycp:2466
+msgid "&User Name"
+msgstr "用户名(&U)"
+
+#: library/packages/src/PackageLock.ycp:38
+msgid ""
+"PackageKit is still running (probably busy).\n"
+"Ask PackageKit to quit again?"
+msgstr ""
+"PackageKit 仍在运行 (可能正忙)。\n"
+"再次要求 PackageKit 退出？"
+
+#: library/packages/src/PackageLock.ycp:41
+msgid ""
+"PackageKit is blocking software management.\n"
+"This happens when the updater applet or another software management\n"
+"application is running.\n"
+"\n"
+"Ask PackageKit to quit?"
+msgstr ""
+"PackageKit 正屏蔽软件管理。\n"
+"这发生在升级挂件或另一个软件管理程序正在运行时。\n"
+"\n"
+"要求 PackageKit 退出？"
+
+#. TRANSLATORS: a popup headline
+#: library/packages/src/PackageLock.ycp:88
+#: library/packages/src/PackageLock.ycp:140
+#: library/packages/src/PackageLock.ycp:166
+msgid "Accessing the Software Management Failed"
+msgstr "访问软件管理失败"
+
+#. TRANSLATORS: an error message with question
+#: library/packages/src/PackageLock.ycp:91
+msgid ""
+"Would you like to continue without having access\n"
+"to the software management or retry to access it?\n"
+msgstr ""
+"您希望在没有软件管理访问权限的情况下继续\n"
+"还是重试访问软件管理？\n"
+
+#. TRANSLATORS: an error message with question
+#: library/packages/src/PackageLock.ycp:143
+msgid ""
+"Would you like to retry accessing the software manager,\n"
+"continue without having access to the software management,\n"
+"or abort?\n"
+msgstr ""
+"您希望重试访问软件管理，\n"
+"还是在无访问权限情况下继续，\n"
+"或是中止？\n"
+
+#. TRANSLATORS: an error message with question
+#: library/packages/src/PackageLock.ycp:169
+msgid "Would you like to abort or try again?\n"
+msgstr "是中止还是重试？\n"
+
+#. print the question
+#. popup heading, with rich text widget and Yes/No buttons
+#: library/packages/src/PackageSystem.ycp:160
+#: library/packages/src/PackageSystem.ycp:170
+msgid "Do you accept this license agreement?"
+msgid_plural "Do you accept these license agreements?"
+msgstr[0] "是否接受此许可协议？"
+
+#: library/packages/src/PackageSystem.ycp:214
+msgid ""
+"The current system is not consistent,\n"
+"some packages have unresolved dependencies."
+msgstr "当前系统不连贯，有些软件包的依赖关系没有解决。"
+
+#: library/packages/src/PackageSystem.ycp:219
+msgid "Automatic resolving failed, manual dependency resolving is needed."
+msgstr "自动解决依赖关系失败，需要手动解决依赖关系。"
+
+#: library/packages/src/PackageSystem.ycp:224
+msgid ""
+"Yast has automatically added or removed some packages,\n"
+"check the changes scheduled to fix the system\n"
+"in the software manager."
+msgstr ""
+"YaST 自动添加或删除了一些软件包，\n"
+"在软件管理器中检查计划运行以修复系统的更改。"
+
+#: library/packages/src/PackageSystem.ycp:230
+msgid ""
+"Start the software manager and fix the problems\n"
+"or skip fixing and install the already confirmed packages only?"
+msgstr "启动软件管理器并修复问题或者跳过修复并只安装已经确认的软件包？"
+
+#. error message, after pressing [OK] the package manager is displayed
+#: library/packages/src/PackageSystem.ycp:293
+msgid ""
+"There are unresolved dependencies which need\n"
+"to be solved manually in the software manager."
+msgstr "有未解决的依赖关系，需要在软件管理器中手动解决。"
+
+#. error report
+#: library/packages/src/PackageSystem.ycp:490
+msgid "Installing required packages failed."
+msgstr "安装必需的包失败。"
+
+#. continue/cancel popup
+#: library/packages/src/PackageSystem.ycp:496
+msgid ""
+"Installing required packages failed. If you continue\n"
+"without installing required packages,\n"
+"YaST may not work properly.\n"
+msgstr ""
+"安装必需的包失败。如果未安装\n"
+"必需的包而继续，\n"
+"YaST 可能无法正常工作。\n"
+
+#. error report
+#: library/packages/src/PackageSystem.ycp:508
+msgid "Cannot continue without installing required packages."
+msgstr "未安装必需的包，无法继续。"
+
+#. continue/cancel popup
+#: library/packages/src/PackageSystem.ycp:514
+msgid ""
+"If you continue without installing required \n"
+"packages, YaST may not work properly.\n"
+msgstr ""
+"如果未安装\n"
+"必需的包而继续，YaST 可能无法正常工作。\n"
+
+#. dialog heading, %1 is package name
+#: library/packages/src/PackagesUI.ycp:130
+#, ycp-format
+msgid "Confirm Package License: %1"
+msgstr "确认包许可：%1"
+
+#. push button
+#: library/packages/src/PackagesUI.ycp:141
+msgid "I &Agree"
+msgstr "我同意(&A)"
+
+#. push button
+#: library/packages/src/PackagesUI.ycp:143
+msgid "I &Disagree"
+msgstr "我不同意(&D)"
+
+#. help text
+#: library/packages/src/PackagesUI.ycp:156
+msgid ""
+"<p><b><big>License Confirmation</big></b><br>\n"
+"The package in the headline of the dialog requires an explicit confirmation\n"
+"of acceptance of its license.\n"
+"If you reject the license of the package, the package will not be installed.\n"
+"<br>\n"
+"To accept the license of the package, click <b>I Agree</b>.\n"
+"To reject the license of the package, click <b>I Disagree</b></p>."
+msgstr ""
+"<p><b><big>许可确认</big></b><br>\n"
+"对话框标题中的软件包要求确认\n"
+"是否接受其许可。\n"
+"如果拒绝包许可，则不会安装此包。\n"
+"<br>\n"
+"要接受包许可，请单击<b>我同意</b>。\n"
+"要拒绝包许可，请单击<b>我不同意</b>。"
+
+#: library/packages/src/PackagesUI.ycp:308
+msgid ""
+"<p>\n"
+"\t\t This dialog allows you to define this system's tasks and what software to install.\n"
+"\t\t Available tasks and software for this system are shown by category in the left\n"
+"\t\t column.  To view a description for an item, select it in the list.\n"
+"\t\t </p>"
+msgstr ""
+"<p>\n"
+"\t\t 此对话框允许您定义此系统的任务以及要安装哪些软件。\n"
+"\t\t 对此系统可用的任务和软件按类别在左列中显示。\n"
+"\t\t 要查看一个项目的说明，请在列表中选择它。\n"
+"\t\t </p>"
+
+#: library/packages/src/PackagesUI.ycp:313
+msgid ""
+"<p>\n"
+"\t\t Change the status of an item by clicking its status icon\n"
+"\t\t or right-click any icon for a context menu.\n"
+"\t\t With the context menu, you can also change the status of all items.\n"
+"\t\t </p>"
+msgstr ""
+"<p>\n"
+"\t\t 通过单击项目的状态图标或右键单击任何图标以\n"
+"\t\t 获得一个上下文菜单来更改项目的状态。\n"
+"\t\t 使用该上下文菜单，还可以更改所有项目的状态。\n"
+"\t\t </p>"
+
+#: library/packages/src/PackagesUI.ycp:318
+msgid ""
+"<p>\n"
+"\t\t <b>Details</b> opens the detailed software package selection\n"
+"\t\t where you can view and select individual software packages.\n"
+"\t\t </p>"
+msgstr ""
+"<p>\n"
+"\t\t <b>细节</b>打开详细的软件包选择页，\n"
+"\t\t 其中可以查看和选择单个软件包。\n"
+"\t\t </p>"
+
+#: library/packages/src/PackagesUI.ycp:322
+msgid ""
+"<p>\n"
+"\t\t The disk usage display in the lower right corner shows the remaining disk space\n"
+"\t\t after all requested changes will have been performed.\n"
+"\t\t Hard disk partitions that are full or nearly full can degrade\n"
+"\t\t system performance and in some cases even cause serious problems.\n"
+"\t\t The system needs some available disk space to run properly.\n"
+"\t\t </p>"
+msgstr ""
+"<p>\n"
+"\t\t 右下角显示的磁盘使用显示执行所有请求的更改后，\n"
+"\t\t剩余的磁盘空间。\n"
+"\t\t 如果有硬盘分区已满或将满，会降低\n"
+"\t\t系统性能，有时会造成严重问题。\n"
+"\t\t系统的正常运行需要一些可用磁盘空间。\n"
+"\t\t </p>"
+
+#. Dialog title
+#. Hint for German translation: "Softwareauswahl und Einsatzzweck des Systems"
+#: library/packages/src/PackagesUI.ycp:341
+msgid "Software Selection and System Tasks"
+msgstr "软件选择和系统任务"
+
+#: library/packages/src/PackagesUI.ycp:380
+msgid "(more)"
+msgstr "(更多)"
+
+#: library/packages/src/PackagesUI.ycp:396
+msgid "Installation Successfully Finished"
+msgstr "安装已成功完成"
+
+#: library/packages/src/PackagesUI.ycp:397
+msgid "Package Installation Failed"
+msgstr "软件包安装失败"
+
+#: library/packages/src/PackagesUI.ycp:402
+#, ycp-format
+msgid "Error Message: %1"
+msgstr "错误信息：%1"
+
+#: library/packages/src/PackagesUI.ycp:410
+#, ycp-format
+msgid "Failed Packages: %1"
+msgstr "失败的软件包：%1"
+
+#: library/packages/src/PackagesUI.ycp:416
+#, ycp-format
+msgid "Installed Packages: %1"
+msgstr "已安装的软件包：%1"
+
+#: library/packages/src/PackagesUI.ycp:422
+#, ycp-format
+msgid "Updated Packages: %1"
+msgstr "已更新的软件包：%1"
+
+#: library/packages/src/PackagesUI.ycp:428
+#, ycp-format
+msgid "Removed Packages: %1"
+msgstr "已删除的软件包：%1"
+
+#: library/packages/src/PackagesUI.ycp:434
+#, ycp-format
+msgid "Not Installed Packages: %1"
+msgstr "未安装的软件包：%1"
+
+#. Table headings for CD statistics during installation
+#: library/packages/src/PackagesUI.ycp:441
+#: library/packages/src/SlideShow.ycp:538
+msgid "Packages"
+msgstr "软件包"
+
+#: library/packages/src/PackagesUI.ycp:451
+#, ycp-format
+msgid "Elapsed Time: %1"
+msgstr "已租用时间：%1"
+
+#: library/packages/src/PackagesUI.ycp:456
+#, ycp-format
+msgid "Total Installed Size: %1"
+msgstr "总安装大小：%1"
+
+#: library/packages/src/PackagesUI.ycp:462
+#, ycp-format
+msgid "Total Downloaded Size: %1"
+msgstr "总下载大小：%1"
+
+#: library/packages/src/PackagesUI.ycp:469
+msgid "Statistics"
+msgstr "统计"
+
+#: library/packages/src/PackagesUI.ycp:478
+#: library/packages/src/PackagesUI.ycp:551
+msgid "Installation log"
+msgstr "安装日志"
+
+#: library/packages/src/PackagesUI.ycp:483
+#: library/packages/src/PackagesUI.ycp:556
+msgid "Post-Installation log (SUSEconfig)"
+msgstr "安装后日志（SUSEconfig）"
+
+#: library/packages/src/PackagesUI.ycp:489
+msgid "Details"
+msgstr "细节"
+
+#: library/packages/src/PackagesUI.ycp:531
+msgid "<P><BIG><B>Installation Summary</B></BIG><BR>Here is a summary of installed packages.</P>"
+msgstr "<P><BIG><B>安装摘要</B><BIG></P><P>已安装的软件包的摘要。</P>"
+
+#: library/packages/src/PackagesUI.ycp:535
+msgid "Installation Summary"
+msgstr "安装摘要"
+
+#: library/packages/src/PackagesUI.ycp:560
+msgid "Installed Packages"
+msgstr "已安装的软件包"
+
+#: library/packages/src/PackagesUI.ycp:564
+msgid "Updated Packages"
+msgstr "已更新的软件包"
+
+#: library/packages/src/PackagesUI.ycp:568
+msgid "Removed Packages"
+msgstr "已删除的软件包"
+
+#: library/packages/src/PackagesUI.ycp:572
+msgid "Remaining Packages"
+msgstr "剩余软件包"
+
+#. popup question, %1 stands for the package name
+#. %2 is a repository name
+#. %3 is URL of the repository
+#: library/packages/src/SignatureCheckDialogs.ycp:367
+#, ycp-format
+msgid ""
+"The package %1 from repository %2\n"
+"%3\n"
+"is not digitally signed. This means that the origin\n"
+"and integrity of the package cannot be verified. Installing the package\n"
+"may put the integrity of your system at risk.\n"
+"\n"
+"Install it anyway?"
+msgstr ""
+"软件包 %1 来自安装源 %2\n"
+"%3\n"
+"未经数字签名。这意味着其来源\n"
+"或完整性无法被验证。安装该包\n"
+"可能导致您的系统遭受风险。\n"
+"\n"
+"是否要安装该软件包？"
+
+#. popup question, %1 stands for the filename
+#. %2 is a repository name
+#. %3 is URL of the repository
+#: library/packages/src/SignatureCheckDialogs.ycp:378
+#, ycp-format
+msgid ""
+"The file %1 from repository %2\n"
+"%3\n"
+"is not digitally signed. The origin and integrity of the file\n"
+"cannot be verified. Using the file anyway puts the integrity of your \n"
+"system at risk.\n"
+"\n"
+"Use it anyway?\n"
+msgstr ""
+"文件 %1 来自安装源 %2\n"
+"%3\n"
+"未数字签名。这意味着该文件的起源和完整性\n"
+"不能得到验证。使用该文件可能会使您的系统的完整性面临风险。\n"
+"\n"
+"是否要使用该文件？\n"
+
+#. popup heading
+#: library/packages/src/SignatureCheckDialogs.ycp:394
+msgid "Unsigned Package"
+msgstr "未签名的软件包"
+
+#: library/packages/src/SignatureCheckDialogs.ycp:394
+msgid "Unsigned File"
+msgstr "未签名的文件"
+
+#. popup question, %1 stands for the package name
+#: library/packages/src/SignatureCheckDialogs.ycp:429
+#, ycp-format
+msgid ""
+"No checksum for package %1 was found in the repository.\n"
+"While the package is part of the signed repository, it is not contained \n"
+"in the list of checksums in this repository. Installing the package puts \n"
+"the integrity of your system at risk.\n"
+"\n"
+"Install it anyway?\n"
+msgstr ""
+"未在源中找到软件包 %1 的校验和。\n"
+"这表明，该软件包虽然属于一个已经签名的安装源，但是安装源上\n"
+"的校验和列表没有提到此软件包。安装该软件包可能会使您系统的\n"
+"完整性面临风险。\n"
+"\n"
+"是否要安装该软件包？\n"
+
+#. popup question, %1 stands for the filename
+#: library/packages/src/SignatureCheckDialogs.ycp:438
+#, ycp-format
+msgid ""
+"No checksum for file %1 was found in the repository.\n"
+"This means that the file is part of the signed repository,\n"
+"but the list of checksums in this repository does not mention this file. Using the file\n"
+"may put the integrity of your system at risk.\n"
+"\n"
+"Use it anyway?"
+msgstr ""
+"未在源中找到文件 %1 的校验和。\n"
+"这表明，该文件虽然属于一个已经签名的安装源，但是安装源上\n"
+"的校验和列表没有提到此文件。使用该文件可能会使您系统的\n"
+"完整性面临风险。\n"
+"\n"
+"是否确定要使用该文件？"
+
+#. popup heading
+#: library/packages/src/SignatureCheckDialogs.ycp:452
+msgid "No Checksum Found"
+msgstr "找不到校验和"
+
+#. Part of the GnuPG key description in popup, %1 is a GnuPG key ID
+#: library/packages/src/SignatureCheckDialogs.ycp:478
+#: library/packages/src/SignatureCheckDialogs.ycp:622
+#, ycp-format
+msgid "ID: %1"
+msgstr "ID：%1"
+
+#. Part of the GnuPG key description in popup, %1 is a GnuPG key fingerprint
+#: library/packages/src/SignatureCheckDialogs.ycp:481
+#, ycp-format
+msgid "Fingerprint: %1"
+msgstr "指纹：%1"
+
+#. Part of the GnuPG key description in popup, %1 is a GnuPG key name
+#: library/packages/src/SignatureCheckDialogs.ycp:483
+#, ycp-format
+msgid "Name: %1"
+msgstr "名称：%1"
+
+#: library/packages/src/SignatureCheckDialogs.ycp:484
+#, ycp-format
+msgid "Created: %1"
+msgstr "已创建：%1"
+
+#: library/packages/src/SignatureCheckDialogs.ycp:485
+#, ycp-format
+msgid "Expires: %1"
+msgstr "失效：%1"
+
+#. GPG key property
+#: library/packages/src/SignatureCheckDialogs.ycp:497
+msgid "ID: "
+msgstr "ID："
+
+#. GPG key property
+#: library/packages/src/SignatureCheckDialogs.ycp:499
+msgid "Name: "
+msgstr "名称："
+
+#. GPG key property
+#: library/packages/src/SignatureCheckDialogs.ycp:501
+msgid "Fingerprint: "
+msgstr "指纹："
+
+#. GPG key property
+#: library/packages/src/SignatureCheckDialogs.ycp:503
+msgid "Created: "
+msgstr "创建："
+
+#. GPG key property
+#: library/packages/src/SignatureCheckDialogs.ycp:505
+msgid "Expires: "
+msgstr "失效："
+
+#. popup question, %1 stands for the package name, %2 for the complete description of the GnuPG key (multiline)
+#: library/packages/src/SignatureCheckDialogs.ycp:532
+#, ycp-format
+msgid ""
+"Package %1 from repository %2\n"
+"%3\n"
+"is signed with the following GnuPG key, but the integrity check failed: %4\n"
+"\n"
+"The package has been changed, either by accident or by an attacker,\n"
+"since the repository creator signed it. Installing it is a big risk\n"
+"for the integrity and security of your system.\n"
+"\n"
+"Install it anyway?\n"
+msgstr ""
+"软件包 %1 来自安装源 %2\n"
+"%3\n"
+"使用如下 GnuPG 密钥签名，但完整性检查失败：%4\n"
+"\n"
+"这意味着自从安装源创建者签名该包之后，\n"
+"该软件包已被无意更改或被黑客更改。安装该软件包对于\n"
+"您的系统的完整性和安全性是一个巨大的风险。\n"
+"\n"
+"是否要安装该软件包？\n"
+
+#. popup question, %1 stands for the filename, %2 for the complete description of the GnuPG key (multiline)
+#: library/packages/src/SignatureCheckDialogs.ycp:544
+#, ycp-format
+msgid ""
+"File %1 from repository %2\n"
+"%3\n"
+"is signed with the following GnuPG key, but the integrity check failed: %4\n"
+"\n"
+"The file has been changed, either by accident or by an attacker,\n"
+"since the repository creator signed it. Using it is a big risk\n"
+"for the integrity and security of your system.\n"
+"\n"
+"Use it anyway?\n"
+msgstr ""
+"文件 %1 来自安装源 %2\n"
+"%3\n"
+"使用如下 GnuPG 密钥签名，但完整性检查失败：%4\n"
+"\n"
+"这意味着自从安装源创建者签名该文件之后，\n"
+"该文件已被无意更改或被黑客更改。安装该文件对于\n"
+"您的系统的完整性和安全性是一个巨大的风险。\n"
+"\n"
+"是否要安装该文件？\n"
+
+#: library/packages/src/SignatureCheckDialogs.ycp:567
+msgid "Validation Check Failed"
+msgstr "校验检查失败"
+
+#. popup question, %1 stands for the package name, %2 for the complex multiline description of the GnuPG key
+#: library/packages/src/SignatureCheckDialogs.ycp:599
+#, ycp-format
+msgid ""
+"The package %1 is digitally signed\n"
+"with the following unknown GnuPG key: %2.\n"
+"\n"
+"This means that a trust relationship to the creator of the package\n"
+"cannot be established. Installing the package may put the integrity\n"
+"of your system at risk.\n"
+"\n"
+"Install it anyway?"
+msgstr ""
+"软件包 %1 使用以下未知 GnuPG 密钥数字签名：%2。\n"
+"\n"
+"这意味着不能建立与该软件包创建者\n"
+"的信任关系。安装该软件包可能使您的系统的\n"
+"完整性面临风险。\n"
+"\n"
+"是否要安装该软件包？"
+
+#. popup question, %1 stands for the filename, %2 for the complex multiline description of the GnuPG key
+#: library/packages/src/SignatureCheckDialogs.ycp:609
+#, ycp-format
+msgid ""
+"The file %1\n"
+"is digitally signed with the following unknown GnuPG key: %2.\n"
+"\n"
+"This means that a trust relationship to the creator of the file\n"
+"cannot be established. Using the file may put the integrity\n"
+"of your system at risk.\n"
+"\n"
+"Use it anyway?"
+msgstr ""
+"文件 %1\n"
+"使用以下未知 GnuPG 密钥数字签名：%2。\n"
+"\n"
+"这意味着不能建立与该文件创建者\n"
+"的信任关系。使用该文件可能使您的系统的\n"
+"完整性面临风险。\n"
+"\n"
+"是否要使用该文件？"
+
+#. popup heading
+#: library/packages/src/SignatureCheckDialogs.ycp:631
+msgid "Unknown GnuPG Key"
+msgstr "未知 GnuPG 密钥"
+
+#. popup question, %1 stands for the package name, %2 for the key ID, %3 for the key name
+#: library/packages/src/SignatureCheckDialogs.ycp:678
+#, ycp-format
+msgid ""
+"The package %1 is digitally signed\n"
+"with key '%2 (%3)'.\n"
+"\n"
+"There is no trust relationship with the owner of the key.\n"
+"If you trust the owner, mark the key as trusted.\n"
+"\n"
+"Installing a package from an unknown repository puts\n"
+"the integrity of your system at risk. It is safest\n"
+"to skip the package.\n"
+msgstr ""
+"软件包 %1 的数字签名\n"
+"使用了密钥“%2 (%3)”。\n"
+"\n"
+"该密钥的所有者没有信任关系。\n"
+"如果您信任该所有者，请将此密钥标记为信任。\n"
+"\n"
+"从未知安装源安装软件包可能会\n"
+"使您的系统的完整性面临风险。\n"
+"最保险的办法是跳过该软件包。\n"
+
+#. popup question, %1 stands for the filename, %2 for the key ID, %3 for the key name
+#: library/packages/src/SignatureCheckDialogs.ycp:690
+#, ycp-format
+msgid ""
+"The file %1 is digitally signed\n"
+"with key '%2 (%3)'.\n"
+"\n"
+"There is no trust relationship with the owner of the key.\n"
+"If you trust the owner, mark the key as trusted.\n"
+"\n"
+"Installing a file from an unknown repository puts\n"
+"the integrity of your system at risk. It is safest\n"
+"to skip it.\n"
+msgstr ""
+"文件 %1 的数字签名\n"
+"使用了密钥“%2 (%3)”。\n"
+"\n"
+"该密钥的所有者没有信任关系。\n"
+"如果您信任该所有者，请将此密钥标记为信任。\n"
+"\n"
+"从未知安装源安装文件可能会\n"
+"使您的系统的完整性面临风险。\n"
+"最保险的办法是跳过该文件。\n"
+
+#. popup heading
+#: library/packages/src/SignatureCheckDialogs.ycp:708
+msgid "Signed with Untrusted Public Key"
+msgstr "使用不可信公共密钥"
+
+#. push button
+#: library/packages/src/SignatureCheckDialogs.ycp:714
+msgid "&Trust and Import the Key"
+msgstr "信任并导入该密钥(&T)"
+
+#. additional Richtext (HTML) warning text (kind of help), 1/2
+#: library/packages/src/SignatureCheckDialogs.ycp:747
+msgid ""
+"<p>The owner of the key may distribute updates,\n"
+"packages, and package repositories that your system will trust and offer\n"
+"for installation and update without any further warning. In this way,\n"
+"importing the key into your keyring of trusted keys allows the key owner\n"
+"to have a certain amount of control over the software on your system.</p>"
+msgstr ""
+"<p>您的系统将信任密钥的所有者所分发的更新、\n"
+"软件包和软件包储存库，并将它们提供\n"
+"用于安装和更新而没有任何警告。这样，将该密钥\n"
+"导入可信密钥的密钥环将允许密钥所有者\n"
+"对您的系统上的软件有一定量的控制。</p>"
+
+#. additional Richtext (HTML) warning text (kind of help), 2/2
+#: library/packages/src/SignatureCheckDialogs.ycp:754
+msgid ""
+"<p>A warning dialog opens for every package that\n"
+"is not signed by a trusted (imported) key. If you do not trust the key,\n"
+"the packages or repositories created by the owner of the key will not be used.</p>"
+msgstr ""
+"<p>对于未由可信(导入的)密钥\n"
+"签名的每个软件包，将会打开一个警告对话框。如果不信任该密钥，\n"
+"将不会使用由该密钥的所有者创建的软件包或安装源。</p>"
+
+#. popup message - label, part 1, %1 stands for repository name, %2 for its URL
+#: library/packages/src/SignatureCheckDialogs.ycp:761
+#, ycp-format
+msgid ""
+"The following GnuPG key has been found in repository\n"
+"%1\n"
+"(%2):"
+msgstr ""
+"在安装源 %1 中找到如下 GnuPG 密钥\n"
+"(%2)："
+
+#. popup message - label, part 2
+#: library/packages/src/SignatureCheckDialogs.ycp:766
+msgid ""
+"You can choose to import it into your keyring of trusted\n"
+"public keys, meaning that you trust the owner of the key.\n"
+"You should be sure that you can trust the owner and that\n"
+"the key really belongs to that owner before importing it."
+msgstr ""
+"您可以选择将其导入可信公共密钥\n"
+"的密钥环，这意味着您信任该密钥的所有者。\n"
+"将其导入之前，应确保可以信任该所有者\n"
+"并且该密钥确实属于该所有者。"
+
+#. warning label - the key to import is expired
+#: library/packages/src/SignatureCheckDialogs.ycp:775
+#, ycp-format
+msgid "WARNING: The key has expired!"
+msgstr "警告：该密钥已经过期！"
+
+#. popup heading
+#: library/packages/src/SignatureCheckDialogs.ycp:803
+msgid "Import Untrusted GnuPG Key"
+msgstr "导入不可信 GnuPG 密钥"
+
+#. push button
+#: library/packages/src/SignatureCheckDialogs.ycp:821
+msgid "&Trust"
+msgstr "信任(&T)"
+
+#. popup question, %1 stands for the filename, %2 is expected checksum
+#. %3 is the current checksum (e.g. "803a8ff00d00c9075a1bd223a480bcf92d2481c1")
+#: library/packages/src/SignatureCheckDialogs.ycp:886
+#, ycp-format
+msgid ""
+"The expected checksum of file %1\n"
+"is %2,\n"
+"but the current checksum is %3.\n"
+"\n"
+"The file has been changed by accident or by an attacker\n"
+"since the repository creator signed it. Using it is a big risk\n"
+"for the integrity and security of your system.\n"
+"\n"
+"Use it anyway?\n"
+msgstr ""
+"文件 %1 期望的检验码是\n"
+"%2,但是现在的检验码是 %3。\n"
+"\n"
+"这意味着该文件自从被安装源创建者签名之后，\n"
+"已被无意更改或被黑客更改。使用该文件对于\n"
+"您的系统的完整性和安全性是一个巨大的风险。\n"
+"\n"
+"是否要使用该文件？\n"
+
+#. dialog heading - displayed in a big bold font
+#: library/packages/src/SignatureCheckDialogs.ycp:902
+msgid "Wrong Digest"
+msgstr "错误摘要"
+
+#. popup question, %1 stands for the filename, %2 is expected digest, %3 is the current digest
+#: library/packages/src/SignatureCheckDialogs.ycp:918
+#, ycp-format
+msgid ""
+"The checksum of file %1\n"
+"is %2,\n"
+"but the expected checksum is not known.\n"
+"\n"
+"This means that the origin and integrity of the file\n"
+"cannot be verified. Using the file puts the integrity of your system at risk.\n"
+"\n"
+"Use it anyway?\n"
+msgstr ""
+"文件 %1 的检验码\n"
+"是 %2，\n"
+"但是期望的检验码未知。\n"
+"这意味着该文件的起源和完整性无法验证。\n"
+"使用该文件可能会使您的系统的完整性面临风险。\n"
+"\n"
+"是否要使用该文件？\n"
+
+#. dialog heading - displayed in a big bold font
+#: library/packages/src/SignatureCheckDialogs.ycp:931
+msgid "Unknown Digest"
+msgstr "未知摘要"
+
+#. we need to remember the values for tab switching
+#. translators: default global progress bar label
+#: library/packages/src/SlideShow.ycp:120
+#: library/packages/src/SlideShow.ycp:121
+#: library/packages/src/SlideShow.ycp:313
+#: library/packages/src/SlideShow.ycp:332
+msgid "Installing..."
+msgstr "正在安装..."
+
+#. Table headings for CD statistics during installation
+#: library/packages/src/SlideShow.ycp:534
+msgid "Media"
+msgstr "媒体"
+
+#. Table headings for CD statistics during installation - keep as short as possible!
+#: library/packages/src/SlideShow.ycp:536
+msgid "Installed Size"
+msgstr "已安装的大小"
+
+#. Table headings for CD statistics during installation
+#: library/packages/src/SlideShow.ycp:540
+msgid "Time"
+msgstr "时间"
+
+#: library/packages/src/SlideShow.ycp:558
+msgid "Actions performed:"
+msgstr "执行的操作："
+
+#. Help text while software packages are being installed (displayed only in rare cases)
+#: library/packages/src/SlideShow.ycp:650
+msgid "<p>Packages are being installed.</p>"
+msgstr "<p>软件包正在安装。</p>"
+
+#: library/packages/src/SlideShow.ycp:651
+msgid "<P><B>Aborting Installation</B> Package installation can be aborted using the <B>Abort</B> button. However, the system then can be in an inconsistent or unusable state or it may not boot if the basic system component is not installed.</P>"
+msgstr "<P><B>中止安装</B>可以使用<B>中止</B>按钮中止安装软件包。然而，系统可能处于不连贯或者不稳定的状态，或者如果未安装基础系统组件，可能无法引导。</P>"
+
+#. tab
+#: library/packages/src/SlideShow.ycp:669
+msgid "Slide Sho&w"
+msgstr "幻灯片演示(&W)"
+
+#. tab
+#: library/packages/src/SlideShow.ycp:671
+msgid "&Details"
+msgstr "细节(&D)"
+
+#. tab
+#: library/packages/src/SlideShow.ycp:675
+msgid "Release &Notes"
+msgstr "发行日志(&N)"
+
+#. Dialog heading while software packages are being installed
+#: library/packages/src/SlideShow.ycp:703
+msgid "Perform Installation"
+msgstr "执行安装"
+
+#. Dialog heading while software packages are being installed
+#: library/packages/src/SlideShow.ycp:740
+msgid "Package Installation"
+msgstr "包安装"
+
+#. popup yes-no
+#: library/packages/src/SlideShow.ycp:824
+msgid ""
+"Do you really want\n"
+"to quit the installation?"
+msgstr ""
+"是否确实要\n"
+"退出安装？"
+
+#: library/packages/src/SlideShow.ycp:840
+msgid "Aborted"
+msgstr "已中止"
+
+#. the message is followed by list of required packages
+#. Popup Text
+#: library/packages/src/common.ycp:112 library/packages/src/common.ycp:137
+msgid "These packages need to be installed:"
+msgstr "需要安装这些包："
+
+#. Popup Text
+#: library/packages/src/common.ycp:112 library/packages/src/common.ycp:139
+msgid "These packages need to be removed:"
+msgstr "需要删除这些包："
+
+#. labels changed for bug #215195
+#. Label::ContinueButton (), Label::CancelButton (),
+#. push button label
+#: library/packages/src/common.ycp:151
+msgid "&Uninstall"
+msgstr "卸载(&U)"
+
+#. Error message.
+#. %1 is a name of an init script in /etc/init.d,
+#. eg. nfsserver
+#: library/runlevel/src/Service.ycp:83
+#, ycp-format
+msgid "Empty service name: %1."
+msgstr "空服务名称：%1。"
+
+#. Error message.
+#. %1 is a name of an init script in /etc/init.d,
+#. eg. nfsserver
+#: library/runlevel/src/Service.ycp:97
+#, ycp-format
+msgid "Service %1 does not exist."
+msgstr "服务 %1 不存在。"
+
+#. Error message.
+#. %1 is a name of an init script in /etc/init.d,
+#. Disabling means that the service should not start
+#. in appropriate runlevels, eg. at boot time.
+#. %2 is the stderr output of insserv(8)
+#: library/runlevel/src/Service.ycp:160
+#, ycp-format
+msgid ""
+"Unable to disable service %1:\n"
+"%2"
+msgstr ""
+"无法禁用服务 %1：\n"
+"%2"
+
+#. Error message.
+#. %1 is a name of an init script in /etc/init.d,
+#. Enabling means that the service should start
+#. in appropriate runlevels, eg. at boot time.
+#. %2 is the stderr output of insserv(8)
+#: library/runlevel/src/Service.ycp:212
+#, ycp-format
+msgid ""
+"Unable to enable service %1:\n"
+"%2"
+msgstr ""
+"无法启用服务 %1：\n"
+"%2"
+
+#. Error message.
+#. %1 is a name of an init script in /etc/init.d,
+#. Enabling means that the service should start
+#. in appropriate runlevels, eg. at boot time.
+#. %2 is the stderr output of insserv(8)
+#. %3 is a comma separated list of runlevels
+#: library/runlevel/src/Service.ycp:267
+#, ycp-format
+msgid ""
+"Unable to enable service %1 in runlevels %2:\n"
+"%3"
+msgstr ""
+"无法在运行级别 %2 启用服务 %1：\n"
+"%3"
+
+#. Continue/Cancel question, %1 is a file name
+#: library/system/src/FileChanges.ycp:158
+#, ycp-format
+msgid ""
+"File %1 has been changed manually.\n"
+"YaST might lose some of the changes.\n"
+msgstr ""
+"文件 %1 已经被手动修改过。\n"
+"YaST 可能会丢失一些变更。\n"
+
+#. Continue/Cancel question, %1 is a coma separated list of file names
+#: library/system/src/FileChanges.ycp:163
+#, ycp-format
+msgid ""
+"Files %1 have been changed manually.\n"
+"YaST might lose some of the changes"
+msgstr ""
+"文件 %1 已经被手动修改过。\n"
+"YaST 可能会丢失一些变更"
+
+#: library/system/src/FileChanges.ycp:171
+msgid "Do not show this message anymore"
+msgstr "不要再显示此消息。"
+
+#. error report
+#: library/system/src/Initrd.ycp:414
+msgid "An error occurred during initrd creation."
+msgstr "initrd 创建过程中出错。"
+
+#: library/system/src/ModuleLoading.ycp:161
+msgid "Confirm driver activation"
+msgstr "确认驱动程序激活"
+
+#. This is in information message. Next come the
+#. vendor and device information strings as stored
+#. in the hardware-probing database.
+#: library/system/src/ModuleLoading.ycp:168
+msgid "YaST2 detected the following device"
+msgstr "YaST2 检测到以下设备"
+
+#: library/system/src/ModuleLoading.ycp:177
+msgid "&Driver/Module to load"
+msgstr "要装载的驱动程序/模块(&D)"
+
+#: library/system/src/classnames.ycp:28 library/system/src/classnames.ycp:29
+#: library/system/src/classnames.ycp:187
+msgid "Unclassified device"
+msgstr "未分类的设备"
+
+#: library/system/src/classnames.ycp:30
+msgid "VGA compatible unclassified device"
+msgstr "VGA 兼容的未分类设备"
+
+#: library/system/src/classnames.ycp:34
+msgid "Mass storage controller"
+msgstr "大容量存储控制器"
+
+#: library/system/src/classnames.ycp:35
+msgid "SCSI storage controller"
+msgstr "SCSI 存储控制器"
+
+#: library/system/src/classnames.ycp:36
+msgid "IDE interface"
+msgstr "IDE 接口"
+
+#: library/system/src/classnames.ycp:37
+msgid "Floppy disk controller"
+msgstr "软盘控制器"
+
+#: library/system/src/classnames.ycp:38
+msgid "IPI bus controller"
+msgstr "IPI 总线控制器"
+
+#: library/system/src/classnames.ycp:39
+msgid "RAID bus controller"
+msgstr "RAID 总线控制器"
+
+#: library/system/src/classnames.ycp:40
+msgid "Unknown mass storage controller"
+msgstr "未知的大容量存储控制器"
+
+#: library/system/src/classnames.ycp:44 library/system/src/classnames.ycp:50
+msgid "Network controller"
+msgstr "网络控制器"
+
+#: library/system/src/classnames.ycp:45
+msgid "Ethernet controller"
+msgstr "有线网控制器"
+
+#: library/system/src/classnames.ycp:46
+msgid "Token ring network controller"
+msgstr "令牌环网络控制器"
+
+#: library/system/src/classnames.ycp:47
+msgid "FDDI network controller"
+msgstr "光线分布式数据接口网络控制器"
+
+#: library/system/src/classnames.ycp:48
+msgid "ATM network controller"
+msgstr "异步传送方式网络控制器"
+
+#: library/system/src/classnames.ycp:49
+msgid "ISDN controller"
+msgstr "综合业务数字网控制器"
+
+#: library/system/src/classnames.ycp:51
+msgid "Myrinet controller"
+msgstr "Myrinet 控制器"
+
+#: library/system/src/classnames.ycp:55 library/system/src/classnames.ycp:59
+msgid "Display controller"
+msgstr "显示控制器"
+
+#: library/system/src/classnames.ycp:56
+msgid "VGA-compatible controller"
+msgstr "VGA 兼容的控制器"
+
+#: library/system/src/classnames.ycp:57
+msgid "XGA-compatible controller"
+msgstr "XGA 兼容的控制器"
+
+#: library/system/src/classnames.ycp:58
+msgid "3D controller"
+msgstr "3D 控制器"
+
+#: library/system/src/classnames.ycp:63 library/system/src/classnames.ycp:67
+msgid "Multimedia controller"
+msgstr "多媒体控制器"
+
+#: library/system/src/classnames.ycp:64
+msgid "Multimedia video controller"
+msgstr "多媒体视频控制器"
+
+#: library/system/src/classnames.ycp:65
+msgid "Multimedia audio controller"
+msgstr "多媒体音频控制器"
+
+#: library/system/src/classnames.ycp:66
+msgid "Computer telephony device"
+msgstr "计算机电话设备"
+
+#: library/system/src/classnames.ycp:71 library/system/src/classnames.ycp:74
+msgid "Memory controller"
+msgstr "内存控制器"
+
+#: library/system/src/classnames.ycp:72
+msgid "RAM memory"
+msgstr "RAM 存储器"
+
+#: library/system/src/classnames.ycp:73
+msgid "FLASH memory"
+msgstr "FLASH 内存"
+
+#: library/system/src/classnames.ycp:79
+msgid "Host bridge"
+msgstr "主桥"
+
+#: library/system/src/classnames.ycp:80
+msgid "ISA bridge"
+msgstr "ISA 桥"
+
+#: library/system/src/classnames.ycp:81
+msgid "EISA bridge"
+msgstr "EISA 桥"
+
+#: library/system/src/classnames.ycp:82
+msgid "MicroChannel bridge"
+msgstr "微通道桥"
+
+#: library/system/src/classnames.ycp:83
+msgid "PCI bridge"
+msgstr "PCI 桥"
+
+#: library/system/src/classnames.ycp:84
+msgid "PCMCIA bridge"
+msgstr "PCMCIA 桥"
+
+#: library/system/src/classnames.ycp:85
+msgid "NuBus bridge"
+msgstr "NuBus 桥"
+
+#: library/system/src/classnames.ycp:86
+msgid "CardBus bridge"
+msgstr "CardBus 桥"
+
+#: library/system/src/classnames.ycp:87
+msgid "RACEway bridge"
+msgstr "RACEway 桥"
+
+#: library/system/src/classnames.ycp:88
+msgid "Semitransparent PCI-to-PCI bridge"
+msgstr "半透明 PCI 到 PCI 桥"
+
+#: library/system/src/classnames.ycp:89
+msgid "InfiniBand to PCI host bridge"
+msgstr "从 InfiniBand 到 PCI 的主桥"
+
+#: library/system/src/classnames.ycp:94 library/system/src/classnames.ycp:99
+msgid "Communication controller"
+msgstr "通讯控制器"
+
+#: library/system/src/classnames.ycp:95
+msgid "Serial controller"
+msgstr "串行控制器"
+
+#: library/system/src/classnames.ycp:96
+msgid "Parallel controller"
+msgstr "并行控制器"
+
+#: library/system/src/classnames.ycp:97
+msgid "Multiport serial controller"
+msgstr "多端口串行控制器"
+
+#: library/system/src/classnames.ycp:103
+msgid "Generic system peripheral"
+msgstr "通用系统外设"
+
+#: library/system/src/classnames.ycp:104
+msgid "PIC"
+msgstr "外设接口控制器"
+
+#: library/system/src/classnames.ycp:105
+msgid "DMA controller"
+msgstr "DMA 控制器"
+
+#: library/system/src/classnames.ycp:106
+msgid "Timer"
+msgstr "计时器"
+
+#: library/system/src/classnames.ycp:107
+msgid "RTC"
+msgstr "RTC"
+
+#: library/system/src/classnames.ycp:108
+msgid "PCI hotplug controller"
+msgstr "PCI 热插拔控制器"
+
+#: library/system/src/classnames.ycp:109
+msgid "System peripheral"
+msgstr "系统外设"
+
+#: library/system/src/classnames.ycp:113 library/system/src/classnames.ycp:119
+msgid "Input device controller"
+msgstr "输入设备控制器"
+
+#: library/system/src/classnames.ycp:114
+msgid "Keyboard controller"
+msgstr "键盘控制器"
+
+#: library/system/src/classnames.ycp:115
+msgid "Digitizer pen"
+msgstr "数字手写笔"
+
+#: library/system/src/classnames.ycp:116
+msgid "Mouse controller"
+msgstr "鼠标控制器"
+
+#: library/system/src/classnames.ycp:117
+msgid "Scanner controller"
+msgstr "扫描仪控制器"
+
+#: library/system/src/classnames.ycp:118
+msgid "Gameport controller"
+msgstr "游戏端口控制器"
+
+#: library/system/src/classnames.ycp:123 library/system/src/classnames.ycp:125
+msgid "Docking station"
+msgstr "扩展坞"
+
+#: library/system/src/classnames.ycp:124
+msgid "Generic docking station"
+msgstr "通用扩展坞"
+
+#: library/system/src/classnames.ycp:129
+msgid "Processor"
+msgstr "处理器"
+
+#: library/system/src/classnames.ycp:130
+msgid "386"
+msgstr "386"
+
+#: library/system/src/classnames.ycp:131
+msgid "486"
+msgstr "486"
+
+#: library/system/src/classnames.ycp:132
+msgid "Pentium"
+msgstr "奔腾"
+
+#: library/system/src/classnames.ycp:133
+msgid "Alpha"
+msgstr "Alpha"
+
+#: library/system/src/classnames.ycp:134
+msgid "Power PC"
+msgstr "Power PC"
+
+#: library/system/src/classnames.ycp:135
+msgid "MIPS"
+msgstr "MIPS"
+
+#: library/system/src/classnames.ycp:136
+msgid "Coprocessor"
+msgstr "协处理器"
+
+#: library/system/src/classnames.ycp:140
+msgid "Serial bus controller"
+msgstr "串行总线控制器"
+
+#: library/system/src/classnames.ycp:141
+msgid "FireWire (IEEE 1394)"
+msgstr "火线 (IEEE 1394)"
+
+#: library/system/src/classnames.ycp:142
+msgid "ACCESS bus"
+msgstr "存取总线"
+
+#: library/system/src/classnames.ycp:143
+msgid "SSA"
+msgstr "SSA"
+
+#: library/system/src/classnames.ycp:144
+msgid "USB controller"
+msgstr "USB 控制器"
+
+#: library/system/src/classnames.ycp:145
+msgid "Fiber channel"
+msgstr "光纤通道"
+
+#: library/system/src/classnames.ycp:146
+msgid "SMBus"
+msgstr "SMBus"
+
+#: library/system/src/classnames.ycp:151 library/system/src/classnames.ycp:155
+msgid "Wireless controller"
+msgstr "无线控制器"
+
+#: library/system/src/classnames.ycp:152
+msgid "IRDA controller"
+msgstr "红外控制器"
+
+#: library/system/src/classnames.ycp:153
+msgid "Consumer IR controller"
+msgstr "消费电子产品红外控制器"
+
+#: library/system/src/classnames.ycp:154
+msgid "RF controller"
+msgstr "RF 控制器"
+
+#: library/system/src/classnames.ycp:159
+msgid "Intelligent controller"
+msgstr "智能控制器"
+
+#: library/system/src/classnames.ycp:160
+msgid "I2O"
+msgstr "I2O"
+
+#: library/system/src/classnames.ycp:164
+msgid "Satellite communications controller"
+msgstr "卫星通信控制器"
+
+#: library/system/src/classnames.ycp:165
+msgid "Satellite TV controller"
+msgstr "卫星电视控制器"
+
+#: library/system/src/classnames.ycp:166
+msgid "Satellite audio communication controller"
+msgstr "卫星音频通信控制器"
+
+#: library/system/src/classnames.ycp:167
+msgid "Satellite voice communication controller"
+msgstr "卫星语音通信控制器"
+
+#: library/system/src/classnames.ycp:168
+msgid "Satellite data communication controller"
+msgstr "卫星数据通信控制器"
+
+#: library/system/src/classnames.ycp:172 library/system/src/classnames.ycp:175
+msgid "Encryption controller"
+msgstr "加密控制器"
+
+#: library/system/src/classnames.ycp:173
+msgid "Network and computing encryption device"
+msgstr "网络和计算加密设置"
+
+#: library/system/src/classnames.ycp:174
+msgid "Entertainment encryption device"
+msgstr "娱乐加密设备"
+
+#: library/system/src/classnames.ycp:179 library/system/src/classnames.ycp:183
+msgid "Signal processing controller"
+msgstr "信号处理控制器"
+
+#: library/system/src/classnames.ycp:180
+msgid "DPIO module"
+msgstr "DPIO 模块"
+
+#: library/system/src/classnames.ycp:181
+msgid "Performance counters"
+msgstr "性能计数器"
+
+#: library/system/src/classnames.ycp:182
+msgid "Communication synchronizer"
+msgstr "通信同步设备"
+
+#: library/system/src/classnames.ycp:193
+msgid "Monitor"
+msgstr "显示器"
+
+#: library/system/src/classnames.ycp:194
+msgid "CRT monitor"
+msgstr "CRT 显示器"
+
+#: library/system/src/classnames.ycp:195
+msgid "LCD monitor"
+msgstr "LCD 显示器"
+
+#: library/system/src/classnames.ycp:199
+msgid "Internally used class"
+msgstr "内部使用的类"
+
+#: library/system/src/classnames.ycp:200
+msgid "ISA PnP interface"
+msgstr "ISA 即插即用接口"
+
+#: library/system/src/classnames.ycp:201
+msgid "Main memory"
+msgstr "主存储器"
+
+#: library/system/src/classnames.ycp:202
+msgid "CPU"
+msgstr "CPU"
+
+#: library/system/src/classnames.ycp:203
+msgid "FPU"
+msgstr "FPU"
+
+#: library/system/src/classnames.ycp:204
+msgid "BIOS"
+msgstr "BIOS"
+
+#: library/system/src/classnames.ycp:205
+msgid "PROM"
+msgstr "PROM"
+
+#: library/system/src/classnames.ycp:206
+msgid "System"
+msgstr "系统"
+
+#: library/system/src/classnames.ycp:212
+msgid "Win modem"
+msgstr "Win 调制解调器"
+
+#: library/system/src/classnames.ycp:216
+msgid "ISDN adapter"
+msgstr "ISDN 适配器"
+
+#: library/system/src/classnames.ycp:220
+msgid "PS/2 controller"
+msgstr "PS/2 控制器"
+
+#: library/system/src/classnames.ycp:224 library/system/src/classnames.ycp:229
+msgid "Mouse"
+msgstr "鼠标"
+
+#: library/system/src/classnames.ycp:225
+msgid "PS/2 mouse"
+msgstr "PS/2 鼠标"
+
+#: library/system/src/classnames.ycp:226
+msgid "Serial mouse"
+msgstr "串行鼠标"
+
+#: library/system/src/classnames.ycp:227
+msgid "Bus mouse"
+msgstr "总线鼠标"
+
+#: library/system/src/classnames.ycp:228
+msgid "USB mouse"
+msgstr "USB 鼠标"
+
+#: library/system/src/classnames.ycp:233
+msgid "Mass storage device"
+msgstr "大容量存储设备"
+
+#: library/system/src/classnames.ycp:234
+msgid "Disk"
+msgstr "磁盘"
+
+#: library/system/src/classnames.ycp:235
+msgid "Tape"
+msgstr "磁带"
+
+#: library/system/src/classnames.ycp:236
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+#: library/system/src/classnames.ycp:237
+msgid "Floppy disk"
+msgstr "软盘"
+
+#: library/system/src/classnames.ycp:238
+msgid "Storage device"
+msgstr "存储设备"
+
+#: library/system/src/classnames.ycp:242 library/system/src/classnames.ycp:253
+msgid "Network interface"
+msgstr "网络接口"
+
+#: library/system/src/classnames.ycp:245
+msgid "Token ring"
+msgstr "令牌环"
+
+#: library/system/src/classnames.ycp:249
+msgid "HSI"
+msgstr "HSI"
+
+#: library/system/src/classnames.ycp:256 library/system/src/classnames.ycp:257
+msgid "Keyboard"
+msgstr "键盘"
+
+#: library/system/src/classnames.ycp:258
+msgid "Console"
+msgstr "控制台"
+
+#: library/system/src/classnames.ycp:262
+msgid "Printer"
+msgstr "打印机"
+
+#: library/system/src/classnames.ycp:266
+msgid "Hub"
+msgstr "集线器"
+
+#: library/system/src/classnames.ycp:267
+msgid "USB hub"
+msgstr "USB 集线器"
+
+#: library/system/src/classnames.ycp:271
+msgid "Braille display"
+msgstr "点字显示器"
+
+#: library/system/src/classnames.ycp:275
+msgid "Scanner"
+msgstr "扫描仪"
+
+#: library/system/src/classnames.ycp:279
+msgid "Joystick"
+msgstr "游戏手柄"
+
+#: library/system/src/classnames.ycp:280
+msgid "Gamepad"
+msgstr "游戏板"
+
+#: library/system/src/classnames.ycp:284
+msgid "Chipcard reader"
+msgstr "Chipcard 读卡器"
+
+#: library/system/src/classnames.ycp:288
+msgid "Camera"
+msgstr "照相机"
+
+#: library/system/src/classnames.ycp:289
+msgid "Webcam"
+msgstr "网络摄像机"
+
+#: library/system/src/classnames.ycp:290
+msgid "Digital camera"
+msgstr "数码相机"
+
+#: library/system/src/classnames.ycp:294
+msgid "Framebuffer"
+msgstr "帧缓冲设备"
+
+#: library/system/src/classnames.ycp:295
+msgid "VESA framebuffer"
+msgstr "VESA 帧缓冲设备"
+
+#: library/system/src/classnames.ycp:299
+msgid "DVB card"
+msgstr "DVB 卡"
+
+#: library/system/src/classnames.ycp:300
+msgid "DVB-C card"
+msgstr "DVB-C 卡"
+
+#: library/system/src/classnames.ycp:301
+msgid "DVB-S card"
+msgstr "DVB-S 卡"
+
+#: library/system/src/classnames.ycp:302
+msgid "DVB-T card"
+msgstr "DVB-T 卡"
+
+#: library/system/src/classnames.ycp:306
+msgid "TV card"
+msgstr "TV 卡"
+
+#: library/system/src/classnames.ycp:310
+msgid "Partition"
+msgstr "分区"
+
+#: library/system/src/classnames.ycp:314
+msgid "DSL card"
+msgstr "DSL 卡"
+
+#: library/system/src/classnames.ycp:318
+msgid "Bluetooth device"
+msgstr "蓝牙设备"
+
+#. describe valid MAC address
+#: library/types/src/Address.ycp:67
+msgid ""
+"A valid MAC address consists of six pairs of hexadecimal\n"
+"digits separated by colons."
+msgstr ""
+"有效的 MAC 地址包括 6 对\n"
+"十六进制数字，使用半角冒号分隔开。"
+
+#. Translators: dot: ".", hyphen: "-"
+#: library/types/src/Hostname.ycp:34
+msgid ""
+"A valid domain name consists of components separated by dots.\n"
+"Each component contains letters, digits, and hyphens. A hyphen may not\n"
+"start or end a component and the last component may not begin with a digit."
+msgstr ""
+"有效域名由用点分隔的多个部分组成。\n"
+"每个部分又包含字母、数字和连字符。连字符不能\n"
+"出现在各部分的开头或末尾，最后一部分不能以数字开头。"
+
+#. Translators: hyphen: "-"
+#: library/types/src/Hostname.ycp:45
+msgid ""
+"A valid host name consists of letters, digits, and hyphens.\n"
+"A host name may not begin or end with a hyphen.\n"
+msgstr ""
+"有效主机名由字母、数字和连字符组成。\n"
+"主机名不能以连字符开始或结束。\n"
+
+#. Translators: dot: "."
+#: library/types/src/IP.ycp:26
+msgid ""
+"A valid IP address consists of four integers\n"
+"in the range 0-255 separated by dots."
+msgstr ""
+"有效 IP 地址由范围在 0-255 的 4 个整数组成，\n"
+"各整数之间用点隔开。"
+
+#. Byte abbreviated
+#: library/types/src/String.ycp:124
+msgid "B"
+msgstr "B"
+
+#. KiloByte abbreviated
+#: library/types/src/String.ycp:126
+msgid "kB"
+msgstr "kB"
+
+#. MegaByte abbreviated
+#: library/types/src/String.ycp:128
+msgid "MB"
+msgstr "MB"
+
+#. GigaByte abbreviated
+#: library/types/src/String.ycp:130
+msgid "GB"
+msgstr "GB"
+
+#. TeraByte abbreviated
+#: library/types/src/String.ycp:132
+msgid "TB"
+msgstr "TB"
+
+#. covert a number to download rate string
+#. %1 is string - size in bytes, B, kB, MB, GB or TB
+#: library/types/src/String.ycp:211
+#, ycp-format
+msgid "%1/s"
+msgstr "%1/s"
+
+#. format download rate message: %1 = the current download rate (e.g. "242.6kB/s")
+#. %2 is the average download rate (e.g. "228.3kB/s")
+#. to translators: keep translation of "on average" as short as possible
+#: library/types/src/String.ycp:238
+#, ycp-format
+msgid "%1 (on average %2)"
+msgstr "%1（平均 %2）"
+
+#. ellipsis - used to replace part of text to make it shorter
+#. example: "/really/very/long/file/name", "/.../file/name")
+#: library/types/src/String.ycp:1312
+msgid "..."
+msgstr "..."
+
+#. Popup-Box for manual hardware detection.
+#. If the user selects 'manual installation' when
+#. booting from CD, YaST2 does not load any modules
+#. automatically, but asks the user for confirmation
+#. about every module.
+#. The popup box informs the user about the detected
+#. hardware and suggests a module to load.
+#. The user can confirm the module or change
+#. the suggested load command
+#.
+#. This is the heading of the popup box
+#: library/wizard/src/Confirm.ycp:73
+msgid "Confirm Hardware Detection"
+msgstr "确认硬件检测"
+
+#. This is in information message. Next come the
+#. hardware class name (network cards).
+#: library/wizard/src/Confirm.ycp:77
+msgid "YaST will detect the following hardware:"
+msgstr "YaST 将检测以下硬件："
+
+#. Message in a continue/cancel popup
+#: library/wizard/src/Confirm.ycp:136
+msgid ""
+"This module must be run as root.\n"
+"If you continue now, the module may not function properly.\n"
+"For example, some settings can be read improperly\n"
+"and it is unlikely that settings can be written.\n"
+msgstr ""
+"必须以 root 用户身份才能运行此模块。\n"
+"如果要立即继续，此模块可能无法正常运行。\n"
+"例如，可能以不适当的方式读取了某些设置，\n"
+"但不可能写入这些设置。\n"
+
+#. Popup headline
+#: library/wizard/src/Confirm.ycp:142
+msgid "Root Privileges Needed"
+msgstr "需要 Root 权限"
+
+#. Popup question
+#: library/wizard/src/Confirm.ycp:161
+msgid "Really delete selected entry?"
+msgstr "确实要删除所选项吗？"
+
+#. Popup question, %1 is an item to delete (or filename, etc.)
+#: library/wizard/src/Confirm.ycp:177
+#, ycp-format
+msgid "Really delete '%1'?"
+msgstr "确实要删除“%1”吗？"
+
+#. button text
+#: library/wizard/src/Wizard.ycp:169 library/wizard/src/Wizard.ycp:420
+msgid "&Apply"
+msgstr "应用(&A)"
+
+#. translators: dialog title to appear before any content is initialized
+#: library/wizard/src/Wizard.ycp:196
+msgid "Initializing ..."
+msgstr "正在初始化..."
+
+#. translators: dialog title to appear before any content is initialized
+#: library/wizard/src/Wizard.ycp:238
+msgid ""
+"YaST\n"
+"Initializing ...\n"
+msgstr ""
+"YaST\n"
+"正在初始化...\n"
+
+#. Heading for help popup window
+#: library/wizard/src/Wizard.ycp:282
+msgid "Help"
+msgstr "帮助"
+
+#. fallback name for the dialog title
+#: library/wizard/src/Wizard.ycp:1101 library/wizard/src/Wizard.ycp:1175
+msgid "Module"
+msgstr "模块"
+
+#. TextEntry label
+#: remote/password.ycp:20
+msgid "&Enter Password:"
+msgstr "输入密码(&E)："
+
+#. SelectionBox label
+#: remote/remotechooser.ycp:37
+msgid "&Available Hosts:"
+msgstr "可用主机(&A)："
+
+#. TextEntry label
+#: remote/remotechooser.ycp:41
+msgid "&Host:"
+msgstr "主机(&H)："
+
+#. TextEntry label
+#: remote/remotechooser.ycp:43
+msgid "&User name:"
+msgstr "用户名(&U)："
+
+#. TextEntry label
+#: remote/remotechooser.ycp:45
+msgid "&Module to Start:"
+msgstr "要启动的模块(&M)："
+
+#. ComboBox label
+#: remote/remotechooser.ycp:47
+msgid "Connection &Protocol:"
+msgstr "连接协议(&P)："
+
+#. PushButton label
+#: remote/remotechooser.ycp:59 remote/remoteinstall.ycp:36
+msgid "&Launch"
+msgstr "调用(&L)"
+
+#. Label text
+#: remote/remotechooser.ycp:114
+msgid "Scanning for hosts in the local network..."
+msgstr "正在扫描本地网络中的主机..."
+
+#. ComboBox label
+#: remote/remoteinstall.ycp:29
+msgid "Select the Serial &Interface to Use:"
+msgstr "选择要使用的串行接口(&I)："
+
+#~ msgid "Import Public GnuPG Key"
+#~ msgstr "导入公共 GnuPG 密钥"
+
+#~ msgid "&Import"
+#~ msgstr "导入(&I)"
+
+#~ msgid "Do &Not Import"
+#~ msgstr "不导入(&N)"
+
+#~ msgid ""
+#~ "The following GnuPG key has been found in repository %1 \n"
+#~ "%2:\n"
+#~ "\n"
+#~ "%3\n"
+#~ "\n"
+#~ "You can choose to import it into your keyring of trusted\n"
+#~ "public keys, meaning that you trust the owner of the key.\n"
+#~ "You should be sure that you can trust the owner and that\n"
+#~ "the key really belongs to that owner before importing it."
+#~ msgstr ""
+#~ "在安装源 %1 中找到以下 GnuPG 密钥\n"
+#~ "%2：\n"
+#~ "\n"
+#~ "%3\n"
+#~ "\n"
+#~ "您可以选择将其导入可信公共密钥的\n"
+#~ "密钥环，这意味着您信任该密钥的所有者。\n"
+#~ "将其导入之前，应确保可以信任该所有者\n"
+#~ "并且该密钥确实属于该所有者。"
+
+#~ msgid "A&vailable are:"
+#~ msgstr "可用的(&V)："
+
+#~ msgid "Re&start detection"
+#~ msgstr "重启动检测(&S)"
+
+#~ msgid "&Configure..."
+#~ msgstr "配置(&C)..."
+
+#~ msgid "C&hange..."
+#~ msgstr "更改(&H)..."
+
+#~ msgid "Package %1 was not found on the medium."
+#~ msgstr "在介质上未找到包 %1。"
+
+#~ msgid "Package %1 could not be downloaded (input/output error)."
+#~ msgstr "无法下载软件包  %1（输入／输出错误）。"
+
+#~ msgid "Failed to download delta RPM"
+#~ msgstr "下载增量 RPM 失败"
+
+#~ msgid "Failed to apply delta RPM"
+#~ msgstr "应用增量 RPM 失败"
+
+#~ msgid "Failed to download patch RPM"
+#~ msgstr "下载增补程序 RPM 失败"
+
+#~ msgid ""
+#~ "Download failed:\n"
+#~ "    %1"
+#~ msgstr ""
+#~ "下载失败：\n"
+#~ "    %1"
+
+#, fuzzy
+#~| msgid "Accessing the Package Management Failed"
+#~ msgid "Accessing the Softwaree Management Failed"
+#~ msgstr "访问包管理失败"
+
+#~ msgid "Automatically Retry After %1 Seconds"
+#~ msgstr "在 %1 秒后自动重试"
+
+#~ msgid "No package source defined."
+#~ msgstr "未定义任何包源。"
+
+#~ msgid "Skip Refresh"
+#~ msgstr "跳过刷新"
+
+#~ msgid "Size"
+#~ msgstr "大小"
+
+#~ msgid "Reading RPM DB..."
+#~ msgstr "正在读取 RPM 数据库..."
+
+#~ msgid "RPM DB read"
+#~ msgstr "读取 RPM DB"
+
+#~ msgid ""
+#~ "Another process is accessing the package database.\n"
+#~ "Package management cannot be used now.\n"
+#~ msgstr ""
+#~ "另一个进程正在访问该包数据库。\n"
+#~ "现在无法使用包管理。\n"
+
+#~ msgid "Mail Server"
+#~ msgstr "邮件服务器"
+
+#~ msgid "POP3 Server"
+#~ msgstr "POP3 服务器"
+
+#~ msgid "POP3S Server"
+#~ msgstr "POP3S 服务器"
+
+#~ msgid "IMAP Server"
+#~ msgstr "IMAP 服务器"
+
+#~ msgid "IMAPS Server"
+#~ msgstr "IMAPS 服务器"
+
+#~ msgid "Samba Server"
+#~ msgstr "Samba 服务器"
+
+#~ msgid "Remote Synchronization"
+#~ msgstr "远程同步"
+
+#~ msgid "DNS Server"
+#~ msgstr "DNS 服务器"
+
+#~ msgid "NFS Client"
+#~ msgstr "NFS 客户程序"
+
+#~ msgid "NFS Server"
+#~ msgstr "NFS 服务器"
+
+#~ msgid "NIS Server"
+#~ msgstr "NIS 服务器"
+
+#~ msgid "Remote Administration"
+#~ msgstr "远程管理"
+
+#~ msgid "TFTP Server"
+#~ msgstr "TFTP 服务器"
+
+#~ msgid "IPP Server"
+#~ msgstr "IPP 服务器"
+
+#~ msgid "IPP Client"
+#~ msgstr "IPP 客户程序"
+
+#~ msgid "NTP Server"
+#~ msgstr "NTP 服务器"
+
+#~ msgid "LDAP Server"
+#~ msgstr "LDAP 服务器"
+
+#~ msgid "LDAPS Server"
+#~ msgstr "LDAPS 服务器"
+
+#~ msgid "IPsec"
+#~ msgstr "IPsec"
+
+#~ msgid "SLP Daemon"
+#~ msgstr "SLP 守护程序"
+
+#~ msgid "Remote Access to Display Manager"
+#~ msgstr "到显示管理器的远程访问"
+
+#~ msgid "Remote File Alteration Monitor"
+#~ msgstr "远程文件变更监视器"
+
+#~ msgid "Portable Batch System (PBS)"
+#~ msgstr "灵活的批处理系统 (PBS)"
+
+#~ msgid "MySQL Remote Access"
+#~ msgstr "MySQL 远程访问"
+
+#~ msgid "iSCSI Target"
+#~ msgstr "iSCSI 目标"

@@ -1,0 +1,4933 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: users\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:33+0200\n"
+"PO-Revision-Date: 2012-07-22 09:02+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. Popup text: %1 is the file name (e.g. /etc/fstab),
+#. %2 is the directory (e.g. /home),
+#: src/Users.pm:739
+msgid ""
+"In %1, there is a mount point for the directory\n"
+"%2, which is used as a default home directory for new\n"
+"users, but this directory is not currently mounted.\n"
+"If you add new users using the default values,\n"
+"their home directories will be created in the current %2.\n"
+"This can result in these directories not being accessible\n"
+"after you mount correctly. Continue user configuration?"
+msgstr ""
+"在 %1 中，存在一个挂载点，即目录 %2 ，\n"
+"该目录用作新用户的默认主目录，\n"
+"但是该目录当前未挂载。\n"
+"如果使用默认值添加新用户，\n"
+"则将在当前 %2 中创建这些用户的主目录。\n"
+"这可能导致在正确挂载之后，\n"
+"这些目录不可访问。是否继续用户配置？"
+
+#. error message
+#: src/Users.pm:987
+msgid "Multiple users satisfy the input conditions."
+msgstr "有多个用户满足输入条件。"
+
+#. progress caption
+#: src/Users.pm:1563
+msgid "Initializing User and Group Configuration"
+msgstr "初始化用户和组配置"
+
+#. progress stage label
+#: src/Users.pm:1570
+msgid "Read the default login settings"
+msgstr "读取默认登录设置"
+
+#. progress stage label
+#: src/Users.pm:1572
+msgid "Read the default system settings"
+msgstr "读取默认系统设置"
+
+#. progress stage label
+#: src/Users.pm:1574
+msgid "Read the configuration type"
+msgstr "读取配置类型"
+
+#. progress stage label
+#: src/Users.pm:1576
+msgid "Read the user custom settings"
+msgstr "读取用户自定义设置"
+
+#. progress stage label
+#: src/Users.pm:1578
+msgid "Read users and groups"
+msgstr "读取用户和组"
+
+#. progress stage label
+#: src/Users.pm:1580
+msgid "Build the cache structures"
+msgstr "构建缓存结构"
+
+#. progress step label
+#: src/Users.pm:1584
+msgid "Reading the default login settings..."
+msgstr "正在读取默认登录设置..."
+
+#. progress step label
+#: src/Users.pm:1586
+msgid "Reading the default system settings..."
+msgstr "正在读取默认系统设置..."
+
+#. progress step label
+#: src/Users.pm:1588
+msgid "Reading the configuration type..."
+msgstr "正在读取配置类型..."
+
+#. progress step label
+#: src/Users.pm:1590
+msgid "Reading custom settings..."
+msgstr "正在读取自定义设置..."
+
+#. progress step label
+#: src/Users.pm:1592
+msgid "Reading users and groups..."
+msgstr "正在读取用户和组..."
+
+#. progress step label
+#: src/Users.pm:1594
+msgid "Building the cache structures..."
+msgstr "正在构建缓存结构..."
+
+#. final progress step label
+#: src/Users.pm:1596 src/Users.pm:4304
+msgid "Finished"
+msgstr "已完成"
+
+#. error message
+#: src/Users.pm:2148
+msgid "User does not exist."
+msgstr "用户不存在。"
+
+#. error message
+#: src/Users.pm:2400
+msgid "Group does not exist."
+msgstr "组不存在。"
+
+#. progress caption
+#: src/Users.pm:4266
+msgid "Writing User and Group Configuration"
+msgstr "写入用户和组配置"
+
+#. progress stage label
+#: src/Users.pm:4275
+msgid "Write LDAP users and groups"
+msgstr "写入 LDAP 用户和组"
+
+#. progress stage label
+#: src/Users.pm:4277
+msgid "Write groups"
+msgstr "写入组"
+
+#. progress stage label
+#: src/Users.pm:4279
+msgid "Check for deleted users"
+msgstr "检查删除的用户"
+
+#. progress stage label
+#: src/Users.pm:4281
+msgid "Write users"
+msgstr "写入用户"
+
+#. progress stage label
+#: src/Users.pm:4283
+msgid "Write passwords"
+msgstr "写入密码"
+
+#. progress stage label
+#: src/Users.pm:4285
+msgid "Write the custom settings"
+msgstr "写入自定义设置"
+
+#. progress stage label
+#: src/Users.pm:4287
+msgid "Write the default login settings"
+msgstr "写入默认登录设置"
+
+#. progress step label
+#: src/Users.pm:4290
+msgid "Writing LDAP users and groups..."
+msgstr "正在写入 LDAP 用户和组..."
+
+#. progress step label
+#: src/Users.pm:4292
+msgid "Writing groups..."
+msgstr "正在写入组..."
+
+#. progress step label
+#: src/Users.pm:4294
+msgid "Checking deleted users..."
+msgstr "正在检查删除的用户..."
+
+#. progress step label
+#: src/Users.pm:4296
+msgid "Writing users..."
+msgstr "正在写入用户..."
+
+#. progress step label
+#: src/Users.pm:4298
+msgid "Writing passwords..."
+msgstr "正在写入密码..."
+
+#. progress step label
+#: src/Users.pm:4300
+msgid "Writing the custom settings..."
+msgstr "正在写入自定义设置..."
+
+#. progress step label
+#: src/Users.pm:4302
+msgid "Writing the default login settings..."
+msgstr "正在写入默认登录设置..."
+
+#. error popup (%s is a file name)
+#: src/Users.pm:4387
+#, perl-format
+msgid "File %s was not read correctly, so it will not be written."
+msgstr "未正确读取文件 %s，因此无法写入此文件。"
+
+#. error popup
+#: src/Users.pm:4423 src/Users.pm:4458 src/Users.pm:4726
+msgid "An error occurred while removing users."
+msgstr "在删除用户时出错。"
+
+#. error popup (%s is a file name)
+#: src/Users.pm:4436 src/Users.pm:4578
+#, perl-format
+msgid "File %s was not correctly read, so it will not be written."
+msgstr "未正确读取文件 %s，因此无法写入此文件。"
+
+#. error popup
+#: src/Users.pm:4767 src/YaPI/ADMINISTRATOR.pm:101
+msgid "An error occurred while setting forwarding for root's mail."
+msgstr "设置 root 用户邮件转发时出错。"
+
+#. error popup
+#: src/Users.pm:4848
+msgid "No UID is available for this type of user."
+msgstr "此类型的用户没有可用的 UID。"
+
+#. error popup
+#: src/Users.pm:4879
+#, perl-format
+msgid ""
+"The selected user ID is not allowed.\n"
+"Select a valid integer between %i and %i."
+msgstr ""
+"不允许使用所选用户 ID。\n"
+"请选择 %i 到 %i 之间的有效整数。"
+
+#. popup question
+#: src/Users.pm:4910
+msgid ""
+"The user ID entered is already in use.\n"
+"Really use it?"
+msgstr ""
+"输入的用户 ID 已在使用。\n"
+"是否确实要使用它？"
+
+#. popup question, %i are numbers
+#: src/Users.pm:4923
+#, perl-format
+msgid ""
+"The selected user ID is not from a range\n"
+"defined for LDAP users (%i-%i).\n"
+"Really use it?"
+msgstr ""
+"所选用户 ID 超出了为 LDAP 用户定义的\n"
+"范围 (%i-%i)。\n"
+"是否确实要使用它？"
+
+#. popup question
+#: src/Users.pm:4938
+#, perl-format
+msgid ""
+"The selected user ID is a local ID,\n"
+"because the ID is greater than %i.\n"
+"Really change the user type to 'local'?"
+msgstr ""
+"所选的用户 ID 是本地 ID，\n"
+"这是因为该 ID 大于 %i。\n"
+"是否确实要将用户类型更改为\"本地\"？"
+
+#. popup question
+#: src/Users.pm:4952
+#, perl-format
+msgid ""
+"The selected user ID is a system ID,\n"
+"because the ID is smaller than %i.\n"
+"Really change the user type to 'system'?"
+msgstr ""
+"所选的用户 ID 是系统 ID，\n"
+"这是因为该 ID 小于 %i。\n"
+"是否确实要将用户类型更改为\"系统\"？"
+
+#: src/Users.pm:4986
+msgid ""
+"\n"
+"The existing username might belong to a NIS or LDAP user.\n"
+msgstr ""
+"\n"
+"已有用户名可能属于 NIS 或 LDAP 用户。\n"
+
+#. error popup, %1 might be additional sentence ("The existing username...")
+#: src/Users.pm:4990
+msgid ""
+"There is a conflict between the entered\n"
+"username and an existing username. %1\n"
+"Try another one."
+msgstr ""
+"输入的用户名与现有的\n"
+"用户名之间存在冲突。%1\n"
+"请尝试使用其它名称。"
+
+#. error popup
+#: src/Users.pm:5020
+msgid ""
+"The \"Additional User Information\" entry cannot\n"
+"contain a colon (:).  Try again."
+msgstr ""
+"\"附加用户信息\"项\n"
+"不能包含冒号 (:)。请重试。"
+
+#. error popup
+#: src/Users.pm:5027
+msgid ""
+"The \"Additional User Information\" entry can consist\n"
+"of up to three sections separated by commas.\n"
+"Remove the surplus."
+msgstr ""
+"\"附加用户信息\"项最多可以由逗号\n"
+"分隔的 3 部分组成。\n"
+"请删除多余部分。"
+
+#. error popup
+#: src/Users.pm:5090
+msgid ""
+"The home directory may only contain the following characters:\n"
+"a-z, A-Z, 0-9, and _-/\n"
+"Try again."
+msgstr ""
+"主目录名中只能包含以下字符：\n"
+"a 到 z、A 到 Z、0 到 9 和\"_-/\"。\n"
+"请重试。"
+
+#. error popup
+#: src/Users.pm:5113
+#, perl-format
+msgid ""
+"The directory %s is not writable.\n"
+"Choose another path for the home directory."
+msgstr ""
+"目录 %s 不是可写的。\n"
+"请为主目录选择另一个路径。"
+
+#. error message
+#: src/Users.pm:5124
+msgid ""
+"The home directory is used by another user.\n"
+"Try again."
+msgstr ""
+"其它用户正在使用主目录。\n"
+"请重试。"
+
+#. yes/no popup: user seleceted something strange as a home directory
+#: src/Users.pm:5166
+msgid ""
+"The path for the selected home directory already exists,\n"
+"but it is not a directory.\n"
+"Really use this path?"
+msgstr ""
+"所选主目录的路径已存在，\n"
+"但它不是目录。\n"
+"确实要使用该路径吗？"
+
+#. yes/no popup
+#: src/Users.pm:5177
+msgid ""
+"The home directory selected already exists.\n"
+"Use it and change its owner?"
+msgstr ""
+"所选主目录已存在。\n"
+"使用它并更改其所有者？"
+
+#. chown is not needed (#25200)
+#. yes/no popup
+#: src/Users.pm:5184
+#, perl-format
+msgid ""
+"The selected home directory (%s)\n"
+"already exists and is owned by the currently edited user.\n"
+"Use this directory?\n"
+msgstr ""
+"所选主目录 (%s) 已存在，\n"
+"并属于当前编辑的用户。\n"
+"是否使用此目录？\n"
+
+#. yes/no popup
+#: src/Users.pm:5193
+#, perl-format
+msgid ""
+"The home directory selected (%s)\n"
+"already exists as a former home directory of\n"
+"a user previously marked for deletion.\n"
+"Use this directory?"
+msgstr ""
+"所选主目录 (%s) 作为\n"
+"以前已被标记为删除\n"
+"的用户的主目录存在。\n"
+"是否使用此目录？"
+
+#. popup question
+#: src/Users.pm:5221
+msgid ""
+"If you select a nonexistent shell, the user may be unable to log in.\n"
+"Use this shell?"
+msgstr ""
+"如果您选择了不存在的壳层，则用户可能无法登录。\n"
+"是否使用该壳层？"
+
+#. error popup
+#: src/Users.pm:5241
+msgid "No GID is available for this type of group."
+msgstr "此类型的组没有可用的 GID。"
+
+#. error popup
+#: src/Users.pm:5274
+#, perl-format
+msgid ""
+"The selected group ID is not allowed.\n"
+"Select a valid integer between %i and %i."
+msgstr ""
+"不允许使用所选的组 ID。\n"
+"请选择 %i 到 %i 之间的有效整数。"
+
+#. popup question
+#: src/Users.pm:5304
+msgid ""
+"The group ID entered is already in use.\n"
+"Really use it?"
+msgstr ""
+"输入的组 ID 已在使用。\n"
+"是否确实要使用它？"
+
+#. popup question, %i are numbers
+#: src/Users.pm:5316
+#, perl-format
+msgid ""
+"The selected group ID is not from a range\n"
+"defined for LDAP groups (%i-%i).\n"
+"Really use it?"
+msgstr ""
+"所选组 ID 超出了为 LDAP 组\n"
+"定义的范围 (%i-%i)。\n"
+"是否确实要使用它？"
+
+#. popup question
+#: src/Users.pm:5331
+#, perl-format
+msgid ""
+"The selected group ID is a local ID,\n"
+"because the ID is greater than %i.\n"
+"Really change the group type to 'local'?"
+msgstr ""
+"所选的组 ID 是本地 ID，\n"
+"这是因为该 ID 大于 %i。\n"
+"是否确实要将组类型更改为\"本地\"？"
+
+#. popup question
+#: src/Users.pm:5345
+#, perl-format
+msgid ""
+"The selected group ID is a system ID,\n"
+"because the ID is smaller than %i.\n"
+"Really change the group type to 'system'?"
+msgstr ""
+"所选的组 ID 是系统 ID，\n"
+"这是因为该 ID 小于 %i。\n"
+"是否确实要将组类型更改为\"系统\"？"
+
+#. error popup
+#: src/Users.pm:5364
+msgid ""
+"No group name entered.\n"
+"Try again."
+msgstr ""
+"未输入任何组名。\n"
+"请重试。"
+
+#. error popup
+#: src/Users.pm:5381
+#, perl-format
+msgid ""
+"The group name must be between %i and %i characters in length.\n"
+"Try again."
+msgstr ""
+"组名长度必须在 %i 到 %i 个字符之间。\n"
+"请重试。"
+
+#. error popup
+#: src/Users.pm:5394
+msgid ""
+"The group name may contain only\n"
+"letters, digits, \"-\", \".\", and \"_\"\n"
+"and must begin with a letter.\n"
+"Try again."
+msgstr ""
+"组名只能包含字母、\n"
+"数字、\"-\"、\".\"和\"_\"，\n"
+"而且必须以字母开头。\n"
+"请重试。"
+
+#. error popup
+#: src/Users.pm:5402
+msgid ""
+"There is a conflict between the entered\n"
+"group name and an existing group name.\n"
+"Try another one."
+msgstr ""
+"输入的组名和现有的\n"
+"组名之间存在冲突。\n"
+"请尝试使用其它名称。"
+
+#: src/Users.pm:5516
+#, perl-format
+msgid "User %s does not exist."
+msgstr "用户 %s 不存在。"
+
+#. error message: group cannot be deleted
+#: src/Users.pm:5570
+msgid ""
+"You cannot delete this group because\n"
+"there are users that use this group\n"
+"as their default group."
+msgstr ""
+"您不能删除此组，\n"
+"因为有一些用户将此组用作\n"
+"其默认组。"
+
+#. error message: group cannot be deleted
+#: src/Users.pm:5577
+msgid ""
+"You cannot delete this group because\n"
+"there are users in the group.\n"
+"Remove these users from the group first."
+msgstr ""
+"您不能删除此组，\n"
+"因为组中还有用户。\n"
+"请先删除组中的这些用户。"
+
+#. summary label
+#: src/Users.pm:6553
+msgid "<h3>Users</h3>"
+msgstr "<h3>用户</h3>"
+
+#. summary label
+#: src/Users.pm:6563
+msgid "<h3>Groups</h3>"
+msgstr "<h3>组</h3>"
+
+#. summary label
+#: src/Users.pm:6574
+msgid "<h3>Login Settings</h3>"
+msgstr "<h3>登录设置</h3>"
+
+#. summary item, %1 is user name
+#: src/Users.pm:6576
+msgid "User %1 configured for automatic login"
+msgstr "用户 %1 已设为自动登录"
+
+#. error message
+#: src/UsersLDAP.pm:237
+msgid "No password for LDAP was entered."
+msgstr "没有为 LDAP 输入密码。"
+
+#. popup question, %s is string argument
+#: src/UsersLDAP.pm:362 src/UsersLDAP.pm:388
+#, perl-format
+msgid ""
+"No entry with DN '%s'\n"
+"exists on the LDAP server. Create it now?"
+msgstr ""
+"LDAP 服务器中不存在\n"
+"具有判别名\"%s\"的项。是否立即创建？"
+
+#. plugin name
+#: src/UsersPluginLDAPAll.pm:147
+msgid "LDAP Attributes"
+msgstr "LDAP 属性"
+
+#. plugin summary (table item)
+#: src/UsersPluginLDAPAll.pm:158 src/UsersPluginLDAPAll.pm:162
+msgid "Edit Remaining LDAP Attributes"
+msgstr "编辑剩余的 LDAP 属性"
+
+#. error popup (user forgot to fill in some attributes)
+#: src/UsersPluginLDAPAll.pm:280 src/UsersPluginLDAPShadowAccount.pm:287
+#, perl-format
+msgid ""
+"The attribute '%s' is required for this object according\n"
+"to its LDAP configuration, but it is currently empty."
+msgstr ""
+"根据此对象的 LDAP 配置，它必须具有属性\"%s\"，\n"
+"但此属性当前为空。"
+
+#: src/UsersPluginLDAPAll.pm:378
+msgid "An error occurred."
+msgstr "发生一个错误。"
+
+#. plugin name
+#: src/UsersPluginLDAPPasswordPolicy.pm:147
+msgid "LDAP Password Policy"
+msgstr "LDAP 密码策略"
+
+#. user plugin summary (table item)
+#: src/UsersPluginLDAPPasswordPolicy.pm:156
+msgid "Edit Password Policy"
+msgstr "编辑密码策略"
+
+#. error popup, %s is object DN
+#: src/UsersPluginLDAPPasswordPolicy.pm:239
+#, perl-format
+msgid "Invalid DN syntax of \"%s\"."
+msgstr "“%s”的判别名语法无效。"
+
+#. error popup, first %s is object DN, second is additional error message
+#: src/UsersPluginLDAPPasswordPolicy.pm:251
+#, perl-format
+msgid ""
+"Error while searching for \"%s\":\n"
+"%s"
+msgstr ""
+"搜索“%s”时出错：\n"
+"%s"
+
+#. error popup, %s is object DN
+#: src/UsersPluginLDAPPasswordPolicy.pm:258
+#, perl-format
+msgid ""
+"The object \"%s\"\n"
+"is not a Password Policy object"
+msgstr ""
+"对象“%s”\n"
+"不是密码策略对象"
+
+#. error popup
+#: src/UsersPluginLDAPPasswordPolicy.pm:308
+#: src/UsersPluginLDAPPasswordPolicy.pm:349
+msgid ""
+"It is not possible to add this plug-in when\n"
+"the plugin for Shadow Account attributes is in use.\n"
+msgstr ""
+"“阴影帐户”属性的插件处于使用状态\n"
+"时无法添加此插件。\n"
+
+#. plugin name
+#: src/UsersPluginLDAPShadowAccount.pm:183
+msgid "Shadow Account Configuration"
+msgstr "阴影帐户配置"
+
+#. user plugin summary (table item)
+#: src/UsersPluginLDAPShadowAccount.pm:192
+msgid "Edit Shadow Account attributes"
+msgstr "编辑阴影帐户属性"
+
+#. error popup
+#: src/UsersPluginLDAPShadowAccount.pm:350
+#: src/UsersPluginLDAPShadowAccount.pm:396
+msgid ""
+"It is not possible to add this plug-in when\n"
+"the plug-in for Password Policy is in use.\n"
+msgstr ""
+"密码策略的插件处于使用状态\n"
+"时无法添加此插件。\n"
+
+#. plugin name
+#: src/UsersPluginQuota.pm:237
+msgid "Quota Configuration"
+msgstr "配额配置"
+
+#. user plugin summary (table item)
+#: src/UsersPluginQuota.pm:248
+msgid "Manage Group Quota"
+msgstr "管理组配额"
+
+#. user plugin summary (table item)
+#: src/UsersPluginQuota.pm:251
+msgid "Manage User Quota"
+msgstr "管理用户配额"
+
+#. error popup
+#: src/UsersPluginQuota.pm:325 src/UsersPluginQuota.pm:365
+msgid ""
+"Quota is not enabled on your system.\n"
+"Enable quota in the partition settings module."
+msgstr ""
+"您的系统上未启动配额管理。\n"
+"请在分区设置模块启用配额。"
+
+#. error popup, %1 is command, %2 command error output
+#: src/UsersPluginQuota.pm:424 src/UsersPluginQuota.pm:435
+msgid ""
+"Error while calling\n"
+"\"%1\":\n"
+"%2"
+msgstr ""
+"调用 \"%1\" 时出错:\n"
+"%2"
+
+#. the ']' is or-ed...
+#. error popup	
+#: src/UsersSimple.pm:500
+msgid ""
+"The password may only contain the following characters:\n"
+"0-9, a-z, A-Z, and any of \"`~!@#$%^&* ,.;:._-+/|?='{[(<>)]}\\\".\n"
+"Try again."
+msgstr ""
+"密码中只能包含以下字符：\n"
+"0 到 9、a 到 z、A 到 Z 和“#* ,.;:._-+!$%^&/|?=`'{[(<>)]}”中的任意字符。\n"
+" 请重试。"
+
+#. help text (default part shown in more places)
+#: src/UsersSimple.pm:535
+msgid ""
+"<p>\n"
+"For the password, use only characters that can be found on an English keyboard\n"
+"layout.  In cases of system error, it may be necessary to log in without a\n"
+"localized keyboard layout.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"关于密码，请只使用英语键盘\n"
+"布局中能找到的字符。系统出错时，可能需要在没有\n"
+"本地化的键盘布局的情况下登录。\n"
+"</p>"
+
+#. error popup
+#: src/UsersSimple.pm:615
+msgid ""
+"The user's full name cannot contain\n"
+"\":\" or \",\" characters.\n"
+"Try again."
+msgstr ""
+"用户的完整名称中不能包含字符\n"
+"\":\"或\",\"。\n"
+"请重试。"
+
+#. popup question
+#: src/UsersSimple.pm:640
+msgid "You have used the group name as a part of the password."
+msgstr "您将组名用作了密码的一部分。"
+
+#. popup question
+#: src/UsersSimple.pm:643
+msgid "You have used the username as a part of the password."
+msgstr "您将用户名用作了密码的一部分。"
+
+#. popup question
+#: src/UsersSimple.pm:651
+msgid "You have used only lowercase letters for the password."
+msgstr "您在密码中只使用了小写字母。"
+
+#. popup question
+#: src/UsersSimple.pm:659
+msgid "You have used only uppercase letters for the password."
+msgstr "您在密码中只使用了大写字母。"
+
+#. popup question
+#: src/UsersSimple.pm:666
+msgid "You have used a palindrome for the password."
+msgstr "您在密码中使用了回文。"
+
+#. popup question
+#: src/UsersSimple.pm:674
+msgid "You have used only digits for the password."
+msgstr "您在密码中只使用了数字。"
+
+#. popup question
+#: src/UsersSimple.pm:696
+#, perl-format
+msgid ""
+"The password is too long for the current encryption method.\n"
+"It will be truncated to %s characters."
+msgstr ""
+"密码对于当前的加密方法而言太长。\n"
+"它将被截短为 %s 个字符。"
+
+#. error popup
+#. report if user forgot to enter a password
+#: src/UsersSimple.pm:741 src/inst_root.ycp:213
+msgid ""
+"No password entered.\n"
+"Try again."
+msgstr ""
+"未输入密码。\n"
+"请重试。"
+
+#. error message
+#: src/UsersSimple.pm:783
+#, perl-format
+msgid ""
+"The password is too simple:\n"
+"%s."
+msgstr ""
+"密码太简单：\n"
+"%s"
+
+#. popup error, %i is number
+#: src/UsersSimple.pm:797
+#, perl-format
+msgid "The password should have at least %i characters."
+msgstr "密码应至少有 %i 个字符。"
+
+#. error popup
+#: src/UsersSimple.pm:818
+msgid ""
+"No username entered.\n"
+"Try again."
+msgstr ""
+"未输入任何用户名。\n"
+"请重试。"
+
+#. error popup
+#: src/UsersSimple.pm:828
+#, perl-format
+msgid ""
+"The username must be between %i and %i characters in length.\n"
+"Try again."
+msgstr ""
+"用户名的长度必须介于 %i 到 %i 个字符之间。\n"
+"请重试。"
+
+#. error popup
+#: src/UsersSimple.pm:857
+msgid ""
+"The username may contain only\n"
+"letters, digits, \"-\", \".\", and \"_\"\n"
+"and must begin with a letter or \"_\".\n"
+"Try again."
+msgstr ""
+"用户名中只能包含\n"
+"字母、数字、\"-\"、\".\"和\"_\"，\n"
+"并且必须以字母或\"_\"开头。\n"
+"请重试。"
+
+#. error popup
+#: src/UsersSimple.pm:878
+msgid ""
+"There is a conflict between the entered\n"
+"username and an existing username.\n"
+"Try another one."
+msgstr ""
+"输入的用户名与现有的\n"
+"用户名之间存在冲突。\n"
+"请尝试使用其它名称。"
+
+#. busy popup message, %1 is package name
+#. busy popup message
+#: src/UsersSimple.pm:1251 src/UsersSimple.pm:1366
+msgid "Retrieving %1 extension..."
+msgstr "正在获取 %1 扩展..."
+
+#. busy popup message, %1 is package name
+#. busy popup message
+#: src/UsersSimple.pm:1349 src/UsersSimple.pm:1380
+msgid "Releasing %1 extension..."
+msgstr "正在释放 %1 扩展..."
+
+#. User name for user: "root"
+#: src/UsersUI.ycp:44
+msgid "root"
+msgstr "root"
+
+#. User name for user: "bin"
+#: src/UsersUI.ycp:46
+msgid "bin"
+msgstr "bin"
+
+#. User name for user: "daemon"
+#: src/UsersUI.ycp:48
+msgid "Daemon"
+msgstr "守护精灵"
+
+#. User name for user: "lp"
+#: src/UsersUI.ycp:50
+msgid "Printing Daemon"
+msgstr "打印守护精灵"
+
+#. User name for user: "mail"
+#: src/UsersUI.ycp:52
+msgid "Mailer Daemon"
+msgstr "邮件守护精灵"
+
+#. User name for user: "news"
+#: src/UsersUI.ycp:54
+msgid "News System"
+msgstr "新闻系统"
+
+#. User name for user: "uucp"
+#: src/UsersUI.ycp:56
+msgid "Unix-to-Unix Copy System"
+msgstr "Unix 到 Unix 复制系统"
+
+#. User name for user: "games"
+#: src/UsersUI.ycp:58
+msgid "Games Account"
+msgstr "游戏帐户"
+
+#. User name for user: "man"
+#: src/UsersUI.ycp:60
+msgid "Manual Page Viewer"
+msgstr "手册页查看器"
+
+#. User name for user: "at"
+#: src/UsersUI.ycp:62
+msgid "Batch Jobs Daemon"
+msgstr "批处理任务守护精灵"
+
+#. User name for user: "wwwrun"
+#: src/UsersUI.ycp:64
+msgid "WWW Daemon Apache"
+msgstr "WWW 守护精灵 Apache"
+
+#. User name for user: "ftp"
+#: src/UsersUI.ycp:66
+msgid "FTP Account"
+msgstr "FTP 帐户"
+
+#. User name for user: "named"
+#: src/UsersUI.ycp:68
+msgid "Name Server Daemon"
+msgstr "名称服务器守护精灵"
+
+#. User name for user: "gdm"
+#: src/UsersUI.ycp:70
+msgid "GNOME Display Manager Daemon"
+msgstr "GNOME 显示管理器守护精灵"
+
+#. User name for user: "postfix"
+#: src/UsersUI.ycp:72
+msgid "Postfix Daemon"
+msgstr "Postfix 守护精灵"
+
+#. User name for user: "sshd"
+#: src/UsersUI.ycp:74
+msgid "SSH Daemon"
+msgstr "SSH 守护精灵"
+
+#. User name for user: "ntp"
+#: src/UsersUI.ycp:76
+msgid "NTP Daemon"
+msgstr "NTP 守护精灵"
+
+#. User name for user: "ldap"
+#: src/UsersUI.ycp:78
+msgid "User for OpenLDAP"
+msgstr "OpenLDAP 的用户"
+
+#. User name for user: "nobody"
+#: src/UsersUI.ycp:80
+msgid "Nobody"
+msgstr "没有人"
+
+#. User name for user: "amanda"
+#: src/UsersUI.ycp:83
+msgid "Amanda Admin"
+msgstr "Amanda Admin"
+
+#. User name for user: "vscan"
+#: src/UsersUI.ycp:85
+msgid "Vscan Account"
+msgstr "Vscan 帐户"
+
+#. User name for user: "bigsister"
+#: src/UsersUI.ycp:87
+msgid "Big Sister"
+msgstr "大姐"
+
+#. User name for user: "wnn"
+#: src/UsersUI.ycp:89
+msgid "Wnn System Account"
+msgstr "Wnn 系统帐户"
+
+#. User name for user: "cyrus"
+#: src/UsersUI.ycp:91
+msgid "User for cyrus-imapd"
+msgstr "cyrus-imapd 的用户"
+
+#. User name for user: "dpbox"
+#: src/UsersUI.ycp:93
+msgid "DpBox Account"
+msgstr "DpBox 帐户"
+
+#. User name for user: "gnats"
+#: src/UsersUI.ycp:95
+msgid "GNATS GNU Backtracking System"
+msgstr "GNATS GNU 回索系统"
+
+#. User name for user: "gnump3d"
+#: src/UsersUI.ycp:97
+msgid "GNUMP3 Daemon"
+msgstr "GNUMP3 守护精灵"
+
+#. User name for user: "hacluster"
+#: src/UsersUI.ycp:99
+msgid "Heartbeat Processes"
+msgstr "心跳进程"
+
+#. User name for user: "irc"
+#: src/UsersUI.ycp:101
+msgid "IRC Daemon"
+msgstr "IRC 守护精灵"
+
+#. User name for user: "mailman"
+#: src/UsersUI.ycp:103
+msgid "GNU Mailing List Manager"
+msgstr "GNU 邮件列表管理器"
+
+#. User name for user: "mdom"
+#: src/UsersUI.ycp:105
+msgid "Mailing List Agent"
+msgstr "邮件列表代理"
+
+#. User name for user: "mysql"
+#: src/UsersUI.ycp:107
+msgid "MySQL Database Admin"
+msgstr "MySQL 数据库管理"
+
+#. User name for user: "oracle"
+#: src/UsersUI.ycp:109
+msgid "Oracle User"
+msgstr "Oracle 用户"
+
+#. User name for user: "postgres"
+#: src/UsersUI.ycp:111
+msgid "PostgreSQL Server"
+msgstr "PostgreSQL 服务器"
+
+#. User name for user: "pop"
+#: src/UsersUI.ycp:113
+msgid "POP Admin"
+msgstr "POP 管理"
+
+#. User name for user: "sapdb"
+#: src/UsersUI.ycp:115
+msgid "SAPDB Account"
+msgstr "SAPDB 帐户"
+
+#. User name for user: "snort"
+#: src/UsersUI.ycp:117
+msgid "Snort Network Monitor"
+msgstr "Snort 网络监视程序"
+
+#. User name for user: "squid"
+#: src/UsersUI.ycp:119
+msgid "WWW Proxy Squid"
+msgstr "万维网代理 squid"
+
+#. User name for user: "stunnel"
+#: src/UsersUI.ycp:121
+msgid "Daemon User for stunnel (Universal SSL Tunnel)"
+msgstr "stunnel(通用 SSL 隧道)的守护用户"
+
+#. User name for user: "zope"
+#: src/UsersUI.ycp:123
+msgid "Zope"
+msgstr "Zope"
+
+#. User name for user: "radiusd"
+#: src/UsersUI.ycp:126
+msgid "Radius Daemon"
+msgstr "Radius 守护精灵"
+
+#. User name for user: "otrs"
+#: src/UsersUI.ycp:128
+msgid "OTRS System User"
+msgstr "OTRS 系统用户"
+
+#. User name for user: "privoxy"
+#: src/UsersUI.ycp:130
+msgid "Daemon User for privoxy"
+msgstr "privoxy 的守护用户"
+
+#. User name for user: "vdr"
+#: src/UsersUI.ycp:132
+msgid "Video Disk Recorder"
+msgstr "视频磁盘录像机"
+
+#. User name for user: "icecream"
+#: src/UsersUI.ycp:135
+msgid "Icecream Daemon"
+msgstr "Icecream 守护精灵"
+
+#. User name for user: "bitlbee"
+#: src/UsersUI.ycp:138
+msgid "Bitlbee Daemon User"
+msgstr "Bitlbee 守护用户"
+
+#. User name for user: "dhcpd"
+#: src/UsersUI.ycp:141
+msgid "DHCP Server Daemon"
+msgstr "DHCP 服务器守护精灵"
+
+#. User name for user: "distcc"
+#: src/UsersUI.ycp:144
+msgid "Distcc Daemon"
+msgstr "Distcc 守护精灵"
+
+#. User name for user: "dovecot"
+#: src/UsersUI.ycp:147
+msgid "Dovecot IMAP Daemon"
+msgstr "Dovecot IMAP 守护精灵"
+
+#. User name for user: "fax"
+#: src/UsersUI.ycp:150
+msgid "Facsimile Agent"
+msgstr "Facsimile 代理"
+
+#. User name for user: "partimag"
+#: src/UsersUI.ycp:153
+msgid "Partimage Daemon User"
+msgstr "Partimage 守护用户"
+
+#. User name for user: "avahi"
+#: src/UsersUI.ycp:156
+msgid "User for Avahi"
+msgstr "Avahi 用户"
+
+#. User name for user: "beagleindex"
+#: src/UsersUI.ycp:159
+msgid "User for Beagle indexing"
+msgstr "Beagle 索引用户"
+
+#. User name for user: "casaauth"
+#: src/UsersUI.ycp:162
+msgid "casa_atvd System User"
+msgstr "casa_atvd 系统用户"
+
+#. User name for user: "dvbdaemon"
+#: src/UsersUI.ycp:165
+msgid "User for DVB daemon"
+msgstr "DVB 守护精灵用户"
+
+#. User name for user: "festival"
+#: src/UsersUI.ycp:168
+msgid "Festival daemon"
+msgstr "Festival 守护精灵"
+
+#. User name for user: "haldaemon"
+#: src/UsersUI.ycp:171
+msgid "User for haldaemon"
+msgstr "haldaemon 用户"
+
+#. User name for user: "icecast"
+#: src/UsersUI.ycp:174
+msgid "Icecast streaming server"
+msgstr "Icecast 流传输服务器"
+
+#. User name for user: "lighttpd"
+#: src/UsersUI.ycp:177
+msgid "User for lighttpd"
+msgstr "lighttpd 用户"
+
+#. User name for user: "nagios"
+#: src/UsersUI.ycp:180
+msgid "User for Nagios"
+msgstr "Nagios 用户"
+
+#. User name for user: "pdns"
+#: src/UsersUI.ycp:183
+msgid "User for PowerDNS"
+msgstr "PowerDNS 用户"
+
+#. User name for user: "polkituser"
+#: src/UsersUI.ycp:186
+msgid "PolicyKit"
+msgstr "PolicyKit"
+
+#. User name for user: "pound"
+#: src/UsersUI.ycp:189
+msgid "User for Pound"
+msgstr "Pound 用户"
+
+#. User name for user: "pulse"
+#: src/UsersUI.ycp:192
+msgid "PulseAudio daemon"
+msgstr "PulseAudio 守护精灵"
+
+#. User name for user: "quagga"
+#: src/UsersUI.ycp:195
+msgid "Quagga routing daemon"
+msgstr "Quagga 路由守护精灵"
+
+#. User name for user: "sabayon-admin"
+#: src/UsersUI.ycp:198
+msgid "Sabayon user"
+msgstr "Sabayon 用户"
+
+#. User name for user: "tomcat"
+#: src/UsersUI.ycp:201
+msgid "Tomcat - Apache Servlet/JSP Engine"
+msgstr "Tomcat - Apache 服务程序/JSP 引擎"
+
+#. User name for user: "tomcat"
+#: src/UsersUI.ycp:204
+msgid "Apache Tomcat"
+msgstr "Apache Tomcat"
+
+#. User name for user: "pegasus"
+#. User name for user: "cimsrvr"
+#: src/UsersUI.ycp:208
+msgid "tog-pegasus OpenPegasus WBEM/CIM services"
+msgstr "tog-pegasus OpenPegasus WBEM/CIM 服务"
+
+#. User name for user: "ulogd"
+#: src/UsersUI.ycp:211
+msgid "ulog daemon"
+msgstr "ulog 守护精灵"
+
+#. User name for user: "uuidd"
+#: src/UsersUI.ycp:214
+msgid "User for uuidd"
+msgstr "uuidd 用户"
+
+#. User name for user: "suse-ncc"
+#: src/UsersUI.ycp:217
+msgid "Novell Customer Center User"
+msgstr "Novell 客户中心用户"
+
+#. label
+#: src/UsersUI.ycp:231
+msgid ""
+"You have installed a NIS master server.\n"
+"It is configured to use a different database\n"
+"of users and groups than the local system \n"
+"database in the /etc directory.\n"
+"Select which one to configure.\n"
+msgstr ""
+"您已安装了 NIS 主服务器。\n"
+"可以将此服务器配置为使用与 /etc 目录中的\n"
+"本地系统数据库\n"
+"不同的用户和组数据库。\n"
+"请选择要配置的数据库。\n"
+
+#. radio button
+#: src/UsersUI.ycp:240
+msgid "&Local (/etc directory)"
+msgstr "本地(/etc 目录)(&L)"
+
+#. radio button, %1 is path (eg. /etc)
+#: src/UsersUI.ycp:243
+#, ycp-format
+msgid "&NIS (%1 directory)"
+msgstr "NIS(%1 目录)(&N)"
+
+#. label above radiobutton box
+#: src/UsersUI.ycp:304
+msgid "User Templates"
+msgstr "用户模板"
+
+#. label above radiobutton box
+#: src/UsersUI.ycp:306
+msgid "Group Templates"
+msgstr "组模板"
+
+#. label
+#: src/UsersUI.ycp:323
+msgid "Multiple templates are defined as default. Select the one to read."
+msgstr "有多个模板被定义为默认模板。请选择要读取的模板。"
+
+#. error message 2/2 (= next sentence)
+#: src/UsersUI.ycp:358
+msgid "Correct them manually before running the YaST users module again."
+msgstr "再次运行 YaST2 用户模块之前请手动更正它们。"
+
+#. error message 1/2: %1 is file name, %2 is username, %3 is next sentence (2/2)
+#: src/UsersUI.ycp:364 src/UsersUI.ycp:369
+#, ycp-format
+msgid ""
+"There are multiple users with the same name (\"%2\") in the file %1.\n"
+"%3"
+msgstr ""
+"文件 %1 中存在多个具有相同名称(\"%2\")的用户。\n"
+"%3"
+
+#. error message 1/2: %1 is file name, %2 is groupname, %3 next sentence (2/2)
+#: src/UsersUI.ycp:374
+#, ycp-format
+msgid ""
+"There are multiple groups with the same name (\"%2\") in the file %1.\n"
+"%3"
+msgstr ""
+"文件 %1 中存在多个具有相同名称(\"%2\")的组。\n"
+"%3"
+
+#. error message 1/2: %1 is file name, %2 is line
+#: src/UsersUI.ycp:379 src/UsersUI.ycp:387
+#, ycp-format
+msgid ""
+"There is a strange line in the file %1:\n"
+"%2\n"
+"Perhaps the number of colons is wrong or some line entry is missing.\n"
+"Correct the file manually before running the YaST users module again."
+msgstr ""
+"文件 %1 中存在奇怪的行：\n"
+"%2\n"
+"可能是冒号的数量有问题或缺少某些行输入。\n"
+"请手动更改文件，然后再次运行 YaST2 用户模块。"
+
+#. error message 1/2: %1 is file name
+#: src/UsersUI.ycp:395
+#, ycp-format
+msgid ""
+"There is a strange line in the file %1.\n"
+"Perhaps the number of colons is wrong or some line entry is missing.\n"
+"Correct the file manually before running the YaST users module again."
+msgstr ""
+"文件 %1 中存在奇怪的行。\n"
+"可能是冒号的数量有问题或缺少某些行输入。\n"
+"请手动更改文件，然后再次运行 YaST2 用户模块。"
+
+#. default error message
+#: src/UsersUI.ycp:404
+msgid "Cannot read user or group data."
+msgstr "无法读取用户或组数据。"
+
+#. error message
+#: src/YaPI/USERS.pm:533
+msgid ""
+"There is a conflict between the entered\n"
+"user name and an existing user name.\n"
+"Try another one."
+msgstr ""
+"输入的用户名和现有的\n"
+"用户名之间存在冲突。\n"
+"请尝试使用其它名称。"
+
+#. error message
+#: src/YaPI/USERS.pm:545
+msgid ""
+"The home directory is used from another user.\n"
+"Please try again."
+msgstr ""
+"主目录已被另一个用户使用。\n"
+"请重试。"
+
+#. error message
+#: src/YaPI/USERS.pm:741 src/YaPI/USERS.pm:858
+msgid "No plug-in was defined"
+msgstr "未定义插件"
+
+#. error message
+#: src/YaPI/USERS.pm:795 src/YaPI/USERS.pm:912
+msgid "It is not possible to edit a NIS user."
+msgstr "无法编辑 NIS 用户。"
+
+#. error message
+#: src/YaPI/USERS.pm:1025
+msgid "It is not possible to delete a NIS user."
+msgstr "无法删除 NIS 用户。"
+
+#. error message
+#: src/YaPI/USERS.pm:1044 src/YaPI/USERS.pm:2491 src/cmdline.ycp:224
+#: src/cmdline.ycp:378 src/cmdline.ycp:421
+msgid "There is no such user."
+msgstr "这个用户不存在。"
+
+#. error message
+#: src/YaPI/USERS.pm:1684 src/YaPI/USERS.pm:1817 src/YaPI/USERS.pm:1980
+msgid "It is not possible to modify a NIS group."
+msgstr "无法修改 NIS 组。"
+
+#. error message
+#: src/YaPI/USERS.pm:1761 src/YaPI/USERS.pm:1924 src/YaPI/USERS.pm:2403
+msgid "No user was specified."
+msgstr "未指定用户。"
+
+#. error message
+#: src/YaPI/USERS.pm:1832 src/YaPI/USERS.pm:1995 src/YaPI/USERS.pm:2158
+#: src/cmdline.ycp:536 src/cmdline.ycp:592 src/cmdline.ycp:683
+msgid "There is no such group."
+msgstr "这个组不存在。"
+
+#. error message
+#: src/YaPI/USERS.pm:1858 src/YaPI/USERS.pm:2021 src/YaPI/USERS.pm:2476
+msgid "User was not correctly specified."
+msgstr "未正确指定用户。"
+
+#. error message
+#: src/YaPI/USERS.pm:2133
+msgid "It is not possible to delete a NIS group."
+msgstr "无法删除 NIS 组。"
+
+#. error message
+#: src/YaPI/USERS.pm:2451
+msgid "There are multiple users satisfying the input conditions."
+msgstr "有多个用户满足输入条件。"
+
+#. password entering label
+#: src/cmdline.ycp:59
+msgid "LDAP Server Password:"
+msgstr "LDAP 服务器密码："
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:231
+msgid "Full Name:"
+msgstr "完整名称："
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:233
+msgid "Login Name:"
+msgstr "登录名："
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:235
+msgid "Home Directory:"
+msgstr "主目录："
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:237
+msgid "Login Shell:"
+msgstr "登录壳层："
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:239
+msgid "UID:"
+msgstr "UID："
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:241
+msgid "Default Group:"
+msgstr "默认组："
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:243
+msgid "List of Groups:"
+msgstr "组的列表："
+
+#. error message
+#: src/cmdline.ycp:269
+msgid "Enter a user name."
+msgstr "输入用户名。"
+
+#. question on command line
+#: src/cmdline.ycp:292
+msgid "Password for New User:"
+msgstr "新用户的密码："
+
+#. question on command line
+#: src/cmdline.ycp:295
+msgid "Confirm the password:"
+msgstr "确认密码："
+
+#. error message
+#: src/cmdline.ycp:301
+msgid "Passwords do not match. Try again."
+msgstr "密码不匹配。请重试。"
+
+#. error message
+#: src/cmdline.ycp:307
+msgid "Passwords do not match. Exiting."
+msgstr "密码不匹配。正在退出。"
+
+#. error popup
+#: src/cmdline.ycp:387
+msgid ""
+"You can not delete this user, because the user is present.\n"
+"Please log off the user first."
+msgstr ""
+"您不能删除此用户，因为此用户是当前用户。\n"
+"请先注销此用户。"
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:543
+msgid "Group Name:"
+msgstr "组名："
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:545
+msgid "GID:"
+msgstr "GID："
+
+#. label shown at command line (user attribute)
+#: src/cmdline.ycp:547 src/cmdline.ycp:549
+msgid "List of Members:"
+msgstr "成员的列表："
+
+#. error message
+#: src/cmdline.ycp:607
+msgid "Enter a group name."
+msgstr "输入组名。"
+
+#. popup text
+#: src/complex.ycp:101
+msgid "Really abort the writing process?"
+msgstr "是否确实要中止写入过程？"
+
+#. The login name contains uppercase 1/3
+#: src/dialogs.ycp:73
+msgid ""
+"<p>\n"
+"You have used uppercase letters in the user login entry.</p>"
+msgstr ""
+"<p>\n"
+"您在用户登录条目中使用了大写字母。</p>"
+
+#. The login name contains uppercase 2/3
+#: src/dialogs.ycp:77
+msgid ""
+"<p>This could cause problems with delivering mail\n"
+"to this user, because mail systems generally do not\n"
+"support case-sensitive names.<br>\n"
+"You could solve this problem by editing the alias table.</p>\n"
+msgstr ""
+"<p>这可能导致将邮件发送给此用户时\n"
+"出现问题，因为邮件系统通常\n"
+"不支持区分大小写的名称。<br>\n"
+"您可以通过编辑别名表来解决此问题。</p>\n"
+
+#. The login name contains uppercase 3/3
+#: src/dialogs.ycp:84
+msgid "<p>Really use the entered value?</p>"
+msgstr "<p>是否确实要使用输入的值？</p>"
+
+#. password entry label
+#: src/dialogs.ycp:122
+msgid ""
+"To access the data required to modify\n"
+"the encryption settings for this user,\n"
+"enter the user's current password."
+msgstr ""
+"要访问修改\n"
+"此用户的加密设置所需的数据，\n"
+"请输入用户的当前密码。"
+
+#. The two user password information do not match
+#. error popup
+#. The two group password information do not match
+#. error popup
+#. report misspellings of the password
+#. The two group password information do not match
+#. error popup
+#: src/dialogs.ycp:141 src/dialogs.ycp:1069 src/dialogs.ycp:2149
+#: src/inst_root.ycp:200 src/inst_root_first.ycp:157
+#: src/inst_user_first.ycp:698
+msgid ""
+"The passwords do not match.\n"
+"Try again."
+msgstr ""
+"密码不匹配。\n"
+"请重试。"
+
+#. yes/no popup label, %1,%2 are file paths
+#: src/dialogs.ycp:338
+#, ycp-format
+msgid ""
+"Crypted directory image and key files\n"
+"'%1' and '%2'\n"
+"were found. Use them for current user?\n"
+"\n"
+"This means that data from this image will be used instead of current home directory."
+msgstr ""
+"找到加密目录映像 '%1' 和密钥文件 '%2'。以当前用户使用它们吗？\n"
+"\n"
+"这意味着将使用此映像的数据而不是当前家目录。"
+
+#. popup label, %1 is path to directory
+#: src/dialogs.ycp:354
+#, ycp-format
+msgid ""
+"The home directory (%1) already exists.\n"
+"Use it anyway?"
+msgstr ""
+"所选主目录(%1)已存在。\n"
+"是否使用？"
+
+#. checkbox label
+#: src/dialogs.ycp:358
+msgid "&Change directory owner"
+msgstr "更改目录所有者(&C)"
+
+#. text entry
+#: src/dialogs.ycp:384 src/inst_user_first.ycp:537
+msgid "User's &Full Name"
+msgstr "用户的完整名称(&F)"
+
+#. text entry
+#: src/dialogs.ycp:393
+msgid "&First Name"
+msgstr "名(&F)"
+
+#. text entry
+#: src/dialogs.ycp:396
+msgid "&Last Name"
+msgstr "姓(&L)"
+
+#. label text
+#: src/dialogs.ycp:402
+msgid "For remote users, only additional group memberships can be changed."
+msgstr "对于远程用户，只能更改附加的组成员资格。"
+
+#. input field for login name
+#: src/dialogs.ycp:408 src/inst_user_first.ycp:540
+msgid "&Username"
+msgstr "用户名(&U)"
+
+#. checkbox label
+#: src/dialogs.ycp:417 src/inst_user_first.ycp:554
+msgid "Receive S&ystem Mail"
+msgstr "接收系统邮件(&Y)"
+
+#. checkbox label
+#: src/dialogs.ycp:424
+msgid "A&utomatic Login"
+msgstr "自动登录(&U)"
+
+#. checkbox label
+#: src/dialogs.ycp:432 src/inst_user_first.ycp:550
+msgid "U&se this password for system administrator"
+msgstr "系统管理员使用此密码(&S)"
+
+#. check box label
+#: src/dialogs.ycp:439
+msgid "D&isable User Login"
+msgstr "禁用用户登录(&I)"
+
+#. push button
+#: src/dialogs.ycp:468
+msgid "User &Management"
+msgstr "用户管理(&M)"
+
+#. group name is not known (combobox item):
+#: src/dialogs.ycp:563
+msgid "(Unknown)"
+msgstr "(未知)"
+
+#. combobox label
+#: src/dialogs.ycp:568
+msgid "De&fault Group"
+msgstr "默认组(&F)"
+
+#. combobox label
+#: src/dialogs.ycp:571
+msgid "Login &Shell"
+msgstr "登录壳层(&S)"
+
+#. textentry label
+#: src/dialogs.ycp:577
+msgid "Addi&tional User Information"
+msgstr "其它用户信息(&T)"
+
+#. button label
+#: src/dialogs.ycp:583
+msgid "B&rowse..."
+msgstr "浏览(&R)..."
+
+#. textentry label
+#: src/dialogs.ycp:589
+msgid "&Home Directory"
+msgstr "主目录(&H)"
+
+#. check box label
+#: src/dialogs.ycp:593
+msgid "&Move to New Location"
+msgstr "移动到新位置(&M)"
+
+#. textentry label
+#: src/dialogs.ycp:599
+msgid "Home Directory &Permission Mode"
+msgstr "主目录权限模式(&P)"
+
+#: src/dialogs.ycp:602
+msgid "E&mpty Home"
+msgstr "空主目录(&M)"
+
+#. check box label
+#: src/dialogs.ycp:611
+msgid "&Use Encrypted Home Directory"
+msgstr "使用加密的用户主目录(&U)"
+
+#. IntField label
+#: src/dialogs.ycp:615
+msgid "&Directory Size in MB"
+msgstr "目录大小（以 MB 为单位）(&D)"
+
+#. label
+#: src/dialogs.ycp:622
+msgid ""
+"For remote users, only additional \n"
+"group memberships can be changed."
+msgstr ""
+"对于远程用户，只能更改附加的\n"
+"组成员资格。"
+
+#. textentry label
+#: src/dialogs.ycp:631
+msgid "User &ID (uid)"
+msgstr "用户 ID (uid)(&I)"
+
+#. selection box label
+#: src/dialogs.ycp:647
+msgid "Additional Gr&oups"
+msgstr "附加的组(&O)"
+
+#. selection box label
+#: src/dialogs.ycp:651
+msgid "&LDAP Groups"
+msgstr "LDAP 组(&L)"
+
+#. label (date of last password change)
+#: src/dialogs.ycp:682 src/users_plugin_ldap_shadowaccount.ycp:102
+msgid "Unknown"
+msgstr "未知"
+
+#. label (date of last password change)
+#: src/dialogs.ycp:687 src/users_plugin_ldap_shadowaccount.ycp:107
+msgid "Never"
+msgstr "永不"
+
+#. label
+#: src/dialogs.ycp:703 src/users_plugin_ldap_shadowaccount.ycp:123
+#, ycp-format
+msgid "Last Password Change: %1"
+msgstr "上次密码更改：%1"
+
+#. check box label
+#: src/dialogs.ycp:707
+msgid "Force Password Change"
+msgstr "强制更改密码"
+
+#. intfield label
+#: src/dialogs.ycp:713 src/users_plugin_ldap_shadowaccount.ycp:127
+msgid "Days &before Password Expiration to Issue Warning"
+msgstr "密码失效前多少天发出警告(&B)"
+
+#. intfield label
+#: src/dialogs.ycp:718 src/users_plugin_ldap_shadowaccount.ycp:132
+msgid "Days after Password Expires with Usable &Login"
+msgstr "密码失效后仍可登录的天数(&L)"
+
+#. intfield label
+#: src/dialogs.ycp:723 src/users_plugin_ldap_shadowaccount.ycp:137
+msgid "Ma&ximum Number of Days for the Same Password"
+msgstr "相同密码的最大使用天数(&X)"
+
+#. intfield label
+#: src/dialogs.ycp:728 src/users_plugin_ldap_shadowaccount.ycp:142
+msgid "&Minimum Number of Days for the Same Password"
+msgstr "相同密码的最小有效天数(&M)"
+
+#. textentry label
+#: src/dialogs.ycp:733 src/users_plugin_ldap_shadowaccount.ycp:147
+msgid "Ex&piration Date"
+msgstr "默认失效日期(&P)"
+
+#. table header
+#: src/dialogs.ycp:762 src/dialogs.ycp:2017
+msgid "Plug-In Description"
+msgstr "插件描述"
+
+#. pushbutton label
+#: src/dialogs.ycp:767 src/dialogs.ycp:2022
+msgid "Add &or Remove Plug-In"
+msgstr "添加或删除插件(&O)"
+
+#. pushbutton label
+#: src/dialogs.ycp:769 src/dialogs.ycp:2024
+msgid "&Launch"
+msgstr "起动(&L)"
+
+#. dialog caption:
+#: src/dialogs.ycp:779
+msgid "New Local User"
+msgstr "新的本地用户"
+
+#. dialog caption:
+#: src/dialogs.ycp:781
+msgid "New System User"
+msgstr "新的系统用户"
+
+#. dialog caption:
+#: src/dialogs.ycp:783
+msgid "New LDAP User"
+msgstr "新的 LDAP 用户"
+
+#. dialog caption:
+#: src/dialogs.ycp:787
+msgid "Existing Local User"
+msgstr "现有的本地用户"
+
+#. dialog caption:
+#: src/dialogs.ycp:789
+msgid "Existing System User"
+msgstr "现有的系统用户"
+
+#. dialog caption:
+#: src/dialogs.ycp:791
+msgid "Existing LDAP User"
+msgstr "现有的 LDAP 用户"
+
+#. dialog caption:
+#: src/dialogs.ycp:793
+msgid "Existing NIS User"
+msgstr "现有的 NIS 用户"
+
+#. tab label
+#: src/dialogs.ycp:799
+msgid "Us&er Data"
+msgstr "用户数据(&E)"
+
+#. tab label
+#: src/dialogs.ycp:801
+msgid "&Details"
+msgstr "细节(&D) "
+
+#. tab label
+#: src/dialogs.ycp:807
+msgid "Pass&word Settings"
+msgstr "密码设置(&W)"
+
+#. tab label
+#: src/dialogs.ycp:825 src/dialogs.ycp:2054
+msgid "Plu&g-Ins"
+msgstr "插件(&G)"
+
+#. The user login field is empty, this is allowed if the
+#. system is part of a network with (e.g.) NIS user management.
+#. yes-no popup headline
+#: src/dialogs.ycp:924 src/inst_user_first.ycp:646
+msgid "Empty User Login"
+msgstr "空用户登录"
+
+#. yes-no popup contents
+#: src/dialogs.ycp:926 src/inst_user_first.ycp:648
+msgid ""
+"Leaving the user name empty only makes sense\n"
+"in a network environment with an authentication server.\n"
+"Leave it empty?"
+msgstr ""
+"只有在有身份验证服务器的网络环境中\n"
+"将用户名保留为空才有意义。\n"
+"是否保留为空？"
+
+#. last part of message popup
+#: src/dialogs.ycp:1093 src/dialogs.ycp:2174 src/inst_root.ycp:247
+#: src/inst_root_first.ycp:220 src/inst_user_first.ycp:737
+msgid "Really use this password?"
+msgstr "确实要使用此密码吗？"
+
+#. popup question
+#: src/dialogs.ycp:1131
+#, ycp-format
+msgid "Change home directory to %1?"
+msgstr "将主目录更改为 %1？"
+
+#. error popup
+#: src/dialogs.ycp:1259
+msgid ""
+"The home directory for this user cannot be decrypted,\n"
+"because the user is currently logged in.\n"
+"Log the user out first."
+msgstr ""
+"不能解密该用户的主目录，\n"
+"因为用户现在已经登录。\n"
+"请先将该用户注销。"
+
+#. error popup
+#: src/dialogs.ycp:1413
+msgid "Enter the size for the home directory."
+msgstr "请输入用户主目录的大小。"
+
+#. popup text: Don't reorder the letters YYYY-MM-DD!!!
+#. The date must stay in this format
+#. popup label - don't reorder the letters YYYY-MM-DD
+#. The date must stay in this format
+#: src/dialogs.ycp:1493 src/users_plugin_ldap_shadowaccount.ycp:176
+#: src/widgets.ycp:1181
+msgid "The expiration date must be in the format YYYY-MM-DD."
+msgstr "失效日期必须采用格式 YYYY-MM-DD。"
+
+#. popup message
+#: src/dialogs.ycp:1561 src/dialogs.ycp:2271
+msgid "This plug-in cannot be removed."
+msgstr "无法删除此插件。"
+
+#. popup text
+#: src/dialogs.ycp:1839
+msgid "Now you have added a new user."
+msgstr "现在您已添加了一位新用户。"
+
+#. dialog caption:
+#: src/dialogs.ycp:1909
+msgid "New Local Group"
+msgstr "新的本地组"
+
+#. dialog caption:
+#: src/dialogs.ycp:1911
+msgid "New System Group"
+msgstr "新的系统组"
+
+#. dialog caption:
+#: src/dialogs.ycp:1913
+msgid "New LDAP Group"
+msgstr "新的 LDAP 组"
+
+#. dialog caption:
+#: src/dialogs.ycp:1917
+msgid "Existing Local Group"
+msgstr "现有的本地组"
+
+#. dialog caption:
+#: src/dialogs.ycp:1919
+msgid "Existing System Group"
+msgstr "现有的系统组"
+
+#. dialog caption:
+#: src/dialogs.ycp:1921
+msgid "Existing LDAP Group"
+msgstr "现有的 LDAP 组"
+
+#. textentry label
+#: src/dialogs.ycp:1968
+msgid "Group &Name"
+msgstr "组名称(&N)"
+
+#. textentry label
+#: src/dialogs.ycp:1971
+msgid "Group &ID (gid)"
+msgstr "组 ID (gid)(&I)"
+
+#. selection box label
+#: src/dialogs.ycp:1986 src/dialogs.ycp:2388
+msgid "Group &Members"
+msgstr "组成员(&M)"
+
+#. tab label
+#: src/dialogs.ycp:2052
+msgid "Group &Data"
+msgstr "组数据(&D)"
+
+#. translators: command line help text for Users module
+#: src/groups.ycp:99
+msgid "Group configuration module"
+msgstr "组配置模块"
+
+#. translators: command line help text for list action
+#: src/groups.ycp:107
+msgid "List of available groups"
+msgstr "可用组的列表"
+
+#. help text for unknown parameter name
+#: src/groups.ycp:110 src/users.ycp:104
+msgid "User parameters that should be listed"
+msgstr "应列出的用户参数"
+
+#. translators: command line help text for show action
+#: src/groups.ycp:115
+msgid "Show information of selected group"
+msgstr "显示所选组的信息"
+
+#. translators: command line help text for delete action
+#: src/groups.ycp:120
+msgid "Delete an existing group"
+msgstr "删除现有的组"
+
+#. translators: command line help text for ad action
+#: src/groups.ycp:125
+msgid "Add new group"
+msgstr "添加新组"
+
+#. help text for unknown parameter name
+#: src/groups.ycp:128 src/groups.ycp:136
+msgid "Additional (LDAP) group parameters"
+msgstr "附加 (LDAP) 组参数"
+
+#. translators: command line help text for ad action
+#: src/groups.ycp:133
+msgid "Edit an existing group"
+msgstr "编辑现有的组"
+
+#. translators: command line help text for list local option
+#: src/groups.ycp:142
+msgid "List of local groups"
+msgstr "本地组的列表"
+
+#. translators: command line help text for list system option
+#: src/groups.ycp:146
+msgid "List of system groups"
+msgstr "系统组的列表"
+
+#. translators: command line help text for list ldap option
+#: src/groups.ycp:150
+msgid "List of LDAP groups"
+msgstr "LDAP 组的列表"
+
+#. translators: command line help text for list nis option
+#: src/groups.ycp:154
+msgid "List of NIS groups"
+msgstr "NIS 组的列表"
+
+#. translators: command line help text for show uid option
+#: src/groups.ycp:158
+msgid "GID of the group"
+msgstr "组的 GID"
+
+#. translators: command line help text for groupname option
+#: src/groups.ycp:163
+msgid "Name of the group"
+msgstr "组的名称"
+
+#. translators: command line help text for 'password' option
+#: src/groups.ycp:168
+msgid "Password of the group"
+msgstr "组的密码"
+
+#. translators: command line help text for 'user' option
+#: src/groups.ycp:173
+msgid "List of group members, usually usernames, separated by commas. The list of LDAP user DNs must be separated by colons."
+msgstr "组成员(通常是用户名)列表，用逗号隔开。LDAP 用户判别名列表必须用冒号隔开。"
+
+#. translators: command line help text for new_groupname option
+#: src/groups.ycp:178
+msgid "New group name"
+msgstr "新组名"
+
+#. translators: command line help text for new_gid option
+#: src/groups.ycp:183
+msgid "New GID of the group"
+msgstr "组的新 GID"
+
+#. translators: command line help text for show option
+#: src/groups.ycp:188
+msgid "Type of the group (local, system, nis, ldap)"
+msgstr "组类型(本地、系统、nis、ldap)"
+
+#. translators: command line help text for ldap_password option
+#: src/groups.ycp:193 src/users.ycp:205
+msgid "Password for LDAP server"
+msgstr "LDAP 服务器的密码"
+
+#. translators: command line help text for batchmode option
+#: src/groups.ycp:198 src/users.ycp:220
+msgid "Do not ask for missing data; return error instead."
+msgstr "不要提示丢失的数据；直接返回错误。"
+
+#. encryption type
+#: src/helps.ycp:53 src/helps.ycp:55 src/inst_user_first.ycp:118
+#: src/users_proposal.ycp:52
+msgid "DES"
+msgstr "DES"
+
+#. encryption type
+#: src/helps.ycp:57 src/inst_user_first.ycp:120 src/users_proposal.ycp:54
+msgid "MD5"
+msgstr "MD5"
+
+#. help text 1/4
+#: src/helps.ycp:64
+msgid ""
+"<p>\n"
+"When entering a password, distinguish between uppercase and\n"
+"lowercase. Passwords should not contain any accented characters or umlauts. \n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"输入密码时区分大小写。\n"
+"密码中不应包含任何带重音或变音的字符。\n"
+"</p>\n"
+
+#. help text 2/4 %1 is encryption type, %2,%3 numbers
+#. help text %1 is encryption type, %2,%3 numbers
+#: src/helps.ycp:71 src/inst_user_first.ycp:241
+#, ycp-format
+msgid ""
+"<p>\n"
+"With the current password encryption (%1), the password length should be between\n"
+" %2 and %3 characters.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"使用当前的密码加密方法 (%1)，密码长度应\n"
+"在 %2 到 %3 个字符之间。\n"
+"</p>"
+
+#. help text 4/4
+#. help text for main add user dialog
+#: src/helps.ycp:80 src/inst_user_first.ycp:260
+msgid ""
+"<p>\n"
+"To ensure that the password was entered correctly,\n"
+"repeat it exactly in a second field. Do not forget your password.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要确保正确输入密码，\n"
+"请在第 2 个字段中重复输入完全相同的密码。请不要忘记密码。\n"
+"</p>\n"
+
+#. Help text 0/6
+#: src/helps.ycp:94
+msgid ""
+"<p>\n"
+"Here, set default values to use when creating new local or system users.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"在新建本地用户或系统用户时，在此设置要使用的默认值。\n"
+"</p>\n"
+
+#. Help text 1/6
+#: src/helps.ycp:99
+msgid ""
+"<p>\n"
+"<b>Default Group</b><br>\n"
+"The group name of a new user's primary group.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>默认组</b><br>\n"
+"新用户的主组的组名。\n"
+"</p>\n"
+
+#. Help text 1.5/6
+#: src/helps.ycp:106
+msgid ""
+"<p>\n"
+"<b>Secondary Groups</b><br>\n"
+"Names of additional groups to which to assign new users.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>次要组</b><br>\n"
+"用于指定新用户的其它组的名称。\n"
+"</p>\n"
+
+#. Help text 2/6
+#: src/helps.ycp:113
+msgid ""
+"<p><b>Default Login Shell</b><br>\n"
+"The name of the new user's login shell. Select one from the list or enter your own path to the shell.</P>\n"
+msgstr ""
+"<p><b>默认登录壳层</b><br>\n"
+"新用户的登录壳层的名称。请从列表中选择一个壳层，或输入自己的壳层路径。</P>\n"
+
+#. Help text 3/6
+#: src/helps.ycp:118
+msgid ""
+"<p><b>Default Home</b><br>\n"
+"The initial path prefix for a new user's home directory. The username is added\n"
+"to the end of this value to create the default name of the home directory.\n"
+"</P>\n"
+msgstr ""
+"<p><b>默认主目录</b><br>\n"
+"新用户的主目录的初始路径前缀。将用户名添加到\n"
+"该值的末尾以创建主目录的默认名称。\n"
+"</P>\n"
+
+#. Help text 4/6
+#: src/helps.ycp:125
+msgid ""
+"<p><b>Skeleton Directory</b><br>\n"
+"The contents of this directory are copied to a user's home directory when a new user is added. </p>\n"
+msgstr ""
+"<p><b>目录主干</b><br>\n"
+"此目录的内容将在添加新用户时被复制到用户的主目录。</p>\n"
+
+#. Help text 4.5/6
+#: src/helps.ycp:131
+msgid ""
+"<p><b>Umask for Home Directory</b><br>\n"
+"Umask to use for creating new home directories.</p>\n"
+msgstr ""
+"<p><b>主目录的 Umask</b><br>\n"
+"用于创建新的主目录的 Umask。</p>\n"
+
+#. Help text 5/6:
+#. Don't reorder letters YYYY-MM-DD, date must be set in this format
+#: src/helps.ycp:137
+msgid ""
+"<p><b>Expiration Date</b><br>\n"
+"The date on which the user account is disabled. The date must be in the format\n"
+"YYYY-MM-DD. Leave it empty if this account never expires.</P>\n"
+msgstr ""
+"<p><b>默认失效日期</b><br>\n"
+"禁用用户帐户的日期。日期必须采用格式 YYYY-MM-DD。\n"
+"如果此帐户永远不过期，则留空。</P>\n"
+
+#. Help text 6/6
+#: src/helps.ycp:143
+msgid ""
+"<P><B>Days after Password Expiration Login Is Usable</B><BR>\n"
+"Users can log in after expiration of passwords. Set how many days \n"
+"after expiration login is allowed. Use -1 for unlimited access.\n"
+"</P>\n"
+msgstr ""
+"<P><B>密码过期后仍可登录的天数</B><BR>\n"
+"密码失效后用户可以登录的天数。设置失效后允许登录的天数。\n"
+"使用 -1 可以进行无限制的访问。\n"
+"</P>\n"
+
+#. For translators: read dialog help, part 1 of 2
+#: src/helps.ycp:159
+msgid ""
+"<P><B><BIG>Initializing User Management</BIG></B><BR>\n"
+"Please wait...\n"
+"<BR></P>\n"
+msgstr ""
+"<P><B><BIG>正在初始化用户管理</BIG></B><BR>\n"
+"请稍候...\n"
+"<BR></P>\n"
+
+#. For translators: read dialog help, part 2 of 2
+#: src/helps.ycp:164
+msgid ""
+"<P><B><BIG>Aborting the Initialization</BIG></B><BR>\n"
+"You can safely abort the configuration utility by pressing <B>Abort</B>\n"
+"now.\n"
+"</P>"
+msgstr ""
+"<P><B><BIG>中止初始化</BIG></B><BR>\n"
+"可以按<B>中止</B>立即安全地中止配置工具。\n"
+"</P>"
+
+#. For translators: read dialog help, part 1 of 2
+#: src/helps.ycp:177
+msgid ""
+"<P><B><BIG>Saving User Configuration</BIG></B><BR>\n"
+"Please wait...\n"
+"<BR></P>\n"
+msgstr ""
+"<P><B><BIG>正在保存用户配置</BIG></B><BR>\n"
+"请稍候...\n"
+"<BR></P>\n"
+
+#. For translators: read dialog help, part 2 of 2
+#: src/helps.ycp:182
+msgid ""
+"<P><B><BIG>Aborting the Save Process:</BIG></B><BR>\n"
+"Abort the save process by pressing <B>Abort</B>.\n"
+"An additional dialog will inform you whether it is safe to do so.\n"
+"</P>\n"
+msgstr ""
+"<P><B><BIG>中止保存过程：</BIG></B><BR>\n"
+"按<B>中止</B>将中止保存过程。\n"
+"另一个对话框将指示这样操作是否安全。\n"
+"</P>\n"
+
+#. help text 1/7
+#: src/helps.ycp:202
+msgid ""
+"<p>\n"
+"Enter the <b>First Name</b>, <b>Last Name</b>, \n"
+"<b>Username</b>, and\n"
+"<b>Password</b> to assign to this user.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"输入<b>名</b>、<b>姓</b>、\n"
+"<b>用户名</b>和\n"
+"<b>密码</b>以指定给该用户。\n"
+"</p>\n"
+
+#. alternative help text 1/7
+#. help text for main add user dialog
+#: src/helps.ycp:212 src/inst_user_first.ycp:229
+msgid ""
+"<p>\n"
+"Enter the <b>User's Full Name</b>, <b>Username</b>, and <b>Password</b> to\n"
+"assign to this user account.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"输入<b>用户的完整名称</b>、<b>用户名</b>、和<b>密码</b>以指定给该用户帐户。\n"
+"</p>\n"
+
+#. help text 2/7
+#: src/helps.ycp:225
+msgid ""
+"<p>\n"
+"Create the <b>Username</b> from components of the full name by\n"
+"clicking <b>Suggestion</b>. It may be modified, but use only\n"
+"letters (no accented characters), digits, and <tt>._-</tt>.\n"
+"Do not use uppercase letters in this entry unless you know what you are doing.\n"
+"Usernames have stricter restrictions than passwords. You can redefine the\n"
+"restrictions in the /etc/login.defs file. Read its man page for information.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"通过单击<b>建议</b>从全名的\n"
+"组成部分创建<b>用户名</b>。可以修改，但请仅使用字母\n"
+"（无重音字符）、数字和 <tt>._-</tt>。\n"
+"不要在此输入中使用大写字母，除非确实需要这样做。\n"
+"用户名的限制比密码更严格。您可以在 /etc/login.defs 文件中\n"
+"重新定义这些限制。有关信息，请阅读其手册页。\n"
+"</p>\n"
+
+#. alternative help text 2/7
+#: src/helps.ycp:239
+msgid ""
+"<p>\n"
+"For the <b>Username</b>, use only\n"
+"letters (no accented characters), digits, and <tt>._-</tt>.\n"
+"Do not use uppercase letters in this entry unless you know what you are doing.\n"
+"Usernames have stricter restrictions than passwords. You can redefine the\n"
+"restrictions in the /etc/login.defs file.  Read its man page for information.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"对于<b>用户名</b>、只能使用\n"
+"字母(不能用带重音的字符)、数字和 <tt>._-</tt>。\n"
+"不要在输入中使用大写字母，除非您确实需要这样做。\n"
+"用户名具有比密码更严格的限制。您可以在 /etc/login.defs 文件中\n"
+"重新定义这些限制。请参阅其手册页来了解有关信息。\n"
+"</p>\n"
+
+#. help text 4/7 (only during installation)
+#. help text for main add user dialog
+#: src/helps.ycp:252 src/inst_user_first.ycp:278
+msgid ""
+"<p>\n"
+"The username and password created here are needed to log in and work with your Linux system. With <b>Automatic Login</b> enabled, the login procedure is skipped. This user is logged in automatically.</p>\n"
+msgstr ""
+"<p>\n"
+"需要使用在此处创建的用户名和密码来登录并使用 Linux 系统。如果启用<b>自动登录</b>，则会跳过登录过程。该用户会自动登录。</p>\n"
+
+#. help text 5/7 (only during installation)
+#. help text for main add user dialog
+#: src/helps.ycp:257 src/inst_user_first.ycp:283
+msgid ""
+"<p>\n"
+"Have mail for root forwarded to this user by checking <b>Receive System Mail</b>.</p>\n"
+msgstr ""
+"<p>\n"
+"通过选中<b>接收系统邮件</b>将 root 用户的邮件转发给该用户。</p>\n"
+
+#. help text 6/7 (only during installation)
+#: src/helps.ycp:262
+msgid "<p>Press <b>User Management</b> to add more users or groups to your system.</p>"
+msgstr "<p>按<b>用户管理</b>向系统添加更多用户或组。</p>"
+
+#. alternative help text 4/7
+#: src/helps.ycp:267
+msgid ""
+"<p>\n"
+"To see more details, such as the home directory or the user ID, click\n"
+"<b>Details</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要了解更多细节(例如主目录或用户 ID)，请单击\n"
+"<b>细节</b>。\n"
+"</p>\n"
+
+#. alternative help text 5/7
+#: src/helps.ycp:274
+msgid ""
+"<p>\n"
+"To edit various password settings of this user, such as expiration date, click <b>Password Settings</b>.</p>\n"
+msgstr ""
+"<p>\n"
+"要编辑此用户的多个密码设置(例如失效日期)，请单击<b>密码设置</b>。</p>\n"
+
+#. help text 7/7
+#: src/helps.ycp:282
+msgid ""
+"<p>To forbid this user to\n"
+"log in, check <b>Disable User Login</b>.</p>"
+msgstr ""
+"<p>要禁止此用户\n"
+"登录，请选中<b>禁用用户登录</b>选项。</p>"
+
+#. help text 1/6
+#: src/helps.ycp:298
+msgid ""
+"<p>\n"
+"Enter the group data here.   \n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"在此输入组数据。\n"
+"</p>\n"
+
+#. help text 2/6
+#: src/helps.ycp:304
+msgid ""
+"<p>\n"
+"<b>Group Name:</b>\n"
+"Avoid long names for groups. Normal lengths are between \n"
+"two and eight characters.  \n"
+"You can redefine the list of characters allowed for group names in\n"
+"the /etc/login.defs file. Read its man page for information.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>组名称：</b>\n"
+"避免组的名称过长。一般长度介于\n"
+"两到八个字符之间。\n"
+"可以在 /etc/login.defs 文件中重新定义允许在\n"
+"组名中使用的字符的列表。请参阅其手册页来了解有关信息。\n"
+"</p>\n"
+
+#. help text 3/6, %1 is number
+#: src/helps.ycp:313
+#, ycp-format
+msgid ""
+"<p>\n"
+"<b>Group ID (gid):</b>\n"
+"In addition to its name, a group must be assigned a numerical ID for its\n"
+"internal representation. These values are between 0 and\n"
+"%1. Some of the IDs are already assigned during installation. You will be\n"
+"warned if you try to use an already set one.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>组 ID (gid)：</b>\n"
+"除组名之外，必须向组指派一个用于内部\n"
+"表示的数字 ID。这些值介于 0 到\n"
+"%1之间。某些 ID 已在安装期间指定。如果试图使用已设置的 ID，\n"
+"将收到警告。\n"
+"</p>\n"
+
+#. help text 4/6
+#: src/helps.ycp:322
+msgid ""
+"<p>\n"
+"<b>Password:</b>\n"
+"To require users who are not members of the group to identify themselves when\n"
+"switching to this group (see the man page of <tt>newgrp</tt>), assign a\n"
+"password to this group. For security reasons, this password is not shown\n"
+"here. This entry is not required.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>密码：</b>\n"
+"如要求不是该组成员的用户在切换到\n"
+"该组时标识自身(请参阅手册页 <tt>newgrp</tt>)，请为该组指定一个密码。\n"
+"出于安全原因，这个密码不会在此\n"
+"显示出来。此项不是必需的。\n"
+"</p>\n"
+
+#. help text 5/6
+#: src/helps.ycp:331
+msgid ""
+"<p>\n"
+"<b>Confirm Password:</b>\n"
+"Enter the password a second time to avoid typing errors.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>确认密码：</b>\n"
+"再次输入密码以避免键入错误。\n"
+"</p>\n"
+
+#. help text 6/6
+#: src/helps.ycp:337
+msgid ""
+"<p>\n"
+"<b>Group Members:</b>\n"
+"Here, select which users should be members of this group.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>组成员：</b>\n"
+"在此选择应成为此组成员的用户。\n"
+"</p>\n"
+
+#. additional helptext for EditFroup dialog
+#: src/helps.ycp:346
+msgid ""
+"The second list shows users for which this group is the default\n"
+"        group. The default group can only be changed by editing the user."
+msgstr ""
+"第 2 个列表显示此组是其默认组的用户。\n"
+"只能通过编辑该用户来更改默认组。"
+
+#. help text 1/8
+#: src/helps.ycp:362
+msgid ""
+"<p>\n"
+"Additional user data includes:\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"其它用户数据包括：\n"
+"</p>"
+
+#. help text 2/8, %1 is number
+#: src/helps.ycp:366
+#, ycp-format
+msgid ""
+"<p>\n"
+"<b>User ID (uid):</b>\n"
+"Each user is known to the system by a unique number,\n"
+"the user ID. For normal users, you should use\n"
+"a UID larger than %1 because the smaller UIDs are used\n"
+"by the system for special purposes and pseudo logins.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>用户 ID(uid)：</b>\n"
+"系统通过唯一的编号，即用户 ID \n"
+"来识别每一个用户，对于一般用户，您应使用\n"
+"大于 %1 的 UID，这是因为小于该数字的 UID \n"
+"被系统用于特殊用途和伪登录。\n"
+"</p>\n"
+
+#. help text 3/8
+#: src/helps.ycp:376
+msgid ""
+"<p>\n"
+"If you change the UID of an existing user, the rights of the files\n"
+"this user owns must be changed. This is done automatically\n"
+"for the files in the user's home directory, but not for files \n"
+"located elsewhere.</p>\n"
+msgstr ""
+"<p>\n"
+"如果您更改现有用户的 UID，则必须更改此用户\n"
+"拥有的文件权限。对于用户主目录中的文件，此操作将自动完成，\n"
+"但对于位于其它位置的文件，\n"
+"则不能自动完成。</p>\n"
+
+#. help text 4/8
+#: src/helps.ycp:384
+msgid ""
+"<p>\n"
+"<b>Home Directory:</b>\n"
+"The home directory of the user. Normally this is\n"
+"/home/username. \n"
+"To select an existing directory, click <b>Browse</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>主目录：</b>\n"
+"用户的主目录。通常此目录是\n"
+"/home/username。\n"
+"要选择现有的目录，请单击<b>浏览</b>。\n"
+"</p>\n"
+
+#. help text for user's home directory mode
+#: src/helps.ycp:394
+msgid "<p>Optionally, set the <b>Home Directory Permission Mode</b> for this user's home directory different from the default.</p>"
+msgstr "<p>或者，可以将该用户的主目录的<b>主目录权限模式</b>设置为与默认值不同。</p>"
+
+#. alternate helptext 4.5/8; %1 is directory (e.g. '/etc/skel')
+#: src/helps.ycp:399
+#, ycp-format
+msgid ""
+"<p>To create only an empty home directory,\n"
+"check <b>Empty Home</b>. Otherwise, the new home directory\n"
+"is created from the default skeleton (%1).</p>\n"
+msgstr ""
+"<p>要仅创建一个空的主目录，\n"
+"请选中<b>空主目录</b>。否则，将从默认主干 (%1) 创建\n"
+"新的主目录。</p>\n"
+
+#. help text for Move to new location checkbox
+#: src/helps.ycp:408
+msgid "<p>If changing the location of a user's home directory, move the contents of the current directory with <b>Move to New Location</b>, activated by default. Otherwise a new home directory is created without any of the existing data.</p>"
+msgstr "<p>如果更改用户主目录的位置，则将默认激活<b>移动到新位置</b>以移动当前目录的内容。否则，将创建不含任何现有数据的新用户主目录。</p>"
+
+#. help text for directory encryption
+#: src/helps.ycp:417
+msgid ""
+"<p>To encrypt the user's home directory, enable <b>Use Encrypted Home\n"
+"Directory</b> and set the directory size. Encrypting a user's home directory\n"
+"does not provide strong security from other users. If this machine is shared\n"
+"among multiple users, it may be possible for a user to compromise system\n"
+"security by obtaining another user's key and gaining access to the encrypted data. If strong security is required, the system should not be physically shared.</p>"
+msgstr "<p>要对用户主目录进行加密，请启用<b>使用加密的用户主目录</b>并设置目录的大小。对某个用户主目录加密并不能保护它免遭其它用户的侵入。如果此计算机由多名用户共享，其中一名用户获取另一个用户的密钥并访问加密的数据，则可能危及系统安全。如果安全性要求很高，则系统不应物理共享。</p>"
+
+#. help text for directory encryption
+#: src/helps.ycp:422
+msgid "<p>Home directories cannot be encrypted if a fingerprint reader device is used. To encrypt the user's home directory, disable fingerprint configuration first.</p>"
+msgstr "<p>当使用指纹识别装置的时候，用户主目录不能加密。要加密用户的主目录，请先禁用指纹配置。</p>"
+
+#. alternate helptext 5/8
+#: src/helps.ycp:429
+msgid ""
+"<p>\n"
+"The home directory of an LDAP user can be changed only on the\n"
+"file server.</p>"
+msgstr ""
+"<p>\n"
+"LDAP 用户的主目录只能在文件\n"
+"服务器中更改。</p>"
+
+#. alternate helptext 5/8
+#: src/helps.ycp:436
+msgid ""
+"<p><b>Additional Information:</b>\n"
+"Some additional user data could be set here. This field may contain up to\n"
+"three parts, separated by commas. The standard usage is to write\n"
+"<i>office</i>,<i>work phone</i>,<i>home phone</i>. This information is \n"
+"shown when you use the <i>finger</i> command on this user.</p>\n"
+msgstr ""
+"<p><b>附加信息：</b>\n"
+"在此可以设置某些附加的用户数据。该字段最多可以包含 3 部分，\n"
+"用逗号分隔。标准用法是记录\n"
+"<i>办公室</i>、<i>工作电话</i>和<i>家庭电话</i>。当对此用户\n"
+"使用 <i>finger</i> 命令时，将显示此信息。</p>\n"
+
+#. help text 6/8
+#: src/helps.ycp:444
+msgid ""
+"<p>\n"
+"<b>Login Shell:</b>\n"
+"The login shell (command interpreter) for the user.\n"
+"Select a shell from the list of all shells installed\n"
+"on your system.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>登录壳层：</b>\n"
+"用户的登录壳层(命令解释器)。\n"
+"请从系统上安装的所有壳层的\n"
+"列表中选择一个壳层。\n"
+"</p>"
+
+#. help text 7/8
+#: src/helps.ycp:452
+msgid ""
+"<p>\n"
+"<b>Default Group:</b>\n"
+"The primary group to which the user belongs. Select one group\n"
+"from the list of all groups existing on your system.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>默认组：</b>\n"
+"用户所属的主组。从系统上\n"
+"所有现有组的列表中选择一个组。\n"
+"</p>"
+
+#. help text 8/8
+#: src/helps.ycp:458
+msgid ""
+"<p>\n"
+"<b>Additional Groups:</b>\n"
+"Select additional groups in which the user should be a member.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>附加的组：</b>\n"
+"选择用户应该加入的附加的组。\n"
+"</p>\n"
+
+#. helptxt for plugin dialog 1/2
+#: src/helps.ycp:472
+msgid ""
+"<p>Here, see the list of plug-ins, the\n"
+"extensions of user and group configuration.</p>\n"
+msgstr ""
+"<p>在此可查看插件的列表，即\n"
+"用户和组配置的扩展。</p>\n"
+
+#. helptext for plugin dialog 2/3
+#: src/helps.ycp:477
+msgid ""
+"The check mark in the left part of the table indicates that the plug-in\n"
+"is currently in use."
+msgstr ""
+"表左侧部分的选中标记\n"
+"表示该插件当前正在使用。"
+
+#. helptext for plugin dialog 3/3
+#: src/helps.ycp:481
+msgid "<p>Start the detailed configuration of a particular plug-in by selecting <b>Launch</b>.</p>"
+msgstr "<p>通过选择<b>起动</b>启动特定插件的详细配置。</p>"
+
+#. help texts 1/1
+#: src/helps.ycp:491
+msgid ""
+"<p>\n"
+"Save the current user and group settings to the system.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"将当前用户和组设置保存到系统。\n"
+"</p>"
+
+#. Help text 1/6
+#: src/helps.ycp:503
+msgid ""
+"<p>Activate <b>Force Password Change</b> to force the user to change the\n"
+"password at the next login. If <b>Last Password Change</b> is set to\n"
+"<i>Never</i>, the user will be forced to change the password.</p>"
+msgstr "<p>激活<b>强制更改密码</b>将让用户在下一次登录的时候修改密码。如果<b>上次密码更改</b>设为<i>永不</i>，用户将必须更改密码。</p>"
+
+#. Help text 2/6
+#: src/helps.ycp:506
+msgid ""
+"<p>\n"
+"<b>Days before Password Expiration to Issue Warning</B><BR>\n"
+"Users can be warned before their passwords expire. Set \n"
+"how long before expiration the warning should be issued. Set -1 to disable\n"
+"the warning. \n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>密码失效前多少天发出警告</B><BR>\n"
+"在用户的密码失效之前多少天向其发出警告。设置\n"
+"密码失效前多少天发出警告。设置为 -1 将禁用警告。\n"
+" \n"
+"</p>\n"
+
+#. Help text 3/6
+#: src/helps.ycp:515
+msgid ""
+"<P><B>Days after Password Expires with Usable Login</B><BR>\n"
+"Users can log in after their passwords have expired. Set how many days to\n"
+"allow login. Use -1 for unlimited access.\n"
+"</P>\n"
+msgstr ""
+"<P><B>密码失效后仍可登录的天数</B><BR>\n"
+"用户在其密码失效后仍可登录的天数。设置允许登录的天数。\n"
+"使用 -1 可以进行无限制的访问。\n"
+"</P>\n"
+
+#. Help text 4/6
+#: src/helps.ycp:522
+msgid ""
+"<P><B>Maximum Number of Days for the Same Password</B><BR>Set how many days a user \n"
+"can use the same password before it expires.</P>\n"
+msgstr ""
+"<P><B>相同密码的最大使用天数</B><BR>设置用户\n"
+"在同一密码失效前可以使用的天数。</P>\n"
+
+#. Help text 5/6
+#: src/helps.ycp:527
+msgid ""
+"<P><B>Minimum Number of Days for the Same Password</B><BR>Set the minimum age of \n"
+"a password before a user is allowed to change it.</P>\n"
+msgstr ""
+"<P><B>相同密码的最小有效天数</B><BR>设置密码的最小有效期，只有在这段时间过后\n"
+"用户才能更改密码。</P>\n"
+
+#. Help text 6/6 : Don't reorder letters YYYY-MM-DD, date must be set in this format
+#: src/helps.ycp:532
+msgid ""
+"<P><B>Expiration Date</B><BR>Set the date when this account expires. \n"
+"The date must be in the format YYYY-MM-DD. \n"
+"Leave it empty if this account never expires.</P>\n"
+msgstr ""
+"<P><B>默认失效日期</B><BR>设置此帐户失效的日期。\n"
+"日期必须采用格式 YYYY-MM-DD。\n"
+"如果此帐户永远不过期，则留空。</P>\n"
+
+#. help text 1/2
+#: src/helps.ycp:542
+msgid ""
+"<p>\n"
+"<b>Configuration Overview</b><br>\n"
+"Here, see a summary of modules that could affect sources\n"
+"of user accounts or authentication type.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>配置概览</b><br>\n"
+"这里显示模块摘要，这些模块可能影响用户帐户\n"
+"或身份验证类型的数据源。\n"
+"</p>\n"
+
+#. help text 2/2
+#: src/helps.ycp:549
+msgid ""
+"<p>\n"
+"<b>Changing the Values</b><br>\n"
+"You can configure these settings by running appropriate modules. Select the module with <b>Configure</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>更改值</b><br>\n"
+"可以通过运行适当的模块配置这些设置。使用<b>配置</b>按钮选择模块。\n"
+"</p>\n"
+
+#. selection box label
+#: src/inst_auth.ycp:66 src/inst_user_first.ycp:305
+msgid "&Select Users to Read"
+msgstr "选择要读取的用户(&S)"
+
+#. check box label
+#: src/inst_auth.ycp:69 src/inst_user_first.ycp:308
+msgid "Select or Deselect &All"
+msgstr "全选或全部取消选择(&A)"
+
+#. caption for dialog "User Authentication Method"
+#. dialog caption
+#: src/inst_auth.ycp:173 src/inst_user.ycp:136
+msgid "User Authentication Method"
+msgstr "用户认证方法"
+
+#. help text for dialog "User Authentication Method" 1/3
+#: src/inst_auth.ycp:176 src/inst_user_first.ycp:194
+msgid ""
+"<p>\n"
+"<b>Authentication</b><br>\n"
+"Select the authentication method to use for users on your system.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>认证</b><br>\n"
+"选择对系统中用户使用的身份验证方法。\n"
+"</p>"
+
+#. helptext 2/3
+#: src/inst_auth.ycp:182 src/inst_user_first.ycp:200
+msgid "<p>Select <b>Local</b> to authenticate users only by using the local files <i>/etc/passwd</i> and <i>/etc/shadow</i>.</p>"
+msgstr "<p>选择 <b>本地</b> 以仅通过使用本地文件 <i>/etc/passwd</i> 和 <i>/etc/shadow</i> 来身份验证用户。</p>"
+
+#. optional helptext 2.5/3 (local users continued)
+#: src/inst_auth.ycp:186
+msgid "If you have a previous installation or alternative system, it is possible to create users based on this source. To do so, select <b>Read User Data from a Previous Installation</b>. This option uses an existing or creates a new home directory for each user in the location specified for this installation."
+msgstr "如果先前安装了一个系统或有备用系统，则可以基于此源创建用户。要这样做，请选择<b>请从先前安装读取用户数据</b>。此选项使用现有主目录，或在对此安装指定的位置为每个用户创建一个新的主目录。"
+
+#. radiobutton to select ldap user auth.
+#. menubutton label
+#: src/inst_auth.ycp:190 src/inst_user_first.ycp:92 src/widgets.ycp:1901
+msgid "&LDAP"
+msgstr "LDAP(&L)"
+
+#. radiobutton to select nis user auth.
+#: src/inst_auth.ycp:192 src/inst_user_first.ycp:94
+msgid "N&IS"
+msgstr "NIS(&I)"
+
+#. radiobutton to select samba user auth.
+#. menubutton label
+#: src/inst_auth.ycp:194 src/widgets.ycp:1905
+msgid "&Samba"
+msgstr "Samba(&S)"
+
+#. radiobutton to select samba user auth.
+#: src/inst_auth.ycp:196 src/inst_user_first.ycp:96
+msgid "&Windows Domain"
+msgstr "Windows 域(&W)"
+
+#. radiobutton to select local user auth.
+#: src/inst_auth.ycp:198 src/inst_user_first.ycp:98
+#: src/inst_user_first.ycp:102
+msgid "L&ocal (/etc/passwd)"
+msgstr "本地 (/etc/passwd)(&O)"
+
+#. radiobutton to select local user auth.
+#. authentication type
+#: src/inst_auth.ycp:200 src/inst_user_first.ycp:113 src/users_proposal.ycp:47
+msgid "eDirectory LDAP"
+msgstr "eDirectory LDAP"
+
+#. helptext 3/3 -- nis & samba & ldap avialable
+#: src/inst_auth.ycp:225
+msgid ""
+"<p>If you are using a NIS or LDAP server to store user data or if you want\n"
+"to authenticate users against an NT server, choose the appropriate value. Then\n"
+"press <b>Next</b> to continue with configuration of your client.</p>"
+msgstr ""
+"<p>如果使用 NIS 服务器或 LDAP 服务器来存储用户数据，或者\n"
+"希望根据 NT 服务器来身份验证用户，请选择相应的值。然后\n"
+"按<b>下一步</b>继续配置客户机。</p>"
+
+#. helptext 3/3 -- nis & ldap avialable
+#: src/inst_auth.ycp:233
+msgid ""
+"<p>If you are using a NIS or LDAP server to store user data, choose the\n"
+"appropriate value. Then press <b>Next</b> to continue with configuration of your client.</p>"
+msgstr ""
+"<p>如果使用 NIS 或 LDAP 服务器来存储用户数据，请选择相应的值。\n"
+"然后按<b>下一步</b>继续配置客户机。</p>"
+
+#. helptext 3/3 -- samba &ldap available
+#: src/inst_auth.ycp:243
+msgid ""
+"<p>If you are using an LDAP server to store user data or if you want to\n"
+"authenticate users against an NT server, choose the appropriate value. Then\n"
+"press <b>Next</b> to continue with configuration of your client.</p>"
+msgstr ""
+"<p>如果使用 LDAP 服务器来存储用户数据，或者希望\n"
+"根据 NT 服务器来身份验证用户，请选择相应的值。然后\n"
+"按<b>下一步</b>继续配置客户机。</p>"
+
+#. helptext 3/3 -- only ldap available
+#: src/inst_auth.ycp:251
+msgid ""
+"<p>If you are using an LDAP server to store user data, choose the\n"
+"appropriate value. Then press <b>Next</b> to continue with configuration of your client.</p>"
+msgstr ""
+"<p>如果使用 LDAP 服务器来存储用户数据，请选择相应的值。\n"
+" 然后按<b>下一步</b>继续配置客户机。</p>"
+
+#. helptext: additional kerberos support
+#: src/inst_auth.ycp:257 src/inst_user_first.ycp:208
+msgid "<p>Check <b>Set Up Kerberos Authentication</b> to configure Kerberos after configuring the user data source.</p>"
+msgstr "<p>请选中<b>设置 Kerberos 认证</b>以在配置用户数据源之后配置 Kerberos。</p>"
+
+#. check box label
+#: src/inst_auth.ycp:267 src/inst_user_first.ycp:128
+msgid "&Read User Data from a Previous Installation"
+msgstr "从先前安装读取用户数据(&R)"
+
+#. button label
+#: src/inst_auth.ycp:271 src/inst_user_first.ycp:132
+msgid "&Choose"
+msgstr "选择(&C)"
+
+#. frame title for authentication methods
+#: src/inst_auth.ycp:304 src/inst_user_first.ycp:169
+msgid "Authentication Method"
+msgstr "认证方法"
+
+#. check box label
+#: src/inst_auth.ycp:309 src/inst_user_first.ycp:174
+msgid "Set Up &Kerberos Authentication"
+msgstr "设置 Kerberos 认证(&K)"
+
+#. Title for root-password dialogue
+#: src/inst_root.ycp:84 src/inst_root_first.ycp:54
+msgid "Password for the System Administrator \"root\""
+msgstr "系统管理员\"root\"的密码"
+
+#. advise user to remember his new password
+#: src/inst_root.ycp:90 src/inst_root_first.ycp:64
+msgid "Do not forget what you enter here."
+msgstr "请不要忘记在此输入的内容。"
+
+#. Label: get password for user root
+#: src/inst_root.ycp:94 src/inst_root_first.ycp:68
+msgid "&Password for root User"
+msgstr "root 用户的密码(&P)"
+
+#. Label: get same password again for verification
+#: src/inst_root.ycp:98 src/inst_root_first.ycp:72
+msgid "Con&firm Password"
+msgstr "确认密码(&F)"
+
+#. text entry label
+#: src/inst_root.ycp:101
+msgid "&Test Keyboard Layout"
+msgstr "测试键盘布局(&T)"
+
+#. push button
+#: src/inst_root.ycp:105
+msgid "E&xpert Options..."
+msgstr "专家选项(&X)..."
+
+#. help text ( explain what the user "root" is and does ) 1/5
+#: src/inst_root.ycp:110 src/inst_root_first.ycp:78
+msgid ""
+"<p>\n"
+"Unlike normal users of the system, who write texts, create\n"
+"graphics, or browse the Internet, the user \"root\" exists on\n"
+"every system and is called into action whenever\n"
+"administrative tasks need to be performed. Only log in as root\n"
+"when you need to be the system administrator.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"与系统的普通用户不同(例如，普通用户编写文本、\n"
+"创建图形或浏览因特网)，用户\"root\"存在于每个系统上，\n"
+"并在需要执行管理任务时\n"
+"调用它来执行操作。当且仅当需要执行系统管理员操作时\n"
+"才以 root 用户身份登录。\n"
+"</p>\n"
+
+#. help text, continued 2/5
+#: src/inst_root.ycp:120 src/inst_root_first.ycp:88
+msgid ""
+"<p>\n"
+"Because the root user is equipped with extensive permissions, the password\n"
+"for \"root\" should be chosen carefully. A combination of letters and numbers\n"
+"is recommended. To ensure that the password was entered correctly,\n"
+"reenter it in a second field.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"因为 root 用户具有广泛的权限，所以应谨慎\n"
+"选择\"root\"的密码。建议采用字母和数字的\n"
+"组合。要确保正确输入密码，\n"
+"请在第 2 个字段中再次输入密码。\n"
+"</p>\n"
+
+#. help text, continued 3/5
+#: src/inst_root.ycp:129 src/inst_root_first.ycp:97
+msgid ""
+"<p>\n"
+"All the rules for user passwords apply to the \"root\" password:\n"
+"Distinguish between uppercase and lowercase. A password should have at\n"
+"least 5 characters and, as a rule, not contain any accented letters or umlauts.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"用户密码的所有规则都适用于\"root\"密码：\n"
+"区分大小写。密码至少应有 5 个字符，\n"
+"而且通常不包含任何带重音或变音的字符。\n"
+"</p>\n"
+
+#. help text, continued 5/5
+#: src/inst_root.ycp:139 src/inst_root_first.ycp:107
+msgid ""
+"<p>\n"
+"Do not forget this \"root\" password.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"请不要忘记这该\"root\"密码。\n"
+"</p>"
+
+#. additional help text about password
+#: src/inst_root.ycp:147 src/inst_root_first.ycp:115
+#: src/inst_user_first.ycp:255
+#, ycp-format
+msgid ""
+"<p>If you intend to use this password for creating certificates,\n"
+"it has to be at least %1 characters long.</p>"
+msgstr ""
+"<p>如果要使用此密码来创建证书，\n"
+"则此密码的长度必须至少为 %1 个字符。</p>"
+
+#. help text for 'test keyboard layout' entry'
+#: src/inst_root.ycp:152
+msgid "<p>To check whether your current keyboard layout is correct, try entering text into the <b>Test Keyboard Layout</b> field.</p>"
+msgstr "<p>要检查您现在的键盘布局是否正确，请在<b>测试键盘布局</b>区域输入文字。</p>"
+
+#. yes/no popup question, %1 is a number
+#: src/inst_root.ycp:239 src/inst_root_first.ycp:212
+#: src/inst_user_first.ycp:729
+#, ycp-format
+msgid ""
+"If you intend to create certificates,\n"
+"the password should have at least %1 characters."
+msgstr ""
+"如果要创建证书，\n"
+"则密码必须至少为 %1 个字符。"
+
+#. Error msg (yes/no)
+#: src/inst_root.ycp:262
+msgid ""
+"The root password could not be set.\n"
+"You might not be able to log in.\n"
+"Try setting it again?\n"
+msgstr ""
+"无法设置 root 密码。\n"
+"您可能无法登录。\n"
+"是否重新设置？\n"
+
+#. yes-no popup headline
+#: src/inst_root_first.ycp:165
+msgid "No Password Entered"
+msgstr "没有输入密码"
+
+#. yes-no popup contents
+#: src/inst_root_first.ycp:167
+msgid ""
+"If you leave the password empty,\n"
+"you will be asked for it later during the configuration sequence.\n"
+"\n"
+"Leave it empty for now?"
+msgstr ""
+"如果您现在把密码留空，在配置时也会询问的。\n"
+"\n"
+"留空吗？"
+
+#. help text (shown in the 'busy' situation)
+#: src/inst_user.ycp:141
+msgid "Initialization of module for configuration of authentication..."
+msgstr "认证配置模块的初始化..."
+
+#. popup label (%1 is package to install)
+#: src/inst_user.ycp:166 src/inst_user.ycp:185 src/widgets.ycp:1967
+#, ycp-format
+msgid ""
+"Package %1 is not installed.\n"
+"Install it now?\n"
+msgstr ""
+"未安装包 %1。\n"
+"是否立即安装？\n"
+
+#. radiobutton to select local user auth.
+#: src/inst_user_first.ycp:100
+msgid "&eDirectory LDAP"
+msgstr "eDirectory LDAP(&E)"
+
+#. authentication type
+#. richtext label
+#. type of user/group
+#. (item of list with the headline 'Choose the type of user to add')
+#: src/inst_user_first.ycp:107 src/users_proposal.ycp:41 src/widgets.ycp:136
+#: src/widgets.ycp:927
+msgid "LDAP"
+msgstr "LDAP"
+
+#. authentication type
+#. richtext label
+#: src/inst_user_first.ycp:109 src/users_proposal.ycp:43 src/widgets.ycp:134
+msgid "NIS"
+msgstr "NIS"
+
+#. authentication type
+#: src/inst_user_first.ycp:111 src/users_proposal.ycp:45
+msgid "Samba (Windows Domain)"
+msgstr "Samba (Windows 域)"
+
+#. encryption type
+#: src/inst_user_first.ycp:122 src/users_proposal.ycp:56
+msgid "SHA-256"
+msgstr "SHA-256"
+
+#. encryption type
+#: src/inst_user_first.ycp:124 src/users_proposal.ycp:58
+msgid "SHA-512"
+msgstr "SHA-512"
+
+#. frame label
+#: src/inst_user_first.ycp:178
+msgid "Password Encryption Type"
+msgstr "密码加密类型"
+
+#. Radio button label: password encryption type
+#. Radio buttons for password encryption: DES-crypt
+#: src/inst_user_first.ycp:182 src/widgets.ycp:194
+msgid "&DES"
+msgstr "&DES"
+
+#. Radio button label: password encryption type
+#. Radio buttons for password encryption: MD5-crypt
+#: src/inst_user_first.ycp:184 src/widgets.ycp:197
+msgid "&MD5"
+msgstr "MD5(&M)"
+
+#. Radio button label: password encryption type
+#. Radio buttons for password encryption: sha256 crypt
+#: src/inst_user_first.ycp:186 src/widgets.ycp:200
+msgid "SHA-&256"
+msgstr "SHA-&256"
+
+#. Radio button label: password encryption type
+#. Radio buttons for password encryption: sha512 crypt
+#: src/inst_user_first.ycp:188 src/widgets.ycp:203
+msgid "SHA-&512"
+msgstr "SHA-&512"
+
+#. helptext 3/3 -- nis & samba & ldap avialable
+#: src/inst_user_first.ycp:204
+msgid ""
+"<p>If you are using a NIS or LDAP server to store user data or if you want\n"
+"to authenticate users against an NT server, choose the appropriate value.</p>"
+msgstr ""
+"<p>如果使用 NIS 服务器或 LDAP 服务器来存储用户数据，\n"
+"或者希望根据 NT 服务器来验证用户，请选择合适的值。</p>"
+
+#. Help text for password expert dialog
+#. Help text for password expert dialog 2/5
+#: src/inst_user_first.ycp:211 src/widgets.ycp:167
+msgid ""
+"<p>\n"
+"Choose a password encryption method for local and system users.\n"
+"<b>DES</b>, the Linux default method, works in all network environments, but it\n"
+"restricts passwords to eight characters or less.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"为本地用户和系统用户选择密码加密方法。\n"
+"<b>DES</b>(Linux 默认方法)适用于所有\n"
+"网络环境，但它限制密码不能超过 8 个字符。\n"
+"</p>\n"
+
+#. Help text for password expert dialog
+#. Help text for password expert dialog 3/5
+#: src/inst_user_first.ycp:218 src/widgets.ycp:175
+msgid ""
+"<p>\n"
+"<b>MD5</b> allows longer passwords, so provides more security, but some\n"
+"network protocols do not support this and you may have problems with NIS.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>MD5</b> 允许使用较长的密码，从而提供了更高的安全性，\n"
+"但某些网络协议不支持此方法，并且在 NIS 中使用时可能会出现问题。\n"
+"</p>"
+
+#. Help text for password expert dialog
+#. Help text for password expert dialog 4/5
+#: src/inst_user_first.ycp:224 src/widgets.ycp:181
+msgid "<p><b>SHA-512</b> is the current standard hash method. Using other algorithms is not recommended unless needed for compatibility purposes.</p>"
+msgstr "<p><b>SHA-512</b>是当前标准加密方法。除非为了兼容性考虑否则不推荐使用其他算法。</p>"
+
+#. help text for main add user dialog
+#: src/inst_user_first.ycp:235
+msgid ""
+"<p>\n"
+"When entering a password, distinguish between uppercase and\n"
+"lowercase. Passwords should not contain any accented characters or umlauts.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"输入密码时区分大小写。\n"
+"密码中不应包含任何带重音或变音的字符。\n"
+"</p>\n"
+
+#. help text for main add user dialog
+#: src/inst_user_first.ycp:266
+msgid ""
+"<p>\n"
+"For the <b>Username</b> use only letters (no accented characters), digits, and <tt>._-</tt>.\n"
+"Do not use uppercase letters in this entry unless you know what you are doing.\n"
+"Usernames have stricter restrictions than passwords. You can redefine the\n"
+"restrictions in the /etc/login.defs file. Read its man page for information.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"对于<b>用户名</b>，只能使用字母(不能用带重音的字符)、数字和 <tt>._-</tt>。\n"
+"不要在输入中使用大写字母，除非您确实需要这样做。\n"
+"用户名具有比密码更严格的限制。您可以在 /etc/login.defs 文件中\n"
+"重新定义这些限制。请参阅其手册页了解相关信息。\n"
+"</p>\n"
+
+#. help text for main add user dialog
+#: src/inst_user_first.ycp:275
+msgid "<p>Check <b>Use this password for system administrator</b> if the same password as entered for the first user should be used for root.</p>"
+msgstr "<p>如果要让 root 使用第一个用户的密码，请勾选 <b>系统管理员使用此密码</b>。</p>"
+
+#: src/inst_user_first.ycp:364
+msgid "Expert Settings"
+msgstr "专家设置"
+
+#. summary label
+#: src/inst_user_first.ycp:438
+msgid "The authentication method is local /etc/passwd."
+msgstr "身份验证方法是本地 /etc/passwd。"
+
+#. summary label
+#: src/inst_user_first.ycp:440
+#, ycp-format
+msgid "The password encryption method is %1."
+msgstr "密码加密方法是 %1。"
+
+#. summary line: %1 is LDAP/NIS etc.
+#: src/inst_user_first.ycp:446
+#, ycp-format
+msgid "The authentication method is %1."
+msgstr "身份验证方法是 %1。"
+
+#. summary line: %1 is LDAP/NIS etc.
+#: src/inst_user_first.ycp:450
+#, ycp-format
+msgid "The authentication method is %1 and Kerberos."
+msgstr "身份验证方法是 %1 和 Kerberos。"
+
+#. // summary label
+#: src/inst_user_first.ycp:452
+msgid "The configuration will be available later during the installation."
+msgstr "配置将稍后在安装过程中可用。"
+
+#. summary label, %1 are user names (comma separated)
+#: src/inst_user_first.ycp:457
+#, ycp-format
+msgid "Users %1 will be imported."
+msgstr "将导入用户 %1。"
+
+#. summary label, %1 is user name
+#: src/inst_user_first.ycp:461
+#, ycp-format
+msgid "User %1 will be imported."
+msgstr "将导入用户 %1。"
+
+#. pushbutton label
+#: src/inst_user_first.ycp:477
+msgid "&Change..."
+msgstr "更改(&C)..."
+
+#. frame label
+#: src/inst_user_first.ycp:484
+msgid "Summary"
+msgstr "摘要"
+
+#. checkbox label
+#: src/inst_user_first.ycp:557
+msgid "&Automatic Login"
+msgstr "自动登录(&A)"
+
+#. dialog caption
+#: src/inst_user_first.ycp:574
+msgid "Create New User"
+msgstr "创建新用户"
+
+#. help text for Password Policy Dialog
+#: src/ldap_dialogs.ycp:60
+msgid "<p>Select the <b>Password Change Policies</b>, <b>Password Aging Policies</b>, and <b>Lockout Policies</b> tabs to choose LDAP password policy groups of attributes to configure.</p>"
+msgstr "<p>请选择<b>密码更改策略</b>、<b>密码过期策略</b>和<b>锁定策略</b>选项卡，以选择要配置属性的 LDAP 密码策略组。</p>"
+
+#. help text for pwdInHistory attribute
+#: src/ldap_dialogs.ycp:66
+msgid "<p>Specify the <b>Maximum Number of Passwords Stored in History</b> to set how many previously used passwords should be saved. Saved passwords may not be used.</p>"
+msgstr "<p>请指定<b>历史中储存密码的最大数量</b>，以设置应保存的以前所用密码的数量。不能使用已保存的密码。</p>"
+
+#. help text for pwdMustChange attribute
+#: src/ldap_dialogs.ycp:69
+msgid "<p>Check <b>User Must Change Password after Reset</b> to force users to change their passwords after the the password is reset or changed by an administrator.</p>"
+msgstr "<p>请选中<b>用户必须在重置后更改密码</b>，以强制用户在管理员重置或更改密码后更改其密码。</p>"
+
+#. help text for pwdAllowUserChange attribute
+#: src/ldap_dialogs.ycp:72
+msgid "<p>Check <b>User Can Change Password</b> to allow users to change their passwords.</p>"
+msgstr "<p>请选中<b>用户可以更改密码</b>，以允许用户更改其密码。</p>"
+
+#. help text for pwdSafeModify attribute
+#: src/ldap_dialogs.ycp:75
+msgid "<p>If the existing password must be provided along with the new password, check <b>Old Password Required for Password Change</b>.</p>"
+msgstr "<p>如果提供新密码的同时还必须提供现有密码，则选中<b>更改密码时要求提供旧密码</b>。</p>"
+
+#. help text for pwdCheckQuality attribute
+#: src/ldap_dialogs.ycp:78
+msgid "<p>Select whether the password quality should be verified while passwords are modified or added. Select <b>No Checking</b> if passwords should not be checked at all. With <b>Accept Uncheckable Passwords</b>, passwords are accepted even if the check cannot be performed, for example, if the user has provided an encrypted password. With <b>Only Accept Checked Passwords</b> passwords are refused if the quality test fails or the password cannot be checked.</p>"
+msgstr "<p>请选择修改或添加密码时是否应校验密码的强度。如果根本不用检查密码，请选择<b>不检查</b>。如果选择了<b>接受不可检查的密码</b>，则即使无法执行检查（例如，用户提供的密码是加密的），密码也将被接受。如果选择<b>只接受已检查的密码</b>，则当密码强度测试失败或无法检查密码时，将拒绝该密码。<p>"
+
+#. help text for pwdMinLength attribute
+#: src/ldap_dialogs.ycp:81
+msgid "Set the minimum number of characters that must be used in a password in <b>Minimum Password Length</b>.</p>"
+msgstr "在<b>最小密码长度</b>中设置密码必须使用的字符的最小数量。</p>"
+
+#. help text for pwdMinAge attribute
+#: src/ldap_dialogs.ycp:84
+msgid "<p><b>Minimum Password Age</b> sets how much time must pass between modifications to the password.</p>"
+msgstr "<p><b>最小密码有效期</b>设置修改密码的最小时间间隔。</p>"
+
+#. help text for pwdMaxAge attribute
+#: src/ldap_dialogs.ycp:87
+msgid "<p><b>Maximum Password Age</b> sets how long after modification a password expires.</p>"
+msgstr "<p><b>最大密码有效期</b>用于设置密码在修改后多长时间过期。</p>"
+
+#. help text for pwdExpireWarning attribute
+#: src/ldap_dialogs.ycp:90
+msgid "<p>In <b>Time before Password Expiration to Issue Warning</b> set how long before a password is due to expire that an expiration warning messages should be given to an authenticating user.</p>"
+msgstr "<p><b>提前多长时间发出密码失效警告</b>设置在密码失效前多长时间向认证中的用户发出失效警告消息。</p>"
+
+#. help text for pwdGraceAuthNLimit attribute
+#: src/ldap_dialogs.ycp:93
+msgid "<p>Set the number of times an expired password can be used to authenticate in <b>Allowed Uses of an Expired Password</b>.</p>"
+msgstr "<p>在<b>失效密码的允许使用次数</b>中设置允许使用失效密码进行认证的次数。</p>"
+
+#. help text for pwdLockout attribute
+#: src/ldap_dialogs.ycp:96
+msgid "<p>Check <b>Enable Password Locking</b> to forbid use of a password after a specified number of consecutive failed bind attempts.</p>"
+msgstr "<p>选中<b>启用密码锁定</b>，以禁止在指定次数的连续联结尝试失败后使用密码。</p>"
+
+#. help text for pwdMaxFailure attribute
+#: src/ldap_dialogs.ycp:99
+msgid "<p>Set the number of consecutive failed bind  attempts after which the password may not be used to authenticate in <b>Bind Failures to Lock the Password</b>.</p>"
+msgstr "<p>在<b>锁定密码的联结失败次数</b>中设置在多少次连续联结尝试失败后禁止使用密码进行认证。</p>"
+
+#. help text for pwdLockoutDuration attribute
+#: src/ldap_dialogs.ycp:102
+msgid "<p>Set how long the password cannot be used in <b>Password Lock Duration</b>.</p>"
+msgstr "<p>在<b>密码锁定持续时间</b>中设置无法使用密码的持续时间。</p>"
+
+#. help text for pwdFailureCountInterval attribute
+#: src/ldap_dialogs.ycp:105
+msgid "<p><b>Bind Failures Cache Duration</b> sets how long before password failures are purged from the failure counter even though no successful authentication has occurred.</p>"
+msgstr "<p><b>联结失败缓存持续时间</b>设置从失败计数器清除密码失败次数的时间间隔（即使未成功认证）。</p>"
+
+#. tab label
+#: src/ldap_dialogs.ycp:140
+msgid "&Password Change Policies"
+msgstr "密码更改策略(&P)"
+
+#. tab label
+#: src/ldap_dialogs.ycp:142
+msgid "Pa&ssword Aging Policies"
+msgstr "密码过期策略(&S)"
+
+#. tab label
+#: src/ldap_dialogs.ycp:144
+msgid "&Lockout Policies"
+msgstr "锁定策略(&L)"
+
+#. IntField label
+#: src/ldap_dialogs.ycp:173
+msgid "Ma&ximum Number of Passwords Stored in History"
+msgstr "历史中储存密码的最大数量(&X)"
+
+#. checkbox label
+#: src/ldap_dialogs.ycp:178
+msgid "U&ser Must Change Password after Reset"
+msgstr "重置后用户必须更改密码(&S)"
+
+#. checkbox label
+#: src/ldap_dialogs.ycp:183
+msgid "&User Can Change Password"
+msgstr "用户可以更改密码(&U)"
+
+#. checkbox label
+#: src/ldap_dialogs.ycp:188
+msgid "&Old Password Required for Password Change"
+msgstr "更改密码时要求提供旧密码(&O)"
+
+#. frame label
+#: src/ldap_dialogs.ycp:192
+msgid "Password Quality Checking"
+msgstr "密码强度检查"
+
+#: src/ldap_dialogs.ycp:196
+msgid "&No Checking"
+msgstr "不检查(&N)"
+
+#: src/ldap_dialogs.ycp:198
+msgid "Acc&ept Uncheckable Passwords"
+msgstr "接受不可检查的密码(&E)"
+
+#: src/ldap_dialogs.ycp:201
+msgid "&Only Accept Checked Passwords"
+msgstr "只接受已检查的密码(&O)"
+
+#. IntField label
+#: src/ldap_dialogs.ycp:206
+msgid "&Minimum Password Length"
+msgstr "最小密码长度(&M)"
+
+#: src/ldap_dialogs.ycp:226 src/users_plugin_quota.ycp:102
+msgid "Days"
+msgstr "天"
+
+#: src/ldap_dialogs.ycp:227 src/users_plugin_quota.ycp:103
+msgid "Hours"
+msgstr "小时"
+
+#: src/ldap_dialogs.ycp:228 src/users_plugin_quota.ycp:104
+msgid "Minutes"
+msgstr "分钟"
+
+#: src/ldap_dialogs.ycp:229 src/users_plugin_quota.ycp:105
+msgid "Seconds"
+msgstr "秒"
+
+#. frame label
+#: src/ldap_dialogs.ycp:248
+msgid "Minimum Password Age"
+msgstr "最小密码有效期"
+
+#. frame label
+#: src/ldap_dialogs.ycp:251
+msgid "Maximum Password Age"
+msgstr "最大密码有效期"
+
+#. frame label
+#: src/ldap_dialogs.ycp:255
+msgid "Time before Password Expiration to Issue Warning"
+msgstr "提前多长时间发出密码失效警告"
+
+#. IntField label
+#: src/ldap_dialogs.ycp:259
+msgid "Allowed Uses of an Expired Password"
+msgstr "失效密码的允许使用次数"
+
+#. check box label
+#: src/ldap_dialogs.ycp:276
+msgid "Enable Password Locking"
+msgstr "启用密码锁定"
+
+#. intField label
+#: src/ldap_dialogs.ycp:281
+msgid "Bind Failures to Lock the Password"
+msgstr "锁定密码的联结失败次数"
+
+#. frame label
+#: src/ldap_dialogs.ycp:284
+msgid "Password Lock Duration"
+msgstr "密码锁定持续时间"
+
+#. frame label
+#: src/ldap_dialogs.ycp:288
+msgid "Bind Failures Cache Duration"
+msgstr "联结失败缓存持续时间"
+
+#. dialog label
+#: src/ldap_dialogs.ycp:308
+msgid "Password Policy Configuration"
+msgstr "密码策略配置"
+
+#. error popup, %1 is attribute name
+#: src/ldap_dialogs.ycp:362
+#, ycp-format
+msgid ""
+"The \"%1\" attribute is mandatory.\n"
+"Enter a value."
+msgstr ""
+"\"%1\"属性是必备的。\n"
+"请输入值。"
+
+#. help text caption
+#: src/ldap_dialogs.ycp:479
+msgid "<p><b>Home Directories</b></p>"
+msgstr "<p><b>主目录</b></p>"
+
+#. help text
+#: src/ldap_dialogs.ycp:482
+msgid ""
+"<p>If home directories of LDAP users should be stored on this machine,\n"
+"check the appropriate option. Changing this value does not cause any direct\n"
+"action.  It is only information for the YaST users module, which can manage\n"
+"user home directories.</p>\n"
+msgstr ""
+"<p>如果 LDAP 用户的主目录应存储在该机器上，\n"
+"请检查相应的选项。更改该值不会直接引起任何\n"
+"操作。它只是有关 YaST 用户模块的信息，该模块可以管理\n"
+"用户主目录。</p>\n"
+
+#. help text
+#: src/ldap_dialogs.ycp:489
+msgid ""
+"<p>Press <b>Configure</b> to configure settings stored on the\n"
+"LDAP server. You will be asked for the password if you are not connected yet or\n"
+"have changed your configuration.</p>\n"
+msgstr ""
+"<p>按<b>配置</b>，可以配置存储在\n"
+"LDAP 服务器上的设置。如果您尚未连接或已更改配置，\n"
+"则系统将提示您提供密码。</p>\n"
+
+#. password policy help text caption
+#: src/ldap_dialogs.ycp:495
+msgid "<p><b>Password Policy</b></p>"
+msgstr "<p><b>密码策略</b></p>"
+
+#. password policy help
+#: src/ldap_dialogs.ycp:498
+msgid ""
+"<p>Configure the selected password policy with <b>Edit</b>. Use <b>Add</b> to add a new password policy. The configuration is only possible,\n"
+"  if the password policies are already enabled on the LDAP server.</p>"
+msgstr "<p>使用<b>编辑</b>配置选中的密码策略。使用<b>添加</b>可添加新的密码策略。仅仅在 LDAP 服务器上启用密码策略的情况下，配置才会生效。</p>"
+
+#. checkbox label
+#: src/ldap_dialogs.ycp:504
+msgid "&Home Directories on This Machine"
+msgstr "本机主目录(&H)"
+
+#. pushbutton label
+#: src/ldap_dialogs.ycp:509
+msgid "Configure User Management &Settings..."
+msgstr "配置用户管理设置(&S)..."
+
+#. table header
+#: src/ldap_dialogs.ycp:513
+msgid "Password Policy"
+msgstr "密码策略"
+
+#. dialog title
+#: src/ldap_dialogs.ycp:527
+msgid "LDAP Administration Settings"
+msgstr "LDAP 管理设置"
+
+#: src/ldap_dialogs.ycp:548
+msgid "Name of Password Policy Object"
+msgstr "密码策略对象的名称"
+
+#. text label,suffix will follow in next label
+#: src/ldap_dialogs.ycp:551 src/ldap_dialogs.ycp:583
+msgid "Suffix:"
+msgstr "后缀："
+
+#. pushbutton label
+#: src/ldap_dialogs.ycp:554 src/ldap_dialogs.ycp:586
+msgid "Change Suffix"
+msgstr "更改后缀"
+
+#: src/ldap_dialogs.ycp:597
+#, ycp-format
+msgid ""
+"The Policy '%1' already exists.\n"
+"Please select another one."
+msgstr ""
+"策略“%1”已存在。\n"
+"请选择其他策略。"
+
+#. translators: command line help text for Users module
+#: src/users.ycp:93
+msgid "User configuration module"
+msgstr "用户配置模块"
+
+#. translators: command line help text for list action
+#: src/users.ycp:101
+msgid "List of available users"
+msgstr "可用用户的列表"
+
+#. translators: command line help text for show action
+#: src/users.ycp:109
+msgid "Show information of selected user"
+msgstr "显示所选用户的信息"
+
+#. translators: command line help text for ad action
+#: src/users.ycp:114
+msgid "Add new user"
+msgstr "添加新用户"
+
+#. help text for unknown parameter name
+#: src/users.ycp:117 src/users.ycp:125
+msgid "Additional (LDAP) user parameters"
+msgstr "附加 (LDAP) 用户参数"
+
+#. translators: command line help text for ad action
+#: src/users.ycp:122
+msgid "Edit an existing user"
+msgstr "编辑现有的用户"
+
+#. translators: command line help text for delete action
+#: src/users.ycp:130
+msgid "Delete an existing user (home directory is not removed)"
+msgstr "删除现有用户(不删除主目录)"
+
+#. translators: command line help text for list local option
+#: src/users.ycp:136
+msgid "List of local users"
+msgstr "本地用户的列表"
+
+#. translators: command line help text for list system option
+#: src/users.ycp:140
+msgid "List of system users"
+msgstr "系统用户的列表"
+
+#. translators: command line help text for list ldap option
+#: src/users.ycp:144
+msgid "List of LDAP users"
+msgstr "LDAP 用户的列表"
+
+#. translators: command line help text for list nis option
+#: src/users.ycp:148
+msgid "List of NIS users"
+msgstr "NIS 用户的列表"
+
+#. translators: command line help text for uid option
+#: src/users.ycp:152
+msgid "UID of the user"
+msgstr "用户的 UID"
+
+#. translators: command line help text for add/gid option
+#: src/users.ycp:157
+msgid "GID of user's default group"
+msgstr "用户默认组的 GID"
+
+#. translators: command line help text for username option
+#: src/users.ycp:162
+msgid "Login name of the user"
+msgstr "用户的登录名"
+
+#. translators: command line help text for add option
+#: src/users.ycp:167
+msgid "Full name of the user"
+msgstr "用户的完整名称"
+
+#. translators: command line help text for shell option
+#: src/users.ycp:172
+msgid "Login shell of the user"
+msgstr "用户的登录壳层"
+
+#. translators: command line help text for home option
+#: src/users.ycp:177
+msgid "Home directory of the user"
+msgstr "用户的主目录"
+
+#. translators: command line help text for add + create_home option
+#: src/users.ycp:182
+msgid "Do not create home directory for new user"
+msgstr "不为新用户创建主目录"
+
+#. translators: command line help text for delete_home option
+#: src/users.ycp:186
+msgid "Also delete user's home directory"
+msgstr "同时删除用户的主目录"
+
+#. translators: command line help text for add option
+#: src/users.ycp:190
+msgid "Password of the user"
+msgstr "用户的密码"
+
+#. translators: command line help text for home option
+#: src/users.ycp:195
+msgid "List of groups of which the user is a member (separated by commas)"
+msgstr "用户作为其成员的组的列表(用逗号分隔)"
+
+#. translators: command line help text for show option
+#: src/users.ycp:200
+msgid "Type of the user (local, system, nis, ldap)"
+msgstr "用户类型(本地、系统、nis、ldap)"
+
+#. translators: command line help text for new_username option
+#: src/users.ycp:210
+msgid "New login name of the user"
+msgstr "用户的新登录名"
+
+#. translators: command line help text for new_uid option
+#: src/users.ycp:215
+msgid "New UID of the user"
+msgstr "用户的新 UID"
+
+#. progress step title
+#: src/users_finish.ycp:55
+msgid "Writing Users Configuration..."
+msgstr "正在写入用户配置..."
+
+#. helptext 1/3
+#: src/users_plugin_ldap_all.ycp:89
+msgid ""
+"<p>\n"
+"Here, see the table of all allowed attributes for the current LDAP entry that were not set in previous dialogs.</p>"
+msgstr ""
+"<p>\n"
+"在此可以看到在上一个对话框中未设置的当前 LDAP 项的所有允许属性的表。</p>"
+
+#. helptext 1/3 (don't translate objectclass"),
+#. %1 is list of values
+#: src/users_plugin_ldap_all.ycp:94
+#, ycp-format
+msgid ""
+"<p>\n"
+"The list of attributes is given by the value of \"objectClass\"\n"
+"(which is currently:\n"
+"<br>%1).\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"通过\"objectClass\"的值提供属性的列表。\n"
+"(当前为：\n"
+"<br>%1).\n"
+"</p>\n"
+
+#. helptext 3/3
+#: src/users_plugin_ldap_all.ycp:102
+msgid ""
+"<p>\n"
+"Edit each attribute using <b>Edit</b>. Some attributes \n"
+"could be required, as defined in the user template in the <b>LDAP Client Module</b>.</p>\n"
+msgstr ""
+"<p>\n"
+"使用<b>编辑</b>编辑每个属性。根据在 <b>LDAP 客户机模块</b>中\n"
+"用户模板的定义，某些属性可能是必需的。</p>\n"
+
+#. table header 1/2
+#: src/users_plugin_ldap_all.ycp:191
+msgid "Attribute"
+msgstr "属性"
+
+#. table header 2/2
+#: src/users_plugin_ldap_all.ycp:193
+msgid "Value"
+msgstr "值"
+
+#. dialog caption
+#: src/users_plugin_ldap_all.ycp:208
+msgid "Additional LDAP Settings"
+msgstr "附加 LDAP 设置"
+
+#. helptext
+#: src/users_plugin_ldap_passwordpolicy.ycp:81
+msgid "<p>Assign a password policy object to this user in <b>DN of Password Policy object</b>. Activate <b>Reset Password</b> to reset the password of modified user.</p>"
+msgstr "<p>在<b>密码策略对象的判别名</b> 中将一个密码策略对象指派给此用户。 激活<b>重置密码</b>重置已修改用户的密码。</p>"
+
+#. check box label
+#: src/users_plugin_ldap_passwordpolicy.ycp:93
+msgid "Use &Default Password Policy"
+msgstr "使用默认的密码策略(&D)"
+
+#: src/users_plugin_ldap_passwordpolicy.ycp:98
+msgid "DN of &Password Policy object"
+msgstr "密码策略对象的判别名(&P)"
+
+#: src/users_plugin_ldap_passwordpolicy.ycp:105
+msgid "&Reset Password"
+msgstr "重置密码(&R)"
+
+#. dialog caption
+#: src/users_plugin_ldap_passwordpolicy.ycp:115
+msgid "Password Policy Settings"
+msgstr "密码策略设置"
+
+#. dialog caption
+#: src/users_plugin_ldap_shadowaccount.ycp:157
+msgid "Shadow Account Settings"
+msgstr "阴影帐户设置"
+
+#. helptext for quota
+#: src/users_plugin_quota.ycp:138
+msgid "<p>Configure quota settings for the user on selected file systems.</p>"
+msgstr "<p>在这里配置选定文件系统的用户配额设置。</p>"
+
+#. helptext for quota, cont.
+#: src/users_plugin_quota.ycp:141
+msgid ""
+"<p>Define a size limit by specifying the number of 1 KB blocks the\n"
+"user may have on this file system. Additionally, you can define an inode limit specifying the number of inodes the user may have on the file system.</p>\n"
+msgstr ""
+"<p>设定大小限制，请指定用户在文件系统中可用的 1 kB 块的个数。\n"
+"或者，您也可以设置 inode 限制，指定用户在文件系统可用的 inode 个数。</p>\n"
+
+#. helptext for quota, cont.
+#: src/users_plugin_quota.ycp:146
+msgid "<p>You can specify both soft and hard limits for size and number of inodes. The soft limits define a warning level at which users are informed they are nearing their limit, whereas the hard limits define the limit at which write requests are denied.</p>"
+msgstr "<p>您可以指定 inodes 的大小和个数的软硬限制。软限制设定一个警告级别，当快要到达限制的时候通知用户。而硬限制的限制是，一旦到达，就不能再写入。</p>"
+
+#. helptext for quota, cont.
+#: src/users_plugin_quota.ycp:149
+msgid "<p>As soon as the user has reached the soft limit, the input fields for the grace interval are activated. Specify the time period for which the user is allowed to exceed the soft limits set above. The countdown of the grace interval starts immediately.</p>"
+msgstr "<p>一旦用户到达了软限制，赦免间隔的输入区域就会被激活。指定允许用户超出软限制的时间。赦免间隔的倒计时会立刻开始。</p>"
+
+#. helptext for quota
+#: src/users_plugin_quota.ycp:154
+msgid "<p>Configure quota settings for the group on selected file systems.</p>"
+msgstr "<p>请在此配置选定文件系统的组配额设置。</p>"
+
+#. helptext for quota, cont.
+#: src/users_plugin_quota.ycp:157
+msgid ""
+"<p>Define a size limit by specifying the number of 1 kB blocks the\n"
+"group may use on this file system. Additionally, you can define an inode limit specifying the number of inodes the group may use on the file system.</p>\n"
+msgstr ""
+"<p>设定大小限制，请指定组在文件系统中可用的 1 kB 块的个数。\n"
+"另外，您也可以设置 inode 限制，指定组在文件系统可用的 inode 个数。</p>\n"
+
+#. helptext for quota, cont.
+#: src/users_plugin_quota.ycp:162
+msgid "<p>You can specify both soft and hard limits for size and number of inodes. The soft limits define a warning level at which groups are informed they are nearing their limit, whereas the hard limits define the limit at which write requests are denied.</p>"
+msgstr "<p>您可以指定 inodes 的大小和个数的软硬限制。软限制设定一个警告级别，当快要到达限制的时候通知组。而硬限制的限制是，一旦到达，就不能再写入。</p>"
+
+#. helptext for quota, cont.
+#: src/users_plugin_quota.ycp:165
+msgid "<p>As soon as the group has reached the soft limit, the input fields for the grace interval are activated. Specify the time period for which the group is allowed to exceed the soft limits set above. The countdown of the grace interval starts immediately.</p>"
+msgstr "<p>一旦组到达了软限制，赦免间隔的输入区域就会被激活。指定允许组超出软限制的时间。赦免间隔的倒计时会立刻开始。</p>"
+
+#. combo box label
+#: src/users_plugin_quota.ycp:214
+msgid "&File System"
+msgstr "文件系统(&F)"
+
+#. frame label
+#: src/users_plugin_quota.ycp:217
+msgid "Size Limits"
+msgstr "大小限制"
+
+#. intfield label
+#: src/users_plugin_quota.ycp:220
+msgid "&Soft limit"
+msgstr "软限制(&S)"
+
+#. intfield label
+#: src/users_plugin_quota.ycp:223
+msgid "&Hard limit"
+msgstr "硬限制(&H)"
+
+#. frame label
+#: src/users_plugin_quota.ycp:234
+msgid "I-nodes Limit"
+msgstr "I-node 限制"
+
+#. intfield label
+#: src/users_plugin_quota.ycp:237
+msgid "S&oft limit"
+msgstr "软限制(&O)"
+
+#. intfield label
+#: src/users_plugin_quota.ycp:240
+msgid "Har&d limit"
+msgstr "硬限制(&D)"
+
+#. error popup
+#: src/users_plugin_quota.ycp:286
+msgid "Soft limit cannot be higher than the hard limit."
+msgstr "软限制无法超过硬限制。"
+
+#. summary label <%1>-<%2> are HTML tags, leave untouched
+#: src/users_proposal.ycp:68
+#, ycp-format
+msgid "<%1>Root Password<%2> set"
+msgstr "<%1>Root 密码<%2>已设置"
+
+#: src/users_proposal.ycp:70
+#, ycp-format
+msgid "<%1>Root Password<%2> not set"
+msgstr "<%1>Root 密码<%2>未设置"
+
+#. summary label <%1>-<%2> are HTML tags, leave untouched
+#: src/users_proposal.ycp:75
+#, ycp-format
+msgid "No <%1>user<%2> configured"
+msgstr "尚未配置<%1>用户<%2>"
+
+#. summary line: <%1>-<%2> are HTML tags, leave untouched,
+#. % is LDAP/NIS etc.
+#: src/users_proposal.ycp:83
+#, ycp-format
+msgid "<%1>Authentication method<%2>: %3"
+msgstr "<%1>认证方法<%2>：%3"
+
+#. summary line: <%1>-<%2> are HTML tags, leave untouched,
+#. % is LDAP/NIS etc.
+#: src/users_proposal.ycp:88
+#, ycp-format
+msgid "<%1>Authentication method<%2>: %3 and Kerberos."
+msgstr "<%1>认证方法<%2>：%3 和 Kerberos。"
+
+#. summary line, %3 are user names (comma separated)
+#. <%1>,<%2> are HTML tags, leave untouched,
+#: src/users_proposal.ycp:96
+#, ycp-format
+msgid "<%1>Users<%2> %3 selected for import"
+msgstr "选择导入 <%1>用户<%2> %3"
+
+#. summary line,  <%1>,<%2> are HTML tags, %3 user name
+#: src/users_proposal.ycp:100
+#, ycp-format
+msgid "<%1>User<%2> %3 will be imported."
+msgstr "将导入 <%1>用户<%2> %3。"
+
+#. summary line: <%1>-<%2> are HTML tags, leave untouched,
+#. %3 is login name
+#: src/users_proposal.ycp:107
+#, ycp-format
+msgid "<%1>User<%2> %3 configured"
+msgstr "<%1>用户<%2> %3 已配置"
+
+#. summary line: <%1>-<%2> are HTML tags, leave untouched,
+#. %3 is full name, %4 login name
+#: src/users_proposal.ycp:112
+#, ycp-format
+msgid "<%1>User<%2> %3 (%4) configured"
+msgstr "<%1>用户<%2> %3 (%4) 已配置"
+
+#. summary line
+#: src/users_proposal.ycp:120
+#, ycp-format
+msgid "Password Encryption Method: %1"
+msgstr "密码加密方法：%1"
+
+#. rich text label
+#: src/users_proposal.ycp:133
+msgid "User Settings"
+msgstr "用户设置"
+
+#. menu button label
+#: src/users_proposal.ycp:136
+msgid "&User"
+msgstr "用户(&U)"
+
+#. menu button label
+#: src/users_proposal.ycp:138
+msgid "&Root Password"
+msgstr "Root 密码(&R)"
+
+#. the type of user set
+#: src/widgets.ycp:59
+msgid "&System Users"
+msgstr "系统用户(&S)"
+
+#. the type of user set
+#: src/widgets.ycp:61
+msgid "&Local Users"
+msgstr "本地用户(&L)"
+
+#. the type of user set
+#: src/widgets.ycp:63
+msgid "&NIS Users"
+msgstr "NIS 用户(&N)"
+
+#. the type of user set
+#: src/widgets.ycp:65
+msgid "L&DAP Users"
+msgstr "LDAP 用户(&D)"
+
+#. the type of user set
+#: src/widgets.ycp:67
+msgid "Sam&ba Users"
+msgstr "Samba 用户(&B)"
+
+#. the type of user set
+#. the type of group set
+#: src/widgets.ycp:69 src/widgets.ycp:101
+msgid "&Custom"
+msgstr "自定义(&C)"
+
+#. the type of user set
+#: src/widgets.ycp:75
+msgid "System Users"
+msgstr "系统用户"
+
+#. the type of user set
+#: src/widgets.ycp:77
+msgid "Local Users"
+msgstr "本地用户"
+
+#. the type of user set
+#: src/widgets.ycp:79
+msgid "NIS Users"
+msgstr "NIS 用户"
+
+#. the type of user set
+#: src/widgets.ycp:81
+msgid "LDAP Users"
+msgstr "LDAP 用户"
+
+#. the type of user set
+#: src/widgets.ycp:83
+msgid "Samba Users"
+msgstr "Samba 用户"
+
+#. the type of user set
+#. the type of group set
+#: src/widgets.ycp:85 src/widgets.ycp:116
+msgid "Custom"
+msgstr "自定义"
+
+#. the type of group set
+#: src/widgets.ycp:91
+msgid "&System Groups"
+msgstr "系统组(&S)"
+
+#. the type of group set
+#: src/widgets.ycp:93
+msgid "&Local Groups"
+msgstr "本地组(&L)"
+
+#. the type of group set
+#: src/widgets.ycp:95
+msgid "&NIS Groups"
+msgstr "NIS 组(&N)"
+
+#. the type of group set
+#: src/widgets.ycp:97
+msgid "L&DAP Groups"
+msgstr "LDAP 组(&D)"
+
+#. the type of group set
+#: src/widgets.ycp:99
+msgid "Sam&ba Groups"
+msgstr "Samba 组(&B)"
+
+#. the type of group set
+#: src/widgets.ycp:106
+msgid "System Groups"
+msgstr "系统组"
+
+#. the type of group set
+#: src/widgets.ycp:108
+msgid "Local Groups"
+msgstr "本地组"
+
+#. the type of group set
+#: src/widgets.ycp:110
+msgid "NIS Groups"
+msgstr "NIS 组"
+
+#. the type of group set
+#: src/widgets.ycp:112
+msgid "LDAP Groups"
+msgstr "LDAP 组"
+
+#. the type of group set
+#: src/widgets.ycp:114
+msgid "Samba Groups"
+msgstr "Samba 组"
+
+#. richtext label
+#: src/widgets.ycp:138
+msgid "Kerberos"
+msgstr "Kerberos"
+
+#. richtext label
+#: src/widgets.ycp:140
+msgid "Samba"
+msgstr "Samba"
+
+#. Help text for password expert dialog 1/5
+#: src/widgets.ycp:162
+msgid ""
+"<p>\n"
+"<b>This is for experts only.</b>\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>此功能供专家用户使用。</b>\n"
+"</p>"
+
+#. Label
+#: src/widgets.ycp:186
+msgid "Password Encryption"
+msgstr "密码加密"
+
+#. frame label
+#: src/widgets.ycp:191
+msgid "Encryption Type"
+msgstr "加密类型"
+
+#. help text 1/3
+#: src/widgets.ycp:254
+msgid ""
+"<p>\n"
+"You have changed the default encryption for user passwords.</p>"
+msgstr ""
+"<p>\n"
+"您已经更改了用户密码的默认加密。</p>"
+
+#. help text 2/3
+#: src/widgets.ycp:258
+msgid ""
+"<p>It seems that you are running a NIS server. In some network environments,\n"
+"you might be unable to log in to a NIS client when a user password is\n"
+"encrypted with a method other than DES.\n"
+"</p>\n"
+msgstr ""
+"<p>您似乎正在运行 NIS 服务器。在某些网络环境中，\n"
+"如果使用 DES 之外的方法来加密用户密码，\n"
+"将无法登录到 NIS 客户机。\n"
+"</p>\n"
+
+#. help text 3/3
+#: src/widgets.ycp:265
+msgid "<p>Really use the selected method?</p>"
+msgstr "<p>是否确实要使用所选方法？</p>"
+
+#. combo box item
+#: src/widgets.ycp:335
+msgid "AND"
+msgstr "和"
+
+#. combo box item
+#: src/widgets.ycp:337
+msgid "OR"
+msgstr "或"
+
+#. helptext 1/4 - caption
+#: src/widgets.ycp:345
+msgid "<p><b>LDAP Search Filter Changes</b></p>"
+msgstr "<p><b>LDAP 搜索过滤器更改</b></p>"
+
+#. helptext 2/4
+#: src/widgets.ycp:348
+msgid "<p>Here, extend the search filters for users and groups beyond the default search filters.</p>"
+msgstr "<p>在此将用户和组的搜索过滤器扩展到默认搜索过滤器之外。</p>"
+
+#. helptext 3/4
+#: src/widgets.ycp:351
+msgid ""
+"<p>With <b>Default</b>, load the default filter from the user and group\n"
+"configuration modules saved on the LDAP server (values of 'suseSearchFilter' attributes).\n"
+"If you are not connected yet, you are prompted for the password.</p>\n"
+msgstr ""
+"<p>如果选择<b>默认</b>，将从用户和组配置模块装载默认过滤器，\n"
+"这些模块保存在 LDAP 服务器上(\"suseSearchFilter\"属性的值)。\n"
+"如果您尚未连接，就会提示您输入密码。</p>\n"
+
+#. helptext 4/4 (do not translate the value (written as <tt> font))
+#: src/widgets.ycp:357
+msgid ""
+"<p><b>Example:</b>\n"
+"<br>With the user filter\n"
+"<br>\n"
+"<tt>(&(objectClass=posixAccount)(uid=u*))</tt>\n"
+"<br>\n"
+"only obtain users with a username beginning with 'u'.</p>\n"
+msgstr ""
+"<p><b>示例：</b>\n"
+"<br>使用用户过滤器\n"
+"<br>\n"
+"<tt>(&(objectClass=posixAccount)(uid=u*))</tt>\n"
+"<br>\n"
+"只获取用户名以\"u\"开头的用户。</p>\n"
+
+#. radiobutton label
+#: src/widgets.ycp:372
+msgid "Search Filter for &Users"
+msgstr "用户的搜索过滤器(&U)"
+
+#. radiobutton label
+#: src/widgets.ycp:375
+msgid "Search Filter for &Groups"
+msgstr "组的搜索过滤器(&G)"
+
+#. frame label
+#: src/widgets.ycp:380
+msgid "New Condition for Current Filter"
+msgstr "当前过滤器的新条件"
+
+#. combobox label
+#: src/widgets.ycp:386 src/widgets.ycp:532
+msgid "&Attribute"
+msgstr "属性(&A)"
+
+#. textentry label
+#: src/widgets.ycp:397
+msgid "&Value"
+msgstr "值(&V)"
+
+#. pushbuttton label
+#: src/widgets.ycp:400
+msgid "A&dd to Filter"
+msgstr "添加到过滤器(&D)"
+
+#. Pushbutton label
+#: src/widgets.ycp:410
+msgid "De&fault"
+msgstr "默认值(&F)"
+
+#. error popup
+#: src/widgets.ycp:444
+msgid "Enter the value for the attribute."
+msgstr "输入属性的值。"
+
+#. error popup
+#: src/widgets.ycp:466
+msgid "Enter the value of the user filter."
+msgstr "输入用户过滤器的值。"
+
+#. yes/no popup question
+#: src/widgets.ycp:473
+msgid ""
+"The new user filter does not contain the default user filter.\n"
+"Really use it?\n"
+msgstr ""
+"新用户过滤器不包含默认用户过滤器。\n"
+"是否确实要使用它？\n"
+
+#. error popup
+#: src/widgets.ycp:490
+msgid "Enter the value of the group filter."
+msgstr "输入组过滤器的值。"
+
+#. yes/no popup question
+#: src/widgets.ycp:498
+msgid ""
+"The new group filter does not contain the default group filter.\n"
+"Really use it?\n"
+msgstr ""
+"新组过滤器不包含默认组过滤器。\n"
+"是否确实要使用它？\n"
+
+#. helptext 0/3 - caption
+#: src/widgets.ycp:552
+msgid "<p><b>Login Settings</b></p>"
+msgstr "<p><b>登录设置</b></p>"
+
+#. helptext 1/3 - general info
+#: src/widgets.ycp:555
+msgid ""
+"<p>\n"
+"The features described below are only available if you are using KDM or GDM as the login manager.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"以下描述的功能仅当您将 KDM 或 GDM 用作登录管理器时才可用。\n"
+"</p>\n"
+
+#. helptext 2/3
+#: src/widgets.ycp:561
+msgid ""
+"<p><b>Auto Login</b><br>\n"
+"By setting <b>Auto Login</b>, skip the login procedure. The user chosen from the list is logged in automatically.</p>\n"
+msgstr ""
+"<p><b>自动登录</b><br>\n"
+"通过设置<b>自动登录</b>可跳过登录过程。从列表中选择的用户将自动登录。</p>\n"
+
+#. helptext 3/3
+#: src/widgets.ycp:566
+msgid ""
+"<p><b>Passwordless Logins</b><br>\n"
+"If this option is checked, all users are allowed to log in without entering\n"
+"passwords. Otherwise, you are asked for the password even if you set a user to log in automatically.</p>\n"
+msgstr ""
+"<p><b>无密码登录</b><br>\n"
+"如果选中了此选项，则允许所有用户\n"
+"无须输入密码即可登录。否则，即使设置某个用户自动登录，系统也会要求您提供密码。</p>\n"
+
+#. dialog label
+#: src/widgets.ycp:587
+msgid "Display Manager Login Settings"
+msgstr "显示管理器登录设置"
+
+#. checkbox label
+#: src/widgets.ycp:594
+msgid "&Auto Login"
+msgstr "自动登录(&A)"
+
+#. textentry label
+#: src/widgets.ycp:600
+msgid "&User to Log In"
+msgstr "要登录的用户(&U)"
+
+#. checkbox label
+#: src/widgets.ycp:605
+msgid "Password&less Logins"
+msgstr "无密码登录(&L)"
+
+#. error popup
+#: src/widgets.ycp:681
+#, ycp-format
+msgid "Cannot delete the user %1. It must be done on the NIS server."
+msgstr "无法删除用户 %1。必须在 NIS 服务器上执行删除。"
+
+#. error popup
+#: src/widgets.ycp:688
+msgid ""
+"You cannot delete this user, because the user is\n"
+"currently logged in.\n"
+"Log the user out first."
+msgstr ""
+"您不能删除该用户，这是因为该用户当前已登录。\n"
+"请先将该用户注销。"
+
+#. yes-no popup headline
+#: src/widgets.ycp:712
+msgid "Selected User Is System User"
+msgstr "所选的用户是系统用户"
+
+#. yes-no popup contents
+#: src/widgets.ycp:714
+msgid "Really delete this system user?"
+msgstr "确实要删除该系统用户吗？"
+
+#. question popup. %1 is username
+#: src/widgets.ycp:728
+#, ycp-format
+msgid "Delete the user %1?"
+msgstr "是否删除用户 %1？"
+
+#. checkbox label
+#: src/widgets.ycp:732
+#, ycp-format
+msgid ""
+"Delete &Home Directory\n"
+"%1\n"
+msgstr ""
+"删除主目录(&H)\n"
+"%1\n"
+
+#. yes-no popup. %1 is username
+#: src/widgets.ycp:758
+#, ycp-format
+msgid ""
+"\n"
+"Really delete the user %1?\n"
+msgstr ""
+"\n"
+"确实要删除用户 %1 吗？\n"
+
+#. yes-no popup headline
+#: src/widgets.ycp:794
+msgid "System Group"
+msgstr "系统组"
+
+#. / yes-no popup contents
+#: src/widgets.ycp:796
+msgid "Really delete this system group?"
+msgstr "确实要删除该系统组吗？"
+
+#. yes-no popup, %1 si group name
+#: src/widgets.ycp:804
+#, ycp-format
+msgid ""
+"\n"
+"Really delete the group %1?\n"
+msgstr ""
+"\n"
+"确实要删除组 %1 吗？\n"
+
+#. warning popup
+#: src/widgets.ycp:815
+msgid ""
+"You cannot delete this group because\n"
+"there are users in the group.\n"
+"Remove these users from the group first.\n"
+msgstr ""
+"您不能删除此组，\n"
+"因为组中还有用户。\n"
+"请先删除组中的这些用户。\n"
+
+#. Frame label
+#: src/widgets.ycp:846
+msgid "User List View"
+msgstr "用户列表视图"
+
+#. Frame label
+#: src/widgets.ycp:855
+msgid "Group List View"
+msgstr "组列表视图"
+
+#. type of user/group
+#. (item of list with the headline 'Choose the type of user to add')
+#: src/widgets.ycp:924
+msgid "Local"
+msgstr "本地"
+
+#. type of user/group
+#. (item of list with the headline 'Choose the type of user to add')
+#: src/widgets.ycp:930
+msgid "System"
+msgstr "系统"
+
+#. label
+#: src/widgets.ycp:937
+msgid "User Type"
+msgstr "用户类型"
+
+#. label
+#: src/widgets.ycp:939
+msgid "Group Type"
+msgstr "组类型"
+
+#. menubutton item
+#: src/widgets.ycp:991 src/widgets.ycp:999
+msgid "Customi&ze Filter..."
+msgstr "自定义过滤器(&Z)..."
+
+#. menubutton label
+#: src/widgets.ycp:1014
+msgid "&Login Settings"
+msgstr "登录设置(&L)"
+
+#. menubutton label
+#: src/widgets.ycp:1020
+msgid "Password &Encryption"
+msgstr "密码加密(&E)"
+
+#. menubutton label
+#: src/widgets.ycp:1026
+msgid "&Write Changes Now"
+msgstr "立即写入更改(&W)"
+
+#. menubutton label
+#: src/widgets.ycp:1042
+msgid "LDAP &Search Filter"
+msgstr "LDAP 搜索过滤器(&S)"
+
+#. menubutton label
+#: src/widgets.ycp:1045
+msgid "L&DAP User and Group Configuration"
+msgstr "LDAP 用户和组配置(&D)"
+
+#. help text 1/1
+#: src/widgets.ycp:1059
+msgid ""
+"<p>\n"
+"Linux is a multiuser system. Several different users can be logged in to the\n"
+"system at the same time.  To avoid confusion, each user must have\n"
+"a unique identity. Additionally, every user belongs to at least one group.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"Linux 是一种多用户系统。多个不同的用户可以同时登录\n"
+"到系统中。为了避免混淆，每个用户必须具有\n"
+"一个唯一的身份。此外，每个用户\n"
+"至少属于一个组。\n"
+"</p>\n"
+
+#. help text 1/3
+#: src/widgets.ycp:1078
+msgid ""
+"<p>\n"
+"Users and groups are arranged in various sets. Change the set currently shown in the table with <b>Set Filter</b>.\n"
+"Customize your view with <b>Customize Filter</b>.</p>\n"
+msgstr ""
+"<p>\n"
+"通过不同的集合对用户和组进行组织。使用<b>集合过滤器</b>更改表中当前显示的集合。\n"
+"使用<b>自定义过滤器</b>自定义视图。</p>\n"
+
+#. help text 2/3
+#: src/widgets.ycp:1084
+msgid ""
+"<p>\n"
+"Click <b>Expert Options</b> to edit various expert settings, such as\n"
+"password encryption type, user authentication method, default values for new\n"
+"users, or login settings. With <b>Write Changes Now</b>, save\n"
+"all changes made so far without exiting the configuration module.</p>\n"
+msgstr ""
+"<p>\n"
+"单击<b>专家选项</b>可编辑多个专家设置，\n"
+"如密码加密类型、用户身份验证方法、\n"
+"新用户的默认值或登录设置。使用<b>立即写入更改</b>可保存到目前为止\n"
+"所进行的所有更改，而无需退出配置模块。</p>\n"
+
+#. help text 3/3, %1 is translated button label
+#: src/widgets.ycp:1092
+#, ycp-format
+msgid ""
+"<p>\n"
+"To save the modified user and group settings to your system, press\n"
+"<b>%1</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要将修改后的用户和组设置保存到系统，请按\n"
+"<b>%1</b>。\n"
+"</p>\n"
+
+#. help text 1/4
+#: src/widgets.ycp:1105
+msgid ""
+"\n"
+"<p>\n"
+"Use this dialog to get information about existing users and add or modify\n"
+"users.  \n"
+"</p>\n"
+msgstr ""
+"\n"
+"<p>\n"
+"使用此对话框可获取与现有用户有关的信息以及添加或修改用户。\n"
+"</p>\n"
+
+#. help text 2/4
+#: src/widgets.ycp:1113
+msgid ""
+"<p>\n"
+"To shift to the group dialog, select <b>Groups</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要切换到组对话框，请选择<b>组</b>。\n"
+"</p>\n"
+
+#. help text 3/4
+#: src/widgets.ycp:1119
+msgid ""
+"\n"
+"<p>\n"
+"To create a new user, click <b>Add</b>.\n"
+"</p>\n"
+msgstr ""
+"\n"
+"<p>\n"
+"要创建新用户，请单击<b>添加</b>。\n"
+"</p>\n"
+
+#. help text 4/4
+#: src/widgets.ycp:1126
+msgid ""
+"<p>\n"
+"To edit or delete an existing user, select one user from the list and\n"
+"click <b>Edit</b> or <b>Delete</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要编辑或删除现有用户，\n"
+"请从列表中选择一个用户，然后单击<b>编辑</b>或<b>删除</b>。\n"
+"</p>\n"
+
+#. help text 1/4
+#: src/widgets.ycp:1142
+msgid ""
+"\n"
+"<p>\n"
+"Use this dialog to get information about existing groups and add or modify groups.\n"
+"</p>\n"
+msgstr ""
+"\n"
+"<p>\n"
+"使用此对话框可获取与现有组有关的信息以及添加或修改组。\n"
+"</p>\n"
+
+#. help text 2/4
+#: src/widgets.ycp:1148
+msgid ""
+"<p>\n"
+"To shift to the user dialog, select <b>Users</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要切换到用户对话框，请选择<b>用户</b>。\n"
+"</p>\n"
+
+#. help text 3/4
+#: src/widgets.ycp:1154
+msgid ""
+"\n"
+"<p>\n"
+"To create a new group, click <b>Add</b>.\n"
+"</p>\n"
+msgstr ""
+"\n"
+"<p>\n"
+"要创建新组，请单击<b>添加</b>。\n"
+"</p>\n"
+
+#. help text 4/4
+#: src/widgets.ycp:1160
+msgid ""
+"<p>\n"
+"To edit or delete an existing group, select one group from the list and\n"
+"click <b>Edit</b> or <b>Delete</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要编辑或删除现有组，\n"
+"请从列表中选择一个组，然后单击<b>编辑</b>或<b>删除</b>。\n"
+"</p>\n"
+
+#. popup error label
+#: src/widgets.ycp:1197
+msgid ""
+"The entered home directory skeleton is not a directory.\n"
+"Try again.\n"
+msgstr ""
+"输入的主目录主干不是目录。\n"
+"请重试。\n"
+
+#. error message
+#: src/widgets.ycp:1217
+msgid ""
+"The entered path prefix for home is not a directory.\n"
+"Try again.\n"
+msgstr ""
+"为主目录输入的路径前缀不是目录。\n"
+"请重试。\n"
+
+#. yes/no popup
+#: src/widgets.ycp:1226
+msgid ""
+"The selected directory does not exist.\n"
+"Create it now?\n"
+msgstr ""
+"所选的目录不存在。\n"
+"是否立即创建？\n"
+
+#. error message
+#: src/widgets.ycp:1272
+#, ycp-format
+msgid ""
+"These groups do not exist in your system:\n"
+"%1\n"
+"Try again.\n"
+msgstr ""
+"系统中不存在这些组：\n"
+"%1\n"
+"请重试。\n"
+
+#. Yes-No popup
+#: src/widgets.ycp:1295
+msgid ""
+"If you select a nonexistent shell, the user\n"
+"may be unable to log in. Continue?\n"
+msgstr ""
+"如果您选择了不存在的壳层，则用户可能无法登录。\n"
+"是否继续？\n"
+
+#. directory location popup label
+#: src/widgets.ycp:1418
+msgid "Path to Directory"
+msgstr "目录路径"
+
+#. table header
+#: src/widgets.ycp:1454
+msgid "Login"
+msgstr "登录"
+
+#. table header
+#: src/widgets.ycp:1456
+msgid "Name"
+msgstr "名称"
+
+#. table header
+#: src/widgets.ycp:1458
+msgid "UID"
+msgstr "用户 ID"
+
+#. table header
+#: src/widgets.ycp:1460
+msgid "Groups"
+msgstr "组"
+
+#. table header
+#: src/widgets.ycp:1469
+msgid "Group Name"
+msgstr "组名"
+
+#. table header
+#: src/widgets.ycp:1471
+msgid "Group ID"
+msgstr "组 ID"
+
+#. table header
+#: src/widgets.ycp:1473
+msgid "Group Members"
+msgstr "组成员"
+
+#. Menu Buton label
+#: src/widgets.ycp:1486 src/widgets.ycp:2124
+msgid "E&xpert Options"
+msgstr "专家选项(&X)"
+
+#. error popup
+#: src/widgets.ycp:1562
+msgid ""
+"NIS groups can only be\n"
+"modified and deleted on the server.\n"
+msgstr ""
+"NIS 组只能在服务器上\n"
+"修改和删除。\n"
+
+#. error popup
+#: src/widgets.ycp:1584
+msgid "Select an entry from the table."
+msgstr "从表中选择项。"
+
+#. popup message (user wants to save but there is no modification)
+#: src/widgets.ycp:1613
+msgid "There are no changes to save."
+msgstr "没有要保存的更改。"
+
+#. yes/no popup (data were changed)
+#: src/widgets.ycp:1658
+msgid "Reread all data from LDAP server?"
+msgstr "是否从 LDAP 服务器重读取所有数据？"
+
+#. label, e.g. 'Filter: Local Users', 'Filter: Custom'
+#: src/widgets.ycp:1724
+#, ycp-format
+msgid "Filter: %1"
+msgstr "过滤器：%1"
+
+#. MenuButton label
+#: src/widgets.ycp:1726 src/widgets.ycp:2102
+msgid "&Set Filter"
+msgstr "集合过滤器(&S)"
+
+#. wait popup
+#: src/widgets.ycp:1754 src/widgets.ycp:1785
+msgid "Reading sets of users and groups. Please wait..."
+msgstr "正在读取用户和组的集合。请稍候..."
+
+#. menubutton label
+#: src/widgets.ycp:1897
+msgid "&NIS"
+msgstr "NIS(&N)"
+
+#. menubutton label
+#: src/widgets.ycp:1899
+msgid "N&IS+"
+msgstr "NIS+(&I)"
+
+#. menubutton label
+#: src/widgets.ycp:1903
+msgid "&Kerberos"
+msgstr "Kerberos(&K)"
+
+#. menu button label
+#: src/widgets.ycp:1927 src/widgets.ycp:2239
+msgid "&Configure..."
+msgstr "配置(&C)..."
+
+#. error popup, %1 is package name
+#: src/widgets.ycp:1957
+#, ycp-format
+msgid "Package %1 is not available for installation."
+msgstr "无法安装软件包 %1。"
+
+#. tab header
+#: src/widgets.ycp:2012
+msgid "&Users"
+msgstr "用户(&U)"
+
+#. tab header
+#: src/widgets.ycp:2026
+msgid "&Groups"
+msgstr "组(&G)"
+
+#. tab header
+#: src/widgets.ycp:2040
+msgid "De&faults for New Users"
+msgstr "新用户的默认值(&F)"
+
+#. tab header
+#: src/widgets.ycp:2070
+msgid "&Authentication Settings"
+msgstr "认证设置(&A)"
+
+#. combobox label
+#: src/widgets.ycp:2150
+msgid "D&efault Group"
+msgstr "默认组(&E)"
+
+#. combobox label
+#: src/widgets.ycp:2157
+msgid "Default &Login Shell"
+msgstr "默认登录壳层(&L)"
+
+#. text entry
+#: src/widgets.ycp:2165
+msgid "Se&condary Groups"
+msgstr "次要组(&C)"
+
+#. text entry
+#: src/widgets.ycp:2173
+msgid "Path Prefix for &Home Directory"
+msgstr "主目录的路径前缀(&H)"
+
+#. push button label
+#: src/widgets.ycp:2181
+msgid "&Browse..."
+msgstr "浏览(&B)..."
+
+#. text entry
+#: src/widgets.ycp:2189
+msgid "&Skeleton for Home Directory"
+msgstr "主目录的主干(&S)"
+
+#. push button label
+#: src/widgets.ycp:2197
+msgid "Bro&wse..."
+msgstr "浏览(&W)..."
+
+#. text entry
+#: src/widgets.ycp:2205
+msgid "Default E&xpiration Date"
+msgstr "默认失效日期(&X)"
+
+#. text entry
+#: src/widgets.ycp:2214
+msgid "&Umask for Home Directory"
+msgstr "主目录的 Umask(&U)"
+
+#. intfield
+#: src/widgets.ycp:2221
+msgid "Days &after Password Expiration Login Is Usable"
+msgstr "密码过期后仍可登录的天数(&A)"
+
+#. dialog caption
+#: src/wizards.ycp:104
+msgid "User and Group Administration"
+msgstr "用户和组管理"
+
+#. init dialog caption
+#. dialog caption
+#: src/wizards.ycp:294 src/wizards.ycp:324
+msgid "User and Group Configuration"
+msgstr "用户和组配置"
+
+#. label (during init dialog)
+#: src/wizards.ycp:296 src/wizards.ycp:327
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#~ msgid "Blowfish"
+#~ msgstr "Blowfish"
+
+#~ msgid "&DES (Linux default)"
+#~ msgstr "DES(Linux 默认方法)(&D)"
+
+#~ msgid "&Blowfish"
+#~ msgstr "Blowfish(&B)"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "<b>Blowfish</b> is similar to MD5, but uses a different algorithm\n"
+#~ "to encrypt passwords.\n"
+#~ "</P>"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "<b>Blowfish</b> 与 MD5 类似，但使用不同的算法\n"
+#~ "来加密口令。\n"
+#~ "</P>"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "As a general rule of thumb, use DES if you are unsure.\n"
+#~ "</p>"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "通常，如果不确定，请使用 DES。\n"
+#~ "</p>"
+
+#~ msgid ""
+#~ "The password is too simple:\n"
+#~ "%s\n"
+#~ "Really use this password?"
+#~ msgstr ""
+#~ "口令过于简单：\n"
+#~ "%s\n"
+#~ "确实要使用该口令吗？"
+
+#~ msgid ""
+#~ "The password should have at least %i characters.\n"
+#~ "Really use this shorter password?"
+#~ msgstr ""
+#~ "口令的长度应当至少为 %i 个字符。\n"
+#~ "确实要使用该较短的口令吗？"
+
+#~ msgid ""
+#~ "You have used the group name as a part of the password.\n"
+#~ "This is not a good security practice. Really use this password?"
+#~ msgstr ""
+#~ "您将组名用作了口令的一部分。\n"
+#~ "对于安全性而言，这并不是一种好的做法。确实要使用该口令吗？"
+
+#~ msgid ""
+#~ "You have used the username as a part of the password.\n"
+#~ "This is not a good security practice. Really use this password?"
+#~ msgstr ""
+#~ "您将用户名用作了口令的一部分。\n"
+#~ "对于安全性而言，这并不是一种好的做法。确实要使用该口令吗？"
+
+#~ msgid ""
+#~ "You have used only lowercase letters for the password.\n"
+#~ "This is not a good security practice. Really use this password?"
+#~ msgstr ""
+#~ "您在口令中只使用了小写字母。\n"
+#~ "对于安全性而言，这并不是一种好的做法。确实要使用该口令吗？"
+
+#~ msgid ""
+#~ "You have used only uppercase letters for the password.\n"
+#~ "This is not a good security practice. Really use this password?"
+#~ msgstr ""
+#~ "您在口令中只用了大写字母。\n"
+#~ "这样做不太安全。确实要用此口令吗？"
+
+#~ msgid ""
+#~ "You have used a palindrom for the password.\n"
+#~ "This is not a good security practice. Really use this password?"
+#~ msgstr ""
+#~ "您在该口令中使用了回文。\n"
+#~ "这种做法不太安全。确实要用此口令吗？"
+
+#~ msgid ""
+#~ "You have used only digits for the password.\n"
+#~ "This is not a good security practice. Really use this password?"
+#~ msgstr ""
+#~ "您在口令中只使用了数字。\n"
+#~ "对于安全性而言，这并不是一种好的做法。确实要使用该口令吗？"
+
+#~ msgid "Next"
+#~ msgstr "下一步"
+
+#~ msgid "Finish"
+#~ msgstr "完成"
+
+#, fuzzy
+#~ msgid "Downloading %1 extension..."
+#~ msgstr "正在下载文件..."
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "All the rules for user passwords apply to the \"root\" password:\n"
+#~ "Distinguish between uppercase and lowercase. A password should have at\n"
+#~ "least 5 characters and, as a rule, not contain any special characters,\n"
+#~ "such as accented letters or umlauts.\n"
+#~ "</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "用户口令的所有规则都适用于\"root\"口令：\n"
+#~ "区分大小写。口令至少应\n"
+#~ "有 5 个字符，并且通常不包含任何特殊字符\n"
+#~ "(例如，带重音或变音的字符)。\n"
+#~ "</p>\n"

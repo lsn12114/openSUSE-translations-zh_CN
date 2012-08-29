@@ -1,0 +1,1002 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:45+0200\n"
+"PO-Revision-Date: 2012-07-19 01:22+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. Heartbeat read dialog caption
+#: src/Heartbeat.ycp:99
+msgid "Initializing Heartbeat Configuration"
+msgstr "正在初始化 Heartbeat 配置"
+
+#: src/Heartbeat.ycp:103
+msgid "Read previous settings"
+msgstr "读取以前的设置"
+
+#: src/Heartbeat.ycp:104
+msgid "Read resources"
+msgstr "读取资源"
+
+#: src/Heartbeat.ycp:105
+msgid "Read authentication keys"
+msgstr "读取验证密钥"
+
+#: src/Heartbeat.ycp:106
+msgid "Read daemon status"
+msgstr "读取守护精灵状态"
+
+#: src/Heartbeat.ycp:109
+msgid "Reading previous settings..."
+msgstr "正在读取以前的设置..."
+
+#: src/Heartbeat.ycp:110
+msgid "Reading resources..."
+msgstr "正在读取资源..."
+
+#: src/Heartbeat.ycp:111
+msgid "Reading authentication keys..."
+msgstr "正在读取验证密钥..."
+
+#: src/Heartbeat.ycp:112
+msgid "Reading daemon status..."
+msgstr "正在读取守护精灵状态..."
+
+#: src/Heartbeat.ycp:113 src/Heartbeat.ycp:242
+msgid "Finished"
+msgstr "已完成"
+
+#. Heartbeat read dialog caption
+#: src/Heartbeat.ycp:229
+msgid "Saving Heartbeat Configuration"
+msgstr "正在保存 Heartbeat 配置"
+
+#: src/Heartbeat.ycp:233
+msgid "Write settings"
+msgstr "写入设置"
+
+#: src/Heartbeat.ycp:234
+msgid "Write resources"
+msgstr "写入资源"
+
+#: src/Heartbeat.ycp:235
+msgid "Write authentication keys"
+msgstr "写入验证密钥"
+
+#: src/Heartbeat.ycp:236
+msgid "Restart services"
+msgstr "重启动服务"
+
+#: src/Heartbeat.ycp:238
+msgid "Writing settings..."
+msgstr "正在写入设置..."
+
+#: src/Heartbeat.ycp:239
+msgid "Writing resources..."
+msgstr "正在写入资源..."
+
+#: src/Heartbeat.ycp:240
+msgid "Writing authentication keys..."
+msgstr "正在写入验证密钥..."
+
+#: src/Heartbeat.ycp:241
+msgid "Restarting services..."
+msgstr "正在重启动服务..."
+
+#. TODO FIXME: your code here...
+#. Configuration summary text for autoyast
+#: src/Heartbeat.ycp:379
+msgid "Configuration Summary..."
+msgstr "配置摘要..."
+
+#: src/auth_conf.ycp:31
+msgid "Authentication Method"
+msgstr "验证方法"
+
+#: src/auth_conf.ycp:35
+msgid "CRC (No security)"
+msgstr "CRC(无安全性)"
+
+#: src/auth_conf.ycp:36
+msgid "SHA1"
+msgstr "SHA1"
+
+#: src/auth_conf.ycp:37
+msgid "MD5"
+msgstr "MD5"
+
+#: src/auth_conf.ycp:40
+msgid "Authentication Key"
+msgstr "验证密钥"
+
+#: src/auth_conf.ycp:61
+msgid "Missing authentication key."
+msgstr "缺少验证密钥。"
+
+#. command line status message, %1 is name of the node
+#: src/commandline.ycp:53
+#, ycp-format
+msgid "Added node '%1'"
+msgstr "添加节点“%1”"
+
+#. command line status message, %1 is name of the node
+#: src/commandline.ycp:74
+#, ycp-format
+msgid "Removed node '%1'"
+msgstr "已删除节点“%1”"
+
+#: src/commandline.ycp:122
+#, ycp-format
+msgid "Broadcast device: %1"
+msgstr "广播设备：%1"
+
+#: src/commandline.ycp:132
+#, ycp-format
+msgid "Multicast device: %1, address: %2, UDP: %3, TTL: %4"
+msgstr "多播设备：%1，地址：%2，UDP：%3，TTL：%4"
+
+#: src/commandline.ycp:154
+#, ycp-format
+msgid "Setting UDP port to %1"
+msgstr "设置 UDP 端口到 %1"
+
+#: src/commandline.ycp:248
+msgid "Missing or invalid 'udp' option"
+msgstr "缺少或无效的 'udp' 选项"
+
+#: src/commandline.ycp:297
+#, ycp-format
+msgid "Authentication method: %1"
+msgstr "验证方法：%1"
+
+#: src/commandline.ycp:301
+#, ycp-format
+msgid "Authentication key: %1"
+msgstr "验证密钥：%1"
+
+#. %1 is "enabled" or "disabled"
+#: src/commandline.ycp:360
+#, ycp-format
+msgid "Start Heartbeat service at boot: %1"
+msgstr "开机时启动 Heartbeat 服务：%1"
+
+#. Automatic start at boot is either "enableb" or "disabled"
+#: src/commandline.ycp:362
+msgid "enabled"
+msgstr "已启用"
+
+#: src/commandline.ycp:362
+msgid "disabled"
+msgstr "已禁用"
+
+#: src/common.ycp:38
+msgid "Start-up Configuration"
+msgstr "启动配置"
+
+#: src/common.ycp:39
+msgid "Node Configuration"
+msgstr "节点配置"
+
+#: src/common.ycp:40
+msgid "Media Configuration"
+msgstr "媒体配置"
+
+#: src/common.ycp:41
+msgid "Authentication Keys"
+msgstr "验证密钥"
+
+#: src/common.ycp:42
+msgid "Resources"
+msgstr "资源"
+
+#: src/common.ycp:43
+msgid "STONITH Configuration"
+msgstr "STONITH 配置"
+
+#: src/common.ycp:44
+msgid "Time-outs"
+msgstr "超时"
+
+#: src/common.ycp:45
+msgid "IP Fail"
+msgstr "IP 失败"
+
+#: src/common.ycp:46
+msgid "Ping Groups"
+msgstr "Ping 组"
+
+#. Command line help text for the Heartbeat module
+#: src/heartbeat.ycp:33
+msgid "Configuration of high availability (HA) cluster using Heartbeat service."
+msgstr "使用 Heartbeat 服务配置高可用性(HA)集群。"
+
+#. translators: command line help text for add action
+#: src/heartbeat.ycp:42
+msgid "Configure a list of servers for the cluster."
+msgstr "为集群配置服务器列表。"
+
+#. translators: command line help text for add action
+#: src/heartbeat.ycp:47
+msgid "Set the communication between the nodes of the cluster."
+msgstr "设置集群节点间的通讯。"
+
+#. translators: command line help text for add action
+#: src/heartbeat.ycp:52
+msgid "Configure authentication of the nodes."
+msgstr "配置节点认证方式。"
+
+#. translators: command line help text for add action
+#: src/heartbeat.ycp:57
+msgid "Configure automatic start of the service at boot."
+msgstr "配置开机自动启动服务。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:64
+msgid "Add a new item to the list."
+msgstr "向列表中添加新项。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:68
+msgid "Delete an item from the list."
+msgstr "从列表中删除一项。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:72
+msgid "Display the configuration."
+msgstr "显示配置。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:76
+msgid "Name of the node in the cluster."
+msgstr "集群中的节点名称。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:81
+msgid "Set the communication mode to 'bcast' for broadcast or 'mcast' for multicast."
+msgstr "设置通讯模式，可以是广播“bcast”或者多播“mcast”。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:86
+msgid "Network device (e.g. eth0) used for communication."
+msgstr "用于通讯的网络设备(比如，eth0)。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:91
+msgid "IP address of the multicast group (224.0.0.0 - 239.255.255.255)."
+msgstr "多址广播组的 IP 地址 (224.0.0.0 - 239.255.255.255)。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:96
+msgid "TTL value (1-255, default is 2)."
+msgstr "TTL 值(1-255，默认是 2)。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:101
+msgid "UDP port number (default is 694)."
+msgstr "UDP 端口号(默认是 694)。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:106
+msgid "Set authentication method to 'crc' (no security), 'sha1' or 'md5'."
+msgstr "设置认证方法，可以是“crc”(没有安全性)、“sha1”或者“md5”。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:111
+msgid "The authentication key."
+msgstr "验证密钥。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:116
+msgid "Enable automatic start of the service at boot."
+msgstr "启用开机自动启动服务。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:120
+msgid "Disable automatic start of the service at boot."
+msgstr "禁用开机自动启动服务。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:124
+msgid "Set the configuration."
+msgstr "设置配置。"
+
+#. translators: command line help text for the 'play' option
+#: src/heartbeat.ycp:128
+msgid "Print status of the automatic start at boot."
+msgstr "打印开机自动启动状态。"
+
+#: src/helps.ycp:17
+msgid ""
+"<p><b><big>Initializing Heartbeat Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在初始化 Heartbeat 配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#: src/helps.ycp:19
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化:</big></b><br>\n"
+"请您现在点击<b>终止</b>, 以便安全中断配置工具。</p>\n"
+
+#: src/helps.ycp:23
+msgid ""
+"<p><b><big>Saving Heartbeat Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在保存 Heartbeat 配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#: src/helps.ycp:25
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"请点击<B>中断</B>,以便中断保存.\n"
+"一个附加对话框将告诉您这样做是否安全.\n"
+"</p>\n"
+
+#: src/helps.ycp:31
+msgid ""
+"<p><b>Node Configuration</b> lets you specify and\n"
+"add nodes to your cluster. This installation program lets you create\n"
+"a new cluster or add nodes to an existing cluster. To add new nodes\n"
+"to an existing cluster, you must run this installation program from a\n"
+"node that is already in the cluster, not on a node that you want to add\n"
+"to the cluster.</p>\n"
+msgstr ""
+"<p><b>节点配置</b>使您能够向集群\n"
+"指定和添加节点。此安装程序使您能够创建新集群\n"
+"或向现有集群添加节点。要向现有集群\n"
+"添加新节点，您必须从集群中已有的节点\n"
+"(而非要添加到集群的节点)\n"
+"运行此安装程序。</p>\n"
+
+#: src/helps.ycp:39
+msgid ""
+"<p>This cluster installation program does not copy the Heartbeat\n"
+"software package to cluster nodes. Prior to running this installation program, the\n"
+"Heartbeat software package must be installed on all nodes that will be\n"
+"part of your cluster.</p>"
+msgstr ""
+"<p>此集群安装程序不向\n"
+"集群节点复制 Heartbeat 软件包。在运行此安装程序之前，\n"
+"必须将 Heartbeat 软件包安装在集群的\n"
+"所有节点上。</p>"
+
+#: src/helps.ycp:44
+msgid ""
+"<p>To add a node to the cluster, enter the name of the node\n"
+"then click <b>Add</b>. Repeat this process for each\n"
+"node to add to the cluster. Find node names for servers\n"
+"by entering the <tt>uname -n</tt> command on each node.</p>\n"
+msgstr ""
+"<p>要向集群添加节点，请输入该节点的名称，\n"
+"然后单击<b>添加</b>。请对要添加到集群的每个节点\n"
+"重复此过程。通过在每个节点上输入\n"
+"<tt>uname -n</tt> 命令可查找服务器的节点名称。</p>\n"
+
+#: src/helps.ycp:50
+msgid ""
+"<p>If you need to specify a different node name after adding a node to the cluster,\n"
+"double-click the node to edit, change its name, then click <b>Edit</b>.</p>\n"
+msgstr ""
+"<p>如果向集群添加节点后，需要为该节点指定\n"
+"其它节点名称，请双击要编辑的\n"
+"节点，更改节点名称，然后单击<b>编辑</b>。</p>\n"
+
+#: src/helps.ycp:54
+msgid ""
+"<p><b>Heartbeat Media Configuration</b> lets you\n"
+" specify the method Heartbeat should use for internal communication\n"
+"between cluster nodes. This provides a way for cluster nodes to signal\n"
+"that they are alive to other nodes in the cluster. For proper redundancy,\n"
+"you should specify more than one heartbeat medium if possible.</p>\n"
+msgstr ""
+"<p><b>Heartbeat 媒体配置</b>使您可以\n"
+"指定 Heartbeat 在集群节点之间进行内部通讯\n"
+"应使用的方法。这提供了一种途径，使得集群节点可将自身的活动状态\n"
+"通知给集群中的其它节点。为了有适当的冗余，\n"
+"应该指定一个以上的 heartbeat 媒体(如果可能)。</p>\n"
+
+#: src/helps.ycp:60
+msgid ""
+"<p>Choose at least one <b>Heartbeat Medium</b> and, if possible,\n"
+" two or more. After specifying a heartbeat medium, click <b>Add</b> to add\n"
+"that medium type to Heartbeat.</p>\n"
+msgstr ""
+"<p>选择至少一个 <b>Heartbeat 媒体</b>，如果可以请选择两个\n"
+"或更多。指定 heartbeat 媒体之后，单击<b>添加</b>将\n"
+"该媒体类型添加给 Heartbeat。</p>\n"
+
+#: src/helps.ycp:65
+msgid ""
+"<p>If you choose <b>Broadcast</b>, select one of the available network\n"
+"devices in the device list.</p>\n"
+msgstr ""
+"<p>如果选择<b>广播</b>，请在设备列表中选择一个\n"
+"可用的网络设备。</p>\n"
+
+#: src/helps.ycp:69
+msgid ""
+"<p>For <b>Multicast</b>, choose a network device, multicast\n"
+"group to join (class D multicast address 224.0.0.0-239.255.255.255), and\n"
+"the ttl value (1-255).</p>\n"
+msgstr ""
+"<p>对于<b>多路广播</b>，选择一个网络设备、要加入的多路广播组(D 类多路广播地址 224.0.0.0-239.255.255.255)\n"
+"和 ttl 值 (1-255)。</p>\n"
+
+#: src/helps.ycp:74
+msgid ""
+"<p><b>UDP Port</b> sets the UDP port that is used for the\n"
+"broadcast media. Leave this set to the default value (694)\n"
+"unless you are running multiple Heartbeat clusters on the same network\n"
+"segment, in which case you need to run each cluster on a different port\n"
+"number.</p>\n"
+msgstr ""
+"<p><b>UDP 端口</b>设置用于广播媒体的\n"
+"UDP 端口。保留该设置的默认值 (694)\n"
+"除非您正在同一网络段中运行多个 Heartbeat 集群\n"
+"在此情况下，需要在另一个端口号上运行\n"
+"每个集群。</p>\n"
+
+#: src/helps.ycp:81
+msgid ""
+"<p>Specify the authentication method to\n"
+" use for network communication between cluster nodes. Choosing\n"
+"an authentication method protects against network attacks.</p>\n"
+msgstr ""
+"<p>指定用于在集群节点间进行\n"
+"网络通讯的验证方法。选择\n"
+"一种验证方法来防止网络攻击。</p>\n"
+
+#: src/helps.ycp:85
+msgid ""
+"<p>Both the <b>md5</b> and <b>sha1</b> methods require a\n"
+" <i>shared secret</i>, which is used to protect and authenticate\n"
+" messages. The <b>crc</b> method does not perform message authentication\n"
+" and only protects against corruption, not against attacks.</p>\n"
+msgstr ""
+"<p><b>md5</b> 和 <b>sha1</b> 方法都需要\n"
+"<i>共享机密</i>，用于保护和验证\n"
+"消息。<b>crc</b> 方法不执行消息验证\n"
+" 并且只防止损坏，不防止攻击。</p>\n"
+
+#: src/helps.ycp:91
+msgid ""
+"<p>The <b>sha1</b> method is recommended because it provides the\n"
+"    strongest authentication scheme available. The authentication key\n"
+"(password) specified is used on all nodes in the cluster.</p>\n"
+msgstr ""
+"<p>建议使用 <b>sha1</b> 方法，因为它提供\n"
+" 可用的最强身份验证模式。指定的身份验证密钥\n"
+"(密码)用于集群中的所有节点。</p>\n"
+
+#: src/helps.ycp:96
+msgid ""
+"<p><b>Resources</b> -- specify which resources are handled by Heartbeat\n"
+"and how Heartbeat should handle failback (migration of resources back to\n"
+"a node after a failure has been resolved).</p>\n"
+msgstr ""
+"<p><b>资源</b> － 指定 Heartbeat 处理哪些资源\n"
+"以及 Heartbeat 应如何处理故障回复(故障解决后，资源迁移回\n"
+"节点)。</p>\n"
+
+#: src/helps.ycp:100
+msgid ""
+"<p>If you set <b>Automatic Failback</b> to <i>on</i>, Heartbeat \n"
+"migrates resources back to the primary owner as soon as it becomes\n"
+"available again. This automatically restores the balancing of\n"
+"resources between the nodes, but requires that the resources are briefly\n"
+"stopped so they can be cleanly started, leading to a minor\n"
+"interruption of service.</p>\n"
+msgstr ""
+"<p>如果您将<b>自动故障回复</b>设置为<i>开</i>，Heartbeat \n"
+"将在主拥有者又可用后立即把资源迁移回\n"
+"主拥有者。这样，就能自动恢复\n"
+"节点之间的资源平衡，但需要短暂停止资源，\n"
+"以便能完全启动资源，因此会导致服务\n"
+"短暂中断。</p>\n"
+
+#: src/helps.ycp:107
+msgid ""
+"<p>For most scenarios, <i>off</i> is the correct choice. It requires \n"
+"the administrator to trigger the failback of resources manually\n"
+"(using the hb_standby command line tool) as soon as the failure is\n"
+"resolved. This allows him to schedule a maintenance window and not\n"
+"interrupt the service even more.</p>\n"
+msgstr ""
+"<p>在大多数情况下，<i>关</i>是正确的选择。它要求\n"
+"管理员在故障解决后立即手动触发资源的故障回复\n"
+"(使用 hb_standby 命令行\n"
+"工具)。这样，管理员就可以安排维护时间段，而不用再\n"
+"中断服务。</p>\n"
+
+#: src/helps.ycp:113
+msgid ""
+"<p><i>legacy</i> is the old default for compatibility with former\n"
+"Heartbeat releases. It activates the automatic failback if not all\n"
+"nodes support the new directive yet. Explicitly choosing either \n"
+"<i>on</i> or <i>off</i> is recommended for new deployments.</p>\n"
+msgstr ""
+"<p><i>遗留设置</i>是可与先前的 Heartbeat 版本兼容的\n"
+"旧的默认设置。如果尚不是所有节点都支持\n"
+"新指令，它将激活自动故障回复。对于新部署，建议显式选择\n"
+"<i>开</i>或<i>关</i>。</p>\n"
+
+#: src/helps.ycp:118
+msgid ""
+"<p>Adding a resource to a given node places the resource under\n"
+"Heartbeat's control. It will be started and stopped automatically by\n"
+"Heartbeat. Make sure the resource is not started by anything\n"
+"else.</p>\n"
+msgstr ""
+"<p>在给定的节点上添加资源会将该资源置于\n"
+" Heartbeat 的控制之下。它将由 Heartbeat 自动启动和\n"
+"停止。请确保此资源不会被其它程序\n"
+"启动。</p>\n"
+
+#: src/helps.ycp:123
+msgid ""
+"<p>Heartbeat primarily starts the resource on the node to which it is\n"
+"assigned if both nodes are healthy and up. See the <b>auto_failback</b>\n"
+"setting above.</p>\n"
+msgstr ""
+"<p>当两个节点都运转正常且已启动时，Heartbeat 主要启动\n"
+"指派给它的那个节点上的资源。请查看上述 <b>auto_failback</b>\n"
+"的设置。</p>\n"
+
+#: src/helps.ycp:127
+msgid ""
+"<p>Specify any init script name as a resource or a specify a special \n"
+"Heartbeat resource script (provided in the <i>/etc/ha.d/resource.d</i>\n"
+"directory). Some of the latter take additional arguments, which are\n"
+"separated from the resource script name itself by <i>::</i>, for\n"
+"example, <i>Filesystem::/dev/sda1::/mnt::reiserfs</i>. Check the\n"
+"documentation for the resource scripts.</p>\n"
+msgstr ""
+"<p>指定任何初始化脚本名作为资源或指定特殊的\n"
+" Heartbeat 资源脚本(<i>/etc/ha.d/resource.d</i>\n"
+"目录中会提供)。后者的某些部分可接受附加参数，\n"
+"这些参数和资源脚本名本身之间用 <i>::</i> 分隔开，\n"
+"例如，<i>Filesystem::/dev/sda1::/mnt::reiserfs</i>。请查阅\n"
+"有关资源脚本的文档。</p>\n"
+
+#: src/helps.ycp:135
+msgid ""
+"<p>To protect the shared data, <b>STONITH</b>\n"
+" must be configured. Heartbeat is capable of driving a number of\n"
+"serial and network power switches to prevent a potentially faulty\n"
+"node from corrupting shared data.</p>\n"
+msgstr ""
+"<p>要保护共享数据，必须配置 <b>STONITH</b>\n"
+"。Heartbeat 能驱动多个\n"
+"串行和网络电源开关，以防止节点故障，\n"
+"避免损坏共享数据。</p>\n"
+
+#: src/helps.ycp:140
+msgid ""
+"<p>STONITH needs to know which nodes can access the power\n"
+" switch. Enter or select the name of the node in <b>Host From</b>.\n"
+" For a serial power switch, this is a specific node name.\n"
+" For a network power switch, you should typically enter an asterisk\n"
+" (*) to indicate that it is accessible from all nodes.</p>\n"
+msgstr ""
+"<p>STONITH 需要了解可以访问电源开关的\n"
+"节点。在<b>主机来自</b>中输入或选择节点的名称。\n"
+"  对于串行电源开关，这是特定的节点名称。\n"
+"  对于网络电源开关，通常应该输入一个星号\n"
+"  (*)，表明可从所有节点访问该开关。</p>\n"
+
+#: src/helps.ycp:146
+msgid ""
+"<p>The <b>STONITH Type</b> is the name of the module that\n"
+" is used to control the power switch. <b>Parameters</b> are\n"
+" specific to the module specified. See the <tt>stonith -h</tt>\n"
+" command line tool for a list of supported modules and\n"
+" the parameters they accept.</p>\n"
+msgstr ""
+"<p><b>STONITH Type</b> 是用于控制电源开关的\n"
+"模块的名称。<b>参数</b>是\n"
+" 特定于指定模块的。请参见 <tt>stonith -h</tt>\n"
+" 命令行工具，以获得支持的模块及其接受的参数\n"
+"的列表。</p>\n"
+
+#: src/helps.ycp:153
+msgid ""
+"<p><b><big>Booting</big></b><br>\n"
+"To start the Heartbeat software each time this cluster server\n"
+"is booted, select <b>On</b>. If you select <b>Off</b>, you \n"
+"must start Heartbeat manually each time this cluster server\n"
+"is booted. You can start the Heartbeat server manually using\n"
+"the <tt>/etc/init.d/heartbeat start</tt> command.</p>\n"
+"<p>To propagate the configuration to all nodes of the cluster and \n"
+"to enable heartbeat service on them, run the command line utility \n"
+"<tt>/usr/lib/heartbeat/ha_propagate</tt> on this node after the \n"
+"configuration is saved.</p>\n"
+msgstr ""
+"<p><b><big>引导</big></b><br>\n"
+"要在每次引导此集群服务器时启动 Heartbeat 软件，\n"
+"请选择<b>打开</b>。如果选择<b>关闭</b>，您必须\n"
+" 在每次引导此集群服务器时，手动\n"
+"启动 Heartbeat。可以使用\n"
+"<tt>/etc/init.d/heartbeat start</tt> 命令手动启动 Heartbeat 服务器。</p>\n"
+"<p>要传播配置到此集群中的所有节点并在它们上启用心跳服务，在保存配置后在\n"
+"此节点上运行 <tt>/usr/lib/heartbeat/ha_propagate</tt> 命令行工具。</p>\n"
+
+#: src/helps.ycp:165
+msgid ""
+"<p>Heartbeat uses a variety of timers to tune and configure its behavior.\n"
+"All timers are specified in seconds.</p>\n"
+msgstr ""
+"<p>Heartbeat 使用各种计时器来调节和配置其行为。\n"
+"所有计时器都指定为以秒为单位。</p>\n"
+
+#: src/helps.ycp:168
+msgid ""
+"<p><b>Keep Alive</b> specifies the interval at which a node announces itself on\n"
+"the network.</p>\n"
+msgstr ""
+"<p><b>保活</b>指定节点在网络上宣布自己的\n"
+"时间间隔。</p>\n"
+
+#: src/helps.ycp:171
+msgid ""
+"<p><b>Dead Time</b> is the time after which a node is presumed to be dead.\n"
+"It should probably default to five times the Keep Alive interval.</p>\n"
+msgstr ""
+"<p><b>死亡时间</b>在此时间后，节点将被认为已\"死\"。\n"
+"其默认值约为\"保活\"时间间隔的五倍。</p>\n"
+
+#: src/helps.ycp:174
+msgid ""
+"<p><b>Warn Time</b> is the time after which Heartbeat warns in the log files\n"
+"that a node has been slow in sending its heartbeats. This should\n"
+"probably default to three times the Keep Alive interval.</p>\n"
+msgstr ""
+"<p><b>警告时间</b>在此时间后，Heartbeat 将在日志文件中发出警告，\n"
+"指出节点发送其心跳次数的速度已降低。其默认值\n"
+"约为\"保活\"时间间隔的三倍。</p>\n"
+
+#: src/helps.ycp:178
+msgid ""
+"<p><b>Init Dead Time</b> is the time a node waits after start-up for the other\n"
+"nodes, given that sometimes network interfaces, routing, etc., take a\n"
+"while to stabilize. It should default to at least twice the Dead Time.</p>\n"
+msgstr ""
+"<p><b>初始化死亡时间</b>是指某节点启动后等待其它节点的时间，\n"
+"这是因为网络接口、路由等有时\n"
+"需要一段时间才能稳定下来。其默认值至少应为\"死亡时间\"的两倍。</p>\n"
+
+#: src/helps.ycp:182
+msgid ""
+"If the <b>Watchdog Timer</b> is enabled, Heartbeat uses\n"
+"the in-kernel watchdog for monitoring the local node itself. If\n"
+"Heartbeat does not write to that file every sixty seconds, the kernel \n"
+"forcibly reboots the node.</p>\n"
+msgstr ""
+"如果启用了<b>看门狗计时器</b>，则 Heartbeat 将使用\n"
+"内核内看门狗来监视本地节点本身。如果\n"
+"Heartbeat 不每隔六十秒钟就写入该文件一次，内核\n"
+"将强制重引导此节点。</p>\n"
+
+#: src/helps.ycp:188
+msgid ""
+"<p><b>IP Fail</b> allows monitoring of external\n"
+"hosts and moving the resources accordingly (i.e., to the host with the\n"
+"<i>best</i> connectivity).</p>\n"
+msgstr ""
+"<p><b>IP 失败</b>允许监视外部主机\n"
+"并相应地移动资源(即移到\n"
+"连接性<i>最好</i>的主机)。</p>\n"
+
+#: src/helps.ycp:192
+msgid ""
+"<p>If enabled, Heartbeat needs a <b>Ping List</b> of external nodes to ping.\n"
+"The minimum if IP fail is enabled is one. A maximum of four to eight nodes seems sensible.</p>\n"
+msgstr ""
+"<p>如果启用，Heartbeat 需要那些要 Ping 的外部节点的 <b>Ping 列表</b>。\n"
+"如果\"IP 失败\"已启用，最小值为一。而最大值为四到八个节点似乎比较可行。</p>\n"
+
+#: src/helps.ycp:195
+msgid "<p>For more complex configurations, Heartbeat also supports <i>Ping Groups</i>."
+msgstr "<p>对于更复杂的配置，Heartbeat 还支持 <i>Ping 组</i>。"
+
+#: src/helps.ycp:197
+msgid ""
+"A list of IP addresses is grouped together and if any\n"
+"of them is reachable, the node is deemed able to communicate with\n"
+"the <i>Ping Group</i>.</p>\n"
+msgstr ""
+"将一系列 IP 地址分组，如果\n"
+"其中任何一个可访问，则认为此节点能够与\n"
+"<i>Ping 组</i>通讯。</p>\n"
+
+#: src/ipfail_conf.ycp:71
+msgid "Node List"
+msgstr "节点列表"
+
+#: src/ipfail_conf.ycp:82 src/log_conf.ycp:47 src/timeouts_conf.ycp:96
+msgid "Enable"
+msgstr "启用"
+
+#: src/ipfail_conf.ycp:83 src/log_conf.ycp:48 src/timeouts_conf.ycp:97
+msgid "Disable"
+msgstr "禁用"
+
+#: src/ipfail_conf.ycp:87
+msgid "Ping to Node"
+msgstr "Ping 至节点"
+
+#: src/ipfail_conf.ycp:88
+msgid "IP Address"
+msgstr "IP 地址"
+
+#: src/ipfail_conf.ycp:155
+msgid "Specified IP address is already present."
+msgstr "指定的 IP 地址已存在。"
+
+#: src/ipfail_conf.ycp:266
+msgid "Ping Group"
+msgstr "Ping 组"
+
+#: src/ipfail_conf.ycp:267 src/ipfail_conf.ycp:277
+msgid "Group Name"
+msgstr "组名"
+
+#: src/ipfail_conf.ycp:269
+msgid "List of IP Addresses"
+msgstr "IP 地址列表"
+
+#: src/ipfail_conf.ycp:277
+msgid "IP Addresses"
+msgstr "IP 地址"
+
+#: src/ipfail_conf.ycp:312 src/ipfail_conf.ycp:339
+msgid "Group name is required."
+msgstr "组名是必填项。"
+
+#: src/ipfail_conf.ycp:317
+msgid "Specified group name is already present."
+msgstr "指定的组名已存在。"
+
+#: src/ipfail_conf.ycp:324 src/ipfail_conf.ycp:346
+msgid "Bad list of IP addresses."
+msgstr "IP 地址列表错误。"
+
+#: src/log_conf.ycp:37 src/timeouts_conf.ycp:86
+msgid "Keep Alive"
+msgstr "保活"
+
+#: src/log_conf.ycp:39 src/timeouts_conf.ycp:88
+msgid "Dead Time"
+msgstr "死亡时间"
+
+#: src/log_conf.ycp:41 src/timeouts_conf.ycp:90
+msgid "Warn Time"
+msgstr "警告时间"
+
+#: src/log_conf.ycp:43 src/timeouts_conf.ycp:92
+msgid "Init Dead Time"
+msgstr "初始化死亡时间"
+
+#: src/log_conf.ycp:45 src/timeouts_conf.ycp:94
+msgid "Watchdog Timer"
+msgstr "看门狗计时器"
+
+#: src/log_conf.ycp:49 src/timeouts_conf.ycp:99
+msgid "Watchdog Device"
+msgstr "看门狗设备"
+
+#: src/media_conf.ycp:46
+msgid ""
+"Warning: No redundancy in the Heartbeat communication channels.\n"
+"Multiple media should be configured to reduce the likelihood of\n"
+"critical split brain scenarios.\n"
+msgstr ""
+"警告：Heartbeat 通讯通道没有冗余。\n"
+"应该配置多个媒体，以便减少\n"
+"危险的\"裂脑\"情况。\n"
+
+#: src/media_conf.ycp:140
+msgid "UDP Port"
+msgstr "UDP 端口"
+
+#: src/media_conf.ycp:151
+msgid "Broadcast"
+msgstr "广播"
+
+#: src/media_conf.ycp:153 src/media_conf.ycp:165
+msgid "Device"
+msgstr "设备"
+
+#: src/media_conf.ycp:161
+msgid "Multicast"
+msgstr "多址广播"
+
+#: src/media_conf.ycp:163
+msgid "Multicast Group"
+msgstr "多址广播组"
+
+#: src/media_conf.ycp:167
+msgid "TTL"
+msgstr "TTL"
+
+#: src/media_conf.ycp:171
+msgid "Heartbeat Medium"
+msgstr "Heartbeat 媒体"
+
+#: src/media_conf.ycp:181
+msgid "Medium"
+msgstr "媒体"
+
+#: src/media_conf.ycp:181
+msgid "Options"
+msgstr "选项"
+
+#: src/media_conf.ycp:233
+msgid "Specified media is already present."
+msgstr "指定的媒体已存在。"
+
+#: src/media_conf.ycp:293
+msgid "Multicast group address must be class D (224.0.0.0 - 239.255.255.255)."
+msgstr "多址广播组地址必须为 D 类 (224.0.0.0 - 239.255.255.255)。"
+
+#: src/node_conf.ycp:73
+msgid "This Node"
+msgstr "此节点"
+
+#: src/node_conf.ycp:87
+msgid "Add Nodes"
+msgstr "添加节点"
+
+#: src/node_conf.ycp:89 src/node_conf.ycp:108
+msgid "Node Name"
+msgstr "节点名"
+
+#: src/node_conf.ycp:187
+msgid "Specify the node name."
+msgstr "指定节点名称。"
+
+#: src/node_conf.ycp:191 src/node_conf.ycp:198
+msgid "The specified node is already in the cluster."
+msgstr "指定的节点已在集群中。"
+
+#: src/resources_conf.ycp:113
+msgid "Automatic Failback"
+msgstr "自动故障回复"
+
+#: src/resources_conf.ycp:116
+msgid "Add Resource"
+msgstr "添加资源"
+
+#: src/resources_conf.ycp:118
+msgid "Add to Node"
+msgstr "添加到节点"
+
+#: src/resources_conf.ycp:120
+msgid "Resource"
+msgstr "资源"
+
+#: src/resources_conf.ycp:237
+msgid "Heartbeat resource manager only supports two nodes."
+msgstr "Heartbeat 资源管理器仅支持两个节点。"
+
+#: src/resources_conf.ycp:238
+msgid "Configure nodes first."
+msgstr "首先配置节点。"
+
+#: src/resources_conf.ycp:287
+msgid "Resource name is required."
+msgstr "资源名是必填项。"
+
+#: src/resources_conf.ycp:289
+msgid "The specified resource is already present."
+msgstr "指定的资源已存在。"
+
+#: src/startup_conf.ycp:25
+msgid "Booting"
+msgstr "引导"
+
+#: src/startup_conf.ycp:29
+msgid "On -- Start Heartbeat Server Now and when Booting"
+msgstr "开 － 立即启动 Heartbeat 服务器和引导时启动心跳服务器"
+
+#: src/startup_conf.ycp:30
+msgid "Off -- Server Only Starts Manually"
+msgstr "关 － 仅手动启动服务器"
+
+#: src/startup_conf.ycp:33
+msgid "Switch On and Off"
+msgstr "打开和关闭"
+
+#: src/startup_conf.ycp:38
+msgid "Current Status: "
+msgstr "当前状态："
+
+#: src/startup_conf.ycp:42
+msgid "Start Heartbeat Server Now"
+msgstr "立即启动 Heartbeat 服务器"
+
+#: src/startup_conf.ycp:43
+msgid "Stop Heartbeat Server Now"
+msgstr "立即停止 Heartbeat 服务器"
+
+#: src/startup_conf.ycp:69
+msgid "Heartbeat server is running."
+msgstr "Heartbeat 服务器正在运行。"
+
+#: src/startup_conf.ycp:69
+msgid "Heartbeat server is not running."
+msgstr "Heartbeat 服务器没有运行。"
+
+#: src/stonith_conf.ycp:19
+msgid "Specified STONITH host is already present."
+msgstr "指定的 STONITH 主机已存在。"
+
+#: src/stonith_conf.ycp:40
+msgid "Add STONITH Host"
+msgstr "添加 STONITH 主机"
+
+#: src/stonith_conf.ycp:42
+msgid "Host from"
+msgstr "主机来自"
+
+#: src/stonith_conf.ycp:44
+msgid "STONITH Type"
+msgstr "STONITH 类型"
+
+#: src/stonith_conf.ycp:46
+msgid "Parameters"
+msgstr "参数"
+
+#: src/stonith_conf.ycp:150
+msgid "Specify the host name."
+msgstr "指定主机名。"
+
+#: src/stonith_conf.ycp:154
+msgid "Specify the STONITH type."
+msgstr "指定 STONITH 类型。"
+
+#: src/stonith_conf.ycp:161
+msgid "The specified STONITH is already present."
+msgstr "指定的 STONITH 已存在。"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:146
+msgid "Heartbeat Configuration"
+msgstr "Heartbeat 配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:148
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#~ msgid "Propagate Configuration"
+#~ msgstr "传播配置"
+
+#~ msgid ""
+#~ "To propagate this configuration to the rest of the nodes,\n"
+#~ "run the command line utility ha_propagate."
+#~ msgstr ""
+#~ "要将此配置传播到剩余的节点，\n"
+#~ "请运行命令行实用程序 ha_propagate。"

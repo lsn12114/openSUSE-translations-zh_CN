@@ -1,0 +1,677 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:36+0200\n"
+"PO-Revision-Date: 2012-07-06 23:16+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/clients/wagon.ycp:172
+msgid ""
+"Cannot revert to the previous state of installed products.\n"
+"You will have to revert manually.\n"
+msgstr ""
+"不能回滚到已安装的产品之前的状态。\n"
+"您必须手工回滚。\n"
+
+#: src/clients/wagon.ycp:180 src/clients/wagon.ycp:222
+msgid "Reverting Migration"
+msgstr "正在回滚迁移"
+
+#: src/clients/wagon.ycp:181
+msgid ""
+"Migration tool has to remove the temporary migration products,\n"
+"install the previously installed ones and contact Novell Customer Center\n"
+"to get update repositories."
+msgstr ""
+"迁移工具需要移除临时的迁移产品，\n"
+"安装之前安装的产品并联系 Novell 客户中心\n"
+"来获取更新源。"
+
+#: src/clients/wagon.ycp:184
+msgid ""
+"<p>Several tasks can be done by the migration tool. If you skip this step,\n"
+"you will have to do them manually.</p>"
+msgstr ""
+"<p>迁移工具可以完成一些任务。如果您跳过此步骤，\n"
+"您必须手动完成它们。</p>"
+
+#. popup dialog caption
+#: src/clients/wagon.ycp:199
+msgid "Migration Has to Be Reverted"
+msgstr "迁移需要被回滚"
+
+#. popup dialog qustion
+#: src/clients/wagon.ycp:201
+msgid "Are you sure you want to skip reverting the migration?"
+msgstr "您确定您想要跳过回滚迁移吗？"
+
+#. button
+#: src/clients/wagon.ycp:203
+msgid "&Yes, Skip It"
+msgstr "是的, 跳过 (&Y)"
+
+#. button
+#: src/clients/wagon.ycp:205
+msgid "&No"
+msgstr "否(&N)"
+
+#: src/clients/wagon.ycp:223
+msgid "Removing temporary migration products..."
+msgstr "正在移除临时迁移产品..."
+
+#: src/clients/wagon.ycp:234
+#, ycp-format
+msgid ""
+"Cannot enable repository with alias\n"
+"%1\n"
+"Repository was not found."
+msgstr ""
+"不能启用别名为 %1\n"
+"的安装源。\n"
+"未找到安装源。"
+
+#: src/clients/wagon.ycp:269
+#, ycp-format
+msgid ""
+"Cannot remove product %1.\n"
+"Remove package %2 manually.\n"
+msgstr ""
+"不能移除产品 %1。\n"
+"请手动移除软件包 %2。\n"
+
+#: src/clients/wagon.ycp:271 src/include/common_func.ycp:211
+#: src/include/common_func.ycp:233
+msgid "Unknown product"
+msgstr "未知产品"
+
+#: src/clients/wagon_congratulate.ycp:32
+msgid "Migration Completed"
+msgstr "迁移完成"
+
+#. translators: %1 is a URL, e.g. http://www.suse.com
+#: src/clients/wagon_congratulate.ycp:39
+#, ycp-format
+msgid ""
+"<p><b>Congratulations!</b><br>\n"
+"You have successfully finished the on-line migration.</p>\n"
+"<p>The whole system has been upgraded. It should be rebooted\n"
+"as soon as possible.</p>\n"
+"<p>Please visit us at %1.</p>\n"
+"<p>Have a nice day!<br>\n"
+"Your SUSE Linux Team</p>\n"
+msgstr ""
+"<p><b>恭喜！</b><br>\n"
+"您已经成功完成在线迁移。</p>\n"
+"<p>整个系统已经升级。它应该尽快重启。</p>\n"
+"<p>请于 %1 访问我们。</p>\n"
+"<p>祝您今天愉快！<br>\n"
+"您的 SuSE 娘</p>\n"
+
+#: src/clients/wagon_congratulate.ycp:62
+msgid ""
+"<p><b>Finish</b> will close the migration.\n"
+"Restart the system as soon as possible.</p>\n"
+msgstr ""
+"<p><b>完成</b>将关闭迁移助手。</p>\n"
+"请尽快重启系统。</p>\n"
+
+#: src/clients/wagon_congratulate.ycp:86
+msgid "Finishing the migration..."
+msgstr "正在完成迁移..."
+
+#. heading text
+#: src/clients/wagon_dup_repositories.ycp:55
+msgid "Migration Repositories"
+msgstr "迁移源"
+
+#: src/clients/wagon_dup_repositories.ycp:58
+msgid "The packages will be switched to versions in the selected repositories."
+msgstr "软件包将被切换为选中软件源的版本。"
+
+#: src/clients/wagon_dup_repositories.ycp:59
+msgid "Selected"
+msgstr "已选中"
+
+#: src/clients/wagon_dup_repositories.ycp:59
+msgid "Name"
+msgstr "名称"
+
+#: src/clients/wagon_dup_repositories.ycp:59
+msgid "URL"
+msgstr "URL"
+
+#: src/clients/wagon_dup_repositories.ycp:61
+msgid "Select"
+msgstr "选择"
+
+#: src/clients/wagon_dup_repositories.ycp:62
+msgid "Deselect"
+msgstr "取消选择"
+
+#. help text
+#: src/clients/wagon_dup_repositories.ycp:67
+msgid "Select the repositories which will be used for migration."
+msgstr "选择将在迁移中使用的安装源。"
+
+#: src/clients/wagon_dup_repositories.ycp:68
+msgid "The installed packages will be switched to the versions available in the selected migration repositories."
+msgstr "已安装的软件包将被切换为选中的迁移源中的版本。"
+
+#. heading text
+#: src/clients/wagon_dup_repositories.ycp:157
+msgid "Migration Type"
+msgstr "迁移类型"
+
+#. frame label
+#: src/clients/wagon_dup_repositories.ycp:163
+msgid "Migration type"
+msgstr "迁移类型"
+
+#. radio button
+#: src/clients/wagon_dup_repositories.ycp:169
+msgid "&Minimal - upgrade from repositories added by registration"
+msgstr "极简(&M) - 从注册助手添加的安装源中升级"
+
+#. radio button
+#: src/clients/wagon_dup_repositories.ycp:171
+msgid "&Full - install also available patches in addition to Minimal migration"
+msgstr "完整(&F) - 除了极简迁移外也安装可用的补丁"
+
+#. push button
+#: src/clients/wagon_dup_repositories.ycp:181
+msgid "Advanced..."
+msgstr "高级..."
+
+#. help text
+#: src/clients/wagon_dup_repositories.ycp:185
+msgid "Select the requested migration type."
+msgstr "选择请求的迁移类型。"
+
+#. help text
+#: src/clients/wagon_dup_repositories.ycp:187
+msgid "Minimal migration only uses the repositories added by registration, full migration migrates all packages to the latest versions available in any enabled repository. Full migration might use third party repositories."
+msgstr "极简迁移只使用注册助手添加的安装源，完整迁移会升级所有的软件包到所有启用的安装源中能够找到的最新版本。完整迁移可能也使用第三方安装源。"
+
+#. help text
+#: src/clients/wagon_dup_repositories.ycp:189
+msgid "Press <b>Advanced</b> to manually select the repositories used for upgrading."
+msgstr "按下 <b>高级</b> 以手动选择升级用安装源。"
+
+#. error popup message
+#: src/clients/wagon_dup_repositories.ycp:241
+#, ycp-format
+msgid "Selected unknown migration type: %1."
+msgstr "已选中未知迁移类型：%1。"
+
+#: src/clients/wagon_migration_products.ycp:65
+#, ycp-format
+msgid "Cannot update installed product %1."
+msgstr "无法升级已安装的产品 %1。"
+
+#: src/clients/wagon_migration_products.ycp:77
+#: src/clients/wagon_migration_products.ycp:147
+msgid "Unable to initialize the software manager."
+msgstr "无法初始化软件包管理器。"
+
+#: src/clients/wagon_migration_products.ycp:101
+#, ycp-format
+msgid ""
+"Product %1 does not have a machine-readable 'name'.\n"
+"Automatic reverting of the product state will be impossible."
+msgstr ""
+"产品 %1 没有一个机器可读的 '名称'。\n"
+"产品状态的自动回滚无法使用。"
+
+#: src/clients/wagon_migration_products.ycp:108
+#, ycp-format
+msgid ""
+"Cannot upgrade product %1 (%2).\n"
+"Migration path is erroneous."
+msgstr ""
+"无法升级产品 %1 (%2)。\n"
+"迁移路径有误。"
+
+#: src/clients/wagon_migration_products.ycp:109
+msgid "Unknown"
+msgstr "未知"
+
+#: src/clients/wagon_migration_products.ycp:109
+msgid "undefined"
+msgstr "未定义"
+
+#: src/clients/wagon_migration_products.ycp:119
+#, ycp-format
+msgid ""
+"Cannot select product\n"
+"%1 (%2) for installation."
+msgstr "不能选择产品 %1 (%2) 以供安装。"
+
+#: src/clients/wagon_migration_products.ycp:174
+#, ycp-format
+msgid ""
+"Product %1 does not have a machine-readable 'name'.\n"
+"It cannot be disabled."
+msgstr ""
+"产品 %1 没有一个机器可读的 '名称'。\n"
+"它无法被禁用。"
+
+#: src/clients/wagon_registration_check.ycp:80
+msgid "Registration Summary"
+msgstr "注册摘要"
+
+#: src/clients/wagon_registration_check.ycp:84
+msgid "The system is not registered."
+msgstr "系统未注册。"
+
+#: src/clients/wagon_registration_check.ycp:92
+#, ycp-format
+msgid "Product <b>%1</b> has a valid registration."
+msgstr "产品 <b>%1</b> 未有效注册。"
+
+#: src/clients/wagon_registration_check.ycp:99
+#, ycp-format
+msgid "Product <b>%1</b> does not need a subscription."
+msgstr "产品 <b>%1</b> 无需订阅。"
+
+#: src/clients/wagon_registration_check.ycp:107
+#, ycp-format
+msgid "Registration status of product <b>%1</b> is unknown."
+msgstr "产品 <b>%1</b> 的注册状态未知。"
+
+#: src/clients/wagon_registration_check.ycp:115
+#, ycp-format
+msgid "Product <b>%1</b> is not registered, registration failed."
+msgstr "产品 <b>%1</b> 未注册，注册失败。"
+
+#: src/clients/wagon_registration_check.ycp:124
+#, ycp-format
+msgid "Registration for product <b>%1</b> has been refunded, the product is not registered."
+msgstr "产品 <b>%1</b> 的注册已退款，产品未注册。"
+
+#: src/clients/wagon_registration_check.ycp:133
+#, ycp-format
+msgid "Registration for product <b>%1</b> has expired, the registration is not valid anymore."
+msgstr "产品 <b>%1</b> 的注册过期，注册不再有效。"
+
+#: src/clients/wagon_registration_check.ycp:142
+#, ycp-format
+msgid "Registration for product <b>%1</b> is provisional only, no updates available"
+msgstr "产品 <b>%1</b> 的注册是临时的，无可用升级"
+
+#: src/clients/wagon_registration_check.ycp:157
+#, ycp-format
+msgid "The registration status is %1 days old. The summary above might not be correct, run registration to update the status."
+msgstr "注册状态为 %1 天。摘要或许不正确，运行注册助手以更新状态。"
+
+#: src/clients/wagon_registration_check.ycp:166
+msgid "Warning:"
+msgstr "警告："
+
+#: src/clients/wagon_registration_check.ycp:167
+msgid "We strongly recommend to register unregistered or expired products before starting migration."
+msgstr "我们强烈建议在开始迁移前注册未注册或过期的产品。"
+
+#: src/clients/wagon_registration_check.ycp:168
+#: src/clients/wagon_registration_check.ycp:190
+msgid "Migrating an unregistered or partly registered system might result in a broken system."
+msgstr "迁移一个未注册或部分注册的系统可能导致系统损坏。"
+
+#. heading text
+#: src/clients/wagon_registration_check.ycp:181
+msgid "Registration Check"
+msgstr "注册检查"
+
+#: src/clients/wagon_registration_check.ycp:185
+msgid "Run Registration..."
+msgstr "运行注册助手..."
+
+#. help text
+#: src/clients/wagon_registration_check.ycp:189
+msgid "YaST checks whether the installed products are registered."
+msgstr "YaST 检查已安装的产品是否注册。"
+
+#: src/clients/wagon_registration_handler.ycp:35
+msgid "Novell Customer Center Configuration"
+msgstr "Novell 客户中心配置"
+
+#: src/clients/wagon_registration_handler.ycp:36
+msgid "Checking the current repositories..."
+msgstr "正在检查当前安装源..."
+
+#. dialog caption
+#: src/clients/wagon_registration_handler.ycp:125
+msgid "Warning"
+msgstr "警告"
+
+#. pop-up question
+#: src/clients/wagon_registration_handler.ycp:127
+msgid ""
+"No changes were made to the list of registered repositories.\n"
+"This means that you either skipped the registration, there has been an \n"
+"error in the configuration, or the repositories have been added before.\n"
+"\n"
+"Do you want to rerun the registration?\n"
+msgstr ""
+"注册安装源列表无变更。\n"
+"这意味着您要么跳过了注册，要么配置出错，要么之前已经添加了这些安装源。\n"
+"\n"
+"您想要重新运行注册助手吗？\n"
+
+#: src/clients/wagon_registration_handler.ycp:133
+msgid "&Yes"
+msgstr "是(&Y)"
+
+#: src/clients/wagon_registration_handler.ycp:134
+msgid "&No, Skip it"
+msgstr "否，跳过(&N)"
+
+#: src/clients/wagon_update_proposal.ycp:58
+msgid "There is nothing to set."
+msgstr "没有要设定的配置。"
+
+#: src/clients/wagon_update_proposal.ycp:65
+msgid "Update Options"
+msgstr "更新选项"
+
+#: src/clients/wagon_update_proposal.ycp:66
+msgid "&Update Options"
+msgstr "更新选项(&U)"
+
+#: src/clients/wagon_update_url.ycp:27
+msgid "Select from Where to Get the Update URL"
+msgstr "选择从哪里获取更新 URL"
+
+#: src/clients/wagon_update_url.ycp:47
+msgid "&Customer Center"
+msgstr "客户中心(&C)"
+
+#: src/clients/wagon_update_url.ycp:50
+msgid "Check Automatic &Repository Changes"
+msgstr "自动检查安装源变更 (&R)"
+
+#: src/clients/wagon_update_url.ycp:58
+msgid "Custom &URL"
+msgstr "自定义 URL(&U)"
+
+#: src/clients/wagon_update_url.ycp:66
+msgid "Update Method"
+msgstr "更新方式"
+
+#. help text 1
+#: src/clients/wagon_update_url.ycp:69
+msgid ""
+"<p>Choose whether to use the <b>Customer Center</b>\n"
+"to handle the installation repositories during migration or use \n"
+"<b>Custom &URL</b> to set them manually.</p>\n"
+msgstr ""
+"<p>选择是否使用 <b>客户中心</b>\n"
+"在迁移时处理安装源或使用 <b>自定义 URL(&U)</b>\n"
+"手动设定它们。</p>\n"
+
+#. help text 2
+#: src/clients/wagon_update_url.ycp:74
+msgid ""
+"<p>Select <b>Check Automatic Repository Changes</b> to ensure\n"
+"that Customer Center has modified the repositories correctly. \n"
+"You can also modify them there.</p>\n"
+msgstr ""
+"<p>选择<b>检查自动安装源变更</b>来确保客户中心已正确修改了安装源。\n"
+"您也可以在客户中心修改它们。</p>\n"
+
+#. heading text
+#: src/clients/welcome_in_wagon.ycp:29
+msgid "Welcome"
+msgstr "欢迎"
+
+#: src/clients/welcome_in_wagon.ycp:32
+msgid ""
+"This tool will help to update the\n"
+"running system to a service pack.\n"
+"\n"
+"Click 'Next' to start the update."
+msgstr ""
+"这个工具将升级系统到一个\n"
+"服务包(Service Pack)。\n"
+"\n"
+"点击“下一步”开始更新。"
+
+#. help text
+#: src/clients/welcome_in_wagon.ycp:39
+msgid "<p>This tool updates the running system to a service pack.</p>"
+msgstr "<p>此工具将现有系统升级到一个服务包。</p>"
+
+#. warning message, system managed by SUSE Manager cannot be migrated by wagon
+#. display this message and exit
+#: src/clients/welcome_in_wagon.ycp:52
+msgid ""
+"This system is managed by SUSE Manager,\n"
+"YaST wagon module cannot migrate systems managed by SUSE Manager.\n"
+"\n"
+"Press OK to exit."
+msgstr ""
+"系统由 SuSE 管理员管理，YaST wagon 模块不能迁移由 SuSE 管理员管理的系统。\n"
+"\n"
+"点击 OK 退出。"
+
+#. Report error but let user go further
+#. Might help us in the future
+#: src/clients/welcome_in_wagon.ycp:71
+msgid "Cannot initialize software manager."
+msgstr "无法初始化软件包管理器。"
+
+#: src/include/common_func.ycp:34
+msgid "Solving the package dependencies..."
+msgstr "正在解决软件包依赖关系..."
+
+#. TRANSLATORS: headline
+#: src/include/common_func.ycp:82
+msgid "Aborting the Upgrade"
+msgstr "中止升级"
+
+#. TRANSLATORS: pop-up question
+#: src/include/common_func.ycp:84
+msgid ""
+"Cannot continue without installing the required patches.\n"
+"Are you sure you want to abort the upgrade process?\n"
+msgstr ""
+"如果未安装必需的补丁，则无法继续。\n"
+"您确定要中止升级吗？\n"
+
+#: src/include/common_func.ycp:87
+msgid "Abort Upgrade"
+msgstr "中止升级"
+
+#: src/include/common_func.ycp:123
+msgid "Resetting Software Manager"
+msgstr "正在重置软件管理器"
+
+#: src/include/common_func.ycp:124
+msgid "Resetting software manager..."
+msgstr "正在重置软件管理器..."
+
+#: src/include/common_func.ycp:211
+#, ycp-format
+msgid "Cannot remove product %1."
+msgstr "无法删除产品 %1。"
+
+#: src/include/common_func.ycp:233
+#, ycp-format
+msgid "Cannot find out owner of product %1."
+msgstr "无法找到产品 %1 的所有者。"
+
+#: src/modules/Wagon.ycp:101
+#, ycp-format
+msgid ""
+"Error switching migration method.\n"
+"Unknown migration method: %1.\n"
+msgstr ""
+"切换迁移方法出错。\n"
+"未知的迁移方法：%1。\n"
+
+#. TRANSLATORS: error message
+#: src/modules/Wagon.ycp:235
+msgid "No workflow defined."
+msgstr "未定义流程。"
+
+#: src/modules/Wagon.ycp:361
+msgid ""
+"\n"
+"This module does not support command-line interface.\n"
+"Use zypper instead.\n"
+msgstr ""
+"\n"
+"这个模块不支持命令行界面。\n"
+"要使用命令行，请用 zypper。\n"
+
+#: src/modules/Wagon.ycp:367
+msgid "Target file name ('xmlfile' option) is missing. Use xmlfile=<target_XML_file> command line option."
+msgstr "缺少目标文件名(“xmlfile”选项)。使用 xmlfile=<target_XML_file> 命令行选项。"
+
+#. popup heading, with rich text widget and Yes/No buttons
+#: src/modules/Wagon.ycp:412
+msgid "Do you accept this license agreement?"
+msgstr "是否接受此许可协议？"
+
+#: src/modules/Wagon.ycp:535
+#, ycp-format
+msgid "There is not enough free space to migrate the system using download in advance mode. Partition %1 needs at least %2MB more free disk space. (The needed size is estimated, it is recommended to add slightly more free space.) Add more disk space or disable download in advance mode."
+msgstr ""
+"没有足够的空余空间来使用先下载模式迁移系统。分区 %1 至少需要 %2MB 更多空余磁盘空间。\n"
+"(需要的空间为估计值，建议稍微多留一些。) 添加更多的磁盘空间或禁用先下载模式。"
+
+#: src/modules/Wagon.ycp:545
+#, ycp-format
+msgid "There might not be enough free space for download in advance mode migration. The estimated free space after migration is %2MB, it is recommended to increase the free space in case the estimation is inaccurate to avoid installation errors."
+msgstr ""
+"没有足够的空余空间来使用先下载模式迁移系统。迁移后估计空余空间为 %2MB，建议\n"
+"增加空余空间以避免估计不准导致的安装错误。"
+
+#. 'Product Long Name (product-libzypp-name)'
+#: src/modules/Wagon.ycp:578
+#, ycp-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: src/modules/Wagon.ycp:602 src/modules/Wagon.ycp:617
+#: src/modules/Wagon.ycp:663 src/modules/Wagon.ycp:707
+msgid "No short name defined."
+msgstr "未定义短名称。"
+
+#: src/modules/Wagon.ycp:616 src/modules/Wagon.ycp:662
+#: src/modules/Wagon.ycp:671 src/modules/Wagon.ycp:672
+#: src/modules/Wagon.ycp:706
+msgid "No name defined."
+msgstr "未定义名称。"
+
+#: src/modules/Wagon.ycp:634
+#, ycp-format
+msgid "Temporary migration product <b>%1</b> will be removed"
+msgstr "临时迁移产品 <b>%1</b> 将删除"
+
+#: src/modules/Wagon.ycp:642
+#, ycp-format
+msgid "<font color='red'><b>Warning:</b> Product <b>%1</b> will be removed.</font>"
+msgstr "<font color='red'><b>警告：</b> 产品 <b>%1</b> 将删除。</font>"
+
+#: src/modules/Wagon.ycp:650
+#, ycp-format
+msgid "<font color='red'><b>Error:</b> Product <b>%1</b> will be automatically removed.</font>"
+msgstr "<font color='red'><b>错误：</b> 产品 <b>%1</b> 将自动删除。</font>"
+
+#: src/modules/Wagon.ycp:680
+#, ycp-format
+msgid "Product <b>%1</b> will be upgraded"
+msgstr "产品 <b>%1</b> 将升级"
+
+#: src/modules/Wagon.ycp:687
+#, ycp-format
+msgid "Product <b>%1</b> will be upgraded to <b>%2</b>"
+msgstr "产品 <b>%1</b> 将升级到 <b>%2</b>"
+
+#: src/modules/Wagon.ycp:695
+#, ycp-format
+msgid "New product <b>%1</b> will be installed"
+msgstr "新产品 <b>%1</b> 将安装"
+
+#: src/modules/Wagon.ycp:711
+#, ycp-format
+msgid "Product <b>%1</b> will stay installed"
+msgstr "产品 <b>%1</b> 将保留"
+
+#: src/modules/Wagon.ycp:718
+msgid "Download all packages before upgrade: "
+msgstr "在升级前下载所有软件包："
+
+#: src/modules/Wagon.ycp:719
+msgid "Enabled"
+msgstr "已启用"
+
+#: src/modules/Wagon.ycp:719
+msgid "Disabled"
+msgstr "已禁用"
+
+#. help text
+#: src/modules/Wagon.ycp:726
+msgid "<p>To change the update settings, go to <b>Packages Proposal</b> section.</p>"
+msgstr "<p>要更改更新设置，请至<b>软件包方案</b>部分。</p>"
+
+#: src/modules/Wagon.ycp:734
+#, ycp-format
+msgid ""
+"<li><b>%1 products will be removed.\n"
+"Go to the packages proposal and resolve the issue manually.<br>\n"
+"It is safe to abort the migration now.</b></li>\n"
+msgstr ""
+"<li><b>%1 产品将被删除。\n"
+"去软件包方案并手动解决问题。<br>\n"
+"现在可以安全中止迁移助手。</b></li>\n"
+
+#: src/modules/Wagon.ycp:739
+msgid ""
+"<li><b>One product will be removed.\n"
+"Go to the packages proposal and solve the issue manually.<br>\n"
+"It is safe to abort the migration now.</b></li>\n"
+msgstr ""
+"<li><b>一个产品将被删除。\n"
+"去软件包方案并手动解决问题。<br>\n"
+"现在可以安全中止迁移助手。</b></li>\n"
+
+#: src/modules/Wagon.ycp:779
+msgid "Error restoring the list of previously installed products."
+msgstr "恢复之前安装的产品列表出错。"
+
+#: src/modules/Wagon.ycp:837
+#, ycp-format
+msgid "Error running hook script %1."
+msgstr "运行钩子脚本 %1 出错。"
+
+#, fuzzy
+#~| msgid "Starting the Package Manager"
+#~ msgid "Reseting Package Manager"
+#~ msgstr "启动包管理器"
+
+#~ msgid "Update URL"
+#~ msgstr "更新 URL"
+
+#~ msgid "FIXME: some help text"
+#~ msgstr "FIXME: 帮助文本"
+
+#~ msgid "Distribution Upgrade"
+#~ msgstr "发行升级"
+
+#~ msgid "<p>FIXME</p>"
+#~ msgstr "<p>FIXME</p>"

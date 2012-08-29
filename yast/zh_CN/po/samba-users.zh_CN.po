@@ -1,0 +1,123 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:48+0200\n"
+"PO-Revision-Date: 2012-07-08 01:50+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. plugin name
+#: users-plugin/UsersPluginSamba.pm:85
+#: users-plugin/UsersPluginSambaGroups.pm:85
+msgid "Samba Attributes"
+msgstr "Samba 属性"
+
+#. summary
+#: users-plugin/UsersPluginSamba.pm:95
+msgid "Manage samba account parameters"
+msgstr "管理 Samba 帐号参数"
+
+#: users-plugin/UsersPluginSamba.pm:203
+msgid "Could not update objectClass attribute."
+msgstr "无法更新对象类属性。"
+
+#: users-plugin/UsersPluginSamba.pm:252
+msgid "Could not initialize Samba SID. Disabling plug-in."
+msgstr "无法初始化 Samba SID。禁用插件。"
+
+#: users-plugin/UsersPluginSamba.pm:293
+msgid "Change the password to create the Samba account"
+msgstr "更改该密码以创建 Samba 帐户"
+
+#. summary
+#: users-plugin/UsersPluginSambaGroups.pm:95
+msgid "Manage Samba attribute of LDAP groups"
+msgstr "管理 LDAP 组的 Samba 属性"
+
+#. helptext
+#: users-plugin/users_plugin_samba.ycp:62
+msgid "<p>Here, edit the setting of the user's samba account.</p>"
+msgstr "<p>在这里编辑用户的 Samba 帐号的设置。</p>"
+
+#: users-plugin/users_plugin_samba.ycp:63
+msgid "<p>If do not enter custom values for "
+msgstr "<p>如果没有为以下选项输入自定义值 "
+
+#: users-plugin/users_plugin_samba.ycp:64
+msgid "<b>Home Drive</b>, <b>Home Path</b>, <b>Profile Path</b>, and <b>Logon Script</b> "
+msgstr "<b>主驱动器</b>、<b>主路径</b>、<b>配置文件路径</b>和<b>登录脚本</b> "
+
+#: users-plugin/users_plugin_samba.ycp:65
+msgid "the default values as defined in your local Samba Configuration will be used.</p>"
+msgstr "将使用在您本地 Samba 配置文件中定义的默认值。</p>"
+
+#: users-plugin/users_plugin_samba.ycp:75
+msgid "Home Drive"
+msgstr "家驱动器"
+
+#: users-plugin/users_plugin_samba.ycp:78
+#: users-plugin/users_plugin_samba.ycp:86
+#: users-plugin/users_plugin_samba.ycp:94
+#: users-plugin/users_plugin_samba.ycp:102
+msgid "Use Default Values"
+msgstr "使用默认值"
+
+#: users-plugin/users_plugin_samba.ycp:83
+msgid "Home Path"
+msgstr "家路径"
+
+#: users-plugin/users_plugin_samba.ycp:91
+msgid "Profile Path"
+msgstr "配置文件路径"
+
+#. translators: logon is the Windows synonym for login
+#: users-plugin/users_plugin_samba.ycp:99
+msgid "Logon Script"
+msgstr "登录脚本"
+
+#: users-plugin/users_plugin_samba.ycp:107
+msgid "Samba Account Disabled"
+msgstr "Samba 帐号已经被禁止"
+
+#: users-plugin/users_plugin_samba.ycp:108
+msgid "No Password Expiration"
+msgstr "密码不会过期"
+
+#. dialog caption
+#: users-plugin/users_plugin_samba.ycp:118
+#: users-plugin/users_plugin_samba_groups.ycp:92
+msgid "Edit Samba Attributes"
+msgstr "编辑 Samba 属性"
+
+#. help text
+#: users-plugin/users_plugin_samba_groups.ycp:70
+msgid ""
+"<p>This plugin can be used to enable an LDAP group to be available for Samba.\n"
+"The only setting that you can edit here is the <b>Samba Group Name</b> attribute,\n"
+"which is the Name of the Group as it should appear to Samba-Clients. All other\n"
+"settings are computed automatically. If you leave the <b>Samba Group Name</b>\n"
+"empty, the same name as configured in the Global Settings of this Group will\n"
+"be used.</p>\n"
+msgstr ""
+"<p>此插件可以启用在 Samba 中可用的 LDAP 组。\n"
+"这里您能够编辑的设置只有<b>Samba 组名称</b>属性，\n"
+"它是在 Samba 客户端显示的组名称。其他设置都被自动\n"
+"计算生成。如果您把<b>Samba 组名称</b>留空，\n"
+"程序会自动使用全局设置中的组配置。</p>\n"
+
+#: users-plugin/users_plugin_samba_groups.ycp:82
+msgid "Samba Group Name"
+msgstr "Samba 组名称"

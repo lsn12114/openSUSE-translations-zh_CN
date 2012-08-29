@@ -1,0 +1,6502 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2010-01-20 19:33:54\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. summary(lklug-fonts)
+msgid "\"Lanka Linux User Group\" OpenType font for Sinhala"
+msgstr ""
+
+#. description(lklug-fonts)
+msgid ""
+"\"Lanka Linux User Group\" OpenType font for Sinhala copyright 2004 by "
+"Yannis Haralambous.  OTF tables added by Anuradha Ratnaweera an d Harshani "
+"Devadithya, and modified by Harshula Jayasuriya. \"Kunddaliya\" glyph "
+"Copyright (c) 2006 Harshula Jayasuriya"
+msgstr ""
+
+#. description(mono-kde4)
+#, fuzzy
+msgid ".NET/Mono bindings for the KDE libraries."
+msgstr "电源管理 (APM)"
+
+#. description(mono-qt4)
+msgid ""
+".NET/Mono bindings for the Qt4 libraries from the kdebindings Qyoto project."
+msgstr ""
+
+#. summary(log4net)
+msgid "A .NET framework for logging"
+msgstr ""
+
+#. summary(libvirt)
+msgid "A C toolkit to interact with the virtualization capabilities of Linux"
+msgstr ""
+
+#. summary(ncftp)
+msgid "A Comfortable FTP Program"
+msgstr ""
+
+#. summary(monodevelop)
+msgid "A Full-Featured IDE for Mono and Gtk#"
+msgstr ""
+
+#. summary(mhash)
+msgid "A Library for Working with Strong Hashes (Like MD5)"
+msgstr ""
+
+#. summary(nautilus-share)
+msgid "A Quick and Easy Way to Share Folders in Nautilus Via Samba"
+msgstr ""
+
+#. summary(minicom)
+msgid "A Terminal Program"
+msgstr ""
+
+#. summary(lynx)
+msgid "A Text-Based WWW Browser"
+msgstr ""
+
+#. description(libyaml:libyaml-0-2)
+msgid ""
+"A YAML 1.1 parser and emitter written in C\n"
+"\n"
+"This package holds the shared library of libyaml."
+msgstr ""
+
+#. summary(m17n-contrib)
+msgid "A collection of contributed works to be used with the m17n library"
+msgstr ""
+
+#. description(m17n-contrib)
+msgid ""
+"A collection of contributed works to be used with the m17n library, mainly "
+"additional Indic input methods."
+msgstr ""
+
+#. description(mono-debugger)
+msgid ""
+"A debugger is an important tool for development. The Mono Debugger (MDB) can "
+"debug both managed and unmanaged applications.  It provides a reusable "
+"library that can be used to add debugger functionality to different front-"
+"ends. The debugger package includes a console debugger named \"mdb\", and "
+"MonoDevelop (http://www.monodevelop.com) provides a GUI interface to the "
+"debugger."
+msgstr ""
+
+#. description(man-pages)
+msgid ""
+"A large collection of man pages (documentation) from the Linux Documentation "
+"Project (LDP).  The man pages are organized into the following sections: "
+"Section 1, user commands (intro only); Section 2, system calls; Section 3, "
+"libc calls; Section 4, devices (e.g., hd, sd); Section 5, file formats and "
+"protocols (e.g., wtmp, /etc/passwd, nfs); Section 6, games (intro only); "
+"Section 7, conventions, macro packages, etc. (e.g., nroff, ascii); and "
+"Section 8, system administration (intro only)."
+msgstr ""
+
+#. description(man-pages-posix)
+msgid ""
+"A large collection of man pages (reference material) from the IEEE Std "
+"1003.1, 2003 Edition, Standard for Information Technology -- Portable "
+"Operating System Interface (POSIX), The Open Group Base Specifications Issue "
+"6, Copyright (C) 2001-2003 by the Institute of Electrical and Electronics "
+"Engineers, Inc and The Open Group. The man pages are organized into the "
+"following sections: 0p: POSIX headers 1p: POSIX utilities 3p: POSIX functions"
+msgstr ""
+
+#. description(lobster-cyrillic-fonts)
+msgid ""
+"A lovely Bold Condensed Script fully loaded with hundreds of ligatures and "
+"alternates.\n"
+"\n"
+"Lobster Cyrillic includes:\n"
+"- 99 Cyrillic ligatures.\n"
+"- 25 ending glyphs.\n"
+"- 100 ending ligatures.\n"
+"- 2 initial ligatures.\n"
+"- Ukrainian Hryvnia and Russian Ruble currency symbols."
+msgstr ""
+
+#. description(m17n-lib)
+msgid ""
+"A multilingual text processing library for the C language. This package "
+"contains m17n-* programs."
+msgstr ""
+
+#. description(mlterm:mlterm-scim)
+msgid "A plugin to use the SCIM input methods directly from mlterm."
+msgstr ""
+
+#. description(mlterm:mlterm-uim)
+msgid "A plugin to use the uim input methods directly from mlterm."
+msgstr ""
+
+#. description(xmms2:libxmmsclient-glib1)
+msgid "A simple Glib client library for XMMS2"
+msgstr ""
+
+#. description(xmms2:libxmmsclient6)
+msgid "A simple client library for XMMS2"
+msgstr ""
+
+#. description(mpi-selector)
+msgid ""
+"A simple tool that allows system administrators to set a site-wide default "
+"for which MPI implementation is to be used, but also allow users to set "
+"their own defaults MPI implementation, thereby overriding the site-wide "
+"default.\n"
+"\n"
+"The default can be changed easily via the mpi-selector command -- editing of "
+"shell startup files is not required."
+msgstr ""
+
+#. description(minicom)
+msgid ""
+"A terminal program similar to Telix(tm) (a program for calling other "
+"computers via modem) under MS-DOS.\n"
+"\n"
+"If you want to access your modem with minicom, you have to be a member of "
+"the uucp group."
+msgstr ""
+
+#. summary(lxsession-edit)
+msgid "A tool manage lxsession-lite"
+msgstr ""
+
+#. summary(menu-cache)
+msgid "A tool speed up menus"
+msgstr ""
+
+#. summary(lxmenu-data)
+msgid "A tool to build desktop menu for LXDE"
+msgstr ""
+
+#. description(mutt)
+msgid ""
+"A very powerful mail user agent. It supports (among other nice things) "
+"highlighting, threading, and PGP. It takes some time to get used to, however."
+msgstr ""
+
+#. summary(ntp:ntp-doc)
+msgid "Additional Package Documentation for ntp"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-african)
+msgid "African Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-albanian)
+msgid "Albanian Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-american)
+msgid "American Dictionary for MySpell"
+msgstr ""
+
+#. summary(link-grammar)
+msgid "An English grammar checker"
+msgstr ""
+
+#. summary(mlterm:mlterm-uim)
+msgid "An uim plugin for mlterm"
+msgstr ""
+
+#. description(nautilus-share)
+msgid ""
+"Application for the GNOME desktop integrated in Nautilus, that allows simple "
+"use of Nautilus shares without signing in as root.\n"
+"\n"
+"Features: * A new entry in your Nautilus right-click menu with a    nice "
+"icon.\n"
+"\n"
+"* A simple dialog to share your folder, which allows you to choose a    name "
+"and decide whether to make it read-only.\n"
+"\n"
+"* Possibility to access it from the Properties tab of your folder.\n"
+"\n"
+"* Possibility to see whether a share name already exists by simply    typing "
+"it.\n"
+"\n"
+"* Nautilus displays a palm icon to visually show you which folders are "
+"shared."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-arabic)
+msgid "Arabic Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-argentine)
+msgid "Argentine Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-armenian)
+msgid "Armenian Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-australian)
+msgid "Australian Dictionary for MySpell"
+msgstr ""
+
+#. summary(igerman98:myspell-austrian)
+msgid "Austrian Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-brazilian)
+#, fuzzy
+msgid "Brazilian Portuguese Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(myspell-dictionaries:myspell-british)
+msgid "British Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-bulgarian)
+msgid "Bulgarian Dictionary for MySpell"
+msgstr ""
+
+#. summary(libxml++:libxml++-2_6-2)
+#, fuzzy
+msgid "C++ Interface for XML Files"
+msgstr "启动时选择的接口："
+
+#. summary(libxml++:libxml++-devel)
+#, fuzzy
+msgid "C++ Interface for XML Files -- Development Files"
+msgstr "启动时选择的接口："
+
+#. summary(msynctool)
+msgid "CLI for synchronization with OpenSync"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-canadian)
+msgid "Canadian Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-catalan)
+msgid "Catalan Dictionary for MySpell"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-dhcp)
+msgid "Check DHCP servers"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-linux_raid)
+msgid "Check Linux software RAIDs"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-nwstat)
+msgid "Check MRTGEXT NLM running"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-netapp)
+msgid "Check NetApp filer"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-oracle)
+msgid "Check Oracle database health status."
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-oracle)
+msgid "Check Oracle status"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-overcr)
+msgid "Check Over-CR collector daemon"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-rpc)
+#, fuzzy
+msgid "Check RPC service"
+msgstr "CIPE 服务"
+
+#. summary(nagios-plugins:nagios-plugins-disk_smb)
+msgid "Check SMB Disk"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-smtp)
+msgid "Check SMTP connections"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-ssh)
+#, fuzzy
+msgid "Check SSH service"
+msgstr "CIPE 服务"
+
+#. summary(nagios-plugins:nagios-plugins-ircd)
+msgid "Check an IRCd server"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-xenvm)
+msgid "Check available XEN VMs"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-mrtg)
+msgid "Check average or maximum value in an MRTG logfile"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-ntp_time)
+msgid "Check clock offset with the ntp server"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-ping)
+msgid "Check connection statistics"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-disk)
+msgid "Check disk space"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-flexlm)
+msgid "Check flexlm license managers"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-sensors)
+msgid "Check hardware status using lm_sensors"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-ntp_peer)
+msgid "Check health of an NTP server"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-rpc)
+msgid "Check if a rpc service is registered and running using rpcinfo."
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-mrtgtraf)
+msgid "Check incoming/outgoing transfer rates of a router"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-ide_smart)
+msgid "Check local hard drive"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-mailq)
+msgid "Check mail queues"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-nagios)
+msgid "Check nagios server"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-users)
+msgid "Check number of users currently logged in"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-procs)
+msgid "Check processes"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-swap)
+msgid "Check swap space"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-swap)
+msgid "Check swap space on local machine."
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-file_age)
+msgid "Check the age/size of files"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-disk_smb)
+msgid ""
+"Check the amount of used disk space on a remote Samba or Windows share and "
+"generate an alert if free space is less than one of the threshold values."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-netapp)
+msgid "Check the the status of a NetApp filer via SNMP."
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-time)
+msgid "Check the time on the specified host"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-wave)
+msgid "Check the wave signal strength via SNMP."
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-wave)
+msgid "Check wave signal strength"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-xenvm)
+msgid ""
+"Checks the number of Xen VMs running on a machine and returns a warning or a "
+"critical message if the number exceeds the thresholds specified."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-chilean)
+msgid "Chilean Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(man-pages-zh_CN)
+msgid "Chinese translation of man pages from the CMPP project"
+msgstr ""
+
+#. summary(xmms2:libxmmsclient6)
+#, fuzzy
+msgid "Client library for  xmms2"
+msgstr "正在创建资源数据库"
+
+#. summary(libvirt:libvirt-client)
+msgid "Client side library and utilities of the libvirt library"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-nt)
+msgid "Collect data from NSClient service"
+msgstr ""
+
+#. description(nanum-fonts:nanum-gothic-coding-fonts)
+msgid "Collection of Nanum Gothic CodingKorean TrueType fonts."
+msgstr ""
+
+#. description(nanum-fonts)
+msgid ""
+"Collection of Nanum Korean TrueType fonts: NanumBrush, NanumGothic, "
+"NanumMyeongjo and NanumPen."
+msgstr ""
+
+#. summary(mono-tools)
+msgid "Collection of Tools and Utilities for Mono"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-colombian)
+msgid "Colombian Spanish Dictionary for MySpell"
+msgstr ""
+
+#. description(msynctool)
+msgid ""
+"Command line interface for libopensync to allow synchronization on machines "
+"which lack a X server. It relies on the OpenSync framework to do the actual "
+"synchronization. You need to install the libopensync package and the plugins "
+"for it, too."
+msgstr ""
+
+#. summary(MozillaFirefox:MozillaFirefox-translations-common)
+msgid "Common translations for MozillaFirefox"
+msgstr ""
+
+#. summary(MozillaThunderbird:MozillaThunderbird-translations-common)
+msgid "Common translations for MozillaThunderbird"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-costa-rican)
+msgid "Costa Rican Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(lxshortcut)
+msgid "Create shortcuts for LXDE"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-croatian)
+msgid "Croatian Dictionary for MySpell"
+msgstr ""
+
+#. summary(libWindowsWM:libWindowsWM7)
+msgid "Cygwin/X rootless window management extension"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-czech)
+msgid "Czech Dictionary for MySpell"
+msgstr ""
+
+#. summary(man-pages-cs)
+msgid "Czech Manual Pages"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-danish)
+msgid "Danish Dictionary for MySpell"
+msgstr ""
+
+#. summary(libxfcegui4:libxfcegui4-data)
+#, fuzzy
+msgid "Data Files for the libxfcegui4 Library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(m17n-db)
+msgid "Database Needed by the m17n Library m17n-lib"
+msgstr ""
+
+#. description(m17n-db)
+msgid "Database that is needed by the m17n library \"m17n-lib\"."
+msgstr ""
+
+#. summary(malaga-suomi)
+msgid "Description of Finnish Morphology Written in Malaga"
+msgstr ""
+
+#. summary(xine-lib:libxine-devel)
+msgid "Development environment for xine-based media players"
+msgstr ""
+
+#. summary(util-linux:libuuid-devel)
+#, fuzzy
+msgid "Development files for libuuid1"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(v4l-utils:libv4l-devel)
+#, fuzzy
+msgid "Development files for libv4l"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(lua:lua-devel)
+#, fuzzy
+msgid "Development files for lua"
+msgstr "开发"
+
+#. summary(libXcliplist:libXcliplist-devel)
+#, fuzzy
+msgid "Development files for the ?"
+msgstr "开发"
+
+#. summary(libWindowsWM:libWindowsWM-devel)
+#, fuzzy
+msgid "Development files for the Cygwin/X rootless extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXaw:libXaw-devel)
+#, fuzzy
+msgid "Development files for the X Athena Widget Set"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXdamage:libXdamage-devel)
+#, fuzzy
+msgid "Development files for the X Damage Extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXevie:libXevie-devel)
+#, fuzzy
+msgid "Development files for the X Event Interception Extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXft:libXft-devel)
+#, fuzzy
+msgid "Development files for the X FreeType library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXi:libXi-devel)
+#, fuzzy
+msgid "Development files for the X Input Extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXmu:libXmu-devel)
+#, fuzzy
+msgid "Development files for the X Miscellaneous Utility Libraries"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXpm:libXpm-devel)
+#, fuzzy
+msgid "Development files for the X Pixmap image file format library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXp:libXp-devel)
+#, fuzzy
+msgid "Development files for the X Printing Extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXrandr:libXrandr-devel)
+#, fuzzy
+msgid "Development files for the X Resize-Rotate-Reflection library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXres:libXres-devel)
+#, fuzzy
+msgid "Development files for the X Resource extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXt:libXt-devel)
+#, fuzzy
+msgid "Development files for the X Toolkit Intrinsics library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXfontcache:libXfontcache-devel)
+#, fuzzy
+msgid "Development files for the X TrueType font cache library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXv:libXv-devel)
+#, fuzzy
+msgid "Development files for the X Video extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXcursor:libXcursor-devel)
+#, fuzzy
+msgid "Development files for the X Window System Cursor library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXTrap:libXTrap-devel)
+#, fuzzy
+msgid "Development files for the X event Trap extension"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXfont:libXfont-devel)
+#, fuzzy
+msgid "Development files for the X font handling library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXvMC:libXvMC-devel)
+#, fuzzy
+msgid "Development files for the X-Video Motion Compensation library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXext:libXext-devel)
+#, fuzzy
+msgid "Development files for the X11 Common Extensions library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXcomposite:libXcomposite-devel)
+#, fuzzy
+msgid "Development files for the X11 Composite extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXrender:libXrender-devel)
+#, fuzzy
+msgid "Development files for the X11 Render Extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXScrnSaver:libXScrnSaver-devel)
+#, fuzzy
+msgid "Development files for the X11 Screen Saver extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXtst:libXtst-devel)
+#, fuzzy
+msgid "Development files for the X11 XTEST and RECORD extensions"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXfixes:libXfixes-devel)
+#, fuzzy
+msgid "Development files for the X11 Xfixes extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXinerama:libXinerama-devel)
+#, fuzzy
+msgid "Development files for the X11 Xinerama extension"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libxkbui:libxkbui-devel)
+#, fuzzy
+msgid "Development files for the X11 keyboard UI presentation library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXdmcp:libXdmcp-devel)
+#, fuzzy
+msgid "Development files for the XDM Control Protocol library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXxf86dga:libXxf86dga-devel)
+#, fuzzy
+msgid "Development files for the XFree86-DGA extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXxf86misc:libXxf86misc-devel)
+#, fuzzy
+msgid "Development files for the XFree86-Misc X extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXxf86vm:libXxf86vm-devel)
+#, fuzzy
+msgid "Development files for the XFree86-VidMode X extension library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXprintAppUtil:libXprintAppUtil-devel)
+#, fuzzy
+msgid "Development files for the Xprint application utility routines"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libXprintUtil:libXprintUtil-devel)
+#, fuzzy
+msgid "Development files for the Xprint printer utility library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(net-snmp:net-snmp-devel)
+#, fuzzy
+msgid "Development files from net-snmp"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(marble:marble-devel)
+#, fuzzy
+msgid "Development headers and libraries for Marble."
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(mono-qt4:mono-qt4-devel)
+#, fuzzy
+msgid "Development libraries for Mono-Qt4"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(mirror)
+msgid "Documentation: \"man mirror\" and \"man mm\"."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-dominican)
+msgid "Dominican Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-dummy)
+msgid "Dummy check"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-dutch)
+msgid "Dutch Dictionary for MySpell"
+msgstr ""
+
+#. description(deja-dup:nautilus-deja-dup)
+msgid ""
+"DÃ©jÃ   Dup is a simple backup tool. It hides the complexity of doing "
+"backups the 'right way' (encrypted, off-site, and regular) and uses "
+"duplicity as the backend.\n"
+"\n"
+"Features:  * Support for local or remote backup locations, including Amazon "
+"S3  * Securely encrypts and compresses your data  * Incrementally backs up, "
+"letting you restore from any particular backup  * Schedules regular backups  "
+"* Integrates well into your GNOME desktop\n"
+"\n"
+"This package contains a plugin to integrate DÃ©jÃ  Dup into Nautilus."
+msgstr ""
+
+#. summary(deja-dup:nautilus-deja-dup)
+#, fuzzy
+msgid "DÃ©jÃ  Dup Plugin for Nautilus"
+msgstr "包中含有意外的版本"
+
+#. summary(myspell-dictionaries:myspell-spanish-ecuadorian)
+msgid "Ecuadorian Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-esperanto)
+msgid "Esperanto Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-estonian)
+msgid "Estonian Dictionary for MySpell"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-by_ssh)
+msgid "Execute checks via SSH"
+msgstr ""
+
+#. summary(libxslt:libxslt-tools)
+msgid "Extended Stylesheet Language (XSL) Transformation utilities"
+msgstr ""
+
+#. summary(mono-core:mono-locale-extras)
+#, fuzzy
+msgid "Extra locale information"
+msgstr "切换信息"
+
+#. summary(mono-core:mono-extras)
+#, fuzzy
+msgid "Extra packages"
+msgstr "安装包"
+
+#. summary(MozillaFirefox:MozillaFirefox-translations-other)
+msgid "Extra translations for MozillaFirefox"
+msgstr ""
+
+#. summary(MozillaThunderbird:MozillaThunderbird-translations-other)
+msgid "Extra translations for MozillaThunderbird"
+msgstr ""
+
+#. description(ocaml-facile)
+msgid ""
+"FaCiLe is a constraint programming library on integer and integer set finite "
+"domains written in OCaml. It offers all usual facilities to create and "
+"manipulate finite domain variables, arithmetic expressions and constraints "
+"(possibly non-linear), built-in global constraints (difference, cardinality, "
+"sorting etc.) and search and optimization goals. FaCiLe as well allows you "
+"to build easily user-defined constraints and goals (including recursive "
+"ones), making pervasive use of OCaml higher-order functionals to provide a "
+"simple and flexible interface for the user. As FaCiLe is an OCaml library "
+"and not \"yet another language\", the user benefits from type inference and "
+"strong typing discipline, high level of abstraction, a modules and objects "
+"system, as well as native code compilation efficiency, garbage collection "
+"and replay debugger, all features of OCaml (among many others) that allow to "
+"prototype and experiment quickly: modeling, data processing and interface "
+"are implemented with the same powerful and efficient language."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-faroese)
+msgid "Faroese Dictionary for MySpell"
+msgstr ""
+
+#. summary(libwpg:libwpg-devel)
+msgid "Files for Developing with libwpg"
+msgstr ""
+
+#. description(util-linux:libuuid-devel)
+msgid ""
+"Files to develop applications using the library to generate universally "
+"unique IDs (UUIDs)."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-flexlm)
+msgid ""
+"Flexlm license managers usually run as a single server or three servers and "
+"a quorum is needed.  The plugin return OK if 1 (single) or 3 (triple) "
+"servers are running, CRITICAL if 1(single) or 3 (triple) servers are down, "
+"and WARNING if 1 or 2 of 3 servers are running."
+msgstr ""
+
+#. description(libXfontcache:libXfontcache-devel)
+msgid ""
+"FontCache is an extension that is used by X TrueType to cache information "
+"about fonts.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXfontcache1."
+msgstr ""
+
+#. summary(mgopen-fonts)
+msgid "Free High-Quality Greek Fonts"
+msgstr ""
+
+#. summary(mikachan-fonts)
+msgid "Free Japanese Fonts in \"Handwriting\" Style by Mika-Chan"
+msgstr ""
+
+#. description(mikachan-fonts)
+msgid "Free Japanese fonts in \"handwriting\" style by Mika-Chan."
+msgstr ""
+
+#. summary(linux-libertine-fonts)
+msgid "Free Serif Fonts"
+msgstr ""
+
+#. summary(mplus-fonts)
+msgid "Free fonts set incorporates all Kanji until level 2 and Latin glyphs"
+msgstr ""
+
+#. description(mgopen-fonts)
+msgid "Free high-quality Greek fonts created by Magenta Ltd."
+msgstr ""
+
+#. summary(Mesa:Mesa-libIndirectGL1)
+msgid "Free implementation of the OpenGL API"
+msgstr ""
+
+#. summary(Mesa:Mesa-libGLESv1_CM1)
+msgid "Free implementation of the OpenGL|ES 1.x API"
+msgstr ""
+
+#. description(linux-libertine-fonts)
+msgid ""
+"Free serif fonts from the LinuxLibertine project. These might be useful when "
+"exchanging documents using Times fonts."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-french)
+msgid "French Dictionary for MySpell"
+msgstr ""
+
+#. summary(Mesa:Mesa-libGL-devel)
+#, fuzzy
+msgid "GL/GLX development files of the OpenGL API"
+msgstr "开发"
+
+#. description(Mesa:Mesa-libGLU-devel)
+msgid ""
+"GLU offers simple interfaces for building mipmaps; checking for the presence "
+"of extensions in the OpenGL (or other libraries which follow the same "
+"conventions for advertising extensions); drawing piecewise-linear curves, "
+"NURBS, quadrics and other primitives (including, but not limited to, "
+"teapots); tesselating surfaces; setting up projection matrices and "
+"unprojecting screen coordinates to world coordinates.\n"
+"\n"
+"This package contains includes headers and static libraries for compiling "
+"programs with GLU."
+msgstr ""
+
+#. summary(m4)
+msgid "GNU m4"
+msgstr ""
+
+#. description(m4)
+msgid "GNU m4 is an implementation of the traditional Unix macro processor."
+msgstr ""
+
+#. summary(make)
+msgid "GNU make"
+msgstr ""
+
+#. summary(lightdm-gtk-greeter)
+msgid "GTK-based Greeter for LightDM"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-galician)
+msgid "Galician Dictionary for MySpell"
+msgstr ""
+
+#. summary(marble)
+#, fuzzy
+msgid "Generic map viewer"
+msgstr "KDE 桌面环境"
+
+#. summary(marble:marble-devel)
+#, fuzzy
+msgid "Generic map viewer: Build Environment"
+msgstr "KDE 桌面环境"
+
+#. summary(marble:marble-data)
+#, fuzzy
+msgid "Generic map viewer: data"
+msgstr "KDE 桌面环境"
+
+#. summary(igerman98:myspell-german)
+msgid "German Dictionary for MySpell"
+msgstr ""
+
+#. summary(kdegames4:lskat)
+msgid "German skat card game"
+msgstr ""
+
+#. summary(xmms2:libxmmsclient-glib1)
+msgid "Glib client library for  xmms2"
+msgstr ""
+
+#. summary(xine-lib:libxine1-gnome-vfs)
+msgid "Gnome-vfs plugin for xine"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-greek)
+msgid "Greek Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-guatemalan)
+msgid "Guatemalan Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-gujarati)
+msgid "Gujarati Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-hebrew)
+msgid "Hebrew Dictionary for MySpell"
+msgstr ""
+
+#. summary(kdesdk4:okteta)
+msgid "Hex Editor"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-hindi)
+msgid "Hindi Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-honduran)
+msgid "Honduran Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-cluster)
+msgid "Host/Service Cluster Plugin"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-hungarian)
+msgid "Hungarian Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-icelandic)
+msgid "Icelandic Dictionary for MySpell"
+msgstr ""
+
+#. description(nxtvepg)
+msgid ""
+"In this software package, find a decoder for Nextview--an electronic TV "
+"program guide for the analog domain (as opposed to the various digital EPGs "
+"that come with most digital broadcasts). It allows you to decode and browse "
+"TV program listings for most of the major networks in Germany, Austria, "
+"France, and Switzerland.\n"
+"\n"
+"Currently, Nextview EPG is transmitted by: * In Germany and Austria:    "
+"Kabel1, 3Sat, RTL-II, EuroNews (coverage: apx. 31 networks)\n"
+"\n"
+"* In Switzerland: SF1, TSR1, TSI1, EuroNews, 3sat, Kabel1 (coverage:    apx. "
+"37 networks)\n"
+"\n"
+"* In France: Canal+, M6 (coverage: 8 networks)\n"
+"\n"
+"* In Turkey: TRT-1 (coverage: 17 networks)"
+msgstr ""
+
+#. summary(libvorbis:libvorbis-devel)
+msgid "Include Files and Libraries mandatory for Ogg Vorbis Development"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-indonese)
+msgid "Indonese Dictionary for MySpell"
+msgstr ""
+
+#. description(xine-lib:libxine1-gnome-vfs)
+msgid "Input plugin which enables xine to use Gnome-vfs"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-irish)
+msgid "Irish Dictionary for MySpell"
+msgstr ""
+
+#. summary(lxappearance)
+msgid "It's a desktop-independent theme switcher for GTK+"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-italian)
+msgid "Italian Dictionary for MySpell"
+msgstr ""
+
+#. summary(log4j)
+msgid "Java logging tool"
+msgstr ""
+
+#. summary(kdesdk4:lokalize)
+#, fuzzy
+msgid "KDE Translation Editor"
+msgstr "事务失败："
+
+#. summary(omnibook:omnibook-kmp-default)
+msgid "Kernel modules for Omnibooks from omke-project"
+msgstr ""
+
+#. summary(lxinput)
+msgid "Keyboard and mouse configuration tool"
+msgstr ""
+
+#. summary(mono-kde4)
+msgid "Kimono Mono-kde library"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-kinyarwanda)
+msgid "Kinyarwanda Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-kiswahili)
+msgid "Kiswahili Dictionary for MySpell"
+msgstr ""
+
+#. summary(m2300w)
+msgid "Konica Minolta magicolor 2300W and 2400W Printer Driver"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-korean)
+#, fuzzy
+msgid "Korean Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(myspell-dictionaries:myspell-kurdish)
+msgid "Kurdish Dictionary for MySpell"
+msgstr ""
+
+#. summary(man-pages-it)
+msgid "LDP Man Pages (Italian)"
+msgstr ""
+
+#. summary(man-pages-ja)
+msgid "LDP man Pages (Japanese)"
+msgstr ""
+
+#. summary(man-pages-ko)
+msgid "LDP man Pages (Korean)"
+msgstr ""
+
+#. summary(man-pages-ru)
+msgid "LDP man Pages (Russian)"
+msgstr ""
+
+#. description(lilo)
+msgid ""
+"LILO boots Linux from your hard drive. It can also boot other operating "
+"systems, such as MS-DOS and OS/2, and can even boot DOS from the second hard "
+"drive. The configuration file is /etc/lilo.conf.\n"
+"\n"
+"The PowerPC variant can be used on new PowerMacs and CHRP machines.\n"
+"\n"
+"The ix86 variant comes with Memtest86, offering an image that can be booted "
+"to perform a memory test."
+msgstr ""
+
+#. summary(lirc:lirc-devel)
+#, fuzzy
+msgid "LIRC development files"
+msgstr "开发"
+
+#. description(lxappearance)
+msgid ""
+"LXAppearance is part of LXDE project. It's a desktop-independent theme "
+"switcher for GTK+."
+msgstr ""
+
+#. summary(lxcc)
+#, fuzzy
+msgid "LXDE Control Center"
+msgstr "控制中心"
+
+#. summary(lxdm)
+#, fuzzy
+msgid "LXDE Display Manager"
+msgstr "设备管理器"
+
+#. summary(lxsession)
+msgid "LXDE Session Manager, required for running the desktop environment"
+msgstr ""
+
+#. description(lxdm)
+msgid ""
+"LXDM is the future display manager of LXDE, the Lightweight X11 Desktop "
+"environment. It is designed as a lightweight alternative to replace GDM or "
+"KDM in LXDE distros."
+msgstr ""
+
+#. description(lxlauncher)
+msgid ""
+"LXLauncher is an open source clone of Asus launcher for EeePC or Netbooks "
+"anyway. It's an LXDE project and it's based on menu-cache library."
+msgstr ""
+
+#. description(lxmusic)
+msgid ""
+"LXMusic is just a lightweight audio player, that uses xmms2 as back-end."
+msgstr ""
+
+#. description(lxpanel)
+msgid ""
+"LXPanel is a lightweight X11 desktop panel containing: 1. User-friendly "
+"application menu automatically generated from *.desktop files on the system "
+"2. Launcher bar (Small icons clicked to launch apps) 3. Task bar supporting "
+"urgency hint (Can flash when gaim gets new incoming messages) 4. "
+"Notification area (System tray) 5. Digital clock 6. Run dialog (A dialog "
+"lets you type a command and run it, can be called in external programs) 7. "
+"Net status icon plug-in (optional, ported from gnome-netstatus-applet) 8. "
+"Volume control plug-in (optional, written by jserv) 9. lxpanelctl, an "
+"external controller lets you control lxpanel in other programs. For example, "
+"\"lxpanelctl run\" will show the Run dialog in lxpanel, and \"lxpanelctl menu"
+"\" will show the application menu. This is useful in key bindings provided "
+"by window managers."
+msgstr ""
+
+#. description(lxrandr)
+msgid "LXRandR is a lightweight Monitor Config Tool"
+msgstr ""
+
+#. description(lxmenu-data)
+msgid ""
+"LXSession is the default X11 session manager of LXDE. (LXDE: Lightweight X11 "
+"Desktop Environment) http://lxde.sourceforge.net/\n"
+"\n"
+"This package provides files required to build freedesktop.org menu spec-"
+"compliant desktop menus for LXDE."
+msgstr ""
+
+#. description(lxsession-edit)
+msgid ""
+"LXSession is the default X11 session manager of LXDE. (LXDE: Lightweight X11 "
+"Desktop Environment) http://lxde.sourceforge.net/\n"
+"\n"
+"lxsession-edit is a tool used to manage desktop session autostarts, "
+"especially for lxsession lite."
+msgstr ""
+
+#. description(lxsession)
+msgid ""
+"LXSession is the standard session manager used by LXDE. The LXSession "
+"manager is used to automatically start a set of applications and set up a "
+"working desktop environment. Moreover, the session manager is able to "
+"remember the applications in use when a user logs out and to restart them "
+"the next time the user logs in."
+msgstr ""
+
+#. description(lxshortcut)
+msgid ""
+"LXShortcut is a small program used to edit application shortcuts created "
+"with freedesktop.org Desktop Entry spec."
+msgstr ""
+
+#. description(lxtask)
+msgid ""
+"LXTask is a lightweight Task Manager. This is the default LXDE task manager."
+msgstr ""
+
+#. description(lxterminal)
+msgid ""
+"LXTerminal is a lightweight Terminal Emulator. This package even if DE "
+"independent is part of the LXDE project."
+msgstr ""
+
+#. description(lxinput)
+msgid "LXinput is just the LXDE Keyboard and mouse config tool"
+msgstr ""
+
+#. summary(NetworkManager:NetworkManager-lang)
+msgid "Languages for package NetworkManager"
+msgstr ""
+
+#. summary(NetworkManager-gnome:NetworkManager-gnome-lang)
+msgid "Languages for package NetworkManager-gnome"
+msgstr ""
+
+#. summary(NetworkManager-kde4:NetworkManager-kde4-libs-lang)
+msgid "Languages for package NetworkManager-kde4"
+msgstr ""
+
+#. summary(NetworkManager-openvpn:NetworkManager-openvpn-lang)
+msgid "Languages for package NetworkManager-openvpn"
+msgstr ""
+
+#. summary(NetworkManager-pptp:NetworkManager-pptp-lang)
+msgid "Languages for package NetworkManager-pptp"
+msgstr ""
+
+#. summary(NetworkManager-vpnc:NetworkManager-vpnc-lang)
+msgid "Languages for package NetworkManager-vpnc"
+msgstr ""
+
+#. summary(libwebkit3:libwebkitgtk3-lang)
+msgid "Languages for package libwebkit3"
+msgstr ""
+
+#. summary(libwnck:libwnck-lang)
+msgid "Languages for package libwnck"
+msgstr ""
+
+#. summary(libwnck2:libwnck2-lang)
+msgid "Languages for package libwnck2"
+msgstr ""
+
+#. summary(libxfce4ui:libxfce4ui-lang)
+#, fuzzy
+msgid "Languages for package libxfce4ui"
+msgstr "语言：     "
+
+#. summary(libxfce4util:libxfce4util-lang)
+#, fuzzy
+msgid "Languages for package libxfce4util"
+msgstr "语言：     "
+
+#. summary(libxfcegui4:libxfcegui4-lang)
+#, fuzzy
+msgid "Languages for package libxfcegui4"
+msgstr "语言：     "
+
+#. summary(liferea:liferea-lang)
+msgid "Languages for package liferea"
+msgstr ""
+
+#. summary(lightdm:lightdm-lang)
+#, fuzzy
+msgid "Languages for package lightdm"
+msgstr "语言：     "
+
+#. summary(lightdm-gtk-greeter:lightdm-gtk-greeter-lang)
+#, fuzzy
+msgid "Languages for package lightdm-gtk-greeter"
+msgstr "语言：     "
+
+#. summary(lxappearance:lxappearance-lang)
+msgid "Languages for package lxappearance"
+msgstr ""
+
+#. summary(lxmusic:lxmusic-lang)
+msgid "Languages for package lxmusic"
+msgstr ""
+
+#. summary(lxpanel:lxpanel-lang)
+msgid "Languages for package lxpanel"
+msgstr ""
+
+#. summary(lxterminal:lxterminal-lang)
+msgid "Languages for package lxterminal"
+msgstr ""
+
+#. summary(mc:mc-lang)
+msgid "Languages for package mc"
+msgstr ""
+
+#. summary(meld:meld-lang)
+msgid "Languages for package meld"
+msgstr ""
+
+#. summary(metacity:metacity-lang)
+msgid "Languages for package metacity"
+msgstr ""
+
+#. summary(mousetweaks:mousetweaks-lang)
+msgid "Languages for package mousetweaks"
+msgstr ""
+
+#. summary(mutter:mutter-lang)
+msgid "Languages for package mutter"
+msgstr ""
+
+#. summary(mx:mx-lang)
+msgid "Languages for package mx"
+msgstr ""
+
+#. summary(nano:nano-lang)
+msgid "Languages for package nano"
+msgstr ""
+
+#. summary(nautilus:nautilus-lang)
+msgid "Languages for package nautilus"
+msgstr ""
+
+#. summary(nautilus-open-terminal:nautilus-open-terminal-lang)
+msgid "Languages for package nautilus-open-terminal"
+msgstr ""
+
+#. summary(nautilus-sendto:nautilus-sendto-lang)
+msgid "Languages for package nautilus-sendto"
+msgstr ""
+
+#. summary(nautilus-share:nautilus-share-lang)
+msgid "Languages for package nautilus-share"
+msgstr ""
+
+#. summary(nemiver:nemiver-lang)
+msgid "Languages for package nemiver"
+msgstr ""
+
+#. summary(notification-daemon:notification-daemon-lang)
+msgid "Languages for package notification-daemon"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-latvian)
+msgid "Latvian Dictionary for MySpell"
+msgstr ""
+
+#. summary(limal-ca-mgm:limal-ca-mgm-perl)
+msgid "LiMaL - CA Management Library Perl Bindings"
+msgstr ""
+
+#. summary(limal-ca-mgm)
+msgid "LiMaL--CA Management Library"
+msgstr ""
+
+#. description(menu-cache)
+msgid ""
+"Libmenu-cache is a library creating and utilizing caches to speed up the "
+"manipulation for freedesktop.org defined application menus. It can be used "
+"as a replacement of libgnome-menu of gnome-menus."
+msgstr ""
+
+#. summary(NetworkManager:NetworkManager-devel)
+msgid "Libraries and headers for adding NetworkManager support to applications"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-libs)
+#, fuzzy
+msgid "Libraries for Nagios plugins"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(Mesa:Mesa-devel)
+msgid "Libraries, includes and more to develop Mesa applications"
+msgstr ""
+
+#. summary(wv2:libwv2-4)
+msgid "Library for Importing  Microsoft Word (tm) Documents"
+msgstr ""
+
+#. summary(libwpd:libwpd-0_9-9)
+#, fuzzy
+msgid "Library for Importing WordPerfect (tm) Documents"
+msgstr "等待导航栏应用程序"
+
+#. summary(vamp-plugin-sdk:libvamp-hostsdk3)
+msgid "Library for Vamp audio analysis plugin hosts"
+msgstr ""
+
+#. summary(wv:libwv-1_2-1)
+#, fuzzy
+msgid "Library for importing Microsoft Word documents"
+msgstr "等待导航栏应用程序"
+
+#. summary(libwpd:libwpd-devel)
+#, fuzzy
+msgid "Library for importing WordPerfect (tm) documents"
+msgstr "等待导航栏应用程序"
+
+#. summary(libwps:libwps-0_2-2)
+#, fuzzy
+msgid "Library for importing the Microsoft Works word processor file format"
+msgstr "等待导航栏应用程序"
+
+#. description(wxWidgets:libwx_baseu-2_8-0-stl)
+msgid ""
+"Library for the wxWidgets cross-platform GUI.\n"
+"\n"
+"ABI variant: STL API with Unicode support"
+msgstr ""
+
+#. description(wxWidgets-wxcontainer:libwx_baseu-2_8-0-wxcontainer)
+msgid ""
+"Library for the wxWidgets cross-platform GUI.\n"
+"\n"
+"ABI variant: wx container API with Unicode support"
+msgstr ""
+
+#. summary(libwpg:libwpg-0_2-2)
+msgid "Library to read and parse graphics in WordPerfect Graphics format"
+msgstr ""
+
+#. description(libvirt:libvirt-client)
+msgid ""
+"Libvirt is a C toolkit to interact with the virtualization capabilities of "
+"Linux.  The libvirt-client package contains shared libraries and client "
+"binaries needed to access the virtualization capabilities of recent versions "
+"of Linux (and other OSes)."
+msgstr ""
+
+#. description(libvirt:libvirt-python)
+msgid ""
+"Libvirt is a C toolkit to interact with the virtualization capabilities of "
+"Linux.  The libvirt-python package provides python bindings for the libvirt "
+"C API."
+msgstr ""
+
+#. description(libvirt)
+msgid ""
+"Libvirt is a C toolkit to interact with the virtualization capabilities of "
+"Linux. Virtualization of the Linux Operating System means the ability to run "
+"multiple instances of Operating Systems concurrently on a single hardware "
+"system where the basic resources are driven by a Linux instance. The library "
+"aims to provide long term stable C API to interact with Linux virtualization "
+"technologies."
+msgstr ""
+
+#. description(libvisual:libvisual-devel)
+msgid ""
+"Libvisual is a library that acts as a middle layer between applications that "
+"want audio visualisation and audio visualisation plugins.\n"
+"\n"
+"This library is used by amaroK for example."
+msgstr ""
+
+#. description(kdegames4:lskat)
+msgid ""
+"Lieutnant Skat (from German \"Offiziersskat\") is a fun and engaging card "
+"game for two players, where the second player is either live opponent, or a "
+"built in artificial intelligence."
+msgstr ""
+
+#. description(lightdm)
+msgid ""
+"LightDM is a lightweight, cross-desktop display manager. Its main features "
+"are a well-defined greeter API allowing multiple GUIs, support for all "
+"display manager use cases, with plugins where appropriate, low code "
+"complexity, and fast performance. Due to its cross-platform nature greeters "
+"can be written in several toolkits such as Qt and GTK."
+msgstr ""
+
+#. summary(lxmusic)
+msgid "Lightweight Audio Player"
+msgstr ""
+
+#. summary(lxterminal)
+msgid "Lightweight LXDE Terminal"
+msgstr ""
+
+#. summary(lxrandr)
+msgid "Lightweight Monitor Config Tool"
+msgstr ""
+
+#. summary(lxtask)
+msgid "Lightweight Task Manager"
+msgstr ""
+
+#. summary(lxpanel)
+msgid "Lightweight X11 desktop panel based on fbpanel"
+msgstr ""
+
+#. summary(lightdm)
+msgid "Lightweight, Cross-desktop Display Manager"
+msgstr ""
+
+#. description(links)
+msgid ""
+"Links is like Lynx--an easy-to-use browser for HTML documents and other "
+"Internet services, like FTP, telnet, and news. Links provides a graphical "
+"interface besides the text interface. It has good support for frames, "
+"supports ssl, and has a little bit of JavaScript support."
+msgstr ""
+
+#. description(linphone)
+msgid ""
+"Linphone is a Web phone with a GNOME interface. It lets you make two-party "
+"calls over IP networks such as the Internet. It uses the IETF protocols SIP "
+"(Session Initiation Protocol) and RTP (Realtime TransporT Protocol) to make "
+"calls, so it should be able to communicate with other SIP-based Web phones. "
+"With several codecs available, it can be used with high speed connections as "
+"well as 28k modems."
+msgstr ""
+
+#. summary(man-pages)
+msgid "Linux  Manual Pages"
+msgstr ""
+
+#. description(omnibook:omnibook-kmp-default)
+msgid ""
+"Linux kernel modules for several HP Omnibooks/HP Pavilion, HP/Compaq nx*, "
+"Compal, Fujitsu Siemens Amilo, Acer Aspire and Toshiba Satellite machines. "
+"This module include ac, battery, fan, lcd, ec, onetouch, temperature, "
+"touchpad and util support."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-lithuanian)
+msgid "Lithuanian Dictionary for MySpell"
+msgstr ""
+
+#. summary(lobster-cyrillic-fonts)
+msgid "Lobster Cyrillic Font"
+msgstr ""
+
+#. summary(mcelog)
+msgid "Log Machine Check Events"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-log)
+msgid "Log file pattern detector"
+msgstr ""
+
+#. description(log4j)
+msgid ""
+"Log4j is a tool to help the programmer output log statements to a variety of "
+"output targets."
+msgstr ""
+
+#. summary(meanwhile:meanwhile-devel)
+msgid "Lotus Sametime Community Client library"
+msgstr ""
+
+#. description(loudmouth:loudmouth-devel)
+msgid ""
+"Loudmouth is a lightweight and easy-to-use C library for programming with "
+"the Jabber protocol. It's designed to be easy to get started with and yet "
+"extensible to let you do anything the Jabber protocol allows."
+msgstr ""
+
+#. description(ltrace)
+msgid ""
+"Ltrace is a program that runs the specified command until it exits. It "
+"intercepts and records the dynamic library calls that are called by the "
+"executed process and the signals that are received by that process. It can "
+"also intercept and print the system calls executed by the program.\n"
+"\n"
+"The program to trace need not be recompiled for this, so you can use ltrace "
+"on binaries for which you do not have access to the source.\n"
+"\n"
+"This is still a work in progress, so, for example, the tracking to child "
+"processes may fail or some things may not work as expected."
+msgstr ""
+
+#. description(lua:lua-devel)
+msgid ""
+"Lua is a programming language originally designed for extending "
+"applications, but also frequently used as a general-purpose, stand-alone "
+"language.\n"
+"\n"
+"This package contains files needed for embedding lua into your application."
+msgstr ""
+
+#. description(lv)
+msgid ""
+"Lv is a powerful, multilingual file viewer. Apparently, lv looks like less "
+"(1), a representative file viewer on UNIX, so UNIX people (and less people "
+"on other OSs) do not have to learn a burdensome new interface.\n"
+"\n"
+"Lv can decode and encode multilingual streams through many coding systems. "
+"Lv can be used as a coding system translation filter.\n"
+"\n"
+"Lv can recognize multibyte patterns as regular expressions, and provides "
+"multilingual grep (1) functionality under the name lgrep.\n"
+"\n"
+"Lv can recognize ANSI escape sequences for text decoration."
+msgstr ""
+
+#. summary(lxappearance-obconf)
+msgid "Lxappearance Plugin to Configure Openbox"
+msgstr ""
+
+#. description(lxde-common)
+msgid ""
+"Lxde-common package provides a set of default configurations for LXDE. It's "
+"an LXDE core package, since without it LXDE cannot run."
+msgstr ""
+
+#. description(lynx)
+msgid ""
+"Lynx is an easy-to-use browser for HTML documents and other Internet "
+"services like FTP, telnet, and news.  Lynx is fast.  It is purely text based "
+"and therefore makes it possible to use WWW resources on text terminals."
+msgstr ""
+
+#. summary(metamail)
+msgid "MIME Mail Handler"
+msgstr ""
+
+#. summary(mpfr:mpfr-devel)
+msgid "MPFR multiple-precision floating-point library development files"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-macedonian)
+msgid "Macedonian Dictionary for MySpell"
+msgstr ""
+
+#. summary(mutt)
+msgid "Mail Program"
+msgstr ""
+
+#. summary(mlmmj)
+msgid "Mail Server Independent Reimplementation of the EZMLM Mailing List"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-malagasy)
+msgid "Malagasy Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-malay)
+msgid "Malay Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-maory)
+msgid "Maory Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-marathi)
+msgid "Marathi Dictionary for MySpell"
+msgstr ""
+
+#. description(marble)
+msgid "Marble is a viewer of map data."
+msgstr ""
+
+#. description(marble:marble-data)
+msgid "Marble is a viewer of map data. This package contains its data."
+msgstr ""
+
+#. description(meld)
+msgid ""
+"Meld is a visual diff and merge tool. You can compare two or three files and "
+"edit them in place (diffs update dynamically). You can compare two or three "
+"folders and launch file comparisons. You can browse and view a working copy "
+"from popular version control systems such such as CVS, Subversion, Bazaar-ng "
+"and Mercurial."
+msgstr ""
+
+#. description(Mesa:Mesa-libGL-devel)
+msgid ""
+"Mesa is a software library for 3D computer graphics that provides a generic "
+"OpenGL implementation for rendering three-dimensional graphics.\n"
+"\n"
+"This package includes headers and static libraries for compiling programs "
+"with Mesa."
+msgstr ""
+
+#. description(metamail)
+msgid ""
+"Metamail is required for reading multimedia mail messages (such as those "
+"using the Andrew toolkit) with elm."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-mexican)
+msgid "Mexican Dictionary for MySpell"
+msgstr ""
+
+#. summary(mgetty)
+msgid "Mgetty Listens for Data, Fax, or Voice Calls on a Serial Line"
+msgstr ""
+
+#. description(mxml)
+msgid ""
+"Mini-XML is a small XML parsing library that you can use to read XML and XML-"
+"like data files in your application without requiring large nonstandard "
+"libraries.\n"
+"\n"
+"This package holds the commandline tools for mxml."
+msgstr ""
+
+#. description(mlterm)
+msgid ""
+"Mlterm is a multilingual terminal emulator for the X Window System.\n"
+"\n"
+"Multilingual features:\n"
+"\n"
+"supported charsets: US_ASCII, ISO8859[1-11], ISO8859[13-16], TCVN5712, "
+"VISCII, KOI8_R, KOI8_U, JISX0201, JISX0208, JISX0212, JISX0213, GB2312, GBK, "
+"KSC5601, UHC, CNS11643-N, Big5, UCS2(4)\n"
+"\n"
+"supported encodings: ISO-8859-[1-11], ISO-8859- [13-16], TCVN5612, VISCII, "
+"KOI8_R, KOI8_U, EUC-JP, EUC-JISX0213, ISO-2022-JP [1, 2, 3], Shift_JIS, "
+"Shift_JISX0213, EUC-KR, UHC, JOHAB, ISO-2022-KR, ISO-2022-CN, GB2312(EUC-"
+"CN), GBK, GB18030, EUC-TW, Big5, Hz, UTF-8\n"
+"\n"
+"character composition: TIS620, TCVN5712, JISX0213, UNICODE\n"
+"\n"
+"Multiple xims are also supported and you can dynamically change various "
+"xims.\n"
+"\n"
+"Other features:\n"
+"\n"
+"* scroll by wheel mouse\n"
+"\n"
+"* antialias font (requires Xft and Xrender extensions)\n"
+"\n"
+"* proportional font\n"
+"\n"
+"* transparent background\n"
+"\n"
+"* background image (requires Imlib)\n"
+"\n"
+"* multiple pty windows\n"
+"\n"
+"* scrollbar plug-in API (unstable)"
+msgstr ""
+
+#. description(mmv)
+msgid ""
+"Mmv moves (or copies, appends, or links, as specified) each source file "
+"matching a from pattern to the target name specified by the to pattern.  "
+"This multiple action is performed safely, i.e. without any unexpected "
+"deletion of files due to collisions of target names with existing filenames "
+"or with other target names. Furthermore, before doing anything, mmv attempts "
+"to detect any errors that would result from the entire set of actions "
+"specified and gives the user the choice of either proceeding by avoiding the "
+"offending parts or aborting."
+msgstr ""
+
+#. summary(monapo-fonts)
+msgid "Monapo Japanese Truetype font"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-bgpstate)
+msgid "Monitor BGP sessions"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-breeze)
+msgid "Monitor Breezecom wireless equipment"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-ifoperstatus)
+msgid "Monitor network interfaces"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-ifstatus)
+msgid "Monitor operational status network interfaces"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-ircd)
+msgid ""
+"Monitor the status of an Internet Relay Chat daemon (IRCd) with this check."
+msgstr ""
+
+#. summary(mono-debugger)
+#, fuzzy
+msgid "Mono Debugger"
+msgstr "编目管理"
+
+#. summary(mono-qt4)
+#, fuzzy
+msgid "Mono Qt4 kdebindings library"
+msgstr "电源管理 (APM)"
+
+#. description(mono-tools)
+msgid ""
+"Mono Tools is a collection of development and testing programs and utilities "
+"for use with Mono."
+msgstr ""
+
+#. summary(mono-core:mono-devel)
+#, fuzzy
+msgid "Mono development tools"
+msgstr "C 和 C++ 开发工具。"
+
+#. summary(mono-core:mono-mvc)
+msgid "Mono implementation of ASP.NET MVC"
+msgstr ""
+
+#. summary(mono-core:mono-wcf)
+msgid "Mono implementation of WCF, Windows Communication Foundation"
+msgstr ""
+
+#. summary(mono-basic)
+msgid "Mono's VB Runtime"
+msgstr ""
+
+#. summary(mono-core:mono-winforms)
+msgid "Mono's Windows Forms implementation"
+msgstr ""
+
+#. description(monodevelop)
+msgid ""
+"MonoDevelop is a full-featured integrated development environment (IDE) for "
+"mono and Gtk#. It was originally a port of SharpDevelop 0.98. See http://"
+"monodevelop.com/ for more information."
+msgstr ""
+
+#. summary(mono-core:monodoc-core)
+#, fuzzy
+msgid "Monodoc - Documentation tools for C# code"
+msgstr "7.0 文档"
+
+#. description(mono-core:monodoc-core)
+#, fuzzy
+msgid "Monodoc-core contains documentation tools for C#."
+msgstr "包中含有意外的版本"
+
+#. summary(mmv)
+msgid "Move/Copy/Append/Link Multiple Files by Wildcard Patterns"
+msgstr ""
+
+#. description(MozillaThunderbird)
+msgid ""
+"Mozilla Thunderbird is a redesign of the Mozilla Mail component. It is "
+"written using the XUL user interface language and designed to be cross-"
+"platform. It is a stand-alone application instead of part of the Mozilla "
+"application suite."
+msgstr ""
+
+#. description(mtr)
+msgid ""
+"Mtr is a network diagnostic tool that combines Ping and Traceroute into one "
+"program. This package contains the mtr version with an ncurses interface, in "
+"other words, the text mode version is usable in a shell (telnet or SSH "
+"session, for example).\n"
+"\n"
+"Find the graphical version in the mtr-gtk package."
+msgstr ""
+
+#. summary(mlterm)
+#, fuzzy
+msgid "Multilingual Terminal Emulator for X"
+msgstr "多语言终端模拟器"
+
+#. summary(m17n-lib)
+msgid "Multilingual Text Processing Library for the C Language"
+msgstr ""
+
+#. description(mysql-connector-java)
+msgid ""
+"MySQL Connector/J is a native Java driver that converts JDBC (Java Database "
+"Connectivity) calls into the network protocol used by the MySQL database. It "
+"lets developers working with the Java programming language easily build "
+"programs and applets that interact with MySQL and connect all corporate "
+"data, even in a heterogeneous environment. MySQL Connector/J is a Type IV "
+"JDBC driver and has a complete JDBC feature set that supports the "
+"capabilities of MySQL."
+msgstr ""
+
+#. description(igerman98:myspell-austrian)
+msgid ""
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(nasm)
+msgid ""
+"NASM is a prototype general-purpose x86 assembler. It can currently output "
+"several binary formats, including ELF, a.out, Win32, and OS/2.\n"
+"\n"
+"Read the licence agreement in /usr/share/doc/packages/nasm/Licence."
+msgstr ""
+
+#. summary(mono-core:mono-nunit)
+msgid "NUnit Testing Framework"
+msgstr ""
+
+#. description(mono-core:mono-nunit)
+msgid ""
+"NUnit is a unit-testing framework for all .Net languages.  Initially ported "
+"from JUnit, the current release, version 2.2,  is the fourth major release "
+"of this  Unit based unit testing tool for Microsoft .NET. It is written "
+"entirely in C# and  has been completely redesigned to take advantage of "
+"many .NET language\t\t features, for example custom attributes and other "
+"reflection related capabilities. NUnit brings xUnit to all .NET languages."
+msgstr ""
+
+#. description(nagios-plugins)
+msgid ""
+"Nagios is a program that will monitor hosts and services on your network, "
+"and to email or page you when a problem arises or is resolved. Nagios runs "
+"on a unix server as a background or daemon process, intermittently running "
+"checks on various services that you specify.\n"
+"\n"
+"The actual service checks are performed by separate \"plugin\" programs "
+"which return the status of the checks to Nagios.\n"
+"\n"
+"This package contains those plugins."
+msgstr ""
+
+#. description(nagios:nagios-www)
+msgid ""
+"Nagios is a program that will monitor hosts and services on your network. It "
+"has the ability to email or page you when a problem arises and when a "
+"problem is resolved. Nagios is written in C and is designed to run under "
+"Linux (and some other *NIX variants) as a background process, intermittently "
+"running checks on various services that you specify.\n"
+"\n"
+"Several CGI programs are included with Nagios in order to allow you to view "
+"the current service status, problem history, notification history, and log "
+"file via the web. This package provides the HTML and CGI files for the "
+"Nagios web interface. In addition, HTML documentation is included in this "
+"package."
+msgstr ""
+
+#. description(nagios)
+msgid ""
+"Nagios is a program that will monitor hosts and services on your network. It "
+"has the ability to email or page you when a problem arises and when a "
+"problem is resolved. Nagios is written in C and is designed to run under "
+"Linux (and some other *NIX variants) as a background process, intermittently "
+"running checks on various services that you specify.\n"
+"\n"
+"The actual service checks are performed by separate \"plugin\" programs "
+"which return the status of the checks to Nagios. The plugins are available "
+"at http://sourceforge.net/projects/nagiosplug\n"
+"\n"
+"This package provides core programs for Nagios. The web interface, "
+"documentation, and development files are built as separate packages"
+msgstr ""
+
+#. summary(nanum-fonts:nanum-gothic-coding-fonts)
+msgid "Nanum Gothic Coding Korean TrueType Fonts"
+msgstr ""
+
+#. summary(nanum-fonts)
+msgid "Nanum Korean TrueType Fonts"
+msgstr ""
+
+#. description(kdegames4:navalbattle)
+msgid ""
+"Naval Battle is a Battle Ship game for KDE. Ships are placed on a board "
+"which represents the sea. Players try to hit each others ships in turns "
+"without knowing where they are placed. The first player to destroy all ships "
+"wins the game.\n"
+"\n"
+"The game can also be played with friends online via the internet."
+msgstr ""
+
+#. summary(ndesk-dbus-glib)
+msgid "Ndesk-dbus-glib provides glib integration for NDesk.DBus"
+msgstr ""
+
+#. description(ndesk-dbus-glib)
+msgid "Ndesk-dbus-glibl provides glib integration for NDesk.DBus"
+msgstr ""
+
+#. summary(nemiver)
+msgid "Nemiver graphical debugger"
+msgstr ""
+
+#. description(nemiver)
+msgid ""
+"Nemiver is a standalone graphical debugger that integrates well in the GNOME "
+"desktop environment. It currently features a backend which uses the well "
+"known GNU Debugger gdb to debug C / C++ programs."
+msgstr ""
+
+#. description(net-snmp:net-snmp-devel)
+msgid ""
+"Net-SNMP is a suite of applications used to implement SNMP v1, SNMP v2c and "
+"SNMP v3 using both IPv4 and IPv6. The suite includes:\n"
+"\n"
+"* An extensible agent for responding to SNMP queries including built-in   "
+"support for a wide range of MIB information modules\n"
+"* Command-line applications to retrieve and manipulate information from   "
+"SNMP-capable devices\n"
+"* A daemon application for receiving SNMP notifications\n"
+"* A library for developing new SNMP applications, with C and Perl APIs\n"
+"* A graphical MIB browser.\n"
+"\n"
+"This package holds the development headers, libraries and API documentation "
+"from the net-snmp package."
+msgstr ""
+
+#. description(net-snmp)
+msgid ""
+"Net-SNMP is a suite of applications used to implement SNMP v1, SNMP v2c and "
+"SNMP v3 using both IPv4 and IPv6. The suite includes:\n"
+"\n"
+"- An extensible agent for responding to SNMP queries including built-in   "
+"support for a wide range of MIB information modules\n"
+"- Command-line applications to retrieve and manipulate information from   "
+"SNMP-capable devices\n"
+"- A daemon application for receiving SNMP notifications\n"
+"- A library for developing new SNMP applications, with C and Perl APIs\n"
+"- A graphical MIB browser.\n"
+"\n"
+"This package was originally based on the CMU 2.1.2.1 snmp code. It was "
+"renamed from cmu-snmp to ucd-snmp in 1995 and later renamed from ucd-snmp to "
+"net-snmp in November 2000."
+msgstr ""
+
+#. summary(mozilla-nspr:mozilla-nspr-devel)
+msgid "Netscape Portable Runtime development files"
+msgstr ""
+
+#. summary(nasm)
+msgid "Netwide Assembler (An x86 Assembler)"
+msgstr ""
+
+#. summary(mozilla-nss:mozilla-nss-devel)
+msgid "Network (Netscape) Security Services development files"
+msgstr ""
+
+#. summary(nbd)
+msgid "Network Block Device Server and Client Utilities"
+msgstr ""
+
+#. summary(nkf)
+msgid "Network Kanji Code Conversion Filter"
+msgstr ""
+
+#. summary(nxtvepg)
+msgid "Nextview EPG Decoder and Browser"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-nicaraguan)
+msgid "Nicaraguan Spanish Dictionary for MySpell"
+msgstr ""
+
+#. description(nkf)
+msgid ""
+"Nkf is a yet another Kanji code converter among networks, hosts, and "
+"terminals. It converts input Kanji code to designated Kanji code, such as 7-"
+"bit JIS, MS-kanji (shifted-JIS) or EUC.\n"
+"\n"
+"One of the most unique facility of nkf is the guess of the input kanji "
+"code.  It currently recognizes 7-bit JIS, MS-kanji (shifted-JIS), and EUC. "
+"So users do not need the input Kanji code specification.\n"
+"\n"
+"By  default,  X0201  kana is converted into X0208 kana. For X0201 kana, SO/"
+"SI, SSO and ESC-(-I methods are  supported. For automatic code detection, "
+"nkf assumes no X0201 kana in MS-Kanji. To accept X0201 in MS-Kanji, use -X, -"
+"x, or -S."
+msgstr ""
+
+#. description(nmap)
+msgid ""
+"Nmap is designed to allow system administrators and curious individuals to "
+"scan large networks to determine which hosts are up and what services they "
+"are offering. XNmap is a graphical front-end that shows nmap's output "
+"clearly.\n"
+"\n"
+"Find documentation in /usr/share/doc/packages/nmap"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-sotho-northern)
+msgid "Northern Sotho Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-norsk-bokmaal)
+msgid "Norwegian Bokmaal Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-norsk-nynorsk)
+msgid "Norwegian Nynorsk Dictionary for MySpell"
+msgstr ""
+
+#. description(ocfs2-tools)
+msgid ""
+"OCFS is the Oracle Cluster File System.\n"
+"\n"
+"This package contains the core user-space tools needed for creating and "
+"managing the file system."
+msgstr ""
+
+#. description(lxappearance-obconf)
+msgid ""
+"ObConf is a program used to configure OpenBox window manager developed by "
+"Dana Jansens, Tim Riley, and Javeed Shaikh. LXAppearance is a tool used to "
+"configure look and feels of the desktop written by Hong Jen Yee for LXDE "
+"project. This plugin is derived from ObConf as an attempt to integrate "
+"obconf with LXAppearance to provide a better user experience. Most of the "
+"source code are taken from ObConf written by its authors with some "
+"modifications added by LXAppearance developers to make it a plugin."
+msgstr ""
+
+#. description(ocaml)
+msgid ""
+"Objective Caml is a high-level, strongly-typed, functional and object-"
+"oriented programming language from the ML family of languages.\n"
+"\n"
+"This package comprises two batch compilers (a fast bytecode compiler and an "
+"optimizing native-code compiler), an interactive top level system, Lex&Yacc "
+"tools, a replay debugger, and a comprehensive library."
+msgstr ""
+
+#. description(ocaml:ocaml-runtime)
+msgid ""
+"Objective Caml is a high-level, strongly-typed, functional and object-"
+"oriented programming language from the ML family of languages.\n"
+"\n"
+"This package contains the runtime environment needed to run Objective Caml "
+"bytecode."
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-dns)
+msgid "Obtain the IP address for a given host/domain"
+msgstr ""
+
+#. summary(ocaml-facile)
+msgid "Ocaml Constraint Programming Library"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-occitan-lengadocian)
+msgid "Occitan Lengadocian Dictionary for MySpell"
+msgstr ""
+
+#. summary(mysql-connector-java)
+msgid "Official JDBC Driver for MySQL"
+msgstr ""
+
+#. description(kdesdk4:okteta)
+msgid "Okteta is a hex editor for the KDE desktop."
+msgstr ""
+
+#. summary(myspell-german-old)
+msgid "Old German Dictionary for MySpell"
+msgstr ""
+
+#. summary(lxlauncher)
+msgid "Open source clone of Asus launcher for Netbooks"
+msgstr ""
+
+#. description(Mesa:Mesa-libGLESv1_CM1)
+msgid ""
+"OpenGL|ES is a cross-platform API for full-function 2D and 3D graphics on "
+"embedded systems - including consoles, phones, appliances and vehicles. It "
+"contains a subset of OpenGL plus a number of extensions for the special "
+"needs of embedded systems.\n"
+"\n"
+"OpenGL|ES 1.x provides an API for fixed-function hardware."
+msgstr ""
+
+#. description(Mesa:Mesa-libGLESv1_CM-devel)
+msgid ""
+"OpenGL|ES is a cross-platform API for full-function 2D and 3D graphics on "
+"embedded systems - including consoles, phones, appliances and vehicles. It "
+"contains a subset of OpenGL plus a number of extensions for the special "
+"needs of embedded systems.\n"
+"\n"
+"OpenGL|ES 1.x provides an API for fixed-function hardware.\n"
+"\n"
+"This package provides a development environment for building programs using "
+"the OpenGL|ES 1.x APIs."
+msgstr ""
+
+#. description(Mesa:Mesa-libGLESv2-devel)
+msgid ""
+"OpenGL|ES is a cross-platform API for full-function 2D and 3D graphics on "
+"embedded systems - including consoles, phones, appliances and vehicles. It "
+"contains a subset of OpenGL plus a number of extensions for the special "
+"needs of embedded systems.\n"
+"\n"
+"OpenGL|ES 2.x provides an API for programmable hardware including vertex and "
+"fragment shaders.\n"
+"\n"
+"This package provides a development environment for building applications "
+"using the OpenGL|ES 2.x APIs."
+msgstr ""
+
+#. summary(obconf)
+#, fuzzy
+msgid "Openbox Configuration Tool"
+msgstr "查看配置"
+
+#. summary(ocfs2-tools)
+msgid "Oracle Cluster File System 2 Core Tools"
+msgstr ""
+
+#. summary(man-pages-posix)
+msgid "POSIX Manual Pages"
+msgstr ""
+
+#. summary(manufacturer-PPDs)
+msgid "PPD Files from Printer Manufacturers"
+msgstr ""
+
+#. description(manufacturer-PPDs)
+msgid ""
+"PPD files from printer manufacturers that are under a free license.\n"
+"\n"
+"For example, the original MIT license, shown for example under http://www."
+"opensource.org/licenses/mit-license.php, is okay but not an often used "
+"modified MIT license, which does not allow redistribution if the file was "
+"altered in any way from its original form.\n"
+"\n"
+"If you have a PostScript printer and there is no PPD file included in this "
+"package, ask your printer manufacturer for a PPD file or visit http://www."
+"linuxprinting.org/ppd-doc.html."
+msgstr ""
+
+#. summary(mtpaint)
+msgid "Painting program for creating icons and pixel-based artwork"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-panamanian)
+msgid "Panamanian Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(makedumpfile)
+msgid "Partial kernel dump"
+msgstr ""
+
+#. summary(mirror)
+msgid "Perl Scripts for Mirroring FTP Servers"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-bgpstate)
+msgid "Perl bgpstate plugin monitors all BGP sessions."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-persian)
+msgid "Persian Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-peruvian)
+msgid "Peruvian Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(nautilus-sendto:nautilus-sendto-plugin-pidgin)
+msgid "Pidgin plugin for nautilus-sendto"
+msgstr ""
+
+#. summary(mtr)
+#, fuzzy
+msgid "Ping and Traceroute Network Diagnostic Tool"
+msgstr "网络诊断工具"
+
+#. summary(myspell-dictionaries:myspell-polish)
+msgid "Polish Dictionary for MySpell"
+msgstr ""
+
+#. summary(nmap)
+#, fuzzy
+msgid "Portscanner"
+msgstr "病毒扫描程序"
+
+#. summary(myspell-dictionaries:myspell-portuguese)
+msgid "Portuguese Dictionary for MySpell"
+msgstr ""
+
+#. summary(lv)
+msgid "Powerful, Multilingual File Viewer, Same User Interface as \"Less\""
+msgstr ""
+
+#. summary(mpt-status)
+msgid "Program Showing the Status of LSI 1030 RAID Controller"
+msgstr ""
+
+#. summary(vala:libvala-0_16-0)
+#, fuzzy
+msgid "Programming language for GNOME"
+msgstr "电源管理 (APM)"
+
+#. summary(nagios:nagios-www)
+msgid "Provides the HTML and CGI files for the Nagios web interface"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-cluster)
+msgid ""
+"Provides the check_cluster plugin to check Services and/or Hosts running as "
+"a cluster.\n"
+"\n"
+"Example:   check_cluster -s -d 2,0,2,0 -c @3: Will alert critical if there "
+"are 3 or more service data points in a non-OK state."
+msgstr ""
+
+#. description(NetworkManager:NetworkManager-lang)
+msgid "Provides translations to the package NetworkManager"
+msgstr ""
+
+#. description(NetworkManager-gnome:NetworkManager-gnome-lang)
+msgid "Provides translations to the package NetworkManager-gnome"
+msgstr ""
+
+#. description(NetworkManager-kde4:NetworkManager-kde4-libs-lang)
+msgid "Provides translations to the package NetworkManager-kde4"
+msgstr ""
+
+#. description(NetworkManager-openvpn:NetworkManager-openvpn-lang)
+msgid "Provides translations to the package NetworkManager-openvpn"
+msgstr ""
+
+#. description(NetworkManager-pptp:NetworkManager-pptp-lang)
+msgid "Provides translations to the package NetworkManager-pptp"
+msgstr ""
+
+#. description(NetworkManager-vpnc:NetworkManager-vpnc-lang)
+msgid "Provides translations to the package NetworkManager-vpnc"
+msgstr ""
+
+#. description(libwebkit3:libwebkitgtk3-lang)
+msgid "Provides translations to the package libwebkit3"
+msgstr ""
+
+#. description(libwnck:libwnck-lang)
+msgid "Provides translations to the package libwnck"
+msgstr ""
+
+#. description(libwnck2:libwnck2-lang)
+msgid "Provides translations to the package libwnck2"
+msgstr ""
+
+#. description(libxfce4ui:libxfce4ui-lang)
+#, fuzzy
+msgid "Provides translations to the package libxfce4ui"
+msgstr "等待导航栏应用程序"
+
+#. description(libxfce4util:libxfce4util-lang)
+#, fuzzy
+msgid "Provides translations to the package libxfce4util"
+msgstr "等待导航栏应用程序"
+
+#. description(libxfcegui4:libxfcegui4-lang)
+#, fuzzy
+msgid "Provides translations to the package libxfcegui4"
+msgstr "等待导航栏应用程序"
+
+#. description(liferea:liferea-lang)
+msgid "Provides translations to the package liferea"
+msgstr ""
+
+#. description(lightdm:lightdm-lang)
+#, fuzzy
+msgid "Provides translations to the package lightdm"
+msgstr "等待导航栏应用程序"
+
+#. description(lightdm-gtk-greeter:lightdm-gtk-greeter-lang)
+#, fuzzy
+msgid "Provides translations to the package lightdm-gtk-greeter"
+msgstr "等待导航栏应用程序"
+
+#. description(lxappearance:lxappearance-lang)
+msgid "Provides translations to the package lxappearance"
+msgstr ""
+
+#. description(lxmusic:lxmusic-lang)
+msgid "Provides translations to the package lxmusic"
+msgstr ""
+
+#. description(lxpanel:lxpanel-lang)
+msgid "Provides translations to the package lxpanel"
+msgstr ""
+
+#. description(lxterminal:lxterminal-lang)
+msgid "Provides translations to the package lxterminal"
+msgstr ""
+
+#. description(mc:mc-lang)
+msgid "Provides translations to the package mc"
+msgstr ""
+
+#. description(meld:meld-lang)
+msgid "Provides translations to the package meld"
+msgstr ""
+
+#. description(metacity:metacity-lang)
+msgid "Provides translations to the package metacity"
+msgstr ""
+
+#. description(mousetweaks:mousetweaks-lang)
+msgid "Provides translations to the package mousetweaks"
+msgstr ""
+
+#. description(mutter:mutter-lang)
+#, fuzzy
+msgid "Provides translations to the package mutter"
+msgstr "等待导航栏应用程序"
+
+#. description(mx:mx-lang)
+msgid "Provides translations to the package mx"
+msgstr ""
+
+#. description(nano:nano-lang)
+msgid "Provides translations to the package nano"
+msgstr ""
+
+#. description(nautilus:nautilus-lang)
+msgid "Provides translations to the package nautilus"
+msgstr ""
+
+#. description(nautilus-open-terminal:nautilus-open-terminal-lang)
+msgid "Provides translations to the package nautilus-open-terminal"
+msgstr ""
+
+#. description(nautilus-sendto:nautilus-sendto-lang)
+msgid "Provides translations to the package nautilus-sendto"
+msgstr ""
+
+#. description(nautilus-share:nautilus-share-lang)
+msgid "Provides translations to the package nautilus-share"
+msgstr ""
+
+#. description(nemiver:nemiver-lang)
+msgid "Provides translations to the package nemiver"
+msgstr ""
+
+#. description(notification-daemon:notification-daemon-lang)
+msgid "Provides translations to the package notification-daemon"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-puerto-rican)
+msgid "Puerto Rican Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(libxslt-python)
+#, fuzzy
+msgid "Python Bindings for libxslt"
+msgstr "电源管理 (APM)"
+
+#. summary(myspell-dictionaries:myspell-romanian)
+msgid "Romanian Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-russian)
+msgid "Russian Dictionary for MySpell"
+msgstr ""
+
+#. summary(mlterm:mlterm-scim)
+msgid "SCIM plugin for mlterm"
+msgstr ""
+
+#. summary(net-snmp)
+#, fuzzy
+msgid "SNMP Daemon"
+msgstr "FAM 守护程序"
+
+#. summary(myspell-dictionaries:myspell-spanish-salvadorean)
+msgid "Salvadorean Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-gaelic-scots)
+msgid "Scottish Gaelic Dictionary for MySpell"
+msgstr ""
+
+#. summary(makedev)
+msgid "Script for Creating Device Files in /dev"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-icmp)
+msgid "Send ICMP packets to the specified host"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-serbian-cyrillic)
+msgid "Serbian Cyrillic Dictionary for MySpell"
+msgstr ""
+
+#. summary(zeromq:libzmq1)
+#, fuzzy
+msgid "Shared Library for ZeroMQ"
+msgstr "正在创建资源数据库"
+
+#. summary(xfce4-session:libxfsm-4_6-0)
+msgid "Shared Library for xfce4-session Splash Screen Engines"
+msgstr ""
+
+#. summary(libyaml:libyaml-0-2)
+#, fuzzy
+msgid "Shared library from libyaml"
+msgstr "正在创建资源数据库"
+
+#. summary(kdegames4:navalbattle)
+msgid "Ship sinking game"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-sinhala)
+msgid "Sinhala Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-slovak)
+msgid "Slovak Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-slovene)
+msgid "Slovene Dictionary for MySpell"
+msgstr ""
+
+#. summary(mxml)
+msgid "Small XML Parsing Library"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish)
+msgid "Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(libvoikko:libvoikko1)
+msgid "Spellchecker and Hyphenator for Finnish Language"
+msgstr ""
+
+#. summary(mhash:mhash-devel)
+msgid "Static Library and Header Files for mhash Library"
+msgstr ""
+
+#. description(malaga-suomi)
+msgid "Suomi-Malaga is a description of Finnish morphology written in Malaga."
+msgstr ""
+
+#. summary(nfs-utils:nfs-kernel-server)
+msgid "Support Utilities for Kernel nfsd"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-swati)
+msgid "Swati Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-swedish)
+msgid "Swedish Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-swedish-finland)
+msgid "Swedish in Finland Dictionary for MySpell"
+msgstr ""
+
+#. summary(igerman98:myspell-nswiss)
+msgid "Swiss Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-tagalog)
+msgid "Tagalog Dictionary for MySpell"
+msgstr ""
+
+#. summary(xiterm:libXiterm)
+msgid "Terminal emulator Xaw widget library based on libiterm"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-dig)
+msgid "Test DNS service via dig"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-real)
+#, fuzzy
+msgid "Test REAL service"
+msgstr "CIPE 服务"
+
+#. summary(nagios-plugins:nagios-plugins-ups)
+msgid "Test UPS service on the specified host"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-http)
+msgid "Test the HTTP service on the specified host"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-load)
+msgid "Test the current system load average"
+msgstr ""
+
+#. summary(nagios-plugins:nagios-plugins-tcp)
+msgid "Tests TCP and UDP connections"
+msgstr ""
+
+#. summary(links)
+msgid "Text-Based WWW Browser"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-thai)
+msgid "Thai Dictionary for MySpell"
+msgstr ""
+
+#. description(zeromq:libzmq1)
+msgid ""
+"The 0MQ lightweight messaging kernel is a library which extends the standard "
+"socket interfaces with features traditionally provided by specialised "
+"messaging middleware products. 0MQ sockets provide an abstraction of "
+"asynchronous message queues, multiple messaging patterns, message filtering "
+"(subscriptions), seamless access to multiple transport protocols and more.\n"
+"\n"
+"This package holds the shared library part of the ZeroMQ package."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-african)
+msgid ""
+"The African dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-albanian)
+msgid ""
+"The Albanian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-american)
+msgid ""
+"The American dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-arabic)
+msgid ""
+"The Arabic dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-argentine)
+msgid ""
+"The Argentine Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-armenian)
+msgid ""
+"The Armenian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-australian)
+msgid ""
+"The Australian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. summary(the-board:nautilus-extension-the-board)
+#, fuzzy
+msgid "The Board extension for Nautilus"
+msgstr "包中含有意外的版本"
+
+#. description(myspell-dictionaries:myspell-brazilian)
+msgid ""
+"The Brazilian Portuguese dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-british)
+msgid ""
+"The British dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-bulgarian)
+msgid ""
+"The Bulgarian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-canadian)
+msgid ""
+"The Canadian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-catalan)
+msgid ""
+"The Catalan dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-chilean)
+msgid ""
+"The Chilean Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-colombian)
+msgid ""
+"The Colombian Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-costa-rican)
+msgid ""
+"The Costa Rican Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-croatian)
+msgid ""
+"The Croatian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-czech)
+msgid ""
+"The Czech dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-danish)
+msgid ""
+"The Danish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-dominican)
+msgid ""
+"The Dominican Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-dutch)
+msgid ""
+"The Dutch dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-ecuadorian)
+msgid ""
+"The Ecuadorian Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-esperanto)
+msgid ""
+"The Esperanto dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-estonian)
+msgid ""
+"The Estonian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-faroese)
+msgid ""
+"The Faroese dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-french)
+msgid ""
+"The French dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. summary(mailman)
+msgid "The GNU Mailing List Manager"
+msgstr ""
+
+#. description(make)
+msgid "The GNU make command with extensive documentation."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-galician)
+msgid ""
+"The Galician dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-greek)
+msgid ""
+"The Greek dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-guatemalan)
+msgid ""
+"The Guatemalan Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-gujarati)
+msgid ""
+"The Gujarati dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-hebrew)
+msgid ""
+"The Hebrew dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-hindi)
+msgid ""
+"The Hindi dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-honduran)
+msgid ""
+"The Honduran Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-hungarian)
+msgid ""
+"The Hungarian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-icelandic)
+msgid ""
+"The Icelandic dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-indonese)
+msgid ""
+"The Indonese dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-irish)
+msgid ""
+"The Irish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-italian)
+msgid ""
+"The Italian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-kinyarwanda)
+msgid ""
+"The Kinyarwanda dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-kiswahili)
+msgid ""
+"The Kiswahili dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-korean)
+msgid ""
+"The Korean dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-kurdish)
+msgid ""
+"The Kurdish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-latvian)
+msgid ""
+"The Latvian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(limal-ca-mgm:limal-ca-mgm-perl)
+msgid ""
+"The LiMaL CA Management Library provides methods for managing a Certificate "
+"Authority.\n"
+"\n"
+"This package provides the perl bindings to the CA Management Library."
+msgstr ""
+
+#. description(limal-ca-mgm)
+msgid ""
+"The LiMaL CA Management Library provides methods for managing a certificate "
+"authority."
+msgstr ""
+
+#. description(link-grammar)
+msgid ""
+"The Link Grammar Parser is a syntactic parser of English, based on link "
+"grammar, an original theory of English syntax. Given a sentence, the system "
+"assigns to it a syntactic structure, which consists of a set of labeled "
+"links connecting pairs of words. The parser also produces a \"constituent"
+"\" (Penn tree-bank style phrase tree) representation of a sentence (showing "
+"noun phrases, verb phrases, etc.)."
+msgstr ""
+
+#. summary(lilo)
+msgid "The Linux Loader, a Boot Menu"
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-lithuanian)
+msgid ""
+"The Lithuanian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(mplus-fonts)
+msgid ""
+"The M+ outline fonts are distributed with proportional Latin (4 variations), "
+"fixed-halfwidth Latin (3 variations) and fixed-fullwidth Japanese (2 Kana "
+"variations) character set. 7 weights from Thin to Black are included, but "
+"fixed-halfwidth Latin with 5 weights from Thin to Bold."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-macedonian)
+msgid ""
+"The Macedonian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-malagasy)
+msgid ""
+"The Malagasy dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-malay)
+msgid ""
+"The Malay dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-maory)
+msgid ""
+"The Maory dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-marathi)
+msgid ""
+"The Marathi dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-mexican)
+msgid ""
+"The Mexican dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(mono-core:mono-locale-extras)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"Extra locale information."
+msgstr ""
+
+#. description(mono-core:mono-extras)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"Extra packages."
+msgstr ""
+
+#. description(mono-core:mono-mvc)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"Mono implementation of ASP.NET MVC."
+msgstr ""
+
+#. description(mono-core:mono-wcf)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"Mono implementation of WCF, Windows Communication Foundation"
+msgstr ""
+
+#. description(mono-basic)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"Mono's VB runtime."
+msgstr ""
+
+#. description(mono-core:mono-winforms)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"Mono's Windows Forms implementation."
+msgstr ""
+
+#. description(mono-core:mono-devel)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. This package contains compilers and other tools needed to "
+"develop .NET applications.\n"
+"\n"
+"Mono development tools."
+msgstr ""
+
+#. description(mrtg)
+msgid ""
+"The Multi Router Traffic Grapher is a tool primarily used to monitor the "
+"traffic load on network links (typically by using SNMP). MRTG generates HTML "
+"pages containing PNG images which provide a LIVE visual representation of "
+"this traffic. MRTG typically produces daily, weekly, monthly, and yearly "
+"graphs.\n"
+"\n"
+"In addition to monitoring via SNMP, MRTG can also generate graphs based on "
+"the output of any application, allowing one to generate graphs of anything "
+"that needs monitoring (for example, CPU and memory usage, email volumes, web "
+"hits, etc). For faster data collection, MRTG can also interface to RRDtool.\n"
+"\n"
+"The mrtg-doc package contains additional documentation, contributed scripts "
+"and configuration files that used to form part of the mrtg package."
+msgstr ""
+
+#. summary(mrtg)
+msgid "The Multirouter Traffic Grapher"
+msgstr ""
+
+#. summary(nagios)
+msgid "The Nagios Network Monitor"
+msgstr ""
+
+#. summary(nagios-plugins)
+msgid "The Nagios Plug-Ins"
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-nicaraguan)
+msgid ""
+"The Nicaraguan Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-sotho-northern)
+msgid ""
+"The Northern Sotho dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-norsk-bokmaal)
+msgid ""
+"The Norwegian Bokmaal dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-norsk-nynorsk)
+msgid ""
+"The Norwegian Nynorsk dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. summary(ocaml)
+#, fuzzy
+msgid "The Objective Caml Compiler and Programming Environment"
+msgstr "Logo 编程环境"
+
+#. description(myspell-dictionaries:myspell-occitan-lengadocian)
+msgid ""
+"The Occitan Lengadocian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. summary(openais)
+msgid "The OpenAIS Standards-Based Cluster Framework executive and APIs"
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-panamanian)
+msgid ""
+"The Panamanian Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-persian)
+msgid ""
+"The Persian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-peruvian)
+msgid ""
+"The Peruvian Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-polish)
+msgid ""
+"The Polish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-portuguese)
+msgid ""
+"The Portuguese dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-puerto-rican)
+msgid ""
+"The Puerto Rican Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-romanian)
+msgid ""
+"The Romanian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-russian)
+msgid ""
+"The Russian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-salvadorean)
+msgid ""
+"The Salvadorean Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-gaelic-scots)
+msgid ""
+"The Scottish Gaelic dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-serbian-cyrillic)
+msgid ""
+"The Serbian Cyrillic dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-sinhala)
+msgid ""
+"The Sinhala dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-slovak)
+msgid ""
+"The Slovak dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-slovene)
+msgid ""
+"The Slovene dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish)
+msgid ""
+"The Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. summary(MozillaThunderbird)
+msgid "The Stand-Alone Mozilla Mail Component"
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-swati)
+msgid ""
+"The Swati dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-swedish)
+msgid ""
+"The Swedish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-swedish-finland)
+msgid ""
+"The Swedish in Finland dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-tagalog)
+msgid ""
+"The Tagalog dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-thai)
+msgid ""
+"The Thai dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-ukrainian)
+msgid ""
+"The Ukrainian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-uruguayan)
+msgid ""
+"The Uruguayan Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-valencian)
+msgid ""
+"The Valencian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-venda)
+msgid ""
+"The Venda dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-venezuelan)
+msgid ""
+"The Venezuelan Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-vietnamese)
+msgid ""
+"The Vietnamese dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-welsh)
+msgid ""
+"The Welsh dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(libXdamage:libXdamage-devel)
+msgid ""
+"The X Damage Extension allows applications to track modified regions of "
+"drawables.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXdamage1."
+msgstr ""
+
+#. description(libXdmcp:libXdmcp-devel)
+msgid ""
+"The X Display Manager Control Protocol (XDMCP) provides a uniform mechanism "
+"for an autonomous display to request login service from a remote host. By "
+"autonomous, we mean the display consists of hardware and processes that are "
+"independent of any particular host where login service is desired. An X "
+"terminal (screen, keyboard, mouse, processor, network interface) is a prime "
+"example of an autonomous display.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXdmcp6."
+msgstr ""
+
+#. description(libXfixes:libXfixes-devel)
+msgid ""
+"The X Fixes extension provides applications with work-arounds for various "
+"limitations in the core protocol.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXfixes3."
+msgstr ""
+
+#. description(libXrandr:libXrandr-devel)
+msgid ""
+"The X Resize, Rotate and Reflect Extension (RandR) allows clients to "
+"dynamically change X screens, so as to resize, to change the orientation and "
+"layout of the root window of a screen.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXrandr2."
+msgstr ""
+
+#. description(libXv:libXv-devel)
+msgid ""
+"The X Video Extension (Xv) extension provides support for video adaptors "
+"attached to an X display. It takes the approach that a display may have one "
+"or more video adaptors, each of which has one or more ports through which "
+"independent video streams pass.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXv1."
+msgstr ""
+
+#. description(libXaw:libXaw-devel)
+msgid ""
+"The X Window System Athena widget set implements simple user interfaces "
+"based upon the X Toolkit Intrinsics (Xt) library.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXaw6/libXaw7/libXaw8."
+msgstr ""
+
+#. description(libXScrnSaver:libXScrnSaver-devel)
+msgid ""
+"The X Window System provides support for changing the image on a display "
+"screen after a user-settable period of inactivity to avoid burning the "
+"cathode ray tube phosphors. This extension allows an external \"screen saver"
+"\" client to detect when the alternate image is to be displayed and to "
+"provide the graphics.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXss1."
+msgstr ""
+
+#. description(libXtst:libXtst-devel)
+msgid ""
+"The XTEST extension is a minimal set of client and server extensions "
+"required to completely test the X11 server with no user intervention. This "
+"extension is not intended to support general journaling and playback of user "
+"actions.\n"
+"\n"
+"The RECORD extension supports the recording and reporting of all core X "
+"protocol and arbitrary X extension protocol.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXtst6."
+msgstr ""
+
+#. description(libXext:libXext-devel)
+msgid ""
+"The Xext library contains a handful of X11 extensions:\n"
+"- Double Buffer extension (DBE/Xdbe)\n"
+"- Display Power Management Signaling (DPMS) extension\n"
+"- X11 Nonrectangular Window Shape extension (Xshape)\n"
+"- The MIT Shared Memory extension (MIT-SHM/Xshm)\n"
+"- TOG-CUP (colormap) protocol extension (Xcup)\n"
+"- X Extended Visual Information extension (XEvi)\n"
+"- X11 Double-Buffering, Multi-Buffering, and Stereo extension (Xmbuf)\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXext6."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-xhosa)
+msgid ""
+"The Xhosa dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(libXmu:libXmu-devel)
+msgid ""
+"The Xmu/Xmuu libraries are a collection of miscellaneous (some might say "
+"random) utility functions that have been useful in building various "
+"applications and widgets.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXmu6 and libXmuu1."
+msgstr ""
+
+#. description(libXrender:libXrender-devel)
+msgid ""
+"The Xrender library is designed as a lightweight library interface to the "
+"Render extension.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXrender1."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-yiddish)
+msgid ""
+"The Yiddish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-zulu)
+msgid ""
+"The Zulu dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(ntp:ntp-doc)
+msgid ""
+"The complete set of documentation for building and configuring an NTP server "
+"or client. The documentation is in the form of HTML files suitable for "
+"browsing and contains links to additional documentation at various web "
+"sites.\n"
+"\n"
+"What about NTP? Understanding and using the Network Time Protocol (A first "
+"try on a non-technical Mini-HOWTO and FAQ on NTP). Edited by Ulrich Windl "
+"and David Dalton."
+msgstr ""
+
+#. description(libXcomposite:libXcomposite-devel)
+msgid ""
+"The composite extension provides several related mechanisms:\n"
+"- Per-hierarchy storage: The rendering of an entire hierarchy of   windows "
+"is redirected to off-screen storage.\n"
+"- Automatic shadow update: When a hierarchy is rendered off-screen,   the X "
+"server provides an automatic mechanism for presenting those   contents "
+"within the parent window.\n"
+"- Composite overlay window: provides compositing managers with a   surface "
+"on which to draw without interference.\n"
+"- Parent window clipping: modifies the semantics of parent window   clipping "
+"in the presence of manual redirected children.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXcomposite1."
+msgstr ""
+
+#. description(v4l-utils:libv4l-devel)
+#, fuzzy
+msgid ""
+"The libv4l-devel package contains libraries and header files for developing "
+"applications that use libv4l."
+msgstr "包中含有意外的版本"
+
+#. description(libxfce4ui:libxfce4ui-1-0)
+msgid ""
+"The libxfce4ui library provides a number of widgets commonly used by Xfce "
+"applications."
+msgstr ""
+
+#. description(libxfcegui4:libxfcegui4-4)
+msgid ""
+"The libxfcegui4 library provides a number of widgets commonly used by Xfce "
+"applications. It has been superseded by the libxfce4ui library."
+msgstr ""
+
+#. description(libxslt-python)
+msgid ""
+"The libxslt-python package contains a module that permits applications "
+"written in the Python programming language to use the interface supplied by "
+"the libxslt library to apply XSLT transformations.\n"
+"\n"
+"This library allows parsing stylesheets. It uses the libxml2-python to load "
+"and save XML and HTML files. Direct access to XPath and the XSLT "
+"transformation context are possible. Thus it is possible to extend the XSLT "
+"language with XPath functions written in Python."
+msgstr ""
+
+#. description(lndir)
+msgid ""
+"The lndir program makes a shadow copy of a directory tree, except that the "
+"shadow is not populated with real files but instead with symbolic links "
+"pointing at the real files in the original directory tree."
+msgstr ""
+
+#. description(libXt:libXt-devel)
+msgid ""
+"The low level Xlib library provides functions for interacting with an X11 "
+"server, but does not provide any function for implementing the graphical "
+"objects (widgets) used in GUIs, such as buttons, menus, etc. The Xt library "
+"provides support for creating and using widget types, but does not provide "
+"any specific widget. Specific widgets are implemented by other libraries "
+"using Xt, such as Xaw and Motif.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXt6."
+msgstr ""
+
+#. description(makedepend)
+msgid ""
+"The makedepend program reads each sourcefile in sequence and parses it like "
+"a C-preprocessor so that it can correctly tell which #include directives "
+"would be used in a compilation.\n"
+"\n"
+"These dependencies are then written to a makefile in such a way that make "
+"will know which object files must be recompiled when a dependency has "
+"changed."
+msgstr ""
+
+#. description(mhash:mhash-devel)
+msgid ""
+"The mhash library provides an easy way to access strong hashes such as MD5, "
+"SHA1, and other algorithms."
+msgstr ""
+
+#. description(mhash)
+msgid ""
+"The mhash library provides an easy way to access strong hashes, such as MD5, "
+"SHA1, and other algorithms."
+msgstr ""
+
+#. description(wv2:libwv2-4)
+msgid ""
+"The wv2 library is used to import Microsoft Word documents in koffice for "
+"example."
+msgstr ""
+
+#. description(man-pages-it)
+msgid ""
+"These are the Italian man pages of the Linux Documentation Project. Note "
+"that they are normally older than the English versions.  For reference, you "
+"should use the English versions."
+msgstr ""
+
+#. description(man-pages-ja)
+msgid ""
+"These are the Japanese man pages of the Linux Documentation Project. Note "
+"that they are normally older than the English versions.  For reference, you "
+"should use the English versions."
+msgstr ""
+
+#. description(man-pages-ko)
+msgid ""
+"These are the Korean man pages of the Linux Documentation Project. Note that "
+"they are normally older than the English versions. For reference, you should "
+"use the English versions."
+msgstr ""
+
+#. description(man-pages-ru)
+msgid ""
+"These are the Russian man pages of the Linux Documentation Project. Note "
+"that they are normally older than the English versions.  You should use the "
+"English versions as a reference."
+msgstr ""
+
+#. description(libXxf86vm:libXxf86vm-devel)
+msgid ""
+"These functions provide aninterface to the server extension XFree86-"
+"VidModeExtension which allows the video modes to be queried and adjusted "
+"dynamically and mode switching to be controlled.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXxf86vm1."
+msgstr ""
+
+#. description(libwmf:libwmf-tools)
+msgid ""
+"These utilities read metafile images and can either display them using the X "
+"Window System or convert them to standard formats such as PNG, JPEG, PS, "
+"EPS, and more."
+msgstr ""
+
+#. description(lxde-common-branding-openSUSE)
+msgid ""
+"This branding-style package sets openSUSE style improvements into LXDE. You "
+"should always prefer branding-openSUSE packages to branding-upstream."
+msgstr ""
+
+#. description(myspell-german-old)
+msgid ""
+"This dictionary supports spell checking according to the old German spelling "
+"rules.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(ndesk-dbus)
+msgid ""
+"This is a C# implementation of D-Bus. It's often referred to as \"managed D-"
+"Bus\" to avoid confusion with existing bindings (which wrap libdbus).\n"
+"\n"
+"It is a clean-room implementation based on the D-Bus Specification Version "
+"0.11 and study of the wire protocol of existing tools."
+msgstr ""
+
+#. description(mlmmj)
+msgid ""
+"This is an attempt at implementing a mailing list manager with the same "
+"functionality as EZMLM, but with the MIT/X11 license and no mail server "
+"dependency."
+msgstr ""
+
+#. description(m2300w)
+msgid ""
+"This is an open source Linux printer driver for the Konica Minolta magicolor "
+"2300W and 2400W color laser printers. It requires Ghostscript and foomatic-"
+"filters. It is recommended to use this driver with CUPS.\n"
+"\n"
+"The current version 0.51 was released 2005-10-16 and the m2300w driver is no "
+"longer actively maintained which means that help, a workaround, or a bugfix "
+"is rather unlikely if there are issues with this driver."
+msgstr ""
+
+#. description(mailman)
+msgid ""
+"This is the GNU Mailing List manager. Mailman provides an easy-to-configure "
+"means of maintaining mailing lists including Web administration. Mailman is "
+"written in Python."
+msgstr ""
+
+#. description(obconf)
+msgid ""
+"This is the official application from the Openbox developers to configure "
+"the Openbox window manager. It is not needed, but highly recommended when "
+"installing Openbox."
+msgstr ""
+
+#. description(lightdm-gtk-greeter)
+msgid ""
+"This is the reference implementation of a LightDM greeter based on the GTK "
+"toolkit."
+msgstr ""
+
+#. description(Mesa:Mesa-libIndirectGL1)
+msgid ""
+"This library provides a pure software rasterizer; it does not provide a "
+"direct rendering capable library, or one which uses GLX. For that, please "
+"see Mesa-libGL1."
+msgstr ""
+
+#. description(vde2:libvdeplug3)
+msgid ""
+"This package contains a library that makes programs able to connect to a "
+"local VDE switch. The simplest one is vde_plug, contained in the vde2 "
+"package."
+msgstr ""
+
+#. description(libvorbis:libvorbis-devel)
+#, fuzzy
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"compile and develop applications that use libvorbis."
+msgstr "包中含有意外的版本"
+
+#. description(xine-lib:libxine-devel)
+msgid ""
+"This package contains all necessary include files, libraries and "
+"configuration files needed to compile applications that use the xine media "
+"player.\n"
+"\n"
+"xine is a video player which supports a large number of file formats (i.e., "
+"VCD, MPEG2) using plug-ins. Several plug-ins are included. Others can be "
+"post-installed. Supports stereo sound using OSS and AC5.1 using Alsa.\n"
+"\n"
+"Dieses Paket enthÃ¤lt alle nÃ¶tigen Include Dateien, Biblioteken und "
+"Konfigurationsdateien, die benÃ¶tigt werden, um Anwendungen zu kompilieren, "
+"die den xine Media Player verwenden.\n"
+"\n"
+"xine ist ein Videoplayer mit grafischem  Frontend und unterstÃ¼tzt eine "
+"vielzahl an Dateiformaten (z.B. VCD und MPEG2) mit hilfe von Plugins. Einige "
+"Plugins sind enthalten, andere kÃ¶nnen nach der Installation von xine "
+"nachinstalliert werden. xine untersÃ¼tzt Stereosound via OSS und AC5.1 per "
+"Alsa.\n"
+"\n"
+"This package contains all necessary include files, libraries and "
+"configuration files needed to compile applications that use the xine media "
+"player.\n"
+"\n"
+"xine is a video player which supports a large number of file formats (i.e., "
+"VCD, MPEG2) using plug-ins. Several plug-ins are included. Others can be "
+"post-installed. Supports stereo sound using OSS and AC5.1 using Alsa.\n"
+"\n"
+"Dieses Paket enthÃ¤lt alle nÃ¶tigen Include Dateien, Biblioteken und "
+"Konfigurationsdateien, die benÃ¶tigt werden, um Anwendungen zu kompilieren, "
+"die den xine Media Player verwenden.\n"
+"\n"
+"xine ist ein Videoplayer mit grafischem  Frontend und unterstÃ¼tzt eine "
+"vielzahl an Dateiformaten (z.B. VCD und MPEG2) mit hilfe von Plugins. Einige "
+"Plugins sind enthalten, andere kÃ¶nnen nach der Installation von xine "
+"nachinstalliert werden. xine untersÃ¼tzt Stereosound via OSS und AC5.1 per "
+"Alsa.\n"
+"\n"
+" This version of xine may lack certain features because of legal "
+"requirements (potential patent violation). See also http://www.opensuse.org/"
+"XINE#Legal_Matters\n"
+"\n"
+"More information about xine plug-ins can be found at http://www.xine-project."
+"org/home"
+msgstr ""
+
+#. description(mono-qt4:mono-qt4-devel)
+#, fuzzy
+msgid ""
+"This package contains development files for the .NET/Mono bindings for the "
+"Qt4 libraries."
+msgstr "包中含有意外的版本"
+
+#. description(kdesdk4:lokalize)
+#, fuzzy
+msgid "This package contains lokalize, an editor for translations."
+msgstr "包中含有意外的版本"
+
+#. description(nbd)
+msgid ""
+"This package contains nbd-server. It is the server backend for the nbd "
+"network block device driver that's in the Linux kernel.\n"
+"\n"
+"nbd can be used to have a filesystem stored on another machine. It does "
+"provide a block device, not a file system; so unless you put a clustering "
+"filesystem on top of it, you can't access it simultaneously from more than "
+"one client. Use NFS or a real cluster FS (such as ocfs2) if you want to do "
+"this. nbd-server can export a file (which may contain a filesystem image) or "
+"a partition. Swapping over nbd is possible as well, though it's said not to "
+"be safe against OOM and should not be used for that case. nbd-server also "
+"has a copy-on-write mode where changes are saved to a separate file and "
+"thrown away when the connection closes.\n"
+"\n"
+"The package also contains the nbd-client tools, which you need to configure "
+"the nbd devices on the client side."
+msgstr ""
+
+#. description(MozillaFirefox:MozillaFirefox-translations-other)
+msgid ""
+"This package contains rarely used languages for the user interface of "
+"MozillaFirefox."
+msgstr ""
+
+#. description(MozillaFirefox:MozillaFirefox-translations-common)
+msgid ""
+"This package contains several common languages for the user interface of "
+"MozillaFirefox."
+msgstr ""
+
+#. description(MozillaThunderbird:MozillaThunderbird-translations-common)
+msgid ""
+"This package contains several optional languages for the user interface of "
+"MozillaThunderbird."
+msgstr ""
+
+#. description(nfs-utils:nfs-kernel-server)
+msgid ""
+"This package contains support for the kernel based NFS server. You can tune "
+"the number of server threads via the sysconfig variable "
+"USE_KERNEL_NFSD_NUMBER. For quota over NFS support, install the quota "
+"package."
+msgstr ""
+
+#. description(man-pages-cs)
+msgid "This package contains the Czech manual pages."
+msgstr ""
+
+#. description(nbd:nbd-doc)
+msgid ""
+"This package contains the HTML documentation for the network block device "
+"(nbd) utilities.\n"
+"\n"
+"nbd can be used to have a filesystem stored on another machine. It does "
+"provide a block device, not a file system; so unless you put a clustering "
+"filesystem on top of it, you can't access it simultaneously from more than "
+"one client. Use NFS or a real cluster FS (such as ocfs2) if you want to do "
+"this. nbd-server can export a file (which may contain a filesystem image) or "
+"a partition. Swapping over nbd is possible as well, though it's said not to "
+"be safe against OOM and should not be used for that case. nbd-server also "
+"has a copy-on-write mode where changes are saved to a separate file and "
+"thrown away when the connection closes."
+msgstr ""
+
+#. description(makedev)
+msgid ""
+"This package contains the MAKEDEV script, which makes it easy to create and "
+"maintain the files in the /dev directory.\n"
+"\n"
+"You do not need this script on SUSE Linux, but it is needed for FHS 2.1."
+msgstr ""
+
+#. description(Mesa:Mesa-libEGL-devel)
+msgid ""
+"This package contains the development environment required for compiling "
+"programs against EGL native platform graphics interface library. EGL "
+"provides a platform-agnostic mechanism for creating rendering surfaces for "
+"use with other graphics libraries, such as OpenGL|ES and OpenVG.\n"
+"\n"
+"This package provides the development environment for compiling programs "
+"against the EGL library."
+msgstr ""
+
+#. description(openais)
+msgid ""
+"This package contains the openais executive, openais service handlers, "
+"default configuration files and init script."
+msgstr ""
+
+#. description(xfce4-session:libxfsm-4_6-0)
+#, fuzzy
+msgid ""
+"This package contains the shared library for xfce4-session splash screen "
+"engines."
+msgstr "包中含有意外的版本"
+
+#. description(xfce4-panel:libxfce4panel-1_0-4)
+#, fuzzy
+msgid "This package contains the xfce4-panel shared library."
+msgstr "包中含有意外的版本"
+
+#. description(xfconf:libxfconf-0-2)
+#, fuzzy
+msgid "This package contains the xfconf shared library."
+msgstr "最近使用过的应用程序"
+
+#. description(NetworkManager:NetworkManager-devel)
+msgid ""
+"This package contains various headers accessing some NetworkManager "
+"functionality from applications."
+msgstr ""
+
+#. description(libxml2:libxml2-tools)
+#, fuzzy
+msgid ""
+"This package contains xmllint, a very useful tool proving libxml's power."
+msgstr "包中含有意外的版本"
+
+#. description(libxslt:libxslt-tools)
+#, fuzzy
+msgid ""
+"This package contains xsltproc, a command line interface to the XSLT engine."
+msgstr "使用该按钮可启动 YaST 进行永久配置。"
+
+#. description(nagios-plugins:nagios-plugins-libs)
+msgid ""
+"This package includes the libraries (scripts) that are included by many of "
+"the standard checks."
+msgstr ""
+
+#. description(monapo-fonts)
+msgid ""
+"This package provides \"monapo\" Japanese TrueType font which is based on "
+"IPA fonts (v3).  Monapo font is adjusted to be compatible with MS P Gothic "
+"so that it can show Japanese Ascii Art properly."
+msgstr ""
+
+#. summary(lxde-common)
+#, fuzzy
+msgid "This package provides a set of default configurations for LXDE"
+msgstr "包中含有意外的版本"
+
+#. description(libxfcegui4:libxfcegui4-data)
+#, fuzzy
+msgid "This package provides data files needed by the libxfcegui4 library."
+msgstr "包中含有意外的版本"
+
+#. summary(nuoveXT2-icon-theme)
+msgid "This package provides the default LXDE icon theme"
+msgstr ""
+
+#. description(nuoveXT2-icon-theme)
+msgid ""
+"This package provides the default LXDE icon theme. nuoveXT2-icon-theme is no "
+"more maintained from his author so LXDE project decided to maintain it and "
+"keep working on it"
+msgstr ""
+
+#. description(lightdm-gtk-greeter-branding-openSUSE)
+#, fuzzy
+msgid ""
+"This package provides the openSUSE look and feel for lightdm-gtk-greeter."
+msgstr "包中含有意外的版本"
+
+#. description(xfce4-branding-openSUSE:midori-branding-openSUSE)
+#, fuzzy
+msgid ""
+"This package provides the openSUSE look and feel for the Midori web browser."
+msgstr "包中含有意外的版本"
+
+#. description(xfce4-branding-openSUSE:libxfce4ui-branding-openSUSE)
+#, fuzzy
+msgid ""
+"This package provides the openSUSE look and feel for the libxfce4ui library."
+msgstr "包中含有意外的版本"
+
+#. description(libxfce4ui:libxfce4ui-tools)
+#, fuzzy
+msgid "This package provides tools from libxfce4ui."
+msgstr "包未经签名"
+
+#. description(mgetty)
+msgid ""
+"This package turns your computer into a fax machine. With some voice modems "
+"(Zyxel, Rockwell, and USR), you can even use your computer as an answering "
+"machine.\n"
+"\n"
+"Mgetty recognizes what kind of call it is receiving and does everything else "
+"automatically. It is able to accept data (login/PPP), fax, and (depending on "
+"your modem) voice calls. Find the documentation in /usr/share/doc/packages/"
+"mgetty and TeX Info files in /usr/share/info.\n"
+"\n"
+"The configuration files are in /etc/mgetty+sendfax."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-nwstat)
+msgid ""
+"This plugin attempts to contact the MRTGEXT NLM running on a Novell server "
+"to gather the requested system information."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-overcr)
+msgid ""
+"This plugin attempts to contact the Over-CR collector daemon running on the "
+"remote UNIX server in order to gather the requested system information."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-ide_smart)
+msgid ""
+"This plugin checks a local hard drive with the (Linux specific) SMART "
+"interface.\n"
+"\n"
+"Please read /usr/share/doc/nagios-plugins/README.SuSE for details how to "
+"setup this check."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-sensors)
+msgid "This plugin checks hardware status using the lm_sensors package."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-disk)
+msgid ""
+"This plugin checks the amount of used disk space on a mounted file system "
+"and generates an alert if free space is less than one of the threshold "
+"values."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-ntp_time)
+msgid ""
+"This plugin checks the clock offset between the local host and a remote NTP "
+"server. It is independent of any commandline programs or external libraries."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-procs)
+msgid ""
+"This plugin checks the number of currently running processes and generates "
+"WARNING or CRITICAL states if the process count is outside the specified "
+"threshold ranges.\n"
+"\n"
+"The process count can be filtered by process owner, parent process PID, "
+"current state (e.g., 'Z'), or may be the total number of running processes."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-mailq)
+msgid ""
+"This plugin checks the number of messages in the mail queue (supports "
+"multiple sendmail queues, qmail)."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-users)
+msgid ""
+"This plugin checks the number of users currently logged in on the local "
+"system and generates an error if the number exceeds the thresholds specified."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-linux_raid)
+msgid ""
+"This plugin checks the status of a local Linux software RAID via the /proc/"
+"mdstat interface."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-nagios)
+msgid ""
+"This plugin checks the status of the Nagios process on the local machine. "
+"The plugin will check to make sure the Nagios status log is no older than "
+"the number of minutes specified by the expires option.\n"
+"\n"
+"It also checks the process table for a process matching the command argument."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-nt)
+msgid ""
+"This plugin collects data from the NSClient service running on a Windows "
+"NT/2000/XP/2003 server."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-ifoperstatus)
+msgid ""
+"This plugin monitors operational status of a particular network interface on "
+"the target host."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-ifstatus)
+msgid ""
+"This plugin monitors operational status of each network interface on the "
+"target host."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-log)
+msgid ""
+"This plugin provides a log file pattern detector - excluding old logfile "
+"entries and searching for the given query."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-breeze)
+msgid ""
+"This plugin reports the signal strength of a Breezecom wireless equipment."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-icmp)
+msgid ""
+"This plugin sends ICMP (ping) packets to the specified host. You can specify "
+"different RTA factors and acceptable packet loss.\n"
+"\n"
+"Please read /usr/share/doc/nagios-plugins/README.SuSE for details how to "
+"setup this check."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-dig)
+msgid "This plugin test the DNS service on the specified host using dig."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-tcp)
+msgid ""
+"This plugin tests TCP connections with the specified host (or unix socket).\n"
+"\n"
+"This package contains the following checks:\n"
+"* check_clamd\n"
+"* check_ftp\n"
+"* check_imap\n"
+"* check_jabber\n"
+"* check_nntp\n"
+"* check_nntps\n"
+"* check_pop\n"
+"* check_simap\n"
+"* check_spop\n"
+"* check_ssmtp\n"
+"* check_tcp\n"
+"* check_udp"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-http)
+msgid ""
+"This plugin tests the HTTP service on the specified host. It can test normal "
+"(http) and secure (https) servers, follow redirects, search for strings and "
+"regular expressions, check connection times, and report on certificate "
+"expiration times."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-ups)
+msgid ""
+"This plugin tests the UPS service on the specified host.\n"
+"\n"
+"Network UPS Tools from www.networkupstools.org must be running for this "
+"plugin to work."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-dhcp)
+msgid ""
+"This plugin tests the availability of DHCP servers on a network.\n"
+"\n"
+"Please read /usr/share/doc/nagios-plugins/README.SuSE for details how to "
+"setup this check."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-load)
+msgid "This plugin tests the current system load average."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-by_ssh)
+msgid ""
+"This plugin uses SSH to execute commands on a remote host.\n"
+"\n"
+"The most common mode of use is to refer to a local identity file with the '-"
+"i' option. In this mode, the identity pair should have a null passphrase and "
+"the public key should be listed in the authorized_keys file of the remote "
+"host. Usually the key will be restricted to running only one command on the "
+"remote server. If the remote SSH server tracks invocation arguments, the one "
+"remote program may be an agent that can execute additional commands as proxy."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-dns)
+msgid ""
+"This plugin uses the nslookup program to obtain the IP address for the given "
+"host/domain query.\n"
+"\n"
+"An optional DNS server to use may be specified. If no DNS server is "
+"specified, the default server(s) specified in /etc/resolv.conf will be used."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-real)
+msgid ""
+"This plugin will attempt to open an RTSP connection with the host.  "
+"Successul connects return STATE_OK, refusals and timeouts return "
+"STATE_CRITICAL, other errors return STATE_UNKNOWN.  Successful connects, but "
+"incorrect reponse messages from the host result in STATE_WARNING return "
+"values."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-smtp)
+msgid ""
+"This plugin will attempt to open an SMTP connection with the given host."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-file_age)
+msgid "This plugin will check either the age of files or their size."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-mrtg)
+msgid ""
+"This plugin will check either the average or maximum value of one of the two "
+"variables recorded in an MRTG log file."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-mrtgtraf)
+msgid ""
+"This plugin will check the incoming/outgoing transfer rates of a router, "
+"switch, etc recorded in an MRTG log.  If the newest log entry is older than "
+"<expire_minutes>, a WARNING status is returned. If either the incoming or "
+"outgoing rates exceed the <icl> or <ocl> thresholds (in Bytes/sec), a "
+"CRITICAL status results.  If either of the rates exceed the <iwl> or <owl> "
+"thresholds (in Bytes/sec), a WARNING status results."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-time)
+msgid "This plugin will check the time on the specified host."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-dummy)
+msgid ""
+"This plugin will simply return the state corresponding to the numeric value "
+"of the <state> argument with optional text."
+msgstr ""
+
+#. description(ncftp)
+msgid ""
+"This program has been in service on UNIX systems since 1991 and is a popular "
+"alternative to the standard FTP program, /usr/bin/ftp. NcFTP offers many "
+"ease-of-use and performance enhancements over the stock FTP client and runs "
+"on a wide variety of UNIX platforms as well as operating systems like "
+"Microsoft Windows and Apple Mac OS X."
+msgstr ""
+
+#. description(mpt-status)
+msgid ""
+"This program shows the status of the physical and logical drives attached to "
+"a LSI 1030 RAID (mptlinux, fusion, mpt, ioc) controller."
+msgstr ""
+
+#. summary(mpi-selector)
+msgid "Tool to provide defaults for which MPI implementation to use"
+msgstr ""
+
+#. summary(libxfce4ui:libxfce4ui-tools)
+msgid "Tools from libxfce4ui"
+msgstr ""
+
+#. summary(libxml2:libxml2-tools)
+msgid "Tools using libxml"
+msgstr ""
+
+#. summary(ltrace)
+msgid "Trace the Library and System Calls a Program Makes"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-ssh)
+msgid "Try to connect to an SSH server at specified server and port."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-ukrainian)
+msgid "Ukrainian Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-uruguayan)
+msgid "Uruguayan Spanish Dictionary for MySpell"
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-ping)
+msgid ""
+"Use ping to check connection statistics for a remote host.\n"
+"\n"
+"This plugin uses the ping command to probe the specified host for packet "
+"loss (percentage) and round trip average (milliseconds)."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-ntp_peer)
+msgid ""
+"Use this plugin to check the health of an NTP server. It supports checking "
+"the offset with the sync peer, the jitter and stratum.\n"
+"\n"
+"This plugin will not check the clock offset between the local host and NTP "
+"server; please use check_ntp_time for that purpose."
+msgstr ""
+
+#. summary(libwmf:libwmf-tools)
+msgid "Utilities for Displaying and Converting Metafile Images"
+msgstr ""
+
+#. summary(libxfce4util:libxfce4util6)
+#, fuzzy
+msgid "Utility Library for the Xfce Desktop Environment"
+msgstr " 集成开发环境"
+
+#. summary(lndir)
+msgid ""
+"Utility to create a shadow directory of symbolic links to another directory "
+"tree"
+msgstr ""
+
+#. summary(makedepend)
+#, fuzzy
+msgid "Utility to create dependencies in makefiles"
+msgstr "单击配置网络"
+
+#. summary(vde2:libvdeplug3)
+#, fuzzy
+msgid "VDE plug library"
+msgstr "GNOME 开发"
+
+#. summary(libvnc:libVncExt2)
+msgid "VNC for XFree86 v4.x architecture"
+msgstr ""
+
+#. description(LibVNCServer:LibVNCServer-devel)
+msgid ""
+"VNC is a set of programs using the RFB (Remote Frame Buffer) protocol. They "
+"are designed to \"export\" a frame buffer via the network. It is already in "
+"wide use for administration, but it is not that easy to program a server "
+"yourself. This has been changed by LibVNCServer.\n"
+"\n"
+"X.org already has a virtual Xvnc server which you can start as an own screen "
+"(e.g. :1) and connect to with a VNC client (e.g. vncviewer from tightvnc).\n"
+"\n"
+"The LibVNCServer-devel package contains the static libraries and header "
+"files for LibVNCServer."
+msgstr ""
+
+#. description(vala:libvala-0_16-0)
+msgid ""
+"Vala is a new programming language that aims to bring modern programming "
+"language features to GNOME developers without imposing any additional "
+"runtime requirements and without using a different ABI compared to "
+"applications and libraries written in C."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-valencian)
+msgid "Valencian Dictionary for MySpell"
+msgstr ""
+
+#. description(vamp-plugin-sdk:libvamp-hostsdk3)
+msgid ""
+"Vamp is an API for C and C++ plugins that process sampled audio data to "
+"produce descriptive output (measurements or semantic observations)."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-venda)
+msgid "Venda Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-venezuelan)
+msgid "Venezuelan Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(xawtv:motv)
+msgid "Video4Linux TV application (Motif)"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-vietnamese)
+msgid "Vietnamese Dictionary for MySpell"
+msgstr ""
+
+#. summary(meld)
+msgid "Visual diff and merge tool"
+msgstr ""
+
+#. description(libvoikko:libvoikko1)
+msgid ""
+"Voikko is a Finnish spellchecker and hyphenator based on Malaga and Suomi-"
+"Malaga."
+msgstr ""
+
+#. summary(wbxml2:libwbxml2-0)
+msgid "WBXML parser and compiler library"
+msgstr ""
+
+#. summary(linphone)
+msgid "Web Phone"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-welsh)
+msgid "Welsh Dictionary for MySpell"
+msgstr ""
+
+#. summary(libxfcegui4:libxfcegui4-4)
+#, fuzzy
+msgid "Widget Library for the Xfce Desktop Environment"
+msgstr " 集成开发环境"
+
+#. summary(libxfce4ui:libxfce4ui-1-0)
+#, fuzzy
+msgid "Widgets Library for the Xfce Desktop Environment"
+msgstr " 集成开发环境"
+
+#. description(libWindowsWM:libWindowsWM7)
+msgid ""
+"WindowsWM is a simple library designed to interface with the Windows-WM "
+"extension. This extension allows X window managers to better interact with "
+"the Cygwin XWin server when running X11 in a rootless mode."
+msgstr ""
+
+#. description(libWindowsWM:libWindowsWM-devel)
+msgid ""
+"WindowsWM is a simple library designed to interface with the Windows-WM "
+"extension. This extension allows X window managers to better interact with "
+"the Cygwin XWin server when running X11 in a rootless mode.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libWindowsWM7."
+msgstr ""
+
+#. description(libXvMC:libXvMC-devel)
+msgid ""
+"X-Video Motion Compensation (XvMC), is an extension of the X video extension "
+"(Xv) for the X Window System. The XvMC API allows video programs to offload "
+"portions of the video decoding process to the GPU video-hardware.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXvMC1."
+msgstr ""
+
+#. summary(libxkbui:libxkbui1)
+msgid "X11 keyboard UI presentation library"
+msgstr ""
+
+#. description(libXcursor:libXcursor-devel)
+msgid ""
+"Xcursor a library designed to help locate and load cursors. Cursors can be "
+"loaded from files or memory. A library of common cursors exists which map to "
+"the standard X cursor names.Cursors can exist in several sizes and the "
+"library automatically picks the best size.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXcursor1."
+msgstr ""
+
+#. summary(xfce4-panel:libxfce4panel-1_0-4)
+#, fuzzy
+msgid "Xfce Panel Shared Library"
+msgstr "性能"
+
+#. description(libXft:libXft-devel)
+msgid ""
+"Xft is a library that connects X applications with the FreeType font "
+"rasterization library. Xft uses fontconfig to locate fonts so it has no "
+"configuration files.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXft2."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-xhosa)
+msgid "Xhosa Dictionary for MySpell"
+msgstr ""
+
+#. description(libXinerama:libXinerama-devel)
+msgid ""
+"Xinerama is an extension to the X Window System which enables multi-headed X "
+"applications and window managers to use two or more physical displays as one "
+"large virtual display.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXinerama1."
+msgstr ""
+
+#. summary(libXprintAppUtil:libXprintAppUtil1)
+#, fuzzy
+msgid "Xprint application utility routines"
+msgstr "启动安装或更新"
+
+#. description(libyajl:libyajl2)
+msgid ""
+"YAJL is a small event-driven (SAX-style) JSON parser written in ANSI C, and "
+"a small validating JSON generator."
+msgstr ""
+
+#. description(yaz:libyaz-devel)
+msgid ""
+"YAZ is a C library for developing client - and server applications using the "
+"ANSI/NISO Z39.50 protocol for Information Retrieval."
+msgstr ""
+
+#. summary(libyajl:libyajl2)
+msgid "Yet Another JSON Library"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-yiddish)
+msgid "Yiddish Dictionary for MySpell"
+msgstr ""
+
+#. summary(yaz:libyaz-devel)
+msgid "Z39.50 Library"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-zulu)
+msgid "Zulu Dictionary for MySpell"
+msgstr ""
+
+#. description(libxml++:libxml++-2_6-2)
+msgid ""
+"libXML++ provides a C++ interface for XML files. It presently uses libxml2 "
+"to access the XML files."
+msgstr ""
+
+#. description(libXres:libXres-devel)
+msgid ""
+"libXRes provides an X Window System client interface to the Resource "
+"extension to the X protocol. The Resource extension allows for X clients to "
+"see and monitor the X resource usage of various clients (pixmaps, et al).\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXRes1."
+msgstr ""
+
+#. description(libXTrap:libXTrap-devel)
+msgid ""
+"libXTrap provides an interface to the DEC-XTRAP extension, which allows for "
+"capture and synthesis of core input events.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXTrap6."
+msgstr ""
+
+#. description(libXevie:libXevie-devel)
+msgid ""
+"libXevie provides an X Window System client interface to the EvIE extension "
+"to the X protocol. The EvIE (Event Interception Extension) allows for "
+"clients to be able to intercept all events coming through the server and "
+"then decide what to do with them, including being able to modify or discard "
+"events.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXevie1."
+msgstr ""
+
+#. description(libXfont:libXfont-devel)
+msgid ""
+"libXfont provides the core of the legacy X11 font system, handling the index "
+"files (fonts.dir, fonts.alias, fonts.scale), the various font file formats, "
+"and rasterizing them. It is used by the X servers, the X Font Server (xfs), "
+"and some font utilities (bdftopcf for instance), but should not be used by "
+"normal X11 clients. X11 clients access fonts via either the new APIs in "
+"libXft, or the legacy APIs in libX11.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXfont1."
+msgstr ""
+
+#. description(libXi:libXi-devel)
+msgid ""
+"libXi is the client-side library for the X Input Extension.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXi6."
+msgstr ""
+
+#. description(libXp:libXp-devel)
+msgid ""
+"libXp provides APIs to allow client applications to render to non-display "
+"devices.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXp6."
+msgstr ""
+
+#. description(libXpm:libXpm-devel)
+msgid ""
+"libXpm facilitates working with XPM (X PixMap), a format for storing/"
+"retrieving X pixmaps to/from files.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXpm4."
+msgstr ""
+
+#. description(libXprintUtil:libXprintUtil-devel)
+msgid ""
+"libXprintUtil provides utility Xpu APIs allowing client applications to "
+"access and manipulate information about printer capabilities from an Xprint "
+"server.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXprintUtil1."
+msgstr ""
+
+#. description(libXxf86dga:libXxf86dga-devel)
+msgid ""
+"libXxf86dga provides the XFree86-DGA extension, which allows direct graphics "
+"access to a framebuffer-like region, and also allows relative mouse "
+"reporting, et al. It is mainly used by games and emulators for games.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXxf86dga1."
+msgstr ""
+
+#. description(libXxf86misc:libXxf86misc-devel)
+msgid ""
+"libXxf86misc provides an interface to the XFree86-Misc extension, which "
+"allows client applications to query the current keyboard and mouse settings "
+"of the running XFree86-based (XFree86, Xorg) server.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXxf86misc1."
+msgstr ""
+
+#. description(libwpd:libwpd-devel)
+msgid ""
+"libwpd is a general purpose library for reading (or, interpreting data from) "
+"WordPerfect files. The library is not a stand-alone utility: it is designed "
+"to be used by another program (e.g.: a word processor) as an in-process "
+"component."
+msgstr ""
+
+#. description(libwpd:libwpd-0_9-9)
+msgid ""
+"libwpd is a general purpose library for reading or interpreting data from "
+"WordPerfect files. The library is not a stand-alone utility: it is designed "
+"to be used by another program (for example, a word processor) as an in-"
+"process component."
+msgstr ""
+
+#. description(libwpg:libwpg-0_2-2)
+msgid ""
+"libwpg is a C++ library to read and parse graphics in WPG (WordPerfect "
+"Graphics) format."
+msgstr ""
+
+#. description(libwpg:libwpg-devel)
+msgid ""
+"libwpg is a C++ library to read and parse graphics in WPG (WordPerfect "
+"Graphics) format. It is cross-platform, at the moment it can be build on "
+"Microsoft Windows and Linux.\n"
+"\n"
+"This package contains the libwpg development files."
+msgstr ""
+
+#. description(libwps:libwps-0_2-2)
+msgid ""
+"libwps is a library (for use by word procesors, for example) for importing "
+"the Microsoft Works word processor file format."
+msgstr ""
+
+#. description(wv:libwv-1_2-1)
+msgid "libwv can parse the Microsoft Word 8 binary file format (Office97)."
+msgstr ""
+
+#. description(libxfce4util:libxfce4util6)
+#, fuzzy
+msgid ""
+"libxfce4util is a general-purpose utility library with core application "
+"support for the Xfce Desktop Environment."
+msgstr "KDE 桌面环境"
+
+#. description(libxkbui:libxkbui1)
+msgid ""
+"libxkbui provides an interface to easily present XKB layouts as graphical "
+"widgets."
+msgstr ""
+
+#. description(libxkbui:libxkbui-devel)
+msgid ""
+"libxkbui provides an interface to easily present XKB layouts as graphical "
+"widgets.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libxkbui1."
+msgstr ""
+
+#. description(libXprintAppUtil:libXprintAppUtil1)
+msgid ""
+"libxprintapputil provides utility Xpau APIs allowing client applications to "
+"access information about and control Xprint jobs from an Xprint server."
+msgstr ""
+
+#. description(libXprintAppUtil:libXprintAppUtil-devel)
+msgid ""
+"libxprintapputil provides utility Xpau APIs allowing client applications to "
+"access information about and control Xprint jobs from an Xprint server.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXprintAppUtil1."
+msgstr ""
+
+#. description(libzip:libzip-devel)
+msgid ""
+"libzip is a C library for reading, creating, and modifying zip archives. "
+"This package contains devel files."
+msgstr ""
+
+#. description(log4net)
+msgid ""
+"log4net is a tool to help the programmer output log statements to a variety "
+"of output targets. log4net is a port of the excellent log4j framework to "
+"the .NET runtime"
+msgstr ""
+
+#. description(makedumpfile)
+msgid ""
+"makedumpfile is a dump program to shorten the size of dump file. It copies "
+"only the necessary pages for analysis with various dump levels, and can "
+"compress the page data. The obtained dump file can by analyzed via gdb or "
+"crash utility."
+msgstr ""
+
+#. description(mcelog)
+msgid ""
+"mcelog retrieves machine check events from an x86-64 kernel in a cron job, "
+"decodes them, and logs them to /var/log/mcelog.\n"
+"\n"
+"A machine check event is a hardware error detected by the CPU.\n"
+"\n"
+"It should run on any x86-64 system.\n"
+"\n"
+"In addition, it allows decoding machine check kernel panic messages."
+msgstr ""
+
+#. description(xawtv:motv)
+msgid ""
+"motv is a X11 application for watching TV with your Linux box. It supports "
+"video4linux devices (for example bttv cards, various USB webcams, ...)."
+"\tIt's based on xawtv's code, but uses Motif to provide a better GUI.\n"
+"\n"
+"Also includes the teletext/videotext viewer mtt."
+msgstr ""
+
+#. description(mtpaint)
+msgid ""
+"mtPaint is a simple painting program designed for creating icons and pixel-"
+"based artwork. It can edit indexed palette or 24 bit RGB images and offers "
+"basic painting and palette manipulation tools. Its main file format is PNG, "
+"although it can also handle JPEG, GIF, TIFF, BMP, XPM, and XBM files."
+msgstr ""
+
+#. summary(xfce4-branding-openSUSE:libxfce4ui-branding-openSUSE)
+#, fuzzy
+msgid "openSUSE Branding of libxfce4ui"
+msgstr "电源管理 (APM)"
+
+#. summary(xfce4-branding-openSUSE:midori-branding-openSUSE)
+#, fuzzy
+msgid "openSUSE Branding of midori"
+msgstr "电源管理 (APM)"
+
+#. summary(lxde-common-branding-openSUSE)
+msgid "openSUSE branding for LXDE"
+msgstr ""
+
+#. summary(lightdm-gtk-greeter-branding-openSUSE)
+msgid "openSUSE branding of lightdm-gtk-greeter"
+msgstr ""
+
+#. summary(libvisual:libvisual-devel)
+msgid "sound visualisation library"
+msgstr ""
+
+#. description(wbxml2:libwbxml2-0)
+msgid ""
+"wbxml2 is a library that includes a WBXML parser and a WBXML compiler. "
+"Unlike wbxml, it does not depend on libxml2 but on expat, making it faster "
+"and more portable. WBXML Library contains a library and its associated tools "
+"to Parse, Encode and Handle WBXML documents. The WBXML (Wireless Binary XML) "
+"format is a binary representation of XML, and it has been defined by the Wap "
+"Forum."
+msgstr ""
+
+#. summary(wxWidgets:libwx_baseu-2_8-0-stl)
+msgid "wxWidgets Library"
+msgstr ""
+
+#. description(libvnc:libVncExt2)
+msgid ""
+"xf4vnc provides two implementations of VNC in an Xserver. Both "
+"implementations are built around XFree86(tm) 4.x which provides numerous new "
+"extensions, such as RENDER and GLX.\n"
+"\n"
+"The first, is to mimic the older 'Xvnc' virtual Xserver that exists in many "
+"other VNC implementations. This mode should be a drop in replacement for "
+"existing installations.\n"
+"\n"
+"The second is the 'vnc.so' X server module with allows you to access your "
+"normal X display with a VNC viewer\n"
+"\n"
+"The xf4vnc project also includes a VNC viewer. It's based on the original "
+"AT&T viewer but has some enhancements which fix the problem with flickering "
+"black rectangles and improves the performance of hextile decoding."
+msgstr ""
+
+#. description(libvnc:libvnc-devel)
+msgid ""
+"xf4vnc provides two implementations of VNC in an Xserver. Both "
+"implementations are built around XFree86(tm) 4.x which provides numerous new "
+"extensions, such as RENDER and GLX.\n"
+"\n"
+"The first, is to mimic the older 'Xvnc' virtual Xserver that exists in many "
+"other VNC implementations. This mode should be a drop in replacement for "
+"existing installations.\n"
+"\n"
+"The second is the 'vnc.so' X server module with allows you to access your "
+"normal X display with a VNC viewer\n"
+"\n"
+"The xf4vnc project also includes a VNC viewer. It's based on the original "
+"AT&T viewer but has some enhancements which fix the problem with flickering "
+"black rectangles and improves the performance of hextile decoding.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libVncExt2."
+msgstr ""
+
+#. description(libXcliplist:libXcliplist1)
+msgid ""
+"xf4vnc provides two implementations of VNC in an Xserver. Both "
+"implementations are built around XFree86(tm) 4.x which provides numerous new "
+"extensions, such as RENDER and GLX. The first, is to mimic the older 'Xvnc' "
+"virtual Xserver that exists in many other VNC implementations. This mode "
+"should be a drop in replacement for existing installations. The second is "
+"the 'vnc.so' X server module with allows you to access your normal X display "
+"with a VNC viewer The xf4vnc project also includes a VNC viewer. It's based "
+"on the original AT&T viewer but has some enhancements which fix the problem "
+"with flickering black rectangles and improves the performance of hextile "
+"decoding."
+msgstr ""
+
+#. description(libXcliplist:libXcliplist-devel)
+msgid ""
+"xf4vnc provides two implementations of VNC in an Xserver. Both "
+"implementations are built around XFree86(tm) 4.x which provides numerous new "
+"extensions, such as RENDER and GLX. The first, is to mimic the older 'Xvnc' "
+"virtual Xserver that exists in many other VNC implementations. This mode "
+"should be a drop in replacement for existing installations. The second is "
+"the 'vnc.so' X server module with allows you to access your normal X display "
+"with a VNC viewer The xf4vnc project also includes a VNC viewer. It's based "
+"on the original AT&T viewer but has some enhancements which fix the problem "
+"with flickering black rectangles and improves the performance of hextile "
+"decoding.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libXcliplist1."
+msgstr ""
+
+#. summary(xfconf:libxfconf-0-2)
+#, fuzzy
+msgid "xfconf Shared Library"
+msgstr "性能"
+
+#, fuzzy
+#~ msgid "Development files for qtwebkit"
+#~ msgstr "无法找到指定包的更新。"
+
+#, fuzzy
+#~ msgid "This package contains development files for qtwebkit."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Development files for the X Session Management library"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development files for libmediawiki"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Libmms development files"
+#~ msgstr "开发"
+
+#, fuzzy
+#~ msgid "Headers and libraries to program against libmms"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development files for libmono"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Shared library for mxml"
+#~ msgstr "正在创建资源数据库"
+
+#, fuzzy
+#~ msgid "MySQL Community Server development header files and libraries"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains the development header files and libraries "
+#~ "necessary to develop client applications for MySQL Community Server."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains the shared libraries (.so) which certain languages "
+#~ "and applications need to dynamically load and use MySQL Community Server."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "A network configuration library"
+#~ msgstr "1.2 新的 Xgl 配置选项"
+
+#, fuzzy
+#~ msgid "Development files for libnova"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "This package contains development files for libnova."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Library for the GNU Objective C Compiler"
+#~ msgstr "C/C++ 编译器和工具"
+
+#, fuzzy
+#~ msgid "The library for the GNU Objective C compiler."
+#~ msgstr "C/C++ 编译器和工具"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains all necessary include files and libraries needed to "
+#~ "compile and develop applications that use libogg."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Development files for the X version 10 compatibility library"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "(Upstream has not provided a description)\n"
+#~ "\n"
+#~ "This package contains the development headers for the library found in "
+#~ "liboldX6."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "X version 10 backwards compatibility library"
+#~ msgstr "使用硬件兼容性列表"
+
+#, fuzzy
+#~ msgid "This package contains openais libraries."
+#~ msgstr "获得包含文件的包"
+
+#, fuzzy
+#~ msgid "Development files for using the OpenCV library"
+#~ msgstr "用于服务器的 KDE 桌面环境"
+
+#, fuzzy
+#~ msgid "Include files and development libraries"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Headers and development libraries for libotr"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development files for the Generic PCI access library"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "PalmPilot Development Header Files"
+#~ msgstr "开发"
+
+#, fuzzy
+#~ msgid "This package contains the development headers of libpisock."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Development files for podofo"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "This package contains development files for podofo library."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "PDF parsing and creation library"
+#~ msgstr "加密"
+
+#, fuzzy
+#~ msgid "A cross platform PDF parsing and creation library."
+#~ msgstr "加密"
+
+#, fuzzy
+#~ msgid "C++ Client Library for PostgreSQL"
+#~ msgstr "正在创建资源数据库"
+
+#, fuzzy
+#~ msgid "Development package for the pulseaudio library"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "Header files, libraries and development documentation for libqalculate"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development files for libqimageblitz"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "This package contains development files for libqimageblitz."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Development files for QJson"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "C++ Editor Class Library Development Files"
+#~ msgstr "KDE 开发"
+
+#, fuzzy
+#~ msgid "C++ Editor Class Library"
+#~ msgstr "加密"
+
+#, fuzzy
+#~ msgid "Qt Development Kit"
+#~ msgstr "开发"
+
+#, fuzzy
+#~ msgid "Shared library for Qt Widgets"
+#~ msgstr "6.10 禁用 powersave 守护程序"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains the shared library to run Technical Applications "
+#~ "developed with/for qwt."
+#~ msgstr "最近使用过的应用程序"
+
+#, fuzzy
+#~ msgid "Mono bindings for Qt4 libraries"
+#~ msgstr "电源管理 (APM)"
+
+#, fuzzy
+#~ msgid "Shared library for the .NET/Mono bindings for the Qt4 libraries."
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development package for the raptor library"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development files for libraw"
+#~ msgstr "开发"
+
+#, fuzzy
+#~ msgid "Development and Include Files for libraw1394"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "LibreOffice Base"
+#~ msgstr "OpenOffice.Org 快速起动器"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package provides extensions for LibreOffice Base:\n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "- Report Builder"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package provides extensions for LibreOffice Draw:\n"
+#~ "\n"
+#~ "- PDF Import"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Additional Import and Export Filters for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "GNOME Extensions for LibreOffice"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "This package contains some GNOME extensions for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "KDE4 Extensions for LibreOffice"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "This package contains some KDE4 extensions for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Mail Merge Functionality for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "LibreOffice Math"
+#~ msgstr "OpenOffice.Org 快速起动器"
+
+#, fuzzy
+#~ msgid "Python UNO Bridge for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Development Include Files and Libraries for SELinux"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains the development files, which are necessary to "
+#~ "develop your own software using libselinux."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Development Include Files and Libraries for SELinux policy manipulation"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "The libsepol-devel package contains the libraries and header files needed "
+#~ "for developing applications that manipulate binary policies."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Libsmi Shared Libraries"
+#~ msgstr "编目管理"
+
+#, fuzzy
+#~ msgid "Development files for kdebindings-smokegen"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development files for libsmokekde"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "Development files and headers needed to build software using libsmokekde"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "SMOKE-Qt library for kdebindings"
+#~ msgstr "7.0 文档"
+
+#, fuzzy
+#~ msgid "Development files for libsmokeqt"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development package for the libsndfile library"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains the files needed to compile programs that use the "
+#~ "libsndfile library."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Developer files for Soprano"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "This package contains developer files for Soprano."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Device independent layer for speech synthesis - Development files"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Library for SPICE-server"
+#~ msgstr "收藏的应用程序"
+
+#, fuzzy
+#~ msgid "SSH library development headers"
+#~ msgstr "内核接口"
+
+#, fuzzy
+#~ msgid "Development headers for the SSH library."
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "The system GNU C++ development files"
+#~ msgstr "C 和 C++ 开发工具。"
+
+#, fuzzy
+#~ msgid "The system GNU C++ development files."
+#~ msgstr "C 和 C++ 开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains all the headers and libraries of the standard C++ "
+#~ "library. It is needed for compiling C++ code."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Development files for taglib"
+#~ msgstr "开发"
+
+#, fuzzy
+#~ msgid "This package contains development files for taglib."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "The Board Library"
+#~ msgstr "编目管理"
+
+#, fuzzy
+#~ msgid "Thunar Extension Library"
+#~ msgstr "SUSE 硬件检测"
+
+#, fuzzy
+#~ msgid "This package contains the Thunar extension library."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Include Files and Libraries for Development"
+#~ msgstr "内核开发"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains all necessary include files and libraries needed to "
+#~ "develop applications using functions provided by the TidyLib library."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Tumbler Library"
+#~ msgstr "编目管理"
+
+#, fuzzy
+#~ msgid "This package provides the shared library component of tumbler."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Development files for libudev"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains the development files for the library libudev, a "
+#~ "dynamic library, which provides access to udev device information."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package includes the openSUSE branding for LibreOffice office suite."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Czech Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Czech help localization for LibreOffice. The other localized stuff is in "
+#~ "libreoffice-l10n-cs."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Danish Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Danish help localization for LibreOffice. The other localized stuff is in "
+#~ "libreoffice-l10n-da."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "German Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "German help localization for LibreOffice. The other localized stuff is in "
+#~ "libreoffice-l10n-de."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "British Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "British help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-en-GB."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "American Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Spanish Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Spanish help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-es."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Estonian Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Estonian help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-et."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "French Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "French help localization for LibreOffice. The other localized stuff is in "
+#~ "libreoffice-l10n-fr."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Galician Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Galician help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-gl."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Gujarati Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Gujarati help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-gu-IN."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hindi Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hindi help localization for LibreOffice. The other localized stuff is in "
+#~ "libreoffice-l10n-hi-IN."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hungarian Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hungarian help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-hu."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Italian Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Italian help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-it."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Japanese Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Japanese help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-ja."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Khmer Help Localization for LibreOffice"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid ""
+#~ "Khmer help localization for LibreOffice. The other localized stuff is in "
+#~ "libreoffice-l10n-km."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Korean Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Korean help localization for LibreOffice. The other localized stuff is in "
+#~ "libreoffice-l10n-ko."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Dutch Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Dutch help localization for LibreOffice. The other localized stuff is in "
+#~ "libreoffice-l10n-nl."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Polish Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Polish help localization for LibreOffice. The other localized stuff is in "
+#~ "libreoffice-l10n-pl."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Portuguese Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Portuguese help localization for LibreOffice. The other localized stuff "
+#~ "is in libreoffice-l10n-pt."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Brazilian Portuguese Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Brazilian Portuguese help localization for LibreOffice. The other "
+#~ "localized stuff is in libreoffice-l10n-pt-BR."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Russian Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Russian help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-ru."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Slovene Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Slovene help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-sl."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Swedish Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Swedish help localization for LibreOffice. The other localized stuff is "
+#~ "in libreoffice-l10n-sv."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Chinese Simplified Help Localization for LibreOffice"
+#~ msgstr "北马里亚纳群岛"
+
+#, fuzzy
+#~ msgid ""
+#~ "Chinese Simplified help localization for LibreOffice. The other localized "
+#~ "stuff is in libreoffice-l10n-zh-CN."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Chinese Traditional Help Localization for LibreOffice"
+#~ msgstr "北马里亚纳群岛"
+
+#, fuzzy
+#~ msgid ""
+#~ "Chinese Traditional help localization for LibreOffice. The other "
+#~ "localized stuff is in libreoffice-l10n-zh-TW."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hyphen Dictionaries for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "This package provides Hicontrast LibreOffice icon theme."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "African Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "African localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Arabic Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Arabic localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Belorussian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Belorussian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Bulgarian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Bulgarian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Breton French Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Breton French localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Catalan Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Catalan localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Czech Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Czech localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Welsh Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Welsh localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Danish Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Danish localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "German Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "German localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Greek Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Greek localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "British Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "British localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Spanish Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Spanish localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Estonian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Estonian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Finnish Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Finnish localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "French Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "French localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Gaelic Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Gaelic localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Galician Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Galician localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Gujarati Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Gujarati localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hebrew Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hebrew localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hindi Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hindi localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Croatian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Croatian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hungarian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hungarian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Italian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Italian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Japanese Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Japanese localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Georgian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Georgian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Khmer Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Khmer localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Korean Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Korean localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Lithuanian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Lithuanian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Macedonian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Macedonian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Norwegian Bokmaal Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Norwegian Bokmaal localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Dutch Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Dutch localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Norwegian Nynorsk Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Norwegian Nynorsk localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Polish Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Polish localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Portuguese Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Portuguese localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Brazilian Portuguese Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Brazilian Portuguese localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Russian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Russian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Kinyarwanda Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Kinyarwanda localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Slovak Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Slovak localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Slovene Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Slovene localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Serbian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Serbian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Swazi Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Swazi localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Sotho Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Sotho localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Swedish Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Swedish localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Tajiki Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Tajiki localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Thai Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Thai localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Turkish Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Turkish localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Ukrainian Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Ukrainian localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Venda Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Venda localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Vietnamese Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Vietnamese localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Xhosa Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Xhosa localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Chinese Simplified Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Chinese Simplified localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Chinese Traditional Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Chinese Traditional localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Zulu Localization Files for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Zulu localization files for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "German Dictionary for LibreOffice Language Tool"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "English Dictionary for LibreOffice Language Tool"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Spanish Dictionary for LibreOffice Language Tool"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "French Dictionary for LibreOffice Language Tool"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Khmer Dictionary for LibreOffice Language Tool"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Polish Dictionary for LibreOffice Language Tool"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Slovak Dictionary for LibreOffice Language Tool"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "German Templates for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "A compilation of German templates for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "English Templates for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "A collection of english templates for LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "A4 Size Label Templates for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Letter Size Label Templates for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "A collection of letter size label templates for LibreOffice. They are "
+#~ "intended for US."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Presentation Layout Templates for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains a collection of presentation layout templates for "
+#~ "LibreOffice."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Russian Templates for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Bulgarian Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Catalan Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Czech Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Danish Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "German Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Austrian Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "German-Swiss Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Greek Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Australian Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "British Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "American Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Spanish Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Argentine Spanish Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Venezuelan Spanish Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "French Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Irish Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Hungarian Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Italian Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Norwegian Bokmaal Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Nepali Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Polish Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Portuguese Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Romanian Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Russian Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Slovak Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Slovenian Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Swedish Thesaurus Dictionary for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "X Session Management library"
+#~ msgstr "编目管理"
+
+#, fuzzy
+#~ msgid "Device mount library"
+#~ msgstr "GNOME 开发"
+
+#, fuzzy
+#~ msgid "Cryptographic Library"
+#~ msgstr "加密"
+
+#, fuzzy
+#~ msgid "The Oil Runtime Compiler Library"
+#~ msgstr "通知"
+
+#, fuzzy
+#~ msgid "Generic PCI access library"
+#~ msgstr "KDE 桌面环境"
+
+#, fuzzy
+#~ msgid "Network Security Services Softoken Module"
+#~ msgstr "Oracle 服务器库"
+
+#, fuzzy
+#~ msgid "VNC Development Library"
+#~ msgstr "GNOME 开发"
+
+#, fuzzy
+#~ msgid "MySQL Development Header Files and Libraries"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development files for libusbmuxd"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "The libusbmuxd-devel package contains libraries and header files for "
+#~ "developing applications that use libusbmuxd."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Terminal Emulator Library"
+#~ msgstr "多语言终端模拟器"
+
+#, fuzzy
+#~ msgid ""
+#~ "Galician localization files for LibreOffice. The localized help content "
+#~ "is in libreoffice-help-gl."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hindi localization files for LibreOffice. The localized help content is "
+#~ "in libreoffice-help-hi-IN."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Shared library for uuid"
+#~ msgstr "6.10 禁用 powersave 守护程序"
+
+#, fuzzy
+#~ msgid "Library for libstatgrab"
+#~ msgstr "收藏的应用程序"
+
+#, fuzzy
+#~ msgid "A Module Management Library"
+#~ msgstr "编目管理"
+
+#, fuzzy
+#~ msgid "Audio Meta-Data Library"
+#~ msgstr "编目管理"
+
+#, fuzzy
+#~ msgid "Xfce Panel Library"
+#~ msgstr "性能"
+
+#, fuzzy
+#~ msgid "This package contains lokalize, an editor for translations"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Arabic Help Localization for LibreOffice"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Generic map viewer data"
+#~ msgstr "KDE 桌面环境"
+
+#, fuzzy
+#~ msgid "Provides translations to the package mail-notification"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "This package contains shared lib for packages that use libv4l2.so.0"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains shared lib for packages that use libv4lconvert.so.0"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package provides headers, libraries and API docs for PolicyKit-gnome."
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "SASL Authentication framework"
+#~ msgstr "选择 WEP 鉴定方式："
+
+#, fuzzy
+#~ msgid "Parser class for BIND configuration files"
+#~ msgstr "正在分析配置文件..."
+
+#, fuzzy
+#~ msgid "BSD::Resource Perl Module"
+#~ msgstr "资源组"
+
+#, fuzzy
+#~ msgid "Automated accessor generation"
+#~ msgstr "自动检测"
+
+#, fuzzy
+#~ msgid "Source Filters"
+#~ msgstr "过滤"
+
+#, fuzzy
+#~ msgid "Glib Perl module"
+#~ msgstr "用户模块"
+
+#, fuzzy
+#~ msgid "Gtk2 Perl module"
+#~ msgstr "用户模块"
+
+#, fuzzy
+#~ msgid "Perl IO/String interface"
+#~ msgstr "内核接口"
+
+#, fuzzy
+#~ msgid "PalmPilot Perl Modules"
+#~ msgstr "内核模块更改"
+
+#, fuzzy
+#~ msgid "ChaSen Perl Module"
+#~ msgstr "内核模块更改"
+
+#, fuzzy
+#~ msgid "Perl syslog interface"
+#~ msgstr "内核接口"
+
+#, fuzzy
+#~ msgid "Perl interface to syslog"
+#~ msgstr "内核接口"
+
+#, fuzzy
+#~ msgid "Parses simple configuration files"
+#~ msgstr "正在分析配置文件..."
+
+#, fuzzy
+#~ msgid "This module adds DOM support."
+#~ msgstr "这将禁用 DPMS 支持。"
+
+#, fuzzy
+#~ msgid "This module adds ODBC support."
+#~ msgstr "这将禁用 DPMS 支持。"
+
+#, fuzzy
+#~ msgid "This module adds OpenSSL support."
+#~ msgstr "这将禁用 DPMS 支持。"
+
+#, fuzzy
+#~ msgid "Simple Movie Player"
+#~ msgstr "简单万维网服务器"
+
+#, fuzzy
+#~ msgid "A utility to perform process operations"
+#~ msgstr "无法执行请求的操作"
+
+#, fuzzy
+#~ msgid "Password generator"
+#~ msgstr "口令"
+
+#, fuzzy
+#~ msgid "Python LDAP interface"
+#~ msgstr "LDAP 客户机服务"
+
+#, fuzzy
+#~ msgid "TkInter - Python Tk Interface"
+#~ msgstr "网络界面"
+
+#, fuzzy
+#~ msgid "Python X11 interface"
+#~ msgstr "LDAP 客户机服务"
+
+#, fuzzy
+#~ msgid "XSL Processor"
+#~ msgstr "处理器"
+
+#, fuzzy
+#~ msgid "Winbind Daemon and Tool"
+#~ msgstr "特立尼达和多巴哥"
+
+#, fuzzy
+#~ msgid "Smart Chinese/Common Input Method platform"
+#~ msgstr "输入法平台"
+
+#, fuzzy
+#~ msgid ""
+#~ "Intelligent Pinyin input module for Smart Chinese/Common Input Method "
+#~ "platform"
+#~ msgstr "智能通用输入法平台的设置工具"
+
+#, fuzzy
+#~ msgid "Cataloging System for Documentation"
+#~ msgstr "帮助和支持文档"
+
+#, fuzzy
+#~ msgid "Perl 5 Reference Guide"
+#~ msgstr "自选设置"
+
+#, fuzzy
+#~ msgid "A tool for finding package information"
+#~ msgstr "正在查找磁盘信息..."
+
+#, fuzzy
+#~ msgid "Additional Package Documentation for Python."
+#~ msgstr "5.1 NetworkManager 文档"
+
+#, fuzzy
+#~ msgid "Ruby Interactive Documentation"
+#~ msgstr "5.1 NetworkManager 文档"
+
+#, fuzzy
+#~ msgid "Authorization Toolkit"
+#~ msgstr "授权对话框"
+
+#, fuzzy
+#~ msgid "Python Interpreter"
+#~ msgstr "网络界面"
+
+#, fuzzy
+#~ msgid "The RPM Package Manager"
+#~ msgstr "包管理器"

@@ -1,0 +1,2018 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# Eric Shan <ericalways@gmail.com>, 2008, 2009, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: packages-qt\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 14:06+0200\n"
+"PO-Revision-Date: 2012-07-22 17:08+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:303
+#: src/YQPackageSelector.cc:311
+msgid "&Update Problems"
+msgstr "更新问题(&U)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:330
+#: src/YQPackageSelector.cc:338
+msgid "Patter&ns"
+msgstr "集合(&n)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:352
+#: src/YQPackageSelector.cc:360
+msgid "Package &Groups"
+msgstr "软件包分组(&G)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:364
+#: src/YQPackageSelector.cc:372
+msgid "&RPM Groups"
+msgstr "RPM 组(&R)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:377
+#: src/YQPackageSelector.cc:385
+msgid "&Languages"
+msgstr "语言(&L)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:393
+#: src/YQPackageSelector.cc:401
+msgid "&Repositories"
+msgstr "安装源(&R)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:406
+#: src/YQPackageSelector.cc:414
+msgid "S&earch"
+msgstr "搜索(&E)"
+
+#. DEBUG
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:413
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:113
+#: src/YQPackageSelector.cc:421 src/YQPkgSearchFilterView.cc:113
+msgid "&Keywords"
+msgstr "关键字(&K)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:422
+#: src/YQPackageSelector.cc:430
+msgid "&Installation Summary"
+msgstr "安装摘要(&I)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:502
+#: src/YQPackageSelector.cc:515
+msgid "D&escription"
+msgstr "描述(&E)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:515
+#: src/YQPackageSelector.cc:528
+msgid "&Technical Data"
+msgstr "技术数据(&T)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:528
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgProductDialog.cc:115
+#: src/YQPackageSelector.cc:541 src/YQPkgProductDialog.cc:115
+msgid "Dependencies"
+msgstr "依赖关系"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:544
+#: src/YQPackageSelector.cc:557
+msgid "&Versions"
+msgstr "版本(&V)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:562
+#: src/YQPackageSelector.cc:575
+msgid "File List"
+msgstr "文件列表"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:579
+#: src/YQPackageSelector.cc:592
+msgid "Change Log"
+msgstr "修改日志"
+
+#. "Cancel" button
+#. button #0
+#. text
+#. "Cancel" button
+#. button #0
+#. text
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:606
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:189
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:244
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:300
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:321
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPatternSelector.cc:258
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:162
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:397
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:245
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTextDialog.cc:257
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQSimplePatchSelector.cc:218
+#: src/YQPackageSelector.cc:619 src/YQPackageSelectorBase.cc:194
+#: src/YQPackageSelectorBase.cc:249 src/YQPackageSelectorBase.cc:305
+#: src/YQPackageSelectorBase.cc:326 src/YQPatternSelector.cc:258
+#: src/YQPkgConflictDialog.cc:162 src/YQPkgConflictDialog.cc:397
+#: src/YQPkgSearchFilterView.cc:245 src/YQPkgTextDialog.cc:258
+#: src/YQSimplePatchSelector.cc:218
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+#. Translators: "Accept" here refers to licenses or similar
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:616
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPatternSelector.cc:267
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTextDialog.cc:257
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQSimplePatchSelector.cc:227
+#: src/YQPackageSelector.cc:629 src/YQPatternSelector.cc:267
+#: src/YQPkgTextDialog.cc:258 src/YQSimplePatchSelector.cc:227
+msgid "&Accept"
+msgstr "接受(&A)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:657
+#: src/YQPackageSelector.cc:672
+msgid "&File"
+msgstr "文件(&F)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:659
+#: src/YQPackageSelector.cc:674
+msgid "&Import..."
+msgstr "导入(&I)..."
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:660
+#: src/YQPackageSelector.cc:675
+msgid "&Export..."
+msgstr "导出(&E)..."
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:664
+#: src/YQPackageSelector.cc:679
+msgid "E&xit -- Discard Changes"
+msgstr "退出 -- 丢弃更改(&X)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:665
+#: src/YQPackageSelector.cc:680
+msgid "&Quit -- Save Changes"
+msgstr "退出 -- 保存更改(&Q)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:677
+#: src/YQPackageSelector.cc:692
+msgid "&Package"
+msgstr "软件包(&P)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:716
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:92
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgRepoFilterView.cc:149
+#: src/YQPackageSelector.cc:732 src/YQPkgPackageKitGroupsFilterView.cc:92
+#: src/YQPkgRepoFilterView.cc:149
+msgid "All Packages"
+msgstr "所有包"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:718
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:415
+#: src/YQPackageSelector.cc:734 src/YQPkgObjList.cc:429
+msgid "Update if newer version available"
+msgstr "如果有较新的版本可用，则更新"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:721
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:421
+#: src/YQPackageSelector.cc:737 src/YQPkgObjList.cc:414
+#: src/YQPkgObjList.cc:435
+msgid "Update unconditionally"
+msgstr "无条件更新"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:735
+#: src/YQPackageSelector.cc:751
+msgid "&Patch"
+msgstr "补丁(&P)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:761
+#: src/YQPackageSelector.cc:778
+msgid "Confi&guration"
+msgstr "配置 (&g)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:762
+#: src/YQPackageSelector.cc:779
+msgid "&Repositories..."
+msgstr "安装源(&R)..."
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:763
+#: src/YQPackageSelector.cc:780
+msgid "&Online Update..."
+msgstr "在线更新(&O)..."
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:764
+#: src/YQPackageSelector.cc:781
+msgid "Search Packages on &Web..."
+msgstr "从网络上搜索软件包(&W)..."
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:774
+#: src/YQPackageSelector.cc:791
+msgid "&Dependencies"
+msgstr "依赖关系(&D)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:776
+#: src/YQPackageSelector.cc:793
+msgid "&Check Now"
+msgstr "立刻检查(&C)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:777
+#: src/YQPackageSelector.cc:794
+msgid "&Autocheck"
+msgstr "自动检查(&A)"
+
+#. Translators: Menu for view options (Use a noun, not a verb!)
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:791
+#: src/YQPackageSelector.cc:807
+msgid "&Options"
+msgstr "选项(&O)"
+
+#. Translators: This is about packages ending in "-devel", so don't translate that "-devel"!
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:794
+#: src/YQPackageSelector.cc:810
+msgid "Show -de&vel Packages"
+msgstr "显示 -devel 开发包(&V)"
+
+#. Translators: This is about packages ending in "-debuginfo", so don't translate that "-debuginfo"!
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:804
+#: src/YQPackageSelector.cc:819
+msgid "Show -&debuginfo/-debugsource Packages"
+msgstr "显示 -debuginfo/-debugsource 调试包(&D)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:813
+#: src/YQPackageSelector.cc:827
+msgid "&System Verification Mode"
+msgstr "系统验证模式(&S)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:821
+#: src/YQPackageSelector.cc:838
+msgid "&Cleanup when deleting packages"
+msgstr "删除软件包时清理(&C)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:828
+#: src/YQPackageSelector.cc:842
+msgid "&Allow vendor change"
+msgstr "允许厂商变更(&A)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:843
+#: src/YQPackageSelector.cc:855
+msgid "E&xtras"
+msgstr "额外(&x)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:845
+#: src/YQPackageSelector.cc:857
+msgid "Show &Products"
+msgstr "显示产品(&P)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:846
+#: src/YQPackageSelector.cc:858
+msgid "Show P&ackage Changes"
+msgstr "显示软件包的更改(&A)"
+
+#. Translators: This is about packages ending in "-devel", so don't translate that "-devel"!
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:854
+#: src/YQPackageSelector.cc:867
+msgid "Install All Matching -&devel Packages"
+msgstr "安装全部匹配的 -devel 软件包(&D)"
+
+#. Translators: This is about packages ending in "-debuginfo", so don't translate that "-debuginfo"!
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:858
+#: src/YQPackageSelector.cc:871
+msgid "Install All Matching -de&buginfo Packages"
+msgstr "安装全部匹配的 -debuginfo 软件包(&B)"
+
+#. Translators: This is about packages ending in "-debugsource", so don't translate that "-debugsource"!
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:861
+#: src/YQPackageSelector.cc:874
+msgid "Install All Matching -debug&source Packages"
+msgstr "安装全部匹配的 -debugsource 软件包(&S)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:866
+#: src/YQPackageSelector.cc:879
+msgid "Generate Dependency Resolver &Test Case"
+msgstr "生成依赖关系解析试例(&T)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:886
+#: src/YQPackageSelector.cc:899
+msgid "&Help"
+msgstr "帮助(&H)"
+
+#. Note: The help functions and their texts are moved out
+#. to a separate source file YQPackageSelectorHelp.cc
+#. Menu entry for help overview
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:892
+#: src/YQPackageSelector.cc:905
+msgid "&Overview"
+msgstr "概览(&O)"
+
+#. Menu entry for help about used symbols ( icons )
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:895
+#: src/YQPackageSelector.cc:908
+msgid "&Symbols"
+msgstr "符号(&S)"
+
+#. Menu entry for keyboard help
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:898
+#: src/YQPackageSelector.cc:911
+msgid "&Keys"
+msgstr "按键(&K)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1084
+#: src/YQPackageSelector.cc:1097
+msgid "All package dependencies are OK."
+msgstr "所有包依赖关系都正确。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1100
+#: src/YQPackageSelector.cc:1113
+msgid "P&atches"
+msgstr "补丁(&A)"
+
+#. startsWith
+#. filter
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1162
+#: src/YQPackageSelector.cc:1175
+msgid "Save Package List"
+msgstr "保存软件包列表"
+
+#. Post error popup
+#. parent
+#. Post error popup.
+#. parent
+#. Post error popup
+#. parent
+#. Post error popup.
+#. parent
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1201
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1295
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:424
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictList.cc:201
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:598
+#: src/YQPackageSelector.cc:1214 src/YQPackageSelector.cc:1308
+#: src/YQPkgConflictDialog.cc:424 src/YQPkgConflictList.cc:201
+#: src/YQPkgList.cc:602
+msgid "Error"
+msgstr "错误"
+
+#. caption
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1202
+#: src/YQPackageSelector.cc:1215
+msgid "Error exporting package list to %1"
+msgstr "将包列表导出到 %1 时出错"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1214
+#: src/YQPackageSelector.cc:1227
+msgid "Load Package List"
+msgstr "加载软件包列表"
+
+#. caption
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1296
+#: src/YQPackageSelector.cc:1309
+msgid "Error loading package list from %1"
+msgstr "从 %1 装载软件包列表时出错"
+
+#. caption
+#. Translators: %1 is the number of affected packages
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1398
+#: src/YQPackageSelector.cc:1411
+msgid "%1 packages will be updated"
+msgstr "将更新 %1 个包"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1399
+#: src/YQPackageSelector.cc:1412
+msgid "&Continue"
+msgstr "继续(&C)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1399
+#: src/YQPackageSelector.cc:1412
+msgid "C&ancel"
+msgstr "取消(&A)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1438
+#: src/YQPackageSelector.cc:1451
+msgid "<p><small><a href=\"repoupgraderemove:///%1\">Cancel switching</a> system packages to versions in repository %2</small></p>"
+msgstr "<p><small><a href=\"repoupgraderemove:///%1\">取消切换</a>系统软件包到安装源 %2 中的版本</small></p>"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1457
+#: src/YQPackageSelector.cc:1470
+msgid "<p><a href=\"repoupgradeadd:///%1\">Switch system packages</a> to the versions in this repository (%2)</p>"
+msgstr "<p><a href=\"repoupgradeadd:///%1\">切换系统软件包</a>到此安装源 (%2) 中的版本</p>"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1668
+#: src/YQPackageSelector.cc:1693
+msgid "Added Subpackages:"
+msgstr "添加的子软件包："
+
+#. "OK" button
+#. addHStretch( hbox );
+#. "OK" button
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelector.cc:1670
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:209
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDescriptionDialog.cc:120
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDiskUsageList.cc:155
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDiskUsageList.cc:164
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgProductDialog.cc:135
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTextDialog.cc:70
+#: src/YQPackageSelector.cc:1695 src/YQPackageSelectorBase.cc:214
+#: src/YQPkgDescriptionDialog.cc:120 src/YQPkgDiskUsageList.cc:155
+#: src/YQPkgDiskUsageList.cc:164 src/YQPkgProductDialog.cc:135
+#: src/YQPkgTextDialog.cc:71
+msgid "&OK"
+msgstr "确定(&O)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:92
+#: src/YQPackageSelectorBase.cc:93
+msgid "Reset &Ignored Dependency Conflicts"
+msgstr "重置忽略的依赖关系冲突(&I)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:159
+#: src/YQPackageSelectorBase.cc:164
+msgid "System dependencies verify OK."
+msgstr "系统依赖关系校验通过。"
+
+#. Translators: RichText ( HTML-like ) format
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:180
+#: src/YQPackageSelectorBase.cc:185
+msgid "Error: Out of disk space!"
+msgstr "错误：磁盘空间不足！"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:181
+#: src/YQPackageSelectorBase.cc:186
+msgid "<p>You can choose to install anyway if you know what you are doing, but you risk getting a corrupted system that requires manual repairs. If you are not absolutely sure how to handle such a case, press <b>Cancel</b> now and deselect some packages.</p>"
+msgstr "<p>如果您了解所执行的操作，则可以选择安装，但有可能损坏系统而需要手动修复。如果不能确定如何处理这种情况，则立即按<b>取消</b>并取消选择某些包。</p>"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:189
+#: src/YQPackageSelectorBase.cc:194
+msgid "C&ontinue Anyway"
+msgstr "无论如何都继续(&O)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:203
+#: src/YQPackageSelectorBase.cc:208
+msgid "The following items will be changed: "
+msgstr "如下条目将被更改："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:243
+#: src/YQPackageSelectorBase.cc:248
+msgid "Abandon all changes?"
+msgstr "是否放弃所有更改？"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:244
+#: src/YQPackageSelectorBase.cc:249
+msgid "&Abandon"
+msgstr "放弃(&A)"
+
+#. Dialog header
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:292
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgChangesDialog.cc:115
+#: src/YQPackageSelectorBase.cc:297 src/YQPkgChangesDialog.cc:115
+msgid "Automatic Changes"
+msgstr "自动更改"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:296
+#: src/YQPackageSelectorBase.cc:301
+msgid "In addition to your manual selections, the following packages have been changed to resolve dependencies:"
+msgstr "除手动选择外，已更改以下包以解决依赖关系："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:300
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:321
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:396
+#: src/YQPackageSelectorBase.cc:305 src/YQPackageSelectorBase.cc:326
+#: src/YQPkgConflictDialog.cc:396
+msgid "C&ontinue"
+msgstr "继续(&O)"
+
+#. Dialog header
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:313
+#: src/YQPackageSelectorBase.cc:318
+msgid "Unsupported Packages"
+msgstr "不被支持的软件包"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:317
+#: src/YQPackageSelectorBase.cc:322
+msgid "Please realize that the following selected software is either unsupported or requires an additional customer contract for support."
+msgstr "请注意以下选择的软件要么不被支持，要么需要附加的用户协议来获得支持。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorBase.cc:423
+#: src/YQPackageSelectorBase.cc:428
+msgid "Not implemented yet. Sorry."
+msgstr "尚未实现。抱歉。"
+
+#. Translators: Headline for help about the package manager in general
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:60
+#: src/YQPackageSelectorHelp.cc:61
+msgid "The YaST Package Manager"
+msgstr "YaST 软件包管理器"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:63
+#: src/YQPackageSelectorHelp.cc:64
+msgid "<b>Note:</b> This is a just a short  overview. Refer to the manual for details."
+msgstr "<b>注意：</b>这只是个简短概览。有关细节，请参考手册。"
+
+#. Help specific to online update mode
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:70
+#: src/YQPackageSelectorHelp.cc:71
+msgid "In this dialog, select patches to download and install."
+msgstr "在此对话框中，选择要下载并安装的补丁。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:71
+#: src/YQPackageSelectorHelp.cc:72
+msgid "The list on the left side contains available patches along with the respective patch kind (security, recommended, or optional) and the (estimated) download size."
+msgstr "左侧列表包含可用补丁及相应的补丁类型(安全、建议或可选)和(估计)下载大小。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:74
+#: src/YQPackageSelectorHelp.cc:75
+msgid "This list normally contains only those patches that are not installed on your system yet. You can change that with the <b>Include Installed Patches</b> check box below the list."
+msgstr "此列表通常只包含尚未在您的系统上安装的补丁。可以使用列表下方<b>包含已安装的补丁</b>复选框列出已安装的补丁。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:76
+#: src/YQPackageSelectorHelp.cc:77
+msgid "The <b>Patch Description</b> field contains a longer explanation of the currently selected patch. Click a patch in the list to view its description here."
+msgstr "<b>补丁描述</b>字段包含当前选定的补丁较详细的解释。单击列表中的补丁可在此查看其描述。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:78
+#: src/YQPackageSelectorHelp.cc:79
+msgid "The package list on the right side shows the contents of the currently selected patch, i.e., the packages it contains. You cannot install or delete individual packages from a patch, only the patch as a whole. This is intentional to avoid system inconsistencies."
+msgstr "右侧的包列表显示当前选定的补丁的内容，即它所包含的包。您不能安装或删除补丁中的单个包，只能将补丁作为整体进行安装或删除。这样做的目的是为了避免系统出现不一致的情况。"
+
+#. Translators: Please keep the reference to "filter views" to distinguish between "filter views" that
+#. affect the amount of visible packages in the package list and "details views" ( below the package list )
+#. that show details about the ( one ) currently selected package in the package list.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:86
+#: src/YQPackageSelectorHelp.cc:87
+msgid "In addition to <b>Patches</b>, you can also select one of the other filter views from <b>Filter</b> at the upper left:"
+msgstr "除了<b>补丁</b>，您还可以从左上角的<b>过滤</b>选择其它过滤视图之一："
+
+#. Help specific to normal (non-online-update) mode
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:94
+#: src/YQPackageSelectorHelp.cc:95
+msgid "In this dialog, select which packages to install, update, or delete. You can select individual packages or entire package \"selections\"."
+msgstr "在此对话框中，选择要安装、更新或删除的包。您可以选择单个包或整个包“精选”。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:96
+#: src/YQPackageSelectorHelp.cc:97
+msgid "Click the status icon for a package or selection to change the status or right-click it to open a context menu."
+msgstr "单击包或精选的状态图标以更改状态，或右击该图标打开交互菜单。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:98
+#: src/YQPackageSelectorHelp.cc:99
+msgid "Use the <b>Check Dependencies</b> button to resolve package dependencies. Some packages require other packages to be installed. Some packages can only be installed if certain other packages are not installed, too. This check will automatically mark required packages for installation and it will warn you if there are dependency conflicts."
+msgstr "使用<b>检查依赖关系</b>按钮解决包依赖关系。某些包要求安装其它的包。某些包只有在未安装特定的其它包的情况下才能进行安装。此检查将自动标记进行安装所必需的包，并在出现依赖关系冲突时发出警告。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:103
+#: src/YQPackageSelectorHelp.cc:104
+msgid "When you leave this dialog with <b>Accept</b>, this check will automatically be performed."
+msgstr "在您使用<b>接受</b>退出此对话框后，将自动执行此检查。"
+
+#. Translators: Please keep the reference to "filter views" to distinguish between "filter views" that
+#. affect the amount of visible packages in the package list and "details views" (below the package list)
+#. that show details about the (one) currently selected package in the package list.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:109
+#: src/YQPackageSelectorHelp.cc:110
+msgid "Select one of the available filter views with the <b>Filter</b> combo-box at the upper left:"
+msgstr "使用左上角的<b>过滤器</b>组合框选择可用过滤器视图之一："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:113
+#: src/YQPackageSelectorHelp.cc:114
+msgid "<b>Selections</b> shows some predefined sets of packages that logically belong together."
+msgstr "<b>选择</b>显示在逻辑上被组织在一起的某些预定义的包集合。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:114
+#: src/YQPackageSelectorHelp.cc:115
+msgid "Use the check box next to the selection to select it as a whole. You can also select or deselect individual packages in the package list at the right."
+msgstr "使用选择旁边的复选框将它作为一个整体进行选择。您还可以在右侧的包列表中选择或取消选择单个包。"
+
+#. Help common to all modes: Description of the various filter views
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:122
+#: src/YQPackageSelectorHelp.cc:123
+msgid "<b>Package Groups</b> shows packages by category. You can expand and collapse tree items to refine or generalize categories. Click any category to display the packages in that category in the package list on the right side."
+msgstr "<b>软件包分组</b>按类别显示包。可以展开和折叠树项目，从而详细列出或概括列出类别。单击任何类别可在右侧的包列表中显示该类别中的包。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:125
+#: src/YQPackageSelectorHelp.cc:126
+msgid " <b>Hint:</b> There is a \"zzz All\" entry at the very end of the list that will show all packages. This may take a few seconds on slow machines."
+msgstr " <b>提示：</b>在显示所有包的列表的最末端有一个“zzz 全部”项。在速度较慢的计算机上，显示这些内容将需要数秒。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:128
+#: src/YQPackageSelectorHelp.cc:129
+msgid "<b>Search</b> allows you to search for packages that meet various criteria. This is usually the easiest way to find a package if you know its name."
+msgstr "<b>搜索</b>允许搜索符合不同条件的包。如果知道包的名称，则这通常是查找包最便捷的方法。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:130
+#: src/YQPackageSelectorHelp.cc:131
+msgid "<b>Hint:</b> You can also use this to find out what package contains a certain library.  Search in the <b>Provides</b> RPM field."
+msgstr "<b>提示：</b>还可以使用此方法来确定哪个包包含特定的库。在<b>提供</b> RPM 字段中搜索。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:133
+#: src/YQPackageSelectorHelp.cc:134
+msgid "<b>Installation Summary</b> by default shows the changes to your system -- what packages will be installed, deleted, or updated."
+msgstr "默认情况下，<b>安装摘要</b>显示对系统的更改 -- 将安装、删除或更新哪些包。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:135
+#: src/YQPackageSelectorHelp.cc:136
+msgid "It is generally a good idea to use <b>Check Dependencies</b> then switch to <b>Installation Summary</b> before clicking <b>Accept</b>. This way you can see all changes that will be made to your system."
+msgstr "通常较好的做法是：使用<b>检查依赖关系</b>，然后在单击<b>接受</b>前切换到<b>安装摘要</b>。这样您可以看到将对系统进行的所有更改。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:138
+#: src/YQPackageSelectorHelp.cc:139
+msgid "You can also explicitly select what packages with what status to see here; use the check boxes at the left side."
+msgstr "您还可以显式选择要在此查看具有哪些状态的哪些包；请使用左侧的复选框。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:140
+#: src/YQPackageSelectorHelp.cc:141
+msgid "<b>Hint:</b> You can also reverse the effect of this filter. You can see what packages remain the same on your system. Simply check <b>Keep</b> and uncheck everything else."
+msgstr "<b>提示：</b>您还可以对此过滤器的效果执行反向操作。您可以看到哪些包在系统上保持不变。只需选中<b>保留</b>并取消选中其它选项即可。"
+
+#. Make sure all images used here are specified in
+#. helpimages_DATA in include/Makefile.am !
+#. Translators: Headline for help about package status icons
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:157
+#: src/YQPackageSelectorHelp.cc:158
+msgid "Symbols Overview"
+msgstr "符号概览"
+
+#. Translators: Package status short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:164
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:108
+#: src/YQPackageSelectorHelp.cc:165 src/YQPkgStatusFilterView.cc:108
+msgid "Do not install"
+msgstr "不安装"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:166
+#: src/YQPackageSelectorHelp.cc:167
+msgid "This package is not installed and it will not be installed."
+msgstr "此包未安装并且将不安装此包。"
+
+#. Translators: Package status short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:170
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:276
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:95
+#: src/YQPackageSelectorHelp.cc:171 src/YQPkgObjList.cc:277
+#: src/YQPkgStatusFilterView.cc:95
+msgid "Install"
+msgstr "安装"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:172
+#: src/YQPackageSelectorHelp.cc:173
+msgid "This package will be installed. It is not installed yet."
+msgstr "即将安装此软件包。目前尚未安装。"
+
+#. Translators: Package status short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:176
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:277
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:107
+#: src/YQPackageSelectorHelp.cc:177 src/YQPkgObjList.cc:278
+#: src/YQPkgStatusFilterView.cc:107
+msgid "Keep"
+msgstr "保留"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:178
+#: src/YQPackageSelectorHelp.cc:179
+msgid "This package is already installed. Leave it untouched."
+msgstr "此软件包已安装。保留不动。"
+
+#. Translators: Package status short (!) description
+#. Translators: Keyboard action short (!) description
+#. Translators: Package status short (!) description
+#. Translators: Keyboard action short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:182
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:290
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:281
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:96
+#: src/YQPackageSelectorHelp.cc:183 src/YQPackageSelectorHelp.cc:291
+#: src/YQPkgObjList.cc:282 src/YQPkgStatusFilterView.cc:96
+msgid "Update"
+msgstr "更新"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:184
+#: src/YQPackageSelectorHelp.cc:185
+msgid "This package is already installed. Update it or reinstall it (if the versions are the same)."
+msgstr "此软件包安装。更新或重安装此包(如果版本相同)。"
+
+#. Translators: Package status short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:189
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:275
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:94
+#: src/YQPackageSelectorHelp.cc:190 src/YQPkgObjList.cc:276
+#: src/YQPkgStatusFilterView.cc:94
+msgid "Delete"
+msgstr "删除"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:191
+#: src/YQPackageSelectorHelp.cc:192
+msgid "This package is already installed. Delete it."
+msgstr "此软件包已安装。将其删除。"
+
+#. Translators: Package status short (!) description
+#. Translators: Keyboard action short (!) description
+#. Translators: Package status short (!) description
+#. Translators: Keyboard action short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:195
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:307
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:100
+#: src/YQPackageSelectorHelp.cc:196 src/YQPackageSelectorHelp.cc:308
+#: src/YQPkgStatusFilterView.cc:100
+msgid "Taboo"
+msgstr "禁用"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:197
+#: src/YQPackageSelectorHelp.cc:198
+msgid "This package is not installed and should not be installed under any circumstances,  especially not because of unresolved dependencies that other packages might have or get."
+msgstr "此包未安装并且在任何情况下都不应安装，尤其当其它包可能与此包有未解决的依赖关系时。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:201
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:313
+#: src/YQPackageSelectorHelp.cc:202 src/YQPackageSelectorHelp.cc:314
+msgid "Packages set to \"taboo\" are treated as if they did not exist on any installation media."
+msgstr "系统将设置为“禁用”的包视为它们不存在于任何安装介质上。"
+
+#. Translators: Package status short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:205
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:101
+#: src/YQPackageSelectorHelp.cc:206 src/YQPkgStatusFilterView.cc:101
+msgid "Protected"
+msgstr "保护"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:207
+#: src/YQPackageSelectorHelp.cc:208
+msgid "This package is installed and should not be modified,  especially not because of unresolved dependencies that other packages might have or get."
+msgstr "已安装此包且不应进行修改，尤其当其它包可能与此包有未解决的依赖关系时。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:211
+#: src/YQPackageSelectorHelp.cc:212
+msgid "Use this status for third-party packages that should not be overwritten by newer versions that may come with the distribution."
+msgstr "对不应由分发可能附带的较新版本覆盖的第三方包使用此状态。"
+
+#. Translators: Package status short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:216
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:273
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:98
+#: src/YQPackageSelectorHelp.cc:217 src/YQPkgObjList.cc:274
+#: src/YQPkgStatusFilterView.cc:98
+msgid "Autoinstall"
+msgstr "自动安装"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:218
+#: src/YQPackageSelectorHelp.cc:219
+msgid "This package will be installed automatically because some other package needs it."
+msgstr "将自动安装此包，因为某些其它包需要它。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:220
+#: src/YQPackageSelectorHelp.cc:221
+msgid "<b>Hint:</b> You may have to use \"taboo\" to get rid of such a package."
+msgstr "<b>提示：</b>您最好使用\"禁用\"清除这样的包。"
+
+#. Translators: Package status short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:224
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:274
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:99
+#: src/YQPackageSelectorHelp.cc:225 src/YQPkgObjList.cc:275
+#: src/YQPkgStatusFilterView.cc:99
+msgid "Autoupdate"
+msgstr "自动更新"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:226
+#: src/YQPackageSelectorHelp.cc:227
+msgid "This package is already installed, but some other package needs a newer version, so it will automatically be updated."
+msgstr "已安装此包，但某些其它包需要较新的版本，因此将自动更新此包。"
+
+#. Translators: Package status short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:231
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:272
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:97
+#: src/YQPackageSelectorHelp.cc:232 src/YQPkgObjList.cc:273
+#: src/YQPkgStatusFilterView.cc:97
+msgid "Autodelete"
+msgstr "自动删除"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:233
+#: src/YQPackageSelectorHelp.cc:234
+msgid "This package is already installed, but package dependencies require that it is deleted."
+msgstr "已安装此包，但包依赖关系要求将其删除。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:234
+#: src/YQPackageSelectorHelp.cc:235
+msgid "This can happen, for example, if some other package obsoletes this one."
+msgstr "例如，如果某些其它包已不再使用此包，则可能发生这种情况。"
+
+#. Translators: Headline for help about "magic keys" in the package manager
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:262
+#: src/YQPackageSelectorHelp.cc:263
+msgid "Special Keys Overview"
+msgstr "特殊键概览"
+
+#. Translators: Additional hint that will be added to any of the following keyboard actions.
+#. Automatic word wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:266
+#: src/YQPackageSelectorHelp.cc:267
+msgid "In any case, go to the next list item."
+msgstr "在任何情况下，转到下一个列表项。"
+
+#. Translators: Keyboard action short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:273
+#: src/YQPackageSelectorHelp.cc:274
+msgid "Add"
+msgstr "添加"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:275
+#: src/YQPackageSelectorHelp.cc:276
+msgid "Get this package. Install it if it is not installed yet. Update it to the latest version if it is installed  and there is a newer version."
+msgstr "获取此包。如果尚未安装此包，则安装此包。如果已安装此包但有较新的版本，则更新到最新版本。"
+
+#. Translators: Keyboard action short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:282
+#: src/YQPackageSelectorHelp.cc:283
+msgid "Remove"
+msgstr "删除"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:284
+#: src/YQPackageSelectorHelp.cc:285
+msgid "Get rid of this package. Mark it as \"do not install\" if it is not installed yet. Delete it if it is installed."
+msgstr "清除此包。如果尚未安装此包，则将其标记为“不安装”。如果已安装此包，则将其删除。"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:292
+#: src/YQPackageSelectorHelp.cc:293
+msgid "Update this package if it is installed and there is a newer version. Ignore packages that are not installed."
+msgstr "如果已安装此包但有较新的版本，则更新此包。忽略尚未安装的包。"
+
+#. Translators: Keyboard action short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:299
+#: src/YQPackageSelectorHelp.cc:300
+msgid "Undo Update"
+msgstr "撤消更新"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:301
+#: src/YQPackageSelectorHelp.cc:302
+msgid "Undo the effect of \">\" above: Set package to \"keep\" if it is currently set to \"update\". Ignore all other packages."
+msgstr "撤消上面\">\"的效果：如果包当前设置为\"更新\"，则将其设置为\"保留\"。忽略所有其它包。"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:309
+#: src/YQPackageSelectorHelp.cc:310
+msgid "Set this package to \"taboo\" if it is not installed: make sure this package does not get installed, especially not because of unresolved dependencies that other packages might have or get. "
+msgstr "如果尚未安装此包，则将其设置为\"禁用\"：确保不安装此包，尤其当其它包可能与此包有未解决的依赖关系时。"
+
+#. Translators: Keyboard action short (!) description
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:319
+#: src/YQPackageSelectorHelp.cc:320
+msgid "Protect"
+msgstr "保护"
+
+#. Translators: Automatic word-wrapping.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:321
+#: src/YQPackageSelectorHelp.cc:322
+msgid "Set this package to \"protected\" if it is installed: make sure this package will not be modified, especially not because of unresolved dependencies that other packages might have or get. "
+msgstr "如果已安装此包，则将其设置为\"受保护\"：确保不修改此包，尤其当其它包可能与此包有未解决的依赖关系时。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPackageSelectorHelp.cc:325
+#: src/YQPackageSelectorHelp.cc:326
+msgid "Use this for third-party packages that should not be overwritten by newer versions that may come with the distribution."
+msgstr "对不应由发行版可能附带的较新版本覆盖的第三方包使用此状态。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPatternSelector.cc:179
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPatternSelector.cc:247
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQSimplePatchSelector.cc:181
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQSimplePatchSelector.cc:207
+#: src/YQPatternSelector.cc:179 src/YQPatternSelector.cc:247
+#: src/YQSimplePatchSelector.cc:181 src/YQSimplePatchSelector.cc:207
+msgid "&Details..."
+msgstr "细节(&D)..."
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgChangeLogView.cc:87
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgFileListView.cc:94
+#: src/YQPkgChangeLogView.cc:87 src/YQPkgFileListView.cc:94
+msgid "Information only available for installed packages."
+msgstr "只有已安装的包的信息可用。"
+
+#. Dialog title
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgChangesDialog.cc:75
+#: src/YQPkgChangesDialog.cc:75
+msgid "Changed Packages"
+msgstr "已更改的包"
+
+#. add the items.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgChangesDialog.cc:113
+#: src/YQPkgChangesDialog.cc:113
+msgid "All"
+msgstr "全部"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgChangesDialog.cc:114
+#: src/YQPkgChangesDialog.cc:114
+msgid "Selected by the user"
+msgstr "用户选择的"
+
+#. Set the dialog title.
+#.
+#. "Dependency conflict" is already used as the conflict list header just
+#. some pixels below that, so don't use this twice. This dialog title may
+#. or may not be visible, depending on whether or not there is a window
+#. manager running (and configured to show any dialog titles).
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:97
+#: src/YQPkgConflictDialog.cc:97
+msgid "Warning"
+msgstr "警告"
+
+#. "OK" button
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:133
+#: src/YQPkgConflictDialog.cc:133
+msgid "&OK -- Try Again"
+msgstr "确定(&O) -- 重试"
+
+#. "Expert" menu button
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:144
+#: src/YQPkgConflictDialog.cc:144
+msgid "&Expert"
+msgstr "专家(&E)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:156
+#: src/YQPkgConflictDialog.cc:156
+msgid "&Save This List to a File..."
+msgstr "将此列表保存到文件(&S)..."
+
+#. Busy popup
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:173
+#: src/YQPkgConflictDialog.cc:173
+msgid "Checking Dependencies..."
+msgstr "正在检查依赖关系..."
+
+#. Heading for popup dialog
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:387
+#: src/YQPkgConflictDialog.cc:387
+msgid "Create Dependency Resolver Test Case"
+msgstr "创建依赖关系解析程序试例"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:390
+#: src/YQPkgConflictDialog.cc:390
+msgid "<p>Use this to generate extensive logs to help tracking down bugs in the dependency resolver. The logs will be stored in directory <br><tt>%1</tt></p>"
+msgstr "<p>使用此选项可生成详尽日志，以帮助跟踪依赖关系解析程序中的错误。这些日志将储存在目录 <br><tt>%1</tt></p>"
+
+#. parent
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:394
+#: src/YQPkgConflictDialog.cc:394
+msgid "Solver Test Case"
+msgstr "解析程序试例"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:409
+#: src/YQPkgConflictDialog.cc:409
+msgid "<p>Dependency resolver test case written to <br><tt>%1</tt></p><p>Prepare <tt>y2logs.tgz tar</tt> archive to attach to Bugzilla?</p>"
+msgstr "<p>依赖关系解析程序试例写入以下路径<br><tt>%1</tt></p><p>是否准备 <tt>y2logs.tgz tar</tt> 存档以附加到 Bugzilla？</p>"
+
+#. parent
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:412
+#: src/YQPkgConflictDialog.cc:412
+msgid "Success"
+msgstr "成功"
+
+#. caption
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictDialog.cc:425
+#: src/YQPkgConflictDialog.cc:425
+msgid "<p><b>Error</b> creating dependency resolver test case</p><p>Please check disk space and permissions for <tt>%1</tt></p>"
+msgstr "<p>创建依赖性解析程序试例时<b>出错</b></p><p>请检查磁盘空间和 <tt>%1</tt> 的许可权限</p>"
+
+#. startsWith
+#. filter
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictList.cc:180
+#: src/YQPkgConflictList.cc:180
+msgid "Save Conflicts List"
+msgstr "保存冲突列表"
+
+#. caption
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictList.cc:202
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:599
+#: src/YQPkgConflictList.cc:202 src/YQPkgList.cc:603
+msgid "Cannot open file %1"
+msgstr "无法打开文件 %1"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictList.cc:293
+#: src/YQPkgConflictList.cc:295
+msgid "Conflict Resolution:"
+msgstr "冲突解决："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgConflictList.cc:325
+#: src/YQPkgConflictList.cc:332
+msgid "<a href='/'>%1 more...</a>"
+msgstr "<a href='/'>%1 更多...</a>"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:104
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:134
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:154
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:196
+#: src/YQPkgDependenciesView.cc:104 src/YQPkgDependenciesView.cc:134
+#: src/YQPkgTechnicalDetailsView.cc:154 src/YQPkgTechnicalDetailsView.cc:196
+msgid "Version:"
+msgstr "版本："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:106
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:136
+#: src/YQPkgDependenciesView.cc:106 src/YQPkgDependenciesView.cc:136
+msgid "Provides:"
+msgstr "提供："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:107
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:137
+#: src/YQPkgDependenciesView.cc:107 src/YQPkgDependenciesView.cc:137
+msgid "Prerequires:"
+msgstr "前提条件："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:108
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:138
+#: src/YQPkgDependenciesView.cc:108 src/YQPkgDependenciesView.cc:138
+msgid "Requires:"
+msgstr "需要："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:109
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:139
+#: src/YQPkgDependenciesView.cc:109 src/YQPkgDependenciesView.cc:139
+msgid "Conflicts:"
+msgstr "冲突："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:110
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:140
+#: src/YQPkgDependenciesView.cc:110 src/YQPkgDependenciesView.cc:140
+msgid "Obsoletes:"
+msgstr "废弃："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:111
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:141
+#: src/YQPkgDependenciesView.cc:111 src/YQPkgDependenciesView.cc:141
+msgid "Recommends:"
+msgstr "推荐："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:112
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:142
+#: src/YQPkgDependenciesView.cc:112 src/YQPkgDependenciesView.cc:142
+msgid "Suggests:"
+msgstr "建议："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:113
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:143
+msgid "Enances:"
+msgstr "扩展："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:114
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:144
+#: src/YQPkgDependenciesView.cc:114 src/YQPkgDependenciesView.cc:144
+msgid "Supplements:"
+msgstr "补充："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:127
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:189
+#: src/YQPkgDependenciesView.cc:127 src/YQPkgTechnicalDetailsView.cc:189
+msgid "<b>Alternate Version</b>"
+msgstr "<b>替代版本</b>"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDependenciesView.cc:128
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:190
+#: src/YQPkgDependenciesView.cc:128 src/YQPkgTechnicalDetailsView.cc:190
+msgid "<b>Installed Version</b>"
+msgstr "<b>已安装的版本</b>"
+
+#. Dialog title
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDescriptionDialog.cc:72
+#: src/YQPkgDescriptionDialog.cc:72
+msgid "Package Description"
+msgstr "软件包描述"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDescriptionView.cc:113
+#: src/YQPkgDescriptionView.cc:113
+msgid "References:"
+msgstr "参考："
+
+#. Translators: %1 contains the support level like "Level 3", "unsupported" or "unknown"
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDescriptionView.cc:132
+#: src/YQPkgDescriptionView.cc:132
+msgid "Supportability: %1"
+msgstr "支持程度: %1"
+
+#. headline for a list of application icons that belong to a selected package
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDescriptionView.cc:234
+#: src/YQPkgDescriptionView.cc:261
+msgid "This package contains: "
+msgstr "此软件包含有："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDiskUsageList.cc:154
+#: src/YQPkgDiskUsageList.cc:154
+msgid "<b>Error:</b> Out of disk space!"
+msgstr "<b>错误：</b>磁盘空间不足！"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDiskUsageList.cc:163
+#: src/YQPkgDiskUsageList.cc:163
+msgid "<b>Warning:</b> Disk space is running out!"
+msgstr "<b>警告：</b>磁盘空间不足！"
+
+#. Dialog title
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgDiskUsageWarningDialog.cc:71
+#: src/YQPkgDiskUsageWarningDialog.cc:71
+msgid "Disk Space Warning"
+msgstr "磁盘空间警告"
+
+#. %1 is the total number of files in a file list
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgFileListView.cc:130
+#: src/YQPkgFileListView.cc:130
+msgid "%1 files total"
+msgstr "共 %1 个文件"
+
+#. Translators: Button with pop-up menu to open a new page (very much like
+#. in a web browser) with another package filter view or to switch to an
+#. existing one if it's open already
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgFilterTab.cc:174
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgFilterTab.cc:178
+#: src/YQPkgFilterTab.cc:174 src/YQPkgFilterTab.cc:178
+msgid "&View"
+msgstr "查看(&V)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgFilterTab.cc:197
+#: src/YQPkgFilterTab.cc:197
+msgid "Close the current page"
+msgstr "关闭当前页面"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgFilterTab.cc:547
+#: src/YQPkgFilterTab.cc:547
+msgid "Move page &left"
+msgstr "将页面左移(&L)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgFilterTab.cc:557
+#: src/YQPkgFilterTab.cc:557
+msgid "Move page &right"
+msgstr "将页面右移(&R)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgFilterTab.cc:564
+#: src/YQPkgFilterTab.cc:564
+msgid "&Close page"
+msgstr "关闭页面(&C)"
+
+#. Translators: Table column heading for language ISO code like "de_DE", "en_US"
+#. Please keep this short to avoid stretching the column too wide!
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgLangList.cc:69
+#: src/YQPkgLangList.cc:69
+msgid "Code"
+msgstr "代码"
+
+#. Full (human readable) language / country name like "German (Austria)"
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgLangList.cc:72
+#: src/YQPkgLangList.cc:72
+msgid "Language"
+msgstr "语言"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:84
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:619
+#: src/YQPkgList.cc:84 src/YQPkgList.cc:623
+msgid "Package"
+msgstr "软件包"
+
+#. headers <<  _( "Patch"	);	_nameCol	= numCol++;
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:85
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:620
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchList.cc:115
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgProductList.cc:65
+#: src/YQPkgList.cc:85 src/YQPkgList.cc:624 src/YQPkgPatchList.cc:115
+#: src/YQPkgProductList.cc:65
+msgid "Summary"
+msgstr "摘要"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:90
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:621
+#: src/YQPkgList.cc:90 src/YQPkgList.cc:625
+msgid "Installed (Available)"
+msgstr "已安装 (可用)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:94
+#: src/YQPkgList.cc:94
+msgid "Avail. Ver."
+msgstr "可用版本"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:97
+#: src/YQPkgList.cc:97
+msgid "Inst. Ver."
+msgstr "已安装的版本"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:103
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgProductList.cc:66
+#: src/YQPkgList.cc:103 src/YQPkgProductList.cc:66
+msgid "Version"
+msgstr "版本"
+
+#. headers <<  _( "Source" );	_srpmStatusCol	= numCol++;
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:108
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:622
+#: src/YQPkgList.cc:108 src/YQPkgList.cc:626
+msgid "Size"
+msgstr "大小"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:247
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:513
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:562
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchList.cc:436
+#: src/YQPkgList.cc:247 src/YQPkgList.cc:517 src/YQPkgObjList.cc:578
+#: src/YQPkgPatchList.cc:437
+msgid "&All in This List"
+msgstr "此列表中的全部内容(&A)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:471
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:491
+#: src/YQPkgList.cc:474 src/YQPkgList.cc:495
+msgid "Export This List to &Text File..."
+msgstr "将此列表导出到文本文件(&T)..."
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:522
+#: src/YQPkgList.cc:526
+msgid "&Install Source"
+msgstr "安装源(&I)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:526
+#: src/YQPkgList.cc:530
+msgid "Do &Not Install Source"
+msgstr "不安装源(&N)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:530
+#: src/YQPkgList.cc:534
+msgid "&Install All Available Sources"
+msgstr "安装所有可用的源(&I)"
+
+#. key
+#. enabled
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:536
+#: src/YQPkgList.cc:540
+msgid "Do &Not Install Any Sources"
+msgstr "不安装任何源(&N)"
+
+#. startsWith
+#. filter
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:575
+#: src/YQPkgList.cc:579
+msgid "Export Package List"
+msgstr "导出软件包列表"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:618
+#: src/YQPkgList.cc:622
+#, c-format
+msgid "Status"
+msgstr "状态"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:880
+#: src/YQPkgList.cc:884
+msgid "Install Sources"
+msgstr "安装源"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:881
+#: src/YQPkgList.cc:885
+msgid "Do Not Install Sources"
+msgstr "不安装源"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:885
+#: src/YQPkgList.cc:889
+msgid "No Sources Available"
+msgstr "无可用的源"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:900
+#: src/YQPkgList.cc:904
+msgid "Installed Version: %1"
+msgstr "已安装的版本：%1"
+
+#. Translators: This is the relation between two versions of one package
+#. if both versions are the same, e.g., both "1.2.3-42", "1.2.3-42"
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:918
+#: src/YQPkgList.cc:922
+msgid "same"
+msgstr "相同"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:920
+#: src/YQPkgList.cc:924
+msgid "newer"
+msgstr "较新"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:921
+#: src/YQPkgList.cc:925
+msgid "older"
+msgstr "较旧"
+
+#. Translators: %1 is the version, %2 is one of "newer", "older", "same"
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:924
+#: src/YQPkgList.cc:928
+msgid "Available Version: %1 (%2)"
+msgstr "可用版本：%1 (%2)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgList.cc:928
+#: src/YQPkgList.cc:932
+msgid "Not available for installation"
+msgstr "不可用于安装"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:278
+#: src/YQPkgObjList.cc:279
+msgid "Do Not Install"
+msgstr "不安装"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:279
+#: src/YQPkgObjList.cc:280
+msgid "Protected -- Do Not Modify"
+msgstr "受保护 -- 不修改"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:280
+#: src/YQPkgObjList.cc:281
+msgid "Taboo -- Never Install"
+msgstr "禁用 -- 始终不安装"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:407
+#: src/YQPkgObjList.cc:421
+msgid "Show solver information"
+msgstr "显示依赖关系解析信息"
+
+#. Translators: Additional hint what caused an auto-status
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:1450
+#: src/YQPkgObjList.cc:1470
+msgid "(by a software selection)"
+msgstr "(按软件选择)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:1452
+#: src/YQPkgObjList.cc:1472
+msgid "(by dependencies)"
+msgstr "(按依赖关系)"
+
+#. Translators: tool tip for patches / patterns that are installed,
+#. but whose dependencies are broken (no longer satisfied)
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:1468
+#: src/YQPkgObjList.cc:1488
+msgid "Dependencies broken"
+msgstr "依赖关系已被破坏"
+
+#. Translators: tool tip for patches / patterns that are not installed,
+#. but whose dependencies are satisfied
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgObjList.cc:1478
+#: src/YQPkgObjList.cc:1498
+msgid "All dependencies satisfied"
+msgstr "所有依赖关系均已满足"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:62
+#: src/YQPkgPackageKitGroupsFilterView.cc:62
+msgid "Accessibility"
+msgstr "辅助"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:63
+#: src/YQPkgPackageKitGroupsFilterView.cc:63
+msgid "Accessories"
+msgstr "附件"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:64
+#: src/YQPkgPackageKitGroupsFilterView.cc:64
+msgid "Education"
+msgstr "教育"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:65
+#: src/YQPkgPackageKitGroupsFilterView.cc:65
+msgid "Games"
+msgstr "游戏"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:66
+#: src/YQPkgPackageKitGroupsFilterView.cc:66
+msgid "Graphics"
+msgstr "图形"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:67
+#: src/YQPkgPackageKitGroupsFilterView.cc:67
+msgid "Internet"
+msgstr "互联网"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:68
+#: src/YQPkgPackageKitGroupsFilterView.cc:68
+msgid "Office"
+msgstr "办公"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:69
+#: src/YQPkgPackageKitGroupsFilterView.cc:69
+msgid "Other"
+msgstr "其它"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:70
+#: src/YQPkgPackageKitGroupsFilterView.cc:70
+msgid "Programming"
+msgstr "编程"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:71
+#: src/YQPkgPackageKitGroupsFilterView.cc:71
+msgid "Multimedia"
+msgstr "多媒体"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:72
+#: src/YQPkgPackageKitGroupsFilterView.cc:72
+msgid "System"
+msgstr "系统"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:73
+#: src/YQPkgPackageKitGroupsFilterView.cc:73
+msgid "GNOME Desktop"
+msgstr "GNOME 桌面"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:74
+#: src/YQPkgPackageKitGroupsFilterView.cc:74
+msgid "KDE Desktop"
+msgstr "KDE 桌面"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:75
+#: src/YQPkgPackageKitGroupsFilterView.cc:75
+msgid "XFCE Desktop"
+msgstr "XFCE 桌面"
+
+# button label for other/more options
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:76
+#: src/YQPkgPackageKitGroupsFilterView.cc:76
+msgid "Other Desktops"
+msgstr "其他桌面"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:77
+#: src/YQPkgPackageKitGroupsFilterView.cc:77
+msgid "Publishing"
+msgstr "出版"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:78
+#: src/YQPkgPackageKitGroupsFilterView.cc:78
+msgid "Servers"
+msgstr "服务器"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:79
+#: src/YQPkgPackageKitGroupsFilterView.cc:79
+msgid "Fonts"
+msgstr "字体"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:80
+#: src/YQPkgPackageKitGroupsFilterView.cc:80
+msgid "Admin Tools"
+msgstr "管理工具"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:81
+#: src/YQPkgPackageKitGroupsFilterView.cc:81
+msgid "Legacy"
+msgstr "中古"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:82
+#: src/YQPkgPackageKitGroupsFilterView.cc:82
+msgid "Localization"
+msgstr "本地化"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:83
+#: src/YQPkgPackageKitGroupsFilterView.cc:83
+msgid "Virtualization"
+msgstr "虚拟化"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:84
+#: src/YQPkgPackageKitGroupsFilterView.cc:84
+msgid "Security"
+msgstr "安全"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:85
+#: src/YQPkgPackageKitGroupsFilterView.cc:85
+msgid "Power Management"
+msgstr "电源管理"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:86
+#: src/YQPkgPackageKitGroupsFilterView.cc:86
+msgid "Communication"
+msgstr "通讯"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:87
+#: src/YQPkgPackageKitGroupsFilterView.cc:87
+msgid "Network"
+msgstr "网络"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:88
+#: src/YQPkgPackageKitGroupsFilterView.cc:88
+msgid "Maps"
+msgstr "映射"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:89
+#: src/YQPkgPackageKitGroupsFilterView.cc:89
+msgid "Software Sources"
+msgstr "软件源"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:90
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:101
+#: src/YQPkgPackageKitGroupsFilterView.cc:90
+#: src/YQPkgPackageKitGroupsFilterView.cc:101
+msgid "Unknown Group"
+msgstr "未知组"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:93
+#: src/YQPkgPackageKitGroupsFilterView.cc:93
+msgid "Suggested Packages"
+msgstr "建议的软件包"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:94
+#: src/YQPkgPackageKitGroupsFilterView.cc:94
+msgid "Recommended Packages"
+msgstr "推荐的软件包"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:95
+#: src/YQPkgPackageKitGroupsFilterView.cc:95
+msgid "Orphaned Packages"
+msgstr "孤立的软件包"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:96
+#: src/YQPkgPackageKitGroupsFilterView.cc:96
+msgid "Multiversion Packages"
+msgstr "多版本软件包"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPackageKitGroupsFilterView.cc:195
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgRepoFilterView.cc:165
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgRpmGroupTagsFilterView.cc:58
+#: src/YQPkgPackageKitGroupsFilterView.cc:195 src/YQPkgRepoFilterView.cc:165
+#: src/YQPkgRpmGroupTagsFilterView.cc:58
+msgid "Package Groups"
+msgstr "软件包分组"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchFilterView.cc:91
+#: src/YQPkgPatchFilterView.cc:91
+msgid "&Show Patch Category:"
+msgstr "显示补丁类别(&S)："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchFilterView.cc:98
+#: src/YQPkgPatchFilterView.cc:98
+msgid "Needed Patches"
+msgstr "需要的补丁"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchFilterView.cc:99
+#: src/YQPkgPatchFilterView.cc:99
+msgid "Unneeded Patches"
+msgstr "不需要的补丁"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchFilterView.cc:100
+#: src/YQPkgPatchFilterView.cc:100
+msgid "All Patches"
+msgstr "所有补丁"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchFilterView.cc:111
+#: src/YQPkgPatchFilterView.cc:111
+msgid "Patch Description"
+msgstr "补丁描述"
+
+#. Translators: These are patch categories
+#. Dialog title
+#. Translators: These are patch categories
+#. Dialog title
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchList.cc:614
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTextDialog.cc:99
+#: src/YQPkgPatchList.cc:615 src/YQPkgTextDialog.cc:100
+msgid "YaST"
+msgstr "YaST"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchList.cc:615
+#: src/YQPkgPatchList.cc:616
+msgid "security"
+msgstr "安全"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchList.cc:616
+#: src/YQPkgPatchList.cc:617
+msgid "recommended"
+msgstr "建议"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchList.cc:617
+#: src/YQPkgPatchList.cc:618
+msgid "optional"
+msgstr "可选"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatchList.cc:618
+#: src/YQPkgPatchList.cc:619
+msgid "document"
+msgstr "文档"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgPatternList.cc:172
+#: src/YQPkgPatternList.cc:172
+msgid "Pattern"
+msgstr "集合"
+
+#. Dialog title
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgProductDialog.cc:73
+#: src/YQPkgProductDialog.cc:73
+msgid "Products"
+msgstr "产品"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgProductList.cc:64
+#: src/YQPkgProductList.cc:64
+msgid "Product"
+msgstr "产品"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgProductList.cc:67
+#: src/YQPkgProductList.cc:67
+msgid "Vendor"
+msgstr "厂商"
+
+#. Translators: This is a combo box where the user can apply a secondary filter
+#. in addition to the primary filter by repository - one of
+#. "All packages", "RPM groups", "search", "summary"
+#.
+#. And yes, the colon really belongs there since this is one of the very
+#. few cases where a combo box label is left to the combo box rather than
+#. above it.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgRepoFilterView.cc:139
+#: src/YQPkgRepoFilterView.cc:139
+msgid "&Secondary Filter:"
+msgstr "辅助过滤器(&S)："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgRepoFilterView.cc:157
+#: src/YQPkgRepoFilterView.cc:157
+msgid "Unmaintained Packages"
+msgstr "失去维护的软件包"
+
+#. horizontal
+#. vertical
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgRepoFilterView.cc:180
+#: src/YQPkgRepoFilterView.cc:180
+msgid "Search"
+msgstr "搜索"
+
+#. horizontal
+#. vertical
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgRepoFilterView.cc:199
+#: src/YQPkgRepoFilterView.cc:199
+msgid "Installation Summary"
+msgstr "安装摘要"
+
+#. Column headers for repository list
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgRepoList.cc:75
+#: src/YQPkgRepoList.cc:75
+msgid "Name"
+msgstr "名称"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgRpmGroupTagsFilterView.cc:62
+#: src/YQPkgRpmGroupTagsFilterView.cc:62
+msgid "zzz All"
+msgstr "zzz 全部"
+
+#. Search button
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:92
+#: src/YQPkgSearchFilterView.cc:92
+msgid "&Search"
+msgstr "搜索(&S)"
+
+#.
+#. Where to search
+#.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:105
+#: src/YQPkgSearchFilterView.cc:105
+msgid "Search in"
+msgstr "搜索范围"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:111
+#: src/YQPkgSearchFilterView.cc:111
+msgid "Nam&e"
+msgstr "名称(&e)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:115
+#: src/YQPkgSearchFilterView.cc:115
+msgid "Su&mmary"
+msgstr "摘要(&M)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:117
+#: src/YQPkgSearchFilterView.cc:117
+msgid "Descr&iption"
+msgstr "描述(&I)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:122
+#: src/YQPkgSearchFilterView.cc:122
+msgid "RPM \"P&rovides\""
+msgstr "RPM 提供(&r)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:124
+#: src/YQPkgSearchFilterView.cc:124
+msgid "RPM \"Re&quires\""
+msgstr "RPM 需要(&q)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:127
+#: src/YQPkgSearchFilterView.cc:127
+msgid "File list"
+msgstr "文件列表"
+
+#.
+#. Search mode
+#.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:142
+#: src/YQPkgSearchFilterView.cc:142
+msgid "Search &Mode:"
+msgstr "搜索方式(&M)："
+
+#. Caution: combo box items must be inserted in the same order as enum SearchMode!
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:155
+#: src/YQPkgSearchFilterView.cc:155
+msgid "Contains"
+msgstr "包含"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:156
+#: src/YQPkgSearchFilterView.cc:156
+msgid "Begins with"
+msgstr "开始为"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:157
+#: src/YQPkgSearchFilterView.cc:157
+msgid "Exact Match"
+msgstr "精确匹配"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:158
+#: src/YQPkgSearchFilterView.cc:158
+msgid "Use Wild Cards"
+msgstr "使用通配符"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:159
+#: src/YQPkgSearchFilterView.cc:159
+msgid "Use Regular Expression"
+msgstr "使用正则表达式"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:166
+#: src/YQPkgSearchFilterView.cc:166
+msgid "Case Sensiti&ve"
+msgstr "区分大小写(&V)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:244
+#: src/YQPkgSearchFilterView.cc:244
+msgid "Searching..."
+msgstr "正在搜索..."
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:330
+#: src/YQPkgSearchFilterView.cc:330
+msgid "No Results."
+msgstr "无结果。"
+
+#. Translators: This is a (short) text indicating that something went
+#. wrong while searching for packages. At this point, it is not clear
+#. if it's a user error (e.g., syntax error in regular expression) or
+#. an internal error. But there is a "Details" button that will return
+#. the original (translated) error message.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSearchFilterView.cc:345
+#: src/YQPkgSearchFilterView.cc:345
+msgid "Query Error"
+msgstr "查询错误"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgSelList.cc:64
+#: src/YQPkgSelList.cc:64
+msgid "Selection"
+msgstr "选择"
+
+#. Headline
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:77
+#: src/YQPkgStatusFilterView.cc:77
+msgid "Changes Overview"
+msgstr "更改概览"
+
+#.
+#. Packages with what status to show
+#.
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:87
+#: src/YQPkgStatusFilterView.cc:87
+msgid "Show packages with status"
+msgstr "显示具有状态的包"
+
+#. Refresh button
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgStatusFilterView.cc:120
+#: src/YQPkgStatusFilterView.cc:120
+msgid "&Refresh List"
+msgstr "刷新列表(&R)"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:155
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:197
+#: src/YQPkgTechnicalDetailsView.cc:155 src/YQPkgTechnicalDetailsView.cc:197
+msgid "Build Time:"
+msgstr "构建时间："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:159
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:198
+#: src/YQPkgTechnicalDetailsView.cc:159 src/YQPkgTechnicalDetailsView.cc:198
+msgid "Install Time:"
+msgstr "安装时间："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:161
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:199
+#: src/YQPkgTechnicalDetailsView.cc:161 src/YQPkgTechnicalDetailsView.cc:199
+msgid "Package Group:"
+msgstr "软件包分组："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:162
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:200
+#: src/YQPkgTechnicalDetailsView.cc:162 src/YQPkgTechnicalDetailsView.cc:200
+msgid "License:"
+msgstr "许可证："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:163
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:201
+#: src/YQPkgTechnicalDetailsView.cc:163 src/YQPkgTechnicalDetailsView.cc:201
+msgid "Installed Size:"
+msgstr "安装后大小："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:164
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:202
+#: src/YQPkgTechnicalDetailsView.cc:164 src/YQPkgTechnicalDetailsView.cc:202
+msgid "Download Size:"
+msgstr "下载大小："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:165
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:203
+#: src/YQPkgTechnicalDetailsView.cc:165 src/YQPkgTechnicalDetailsView.cc:203
+msgid "Distribution:"
+msgstr "发行版："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:166
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:204
+#: src/YQPkgTechnicalDetailsView.cc:166 src/YQPkgTechnicalDetailsView.cc:204
+msgid "Vendor:"
+msgstr "厂商："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:167
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:205
+#: src/YQPkgTechnicalDetailsView.cc:167 src/YQPkgTechnicalDetailsView.cc:205
+msgid "Packager:"
+msgstr "打包者："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:168
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:206
+#: src/YQPkgTechnicalDetailsView.cc:168 src/YQPkgTechnicalDetailsView.cc:206
+msgid "Architecture:"
+msgstr "架构："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:169
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:207
+#: src/YQPkgTechnicalDetailsView.cc:169 src/YQPkgTechnicalDetailsView.cc:207
+msgid "Build Host:"
+msgstr "构建主机："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:170
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:208
+#: src/YQPkgTechnicalDetailsView.cc:170 src/YQPkgTechnicalDetailsView.cc:208
+msgid "URL:"
+msgstr "URL："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:171
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:209
+#: src/YQPkgTechnicalDetailsView.cc:171 src/YQPkgTechnicalDetailsView.cc:209
+msgid "Source Package:"
+msgstr "源代码包："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:172
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:211
+#: src/YQPkgTechnicalDetailsView.cc:172 src/YQPkgTechnicalDetailsView.cc:211
+msgid "Media No.:"
+msgstr "介质编号："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:173
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgTechnicalDetailsView.cc:212
+#: src/YQPkgTechnicalDetailsView.cc:173 src/YQPkgTechnicalDetailsView.cc:212
+msgid "Authors:"
+msgstr "作者："
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgUpdateProblemFilterView.cc:59
+#: src/YQPkgUpdateProblemFilterView.cc:59
+msgid ""
+"<br>\n"
+"<h2>Update Problem</h2>\n"
+"<p>\n"
+"<font color='blue'>\n"
+"The packages in this list cannot be updated automatically.\n"
+"</font>\n"
+"</p>\n"
+"<p>Possible reasons:</p>\n"
+"<ul>\n"
+"<li>They are obsoleted by other packages\n"
+"<li>There is no newer version to update to on any installation media\n"
+"<li>They are third-party packages\n"
+"</ul>\n"
+"</p>\n"
+"<p>\n"
+"Please choose manually what to do with them.\n"
+"The safest course of action is to delete them.\n"
+"</p>"
+msgstr ""
+"<br>\n"
+"<h2>更新问题</h2>\n"
+"<p>\n"
+"<font color='blue'>\n"
+"无法自动更新此列表中的软件包。\n"
+"</font>\n"
+"</p>\n"
+"<p>可能的原因：</p>\n"
+"<ul>\n"
+"<li>它们已经被其他软件包废弃\n"
+"<li>在任何安装介质上都没有可供更新的较新版本\n"
+"<li>它们是第三方的软件包\n"
+"</ul>\n"
+"</p>\n"
+"<p>\n"
+"请手动选择要对这些软件包执行的操作。\n"
+"最安全的操作方法是删除它们。\n"
+"</p>"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgVersionsView.cc:216
+#: src/YQPkgVersionsView.cc:217
+msgid "%1-%2 from vendor %3 (installed)"
+msgstr "来自厂商 %3 的 %1-%2 (已安装)"
+
+#. Translators: %1 is a package version, %2 the package architecture,
+#. %3 describes the repository where it comes from,
+#. %4 is the repository's priority
+#. %5 is the vendor of the package
+#. Examples:
+#. 2.5.23-i568 from Packman with priority 100 and vendor openSUSE
+#. 3.17.4-i386 from openSUSE-11.1 update repository with priority 20 and vendor openSUSE
+#. ^^^^^^ ^^^^      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^               ^^            ^^^^^^^^
+#. %1   %2                %3                                   %4                %5
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgVersionsView.cc:370
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgVersionsView.cc:407
+#: src/YQPkgVersionsView.cc:371 src/YQPkgVersionsView.cc:408
+msgid "%1-%2 from %3 with priority %4 and vendor %5"
+msgstr "%1-%2 来自 %3 安装源，优先级 %4，厂商 %5"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQPkgVersionsView.cc:391
+#: src/YQPkgVersionsView.cc:392
+msgid "This version is installed in your system."
+msgstr "系统上已安装了此版本。"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQZyppSolverDialogPluginStub.cc:84
+#: src/YQZyppSolverDialogPluginStub.cc:84
+msgid "Missing package"
+msgstr "缺失的软件包"
+
+#: _CPack_Packages/Linux-Source/TBZ2/yast2-qt-pkg-2.21.2/src/YQZyppSolverDialogPluginStub.cc:85
+#: src/YQZyppSolverDialogPluginStub.cc:85
+msgid "Package libqdialogsolver is required for this feature."
+msgstr "此特性需要 libqdialogsolver 软件包"
+
+#: src/YQPackageSelector.cc:832
+msgid "&Ignore Recommended Packages for Already Installed Packages"
+msgstr "忽略已安装软件包的推荐软件包(&I)"
+
+#: src/YQPackageSelector.cc:859
+msgid "Show &History"
+msgstr "显示历史(&H)"
+
+#: src/YQPkgDependenciesView.cc:113 src/YQPkgDependenciesView.cc:143
+msgid "Enhances:"
+msgstr "扩展："
+
+#. Dialog title
+#: src/YQPkgHistoryDialog.cc:81
+msgid "Package History"
+msgstr "软件包历史"
+
+#: src/YQPkgHistoryDialog.cc:96
+msgid "Show History (/var/log/zypp/history)"
+msgstr "显示历史 (/var/log/zypp/history)"
+
+#: src/YQPkgHistoryDialog.cc:108
+msgid "Date"
+msgstr "日期"
+
+#: src/YQPkgHistoryDialog.cc:112
+msgid "Action"
+msgstr "操作"
+
+#: src/YQPkgHistoryDialog.cc:112
+msgid "Version/URL"
+msgstr "版本/URL"
+
+#. "OK" button
+#: src/YQPkgHistoryDialog.cc:129
+msgid "&Close"
+msgstr "关闭(&C)"
+
+#. Translators: This is a (short) text indicating that something went
+#. wrong while trying to read history file.
+#: src/YQPkgHistoryDialog.cc:266
+msgid "Unable to read history"
+msgstr "无法读取历史"
+
+#~ msgid "&Patterns"
+#~ msgstr "模式(&P)"
+
+#~ msgid "&Configuration"
+#~ msgstr "配置(&C)"
+
+#~ msgid "&Name"
+#~ msgstr "名称(&N)"
+
+#~ msgid "YaST2"
+#~ msgstr "YaST2"
+
+#~ msgid "Searc&h:"
+#~ msgstr "搜索(&H)："
+
+#~ msgid "%1-%2 from %3"
+#~ msgstr "%1-%2 来自 %3"
+
+#~ msgid "&Verify System"
+#~ msgstr "校验系统(&V)"
+
+#~ msgid "Source RPM:"
+#~ msgstr "源 RPM："

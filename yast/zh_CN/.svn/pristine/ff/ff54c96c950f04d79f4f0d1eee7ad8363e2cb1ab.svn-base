@@ -1,0 +1,766 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: kerberos\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:33+0200\n"
+"PO-Revision-Date: 2012-07-13 20:43+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. dialog caption
+#: src/Kerberos.ycp:461
+msgid "Saving Kerberos Client Configuration"
+msgstr "正在保存 Kerberos 客户机配置"
+
+#. progress stage label
+#: src/Kerberos.ycp:466
+msgid "Write PAM settings"
+msgstr "写入 PAM 设置"
+
+#. progress stage label
+#: src/Kerberos.ycp:468
+msgid "Write Kerberos client settings"
+msgstr "写入 Kerberos 客户机设置"
+
+#. progress stage label
+#: src/Kerberos.ycp:470
+msgid "Write OpenSSH settings"
+msgstr "写入 OpenSSH 设置"
+
+#. progress step label
+#: src/Kerberos.ycp:474
+msgid "Writing PAM settings..."
+msgstr "正在写入 PAM 设置..."
+
+#. progress step label
+#. help text
+#: src/Kerberos.ycp:476 src/dialogs.ycp:208
+msgid "Writing Kerberos client settings..."
+msgstr "正在写入 Kerberos 客户机设置..."
+
+#. progress step label
+#: src/Kerberos.ycp:478
+msgid "Writing OpenSSH settings..."
+msgstr "正在写入 OpenSSH 设置..."
+
+#. final progress step label
+#: src/Kerberos.ycp:480
+msgid "Finished"
+msgstr "已完成"
+
+#. progress stage label
+#: src/Kerberos.ycp:485
+msgid "Install required packages"
+msgstr "安装必需的包"
+
+#. progress step label
+#: src/Kerberos.ycp:487
+msgid "Installing required packages..."
+msgstr "正在安装必需的包..."
+
+#. summary header
+#: src/Kerberos.ycp:705
+msgid "PAM Login"
+msgstr "PAM 登录"
+
+#. summary item
+#: src/Kerberos.ycp:708
+msgid "Use Kerberos"
+msgstr "使用 Kerberos"
+
+#. summary item
+#: src/Kerberos.ycp:710
+msgid "Do Not Use Kerberos"
+msgstr "不使用 Kerberos"
+
+#. summary header
+#: src/Kerberos.ycp:713
+msgid "Default Realm"
+msgstr "默认领域"
+
+#. summary header
+#: src/Kerberos.ycp:717
+msgid "Default Domain"
+msgstr "默认域"
+
+#. summary header
+#: src/Kerberos.ycp:721
+msgid "KDC Server Address"
+msgstr "密钥分发中心 (KDC) 服务器地址"
+
+#. summary header
+#: src/Kerberos.ycp:725
+msgid "Clock Skew"
+msgstr "时钟偏差"
+
+#. summary text, %1 is value
+#: src/Kerberos.ycp:740
+#, ycp-format
+msgid "<b>KDC Server</b>: %1<br>"
+msgstr "<b>密钥分发中心服务器</b>：%1<br>"
+
+#. summary text, %1 is value
+#: src/Kerberos.ycp:742
+#, ycp-format
+msgid "<b>Default Domain</b>: %1<br>"
+msgstr "<b>默认域</b>：%1<br>"
+
+#. summary text, %1 is value
+#: src/Kerberos.ycp:745
+#, ycp-format
+msgid "<b>Default Realm</b>: %1<br>"
+msgstr "<b>默认领域</b>：%1<br>"
+
+#. summary text (yes/no follows)
+#: src/Kerberos.ycp:748
+#, ycp-format
+msgid "<b>Kerberos Authentication Enabled</b>: %1"
+msgstr "<b>已启用 Kerveros 身份验证</b>：%1"
+
+#. summary value
+#: src/Kerberos.ycp:750
+msgid "Yes"
+msgstr "是"
+
+#. summary value
+#: src/Kerberos.ycp:752
+msgid "No"
+msgstr "否"
+
+#. summary line
+#: src/Kerberos.ycp:755
+msgid "Configuration Acquired via DNS"
+msgstr "通过 DNS 获得配置"
+
+#. error popup (wrong format of entered value)
+#: src/Kerberos.ycp:795
+msgid ""
+"Clock skew is invalid.\n"
+"Try again.\n"
+msgstr ""
+"时钟偏差无效。\n"
+"请重试。\n"
+
+#. error popup (wrong format of entered value)
+#: src/Kerberos.ycp:800
+msgid ""
+"Lifetime is invalid.\n"
+"Try again."
+msgstr ""
+"有效期无效。\n"
+"请重试。"
+
+#. directory location popup label
+#: src/dialogs.ycp:131
+msgid "Path to Directory"
+msgstr "目录路径"
+
+#. file location popup label
+#: src/dialogs.ycp:150
+msgid "Path to File"
+msgstr "文件路径"
+
+#. combo box item
+#: src/dialogs.ycp:166
+msgid "All services"
+msgstr "所有服务"
+
+#. combo box item
+#: src/dialogs.ycp:168
+msgid "No services"
+msgstr "没有服务"
+
+#. combo box item
+#: src/dialogs.ycp:170
+msgid "Not set"
+msgstr "未设置"
+
+#. help text 1/5
+#: src/dialogs.ycp:238
+msgid ""
+"<p>\n"
+"<b><big>Authentication with Kerberos</big></b><br>\n"
+"The Kerberos client configuration updates your PAM settings to enable Kerberos authentication.  Your system needs access to a Kerberos server in the network for this to work.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b><big>使用 Kerberos 身份验证</big></b><br>\n"
+"Kerberos 客户机配置更新 PAM 设置以启用 Kerberos 身份验证。您的系统需要具有对网络中 Kerberos 服务器的访问权才能实现该功能。\n"
+"</p>\n"
+
+#. help text 2/5
+#: src/dialogs.ycp:244
+msgid ""
+"<p>\n"
+"<b>Basic Client Settings</b>:\n"
+"Enter your <b>Default Domain</b>, <b>Default Realm</b>, and the hostname or address of your Key Distribution Center (<b>KDC Server Address</b>). To specify more values for KDC, separate them by spaces.</p>"
+msgstr ""
+"<p>\n"
+"<b>基本客户机设置</b>：\n"
+"输入<b>默认域</b>、<b>默认领域</b> 和密钥发布中心的主机名或地址(<b>KDC 服务器地址</b>)。要指定更多 KDC 相关的值，用空格隔开它们。</p>"
+
+#. help text 3/5
+#: src/dialogs.ycp:249
+msgid ""
+"<p>\n"
+"It is common practice to use the domain name in uppercase as your default realm name, but you can select freely. If the realm is not available on the server, you cannot log in.  Ask your server administrator if you need more information.</p>\n"
+msgstr ""
+"<p>\n"
+"通常使用大写域名作为默认领域名，不过您也可以自由选择。\n"
+"如果该领域在服务器上不可用，则您将无法登录。如果需要更多信息，请咨询服务器管理员。</p>\n"
+
+#. help text for Use DNS to acquire the configuration data at runtime
+#: src/dialogs.ycp:254
+msgid "Check <b>Use DNS to Acquire the Configuration Data at Runtime</b> to let your client use the Kerberos authentication data provided by DNS. This option cannot be selected if the DNS server does not provide such data.</p>"
+msgstr "选中 <b>运行时使用 DNS 获取配置数据</b> 来让您的客户端使用 DNS 提供的 Kerberos 验证数据。如果 DNS 服务器不提供类似数据，则不能选择该选项。</p>"
+
+#. help text 5/5
+#: src/dialogs.ycp:257
+msgid "<p>To configure more settings, click <b>Advanced Settings</b>.</p>"
+msgstr "<p>要配置更多设置，请单击<b>高级设置</b>。</p>"
+
+#. radio button label
+#: src/dialogs.ycp:274
+msgid "Do No&t Use Kerberos"
+msgstr "不使用 Kerberos(&T)"
+
+#. radio button label
+#: src/dialogs.ycp:276
+msgid "&Use Kerberos"
+msgstr "使用 Kerberos(&U)"
+
+#. checkbox label
+#: src/dialogs.ycp:283
+msgid "Use DN&S to acquire the configuration data at runtime"
+msgstr "运行时使用 DNS 获取配置数据(&S)"
+
+#. frame label
+#: src/dialogs.ycp:288
+msgid "Basic Kerberos Settings"
+msgstr "基本 Kerberos 设置"
+
+#. textentry label
+#: src/dialogs.ycp:292
+msgid "Default &Domain"
+msgstr "默认域(&D)"
+
+#. textentry label
+#: src/dialogs.ycp:294
+msgid "Default Real&m"
+msgstr "默认领域(&M)"
+
+#. textentry label
+#: src/dialogs.ycp:297
+msgid "&KDC Server Address"
+msgstr "KDC 服务器地址(&K)"
+
+#. pushbutton label
+#: src/dialogs.ycp:303
+msgid "Ad&vanced Settings..."
+msgstr "高级设置(&V)..."
+
+#. dialog title
+#. dialog caption
+#: src/dialogs.ycp:309 src/wizards.ycp:127
+msgid "Kerberos Client Configuration"
+msgstr "Kerberos 客户机配置"
+
+#. error popup label
+#: src/dialogs.ycp:359
+msgid "Enter the default realm name."
+msgstr "请输入默认领域名。"
+
+#. error popup label
+#: src/dialogs.ycp:368
+msgid "Enter the address of the KDC server."
+msgstr "输入 KDC 服务器的地址。"
+
+#. error popup label
+#: src/dialogs.ycp:383
+msgid "The KDC server address is invalid."
+msgstr "KDC 服务器地址无效。"
+
+#. textentry label
+#: src/dialogs.ycp:440
+msgid "&Default Lifetime"
+msgstr "默认有效期(&D)"
+
+#. help text (do not transl. values "m","h", "d")
+#: src/dialogs.ycp:442
+msgid "<p>By default, the time unit of <b>Default Lifetime</b>, <b>Default Renewable Lifetime</b>, and <b>Clock Skew</b> is set to seconds. Alternatively, specify the time unit (<tt>m</tt> for minutes, <tt>h</tt> for hours, or <tt>d</tt> for days) and use it as a value suffix, as in <tt>1d</tt> or <tt>24h</tt> for one day.</p>"
+msgstr ""
+"<p>默认情况下，<b>默认有效期</b>、<b>默认可更新有效期</b>和\n"
+"<b>时钟偏差</b>的值以秒为单位。或者，可以指定时间单位\n"
+"(<tt>m</tt> 表示分钟、<tt>h</tt> 表示小时、<tt>d</tt> 表示天)并将时间单位用作值后缀，例如，<tt>1d</tt> 或 <tt>24h</tt> 表示 1 天。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:453
+msgid "De&fault Renewable Lifetime"
+msgstr "默认可更新有效期(&F)"
+
+#. checkbox label
+#: src/dialogs.ycp:466
+msgid "For&wardable"
+msgstr "可转发(&W)"
+
+#. help text
+#: src/dialogs.ycp:468
+msgid "<p><b>Forwardable</b> lets you transfer your complete identity (TGT) to another machine. <b>Proxiable</b> only lets you transfer particular tickets. Select wheter the options should be applied to all PAM services, none of them or enter a list of services separated by spaces.</p>"
+msgstr ""
+"<p>使用<b>可转发</b>可以将您完整的身份 (TGT) \n"
+"传送</b>到另一台计算机。<b>可代理</b>仅允许传送\n"
+"特定的凭据。选择将选项应用到所有 PAM 服务，不应用，还是应用到一个由空格分隔的服务列表。</p>"
+
+#. checkbox label
+#: src/dialogs.ycp:478
+msgid "&Proxiable"
+msgstr "可代理(&P)"
+
+#. checkbox label
+#: src/dialogs.ycp:487
+msgid "R&etained"
+msgstr "保留(&E)"
+
+#. help text
+#: src/dialogs.ycp:489
+msgid "<p>If <b>Retained</b> is enabled, a PAM module keeps the tickets after closing the session.</p>"
+msgstr "<p>如果启用了<b>保留</b>，则在关闭会话后 PAM 模块</b>将保留凭据。</p>"
+
+#. checkbox label
+#. help text for command line option
+#: src/dialogs.ycp:497 src/kerberos.ycp:392
+msgid "Kerberos Support for Open&SSH Client"
+msgstr "OpenSSH 客户机的 Kerberos 支持(&S)"
+
+#. help text
+#: src/dialogs.ycp:499
+msgid "<p>To enable Kerberos support for your OpenSSH client, select <b>Kerberos Support for OpenSSH Client</b>. In this case, Kerberos tickets are used for user authentication on the SSH server.</p>"
+msgstr "<p>要对 OpenSSH 客户机启用 Kerberos 支持，请选择<b> OpenSSH 客户机的 Kerberos 支持</b>。在这种情况下，Kerberos 凭据将用于 SSH 服务器上的用户身份验证。</p>"
+
+#. checkbox label
+#. help text for command line option
+#: src/dialogs.ycp:507 src/kerberos.ycp:399
+msgid "&Ignore Unknown Users"
+msgstr "忽略未知用户(&I)"
+
+#. help text
+#: src/dialogs.ycp:509
+msgid "<p>Check <b>Ignore Unknown Users</b> to have Kerberos ignore authentication attempts by users it does not know.</p>"
+msgstr "<p>勾选<b>忽略未知用户</b>使 Kerberos 忽略未知用户的身份认证请求。</p>"
+
+#. intfield label
+#: src/dialogs.ycp:518
+msgid "Minimum &UID"
+msgstr "最小 UID(&U)"
+
+#. help text
+#: src/dialogs.ycp:520
+msgid "<p>When the <b>Minimum UID</b> is greater than 0, authentication attempts by users with UIDs below the specified number are ignored. This is useful for disabling Kerberos authentication for the system administrator root.</p>"
+msgstr ""
+"<p>当<b>最小 UID</b> 大于 0 时，将忽略 UID 小于指定数字\n"
+"的用户试图进行的身份验证。这在禁用系统管理员 root \n"
+"的 Kerberos 身份验证时很有用。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:528
+msgid "C&lock Skew"
+msgstr "时钟偏差(&L)"
+
+#. help text
+#: src/dialogs.ycp:530
+msgid "<p>The <b>Clock Skew</b> is the tolerance for time stamps not exactly matching the host's system clock. The value is in seconds.</p>"
+msgstr "<p><b>时钟偏差</b>是不完全符合主机系统时钟的时戳容错。单位为秒。</p>"
+
+#. push button label
+#: src/dialogs.ycp:541
+msgid "&NTP Configuration..."
+msgstr "NTP 配置(&N)..."
+
+#: src/dialogs.ycp:542
+msgid ""
+"<p>\n"
+"To synchronize your time with an NTP server, configure your computer\n"
+"as an NTP client. Access the configuration with <b>NTP Configuration</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要将您的时间与 NTP 服务器同步，请将计算机配置\n"
+"为 NTP 客户机。通过 <b>NTP 配置</b>访问此配置。\n"
+"</p>\n"
+
+#. push button label
+#: src/dialogs.ycp:552
+msgid "C&onfigure User Data"
+msgstr "配置用户数据(&O)"
+
+#. help text
+#: src/dialogs.ycp:554
+msgid "<p>To configure the source of user accounts, select the appropriate configuration module in <b>Configure User Data</b>.</p>"
+msgstr "<p>要配置用户帐户，请在<b>配置用户数据</b>中选择合适的配置模块。</p>"
+
+#. menu item
+#: src/dialogs.ycp:557
+msgid "LDAP Client"
+msgstr "LDAP 客户机"
+
+#. menu item
+#: src/dialogs.ycp:559
+msgid "NIS Client"
+msgstr "NIS 客户程序"
+
+#. textentry label
+#: src/dialogs.ycp:568
+msgid "Credential Cac&he Directory"
+msgstr "凭据缓存目录(&H)"
+
+#. help text for "Credential Cac&he Directory"
+#: src/dialogs.ycp:570
+msgid "<p>Specify the directory where to place credential cache files as <b>Credential Cache Directory</b>.</p>"
+msgstr "<p>在<b>凭据缓存目录</b>中指定存放凭证缓存文件的目录。</p>"
+
+#. push button label
+#: src/dialogs.ycp:578
+msgid "&Browse..."
+msgstr "浏览(&B)..."
+
+#. textentry label
+#: src/dialogs.ycp:585
+msgid "Credential Cache &Template"
+msgstr "凭据缓存模板(&T)"
+
+#. help text
+#: src/dialogs.ycp:587
+msgid "<p><b>Credential Cache Template</b> specifies the location in which to place the user's session-specific credential cache.</p>"
+msgstr "<p><b>凭据缓存模板</b>指定了存放用户指定会话的凭据缓存的位置。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:596
+msgid "&Keytab File Location"
+msgstr "Keytab 文件位置(&K)"
+
+#. help text
+#: src/dialogs.ycp:598
+msgid "<p>Specify the location of the file with the keys of principals in <b>Keytab File Location</b>.</p>"
+msgstr "<p>在<b>Keytab 文件位置</b>中指定实体的密钥文件位置。</p>"
+
+#. push button label
+#: src/dialogs.ycp:606
+msgid "Bro&wse..."
+msgstr "浏览(&W)..."
+
+#. textentry label
+#: src/dialogs.ycp:613
+msgid "&Mappings"
+msgstr "映射(&M)"
+
+#. help text
+#: src/dialogs.ycp:615
+msgid "<p>With <b>Mappings</b>, specify how the PAM module should derive the principal's name from the system user name.</p>"
+msgstr "<p>在<b>映射</b>中指定 PAM 模块如何从系统用户名派生出实体名。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:623
+msgid "Ba&nner"
+msgstr "标题(&N)"
+
+#. help text
+#: src/dialogs.ycp:625
+msgid "<p>The value of <b>Banner</b> is a text that should be shown before a password questions.</p>"
+msgstr "<p><b>标题</b>的值是在密码问题前显示的文本。</p>"
+
+#. generic help for Services tab
+#: src/dialogs.ycp:634
+msgid "<p>All settings in this dialog can be applied for all PAM services, no service or a specific list of services separated by commas.</p>"
+msgstr "<p>所有此对话框中的设置可以应用到所有 PAM 服务，不应用，或者一个由逗号分隔的具体服务列表。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:640
+msgid "Add&ressless Initial Tickets"
+msgstr "无地址初始凭据(&r)"
+
+#. help text
+#: src/dialogs.ycp:642
+msgid "<p>When <b>Addressless Initial Tickets</b> is set, initial tickets (TGT) with no address information are requested.</p>"
+msgstr "<p>当设定了<b>无地址初始凭据</b>时，需要无地址信息的初始凭据 (TGT)。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:651
+msgid "&Debug"
+msgstr "调试(&D)"
+
+#. help text
+#: src/dialogs.ycp:653
+msgid "<p>Check <b>Debug</b> to turn on debugging for selected services via syslog.</p>"
+msgstr "<p>选中<b>调试</b>来激活通过 syslog 调试选定服务。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:662
+msgid "&Sensitive Debug"
+msgstr "敏感调试(&S)"
+
+#. help text
+#: src/dialogs.ycp:664
+msgid "<p><b>Sensitive Debug</b> turns  on  debugging  of  sensitive  information.</p>"
+msgstr "<p><b>敏感调试</b>激活敏感信息的调试。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:673
+msgid "Accept &Existing Ticket"
+msgstr "接受已有凭据(&E)"
+
+#. help text
+#: src/dialogs.ycp:675
+msgid "<p>Check <b>Accept Existing Ticket</b> to tell PAM module to accept the presence of pre-existing Kerberos credentials as sufficient to authenticate the user.</p>"
+msgstr "<p>选中 <b>接受已有凭据</b> 来通知 PAM 模块接受预先存在的 Kerberos 凭据以验证用户。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:685
+msgid "E&xternal Credentials"
+msgstr "外部凭据(&X)"
+
+#. help text
+#: src/dialogs.ycp:687
+msgid "<p>List the services allowed to provide credentials in <b>External Credentials</b>.</p>"
+msgstr "<p><b>外部凭据</b>列出了允许提供凭据的服务。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:697
+msgid "Use Shared Mem&ory"
+msgstr "使用共享内存(&o)"
+
+#. help text
+#: src/dialogs.ycp:699
+msgid "<p><b>Use Shared Memory</b> describes the services for which the shared memory is used during authentication.</p>"
+msgstr "<p><b>使用共享内存</b>描述了验证时使用共享内存的服务。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:709
+msgid "&Validate Initial Ticket"
+msgstr "校验初始凭据(&V)"
+
+#. help text
+#: src/dialogs.ycp:711
+msgid "<p>Select the services for which TGT should be validated by changing the value of <b>Validate Initial Ticket</b>."
+msgstr "<p>通过变更 <b>校验初始凭据</b> 的值来选择应校验 TGT 的服务。"
+
+#. textentry label
+#: src/dialogs.ycp:721
+msgid "&Initial Prompt"
+msgstr "初始提示(&I)"
+
+#. help text
+#: src/dialogs.ycp:723
+msgid "<p>With <b>Initial Prompt</b> checked, the PAM module asks for a password before the authentication attempt.</p>"
+msgstr "<p>若 <b>初始提示</b> 被选中，PAM 模块将在验证尝试前询问密码。</p>"
+
+#. textentry label
+#: src/dialogs.ycp:732
+msgid "Subsequent &Prompt"
+msgstr "稍后提示(&P)"
+
+#. help text
+#: src/dialogs.ycp:734
+msgid "<p>If <b>Subsequent Prompt</b> is enabled, the PAM module may ask the user for a password, in case the previously-entered  password  was  somehow  insufficient for authentication.</p>"
+msgstr "<p>如果激活了<b>稍后提示</b>，PAM 模块在之前输入的密码不足以验证用户时可能询问用户密码。</p>"
+
+#. tab header
+#: src/dialogs.ycp:746
+msgid "PAM Settings"
+msgstr "PAM 设置"
+
+#. frame label
+#: src/dialogs.ycp:750
+msgid "Ticket Attributes"
+msgstr "凭据属性"
+
+#. tab header
+#: src/dialogs.ycp:779
+msgid "Expert PAM Settings"
+msgstr "专家 PAM 设置"
+
+#. tab header
+#: src/dialogs.ycp:796
+msgid "PAM Services"
+msgstr "PAM 服务"
+
+#. tab header
+#: src/dialogs.ycp:835
+msgid "Realm Settings"
+msgstr "领域设置"
+
+#. default dialog caption
+#: src/dialogs.ycp:883
+msgid "Advanced Kerberos Client Configuration"
+msgstr "高级 Kerberos 客户机配置"
+
+#. error: wrong input (probably string or negative integer)
+#: src/kerberos.ycp:93
+msgid "The value for clock skew must be a positive integer."
+msgstr "时钟偏差值必须为正整数。"
+
+#. translators: command line help text for Kerberos client module
+#: src/kerberos.ycp:245
+msgid "Kerberos client configuration module"
+msgstr "Kerberos 客户机配置模块"
+
+#. translators: command line help text for pam action
+#: src/kerberos.ycp:253
+msgid "Enable or disable Kerberos authentication"
+msgstr "启用或禁用 Kerberos 身份验证"
+
+#. translators: command line help text for summary action
+#: src/kerberos.ycp:258
+msgid "Configuration summary of Kerberos client"
+msgstr "Kerberos 客户机配置摘要"
+
+#. translators: command line help text for configure action
+#: src/kerberos.ycp:263
+msgid "Change the global settings of Kerberos client"
+msgstr "更改 Kerberos 客户机的全局设置"
+
+#. translators: command line help text for pam enable option
+#: src/kerberos.ycp:269
+msgid "Enable the service"
+msgstr "启用服务"
+
+#. translators: command line help text for pam disable option
+#: src/kerberos.ycp:273
+msgid "Disable the service"
+msgstr "禁用服务"
+
+#: src/kerberos.ycp:276
+msgid "Use DNS to acquire the configuration at runtime"
+msgstr "运行时用 DNS 获取配置"
+
+#. translators: command line help text for the kdc option
+#: src/kerberos.ycp:282
+msgid "The Key Distribution Center (KDC) address"
+msgstr "密钥发布中心 (KDC) 地址"
+
+#. translators: command line help text for the domain option
+#: src/kerberos.ycp:287
+msgid "Default domain"
+msgstr "默认域"
+
+#. translators: command line help text for the realm option
+#: src/kerberos.ycp:292
+msgid "Default realm"
+msgstr "默认领域"
+
+#. translators: command line help text for the minimum_uid option
+#: src/kerberos.ycp:297
+msgid "Minimum UID used for Kerberos authentication"
+msgstr "用于 Kerberos 身份验证的最小 UID"
+
+#. translators: command line help text for the clockskew option
+#: src/kerberos.ycp:302
+msgid "Clock skew (in seconds)"
+msgstr "时钟偏差(单位为秒)"
+
+#. help text for command line option
+#: src/kerberos.ycp:307
+msgid "Default ticket lifetime"
+msgstr "默认凭据有效期"
+
+#. help text for command line option
+#: src/kerberos.ycp:312
+msgid "Default renewable lifetime"
+msgstr "默认可更新有效期"
+
+#. help text for command line option
+#: src/kerberos.ycp:317
+msgid "Forwardable credentials"
+msgstr "可转发凭据"
+
+#. help text for command line option
+#: src/kerberos.ycp:322
+msgid "Proxiable credentials"
+msgstr "可代理凭据"
+
+#. help text for command line option
+#: src/kerberos.ycp:327
+msgid "Keytab File Location"
+msgstr "Keytab 文件位置"
+
+#. help text for command line option
+#: src/kerberos.ycp:332
+msgid "Credential Cache Directory"
+msgstr "凭据缓存目录"
+
+#. help text for command line option
+#: src/kerberos.ycp:337
+msgid "Credential Cache Template"
+msgstr "凭据缓存模板"
+
+#. help text for command line option
+#: src/kerberos.ycp:342
+msgid "Mappings"
+msgstr "映射"
+
+#. help text for command line option
+#: src/kerberos.ycp:347
+msgid "Accept Existing Ticket"
+msgstr "接受已有凭据"
+
+#. help text for command line option
+#: src/kerberos.ycp:352
+msgid "External credentials"
+msgstr "外部凭据"
+
+#. help text for command line option
+#: src/kerberos.ycp:357
+msgid "Validate Initial Ticket"
+msgstr "校验初始凭据"
+
+#. help text for command line option
+#: src/kerberos.ycp:362
+msgid "Use Shared Memory"
+msgstr "使用共享内存"
+
+#. help text for command line option
+#: src/kerberos.ycp:367
+msgid "Addressless Initial Tickets"
+msgstr "无地址初始凭据"
+
+#. help text for command line option
+#: src/kerberos.ycp:372
+msgid "Debug"
+msgstr "调试"
+
+#. help text for command line option
+#: src/kerberos.ycp:377
+msgid "Sensitive Debug"
+msgstr "敏感调试"
+
+#. help text for command line option
+#: src/kerberos.ycp:382
+msgid "Initial Prompt"
+msgstr "初始提示"
+
+#. help text for command line option
+#: src/kerberos.ycp:387
+msgid "Subsequent Prompt"
+msgstr "稍后提示"
+
+#. label (init dialog)
+#: src/wizards.ycp:130
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#, fuzzy
+#~ msgid "Sensitive debug"
+#~ msgstr "区分大小写(&V)"

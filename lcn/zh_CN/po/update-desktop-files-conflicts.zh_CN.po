@@ -1,0 +1,65 @@
+# SVN:\n"
+# translation of update-desktop-files.po to Chinese Simplified
+# @update-desktop-files@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# Eric Shan <ericalways@gmail.com>, 2008, 2009.
+# margurite <i@marguerite.su>, 2012.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-26 14:44+0000\n"
+"PO-Revision-Date: 2012-07-23 17:18+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Packages:\n"
+"NADAProject-Id-Version: desktop-translations 20120803\n"
+"SVN:\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#, fuzzy
+#~ msgctxt "Comment(style.desktop)"
+#~ msgid ""
+#~ "Allows the manipulation of widget behavior and changing the Style for KDE"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "允许操纵修饰行为和更改 KDE 的样式\n"
+#~ "SVN:\n"
+#~ "操纵部件行为和更改 KDE 的样式"
+
+#, fuzzy
+#~ msgctxt "Name(libkcddb.desktop)"
+#~ msgid "CDDB Retrieval"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "CDDB 查询\n"
+#~ "SVN:\n"
+#~ "CDDB 获取"
+
+#, fuzzy
+#~ msgctxt "Comment(kwinrules.desktop)"
+#~ msgid "Configure settings specifically for a window"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "配置一个窗口的设置\n"
+#~ "SVN:\n"
+#~ "配置某个窗口的特定设置"
+
+#, fuzzy
+#~ msgctxt "Comment(kcmhistory.desktop)"
+#~ msgid "Configure the history sidebar"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "配置任务侧边栏\n"
+#~ "SVN:\n"
+#~ "配置历史侧边栏"

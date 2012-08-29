@@ -1,0 +1,568 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:34+0200\n"
+"PO-Revision-Date: 2012-07-18 12:36+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. table cell
+#: src/add-on-workflow.ycp:138 src/add-on-workflow.ycp:512
+#: src/add-on-workflow.ycp:1349 src/add-on-workflow.ycp:1350
+msgid "No product found in the repository."
+msgstr "在安装源中未找到产品。"
+
+#. error report
+#: src/add-on-workflow.ycp:277
+msgid "No software repository found on medium."
+msgstr "在介质中未找到软件安装源。"
+
+#. busy message
+#: src/add-on-workflow.ycp:294
+msgid "Initializing new source..."
+msgstr "正在初始化新源..."
+
+#. placeholder for unknown directory
+#. place holder for unknown URL
+#. placeholder for unknown path
+#. placeholder for unknown URL
+#. placeholder for unknown path
+#. summary item, %1 is product name, %2 media URL, %3 directory on media
+#: src/add-on-workflow.ycp:326 src/add-on-workflow.ycp:331
+#: src/add-on-workflow.ycp:813 src/add-on-workflow.ycp:819
+#: src/add-on_proposal.ycp:32 src/add-on_proposal.ycp:36
+msgid "Unknown"
+msgstr "未知"
+
+#: src/add-on-workflow.ycp:329
+#, ycp-format
+msgid "URL: %1, Directory: %2"
+msgstr "URL： %1，目录： %2"
+
+#. dialog caption
+#: src/add-on-workflow.ycp:335
+msgid "Software Repository Selection"
+msgstr "软件安装源选择"
+
+#. help text
+#: src/add-on-workflow.ycp:337
+msgid ""
+"<p><big><b>Software Repository Selection</b></big><br>\n"
+"Multiple repositories were found on the selected medium.\n"
+"Select the repository to use.</p>\n"
+msgstr ""
+"<p><big><b>软件安装源选择</b></big><br>\n"
+"在所选媒体中找到多个安装源。\n"
+"请选择要使用的安装源。</p>\n"
+
+#: src/add-on-workflow.ycp:344
+msgid "Repositories &Found"
+msgstr "找到的安装源(&F)"
+
+#. if (Stage::initial())
+#. {
+#. if (Popup::ConfirmAbort (`painless))
+#. break;
+#. }
+#. else
+#. {
+#. yes-no popup
+#: src/add-on-workflow.ycp:356 src/add-on-workflow.ycp:637
+msgid "Really abort add-on product installation?"
+msgstr "确实要中止附加产品的安装吗？"
+
+#. popup message
+#: src/add-on-workflow.ycp:371
+msgid "Select a repository."
+msgstr "选择一个安装源。"
+
+#. message popup
+#: src/add-on-workflow.ycp:553
+msgid "Dependencies of the add-on product cannot be fulfilled."
+msgstr "无法满足附加产品的依赖关系。"
+
+#. dialog caption
+#: src/add-on-workflow.ycp:610
+msgid "Product Selection"
+msgstr "产品选择"
+
+#. multi selection list
+#: src/add-on-workflow.ycp:614
+msgid "Available Products"
+msgstr "可用产品"
+
+#. help text
+#: src/add-on-workflow.ycp:618
+msgid ""
+"<p><b><big>Product Selection</big></b><br/>\n"
+"Multiple products were found in the repository. Select the products\n"
+"to install.</p>\n"
+msgstr ""
+"<p><b><big>产品选择</big></b><br>\n"
+"在安装源中找到多个产品。请选择要\n"
+"安装的产品。</p>\n"
+
+#. message popup
+#: src/add-on-workflow.ycp:679
+msgid "Dependencies of the selected add-on products cannot be fulfilled."
+msgstr "无法满足选定附加产品的依赖关系。"
+
+#. main screen heading
+#. TRANSLATORS: dialog caption
+#: src/add-on-workflow.ycp:787 src/inst_language_add-on.ycp:114
+#: src/inst_language_add-on.ycp:163
+msgid "Add-On Product Installation"
+msgstr "附加产品安装"
+
+#. Help for add-on products
+#: src/add-on-workflow.ycp:790
+msgid ""
+"<p><big><b>Add-On Product Installation</b></big><br/>\n"
+"Here see all add-on products that are selected for installation.\n"
+"To add a new product, click <b>Add</b>. To remove an already added one,\n"
+"select it and click <b>Delete</b>.</p>"
+msgstr ""
+"<p><big><b>附加产品安装</b></big></br>\n"
+"此处可以查看选定安装的所有附加产品。\n"
+"要添加新产品，请单击<b>添加</b>。要去除已添加的产品，\n"
+"请选择它并单击<b>删除</b>。</p>"
+
+#. table cell, %1 is URL, %2 is directory name
+#: src/add-on-workflow.ycp:817
+#, ycp-format
+msgid "%1, Directory: %2"
+msgstr "%1，目录： %2"
+
+#. table header
+#: src/add-on-workflow.ycp:833
+msgid "Product"
+msgstr "产品"
+
+#. table header
+#: src/add-on-workflow.ycp:835
+msgid "Media"
+msgstr "介质"
+
+#. message report
+#: src/add-on-workflow.ycp:977
+msgid "Select a product to delete."
+msgstr "选择要删除的产品。"
+
+#. TRANSLATORS: busy message
+#: src/add-on-workflow.ycp:987
+msgid "Removing selected add-on..."
+msgstr "正在去除选中的附加产品..."
+
+#. TRANSLATORS: dialog caption
+#: src/add-on-workflow.ycp:1079
+msgid "Installed Add-on Products"
+msgstr "已安装的附加产品"
+
+#. TRANSLATORS: table header item
+#: src/add-on-workflow.ycp:1086
+msgid "Add-on Product"
+msgstr "附加产品"
+
+#. TRANSLATORS: table header item
+#: src/add-on-workflow.ycp:1088
+msgid "URL"
+msgstr "URL"
+
+#. TRANSLATORS: push button
+#: src/add-on-workflow.ycp:1104
+msgid "Run &Software Manager..."
+msgstr "运行软件管理器(&S)..."
+
+#. TRANSLATORS: dialog help adp/1
+#: src/add-on-workflow.ycp:1108
+msgid "<p>All add-on products installed on your system are displayed.</p>"
+msgstr "<p>这里您可以看到系统中安装的所有附加产品.</p>"
+
+#. TRANSLATORS: dialog help adp/2
+#: src/add-on-workflow.ycp:1110
+msgid "<p>Click <b>Add</b> to add a new add-on product, or <b>Delete</b> to remove an add-on which is in use.</p>"
+msgstr "<p>用<b>添加</b>按钮添加一个新的附加产品，或<b>删除</b>按钮删除一个使用中的附近产品。</p>"
+
+#: src/add-on-workflow.ycp:1161
+#, ycp-format
+msgid "<b>Vendor:</b> %1<br>"
+msgstr "<b>发行者：</b> %1<br>"
+
+#: src/add-on-workflow.ycp:1162
+msgid "Unknown vendor"
+msgstr "未知发行者"
+
+#: src/add-on-workflow.ycp:1165
+#, ycp-format
+msgid "<b>Version:</b> %1<br>"
+msgstr "<b>版本：</b> %1<br>"
+
+#: src/add-on-workflow.ycp:1166
+msgid "Unknown version"
+msgstr "未知版本"
+
+#: src/add-on-workflow.ycp:1169
+#, ycp-format
+msgid "<b>Repository URL:</b> %1<br>"
+msgstr "<b>安装源 URL：</b> %1<br>"
+
+#: src/add-on-workflow.ycp:1173
+msgid "Unknown repository URL"
+msgstr "未知安装源 URL"
+
+#: src/add-on-workflow.ycp:1177
+#, ycp-format
+msgid "<b>Repository Alias:</b> %1<br>"
+msgstr "<b>安装源别名：</b> %1<br>"
+
+#: src/add-on-workflow.ycp:1373 src/add-on-workflow.ycp:1418
+msgid "Unknown product"
+msgstr "未知产品"
+
+#: src/add-on-workflow.ycp:1374
+msgid "Unknown URL"
+msgstr "未知 URL"
+
+#: src/add-on-workflow.ycp:1422
+#, ycp-format
+msgid ""
+"Deleting the add-on product %1 may result in removing all the packages\n"
+"installed from this add-on.\n"
+"\n"
+"Are sure you want to delete it?"
+msgstr ""
+"删除附加产品 %1 可能导致移除从此附加产品安装的所有软件包。\n"
+"\n"
+"您确实想要删除它吗？"
+
+#. TRANSLATORS: busy popup message
+#: src/add-on-workflow.ycp:1435
+msgid "Removing product dependencies..."
+msgstr "正在删除产品依赖关系..."
+
+#. dialog caption
+#. this is a heading
+#: src/add-on-workflow.ycp:1547 src/add-on.ycp:84 src/add-on_proposal.ycp:73
+msgid "Add-On Products"
+msgstr "附加产品"
+
+#. busy message (dialog)
+#. TRANSLATORS: dialog content - a very simple label
+#: src/add-on-workflow.ycp:1548 src/add-on.ycp:86
+#: src/inst_language_add-on.ycp:116
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#. help
+#. TRANSLATORS: help text
+#: src/add-on-workflow.ycp:1549 src/add-on.ycp:88
+#: src/inst_language_add-on.ycp:118
+msgid "<p>Initializing add-on products...</p>"
+msgstr "<p>正在初始化附加产品...</p>"
+
+#. TRANSLATORS: commandline help
+#: src/add-on.ycp:36
+msgid ""
+"\n"
+"Add-on Module Help\n"
+"------------------\n"
+"\n"
+"To add a new add-on product via the command-line, use this syntax:\n"
+"    /sbin/yast2 add-on URL\n"
+"URL is the path to the add-on source.\n"
+"\n"
+"Examples of URL:\n"
+"http://server.name/directory/Lang-AddOn-10.2-i386/\n"
+"ftp://server.name/directory/Lang-AddOn-10.2-i386/\n"
+"nfs://server.name/directory/SDK1-SLE-i386/\n"
+"disk://dev/sda5/directory/Product/CD1/\n"
+"cd://\n"
+"dvd://\n"
+msgstr ""
+"\n"
+"附加模块帮助\n"
+"------------------\n"
+"\n"
+"命令行添加一个新的附加产品，使用此语法：\n"
+"    /sbin/yast2 add-on URL\n"
+"URL 是指向附加源的路径。\n"
+"\n"
+"URL 举例：\n"
+"http://server.name/directory/Lang-AddOn-10.2-i386/\n"
+"ftp://server.name/directory/Lang-AddOn-10.2-i386/\n"
+"nfs://server.name/directory/SDK1-SLE-i386/\n"
+"disk://dev/sda5/directory/Product/CD1/\n"
+"cd://\n"
+"dvd://\n"
+
+#: src/add-on.ycp:56
+msgid "Target file name ('xmlfile' option) is missing. Use xmlfile=<target_XML_file> command line option."
+msgstr "缺少目标文件名(“xmlfile”选项)。使用 xmlfile=<target_XML_file> 命令行选项。"
+
+#: src/add-on_auto.ycp:62
+#, ycp-format
+msgid "<li>Media: %1, Path: %2, Product: %3</li>\n"
+msgstr "<li> 媒体： %1，路径： %2，产品： %3</li>\n"
+
+#. error report
+#: src/add-on_auto.ycp:185
+msgid "Failed to add add-on product."
+msgstr "未能添加附加产品。"
+
+#: src/add-on_auto.ycp:188
+#, ycp-format
+msgid "Make the add-on \"%1\" available via \"%2\"."
+msgstr "请使得附加的“%1”通过“%2”可用。"
+
+#. summary string
+#: src/add-on_proposal.ycp:41
+msgid "No add-on product selected for installation"
+msgstr "未选择要安装的附加产品"
+
+#. this is a menu entry
+#: src/add-on_proposal.ycp:75
+msgid "Add-&on Products"
+msgstr "附加产品(&o)"
+
+#. TRANSLATORS: popup message
+#: src/inst_language_add-on.ycp:77
+msgid "Installation of the Language Extension has been finished."
+msgstr "安装语言扩展已完成。"
+
+#. TRANSLATORS:: multi-selection box
+#: src/inst_language_add-on.ycp:170
+msgid "&Select Language Extensions to Be Installed"
+msgstr "选择要安装的语言扩展(&S)"
+
+#. TRANSLATORS: help text
+#: src/inst_language_add-on.ycp:177
+msgid "<p>Select the language extensions to be installed then click <b>OK</b>.</p>"
+msgstr "<p>选择要安装的语言扩展，并单击<b>接受</b>。</p>"
+
+#. TRANSLATORS: popup question
+#: src/inst_language_add-on.ycp:194
+msgid "Are you sure you want to abort the add-on product installation?"
+msgstr "是否确实要中止附加产品安装？"
+
+#: src/inst_language_add-on.ycp:203
+msgid ""
+"There are no selected languages to be installed.\n"
+"Are you sure you want to abort the installation?"
+msgstr ""
+"没有选定要安装的语言。\n"
+"是否确实要中止安装？"
+
+#. TRANSLATORS: multiselection box item, %1 stands for 'ar', 'mk', 'zh_TW'
+#. it used only as a fallback
+#: src/inst_language_add-on.ycp:251
+#, ycp-format
+msgid "Language %1"
+msgstr "语言 %1"
+
+#. TRANSLATORS: pop-up headline
+#: src/misc.ycp:65
+msgid "Warning: Not enough memory!"
+msgstr "警告：内存不足！"
+
+#. TRANSLATORS: pop-up question
+#: src/misc.ycp:67
+msgid ""
+"Your system does not seem to have enough memory to use add-on products\n"
+"during installation. You can enable add-on products later when the\n"
+"system is running.\n"
+"\n"
+"Do you want to skip using add-on products?"
+msgstr ""
+"您的系统没有足够内存在安装过程中使用附加产品。\n"
+"附加产品可以稍后在系统运行时安装。\n"
+"\n"
+"您希望跳过使用附加产品么？"
+
+#. TRANSLATORS: error message - the module does not provide command line interface
+#: src/vendor.ycp:29
+msgid "There is no user interface available for this module."
+msgstr "此模块没有可用的用户界面。"
+
+#. VENDOR: main screen heading
+#: src/vendor.ycp:92
+msgid "Vendor Driver CD"
+msgstr "供应商驱动程序 CD"
+
+#. VENDOR: cant mount /dev/cdrom popup
+#: src/vendor.ycp:108
+msgid "Please insert the vendor CD-ROM"
+msgstr "请插入供应商 CD-ROM"
+
+#. VENDOR: vendor cd contains wrong data
+#: src/vendor.ycp:157 src/vendor.ycp:171 src/vendor.ycp:219
+msgid ""
+"Could not find driver data on the CD-ROM.\n"
+"Aborting now."
+msgstr ""
+"在 CD-ROM 上未找到驱动程序数据。\n"
+"将立即中止。"
+
+#. VENDOR: vendor cd doesn't contain data for current system and linux version
+#: src/vendor.ycp:194
+msgid ""
+"The CD-ROM data does not match the running Linux system.\n"
+"Aborting now.\n"
+msgstr ""
+"CD-ROM 上的数据与运行中的 Linux 系统不符。\n"
+"将立即中止。\n"
+
+#. VENDOR: dialog heading
+#: src/vendor.ycp:256
+msgid "Installing driver..."
+msgstr "正在安装驱动程序..."
+
+#. VENDOR: popup if installation of driver failed
+#: src/vendor.ycp:265
+msgid ""
+"The installation failed.\n"
+"Contact the address on the CD-ROM.\n"
+msgstr ""
+"安装失败。\n"
+"请与 CD-ROM 上的地址联系。\n"
+
+#. VENDOR: message box with number of drivers installed
+#: src/vendor.ycp:277
+#, ycp-format
+msgid "Installed %1 drivers from CD"
+msgstr "已从 CD 上安装了 %1 驱动程序"
+
+#. VENDOR: message box with error text
+#: src/vendor.ycp:282
+msgid ""
+"No driver data found on the CD-ROM.\n"
+"Aborting now."
+msgstr ""
+"在 CD-ROM 上未找到驱动程序数据。\n"
+"将立即中止。"
+
+#~ msgid "&Select Language Extensions to be Installed"
+#~ msgstr "选择要安装的语言扩展(&S)"
+
+#~ msgid "<p>Select the language extensions to be installed and then click the <b>OK</b> button.</p>"
+#~ msgstr "<p>选择要安装的语言扩展，然后单击<b>接受</b>按钮。</p>"
+
+#~ msgid "Reading packages available at the installation repositories..."
+#~ msgstr "正在读取安装源中可用的软件包..."
+
+#~ msgid "Failed to initialize the software repository."
+#~ msgstr "初始化软件安装源失败。"
+
+#~ msgid ""
+#~ "The product on the media is already installed\n"
+#~ "or selected for installation."
+#~ msgstr ""
+#~ "媒体上的产品已安装\n"
+#~ "或已选择进行安装。"
+
+#~ msgid "Add-On &Products"
+#~ msgstr "扩充产品(&P)"
+
+#, fuzzy
+#~ msgid "Run &Package Manager..."
+#~ msgstr "包管理器(&K)"
+
+#~ msgid "&Scan Using SLP..."
+#~ msgstr "使用 SLP 扫描(&S)..."
+
+#~ msgid "&FTP..."
+#~ msgstr "FTP(&F)..."
+
+#~ msgid "&HTTP..."
+#~ msgstr "HTTP(&H)..."
+
+#~ msgid "HTT&PS..."
+#~ msgstr "HTTPS(&P)..."
+
+#~ msgid "&SMB/CIFS"
+#~ msgstr "SMB/CIFS(&S)"
+
+#~ msgid "&NFS..."
+#~ msgstr "NFS(&N)..."
+
+#~ msgid "&CD..."
+#~ msgstr "CD(&C)..."
+
+#~ msgid "&DVD..."
+#~ msgstr "DVD(&D)..."
+
+#~ msgid "&Local Directory..."
+#~ msgstr "本地目录(&L)..."
+
+#~ msgid "Specify &URL..."
+#~ msgstr "指定 URL(&U)..."
+
+#~ msgid "Add-On Product Media"
+#~ msgstr "附加产品媒体"
+
+#~ msgid ""
+#~ "<p><big><b>Software Repository</b></big><br>\n"
+#~ "Add-on products can be installed from CD, over a\n"
+#~ "network, or from the hard disk.</p>\n"
+#~ msgstr ""
+#~ "<p><big><b>软件安装源</b></big><br>\n"
+#~ "附加产品可以从 CD、网络\n"
+#~ "或硬盘进行安装。</p>\n"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "To install add-on product from <b>CD</b>,\n"
+#~ "have the product CD set or the DVD available.</p>"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "要从 <b>CD</b> 安装附加产品，\n"
+#~ "应有产品 CD 集或 DVD 可用。</p>"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "The product CDs can be copied to the hard disk.\n"
+#~ "Insert the path where the first\n"
+#~ "CD is located, for example, /data1/<b>CD1</b>.\n"
+#~ "Only the base path is required if all CDs are copied\n"
+#~ "into one directory.</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "可将产品 CD 复制到硬盘上。\n"
+#~ " 插入第一张 CD 所在的\n"
+#~ " 路径，例如 /data1/<b>CD1</b>。\n"
+#~ " 如果将所有 CD 都复制进一个目录，\n"
+#~ "只需要基本路径。</p>\n"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "Network installation requires a working network connection.\n"
+#~ "Specify the directory where the packages from\n"
+#~ "the first CD are located, such as /data1/CD1.</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "网络安装需要有效的网络连接。\n"
+#~ "指定第一张 CD 中的包所在的\n"
+#~ " 目录，例如 /data1/CD1。</p>\n"
+
+#~ msgid ""
+#~ "Cannot search for SLP installation repositories\n"
+#~ "without having %1 package installed"
+#~ msgstr ""
+#~ "没有安装 %1 软件包\n"
+#~ "就无法搜索 SLP 安装源"
+
+#~ msgid "Insert the add-on product CD"
+#~ msgstr "插入附加产品 CD"
+
+#~ msgid "Insert the add-on product DVD"
+#~ msgstr "插入附加产品 DVD"

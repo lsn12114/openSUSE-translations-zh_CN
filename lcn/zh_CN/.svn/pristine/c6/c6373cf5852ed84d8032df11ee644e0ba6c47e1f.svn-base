@@ -1,0 +1,2263 @@
+# SVN:\n"
+# translation of update-desktop-files.po to Chinese Simplified
+# @update-desktop-files@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# Eric Shan <ericalways@gmail.com>, 2008, 2009.
+# margurite <i@marguerite.su>, 2012.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-26 14:44+0000\n"
+"PO-Revision-Date: 2012-07-05 17:31+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Packages:\n"
+"NADAProject-Id-Version: desktop-translations 20120706\n"
+"SVN:\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#, fuzzy
+#~ msgctxt "Comment(yakuake.desktop)"
+#~ msgid "A drop-down terminal emulator based on KDE Konsole technology."
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "一款基于 KDE Konsole 技术的拉幕式终端仿真器。\n"
+#~ "SVN:\n"
+#~ "一款基于 KDE Konsole 技术的下拉式终端仿真器。"
+
+#, fuzzy
+#~ msgctxt "Comment(texworks.desktop)"
+#~ msgid ""
+#~ "A simple environment for editing, typesetting, and previewing TeX "
+#~ "documents"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "一个用于编辑、排版和预览 TeX 文档的简洁集成环境\n"
+#~ "SVN:\n"
+#~ "一个用于编辑、排版和预览 TeX 文档的简洁环境"
+
+#, fuzzy
+#~ msgctxt "Comment(gigolo.desktop)"
+#~ msgid "A simple frontend to easily connect to remote filesystems"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "一个易用的远程文件系统连接工具\n"
+#~ "SVN:\n"
+#~ "一个简单易用的远程文件系统连接前端"
+
+#, fuzzy
+#~ msgctxt "Comment(vkeybd.desktop)"
+#~ msgid "A virtual MIDI keyboard"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "虚拟 MIDI 键盘\n"
+#~ "SVN:\n"
+#~ "一个虚拟 MIDI 键盘"
+
+#, fuzzy
+#~ msgctxt "Name(amor.desktop)"
+#~ msgid "AMOR"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "阿莫(AMOR)\n"
+#~ "SVN:\n"
+#~ "AMOR"
+
+#, fuzzy
+#~ msgctxt "GenericName(gnome-activity-journal.desktop)"
+#~ msgid "Activity Journal"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "活动志\n"
+#~ "SVN:\n"
+#~ "活动日志"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-activity-journal.desktop)"
+#~ msgid "Activity Journal"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "活动志\n"
+#~ "SVN:\n"
+#~ "活动日志"
+
+#, fuzzy
+#~ msgctxt "Comment(nm-novellvpn.desktop)"
+#~ msgid "Add, Remove, and Edit VPN Connections"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "添加、去除和编辑 VPN 连接\n"
+#~ "SVN:\n"
+#~ "添加、删除和编辑 VPN 连接"
+
+#, fuzzy
+#~ msgctxt "Comment(xfce4-mime-settings.desktop)"
+#~ msgid "Associate applications with MIME types"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "应用程序与 MIME 类型绑定\n"
+#~ "SVN:\n"
+#~ "绑定应用程序和 MIME 类型"
+
+#, fuzzy
+#~ msgctxt "GenericName(sound-juicer.desktop)"
+#~ msgid "Audio CD Extractor"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "音频 CD 榨汁机\n"
+#~ "SVN:\n"
+#~ "音频 CD 提取器"
+
+#, fuzzy
+#~ msgctxt "GenericName(qmmp.desktop)"
+#~ msgid "Audio player"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "音乐播放器\n"
+#~ "SVN:\n"
+#~ "音频播放器"
+
+#, fuzzy
+#~ msgctxt "Name(bssh.desktop)"
+#~ msgid "Avahi SSH Server Browser"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Avahi SSH服务器浏览器\n"
+#~ "SVN:\n"
+#~ "Avahi SSH 服务器浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(bvnc.desktop)"
+#~ msgid "Avahi VNC Server Browser"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Avahi VNC服务器浏览器\n"
+#~ "SVN:\n"
+#~ "Avahi VNC 服务器浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(avahi-discover.desktop)"
+#~ msgid "Avahi Zeroconf Browser"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Avahi Zero浏览器\n"
+#~ "SVN:\n"
+#~ "Avahi Zeroconf 浏览器"
+
+#, fuzzy
+#~ msgctxt "Comment(gnobots2.desktop)"
+#~ msgid "Avoid the robots and make them crash into each other"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "避免碰到机器人并让它们撞在一起\n"
+#~ "SVN:\n"
+#~ "避免遇到机器人或让机器人们撞在一起"
+
+#, fuzzy
+#~ msgctxt "Name(banshee-audiocd.desktop)"
+#~ msgid "Banshee"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Banshee\n"
+#~ "SVN:\n"
+#~ "Banshee 音乐播放器"
+
+#, fuzzy
+#~ msgctxt "Name(banshee-media-player.desktop)"
+#~ msgid "Banshee"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Banshee\n"
+#~ "SVN:\n"
+#~ "Banshee 音乐播放器"
+
+#, fuzzy
+#~ msgctxt "Name(banshee.desktop)"
+#~ msgid "Banshee"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Banshee\n"
+#~ "SVN:\n"
+#~ "Banshee 音乐播放器"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-blog.desktop)"
+#~ msgid "Blog Entry Poster"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Blog 条目发布器\n"
+#~ "SVN:\n"
+#~ "部落格博文发布器"
+
+#, fuzzy
+#~ msgctxt "Comment(bluedevil-audio.desktop)"
+#~ msgid "BlueDevil Audio connect"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "连接\n"
+#~ "SVN:\n"
+#~ "BlueDevil 音频连接"
+
+#, fuzzy
+#~ msgctxt "Comment(bluedevil-input.desktop)"
+#~ msgid "BlueDevil Input connect"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "连接\n"
+#~ "SVN:\n"
+#~ "BlueDevil 输入连接"
+
+#, fuzzy
+#~ msgctxt "GenericName(bluedevil-network-dun.desktop)"
+#~ msgid "BlueDevil Network connect"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "连接\n"
+#~ "SVN:\n"
+#~ "BlueDevil 网络连接"
+
+#, fuzzy
+#~ msgctxt "GenericName(bluedevil-network-panu.desktop)"
+#~ msgid "BlueDevil Network connect"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "连接\n"
+#~ "SVN:\n"
+#~ "BlueDevil 网络连接"
+
+#, fuzzy
+#~ msgctxt "Comment(bluetooth-applet.desktop)"
+#~ msgid "Bluetooth Manager applet"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "蓝牙管理器小程序\n"
+#~ "SVN:\n"
+#~ "蓝牙管理器小挂件"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-boxes.desktop)"
+#~ msgid "Boxes"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Boxes\n"
+#~ "SVN:\n"
+#~ "盒子"
+
+#, fuzzy
+#~ msgctxt "Name(brasero.desktop)"
+#~ msgid "Brasero"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Brasero\n"
+#~ "SVN:\n"
+#~ "Brasero CD/DVD 烧录程序"
+
+#, fuzzy
+#~ msgctxt "Comment(gnome-activity-journal.desktop)"
+#~ msgid ""
+#~ "Browse a chronological log of your activities and easily find files, "
+#~ "contacts, etc."
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "浏览按时间顺序排列的活动志，轻松找到文件。\n"
+#~ "SVN:\n"
+#~ "浏览按时间顺序排列的活动日志，轻松找到文件，联系人，等等。"
+
+#, fuzzy
+#~ msgctxt "Name(xfburn.desktop)"
+#~ msgid "Burn Image (xfburn)"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "刻录映像(xfburn)\n"
+#~ "SVN:\n"
+#~ "烧录映像(xfburn)"
+
+#, fuzzy
+#~ msgctxt "Name(brasero-nautilus.desktop)"
+#~ msgid "CD/DVD Creator"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "CD/DVD 创建器\n"
+#~ "SVN:\n"
+#~ "CD/DVD 生成器"
+
+#, fuzzy
+#~ msgctxt "Comment(gnumeric.desktop)"
+#~ msgid "Calculation, Analysis, and Visualization of Information"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "信息的计算、统计和可视化\n"
+#~ "SVN:\n"
+#~ "信息的计算、分析和可视化"
+
+#, fuzzy
+#~ msgctxt "Comment(evolution-alarm-notify.desktop)"
+#~ msgid "Calendar event notifications"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "日历事件信息\n"
+#~ "SVN:\n"
+#~ "日历事件通知"
+
+#, fuzzy
+#~ msgctxt "Name(gpk-install-catalog.desktop)"
+#~ msgid "Catalog Installer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "目录安装器\n"
+#~ "SVN:\n"
+#~ "分类安装器"
+
+#, fuzzy
+#~ msgctxt "Comment(gwibber-preferences.desktop)"
+#~ msgid "Change your broadcast preferences"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "改变您的广播首选项\n"
+#~ "SVN:\n"
+#~ "更改您的广播首选项"
+
+#, fuzzy
+#~ msgctxt "Comment(empathy.desktop)"
+#~ msgid "Chat on Google Talk, Facebook, MSN and many other chat services"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "使用 Google Talk、Facebook、MSN 以及许多其它聊天服务\n"
+#~ "SVN:\n"
+#~ "使用 Google Talk、Facebook、MSN 以及许多其它聊天服务聊天"
+
+#, fuzzy
+#~ msgctxt "Comment(pidgin.desktop)"
+#~ msgid ""
+#~ "Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "互联网通讯程序。 支持 AIM、Google Talk、Jabber/XMPP、MSN、Yahoo 和更多\n"
+#~ "SVN:\n"
+#~ "即时聊天程序。 支持 AIM、Google Talk、Jabber/XMPP、MSN、Yahoo 和更多"
+
+#, fuzzy
+#~ msgctxt "Comment(smuxi-frontend-gnome.desktop)"
+#~ msgid "Chat with other people on IRC"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "和 IRC 上的其他人聊天\n"
+#~ "SVN:\n"
+#~ "和 IRC 上的人聊天"
+
+#, fuzzy
+#~ msgctxt "Comment(xchat-gnome.desktop)"
+#~ msgid "Chat with people using IRC"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "使用IRC聊天\n"
+#~ "SVN:\n"
+#~ "和 IRC 上的人聊天"
+
+#, fuzzy
+#~ msgctxt "Comment(parcellite.desktop)"
+#~ msgid "Clipboard Manager"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "剪切板管理器\n"
+#~ "SVN:\n"
+#~ "剪贴板管理器"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-color-panel.desktop)"
+#~ msgid "Color"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "颜色\n"
+#~ "SVN:\n"
+#~ "色彩"
+
+#, fuzzy
+#~ msgctxt "Comment(gcm-calibrate.desktop)"
+#~ msgid "Color Calibration"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "颜色校准\n"
+#~ "SVN:\n"
+#~ "色彩校准"
+
+#, fuzzy
+#~ msgctxt "Name(gcm-viewer.desktop)"
+#~ msgid "Color Profile Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "配置查看器\n"
+#~ "SVN:\n"
+#~ "色彩特性文件检视器"
+
+#, fuzzy
+#~ msgctxt "Comment(gnome-color-panel.desktop)"
+#~ msgid "Color management settings"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "颜色管理设置\n"
+#~ "SVN:\n"
+#~ "色彩管理设置"
+
+#, fuzzy
+#~ msgctxt "Name(ccsm.desktop)"
+#~ msgid "CompizConfig Settings Manager"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "CompizConfig设置管理器\n"
+#~ "SVN:\n"
+#~ "CompizConfig 设置管理器"
+
+#, fuzzy
+#~ msgctxt "Comment(ccsm.desktop)"
+#~ msgid "Configure Compiz with CompizConfig"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "使用CompizConfig对Compiz进行配置\n"
+#~ "SVN:\n"
+#~ "使用 CompizConfig 配置 Compiz"
+
+#, fuzzy
+#~ msgctxt "Comment(simple-ccsm.desktop)"
+#~ msgid "Configure Compiz with CompizConfig"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "使用CompizConfig配置Compiz\n"
+#~ "SVN:\n"
+#~ "使用 CompizConfig 配置 Compiz"
+
+#, fuzzy
+#~ msgctxt "Comment(xfce-ui-settings.desktop)"
+#~ msgid "Customize the look of your desktop"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "设置桌面外观\n"
+#~ "SVN:\n"
+#~ "自定义桌面外观"
+
+#, fuzzy
+#~ msgctxt "GenericName(kst2.desktop)"
+#~ msgid "Data Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "数据查看器\n"
+#~ "SVN:\n"
+#~ "数据检视器"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-dictionary.desktop)"
+#~ msgid "Dictionary"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "字典\n"
+#~ "SVN:\n"
+#~ "词典"
+
+#, fuzzy
+#~ msgctxt "Comment(f-spot-screensaver.desktop)"
+#~ msgid "Display a slideshow from F-Spot"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "由 F-Spot 显示幻灯片\n"
+#~ "SVN:\n"
+#~ "显示来自 F-Spot 的幻灯片"
+
+#, fuzzy
+#~ msgctxt "Name(KBlankscreen.desktop)"
+#~ msgid "Display in Root Window"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "在 Root 窗口中显示\n"
+#~ "SVN:\n"
+#~ "在根窗口中显示"
+
+#, fuzzy
+#~ msgctxt "Name(KRandom.desktop)"
+#~ msgid "Display in Root Window"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "在 Root 窗口中显示\n"
+#~ "SVN:\n"
+#~ "在根窗口中显示"
+
+#, fuzzy
+#~ msgctxt "Name(KRandom.desktop)"
+#~ msgid "Display in Specified Window"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "在指定窗口中显示\n"
+#~ "SVN:\n"
+#~ "在指定的窗口中显示"
+
+#, fuzzy
+#~ msgctxt "GenericName(djvulibre-djview4.desktop)"
+#~ msgid "DjVu Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "DjVu 查看器\n"
+#~ "SVN:\n"
+#~ "DjVu 检视器"
+
+#, fuzzy
+#~ msgctxt "Comment(osdlyrics.desktop)"
+#~ msgid "Download and show lyrics for your favorite media player"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "让你的音乐播放器支持下载和显示歌词\n"
+#~ "SVN:\n"
+#~ "为您最爱的音乐播放器下载和显示歌词"
+
+#, fuzzy
+#~ msgctxt "Comment(liferea.desktop)"
+#~ msgid "Download and view feeds"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "下载并查看 Feed\n"
+#~ "SVN:\n"
+#~ "下载并浏览新闻种子"
+
+#, fuzzy
+#~ msgctxt "Comment(gwget.desktop)"
+#~ msgid "Download files from the Internet"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "从 Internet 下载文件\n"
+#~ "SVN:\n"
+#~ "从互联网下载文件"
+
+#, fuzzy
+#~ msgctxt "Name(dragonplayer.desktop)"
+#~ msgid "Dragon Player"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Dragon Player\n"
+#~ "SVN:\n"
+#~ "巨龙播放器"
+
+#, fuzzy
+#~ msgctxt "Comment(viewnior.desktop)"
+#~ msgid "Elegant Image Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "精致的图像查看器\n"
+#~ "SVN:\n"
+#~ "精致的图像检视器"
+
+#, fuzzy
+#~ msgctxt "Name(empathy.desktop)"
+#~ msgid "Empathy"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Empathy\n"
+#~ "SVN:\n"
+#~ "Empathy 即时通讯程序"
+
+#, fuzzy
+#~ msgctxt "Name(f-spot-import.desktop)"
+#~ msgid "F-Spot"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "F-Spot\n"
+#~ "SVN:\n"
+#~ "F-Spot 图片浏览程序"
+
+#, fuzzy
+#~ msgctxt "Name(f-spot-view.desktop)"
+#~ msgid "F-Spot"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "F-Spot\n"
+#~ "SVN:\n"
+#~ "F-Spot 图片浏览程序"
+
+#, fuzzy
+#~ msgctxt "Name(fcitx.desktop)"
+#~ msgid "Fcitx"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Fcitx\n"
+#~ "SVN:\n"
+#~ "Fcitx 小企鹅输入法"
+
+#, fuzzy
+#~ msgctxt "Name(fcitx-configtool.desktop)"
+#~ msgid "Fcitx Config Tool"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Fcitx配置工具\n"
+#~ "SVN:\n"
+#~ "Fcitx 配置工具"
+
+#, fuzzy
+#~ msgctxt "Comment(fcitx-configtool.desktop)"
+#~ msgid "Fcitx GUI Config Tool"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Fcitx图形化配置工具\n"
+#~ "SVN:\n"
+#~ "Fcitx 图形化配置工具"
+
+#, fuzzy
+#~ msgctxt "Name(fcitx-light.desktop)"
+#~ msgid "Fcitx Light UI"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Fcitx (使用轻量界面)\n"
+#~ "SVN:\n"
+#~ "Fcitx 轻量界面"
+
+#, fuzzy
+#~ msgctxt "GenericName(liferea.desktop)"
+#~ msgid "Feed Reader"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Feed 阅读器\n"
+#~ "SVN:\n"
+#~ "新闻种子阅读器"
+
+#, fuzzy
+#~ msgctxt "Comment(tracker-miner-rss.desktop)"
+#~ msgid "Fetch RSS/ATOM feeds"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "获取 RSS/ATOM Feed\n"
+#~ "SVN:\n"
+#~ "撷取 RSS/ATOM 种子"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-font-viewer.desktop)"
+#~ msgid "Font Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "字体查看器\n"
+#~ "SVN:\n"
+#~ "字体检视器"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-do.desktop)"
+#~ msgid "GNOME Do"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "GNOME Do\n"
+#~ "SVN:\n"
+#~ "GNOME Do 快速启动工具"
+
+#, fuzzy
+#~ msgctxt "Comment(gnome-keyring-gpg.desktop)"
+#~ msgid "GNOME Keyring: GPG Agent"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "GNOME 密钥环：GPG 代理\n"
+#~ "SVN:\n"
+#~ "GNOME 密钥环：GPG 精灵"
+
+#, fuzzy
+#~ msgctxt "Comment(gnome-keyring-ssh.desktop)"
+#~ msgid "GNOME Keyring: SSH Agent"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "GNOME 密钥环：SSH 代理\n"
+#~ "SVN:\n"
+#~ "GNOME 密钥环：SSH 精灵"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-keyring-gpg.desktop)"
+#~ msgid "GPG Password Agent"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "GPG 密码代理\n"
+#~ "SVN:\n"
+#~ "GPG 密码精灵"
+
+#, fuzzy
+#~ msgctxt "Name(gparted.desktop)"
+#~ msgid "GParted"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "GParted\n"
+#~ "SVN:\n"
+#~ "GParted 分区工具"
+
+#, fuzzy
+#~ msgctxt "Name(geany.desktop)"
+#~ msgid "Geany"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Geany\n"
+#~ "SVN:\n"
+#~ "Geany 文本编辑器"
+
+#, fuzzy
+#~ msgctxt "Comment(gitg.desktop)"
+#~ msgid "Git repository browser"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Git 版本库浏览器\n"
+#~ "SVN:\n"
+#~ "Git 仓库浏览器"
+
+#, fuzzy
+#~ msgctxt "Comment(giggle.desktop)"
+#~ msgid "Git repository viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Git 仓库查看器\n"
+#~ "SVN:\n"
+#~ "Git 仓库检视器"
+
+#, fuzzy
+#~ msgctxt "Name(gnumeric.desktop)"
+#~ msgid "Gnumeric"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Gnumeric\n"
+#~ "SVN:\n"
+#~ "Gnumeric 表格"
+
+#, fuzzy
+#~ msgctxt "Name(gourmet.desktop)"
+#~ msgid "Gourmet Recipe Manager"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Gourmet食谱管理软件\n"
+#~ "SVN:\n"
+#~ "Gourmet 食谱管理软件"
+
+#, fuzzy
+#~ msgctxt "Name(gtranslator.desktop)"
+#~ msgid "Gtranslator"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Gtranslator\n"
+#~ "SVN:\n"
+#~ "Gtranslator 翻译程序"
+
+#, fuzzy
+#~ msgctxt "Name(homebank.desktop)"
+#~ msgid "HomeBank"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "HomeBank\n"
+#~ "SVN:\n"
+#~ "HomeBank 家庭财务"
+
+#, fuzzy
+#~ msgctxt "Name(thinkpad.desktop)"
+#~ msgid "IBM Thinkpad Laptop"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "ThinkPad 便携电脑\n"
+#~ "SVN:\n"
+#~ "IBM ThinkPad 便携电脑"
+
+#, fuzzy
+#~ msgctxt "Name(ibus.desktop)"
+#~ msgid "IBus"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "IBus\n"
+#~ "SVN:\n"
+#~ "IBus 输入法框架"
+
+#, fuzzy
+#~ msgctxt "Name(ibus-setup.desktop)"
+#~ msgid "IBus Preferences"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "IBus 设置\n"
+#~ "SVN:\n"
+#~ "IBus 偏好"
+
+#, fuzzy
+#~ msgctxt "Name(gcm-import.desktop)"
+#~ msgid "ICC Profile Installer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "ICC 配置文件安装器\n"
+#~ "SVN:\n"
+#~ "ICC 色彩特性文件安装器"
+
+#, fuzzy
+#~ msgctxt "GenericName(xchat-gnome.desktop)"
+#~ msgid "IRC Chat"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "聊天\n"
+#~ "SVN:\n"
+#~ "IRC 聊天"
+
+#, fuzzy
+#~ msgctxt "GenericName(ksirc.desktop)"
+#~ msgid "IRC Client"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "IRC 客户程序\n"
+#~ "SVN:\n"
+#~ "IRC 客户端"
+
+#, fuzzy
+#~ msgctxt "GenericName(gpicview.desktop)"
+#~ msgid "Image Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "图像查看器\n"
+#~ "SVN:\n"
+#~ "图像浏览器"
+
+#, fuzzy
+#~ msgctxt "GenericName(gwenview.desktop)"
+#~ msgid "Image Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "图像查看器\n"
+#~ "SVN:\n"
+#~ "图像查看程序"
+
+#, fuzzy
+#~ msgctxt "GenericName(kview.desktop)"
+#~ msgid "Image Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "图片查看程序\n"
+#~ "SVN:\n"
+#~ "图像查看程序"
+
+#, fuzzy
+#~ msgctxt "GenericName(ristretto.desktop)"
+#~ msgid "Image Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "图片查看器\n"
+#~ "SVN:\n"
+#~ "图像浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(gpicview.desktop)"
+#~ msgid "Image Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "图像查看器\n"
+#~ "SVN:\n"
+#~ "图像浏览器"
+
+#, fuzzy
+#~ msgctxt "Comment(gcm-import.desktop)"
+#~ msgid "Install ICC profiles"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "安装 ICC 配置文件\n"
+#~ "SVN:\n"
+#~ "安装 ICC 色彩特性文件"
+
+#, fuzzy
+#~ msgctxt "Comment(gpk-install-catalog.desktop)"
+#~ msgid "Install a catalog of software on the system"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "在系统中安装一个软件目录\n"
+#~ "SVN:\n"
+#~ "在系统中安装一个软件分类"
+
+#, fuzzy
+#~ msgctxt "Comment(fcitx-skin-installer.desktop)"
+#~ msgid "Installer Script for Fcitx Skin"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Fcitx 皮肤的安装器\n"
+#~ "SVN:\n"
+#~ "Fcitx 皮肤的安装工具"
+
+#, fuzzy
+#~ msgctxt "Comment(licq.desktop)"
+#~ msgid "Instant Messenger"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "即时消息客户程序\n"
+#~ "SVN:\n"
+#~ "即时通讯"
+
+#, fuzzy
+#~ msgctxt "GenericName(glade-3.desktop)"
+#~ msgid "Interface Designer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "用户界面设计师\n"
+#~ "SVN:\n"
+#~ "界面设计师"
+
+#, fuzzy
+#~ msgctxt "GenericName(glade.desktop)"
+#~ msgid "Interface Designer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "用户界面设计师\n"
+#~ "SVN:\n"
+#~ "界面设计师"
+
+#, fuzzy
+#~ msgctxt "GenericName(Kppp.desktop)"
+#~ msgid "Internet Dial-Up Tool"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Internet 拨号工具\n"
+#~ "SVN:\n"
+#~ "互联网拨号工具"
+
+#, fuzzy
+#~ msgctxt "GenericName(kppplogview.desktop)"
+#~ msgid "Internet Dial-Up Tool Log Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Internet 拨号工具日志查看器\n"
+#~ "SVN:\n"
+#~ "互联网拨号工具日志查看器"
+
+#, fuzzy
+#~ msgctxt "Name(jovieapp.desktop)"
+#~ msgid "Jovie"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Jovie\n"
+#~ "SVN:\n"
+#~ "Jovie 机器辅助发音"
+
+#, fuzzy
+#~ msgctxt "Name(k3b.desktop)"
+#~ msgid "K3b"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "K3b\n"
+#~ "SVN:\n"
+#~ "K3b 影像刻录"
+
+#, fuzzy
+#~ msgctxt "Name(KFloppy.desktop)"
+#~ msgid "KFloppy"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KFloppy\n"
+#~ "SVN:\n"
+#~ "KFloppy 软盘"
+
+#, fuzzy
+#~ msgctxt "Name(kfontview.desktop)"
+#~ msgid "KFontView"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KFontView\n"
+#~ "SVN:\n"
+#~ "KFontView 字体查看"
+
+#, fuzzy
+#~ msgctxt "Name(kgeography.desktop)"
+#~ msgid "KGeography"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KGeography\n"
+#~ "SVN:\n"
+#~ "KGeography 地理"
+
+#, fuzzy
+#~ msgctxt "Name(kget.desktop)"
+#~ msgid "KGet"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KGet\n"
+#~ "SVN:\n"
+#~ "KGet 下载"
+
+#, fuzzy
+#~ msgctxt "Name(kgpg.desktop)"
+#~ msgid "KGpg"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KGpg\n"
+#~ "SVN:\n"
+#~ "KGpg 金钥管理"
+
+#, fuzzy
+#~ msgctxt "Name(KMail2.desktop)"
+#~ msgid "KMail"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KMail\n"
+#~ "SVN:\n"
+#~ "KMail 邮件"
+
+#, fuzzy
+#~ msgctxt "Name(kmines.desktop)"
+#~ msgid "KMines"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KMines\n"
+#~ "SVN:\n"
+#~ "K 扫雷"
+
+#, fuzzy
+#~ msgctxt "Name(kmix.desktop)"
+#~ msgid "KMix"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KMix\n"
+#~ "SVN:\n"
+#~ "KMix 音量工具"
+
+#, fuzzy
+#~ msgctxt "Name(kreversi.desktop)"
+#~ msgid "KReversi"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KReversi\n"
+#~ "SVN:\n"
+#~ "KReversi 黑白棋"
+
+#, fuzzy
+#~ msgctxt "Name(kruler.desktop)"
+#~ msgid "KRuler"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KRuler\n"
+#~ "SVN:\n"
+#~ "KRuler 屏幕标尺"
+
+#, fuzzy
+#~ msgctxt "Name(ksnapshot.desktop)"
+#~ msgid "KSnapshot"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KSnapshot\n"
+#~ "SVN:\n"
+#~ "KSnapshot 屏幕截图工具"
+
+#, fuzzy
+#~ msgctxt "Name(KThesaurus.desktop)"
+#~ msgid "KThesaurus"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KThesaurus\n"
+#~ "SVN:\n"
+#~ "KThesaurus 词典"
+
+#, fuzzy
+#~ msgctxt "Name(ktimetracker.desktop)"
+#~ msgid "KTimeTracker"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KTimeTracker\n"
+#~ "SVN:\n"
+#~ "KTimeTracker 时间跟踪器"
+
+#, fuzzy
+#~ msgctxt "Name(ktimer.desktop)"
+#~ msgid "KTimer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KTimer\n"
+#~ "SVN:\n"
+#~ "KTimer 定时器"
+
+#, fuzzy
+#~ msgctxt "Name(ktorrent.desktop)"
+#~ msgid "KTorrent"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KTorrent\n"
+#~ "SVN:\n"
+#~ "KTorrent BT 下载工具"
+
+#, fuzzy
+#~ msgctxt "Name(kwrite.desktop)"
+#~ msgid "KWrite"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KWrite\n"
+#~ "SVN:\n"
+#~ "KWrite 文本编辑器"
+
+#, fuzzy
+#~ msgctxt "Name(kaffeine.desktop)"
+#~ msgid "Kaffeine"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Kaffeine\n"
+#~ "SVN:\n"
+#~ "Kaffeine 视频播放器"
+
+#, fuzzy
+#~ msgctxt "Name(kate.desktop)"
+#~ msgid "Kate"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Kate\n"
+#~ "SVN:\n"
+#~ "Kate 高级文本编辑器"
+
+#, fuzzy
+#~ msgctxt "Name(kdenlive.desktop)"
+#~ msgid "Kdenlive"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Kdenlive\n"
+#~ "SVN:\n"
+#~ "Kdenlive 视频工作环境"
+
+#, fuzzy
+#~ msgctxt "Name(kleopatra.desktop)"
+#~ msgid "Kleopatra"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Kleopatra\n"
+#~ "SVN:\n"
+#~ "Kleopatra 金钥管理器"
+
+#, fuzzy
+#~ msgctxt "Name(kleopatra_import.desktop)"
+#~ msgid "Kleopatra"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Kleopatra\n"
+#~ "SVN:\n"
+#~ "Kleopatra 金钥管理器"
+
+#, fuzzy
+#~ msgctxt "Name(klipper.desktop)"
+#~ msgid "Klipper"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Klipper\n"
+#~ "SVN:\n"
+#~ "Klipper 剪贴板管理器"
+
+#, fuzzy
+#~ msgctxt "Name(kolourpaint.desktop)"
+#~ msgid "KolourPaint"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KolourPaint\n"
+#~ "SVN:\n"
+#~ "KolourPaint 画图"
+
+#, fuzzy
+#~ msgctxt "Name(kompare.desktop)"
+#~ msgid "Kompare"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Kompare\n"
+#~ "SVN:\n"
+#~ "Kompare 补丁对比"
+
+#, fuzzy
+#~ msgctxt "Name(kfmclient.desktop)"
+#~ msgid "Konqueror"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Konqueror\n"
+#~ "SVN:\n"
+#~ "Konqueror 网页浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(kfmclient_dir.desktop)"
+#~ msgid "Konqueror"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Konqueror\n"
+#~ "SVN:\n"
+#~ "Konqueror 网页浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(kfmclient_html.desktop)"
+#~ msgid "Konqueror"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Konqueror\n"
+#~ "SVN:\n"
+#~ "Konqueror 网页浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(kfmclient_war.desktop)"
+#~ msgid "Konqueror"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Konqueror\n"
+#~ "SVN:\n"
+#~ "Konqueror 网页浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(konqbrowser.desktop)"
+#~ msgid "Konqueror"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Konqueror\n"
+#~ "SVN:\n"
+#~ "Konqueror 网页浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(konqfilemgr.desktop)"
+#~ msgid "Konqueror"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "文件管理器\n"
+#~ "SVN:\n"
+#~ "Konqueror 网页浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(konsole.desktop)"
+#~ msgid "Konsole"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Konsole\n"
+#~ "SVN:\n"
+#~ "Konsole 终端"
+
+#, fuzzy
+#~ msgctxt "Name(Kontact.desktop)"
+#~ msgid "Kontact"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Kontact\n"
+#~ "SVN:\n"
+#~ "Kontact 个人信息管理"
+
+#, fuzzy
+#~ msgctxt "Name(konversation.desktop)"
+#~ msgid "Konversation"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Konversation\n"
+#~ "SVN:\n"
+#~ "Konversation IRC 客户端"
+
+#, fuzzy
+#~ msgctxt "Name(kopete.desktop)"
+#~ msgid "Kopete"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Kopete\n"
+#~ "SVN:\n"
+#~ "Kopete 即时消息"
+
+#, fuzzy
+#~ msgctxt "Name(krita.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_bmp.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_exr.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_jp2.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_jpeg.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_odg.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_ora.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_pdf.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_png.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_ppm.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_psd.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_raw.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_tiff.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(krita_xcf.desktop)"
+#~ msgid "Krita"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Krita\n"
+#~ "SVN:\n"
+#~ "Krita 绘图"
+
+#, fuzzy
+#~ msgctxt "Name(kscd.desktop)"
+#~ msgid "KsCD"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "KsCD\n"
+#~ "SVN:\n"
+#~ "KsCD CD 播放器和提取器"
+
+#, fuzzy
+#~ msgctxt "Name(lament.desktop)"
+#~ msgid "Lament (GL)"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "悲伤(GL)\n"
+#~ "SVN:\n"
+#~ "Lemarchand 的箱子 (GL)"
+
+#, fuzzy
+#~ msgctxt "Comment(gnome-panel.desktop)"
+#~ msgid ""
+#~ "Launch other applications and provide various utilities to manage "
+#~ "windows, show the time, etc."
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "调用其它应用程序并提供可用来完成管理管理窗口、显示时间等功能的工具。\n"
+#~ "SVN:\n"
+#~ "启动其他程序并提供多种工具如管理窗口，显示时间等等。"
+
+#, fuzzy
+#~ msgctxt "Name(lonote.desktop)"
+#~ msgid "LoNote Personal Notebook"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "LoNote个人笔记\n"
+#~ "SVN:\n"
+#~ "LoNote 个人笔记"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-system-log.desktop)"
+#~ msgid "Log File Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "系统日志查看器\n"
+#~ "SVN:\n"
+#~ "系统日志检视器"
+
+#, fuzzy
+#~ msgctxt "Name(lokalize.desktop)"
+#~ msgid "Lokalize"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Lokalize\n"
+#~ "SVN:\n"
+#~ "Lokalize 翻译工具"
+
+#, fuzzy
+#~ msgctxt "Comment(ristretto.desktop)"
+#~ msgid "Look at your images easily"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "轻松地看您的图片\n"
+#~ "SVN:\n"
+#~ "轻松地查看您的图片"
+
+#, fuzzy
+#~ msgctxt "GenericName(mkvmergeGUI.desktop)"
+#~ msgid "MKV files creator"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "MKV 文件创建器\n"
+#~ "SVN:\n"
+#~ "MKV 文件生成器"
+
+#, fuzzy
+#~ msgctxt "GenericName(xfmpc.desktop)"
+#~ msgid "MPD client"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "MPD客户端\n"
+#~ "SVN:\n"
+#~ "MPD 客户端"
+
+#, fuzzy
+#~ msgctxt "Comment(xfmpc.desktop)"
+#~ msgid "MPD client written in GTK+ for Xfce"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "使用GTK+编写的用于Xfce的MPD客户端\n"
+#~ "SVN:\n"
+#~ "使用 GTK+ 编写的用于 Xfce 的 MPD 客户端"
+
+#, fuzzy
+#~ msgctxt "Comment(empathy-accounts.desktop)"
+#~ msgid "Manage Messaging and VoIP accounts"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "管理消息和 VoIP 帐号\n"
+#~ "SVN:\n"
+#~ "管理即时消息和 VoIP 帐号"
+
+#, fuzzy
+#~ msgctxt "Comment(gtkpod.desktop)"
+#~ msgid "Manage music and video on an Apple iPod"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "管理Apple iPod的音乐和视频\n"
+#~ "SVN:\n"
+#~ "管理 Apple iPod 的音乐和视频"
+
+#, fuzzy
+#~ msgctxt "GenericName(emerillon.desktop)"
+#~ msgid "Map Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "地图查看器\n"
+#~ "SVN:\n"
+#~ "地图检视器"
+
+#, fuzzy
+#~ msgctxt "Name(marble.desktop)"
+#~ msgid "Marble"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Marble\n"
+#~ "SVN:\n"
+#~ "Marble 地图"
+
+#, fuzzy
+#~ msgctxt "Name(empathy-accounts.desktop)"
+#~ msgid "Messaging and VoIP Accounts"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "消息和 VoIP 帐号\n"
+#~ "SVN:\n"
+#~ "即时消息和 VoIP 帐号"
+
+#, fuzzy
+#~ msgctxt "Name(metacity.desktop)"
+#~ msgid "Metacity"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Metacity\n"
+#~ "SVN:\n"
+#~ "Metacity 窗口管理器"
+
+#, fuzzy
+#~ msgctxt "Comment(tracker-store.desktop)"
+#~ msgid "Metadata database store and lookup manager"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "元数据库存储和查看管理器\n"
+#~ "SVN:\n"
+#~ "元数据库存储和查找管理器"
+
+#, fuzzy
+#~ msgctxt "Name(notification-daemon.desktop)"
+#~ msgid "Notification Daemon"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "通知守护进程\n"
+#~ "SVN:\n"
+#~ "通知守护精灵"
+
+#, fuzzy
+#~ msgctxt "GenericName(startcenter.desktop)"
+#~ msgid "Office "
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "办公室\n"
+#~ "SVN:\n"
+#~ "办公"
+
+#, fuzzy
+#~ msgctxt "Name(okularApplication_mobi.desktop)"
+#~ msgid "Okular"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Okular\n"
+#~ "SVN:\n"
+#~ "Okular 图片查看"
+
+#, fuzzy
+#~ msgctxt "Comment(qmmp_cue.desktop)"
+#~ msgid "Open cue file(s) in the directory"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "在本目录打开 CUE 文件\n"
+#~ "SVN:\n"
+#~ "打开目录中的 CUE 文件"
+
+#, fuzzy
+#~ msgctxt "Comment(libreoffice-oasis-spreadsheet-template.desktop)"
+#~ msgid "OpenDocument Spreadsheet Template"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Open Office 电子表格模板\n"
+#~ "SVN:\n"
+#~ "OpenDocument 电子表格模板"
+
+#, fuzzy
+#~ msgctxt "Comment(shotwell.desktop)"
+#~ msgid "Organize your photos"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Organize your photos\n"
+#~ "SVN:\n"
+#~ "管理您的相片"
+
+#, fuzzy
+#~ msgctxt "Comment(pcmanx.desktop)"
+#~ msgid "PCManX BBS Client"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "PCManX BBS 用 GTK+ 2.x 开发的自由 BBS 连接软件\n"
+#~ "SVN:\n"
+#~ "PCManX BBS 用 GTK+ 2.x 开发的自由 BBS 连线软件"
+
+#, fuzzy
+#~ msgctxt "GenericName(pdfmod.desktop)"
+#~ msgid "PDF Modifier"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "PDF 修改者\n"
+#~ "SVN:\n"
+#~ "PDF 修改器"
+
+#, fuzzy
+#~ msgctxt "GenericName(kapman.desktop)"
+#~ msgid "Pac-Man Clone"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Pac-Man 克隆\n"
+#~ "SVN:\n"
+#~ "吃豆人克隆"
+
+#, fuzzy
+#~ msgctxt "GenericName(panoramagui.desktop)"
+#~ msgid "Panorama"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Panorama\n"
+#~ "SVN:\n"
+#~ "Panorama 全景"
+
+#, fuzzy
+#~ msgctxt "Name(panoramagui.desktop)"
+#~ msgid "Panorama"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Panorama\n"
+#~ "SVN:\n"
+#~ "Panorama 全景"
+
+#, fuzzy
+#~ msgctxt "Name(parcellite-startup.desktop)"
+#~ msgid "Parcellite"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Parcellite\n"
+#~ "SVN:\n"
+#~ "Parcellite 剪切板管理器"
+
+#, fuzzy
+#~ msgctxt "Name(parcellite.desktop)"
+#~ msgid "Parcellite"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Parcellite\n"
+#~ "SVN:\n"
+#~ "Parcellite 剪贴板管理器"
+
+#, fuzzy
+#~ msgctxt "Name(parley.desktop)"
+#~ msgid "Parley"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Parley\n"
+#~ "SVN:\n"
+#~ "Parley 语言学习工具"
+
+#, fuzzy
+#~ msgctxt "Name(penetrate.desktop)"
+#~ msgid "Penetrate"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "导弹防御\n"
+#~ "SVN:\n"
+#~ "贯穿"
+
+#, fuzzy
+#~ msgctxt "Name(KControl.desktop)"
+#~ msgid "Personal Settings"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "控制中心\n"
+#~ "SVN:\n"
+#~ "个人设定"
+
+#, fuzzy
+#~ msgctxt "GenericName(shotwell.desktop)"
+#~ msgid "Photo Manager"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Photo Manager\n"
+#~ "SVN:\n"
+#~ "照片管理器"
+
+#, fuzzy
+#~ msgctxt "GenericName(f-spot-view.desktop)"
+#~ msgid "Photo Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "照片查看器\n"
+#~ "SVN:\n"
+#~ "照片检视器"
+
+#, fuzzy
+#~ msgctxt "GenericName(shotwell-viewer.desktop)"
+#~ msgid "Photo Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Photo Viewer\n"
+#~ "SVN:\n"
+#~ "照片检视器"
+
+#, fuzzy
+#~ msgctxt "Name(plan.desktop)"
+#~ msgid "Plan"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Plan\n"
+#~ "SVN:\n"
+#~ "计划"
+
+#, fuzzy
+#~ msgctxt "Name(planwork.desktop)"
+#~ msgid "Plan WorkPackage Handler"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Plan 工作包处理程序\n"
+#~ "SVN:\n"
+#~ "计划工作包处理程序"
+
+#, fuzzy
+#~ msgctxt "Comment(lxmusic.desktop)"
+#~ msgid "Play your music files easily"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "轻松播放您的音乐文件\n"
+#~ "SVN:\n"
+#~ "轻松地播放您的音乐文件"
+
+#, fuzzy
+#~ msgctxt "Comment(polkit-gnome-authentication-agent-1.desktop)"
+#~ msgid "PolicyKit Authentication Agent"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "PolicyKit 认证代理\n"
+#~ "SVN:\n"
+#~ "PolicyKit 认证精灵"
+
+#, fuzzy
+#~ msgctxt "Name(polkit-gnome-authentication-agent-1.desktop)"
+#~ msgid "PolicyKit Authentication Agent"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "PolicyKit 认证代理\n"
+#~ "SVN:\n"
+#~ "PolicyKit 认证精灵"
+
+#, fuzzy
+#~ msgctxt "Comment(lxpolkit.desktop)"
+#~ msgid "Policykit Authentication Agent"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Policykit 认证代理\n"
+#~ "SVN:\n"
+#~ "Policykit 认证精灵"
+
+#, fuzzy
+#~ msgctxt "Comment(gnome-blog.desktop)"
+#~ msgid "Post an entry to a web log"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "记录一个条目到 web blog\n"
+#~ "SVN:\n"
+#~ "发布一篇博文到网络博客"
+
+#, fuzzy
+#~ msgctxt "Comment(hamster-applet.desktop)"
+#~ msgid "Project Hamster - track your time"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Hamster 项目 - 跟踪您的时间\n"
+#~ "SVN:\n"
+#~ "Hamster 项目 - 记录您的时间"
+
+#, fuzzy
+#~ msgctxt "Comment(hamster-time-tracker.desktop)"
+#~ msgid "Project Hamster - track your time"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Hamster 项目 - 跟踪您的时间\n"
+#~ "SVN:\n"
+#~ "Hamster 项目 - 记录您的时间"
+
+#, fuzzy
+#~ msgctxt "Name(paprefs.desktop)"
+#~ msgid "PulseAudio Preferences"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "PulseAudio 属性\n"
+#~ "SVN:\n"
+#~ "PulseAudio 设置"
+
+#, fuzzy
+#~ msgctxt "Comment(qmmp.desktop)"
+#~ msgid "Qt4-based Multimedia Player"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "基于Qt4的多媒体播放器\n"
+#~ "SVN:\n"
+#~ "基于 Qt4 的多媒体播放器"
+
+#, fuzzy
+#~ msgctxt "Name(rhythmbox-device.desktop)"
+#~ msgid "Rhythmbox"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Rhythmbox\n"
+#~ "SVN:\n"
+#~ "Rhythmbox 音乐播放器"
+
+#, fuzzy
+#~ msgctxt "Name(rhythmbox.desktop)"
+#~ msgid "Rhythmbox"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Rhythmbox\n"
+#~ "SVN:\n"
+#~ "Rhythmbox 音乐播放器"
+
+#, fuzzy
+#~ msgctxt "Name(ristretto.desktop)"
+#~ msgid "Ristretto Image Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Ristretto 图片查看器\n"
+#~ "SVN:\n"
+#~ "Ristretto 图片检视器"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-keyring-ssh.desktop)"
+#~ msgid "SSH Key Agent"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "SSH 密钥代理\n"
+#~ "SVN:\n"
+#~ "SSH 密钥精灵"
+
+#, fuzzy
+#~ msgctxt "Name(gnome-screenshot.desktop)"
+#~ msgid "Screenshot"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Screenshot\n"
+#~ "SVN:\n"
+#~ "屏幕截图"
+
+#, fuzzy
+#~ msgctxt "Name(xfce4-screenshooter.desktop)"
+#~ msgid "Screenshot"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "截图\n"
+#~ "SVN:\n"
+#~ "屏幕截图"
+
+#, fuzzy
+#~ msgctxt "GenericName(xfce4-sensors.desktop)"
+#~ msgid "Sensor Values Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "传感器值查看器\n"
+#~ "SVN:\n"
+#~ "传感器值检视器"
+
+#, fuzzy
+#~ msgctxt "Name(xfce4-sensors.desktop)"
+#~ msgid "Sensor Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "传感器查看器\n"
+#~ "SVN:\n"
+#~ "传感器检视器"
+
+#, fuzzy
+#~ msgctxt "Comment(ibus-setup.desktop)"
+#~ msgid "Set IBus Preferences"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "修改IBus偏好\n"
+#~ "SVN:\n"
+#~ "修改 IBus 偏好"
+
+#, fuzzy
+#~ msgctxt "Comment(bluetooth-wizard.desktop)"
+#~ msgid "Setup Bluetooth devices"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "蓝牙设备\n"
+#~ "SVN:\n"
+#~ "设置蓝牙设备"
+
+#, fuzzy
+#~ msgctxt "Name(sierpinski.desktop)"
+#~ msgid "Sierpinski"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Sierpinski 三角形\n"
+#~ "SVN:\n"
+#~ "谢尔宾斯基三角形"
+
+#, fuzzy
+#~ msgctxt "Name(sierpinski3d.desktop)"
+#~ msgid "Sierpinski3D"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Sierpinski 立体三角锥\n"
+#~ "SVN:\n"
+#~ "谢尔宾斯基立体三角锥"
+
+#, fuzzy
+#~ msgctxt "GenericName(gnome-boxes.desktop)"
+#~ msgid "Simple virtual machine viewer/manager"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "简单的虚拟机查看器/管理器\n"
+#~ "SVN:\n"
+#~ "简单的虚拟机检视器/管理器"
+
+#, fuzzy
+#~ msgctxt "Name(skanlite.desktop)"
+#~ msgid "Skanlite"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Skanlite\n"
+#~ "SVN:\n"
+#~ "Skanlite 图像扫描程序"
+
+#, fuzzy
+#~ msgctxt "Comment(gnotski.desktop)"
+#~ msgid "Slide blocks to solve the puzzle"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "滑动方块以解开布局\n"
+#~ "SVN:\n"
+#~ "滑动方块以解开谜局"
+
+#, fuzzy
+#~ msgctxt "Name(slidescreen.desktop)"
+#~ msgid "SlideScreen"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "滑动屏幕拼图\n"
+#~ "SVN:\n"
+#~ "滑动屏幕"
+
+#, fuzzy
+#~ msgctxt "Name(slip.desktop)"
+#~ msgid "Slip"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "滑动屏幕\n"
+#~ "SVN:\n"
+#~ "走光"
+
+#, fuzzy
+#~ msgctxt "Name(smb4k.desktop)"
+#~ msgid "Smb4K"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Smb4K\n"
+#~ "SVN:\n"
+#~ "KDE SMB 前端"
+
+#, fuzzy
+#~ msgctxt "Name(gpk-log.desktop)"
+#~ msgid "Software Log Viewer"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "软件日志查看器\n"
+#~ "SVN:\n"
+#~ "软件日志检视器"
+
+#, fuzzy
+#~ msgctxt "Name(step.desktop)"
+#~ msgid "Step"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Step\n"
+#~ "SVN:\n"
+#~ "步骤"
+
+#, fuzzy
+#~ msgctxt "Name(strange.desktop)"
+#~ msgid "Strange"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "奇异吸引子\n"
+#~ "SVN:\n"
+#~ "奇异吸引"
+
+#, fuzzy
+#~ msgctxt "Name(synapse.desktop)"
+#~ msgid "Synapse"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Synapse\n"
+#~ "SVN:\n"
+#~ "Synapse 快速启动助手"
+
+#, fuzzy
+#~ msgctxt "Comment(tomboy.desktop)"
+#~ msgid "Take notes, link ideas, and stay organized"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "记录便笺，链接想法，良好的组织\n"
+#~ "SVN:\n"
+#~ "记录便笺，汇集想法，保持井然有序"
+
+#, fuzzy
+#~ msgctxt "Comment(xfce4-screenshooter.desktop)"
+#~ msgid ""
+#~ "Take screenshots of the entire screen, of the active window or of a region"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "获取全屏幕、活动窗口或某一区域的截图\n"
+#~ "SVN:\n"
+#~ "截取全屏幕、活动窗口或某一区域的截图"
+
+#, fuzzy
+#~ msgctxt "Name(tasque.desktop)"
+#~ msgid "Tasque"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Tasque\n"
+#~ "SVN:\n"
+#~ "Tasque 任务管理器"
+
+#, fuzzy
+#~ msgctxt "Name(Terminal.desktop)"
+#~ msgid "Terminal"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Xfce 终端\n"
+#~ "SVN:\n"
+#~ "终端"
+
+#, fuzzy
+#~ msgctxt "GenericName(kjumpingcube.desktop)"
+#~ msgid "Territory Capture Game"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "版块占领游戏\n"
+#~ "SVN:\n"
+#~ "领土占领游戏"
+
+#, fuzzy
+#~ msgctxt "Comment(startcenter.desktop)"
+#~ msgid ""
+#~ "The office productivity suite compatible to the open and standardized ODF "
+#~ "document format. Supported by The Document Foundation."
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "本办公生产套件与开放的 ODF 文档格式标准兼容。由 The Document Foundation 提"
+#~ "供支持。\n"
+#~ "SVN:\n"
+#~ "本办公生产套装与开放的 ODF 文档格式标准兼容。由 The Document Foundation 提"
+#~ "供支持。"
+
+#, fuzzy
+#~ msgctxt "Name(tomboy.desktop)"
+#~ msgid "Tomboy Notes"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "阿帖便笺\n"
+#~ "SVN:\n"
+#~ "Tomboy 便笺"
+
+#, fuzzy
+#~ msgctxt "GenericName(ktouch.desktop)"
+#~ msgid "Touch Typing Tutor"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "打字教程\n"
+#~ "SVN:\n"
+#~ "触摸输入教程"
+
+#, fuzzy
+#~ msgctxt "Name(tracker-miner-rss.desktop)"
+#~ msgid "Tracker RSS/ATOM Feeds Miner"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Tracker RSS/ATOM Feed 挖掘器\n"
+#~ "SVN:\n"
+#~ "Tracker RSS/ATOM 种子挖掘器"
+
+#, fuzzy
+#~ msgctxt "Name(transmission-gtk.desktop)"
+#~ msgid "Transmission"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Transmission\n"
+#~ "SVN:\n"
+#~ "Transmission BT 下载工具"
+
+#, fuzzy
+#~ msgctxt "Comment(frogr.desktop)"
+#~ msgid "Upload and organize photos in Flickr accounts"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "上传和整理 Flickr 账户中的相片\n"
+#~ "SVN:\n"
+#~ "上传和组织 Flickr 账户中的相片"
+
+#, fuzzy
+#~ msgctxt "Comment(gthumb.desktop)"
+#~ msgid "View and organize your images"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "查看及管理图像\n"
+#~ "SVN:\n"
+#~ "查看及组织图像"
+
+#, fuzzy
+#~ msgctxt "Name(virt-manager.desktop)"
+#~ msgid "Virtual Machine Manager"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "虚拟系统管理器\n"
+#~ "SVN:\n"
+#~ "虚拟机管理器"
+
+#, fuzzy
+#~ msgctxt "Name(wammu.desktop)"
+#~ msgid "Wammu"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Wammu\n"
+#~ "SVN:\n"
+#~ "Wammu 诺基亚手机管理器"
+
+#, fuzzy
+#~ msgctxt "GenericName(epiphany.desktop)"
+#~ msgid "Web Browser"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Web 浏览器\n"
+#~ "SVN:\n"
+#~ "因特网浏览器"
+
+#, fuzzy
+#~ msgctxt "GenericName(midori.desktop)"
+#~ msgid "Web Browser"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "网络浏览器\n"
+#~ "SVN:\n"
+#~ "因特网浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(exo-web-browser.desktop)"
+#~ msgid "Web Browser"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "网络浏览器\n"
+#~ "SVN:\n"
+#~ "因特网浏览器"
+
+#, fuzzy
+#~ msgctxt "GenericName(writer.desktop)"
+#~ msgid "Word Processor"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "字处理器\n"
+#~ "SVN:\n"
+#~ "文字处理器"
+
+#, fuzzy
+#~ msgctxt "GenericName(ksirk.desktop)"
+#~ msgid "World Domination Strategy Game"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "世界支配战略游戏\n"
+#~ "SVN:\n"
+#~ "统治世界战略游戏"
+
+#, fuzzy
+#~ msgctxt "Comment(stage.desktop)"
+#~ msgid "Write presentation documents"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "编写演示文稿\n"
+#~ "SVN:\n"
+#~ "编写演示文稿文档"
+
+#, fuzzy
+#~ msgctxt "Name(yakuake.desktop)"
+#~ msgid "Yakuake"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Yakuake\n"
+#~ "SVN:\n"
+#~ "Yakuake 终端"
+
+#, fuzzy
+#~ msgctxt "Name(digikam.desktop)"
+#~ msgid "digiKam"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "digiKam\n"
+#~ "SVN:\n"
+#~ "digiKam 照片管理"
+
+#, fuzzy
+#~ msgctxt "Name(glabels-3.0.desktop)"
+#~ msgid "gLabels Label Designer 3"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "gLabels标签设计工具 3\n"
+#~ "SVN:\n"
+#~ "gLabels 标签设计工具 3"
+
+#, fuzzy
+#~ msgctxt "Name(gthumb.desktop)"
+#~ msgid "gThumb"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "gThumb\n"
+#~ "SVN:\n"
+#~ "gThumb 图片检视器"
+
+#, fuzzy
+#~ msgctxt "GenericName(gtkpod.desktop)"
+#~ msgid "iPod Manager"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "iPod管理器\n"
+#~ "SVN:\n"
+#~ "iPod 管理器"
+
+#, fuzzy
+#~ msgctxt "Comment(joystick.desktop)"
+#~ msgid "joystick - a kcontrol module to test joysticks"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "joystick - 测试游戏杆的 kcontrol 模块\n"
+#~ "SVN:\n"
+#~ "joystick - 测试游戏手柄的 kcontrol 模块"
+
+#, fuzzy
+#~ msgctxt "Name(okularApplication_odp.desktop)"
+#~ msgid "okular"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "Okular\n"
+#~ "SVN:\n"
+#~ "Okular 图片查看"
+
+#, fuzzy
+#~ msgctxt "Name(rekonq.desktop)"
+#~ msgid "rekonq"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "rekonq\n"
+#~ "SVN:\n"
+#~ "rekonq 网页浏览器"
+
+#, fuzzy
+#~ msgctxt "Name(showfoto.desktop)"
+#~ msgid "showFoto"
+#~ msgstr ""
+#~ "Packages:\n"
+#~ "showFoto\n"
+#~ "SVN:\n"
+#~ "showFoto 照片查看"

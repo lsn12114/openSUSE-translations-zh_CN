@@ -1,0 +1,874 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: restore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:48+0200\n"
+"PO-Revision-Date: 2012-07-19 07:18+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. error message
+#: src/Restore.ycp:906 src/ui.ycp:461
+msgid "Cannot mount file system."
+msgstr "无法挂载文件系统。"
+
+#. error message
+#: src/Restore.ycp:934
+msgid ""
+"Cannot read archive file.\n"
+"It is not a tar archive or it is broken.\n"
+msgstr ""
+"无法读取存档文件。\n"
+"它不是 tar 存档文件或已损坏。\n"
+
+#. error message: copy failed
+#: src/Restore.ycp:961
+msgid ""
+"Cannot copy archive file\n"
+"to temporary directory.\n"
+msgstr ""
+"无法将存档文件复制\n"
+"到临时目录。\n"
+
+#. error message
+#: src/Restore.ycp:982
+msgid ""
+"The archive does not contain the required files.\n"
+"It was probably not created by the backup module.\n"
+msgstr ""
+"存档不包含所需的文件。\n"
+"它可能不是由备份模块创建的。\n"
+
+#. decription of files not owned by any package
+#: src/Restore.ycp:1064
+msgid "Files not owned by any package"
+msgstr "不属于任何包的文件"
+
+#. error popup message
+#: src/Restore.ycp:1286
+msgid "Boot loader configuration failed."
+msgstr "引导加载器配置失败。"
+
+#. error message, %1 is directory
+#: src/Restore.ycp:1318
+#, ycp-format
+msgid "Invalid target directory (%1)."
+msgstr "目标目录 (%1) 无效。"
+
+#. progress bar label
+#: src/Restore.ycp:1444
+msgid "Restoring files not owned by any package..."
+msgstr "正在恢复不属于任何包的文件..."
+
+#. progress bar label - %1 is package name
+#: src/Restore.ycp:1446
+#, ycp-format
+msgid "Restoring package %1..."
+msgstr "正在恢复包 %1..."
+
+#. popup message text - ask to install 'star' package
+#. %1 is translated 'Continue' label
+#: src/Restore.ycp:1614
+#, ycp-format
+msgid ""
+"Package star is needed to extract\n"
+"files from the archive.\n"
+"Press %1 to install this package.\n"
+msgstr ""
+"需要包 star 来\n"
+"从存档中抽取文件。\n"
+"按 %1安装此包。\n"
+
+#. error popup message
+#: src/Restore.ycp:1647
+msgid ""
+"Package star is not installed.\n"
+"Press OK to exit.\n"
+msgstr ""
+"未安装包 star。\n"
+"按\"确定\"退出。\n"
+
+#. progess bar label
+#: src/Restore.ycp:1776
+msgid "Configuring boot loader..."
+msgstr "正在配置引导加载器..."
+
+#: src/Restore.ycp:1909 src/ui.ycp:687
+msgid "Yes"
+msgstr "是"
+
+#: src/Restore.ycp:1913 src/ui.ycp:687
+msgid "No"
+msgstr "否"
+
+#. Summary text header
+#. frame label
+#: src/Restore.ycp:1933 src/ui.ycp:335
+msgid "Backup Archive"
+msgstr "备份存档"
+
+#. Summary text header
+#. dialog header
+#: src/Restore.ycp:1943 src/ui.ycp:851
+msgid "Restore Options"
+msgstr "恢复选项"
+
+#: src/Restore.ycp:1945
+msgid "Activate &boot loader configuration after restoration"
+msgstr "恢复后激活引导加载器配置(&B)"
+
+#: src/Restore.ycp:1946
+msgid "Run &SuSEconfig after restoration"
+msgstr "恢复后运行 SuSEconfig(&S)"
+
+#: src/Restore.ycp:1947
+msgid "Restore RPM &database (if present in archive)"
+msgstr "恢复 RPM 数据库(如果存在于存档中)(&D)"
+
+#. summary text heading
+#. dialog header
+#: src/Restore.ycp:1950 src/ui.ycp:1454
+msgid "Packages to Restore"
+msgstr "要恢复的包"
+
+#. part of the summary text
+#: src/Restore.ycp:1955
+msgid "<I>Restore all files from the archive</I>"
+msgstr "<I>恢复存档中的所有文件</I>"
+
+#. package name for files not owned by any package
+#. name for "no package" - files not owned by any package
+#. package name "none" - files not owned by any package
+#: src/Restore.ycp:1962 src/ui.ycp:767 src/ui.ycp:1337 src/ui.ycp:1508
+msgid "--No package--"
+msgstr "-- 无包 --"
+
+#. For translators: archive selection dialog help (part 1)
+#: src/helps.ycp:32
+msgid "<P><B><BIG>Restore Module</BIG></B><BR>The restore module can restore your system from a backup archive.</P>"
+msgstr "<P><B><BIG>恢复模块</BIG></B><BR>恢复模块可以从备份存档恢复系统。</P>"
+
+#. For translators: archive selection dialog help, (part 2)
+#: src/helps.ycp:35
+msgid "<P>Archive can be read from:</P>"
+msgstr "<P>可以从以下位置处读取存档：</P>"
+
+#. For translators: archive selection dialog help, (part 3)
+#: src/helps.ycp:38
+msgid "<P><B>Local File</B>: The archive is already available in the system. It is on a mounted file system.</P>"
+msgstr "<P><B>本地文件</B>：存档已在系统中可用。它位于挂载的文件系统上。</P>"
+
+#. For translators: archive selection dialog help, (part 4)
+#: src/helps.ycp:41
+msgid "<P><B>Network</B>: The backup archive can be read from network using NFS.</P>"
+msgstr "<P><B>网络</B>：可以使用 NFS 从网络读取备份存档。</P>"
+
+#. For translators: archive selection dialog help, (part 5)
+#: src/helps.ycp:44
+msgid ""
+"<P><B>Removable Device</B>: The archive is on a removable device or\n"
+"on an unmounted file system. The device can be selected from a list or you can enter the device filename\n"
+"(for example, /dev/hdc) if not listed.</P>\n"
+msgstr ""
+"<P><B>可移除设备：</B>存档在可移除设备上或\n"
+"在未挂载的文件系统上。可以从列表中选择设备，如果未列出设备，则可以\n"
+"输入设备文件名(例如 /dev/hdc)。</P>\n"
+
+#. For translators: archive selection dialog help, (part 6)
+#: src/helps.ycp:50
+msgid ""
+"<P>If you press <B>Select</B>, the device is mounted\n"
+"and you can select the file from a dialog.</P>\n"
+msgstr ""
+"<P>如果按<B>选择</B>，则将挂载该设备，\n"
+"您可以从对话框中选择文件。</P>\n"
+
+#. For translators: archive selection dialog help (part 7)
+#: src/helps.ycp:55
+msgid "<P>Note: If you have a multivolume archive, select the first volume.</P>"
+msgstr "<P>注意：如果您具有多卷存档，请选择第一个卷。</P>"
+
+#. multi volume archive selection help text 1/2
+#: src/helps.ycp:67
+msgid ""
+"<P><B><BIG>Multivolume Archive</BIG></B><BR>The backup archive has more than\n"
+"one volume.  In this dialog, enter volumes that belong to the backup archive.</P>\n"
+msgstr ""
+"<P><B><BIG>多卷归档</BIG></B><BR>备份归档有多个卷。\n"
+"  在此对话框中，输入属于备份存档的卷。</P>\n"
+
+#. multi volume archive selection help text 2/2
+#: src/helps.ycp:72
+msgid ""
+"<P>After the volume is read, the filename is automatically changed to the\n"
+"next volume name. Press <B>Next</B> to\n"
+"continue to the next volume.</P>\n"
+msgstr ""
+"<P>读取卷后，文件名将被自动更改为\n"
+"下一个卷名。按<B>下一步</B>\n"
+"继续到下一个卷。</P>\n"
+
+#. For translators: archive property dialog help
+#: src/helps.ycp:87
+msgid ""
+"<P><B><BIG>Archive Properties</BIG></B><BR>Information about the backup archive\n"
+"is displayed here.  Press <B>Archive Contents</B> to\n"
+"show the contents of the archive.  Press <B>Expert Options</B> to set advanced restore\n"
+"options.  If the archive is a multivolume archive, \n"
+"select more volumes after pressing <B>Next</B>.</P>"
+msgstr ""
+"<P><B><BIG>存档属性</BIG></B><BR>在此显示有关备份存档\n"
+"的信息。按<B>存档内容</B>\n"
+"显示存档的内容。按<B>专家选项</B>设置高级恢复\n"
+"选项。如果存档是多卷存档，\n"
+"则在按<B>下一步</B>后选择多个卷。</P>"
+
+#. For translators: archive property dialog help
+#: src/helps.ycp:103
+msgid ""
+"<P><B><BIG>Archive Contents</BIG></B><BR>\n"
+"The packages and files in the backup archive are displayed here.</P>\n"
+msgstr ""
+"<P><B><BIG>存档内容</BIG></B><BR>\n"
+"在此显示备份存档中的包和文件。</P>\n"
+
+#. For translators: option dialog help (part 1)
+#: src/helps.ycp:117
+msgid ""
+"<P><B><BIG>Restore Options</BIG></B><BR>These options are intended for\n"
+"expert users. The default values are usually appropriate.</P>\n"
+msgstr ""
+"<P><B><BIG>恢复选项</BIG></B><BR>这些选项供\n"
+"专家用户使用。通常，使用默认值比较合适。</P>\n"
+
+#. For translators: option dialog help (part 2)
+#: src/helps.ycp:122
+msgid ""
+"<p>Select <B>Activate Boot Loader Configuration</B> to reinstall the boot loader.\n"
+"Some boot loaders, such as LILO, must be reinstalled if configuration files or files needed at system boot are changed.</p>\n"
+"<p>With <B>Run SuSEconfig</B>, SuSEconfig will activate changes in configuration files.</p>\n"
+msgstr ""
+"<p>选择<B>激活引导加载器配置</B>来重新安装引导加载器。\n"
+"某些引导加载器，比如 LILO，如果更改了配置文件或系统引导时所需的文件，则必须重新安装。</p>\n"
+"<p>使用 <B>运行 SuSEconfig</B>，令 SuSEconfig 激活配置文件中的更改。</p>\n"
+
+#. For translators: package restoration note (used in more dialogs)
+#: src/helps.ycp:137
+msgid "<P><B><BIG>Package Restoration</BIG></B><BR>Restore the set of installed packages to the state at the time of backup.</P>"
+msgstr "<P><B><BIG>包恢复</BIG></B><BR>将已安装的包恢复到备份时的状态。</P>"
+
+#. For translators: package installation help
+#: src/helps.ycp:151
+msgid ""
+"<P>There is a list with uninstalled packages in the table. These packages\n"
+"were installed at backup time, but are now missing.  To obtain the same system \n"
+"configuration as at the time of backup, select all packages.  <b>X</b> in \n"
+"the first column means that the package will be installed.</P>"
+msgstr ""
+"<P>表中有未安装包的列表。在备份时\n"
+"已安装了这些包，但现在缺少这些包。要获得与备份时相同的系统\n"
+"配置，请选择所有这些包。第 1 列\n"
+"中的 <b>X</b> 表示将安装此包。</P>"
+
+#. For translators: package uninstallation help
+#: src/helps.ycp:168
+msgid "<P>Packages in the table were not installed at the time of backup, but are now.  To obtain the same system configuration as at backup time, uninstall all packages. </P>"
+msgstr "<P>在备份时未安装表中的包，但现在已安装了这些包。要获得与备份时相同的系统配置，请卸载所有这些包。</P>"
+
+#. For translators: package uninstallation help (part 2)
+#: src/helps.ycp:171
+msgid ""
+"<P><b>X</b> in the first column means that the package will be \n"
+"uninstalled. To leave a package installed, deselect it.</P>"
+msgstr ""
+"<P>第 1 列中的 <b>X</b>表示将\n"
+"卸载此包。要不卸载某个包，请不要选择该包。</P>"
+
+#. For translators: restore selection help 1/5
+#: src/helps.ycp:185
+msgid ""
+"<P><B><BIG>Selection</BIG></B><BR>\n"
+"Select which packages to restore from the backup archive.</P>\n"
+msgstr ""
+"<P><B><BIG>选择</BIG></B><BR>\n"
+"选择要从备份存档中恢复的包。</P>\n"
+
+#. For translators: restore selection help 2/5
+#: src/helps.ycp:190
+msgid "<P>The first column displays the restoration status of the package. It can be <b>X</b> (package will be restored) or empty (package will not be restored).</P>"
+msgstr "<P>第 1 列显示包的恢复状态。此状态可以为 <b>X</b>(将恢复此包)，也可以为空(不恢复此包)。</P>"
+
+#. For translators: restore selection help 3/5
+#: src/helps.ycp:193
+msgid "<P><b>P</b> means that a package will be restored only partially. Press <B>Select Files</B> to restore a package partially.</P>"
+msgstr "<P><b>P</b> 表示只部分地恢复包。按<B>选择文件</B>对包进行部分恢复。</P>"
+
+#. For translators: restore selection help 4/5
+#: src/helps.ycp:196
+msgid "<P>The number of selected files to restore from the archive is in the second column.</P>"
+msgstr "<P>将从存档中恢复的选定文件的数量显示在第 2 列中。</P>"
+
+#. For translators: restore selection help 5/5
+#: src/helps.ycp:199
+msgid ""
+"<p>If you deleted the RPM database by mistake or if it is badly\n"
+"corrupted, select <b>Restore RPM Database</b>.\n"
+"The database is then restored if it is available in the backup archive.\n"
+"In other cases, leave this option unchecked.</p>"
+msgstr ""
+"<p>如果您误删除了 RPM 数据库或者该数据库已严重损坏，\n"
+"则选择<B>恢复 RPM 数据库</B>。\n"
+"如果该数据库在备份存档中可用，则数据库将被恢复。\n"
+"在其它情况下，不用选该选项。</p>"
+
+#. For translators: file selection help (part 1)
+#: src/helps.ycp:214
+msgid ""
+"<P><B><BIG>File Selection</BIG></B><BR>\n"
+"Select which files to restore.\n"
+"</P>\n"
+msgstr ""
+"<P><B><BIG>文件选择</BIG></B><BR>\n"
+"选择要恢复的文件。\n"
+"</P>\n"
+
+#. progress bar help text
+#: src/helps.ycp:229
+msgid ""
+"<P><B><BIG>Restoring</BIG></B><BR>\n"
+"Files are being restored from the backup archive now.\n"
+"It will take some time, depending on the size and number of restored files.\n"
+"</P>\n"
+msgstr ""
+"<P><B><BIG>正在恢复</BIG></B><BR>\n"
+"目前正在从备份存档恢复文件。\n"
+"这将需要一段时间，取决于恢复文件的大小和数量。\n"
+"</P>\n"
+
+#. summary dialog help text 1/3
+#: src/helps.ycp:245
+msgid ""
+"<P><B><BIG>Summary</BIG></B><BR>\n"
+"This is a summary of the restoration process. To see more details, select\n"
+"<B>Show Details</B>. To save the summary to a file, select <B>Save to File</B>.\n"
+"</P>\n"
+"\n"
+msgstr ""
+"<P><B><BIG>摘要</BIG></B><BR>\n"
+"这是恢复过程的摘要。要查看细节，请选择\n"
+"<B>显示细节</B>。要将摘要保存到文件，请选择<B>保存到文件</B>。\n"
+"</P>\n"
+"\n"
+
+#. summary dialog help text 2/3
+#: src/helps.ycp:252
+msgid ""
+"<P><B>Note:</B> Displaying the detailed summary can \n"
+"take a long time depending on the number\n"
+"of restored files.\n"
+"</P>\n"
+msgstr ""
+"<P><B>注意：</B>显示细节摘要可能需要很长时间，\n"
+"具体时间取决于恢复文件的数量。\n"
+"\n"
+"</P>\n"
+
+#. summary dialog help text 3/3
+#: src/helps.ycp:259
+msgid ""
+"<P>Some changes, such as a kernel update, made by the restore \n"
+"module can be activated only after a system\n"
+"reboot. It is recommended to reboot the system after\n"
+"restoration.</P>\n"
+msgstr ""
+"<P>恢复模块所进行的某些更改(例如内核更新)\n"
+"只能在系统重引导后被激活。\n"
+" 建议在恢复后\n"
+"重引导系统。</P>\n"
+
+#. popup dialog text part 1
+#: src/restore_auto.ycp:141
+msgid "Archive file cannot be read."
+msgstr "无法读取存档文件。"
+
+#. popup dialog text part 1
+#: src/restore_auto.ycp:143
+msgid "Archive volume cannot be read."
+msgstr "无法读取存档卷。"
+
+#. popup dialog text part 2
+#: src/restore_auto.ycp:145
+msgid ""
+"\n"
+"Select it manually?\n"
+msgstr ""
+"\n"
+"是否手动选择它？\n"
+
+#. push button label
+#: src/summary_dialog.ycp:86
+msgid "&Show Details"
+msgstr "显示细节(&S)"
+
+#. push button label
+#: src/summary_dialog.ycp:88
+msgid "Sa&ve to File..."
+msgstr "保存到文件(&V)..."
+
+#: src/summary_dialog.ycp:125
+msgid "Save Summary to File"
+msgstr "将摘要保存到文件"
+
+#. floppy disk drive - combo box item
+#: src/ui.ycp:84
+msgid "Floppy"
+msgstr "软盘"
+
+#: src/ui.ycp:335
+msgid "Multivolume Archive"
+msgstr "多卷存档"
+
+#. radio button label
+#: src/ui.ycp:341
+msgid "&Local File"
+msgstr "本地文件(&L)"
+
+#. text entry label
+#: src/ui.ycp:345
+msgid "Archive Filena&me"
+msgstr "存档文件名(&M)"
+
+#. push button label
+#: src/ui.ycp:348
+msgid "&Select..."
+msgstr "选择(&S)..."
+
+#. radio button label
+#: src/ui.ycp:352
+msgid "Network (N&FS)"
+msgstr "网络 (NFS)(&F)"
+
+#. text entry label
+#: src/ui.ycp:356
+msgid "I&P Address or Name of NFS Server"
+msgstr "NFS 服务器的 IP 地址或名称(&P)"
+
+#. push button label
+#: src/ui.ycp:359
+msgid "Select &Host..."
+msgstr "选择主机(&H)..."
+
+#. text entry label
+#: src/ui.ycp:364
+msgid "&Archive Filename"
+msgstr "存档文件名(&A)"
+
+#. radio button label
+#: src/ui.ycp:368
+msgid "Rem&ovable Device"
+msgstr "可移动设备(&O)"
+
+#. combo box label
+#: src/ui.ycp:372
+msgid "&Device"
+msgstr "设备(&D)"
+
+#. text entry label
+#: src/ui.ycp:377
+msgid "Archi&ve Filename"
+msgstr "存档文件名(&V)"
+
+#. push button label
+#: src/ui.ycp:380
+msgid "S&elect..."
+msgstr "选择(&E)..."
+
+#. dialog header
+#: src/ui.ycp:392
+msgid "Archive Selection"
+msgstr "存档选择"
+
+#: src/ui.ycp:392
+msgid "Multivolume Archive Selection"
+msgstr "多卷存档选择"
+
+#: src/ui.ycp:406 src/ui.ycp:438
+msgid "Select Archive File"
+msgstr "选择存档文件"
+
+#. error message - selected file is out of mounted file system
+#: src/ui.ycp:446
+msgid "The selected file is not on the mounted device."
+msgstr "选定的文件不在挂载的设备上。"
+
+#. error message - file name is missing
+#: src/ui.ycp:479
+msgid "Enter a valid filename."
+msgstr "输入有效的文件名。"
+
+#. error message - file or server name is missing
+#: src/ui.ycp:495
+msgid "Enter a valid server and filename."
+msgstr "输入有效的服务器和文件名。"
+
+#. error message - file or device name is missing
+#: src/ui.ycp:514
+msgid "Enter a valid device and filename."
+msgstr "输入有效的设备和文件名。"
+
+#. popup question
+#: src/ui.ycp:534
+msgid ""
+"Detailed configuration requires reading the archive.\n"
+"If an archive is not read, full restoration will be configured.\n"
+"\n"
+"Read the selected archive?\n"
+msgstr ""
+"详细配置需要读取存档。\n"
+"如果未读取存档，则将配置完整恢复。\n"
+"\n"
+"是否读取选定的存档？\n"
+
+#. progress message
+#: src/ui.ycp:559
+msgid "Reading archive contents..."
+msgstr "正在读取存档内容..."
+
+#. error message - %1 is archive file name
+#: src/ui.ycp:580
+#, ycp-format
+msgid "Cannot read backup archive file %1."
+msgstr "无法读取备份存档文件 %1。"
+
+#. error message - multi volume archive consistency check failed
+#: src/ui.ycp:639
+msgid ""
+"Test of all volumes failed.\n"
+"\tAn archive file is probably corrupted.\n"
+"\t"
+msgstr ""
+"测试所有卷失败。\n"
+"\t一个存档文件可能已损坏。\n"
+"\t"
+
+#. label text
+#: src/ui.ycp:694
+msgid "Archive Filename:"
+msgstr "存档文件名："
+
+#. label text
+#: src/ui.ycp:697
+msgid "Date of Backup:"
+msgstr "备份日期："
+
+#. label text
+#: src/ui.ycp:700
+msgid "Backup Hostname:"
+msgstr "备份主机名："
+
+#. label text
+#: src/ui.ycp:703
+msgid "Multivolume Archive:"
+msgstr "多卷存档："
+
+#. multi line widget label
+#: src/ui.ycp:706
+msgid "Archive &Description:"
+msgstr "存档描述(&D)："
+
+#. push button label
+#: src/ui.ycp:710
+msgid "&Archive Content..."
+msgstr "存档内容(&A)..."
+
+#. push button label
+#: src/ui.ycp:713
+msgid "E&xpert Options..."
+msgstr "专家选项(&X)..."
+
+#. dialog header
+#: src/ui.ycp:720
+msgid "Archive Properties"
+msgstr "存档属性"
+
+#. tree label
+#: src/ui.ycp:797
+msgid "Archive &Contents"
+msgstr "存档内容(&C)"
+
+#. dialog header
+#: src/ui.ycp:806
+msgid "Archive Contents"
+msgstr "存档内容"
+
+#. check box label - restore option
+#: src/ui.ycp:836
+msgid "Activate &Boot Loader Configuration after Restoration"
+msgstr "恢复后激活引导加载器配置(&B)"
+
+#. check box label - restore option
+#: src/ui.ycp:839
+msgid "Run &SuSEconfig after Restoration"
+msgstr "恢复后运行 SuSEconfig(&S)"
+
+#. check box label - restore option
+#: src/ui.ycp:842
+msgid "Target Directory"
+msgstr "目标目录"
+
+#. error message - entered directory is empty or doesn't start with / character
+#: src/ui.ycp:865
+msgid "The target directory is invalid or the path is not absolute."
+msgstr "目标目录无效或路径不是绝对路径。"
+
+#. table header
+#: src/ui.ycp:946 src/ui.ycp:1113 src/ui.ycp:1435
+msgid "Package"
+msgstr "软件包"
+
+#: src/ui.ycp:946 src/ui.ycp:1113 src/ui.ycp:1435
+msgid "Version"
+msgstr "版本"
+
+#: src/ui.ycp:946
+msgid "Installed Version"
+msgstr "已安装的版本"
+
+#: src/ui.ycp:946 src/ui.ycp:1113 src/ui.ycp:1435
+msgid "Description"
+msgstr "描述"
+
+#. push button label
+#: src/ui.ycp:956 src/ui.ycp:1123 src/ui.ycp:1438 src/ui.ycp:1743
+msgid "&Select All"
+msgstr "全选(&S)"
+
+#. push button label
+#: src/ui.ycp:958 src/ui.ycp:1125 src/ui.ycp:1438 src/ui.ycp:1745
+msgid "&Deselect All"
+msgstr "全不选(&D)"
+
+#. dialog header
+#: src/ui.ycp:966
+msgid "Package Restoration: Installation"
+msgstr "包恢复：安装"
+
+#. dialog header
+#: src/ui.ycp:1133
+msgid "Package Restoration: Uninstallation"
+msgstr "包恢复：卸载"
+
+#. Headline
+#: src/ui.ycp:1248
+msgid "Error"
+msgstr "错误"
+
+#. Error message
+#: src/ui.ycp:1250
+#, ycp-format
+msgid ""
+"Package %1 is not available on any of the subscribed repositories.\n"
+"Would you like to got back and deselect the package or skip it?\n"
+msgstr ""
+"在任何订阅的安装源中都找不到软件包 %1。\n"
+"您想要后退并取消选择该软件包还是跳过它？\n"
+
+#: src/ui.ycp:1253
+msgid "Yes, Go &Back"
+msgstr "是，后退(&B)"
+
+#: src/ui.ycp:1254
+msgid "&Skip"
+msgstr "跳过(&S)"
+
+#: src/ui.ycp:1282
+msgid "Installation or removal of some packages has failed."
+msgstr "安装或删除某些包失败。"
+
+#. all files selected for restoration
+#. files are selected to restore - all
+#: src/ui.ycp:1315 src/ui.ycp:1535
+msgid "All"
+msgstr "全部"
+
+#. selected %1 (number of files) of %2 (number of files)
+#: src/ui.ycp:1327
+#, ycp-format
+msgid "%1 of %2"
+msgstr "%2 中的 %1"
+
+#. popup question - %1 is package name
+#: src/ui.ycp:1369
+#, ycp-format
+msgid ""
+"Package %1 is not installed in your system.\n"
+"Install it?\n"
+msgstr ""
+"在系统中未安装包 %1。\n"
+"是否安装它？\n"
+
+#: src/ui.ycp:1389
+msgid "S&elect Files"
+msgstr "选择文件(&E)"
+
+#. table header
+#: src/ui.ycp:1435
+msgid "Files"
+msgstr "文件"
+
+#. check box label - restore option
+#: src/ui.ycp:1441
+msgid "Restore RPM &Database (if present in archive)"
+msgstr "恢复 RPM 数据库(如果存在于存档中)(&D)"
+
+#. description of symbols in the table 1/2
+#: src/ui.ycp:1448
+msgid "X: Restore all files from backup, P: Partial restore of manually selected files"
+msgstr "X：从备份恢复所有文件，P：部分恢复手动选定的文件"
+
+#. description of symbols in the table 2/2
+#: src/ui.ycp:1451
+msgid "<P>To select files to restore from the archive, press <B>Select Files</B>.</P>"
+msgstr "<P>要选择从存档恢复的文件，请按<B>选择文件</B>。</P>"
+
+#. user selected to restore all packages,
+#. but some packages are not installed
+#. ask to restore them
+#: src/ui.ycp:1572
+msgid ""
+"Some packages are not installed.\n"
+"Select them for restoration?\n"
+msgstr ""
+"某些包未安装。\n"
+"是否选择它们进行恢复？\n"
+
+#. user selected to restore all packages,
+#. but some installed packages have different version than at backup
+#. ask to restore them
+#: src/ui.ycp:1587
+msgid ""
+"Some installed packages have a different\n"
+"version than in the backup archive.\n"
+"Select them for restoration?\n"
+msgstr ""
+"某些已安装包的版本与\n"
+"备份存档中的版本不同。\n"
+"是否选择它们进行恢复？\n"
+
+#: src/ui.ycp:1642
+msgid "Restoring the RPM database is recommended."
+msgstr "建议恢复 RPM 数据库。"
+
+#: src/ui.ycp:1646
+msgid "Not restoring the RPM database is recommended."
+msgstr "建议不恢复 RPM 数据库。"
+
+#. RPMoption is nil
+#: src/ui.ycp:1651
+msgid ""
+"There is a conflict between selected\n"
+"packages and the RPM database restoration option.\n"
+"Try changing the selection or the RPM database restoration status."
+msgstr ""
+"选定的包和 RPM 数据库\n"
+"恢复选项之间存在冲突。\n"
+"请尝试更改选择或 RPM 数据库恢复状态。"
+
+#. multi selection box label
+#: src/ui.ycp:1733
+msgid "&Files to Restore"
+msgstr "要恢复的文件(&F)"
+
+#. dialog header - %1 is name of package (e.g. "aaa_base")
+#: src/ui.ycp:1755
+#, ycp-format
+msgid "File Selection: Package %1"
+msgstr "文件选择：包 %1"
+
+#. abort popup question
+#: src/ui.ycp:1841
+msgid "Abort Confirmation"
+msgstr "中止确认"
+
+#: src/ui.ycp:1841
+msgid "Really abort restore?"
+msgstr "是否确实要中止恢复？"
+
+#. dialog header
+#: src/ui.ycp:1848
+msgid "Restoring Files"
+msgstr "正在恢复文件"
+
+#. program return status - program was not started
+#: src/ui.ycp:1910
+msgid "Not started"
+msgstr "未启动"
+
+#. program return status - success
+#: src/ui.ycp:1915
+msgid "OK"
+msgstr "确定"
+
+#. program return status - failed
+#: src/ui.ycp:1920
+msgid "Failed"
+msgstr "已失败"
+
+#. summary information texts
+#: src/ui.ycp:1934
+msgid "Number of Installed Packages: "
+msgstr "已安装包的数量："
+
+#: src/ui.ycp:1934
+msgid "Number of Uninstalled Packages: "
+msgstr "已卸装包的数量："
+
+#: src/ui.ycp:1934
+msgid "Total Restored Packages: "
+msgstr "已恢复包的总数："
+
+#: src/ui.ycp:1934
+msgid "Total Restored Files: "
+msgstr "已恢复文件的总数："
+
+#. summary information text - header
+#: src/ui.ycp:1940
+msgid "Failed Files"
+msgstr "失败的文件"
+
+#. summary information texts - details
+#: src/ui.ycp:1964
+msgid "Details:"
+msgstr "细节："
+
+#: src/ui.ycp:1964
+msgid "Boot Loader Configuration: "
+msgstr "引导加载器配置："
+
+#: src/ui.ycp:1964
+msgid "SuSEconfig Status: "
+msgstr "SuSEconfig 状态："
+
+#: src/ui.ycp:1964
+msgid "Restored Files:"
+msgstr "已恢复的文件："
+
+#. dialog header
+#: src/ui.ycp:1967
+msgid "Summary of Restoration"
+msgstr "恢复摘要"

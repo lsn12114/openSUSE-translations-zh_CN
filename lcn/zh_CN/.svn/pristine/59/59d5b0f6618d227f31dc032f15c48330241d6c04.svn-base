@@ -1,0 +1,1262 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: patterns-openSUSE\n"
+"Report-Msgid-Bugs-To: http://bugzilla.novell.com\n"
+"POT-Creation-Date: 2012-06-20 13:19+0200\n"
+"PO-Revision-Date: 2012-06-29 19:47+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/patterns_utf8.c:61
+msgid "32-Bit Runtime Environment"
+msgstr "32 位运行环境"
+
+#: src/patterns_utf8.c:62
+msgid ""
+"This pattern installs the 32-bit variant of all selected patterns, allowing "
+"you to execute 32-bit software."
+msgstr "这将安装所有选中模式的 32 位变体。允许执行 32 位软件。"
+
+#: src/patterns_utf8.c:65
+msgid "64-Bit Runtime Environment"
+msgstr "64 位运行时环境"
+
+#: src/patterns_utf8.c:66
+msgid ""
+"This pattern installs the 64-bit variant of all selected patterns, allowing "
+"you to execute 64-bit software."
+msgstr "这将安装所有选中模式的 64 位变体。允许执行 64 位软件。"
+
+#: src/patterns_utf8.c:69 src/patterns_utf8.c:73
+#| msgid "Novell AppArmor"
+msgid "AppArmor"
+msgstr "AppArmor"
+
+#: src/patterns_utf8.c:70 src/patterns_utf8.c:74
+#| msgid "Novell AppArmor is an application security framework that provides mandatory access control for programs. It protects from exploitation of software flaws and compromised systems. It offers an advanced tool set that automates the development of per-program application security without requiring additional knowledge."
+msgid ""
+"AppArmor is an application security framework that provides mandatory access "
+"control for programs. It protects from exploitation of software flaws and "
+"compromised systems. It offers an advanced tool set that automates the "
+"development of per-program application security without requiring additional "
+"knowledge."
+msgstr ""
+"AppArmor 是开放源代码的应用程序安全框架，对程序访问权限进行控制。它能保护软件漏洞不被利用，从而保证系统的安全。 "
+"它提供了一套高级工具，使得应用程序的安全性开发更加自动化和智能。"
+
+#: src/patterns_utf8.c:77 src/patterns_utf8.c:857 src/patterns_utf8.c:861
+msgid "Base System"
+msgstr "基础系统"
+
+#: src/patterns_utf8.c:78 src/patterns_utf8.c:858 src/patterns_utf8.c:862
+msgid ""
+"This is the base runtime system.  It contains only a minimal multiuser "
+"booting system. For running on real hardware, you need to add additional "
+"packages and pattern to make this pattern useful on its own."
+msgstr "这是基础的运行时系统。它仅包含一个最小化的多用户引导系统。要在真实硬件上运行，您需要添加其他包和模式，使此模式发挥作用。"
+
+#: src/patterns_utf8.c:81
+#| msgid "Install an Operating System?"
+msgid "Just Enough Operating System"
+msgstr "基础操作系统"
+
+#: src/patterns_utf8.c:82
+msgid ""
+"This is the base runtime system.  It contains only a minimal multiuser "
+"booting system."
+msgstr "这是基础运行时系统。它只包含了一个极简的多用户可引导系统。"
+
+#: src/patterns_utf8.c:85
+msgid "C/C++ Compiler and Tools"
+msgstr "C/C++ 编译器和工具"
+
+#: src/patterns_utf8.c:86
+msgid "Minimal set of tools for compiling and linking applications"
+msgstr "用于编译和链接应用程序的最小工具集"
+
+#: src/patterns_utf8.c:89
+msgid "Common Code Base (for certification)"
+msgstr "通用代码库（用于认证）"
+
+#: src/patterns_utf8.c:90
+msgid ""
+"This consists of all packages that are common to all SUSE Linux Enterprise "
+"products. It also provides a Linux Standard Base 3.0 compliant runtime "
+"environment."
+msgstr ""
+"它包含了所有 SUSE Linux Enterprise 产品的通用包。此外它还提供了一个与 Linux Standard Base 3.0 "
+"兼容的运行时环境。 "
+
+#: src/patterns_utf8.c:93
+msgid "Console Tools"
+msgstr "控制台工具"
+
+#: src/patterns_utf8.c:94
+msgid ""
+"Applications useful for those using the console and no graphical desktop "
+"environment."
+msgstr "对那些使用控制台而不用图形桌面环境的用户有用的程序。"
+
+#: src/patterns_utf8.c:97
+msgid "Default System"
+msgstr "默认系统"
+
+#: src/patterns_utf8.c:97
+msgid "This is the default system for this product."
+msgstr "这是本产品的默认系统。"
+
+#: src/patterns_utf8.c:100
+msgid "Desktop Base System"
+msgstr "桌面基本系统"
+
+#: src/patterns_utf8.c:101
+msgid "This is the base SUSE Linux runtime system."
+msgstr "这是 SUSE Linux 的基本运行时系统。"
+
+#: src/patterns_utf8.c:104
+msgid "GNOME (Default)"
+msgstr "GNOME（默认）"
+
+#: src/patterns_utf8.c:105
+msgid ""
+"GNOME is Novell's default enterprise desktop. It is an intuitive and "
+"attractive desktop combining industry-leading usability with a powerful set "
+"of applications and management features that are essential to enterprise "
+"adoption."
+msgstr ""
+"GNOME 是 Novell 的默认企业桌面。它是一个直观且具有吸引力的桌面，其中整合了一组企业应用所必需的强大应用程序和管理功能，从而提供了业界领先的可用"
+"性。"
+
+#: src/patterns_utf8.c:108 src/patterns_utf8.c:140
+msgid "GNOME Development"
+msgstr "GNOME 开发"
+
+#: src/patterns_utf8.c:109
+msgid "GNOME development packages"
+msgstr "GNOME 开发软件包"
+
+#: src/patterns_utf8.c:112 src/patterns_utf8.c:284
+msgid "GNOME Laptop"
+msgstr "GNOME 便携式计算机"
+
+#: src/patterns_utf8.c:113
+msgid "GNOME laptop packages"
+msgstr "GNOME 便携式计算机软件包"
+
+#: src/patterns_utf8.c:116
+msgid "KDE"
+msgstr "KDE"
+
+#: src/patterns_utf8.c:117
+msgid ""
+"KDE is a powerful graphical desktop environment. It combines ease of use, "
+"contemporary functionality, and outstanding graphical design with the "
+"technology of the Linux operating system."
+msgstr "KDE 是一个强大的图形桌面环境。 它将先进的功能、杰出的图形设计与 Linux 操作系统技术相结合，使用方便。"
+
+#: src/patterns_utf8.c:120 src/patterns_utf8.c:152
+msgid "KDE Development"
+msgstr "KDE 开发"
+
+#: src/patterns_utf8.c:121
+msgid "KDE development packages"
+msgstr "KDE 开发软件包"
+
+#: src/patterns_utf8.c:124 src/patterns_utf8.c:420 src/patterns_utf8.c:473
+msgid "KDE Laptop"
+msgstr "KDE 便携式计算机"
+
+#: src/patterns_utf8.c:125
+msgid "KDE laptop packages"
+msgstr "KDE 便携式计算机软件包"
+
+#: src/patterns_utf8.c:128
+msgid "Base Development"
+msgstr "基础开发"
+
+#: src/patterns_utf8.c:129 src/patterns_utf8.c:756
+msgid "Minimal set of tools for compiling and linking applications."
+msgstr "用于编译和连接应用程序的最小工具集"
+
+#: src/patterns_utf8.c:132
+msgid "Cell Development"
+msgstr "手机开发"
+
+#: src/patterns_utf8.c:133 src/patterns_utf8.c:816
+msgid "Toolchain to build code for the Cell processor."
+msgstr "用于为手机处理器编译代码的工具集。"
+
+#: src/patterns_utf8.c:136
+msgid "C/C++ Development"
+msgstr "C/C++ 开发"
+
+#: src/patterns_utf8.c:137 src/patterns_utf8.c:760
+msgid ""
+"Tools and libraries for software development using C/C++ and other derivative "
+"of the C programming language."
+msgstr "用于 C/C++ 和其它从 C 语言衍生出来的语言软件开发的工具和库。"
+
+#: src/patterns_utf8.c:141 src/patterns_utf8.c:764
+msgid "GNOME development packages."
+msgstr "GNOME 开发软件包。"
+
+#: src/patterns_utf8.c:144
+msgid "Integrated Development Environments"
+msgstr "集成开发环境"
+
+#: src/patterns_utf8.c:145
+msgid "Integrated Development Environments."
+msgstr "集成开发环境。"
+
+#: src/patterns_utf8.c:148
+msgid "Java Development"
+msgstr "Java 开发"
+
+#: src/patterns_utf8.c:149 src/patterns_utf8.c:768
+msgid ""
+"Tools and libraries for software development using the Java programming "
+"language."
+msgstr "用于使用 Java 编程语言执行软件开发的工具和库。"
+
+#: src/patterns_utf8.c:153 src/patterns_utf8.c:772
+msgid "KDE development packages."
+msgstr "KDE 开发软件包。"
+
+#: src/patterns_utf8.c:156
+msgid "Linux Kernel Development"
+msgstr "Linux 内核开发"
+
+#: src/patterns_utf8.c:157 src/patterns_utf8.c:776
+msgid "Tools for Linux kernel development."
+msgstr "Linux 内核开发工具。"
+
+#: src/patterns_utf8.c:160
+msgid ".NET Development"
+msgstr ".NET 开发"
+
+#: src/patterns_utf8.c:161 src/patterns_utf8.c:780
+msgid "Tools and libraries for .NET development using Mono."
+msgstr "使用 Mono 进行 .NET 开发的工具和库。"
+
+#: src/patterns_utf8.c:164
+msgid "Ruby on Rails Development"
+msgstr "Ruby on Rails 开发"
+
+#: src/patterns_utf8.c:165 src/patterns_utf8.c:784
+msgid ""
+"Tools and libraries for software development using the Ruby on Rails "
+"framework."
+msgstr "用于使用 Ruby on Rails 框架进行软件开发的工具和库。"
+
+#: src/patterns_utf8.c:168
+msgid "Perl Development"
+msgstr "Perl 开发"
+
+#: src/patterns_utf8.c:169 src/patterns_utf8.c:788
+msgid ""
+"Tools and libraries for software development using the Perl programming "
+"language."
+msgstr "用于使用 Perl 编程语言执行软件开发的工具和库。"
+
+#: src/patterns_utf8.c:172
+msgid "Python Development"
+msgstr "Python 开发"
+
+#: src/patterns_utf8.c:173 src/patterns_utf8.c:792
+msgid ""
+"Tools and libraries for software development using the Python programming "
+"language."
+msgstr "用于使用 Python 编程语言执行软件开发的工具和库。"
+
+#: src/patterns_utf8.c:176
+msgid "Qt 4 Development"
+msgstr "Qt 4 开发"
+
+#: src/patterns_utf8.c:177 src/patterns_utf8.c:796
+msgid ""
+"Tools and libraries for software development using Qt 4, the latest version "
+"of the Qt toolkit."
+msgstr "用于 Qt 4 软件开发的工具和库。Qt 4 是 Qt 工具包的最新版本。"
+
+#: src/patterns_utf8.c:180
+msgid "RPM Build Environment"
+msgstr "RPM 构建环境"
+
+#: src/patterns_utf8.c:181
+msgid ""
+"Minimal set of tools and libraries for building packages using the RPM "
+"package manager."
+msgstr "用于使用 RPM 软件包管理器构建软件包的最小工具和库集合。"
+
+#: src/patterns_utf8.c:184
+msgid "Ruby Development"
+msgstr "Ruby 开发"
+
+#: src/patterns_utf8.c:185 src/patterns_utf8.c:800
+msgid ""
+"Tools and libraries for software development using the Ruby programming "
+"language."
+msgstr "用于使用 Ruby 编程语言执行软件开发的工具和库。"
+
+#: src/patterns_utf8.c:188
+msgid "Tcl/Tk Development"
+msgstr "Tcl/Tk 开发"
+
+#: src/patterns_utf8.c:189
+msgid "Tools and libraries for development using Tcl and Tk."
+msgstr "用于 Tcl 与 Tk 开发的工具和库。"
+
+#: src/patterns_utf8.c:192
+msgid "Web Development"
+msgstr "Web 开发"
+
+#: src/patterns_utf8.c:193 src/patterns_utf8.c:804
+msgid "Tools and libraries for Web application development."
+msgstr "用于 Web 应用程序开发的工具和库。"
+
+#: src/patterns_utf8.c:196
+msgid "YaST Development"
+msgstr "YaST 开发"
+
+#: src/patterns_utf8.c:197 src/patterns_utf8.c:808
+msgid ""
+"Tools and libraries for developing YaST modules, the setup and configuration "
+"tool for openSUSE."
+msgstr "用于 YaST 模块开发的工具和库。YaST 是 openSUSE 的安装配置工具。"
+
+#: src/patterns_utf8.c:200
+msgid "DHCP and DNS Server"
+msgstr "DHCP 和 DNS 服务器"
+
+#: src/patterns_utf8.c:201
+msgid ""
+"Software to set up a server for the Dynamic Host Configuration Protocol "
+"(DHCP) and the Domain Name System (DNS) services. DHCP provides configuration "
+"parameters to client computers to integrate them into a network, whereas DNS "
+"delivers information associated with domain names, in particular, the IP "
+"address."
+msgstr ""
+"设置动态主机配置协议（DHCP）服务器的软件。DHCP 为客户机提供配置参数，以将它们收入一个网络，同时还传递主机名对应的 DNS 信息，即 IP 地址。"
+
+#: src/patterns_utf8.c:204
+msgid "Directory Server (LDAP)"
+msgstr "目录服务器（LDAP）"
+
+#: src/patterns_utf8.c:205
+msgid ""
+"Software to set up a directory server with OpenLDAP. The Lightweight "
+"Directory Access Protocol (LDAP) is used to access online directory services. "
+msgstr "用 OpenLDAP 设置目录服务器的软件。 轻量级目录访问协议（LDAP）用于访问在线目录服务。"
+
+#: src/patterns_utf8.c:208 src/patterns_utf8.c:209
+msgid "Help and Support Documentation"
+msgstr "帮助和支持文档"
+
+#: src/patterns_utf8.c:212
+msgid "Virtualization Host (non-embedded)"
+msgstr "虚拟主机（非嵌入）"
+
+#: src/patterns_utf8.c:213
+msgid "This is a minimal system with a running Hypervisor."
+msgstr "这是一个带有可用的虚拟机的极简系统。"
+
+#: src/patterns_utf8.c:216 src/patterns_utf8.c:220
+msgid "Enhanced Base System"
+msgstr "扩展基础系统"
+
+#: src/patterns_utf8.c:217 src/patterns_utf8.c:221
+msgid ""
+"This is the enhanced base runtime system with lots of convenience packages."
+msgstr "这是扩展的基础运行时系统，附带了许多方便的软件包。"
+
+#: src/patterns_utf8.c:224
+msgid "File Server"
+msgstr "文件服务器"
+
+#: src/patterns_utf8.c:225
+msgid ""
+"File services to host files so that they may be accessed or retrieved by "
+"other computers on the same network. This includes the FTP, SMB, and NFS "
+"protocols."
+msgstr "存放文件的文件服务，文件可从同一网络的其他计算机访问或存取。包括 FTP、SMB 和 NFS 协议。"
+
+#: src/patterns_utf8.c:228 src/patterns_utf8.c:232
+msgid "Fonts"
+msgstr "字体"
+
+#: src/patterns_utf8.c:229 src/patterns_utf8.c:233
+msgid "Base fonts and font configuration."
+msgstr "基础字体和字体配置。"
+
+#: src/patterns_utf8.c:236 src/patterns_utf8.c:240
+msgid "Games"
+msgstr "游戏"
+
+#: src/patterns_utf8.c:237 src/patterns_utf8.c:241
+msgid "A collection of games."
+msgstr "一系列游戏。"
+
+#: src/patterns_utf8.c:244
+msgid "Internet Gateway"
+msgstr "因特网网关"
+
+#: src/patterns_utf8.c:245
+msgid ""
+"Software to set up a proxy, firewall, and gateway server, including a virtual "
+"private network (VPN) gateway."
+msgstr "设置代理、防火墙和网关服务器的软件。 包括虚拟私用网络（VPN）网关。"
+
+#: src/patterns_utf8.c:248
+msgid "GNOME Desktop Environment"
+msgstr "GNOME 桌面环境"
+
+#: src/patterns_utf8.c:249
+msgid ""
+"The GNOME desktop environment is an intuitive and attractive desktop for "
+"users."
+msgstr "GNOME 是一套直观迷人的用户桌面环境。"
+
+#: src/patterns_utf8.c:252
+msgid "GNOME Administration Tools"
+msgstr "GNOME 管理工具"
+
+#: src/patterns_utf8.c:253 src/patterns_utf8.c:341 src/patterns_utf8.c:345
+msgid "Administration Tools e.g. for desktop lockdown"
+msgstr "管理工具，例如，用于桌面锁定"
+
+#: src/patterns_utf8.c:256 src/patterns_utf8.c:260
+msgid "GNOME Base System"
+msgstr "GNOME 基础系统"
+
+#: src/patterns_utf8.c:257 src/patterns_utf8.c:261
+msgid "Base packages for the GNOME desktop environment."
+msgstr "GNOME 桌面环境的基础软件包。"
+
+#: src/patterns_utf8.c:264 src/patterns_utf8.c:265
+msgid "GNOME Games"
+msgstr "GNOME 游戏"
+
+#: src/patterns_utf8.c:268
+msgid "GNOME Integrated Development Environment"
+msgstr "GNOME 集成开发环境"
+
+#: src/patterns_utf8.c:269
+msgid "Development under GNOME"
+msgstr "GNOME 下的开发"
+
+#: src/patterns_utf8.c:272 src/patterns_utf8.c:276
+msgid "GNOME Graphics"
+msgstr "GNOME 图形"
+
+#: src/patterns_utf8.c:273 src/patterns_utf8.c:277 src/patterns_utf8.c:409
+#: src/patterns_utf8.c:413 src/patterns_utf8.c:462 src/patterns_utf8.c:466
+msgid "Handling of digital photos and graphics"
+msgstr "数码照片和图像处理"
+
+#: src/patterns_utf8.c:280
+msgid "GNOME Internet"
+msgstr "GNOME 因特网"
+
+#: src/patterns_utf8.c:281
+msgid "GNOME Internet Applications"
+msgstr "GNOME 因特网应用程序"
+
+#: src/patterns_utf8.c:285
+msgid "GNOME Tools designed specifically for use with laptop computers."
+msgstr "专门设计为便携式计算机使用的 GNOME 工具。 "
+
+#: src/patterns_utf8.c:288 src/patterns_utf8.c:289 src/patterns_utf8.c:292
+#: src/patterns_utf8.c:293
+msgid "GNOME Multimedia"
+msgstr "GNOME 多媒体"
+
+#: src/patterns_utf8.c:296 src/patterns_utf8.c:297 src/patterns_utf8.c:300
+#: src/patterns_utf8.c:301
+msgid "GNOME Office"
+msgstr "GNOME 办公"
+
+#: src/patterns_utf8.c:304 src/patterns_utf8.c:305 src/patterns_utf8.c:308
+#: src/patterns_utf8.c:309
+msgid "GNOME Utilities"
+msgstr "GNOME 实用程序"
+
+#: src/patterns_utf8.c:312 src/patterns_utf8.c:313
+msgid "GNOME Desktop Effects"
+msgstr "GNOME 桌面效果"
+
+#: src/patterns_utf8.c:316
+msgid "YaST GNOME User Interfaces"
+msgstr "YaST GNOME 用户界面"
+
+#: src/patterns_utf8.c:317
+msgid "Graphical YaST user interfaces for the GNOME desktop."
+msgstr "GNOME 桌面的 YaST 图形用户界面。"
+
+#: src/patterns_utf8.c:320
+msgid "High Availability"
+msgstr "高可用性"
+
+#: src/patterns_utf8.c:321
+msgid ""
+"Provide tools to ensure a high degree of operational continuity and reduce "
+"the downtimes of your system."
+msgstr "提供能保证高运行连续性和降低系统停机时间的工具。"
+
+#: src/patterns_utf8.c:324 src/patterns_utf8.c:328
+msgid "Graphics"
+msgstr "图形"
+
+#: src/patterns_utf8.c:325 src/patterns_utf8.c:329
+msgid "Handling of digital photos and graphics."
+msgstr "数码照片和图像处理。"
+
+#: src/patterns_utf8.c:332
+msgid "KDE Desktop Environment"
+msgstr "KDE 桌面环境"
+
+#: src/patterns_utf8.c:333 src/patterns_utf8.c:337
+msgid ""
+"KDE is a powerful free software graphical desktop environment for Linux "
+"workstations. It combines ease of use, contemporary functionality, and "
+"outstanding graphical design with the technology of the Linux operating "
+"system."
+msgstr ""
+"KDE 是一个软件图形桌面环境，它用于 Linux 工作站，不但功能强大，而且还可以免费使用。 它将先进的功能、独特的图形设计与 Linux "
+"操作系统的技术相结合，使用方便。"
+
+#: src/patterns_utf8.c:336
+msgid "KDE4 Desktop Environment"
+msgstr "KDE4 桌面环境"
+
+#: src/patterns_utf8.c:340
+msgid "KDE Administration Tools"
+msgstr "KDE 管理工具"
+
+#: src/patterns_utf8.c:344
+msgid "KDE4 Administration Tools"
+msgstr "KDE4 管理工具"
+
+#: src/patterns_utf8.c:348
+#| msgid "Education"
+msgid "KDE4 Education"
+msgstr "KDE4 教育"
+
+#: src/patterns_utf8.c:349
+msgid "Tools to teach kids with computers"
+msgstr "教儿童用电脑的工具"
+
+#: src/patterns_utf8.c:352 src/patterns_utf8.c:360
+msgid "KDE Base System"
+msgstr "KDE 基础系统"
+
+#: src/patterns_utf8.c:353
+msgid ""
+"Base packages for the KDE desktop environment. KDE4 is the next major KDE "
+"release."
+msgstr "KDE 桌面环境的基础软件包。KDE4 是当前主要的 KDE 版本。"
+
+#: src/patterns_utf8.c:356 src/patterns_utf8.c:364
+msgid "KDE4 Base System"
+msgstr "KDE4 基础系统"
+
+#: src/patterns_utf8.c:357
+msgid ""
+"Base packages for the KDE4 desktop environment. KDE4 is the next major KDE "
+"release."
+msgstr "KDE4 桌面环境的基础软件包。KDE4 是当前主要的 KDE 版本。"
+
+#: src/patterns_utf8.c:361
+msgid "Base packages for the KDE desktop environment."
+msgstr "KDE4 桌面环境的基础软件包。"
+
+#: src/patterns_utf8.c:365
+msgid "Base packages for the KDE4 desktop environment."
+msgstr "KDE4 桌面环境的基础软件包。"
+
+#: src/patterns_utf8.c:368 src/patterns_utf8.c:369
+msgid "KDE Edutainment"
+msgstr "KDE 寓教于乐"
+
+#: src/patterns_utf8.c:372 src/patterns_utf8.c:373 src/patterns_utf8.c:380
+#: src/patterns_utf8.c:381
+msgid "KDE Games"
+msgstr "KDE 游戏"
+
+#: src/patterns_utf8.c:376 src/patterns_utf8.c:377 src/patterns_utf8.c:384
+#: src/patterns_utf8.c:385
+msgid "KDE4 Games"
+msgstr "KDE4 游戏"
+
+#: src/patterns_utf8.c:388 src/patterns_utf8.c:389
+msgid "KDE Help System"
+msgstr "KDE 帮助系统"
+
+#: src/patterns_utf8.c:392 src/patterns_utf8.c:393
+msgid "KDE4 Help System"
+msgstr "KDE4 帮助系统"
+
+#: src/patterns_utf8.c:396
+msgid "KDE Integrated Development Environment"
+msgstr "KDE 集成开发环境"
+
+#: src/patterns_utf8.c:397
+msgid "Development under KDE"
+msgstr "KDE 下的开发"
+
+#: src/patterns_utf8.c:400
+msgid "KDE4 Integrated Development Environment"
+msgstr "KDE4 集成开发环境"
+
+#: src/patterns_utf8.c:401
+msgid "Development under KDE4"
+msgstr "KDE4 下的开发"
+
+#: src/patterns_utf8.c:404 src/patterns_utf8.c:405 src/patterns_utf8.c:436
+#: src/patterns_utf8.c:437 src/patterns_utf8.c:489 src/patterns_utf8.c:490
+msgid "KDE System"
+msgstr "KDE 系统"
+
+#: src/patterns_utf8.c:408 src/patterns_utf8.c:412 src/patterns_utf8.c:461
+#: src/patterns_utf8.c:465
+msgid "KDE Graphics"
+msgstr "KDE 图形"
+
+#: src/patterns_utf8.c:416 src/patterns_utf8.c:469
+msgid "KDE Internet"
+msgstr "KDE 因特网"
+
+#: src/patterns_utf8.c:417 src/patterns_utf8.c:470
+msgid "KDE Internet Applications"
+msgstr "KDE 因特网应用程序"
+
+#: src/patterns_utf8.c:421 src/patterns_utf8.c:474
+msgid "KDE Tools designed specifically for use with laptop computers."
+msgstr "专门设计为与便携式计算机使用的 KDE 工具。"
+
+#: src/patterns_utf8.c:424 src/patterns_utf8.c:425 src/patterns_utf8.c:477
+#: src/patterns_utf8.c:478
+msgid "KDE Multimedia"
+msgstr "KDE 多媒体"
+
+#: src/patterns_utf8.c:428 src/patterns_utf8.c:429 src/patterns_utf8.c:432
+#: src/patterns_utf8.c:433 src/patterns_utf8.c:481 src/patterns_utf8.c:482
+#: src/patterns_utf8.c:485 src/patterns_utf8.c:486
+msgid "KDE Office"
+msgstr "KDE 办公"
+
+#: src/patterns_utf8.c:440 src/patterns_utf8.c:441 src/patterns_utf8.c:444
+#: src/patterns_utf8.c:445 src/patterns_utf8.c:493 src/patterns_utf8.c:494
+#: src/patterns_utf8.c:497 src/patterns_utf8.c:498
+msgid "KDE Utilities"
+msgstr "KDE 实用程序"
+
+#: src/patterns_utf8.c:448 src/patterns_utf8.c:449 src/patterns_utf8.c:501
+#: src/patterns_utf8.c:502
+msgid "KDE Desktop Effects"
+msgstr "KDE 桌面效果"
+
+#: src/patterns_utf8.c:452 src/patterns_utf8.c:505
+msgid "YaST KDE User Interfaces"
+msgstr "YaST KDE 用户界面"
+
+#: src/patterns_utf8.c:453 src/patterns_utf8.c:506
+msgid "Graphical YaST user interfaces for the KDE desktop."
+msgstr "KDE 桌面的 YaST 图形用户界面。"
+
+#: src/patterns_utf8.c:456
+msgid "YaST User Interfaces"
+msgstr "YaST 用户界面"
+
+#: src/patterns_utf8.c:457
+msgid "Graphical YaST user interfaces for minimal X desktop."
+msgstr "极简 X 桌面的 YaST 图形用户界面。"
+
+#: src/patterns_utf8.c:509
+msgid "Kernel Development"
+msgstr "内核开发"
+
+#: src/patterns_utf8.c:510
+msgid "Kernel development packages"
+msgstr "内核开发软件包"
+
+#: src/patterns_utf8.c:513
+msgid "Web and LAMP Server"
+msgstr "Web 和 LAMP 服务器"
+
+#: src/patterns_utf8.c:514
+msgid ""
+"Software to set up a Web server that is able to serve static, dynamic, and "
+"interactive content (like a Web shop). This includes Apache HTTP Server, the "
+"database management system MySQL, and scripting languages such as PHP, "
+"Python, Ruby on Rails, or Perl."
+msgstr ""
+"设置能供静态、动态和交互式内容（如网上商店）使用的 Web 服务器的软件。 它基于 Apache HTTP 服务器、数据库管理系统 MySQL "
+"和脚本语言，如 PHP、Python、Ruby on Rails 或 Perl。"
+
+#: src/patterns_utf8.c:517
+msgid "Laptop"
+msgstr "便携式计算机"
+
+#: src/patterns_utf8.c:518
+msgid "Tools designed specifically for laptop computers."
+msgstr "专门为便携式计算机设计的工具。"
+
+#: src/patterns_utf8.c:521
+msgid "Mail and News Server"
+msgstr "邮件和新闻服务器"
+
+#: src/patterns_utf8.c:522
+msgid ""
+"Software to set up electronic mail and message services to handle e-mail, "
+"mailing, and news lists, including a virus scanner to scan messages at the "
+"server level."
+msgstr "设置电子邮件和信息服务的软件，用来处理电子邮件、邮件列表和新闻列表。包含一个病毒扫描程序在服务器端扫描邮件。"
+
+#: src/patterns_utf8.c:525
+msgid "Minimal System (Appliances)"
+msgstr "极简系统 (Appliances)"
+
+#: src/patterns_utf8.c:526
+msgid ""
+"This is the minimal Novell SUSE Linux Enterprise runtime system. It is really "
+"a minimal system, you can login and a shell will be started, that's all. It "
+"is intended as base for Appliances. Support for this minimal pattern is only "
+"possible as part of an OEM agreement or after upgrading the system to the "
+"Server Base pattern"
+msgstr ""
+"这是 Novell SUSE Linux 企业版的最小的运行时系统。这是一个最小化的系统，您可以登录，打开一个 shell，这就是全部。这是为 "
+"Appliances 的基础设计的。只有在作为 OEM 协议的一部分或者把系统升级到 Server Base 模式后才有对这种最小系统的支持。"
+
+#: src/patterns_utf8.c:529
+msgid "Miscellaneous Server"
+msgstr "其他服务器"
+
+#: src/patterns_utf8.c:530
+msgid "Miscellaneous Server."
+msgstr "其他服务器。"
+
+#: src/patterns_utf8.c:533 src/patterns_utf8.c:537
+msgid "Multimedia"
+msgstr "多媒体"
+
+#: src/patterns_utf8.c:534 src/patterns_utf8.c:538
+msgid ""
+"Multimedia players, sound editing tools , video and image manipulation "
+"applications."
+msgstr "多媒体播放器，音频编辑工具、视频和图像处理应用程序。"
+
+#: src/patterns_utf8.c:541
+msgid "Mono Development"
+msgstr "Mono 开发"
+
+#: src/patterns_utf8.c:542
+msgid "MONO development packages"
+msgstr "MONO 开发软件包"
+
+#: src/patterns_utf8.c:545
+msgid "Network Administration"
+msgstr "网络管理"
+
+#: src/patterns_utf8.c:546
+msgid "Tools for administering and debugging networks."
+msgstr "供管理和调试网络的工具。"
+
+#: src/patterns_utf8.c:549 src/patterns_utf8.c:557
+msgid "Misc. Proprietary Packages"
+msgstr "杂项 - 私有软件包"
+
+#: src/patterns_utf8.c:550 src/patterns_utf8.c:558
+msgid "Packages that are proprietary and not under an Open Source license."
+msgstr "专有和不使用开放源代码许可证的软件包。"
+
+#: src/patterns_utf8.c:553
+msgid "Java Environment"
+msgstr "Java 环境"
+
+#: src/patterns_utf8.c:554
+msgid "Proprietary Java packages."
+msgstr "私有 Java 软件包。"
+
+#: src/patterns_utf8.c:561
+#| msgid "Novell and Linux"
+msgid "Novell Client for Linux"
+msgstr "Linux 下的 Novell 客户端"
+
+#: src/patterns_utf8.c:562
+msgid ""
+"The Novell Client for Linux workstation software extends the capabilities of "
+"a Linux desktop by providing access to NetWare and Open Enterprise Servers "
+"(OES)."
+msgstr ""
+"Linux 下的 Novell 客户端工作站软件扩展了 Linux 桌面的功能，提供了访问 "
+"NetWare 和 Open Enterprise 服务器（OES）的能力。"
+
+#: src/patterns_utf8.c:565
+msgid "Novell Applications"
+msgstr "Novell 应用程序"
+
+#: src/patterns_utf8.c:566
+msgid ""
+"Client software enabling connection to traditional Novell services, including "
+"NetWare CIFS/Samba mounts, GroupWise, and iPrint."
+msgstr "用于连接传统 Novell 服务的客户端软件，包括 NetWare CIFS/Samba 挂载、GroupWise 和 iPrint。"
+
+#: src/patterns_utf8.c:569
+msgid "Infiniband (OFED)"
+msgstr "Infiniband (OFED)"
+
+#: src/patterns_utf8.c:570
+msgid ""
+"This pattern defines the OpenFabrics Enterprise Distribution (OFED) software "
+"base packages. The base pattern includes the packages you need to get your "
+"Infiniband adapter operational, that is IB kernel modules and basic user "
+"level libraries."
+msgstr ""
+"这个模式包含了 OpenFabrics Enterprise Distribution (OFED) 基础软件包。这可以让 Infiniband "
+"适配器能够使用，也就是包含了 IB 内核模块和基本的用户层的库文件。"
+
+#: src/patterns_utf8.c:573
+msgid "TabletPC"
+msgstr "平板电脑"
+
+#: src/patterns_utf8.c:574
+msgid "Tools designed specifically for use with TabletPCs."
+msgstr "专门设计为平板电脑使用的工具。"
+
+#: src/patterns_utf8.c:577 src/patterns_utf8.c:581
+msgid "Office Software"
+msgstr "办公软件"
+
+#: src/patterns_utf8.c:578 src/patterns_utf8.c:582
+#| msgid "Office software for your desktop environment including OpenOffice.org."
+msgid "Office software for your desktop environment including LibreOffice."
+msgstr "您桌面环境的办公软件，包含 LibreOffice。"
+
+#: src/patterns_utf8.c:585
+msgid "Oracle Server Base"
+msgstr "Oracle 服务器"
+
+#: src/patterns_utf8.c:586
+msgid "Set up the server for installing Oracle databases."
+msgstr "为安装 Oracle 数据库设置服务器。"
+
+#: src/patterns_utf8.c:589
+msgid "Print Server"
+msgstr "打印服务器"
+
+#: src/patterns_utf8.c:590
+msgid ""
+"Software used to host print queues so that they may be accessed by other "
+"computers on the same network. LPD, CUPS, and SMB print servers and queues "
+"are supported."
+msgstr "主控打印队列的软件，使得同一网络其它计算机可以访问队列。支持 LPD、CUPS 和 SMB 打印服务器和队列。"
+
+#: src/patterns_utf8.c:593 src/patterns_utf8.c:597 src/patterns_utf8.c:601
+#: src/patterns_utf8.c:605 src/patterns_utf8.c:609 src/patterns_utf8.c:613
+#: src/patterns_utf8.c:617 src/patterns_utf8.c:621 src/patterns_utf8.c:625
+#: src/patterns_utf8.c:629
+msgid "Remaining Software"
+msgstr "剩余的软件"
+
+#: src/patterns_utf8.c:594 src/patterns_utf8.c:598 src/patterns_utf8.c:602
+#: src/patterns_utf8.c:606 src/patterns_utf8.c:610 src/patterns_utf8.c:614
+#: src/patterns_utf8.c:618 src/patterns_utf8.c:622 src/patterns_utf8.c:626
+#: src/patterns_utf8.c:630
+msgid "Packages that are on CD but not in other patterns."
+msgstr "包含在 CD 但不属于任何模式的软件包。"
+
+#: src/patterns_utf8.c:633
+msgid "Remote Desktop"
+msgstr "远程桌面"
+
+#: src/patterns_utf8.c:634
+msgid "Tools to access a remote desktop."
+msgstr "用于访问远程桌面的工具。"
+
+#: src/patterns_utf8.c:637
+msgid "SAP Application Server Base"
+msgstr "SAP 应用程序服务器"
+
+#: src/patterns_utf8.c:638
+msgid "Set up the server for installing SAP systems."
+msgstr "设置服务器供安装 SAP 系统。"
+
+#: src/patterns_utf8.c:641
+msgid "Software Management"
+msgstr "软件管理"
+
+#: src/patterns_utf8.c:642
+msgid ""
+"This pattern provides a graphical application and a command line tool for "
+"keeping your system up to date."
+msgstr "此模式提供一个图形应用程序和命令行工具来更新系统。"
+
+#: src/patterns_utf8.c:645
+msgid "Package Management - Graphical Tools for GNOME"
+msgstr "软件包管理 － GNOME 图形化工具"
+
+#: src/patterns_utf8.c:646 src/patterns_utf8.c:650 src/patterns_utf8.c:654
+msgid "Package Management - Graphical Tools"
+msgstr "软件包管理 － 图形化工具"
+
+#: src/patterns_utf8.c:649 src/patterns_utf8.c:653
+msgid "Package Management - Graphical Tools for KDE"
+msgstr "电源管理 － KDE 图形化工具"
+
+#: src/patterns_utf8.c:657
+msgid "Tests for the Update Stack"
+msgstr "更新栈测试"
+
+#: src/patterns_utf8.c:658
+msgid ""
+"Packages used for testing that the update stack works.  These tiny packages "
+"do not have any functionality themselves."
+msgstr "测试更新栈工作状况的软件包。这些小软件包本身并不具有功能。"
+
+#: src/patterns_utf8.c:661
+msgid "Voice Over IP Clients"
+msgstr "语音通话客户端"
+
+#: src/patterns_utf8.c:662
+msgid "Client applications for Internet telephony."
+msgstr "因特网拨号的客户端程序。"
+
+#: src/patterns_utf8.c:665
+msgid "Voice Over IP Server"
+msgstr "语音通话"
+
+#: src/patterns_utf8.c:666
+msgid "Voice over IP server."
+msgstr "语音通话"
+
+#: src/patterns_utf8.c:669
+msgid "Web-Based Enterprise Management"
+msgstr "基于 Web 的企业管理"
+
+#: src/patterns_utf8.c:670
+msgid "Web-based enterprise management."
+msgstr "基于 Web 的企业管理"
+
+#: src/patterns_utf8.c:673
+msgid "XFCE Desktop Environment"
+msgstr "XFCE 桌面环境"
+
+#: src/patterns_utf8.c:674
+msgid "Xfce is a lightweight desktop environment for various *NIX systems."
+msgstr "Xfce 是用于众多 *NIX 系统的轻量级桌面环境。"
+
+#: src/patterns_utf8.c:677
+#| msgid "KDE Base System"
+msgid "XFCE Base System"
+msgstr "XFCE 基础系统"
+
+#: src/patterns_utf8.c:678
+#| msgid "Base packages for the KDE desktop environment."
+msgid "Base packages for the XFCE Desktop Environment"
+msgstr "XFCE 桌面环境的基础软件包。"
+
+#: src/patterns_utf8.c:681 src/patterns_utf8.c:682
+msgid "XFCE Office"
+msgstr "XFCE 办公"
+
+#: src/patterns_utf8.c:685 src/patterns_utf8.c:686
+#| msgid "KDE Laptop"
+msgid "XFCE Laptop"
+msgstr "XFCE 便携式计算机"
+
+#: src/patterns_utf8.c:689
+#| msgid "XFCE Desktop Environment"
+msgid "Lightweight X11 Desktop Environment"
+msgstr "轻量级 X11 桌面环境"
+
+#: src/patterns_utf8.c:690
+#| msgid "Xfce is a lightweight desktop environment for various *NIX systems."
+msgid ""
+"LXDE is a lightweight desktop environment similiar to XFCE in its nature."
+msgstr "LXDE 是与 XFCE 差不多的轻量级桌面环境。"
+
+#: src/patterns_utf8.c:693
+#| msgid "KDE Laptop"
+msgid "LXDE Laptop"
+msgstr "LXDE 便携式计算机"
+
+#: src/patterns_utf8.c:694
+#| msgid "KDE Tools designed specifically for use with laptop computers."
+msgid "LXDE Tools designed specifically for use with laptop computers."
+msgstr "专门设计为与便携式计算机使用的 LXDE 工具。"
+
+#: src/patterns_utf8.c:697 src/patterns_utf8.c:698
+#| msgid "KDE Office"
+msgid "LXDE Office"
+msgstr "LXDE 办公"
+
+#: src/patterns_utf8.c:701
+msgid "Moblin User eXperience"
+msgstr "Moblin 用户体验"
+
+#: src/patterns_utf8.c:702
+msgid "Moblin"
+msgstr "Moblin"
+
+#: src/patterns_utf8.c:705
+msgid "Desktop Effects"
+msgstr "桌面效果"
+
+#: src/patterns_utf8.c:706
+msgid "All you need to make use of 3D desktop effects."
+msgstr "使用 3D 桌面效果。"
+
+#: src/patterns_utf8.c:709 src/patterns_utf8.c:713
+msgid "X Window System"
+msgstr "X 窗口系统"
+
+#: src/patterns_utf8.c:710 src/patterns_utf8.c:714
+msgid ""
+"The X Window System provides the only standard platform-independent networked "
+"graphical window system bridging the heterogeneous platforms in today's "
+"enterprise: from network servers to desktops, thin clients, laptops, and "
+"handhelds, independent of operating system and hardware."
+msgstr ""
+"X 窗口系统提供唯一的、标准的、独立于平台的、联网图形窗口系统，跨接当今企业中的各种平台： "
+"从网络服务器到桌面、瘦客户端、便携式计算机和手持设备，独立于系统和硬件。"
+
+#: src/patterns_utf8.c:718
+msgid "x86 Runtime Environment"
+msgstr "x86 运行环境"
+
+#: src/patterns_utf8.c:719
+msgid ""
+"This will install the 32-bit variant of all selected patterns. This allows to "
+"execute 32-bit software."
+msgstr "这将安装所有选中模式的 32 位变体。允许执行 32 位软件。"
+
+#: src/patterns_utf8.c:723
+msgid "Xen Virtual Machine Host Server"
+msgstr "Xen 虚拟机器主机服务器"
+
+#: src/patterns_utf8.c:724
+msgid ""
+"Software to set up a server for configuring, managing, and monitoring virtual "
+"machines on a single physical machine."
+msgstr "用于在单个物理主机上设定一个配置、管理和监视虚拟机的服务器的软件。"
+
+#: src/patterns_utf8.c:727
+msgid "Technical Writing"
+msgstr "技术著述"
+
+#: src/patterns_utf8.c:728
+msgid "Authoring tools and editors for creating technical documentation."
+msgstr "写技术文档用的创作工具和编辑器"
+
+#: src/patterns_utf8.c:731
+msgid "YaST System Administration"
+msgstr "YaST 系统管理"
+
+#: src/patterns_utf8.c:732
+msgid "YaST tools for basic system administration."
+msgstr "基础系统管理的 YaST 工具"
+
+#: src/patterns_utf8.c:735
+msgid "YaST Installation Packages"
+msgstr "YaST 安装软件包"
+
+#: src/patterns_utf8.c:736
+msgid "YaST tools for installing your system."
+msgstr "安装系统用的 YaST 工具。"
+
+#: src/patterns_utf8.c:739
+msgid "SDK: Documentation Tools"
+msgstr "SDK：文档工具"
+
+#: src/patterns_utf8.c:740
+msgid ""
+"Tools for creating development-related documentation, specifications etc."
+msgstr "用于创建与开发相关的文档和规范的工具。"
+
+#: src/patterns_utf8.c:743
+msgid "SDK: Programming Libraries"
+msgstr "SDK：编程库"
+
+#: src/patterns_utf8.c:744
+msgid "Miscellaneous programming libraries."
+msgstr "各种编程库。"
+
+#: src/patterns_utf8.c:747
+msgid "SDK: Miscellaneous"
+msgstr "SDK：杂项"
+
+#: src/patterns_utf8.c:748
+msgid "Miscellaneous software development tools."
+msgstr "各种软件开发工具。"
+
+#: src/patterns_utf8.c:751
+msgid "SDK: Version Control Systems"
+msgstr "SDK：版本控制系统"
+
+#: src/patterns_utf8.c:752
+msgid "Tools for version control and project management."
+msgstr "用于版本控制和项目管理的工具。"
+
+#: src/patterns_utf8.c:755
+msgid "SDK: Base Development"
+msgstr "SDK: 基础开发"
+
+#: src/patterns_utf8.c:759
+msgid "SDK: C/C++ Development"
+msgstr "SDK: C/C++ 开发"
+
+#: src/patterns_utf8.c:763
+msgid "SDK: GNOME Development"
+msgstr "SDK: GNOME 开发"
+
+#: src/patterns_utf8.c:767
+msgid "SDK: Java Development"
+msgstr "SDK: Java 开发"
+
+#: src/patterns_utf8.c:771
+msgid "SDK: KDE Development"
+msgstr "SDK: KDE 开发"
+
+#: src/patterns_utf8.c:775
+msgid "SDK: Linux Kernel Development"
+msgstr "SDK: Linux 内核开发"
+
+#: src/patterns_utf8.c:779
+msgid "SDK: .NET Development"
+msgstr "SDK: .NET 开发"
+
+#: src/patterns_utf8.c:783
+msgid "SDK: Ruby on Rails Development"
+msgstr "SDK: Ruby on Rails 开发"
+
+#: src/patterns_utf8.c:787
+msgid "SDK: Perl Development"
+msgstr "SDK: Perl 开发"
+
+#: src/patterns_utf8.c:791
+msgid "SDK: Python Development"
+msgstr "SDK: Python 开发"
+
+#: src/patterns_utf8.c:795
+msgid "SDK: Qt 4 Development"
+msgstr "SDK: Qt 4 开发"
+
+#: src/patterns_utf8.c:799
+msgid "SDK: Ruby Development"
+msgstr "SDK: Ruby 开发"
+
+#: src/patterns_utf8.c:803
+msgid "SDK: Web Development"
+msgstr "SDK: Web 开发"
+
+#: src/patterns_utf8.c:807
+msgid "SDK: YaST Development"
+msgstr "SDK: YaST 开发"
+
+#: src/patterns_utf8.c:811
+msgid "SDK: Certification"
+msgstr "SDK: 认证"
+
+#: src/patterns_utf8.c:812
+msgid "Tools to perform software certification, e.g. LSB, IPv6"
+msgstr "执行软件认证的工具，比如 LSB, IPv6"
+
+#: src/patterns_utf8.c:815
+msgid "SDK: Cell Development"
+msgstr "SDK: Cell 开发"
+
+#: src/patterns_utf8.c:820
+msgid "Subscription Management Tool for SUSE Linux Enterprise."
+msgstr "SUSE Linux 企业版的订阅管理工具"
+
+#: src/patterns_utf8.c:831
+msgid "SUSE Moblin"
+msgstr "SUSE Moblin"
+
+#: src/patterns_utf8.c:835
+msgid "Real time kernel and utilities for SUSE Linux Enterprise."
+msgstr "SUSE Linux 企业版的实时内核和工具。"
+
+#: src/patterns_utf8.c:839 src/patterns_utf8.c:850
+msgid "WebYaST REST service"
+msgstr "WebYaST REST 服务"
+
+#: src/patterns_utf8.c:842 src/patterns_utf8.c:854
+msgid "WebYaST user interface"
+msgstr "WebYaST 用户界面"
+
+#: src/patterns_utf8.c:844
+msgid "WebYaST"
+msgstr "WebYaST"
+
+#: src/patterns_utf8.c:845
+#| msgid "Web-based enterprise management."
+msgid "Web based system management tool"
+msgstr "基于 Web 的系统管理工具"
+
+#: src/patterns_utf8.c:849
+msgid "WebYaST: REST service components"
+msgstr "WebYaST： REST 服务部件"
+
+#: src/patterns_utf8.c:853
+msgid "WebYaST: User interface components"
+msgstr "WebYaST 用户界面部件"
+
+#: src/patterns_utf8.c:939
+msgid "Base Technologies"
+msgstr "基础技术"
+
+#: src/patterns_utf8.c:940
+msgid "Development"
+msgstr "开发"
+
+#: src/patterns_utf8.c:941
+msgid "Graphical Environments"
+msgstr "图形环境"
+
+#: src/patterns_utf8.c:942
+msgid "Proprietary Software"
+msgstr "私有软件"
+
+#: src/patterns_utf8.c:943
+msgid "Desktop Functions"
+msgstr "桌面功能"
+
+#: src/patterns_utf8.c:944
+msgid "Server Functions"
+msgstr "服务器功能"
+
+#: src/patterns_utf8.c:945
+msgid "Primary Functions"
+msgstr "主要功能"
+
+#: src/patterns_utf8.c:946
+msgid "Desktops"
+msgstr "桌面"
+
+#: src/patterns_utf8.c:947
+msgid "Additional Software"
+msgstr "附加软件"
+
+#: src/patterns_utf8.c:948
+msgid "GNOME Desktop"
+msgstr "GNOME 桌面"
+
+#: src/patterns_utf8.c:949
+msgid "KDE Desktop"
+msgstr "KDE 桌面"
+
+#: src/patterns_utf8.c:950
+msgid "Not yet classified"
+msgstr "尚未分类"
+

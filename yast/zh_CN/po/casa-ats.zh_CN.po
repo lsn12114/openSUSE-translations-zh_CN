@@ -1,0 +1,532 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-18 13:04+0200\n"
+"PO-Revision-Date: 2012-07-21 10:43+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. CasaAts read dialog caption
+#: src/CasaAts.ycp:164
+msgid "Initializing CASA ATS Configuration"
+msgstr "正在初始化通用认证服务适配器（CASA）认证令牌服务（ATS）配置"
+
+#. Progress stage 1/2
+#: src/CasaAts.ycp:175
+msgid "Read the previous settings"
+msgstr "读取以前的设置"
+
+#. Progress stage 2/2
+#: src/CasaAts.ycp:177
+msgid "Read the firewall status"
+msgstr "读取防火墙状态"
+
+#. Progress step 1/2
+#: src/CasaAts.ycp:180
+msgid "Reading the settings file..."
+msgstr "正在读取设置文件..."
+
+#. Progress step 2/2
+#: src/CasaAts.ycp:182
+msgid "Reading the firewall status..."
+msgstr "正在读取防火墙状态..."
+
+#. Progress finished
+#: src/CasaAts.ycp:184 src/CasaAts.ycp:489 src/CasaAts.ycp:516
+msgid "Finished"
+msgstr "已完成"
+
+#: src/CasaAts.ycp:213
+msgid "Cannot read settings file."
+msgstr "无法读取设置文件。"
+
+#. Error message
+#: src/CasaAts.ycp:440
+msgid "Cannot read firewall status."
+msgstr "无法读取防火墙状态。"
+
+#. CasaAts read dialog caption
+#: src/CasaAts.ycp:464
+msgid "Saving casa-ats Configuration"
+msgstr "正在保存通用认证服务适配器（CASA）认证令牌服务（ATS）配置"
+
+#. Progress stage 1/3
+#: src/CasaAts.ycp:476 src/CasaAts.ycp:499
+msgid "Write the trusted server settings"
+msgstr "写入信任服务器设置"
+
+#. Progress stage 2/3
+#: src/CasaAts.ycp:478 src/CasaAts.ycp:501
+msgid "Write the sysconfig settings"
+msgstr "写入 sysconfig 设置"
+
+#. Progress stage 3/3
+#: src/CasaAts.ycp:480 src/CasaAts.ycp:505
+msgid "Update runlevel settings"
+msgstr "更新运行级别设置"
+
+#. Progress step 1/3
+#: src/CasaAts.ycp:483 src/CasaAts.ycp:508
+msgid "Writing the trusted server settings..."
+msgstr "正在写入信任服务器设置..."
+
+#. Progress step 2/3
+#: src/CasaAts.ycp:485 src/CasaAts.ycp:510
+msgid "Writing the sysconfig settings..."
+msgstr "正在写入 sysconfig 设置..."
+
+#. Progress step 3/3
+#: src/CasaAts.ycp:487 src/CasaAts.ycp:514
+msgid "Updating runlevel settings..."
+msgstr "正在更新运行级别设置..."
+
+#. Progress stage 4/4
+#: src/CasaAts.ycp:503
+msgid "Adjust firewall"
+msgstr "调整防火墙"
+
+#. Progress step 4/4
+#: src/CasaAts.ycp:512
+msgid "Adjusting firewall..."
+msgstr "正在调整防火墙..."
+
+#: src/CasaAts.ycp:576
+msgid "Cannot sysconfig settings."
+msgstr "无法写入 sysconfig 设置。"
+
+#: src/CasaAts.ycp:763
+msgid "Error adjusting firewall."
+msgstr "调整防火墙错误。"
+
+#: src/CasaAts.ycp:796
+msgid "Error updating runlevels."
+msgstr "更新运行级别错误。"
+
+#. TODO FIXME: your code here...
+#. Configuration summary text for autoyast
+#: src/CasaAts.ycp:837
+msgid "Configuration summary..."
+msgstr "配置摘要..."
+
+#. Command line help text for the Xcasa-ats module
+#: src/casa-ats.ycp:56
+msgid "Configuration of casa-ats"
+msgstr "通用认证服务适配器（CASA）认证令牌服务（ATS）配置"
+
+#. CasaAts summary dialog caption
+#. CasaAts configure1 dialog caption
+#. Initialization dialog caption
+#: src/complex.ycp:92 src/dialogs.ycp:1194 src/wizards.ycp:131
+msgid "CasaAts Configuration"
+msgstr "通用认证服务适配器（CASA）认证令牌服务（ATS）配置"
+
+#. Frame label
+#: src/complex.ycp:100
+msgid "CasaAts to Configure"
+msgstr "要配置的通用认证服务适配器（CASA）认证令牌服务（ATS）"
+
+#. CasaAts overview dialog caption
+#: src/complex.ycp:152
+msgid "CasaAts Overview"
+msgstr "通用认证服务适配器（CASA）认证令牌服务（ATS）概览"
+
+#. Table header
+#: src/complex.ycp:159
+msgid "Number"
+msgstr "数字"
+
+#: src/complex.ycp:159
+msgid "CasaAts"
+msgstr "通用认证服务适配器（CASA）认证令牌服务（ATS）"
+
+#: src/dialogs.ycp:74
+msgid "&Search Root Context (i.e. cn=users,o=novell)"
+msgstr "&搜索根环境（例如 cn=users，o=novell）"
+
+#: src/dialogs.ycp:114
+msgid "CASA Authentication Realm Search Roots Configuration"
+msgstr "通用认证服务适配器（CASA）认证领域搜索根配置"
+
+#. dialog help 1/2
+#: src/dialogs.ycp:117
+msgid ""
+"<p>Configure the search roots for the authentication\n"
+"realm in this dialog.</p>\n"
+msgstr "<p>在此对话窗口中配置认证领域的搜索根。</p>\n"
+
+#. dialog help 2/2
+#: src/dialogs.ycp:122
+msgid ""
+"<br><p>The <b>Search Roots</b> list the LDAP contexts containing\n"
+"entities that may be authenticated by the Authentication Token Server. The order\n"
+"shown in the list matches the order utilized by the server when performing\n"
+"searches while trying to authenticate an entity.</p>\n"
+msgstr "<br><p><b>搜索根</b>列出了包含可以被认证令牌服务器认证的实体的 LDAP 环境。列表中的顺序与服务器在尝试认证实体时执行搜索所用的顺序相匹配。</p>\n"
+
+#: src/dialogs.ycp:147 src/dialogs.ycp:567
+msgid "Search Roots"
+msgstr "搜索根"
+
+#: src/dialogs.ycp:149
+msgid "Context"
+msgstr "环境"
+
+#: src/dialogs.ycp:150 src/dialogs.ycp:351 src/dialogs.ycp:765
+#: src/dialogs.ycp:791 src/dialogs.ycp:1056
+msgid "Ad&d"
+msgstr "添加(&D)"
+
+#: src/dialogs.ycp:151 src/dialogs.ycp:352 src/dialogs.ycp:766
+#: src/dialogs.ycp:792 src/dialogs.ycp:1057
+msgid "&Edit"
+msgstr "编辑(&E)"
+
+#: src/dialogs.ycp:152 src/dialogs.ycp:353 src/dialogs.ycp:767
+#: src/dialogs.ycp:793 src/dialogs.ycp:1058
+msgid "De&lete"
+msgstr "删除(&L)"
+
+#: src/dialogs.ycp:263
+msgid "&Url (i.e. ldaps://ats1.novell.com)"
+msgstr "&URL (例如 ldaps://ats1.novell.com)"
+
+#: src/dialogs.ycp:291
+msgid "Not using LDAPS is a security risk"
+msgstr "不使用 LDAPS 有安全风险"
+
+#: src/dialogs.ycp:296
+msgid "URL entered is not valid"
+msgstr "输入的 URL 无效"
+
+#: src/dialogs.ycp:317
+msgid "CASA Authentication LDAP Server URL Configuration"
+msgstr "CASA 认证 LDAP 服务器 URL 配置"
+
+#. dialog help 1/2
+#: src/dialogs.ycp:320
+msgid "<p>Configure the URLs of the LDAP servers in this dialog.</p>\n"
+msgstr "<p>在此对话窗口中配置 LDAP 服务器的 URL。</p>\n"
+
+#. dialog help 2/2
+#. dialog help 2/7
+#: src/dialogs.ycp:324 src/dialogs.ycp:468
+msgid ""
+"<br><p>The <b>LDAP URLs</b> list the URLs of the LDAP Servers that the\n"
+"Authentication Token Server should contact for realm information. Configuring\n"
+"multiple LDAP Server resources improves fault tolerance.</p>\n"
+msgstr "<br><p><b>LDAP URL</b>列出了认证令牌服务连接获取领域信息的 LDAP 服务器列表。配置多个 LDAP 服务器资源会提高容错。</p>\n"
+
+#: src/dialogs.ycp:348 src/dialogs.ycp:565
+msgid "LDAP Server URLs"
+msgstr "LDAP 服务器 URL"
+
+#: src/dialogs.ycp:350
+msgid "Url"
+msgstr "URL"
+
+#: src/dialogs.ycp:461
+msgid "CASA Authentication Realm Setup"
+msgstr "CASA 认证领域设置"
+
+#. dialog help 1/7
+#: src/dialogs.ycp:464
+msgid "<p>This dialog configures an Authentication Realm.</p>\n"
+msgstr "<p>在此对话框中配置一个认证领域。</p>\n"
+
+#. dialog help 3/7
+#: src/dialogs.ycp:474
+msgid ""
+"<br><p>The <b>Directory Type</b> specifies the type of directory utilized\n"
+"in the realm. This is used to resolve issues related to schema differences.</p>\n"
+msgstr "<br><p><b>目录类型</b>指定了领域中使用的目录类型。这用来解决方案差异相关问题。</p>\n"
+
+#. dialog help 4/7
+#: src/dialogs.ycp:479
+msgid ""
+"<br><p>The <b>Authentication Mechanisms</b> box allows you to configure the\n"
+"mechanisms that can be utilized to authenticate an entity to the realm.</p>\n"
+msgstr "<p><b>认证机制</b>允许您配置被用来向领域认证实体的机制。</p>\n"
+
+#. dialog help 5/7
+#: src/dialogs.ycp:484
+msgid ""
+"<br><p>The <b>Proxy User Credentials</b> specify the credentials that the\n"
+"Authentication Token Service should utilize to authenticate to the realm for the\n"
+"purpose of performing searches and obtaining information about authenticated\n"
+"entities.\n"
+msgstr "<br><p><b>代理用户凭据</b>指定认证令牌服务为执行搜索和获取认证的实体的信息应利用以认证领域的凭据。\n"
+
+#. dialog help 6/7
+#: src/dialogs.ycp:491
+msgid ""
+"<br><p>The <b>LDAP Server Urls</b> button allows you to configure the\n"
+"URLs of the LDAP Servers associated with the realm.</p>\n"
+msgstr "<br><p><b>LDAP 服务器 URL</b>按钮允许您配置领域相关联的 LDAP 服务器的 URL。</p>\n"
+
+#. dialog help 7/7
+#: src/dialogs.ycp:496
+msgid ""
+"<br><p>The <b>Search Roots</b> button allows you to configure the\n"
+"LDAP contexts containing entities that can be authenticated.</p>\n"
+msgstr "<br><p><b>搜索根</b>按钮允许您配置包含可以认证的实体的 LDAP 环境。</p>\n"
+
+#: src/dialogs.ycp:532
+msgid "Real&m Id"
+msgstr "领域 ID(&m)"
+
+#: src/dialogs.ycp:544
+msgid "Authentication Mechanisms"
+msgstr "认证机制"
+
+#: src/dialogs.ycp:546
+msgid "U&sername/Password"
+msgstr "用户名/密码(&s)"
+
+#: src/dialogs.ycp:547
+msgid "&Kerberos V"
+msgstr "Kerberos V(&K)"
+
+#: src/dialogs.ycp:555
+msgid "Proxy User Credentials"
+msgstr "代理用户凭据"
+
+#: src/dialogs.ycp:557
+msgid "&Username (i.e. cn=admin,o=novell)"
+msgstr "用户名(&U) (例如 cn=admin,o=nvell)"
+
+#: src/dialogs.ycp:558
+msgid "&Password"
+msgstr "密码(&P)"
+
+#: src/dialogs.ycp:559
+msgid "&Confirm Password"
+msgstr "确认密码(&C)"
+
+#: src/dialogs.ycp:620
+msgid "You must specify an Id for the realm."
+msgstr "必须为领域指定一个 ID。"
+
+#: src/dialogs.ycp:624
+msgid "You must at least configure one LDAP URL."
+msgstr "必须至少配置一个 LDAP URL。"
+
+#: src/dialogs.ycp:628
+msgid "You must specify at least one authentication mechanism."
+msgstr "必须至少指定一个认证机制。"
+
+#: src/dialogs.ycp:632
+msgid "You must specify a Proxy Username for the realm."
+msgstr "必须为领域指定一个代理用户名。"
+
+#: src/dialogs.ycp:636
+msgid "You must specify a Proxy Password for the realm."
+msgstr "必须为领域指定一个代理密码。"
+
+#: src/dialogs.ycp:640
+msgid "The specified Proxy Passwords do not match."
+msgstr "指定的代理密码不匹配。"
+
+#: src/dialogs.ycp:646
+msgid "You must specify a base search root for the realm."
+msgstr "必须为领域指定一个基础搜索根。"
+
+#: src/dialogs.ycp:705
+msgid "Casa Authentication Token Server Configuration"
+msgstr "CASA 认证令牌服务器配置"
+
+#. dialog help 1/5
+#: src/dialogs.ycp:708
+msgid ""
+"<p>The CASA Authentication Token Server can be set\n"
+"up in this dialog.</p>\n"
+msgstr "<p>可以在此对话框中设置通用认证服务适配器认证令牌服务器。</p>\n"
+
+#. dialog help 2/5
+#: src/dialogs.ycp:713
+msgid ""
+"<br><p>The <b>Authentication Realms</b> list the sources that can be used for\n"
+"authenticating users.</p>\n"
+msgstr "<br><p><b>认证领域</b>列出了可以用来认证用户的源。</p>\n"
+
+#. dialog help 3/5
+#: src/dialogs.ycp:718
+msgid ""
+"<br><p>Enable <b>Direct Access</b> to allow clients to contact the server\n"
+"via port 2645. This opens the port through the Firewall. Direct Access requires\n"
+"that you setup the Common Server Certificate. Please note that CASA Authentication\n"
+"Token Clients expect that the Common Server Certificate be issued by a trusted\n"
+"Certificate Authority.</p>\n"
+msgstr ""
+"<br><p>启用<b>直接访问</b>以允许客户机通过端口 2645 访问服务器。这将在防火墙上打开端口。\n"
+"直接访问需要您设置通用服务器证书。请注意通用认证服务适配器认证令牌客户端需要信任的证书颁发机构发行的通用服务器证书。</p>\n"
+
+#. dialog help 4/5
+#: src/dialogs.ycp:726
+msgid ""
+"<br><p>Enable <b>Web Server Access</b> to allow clients to contact the server\n"
+"via the Web Server (port 2645). The Apache Web Server should be installed and\n"
+"enabled for this to work.</p>\n"
+msgstr "<br><p>启用<b>网络服务器访问</b>允许客户端通过网络服务器 (端口 2645) 访问服务器。应安装和启用 Apache 网络服务器。</p>\n"
+
+#. dialog help 5/5
+#: src/dialogs.ycp:732
+msgid ""
+"<br><p>The <b>Reconfigure Interval</b> specifies the interval in seconds\n"
+"between attempts by the server to re-read its configuration. A value of\n"
+"zero means that the server only reads its configuration during start up.</p>\n"
+msgstr "<br><p><b>重读配置间隔</b>指定了以秒计的服务器重新读取其配置的尝试之间的间隔。零意味着服务器只在启动时读取它的配置。</p>\n"
+
+#: src/dialogs.ycp:762 src/dialogs.ycp:788
+msgid "Authentication Realms"
+msgstr "认证领域"
+
+#: src/dialogs.ycp:764 src/dialogs.ycp:790
+msgid "Realm"
+msgstr "领域"
+
+#: src/dialogs.ycp:772 src/dialogs.ycp:798
+msgid "Direc&t Access"
+msgstr "直接访问(&t)"
+
+#: src/dialogs.ycp:774 src/dialogs.ycp:800
+msgid "&Web Server Access"
+msgstr "&Web 服务器访问"
+
+#: src/dialogs.ycp:776 src/dialogs.ycp:802
+msgid "Recon&figure Interval"
+msgstr "重读配置间隔(&f)"
+
+#: src/dialogs.ycp:922
+msgid "The reconfigure interval needs to be a non-negative number."
+msgstr "重读配置间隔需要是一个非负数字。"
+
+#: src/dialogs.ycp:928
+msgid "Specify server access type."
+msgstr "指定服务器访问类型。"
+
+#: src/dialogs.ycp:933
+msgid "You must at least configure one Authentication Realm."
+msgstr "您必须至少配置一个认证领域。"
+
+#. TextEntry label
+#: src/dialogs.ycp:969
+msgid "D&NS Name or Dotted IP Address"
+msgstr "D&NS 名称或有点的 IP 地址"
+
+#: src/dialogs.ycp:992
+msgid "Address entered is not valid"
+msgstr "输入的地址无效"
+
+#: src/dialogs.ycp:1013
+msgid "Casa Authentication Token Service Configuration"
+msgstr "CASA 认证令牌服务配置"
+
+#. dialog help 1/3
+#: src/dialogs.ycp:1016
+msgid ""
+"<br><p>The CASA Authentication Token Service can be set\n"
+"up in this dialog.</p>\n"
+msgstr "<br><p>可以在此对话框中设置通用认证服务适配器认证令牌服务。</p>\n"
+
+#. dialog help 2/3
+#: src/dialogs.ycp:1021
+msgid ""
+"<br><p>The <b>Trusted Authentication Token Servers</b> list the addresses of all\n"
+"remote servers that are trusted as authentication token issuers. Configured address\n"
+"names must match the names used by the SSL Certificates of the servers.</p>\n"
+msgstr "<br><p><b>信任的认证令牌服务器</b>列出了所有信任的认证令牌签发方的远程服务器列表。配置的地址名必须和服务器 SSL 证书使用的名称匹配。</p>\n"
+
+#. dialog help 3/3
+#: src/dialogs.ycp:1027
+msgid ""
+"<br><p><b>Enable Server</b> to allow users to obtain Authentication Tokens\n"
+"from this device. Please, <b>Configure Server</b> if enabled.</p>\n"
+msgstr "<br><p><b>启用服务器</b>允许用户从此设备获取认证令牌。如果启用了服务器，请<b>配置服务器</b>。</p>\n"
+
+#: src/dialogs.ycp:1052
+msgid "Trusted Authentication Token Servers"
+msgstr "信任的认证令牌服务器"
+
+#: src/dialogs.ycp:1054
+msgid "Address"
+msgstr "地址"
+
+#: src/dialogs.ycp:1063
+msgid "Enable &Server"
+msgstr "启用服务器(&S)"
+
+#: src/dialogs.ycp:1064
+msgid "Confi&gure Server"
+msgstr "配置服务器(&g)"
+
+#. CasaAts configure1 dialog contents
+#: src/dialogs.ycp:1197
+msgid "First part of configuration of casa-ats"
+msgstr "CASA 认证令牌服务配置的第一部分"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:42
+msgid ""
+"<p><b><big>Initializing CASA Authentication Token Service Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在初始化 CASA 认证令牌服务配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:47
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化:</big></b><br>\n"
+"请您现在点击<b>终止</b>, 以便安全中断配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:52
+msgid ""
+"<p><b><big>Saving CASA Authentication Token Service Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在保存 CASA 认证令牌服务配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:57
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"请点击<B>中断</B>,以便中断保存.\n"
+"一个附加对话框将告诉您这样做是否安全.\n"
+"</p>\n"
+
+#. ATS info dialog help 1/3
+#: src/helps.ycp:64
+msgid ""
+"<p><b><big>CASA Authentication Token Service Configuration</big></b><br>\n"
+"Configure the CASA Authentication Token Service here.<br></p>\n"
+msgstr ""
+"<p><b><big>CASA 认证令牌服务配置</big></b><br>\n"
+"在这里配置 CASA 认证令牌服务。<br></p>\n"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:133
+msgid "Initializing..."
+msgstr "正在初始化..."

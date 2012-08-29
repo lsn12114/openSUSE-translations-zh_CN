@@ -1,0 +1,460 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:47+0200\n"
+"PO-Revision-Date: 2012-07-07 14:25+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/Multipath.ycp:110
+msgid "Cannot read multipath section in multipath configuration."
+msgstr "无法读取多路径配置中的多路径章节。"
+
+#: src/Multipath.ycp:116
+msgid "Cannot read defaults section in multipath configuration."
+msgstr "无法读取多路径配置中的默认章节。"
+
+#: src/Multipath.ycp:122
+msgid "Cannot read blacklist section in multipath configuration."
+msgstr "无法读取多路径配置中的黑名单章节。"
+
+#: src/Multipath.ycp:128
+msgid "Cannot read blacklist_exceptions section in multipath configuration."
+msgstr "无法读取多路径配置中的黑名单例外章节。"
+
+#: src/Multipath.ycp:134
+msgid "Cannot read devices section in multipath configuration."
+msgstr "无法读取多路径配置中的设备章节。"
+
+#. Multipath read dialog caption
+#: src/Multipath.ycp:149
+msgid "Initializing Multipath Configuration"
+msgstr "正在初始化多路径配置"
+
+#. Progress stage 1/3
+#: src/Multipath.ycp:159
+msgid "Read configurations"
+msgstr "读取配置"
+
+#. Progress stage 2/3
+#: src/Multipath.ycp:161
+msgid "Read service status"
+msgstr "读取服务状态"
+
+#. Progress stage 3/3
+#: src/Multipath.ycp:163
+msgid "Detect the devices"
+msgstr "检测设备"
+
+#. Progress step 1/3
+#: src/Multipath.ycp:166
+msgid "Reading the configurations..."
+msgstr "正在读取配置..."
+
+#. Progress step 2/3
+#: src/Multipath.ycp:168
+msgid "Reading the service status..."
+msgstr "正在读取服务状态..."
+
+#. Progress step 3/3
+#: src/Multipath.ycp:170
+msgid "Detecting the devices..."
+msgstr "正在检测设备..."
+
+#. Progress finished
+#: src/Multipath.ycp:172 src/Multipath.ycp:261
+msgid "Finished"
+msgstr "已完成"
+
+#: src/Multipath.ycp:183
+msgid "Cannot install required packages."
+msgstr "无法安装所需的包。"
+
+#. Error message
+#: src/Multipath.ycp:222
+msgid "Cannot detect devices."
+msgstr "无法检测设备。"
+
+#. Multipath read dialog caption
+#: src/Multipath.ycp:239
+msgid "Saving Multipath Configuration"
+msgstr "正在保存多路径配置"
+
+#. Progress stage 1/3
+#: src/Multipath.ycp:252
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. Progress stage 2/3
+#: src/Multipath.ycp:254
+msgid "Restart multipathd"
+msgstr "重启多路径后台服务(multipathd)"
+
+#. Progress step 1/2
+#: src/Multipath.ycp:257
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. Progress step 2/2
+#: src/Multipath.ycp:259
+msgid "Restarting multipathd..."
+msgstr "正在重启多路径后台服务(multipathd)..."
+
+#: src/Multipath.ycp:272
+msgid "Can not write settings."
+msgstr "不能写入设置."
+
+#: src/Multipath.ycp:283
+msgid "Restarting multipathd failed."
+msgstr "重启多路径后台服务 (multipathd) 失败。"
+
+#: src/Multipath.ycp:352 src/Multipath.ycp:380 src/Multipath.ycp:391
+#: src/Multipath.ycp:427 src/Multipath.ycp:443 src/Multipath.ycp:459
+#: src/Multipath.ycp:475 src/complex.ycp:274 src/complex.ycp:280
+msgid "Configure"
+msgstr "配置"
+
+#: src/Multipath.ycp:370 src/Multipath.ycp:375 src/Multipath.ycp:384
+#: src/complex.ycp:273 src/complex.ycp:280
+msgid "Status"
+msgstr "状态"
+
+#: src/Multipath.ycp:398 src/Multipath.ycp:408
+msgid "Ignore your modification?"
+msgstr "忽略您的更改？"
+
+#. Multipath summary dialog caption
+#. Initialization dialog caption
+#: src/complex.ycp:46 src/wizards.ycp:83
+msgid "Multipath Configuration"
+msgstr "多路径配置"
+
+#: src/complex.ycp:55
+msgid "Do &not use Multipath"
+msgstr "不使用多路径 (&N)"
+
+#: src/complex.ycp:56
+msgid "&Use Multipath"
+msgstr "使用多路径 (&U)"
+
+#: src/complex.ycp:86
+msgid "Blacklist"
+msgstr "黑名单"
+
+#: src/complex.ycp:90 src/complex.ycp:131 src/complex.ycp:164
+msgid "Item"
+msgstr "项"
+
+#: src/complex.ycp:90 src/complex.ycp:131 src/complex.ycp:164
+msgid "Value"
+msgstr "值"
+
+#: src/complex.ycp:127
+msgid "Blacklist Exceptions"
+msgstr "黑名单例外"
+
+#: src/complex.ycp:160
+msgid "Defaults"
+msgstr "默认值"
+
+#: src/complex.ycp:190
+msgid "Devices"
+msgstr "设备"
+
+#: src/complex.ycp:194
+msgid "vendor"
+msgstr "制造商"
+
+#: src/complex.ycp:194
+msgid "product"
+msgstr "产品"
+
+#: src/complex.ycp:221
+msgid "Multipaths"
+msgstr "多路径"
+
+#: src/complex.ycp:226
+msgid "alias"
+msgstr "别名"
+
+#: src/complex.ycp:226 src/complex.ycp:1815 src/complex.ycp:2266
+msgid "wwid"
+msgstr "万维标识符"
+
+#: src/complex.ycp:242
+msgid "Configure Defaults"
+msgstr "配置默认"
+
+#: src/complex.ycp:243
+msgid "Configure Devices"
+msgstr "配置设备"
+
+#: src/complex.ycp:244
+msgid "Configure Blacklist"
+msgstr "配置黑名单"
+
+#: src/complex.ycp:245
+msgid "Configure Blacklist Exceptions"
+msgstr "配置黑名单例外"
+
+#: src/complex.ycp:877 src/complex.ycp:2428
+msgid "Illegal parameters:\n"
+msgstr "非法的参数：\n"
+
+#: src/complex.ycp:932 src/complex.ycp:1613 src/complex.ycp:2063
+#: src/complex.ycp:2483
+msgid "Duplicated configuration."
+msgstr "冗余配置。"
+
+#: src/complex.ycp:966 src/complex.ycp:997 src/complex.ycp:1007
+#: src/complex.ycp:2536 src/complex.ycp:2566 src/complex.ycp:2576
+msgid "Show Details"
+msgstr "显示细节"
+
+#: src/complex.ycp:1160
+msgid "Illegal parameter:"
+msgstr "非法参数："
+
+#: src/complex.ycp:1516 src/complex.ycp:1966
+msgid "Illegal parameters:"
+msgstr "非法参数："
+
+#: src/complex.ycp:1634 src/complex.ycp:1640 src/complex.ycp:1809
+#: src/complex.ycp:2084 src/complex.ycp:2090 src/complex.ycp:2260
+msgid "item"
+msgstr "项"
+
+#: src/complex.ycp:2498
+msgid "Duplicated configuration"
+msgstr "冗余配置"
+
+#: src/complex.ycp:2682
+msgid "Can not find /sbin/multipath"
+msgstr "无法找到 /sbin/multipath"
+
+#: src/complex.ycp:2718
+msgid "Use multipath failed:"
+msgstr "使用多路径失败："
+
+#: src/complex.ycp:2724
+msgid "* Cannot enable boot.multipath."
+msgstr "* 无法启用 boot.multipath。"
+
+#: src/complex.ycp:2732
+msgid "* Cannot enable multipathd."
+msgstr "* 无法启用多路径后台服务 (multipathd)。"
+
+#: src/complex.ycp:2742
+msgid "* Cannot start multipathd."
+msgstr "* 无法启动多路径后台服务(multipathd)。"
+
+#: src/complex.ycp:2761
+msgid "Do not use multipath failed:"
+msgstr "不使用多路径失败："
+
+#: src/complex.ycp:2767
+msgid "* Cannot stop multipath."
+msgstr "* 无法停止多路径。"
+
+#: src/complex.ycp:2777
+msgid "* Cannot disable multipathd."
+msgstr "* 无法禁用多路径后台服务 (multipathd)。"
+
+#: src/complex.ycp:2785
+msgid "* Cannot disable boot.multipath."
+msgstr "* 无法禁用 boot.multipath。"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:40
+msgid ""
+"<p><b><big>Initializing Multipath Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在初始化多路径配置</big></b><br>\n"
+"</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:45
+msgid ""
+"<p><b><big>Saving Multipath Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在保存多路径配置</big></b><br>\n"
+"</p>\n"
+
+#. dialog help for Status help
+#: src/helps.ycp:50
+msgid ""
+"<p><b><big>Multipath Status</big></b><br>\n"
+"\t\t\tStart or stop multipathd, check the multipath information.<br><br>\n"
+"\n"
+"\t\t\t<b><big>Stop/Start Multipathd</big></b><br>\n"
+"\t\t\tClick <b>\"Use Multipath\"</b> to start multipathd. Click <b>\"Do not use Multipath\"</b> to stop multipathd.<br>\n"
+"\t\t\tMultipath status information can still be displayed when multipathd stopped.<br><br>\n"
+"\n"
+"\t\t\t<b><big>Configure Multipath</big></b><br>\n"
+"\t\t\tClick <b>Configure</b> Tab to make the multipath configurations.<br></p>\n"
+msgstr ""
+"<p><b><big>多路径状态</big></b><br>\n"
+"\t\t\t开始或停止多路径，检查多路径信息。<br><br>\n"
+"\n"
+"\t\t\t<b><big>停止/开始多路径后台服务 (multipathd)</big></b><br>\n"
+"\t\t\t点击 <b>“使用多路径”</b> 以开始多路径后台服务。点击 <b>“不使用多路径\"</b> 以停止多路径后台服务。<br>\n"
+"\t\t\t多路径状态信息在多路径后台服务停止时依然可以显示。<br><br>\n"
+"\n"
+"\t\t\t<b><big>配置多路径</big></b><br>\n"
+"\t\t\t点击 <b>配置</b> 标签来制作多路径配置。<br></p>\n"
+
+#. dialog help for Configure tab
+#: src/helps.ycp:62
+msgid ""
+"<p><b><big>Configuration</big></b><br>\n"
+"\t\t\tAll the content of /etc/multipath.conf can be configured here. There are four sections in the configuration file:\n"
+"\t\t\t<b>multipaths</b>, <b>defaults</b>, <b>blacklist</b>, <b>blacklist_exception</b>, <b>devices.</b><br><br>\n"
+"\t\t\t<b>Multipaths:</b> list of multipaths finest-grained settings.<br>\n"
+"\t\t\t<b>Defaults:</b> multipath-tools default settings.<br>\n"
+"\t\t\tClick <b>\"Configure Defaults\"</b> button to configure defaults settings.<br>\n"
+"\t\t\t<b>Blacklist:</b> list of device names to be discard as not multipath candidates.<br>\n"
+"\t\t\tClick <b>\"Configure Blacklist\"</b> button to configure blacklist settings.<br>\n"
+"\t\t\t<b>Blacklist Exceptions:</b> list of device names to be excluded from blacklist.<br>\n"
+"\t\t\tClick <b>\"Configure Blacklist Exceptions\"</b> button to configure blacklist_exceptions settings.<br>\n"
+"\t\t\t<b>Devices:</b> list of per storage controller settings. Overrides default settings, overridden by per multipath settings.<br>\n"
+"\t\t\tClick <b>\"Configure devices\"</b> button to configure devices settings.<br><br>\n"
+"\t\t\tClick <b>\"Finish\"</b> button to save and update the configurations.<br><br></p>\n"
+msgstr ""
+"<p><b><big>配置</big></b><br>\n"
+"\t\t\t在此可以配置所有 /etc/multipath.conf 中的内容。配置文件有四个章节：\n"
+"\t\t\t<b>多路径</b>，<b>默认</b>，<b>黑名单</b>，<b>黑名单例外</b>，<b>设备</b>。<br><br>\n"
+"\t\t\t<b>多路径：</b> 最好最精密的多路径设置列表。<br>\n"
+"\t\t\t<b>默认：</b> 多路径工具的默认设置。<br>\n"
+"\t\t\t点击 <b>“配置默认”</b> 按键来配置默认设置。<br>\n"
+"\t\t\t<b>黑名单：</b> 被抛弃不作为多路径候选的设备名列表。<br>\n"
+"\t\t\t点击 <b>“配置黑名单”</b> 按钮来配置黑名单设置。<br>\n"
+"\t\t\t<b>黑名单例外：</b> 从黑名单中排除的设备名列表。<br>\n"
+"\t\t\t<b>设备：</b> 每个存储控制器设置的列表。会覆盖默认设置，也可被每个多路径设置覆盖。<br>\n"
+"\t\t\t点击 <b>“配置设备”</b> 按钮来配置设备设置。<br><br>\n"
+"\t\t\t点击 <b>“完成”</b> 按钮来保存和更新配置。<br><br></p>\n"
+
+#. dialog help for defaults section configure tab 1/3
+#: src/helps.ycp:78
+msgid ""
+"<p><b><big>Defaults Configuration</big></b><br>\n"
+"\t\t\tGlobal default settings can be configured and cleared here.<br>\n"
+"\t\t\tAny default setting here will take effect in all multipath configurations, unless a corresponding local setting overwrites it.<br>\n"
+"\t\t\tIf a default setting here is cleared, multipath will take its own value as default setting.<br></p>\n"
+msgstr ""
+"<p><b><big>默认配置</big></b><br>\n"
+"\t\t\t全局默认设定可以在这里配置和清除。<br>\n"
+"\t\t\t任何此处的默认设置都可以在所有多路径配置中生效，除非一个相应的本地设置覆盖了它。<br>\n"
+"\t\t\t如果此处的默认设置被清楚，多路径会使用它自身的值作为默认设置。<br></p>\n"
+
+#. dialog help for blacklist section configure tab 1/3
+#: src/helps.ycp:85
+msgid ""
+"<p><b><big>Blacklist Configuration</big></b><br>\n"
+"\t\t\tDevice names listed here can be discarded as not multipath candidates.<br>\n"
+"\t\t\tThere are three methods to identify a device name: <b>wwid</b>, <b>devnode</b>, <b>device</b>.<br><br>\n"
+"\t\t\t<b>wwid</b>: The world wide ID identifying the device in blacklist.<br>\n"
+"\t\t\t<b>devnode</b>: Regular expression can be used here to identify device names in udev_dir (default in directory /dev). Common device names are cciss, fd, hd, md, dm, sr, scd, st, ram, raw, loop.<br>\n"
+"\t\t\t<b>device</b>: Used to identify a specific storage controller in blacklist. A device can be specified by vendor and product name.<br>\n"
+"</p>"
+msgstr ""
+"<p><b><big>黑名单配置</big></b><br>\n"
+"\t\t\t列示在此的设备名将被抛弃，不作为多路径候选。<br>\n"
+"\t\t\t有三种方法来识别一个设备名：<b>万维标识符</b>,<b>dev 节点</b>,<b>设备</b>。<br><br>\n"
+"\t\t\t<b>wwid</b>：使用万维标识符来识别想要加入黑名单的设备。<br>\n"
+"\t\t\t<b>devnode</b>：使用正则表达式来识别 udev_dir (默认为 /dev 文件夹) 中的设备名称。 常用的设备名有 cciss, fd, hd, md, dm, sr, scd, st, ram, raw, loop。<br>\n"
+"\t\t\t<b>设备</b>：用来识别一个想要加入黑名单的特殊存储控制器。一个设备可由制造商和产品名来识别。<br>\n"
+"</p>"
+
+#. dialog help for blacklist_exception section configure tab 1/3
+#: src/helps.ycp:94
+msgid ""
+"<p><b><big>Blacklist Exceptions Configuration</big></b><br>\n"
+"\t\t\tDevice names listed here are excluded from blacklist.<br>\n"
+"\t\t\tThere are three methods to identify a device name: <b>wwid</b>, <b>devnode</b>, <b>device</b>.<br><br>\n"
+"\t\t\t<b>wwid</b>: The world wide ID identifying the device excepted from blacklist.<br>\n"
+"\t\t\t<b>devnode</b>: Regular expression can be used here to identify device names in udev_dir (default in directory /dev). Common device names are cciss, fd, hd, md, dm, sr, scd, st, ram, raw, loop.<br>\n"
+"\t\t\t<b>device</b>: Used to identify a specific storage controller excepted from blacklist. A device can be specified by vendor and product name.<br>\n"
+"</p>"
+msgstr ""
+"<p><b><big>黑名单例外配置</big></b><br>\n"
+"\t\t\t列示在此的设备名将从黑名单中排除。<br>\n"
+"\t\t\t有三种方法来识别一个设备名：<b>万维标识符</b>,<b>dev 节点</b>,<b>设备</b>。<br><br>\n"
+"\t\t\t<b>wwid</b>：使用万维标识符来识别想要从黑名单排除的设备。<br>\n"
+"\t\t\t<b>devnode</b>：使用正则表达式来识别 udev_dir (默认为 /dev 文件夹) 中的设备名称。 常用的设备名有 cciss, fd, hd, md, dm, sr, scd, st, ram, raw, loop。<br>\n"
+"\t\t\t<b>设备</b>：用来识别一个想要从黑名单排除的特殊存储控制器。一个设备可由制造商和产品名来识别。<br>\n"
+"</p>"
+
+#. dialog help for devcies section configure tab 1/3
+#: src/helps.ycp:103
+msgid ""
+"<p><b><big>Devices Configuration</big></b><br>\n"
+"\t\t\tPer storage controller settings are listed here, they override the default settings and are overridden by per multipath settings.<br>\n"
+"\t\t\tEach device is identified by <b>vendor</b> and <b>product</b> name.<br></p>\n"
+msgstr ""
+"<p><b><big>设备配置</big></b><br>\n"
+"\t\t\t每个存储控制器设置都列示于此，它们覆盖默认设定并被每个多路径设置覆盖。<br>\n"
+"\t\t\t每个设备都由 <b>制造商</b> 和 <b>产品</b> 名识别。<br></p>\n"
+
+#. Command line help text for the Xmultipath module
+#: src/multipath.ycp:53
+msgid "Configuration of multipath"
+msgstr "多路径的配置"
+
+#: src/options.ycp:228 src/options.ycp:962 src/options.ycp:1023
+#: src/options.ycp:1201
+msgid "should be a decimal integer"
+msgstr "应为十进制整数"
+
+#: src/options.ycp:232 src/options.ycp:241 src/options.ycp:297
+#: src/options.ycp:362 src/options.ycp:426 src/options.ycp:505
+#: src/options.ycp:600 src/options.ycp:697 src/options.ycp:759
+#: src/options.ycp:854 src/options.ycp:967 src/options.ycp:976
+#: src/options.ycp:1036 src/options.ycp:1096 src/options.ycp:1205
+#: src/options.ycp:1211 src/options.ycp:1271 src/options.ycp:1430
+#: src/options.ycp:1590 src/options.ycp:1650
+msgid "illegal value"
+msgstr "非法值"
+
+#: src/options.ycp:235 src/options.ycp:970
+msgid "should be greater than 0"
+msgstr "应大于 0"
+
+#: src/options.ycp:1030
+msgid "invalid decimal integer"
+msgstr "无效十进制整数"
+
+#: src/options.ycp:1321 src/options.ycp:1375 src/options.ycp:1481
+#: src/options.ycp:1536
+msgid "should not be empty"
+msgstr "不能为空"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:85
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#, fuzzy
+#~ msgid "Cannot install required packages"
+#~ msgstr "无法安装所需的包。"
+
+#~ msgid "Duplicated configuraton"
+#~ msgstr "重复的配置"
+
+#, fuzzy
+#~ msgid "illgal value"
+#~ msgstr "新语言值"

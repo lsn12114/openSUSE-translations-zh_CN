@@ -1,0 +1,538 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-20 13:48+0200\n"
+"PO-Revision-Date: 2012-07-20 05:58+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. PowerManagement read dialog caption
+#: src/PowerManagement.ycp:157
+msgid "Initializing Configuration"
+msgstr "正在初始化配置"
+
+#. Progress stage 1/3
+#: src/PowerManagement.ycp:170
+msgid "Check the environment"
+msgstr "检查环境"
+
+#. Progress stage 2/3
+#: src/PowerManagement.ycp:172
+msgid "Read general settings"
+msgstr "读取常规设置"
+
+#. Progress stage 3/3
+#: src/PowerManagement.ycp:174
+msgid "Read power saving profiles"
+msgstr "读取省电配置文件"
+
+#. Progress step 1/3
+#: src/PowerManagement.ycp:177
+msgid "Checking the environment..."
+msgstr "正在检查环境..."
+
+#. Progress step 2/3
+#: src/PowerManagement.ycp:179
+msgid "Reading general settings..."
+msgstr "正在读取常规设置..."
+
+#. Progress step 3/3
+#: src/PowerManagement.ycp:181
+msgid "Reading power saving profiles..."
+msgstr "正在读取省电配置文件..."
+
+#. Progress finished
+#: src/PowerManagement.ycp:183 src/PowerManagement.ycp:316
+msgid "Finished"
+msgstr "已完成"
+
+#. Error message
+#: src/PowerManagement.ycp:233
+msgid "Cannot read the general settings."
+msgstr "无法读取常规设置。"
+
+#. Error message
+#: src/PowerManagement.ycp:262
+msgid "Cannot read power saving profiles."
+msgstr "无法读取省电配置文件。"
+
+#. PowerManagement read dialog caption
+#: src/PowerManagement.ycp:290
+msgid "Saving Configuration"
+msgstr "省电配置"
+
+#. Progress stage 1/3
+#. _("Write profiles"),
+#. Progress stage 2/3
+#: src/PowerManagement.ycp:305
+msgid "Write general settings"
+msgstr "写入常规设置"
+
+#. Progress stage 3/3
+#: src/PowerManagement.ycp:307
+msgid "Restart pm-profiler daemon"
+msgstr "重启 pm-profiler 守护精灵"
+
+#. Progress step 1/3
+#. _("Writing profiles..."),
+#. Progress step 2/3
+#: src/PowerManagement.ycp:312
+msgid "Writing general settings..."
+msgstr "正在写入常规设置..."
+
+#. Progress step 3/3
+#: src/PowerManagement.ycp:314
+msgid "Restarting pm-profiler daemon..."
+msgstr "正在重启动 pm-profiler 守护精灵..."
+
+#. Error message
+#: src/PowerManagement.ycp:392
+msgid "Cannot write general settings."
+msgstr "无法写入常规设置。"
+
+#. Error message
+#: src/PowerManagement.ycp:420
+msgid "Cannot restart the pm-profiler daemon."
+msgstr "无法重启动 pm-profiler 守护精灵。"
+
+#: src/PowerManagement.ycp:468
+msgid "Default settings"
+msgstr "默认设置"
+
+#. summary text, %1 is scheme name
+#: src/PowerManagement.ycp:479 src/commandline.ycp:77
+#, ycp-format
+msgid "Selected Profile: %1"
+msgstr "选择的配置文件：%1"
+
+#. header for commandline output
+#: src/commandline.ycp:65
+msgid "Power Saving Profiles:\n"
+msgstr "省电配置文件：\n"
+
+#: src/commandline.ycp:68
+msgid "Default Profile"
+msgstr "默认配置文件"
+
+#. cmdline about power saving schemes, %1 is list of schemes,
+#: src/commandline.ycp:85
+#, ycp-format
+msgid "Available Profiles: %1"
+msgstr "可用的配置文件：%1"
+
+#. error report
+#: src/commandline.ycp:115
+msgid "Specified profile not found."
+msgstr "未找到指定的配置文件。"
+
+#. error report
+#: src/commandline.ycp:134
+msgid "Operation with the profile not specified."
+msgstr "未指定对配置文件的操作。"
+
+#. error report
+#: src/commandline.ycp:140
+msgid "Profile name not specified."
+msgstr "未指定配置文件名称。"
+
+#. command line help text for power management module
+#: src/commandline.ycp:200
+msgid "Power management configuration module"
+msgstr "电源管理配置模块"
+
+#. command line help text for an action
+#: src/commandline.ycp:208
+msgid "Display current settings"
+msgstr "显示当前设置"
+
+#. command line help text for an action
+#: src/commandline.ycp:213
+msgid "Set general settings"
+msgstr "设置常规设置"
+
+#. command line help text for an option
+#: src/commandline.ycp:228
+msgid "Display only specified profile"
+msgstr "仅显示指定的配置文件"
+
+#. command line help text for an option
+#: src/commandline.ycp:232
+msgid "Display only profile selected for use"
+msgstr "仅显示选择使用的配置文件"
+
+#. command line help text for an option
+#: src/commandline.ycp:236
+msgid "Profile to be used"
+msgstr "将使用的配置文件"
+
+#. command line help text for an option
+#: src/commandline.ycp:241
+msgid "The profile name"
+msgstr "配置文件名称"
+
+#. command line help text for an option
+#: src/commandline.ycp:246
+msgid "Add a new profile"
+msgstr "添加新配置文件"
+
+#. command line help text for an option
+#: src/commandline.ycp:250
+msgid "Edit an existing profile"
+msgstr "编辑现有配置文件"
+
+#. command line help text for an option
+#: src/commandline.ycp:254
+msgid "Remove an existing profile"
+msgstr "删除现有的配置文件"
+
+#. command line help text for an option
+#: src/commandline.ycp:258
+msgid "The description of the profile"
+msgstr "配置文件描述"
+
+#. command line help text for an option
+#: src/commandline.ycp:263
+msgid "The profile to clone"
+msgstr "将复制的配置文件"
+
+#. command line help text for an option
+#: src/commandline.ycp:268
+msgid "Option of a profile to modify"
+msgstr "要修改的配置文件的选项"
+
+#. command line help text for an option
+#: src/commandline.ycp:273
+msgid "Value of the specified option to set"
+msgstr "要设置的指定选项的值"
+
+#. command line help text for an option
+#: src/commandline.ycp:278
+msgid "New name of the profile to rename"
+msgstr "要重命名的配置文件的新名称"
+
+#. yes-no popup
+#: src/dialogs.ycp:68
+msgid ""
+"If you abort writing now, the saved\n"
+"settings may be inconsistent.\n"
+"Really abort?"
+msgstr ""
+"如果立即中止写入，则保存的设置\n"
+"可能会不一致。\n"
+"是否确实要中止吗？"
+
+#. dialog caption
+#: src/dialogs.ycp:113
+msgid "Power Management Settings"
+msgstr "电源管理设置"
+
+#. dialog caption
+#: src/dialogs.ycp:141 src/dialogs.ycp:170 src/dialogs.ycp:199
+msgid "Power Management Profile Setup"
+msgstr "电源管理配置文件设置"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:20
+msgid ""
+"<p><b><big>Initializing Power Management Configuration</big></b><br>\n"
+"Please wait...<br></p>"
+msgstr ""
+"<p><b><big>正在初始化电源管理配置</big></b><br>\n"
+"请稍候...<br></p>"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:24
+msgid ""
+"<p><b><big>Aborting Initialization</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>"
+msgstr ""
+"<p><b><big>正在中止初始化</big></b><br>\n"
+"可以按<b>中止</b>立即安全地中止配置工具。</p>"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:29
+msgid ""
+"<p><b><big>Saving Power Management Configuration</big></b><br>\n"
+"Please wait...<br></p>"
+msgstr ""
+"<p><b><big>正在保存电源管理配置</big></b><br>\n"
+"请稍候...<br></p>"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:33
+msgid ""
+"<p><b><big>Aborting Saving</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.</p>"
+msgstr ""
+"<p><b><big>中止保存</big></b><br>\n"
+"按<b>中止</b>中止保存过程。</p>"
+
+#. Main dialog help 1/3
+#: src/helps.ycp:38
+msgid ""
+"<p><b><big>Energy Saving Profiles</big></b><br>\n"
+"Use <b>Selected Profile</b> to adjust the energy saving profile to use.</p>"
+msgstr ""
+"<p><b><big>省电配置文件</big></b><br>\n"
+"使用<b>选择的配置文件</b>来调整使用的省电配置文件。</p>"
+
+#. Main dialog help 2/3
+#: src/helps.ycp:42
+msgid "<p>Below the selected profile, its description is displayed.</p>"
+msgstr "<p>在配置文件的下面是相关描述。</p>"
+
+#. Main dialog help 3/3
+#: src/helps.ycp:45
+msgid ""
+"<p>To read more about pm-profiler and to learn how to create or modify\n"
+"the power saving profiles, refer to the\n"
+"<i>/usr/share/doc/packages/pm-profiler/README</i> file.</p>"
+msgstr ""
+"<p>阅读更多关于 pm-profiler 的内容，学习如何创建或修改\n"
+"省电配置文件，请参考：\n"
+"<i>/usr/share/doc/packages/pm-profiler/README</i> 文件。</p>"
+
+#. Schemes list dialog 1/3
+#: src/helps.ycp:60
+msgid ""
+"<p><b><big>Profile Setup</big></b><br>\n"
+"Adjust the energy saving profiles. To modify a profile, select\n"
+"it and click <b>Edit</b>.</p>\n"
+msgstr ""
+"<p><b><big>配置文件设置</big></b><br>\n"
+"在此调整省电配置文件。要修改某个配置文件，请先选中，\n"
+"然后单击<b>编辑</b>。</p>\n"
+
+#. Schemes list dialog 2/3
+#: src/helps.ycp:66
+msgid ""
+"<p>To add a new profile, select a profile to clone then click\n"
+"<b>Add</b>. To delete an existing profile, select it and click \n"
+"<b>Delete</b>.</p>"
+msgstr ""
+"<p>添加新配置文件，请选择一个用来复制的配置文件，然后单击\n"
+"<b>添加</b>。要删除现有的配置文件，请先选中，然后单击\n"
+"<b>删除</b>。</p>"
+
+#. Profiles list dialog 3/3
+#: src/helps.ycp:71
+msgid ""
+"<p>In the main dialog, assign profiles to use when you \n"
+"work on battery or AC power.</p>"
+msgstr ""
+"<p>在主对话框中，请指定在使用电池\n"
+"或交流电源时要使用的配置。</p>"
+
+#. Profile editation dialog 1 help 1/6
+#: src/helps.ycp:75
+msgid ""
+"<p><big><b>Profile Setup</b></big>\n"
+"Configure the settings of the profile. Enter its name in <b>Profile Name</b>\n"
+"and optionally a description in <b>Profile Description</b>.</p>"
+msgstr ""
+"<p><big><b>配置文件设置</b></big>\n"
+"配置配置文件的设置。在<b>配置文件名称</b>\n"
+"中输入名称，并在<b>配置文件描述</b>中输入描述（可选）。</p>"
+
+#. Profile editation dialog 2 help 1/2
+#: src/helps.ycp:84
+msgid ""
+"<p><b><big>Hard Disk Settings</big></b><br>\n"
+"Use <b>Standby Policy</b> to adjust the power saving policy of the hard disks.\n"
+"Remember that more power saving also means waiting more often until the disk\n"
+"drive is ready.\n"
+"Use <b>Acoustic Policy</b> to adjust the acoustic policy of the disk. The noise\n"
+"produced by the disk may be lowered by moving disk heads more slowly. Not all\n"
+"disks support this feature.</p>"
+msgstr ""
+"<p><b><big>硬盘设置</big></b><br>\n"
+"使用<b>待机策略</b>可调整硬盘的省电策略。\n"
+"应注意的是，省电越多同时意味着需要更频繁地等待磁盘驱动器恢复\n"
+"正常运行。\n"
+"使用<b>声音策略</b>可调整磁盘的声音策略。通过降低磁头的转速，可降低磁盘产生的\n"
+"噪音。某些\n"
+"磁盘不支持此功能。</p>"
+
+#. Profile editation dialog 2 help 2/2
+#: src/helps.ycp:93
+msgid ""
+"<p><b><big>Cooling Policy</big></b><br>\n"
+"Use the cooling policy <b>Status</b> to adjust the active or passive cooling policy.\n"
+"Active means that the cooling fan is\n"
+"turned on if the system starts overheating.\n"
+"If the system continues overheating, the CPU frequency and voltage are\n"
+"reduced. Passive means that the system first reduces frequency then, if\n"
+"that does not help, turns the cooling fan on.</p>\n"
+"<p>To specify actions to perform when the system overheats\n"
+"or reaches critical temperature, use <b>Overheat Temperature Action</b> and\n"
+"<b>Critical Temperature Action</b>.</p>"
+msgstr ""
+"<p><b><big>冷却策略</big></b><br>\n"
+"使用冷却策略<b>状态</b>来调整主动冷却策略或被动冷却策略。\n"
+"主动意味着，如果系统启动时过热，则打开冷却风扇\n"
+"。\n"
+"如果系统还过热，则\n"
+"降低 CPU 频率和电压。被动意味着系统首先降低频率，\n"
+"如果没有起作用，则打开冷却风扇。</p>\n"
+"<p>要指定在系统过热或达到临界温度时\n"
+"要执行的操作，请使用<b>过热温度操作</b>和\n"
+"<b>临界温度操作</b>。</p>"
+
+#: src/widgets.ycp:39
+msgid "Default system settings"
+msgstr "默认系统设置"
+
+#. fallback scheme description, displayed in a rich text
+#. but without HTML tags!!!
+#. fallback scheme description, table entre
+#: src/widgets.ycp:52 src/widgets.ycp:146
+msgid "No profile description available"
+msgstr "无可用的配置文件描述"
+
+#: src/widgets.ycp:71
+msgid "Default"
+msgstr "默认值"
+
+#. combo box
+#: src/widgets.ycp:76
+msgid "&Selected Profile"
+msgstr "选择配置文件(&S)"
+
+#. frame
+#: src/widgets.ycp:100
+msgid "Energy Saving Profiles"
+msgstr "省电配置文件"
+
+#. combo box
+#: src/widgets.ycp:106
+msgid "&AC Powered"
+msgstr "交流供电(&A)"
+
+#. popup message
+#: src/widgets.ycp:185 src/widgets.ycp:208
+msgid "No profile selected."
+msgstr "未选择任何配置文件。"
+
+#. popup message
+#: src/widgets.ycp:193
+msgid ""
+"The selected profile cannot be modified.\n"
+"Add a new one instead."
+msgstr ""
+"无法修改选定的配置文件。\n"
+"请添加新配置文件。"
+
+#. table header
+#: src/widgets.ycp:254
+msgid "Profile Name"
+msgstr "配置文件名称"
+
+#. table header
+#: src/widgets.ycp:256
+msgid "Profile Description"
+msgstr "配置文件描述"
+
+#. popup message
+#: src/widgets.ycp:303
+msgid "Profile name must be set."
+msgstr "必须设置配置文件名称。"
+
+#. popup message
+#: src/widgets.ycp:314
+msgid "The specified profile name is not unique."
+msgstr "指定的配置文件名称不唯一。"
+
+#. pop-up message
+#: src/widgets.ycp:321
+msgid "The profile name must not be longer than 32 characters."
+msgstr "配置文件名称不能超过 32 个字符。"
+
+#. text entry
+#: src/widgets.ycp:368
+msgid "S&cheme Name"
+msgstr "方案名称(&C)"
+
+#. text entry
+#: src/widgets.ycp:412
+msgid "Profile &Description"
+msgstr "配置文件描述(&D)"
+
+#. frame,
+#: src/widgets.ycp:451
+msgid "SATA Power Management"
+msgstr "SATA 电源管理"
+
+#. combo box
+#: src/widgets.ycp:456
+msgid "Aggressive Link Power Management"
+msgstr "积极 Link 电源管理"
+
+#. combo box item
+#: src/widgets.ycp:460 src/widgets.ycp:537
+msgid "Maximum Power Saving"
+msgstr "最大省电"
+
+#. combo box item
+#: src/widgets.ycp:463
+msgid "Medium Power Saving"
+msgstr "适中省电"
+
+#. combo box item
+#: src/widgets.ycp:466 src/widgets.ycp:540
+msgid "Maximum Performance"
+msgstr "最大性能"
+
+#. frame,
+#: src/widgets.ycp:528
+msgid "CPU Power Management"
+msgstr "CPU 电源管理"
+
+#. combo box
+#: src/widgets.ycp:533
+msgid "CPU Frequency Governor"
+msgstr "CPU 频率控制"
+
+#. combo box item
+#: src/widgets.ycp:543
+msgid "On Demand"
+msgstr "按需要"
+
+#. combo box item
+#: src/widgets.ycp:546
+msgid "User Space"
+msgstr "用户空间"
+
+#: src/widgets.ycp:549
+msgid "Load Checking Interval"
+msgstr "加载检查间隔"
+
+#: src/widgets.ycp:551
+msgid "Lower Frequency by (percent)"
+msgstr "以（百分数）降低频率"
+
+#: src/widgets.ycp:553
+msgid "Balance Load between CPU Cores"
+msgstr "CPU 核心之间平衡负载"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:147
+msgid "Power Management Configuration"
+msgstr "电源管理配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:149
+msgid "Initializing..."
+msgstr "正在初始化..."
