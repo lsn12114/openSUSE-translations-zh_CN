@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2012-06-21 16:20:07\n"
-"PO-Revision-Date: 2012-09-11 22:10+0800\n"
+"PO-Revision-Date: 2012-07-03 17:45+0800\n"
 "Last-Translator: Marguerite Su\n"
 "Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 1.4\n"
 
 #. summary(update-desktop-files)
 msgid "A Build Tool to Update Desktop Files"
@@ -21,108 +21,113 @@ msgstr "一个更新桌面文件的编译工具"
 #. description(choqok)
 msgid "A Free/Open Source micro-blogging client for the K Desktop Environment. The name comes from an ancient Persian word which means Sparrow. It currently supports twitter.com and identi.ca services."
 msgstr ""
-"K 桌面环境下的一个自由/开源的微博客客户端。命名来自于一个远古的波斯语词，意思是麻雀。目前支持 twitter.com 和 identi.ca 服务。"
 
 #. description(ksshaskpass)
 msgid "A KDE 4 version of ssh-askpass with KWallet support."
-msgstr "一个 KDE 4 版本的 ssh-askpass，带 KWallet 支持。"
+msgstr ""
 
 #. summary(herqq:libHUpnp1)
 msgid "A Library for Building UPnP Devices and Control Points"
-msgstr "一个 KDE 新闻种子聚合器"
+msgstr ""
 
 #. summary(libjpeg-turbo)
 msgid "A MMX/SSE2 accelerated library for manipulating JPEG image files"
-msgstr "一个 MMX/SSE2 加速地编辑 JEPG 图片文件的库"
+msgstr ""
 
 #. summary(liblastfm:liblastfm0)
 msgid "A Qt C++ Library for the Last.fm Webservices"
-msgstr "一个 Last.fm 网页服务的 Qt C++ 库"
+msgstr ""
 
 #. description(kdemultimedia4:libkcddb4)
 msgid "A library for retrieving and sending cddb information"
-msgstr "一个获取和发送 cddb 信息的库"
+msgstr ""
 
 #. description(libproxy-plugins:libproxy1-config-kde4)
 msgid "A module to extend libproxy with capabilities to query KDE4 about proxy settings."
-msgstr "一个扩展 libproxy 以支持检索 KDE4 代理设置的模块。"
+msgstr ""
 
 #. description(libqt4-sql-plugins:libqt4-sql-mysql)
 msgid "A plugin to support MySQL server in Qt applications."
-msgstr "一个支持 Qt 应用程序中使用 MySQL 服务器的插件。"
+msgstr ""
 
 #. description(kruler)
+#, fuzzy
 msgid "A screen ruler for the K Desktop Environment"
-msgstr "K 桌面环境的屏幕标尺"
+msgstr "KDE 桌面环境"
 
 #. description(ksnapshot)
+#, fuzzy
 msgid "A screenshot utility for KDE"
-msgstr "KDE 的屏幕截图工具"
+msgstr "找不到 Xscreensaver。"
 
 #. summary(kvkbd)
 msgid "A virtual keyboard for KDE"
-msgstr "KDE 的虚拟键盘"
+msgstr ""
 
 #. description(kwebkitpart)
 msgid "A webkit web browser component for KDE (KPart)."
-msgstr "一个 KDE 的webkit 网页浏览器部件（KPart）。"
+msgstr ""
 
 #. summary(plasma-addons:plasma-addons-lancelot)
+#, fuzzy
 msgid "Additional Lancelot Launcher Plasmoid"
-msgstr "额外的 Lancelot 启动器挂件"
+msgstr "其他布局"
 
 #. summary(plasma-addons)
+#, fuzzy
 msgid "Additional Plasma Widgets"
-msgstr "额外的等离子挂件"
+msgstr "其他布局"
 
 #. summary(plasma-addons:plasma-addons-akonadi)
+#, fuzzy
 msgid "Additional Plasmoids Depending on Akonadi"
-msgstr "额外的依赖 Akonadi 的挂件"
+msgstr "其他布局"
 
 #. description(plasma-addons:plasma-addons-lancelot)
 msgid "Additional launcher plasmoid from upstream that requires Akonadi"
-msgstr "上游提供的需要 Akonadi 的额外启动器挂件"
+msgstr ""
 
 #. description(plasma-addons)
 msgid "Additional plasmoids from upstream for use on the KDE workspace"
-msgstr "上游提供的使用 KDE 工作空间的额外挂件"
+msgstr ""
 
 #. description(plasma-addons:plasma-addons-akonadi)
 msgid "Additional plasmoids from upstream that require Akonadi"
-msgstr "上游提供的需要 Akonadi 的额外挂件"
+msgstr ""
 
 #. summary(kdepim4:kaddressbook)
+#, fuzzy
 msgid "Address Manager"
-msgstr "地址管理器"
+msgstr "更新管理器"
 
 #. summary(kate:libktexteditor)
 msgid "Advanced Text Editor library"
-msgstr "高级文本编辑器库"
+msgstr ""
 
 #. description(amarok)
 msgid "Amarok is a media player for all kinds of media. This includes MP3, Ogg Vorbis, audio CDs, podcasts and streams. Play lists can be stored in .m3u or .pls files."
 msgstr ""
-"Amarok 是一个通杀的媒体播放器。支持 MP3, Ogg Vorbis，音频 CD，播客和流媒体。播放列表可以存储在 .m3u 或 .pls 文件中。"
 
 #. description(kdenetwork4:kget)
 msgid "An advanced download manager for KDE"
-msgstr "KDE 的高级下载管理器"
+msgstr ""
 
 #. summary(qoauth:libqoauth1)
 msgid "An attempt to support interaction with OAuth-powered network services"
-msgstr "试图支持与基于 QAuth 后端的网络服务进行交互的一次尝试"
+msgstr ""
 
 #. summary(moodbar)
 msgid "Analysis program for creating a colorful visual representation of an audio file"
-msgstr "用于创建一个音频文件的一张色彩缤纷的虚拟图像"
+msgstr ""
 
 #. description(attica:libattica0_3)
 msgid "Attica is a library to access Open Collaboration Service servers."
-msgstr "Attica 是一个访问开放协作服务服务器的库。"
+msgstr ""
 
 #. summary(kmousetool)
+#, fuzzy
 msgid "Automatic Mouse Click"
-msgstr "自动鼠标点击"
+msgstr "自动方式"
 
 #. summary(libilmbase6)
 msgid "Base library for ILM software (OpenEXR)"
@@ -143,39 +148,40 @@ msgstr ""
 
 #. summary(kdepim4)
 msgid "Base package of kdepim"
-msgstr "kdepim 的基础软件包"
+msgstr ""
 
 #. summary(bluedevil)
+#, fuzzy
 msgid "Bluetooth Manager for KDE"
-msgstr "KDE 蓝牙管理器"
+msgstr "电源管理 (APM)"
 
 #. description(bluedevil)
 msgid "Bluetooth daemon for KDE, handling connections."
-msgstr "KDE 蓝牙守护精灵，处理连接。"
+msgstr ""
 
 #. summary(boost:boost-license1_49_0)
 msgid "Boost License"
-msgstr "Boost 协议"
+msgstr ""
 
 #. summary(boost:libboost_program_options1_49_0)
 msgid "Boost::ProgramOptions Runtime libraries"
-msgstr "Boost::ProgramOptions 运行库"
+msgstr ""
 
 #. summary(qrencode:libqrencode3)
 msgid "C library for encoding data in a QR Code symbol"
-msgstr "以 QR Code 符号方式编码数据的 C 函数库"
+msgstr ""
 
 #. summary(libqt4)
 msgid "C++ Program Library, Core Components"
-msgstr "C++ 程序库，核心部件"
+msgstr ""
 
 #. summary(soprano:libsoprano4)
 msgid "C++/Qt based interface library for RDF"
-msgstr "基于 C++/Qt 的 RDF 接口库"
+msgstr ""
 
 #. summary(kdemultimedia4:kscd)
 msgid "CD Player"
-msgstr "CD 播放机"
+msgstr ""
 
 #. description(cln)
 msgid ""
@@ -187,36 +193,35 @@ msgstr ""
 #. description(clucene-core:libclucene2)
 msgid "CLucene is a C++ port of Lucene. It is a high-performance, full-featured text search engine written in C++. CLucene is faster than lucene as it is written in C++."
 msgstr ""
-"CLucene 是 Lucene 的一个 C++ 移植。它是一个用 C++ 写的高性能，全功能的文本搜索引擎。CLucene 由于是 C++ 写的因此比 "
-"lucene 快。"
 
 #. description(NetworkManager-kde4:NetworkManager-vpnc-kde4)
 msgid "Cisco VPN plugin for KDE Network Management components."
-msgstr "KDE 网络管理部件的思科 VPN 插件。"
+msgstr ""
 
 #. summary(cln)
 msgid "Class Library for Numbers (C++)"
-msgstr "数字的类库（C++）"
+msgstr ""
 
 #. description(kmousetool)
 msgid "Clicks the mouse for you, reducing hand strain."
-msgstr "为您点击鼠标，降低手部疲劳。"
+msgstr ""
 
 #. summary(mysql-community-server:mysql-community-server-client)
 msgid "Client for MySQL Community Server"
-msgstr "MySQL 社区服务器的客户端"
+msgstr ""
 
 #. summary(libzeitgeist:libzeitgeist-1_0-1)
 msgid "Client library for interacting with the Zeitgeist daemon"
-msgstr "与 Zeitgeist 守护精灵交互的客户端库"
+msgstr ""
 
 #. summary(kcolorchooser)
+#, fuzzy
 msgid "Color Chooser"
-msgstr "颜色选择器"
+msgstr "颜色"
 
 #. summary(ggz-client-libs)
 msgid "Common files needed to use GGZ"
-msgstr "使用 GGZ 需要的通用文件"
+msgstr ""
 
 #. summary(kdegames4:kdegames4-carddecks-default)
 msgid "Default Card Decks for KDE Games"
@@ -224,51 +229,56 @@ msgstr "KDE 自带卡牌游戏集合"
 
 #. summary(kdenetwork4:krfb)
 msgid "Desktop Sharing"
-msgstr "桌面共享"
+msgstr ""
 
 #. summary(kactivities4:libkactivities6)
+#, fuzzy
 msgid "Development files and headers for kactivities"
-msgstr "kactivities 的开发文件和头文件"
+msgstr "Tcl/Tk 及其开发工具。"
 
 #. summary(clucene-core:libclucene2)
+#, fuzzy
 msgid "Development files for clucene library"
-msgstr "clucene 库的开发文件"
+msgstr "Tcl/Tk 及其开发工具。"
 
 #. summary(libdbusmenu-qt:libdbusmenu-qt2)
+#, fuzzy
 msgid "Development package for dbusmenu-qt"
-msgstr "dbusmenu-qt 的开发包"
+msgstr "Tcl/Tk 及其开发工具。"
 
 #. summary(udisks)
 msgid "Disk Management Service"
-msgstr "磁盘管理服务"
+msgstr ""
 
 #. summary(kgamma)
 msgid "Display gamma configuration"
-msgstr "显示伽马配置"
+msgstr ""
 
 #. summary(kdenetwork4:kget)
+#, fuzzy
 msgid "Download Manager"
-msgstr "下载管理器"
+msgstr "下载失败："
 
 #. summary(kgpg)
+#, fuzzy
 msgid "Encryption Tool"
-msgstr "加密工具"
+msgstr "加密"
 
 #. summary(taglib-extras:libtag-extras1)
 msgid "Extra plugins for TagLib"
-msgstr "TagLib 的额外插件"
+msgstr ""
 
 #. summary(kdesdk4:kompare)
 msgid "File Comparator"
-msgstr "文件比较器"
+msgstr ""
 
 #. summary(Mesa:Mesa-libGLESv2-2)
 msgid "Free implementation of the OpenGL|ES 2.x API"
-msgstr "OpenGL|ES 2.x 应用程序接口的开源实现"
+msgstr ""
 
 #. summary(kdegames4:ksudoku)
 msgid "Generate and Solve Sudoku Puzzles in 2D or 3D"
-msgstr "生成 2D 或 3D 的数独谜题并解决它们"
+msgstr ""
 
 #. description(grantlee:libgrantlee_core0)
 msgid "Grantlee is a string template engine based on the Django template system and written in Qt."
@@ -276,23 +286,25 @@ msgstr ""
 
 #. summary(libqimageblitz4)
 msgid "Graphical effect and filter library for KDE"
-msgstr "KDE 的图形效果和过滤器库"
+msgstr ""
 
 #. description(gwenview)
 msgid "Gwenview is a simple image viewer for KDE. It features a folder tree window and a file list window, providing easy navigation of your file hierarchy."
-msgstr "Gwenview 是一个 KDE 的简单图片查看器。它支持文件夹树窗口和文件列表窗口，让您方便的导航文件。"
+msgstr ""
 
 #. description(sweeper)
+#, fuzzy
 msgid "Helps clean unwanted traces the user leaves on the system."
-msgstr "帮助清理用户遗留在系统上的无用的痕迹。"
+msgstr "隐私 - 清除用户留在系统中痕迹的 kcontrol 模块"
 
 #. description(herqq:libHUpnp1)
 msgid "Herqq UPnP (HUPnP) is a software library for building UPnP devices and control points conforming to the UPnP Device Architecture version 1.1. It is designed to be simple to use and robust in operation. It is built using C++ and the Qt Framework following many of the design principles and programming practices used in the Qt Framework. It integrates into Qt-based software smoothly and enables truly rapid UPnP development."
 msgstr ""
 
 #. summary(ibus:libibus-1_0-0)
+#, fuzzy
 msgid "IBus libraries"
-msgstr "IBus 库"
+msgstr "网卡"
 
 #. description(ImageMagick:libMagickCore5)
 msgid "ImageMagick is a robust collection of tools and libraries to read, write, and manipulate an image in many image formats, including popular formats like TIFF, JPEG, PNG, PDF, PhotoCD, and GIF. With ImageMagick, you can create images dynamically, making it suitable for Web applications. You can also resize, rotate, sharpen, color-reduce, or add special effects to an image and save your completed work in many different image formats. Image processing operations are available from the command line as well as through C, C++, and PERL-based programming interfaces."
@@ -300,7 +312,7 @@ msgstr ""
 
 #. summary(pulseaudio:pulseaudio-module-jack)
 msgid "JACK support for the PulseAudio sound server"
-msgstr "PulseAudio 声音服务器的 JACK 支持"
+msgstr ""
 
 #. description(libqjson:libqjson0)
 msgid "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It can represent integer, real number, string, an ordered sequence of value, and a collection of name/value pairs. QJson is a qt-based library that maps JSON data to QVariant objects. JSON arrays will be mapped to QVariantList instances, while JSON's objects will be mapped to QVariantMap."
@@ -308,23 +320,26 @@ msgstr ""
 
 #. summary(loudmouth:libloudmouth-1-0)
 msgid "Jabber Client Library Written in C"
-msgstr "C 语言写的 Jabber 客户端库"
+msgstr ""
 
 #. description(kcalc)
+#, fuzzy
 msgid "KCalc is the KDE calculator tool."
-msgstr "KCalc 是 KDE 计算器工具。"
+msgstr "字符选择器"
 
 #. description(kcharselect)
+#, fuzzy
 msgid "KCharSelect is the KDE character selector tool."
-msgstr "KCharSelect 是 KDE 字符选择器工具。"
+msgstr "字符选择器"
 
 #. summary(ksshaskpass)
 msgid "KDE 4 version of ssh-askpass"
-msgstr "KDE 4 版本的 ssh-askpass"
+msgstr ""
 
 #. summary(ark)
+#, fuzzy
 msgid "KDE Archiver Tool"
-msgstr "KDE 压缩工具"
+msgstr "音频 CD"
 
 #. summary(kdelibs4)
 msgid "KDE Base Libraries"
