@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-06-21 16:20:31\n"
+"POT-Creation-Date: 2012-09-22 03:38:25\n"
 "PO-Revision-Date: 2012-07-20 11:33+0800\n"
 "Last-Translator: Marguerite Su\n"
 "Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
@@ -15,8 +15,12 @@ msgstr ""
 "X-Generator: Lokalize 1.4\n"
 
 #. description(cpanspec)
-msgid "*cpanspec* will generate a spec file to build a rpm from a CPAN-style Perl module distribution."
-msgstr "\"cpanspec\" 会从 CPAN 风格的 Perl 模块分发包生成一个用于编译 RPM 的 spec 文件。"
+msgid ""
+"*cpanspec* will generate a spec file to build a rpm from a CPAN-style Perl "
+"module distribution."
+msgstr ""
+"\"cpanspec\" 会从 CPAN 风格的 Perl 模块分发包生成一个用于编译 RPM 的 spec 文"
+"件。"
 
 #. summary(biabam)
 msgid "A Bash Attachment Mailer"
@@ -53,20 +57,9 @@ msgstr "查看 PostScript 文件"
 msgid "A Python tool to deconstruct the Windows NTFS $MFT file"
 msgstr ""
 
-#. description(froxlor)
-msgid ""
-"A Server Management Panel is a php web-based administration software. Developed by experienced server administrators this open source (GPL) panel simplifies the effort of managing your hosting platform\n"
-"\n"
-"Froxlor can help you set up and manage a lot of system-services, like web-, mail- and ftpserver and it also brings some nice features such as a complete support-ticket system and an implementation of the Application Packaging Standard."
-msgstr ""
-
 #. description(emacs-w3)
 msgid "A Web browser for Emacs implemented in Emacs Lisp."
 msgstr ""
-
-#. summary(fcitx-table-other)
-msgid "A fork of ibus-table-others for Fcitx"
-msgstr "ibus-table-others 在 Fcitx 输入法框架上的分支"
 
 #. description(docbook-xml-slides)
 msgid "A framework for writing slides using the DocBook DTD."
@@ -82,19 +75,24 @@ msgid "A hierarchical note taking application"
 msgstr "新应用程序"
 
 #. description(cherrytree)
-msgid "A hierarchical note taking application, featuring rich text and syntax highlighting, storing all the data (including images) in a single xml file with extension \".ctd\"."
+msgid ""
+"A hierarchical note taking application, featuring rich text and syntax "
+"highlighting, storing all the data (including images) in a single xml file "
+"with extension \".ctd\"."
 msgstr ""
 
 #. description(dom4j)
 msgid ""
-"A jarjard version of dom4j that moves the classes to the org.jboss.dom4j package space and strips the following packages:\n"
+"A jarjard version of dom4j that moves the classes to the org.jboss.dom4j "
+"package space and strips the following packages:\n"
 "\n"
 "org.dom4j.jaxb.* org.dom4j.swing.* org.dom4j.xpath.* org.dom4j.xpp.*"
 msgstr ""
 
 #. description(dom4j:dom4j-jarjar)
 msgid ""
-"A jarjared version of dom4j that moves the classes to the org.jboss.dom4j package space and strips the following packages:\n"
+"A jarjared version of dom4j that moves the classes to the org.jboss.dom4j "
+"package space and strips the following packages:\n"
 "\n"
 "org.dom4j.jaxb.* org.dom4j.swing.* org.dom4j.xpath.* org.dom4j.xpp.*"
 msgstr ""
@@ -108,7 +106,10 @@ msgid "A little perl script to split appdata.xml"
 msgstr ""
 
 #. description(arts:arts-32bit)
-msgid "A modular software synthesizer that generates realtime audio streams, includes midi support, is easily extendable, and uses CORBA for separation of GUI and synthesis."
+msgid ""
+"A modular software synthesizer that generates realtime audio streams, "
+"includes midi support, is easily extendable, and uses CORBA for separation "
+"of GUI and synthesis."
 msgstr ""
 
 #. description(blueprint-cursor-theme)
@@ -117,7 +118,11 @@ msgid "A nice mouse cursor theme for the X Window System."
 msgstr "Telnet X 通信程序"
 
 #. description(duply)
-msgid "A shell front end to duplicity that simplifies the usage by managing settings for backup jobs in profiles. It supports executing multiple commands in a batch mode to enable single line cron entries and executes pre/post backup scripts."
+msgid ""
+"A shell front end to duplicity that simplifies the usage by managing "
+"settings for backup jobs in profiles. It supports executing multiple "
+"commands in a batch mode to enable single line cron entries and executes pre/"
+"post backup scripts."
 msgstr ""
 
 #. description(docbook-toys)
@@ -135,7 +140,9 @@ msgid "A small java library for manipulating lists of bytes."
 msgstr "等待导航栏应用程序"
 
 #. description(djvu2pdf)
-msgid "A small tool to convert Djvu files to PDF files. Works on Linux, BSD and MacOS."
+msgid ""
+"A small tool to convert Djvu files to PDF files. Works on Linux, BSD and "
+"MacOS."
 msgstr ""
 
 #. description(ecryptfs-utils:ecryptfs-utils-32bit)
@@ -143,23 +150,38 @@ msgid "A stacked cryptographic filesystem for Linux."
 msgstr ""
 
 #. description(cmpi-provider-register)
-msgid "A utility allowing CMPI provider packages to register with whatever CIMOM(s) happens to be present on the system."
+msgid ""
+"A utility allowing CMPI provider packages to register with whatever CIMOM(s) "
+"happens to be present on the system."
 msgstr ""
 
 #. summary(compiz-manager)
 msgid "A wrapper script to launch Compiz with proper options"
 msgstr ""
 
+#. description(aelfred)
+msgid ""
+"AElfred is a Java-based XML parser from Microstar Software Ltd. AElfred is "
+"distributed for free (with full source) for both commercial and non-"
+"commercial use."
+msgstr ""
+
 #. description(antlr:antlr-javadoc)
 msgid ""
-"ANTLR, Another Tool for Language Recognition, (formerly PCCTS) is a language tool that provides a framework for constructing recognizers, compilers, and translators from grammatical descriptions containing C++ or Java actions (you can use PCCTS 1.xx to generate C-based parsers).\n"
+"ANTLR, Another Tool for Language Recognition, (formerly PCCTS) is a language "
+"tool that provides a framework for constructing recognizers, compilers, and "
+"translators from grammatical descriptions containing C++ or Java actions "
+"(you can use PCCTS 1.xx to generate C-based parsers).\n"
 "\n"
 "This package provides the Javadoc for antlr."
 msgstr ""
 
 #. description(antlr:antlr-manual)
 msgid ""
-"ANTLR, Another Tool for Language Recognition, (formerly PCCTS) is a language tool that provides a framework for constructing recognizers, compilers, and translators from grammatical descriptions containing C++ or Java actions (you can use PCCTS 1.xx to generate C-based parsers).\n"
+"ANTLR, Another Tool for Language Recognition, (formerly PCCTS) is a language "
+"tool that provides a framework for constructing recognizers, compilers, and "
+"translators from grammatical descriptions containing C++ or Java actions "
+"(you can use PCCTS 1.xx to generate C-based parsers).\n"
 "\n"
 "This package provides the manual and examples for antlr."
 msgstr ""
@@ -188,15 +210,21 @@ msgstr "7.0 文档"
 msgid "API documentation for cal10n."
 msgstr "7.0 文档"
 
-#. summary(ffado-mixer:ffado-doc)
-#, fuzzy
-msgid "API documentation for ffado"
-msgstr "7.0 文档"
-
 #. description(bouncycastle:bouncycastle-javadoc)
 #, fuzzy
 msgid "API documentation for the bouncycastle package."
 msgstr "7.0 文档"
+
+#. description(asm)
+msgid ""
+"ASM is a Java bytecode manipulation framework.\n"
+"\n"
+"It can be used to dynamically generate stub classes or other proxy classes, "
+"directly in binary form, or to dynamically modify classes at load time, i."
+"e., just before they are loaded into the Java Virtual Machine.\n"
+"\n"
+"ASM offers similar functionalities as BCEL or SERP, but is much smaller."
+msgstr ""
 
 #. description(bsh2:bsh2-classgen)
 #, fuzzy
@@ -242,17 +270,13 @@ msgstr "内核接口"
 msgid "Algorithmic Differentiation Library for C/C++ -- documentation"
 msgstr ""
 
-#. summary(flim)
+#. summary(fcitx-table-other:fcitx-table-amharic)
 #, fuzzy
-msgid "An Emacs Library for MIME"
-msgstr "正在创建资源数据库"
+msgid "Amharic table for Fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
 
 #. summary(castor)
 msgid "An Open Source Data Binding Framework for Java"
-msgstr ""
-
-#. summary(firebird:firebird-32bit)
-msgid "An SQL database server"
 msgstr ""
 
 #. description(ant-antlr:ant-commons-net)
@@ -270,7 +294,13 @@ msgid ""
 msgstr ""
 
 #. description(apache-ivy)
-msgid "Apache Ivy is a tool for managing (recording, tracking, resolving and reporting) project dependencies.  It is designed as process agnostic and is not tied to any methodology or structure. while available as a standalone tool, Apache Ivy works particularly well with Apache Ant providing a number of powerful Ant tasks ranging from dependency resolution to dependency reporting and publication."
+msgid ""
+"Apache Ivy is a tool for managing (recording, tracking, resolving and "
+"reporting) project dependencies.  It is designed as process agnostic and is "
+"not tied to any methodology or structure. while available as a standalone "
+"tool, Apache Ivy works particularly well with Apache Ant providing a number "
+"of powerful Ant tasks ranging from dependency resolution to dependency "
+"reporting and publication."
 msgstr ""
 
 #. summary(axis:axis-javadoc)
@@ -278,30 +308,65 @@ msgstr ""
 msgid "Api documentation for axis"
 msgstr "7.0 文档"
 
+#. summary(fcitx-table-other:fcitx-table-arabic)
+#, fuzzy
+msgid "Arabic table for Fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
+
 #. description(arista)
 msgid ""
-"Arista is a simple preset-based transcoder for the GNOME Desktop and a small script for terminal-based transcoding. Settings are chosen based on output device and quality preset.\n"
+"Arista is a simple preset-based transcoder for the GNOME Desktop and a small "
+"script for terminal-based transcoding. Settings are chosen based on output "
+"device and quality preset.\n"
 "\n"
-"Features:  * Presets for Android, iPod, computer, DVD player, PSP, and more  * Live preview to see encoded quality  * Automatically discover available DVD drives and media  * Rip straight from DVD media easily  * Automatically discover and record from Video4Linux devices  * Support for H.264, WebM, FLV, Ogg, DivX and more  * Batch processing of entire directories easily  * Simple terminal client for scripting  * Nautilus extension for right-click file conversion"
+"Features:  * Presets for Android, iPod, computer, DVD player, PSP, and more  "
+"* Live preview to see encoded quality  * Automatically discover available "
+"DVD drives and media  * Rip straight from DVD media easily  * Automatically "
+"discover and record from Video4Linux devices  * Support for H.264, WebM, "
+"FLV, Ogg, DivX and more  * Batch processing of entire directories easily  * "
+"Simple terminal client for scripting  * Nautilus extension for right-click "
+"file conversion"
 msgstr ""
 
 #. description(armadillo:armadillo-devel-32bit)
 msgid ""
-"Armadillo is a C++ linear algebra library (matrix maths) aiming towards a good balance between speed and ease of use. Integer, floating point and complex numbers are supported, as well as a subset of trigonometric and statistics functions. Various matrix decompositions are provided through optional integration with LAPACK and ATLAS libraries. A delayed evaluation approach is employed (during compile time) to combine several operations into one and reduce (or eliminate) the need for temporaries. This is accomplished through recursive templates and template meta-programming. This library is useful if C++ has been decided as the language of choice (due to speed and/or integration capabilities), rather than another language like Matlab or Octave.\n"
+"Armadillo is a C++ linear algebra library (matrix maths) aiming towards a "
+"good balance between speed and ease of use. Integer, floating point and "
+"complex numbers are supported, as well as a subset of trigonometric and "
+"statistics functions. Various matrix decompositions are provided through "
+"optional integration with LAPACK and ATLAS libraries. A delayed evaluation "
+"approach is employed (during compile time) to combine several operations "
+"into one and reduce (or eliminate) the need for temporaries. This is "
+"accomplished through recursive templates and template meta-programming. This "
+"library is useful if C++ has been decided as the language of choice (due to "
+"speed and/or integration capabilities), rather than another language like "
+"Matlab or Octave.\n"
 "\n"
-"This package contains files necessary for development using the Armadillo C++ library. It contains header files, example programs, and user documentation (reference guide)."
+"This package contains files necessary for development using the Armadillo C+"
+"+ library. It contains header files, example programs, and user "
+"documentation (reference guide)."
 msgstr ""
 
 #. description(asciidoc)
-msgid "AsciiDoc is a text document format for writing short documents, articles, books, and UNIX man pages. AsciiDoc files can be translated to HTML and DocBook markups using the asciidoc command."
+msgid ""
+"AsciiDoc is a text document format for writing short documents, articles, "
+"books, and UNIX man pages. AsciiDoc files can be translated to HTML and "
+"DocBook markups using the asciidoc command."
 msgstr ""
 
 #. description(biabam)
-msgid "BIABAM is a small tool, useful when you want to mail attachments from the command line. It has similarities to mailing attachments from the commandline with Mutt, but it only depends on bash and uuencode."
+msgid ""
+"BIABAM is a small tool, useful when you want to mail attachments from the "
+"command line. It has similarities to mailing attachments from the "
+"commandline with Mutt, but it only depends on bash and uuencode."
 msgstr ""
 
 #. description(lapack:blas-devel-32bit)
-msgid "BLAS (Basic Linear Algebra Subprograms) is a standard library for numerical algebra. BLAS provides a number of basic algorithms for linear algebra. BLAS is fast and well-tested, was written in FORTRAN 77 and built with gfortran. BLAS manual pages are available in the blas-man package."
+msgid ""
+"BLAS (Basic Linear Algebra Subprograms) is a standard library for numerical "
+"algebra. BLAS provides a number of basic algorithms for linear algebra. BLAS "
+"is fast and well-tested, was written in FORTRAN 77 and built with gfortran. "
+"BLAS manual pages are available in the blas-man package."
 msgstr ""
 
 #. description(bsh2:bsh2-bsf)
@@ -315,11 +380,14 @@ msgstr ""
 
 #. description(backintime)
 msgid ""
-"Back In Time is a simple backup system for GNOME/KDE4 desktop inspired from \"flyback project\" and \"TimeVault\". The backup is done by taking snapshots of a specified set of directories.\n"
+"Back In Time is a simple backup system for GNOME/KDE4 desktop inspired from "
+"\"flyback project\" and \"TimeVault\". The backup is done by taking "
+"snapshots of a specified set of directories.\n"
 "\n"
 "All you have to do is configure:\n"
 "\n"
-"\t* Where to save snapshot \t* What directories to backup \t* When backup should be done (manual, \t  every hour, every day, every week, every month)"
+"\t* Where to save snapshot \t* What directories to backup \t* When backup "
+"should be done (manual, \t  every hour, every day, every week, every month)"
 msgstr ""
 
 #. summary(fail2ban)
@@ -341,41 +409,91 @@ msgstr ""
 
 #. description(bsf:bsf-javadoc)
 msgid ""
-"Bean Scripting Framework (BSF) is a set of Java classes which provides scripting language support within Java applications, and access to Java objects and methods from scripting languages. BSF allows one to write JSPs in languages other than Java while providing access to the Java class library. In addition, BSF permits any Java application to be implemented in part (or dynamically extended) by a language that is embedded within it. This is achieved by providing an API that permits calling scripting language engines from within Java, as well as an object registry that exposes Java objects to these scripting language engines.\n"
+"Bean Scripting Framework (BSF) is a set of Java classes which provides "
+"scripting language support within Java applications, and access to Java "
+"objects and methods from scripting languages. BSF allows one to write JSPs "
+"in languages other than Java while providing access to the Java class "
+"library. In addition, BSF permits any Java application to be implemented in "
+"part (or dynamically extended) by a language that is embedded within it. "
+"This is achieved by providing an API that permits calling scripting language "
+"engines from within Java, as well as an object registry that exposes Java "
+"objects to these scripting language engines.\n"
 "\n"
-"This package contains the javadoc documentation for the Bean Scripting Framework."
+"This package contains the javadoc documentation for the Bean Scripting "
+"Framework."
 msgstr ""
 
 #. description(bsh)
-msgid "BeanShell is a small, free, embeddable Java source interpreter with object scripting language features written in Java. BeanShell executes standard Java statements and expressions in addition to obvious scripting commands and syntax. BeanShell supports scripted objects as simple method closures like those in Perl and JavaScript(tm). You can use BeanShell interactively for Java experimentation and debugging or as a simple scripting engine for your applications. In short: BeanShell is dynamically interpreted Java, plus some useful stuff. Another way to describe it is to say that in many ways BeanShell is to Java as Tcl/Tk is to C: BeanShell is embeddable--you can call BeanShell from your Java applications to execute Java code dynamically at runtime or to provide scripting extensibility for your applications. Alternatively, you can call your Java applications and objects from BeanShell, working with Java objects and APIs dynamically. Because BeanShell is written in Java and runs in the same space as your application, you can freely pass references to \"real live\" objects into scripts and return them as results."
+msgid ""
+"BeanShell is a small, free, embeddable Java source interpreter with object "
+"scripting language features written in Java. BeanShell executes standard "
+"Java statements and expressions in addition to obvious scripting commands "
+"and syntax. BeanShell supports scripted objects as simple method closures "
+"like those in Perl and JavaScript(tm). You can use BeanShell interactively "
+"for Java experimentation and debugging or as a simple scripting engine for "
+"your applications. In short: BeanShell is dynamically interpreted Java, plus "
+"some useful stuff. Another way to describe it is to say that in many ways "
+"BeanShell is to Java as Tcl/Tk is to C: BeanShell is embeddable--you can "
+"call BeanShell from your Java applications to execute Java code dynamically "
+"at runtime or to provide scripting extensibility for your applications. "
+"Alternatively, you can call your Java applications and objects from "
+"BeanShell, working with Java objects and APIs dynamically. Because BeanShell "
+"is written in Java and runs in the same space as your application, you can "
+"freely pass references to \"real live\" objects into scripts and return them "
+"as results."
 msgstr ""
 
 #. description(bsh:bsh-demo)
 msgid ""
-"BeanShell is a small, free, embeddable, Java source interpreter with object scripting language features, written in Java.\n"
+"BeanShell is a small, free, embeddable, Java source interpreter with object "
+"scripting language features, written in Java.\n"
 "\n"
 "This package contains sample and demonstration files for BeanShell."
 msgstr ""
 
 #. description(bsh:bsh-javadoc)
 msgid ""
-"BeanShell is a small, free, embeddable, Java source interpreter with object scripting language features, written in Java.\n"
+"BeanShell is a small, free, embeddable, Java source interpreter with object "
+"scripting language features, written in Java.\n"
 "\n"
 "This package contains the javadoc documentation for BeanShell."
 msgstr ""
 
 #. description(bsh:bsh-manual)
 msgid ""
-"BeanShell is a small, free, embeddable, Java source interpreter with object scripting language features, written in Java.\n"
+"BeanShell is a small, free, embeddable, Java source interpreter with object "
+"scripting language features, written in Java.\n"
 "\n"
 "This package contains the manual for BeanShell."
 msgstr ""
 
 #. description(bsh2)
 msgid ""
-"BeanShell is a small, free, embeddable, Java source interpreter with object scripting language features, written in Java. BeanShell executes standard Java statements and expressions, in addition to obvious scripting commands and syntax. BeanShell supports scripted objects as simple method closures like those in Perl and JavaScript(tm). You can use BeanShell interactively for Java experimentation and debugging or as a simple scripting engine for your applications. In short: BeanShell is a dynamically interpreted Java, plus some useful stuff. Another way to describe it is to say that in many ways BeanShell is to Java as Tcl/Tk is to C: BeanShell is embeddable - You can call BeanShell from your Java applications to execute Java code dynamically at run-time or to provide scripting extensibility for your applications. Alternatively, you can call your Java applications and objects from BeanShell; working with Java objects and APIs dynamically. Since BeanShell is written in Java and runs in the same space as your application, you can freely pass references to \"real live\" objects into scripts and return them as results.\n"
+"BeanShell is a small, free, embeddable, Java source interpreter with object "
+"scripting language features, written in Java. BeanShell executes standard "
+"Java statements and expressions, in addition to obvious scripting commands "
+"and syntax. BeanShell supports scripted objects as simple method closures "
+"like those in Perl and JavaScript(tm). You can use BeanShell interactively "
+"for Java experimentation and debugging or as a simple scripting engine for "
+"your applications. In short: BeanShell is a dynamically interpreted Java, "
+"plus some useful stuff. Another way to describe it is to say that in many "
+"ways BeanShell is to Java as Tcl/Tk is to C: BeanShell is embeddable - You "
+"can call BeanShell from your Java applications to execute Java code "
+"dynamically at run-time or to provide scripting extensibility for your "
+"applications. Alternatively, you can call your Java applications and objects "
+"from BeanShell; working with Java objects and APIs dynamically. Since "
+"BeanShell is written in Java and runs in the same space as your application, "
+"you can freely pass references to \"real live\" objects into scripts and "
+"return them as results.\n"
 "\n"
-"With version 2.0 BeanShell becomes a fully Java compatible scripting language. BeanShell is now capable of interpreting ordinary Java source and loading .java source files from the class path. BeanShell scripted classes are fully typed and appear to outside Java code and via reflective inspection as ordinary classes. However their implementation is fully dynamic and they may include arbitrary BeanShell scripts in their bodies, methods, and constructors. Users may now freely mix loose, unstructured BeanShell scripts, method closures, and full scripted classes."
+"With version 2.0 BeanShell becomes a fully Java compatible scripting "
+"language. BeanShell is now capable of interpreting ordinary Java source and "
+"loading .java source files from the class path. BeanShell scripted classes "
+"are fully typed and appear to outside Java code and via reflective "
+"inspection as ordinary classes. However their implementation is fully "
+"dynamic and they may include arbitrary BeanShell scripts in their bodies, "
+"methods, and constructors. Users may now freely mix loose, unstructured "
+"BeanShell scripts, method closures, and full scripted classes."
 msgstr ""
 
 #. summary(beansbinding)
@@ -388,7 +506,15 @@ msgid "Berkeley DB Java Edition"
 msgstr ""
 
 #. description(berkeleydb)
-msgid "Berkeley DB Java Edition is a high performance, transactional storage engine written entirely in Java. Like the highly successful Berkeley DB product, Berkeley DB Java Edition executes in the address space of the application, without the overhead of client/server communication. It stores data in the application's native format, so no runtime data translation is required. Berkeley DB Java Edition supports full ACID transactions and recovery. It provides an easy-to-use, programmatic interface, allowing developers to store and retrieve information quickly, simply and reliably."
+msgid ""
+"Berkeley DB Java Edition is a high performance, transactional storage engine "
+"written entirely in Java. Like the highly successful Berkeley DB product, "
+"Berkeley DB Java Edition executes in the address space of the application, "
+"without the overhead of client/server communication. It stores data in the "
+"application's native format, so no runtime data translation is required. "
+"Berkeley DB Java Edition supports full ACID transactions and recovery. It "
+"provides an easy-to-use, programmatic interface, allowing developers to "
+"store and retrieve information quickly, simply and reliably."
 msgstr ""
 
 #. summary(bitstream-vera-fonts)
@@ -396,12 +522,20 @@ msgid "Bitstream Vera(tm) Truetype fonts"
 msgstr ""
 
 #. description(bleachbit)
-msgid "BleachBit deletes unnecessary files to free valuable disk space and maintain privacy. Rid your system of old junk including broken menu entries, cache, cookies, localizations, and temporary files. Designed for Linux  systems, it wipes clean Bash, Beagle, Epiphany, Firefox, Flash, GNOME, Java, KDE, OpenOffice.org, Opera, RealPlayer, VIM, XChat, and more."
+msgid ""
+"BleachBit deletes unnecessary files to free valuable disk space and maintain "
+"privacy. Rid your system of old junk including broken menu entries, cache, "
+"cookies, localizations, and temporary files. Designed for Linux  systems, it "
+"wipes clean Bash, Beagle, Epiphany, Firefox, Flash, GNOME, Java, KDE, "
+"OpenOffice.org, Opera, RealPlayer, VIM, XChat, and more."
 msgstr ""
 
 #. description(blitz:blitz-doc)
 msgid ""
-"Blitz++ is a C++ class library for scientific computing which provides performance on par with Fortran 77/90. It uses template techniques to achieve high performance. Blitz++ provides dense arrays and vectors, random number generators, and small vectors.\n"
+"Blitz++ is a C++ class library for scientific computing which provides "
+"performance on par with Fortran 77/90. It uses template techniques to "
+"achieve high performance. Blitz++ provides dense arrays and vectors, random "
+"number generators, and small vectors.\n"
 "\n"
 "This package provides HTML documentation files for the Blitz Library."
 msgstr ""
@@ -419,7 +553,10 @@ msgid ""
 msgstr ""
 
 #. description(blueproximity)
-msgid "BlueProximity adds security to your desktop by automatically locking and unlocking the screen when you and your phone leave/enter the desk. Think of a proximity detector for your mobile phone via bluetooth."
+msgid ""
+"BlueProximity adds security to your desktop by automatically locking and "
+"unlocking the screen when you and your phone leave/enter the desk. Think of "
+"a proximity detector for your mobile phone via bluetooth."
 msgstr ""
 
 #. summary(debootstrap)
@@ -431,7 +568,13 @@ msgid "Bouncy Castle Crypto Package for Java"
 msgstr ""
 
 #. description(bpython)
-msgid "Bpython is an enhanced Python interactive interpreter that uses curses and provides the following main features: in-line syntax highlighting; readline-like autocompletion with suggestions displayed as you type; expected argument specification for functions; a handy pastebin function to quickly submit your code and return a URL. Its goal is to bring together a few handy ideas to enhance the standard interpreter without getting carried away."
+msgid ""
+"Bpython is an enhanced Python interactive interpreter that uses curses and "
+"provides the following main features: in-line syntax highlighting; readline-"
+"like autocompletion with suggestions displayed as you type; expected "
+"argument specification for functions; a handy pastebin function to quickly "
+"submit your code and return a URL. Its goal is to bring together a few handy "
+"ideas to enhance the standard interpreter without getting carried away."
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-pt_BR)
@@ -443,10 +586,6 @@ msgstr "包中含有意外的版本"
 #, fuzzy
 msgid "Brazil Portuguese Translations for Calligra Suite Manuals"
 msgstr "包中含有意外的版本"
-
-#. summary(findbugs)
-msgid "Bug Pattern Detector for Java"
-msgstr ""
 
 #. summary(bugreporter)
 msgid "Bug reporting tool for openSUSE"
@@ -474,57 +613,87 @@ msgstr ""
 msgid "CIMOM neutral provider registration utility"
 msgstr "联网信息服务客户机"
 
+#. summary(fcitx-table-other:fcitx-table-cn-cns11643)
+#, fuzzy
+msgid "CNS 11643 table for Fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
+
 #. description(cpmono_v07-fonts)
 msgid "CPMono v07 is an industrial / high-tech monospace font."
 msgstr ""
 
 #. description(cacti)
-msgid "Cacti is a complete front-end to RRDtool: it stores all necessary information for creating graphs and populates them with data from a MySQL database. The front-end is completely PHP driven. Along with being ableto maintain graphs, data sources, and round robin archives ina database, Cacti also handles data gathering. There exists an SNMP support for those accustomed to creating traffic graphs with MRTG as well."
+msgid ""
+"Cacti is a complete front-end to RRDtool: it stores all necessary "
+"information for creating graphs and populates them with data from a MySQL "
+"database. The front-end is completely PHP driven. Along with being ableto "
+"maintain graphs, data sources, and round robin archives ina database, Cacti "
+"also handles data gathering. There exists an SNMP support for those "
+"accustomed to creating traffic graphs with MRTG as well."
 msgstr ""
 
 #. description(caffeine)
-msgid "Caffeine is a status bar application able to temporarily prevent the activation of both the screensaver and the \"sleep\" powersaving mode."
+msgid ""
+"Caffeine is a status bar application able to temporarily prevent the "
+"activation of both the screensaver and the \"sleep\" powersaving mode."
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-ja)
+msgid "Calligra Suite Translations for ja"
 msgstr ""
 
 #. summary(caslon-fonts)
-msgid "Caslon TrueType fonts"
+msgid "Caslon TrueType Fonts"
 msgstr ""
 
 #. description(castor)
-msgid "Castor is an open source data binding framework for Java. It is basically the shortest path between Java objects, XML documents, and SQL tables. Castor provides Java to XML binding, Java to SQL persistence, and more."
+msgid ""
+"Castor is an open source data binding framework for Java. It is basically "
+"the shortest path between Java objects, XML documents, and SQL tables. "
+"Castor provides Java to XML binding, Java to SQL persistence, and more."
 msgstr ""
 
 #. description(castor:castor-xml)
 msgid ""
-"Castor is an open source data binding framework for Java. It's basically the shortest path between Java objects, XML documents and SQL tables. Castor provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
 "\n"
 "This package contains XML support for Castor."
 msgstr ""
 
 #. description(castor:castor-demo)
 msgid ""
-"Castor is an open source data binding framework for Java. It's basically the shortest path between Java objects, XML documents and SQL tables. Castor provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
 "\n"
 "This package contains demonstration and sample files for Castor."
 msgstr ""
 
 #. description(castor:castor-test)
 msgid ""
-"Castor is an open source data binding framework for Java. It's basically the shortest path between Java objects, XML documents and SQL tables. Castor provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
 "\n"
 "This package contains tests for Castor."
 msgstr ""
 
 #. description(castor:castor-doc)
 msgid ""
-"Castor is an open source data binding framework for Java. It's basically the shortest path between Java objects, XML documents and SQL tables. Castor provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
 "\n"
 "This package contains the documentation for Castor."
 msgstr ""
 
 #. description(castor:castor-javadoc)
 msgid ""
-"Castor is an open source data binding framework for Java. It's basically the shortest path between Java objects, XML documents and SQL tables. Castor provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
 "\n"
 "This package contains the javadoc documentation for Castor."
 msgstr ""
@@ -547,27 +716,45 @@ msgstr ""
 msgid ""
 "Cedilla is a \"best-effort\" text printer that uses Unicode internally.\n"
 "\n"
-"Using Unicode means that the set of characters that can appear in the input is very large and the user may very well have no font available that contains glyphs for the characters that the user wants to print. Cedilla attempts to at least partially solve this problem using a number of techniques:\n"
+"Using Unicode means that the set of characters that can appear in the input "
+"is very large and the user may very well have no font available that "
+"contains glyphs for the characters that the user wants to print. Cedilla "
+"attempts to at least partially solve this problem using a number of "
+"techniques:\n"
 "\n"
-"1. 1. Cedilla can use an arbitrary number of downloadable fonts. For    any given print job, only the necessary fonts are downloaded.\n"
+"1. 1. Cedilla can use an arbitrary number of downloadable fonts. For    any "
+"given print job, only the necessary fonts are downloaded.\n"
 "\n"
-"1. 2. Cedilla uses its own built-in font, which contains a number of    useful glyphs that are missing from standard fonts.\n"
+"1. 2. Cedilla uses its own built-in font, which contains a number of    "
+"useful glyphs that are missing from standard fonts.\n"
 "\n"
-"1. 3. Cedilla modifies existing glyphs in order to, for example, remove    dots or add bars.\n"
+"1. 3. Cedilla modifies existing glyphs in order to, for example, remove    "
+"dots or add bars.\n"
 "\n"
-"1. 4. Cedilla attempts to build composite glyphs (for accented    characters, for example) on the fly.\n"
+"1. 4. Cedilla attempts to build composite glyphs (for accented    "
+"characters, for example) on the fly.\n"
 "\n"
-"1. 5. Cedilla uses fallbacks for characters that are not supported by the available fonts."
+"1. 5. Cedilla uses fallbacks for characters that are not supported by the "
+"available fonts."
 msgstr ""
-
-#. summary(fs-check)
-#, fuzzy
-msgid "Check File System Usage"
-msgstr "救援系统"
 
 #. description(check:check-32bit)
-msgid "Check is a unit test framework for C. It features a simple interfacefor defining unit tests, limitating the developer the less possible. Tests are run in a separate address space, so Check cancatch both, assertion failures and code errors that cause segmentationfaults or other signals. The output of unit tests can be used within source code editors and IDEs."
+msgid ""
+"Check is a unit test framework for C. It features a simple interfacefor "
+"defining unit tests, limitating the developer the less possible. Tests are "
+"run in a separate address space, so Check cancatch both, assertion failures "
+"and code errors that cause segmentationfaults or other signals. The output "
+"of unit tests can be used within source code editors and IDEs."
 msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-cn-zhengma-large)
+msgid "Cheng large character set table for Fcitx"
+msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-cn-zhengma)
+#, fuzzy
+msgid "Cheng table for Fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
 
 #. summary(calligra-l10n:calligra-l10n-zh_TW)
 #, fuzzy
@@ -583,7 +770,13 @@ msgid "Classworlds Classloader Framework"
 msgstr ""
 
 #. description(classworlds)
-msgid "Classworlds is a framework for container developers who require complex manipulation of Java's ClassLoaders. Java's native ClassLoader mechanims and classes can cause much headache and confusion for certain types of application developers. Projects which involve dynamic loading of components or otherwise represent a 'container' can benefit from the classloading control provided by classworlds."
+msgid ""
+"Classworlds is a framework for container developers who require complex "
+"manipulation of Java's ClassLoaders. Java's native ClassLoader mechanims and "
+"classes can cause much headache and confusion for certain types of "
+"application developers. Projects which involve dynamic loading of components "
+"or otherwise represent a 'container' can benefit from the classloading "
+"control provided by classworlds."
 msgstr ""
 
 #. summary(emma)
@@ -613,7 +806,12 @@ msgid "Comix - GTK Comic Book Viewer"
 msgstr ""
 
 #. description(comix)
-msgid "Comix is a user-friendly, customizable image viewer. It is specifically designed to handle comic books, but also serves as a generic viewer. It reads images in ZIP, RAR or tar archives (also gzip or bzip2 compressed) as well as plain image files. It is written in Python and uses GTK+ through the PyGTK bindings."
+msgid ""
+"Comix is a user-friendly, customizable image viewer. It is specifically "
+"designed to handle comic books, but also serves as a generic viewer. It "
+"reads images in ZIP, RAR or tar archives (also gzip or bzip2 compressed) as "
+"well as plain image files. It is written in Python and uses GTK+ through the "
+"PyGTK bindings."
 msgstr ""
 
 #. summary(perl-Clipboard:clipboard)
@@ -629,21 +827,18 @@ msgid "Common Information Model (CIM) Schema"
 msgstr ""
 
 #. description(cim-schema)
-msgid "Common Information Model (CIM) is a model for describing overall management information in a network or enterprise environment. CIM consists of a specification and a schema. The specification defines the details for integration with other management models. The schema provides the actual model descriptions."
+msgid ""
+"Common Information Model (CIM) is a model for describing overall management "
+"information in a network or enterprise environment. CIM consists of a "
+"specification and a schema. The specification defines the details for "
+"integration with other management models. The schema provides the actual "
+"model descriptions."
 msgstr ""
 
 #. summary(apache-commons-daemon:apache-commons-daemon-javadoc)
 #, fuzzy
 msgid "Commons Daemon Javadoc"
 msgstr "网卡"
-
-#. description(cal10n)
-msgid "Compiler Assisted Localization, abbreviated as CAL10N (pronounced as \"calion\") is a java library for writing localized (internationalized) messages. Features:     * java compiler verifies message keys used in source code     * tooling to detect errors in message keys     * native2ascii tool made superfluous, as you can directly encode bundles       in the most convenient charset, per locale.     * good performance (300 nanoseconds per key look-up)     * automatic reloading of resource bundles upon change"
-msgstr ""
-
-#. summary(cal10n)
-msgid "Compiler assisted localization library (CAL10N)"
-msgstr ""
 
 #. description(compizconfig-settings-manager)
 msgid "Compiz Config and Settings tool (CCSM)."
@@ -653,7 +848,8 @@ msgstr ""
 msgid ""
 "Compiz Manager wrapper script\n"
 "\n"
-"This script will detect what options we need to pass to compiz to get it started, and start a default plugin and possibly window decorator."
+"This script will detect what options we need to pass to compiz to get it "
+"started, and start a default plugin and possibly window decorator."
 msgstr ""
 
 #. summary(compcache)
@@ -665,7 +861,9 @@ msgid "Compute Differences between XML Documents"
 msgstr ""
 
 #. description(f2c:f2c-32bit)
-msgid "Contains libf2c.so.0.11, ported by Rob Hooft. This package uses an 'f77' script that hides the C translation process from the user."
+msgid ""
+"Contains libf2c.so.0.11, ported by Rob Hooft. This package uses an 'f77' "
+"script that hides the C translation process from the user."
 msgstr ""
 
 #. description(compat)
@@ -691,24 +889,53 @@ msgstr ""
 msgid "Converts File Names from One Encoding to Another"
 msgstr ""
 
+#. description(cppdb:cppdb-doc)
+msgid ""
+"CppDB is an SQL connectivity library that is designed to provide platform "
+"and Database independent connectivity API similarly to what JDBC, ODBC and "
+"other connectivity libraries do.\n"
+"\n"
+"This package contains HTML documentation."
+msgstr ""
+
 #. summary(crash:crash-kmp-pae)
-msgid "Crash utility for live systems; netdump, diskdump, LKCD or mcore dumpfiles"
+msgid ""
+"Crash utility for live systems; netdump, diskdump, LKCD or mcore dumpfiles"
 msgstr ""
 
 #. description(crawl:crawl-data)
 msgid ""
-"Crawl is a fun game in the grand tradition of games like Rogue, Hack, and Moria. Your objective is to travel deep into a subterranean cave complex and retrieve the Orb of Zot, which is guarded by many horrible and hideous creatures.\n"
+"Crawl is a fun game in the grand tradition of games like Rogue, Hack, and "
+"Moria. Your objective is to travel deep into a subterranean cave complex and "
+"retrieve the Orb of Zot, which is guarded by many horrible and hideous "
+"creatures.\n"
 "\n"
 "These are the data files for Dungeon Crawl Stone Soup."
 msgstr ""
 
+#. summary(aldusleaf-crimson-text-fonts)
+msgid "Crimson Text Serif Font"
+msgstr ""
+
 #. description(aldusleaf-crimson-text-fonts)
-msgid "Crimson Text is a font family for book production in the tradition of beautiful oldstyle typefaces. Crimson Text was born after years of discontent with the choice of free text typefaces. It is a friendly, classical old-style font for books."
+msgid ""
+"Crimson Text is a font family for book production in the tradition of "
+"beautiful oldstyle typefaces. Crimson Text was born after years of "
+"discontent with the choice of free text typefaces. It is a friendly, "
+"classical old-style font for books."
 msgstr ""
 
 #. description(crimson)
 msgid ""
-"Crimson is a Java XML parser which supports XML 1.0 via the    following APIs: - Java API for XML Processing (JAXP) 1.1 minus    the javax.xml.transform package. JAXP is a pluggable API that    allows applications to access XML documents in a    parser-independent manner. It endorses the industry standard SAX    and DOM APIs and also adds a few classes under the    javax.xml.parsers package to implement pluggability and utility    methods Note: the javax.xml.transform package hierarchy of JAXP    is not implemented by Crimson. One implementation of    javax.xml.transform can be found at Xalan Java 2.\n"
+"Crimson is a Java XML parser which supports XML 1.0 via the    following "
+"APIs: - Java API for XML Processing (JAXP) 1.1 minus    the javax.xml."
+"transform package. JAXP is a pluggable API that    allows applications to "
+"access XML documents in a    parser-independent manner. It endorses the "
+"industry standard SAX    and DOM APIs and also adds a few classes under "
+"the    javax.xml.parsers package to implement pluggability and utility    "
+"methods Note: the javax.xml.transform package hierarchy of JAXP    is not "
+"implemented by Crimson. One implementation of    javax.xml.transform can be "
+"found at Xalan Java 2.\n"
 "\n"
 "- SAX 2.0\n"
 "\n"
@@ -719,13 +946,20 @@ msgstr ""
 
 #. description(cryptix:cryptix-javadoc)
 msgid ""
-"Cryptix 3 is a cleanroom implementation of Sun's Java Cryptography Extensions (JCE) version 1.1. In addition to that it contains the Cryptix Provider which delivers a wide range of algorithms and support for PGP 2.x. Cryptix 3 runs on both JDK 1.1 and JDK 1.2 (Java 2).\n"
+"Cryptix 3 is a cleanroom implementation of Sun's Java Cryptography "
+"Extensions (JCE) version 1.1. In addition to that it contains the Cryptix "
+"Provider which delivers a wide range of algorithms and support for PGP 2.x. "
+"Cryptix 3 runs on both JDK 1.1 and JDK 1.2 (Java 2).\n"
 "\n"
 "This package contains the javadoc documentation for Cryptix."
 msgstr ""
 
 #. description(cryptix)
-msgid "Cryptix 3 is a cleanroom implementation of Sun's Java Cryptography Extensions (JCE) version 1.1. In addition to that, it contains the Cryptix Provider, which delivers a wide range of algorithms and support for PGP 2.x. Cryptix 3 runs on both JDK 1.1 and JDK 1.2 (Java 2)."
+msgid ""
+"Cryptix 3 is a cleanroom implementation of Sun's Java Cryptography "
+"Extensions (JCE) version 1.1. In addition to that, it contains the Cryptix "
+"Provider, which delivers a wide range of algorithms and support for PGP 2.x. "
+"Cryptix 3 runs on both JDK 1.1 and JDK 1.2 (Java 2)."
 msgstr ""
 
 #. summary(cryptix-asn1)
@@ -738,11 +972,19 @@ msgid "Czech Translations for Calligra Suite Applications"
 msgstr "应用程序"
 
 #. description(dbus-1:dbus-1-devel-doc)
-msgid "D-Bus is a message bus system, a simple way for applications to talk to one another. D-BUS supplies both a system daemon and a per-user-login-session daemon. Also, the message bus is built on top of a general one-to-one message passing framework, which can be used by any two apps to communicate directly (without going through the message bus daemon)."
+msgid ""
+"D-Bus is a message bus system, a simple way for applications to talk to one "
+"another. D-BUS supplies both a system daemon and a per-user-login-session "
+"daemon. Also, the message bus is built on top of a general one-to-one "
+"message passing framework, which can be used by any two apps to communicate "
+"directly (without going through the message bus daemon)."
 msgstr ""
 
 #. description(d-feet)
-msgid "D-Feet is a graphical D-Bus debugger.  D-Bus is an RPC library used on the Desktop.  D-Feet can be used to inspect D-Bus objects of running programs and invoke methods on those objects."
+msgid ""
+"D-Feet is a graphical D-Bus debugger.  D-Bus is an RPC library used on the "
+"Desktop.  D-Feet can be used to inspect D-Bus objects of running programs "
+"and invoke methods on those objects."
 msgstr ""
 
 #. summary(d-haven-event)
@@ -750,7 +992,12 @@ msgid "D-Haven Event based processing"
 msgstr ""
 
 #. description(d-haven-event)
-msgid "D-Haven Event is a library designed to make it easier to develop event based processing systems.  It also includes a CommandManager to handle certain activities behind the scenes in a controlled number of background threads.  The library has been fully tested, and all dependencies have been brought to a minimum."
+msgid ""
+"D-Haven Event is a library designed to make it easier to develop event based "
+"processing systems.  It also includes a CommandManager to handle certain "
+"activities behind the scenes in a controlled number of background threads.  "
+"The library has been fully tested, and all dependencies have been brought to "
+"a minimum."
 msgstr ""
 
 #. summary(d-haven-mpool)
@@ -758,7 +1005,12 @@ msgid "D-Haven Managed Pool async"
 msgstr ""
 
 #. description(d-haven-mpool)
-msgid "D-Haven Managed Pool is a library designed to provide pools that are asynchronously managed in a background thread.\tThe pool system is very flexible and can accommodate just about every need.  It boasts the ability to add pool listeners so that you can instrument and intercept the pooled objects when they are created, destroyed, acquired, and released."
+msgid ""
+"D-Haven Managed Pool is a library designed to provide pools that are "
+"asynchronously managed in a background thread.\tThe pool system is very "
+"flexible and can accommodate just about every need.  It boasts the ability "
+"to add pool listeners so that you can instrument and intercept the pooled "
+"objects when they are created, destroyed, acquired, and released."
 msgstr ""
 
 #. summary(dita-ot)
@@ -766,11 +1018,18 @@ msgid "DITA Open Toolkit"
 msgstr ""
 
 #. summary(dkimproxy)
-msgid "DKIMproxy is an SMTP-proxy that implements the DKIM and DomainKeys standards"
+msgid ""
+"DKIMproxy is an SMTP-proxy that implements the DKIM and DomainKeys standards"
 msgstr ""
 
 #. description(dkimproxy)
-msgid "DKIMproxy is an SMTP-proxy that signs and/or verifies emails, using the Mail::DKIM module. It is designed for Postfix, but should work with any mail server. It comprises two separate proxies, an \"outbound\" proxy for signing outgoing email, and an \"inbound\" proxy for verifying signatures of incoming email. With Postfix, the proxies can operate as either Before-Queue or After-Queue content filters."
+msgid ""
+"DKIMproxy is an SMTP-proxy that signs and/or verifies emails, using the "
+"Mail::DKIM module. It is designed for Postfix, but should work with any mail "
+"server. It comprises two separate proxies, an \"outbound\" proxy for signing "
+"outgoing email, and an \"inbound\" proxy for verifying signatures of "
+"incoming email. With Postfix, the proxies can operate as either Before-Queue "
+"or After-Queue content filters."
 msgstr ""
 
 #. summary(dom2-core-tests)
@@ -796,7 +1055,11 @@ msgid "Decibel Audio Player Is an Easy to Use Audio Player"
 msgstr ""
 
 #. description(decibel-audio-player)
-msgid "Decibel Audio Player is a GTK+ open-source (GPL license) audio player designed for GNU/Linux, which aims at being very straightforward to use by mean of a very clean and user friendly interface. It is especially targeted at Gnome and will follow as closely as possible the Gnome HIG."
+msgid ""
+"Decibel Audio Player is a GTK+ open-source (GPL license) audio player "
+"designed for GNU/Linux, which aims at being very straightforward to use by "
+"mean of a very clean and user friendly interface. It is especially targeted "
+"at Gnome and will follow as closely as possible the Gnome HIG."
 msgstr ""
 
 #. summary(castor:castor-demo)
@@ -834,11 +1097,6 @@ msgstr "Tcl/Tk 及其开发工具。"
 msgid "Development Package for AAlib"
 msgstr "开发"
 
-#. summary(flickrnet:flickrnet-devel)
-#, fuzzy
-msgid "Development files for Flickr.Net"
-msgstr "Tcl/Tk 及其开发工具。"
-
 #. summary(armadillo:armadillo-devel-32bit)
 #, fuzzy
 msgid "Development headers and documentation for the Armadillo C++ library"
@@ -868,6 +1126,27 @@ msgstr "7.0 文档"
 msgid "DjVuSmooth is a graphical text editor for DjVu documents."
 msgstr ""
 
+#. summary(daps)
+msgid "DocBook Authoring and Publishing Suite"
+msgstr ""
+
+#. description(daps)
+msgid ""
+"DocBook Authoring and Publishing Suite (DAPS)\n"
+"\n"
+"DAPS contains a set of stylesheets, scripts and makefiles that enable you to "
+"create HTML, PDF, EPUB and other formats from DocBook XML with a single "
+"command. It also contains tools to generate profiled source tarballs for "
+"distributing your XML sources for translation or review.\n"
+"\n"
+"DAPS also includes tools that assist you when writing DocBook XML: "
+"linkchecker, validator, spellchecker, editor macros and stylesheets for "
+"converting DocBook XML.\n"
+"\n"
+"DAPS is the successor of susedoc. See /usr/share/doc/packages/daps/README."
+"upgrade_from_susedoc_4.x for upgrade instructions."
+msgstr ""
+
 #. summary(docbook-css-stylesheets)
 msgid "DocBook CSS Stylesheets"
 msgstr ""
@@ -883,11 +1162,6 @@ msgstr ""
 #. summary(dblatex)
 msgid "DocBook to LaTeX Publishing"
 msgstr ""
-
-#. summary(docbook-tdg)
-#, fuzzy
-msgid "DocBook: The Definitive Guide"
-msgstr "DocBook - 权威的指南"
 
 #. summary(boinc-client:boinc-client-doc)
 #, fuzzy
@@ -907,18 +1181,6 @@ msgstr "7.0 文档"
 #, fuzzy
 msgid "Documentation for CKermit"
 msgstr "7.0 文档"
-
-#. summary(firebird:firebird-doc)
-#, fuzzy
-msgid "Documentation for Firebird SQL server"
-msgstr "7.0 文档"
-
-#. description(firebird:firebird-doc)
-msgid ""
-"Documentation for Firebird SQL server.\n"
-"\n"
-"Firebird is a relational database offering many ANSI SQL standard features that runs on Linux, Windows, and a variety of Unix platforms. Firebird offers excellent concurrency, high performance, and powerful language support for stored procedures and triggers. It has been used in production systems, under a variety of names, since 1981."
-msgstr ""
 
 #. summary(adaptx:adaptx-doc)
 #, fuzzy
@@ -940,8 +1202,14 @@ msgstr "7.0 文档"
 msgid "Documentation for castor"
 msgstr "7.0 文档"
 
+#. summary(dpic:dpic-doc)
+#, fuzzy
+msgid "Documentation for dpic"
+msgstr "7.0 文档"
+
 #. summary(libdb-4_5:db45-utils-doc)
-msgid "Documentation for the Command Line tools for Managing Berkeley DB Databases"
+msgid ""
+"Documentation for the Command Line tools for Managing Berkeley DB Databases"
 msgstr ""
 
 #. summary(dbus-1-glib:dbus-1-glib-doc)
@@ -959,11 +1227,6 @@ msgstr "等待导航栏应用程序"
 msgid "Documentation of the Calligra Suite"
 msgstr "7.0 文档"
 
-#. summary(findbugs:findbugs-manual)
-#, fuzzy
-msgid "Documents for findbugs"
-msgstr "7.0 文档"
-
 #. summary(calligra-l10n:calligra-l10n-nl)
 #, fuzzy
 msgid "Dutch Translations for Calligra Suite Applications"
@@ -979,11 +1242,18 @@ msgid "Dynamic wallpapers for GNOME, from previous versions of openSUSE"
 msgstr ""
 
 #. description(emma)
-msgid "EMMA is an open-source toolkit for measuring and reporting Java code coverage. EMMA distinguishes itself from other tools by going after a unique feature combination: support for large-scale enterprise software development while keeping individual developer's work fast and iterative."
+msgid ""
+"EMMA is an open-source toolkit for measuring and reporting Java code "
+"coverage. EMMA distinguishes itself from other tools by going after a unique "
+"feature combination: support for large-scale enterprise software development "
+"while keeping individual developer's work fast and iterative."
 msgstr ""
 
 #. description(epg)
-msgid "EasyPG is an all-in-one GnuPG interface for Emacs. It has two aspects: convenient tools which allow to use GnuPG from Emacs (EasyPG Assistant), and a fully functional interface library to GnuPG (EasyPG Library)."
+msgid ""
+"EasyPG is an all-in-one GnuPG interface for Emacs. It has two aspects: "
+"convenient tools which allow to use GnuPG from Emacs (EasyPG Assistant), and "
+"a fully functional interface library to GnuPG (EasyPG Library)."
 msgstr ""
 
 #. summary(ecj)
@@ -1008,6 +1278,11 @@ msgstr ""
 msgid "Emacs/W3--a WWW Browser for Emacs"
 msgstr ""
 
+#. summary(fcitx-table-other:fcitx-table-emoji)
+#, fuzzy
+msgid "Emoji table for Fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
+
 #. summary(calligra-l10n:calligra-l10n-en_GB)
 #, fuzzy
 msgid "English (UK) Translations for Calligra Suite Applications"
@@ -1015,17 +1290,29 @@ msgstr "应用程序"
 
 #. description(epiphany:epiphany-branding-upstream)
 msgid ""
-"Epiphany is a Web Browser for the GNOME Desktop. Its principles are simplicity and standards compliance.\n"
+"Epiphany is a Web Browser for the GNOME Desktop. Its principles are "
+"simplicity and standards compliance.\n"
 "\n"
 "This package provides the upstream default bookmarks and user agent string."
 msgstr ""
 
 #. description(epydoc)
-msgid "Epydoc is a tool for generating API documentation for Python modules based on their documentation strings (docstrings). A lightweight markup language, called epytext ,can be used to format docstrings and add information about specific fields, such as parameters and instance variables. Epydoc also understands docstrings written in ReStructuredText, Javadoc, and plain text."
+msgid ""
+"Epydoc is a tool for generating API documentation for Python modules based "
+"on their documentation strings (docstrings). A lightweight markup language, "
+"called epytext ,can be used to format docstrings and add information about "
+"specific fields, such as parameters and instance variables. Epydoc also "
+"understands docstrings written in ReStructuredText, Javadoc, and plain text."
 msgstr ""
 
 #. description(eric5)
-msgid "Eric is a full featured Python and Ruby editor and IDE, written in python. It is based on the cross platform Qt gui toolkit, integrating the highly flexible Scintilla editor control. It is designed to be usable as everdays' quick and dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder."
+msgid ""
+"Eric is a full featured Python and Ruby editor and IDE, written in python. "
+"It is based on the cross platform Qt gui toolkit, integrating the highly "
+"flexible Scintilla editor control. It is designed to be usable as everdays' "
+"quick and dirty editor as well as being usable as a professional project "
+"management tool integrating many advanced features Python offers the "
+"professional coder."
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-et)
@@ -1039,8 +1326,17 @@ msgid "Estonian Translations for Calligra Suite Manuals"
 msgstr "等待导航栏应用程序"
 
 #. description(euca2ools)
-msgid "Euca2ools are command-line tools for interacting with Web services that export a REST/Query-based API compatible with Amazon EC2 and S3 services. The tools can be used with both Amazon's services and with installations of the Eucalyptus open-source cloud-computing infrastructure."
+msgid ""
+"Euca2ools are command-line tools for interacting with Web services that "
+"export a REST/Query-based API compatible with Amazon EC2 and S3 services. "
+"The tools can be used with both Amazon's services and with installations of "
+"the Eucalyptus open-source cloud-computing infrastructure."
 msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-wanfeng)
+#, fuzzy
+msgid "Evening Breeze(Wanfeng) table for fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
 
 #. summary(asciidoc:asciidoc-examples)
 #, fuzzy
@@ -1048,12 +1344,12 @@ msgid "Examples and Documents for asciidoc"
 msgstr "包中含有意外的版本"
 
 #. description(exmh)
-msgid "Exmh is an X user interface for NMH mail. NMH provides a set of UNIX commands that manage folders and mail messages. NMH has many features as a result of several years of availability. Exmh provides a graphical interface to many of these features, but not everything."
+msgid ""
+"Exmh is an X user interface for NMH mail. NMH provides a set of UNIX "
+"commands that manage folders and mail messages. NMH has many features as a "
+"result of several years of availability. Exmh provides a graphical interface "
+"to many of these features, but not everything."
 msgstr ""
-
-#. summary(fcitx-table-extra)
-msgid "Extra table for Fcitx"
-msgstr "针对 Fcitx 输入法框架的额外码表"
 
 #. summary(brp-extract-appdata)
 msgid "Extract appdata.xml"
@@ -1061,14 +1357,6 @@ msgstr ""
 
 #. description(brp-extract-appdata)
 msgid "Extract appdata.xml from all .deskop files found in build root"
-msgstr ""
-
-#. description(ffado-mixer)
-msgid "FFADO aims to provide a generic, open-source solution to support FireWire(IEEE1394, iLink) based (semi-) professional audio interfaces. It's the successor of the FreeBoB project. FFADO is a volunteer-based community effort, trying to provide Linux with at least the same level of functionality that is present on the other operating systems. The range of FireWire Audio Devices that we would like to support is broad: from pure audio interfaces over mixed audio-control devices to DSP algorithm devices. This is a snapshot of svn revision 2040"
-msgstr ""
-
-#. description(flim-xemacs)
-msgid "FLIM is a library that provides basic features about message representation or encoding."
 msgstr ""
 
 #. summary(faenza-icon-theme)
@@ -1097,29 +1385,153 @@ msgid "Faenza-Radiance Icon Theme"
 msgstr "氧气图标主题"
 
 #. description(fail2ban)
-msgid "Fail2ban scans log files like /var/log/messages and bans IP addresses that makes too many password failures. It updates firewall rules to reject the IP address, can send e-mails, or set host.deny entries. These rules can be defined by the user. Fail2Ban can read multiple log files such as sshd or Apache web server ones."
+msgid ""
+"Fail2ban scans log files like /var/log/messages and bans IP addresses that "
+"makes too many password failures. It updates firewall rules to reject the IP "
+"address, can send e-mails, or set host.deny entries. These rules can be "
+"defined by the user. Fail2Ban can read multiple log files such as sshd or "
+"Apache web server ones."
 msgstr ""
 
 #. summary(bpython)
 msgid "Fancy Curses Interface to the Python Interactive Interpreter"
 msgstr ""
 
-#. description(fcitx-table-extra)
-msgid ""
-"Fcitx-table-extra provides extra table for Fcitx, including Boshiamy, Zhengma, and Cangjie 3/5.\n"
-"\n"
-"Boshiamy table and its icon are released under their own license."
+#. description(fcitx-table-other:fcitx-table-amharic)
+msgid "Fcitx Amharic table."
 msgstr ""
-"fcitx-table-extra 为 Fcitx 输入法框架提供了额外的码表，包括無暇米，郑码和仓颉 3/5。\n"
+
+#. description(fcitx-table-other:fcitx-table-arabic)
+msgid "Fcitx Arabic table."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-cn-zhengma)
+msgid "Fcitx Cheng (Zheng Ma) table for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-cn-zhengma-large)
+msgid ""
+"Fcitx Cheng (Zheng Ma) table with large character set for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx-table-other:fcitx-table-cn-cns11643)
+msgid ""
+"Fcitx Chinese National Standard 11643 table for Simplified Chinese.\n"
 "\n"
-"無暇米码表和它的图标按照其自有协议发布。"
+"It's also called Chinese Standard Interchange Code. And it's a superset of "
+"ASCII.\n"
+"\n"
+"See: http://en.wikipedia.org/wiki/CNS_11643 for details.\n"
+"\n"
+"If you don't know what it is, don't try. Actually no Chinese use it either."
+msgstr ""
 
-#. description(fcitx-table-other)
-msgid "Fcitx-table-other is a fork of ibus-table-others for Fcitx. provides additional tables."
-msgstr "fcitx-table-other 是 ibus-table-others 在 Fcitx 输入法框架上的一个分支。提供了一些额外码表。"
+#. summary(fcitx:fcitx-skin-classic)
+msgid "Fcitx Classic Skin"
+msgstr ""
 
-#. summary(fhs)
-msgid "File System Hierarchy Standard"
+#. summary(fcitx:fcitx-skin-dark)
+msgid "Fcitx Dark Skin"
+msgstr ""
+
+#. description(fcitx-table-other:fcitx-table-emoji)
+msgid "Fcitx Emoji (Emoticons) table."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-wanfeng)
+msgid "Fcitx Evening Breeze (Wan feng) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-cn-cantonese)
+msgid ""
+"Fcitx Guongdonkwa Penkyampji(Cantonese Pinyin) table for Simplified "
+"Chinese.\n"
+"\n"
+"Cantonese Pinyin is a table input method, but it's not the pinyin used in "
+"Mainland China, but derivative schemes used by overseas Chinese in Hongkong, "
+"Kuala Lumpur, Sydney, Auckland, and Vancouver. This standard is released by "
+"Education department of Canton Province in 1960s.\n"
+"\n"
+"See: http://en.wikipedia.org/wiki/Guangdong_Romanization for details\n"
+"\n"
+"If you don't know what it is, don't try."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-hk-cantonese)
+msgid ""
+"Fcitx Hong Kong Guongdonkwa Penkyampji table for Traditional Chinese.\n"
+"\n"
+"This is Hong Kong derivative of the standard Guongdonkwa Penkyampji "
+"schemes.\n"
+"\n"
+"See: http://en.wikipedia.org/wiki/Guangdong_Romanization for details\n"
+"\n"
+"If you don't know what it is, don't try."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-bingchan)
+msgid ""
+"Fcitx Icefrog Holography (Bing Chan Quan Xi, or QXM) input tables for "
+"Simplified Chinese."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-ziran)
+msgid "Fcitx Nature (Zi Ran Ma) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-dianbao)
+msgid "Fcitx Telegram (Dian Bao) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-cangjie)
+msgid "Fcitx Tsang Jei (Cang Jie) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-erbi)
+msgid "Fcitx Two Stroke (Er Bi) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-cn-wu)
+msgid ""
+"Fcitx Wu table for Simplified Chinese.\n"
+"\n"
+"It's not Wubi, but Shanghainese.\n"
+"\n"
+"Wu is a dialect used in a few provinces in the south end beach of yangtse "
+"river.\n"
+"\n"
+"If you don't know what it is, don't try."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-wubi-pinyin)
+msgid ""
+"Fcitx Wubi (Wu Bi Zi Xing) and Pinyin mixed input tables for Simplified "
+"Chinese.\n"
+"\n"
+"Wubi in Fcitx is based on wubi x86."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-wubi)
+msgid ""
+"Fcitx Wubi (Wu Bi Zi Xing) input tables for Simplified Chinese.\n"
+"\n"
+"Wubi in Fcitx is based on wubi x86."
+msgstr ""
+
+#. description(fcitx:fcitx-skin-classic)
+msgid ""
+"Fcitx classic skin.\n"
+"\n"
+"You can either use this package or download from kde-look.org using "
+"knewstaff in fcitx-config-kde4."
+msgstr ""
+
+#. description(fcitx:fcitx-skin-dark)
+msgid ""
+"Fcitx dark skin.\n"
+"\n"
+"You can either use this package for download from kde-look.org using "
+"knewstaff in fcitx-config-kde4."
 msgstr ""
 
 #. description(aalib:aalib-devel-32bit)
@@ -1132,40 +1544,20 @@ msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
 msgid "Files needed for software development using the device mapper"
 msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
 
-#. description(findbugs)
-msgid "FindBugs is a program to find bugs in Java programs. It looks for instances of ``bug patterns''---code instances that are likely to be errors."
-msgstr ""
-
 #. summary(calligra-l10n:calligra-l10n-fi)
 #, fuzzy
 msgid "Finnish Translations for Calligra Suite Applications"
 msgstr "应用程序"
 
-#. summary(ffado-mixer)
-msgid "FireWire 1394 support for audio devices, svn snapshot"
-msgstr ""
-
-#. description(firebird:firebird-32bit)
-msgid "Firebird is a relational database offering many ANSI SQL standard features that runs on Linux, Windows, and a variety of Unix platforms. Firebird offers excellent concurrency, high performance, and powerful language support for stored procedures and triggers. It has been used in production systems, under a variety of names, since 1981."
-msgstr ""
-
-#. description(fillets-ng-data)
-msgid ""
-"Fish Fillets is strictly a puzzle game. The goal in each of the 70 levels is always the same: to find a safe way out. The fish utter witty remarks about their surroundings and the various inhabitants of their underwater realm quarrel among themselves or comment on the efforts of your fish. The whole game is accompanied by quiet, comforting music.\n"
-"\n"
-"This package contains data for the game."
-msgstr ""
-
-#. description(flim)
-msgid "For coding and decoding MIME messages."
-msgstr ""
-
 #. description(Crystalcursors)
-msgid "Four different mouse cursor icon sets in the KDE CrystalSVG style. In white, gray, blue, and green versions. They can be selected from KDE Control Center, in the mouse configuration."
+msgid ""
+"Four different mouse cursor icon sets in the KDE CrystalSVG style. In white, "
+"gray, blue, and green versions. They can be selected from KDE Control "
+"Center, in the mouse configuration."
 msgstr ""
 
-#. summary(free-ttf-fonts)
-msgid "Free TrueType Art Fonts"
+#. summary(cedict)
+msgid "Free Chinese-English Dictionary in EDICT Format"
 msgstr ""
 
 #. summary(efont-serif-fonts)
@@ -1186,10 +1578,6 @@ msgstr "等待导航栏应用程序"
 msgid "Front-End for nmh Written in tcl/tk"
 msgstr ""
 
-#. summary(froxlor)
-msgid "Froxlor Server Management Panel a php web-based administration software"
-msgstr ""
-
 #. summary(epiphany:epiphany-branding-upstream)
 msgid "GNOME Web Browser -- Upstream default bookmarks and user agent string"
 msgstr ""
@@ -1199,7 +1587,21 @@ msgid "GNU JavaMail is a free implementation of the JavaMail API specification"
 msgstr ""
 
 #. description(classpathx-mail)
-msgid "GNU JavaMail is a free implementation of the JavaMail API specification, version 1.3. All the code has been written from scratch without reference to Sun's code, which allows GNU JavaMail to be used on a completely free operating system such as GNU/Linux or the Hurd. The code is optimized to work with free Java implementations, nothing prevents it from being used with any compliant JVM. GNU JavaMail provides a protocol-independent framework for building mail client applications in Java. The API itself provides a complete MIME implementation, and drivers for individual messaging protocols, known as providers, can be plugged into the JavaMail framework dynamically. Several providers, implementing Internet standard protocols, are included with GNU JavaMail. These include: SMTP IMAP POP3 NNTP including posting to news servers The UNIX mbox format Dan Bernstein's Maildir format All these providers are feature-complete, and provide cryptographically secure access where relevant."
+msgid ""
+"GNU JavaMail is a free implementation of the JavaMail API specification, "
+"version 1.3. All the code has been written from scratch without reference to "
+"Sun's code, which allows GNU JavaMail to be used on a completely free "
+"operating system such as GNU/Linux or the Hurd. The code is optimized to "
+"work with free Java implementations, nothing prevents it from being used "
+"with any compliant JVM. GNU JavaMail provides a protocol-independent "
+"framework for building mail client applications in Java. The API itself "
+"provides a complete MIME implementation, and drivers for individual "
+"messaging protocols, known as providers, can be plugged into the JavaMail "
+"framework dynamically. Several providers, implementing Internet standard "
+"protocols, are included with GNU JavaMail. These include: SMTP IMAP POP3 "
+"NNTP including posting to news servers The UNIX mbox format Dan Bernstein's "
+"Maildir format All these providers are feature-complete, and provide "
+"cryptographically secure access where relevant."
 msgstr ""
 
 #. summary(classpathx-mail:classpathx-mail-javadoc)
@@ -1213,10 +1615,6 @@ msgid ""
 "\n"
 "\n"
 "GNU JavaMail(tm)."
-msgstr ""
-
-#. summary(fillets-ng-data)
-msgid "Game Data for Fish Fillets - Next Generation"
 msgstr ""
 
 #. summary(cpanspec)
@@ -1276,6 +1674,11 @@ msgstr "应用程序"
 msgid "Grep-Like Text Finder"
 msgstr ""
 
+#. summary(cppdb:cppdb-doc)
+#, fuzzy
+msgid "HTML documentation for CppDB"
+msgstr "7.0 文档"
+
 #. summary(boost:boost-doc-html)
 #, fuzzy
 msgid "HTML documentation for the Boost C++ Libraries"
@@ -1286,8 +1689,8 @@ msgstr "7.0 文档"
 msgid "Header files and libraries for developing apps which will use CrackLib"
 msgstr "Tcl/Tk 及其开发工具。"
 
-#. summary(fetchmsttfonts)
-msgid "Helper package to run the fetchmsttfonts script"
+#. summary(fcitx-table-extra:fcitx-table-hk-cantonese)
+msgid "Hong Kong Guongdonkwa Penkyampji table for Fcitx"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-hu)
@@ -1295,8 +1698,16 @@ msgstr ""
 msgid "Hungarian Translations for Calligra Suite Applications"
 msgstr "应用程序"
 
+#. summary(fcitx:fcitx-table-cn-bingchan)
+msgid "Icefrog Holography(QXM) table for fcitx"
+msgstr ""
+
 #. description(beansbinding)
-msgid "In essence, Beans Binding (JSR 295) is about keeping two properties (typically of two objects) in sync. An additional emphasis is placed on the ability to bind to Swing components, and easy integration with IDEs such as NetBeans. This project provides the reference implementation."
+msgid ""
+"In essence, Beans Binding (JSR 295) is about keeping two properties "
+"(typically of two objects) in sync. An additional emphasis is placed on the "
+"ability to bind to Swing components, and easy integration with IDEs such as "
+"NetBeans. This project provides the reference implementation."
 msgstr ""
 
 #. summary(ccaudio2:ccaudio2-devel-32bit)
@@ -1314,7 +1725,9 @@ msgid "Info pages and Open Source Development with CVS, 2nd Edition Book"
 msgstr "使用 CVS 第 2 版打开源代码开发"
 
 #. description(cvs:cvs-doc)
-msgid "Info pages for cvs, an introduction to cvs (/usr/share/cvs/contrib/intro.doc) and the complete book \"Open Source Development with CVS, 2nd Edition\"."
+msgid ""
+"Info pages for cvs, an introduction to cvs (/usr/share/cvs/contrib/intro."
+"doc) and the complete book \"Open Source Development with CVS, 2nd Edition\"."
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-it)
@@ -1357,6 +1770,10 @@ msgstr ""
 msgid "Java asn1 implementation for Cryptix."
 msgstr "7.0 文档"
 
+#. summary(asm)
+msgid "Java bytecode manipulation framework"
+msgstr ""
+
 #. summary(asm:asm-javadoc)
 msgid "Java bytecode manipulation framework (documentation)"
 msgstr ""
@@ -1367,6 +1784,10 @@ msgstr ""
 
 #. summary(avalon-logkit)
 msgid "Java logging toolkit"
+msgstr ""
+
+#. summary(aelfred)
+msgid "Java-based XML parser"
 msgstr ""
 
 #. summary(aelfred:aelfred-demo)
@@ -1478,10 +1899,6 @@ msgstr ""
 msgid "Javadoc for cryptix-asn1"
 msgstr ""
 
-#. summary(findbugs:findbugs-javadoc)
-msgid "Javadoc for findbugs"
-msgstr ""
-
 #. summary(apache-commons-beanutils:apache-commons-beanutils-javadoc)
 msgid "Javadoc for jakarta-commons-beanutils"
 msgstr ""
@@ -1490,7 +1907,10 @@ msgstr ""
 msgid ""
 "Junicode (short for Junius-Unicode) is a Unicode font for medievalists.\n"
 "\n"
-"Junicode currently contains 3096 characters in the regular style (the italic, bold and bold italic styles are less complete). These Unicode ranges are either complete in the regular style or they contain substantial numbers of glyphs (especially those of interest to medievalists)."
+"Junicode currently contains 3096 characters in the regular style (the "
+"italic, bold and bold italic styles are less complete). These Unicode ranges "
+"are either complete in the regular style or they contain substantial numbers "
+"of glyphs (especially those of interest to medievalists)."
 msgstr ""
 
 #. summary(bootsplash-branding-upstream:bootsplash-branding-KDE)
@@ -1520,11 +1940,6 @@ msgstr "北马里亚纳群岛"
 #, fuzzy
 msgid "Korean translations of GNU manuals."
 msgstr "北马里亚纳群岛"
-
-#. summary(akonadi-google:akonadi-google-lang)
-#, fuzzy
-msgid "Languages for package akonadi-google"
-msgstr "语言：     "
 
 #. summary(alarm-clock-applet:alarm-clock-applet-lang)
 #, fuzzy
@@ -1571,7 +1986,7 @@ msgstr "软件包 libwebkit 的语言文件"
 msgid "Languages for package blueproximity"
 msgstr "语言：     "
 
-#. summary(boinc-client:boinc-manager-lang)
+#. summary(boinc-client:boinc-client-lang)
 #, fuzzy
 msgid "Languages for package boinc-client"
 msgstr "语言：     "
@@ -1626,6 +2041,11 @@ msgstr "语言：     "
 msgid "Languages for package decibel-audio-player"
 msgstr "语言：     "
 
+#. summary(deepin-ui:deepin-ui-lang)
+#, fuzzy
+msgid "Languages for package deepin-ui"
+msgstr "语言：     "
+
 #. summary(devilspie:devilspie-lang)
 #, fuzzy
 msgid "Languages for package devilspie"
@@ -1661,11 +2081,6 @@ msgstr "语言：     "
 msgid "Languages for package espeak-gui"
 msgstr "语言：     "
 
-#. summary(evolution-ews:evolution-ews-lang)
-#, fuzzy
-msgid "Languages for package evolution-ews"
-msgstr "语言：     "
-
 #. summary(evolution-rss:evolution-plugin-rss-lang)
 #, fuzzy
 msgid "Languages for package evolution-rss"
@@ -1676,13 +2091,8 @@ msgstr "语言：     "
 msgid "Languages for package exiv2"
 msgstr "语言：     "
 
-#. summary(filezilla:filezilla-lang)
-#, fuzzy
-msgid "Languages for package filezilla"
-msgstr "语言：     "
-
 #. summary(ctan-latinmodern-fonts)
-msgid "Latin Modern fonts from CTAN/GUST"
+msgid "Latin Modern Fonts from CTAN/GUST"
 msgstr ""
 
 #. summary(compat)
@@ -1707,7 +2117,8 @@ msgid "Lightweight Scripting for Java (BeanShell Version 2.x) (BSF support)"
 msgstr ""
 
 #. summary(bsh2:bsh2-javadoc)
-msgid "Lightweight Scripting for Java (BeanShell Version 2.x) (Java Documentation)"
+msgid ""
+"Lightweight Scripting for Java (BeanShell Version 2.x) (Java Documentation)"
 msgstr ""
 
 #. summary(bsh2:bsh2-manual)
@@ -1715,11 +2126,8 @@ msgid "Lightweight Scripting for Java (BeanShell Version 2.x) (Manual)"
 msgstr ""
 
 #. summary(bsh2:bsh2-demo)
-msgid "Lightweight Scripting for Java (BeanShell Version 2.x) (demo and samples)"
-msgstr ""
-
-#. summary(flim-xemacs)
-msgid "Lisp Library for Basic Features Concerning Internet Messages"
+msgid ""
+"Lightweight Scripting for Java (BeanShell Version 2.x) (demo and samples)"
 msgstr ""
 
 #. summary(engdic)
@@ -1731,7 +2139,10 @@ msgid "Little Korean <-> English dictionary."
 msgstr ""
 
 #. description(avalon-logkit)
-msgid "LogKit is a logging toolkit designed for secure performance orientated logging in applications. To get started using LogKit, it is recomended that you read the whitepaper and browse the API docs."
+msgid ""
+"LogKit is a logging toolkit designed for secure performance orientated "
+"logging in applications. To get started using LogKit, it is recomended that "
+"you read the whitepaper and browse the API docs."
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-nds)
@@ -1741,17 +2152,6 @@ msgstr "应用程序"
 
 #. summary(alsa-plugins:alsa-plugins-maemo-32bit)
 msgid "Maemo Plug-Ins for the ALSA Library"
-msgstr ""
-
-#. description(festival-spanish-voices)
-msgid ""
-"Male and female Castillian-Spanish (es_ES) voices «PAL» and «SFL» for Festival.\n"
-"\n"
-"This is a diphone-based male Spanish voice for the Festival speech synthesis system. These original audio files were recorded by a professional voice talent in a recording studio.\n"
-"\n"
-"This voice was developed by the Consejeria de Innovacion, Ciencia y Empresa of the Junta de Andalucia on a project awarded to MP Sistemas in collaboration with Intelligent Dialogue Systems (INDISYS).\n"
-"\n"
-"The primary objective was to integrate a higher-quality diphone-based Spanish voice in Guadalinex v4.0, an Ubuntu-based Linux distribution promoted by the Government of Andalusia (Spain). See http://www.guadalinex.org for more information."
 msgstr ""
 
 #. summary(boost:boost-doc-man)
@@ -1779,16 +2179,14 @@ msgstr "手动方式"
 msgid "Modular Software Synthesizer"
 msgstr "Linux 实时软件合成器"
 
-#. description(free-ttf-fonts)
-msgid ""
-"More than 300 free fonts in True Type format. Most of them are in the art style and unusable as desktop fonts, but are great for any poster or illustration.\n"
-"\n"
-"The fonts are copyrighted under the GPL or a Freeware license, but donations are requested by the artists. Look in /usr/share/doc/packages/free-ttf-fonts/ for further information."
-msgstr ""
-
 #. summary(Crystalcursors)
 msgid "Mouse Cursors in Crystal Icon Style"
 msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-ziran)
+#, fuzzy
+msgid "Nature(Ziran) table for fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
 
 #. summary(calligra-l10n:calligra-l10n-nb)
 #, fuzzy
@@ -1800,7 +2198,9 @@ msgid "OASIS Darwin Information Typing Architecture (DITA)"
 msgstr ""
 
 #. description(brp-extract-appdata:extract-appdata-icons)
-msgid "OBS generated appdata.xml contains all icons and this little tool splits the XML into the format expected from software center"
+msgid ""
+"OBS generated appdata.xml contains all icons and this little tool splits the "
+"XML into the format expected from software center"
 msgstr ""
 
 #. summary(ant-antlr:ant-apache-xalan2)
@@ -1871,15 +2271,11 @@ msgstr ""
 
 #. description(hamster-applet:docky-hamster-applet)
 msgid ""
-"Project Hamster is time tracking for masses. It helps you to keep track on how much time you have spent during the day on activities you have set up.\n"
+"Project Hamster is time tracking for masses. It helps you to keep track on "
+"how much time you have spent during the day on activities you have set up.\n"
 "\n"
 "This package contains a helper for integration in docky."
 msgstr ""
-
-#. description(akonadi-google:akonadi-google-lang)
-#, fuzzy
-msgid "Provides translations to the package akonadi-google"
-msgstr "等待导航栏应用程序"
 
 #. description(alarm-clock-applet:alarm-clock-applet-lang)
 #, fuzzy
@@ -1926,7 +2322,7 @@ msgstr "等待导航栏应用程序"
 msgid "Provides translations to the package blueproximity"
 msgstr "等待导航栏应用程序"
 
-#. description(boinc-client:boinc-manager-lang)
+#. description(boinc-client:boinc-client-lang)
 #, fuzzy
 msgid "Provides translations to the package boinc-client"
 msgstr "等待导航栏应用程序"
@@ -1981,6 +2377,11 @@ msgstr "等待导航栏应用程序"
 msgid "Provides translations to the package decibel-audio-player"
 msgstr "等待导航栏应用程序"
 
+#. description(deepin-ui:deepin-ui-lang)
+#, fuzzy
+msgid "Provides translations to the package deepin-ui"
+msgstr "等待导航栏应用程序"
+
 #. description(devilspie:devilspie-lang)
 #, fuzzy
 msgid "Provides translations to the package devilspie"
@@ -2016,11 +2417,6 @@ msgstr "等待导航栏应用程序"
 msgid "Provides translations to the package espeak-gui"
 msgstr "等待导航栏应用程序"
 
-#. description(evolution-ews:evolution-ews-lang)
-#, fuzzy
-msgid "Provides translations to the package evolution-ews"
-msgstr "等待导航栏应用程序"
-
 #. description(evolution-rss:evolution-plugin-rss-lang)
 #, fuzzy
 msgid "Provides translations to the package evolution-rss"
@@ -2029,11 +2425,6 @@ msgstr "等待导航栏应用程序"
 #. description(exiv2:exiv2-lang)
 #, fuzzy
 msgid "Provides translations to the package exiv2"
-msgstr "等待导航栏应用程序"
-
-#. description(filezilla:filezilla-lang)
-#, fuzzy
-msgid "Provides translations to the package filezilla"
 msgstr "等待导航栏应用程序"
 
 #. summary(eric5)
@@ -2051,7 +2442,20 @@ msgid "QT3/KDE bindings for D-Bus."
 msgstr "电源管理 (APM)"
 
 #. summary(bleachbit)
-msgid "Remove unnecessary files, free space, and maintain privacy"
+msgid "Remove Unnecessary Files, Free Space, and Maintain Privacy"
+msgstr ""
+
+#. summary(brise)
+msgid "Rime Input Schemas Collection"
+msgstr ""
+
+#. description(brise)
+msgid ""
+"Rime is an Traditional Chinese input method engine. Its idea comes from "
+"ancient Chinese brush and carving art. Mainly it's about to express your "
+"thinking with your keystrokes.\n"
+"\n"
+"Brise is the input schemas collection of Rime."
 msgstr ""
 
 #. summary(crawl:crawl-data)
@@ -2076,8 +2480,8 @@ msgstr ""
 msgid "Samplerate Plug-In for the ALSA Library"
 msgstr ""
 
-#. summary(aldusleaf-crimson-text-fonts)
-msgid "Serif Font"
+#. summary(coccigrep)
+msgid "Semantic grep tool for C, based on coccinelle"
 msgstr ""
 
 #. summary(compizconfig-settings-manager)
@@ -2093,11 +2497,15 @@ msgid "Several Lisp Files for GNU Emacs"
 msgstr ""
 
 #. description(emacs:emacs-el)
-msgid "Several Lisp files not needed for running GNU Emacs. Most of these files are pre-byte compiled and therefore not necessary."
+msgid ""
+"Several Lisp files not needed for running GNU Emacs. Most of these files are "
+"pre-byte compiled and therefore not necessary."
 msgstr ""
 
 #. description(create-resources)
-msgid "Shared brushes, clipart, gradients, patterns, swatches, used for graphics programs."
+msgid ""
+"Shared brushes, clipart, gradients, patterns, swatches, used for graphics "
+"programs."
 msgstr ""
 
 #. summary(create-resources)
@@ -2113,6 +2521,10 @@ msgstr "7.0 文档"
 #, fuzzy
 msgid "Simplified Chinese Translations for Calligra Suite Applications"
 msgstr "等待导航栏应用程序"
+
+#. summary(fcitx:fcitx-table-cn-cangjie)
+msgid "Simplified Chinese Tsang-Jei(Cangjie) table for fcitx"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-sk)
 #, fuzzy
@@ -2141,12 +2553,8 @@ msgstr "应用程序"
 msgid "Spanish Translations for Calligra Suite Manuals"
 msgstr "等待导航栏应用程序"
 
-#. summary(festival-spanish-voices)
-msgid "Spanish voices «PAL» and «SFL» for Festival"
-msgstr ""
-
-#. summary(bea-stax)
-msgid "Streaming API for XML"
+#. summary(fcitx-table-extra:fcitx-table-cn-cantonese)
+msgid "Standard Guongdonkwa Penkyampji table for Fcitx"
 msgstr ""
 
 #. description(bea-stax:bea-stax-javadoc)
@@ -2186,6 +2594,11 @@ msgstr "应用程序浏览器"
 msgid "Tcl/Tk Front-End for Csound"
 msgstr "卡的监视器"
 
+#. summary(fcitx:fcitx-table-cn-dianbao)
+#, fuzzy
+msgid "Telegram(Dianbao) table for fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
+
 #. summary(ant-antlr:ant-testutil)
 msgid "Test utility classes for ant"
 msgstr ""
@@ -2205,23 +2618,34 @@ msgid "Text-Based Document Generation"
 msgstr "7.0 文档"
 
 #. description(ant-contrib)
-msgid "The Ant-Contrib project is a collection of tasks (and at one point maybe types and other tools) for Apache Ant."
+msgid ""
+"The Ant-Contrib project is a collection of tasks (and at one point maybe "
+"types and other tools) for Apache Ant."
 msgstr ""
 
 #. description(avalon-framework)
-msgid "The Avalon framework consists of interfaces that define relationships between commonly used application components, best-of-practice pattern enforcements, and several lightweight convenience implementations of the generic components. What that means is that we define the central interface Component. We also define the relationship (contract) a component has with peers, ancestors and children."
+msgid ""
+"The Avalon framework consists of interfaces that define relationships "
+"between commonly used application components, best-of-practice pattern "
+"enforcements, and several lightweight convenience implementations of the "
+"generic components. What that means is that we define the central interface "
+"Component. We also define the relationship (contract) a component has with "
+"peers, ancestors and children."
 msgstr ""
 
 #. description(libdb-4_5:db45-utils-doc)
 msgid ""
-"The Berkeley DB Database is a programmatic toolkit that provides database support for applications.\n"
+"The Berkeley DB Database is a programmatic toolkit that provides database "
+"support for applications.\n"
 "\n"
-"This package contains the documentation for the command line tools for managing Berkeley DB databases."
+"This package contains the documentation for the command line tools for "
+"managing Berkeley DB databases."
 msgstr ""
 
 #. description(libdb-4_8:db-doc)
 msgid ""
-"The Berkeley DB Database is a programmatic toolkit that provides database support for applications.\n"
+"The Berkeley DB Database is a programmatic toolkit that provides database "
+"support for applications.\n"
 "\n"
 "This package contains the documentation."
 msgstr ""
@@ -2231,16 +2655,34 @@ msgid "The Blitz html docs"
 msgstr ""
 
 #. description(bouncycastle)
-msgid "The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms. The package is organised so that it contains a light-weight API suitable for use in any environment (including the newly released J2ME) with the additional infrastructure to conform the algorithms to the JCE framework."
+msgid ""
+"The Bouncy Castle Crypto package is a Java implementation of cryptographic "
+"algorithms. The package is organised so that it contains a light-weight API "
+"suitable for use in any environment (including the newly released J2ME) with "
+"the additional infrastructure to conform the algorithms to the JCE framework."
 msgstr ""
 
 #. description(bcel5_3)
-msgid "The Byte Code Engineering Library (formerly known as JavaClass) is intended to give users a convenient possibility to analyze, create, and manipulate (binary) Java class files (those ending with .class). Classes are represented by objects which contain all the symbolic information of the given class: methods, fields and byte code instructions, in particular.  Such objects can be read from an existing file, be transformed by a program (e.g. a class loader at run-time) and dumped to a file again. An even more interesting application is the creation of classes from scratch at run-time. The Byte Code Engineering Library (BCEL) may be also useful if you want to learn about the Java Virtual Machine (JVM) and the format of Java .class files.  BCEL is already being used successfully in several projects such as compilers, optimizers, obsfuscators and analysis tools, the most popular probably being the Xalan XSLT processor at Apache."
+msgid ""
+"The Byte Code Engineering Library (formerly known as JavaClass) is intended "
+"to give users a convenient possibility to analyze, create, and manipulate "
+"(binary) Java class files (those ending with .class). Classes are "
+"represented by objects which contain all the symbolic information of the "
+"given class: methods, fields and byte code instructions, in particular.  "
+"Such objects can be read from an existing file, be transformed by a program "
+"(e.g. a class loader at run-time) and dumped to a file again. An even more "
+"interesting application is the creation of classes from scratch at run-time. "
+"The Byte Code Engineering Library (BCEL) may be also useful if you want to "
+"learn about the Java Virtual Machine (JVM) and the format of Java .class "
+"files.  BCEL is already being used successfully in several projects such as "
+"compilers, optimizers, obsfuscators and analysis tools, the most popular "
+"probably being the Xalan XSLT processor at Apache."
 msgstr ""
 
 #. description(caslon-fonts)
 msgid ""
-"The Caslon TrueType font is a partial implementation of Unicode. I does not contain\n"
+"The Caslon TrueType font is a partial implementation of Unicode. I does not "
+"contain\n"
 "\n"
 "* CJK characters (ideographs)\n"
 "\n"
@@ -2252,30 +2694,47 @@ msgid ""
 msgstr ""
 
 #. description(dom2-core-tests)
-msgid "The DOM Test Suites (DOM TS) will consist of a number of tests for each level of the DOM specification. The tests will be represented in an XML grammar which ensures that tests can easily be ported from the description format to a number of specific language bindings. This grammar will be specified in XML Schema and DTD form. The grammar will be automatically generated from the DOM specifications themselves, to ensure stability and correctness."
-msgstr ""
-
-#. description(fltk:fltk-devel-32bit)
-msgid "The Fast Light Tool Kit (\"FLTK\", pronounced \"fulltick\") is a C++ graphical user interface toolkit for the X Window System (UNIX(r)), OpenGL(r), and Microsoft(r) Windows(r) NT 4.0, 95, or 98). Installation of this package requires you to install a 3D library. If you do not have 3D hardware you can use the software OpenGL library in the mesasoft package (series x3d). The library can be recompiled without 3D support."
-msgstr ""
-
-#. description(flickrnet:flickrnet-devel)
 msgid ""
-"The Flickr.Net API is a .NET Library for interacting with the Flickr API. It can be accessed from any .NET language.\n"
-"\n"
-"The flickrnet-devel package contains development files for flickrnet."
+"The DOM Test Suites (DOM TS) will consist of a number of tests for each "
+"level of the DOM specification. The tests will be represented in an XML "
+"grammar which ensures that tests can easily be ported from the description "
+"format to a number of specific language bindings. This grammar will be "
+"specified in XML Schema and DTD form. The grammar will be automatically "
+"generated from the DOM specifications themselves, to ensure stability and "
+"correctness."
 msgstr ""
 
 #. description(autoconf-archive)
-msgid "The GNU Autoconf Archive is a collection of more than 450 macros for `GNU Autoconf <http://www.gnu.org/software/autoconf>`_ that have been contributed as free software by friendly supporters of the cause from all over the Internet. Every single one of those macros can be re-used without imposing any restrictions whatsoever on the licensing of the generated `configure` script. In particular, it is possible to use all those macros in `configure` scripts that are meant for non-free software. This policy is unusual for a Free Software Foundation project. The FSF firmly believes that software ought to be free, and software licenses like the GPL are specifically designed to ensure that derivative work based on free software must be free as well. In case of Autoconf, however, an exception has been made, because Autoconf is at such a pivotal position in the software development tool chain that the benefits from having this tool available as widely as possible outweigh the disadvantage that some authors may choose to use it, too, for proprietary software."
+msgid ""
+"The GNU Autoconf Archive is a collection of more than 450 macros for `GNU "
+"Autoconf <http://www.gnu.org/software/autoconf>`_ that have been contributed "
+"as free software by friendly supporters of the cause from all over the "
+"Internet. Every single one of those macros can be re-used without imposing "
+"any restrictions whatsoever on the licensing of the generated `configure` "
+"script. In particular, it is possible to use all those macros in `configure` "
+"scripts that are meant for non-free software. This policy is unusual for a "
+"Free Software Foundation project. The FSF firmly believes that software "
+"ought to be free, and software licenses like the GPL are specifically "
+"designed to ensure that derivative work based on free software must be free "
+"as well. In case of Autoconf, however, an exception has been made, because "
+"Autoconf is at such a pivotal position in the software development tool "
+"chain that the benefits from having this tool available as widely as "
+"possible outweigh the disadvantage that some authors may choose to use it, "
+"too, for proprietary software."
 msgstr ""
 
 #. description(ccaudio2:ccaudio2-32bit)
-msgid "The GNU telephonic audio library covers a range of functionality including tone generation and detection, streaming and transcoding of encoded audio frames, accessing of audio files on disk, phrasebook management, and audio utilities."
+msgid ""
+"The GNU telephonic audio library covers a range of functionality including "
+"tone generation and detection, streaming and transcoding of encoded audio "
+"frames, accessing of audio files on disk, phrasebook management, and audio "
+"utilities."
 msgstr ""
 
 #. description(appframework)
-msgid "The JSR-296 Swing Application Framework prototype implementation is a small set of Java classes that simplify building desktop applications."
+msgid ""
+"The JSR-296 Swing Application Framework prototype implementation is a small "
+"set of Java classes that simplify building desktop applications."
 msgstr ""
 
 #. description(apache-commons-daemon:apache-commons-daemon-javadoc)
@@ -2284,40 +2743,57 @@ msgid "The Javadoc Documentation for Commons Daemon."
 msgstr "7.0 文档"
 
 #. description(cyrus-sasl-saslauthd:cyrus-sasl-ldap-auxprop-32bit)
-msgid "The LDAP auxprop plugin allows for tighter application/directory integration."
+msgid ""
+"The LDAP auxprop plugin allows for tighter application/directory integration."
 msgstr ""
 
 #. description(ctan-latinmodern-fonts)
-msgid "The Latin Modern fonts are derived from the famous Computer Modern fonts designed by Donald E. Knuth and first published by the American Matematical Society (AMS) in 1997. One of the main extensions is the addition of an extensive set of diacritical characters, covering many scripts based on the Latin character set."
+msgid ""
+"The Latin Modern fonts are derived from the famous Computer Modern fonts "
+"designed by Donald E. Knuth and first published by the American Matematical "
+"Society (AMS) in 1997. One of the main extensions is the addition of an "
+"extensive set of diacritical characters, covering many scripts based on the "
+"Latin character set."
 msgstr ""
 
 #. description(compat-openssl097g:compat-openssl097g-32bit)
 msgid ""
-"The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured, and Open Source toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) protocols with full-strength cryptography world-wide. The project is managed by a worldwide community of volunteers that use the Internet to communicate, plan, and develop the OpenSSL toolkit and its related documentation.\n"
+"The OpenSSL Project is a collaborative effort to develop a robust, "
+"commercial-grade, full-featured, and Open Source toolkit implementing the "
+"Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) "
+"protocols with full-strength cryptography world-wide. The project is managed "
+"by a worldwide community of volunteers that use the Internet to communicate, "
+"plan, and develop the OpenSSL toolkit and its related documentation.\n"
 "\n"
 "Derivation and License\n"
 "\n"
-"OpenSSL is based on the excellent SSLeay library developed from Eric A. Young and Tim J. Hudson. The OpenSSL toolkit is licensed under a Apache-style licence which basically means that you are free to get and use it for commercial and non-commercial purposes."
+"OpenSSL is based on the excellent SSLeay library developed from Eric A. "
+"Young and Tim J. Hudson. The OpenSSL toolkit is licensed under a Apache-"
+"style licence which basically means that you are free to get and use it for "
+"commercial and non-commercial purposes."
 msgstr ""
 
 #. description(colordiff)
-msgid "The Perl script colordiff is a wrapper for 'diff' and produces the same output but with pretty 'syntax' highlighting. Colour schemes can be customized."
+msgid ""
+"The Perl script colordiff is a wrapper for 'diff' and produces the same "
+"output but with pretty 'syntax' highlighting. Colour schemes can be "
+"customized."
 msgstr ""
 
 #. description(cyrus-sasl-saslauthd:cyrus-sasl-sqlauxprop-32bit)
 msgid "The SQL auxprop plugin supports PostgreSQL and MySQL"
 msgstr ""
 
-#. description(bea-stax)
-msgid "The Streaming API for XML (StAX) is a groundbreaking new Java API for parsing and writing XML easily and efficiently."
-msgstr ""
-
 #. description(audit-visualize)
-msgid "The audit-visualize package contains scripts to produce flow graphs and bar charts from audit data."
+msgid ""
+"The audit-visualize package contains scripts to produce flow graphs and bar "
+"charts from audit data."
 msgstr ""
 
 #. description(lapack:blas-man)
-msgid "The blas-man package contains documentation for BLAS (Basic Linear Algebra subprograms) routines, in the form of man pages."
+msgid ""
+"The blas-man package contains documentation for BLAS (Basic Linear Algebra "
+"subprograms) routines, in the form of man pages."
 msgstr ""
 
 #. summary(bzip2:bzip2-doc)
@@ -2332,21 +2808,34 @@ msgstr "帮助和支持文档"
 
 #. description(compcache)
 msgid ""
-"The compcache is a RAM-based block device acting as a swap disk. This can effectively increase the available memory on your machine by virtually swapping pages into the compressed memory.\n"
+"The compcache is a RAM-based block device acting as a swap disk. This can "
+"effectively increase the available memory on your machine by virtually "
+"swapping pages into the compressed memory.\n"
 "\n"
-"This package contains the boot script for loading/unloading the modules. The modules are contained in compcache-kmp packages."
+"This package contains the boot script for loading/unloading the modules. The "
+"modules are contained in compcache-kmp packages."
 msgstr ""
 
 #. description(cloop:cloop-kmp-pae)
-msgid "The compressed loopback device or cloop is a module for the Linux kernel. It adds support for transparently decompressed, read-only block devices. It is not a compressed file system in itself."
+msgid ""
+"The compressed loopback device or cloop is a module for the Linux kernel. It "
+"adds support for transparently decompressed, read-only block devices. It is "
+"not a compressed file system in itself."
 msgstr ""
 
 #. description(crash:crash-kmp-pae)
-msgid "The core analysis suite is a self-contained tool that can be used to investigate either live systems, kernel core dumps created from the netdump and diskdump packages from Red Hat Linux, the mcore kernel patch offered by Mission Critical Linux, or the LKCD kernel patch."
+msgid ""
+"The core analysis suite is a self-contained tool that can be used to "
+"investigate either live systems, kernel core dumps created from the netdump "
+"and diskdump packages from Red Hat Linux, the mcore kernel patch offered by "
+"Mission Critical Linux, or the LKCD kernel patch."
 msgstr ""
 
 #. description(cracklib:cracklib-devel-32bit)
-msgid "The cracklib-devel package contains the header files and libraries needed to develop programs that use the CrackLib functions to to determine whether passwords match certain security-oriented characteristics."
+msgid ""
+"The cracklib-devel package contains the header files and libraries needed to "
+"develop programs that use the CrackLib functions to to determine whether "
+"passwords match certain security-oriented characteristics."
 msgstr ""
 
 #. summary(cyrus-sasl-saslauthd:cyrus-sasl-ldap-auxprop-32bit)
@@ -2355,9 +2844,12 @@ msgstr ""
 
 #. description(docbook-utils)
 msgid ""
-"The docbook-utils package is a set of a few small programs intended to ease everyday use of technical documentation software based on the DocBook DTD, either written in SGML or XML.\n"
+"The docbook-utils package is a set of a few small programs intended to ease "
+"everyday use of technical documentation software based on the DocBook DTD, "
+"either written in SGML or XML.\n"
 "\n"
-"Tasks they currently accomplish are: * jw: convert SGML files to    other formats (HTML, RTF, PostScript, PDF)\n"
+"Tasks they currently accomplish are: * jw: convert SGML files to    other "
+"formats (HTML, RTF, PostScript, PDF)\n"
 "\n"
 "* sgmldiff: detect the differences in markup between two SGML files"
 msgstr ""
@@ -2366,30 +2858,37 @@ msgstr ""
 msgid ""
 "The efont-serif is a really free and open scalable electronic font.\n"
 "\n"
-"The Omega Serif and URW Nimbus are also distributable. But their letter forms are quite similar to Adobe Times. The efont-serif does not copy the outlines or the letter forms of any copyrighted typefaces."
-msgstr ""
-
-#. description(edict-emacs)
-msgid ""
-"The original edict.el was written by Per Hammarlund. It is an interface to the EDICT Japanese-English dictionary compiled by Jim Breen at Monash University.  Using the region and a couple of keystrokes, edict.el looks up the Japanese key and returns all the EDICT entries containing that key in a pop-up buffer.  English is even easier: you just point anywhere in the word you want to look up.\n"
-"\n"
-"Bob Kerns added a morphology engine, which reduces a highly inflected Japanese word to a list of dictionary forms (for example itta -> (iku, iu)), all of which are looked up."
+"The Omega Serif and URW Nimbus are also distributable. But their letter "
+"forms are quite similar to Adobe Times. The efont-serif does not copy the "
+"outlines or the letter forms of any copyrighted typefaces."
 msgstr ""
 
 #. description(adolc:adolc-devel-32bit)
 msgid ""
-"The package ADOL-C (Automatic Differentiation by OverLoading in C++) facilitates the evaluation of first and higher derivatives of vector functions that are defined by computer programs written in C or C++. The resulting derivative evaluation routines may be called from C/C++, Fortran, or any other language that can be linked with C.\n"
+"The package ADOL-C (Automatic Differentiation by OverLoading in C++) "
+"facilitates the evaluation of first and higher derivatives of vector "
+"functions that are defined by computer programs written in C or C++. The "
+"resulting derivative evaluation routines may be called from C/C++, Fortran, "
+"or any other language that can be linked with C.\n"
 "\n"
-"The numerical values of derivative vectors are obtained free of truncation errors at a small multiple of the run time and randomly accessed memory of the given function evaluation program.\n"
+"The numerical values of derivative vectors are obtained free of truncation "
+"errors at a small multiple of the run time and randomly accessed memory of "
+"the given function evaluation program.\n"
 "\n"
 "This package provides the development environment for adolc"
 msgstr ""
 
 #. description(adolc:adolc-doc)
 msgid ""
-"The package ADOL-C (Automatic Differentiation by OverLoading in C++) facilitates the evaluation of first and higher derivatives of vector functions that are defined by computer programs written in C or C++. The resulting derivative evaluation routines may be called from C/C++, Fortran, or any other language that can be linked with C.\n"
+"The package ADOL-C (Automatic Differentiation by OverLoading in C++) "
+"facilitates the evaluation of first and higher derivatives of vector "
+"functions that are defined by computer programs written in C or C++. The "
+"resulting derivative evaluation routines may be called from C/C++, Fortran, "
+"or any other language that can be linked with C.\n"
 "\n"
-"The numerical values of derivative vectors are obtained free of truncation errors at a small multiple of the run time and randomly accessed memory of the given function evaluation program.\n"
+"The numerical values of derivative vectors are obtained free of truncation "
+"errors at a small multiple of the run time and randomly accessed memory of "
+"the given function evaluation program.\n"
 "\n"
 "This package provides the user´s manual for adolc"
 msgstr ""
@@ -2401,57 +2900,87 @@ msgstr "包中含有意外的版本"
 
 #. description(apache-commons-beanutils:apache-commons-beanutils-javadoc)
 msgid ""
-"The scope of the Jakarta Commons BeanUtils Package is to create a package of Java utility methods for accessing and modifying the properties of arbitrary JavaBeans.  No dependencies outside of the JDK are required, so the use of this package is very lightweight.\n"
+"The scope of the Jakarta Commons BeanUtils Package is to create a package of "
+"Java utility methods for accessing and modifying the properties of arbitrary "
+"JavaBeans.  No dependencies outside of the JDK are required, so the use of "
+"this package is very lightweight.\n"
 "\n"
-"This package contains the javadoc documentation for the Jakarta Commons BeanUtils Package."
+"This package contains the javadoc documentation for the Jakarta Commons "
+"BeanUtils Package."
 msgstr ""
 
 #. description(docbook-css-stylesheets)
-msgid "These cascading stylesheets allow you to view a DocBook XML document in software that supports XML styled with CSS2, for example, a recent Mozilla or Firefox browser. For more complex modifications of your XML document use the DocBook XSL stylesheets."
+msgid ""
+"These cascading stylesheets allow you to view a DocBook XML document in "
+"software that supports XML styled with CSS2, for example, a recent Mozilla "
+"or Firefox browser. For more complex modifications of your XML document use "
+"the DocBook XSL stylesheets."
 msgstr ""
 
 #. description(emacs-auctex)
 msgid ""
-"These macros make it easier for you to write TeX documents with GNU Emacs.\tDocumentation can be found under:\n"
+"These macros make it easier for you to write TeX documents with GNU Emacs."
+"\tDocumentation can be found under:\n"
 "\n"
 "/usr/share/doc/packages/emacs-auctex/\n"
 "\n"
-"and in the dvi files math-ref.dvi and tex-ref.dvi (reference cards) and in the info file auctex in emacs info-mode.\n"
+"and in the dvi files math-ref.dvi and tex-ref.dvi (reference cards) and in "
+"the info file auctex in emacs info-mode.\n"
 "\n"
-"AuC TeX is integrated in XEmacs 19.15 and higher, so these packages may not be installed concurrently.\tNote that the binary formats of the byte-compiled lisp files of the two emacs editors are incompatible, so you cannot use this package for XEmacs."
-msgstr ""
-
-#. description(docbook-tdg)
-msgid ""
-"This book is designed to be the clear, concise, normative reference to the DocBook DTD. This book is the official documentation for the DocBook DTD.  For printed copies, visit http://docbook.org/tdg/en/.\n"
-"\n"
-"\"Fairly crude PDF versions\" (Norman Walsh) of Part I, Part II, and Part III are included in this package."
+"AuC TeX is integrated in XEmacs 19.15 and higher, so these packages may not "
+"be installed concurrently.\tNote that the binary formats of the byte-"
+"compiled lisp files of the two emacs editors are incompatible, so you cannot "
+"use this package for XEmacs."
 msgstr ""
 
 #. description(faenza-icon-theme)
-msgid "This icon theme for GNOME provides monochromatic icons for panels, toolbars and buttons and colourful squared icons for devices, applications, folder, files and GNOME menu items."
+msgid ""
+"This icon theme for GNOME provides monochromatic icons for panels, toolbars "
+"and buttons and colourful squared icons for devices, applications, folder, "
+"files and GNOME menu items."
 msgstr ""
 
 #. description(faenza-icon-theme:faenza-icon-theme-ambiance)
 msgid ""
-"This icon theme for GNOME provides monochromatic icons for panels, toolbars and buttons and colourful squared icons for devices, applications, folder, files and GNOME menu items.\n"
+"This icon theme for GNOME provides monochromatic icons for panels, toolbars "
+"and buttons and colourful squared icons for devices, applications, folder, "
+"files and GNOME menu items.\n"
 "\n"
 "Faenza-Ambiance is suitable with dark panel and toolbars."
 msgstr ""
 
 #. description(faenza-icon-theme:faenza-icon-theme-radiance)
 msgid ""
-"This icon theme for GNOME provides monochromatic icons for panels, toolbars and buttons and colourful squared icons for devices, applications, folder, files and GNOME menu items.\n"
+"This icon theme for GNOME provides monochromatic icons for panels, toolbars "
+"and buttons and colourful squared icons for devices, applications, folder, "
+"files and GNOME menu items.\n"
 "\n"
 "Faenza-Radiance is suitable with light panel and controls."
 msgstr ""
 
 #. description(bugreporter)
-msgid "This is a bug reporting tool for openSUSE users. It can be used to submit and query bug reports from Novell's Bugzilla."
+msgid ""
+"This is a bug reporting tool for openSUSE users. It can be used to submit "
+"and query bug reports from Novell's Bugzilla."
+msgstr ""
+
+#. description(cedict)
+msgid ""
+"This is a free Chinese-English dictionary that can be used, for example, "
+"with Gjiten.\n"
+"\n"
+"The objective of the CEDICT project is to create an online, downloadable (as "
+"opposed to searchable-only) public-domain Chinese-English dictionary. For "
+"the most part, the project is modelled on Jim Breen's highly successful "
+"EDICT (Japanese-English dictionary) project and is intended to be a "
+"collaborative effort with users providing entries and corrections to the "
+"main file."
 msgstr ""
 
 #. description(ecj-bootstrap)
-msgid "This is the Eclipse Java Compiler, which is used in the java-1_4_2-gcj-compat-devel package"
+msgid ""
+"This is the Eclipse Java Compiler, which is used in the java-1_4_2-gcj-"
+"compat-devel package"
 msgstr ""
 
 #. description(bootsplash-branding-upstream:bootsplash-branding-KDE)
@@ -2460,7 +2989,10 @@ msgid "This package contains a KDE branded theme."
 msgstr "包中含有意外的版本"
 
 #. description(clamav:clamav-db)
-msgid "This package contains a snapshot of the virus description database for ClamAV. It is not needed if you use freshclam to keep your virus database up to date."
+msgid ""
+"This package contains a snapshot of the virus description database for "
+"ClamAV. It is not needed if you use freshclam to keep your virus database up "
+"to date."
 msgstr ""
 
 #. description(bootsplash-branding-upstream)
@@ -2480,197 +3012,259 @@ msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-pt_BR-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Brazil Portuguese."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Brazil Portuguese."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-ca-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Catalan."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Catalan."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-da-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Danish."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Danish."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-nl-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Dutch."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Dutch."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-et-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Estonian."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Estonian."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-fr-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in French."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"French."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-de-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in German."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"German."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-it-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Italian."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Italian."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-pt-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Portuguese."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Portuguese."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-ru-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Russian."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Russian."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-es-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Spanish."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Spanish."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-sv-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Swedish."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Swedish."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-uk-doc)
 #, fuzzy
-msgid "This package contains application manuals translations for Calligra Suite in Ukrainian."
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Ukrainian."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-pt_BR)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Brazil Portuguese."
+msgid ""
+"This package contains application translations for Calligra Suite in Brazil "
+"Portuguese."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-ca)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Catalan."
+msgid ""
+"This package contains application translations for Calligra Suite in Catalan."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-zh_TW)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Chinese."
+msgid ""
+"This package contains application translations for Calligra Suite in Chinese."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-cs)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Czech."
+msgid ""
+"This package contains application translations for Calligra Suite in Czech."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-da)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Danish."
+msgid ""
+"This package contains application translations for Calligra Suite in Danish."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-nl)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Dutch."
+msgid ""
+"This package contains application translations for Calligra Suite in Dutch."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-en_GB)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in English (UK)."
+msgid ""
+"This package contains application translations for Calligra Suite in English "
+"(UK)."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-et)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Estonian."
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Estonian."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-fi)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Finnish."
+msgid ""
+"This package contains application translations for Calligra Suite in Finnish."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-fr)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in French."
+msgid ""
+"This package contains application translations for Calligra Suite in French."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-de)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in German."
+msgid ""
+"This package contains application translations for Calligra Suite in German."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-el)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Greek."
+msgid ""
+"This package contains application translations for Calligra Suite in Greek."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-hu)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Hungarian."
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Hungarian."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-it)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Italian."
+msgid ""
+"This package contains application translations for Calligra Suite in Italian."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-kk)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Kazakh."
+msgid ""
+"This package contains application translations for Calligra Suite in Kazakh."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-nds)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Low Saxon."
+msgid ""
+"This package contains application translations for Calligra Suite in Low "
+"Saxon."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-nb)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Norwegian (Bokmaal)."
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Norwegian (Bokmaal)."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-pl)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Polish."
+msgid ""
+"This package contains application translations for Calligra Suite in Polish."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-pt)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Portuguese."
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Portuguese."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-ru)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Russian."
+msgid ""
+"This package contains application translations for Calligra Suite in Russian."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-zh_CN)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Simplified Chinese."
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Simplified Chinese."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-sk)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Slovak."
+msgid ""
+"This package contains application translations for Calligra Suite in Slovak."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-es)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Spanish."
+msgid ""
+"This package contains application translations for Calligra Suite in Spanish."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-sv)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Swedish."
+msgid ""
+"This package contains application translations for Calligra Suite in Swedish."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-uk)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Ukrainian."
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Ukrainian."
 msgstr "包中含有意外的版本"
 
 #. description(calligra-l10n:calligra-l10n-ca@valencia)
 #, fuzzy
-msgid "This package contains application translations for Calligra Suite in Valencian."
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Valencian."
 msgstr "包中含有意外的版本"
 
 #. description(boinc-client:boinc-client-doc)
@@ -2680,9 +3274,11 @@ msgstr "包中含有意外的版本"
 
 #. description(dynamic-wallpapers-11x)
 msgid ""
-"This package contains dynamic wallpapers from previous versions of openSUSE.\n"
+"This package contains dynamic wallpapers from previous versions of "
+"openSUSE.\n"
 "\n"
-"A dynamic wallpaper changes depending on the time of the day: it is generally bright during the day, and dark during the night."
+"A dynamic wallpaper changes depending on the time of the day: it is "
+"generally bright during the day, and dark during the night."
 msgstr ""
 
 #. description(asciidoc:asciidoc-examples)
@@ -2692,12 +3288,15 @@ msgstr "包中含有意外的版本"
 
 #. description(build-compare)
 #, fuzzy
-msgid "This package contains scripts to find out if the build result differs to a former build."
+msgid ""
+"This package contains scripts to find out if the build result differs to a "
+"former build."
 msgstr "包中含有意外的版本"
 
 #. description(books)
 msgid ""
-"This package contains some books, which are installed under /usr/share/doc/Books.\n"
+"This package contains some books, which are installed under /usr/share/doc/"
+"Books.\n"
 "\n"
 "The books are:\n"
 "\n"
@@ -2705,7 +3304,8 @@ msgid ""
 "\n"
 "\"Linux Programmers Guide\" by Sven Goldt and Sven van der Meer\n"
 "\n"
-"\"Linux Network Administrators Guide, Second Edition\" by Olaf Kirch and Terry Dawson\n"
+"\"Linux Network Administrators Guide, Second Edition\" by Olaf Kirch and "
+"Terry Dawson\n"
 "\n"
 "\"Linux System Administrators Guide\" by Lars Wirzenius\n"
 "\n"
@@ -2718,16 +3318,23 @@ msgstr ""
 
 #. description(alsa-plugins:alsa-plugins-maemo-32bit)
 #, fuzzy
-msgid "This package contains the ALSA-library plug-ins using maemo SDK for Nokia 770."
+msgid ""
+"This package contains the ALSA-library plug-ins using maemo SDK for Nokia "
+"770."
 msgstr "包中含有意外的版本"
 
 #. description(i4l-base:capi4linux-devel-32bit)
 #, fuzzy
-msgid "This package contains the CAPI 2.0 library files needed for development."
+msgid ""
+"This package contains the CAPI 2.0 library files needed for development."
 msgstr "包中含有意外的版本"
 
 #. description(i4l-base:capi4linux-32bit)
-msgid "This package contains the CAPI 2.0 library, which is needed for all CAPI applications.  It also contains programs to show information about installed CAPI controllers and for the receiving and sending of FAX messages. CAPI 2.0 drivers for Linux are available for a growing number of ISDN devices."
+msgid ""
+"This package contains the CAPI 2.0 library, which is needed for all CAPI "
+"applications.  It also contains programs to show information about installed "
+"CAPI controllers and for the receiving and sending of FAX messages. CAPI 2.0 "
+"drivers for Linux are available for a growing number of ISDN devices."
 msgstr ""
 
 #. description(dita)
@@ -2737,7 +3344,9 @@ msgstr "包中含有意外的版本"
 
 #. description(alsa-plugins:alsa-plugins-jack-32bit)
 #, fuzzy
-msgid "This package contains the JACK (Jack Audio Connection Kit) I/O plug-in for the ALSA library."
+msgid ""
+"This package contains the JACK (Jack Audio Connection Kit) I/O plug-in for "
+"the ALSA library."
 msgstr "包中含有意外的版本"
 
 #. description(docbook-simple)
@@ -2747,7 +3356,9 @@ msgstr "包中含有意外的版本"
 
 #. description(elib)
 msgid ""
-"This package contains the complete GNU Emacs Lisp Library, Elib Version 1.0.  Elib was developed as a library for Emacs-Lisp programs for the same reasons that libg++ was developed for C++ programs.\n"
+"This package contains the complete GNU Emacs Lisp Library, Elib Version "
+"1.0.  Elib was developed as a library for Emacs-Lisp programs for the same "
+"reasons that libg++ was developed for C++ programs.\n"
 "\n"
 "Elib contains macros for:\n"
 "\n"
@@ -2770,28 +3381,33 @@ msgstr "包中含有意外的版本"
 
 #. description(boost:boost-doc-man)
 #, fuzzy
-msgid "This package contains the documentation of the boost dynamic libraries as man pages."
+msgid ""
+"This package contains the documentation of the boost dynamic libraries as "
+"man pages."
 msgstr "包中含有意外的版本"
 
 #. description(boost:boost-doc-html)
 #, fuzzy
-msgid "This package contains the documentation of the boost dynamic libraries in HTML format."
+msgid ""
+"This package contains the documentation of the boost dynamic libraries in "
+"HTML format."
 msgstr "<p>此菜单包含引用文档信息的链接。</p>"
 
 #. description(boost:boost-doc-pdf)
 #, fuzzy
-msgid "This package contains the documentation of the boost dynamic libraries in PDF format."
+msgid ""
+"This package contains the documentation of the boost dynamic libraries in "
+"PDF format."
 msgstr "<p>此菜单包含引用文档信息的链接。</p>"
-
-#. description(fetchmsttfonts)
-msgid "This package contains the fetchmsttfonts helper script, which on running retrieves and unpacks the freely available MS Truetype fonts."
-msgstr ""
 
 #. description(branding-upstream)
 msgid ""
-"This package contains the file /etc/SuSE-brand, and its name is used as a trigger for installation of look and feel and branding of packages as it was defined by upstream developers.\n"
+"This package contains the file /etc/SuSE-brand, and its name is used as a "
+"trigger for installation of look and feel and branding of packages as it was "
+"defined by upstream developers.\n"
 "\n"
-"WARNING: If you decide to install this package instead of the default branding package, you will lose vendor customization of your distribution."
+"WARNING: If you decide to install this package instead of the default "
+"branding package, you will lose vendor customization of your distribution."
 msgstr ""
 
 #. description(adaptx:adaptx-javadoc)
@@ -2801,26 +3417,35 @@ msgstr "包中含有意外的版本"
 
 #. description(bcel:bcel-javadoc)
 msgid ""
-"This package contains the javadoc documentation of the Byte Code Engineering Library.\n"
+"This package contains the javadoc documentation of the Byte Code Engineering "
+"Library.\n"
 "\n"
-"The Byte Code Engineering Library is intended to give users a convenient way to analyze, create, and manipulate (binary) Java class files (those ending with .class). Classes are represented by objects which contain all the symbolic information of the given class: methods, fields and byte code instructions, in particular.\n"
+"The Byte Code Engineering Library is intended to give users a convenient way "
+"to analyze, create, and manipulate (binary) Java class files (those ending "
+"with .class). Classes are represented by objects which contain all the "
+"symbolic information of the given class: methods, fields and byte code "
+"instructions, in particular.\n"
 "\n"
-"Such objects can be read from an existing file, be transformed by a program (e.g. a class loader at run-time) and dumped to a file again. An even more interesting application is the creation of classes from scratch at run-time. The Byte Code Engineering Library (BCEL) may also be useful if you want to learn about the Java Virtual Machine (JVM) and the format of Java .class files.\n"
+"Such objects can be read from an existing file, be transformed by a program "
+"(e.g. a class loader at run-time) and dumped to a file again. An even more "
+"interesting application is the creation of classes from scratch at run-time. "
+"The Byte Code Engineering Library (BCEL) may also be useful if you want to "
+"learn about the Java Virtual Machine (JVM) and the format of Java .class "
+"files.\n"
 "\n"
-"BCEL is already being used successfully in several projects such as compilers, optimizers, obfuscators, code generators and analysis tools.\n"
+"BCEL is already being used successfully in several projects such as "
+"compilers, optimizers, obfuscators, code generators and analysis tools.\n"
 "\n"
-"It contains a byte code verifier named JustIce, which usually gives you much better information about what's wrong with your code than the standard JVM message."
+"It contains a byte code verifier named JustIce, which usually gives you much "
+"better information about what's wrong with your code than the standard JVM "
+"message."
 msgstr ""
-
-#. description(ffado-mixer:ffado-doc)
-#, fuzzy
-msgid "This package contains the libffado API documentation."
-msgstr "包中含有意外的版本"
 
 #. description(build-mkbaselibs-sle)
 #, fuzzy
 msgid ""
-"This package contains the parts which may be installed in the inner build system for generating base lib packages.\n"
+"This package contains the parts which may be installed in the inner build "
+"system for generating base lib packages.\n"
 "\n"
 "This is the SLE variant including IA64 binary generation."
 msgstr "包中含有意外的版本"
@@ -2832,17 +3457,23 @@ msgstr "包中含有意外的版本"
 
 #. description(alsa-plugins:alsa-plugins-samplerate-32bit)
 #, fuzzy
-msgid "This package contains the sample rate converter plugin for the ALSA library using libsamplerate."
+msgid ""
+"This package contains the sample rate converter plugin for the ALSA library "
+"using libsamplerate."
 msgstr "包中含有意外的版本"
 
 #. description(build-initvm:build-initvm-i586)
 #, fuzzy
-msgid "This package provides a script for building RPMs for SUSE Linux in a chroot or a secure virtualized environment."
+msgid ""
+"This package provides a script for building RPMs for SUSE Linux in a chroot "
+"or a secure virtualized environment."
 msgstr "<p>此菜单包含引用文档信息的链接。</p>"
 
 #. description(ColPack:ColPack-devel-32bit)
 msgid ""
-"This package provides algorithms for efficient solution of partitioning problems occuring in the analysis of sparsity patterns in derivative computations formulated as Graph Coloring problems.\n"
+"This package provides algorithms for efficient solution of partitioning "
+"problems occuring in the analysis of sparsity patterns in derivative "
+"computations formulated as Graph Coloring problems.\n"
 "\n"
 "For details see http://www.cscapes.org/coloringpage/software.htm\n"
 "\n"
@@ -2850,33 +3481,52 @@ msgid ""
 msgstr ""
 
 #. description(build-initvm:build-initvm-debuginfo-i586)
-msgid "This package provides debug information for package build-initvm. Debug information is useful when developing applications that use this package or when debugging this package."
+msgid ""
+"This package provides debug information for package build-initvm. Debug "
+"information is useful when developing applications that use this package or "
+"when debugging this package."
 msgstr ""
 
 #. description(dbus-sharp-glib:dbus-sharp-glib-devel)
 #, fuzzy
-msgid "This package provides glib integration for Mono.DBus - Development files."
+msgid ""
+"This package provides glib integration for Mono.DBus - Development files."
 msgstr "包中含有意外的版本"
 
 #. description(ccaudio2:ccaudio2-devel-32bit)
 #, fuzzy
-msgid "This package provides header and support files for building applications that use GNU ccAudio."
+msgid ""
+"This package provides header and support files for building applications "
+"that use GNU ccAudio."
 msgstr "包中含有意外的版本"
 
 #. description(concurrent)
-msgid "This package provides standardized, efficient versions of utility classes commonly encountered in concurrent Java programming. This code consists of implementations of ideas that have been around for ages and is merely intended to save you the trouble of coding them. Discussions of the rationale and application of several of these classes can be found in the second edition of Concurrent Programming in Java."
+msgid ""
+"This package provides standardized, efficient versions of utility classes "
+"commonly encountered in concurrent Java programming. This code consists of "
+"implementations of ideas that have been around for ages and is merely "
+"intended to save you the trouble of coding them. Discussions of the "
+"rationale and application of several of these classes can be found in the "
+"second edition of Concurrent Programming in Java."
 msgstr ""
 
 #. description(concurrent:concurrent-javadoc)
 msgid ""
-"This package provides standardized, efficient versions of utility classes commonly encountered in concurrent Java programming. This code consists of implementations of ideas that have been around for ages, and is merely intended to save you the trouble of coding them. Discussions of the rationale and applications of several of these classes can be found in the second edition of Concurrent Programming in Java.\n"
+"This package provides standardized, efficient versions of utility classes "
+"commonly encountered in concurrent Java programming. This code consists of "
+"implementations of ideas that have been around for ages, and is merely "
+"intended to save you the trouble of coding them. Discussions of the "
+"rationale and applications of several of these classes can be found in the "
+"second edition of Concurrent Programming in Java.\n"
 "\n"
 "This package contains the javadoc documentation for concurrent."
 msgstr ""
 
 #. description(dirac:dirac-doc)
 #, fuzzy
-msgid "This package provides the api reference documentation for using dirac libraries in your program."
+msgid ""
+"This package provides the api reference documentation for using dirac "
+"libraries in your program."
 msgstr "包中含有意外的版本"
 
 #. description(exo:exo-branding-upstream)
@@ -2884,12 +3534,13 @@ msgstr "包中含有意外的版本"
 msgid "This package provides the upstream look and feel for the exo library."
 msgstr "包中含有意外的版本"
 
-#. description(fhs)
-msgid "This standard consists of a set of requirements and guidelines for file and directory placement under UNIX-like operating systems.  The guidelines are intended to support application interoperability, system administration tools, development tools, and scripts as well as greater uniformity of documentation for these systems."
-msgstr ""
-
 #. description(cpufrequtils:cpufrequtils-32bit)
-msgid "To make access to the Linux kernel cpufreq subsystem easier for users and cpufreq userspace tools, the cpufrequtils package was created. It contains a library used by other programs (libcpufreq), command line tools to determine current CPUfreq settings and to modify them (cpufreq-info and cpufreq-set), and debug tools."
+msgid ""
+"To make access to the Linux kernel cpufreq subsystem easier for users and "
+"cpufreq userspace tools, the cpufrequtils package was created. It contains a "
+"library used by other programs (libcpufreq), command line tools to determine "
+"current CPUfreq settings and to modify them (cpufreq-info and cpufreq-set), "
+"and debug tools."
 msgstr ""
 
 #. summary(archivemail)
@@ -2918,6 +3569,11 @@ msgstr "等待导航栏应用程序"
 msgid "Trim translations from all .deskop files found in build root"
 msgstr ""
 
+#. summary(fcitx:fcitx-table-cn-erbi)
+#, fuzzy
+msgid "Two stroke(Erbi) table for fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
+
 #. summary(calligra-l10n:calligra-l10n-uk)
 #, fuzzy
 msgid "Ukrainian Translations for Calligra Suite Applications"
@@ -2941,7 +3597,10 @@ msgid "Unit Test Framework for C"
 msgstr ""
 
 #. description(collectl)
-msgid "Unlike most monitoring tools that either focus on a small set of statistics, format their output in only one way, run either interatively or as a daemon but not both, collectl tries to do it all."
+msgid ""
+"Unlike most monitoring tools that either focus on a small set of statistics, "
+"format their output in only one way, run either interatively or as a daemon "
+"but not both, collectl tries to do it all."
 msgstr ""
 
 #. summary(exo:exo-branding-upstream)
@@ -2954,7 +3613,9 @@ msgid "Userspace Utilities for ecryptfs"
 msgstr ""
 
 #. description(diffmk)
-msgid "Using DiffMk, you can build an automated comparison of two XML documents. The output format for viewing is HTML."
+msgid ""
+"Using DiffMk, you can build an automated comparison of two XML documents. "
+"The output format for viewing is HTML."
 msgstr ""
 
 #. summary(concurrent)
@@ -2966,7 +3627,8 @@ msgid "Utility to inhibit screensaver and sleep modes"
 msgstr ""
 
 #. summary(blueproximity)
-msgid "Utility to lock/unlock the screen based on the presence of bluetooth devices"
+msgid ""
+"Utility to lock/unlock the screen based on the presence of bluetooth devices"
 msgstr ""
 
 #. summary(hamster-applet:docky-hamster-applet)
@@ -2993,10 +3655,26 @@ msgstr ""
 
 #. description(perl-Clipboard:clipboard)
 msgid ""
-"Who doesn't remember the first time they learned to copy and paste, and generated an exponentially growing text document? Yes, that's right, clipboards are magical.\n"
+"Who doesn't remember the first time they learned to copy and paste, and "
+"generated an exponentially growing text document? Yes, that's right, "
+"clipboards are magical.\n"
 "\n"
 "This package contains several command-line utilities to manpulate clipboards."
 msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-cn-wu)
+#, fuzzy
+msgid "Wu table for Fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
+
+#. summary(fcitx:fcitx-table-cn-wubi-pinyin)
+msgid "Wubi and pinyin(wubi-pinyin) table for fcitx"
+msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-wubi)
+#, fuzzy
+msgid "Wubi table for fcitx"
+msgstr "针对 Fcitx 输入法框架的额外码表"
 
 #. summary(blueprint-cursor-theme)
 msgid "X Window System Cursors for the Blue Print Theme"
@@ -3017,7 +3695,10 @@ msgid "XSLT Processor Written in Java"
 msgstr "处理器"
 
 #. description(enchant:enchant-zemberek-32bit)
-msgid "Zemberek plugin (Azeri, Turkmen, Turkish, Tatar) for enchant, a library providing an efficient extensible abstraction for dealing with different spell checking libraries."
+msgid ""
+"Zemberek plugin (Azeri, Turkmen, Turkish, Tatar) for enchant, a library "
+"providing an efficient extensible abstraction for dealing with different "
+"spell checking libraries."
 msgstr ""
 
 #. summary(a2ps-h)
@@ -3029,80 +3710,216 @@ msgid "a2ps support for Korean PostScript filter (Python version)."
 msgstr ""
 
 #. description(ack)
-msgid "ack is a grep-like tool tailored to working with large trees of source code."
+msgid ""
+"ack is a grep-like tool tailored to working with large trees of source code."
 msgstr ""
 
 #. description(analyzeMFT)
 msgid ""
-"analyzeMFT.py is designed to fully parse the MFT file from an NTFS filesystem and present the results as accurately as possible in a format that allows further analysis with other tools. At present, it parses the attributes from a $MFT file to produce the following output:\n"
+"analyzeMFT.py is designed to fully parse the MFT file from an NTFS "
+"filesystem and present the results as accurately as possible in a format "
+"that allows further analysis with other tools. At present, it parses the "
+"attributes from a $MFT file to produce the following output:\n"
 "\n"
-"    Record Number     Good - if the entry is valid     Active - if the entry is active     Record type - the type of record     Record Sequence - the sequence number for the record     Parent Folder Record Number     Parent Folder Sequence Number     For the standard information attribute:         Creation date         Modification date         Access date         Entry date     For up to four file name records:         File name         Creation date         Modification date         Access date         Entry date         Object ID         Birth Volume ID         Birth Object ID         Birth Domain ID     And flags to show if each of the following attributes is present:         Standard Information, Attribute List, Filename, Object ID, Volume Name, Volume Info, Data, Index Root, Index Allocation, Bitmap, Reparse Point, EA Information, EA, Property Set, Logged Utility Stream     Notes/Log - Field used to log any significant events or observations relating to this record         std-fn-shift - Populated if anomaly detection is turned on. Y/N. Y indicates that the FN create date is later than the STD create date.         usec-zero - Populated if anomaly detection is turned on. Y/N. Y indicates that the STD create date's microsecond value is zero.\n"
+"    Record Number     Good - if the entry is valid     Active - if the entry "
+"is active     Record type - the type of record     Record Sequence - the "
+"sequence number for the record     Parent Folder Record Number     Parent "
+"Folder Sequence Number     For the standard information attribute:         "
+"Creation date         Modification date         Access date         Entry "
+"date     For up to four file name records:         File name         "
+"Creation date         Modification date         Access date         Entry "
+"date         Object ID         Birth Volume ID         Birth Object "
+"ID         Birth Domain ID     And flags to show if each of the following "
+"attributes is present:         Standard Information, Attribute List, "
+"Filename, Object ID, Volume Name, Volume Info, Data, Index Root, Index "
+"Allocation, Bitmap, Reparse Point, EA Information, EA, Property Set, Logged "
+"Utility Stream     Notes/Log - Field used to log any significant events or "
+"observations relating to this record         std-fn-shift - Populated if "
+"anomaly detection is turned on. Y/N. Y indicates that the FN create date is "
+"later than the STD create date.         usec-zero - Populated if anomaly "
+"detection is turned on. Y/N. Y indicates that the STD create date's "
+"microsecond value is zero.\n"
 "\n"
-"For each entry in the MFT a record is written to an output file in CSV format.\n"
+"For each entry in the MFT a record is written to an output file in CSV "
+"format.\n"
 "\n"
 "Major contributions from Matt Sabourin."
 msgstr ""
 
 #. description(archivemail)
-msgid "archivemail is a tool for archiving and compressing old email in mailboxes. It moves messages older than the specified number of days to a separate mbox format mailbox that is compressed with gzip. It can also just delete old email rather than archive it."
+msgid ""
+"archivemail is a tool for archiving and compressing old email in mailboxes. "
+"It moves messages older than the specified number of days to a separate mbox "
+"format mailbox that is compressed with gzip. It can also just delete old "
+"email rather than archive it."
 msgstr ""
 
 #. description(bash-completion)
-msgid "bash-completion is a collection of shell functions that take advantage of the programmable completion feature of Bash 2.04 and later."
+msgid ""
+"bash-completion is a collection of shell functions that take advantage of "
+"the programmable completion feature of Bash 2.04 and later."
 msgstr ""
 
 #. description(cdemu-client)
 msgid ""
 "cdemu-client is a command-line client for controlling cdemu-daemon.\n"
 "\n"
-"It provides a way to perform the key tasks related to controlling the CDEmu daemon, such as loading and unloading devices, displaying devices' status and retrieving/setting their debug masks."
+"It provides a way to perform the key tasks related to controlling the CDEmu "
+"daemon, such as loading and unloading devices, displaying devices' status "
+"and retrieving/setting their debug masks."
 msgstr ""
 
 #. description(cglib)
-msgid "cglib is a powerful, high performance and quality Code Generation Library, It is used to extend JAVA classes and implements interfaces at runtime."
+msgid ""
+"cglib is a powerful, high performance and quality Code Generation Library, "
+"It is used to extend JAVA classes and implements interfaces at runtime."
 msgstr ""
 
 #. description(checkbashisms)
-msgid "checkbashisms performs basic checks on /bin/sh shell scripts for the possible presence of bashisms.  It takes the names of the shell scripts on the command line, and outputs warnings if possible bashisms are detected."
+msgid ""
+"checkbashisms performs basic checks on /bin/sh shell scripts for the "
+"possible presence of bashisms.  It takes the names of the shell scripts on "
+"the command line, and outputs warnings if possible bashisms are detected."
+msgstr ""
+
+#. description(coccigrep)
+msgid ""
+"coccigrep is a semantic grep for the C language based on coccinelle. It can "
+"be used to find where a given structure is used in code files. coccigrep "
+"depends on the spatch program which comes with coccinelle."
 msgstr ""
 
 #. description(convmv)
 msgid ""
-"convmv is meant to help convert a directory tree and the contained files or a whole file system into a different encoding. It just converts the file names, not the content of the files. A special feature of convmv is that it also takes care of symlinks and converts the symlink target pointer in case the symlink target is converted.\n"
+"convmv is meant to help convert a directory tree and the contained files or "
+"a whole file system into a different encoding. It just converts the file "
+"names, not the content of the files. A special feature of convmv is that it "
+"also takes care of symlinks and converts the symlink target pointer in case "
+"the symlink target is converted.\n"
 "\n"
-"All this comes in very handy when converting from old 8-bit locales to UTF-8 locales. It is also possible to convert directories to UTF-8 that are already partly UTF-8 encoded. convmv is able to detect if certain files are UTF-8 encoded and skips them by default. To turn this behavior off, use the --nosmart switch.\n"
+"All this comes in very handy when converting from old 8-bit locales to UTF-8 "
+"locales. It is also possible to convert directories to UTF-8 that are "
+"already partly UTF-8 encoded. convmv is able to detect if certain files are "
+"UTF-8 encoded and skips them by default. To turn this behavior off, use the "
+"--nosmart switch.\n"
 "\n"
-"An interoperability issue that comes with UTF-8 locales is this: Linux and (most?) other Unix-like operating systems use the normalization form C (NFC) for UTF-8 encoding by default but do not enforce this. Darwin, the base of Macintosh OSX, enforces normalization form D (NFD), where a few characters are encoded in a different way. convmv is able to convert files to NFC or NFD, which aids in interoperability with such systems."
+"An interoperability issue that comes with UTF-8 locales is this: Linux and "
+"(most?) other Unix-like operating systems use the normalization form C (NFC) "
+"for UTF-8 encoding by default but do not enforce this. Darwin, the base of "
+"Macintosh OSX, enforces normalization form D (NFD), where a few characters "
+"are encoded in a different way. convmv is able to convert files to NFC or "
+"NFD, which aids in interoperability with such systems."
 msgstr ""
 
 #. description(dblatex)
-msgid "dblatex is a program that transforms your SGML/XMLDocBook documents to DVI, PostScript or PDF by translating them into pure LaTeX as a first process.  MathML 2.0 markups are supported, too. It started as a clone of DB2LaTeX."
+msgid ""
+"dblatex is a program that transforms your SGML/XMLDocBook documents to DVI, "
+"PostScript or PDF by translating them into pure LaTeX as a first process.  "
+"MathML 2.0 markups are supported, too. It started as a clone of DB2LaTeX."
 msgstr ""
 
 #. description(debootstrap)
-msgid "debootstrap is used to create a Debian base system from scratch, without requiring the availability of dpkg or apt. It does this by downloading .deb files from a mirror site, and carefully unpacking them into a directory which can eventually be chrooted into."
+msgid ""
+"debootstrap is used to create a Debian base system from scratch, without "
+"requiring the availability of dpkg or apt. It does this by downloading .deb "
+"files from a mirror site, and carefully unpacking them into a directory "
+"which can eventually be chrooted into."
 msgstr ""
 
 #. description(dom4j:dom4j-demo)
-msgid "dom4j is an easy to use Open Source XML, XPath and XSLT framework for Java using the Java Collections Framework. dom4j allows you to read, write, navigate, create and modify XML documents. dom4j integrates with DOM, SAX and JAXP and is seamlessly integrated with full XPath support."
+msgid ""
+"dom4j is an easy to use Open Source XML, XPath and XSLT framework for Java "
+"using the Java Collections Framework. dom4j allows you to read, write, "
+"navigate, create and modify XML documents. dom4j integrates with DOM, SAX "
+"and JAXP and is seamlessly integrated with full XPath support."
 msgstr ""
-
-#. summary(edict-emacs)
-msgid "edict.el, an Emacs Front-End for EDICT"
-msgstr "edict.el，一个 EDICT 的 Emacs 前端"
 
 #. description(espeak-gui)
-msgid "espeak-gui provides a simple graphical user interface for the eSpeak speech synthesizer."
+msgid ""
+"espeak-gui provides a simple graphical user interface for the eSpeak speech "
+"synthesizer."
 msgstr "espeak-gui 为 eSpeak 语音合成器提供了一个简单的图形用户界面。"
 
-#. summary(freealut:freealut-32bit)
-msgid "freealut is a free implementation of OpenAL's ALUT standard"
+#. description(calligra-l10n:calligra-l10n-ja)
+msgid "ja"
 msgstr ""
 
-#. description(freealut:freealut-32bit)
-msgid "freealut is a free implementation of OpenAL's ALUT standard."
-msgstr ""
+#~ msgid "A fork of ibus-table-others for Fcitx"
+#~ msgstr "ibus-table-others 在 Fcitx 输入法框架上的分支"
 
-#. description(fs-check)
-msgid "fs-check checks file system sizes to see if they are getting too full. It uses a configuration file that specifies the file systems to check, e-mail contacts, trigger thresholds (percentage or amount used and unused), and a report program to run. It includes fs-report, which shows things like the largest files, the newest files, and core files. It can be run from cron or as a daemon."
-msgstr ""
+#, fuzzy
+#~ msgid "API documentation for ffado"
+#~ msgstr "7.0 文档"
+
+#, fuzzy
+#~ msgid "An Emacs Library for MIME"
+#~ msgstr "正在创建资源数据库"
+
+#, fuzzy
+#~ msgid "Check File System Usage"
+#~ msgstr "救援系统"
+
+#, fuzzy
+#~ msgid "Development files for Flickr.Net"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "DocBook: The Definitive Guide"
+#~ msgstr "DocBook - 权威的指南"
+
+#, fuzzy
+#~ msgid "Documentation for Firebird SQL server"
+#~ msgstr "7.0 文档"
+
+#, fuzzy
+#~ msgid "Documents for findbugs"
+#~ msgstr "7.0 文档"
+
+#~ msgid ""
+#~ "Fcitx-table-extra provides extra table for Fcitx, including Boshiamy, "
+#~ "Zhengma, and Cangjie 3/5.\n"
+#~ "\n"
+#~ "Boshiamy table and its icon are released under their own license."
+#~ msgstr ""
+#~ "fcitx-table-extra 为 Fcitx 输入法框架提供了额外的码表，包括無暇米，郑码和"
+#~ "仓颉 3/5。\n"
+#~ "\n"
+#~ "無暇米码表和它的图标按照其自有协议发布。"
+
+#~ msgid ""
+#~ "Fcitx-table-other is a fork of ibus-table-others for Fcitx. provides "
+#~ "additional tables."
+#~ msgstr ""
+#~ "fcitx-table-other 是 ibus-table-others 在 Fcitx 输入法框架上的一个分支。提"
+#~ "供了一些额外码表。"
+
+#, fuzzy
+#~ msgid "Languages for package akonadi-google"
+#~ msgstr "语言：     "
+
+#, fuzzy
+#~ msgid "Languages for package evolution-ews"
+#~ msgstr "语言：     "
+
+#, fuzzy
+#~ msgid "Languages for package filezilla"
+#~ msgstr "语言：     "
+
+#, fuzzy
+#~ msgid "Provides translations to the package akonadi-google"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "Provides translations to the package evolution-ews"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "Provides translations to the package filezilla"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "This package contains the libffado API documentation."
+#~ msgstr "包中含有意外的版本"
+
+#~ msgid "edict.el, an Emacs Front-End for EDICT"
+#~ msgstr "edict.el，一个 EDICT 的 Emacs 前端"

@@ -1,0 +1,4012 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2012-06-21 16:20:34\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. description(google-nobile-fonts)
+msgid ""
+"\"Nobile\" is designed to work with the technologies of digital screens and "
+"handheld devices without losing the distinctive look more usually found in "
+"fonts designed for printing. Going back to William Morris's baseline \"Have "
+"nothing in your house that you do not know to be useful, or believe to be "
+"beautiful\", the aim was to design a font that could function well, have "
+"good legibility on screen yet also be good loooking, not only at larger "
+"display sizes but also right down to small text sizes."
+msgstr ""
+
+#. summary(greybird-theme:gtk2-metatheme-greybird)
+msgid ""
+"A Clean Minimalistic Theme for GNOME, XFCE, GTK+ 2 and 3 -- GTK+ 2 Support"
+msgstr ""
+
+#. summary(greybird-theme:gtk3-metatheme-greybird)
+msgid ""
+"A Clean Minimalistic Theme for GNOME, XFCE, GTK+ 2 and 3 -- GTK+ 3 Support"
+msgstr ""
+
+#. summary(itext)
+msgid "A Free Java-PDF library"
+msgstr ""
+
+#. summary(google-anonymouspro-fonts)
+msgid "A Free Monospace Font"
+msgstr ""
+
+#. description(gtk-key-theme-ctrluftw)
+msgid ""
+"A GTK key theme that makes ctrl-u, ctrl-w and ctrl-h work in text entries "
+"and text views. In contrast to the Emacs key theme which redefines many "
+"other common key bindings (like ctrl-p) this is one is reduced to the bare "
+"minimum to make text entries usable."
+msgstr ""
+
+#. summary(jython)
+msgid "A Java implementation of the Python language"
+msgstr ""
+
+#. summary(identity-abstraction)
+msgid "A Java open source implementation of an identity-abstraction sdk"
+msgstr ""
+
+#. summary(jlex)
+msgid "A Lexical Analyzer Generator for Java"
+msgstr ""
+
+#. summary(gnome-colors-icon-theme)
+msgid "A complete, multi-colored suite of icons for Linux"
+msgstr ""
+
+#. summary(jaxen-bootstrap)
+msgid "A convenience package for build of dom4j"
+msgstr ""
+
+#. description(icc-profiles-openicc:icc-profiles-oyranos-extra)
+msgid "A gray and ITUlab fax ICC profile."
+msgstr ""
+
+#. summary(javacc3)
+msgid "A parser/scanner generator for java"
+msgstr ""
+
+#. description(icon-naming-utils)
+msgid ""
+"A script for creating a symlink mapping for deprecated icon names to the new "
+"icon naming specification names for desktop icon themes."
+msgstr ""
+
+#. summary(giver)
+msgid "A simple file sharing desktop application"
+msgstr ""
+
+#. description(gdouros-alexander-fonts)
+msgid ""
+"A text typeface using the Greek letters designed by Alexander Wilson "
+"(1714-1786), a Scottish doctor, astronomer, and typefounder. The type was "
+"especially designed for an edition of Homer’s epics, published in 1756-8 by "
+"Andrew and Robert Foulis, printers to the University of Glasgow. A modern "
+"revival, Wilson Greek, has been designed by Matthew Carter in 1995. Peter S. "
+"Baker is also using Wilson’s Greek type in his Junicode font for medieval "
+"scholars (2007). Latin and Cyrillic are based on a Garamond typeface. The "
+"font covers the Windows Glyph List, Greek Extended, IPA Extensions, Ancient "
+"Greek Numbers, Byzantine and Ancient Greek Musical Notation, various "
+"typographic extras and several Open Type features (Case-Sensitive Forms, "
+"Small Capitals, Subscript, Superscript, Numerators, Denominators, Fractions, "
+"Old Style Figures, Historical Forms, Stylistic Alternates, Ligatures)."
+msgstr ""
+
+#. summary(javazic)
+msgid "A time zone compiler for Java"
+msgstr ""
+
+#. summary(horde4-nag)
+msgid "A web based tasklist manager with sync options"
+msgstr ""
+
+#. summary(icedtea-web:icedtea-web-javadoc)
+msgid "API documentation for icedtea-web"
+msgstr ""
+
+#. summary(gnome-themes-extras)
+msgid "Additional GNOME Themes"
+msgstr ""
+
+#. summary(gnome-vfs2:gnome-vfs2-doc)
+msgid "Additional Package Documentation for gnome-vfs2"
+msgstr ""
+
+#. summary(gtk2-themes)
+msgid "Additional Themes and Engines for GTK2"
+msgstr ""
+
+#. description(gdouros-aegean-fonts)
+msgid ""
+"Aegean covers the following scripts and symbols supported by Unicode: Basic "
+"Latin, Greek and Coptic, Greek Extended, some Punctuation and other Symbols, "
+"Linear B Syllabary, Linear B Ideograms, Aegean Numbers, Ancient Greek "
+"Numbers, Ancient Symbols, Phaistos Disc, Lycian, Carian, Old Italic, "
+"Ugaritic, Old Persian, Cypriot Syllabary, Phoenician, Lydian, and Archaic "
+"Greek Musical Notation. Aegean allocates in Plane 15 of the UCS the "
+"following scripts and symbols, as yet unsupported by Unicode: Cretan "
+"Hieroglyphs, Cypro-Minoan, Linear A, the Arkalochori Axe, signs on Troy "
+"vessels and the Dispilio tablet. In this version Linear A and B have been "
+"expanded with variant glyphs. The Tsepis stele variant of the Cypriot "
+"Syllabary has been added as its Open Type Stylistic Set VI."
+msgstr ""
+
+#. description(gdouros-aegyptus-fonts)
+msgid ""
+"Aegyptus allocates Egyptian Hieroglyphs, in Plane 15 of the UCS. The main "
+"sources of glyphs are «Hieroglyphica», PIREI, 2000 and the work of Alan "
+"Gardiner. The font also covers Basic Latin, Egyptian Transliteration "
+"characters, the Hieratic alphabet, Coptic, Meroitic, the Gardiner set "
+"supported by Unicode, et al. The Gardiner set (redesigned with a thicker "
+"line) is also available in the small font Gardiner."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-af)
+msgid "Afrikaans Translations for KDE"
+msgstr ""
+
+#. description(gdouros-akkadian-fonts)
+msgid ""
+"Akkadian covers the following scripts and symbols supported by The Unicode "
+"Standard: Basic Latin, Greek and Coptic, some Punctuation and other Symbols, "
+"Cuneiform, Cuneiform Numbers  and Punctuation."
+msgstr ""
+
+#. description(google-alegreya-fonts)
+msgid ""
+"Alegreya was chosen as one of 53 \"Fonts of the Decade\" at the ATypI "
+"Letter2 competition in September 2011, and one of the top 14 text type "
+"systems. It was also selected in the 2nd Bienal Iberoamericana de Diseño, "
+"competition held in Madrid in 2010.\n"
+"\n"
+"Alegreya is a typeface originally intended for literature. Among its "
+"crowning characteristics, it conveys a dynamic and varied rhythm which "
+"facilitates the reading of long texts. Also, it provides freshness to the "
+"page while referring to the calligraphic letter, not as a literal "
+"interpretation, but rather in a contemporary typographic language."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-eu)
+msgid ""
+"All the requirements for a Basque desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-bs)
+msgid ""
+"All the requirements for a Bosnian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-bg)
+msgid ""
+"All the requirements for a Bulgarian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ca)
+msgid ""
+"All the requirements for a Catalan desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-cs)
+msgid ""
+"All the requirements for a Czech desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-da)
+msgid ""
+"All the requirements for a Danish desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-fi)
+msgid ""
+"All the requirements for a Finnish desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-fr)
+msgid ""
+"All the requirements for a French desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-fy)
+msgid ""
+"All the requirements for a Frisian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-gl)
+msgid ""
+"All the requirements for a Galician desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-de)
+msgid ""
+"All the requirements for a German Desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-el)
+msgid ""
+"All the requirements for a Greek desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-he)
+msgid ""
+"All the requirements for a Hebrew desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-hu)
+msgid ""
+"All the requirements for a Hungarian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-es)
+msgid ""
+"All the requirements for a Spanish desktop.  This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-cy)
+msgid ""
+"All the requirements for a Welsh desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-be)
+msgid ""
+"All the requirements for a desktop in Belarusian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-bn)
+msgid ""
+"All the requirements for a desktop in Bengali. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-en_GB)
+msgid ""
+"All the requirements for a desktop in British English. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-fa)
+msgid ""
+"All the requirements for a desktop in Farsi. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-hi)
+msgid ""
+"All the requirements for a desktop in Hindi. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-az)
+msgid ""
+"All the requirements for an Azerbaijan desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-et)
+msgid ""
+"All the requirements for an Estonian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-hr)
+msgid ""
+"All the stuff for a Croatian desktop. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ar)
+msgid ""
+"All the stuff for a desktop in Arabic. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-eo)
+msgid ""
+"All the stuff for an Esperanto desktop.  This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(google-allerta-fonts)
+msgid ""
+"Allerta is an open source typeface designed for use in signage. Allerta was "
+"designed to be easily and quickly read from a distance. Each letter exploits "
+"the most unique aspects of that individual letter so that each character can "
+"be easily distinguished from any other.\n"
+"\n"
+"Allerta has been released as an open source project so that those countries, "
+"communities, and/or organizations without a proper signage system may have a "
+"way of quickly designing and implementing one. While Allerta is complete "
+"with a large character set, because it is open source, modification and "
+"expansion is encouraged.\n"
+"\n"
+"For the more urgent of circumstances, Allerta Stencil and an accompanying "
+"kit have been designed so that signage can be created with nothing more than "
+"the kit of letters, a can of spray paint, and the nearest available "
+"substrate. Although the stencil kit may allude the finer points of "
+"typographic spacing, it is intended to serve the most basic purpose of "
+"signage: guiding people towards their destination or towards assistance.\n"
+"\n"
+"The name Allerta is derived from the origins of the word alert (adj. swift, "
+"v. to advise or warn). The Italian origin all'erta literally means on the "
+"lookout."
+msgstr ""
+
+#. summary(IPython:IPython-doc)
+msgid "An Enhanced Interactive Python Shell documentation"
+msgstr ""
+
+#. summary(iceWMCP)
+msgid "An IceWM Configuration Panel"
+msgstr ""
+
+#. summary(gdouros-analecta-fonts)
+msgid ""
+"An ecclesiastic scripts font, covering Basic Latin, Greek and Coptic, "
+"Coptic, Gothic and Deseret"
+msgstr ""
+
+#. description(jakarta-commons-el:jakarta-commons-el-javadoc)
+msgid ""
+"An implementation of standard interfaces and abstract classes for javax."
+"servlet.jsp.el which is part of the JSP 2.0 specification.\n"
+"\n"
+"This package contains the javadoc documentation for the Jakarta Commons "
+"Extension Language."
+msgstr ""
+
+#. description(gdouros-analecta-fonts)
+msgid ""
+"Analecta is an ecclesiastic scripts font, covering Basic Latin, Greek and "
+"Coptic, some Punctuation and other Symbols, Coptic, typographica varia, "
+"Specials, Gothic and Deseret."
+msgstr ""
+
+#. summary(gdouros-anatolian-fonts)
+msgid "Anatolian Hieroglyphs"
+msgstr ""
+
+#. description(gdouros-anatolian-fonts)
+msgid ""
+"Anatolian is a work-font, encoding Anatolian Hieroglyphs in F200 - F4FF of "
+"the Private Use Area of the BMP. There are no plans to improve or expand it."
+msgstr ""
+
+#. description(guilt)
+msgid ""
+"Andrew Morton originally developed a set of scripts for maintaining kernel "
+"patches outside of any SCM tool. Others extended these into a suite called "
+"quilt. The basic idea behind quilt is to maintain patches instead of "
+"maintaining source files. Patches can be added, removed or reordered, and "
+"they can be refreshed as you fix bugs or update to a new base revision. "
+"quilt is very powerful, but it is not integrated with the underlying SCM "
+"tools. This makes it difficult to visualize your changes.\n"
+"\n"
+"Guilt allows one to use quilt functionality on top of a Git repository. "
+"Changes are maintained as patches which are committed into Git. Commits can "
+"be removed or reordered, and the underlying patch can be refreshed based on "
+"changes made in the working directory. The patch directory can also be "
+"placed under revision control, so you can have a separate history of changes "
+"made to your patches."
+msgstr ""
+
+#. description(google-anonymouspro-fonts)
+msgid ""
+"Anonymous Pro is a family of four fixed-width fonts designed especially with "
+"coding in mind. Characters that could be mistaken for one another (O, 0, I, "
+"l, 1, etc.) have distinct shapes to make them easier to tell apart in the "
+"context of source code.\n"
+"\n"
+"Anonymous Pro also features an international, Unicode-based character set, "
+"with support for most Western and European Latin-based languages, Greek, and "
+"Cyrillic. It also includes special \"box drawing\" characters for those who "
+"need them."
+msgstr ""
+
+#. summary(horde4-ansel)
+msgid "Ansel - Photo management application"
+msgstr ""
+
+#. description(horde4-ansel)
+msgid ""
+"Ansel is a full featured photo management application. It plugs in with "
+"other horde applications like the gollem file manager."
+msgstr ""
+
+#. summary(jasper5)
+msgid "Apache JSP Engine, RI for Servlet JSP 2.0 API"
+msgstr ""
+
+#. summary(gnu-crypto:gnu-crypto-javadoc)
+msgid "Api documentation for gnu-crypto"
+msgstr ""
+
+#. summary(gcstar)
+msgid "Application to manage collections"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ar)
+msgid "Arabic translations for KDE"
+msgstr ""
+
+#. description(hxtools:hxtools-data)
+msgid ""
+"Architecture-independent data from hxtools.\n"
+"\n"
+"* VAIO U3 keymap\n"
+"* additional fonts for console and xterm\n"
+"* additional syntax highlighting definitions for mcedit"
+msgstr ""
+
+#. description(hxtools:hxtools-scripts)
+msgid ""
+"Architecture-independent programs from hxtools.\n"
+"\n"
+"* checkbrack(1) — check parenthesis and bracket count\n"
+"* cwdiff(1) — run wdiff with color\n"
+"* diff2php(1) — transform patch to self-serving PHP file\n"
+"* doxygen-kerneldoc-filter(1) — filter for Doxygen to support kerneldoc\n"
+"* filenameconv(1) — convert file name encoding\n"
+"* flv2avi(1) — repackage Flash video into an AVI container with PCM audio\n"
+"* fnt2bdf(1) — convert VGA raw fonts to X11 BDF\n"
+"* git-author-stat(1) — show commit author statistics of a git repository\n"
+"* git-export-patch(1) — produce perfect patch from git comits for mail "
+"submission\n"
+"* git-forest(1) — display the commit history forest\n"
+"* git-new-root(1) — start a new root in the git history\n"
+"* git-revert-stats(1) — show reverting statistics of a git repository\n"
+"* git-track(1) — set up branch for tracking a remote\n"
+"* man2html(1) — convert nroff manpages to HTML\n"
+"* pesubst(1) — perl-regexp stream substitution (replaces sed for sub‐ "
+"stitutions)\n"
+"* pmap_dirty(1) — display amount of RAM a process uses hard\n"
+"* recursive_lower(1) — recursively lowercase all filenames\n"
+"* spec-beautifier(1) — program to clean up RPM .spec files\n"
+"* sysinfo(1) — print IRC-style system information banner\n"
+"* vcsaview(8) — display a screen dump in VCSA format\n"
+"* wktimer(1) — work timer"
+msgstr ""
+
+#. summary(jgroups:jgroups-repolib)
+msgid "Artifacts to be uploaded to a repository library"
+msgstr ""
+
+#. description(jgroups:jgroups-repolib)
+msgid ""
+"Artifacts to be uploaded to a repository library. This package is not meant "
+"to be installed but so its contents can be extracted through rpm2cpio"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-az)
+msgid "Azerbaijan Translations for KDE"
+msgstr ""
+
+#. description(hxtools:hxtools-profile)
+msgid ""
+"Bash environment settings from hxtools. Particularly, this provides the SUSE "
+"6.x ls color scheme, and an uncluttered PS1 that shows only important parts "
+"of a path."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-eu)
+msgid "Basque translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-be)
+msgid "Belarusian translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-bn)
+msgid "Bengali translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-bs)
+msgid "Bosnian Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-br)
+msgid "Breton Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-bg)
+msgid "Bulgarian Translations for KDE"
+msgstr ""
+
+#. summary(glibc:glibc-devel-static-32bit)
+msgid "C library static libraries for -static linking"
+msgstr ""
+
+#. summary(gtkmm2-documentation:gtkmm2-tutorial)
+msgid "C++ Bindings for GTK+ -- Tutorial"
+msgstr ""
+
+#. summary(gtkmm3:gtkmm3-doc)
+msgid "C++ Interface for GTK3 (a GUI Library for X)"
+msgstr ""
+
+#. summary(gnome-agenda)
+msgid "Calendar application for the GNOME Desktop"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ca)
+msgid "Catalan Translations for KDE"
+msgstr ""
+
+#. summary(gnome-activity-journal)
+msgid "Chronological journal to help find files"
+msgstr ""
+
+#. description(jcip-annotations)
+msgid ""
+"Class, field, and method level annotations for describing thread-safety "
+"policies."
+msgstr ""
+
+#. summary(gtk2-engine-cleanice:gtk2-engine-cleanice-32bit)
+msgid "CleanIce GTK Theme Engine"
+msgstr ""
+
+#. summary(glipper)
+msgid "Clipboard Manager for GNOME"
+msgstr ""
+
+#. summary(gnome-patch-translation)
+msgid "Collect and Merge Translations From RPM Patches"
+msgstr ""
+
+#. summary(icc-profiles-basiccolor-printing2009:icc-profiles-basiccolor-printing2009-extra)
+msgid "Collection of Cmyk Profiles from basICColor"
+msgstr ""
+
+#. summary(gnome-video-effects:gnome-video-effects-devel)
+msgid "Collection of GStreamer effects -- Development Files"
+msgstr ""
+
+#. description(jcommon)
+msgid ""
+"Collection of classes used by Object Refinery Projects, for example "
+"jfreechart"
+msgstr ""
+
+#. summary(hxtools:hxtools-data)
+msgid "Collection of day-to-day tools (data)"
+msgstr ""
+
+#. summary(hxtools:hxtools-scripts)
+msgid "Collection of day-to-day tools (scripts)"
+msgstr ""
+
+#. summary(jcifs)
+msgid "Common Internet File System Client in 100% Java"
+msgstr ""
+
+#. summary(jcommon)
+msgid "Common library"
+msgstr ""
+
+#. summary(jakarta-commons-compress)
+msgid "Commons Compress"
+msgstr ""
+
+#. description(jakarta-commons-compress)
+msgid ""
+"Commons Compress is a component that contains Tar, Zip and BZip2 packages."
+msgstr ""
+
+#. summary(jakarta-commons-transaction)
+msgid "Commons Transaction"
+msgstr ""
+
+#. description(jakarta-commons-transaction)
+msgid ""
+"Commons Transaction aims at providing lightweight, standardized, well tested "
+"and efficient implementations of utility classes commonly used in "
+"transactional Java programming. Initially there are implementations for "
+"multi level locks, transactional collections and transactional file access. "
+"There may be additional implementations when the common need for them "
+"becomes obvious. However, the complete component shall remain compatible to "
+"JDK1.2 and should have minimal dependencies."
+msgstr ""
+
+#. description(jakarta-commons-vfs)
+msgid ""
+"Commons VFS provides a single API for accessing various different    file "
+"systems. It presents a uniform view of the files from    various different "
+"sources, such as the files on local disk, on an    HTTP server, or inside a "
+"Zip archive. Some of the features of    Commons VFS are: * A single "
+"consistent API for accessing files of    different types.\n"
+"\n"
+"* Support for numerous file system types.\n"
+"\n"
+"* Caching of file information. Caches information in-JVM, and    optionally "
+"can cache remote file information on the local file    system.\n"
+"\n"
+"* Event delivery.\n"
+"\n"
+"* Support for logical file systems made up of files from various    "
+"different file systems.\n"
+"\n"
+"* Utilities for integrating Commons VFS into applications, such as a    VFS-"
+"aware ClassLoader and URLStreamHandlerFactory.\n"
+"\n"
+"* A set of VFS-enabled Ant tasks."
+msgstr ""
+
+#. summary(jakarta-commons-vfs)
+msgid "Commons Virtual Filesystem"
+msgstr ""
+
+#. description(jakarta-commons-launcher:jakarta-commons-launcher-javadoc)
+msgid ""
+"Commons-launcher eliminates the need for a batch or shell script to launch a "
+"Java class.\n"
+"\n"
+"This package contains the javadoc documentation for the Jakarta Commons "
+"Launcher Package."
+msgstr ""
+
+#. summary(google-exo-fonts)
+msgid "Contemporary Geometric Sans Serif Typeface"
+msgstr ""
+
+#. description(google-cousine-fonts)
+msgid ""
+"Cousine was designed by Steve Matteson as an innovative, refreshing sans "
+"serif design that is metrically compatible with Courier New™. Cousine offers "
+"improved on-screen readability characteristics and the pan-European WGL "
+"character set and solves the needs of developers looking for width-"
+"compatible fonts to address document portability across platforms."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-hr)
+msgid "Croatian translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-cs)
+msgid "Czech Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-da)
+msgid "Danish Translations for KDE"
+msgstr ""
+
+#. summary(glibc:glibc-i18ndata)
+msgid "Database Sources for 'locale'"
+msgstr ""
+
+#. summary(jdepend:jdepend-demo)
+msgid "Demonstration and sample files for jdepend"
+msgstr ""
+
+#. summary(junit:junit-demo)
+msgid "Demonstration and sample files for junit"
+msgstr ""
+
+#. summary(jython:jython-demo)
+msgid "Demonstration and samples for jython"
+msgstr ""
+
+#. summary(jakarta-commons-httpclient:jakarta-commons-httpclient-demo)
+msgid "Demonstration files for  jakarta-commons-httpclient"
+msgstr ""
+
+#. description(jakarta-commons-httpclient:jakarta-commons-httpclient-demo)
+msgid ""
+"Demonstration files for jakarta-commons-httpclient. NOTE: It is possible "
+"that some demonstration files are specially prepared for SUN Java runtime "
+"environment. If they fail with IBM or BEA Java, the package itself does not "
+"need to be broken.\n"
+"\n"
+"Demonstration files for  jakarta-commons-httpclient."
+msgstr ""
+
+#. description(gnu-regexp:gnu-regexp-demo)
+msgid "Demonstrations and samples for gnu-regexp."
+msgstr ""
+
+#. summary(jakarta-commons-httpclient:jakarta-commons-httpclient-javadoc)
+msgid "Developer documentation for jakarta-commons-httpclient"
+msgstr ""
+
+#. description(jakarta-commons-httpclient:jakarta-commons-httpclient-javadoc)
+msgid ""
+"Developer documentation for jakarta-commons-httpclient in JavaDoc format.\n"
+"\n"
+"Developer documentation for jakarta-commons-httpclient."
+msgstr ""
+
+#. summary(ibus-table-extraphrase:ibus-table-extraphrase-devel)
+msgid "Development package for ibus-table-extraphrase"
+msgstr ""
+
+#. summary(glibc:glibc-utils-32bit)
+msgid "Development utilities from GNU C library"
+msgstr ""
+
+#. summary(ImageMagick:ImageMagick-doc)
+msgid "Document Files for ImageMagick Library"
+msgstr ""
+
+#. summary(gnucash-docs)
+msgid "Documentation Module for GnuCash"
+msgstr ""
+
+#. summary(jflex:jflex-doc)
+msgid "Documentation and examples for jflex"
+msgstr ""
+
+#. summary(getmail:getmail-doc)
+msgid "Documentation for getmail"
+msgstr ""
+
+#. summary(gnuplot:gnuplot-doc)
+msgid "Documentation of GNUplot"
+msgstr ""
+
+#. summary(iproute2:iproute2-doc)
+msgid "Documentation to iproute2"
+msgstr ""
+
+#. description(jaxen-bootstrap)
+msgid ""
+"Dom4j depends on a jaxen build with dom4j support. This package must only be "
+"installed in the rare event of having to rebuild dom4j."
+msgstr ""
+
+#. summary(google-allerta-fonts)
+msgid "Easily Readable Sans Serif Font"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-en_GB)
+msgid "English (UK) Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-eo)
+msgid "Esperanto translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-et)
+msgid "Estonian Translations for KDE"
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-br)
+msgid ""
+"Everything for a Breton desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-af)
+msgid ""
+"Everything for an Afrikaans desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ga)
+msgid ""
+"Everything for an Irish desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr ""
+
+#. description(google-exo-fonts)
+msgid ""
+"Exo is a contemporary geometric sans serif typeface that tries to convey a "
+"technological/futuristic feeling while keeping an elegant design. Exo was "
+"meant to be a very versatile font, so it has 9 weights (the maximum on the "
+"web) each with a true italic version. It works great as a display face but "
+"it also works good for small to intermediate size texts."
+msgstr ""
+
+#. summary(ibus-table-extraphrase)
+msgid "Extra phrases for IBus-table based IME"
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-targets-fogra)
+msgid "FOGRA Printing Characterisation Data"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-fa)
+msgid "Farsi translations for KDE 3"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-fi)
+msgid "Finnish Translations for KDE"
+msgstr ""
+
+#. description(fwzs)
+msgid ""
+"Firewall Zone Switcher consists of a DBus service and a system tray applet "
+"that lets the user switch firewall zones of network interfaces."
+msgstr ""
+
+#. summary(gdouros-alexander-fonts)
+msgid "Font designed to be used for Homer's epics"
+msgstr ""
+
+#. summary(gdouros-anaktoria-fonts)
+msgid "Font designed to be used for Imprimerie Nationale"
+msgstr ""
+
+#. summary(gdouros-symbola-fonts)
+msgid "Font with support for Symbol Blocks of the Unicode Standard"
+msgstr ""
+
+#. summary(gdouros-musica-fonts)
+msgid "Font with support for Unicode Musical Notation Symbols"
+msgstr ""
+
+#. summary(gdouros-aegean-fonts)
+msgid "Font with support for ancient Aegean and Eastern Mediterranean Scripts"
+msgstr ""
+
+#. summary(gdouros-akkadian-fonts)
+msgid "Font with support for ancient akkadian Scripts"
+msgstr ""
+
+#. summary(gdouros-avdira-fonts)
+msgid "Fonts based in the typeface used in old Greek publications"
+msgstr ""
+
+#. summary(gdouros-alfios-fonts)
+msgid "Fonts based on the work of Firmin Didot and Richard Porson"
+msgstr ""
+
+#. description(gdouros-aroania-fonts)
+msgid "Fonts based on the ‘New Hellenic’ font by Victor Julius Scholderer."
+msgstr ""
+
+#. summary(intlfonts:intlfonts-bdf-fonts)
+msgid "Fonts from the GNU Intlfonts Package in BDF Format"
+msgstr ""
+
+#. description(intlfonts:intlfonts-bdf-fonts)
+msgid ""
+"Fonts from the GNU intlfonts package in the BDF format.\n"
+"\n"
+"These fonts are useful for printing exotic languages such as Thai, Tibetan, "
+"Vietnamese, Arabic, and more from within Emacs."
+msgstr ""
+
+#. summary(gdouros-aegyptus-fonts)
+msgid "Fonts with support for ancient Egyptian Hieroglyphs"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-fr)
+msgid "French Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-fy)
+msgid "Frisian Translations for KDE"
+msgstr ""
+
+#. description(gcstar)
+msgid ""
+"GCstar is a free open source application for managing collections of movies, "
+"books, music, etc. Detailed information on each item can be automatically "
+"retrieved from the internet and you can store additional data, such as the "
+"location or who you've lent it to. You may also search and filter your "
+"collection by many criteria."
+msgstr ""
+
+#. description(gimp-help:gimp-help-it)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Italian data for gimp-help."
+msgstr ""
+
+#. description(gimp-help:gimp-help-pl)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Polish data for gimp-help."
+msgstr ""
+
+#. description(gnome-activity-journal)
+msgid ""
+"GNOME Activity Journal is a tool for easily browsing and finding files on "
+"your computer. It keeps a chronological journal of all file activity and "
+"supports tagging and establishing relationships between groups of files."
+msgstr ""
+
+#. summary(gnome-themes)
+msgid "GNOME Themes"
+msgstr ""
+
+#. description(gnome-vfs2:gnome-vfs2-doc)
+msgid ""
+"GNOME VFS is the GNOME virtual file system. It is the foundation for the "
+"Nautilus file manager. It provides a modular architecture and ships with "
+"several modules that implement support for file systems, HTTP, FTP, and "
+"more. It provides a URI-based API, a back-end that supports asynchronous "
+"file operations, a MIME type manipulation library, and other features.\n"
+"\n"
+"This package contains additional documentation for the main package."
+msgstr ""
+
+#. description(gnome-themes)
+msgid ""
+"GNOME themes, including Ximian Industrial and selected background images."
+msgstr ""
+
+#. description(gns3)
+msgid ""
+"GNS3 is a excellent complementary tool to real labs for administrators of "
+"Cisco networks or people wanting to pass their CCNA, CCNP, CCIP or CCIE "
+"certifications.\n"
+"\n"
+"It can also be used to experiment features of Cisco IOS or to check "
+"configurations that need to be deployed later on real routers.\n"
+"\n"
+"Important notice: users must provide their own Cisco IOS to use GNS3."
+msgstr ""
+
+#. summary(gns3)
+msgid "GNS3 is a graphical network simulator"
+msgstr ""
+
+#. summary(gcc47:gcc47-ada-32bit)
+msgid "GNU Ada95 Compiler Based on GCC (GNAT)"
+msgstr ""
+
+#. summary(gnu-crypto)
+msgid "GNU Crypto"
+msgstr ""
+
+#. description(gnu-crypto)
+msgid ""
+"GNU Crypto, part of the GNU project, released under the aegis of GNU, aims "
+"at providing free, versatile, high-quality, and provably correct "
+"implementations of cryptographic primitives and tools in the Java "
+"programming language for use by programmers and end-users."
+msgstr ""
+
+#. summary(gnump3d)
+msgid "GNU MP3 Streaming Server"
+msgstr ""
+
+#. description(gnu-inetlib)
+msgid ""
+"GNU inetlib is a library of clients for common internet protocols. The "
+"following protocols are currently supported: Hypertext Transfer Protocol "
+"(HTTP) File Transfer Protocol (FTP) Simple Mail Transfer Protocol (SMTP) "
+"Internet Message Access Protocol (IMAP) Post Office Protocol (POP) Network "
+"News Transfer Protocol (NNTP) Lightweight Directory Access Protocol (LDAP) "
+"(alpha) Gopher Finger The inetlib library is similar in intent to the Python "
+"internet protocols library - the API is as close as possible to the intent "
+"of the underlying protocol design. This allows for very efficient coding of "
+"user agents. Additionally, inetlib includes URLStreamHandler implementations "
+"for some of the protocols. These can be used to add support for the "
+"corresponding URL scheme to the java.net.URL class."
+msgstr ""
+
+#. description(gnuplot:gnuplot-doc)
+msgid ""
+"GNUplot documentation files including the man and info pages. GNUplot is a "
+"command line driven interactive function plotting utility. GNUplot supports "
+"many different types of terminals, plotters, and printers (including many "
+"color devices and pseudodevices like LaTeX) and can easily be extended to "
+"include new devices.\n"
+"\n"
+"gnuplot documentation files including the man and info pages"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-gl:gstreamer-0_10-plugins-gl-32bit)
+msgid "GStreamer OpenGL Plug-Ins"
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-ugly:gstreamer-0_10-plugins-ugly-32bit)
+msgid ""
+"GStreamer is a streaming media framework based on graphs of filters that "
+"operate on media data. Applications using this library can do anything media-"
+"related, from real-time sound processing to playing videos. Its plug-in-"
+"based architecture means that new data types or processing capabilities can "
+"be added simply by installing newplug-ins.\n"
+"\n"
+"This package contains well-written plug-ins that can't be shipped in "
+"gstreamer-plugins-good because:\n"
+"- the license is not LGPL\n"
+"- the license of the library is not LGPL\n"
+"- there are possible licensing issues with the code."
+msgstr ""
+
+#. summary(gaupol)
+msgid "GTK Subtitle editor"
+msgstr ""
+
+#. summary(gtk-key-theme-ctrluftw)
+msgid "GTK key theme that sets ctrl-u in text entries"
+msgstr ""
+
+#. summary(gtk3-metatheme-sonar)
+msgid "GTK+ 3 Sonar Theme"
+msgstr ""
+
+#. description(gtk3-metatheme-sonar)
+msgid "GTK+ 3 theme, based on the one created for openSUSE 11.2."
+msgstr ""
+
+#. summary(gtk2-metatheme-sonar)
+msgid "GTK+ and Metacity Sonar Theme"
+msgstr ""
+
+#. description(gtk2-metatheme-sonar)
+msgid "GTK+ and Metacity theme created for openSUSE 11.2."
+msgstr ""
+
+#. description(gtk2:gtk2-immodule-multipress-32bit)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides an input method which allows text entry via the multi-"
+"press method, as on a mobile phone."
+msgstr ""
+
+#. description(gtk3:gtk3-branding-upstream)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides the upstream theme configuration for widgets and icon "
+"themes."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-gl)
+msgid "Galician Translations for KDE"
+msgstr ""
+
+#. description(gaupol)
+msgid ""
+"Gaupol is an editor for text-based subtitle files. It supports multiple "
+"subtitle file formats and provides means of correcting texts and timing "
+"subtitles to match video. The user interface is designed with attention to "
+"batch processing of multiple documents and convenience of translating.\n"
+"\n"
+"Gaupol should run on all Unix-like (GNU/Linux, *BSD, etc.) operating systems "
+"and on Windows. Technically it should be able to run on Mac as well, but "
+"that has not been tested nor made convenient. Gaupol's user interface is "
+"based on the GTK+ toolkit and has been designed to best fit the GNOME "
+"desktop environment."
+msgstr ""
+
+#. summary(gcin:gcin-qt3-immodule-32bit)
+msgid "Gcin qt3 immodule"
+msgstr ""
+
+#. summary(gramps)
+msgid "Genealogical Research Software"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-de)
+msgid "German Translations for KDE"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-annotation-1_0-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications Note: You should use the subpackages for the Specifications "
+"that you actually need.\tThe ones installed by the main package are "
+"deprecated and will disapear in future releases."
+msgstr ""
+
+#. description(geronimo-specs:geronimo-corba-1_0-apis)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: CORBA 1.0 Spec"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-corba-2_3-apis)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: CORBA 2.3 Spec"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-commonj-1_1-apis)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: CommonJ Spec"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-ejb-2_1-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: Enterprise JavaBeans Specification"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-j2ee-deployment-1_1-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: J2EE Application Deployment Specification"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-j2ee-management-1_0-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: J2EE Application Management Specification"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-j2ee-connector-1_5-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: J2EE Connector Architecture Specification"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-servlet-2_4-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: J2EE Servlet v2.4 API"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-jms-1_1-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: JMS Specification"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-jaxr-1_0-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: Java API for XML Registries (JAXR)"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-jaxrpc-1_1-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: Java API for XML-Based RPC (JAXRPC)"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-jaf-1_0_2-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: Java Activation Framework"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-jacc-1_0-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: Java Authorization Contract for Containers Specification"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-jta-1_0_1B-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: Java Transaction API Specification"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-javamail-1_3_1-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: JavaMail API"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-jsp-2_0-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: JavaServer Pages Specification"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-saaj-1_1-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: SOAP with Attachments API for Java (SAAJ)"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-qname-1_1-api)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: javax.xml.namespace.QName API"
+msgstr ""
+
+#. summary(ghostscript-fonts)
+msgid "Ghostscript's free fonts"
+msgstr ""
+
+#. description(giver)
+msgid ""
+"Giver is a simple desktop file sharing application based that uses Avahi and "
+"http to advertise and transfer files."
+msgstr ""
+
+#. description(glipper)
+msgid ""
+"Glipper is a clipboardmanager for GNOME. It maintains a history of text "
+"copied to the clipboard from which you can choose. Glipper uses plugins to "
+"give the user all the extra functionality."
+msgstr ""
+
+#. summary(gnome-gmail)
+msgid "Gmail as a gnome mail handler"
+msgstr ""
+
+#. description(gnome-schedule)
+msgid ""
+"Gnome-schedule is a graphical user interface that leverages the power of "
+"vixie-cron, dcron and at to manage your crontab file and provide an easy way "
+"to schedule tasks on your computer. It supports recurrent (periodical) tasks "
+"and tasks that happen only once in the future."
+msgstr ""
+
+#. description(gnucash-docs)
+msgid ""
+"GnuCash is a personal finance manager. A check-book like register GUI allows "
+"you to enter and track bank accounts, stocks, income and even currency "
+"trades. The interface is designed to be simple and easy to use, but is "
+"backed with double-entry accounting principles to ensure balanced books. "
+"This is the documentation module for GnuCash."
+msgstr ""
+
+#. description(horde4-gollem)
+msgid ""
+"Gollem is a web-based file manager, providing the ability to fully manage a "
+"hierarchical file system stored in a variety of backends such as a SQL "
+"database, as part of a real filesystem, or on FTP, Samba or SSH servers."
+msgstr ""
+
+#. summary(gos-wallpapers)
+msgid "Good Old SUSE Wallpapers"
+msgstr ""
+
+#. description(gourmet)
+msgid ""
+"Gourmet Recipe Manager is a recipe-organizer that allows you to collect, "
+"search, organize, and browse your recipes. Gourmet can also generate "
+"shopping lists and calculate nutritional information. It imports Mealmaster, "
+"MasterCook and KRecipe files and exports PDFs, webpages and other formats."
+msgstr ""
+
+#. description(gramps)
+msgid ""
+"Gramps gives you the ability to record the many details of an individual's "
+"life as well as the complex relationships between various people, places and "
+"events. All of your research is kept organized, searchable and as precise as "
+"you need it to be."
+msgstr ""
+
+#. summary(gnome-schedule)
+msgid "Graphical interface to leverage the power of cron"
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-profiles-oyranos-extra)
+msgid "Gray and ITUlab profiles"
+msgstr ""
+
+#. description(gdouros-anaktoria-fonts)
+msgid ""
+"Grecs du roi was designed by Claude Garamond (1480 – 1561) between 1541 and "
+"1544, commissioned by king Francis I of France, for the exclusive use by the "
+"Imprimerie Nationale in Paris. Greek in Akaktoria is based on a modern "
+"version of Grecs du roi prepared by Mindaugas Strockis in 2001. Lowercase "
+"Latin stems from the titles in the 1623 First Folio Edition of Shakespeare. "
+"Scott Mann & Peter Guither prepared a modern version for The Illinois "
+"Shakespeare Festival in 1995. Cyrillic has been designed to match the above "
+"Greek and Latin. The font covers the Windows Glyph List, Greek Extended, "
+"various typographic extras and some Open Type features (Numerators, "
+"Denominators, Fractions, Old Style Figures, Historical Forms, Stylistic "
+"Alternates, Ligatures, Swash Capitals)."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-el)
+msgid "Greek Translations for KDE"
+msgstr ""
+
+#. description(gtkmm2-documentation:gtkmm2-tutorial)
+msgid ""
+"Gtkmm provides a C++ interface to the GTK+ GUI library. gtkmm wraps GTK+. "
+"Highlights include typesafe callbacks, widgets extensible via inheritance, "
+"and a comprehensive set of widget classes that can be freely combined to "
+"quickly create complex user interfaces."
+msgstr ""
+
+#. description(gtkmm3:gtkmm3-doc)
+msgid ""
+"Gtkmm provides a C++ interface to the GTK+ GUI library. gtkmm3 wraps GTK+ 3. "
+"Highlights include typesafe callbacks, widgets extensible via inheritance, "
+"and a comprehensive set of widget classes that can be freely combined to "
+"quickly create complex user interfaces."
+msgstr ""
+
+#. description(hsqldb)
+msgid ""
+"HSQLdb is a relational database engine written in JavaTM , with a JDBC "
+"driver, supporting a subset of ANSI-92 SQL. It offers a small (about 100k), "
+"fast database engine which offers both in memory and disk based tables. "
+"Embedded and server modes are available. Additionally, it includes tools "
+"such as a minimal web server, in-memory query and management tools (can be "
+"run as applets or servlets, too) and a number of demonstration examples.\n"
+"\n"
+"Downloaded code should be regarded as being of production quality. The "
+"product is currently being used as a database and persistence engine in many "
+"Open Source Software projects and even in commercial projects and products! "
+"In it's current version it is extremely stable and reliable. It is best "
+"known for its small size, ability to execute completely in memory and its "
+"speed. Yet it is a completely functional relational database management "
+"system that is completely free under the Modified BSD License. Yes, that's "
+"right, completely free of cost or restrictions!"
+msgstr ""
+
+#. summary(glibc:glibc-html)
+msgid "HTML Documentation for the GNU C Library"
+msgstr ""
+
+#. description(ImageMagick:ImageMagick-doc)
+msgid "HTML documentation for ImageMagick library and scene examples."
+msgstr ""
+
+#. summary(jtidy)
+msgid "HTML syntax checker and pretty printer"
+msgstr ""
+
+#. summary(hsqldb)
+msgid "HYperSQL Database Engine"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-he)
+msgid "Hebrew Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-hi)
+msgid "Hindi Translations for KDE"
+msgstr ""
+
+#. summary(horde4-gollem)
+msgid "Horde Gollem File Manager"
+msgstr ""
+
+#. summary(horde4-timeobjects)
+msgid "Horde timeobjects application"
+msgstr ""
+
+#. summary(hsqldb:hsqldb-demo)
+msgid "Hsqldb Database Engine"
+msgstr ""
+
+#. summary(google-cabin-fonts)
+msgid "Humanist Sans Serif Font"
+msgstr ""
+
+#. summary(google-opensans-fonts)
+msgid "Humanist Sans Serif Typeface"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-hu)
+msgid "Hungarian Translations for KDE"
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-mime-types)
+msgid "ICC + CGATS icon"
+msgstr ""
+
+#. summary(horde4-imp)
+msgid "IMP - A web based webmailer"
+msgstr ""
+
+#. description(horde4-imp)
+msgid ""
+"IMP, the Internet Mail Program, is one of the most popular and widely "
+"deployed open source webmail applications in the world. It allows universal, "
+"web-based access to IMAP and POP3 mail servers and provides Ajax, mobile and "
+"traditional interfaces with a rich range of features normally found only in "
+"desktop email clients."
+msgstr ""
+
+#. description(ipset:ipset-kmp-pae)
+msgid ""
+"IP sets are a framework inside the Linux kernel, which can be administered "
+"by the ipset utility. Depending on the type, currently an IP set may store "
+"IP addresses, (TCP/UDP) port numbers or IP addresses with MAC addresses in a "
+"way, which ensures lightning speed when matching an entry against a set.\n"
+"\n"
+"This package contains a version update to the in-kernel ipset modules."
+msgstr ""
+
+#. summary(intlfonts:intlfonts-phonetic-bitmap-fonts)
+msgid "IPA font for the X Window System"
+msgstr ""
+
+#. description(IPython:IPython-doc)
+msgid ""
+"IPython provides a replacement for the interactive python (Python) "
+"interpreter with extra functionality.\n"
+"\n"
+"This package contains comprehensive documentation for IPython in html "
+"format, as well as examples of usage."
+msgstr ""
+
+#. summary(iso-codes:iso-codes-devel)
+msgid "ISO code lists and translations"
+msgstr ""
+
+#. description(iceWMCP)
+msgid ""
+"IceWM Control Panel (IceWMCP) is full-featured, Gtk-based control panel for "
+"IceWM. It is meant to run in IceWM, but can be used in ANY window manager as "
+"a general-purpose control panel."
+msgstr ""
+
+#. summary(icon-naming-utils)
+msgid "Icon Name Specification Mapping Script"
+msgstr ""
+
+#. summary(horde4-ingo)
+msgid "Ingo email filter rules manager"
+msgstr ""
+
+#. description(horde4-ingo)
+msgid ""
+"Ingo is an email-filter management application. It is fully "
+"internationalized, integrated with Horde and the IMP Webmail client, and "
+"supports both server-side (Sieve, procmail) and client-side (IMAP) message "
+"filtering."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ga)
+msgid "Irish Translations for KDE"
+msgstr ""
+
+#. summary(gimp-help:gimp-help-it)
+msgid "Italian Help System Data for GIMP"
+msgstr ""
+
+#. description(jack:jack-32bit)
+msgid ""
+"JACK is system for handling real-time, low latency audio (and MIDI). It runs "
+"on GNU/Linux, Solaris, FreeBSD, OS X and Windows (and can be ported to other "
+"POSIX-conformant platforms). It can connect a number of different "
+"applications to an audio device, as well as allowing them to share audio "
+"between themselves. Its clients can run in their own processes (ie. as "
+"normal applications), or can they can run within the JACK server (ie. as a "
+"\"plugin\"). JACK also has support for distributing audio processing across "
+"a network, both fast & reliable LANs as well as slower, less reliable WANs."
+msgstr ""
+
+#. summary(jdom)
+msgid "JDOM is a Java Representation of an XML Document"
+msgstr ""
+
+#. description(jdom)
+msgid ""
+"JDOM is, quite simply, a Java representation of an XML document. JDOM "
+"provides a way to represent that document for easy and efficient reading, "
+"manipulation, and writing. It has a straightforward API, is lightweight and "
+"fast, and is optimized for the Java programmer. It is an alternative to DOM "
+"and SAX, although it integrates well with both DOM and SAX."
+msgstr ""
+
+#. description(jdepend:jdepend-demo)
+msgid ""
+"JDepend traverses a set of Java class and source file directories and "
+"generates design quality metrics for each Java package. JDepend allows you "
+"to automatically measure the quality of a design in terms of its "
+"extensibility, reusability, and maintainability to effectively manage and "
+"control package dependencies.\n"
+"\n"
+"This package contains demonstration and sample files for JDepend."
+msgstr ""
+
+#. description(jdepend:jdepend-javadoc)
+msgid ""
+"JDepend traverses a set of Java class and source file directories and "
+"generates design quality metrics for each Java package. JDepend allows you "
+"to automatically measure the quality of a design in terms of its "
+"extensibility, reusability, and maintainability to effectively manage and "
+"control package dependencies.\n"
+"\n"
+"This package contains the javadoc documentation for JDepend."
+msgstr ""
+
+#. description(jflex)
+msgid ""
+"JFlex is a lexical analyzer generator for Java written in Java. It is also a "
+"rewrite of the very useful tool JLex which was developed by Elliot Berk at "
+"Princeton University. As Vern Paxson states for his C/C++ tool flex: they do "
+"not share any code though.\n"
+"\n"
+"Design goals The main design goals of JFlex are:\n"
+"\n"
+"    * Full unicode support     * Fast generated scanners     * Fast scanner "
+"generation     * Convenient specification syntax     * Platform "
+"independence     * JLex compatibility"
+msgstr ""
+
+#. description(jflex:jflex-doc)
+msgid ""
+"JFlex is a lexical analyzer generator for Java written in Java. It is also a "
+"rewrite of the very useful tool JLex which was developed by Elliot Berk at "
+"Princeton University. As Vern Paxson states for his C/C++ tool flex: they do "
+"not share any code though.\n"
+"\n"
+"Design goals The main design goals of JFlex are:\n"
+"\n"
+"    * Full unicode support     * Fast generated scanners     * Fast scanner "
+"generation     * Convenient specification syntax     * Platform "
+"independence     * JLex compatibility\n"
+"\n"
+"This package contains documentation and examples for jflex"
+msgstr ""
+
+#. description(jflex:jflex-javadoc)
+msgid ""
+"JFlex is a lexical analyzer generator for Java written in Java. It is also a "
+"rewrite of the very useful tool JLex which was developed by Elliot Berk at "
+"Princeton University. As Vern Paxson states for his C/C++ tool flex: they do "
+"not share any code though.\n"
+"\n"
+"Design goals The main design goals of JFlex are:\n"
+"\n"
+"    * Full unicode support     * Fast generated scanners     * Fast scanner "
+"generation     * Convenient specification syntax     * Platform "
+"independence     * JLex compatibility\n"
+"\n"
+"This package contains javadoc for jflex."
+msgstr ""
+
+#. description(jgroups:jgroups-javadoc)
+msgid ""
+"JGroups is a toolkit for reliable multicast communication. (Note that this "
+"doesn't necessarily mean IP Multicast, JGroups can also use transports such "
+"as TCP). It can be used to create groups of processes whose members can send "
+"messages to each other. The main features include\n"
+"\n"
+"    * Group creation and deletion. Group members can be spread across       "
+"LANs or WANs     * Joining and leaving of groups     * Membership detection "
+"and notification about joined/left/crashed members     * Detection and "
+"removal of crashed members     * Sending and receiving of member-to-group "
+"messages (point-to-multipoint)     * Sending and receiving of member-to-"
+"member messages (point-to-point)"
+msgstr ""
+
+#. description(jgroups)
+msgid ""
+"JGroups is a toolkit for reliable multicast communication. (Note that this "
+"doesn't necessarily mean IP Multicast, JGroups can also use transports such "
+"as TCP). It can be used to create groups of processes whose members can send "
+"messages to each other. The main features include\n"
+"\n"
+"    * Group creation and deletion. Group members can be spread across       "
+"LANs or WANs     * Joining and leaving of groups     * Membership detection "
+"and notification about joined/left/crashed members     * Detection and "
+"removal of crashed members     * Sending and receiving of member-to-group "
+"messages (point-to-multipoint)     * Sending and receiving of member-to-"
+"member messages (point-to-point)\n"
+"\n"
+"To use JGroups one needs:  commons-logging.jar  log4j.jar\n"
+"\n"
+"To run JGroups you need to have an XML parser installed on your system. If "
+"you use JDK 1.4 or higher, you can use the parser that is shipped with it.\n"
+"\n"
+"If you want to use the JGroups JMS protocol ( org.jgroups.protocols.JMS ), "
+"then you will also need to place jms.jar somewhere in your CLASSPATH.\n"
+"\n"
+"Place the JAR files somewhere in your CLASSPATH , and you're ready to start "
+"using JGroups."
+msgstr ""
+
+#. description(jlex:jlex-javadoc)
+msgid ""
+"JLex is a Lexical Analyzer Generator for Java. This package contains the "
+"javadoc documentation for JLex."
+msgstr ""
+
+#. description(jlex)
+msgid "JLex is a lexical analyzer generator for Java."
+msgstr ""
+
+#. description(jasper5)
+msgid ""
+"JSP engine that conforms to the JSP 2.0 specifications from Java Software."
+msgstr ""
+
+#. description(jasper5:jasper5-javadoc)
+msgid ""
+"JSP engine that conforms to the JSP 2.0 specifications from Java Software.\n"
+"\n"
+"This package contains the javadoc documentation for Jasper."
+msgstr ""
+
+#. summary(jsr-305)
+msgid "JSR 305: Annotations for Software Defect Detection in Java"
+msgstr ""
+
+#. description(jsch)
+msgid ""
+"JSch allows you to connect to an sshd server and use port forwarding, X11 "
+"forwarding, file transfer, etc., and you can integrate its functionality "
+"into your own Java programs."
+msgstr ""
+
+#. description(JTOpen:JTOpen-doc)
+msgid ""
+"JTOpen is an Open Source version of the IBM Toolbox for Java.\n"
+"\n"
+"The IBM Toolbox for Java is a library of Java classes supporting client/"
+"server and internet programming models for an iSeries or AS/400 server. The "
+"classes can be used by Java applets, servlets, and applications to easily "
+"access iSeries and AS/400 data and resources.\n"
+"\n"
+"The Toolbox does not require additional client support over and above what "
+"is provided by the Java Virtual Machine and TCP/IP."
+msgstr ""
+
+#. description(jtidy)
+msgid ""
+"JTidy is a Java port of HTML Tidy, a HTML syntax checker and pretty printer. "
+"Like its non-Java cousin, JTidy can be used as a tool for cleaning up "
+"malformed and faulty HTML. In addition, JTidy provides a DOM parser for real-"
+"world HTML."
+msgstr ""
+
+#. summary(junitperf)
+msgid "JUnit extension for performance and scalability testing"
+msgstr ""
+
+#. description(junit4)
+msgid ""
+"JUnit is a regression testing framework written by Erich Gamma and Kent "
+"Beck. It is used by the developer who implements unit tests in Java. JUnit "
+"is Open Source Software, released under the Common Public License Version "
+"1.0 and JUnit is Open Source Software, released under the IBM Public License "
+"and hosted on SourceForge."
+msgstr ""
+
+#. description(junit:junit-demo)
+msgid ""
+"JUnit is a regression testing framework written by Erich Gamma and Kent "
+"Beck. It is used by the developer who implements unit tests in Java. JUnit "
+"is Open Source Software, released under the IBM Public License and hosted on "
+"SourceForge.\n"
+"\n"
+"This package contains demonstration and sample files for JUnit."
+msgstr ""
+
+#. description(junit:junit-javadoc)
+msgid ""
+"JUnit is a regression testing framework written by Erich Gamma and Kent "
+"Beck. It is used by the developer who implements unit tests in Java. JUnit "
+"is Open Source Software, released under the IBM Public License and hosted on "
+"SourceForge.\n"
+"\n"
+"This package contains the javadoc documentation for JUnit."
+msgstr ""
+
+#. description(junit:junit-manual)
+msgid ""
+"JUnit is a regression testing framework written by Erich Gamma and Kent "
+"Beck. It is used by the developer who implements unit tests in Java. JUnit "
+"is Open Source Software, released under the IBM Public License and hosted on "
+"SourceForge.\n"
+"\n"
+"This package contains the manual for JUnit."
+msgstr ""
+
+#. description(junitperf)
+msgid ""
+"JUnitPerf is a collection of JUnit test decorators used to measure the "
+"performance and scalability of functionality contained within existing JUnit "
+"tests."
+msgstr ""
+
+#. summary(jzlib)
+msgid "JZlib re-implementation of zlib in pure Java"
+msgstr ""
+
+#. summary(jack:jack-32bit)
+msgid "Jack-Audio Connection Kit"
+msgstr ""
+
+#. summary(jakarta-commons-cli)
+msgid "Jakarta Commons CLI, a Command Line Interface for Java"
+msgstr ""
+
+#. summary(jakarta-commons-net)
+msgid "Jakarta Commons Net Package"
+msgstr ""
+
+#. summary(javadict)
+msgid ""
+"Japanese-English Dictionary Lookup Tool Featuring Handwriting Recognition"
+msgstr ""
+
+#. description(jarjar)
+msgid ""
+"Jar Jar Links is a utility that makes it easy to repackage Java libraries "
+"and embed them into your own distribution. This is useful for two reasons: "
+"You can easily ship a single jar file with no external dependencies. You can "
+"avoid problems where your library depends on a specific version of a "
+"library, which may conflict with the dependencies of another library."
+msgstr ""
+
+#. summary(jakarta-poi)
+msgid "Java API To Access Microsoft Format Files"
+msgstr ""
+
+#. summary(ini4j)
+msgid "Java API for handling Windows ini file format"
+msgstr ""
+
+#. summary(jcip-annotations)
+msgid "Java Concurrency in Practice"
+msgstr ""
+
+#. summary(gnu-regexp:gnu-regexp-demo)
+msgid "Java NFA regular expression engine (demo and samples)"
+msgstr ""
+
+#. summary(gnu-regexp:gnu-regexp-javadoc)
+msgid "Java NFA regular expression engine (documentation)"
+msgstr ""
+
+#. summary(javassist)
+msgid "Java Programming Assistant: bytecode manipulation"
+msgstr ""
+
+#. summary(jemmy)
+msgid "Java UI testing library"
+msgstr ""
+
+#. summary(joda-time)
+msgid "Java date and time API"
+msgstr ""
+
+#. summary(gnu-getopt)
+msgid "Java getopt Implementation"
+msgstr ""
+
+#. summary(jformatstring)
+msgid "Java library for format string checks"
+msgstr ""
+
+#. summary(jlfgr)
+msgid "Java look and feel Graphics Repository"
+msgstr ""
+
+#. summary(javahelp2)
+msgid "Java online help system"
+msgstr ""
+
+#. summary(junit4)
+msgid "Java regression test package"
+msgstr ""
+
+#. summary(jcodings)
+msgid "Java-based codings helper classes for Joni and JRuby"
+msgstr ""
+
+#. description(jcodings)
+msgid "Java-based codings helper classes for Joni and JRuby."
+msgstr ""
+
+#. description(javadict)
+msgid ""
+"JavaDict is a Japanese-English dictionary and character dictionary browser "
+"(for Jim Breen's EDICT dictionary) featuring handwriting recognition-based "
+"character lookup.\n"
+"\n"
+"It is portable, easy to use, and primarily intended for use by English-"
+"speaking students of Japanese (or Japanese-speaking students of English)."
+msgstr ""
+
+#. description(javahelp2)
+msgid ""
+"JavaHelp software is a full-featured, platform-independent, extensible help "
+"system that enables developers and authors to incorporate online help in "
+"applets, components, applications, operating systems, and devices. Authors "
+"can also use the JavaHelp software to deliver online documentation for the "
+"Web and corporate Intranet."
+msgstr ""
+
+#. description(gnu-regexp:gnu-regexp-javadoc)
+msgid "Javadoc for gnu-regexp."
+msgstr ""
+
+#. summary(gnu-getopt:gnu-getopt-javadoc)
+msgid "Javadoc for gnu.getopt"
+msgstr ""
+
+#. summary(jakarta-commons-collections:jakarta-commons-collections-javadoc)
+msgid "Javadoc for jakarta-commons-collections"
+msgstr ""
+
+#. summary(jakarta-commons-dbcp:jakarta-commons-dbcp-javadoc)
+msgid "Javadoc for jakarta-commons-dbcp"
+msgstr ""
+
+#. summary(jakarta-commons-digester:jakarta-commons-digester-javadoc)
+msgid "Javadoc for jakarta-commons-digester"
+msgstr ""
+
+#. summary(jakarta-commons-discovery:jakarta-commons-discovery-javadoc)
+msgid "Javadoc for jakarta-commons-discovery"
+msgstr ""
+
+#. summary(jakarta-commons-el:jakarta-commons-el-javadoc)
+msgid "Javadoc for jakarta-commons-el"
+msgstr ""
+
+#. summary(jakarta-commons-fileupload:jakarta-commons-fileupload-javadoc)
+msgid "Javadoc for jakarta-commons-fileupload"
+msgstr ""
+
+#. summary(jakarta-commons-lang:jakarta-commons-lang-javadoc)
+msgid "Javadoc for jakarta-commons-lang"
+msgstr ""
+
+#. description(jakarta-commons-lang:jakarta-commons-lang-javadoc)
+msgid "Javadoc for jakarta-commons-lang."
+msgstr ""
+
+#. summary(jakarta-commons-launcher:jakarta-commons-launcher-javadoc)
+msgid "Javadoc for jakarta-commons-launcher"
+msgstr ""
+
+#. summary(jakarta-commons-modeler:jakarta-commons-modeler-javadoc)
+msgid "Javadoc for jakarta-commons-modeler"
+msgstr ""
+
+#. summary(jakarta-commons-pool:jakarta-commons-pool-javadoc)
+msgid "Javadoc for jakarta-commons-pool"
+msgstr ""
+
+#. summary(jakarta-taglibs-standard:jakarta-taglibs-standard-javadoc)
+msgid "Javadoc for jakarta-taglibs-standard"
+msgstr ""
+
+#. summary(jasper5:jasper5-javadoc)
+msgid "Javadoc for jasper5"
+msgstr ""
+
+#. summary(javassist:javassist-javadoc)
+msgid "Javadoc for javassist"
+msgstr ""
+
+#. description(javassist:javassist-javadoc)
+msgid ""
+"Javadoc for javassist.\n"
+"\n"
+"\n"
+"\n"
+"Javadoc for javassist."
+msgstr ""
+
+#. summary(jcip-annotations:jcip-annotations-javadoc)
+msgid "Javadoc for jcip-annotations"
+msgstr ""
+
+#. summary(jdepend:jdepend-javadoc)
+msgid "Javadoc for jdepend"
+msgstr ""
+
+#. description(jedit:jedit-javadoc)
+msgid "Javadoc for jedit."
+msgstr ""
+
+#. summary(jflex:jflex-javadoc)
+msgid "Javadoc for jflex"
+msgstr ""
+
+#. summary(jformatstring:jformatstring-javadoc)
+msgid "Javadoc for jformatstring"
+msgstr ""
+
+#. description(jformatstring:jformatstring-javadoc)
+msgid "Javadoc for jformatstring."
+msgstr ""
+
+#. summary(jgroups:jgroups-javadoc)
+msgid "Javadoc for jgroups"
+msgstr ""
+
+#. summary(jlex:jlex-javadoc)
+msgid "Javadoc for jlex"
+msgstr ""
+
+#. summary(jsr-305:jsr-305-javadoc)
+msgid "Javadoc for jsr-305"
+msgstr ""
+
+#. summary(junit:junit-javadoc)
+msgid "Javadoc for junit"
+msgstr ""
+
+#. summary(jython:jython-javadoc)
+msgid "Javadoc for jython"
+msgstr ""
+
+#. summary(jemmy:jemmy-javadoc)
+msgid "Javadocs for jemmy"
+msgstr ""
+
+#. summary(joda-time:joda-time-javadoc)
+msgid "Javadocs for joda-time"
+msgstr ""
+
+#. description(javassist)
+msgid ""
+"Javassist (Java Programming Assistant) makes Java bytecode manipulation "
+"simple. It is a class library for editing bytecodes in Java; it enables Java "
+"programs to define a new class at runtime and to modify a class file when "
+"the JVM loads it. Unlike other similar bytecode editors, Javassist provides "
+"two levels of API: source level and bytecode level. If the users use the "
+"source-level API, they can edit a class file without knowledge of the "
+"specifications of the Java bytecode. The whole API is designed with only the "
+"vocabulary of the Java language. You can even specify inserted bytecode in "
+"the form of source text; Javassist compiles it on the fly. On the other "
+"hand, the bytecode-level API allows the users to directly edit a class file "
+"as other editors."
+msgstr ""
+
+#. description(jdom:jaxen)
+msgid ""
+"Jaxen is a universal object model walker, capable of evaluating XPath "
+"expressions across multiple models. Currently supported are dom4j, JDOM, and "
+"DOM."
+msgstr ""
+
+#. description(jemmy)
+msgid ""
+"Jemmy is a Java UI testing library. Jemmy represents the most natural way to "
+"test Java UI - perform the testing right from the Java code. Jemmy is a Java "
+"library which provides clear and straightforward API to access Java UI. "
+"Tests are then just java programs, which use the API. Having the tests in "
+"Java allows to use all the flexibility of high level language to capture "
+"test logic and also do any other operations needed to be done from test."
+msgstr ""
+
+#. description(jisp2)
+msgid ""
+"Jisp uses B-Tree and hash indexes for keyed access to variable-length "
+"serialized objects stored in files."
+msgstr ""
+
+#. description(joda-time)
+msgid ""
+"Joda-Time provides a quality replacement for the Java date and time classes. "
+"The design allows for multiple calendar systems, while still providing a "
+"simple API. The 'default' calendar is the ISO8601 standard which is used by "
+"XML. The Gregorian, Julian, Buddhist, Coptic and Ethiopic systems are also "
+"included, and we welcome further additions. Supporting classes include time "
+"zone, duration, format and parsing."
+msgstr ""
+
+#. description(jython)
+msgid ""
+"Jython is an implementation of the high-level, dynamic, object-oriented "
+"language Python seamlessly integrated with the Java platform. The "
+"predecessor to Jython, JPython, is certified as 100% Pure Java. Jython is "
+"freely available for both commercial and noncommercial use and is "
+"distributed with source code. Jython is complementary to Java and is "
+"especially suited for the following tasks: Embedded scripting--Java "
+"programmers can add the Jython libraries to their system to allow end users "
+"to write simple or complicated scripts that add functionality to the "
+"application. Interactive experimentation--Jython provides an interactive "
+"interpreter that can be used to interact with Java packages or with running "
+"Java applications. This allows programmers to experiment and debug any Java "
+"system using Jython. Rapid application development--Python programs are "
+"typically 2-10X shorter than the equivalent Java program. This translates "
+"directly to increased programmer productivity. The seamless interaction "
+"between Python and Java allows developers to freely mix the two languages "
+"both during development and in shipping products."
+msgstr ""
+
+#. summary(ibus-table-jyutping)
+msgid "Jyutping input method for IBus framework"
+msgstr ""
+
+#. description(horde4-kronolith)
+msgid ""
+"Kronolith is the Horde calendar application. It provides web-based calendars "
+"backed by a SQL database or a Kolab server. Supported features include Ajax "
+"and mobile interfaces, shared calendars, remote calendars, invitation "
+"management (iCalendar/iTip), free/busy management, resource management, "
+"alarms, recurring events, and a sophisticated day/week view which handles "
+"arbitrary numbers of overlapping events."
+msgstr ""
+
+#. summary(horde4-kronolith)
+msgid "Kronolith: A web based calendar"
+msgstr ""
+
+#. summary(java-cup)
+msgid "LALR Parser Generator in Java"
+msgstr ""
+
+#. summary(gDesklets:gDesklets-lang)
+msgid "Languages for package gDesklets"
+msgstr ""
+
+#. summary(geany:geany-lang)
+msgid "Languages for package geany"
+msgstr ""
+
+#. summary(geany-plugins:geany-plugins-lang)
+msgid "Languages for package geany-plugins"
+msgstr ""
+
+#. summary(gedit-collaboration:gedit-collaboration-lang)
+msgid "Languages for package gedit-collaboration"
+msgstr ""
+
+#. summary(gedit-cossa:gedit-cossa-lang)
+msgid "Languages for package gedit-cossa"
+msgstr ""
+
+#. summary(gedit-latex:gedit-latex-lang)
+msgid "Languages for package gedit-latex"
+msgstr ""
+
+#. summary(geeqie:geeqie-lang)
+msgid "Languages for package geeqie"
+msgstr ""
+
+#. summary(genius:genius-lang)
+msgid "Languages for package genius"
+msgstr ""
+
+#. summary(gexif:gexif-lang)
+msgid "Languages for package gexif"
+msgstr ""
+
+#. summary(gigolo:gigolo-lang)
+msgid "Languages for package gigolo"
+msgstr ""
+
+#. summary(gimp-gap:gimp-gap-lang)
+msgid "Languages for package gimp-gap"
+msgstr ""
+
+#. summary(gimp-lqr-plugin:gimp-plugin-lqr-lang)
+msgid "Languages for package gimp-lqr-plugin"
+msgstr ""
+
+#. summary(gimp-save-for-web:gimp-save-for-web-lang)
+msgid "Languages for package gimp-save-for-web"
+msgstr ""
+
+#. summary(giver:giver-lang)
+msgid "Languages for package giver"
+msgstr ""
+
+#. summary(gkrellm:gkrellm-lang)
+msgid "Languages for package gkrellm"
+msgstr ""
+
+#. summary(glade3:glade3-lang)
+msgid "Languages for package glade3"
+msgstr ""
+
+#. summary(glipper:glipper-lang)
+msgid "Languages for package glipper"
+msgstr ""
+
+#. summary(glom:glom-lang)
+msgid "Languages for package glom"
+msgstr ""
+
+#. summary(gnac:gnac-lang)
+msgid "Languages for package gnac"
+msgstr ""
+
+#. summary(gnome-activity-journal:gnome-activity-journal-lang)
+msgid "Languages for package gnome-activity-journal"
+msgstr ""
+
+#. summary(gnome-blog:gnome-blog-lang)
+msgid "Languages for package gnome-blog"
+msgstr ""
+
+#. summary(gnome-boxes:gnome-boxes-lang)
+msgid "Languages for package gnome-boxes"
+msgstr ""
+
+#. summary(gnome-color-chooser:gnome-color-chooser-lang)
+msgid "Languages for package gnome-color-chooser"
+msgstr ""
+
+#. summary(gnome-dvb-daemon:gnome-dvb-daemon-lang)
+msgid "Languages for package gnome-dvb-daemon"
+msgstr ""
+
+#. summary(gnome-gmail:gnome-gmail-lang)
+msgid "Languages for package gnome-gmail"
+msgstr ""
+
+#. summary(gnome-gmail-notifier:gnome-gmail-notifier-lang)
+msgid "Languages for package gnome-gmail-notifier"
+msgstr ""
+
+#. summary(gnome-netspeed-applet:gnome-netspeed-applet-lang)
+msgid "Languages for package gnome-netspeed-applet"
+msgstr ""
+
+#. summary(gnome-pilot-conduits:gnome-pilot-conduits-lang)
+msgid "Languages for package gnome-pilot-conduits"
+msgstr ""
+
+#. summary(gnome-schedule:gnome-schedule-lang)
+msgid "Languages for package gnome-schedule"
+msgstr ""
+
+#. summary(gnome-search-tool:gnome-search-tool-lang)
+msgid "Languages for package gnome-search-tool"
+msgstr ""
+
+#. summary(gnome-subtitles:gnome-subtitles-lang)
+msgid "Languages for package gnome-subtitles"
+msgstr ""
+
+#. summary(gnome-system-log:gnome-system-log-lang)
+msgid "Languages for package gnome-system-log"
+msgstr ""
+
+#. summary(gnote:gnote-lang)
+msgid "Languages for package gnote"
+msgstr ""
+
+#. summary(gobby:gobby-lang)
+msgid "Languages for package gobby"
+msgstr ""
+
+#. summary(gobby04:gobby04-lang)
+msgid "Languages for package gobby04"
+msgstr ""
+
+#. summary(goobox:goobox-lang)
+msgid "Languages for package goobox"
+msgstr ""
+
+#. summary(gourmet:gourmet-lang)
+msgid "Languages for package gourmet"
+msgstr ""
+
+#. summary(gpa:gpa-lang)
+msgid "Languages for package gpa"
+msgstr ""
+
+#. summary(gparted:gparted-lang)
+msgid "Languages for package gparted"
+msgstr ""
+
+#. summary(gramps:gramps-lang)
+msgid "Languages for package gramps"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-gl:gstreamer-0_10-plugins-gl-lang)
+msgid "Languages for package gstreamer-0_10-plugins-gl"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-ugly:gstreamer-0_10-plugins-ugly-lang)
+msgid "Languages for package gstreamer-0_10-plugins-ugly"
+msgstr ""
+
+#. summary(gtk-recordMyDesktop:gtk-recordMyDesktop-lang)
+msgid "Languages for package gtk-recordMyDesktop"
+msgstr ""
+
+#. summary(gtkam:gtkam-lang)
+msgid "Languages for package gtkam"
+msgstr ""
+
+#. summary(gtkmm-documentation:gtkmm3-tutorial-lang)
+msgid "Languages for package gtkmm-documentation"
+msgstr ""
+
+#. summary(gtkmm2-documentation:gtkmm2-tutorial-lang)
+msgid "Languages for package gtkmm2-documentation"
+msgstr ""
+
+#. summary(gtkpod:gtkpod-lang)
+msgid "Languages for package gtkpod"
+msgstr ""
+
+#. summary(gtranslator:gtranslator-lang)
+msgid "Languages for package gtranslator"
+msgstr ""
+
+#. summary(guake:guake-lang)
+msgid "Languages for package guake"
+msgstr ""
+
+#. summary(gurlchecker:gurlchecker-lang)
+msgid "Languages for package gurlchecker"
+msgstr ""
+
+#. summary(gwget:gwget-lang)
+msgid "Languages for package gwget"
+msgstr ""
+
+#. summary(homebank:homebank-lang)
+msgid "Languages for package homebank"
+msgstr ""
+
+#. summary(istanbul:istanbul-lang)
+msgid "Languages for package istanbul"
+msgstr ""
+
+#. summary(jhbuild:jhbuild-lang)
+msgid "Languages for package jhbuild"
+msgstr ""
+
+#. summary(kde3-amarok:kde3-amarok-lang)
+msgid "Languages for package kde3-amarok"
+msgstr ""
+
+#. description(google-lato-fonts)
+msgid ""
+"Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-"
+"based designer Łukasz Dziedzic (“Lato” means “Summer” in Polish). In "
+"December 2010 the Lato family was published under the open-source Open Font "
+"License by his foundry tyPoland, with support from Google.\n"
+"\n"
+"The semi-rounded details of the letters give Lato a feeling of warmth, while "
+"the strong structure provides stability and seriousness.\n"
+"\n"
+"Lato consists of five weights (plus corresponding italics), including a "
+"beautiful hairline style. The first release only includes the Western "
+"character set, but pan-European Latin, Cyrillic and Greek extensions, as "
+"well as small caps and other typographic niceties are expected in 2011."
+msgstr ""
+
+#. description(google-lekton-fonts)
+msgid ""
+"Lekton has been designed at ISIA Urbino, Italy, and is inspired by some of "
+"the typefaces used on the Olivetti typewriters.\n"
+"\n"
+"It was designed by: Paolo Mazzetti, Luciano Perondi, Raffaele Flaùto, Elena "
+"Papassissa, Emilio Macchia, Michela Povoleri, Tobias Seemiller, Riccardo "
+"Lorusso, Sabrina Campagna, Elisa Ansuini, Mariangela Di Pinto, Antonio "
+"Cavedoni, Marco Comastri, Luna Castroni, Stefano Faoro, Daniele Capo, and "
+"Jan Henrik Arnold."
+msgstr ""
+
+#. summary(jflex)
+msgid "Lexical Analyzer Generator for Java"
+msgstr ""
+
+#. summary(gnu-inetlib)
+msgid "Library of clients for common internet protocols"
+msgstr ""
+
+#. summary(hamcrest)
+msgid "Library of matchers for building test expressions"
+msgstr ""
+
+#. description(iotop)
+msgid ""
+"Linux has always been able to show how much I/O was going on (the bi and bo "
+"columns of the vmstat 1 command).\n"
+"\n"
+"Iotop is a Python program with a UI similar to top to show on behalf of "
+"which process is the I/O going on."
+msgstr ""
+
+#. description(gdouros-alfios-fonts)
+msgid ""
+"Lowercase upright Greek were designed in 1805 by Firmin Didot (1764 – 1836) "
+"and cut by Walfard and Vibert. The typeface, together with a complete "
+"printing house, was donated in 1821 to the new Greek state by Didot’s son, "
+"Ambroise Firmin Didot (1790 – 1876). Lowercase italic Greek were designed in "
+"1802 by Richard Porson (1757 – 1808) and cut by Richard Austin. They were "
+"first used by Cambridge University Press in 1810. Capitals, Latin and "
+"Cyrillic, as well as the complete bold weights, have been designed in an "
+"attempt to create a well-balanced font. The font covers the Windows Glyph "
+"List, Greek Extended, various typographic extras and some Open Type features "
+"(Numerators, Denominators, Fractions, Old Style Figures, Historical Forms, "
+"Stylistic Alternates, Ligatures); it is available in regular, italic, bold "
+"and bold italic."
+msgstr ""
+
+#. summary(gnome-mime-data)
+msgid "MIME Type and Application Database for the GNOME 2.x Desktop"
+msgstr ""
+
+#. summary(jakarta-commons-httpclient:jakarta-commons-httpclient-manual)
+msgid "Manual for jakarta-commons-httpclient"
+msgstr ""
+
+#. description(jakarta-commons-httpclient:jakarta-commons-httpclient-manual)
+msgid ""
+"Manual for jakarta-commons-httpclient\n"
+"\n"
+"Manual for jakarta-commons-httpclient."
+msgstr ""
+
+#. summary(jgroups:jgroups-manual)
+msgid "Manual for jgroups"
+msgstr ""
+
+#. summary(junit:junit-manual)
+msgid "Manual for junit"
+msgstr ""
+
+#. summary(jython:jython-manual)
+msgid "Manual for jython"
+msgstr ""
+
+#. summary(hxtools:hxtools-man)
+msgid "Manual pages for the hxtools suite"
+msgstr ""
+
+#. summary(hg-git)
+msgid "Mercurial Plugin for Communicating with Git Servers"
+msgstr ""
+
+#. summary(hg-fast-export)
+msgid "Mercurial to git converter using git-fast-import"
+msgstr ""
+
+#. description(google-merriweather-fonts)
+msgid ""
+"Merriweather was designed to be a text face that is pleasant to read on "
+"screens.\n"
+"\n"
+"Merriweather is an evolving and will be updated. As of now there are 4 "
+"styles: Regular, Light, Bold, and Black. There will also be Italic in each "
+"of these weights. And fairly soon after that there will also be a sans serif "
+"version which mirrors the weights and styles of the Serif design.\n"
+"\n"
+"Designed by Eben Sorkin, Merriweather features a very large x height, "
+"slightly condensed letterforms, a mild diagonal stress, sturdy serifs and "
+"open forms.\n"
+"\n"
+"Because Merriweather is a work in progress and will be improved regularly. "
+"This means you can request improvements and even fund specific features if "
+"if they are outside of the current scope of work. For more information and "
+"to stay updated see Eben Sorkin's blog and Flickr stream and the "
+"Merriweather Twitter microblog."
+msgstr ""
+
+#. summary(horde4-mnemo)
+msgid "Mnemo: A web based notes manager"
+msgstr ""
+
+#. summary(google-cousine-fonts)
+msgid "Monospace Sans Serif Font"
+msgstr ""
+
+#. summary(google-lekton-fonts)
+msgid "Monospaced Typewriter Font"
+msgstr ""
+
+#. description(icc-profiles-basiccolor-printing2009:icc-profiles-basiccolor-printing2009-extra)
+msgid ""
+"More printing profiles according to ISO 12647-2. This are all remaining CMYK "
+"ICC profiles for ISO Printing conditions from the 2009 set. The "
+"ISOcoated_v2_bas.ICC profile is packaged separately."
+msgstr ""
+
+#. description(gdouros-musica-fonts)
+msgid ""
+"Musica covers the following scripts and symbols supported by The Unicode "
+"Standard: Basic Latin, Greek and Coptic, some Punctuation and other Symbols, "
+"Byzantine Musical Symbols, (Western) Musical Symbols and Archaic Greek "
+"Musical Notation."
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-targets-npes)
+msgid "NPES Printing Characterisation Data"
+msgstr ""
+
+#. description(horde4-nag)
+msgid ""
+"Nag is a web-based application built upon the Horde Application Framework "
+"which provides a simple, clean interface for managing online task lists (i."
+"e., todo lists). It also includes strong integration with the other Horde "
+"applications and allows users to share task lists or enable light-weight "
+"project management."
+msgstr ""
+
+#. summary(ipset:ipset-kmp-pae)
+msgid "Netfilter ipset kernel modules"
+msgstr ""
+
+#. summary(gdouros-aroania-fonts)
+msgid "New Hellenic-style Fonts"
+msgstr ""
+
+#. summary(gtk2-metatheme-nimbus:gtk2-engine-nimbus-32bit)
+msgid "Nimbus GTK Theme Engine"
+msgstr ""
+
+#. description(gtk2-metatheme-nimbus:gtk2-engine-nimbus-32bit)
+msgid ""
+"Nimbus is the name of a look-and-feel designed by Sun for the Java Desktop "
+"System."
+msgstr ""
+
+#. summary(glibc:glibc-obsolete)
+msgid "Obsolete Shared Libraries from the GNU C Library"
+msgstr ""
+
+#. description(google-opensans-fonts)
+msgid ""
+"Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type "
+"Director of Ascender Corp.\n"
+"\n"
+"This version contains the complete 897 character set, which includes the "
+"standard ISO Latin 1, Latin CE, Greek and Cyrillic character sets. Open Sans "
+"was designed with an upright stress, open forms and a neutral, yet friendly "
+"appearance. It was optimized for print, web, and mobile interfaces, and has "
+"excellent legibility characteristics in its letterforms."
+msgstr ""
+
+#. summary(jakarta-taglibs-standard)
+msgid "Open Source Implementation of the JSP Standard Tag Library"
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-profiles-all)
+msgid "OpenICC Data with all ICC profiles and targets"
+msgstr ""
+
+#. summary(oxygen-gtk3:gtk3-engine-oxygen-32bit)
+msgid "Oxygen GTK 3.x Theme Engine"
+msgstr ""
+
+#. description(oxygen-gtk3:gtk3-engine-oxygen-32bit)
+msgid ""
+"Oxygen-Gtk3 is a port of the default KDE widget theme (Oxygen), to gtk 3.x.\n"
+"\n"
+"It's primary goal is to ensure visual consistency between gtk-based and qt-"
+"based applications running under KDE. A secondary objective is to also have "
+"a stand-alone nice looking gtk theme that would behave well on other Desktop "
+"Environments.\n"
+"\n"
+"Unlike other attempts made to port the KDE oxygen theme to gtk, this attempt "
+"does not depend on Qt (via some Qt to Gtk conversion engine), nor does "
+"render the widget appearance via hard coded pixmaps, which otherwise breaks "
+"everytime some setting is changed in KDE.\n"
+"\n"
+"This package contains the Oxygen gtk 3.x theme engine."
+msgstr ""
+
+#. summary(shared-color-profiles:icc-profiles-scp-oysonar)
+msgid "Oyranos color profiles, changed for consistent style"
+msgstr ""
+
+#. summary(horde4-turba)
+msgid "PEAR: A web based addressbook"
+msgstr ""
+
+#. summary(horde4)
+msgid "PEAR: Horde Application Framework"
+msgstr ""
+
+#. summary(horde4-content)
+msgid "PEAR: Horde tagging application"
+msgstr ""
+
+#. summary(gdouros-atavyros-fonts)
+msgid "Parangonne Greque Typeface"
+msgstr ""
+
+#. description(horde4-passwd)
+msgid ""
+"Passwd is an application to change any user passwords stored in various "
+"backends like SQL, LDAP, Kolab, passwd files etc..."
+msgstr ""
+
+#. summary(horde4-passwd)
+msgid "Passwd: A web based password changing application"
+msgstr ""
+
+#. description(irssi-extra)
+msgid ""
+"Perl scripts and theme files for the irssi IRC client. You can customize the "
+"look and feel and add extra functionality with this package."
+msgstr ""
+
+#. summary(gimp-help:gimp-help-pl)
+msgid "Polish Help System Data for GIMP"
+msgstr ""
+
+#. summary(icc-profiles-basiccolor-printing2009:icc-profiles-basiccolor-printing2009-doc)
+msgid "Printing Profiles Documentation from basICColor"
+msgstr ""
+
+#. description(icc-profiles-openicc:icc-targets-fogra)
+msgid ""
+"Printing characterisation data according to ISO 12647-2. These are CMYK "
+"characterisation data for coated, webcoated, uncoated, uncoatedyellowish and "
+"SC paper."
+msgstr ""
+
+#. description(icc-profiles-openicc:icc-targets-npes)
+msgid ""
+"Printing characterisation data. These are CMYK characterisation data for "
+"GRACoL, SWOP and SNAP."
+msgstr ""
+
+#. description(icc-profiles-basiccolor-printing2009:icc-profiles-basiccolor-printing2009-doc)
+msgid ""
+"Printing profiles according to ISO 12647-2. These are CMYK ICC profiles "
+"documentation files for ISO Printing conditions."
+msgstr ""
+
+#. summary(jedit:jedit-javadoc)
+msgid "Programmer's text editor written in Java (Documentation)"
+msgstr ""
+
+#. description(hamcrest)
+msgid ""
+"Provides a library of matcher objects (also known as constraints or "
+"predicates) allowing 'match' rules to be defined declaratively, to be used "
+"in other frameworks. Typical scenarios include testing frameworks, mocking "
+"libraries and UI validation rules."
+msgstr ""
+
+#. description(gDesklets:gDesklets-lang)
+msgid "Provides translations to the package gDesklets"
+msgstr ""
+
+#. description(geany:geany-lang)
+msgid "Provides translations to the package geany"
+msgstr ""
+
+#. description(geany-plugins:geany-plugins-lang)
+msgid "Provides translations to the package geany-plugins"
+msgstr ""
+
+#. description(gedit-collaboration:gedit-collaboration-lang)
+msgid "Provides translations to the package gedit-collaboration"
+msgstr ""
+
+#. description(gedit-cossa:gedit-cossa-lang)
+msgid "Provides translations to the package gedit-cossa"
+msgstr ""
+
+#. description(gedit-latex:gedit-latex-lang)
+msgid "Provides translations to the package gedit-latex"
+msgstr ""
+
+#. description(geeqie:geeqie-lang)
+msgid "Provides translations to the package geeqie"
+msgstr ""
+
+#. description(genius:genius-lang)
+msgid "Provides translations to the package genius"
+msgstr ""
+
+#. description(gexif:gexif-lang)
+msgid "Provides translations to the package gexif"
+msgstr ""
+
+#. description(gigolo:gigolo-lang)
+msgid "Provides translations to the package gigolo"
+msgstr ""
+
+#. description(gimp-gap:gimp-gap-lang)
+msgid "Provides translations to the package gimp-gap"
+msgstr ""
+
+#. description(gimp-lqr-plugin:gimp-plugin-lqr-lang)
+msgid "Provides translations to the package gimp-lqr-plugin"
+msgstr ""
+
+#. description(gimp-save-for-web:gimp-save-for-web-lang)
+msgid "Provides translations to the package gimp-save-for-web"
+msgstr ""
+
+#. description(giver:giver-lang)
+msgid "Provides translations to the package giver"
+msgstr ""
+
+#. description(gkrellm:gkrellm-lang)
+msgid "Provides translations to the package gkrellm"
+msgstr ""
+
+#. description(glade3:glade3-lang)
+msgid "Provides translations to the package glade3"
+msgstr ""
+
+#. description(glipper:glipper-lang)
+msgid "Provides translations to the package glipper"
+msgstr ""
+
+#. description(glom:glom-lang)
+msgid "Provides translations to the package glom"
+msgstr ""
+
+#. description(gnac:gnac-lang)
+msgid "Provides translations to the package gnac"
+msgstr ""
+
+#. description(gnome-activity-journal:gnome-activity-journal-lang)
+msgid "Provides translations to the package gnome-activity-journal"
+msgstr ""
+
+#. description(gnome-blog:gnome-blog-lang)
+msgid "Provides translations to the package gnome-blog"
+msgstr ""
+
+#. description(gnome-boxes:gnome-boxes-lang)
+msgid "Provides translations to the package gnome-boxes"
+msgstr ""
+
+#. description(gnome-color-chooser:gnome-color-chooser-lang)
+msgid "Provides translations to the package gnome-color-chooser"
+msgstr ""
+
+#. description(gnome-dvb-daemon:gnome-dvb-daemon-lang)
+msgid "Provides translations to the package gnome-dvb-daemon"
+msgstr ""
+
+#. description(gnome-gmail:gnome-gmail-lang)
+msgid "Provides translations to the package gnome-gmail"
+msgstr ""
+
+#. description(gnome-gmail-notifier:gnome-gmail-notifier-lang)
+msgid "Provides translations to the package gnome-gmail-notifier"
+msgstr ""
+
+#. description(gnome-netspeed-applet:gnome-netspeed-applet-lang)
+msgid "Provides translations to the package gnome-netspeed-applet"
+msgstr ""
+
+#. description(gnome-pilot-conduits:gnome-pilot-conduits-lang)
+msgid "Provides translations to the package gnome-pilot-conduits"
+msgstr ""
+
+#. description(gnome-schedule:gnome-schedule-lang)
+msgid "Provides translations to the package gnome-schedule"
+msgstr ""
+
+#. description(gnome-search-tool:gnome-search-tool-lang)
+msgid "Provides translations to the package gnome-search-tool"
+msgstr ""
+
+#. description(gnome-subtitles:gnome-subtitles-lang)
+msgid "Provides translations to the package gnome-subtitles"
+msgstr ""
+
+#. description(gnome-system-log:gnome-system-log-lang)
+msgid "Provides translations to the package gnome-system-log"
+msgstr ""
+
+#. description(gnote:gnote-lang)
+msgid "Provides translations to the package gnote"
+msgstr ""
+
+#. description(gobby:gobby-lang)
+msgid "Provides translations to the package gobby"
+msgstr ""
+
+#. description(gobby04:gobby04-lang)
+msgid "Provides translations to the package gobby04"
+msgstr ""
+
+#. description(goobox:goobox-lang)
+msgid "Provides translations to the package goobox"
+msgstr ""
+
+#. description(gourmet:gourmet-lang)
+msgid "Provides translations to the package gourmet"
+msgstr ""
+
+#. description(gpa:gpa-lang)
+msgid "Provides translations to the package gpa"
+msgstr ""
+
+#. description(gparted:gparted-lang)
+msgid "Provides translations to the package gparted"
+msgstr ""
+
+#. description(gramps:gramps-lang)
+msgid "Provides translations to the package gramps"
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-gl:gstreamer-0_10-plugins-gl-lang)
+msgid "Provides translations to the package gstreamer-0_10-plugins-gl"
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-ugly:gstreamer-0_10-plugins-ugly-lang)
+msgid "Provides translations to the package gstreamer-0_10-plugins-ugly"
+msgstr ""
+
+#. description(gtk-recordMyDesktop:gtk-recordMyDesktop-lang)
+msgid "Provides translations to the package gtk-recordMyDesktop"
+msgstr ""
+
+#. description(gtkam:gtkam-lang)
+msgid "Provides translations to the package gtkam"
+msgstr ""
+
+#. description(gtkmm-documentation:gtkmm3-tutorial-lang)
+msgid "Provides translations to the package gtkmm-documentation"
+msgstr ""
+
+#. description(gtkmm2-documentation:gtkmm2-tutorial-lang)
+msgid "Provides translations to the package gtkmm2-documentation"
+msgstr ""
+
+#. description(gtkpod:gtkpod-lang)
+msgid "Provides translations to the package gtkpod"
+msgstr ""
+
+#. description(gtranslator:gtranslator-lang)
+msgid "Provides translations to the package gtranslator"
+msgstr ""
+
+#. description(guake:guake-lang)
+msgid "Provides translations to the package guake"
+msgstr ""
+
+#. description(gurlchecker:gurlchecker-lang)
+msgid "Provides translations to the package gurlchecker"
+msgstr ""
+
+#. description(gwget:gwget-lang)
+msgid "Provides translations to the package gwget"
+msgstr ""
+
+#. description(homebank:homebank-lang)
+msgid "Provides translations to the package homebank"
+msgstr ""
+
+#. description(istanbul:istanbul-lang)
+msgid "Provides translations to the package istanbul"
+msgstr ""
+
+#. description(jhbuild:jhbuild-lang)
+msgid "Provides translations to the package jhbuild"
+msgstr ""
+
+#. description(kde3-amarok:kde3-amarok-lang)
+msgid "Provides translations to the package kde3-amarok"
+msgstr ""
+
+#. summary(isorelax)
+msgid "Public interfaces useful for applications to support RELAX Core"
+msgstr ""
+
+#. summary(jsch)
+msgid "Pure Java implementation of SSH2"
+msgstr ""
+
+#. summary(hgview:hgview-qt4)
+msgid "Qt4 User Interface for hgview"
+msgstr ""
+
+#. summary(google-merriweather-fonts)
+msgid "Readable Text Serif Font for Screen"
+msgstr ""
+
+#. summary(gourmet)
+msgid "Recipes Management Application"
+msgstr ""
+
+#. summary(jarjar)
+msgid "Repackage Java libraries"
+msgstr ""
+
+#. description(gdouros-atavyros-fonts)
+msgid ""
+"Robert Granjon (1513 – 1589) produced his Parangonne Greque typeface "
+"(Garmond size) at the instigation of Plantin as a counterpart to Garamond’s "
+"Grec du roi, in Antwerp Holland, between 1560 - 1565. A version of the font "
+"was used (a century later!) for the 1692 edition of Diogenes Laertius by "
+"Aegidius Menagius (Gilles Ménage of Angers, 1613 – 92), published by Henric "
+"Wetstenium in Amsterdam. A second variant, at Kolonel size, was cut by "
+"Nikolaas Kis for the Greek-Dutch edition of the New Testament in 1698, again "
+"by Henric Wetstenium. A digital revival, was prepared by Ralph P. Hancock, "
+"in his Vusillus font. Latin and Cyrillic are based on a Goudy typeface. The "
+"font covers the Windows Glyph List, Greek Extended, various typographic "
+"extras and some Open Type features (Numerators, Denominators, Fractions, Old "
+"Style Figures, Historical Forms, Stylistic Alternates, Ligatures)."
+msgstr ""
+
+#. summary(librsvg:gtk2-engine-svg-32bit)
+msgid "SVG-based GTK+ 2 Theme Engine"
+msgstr ""
+
+#. summary(javassist:javassist-demo)
+msgid "Samples for javassist"
+msgstr ""
+
+#. description(javassist:javassist-demo)
+msgid ""
+"Samples for javassist.\n"
+"\n"
+"\n"
+"\n"
+"Samples for javassist."
+msgstr ""
+
+#. summary(google-nobile-fonts)
+msgid "Sans Serif Font"
+msgstr ""
+
+#. summary(irssi-extra)
+msgid "Scripts and Themes for the irssi IRC Client"
+msgstr ""
+
+#. summary(gnome-shell-search-provider-openSUSE-packages)
+msgid "Search Provider to look for openSUSE packages in GNOME Shell"
+msgstr ""
+
+#. summary(google-alegreya-fonts)
+msgid "Serif Font for Literature"
+msgstr ""
+
+#. summary(getmail)
+msgid "Simple, Secure and Reliable Email Retriever"
+msgstr ""
+
+#. description(gtk2-engine-cleanice:gtk2-engine-cleanice-32bit)
+msgid "Simple, clean theme engine for GTK2."
+msgstr ""
+
+#. summary(jakarta-slide-webdavclient)
+msgid "Slide WebDAV client"
+msgstr ""
+
+#. description(jakarta-slide-webdavclient)
+msgid ""
+"Slide includes a fully featured WebDAV client library and command line "
+"client."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-es)
+msgid "Spanish Translations for KDE"
+msgstr ""
+
+#. summary(hdjmod:hdjmod-kmp-pae)
+msgid "Support for Hercules DJ Devices"
+msgstr ""
+
+#. description(gdouros-symbola-fonts)
+msgid ""
+"Symbola covers the following scripts and symbols supported by Unicode: Basic "
+"Latin, IPA Extensions, Spacing Modifier Letters, Combining Diacritical "
+"Marks, Greek and Coptic, Cyrillic, Cyrillic Supplement, General Punctuation, "
+"Superscripts and Subscripts, Currency Symbols, Combining Diacritical Marks "
+"for Symbols, Letterlike Symbols, Number Forms, Arrows, Mathematical "
+"Operators, Miscellaneous Technical, Control Pictures, Optical Character "
+"Recognition, Box Drawing, Block Elements, Geometric Shapes, Miscellaneous "
+"Symbols, Dingbats, Miscellaneous Mathematical Symbols-A, Supplemental Arrows-"
+"A, Supplemental Arrows-B, Miscellaneous Mathematical Symbols-B, Supplemental "
+"Mathematical Operators, Miscellaneous Symbols and Arrows, Supplemental "
+"Punctuation, Yijing Hexagram Symbols, Combining Half Marks, Specials, "
+"Byzantine Musical Symbols, Musical Symbols, Ancient Greek Musical Notation, "
+"Tai Xuan Jing Symbols, Counting Rod Numerals, Mathematical Alphanumeric "
+"Symbols, Mahjong Tiles, Domino Tiles, Playing Cards, Miscellaneous Symbols "
+"And Pictographs, Emoticons, Transport And Map Symbols, Alchemical Symbols, "
+"et al."
+msgstr ""
+
+#. summary(jmock)
+msgid "Test Java code using mock objects"
+msgstr ""
+
+#. description(identity-abstraction)
+msgid ""
+"The Bandit Identity Abstraction assists applications in constructing, "
+"comparing, querying, and authenticating digital identities."
+msgstr ""
+
+#. description(jakarta-commons-cli)
+msgid ""
+"The CLI library provides a simple and easy to use API for working with the "
+"command line arguments and options."
+msgstr ""
+
+#. description(google-cabin-fonts)
+msgid ""
+"The Cabin font family is a humanist sans with 4 weights and true italics, "
+"inspired by Edward Johnston’s and Eric Gill’s typefaces, with a touch of "
+"modernism.\n"
+"\n"
+"Cabin incorporates modern proportions, optical adjustments, and some "
+"elements of the geometric sans.\n"
+"\n"
+"It remains true to its roots, but has its own personality.\n"
+"\n"
+"The weight distribution is almost monotone, although top and bottom curves "
+"are slightly thin.\n"
+"\n"
+"Counters of the b, g, p and q are rounded and optically adjusted. The curved "
+"stem endings have a 10 degree angle. E and F have shorter center arms. M is "
+"splashed."
+msgstr ""
+
+#. description(jakarta-commons-discovery:jakarta-commons-discovery-javadoc)
+msgid ""
+"The Discovery component is about discovering, or finding, implementations "
+"for pluggable interfaces.  Pluggable interfaces are specified with the "
+"intent that multiple implementations are, or will be, available to provide "
+"the service described by the interface. Discovery provides facilities for "
+"finding and instantiating classes, and for lifecycle management of singleton "
+"(factory) classes.\n"
+"\n"
+"This package contains the javadoc documentation for the Jakarta Commons "
+"Discovery Package."
+msgstr ""
+
+#. description(gimp:gimp-branding-upstream)
+msgid ""
+"The GIMP (GNU Image Manipulation Program) is a powerful image composition "
+"and editing program, which can be extremely useful for creating logos and "
+"other graphics for Web pages.  The GIMP offers many of the tools and filters "
+"you would expect to find in similar commercial offerings and contains some "
+"interesting extras as well. The GIMP provides a large image manipulation "
+"toolbox, including channel operations and layers, effects, subpixel imaging "
+"and antialiasing, and conversions- all including multilevel undo. The GIMP "
+"offers a scripting facility, but many of the included scripts rely on fonts "
+"that we cannot distribute.\n"
+"\n"
+"This package contains the upstream splash screen for the GIMP."
+msgstr ""
+
+#. summary(gnome-control-center:gnome-control-center-branding-upstream)
+msgid "The GNOME Control Center -- Upstream Definition of Shell Content"
+msgstr ""
+
+#. summary(gnome-menus:gnome-menus-branding-upstream)
+msgid "The GNOME Desktop Menu -- Upstream Menus Definitions"
+msgstr ""
+
+#. summary(gnome-panel:gnome-panel-branding-upstream)
+msgid "The GNOME Desktop Panel -- Upstream default layout"
+msgstr ""
+
+#. summary(gdm:gdm-branding-upstream)
+msgid "The GNOME Display Manager -- Upstream default configuration"
+msgstr ""
+
+#. description(gdm:gdm-branding-upstream)
+msgid ""
+"The GNOME Display Manager is a system service that is responsible for "
+"providing graphical log-ins and managing local and remote displays.\n"
+"\n"
+"This package provides the upstream default configuration for gdm."
+msgstr ""
+
+#. description(gnome-colors-icon-theme)
+msgid ""
+"The GNOME-Colors is a project that aims to make the GNOME desktop as "
+"elegant, consistent and colorful as possible.\n"
+"\n"
+"The current goal is to allow full color customization of themes, icons, GDM "
+"logins and splash screens. There are already five full color-schemes "
+"available; Brave (Blue), Human (Orange), Wine (Red), Noble (Purple) and Wise "
+"(Green).\n"
+"\n"
+"GNOME-Colors is mostly inspired/based on Tango, GNOME, Elementary, Tango-"
+"Generator and many other open-source projects."
+msgstr ""
+
+#. summary(gimp:gimp-branding-upstream)
+msgid "The GNU Image Manipulation Program -- Upstream Splash Screen"
+msgstr ""
+
+#. description(gnu-getopt)
+msgid ""
+"The GNU Java getopt classes support short and long argument parsing in a "
+"manner 100% compatible with the version of GNU getopt in glibc 2.0.6 with a "
+"mostly compatible programmer's interface as well. Note that this is a port, "
+"not a new implementation."
+msgstr ""
+
+#. description(gnu-getopt:gnu-getopt-javadoc)
+msgid ""
+"The GNU Java getopt classes support short and long argument parsing in a "
+"manner 100% compatible with the version of GNU getopt in glibc 2.0.6 with a "
+"mostly compatible programmer's interface as well. Note that this is a port, "
+"not a new implementation.\n"
+"\n"
+"This package contains the javadoc documentation for the GNU Java getopt "
+"classes."
+msgstr ""
+
+#. summary(gtk2:gtk2-immodule-multipress-32bit)
+msgid "The GTK+ toolkit library (version 2) -- Multipress Input Method"
+msgstr ""
+
+#. summary(gtk2:gtk2-branding-upstream)
+msgid "The GTK+ toolkit library (version 2) -- Upstream theme configuration"
+msgstr ""
+
+#. summary(gtk3:gtk3-immodule-multipress-32bit)
+msgid "The GTK+ toolkit library (version 3) -- Multipress Input Method"
+msgstr ""
+
+#. summary(gtk3:gtk3-branding-upstream)
+msgid "The GTK+ toolkit library (version 3) -- Upstream theme configuration"
+msgstr ""
+
+#. description(greybird-theme:gtk2-metatheme-greybird)
+msgid ""
+"The Greybird Theme for GTK2/3 and xfwm4/emerald/metacity started out on the "
+"basis of Bluebird, but aims at reworking the intense blue tone to a more "
+"neutral grey-ish look that will be more pleasant to look at in everyday "
+"use.\n"
+"\n"
+"This package provides the GTK+ 2 support of Greybird."
+msgstr ""
+
+#. description(greybird-theme:gtk3-metatheme-greybird)
+msgid ""
+"The Greybird Theme for GTK2/3 and xfwm4/emerald/metacity started out on the "
+"basis of Bluebird, but aims at reworking the intense blue tone to a more "
+"neutral grey-ish look that will be more pleasant to look at in everyday "
+"use.\n"
+"\n"
+"This package provides the GTK+ 3 support of Greybird."
+msgstr ""
+
+#. description(horde4)
+msgid ""
+"The Horde Application Framework is a flexible, modular, general-purpose web "
+"application framework written in PHP. It provides an extensive array of "
+"components that are targeted at the common problems and tasks involved in "
+"developing modern web applications. It is the basis for a large number of "
+"production-level web applications, notably the Horde Groupware suites. For "
+"more information on Horde or the Horde Groupware suites, visit http://www."
+"horde.org."
+msgstr ""
+
+#. description(JTOpen)
+msgid ""
+"The IBM Toolbox for Java is a library of Java classes supporting the client/"
+"server and Internet programming models to an iSeries or AS/400 server. The "
+"classes can be used by Java applets, servlets, and applications to easily "
+"access iSeries and AS/400 data and resources.\n"
+"\n"
+"The toolbox does not require additional client support beyond what is "
+"provided by the Java Virtual Machine and TCP/IP."
+msgstr ""
+
+#. description(icc-profiles-openicc:icc-mime-types)
+msgid "The ICC profile and CGATS mime types and a icon for these file types."
+msgstr ""
+
+#. description(isorelax)
+msgid ""
+"The ISO RELAX project is started to host the public interfaces useful for "
+"applications to support RELAX Core. But nowadays some of the stuff we have "
+"is schema language neutral."
+msgstr ""
+
+#. description(intlfonts:intlfonts-phonetic-bitmap-fonts)
+msgid "The International Phonetic Alphabet font for the X Window System."
+msgstr ""
+
+#. summary(jisp2)
+msgid "The Java Indexed Serialization Package"
+msgstr ""
+
+#. description(horde4-mnemo)
+msgid ""
+"The Mnemo Note Manager is the Horde notes/memos application. It allows users "
+"to keep web-based notes and freeform text. Notes may be shared with other "
+"users via shared notepads. It requires the Horde Application Framework and "
+"an SQL database or Kolab server for backend storage."
+msgstr ""
+
+#. description(jakarta-commons-modeler:jakarta-commons-modeler-javadoc)
+msgid ""
+"The Modeler project shall create and maintain a set of Java classes to "
+"provide the facilities described in the preceeding section, plus unit tests "
+"and small examples of using these facilities to instrument Java classes with "
+"Model MBean support.\n"
+"\n"
+"This package contains the javadoc documentation for the Jakarta Commons "
+"Modeler Package."
+msgstr ""
+
+#. summary(JTOpen)
+msgid "The Open Source Version of the IBM Toolbox for Java"
+msgstr ""
+
+#. description(jakarta-poi)
+msgid ""
+"The POI project consists of APIs for manipulating various file formats based "
+"upon Microsoft's OLE 2 Compound Document format using pure Java. In short, "
+"you can read and write MS Excel files using Java. Soon, you'll be able to "
+"read and write Word files using Java. POI is your Java Excel solution as "
+"well as your Java Word solution. However, we have a complete API for porting "
+"other OLE 2 Compound Document formats and welcome others to participate. OLE "
+"2 Compound Document Format based files include most Microsoft Office files "
+"such as XLS and DOC as well as MFC serialization API based file formats."
+msgstr ""
+
+#. description(gtk-xfce-engine:gtk-xfce-engine-32bit)
+msgid ""
+"The Xfce GTK theme engine provides various different themes which allow for "
+"homogeneity in applications for both business and personal desktops."
+msgstr ""
+
+#. description(ini4j)
+msgid ""
+"The [ini4j] is a simple Java API for handling configuration files in "
+"Windows .ini format. Additionally, the library includes Java Preferences API "
+"implementation based on the .ini file."
+msgstr ""
+
+#. description(gnome-control-center:gnome-control-center-branding-upstream)
+msgid ""
+"The control center is GNOME's main interface for configuration of various "
+"aspects of your desktop.\n"
+"\n"
+"This package provides the upstream definition of what appears in the control "
+"center."
+msgstr ""
+
+#. description(glibc:glibc-devel-static-32bit)
+msgid ""
+"The glibc-devel-static package contains the C library static libraries for -"
+"static linking.  You don't need these, unless you link statically, which is "
+"highly discouraged."
+msgstr ""
+
+#. description(glibc:glibc-utils-32bit)
+msgid ""
+"The glibc-utils package contains mtrace, a memory leak tracer and xtrace, a "
+"function call tracer which can be helpful during program debugging.\n"
+"\n"
+"If you are unsure if you need this, don't install this package."
+msgstr ""
+
+#. description(jakarta-commons-pool:jakarta-commons-pool-javadoc)
+msgid ""
+"The goal of Pool package it to create and maintain an object (instance) "
+"pooling package to be distributed under the ASF license. The package should "
+"support a variety of pool implementations, but encourage support of an "
+"interface that makes these implementations interchangeable.\n"
+"\n"
+"This package contains the javadoc documentation for the Jakarta Commons Pool "
+"Package."
+msgstr ""
+
+#. description(jakarta-commons-digester:jakarta-commons-digester-javadoc)
+msgid ""
+"The goal of the Jakarta Commons Digester project is to create and maintain a "
+"XML -> Java object mapping package written in the Java language to be "
+"distributed under the ASF license.\n"
+"\n"
+"This package contains the javadoc documentation for the Jakarta Commons "
+"Digester Package."
+msgstr ""
+
+#. summary(hxtools:hxtools-profile)
+msgid "The hxtools shell environment"
+msgstr ""
+
+#. description(jakarta-commons-collections:jakarta-commons-collections-testframework)
+msgid ""
+"The introduction of the Collections API by Sun in JDK 1.2 has been a    boon "
+"to quick and effective Java programming. Ready access to    powerful data "
+"structures has accelerated development by reducing    the need for custom "
+"container classes around each core object.    Most Java2 APIs are "
+"significantly easier to use because of the    Collections API. However, "
+"there are certain holes left unfilled    by Sun's implementations, and the "
+"Jakarta-Commons Collections    Component strives to fulfill them. Among the "
+"features of this    package are: - special-purpose implementations of Lists "
+"and Maps    for fast access\n"
+"\n"
+"- adapter classes from Java1-style containers (arrays, enumerations)    to "
+"Java2-style collections\n"
+"\n"
+"- methods to test or create typical set theory properties of collections "
+"such as union, intersection, and closure\n"
+"\n"
+"\n"
+"\n"
+"Jakarta Commons Collections Package."
+msgstr ""
+
+#. description(jcifs)
+msgid ""
+"The jCIFS SMB client library enables any Java application to remotely access "
+"shared files and directories on SMB file servers(i.e. a Microsoft Windows "
+"\"share\") in addition to domain, workgroup, and server enumeration of "
+"NetBIOS over TCP/IP networks. It is an advanced implementation of the CIFS "
+"protocol supporting Unicode, batching, multiplexing of threaded callers, "
+"encrypted authentication, transactions, the Remote Access Protocol (RAP), "
+"and much more. It is licensed under LGPL which means commercial "
+"organizations can legitimately use it with their proprietary code(you just "
+"can't sell or give away a modified binary only version of the library itself "
+"without reciprocation)."
+msgstr ""
+
+#. description(jakarta-commons-fileupload:jakarta-commons-fileupload-javadoc)
+msgid ""
+"The javax.servlet package lacks support for rfc 1867, html file upload.  "
+"This package provides a simple to use api for working with such data. The "
+"scope of this package is to create a package of Java utility classes to read "
+"multipart/form-data within a javax.servlet.http.HttpServletRequest.\n"
+"\n"
+"This package contains the javadoc documentation for the Jakarta Commons "
+"Fileupload Package."
+msgstr ""
+
+#. summary(jdom:jaxen)
+msgid "The jaxen project is a Java XPath Engine"
+msgstr ""
+
+#. description(icc-profiles-openicc:icc-profiles-all)
+msgid ""
+"The meta package installs all ICC profiles from the OpenICC Data collection."
+msgstr ""
+
+#. description(gnome-menus:gnome-menus-branding-upstream)
+msgid ""
+"The package contains an implementation of the draft \"Desktop Menu "
+"Specification\" from freedesktop.org:\n"
+"\n"
+"http://www.freedesktop.org/Standards/menu-spec\n"
+"\n"
+"This package provides the upstream definitions for menus."
+msgstr ""
+
+#. description(gcc:gcc-gij-32bit)
+msgid "The system GNU Java bytecode interpreter as 32 bit application."
+msgstr ""
+
+#. description(horde4-timeobjects)
+msgid ""
+"The timeobjects application doesn't have an interface but provides streams "
+"of events to any applications that can consume them, notably the Horde "
+"calendar application. It contains drivers for facebook events and weather "
+"forecasts and can easily be extended by custom drivers."
+msgstr ""
+
+#. summary(ht2html)
+msgid "The www.python.org Web Site Generator"
+msgstr ""
+
+#. description(jzlib)
+msgid ""
+"The zlib is designed to be a free, general-purpose, legally unencumbered -- "
+"that is, not covered by any patents -- lossless data-compression library for "
+"use on virtually any computer hardware and operating system. The zlib was "
+"written by Jean-loup Gailly (compression) and Mark Adler (decompression)."
+msgstr ""
+
+#. summary(icewm-themes)
+msgid "Themes for the IceWM Window Manager"
+msgstr ""
+
+#. description(john-wordlists)
+msgid ""
+"These are huge word lists for john (John the Ripper) (a fast password "
+"cracker).\n"
+"\n"
+"The following copyright statement applies to this word list collection as a "
+"whole:\n"
+"\n"
+"Copyright (c) 2002,2003 by Solar Designer of Openwall Project\n"
+"\n"
+"The home page for this word list collection is:\n"
+"\n"
+"http://www.openwall.com/wordlists/"
+msgstr ""
+
+#. description(jlfgr)
+msgid ""
+"These pages contain a collection of toolbar button graphics. The graphics "
+"have been designed specifically for use with the Java look and feel. They "
+"conform to the Java look and feel Design Guidelines. A set of attributes "
+"accompanies each graphic. This information can easily be used to create "
+"Swing Actions.\n"
+"\n"
+"As the Human Interface Group, we strive to improve the user experience for "
+"you and your end-users. This graphics repository provides you with "
+"professional quality graphics that will save you development time. Your end-"
+"users benefit by leveraging their knowledge of these graphics and "
+"terminology across different Java look and feel applications.\n"
+"\n"
+"To provide feedback about the graphics repository, send email to the Java "
+"look and feel Design Team (jlfdesign (at) sun (dot) com)."
+msgstr ""
+
+#. description(gnome-agenda)
+msgid ""
+"This application offers easy access to your calendars. Supported calendars "
+"include iCalendar, Google Calendar, Novell Groupwise and Evolution."
+msgstr ""
+
+#. description(horde4-content)
+msgid ""
+"This application provides tagging support for the other Horde applications."
+msgstr ""
+
+#. description(javazic)
+msgid ""
+"This is a time zone compiler for opensource Java Virtual Machine derived "
+"from openjdk6 source code."
+msgstr ""
+
+#. description(jakarta-commons-net)
+msgid ""
+"This is an Internet protocol suite Java library originally developed by ORO, "
+"Inc.  This version supports Finger, Whois, TFTP, Telnet, POP3, FTP, NNTP, "
+"SMTP, and some miscellaneous protocols like Time and Echo as well as BSD R "
+"command support. The purpose of the library is to provide fundamental "
+"protocol access, not higher-level abstractions."
+msgstr ""
+
+#. description(hdjmod:hdjmod-kmp-pae)
+msgid ""
+"This is the Hercules DJ Series Kernel Module, which supports Hercules DJ "
+"Devices."
+msgstr ""
+
+#. description(hg-git)
+msgid ""
+"This is the Hg-Git plugin for Mercurial, adding the ability to push and pull "
+"to/from a Git server repository from Hg. This means you can collaborate on "
+"Git based projects from Hg, or use a Git server as a collaboration point for "
+"a team with developers using both Git and Hg.\n"
+"\n"
+"The Hg-Git plugin can convert commits/changesets losslessly from one system "
+"to another, so you can push via an Hg repository and another Hg client can "
+"pull it and their changeset node ids will be identical - Mercurial data does "
+"not get lost in translation."
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-buzztard:gstreamer-0_10-plugins-buzztard-32bit)
+msgid "This module contains experimental code that extends gstreamer"
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-gl:gstreamer-0_10-plugins-gl-32bit)
+msgid ""
+"This module contains integration libraries and plug-ins for using OpenGL "
+"within GStreamer pipelines. This module contains elements for, among "
+"others:\n"
+"\n"
+"  * output: glimagesink   * adapters: glupload, gldownload   * video "
+"processing: gldeinterlace, glcolorscale   * GL effects: glfiltersobel, "
+"glfilterblur, gleffects, others   * sources: gltestsrc"
+msgstr ""
+
+#. description(gnome-mime-data)
+msgid ""
+"This module contains the base MIME and application database for GNOME. It is "
+"meant to be accessed through the MIME functions in GNOMEVFS."
+msgstr ""
+
+#. description(gnome-shell-search-provider-openSUSE-packages)
+msgid ""
+"This package adds a search provider to search for packages on the openSUSE "
+"Build service repositories in the GNOME Shell overview."
+msgstr ""
+
+#. description(icedtea-web:icedtea-web-javadoc)
+msgid "This package contains Javadocs for the icedtea-web."
+msgstr ""
+
+#. description(icewm-themes)
+msgid ""
+"This package contains a collection of themes for the popular IceWM window "
+"manager. Most of them have been taken from the original 0.9.42 themes "
+"package. Others have been taken from http://icewm.themes.org."
+msgstr ""
+
+#. description(gtk2-themes)
+msgid ""
+"This package contains additional themes and engines for the GTK2 library."
+msgstr ""
+
+#. description(gcc47:gcc47-ada-32bit)
+msgid ""
+"This package contains an Ada95 compiler and associated development tools "
+"based on the GNU GCC technology. Ada95 is the object oriented successor of "
+"the Ada83 language. To build this package from source you must have "
+"installed a binary version to bootstrap the compiler."
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-buzztard:gstreamer-0_10-plugins-buzztard-32bit)
+msgid ""
+"This package contains code that eventualy will be move to gstreamer and "
+"right now is needed to build all other buzztard-modules."
+msgstr ""
+
+#. description(jython:jython-demo)
+msgid ""
+"This package contains demonstration and sample files for Jython.\n"
+"\n"
+"Jython is an implementation of the high-level, dynamic, object-oriented "
+"language Python seamlessly integrated with the Java platform. The "
+"predecessor to Jython, JPython, is certified as 100% Pure Java. Jython is "
+"freely available for both commercial and non-commercial use and is "
+"distributed with source code. Jython is complementary to Java and is "
+"especially suited for the following tasks: Embedded scripting - Java "
+"programmers can add the Jython libraries to their system to allow end users "
+"to write simple or complicated scripts that add functionality to the "
+"application. Interactive experimentation - Jython provides an interactive "
+"interpreter that can be used to interact with Java packages or with running "
+"Java applications. This allows programmers to experiment and debug any Java "
+"system using Jython. Rapid application development - Python programs are "
+"typically 2-10X shorter than the equivalent Java program. This translates "
+"directly to increased programmer productivity. The seamless interaction "
+"between Python and Java allows developers to freely mix the two languages "
+"both during development and in shipping products."
+msgstr ""
+
+#. description(jakarta-taglibs-standard)
+msgid ""
+"This package contains releases for the 1.1.x versions of the Standard Tag "
+"Library, Jakarta Taglibs's open source implementation of the JSP Standard "
+"Tag Library (JSTL), version 1.1. JSTL is a standard under the Java Community "
+"Process."
+msgstr ""
+
+#. description(gnome-themes-extras)
+msgid "This package contains several extra GNOME themes."
+msgstr ""
+
+#. description(jemmy:jemmy-javadoc)
+msgid "This package contains the API documentation for jemmy."
+msgstr ""
+
+#. description(joda-time:joda-time-javadoc)
+msgid "This package contains the API documentation for joda-time."
+msgstr ""
+
+#. description(gnome-panel:gnome-panel-branding-upstream)
+msgid ""
+"This package contains the GNOME Desktop Panel. The panel is an easy-to-use "
+"and functional interface to manage your desktop, start programs, and "
+"organize access to your data.\n"
+"\n"
+"This package contains the upstream default layout for GNOME Panel."
+msgstr ""
+
+#. description(glibc:glibc-html)
+msgid ""
+"This package contains the HTML documentation for the GNU C library. Due to a "
+"lack of resources, this documentation is not complete and is partially out "
+"of date."
+msgstr ""
+
+#. description(iproute2:iproute2-doc)
+msgid ""
+"This package contains the PDF documentation from iproute2, as well as "
+"examples and other outdated files."
+msgstr ""
+
+#. description(shared-color-profiles:icc-profiles-scp-oysonar)
+msgid ""
+"This package contains the color profiles from Oyranos, with strings updated "
+"for better integration in graphical user interfaces.\n"
+"\n"
+"Those profiles are less commonly used and are usually not required. They may "
+"be useful for CMYK soft-proofing or for extra device support."
+msgstr ""
+
+#. description(glibc:glibc-i18ndata)
+msgid ""
+"This package contains the data needed to build the locale data files to use "
+"the internationalization features of the GNU libc. It is normally not "
+"necessary to install this packages, the data files are already created."
+msgstr ""
+
+#. description(ibus-table-extraphrase:ibus-table-extraphrase-devel)
+msgid ""
+"This package contains the files required for the development of ibus-table-"
+"extraphrase."
+msgstr ""
+
+#. description(jakarta-taglibs-standard:jakarta-taglibs-standard-javadoc)
+msgid "This package contains the javadoc documentation for Jakarta Taglibs."
+msgstr ""
+
+#. description(jython:jython-javadoc)
+msgid ""
+"This package contains the javadoc documentation for jython.\n"
+"\n"
+"Jython is an implementation of the high-level, dynamic, object-oriented "
+"language Python seamlessly integrated with the Java platform. The "
+"predecessor to Jython, JPython, is certified as 100% Pure Java. Jython is "
+"freely available for both commercial and non-commercial use and is "
+"distributed with source code. Jython is complementary to Java and is "
+"especially suited for the following tasks: Embedded scripting - Java "
+"programmers can add the Jython libraries to their system to allow end users "
+"to write simple or complicated scripts that add functionality to the "
+"application. Interactive experimentation - Jython provides an interactive "
+"interpreter that can be used to interact with Java packages or with running "
+"Java applications. This allows programmers to experiment and debug any Java "
+"system using Jython. Rapid application development - Python programs are "
+"typically 2-10X shorter than the equivalent Java program. This translates "
+"directly to increased programmer productivity. The seamless interaction "
+"between Python and Java allows developers to freely mix the two languages "
+"both during development and in shipping products."
+msgstr ""
+
+#. description(jakarta-commons-dbcp:jakarta-commons-dbcp-javadoc)
+msgid ""
+"This package contains the javadoc documentation for the DBCP package.\n"
+"\n"
+"The DBCP package shall create and maintain a database connection pool "
+"package written in the Java language to be distributed under the ASF "
+"license. The package shall be available as a pseudo-JDBC driver and via a "
+"DataSource interface. The package shall also support multiple logins to "
+"multiple database systems, reclamation of stale or dead connections, testing "
+"for valid connections, PreparedStatement pooling, and other features."
+msgstr ""
+
+#. description(jakarta-commons-collections:jakarta-commons-collections-javadoc)
+msgid ""
+"This package contains the javadoc documentation for the Jakarta Commons "
+"Collections package.\n"
+"\n"
+"The introduction of the Collections API by Sun in JDK 1.2 has been a    boon "
+"to quick and effective Java programming. Ready access to    powerful data "
+"structures has accelerated development by reducing    the need for custom "
+"container classes around each core object.    Most Java2 APIs are "
+"significantly easier to use because of the    Collections API. However, "
+"there are certain holes left unfilled    by Sun's implementations, and the "
+"Jakarta-Commons Collections    Component strives to fulfill them. Among the "
+"features of this    package are: - special-purpose implementations of Lists "
+"and Maps    for fast access\n"
+"\n"
+"- adapter classes from Java1-style containers (arrays, enumerations)    to "
+"Java2-style collections.\n"
+"\n"
+"- methods to test or create typical set-theory properties of collections "
+"such as union, intersection, and closure.\n"
+"\n"
+"\n"
+"\n"
+"Javadoc for jakarta-commons-collections."
+msgstr ""
+
+#. description(jython:jython-manual)
+msgid ""
+"This package contains the manual for Jython.\n"
+"\n"
+"Jython is an implementation of the high-level, dynamic, object-oriented "
+"language Python seamlessly integrated with the Java platform. The "
+"predecessor to Jython, JPython, is certified as 100% Pure Java. Jython is "
+"freely available for both commercial and non-commercial use and is "
+"distributed with source code. Jython is complementary to Java and is "
+"especially suited for the following tasks: Embedded scripting - Java "
+"programmers can add the Jython libraries to their system to allow end users "
+"to write simple or complicated scripts that add functionality to the "
+"application. Interactive experimentation - Jython provides an interactive "
+"interpreter that can be used to interact with Java packages or with running "
+"Java applications. This allows programmers to experiment and debug any Java "
+"system using Jython. Rapid application development - Python programs are "
+"typically 2-10X shorter than the equivalent Java program. This translates "
+"directly to increased programmer productivity. The seamless interaction "
+"between Python and Java allows developers to freely mix the two languages "
+"both during development and in shipping products."
+msgstr ""
+
+#. description(hxtools:hxtools-man)
+msgid ""
+"This package contains the manual pages for the binaries and scripts from "
+"hxtools."
+msgstr ""
+
+#. description(gos-wallpapers)
+msgid "This package contains wallpapers from older SUSE releases."
+msgstr ""
+
+#. description(gnome-gmail)
+msgid ""
+"This package makes Gmail a choice in the Gnome control panel for the default "
+"mail handler. It opens in the default web browser."
+msgstr ""
+
+#. description(librsvg:gtk2-engine-svg-32bit)
+msgid "This package provides a librsvg-based GTK+ 2 theme engine."
+msgstr ""
+
+#. description(gnome-patch-translation)
+msgid ""
+"This package provides scripts for collecting strings changed in RPM patches "
+"and merging them to one translation compendium."
+msgstr ""
+
+#. description(glibc:glibc-obsolete)
+msgid ""
+"This package provides some old libraries from the GNU C Library which are no "
+"longer supported. Additional it provides a compatibility library for old "
+"binaries linked against glibc 2.0.\n"
+"\n"
+"Install this package if you need one of this libraries to get old binaries "
+"working, but since this libraries are not supported and there is no gurantee "
+"that they work for you, you should try to get newer versions of your "
+"software."
+msgstr ""
+
+#. description(iso-codes:iso-codes-devel)
+msgid ""
+"This package provides the ISO-639 Language code list, the ISO-3166 Territory "
+"code list, and ISO-3166-2 sub-territory lists, and all their translations in "
+"gettext .po form."
+msgstr ""
+
+#. description(hgview:hgview-qt4)
+msgid "This package provides the Qt4 user interface for hgview."
+msgstr ""
+
+#. description(glib2:gio-branding-upstream)
+msgid ""
+"This package provides upstream defaults for settings stored with GSettings "
+"and applications used by the MIME system."
+msgstr ""
+
+#. description(jsr-305)
+msgid ""
+"This project contains reference implementations, test cases, and other "
+"documents under source code control for Java Specification Request 305: "
+"Annotations for Software Defect Detection. More information at the Google "
+"group: http://groups.google.com/group/jsr-305."
+msgstr ""
+
+#. description(jformatstring)
+msgid ""
+"This project is derived from Sun's implementation of java.util.Formatter. It "
+"is designed to allow compile time checks as to whether or not a use of "
+"format string will be erronous when executed at runtime.\n"
+"\n"
+"This code is derived from the OpenJDK implementation, jdk1.7.0-b35. As such, "
+"it is licensed under the same license as OpenJDK, GPL v2 + the Classpath "
+"exception.\n"
+"\n"
+"This project is preliminary, and the API is subject to change. The library "
+"produced by compiling this project is used by the FindBugs project. To avoid "
+"any licensing questions due to incompatible licenses (FindBugs is licensed "
+"under the LGPL), it is broken out as a separate project. While there may be "
+"some confusion/discussion about the licenses, the FindBugs project does not "
+"interpret the FindBugs LGPL license to be any stronger than GPL v2 + the "
+"Classpath exception."
+msgstr ""
+
+#. summary(jgroups)
+msgid "Toolkit for reliable multicast communication"
+msgstr ""
+
+#. summary(iotop)
+msgid "Top Like UI to Show Per-Process I/O Going on"
+msgstr ""
+
+#. summary(fwzs)
+msgid "Tray applet that allows to switch firewall zones of interfaces"
+msgstr ""
+
+#. summary(intlfonts:intlfonts-ttf-fonts)
+msgid "TrueType Fonts from the GNU Intlfonts Package"
+msgstr ""
+
+#. description(intlfonts:intlfonts-ttf-fonts)
+msgid "TrueType fonts from the GNU intlfonts package."
+msgstr ""
+
+#. description(horde4-turba)
+msgid ""
+"Turba is the Horde contact management application. Leveraging the Horde "
+"framework to provide seamless integration with IMP and other Horde "
+"applications, it supports storing contacts in SQL, LDAP, Kolab, and IMSP "
+"address books."
+msgstr ""
+
+#. summary(javassist:javassist-manual)
+msgid "Tutorial for javassist"
+msgstr ""
+
+#. description(javassist:javassist-manual)
+msgid ""
+"Tutorial for javassist.\n"
+"\n"
+"\n"
+"\n"
+"Tutorial for javassist."
+msgstr ""
+
+#. description(ghostscript-fonts)
+msgid ""
+"Two sets of free fonts are supplied by Ghostscript:\n"
+"\n"
+"Basic fonts for Ghostscript in the package ghostscript-fonts-std.\n"
+"\n"
+"Optional Fonts for Ghostscript in the package ghostscript-fonts-other."
+msgstr ""
+
+#. summary(intlfonts:intlfonts-type1-fonts)
+msgid "Type1 Fonts from the GNU Intlfonts Package"
+msgstr ""
+
+#. description(intlfonts:intlfonts-type1-fonts)
+msgid "Type1 fonts from the GNU intlfonts package."
+msgstr ""
+
+#. summary(gonvert)
+msgid "Unit Conversion Utility"
+msgstr ""
+
+#. description(gdouros-avdira-fonts)
+msgid ""
+"Upright is based on the lowercase Greek letters in the typeface used by "
+"Demetrios Damilas for the edition of Isocrates, published in Milan in 1493. "
+"A digital revival, was prepared by Ralph P. Hancock, in his Milan "
+"(Mediolanum) font. Italic Greek were designed in 1802 by Richard Porson "
+"(1757 – 1808) and cut by Richard Austin. They were first used by Cambridge "
+"University Press in 1810. Capitals, Latin and Cyrillic, as well as the "
+"complete bold weights, have been designed in an attempt to create a well-"
+"balanced font. The font covers the Windows Glyph List, Greek Extended, "
+"various typographic extras and is available in regular, italic, bold and "
+"bold italic. The regular style of the font also covers IPA Extensions, "
+"Ancient Greek Numbers, Byzantine and Ancient Greek Musical Notation and "
+"several Open Type features (Case-Sensitive Forms, Small Capitals, Subscript, "
+"Superscript, Numerators, Denominators, Fractions, Old Style Figures, "
+"Historical Forms, Stylistic Alternates, Ligatures)."
+msgstr ""
+
+#. summary(glib2:gio-branding-upstream)
+msgid "Upstream definitions of default settings and applications"
+msgstr ""
+
+#. summary(hgview)
+msgid "Visual Log Navigator for Mercurial"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-cy)
+msgid "Welsh Translations for KDE"
+msgstr ""
+
+#. description(horde4-whups)
+msgid ""
+"Whups is a Horde ticket-tracking application. It is very flexible in design, "
+"and can be used for help-desk requests, tracking software development, and "
+"anything else that needs to track a set of requests and their status."
+msgstr ""
+
+#. summary(horde4-whups)
+msgid "Whups: A Ticket Tracker for Horde 4"
+msgstr ""
+
+#. summary(john-wordlists)
+msgid "Word List Files for John the Ripper"
+msgstr ""
+
+#. summary(gtk-xfce-engine:gtk-xfce-engine-32bit)
+msgid "Xfce GTK+-2.0 Theme Engine"
+msgstr ""
+
+#. description(jvyamlb)
+msgid "YAML processor extracted from JRuby."
+msgstr ""
+
+#. summary(jvyamlb)
+msgid "YAML processor for JRuby"
+msgstr ""
+
+#. description(ibus-table-zhengma)
+msgid "Zheng Ma input method intergrated in IBus framework."
+msgstr ""
+
+#. summary(ibus-table-zhengma)
+msgid "ZhengMa input method for IBus"
+msgstr ""
+
+#. summary(ibus-table-ziranma)
+msgid "Ziranma input method for IBus"
+msgstr ""
+
+#. description(ibus-table-ziranma)
+msgid "Ziranma input method intergrated in IBus framework. 自然码"
+msgstr ""
+
+#. description(gcin:gcin-qt3-immodule-32bit)
+msgid "gcin qt3 immodule, support Qt3-based applications"
+msgstr ""
+
+#. description(getmail:getmail-doc)
+msgid ""
+"getmail is intended as a simple, secure, and reliable replacement for "
+"fetchmail.\n"
+"\n"
+"This package contains the configuration, FAQ and troubleshooting "
+"documentation, under /usr/share/doc/packages/getmail/"
+msgstr ""
+
+#. description(getmail)
+msgid ""
+"getmail is intended as a simple, secure, and reliable replacement for "
+"fetchmail. It retrieves email (either all messages, or only unread messages) "
+"from one or more POP3, SPDS, or IMAP4 servers (with or without SSL) for one "
+"or more email accounts, and reliably delivers into qmail-style Maildirs, "
+"mboxrd files, or through external MDAs (command deliveries) specified on a "
+"per-account basis. getmail also has excellent support for domain (multidrop) "
+"mailboxes, including delivering messages to different users or destinations "
+"based on the envelope recipient address."
+msgstr ""
+
+#. description(gnump3d)
+msgid ""
+"gnump3d is a simple server that allows you to stream MP3s and OGG Vorbis "
+"files across a network."
+msgstr ""
+
+#. description(gonvert)
+msgid ""
+"gonvert is a conversion utility that allows conversion between many units, "
+"like CGS, Ancient, and Imperial, with many categories, such as length, mass, "
+"and numbers. All converted values are shown at once as you type. It is easy "
+"to add and change your own units."
+msgstr ""
+
+#. description(hg-fast-export)
+msgid ""
+"hg-fast-export tool allows incremental import of mercurial repositories to "
+"git repositories.\n"
+"\n"
+"It can automatically import a local hg repo into a local git repo using just "
+"one command. Subsequent importing of new changesets is supported.\n"
+"\n"
+"Included git-hg wrapper script can be used to transparently track Mercurial "
+"repositories without a separate checkout. It also includes experimental "
+"support for pushing back to Mercurial."
+msgstr ""
+
+#. description(hgview)
+msgid ""
+"hgview is a simple tool aiming at visually navigate in a Mercurial "
+"repository history.  It is written in Python with quick and efficient key-"
+"based navigation in mind, trying to be fast enough to be usable for big "
+"repositories."
+msgstr ""
+
+#. description(ht2html)
+msgid ""
+"ht2html is a simple Web page templating system that defines a format and "
+"provides a set of Python scripts for creating a simple, but consistent Web "
+"site.\n"
+"\n"
+"All pages include a left corner logo, a sitewide site links top bar, and a "
+"directory-specific side.\n"
+"\n"
+"The script is called ht2html because it generates .html files from .ht "
+"template files. The format of these .ht files is essentially usual HTML, "
+"with a set of optional RFC 2822-like headers at the top of the file. These "
+"headers specify certain options that ht2html's various classes support. "
+"Python 2.0 or newer is required."
+msgstr ""
+
+#. description(itext)
+msgid ""
+"iText is a library that allows you to generate PDF files on the fly. The "
+"iText classes are very useful for people who need to generate read-only, "
+"platform independent documents containing text, lists, tables and images. "
+"The library is especially useful in combination with Java(TM) technology-"
+"based Servlets: The look and feel of HTML is browser dependent; with iText "
+"and PDF you can control exactly how your servlet's output will look."
+msgstr ""
+
+#. description(itext:itext-javadoc)
+msgid ""
+"iText is a library that allows you to generate PDF files on the fly. The "
+"iText classes are very useful for people who need to generate read-only, "
+"platform independent documents containing text, lists, tables and images. "
+"The library is especially useful in combination with Java(TM) technology-"
+"based Servlets: The look and feel of HTML is browser dependent; with iText "
+"and PDF you can control exactly how your servlet's output will look.\n"
+"\n"
+"\n"
+"\n"
+"A Free Java-PDF library."
+msgstr ""
+
+#. summary(iwatch)
+msgid "iWatch is a realtime filesystem monitoring program."
+msgstr ""
+
+#. description(iwatch)
+msgid ""
+"iWatch monitor the filesystem's integrity in realtime and will send alarm "
+"immediately to the system administrator when there is any changes in the "
+"monitored filesystem. iWatch is written in Perl and based on inotify, a file "
+"change notification system, a kernel feature that allows applications to "
+"request the monitoring of a set of files against a list of events.\n"
+"\n"
+"Currently it can:\n"
+"\n"
+"- run in command line mode as well as in daemon mode\n"
+"\n"
+"- using an easy xml configuration file\n"
+"\n"
+"- can watch directory recursively and watch new created directory\n"
+"\n"
+"- can have a list of exceptions\n"
+"\n"
+"- can use regex to compare the file/directory name\n"
+"\n"
+"- can execute command if an event occures\n"
+"\n"
+"- send email\n"
+"\n"
+"- syslog\n"
+"\n"
+"- print time stamp"
+msgstr ""
+
+#. description(ibus-table-jyutping)
+msgid ""
+"ibus-table-jyutping provide Jyutping input method on IBus Table under IBus "
+"framework. 粵語拼音"
+msgstr ""
+
+#. description(jmock)
+msgid ""
+"jMock is a library for testing Java code using mock objects. Mock    objects "
+"help you design and test the interactions between the    objects in your "
+"programs. The jMock package: * makes it quick and    easy to define mock "
+"objects, so you don't break the rhythm of    programming.\n"
+"\n"
+"* lets you define flexible constraints over object interactions,    reducing "
+"the brittleness of your tests.\n"
+"\n"
+"* is easy to extend."
+msgstr ""
+
+#. description(java-cup-bootstrap)
+msgid ""
+"java-cup is a LALR Parser Generator in Java. With v0.11, you can: *    use "
+"CUP in an Ant-Target\n"
+"\n"
+"* start CUP by a simple command like java -jar java-cup-11a.jar    myGrammar."
+"cup\n"
+"\n"
+"* use generic parametrized classes (since Java 1.5) as datatypes for    non\n"
+"\n"
+"* terminals and terminals\n"
+"\n"
+"* have Your own symbol classes"
+msgstr ""
+
+#. description(java-cup)
+msgid ""
+"java-cup is a LALR Parser Generator in Java. With v0.11, you can: *    use "
+"CUP in an Ant-Target\n"
+"\n"
+"* start CUP by a simple command like java -jar java-cup-11a.jar    myGrammar."
+"cup\n"
+"\n"
+"* use generic parametrized classes (since Java 1.5) as datatypes for    non "
+"terminals and terminals\n"
+"\n"
+"* have Your own symbol classes"
+msgstr ""
+
+#. description(branding-openSUSE:grub2-gfxconsole-branding-openSUSE)
+msgid "openSUSE 12.2 branding for the GRUB2's graphical console"
+msgstr ""
+
+#. summary(branding-openSUSE:grub2-gfxconsole-branding-openSUSE)
+msgid "openSUSE branding for GRUB2's graphical console"
+msgstr ""
+
+#. description(ibus-table-extraphrase)
+msgid ""
+"provide Chinese extra phrases for ibus-table based IME, such as ibus-table-"
+"zhengma, ibus-table-wubi, ibus-table-cangjie5, ibus-table-erbi and etc."
+msgstr ""
+
+#. summary(guilt)
+msgid "quilt on top of git"
+msgstr ""

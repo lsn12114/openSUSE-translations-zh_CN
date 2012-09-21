@@ -1,0 +1,4249 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2012-06-21 16:20:17\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. summary(kdegames4:kubrick)
+msgid "3-D game based on Rubik's Cube"
+msgstr ""
+
+#. summary(jakarta-commons-launcher)
+msgid "A Cross-Platform Java Application Launcher"
+msgstr ""
+
+#. summary(krusader)
+msgid "A File Manager"
+msgstr ""
+
+#. description(ktouch)
+msgid "A KDE program that helps you to learn and practice touch typing."
+msgstr ""
+
+#. summary(libesmtp)
+msgid "A Library for Posting Electronic Mail"
+msgstr ""
+
+#. summary(abiword:libabiword-2_8)
+msgid "A Multiplatform Word Processor - Library files"
+msgstr ""
+
+#. summary(javacc)
+msgid "A Parser and Scanner Generator for Java"
+msgstr ""
+
+#. summary(krename)
+msgid "A Powerful Batch Renamer for KDE"
+msgstr ""
+
+#. summary(joe)
+msgid "A Text Editor"
+msgstr ""
+
+#. summary(konversation)
+msgid "A User-Friendly IRC Client for KDE"
+msgstr ""
+
+#. description(cluster-glue:libglue2)
+msgid ""
+"A collection of libraries that are useful for writing cluster managers such "
+"as Pacemaker."
+msgstr ""
+
+#. summary(kradio)
+msgid "A comfortable KDE4 AM/FM radio application"
+msgstr ""
+
+#. description(libapr-util1)
+msgid "A companion library to APR, the Apache Portable Runtime."
+msgstr ""
+
+#. description(kdenetwork4:kppp)
+msgid "A dialer and front-end to pppd"
+msgstr ""
+
+#. description(libgcj47:libgcj_bc47)
+msgid ""
+"A fake library that is used at link time only. It ensures that binaries "
+"built with the BC-ABI link against a constant SONAME. This way, BC-ABI "
+"binaries continue to work if the SONAME underlying libgcj.so changes."
+msgstr ""
+
+#. summary(libev:libev4)
+msgid "A full-featured and high-performance event loop library"
+msgstr ""
+
+#. description(libev:libev4)
+msgid ""
+"A full-featured and high-performance event loop that is loosely modelled "
+"after libevent, but without its limitations and bugs. It is used, among "
+"others, in the GNU Virtual Private Ethernet and rxvt-unicode packages.\n"
+"\n"
+" This package holds the shared libraries of libev."
+msgstr ""
+
+#. description(kdebindings-smokegen)
+msgid ""
+"A general purpose C++ parser with a plugin infrastructure enabling "
+"'generators' to be written, which can do various things with the C++ AST. It "
+"is currently used for generating the various KDE SMOKE libraries."
+msgstr ""
+
+#. summary(libfm)
+msgid "A glib/gio-based lib used to develop file managers"
+msgstr ""
+
+#. description(libfm)
+msgid ""
+"A glib/gio-based lib used to develop file managers providing some file "
+"management utilities and related-widgets missing in gtk+/glib."
+msgstr ""
+
+#. description(kasumi)
+msgid "A graphical tool to edit the personal dictionary for Anthy."
+msgstr ""
+
+#. summary(chmlib:libchm0)
+msgid "A library for dealing with ITSS/CHM files"
+msgstr ""
+
+#. summary(ebook-tools:libepub0)
+msgid "A library for reading ebook files"
+msgstr ""
+
+#. summary(analitza:libanalitza0)
+msgid "A library to add mathematical features to programs"
+msgstr ""
+
+#. description(kwordquiz)
+msgid "A powerful flashcard and vocabulary learning program"
+msgstr ""
+
+#. description(digikam:kipi-plugins)
+msgid ""
+"A set of plug-ins for the KDE KIPI interface, used by some KDE imaging "
+"applications."
+msgstr ""
+
+#. description(kiosktool)
+msgid ""
+"A tool for a system administrator to create profiles for the KDE desktop."
+msgstr ""
+
+#. description(kdewebdev4:kimagemapeditor)
+msgid "A tool to edit image maps of HTML files"
+msgstr ""
+
+#. description(aalib:libaa1)
+msgid ""
+"AA-lib is a low level gfx library. AA-lib does not require a graphics "
+"device. In fact, there is no graphical output possible. AA-lib replaces old-"
+"fashioned output methods with a powerful ASCII art renderer."
+msgstr ""
+
+#. summary(kate)
+msgid "Advanced Text Editor"
+msgstr ""
+
+#. summary(kate:kate-devel)
+msgid "Advanced Text Editor Development Headers"
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ar)
+msgid ""
+"All the requirements for a KDE desktop in Arabic. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-eu)
+msgid ""
+"All the requirements for a KDE desktop in Basque. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-bs)
+msgid ""
+"All the requirements for a KDE desktop in Bosnian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-pt_BR)
+msgid ""
+"All the requirements for a KDE desktop in Brazilian. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-en_GB)
+msgid ""
+"All the requirements for a KDE desktop in British English. This package "
+"contains application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-bg)
+msgid ""
+"All the requirements for a KDE desktop in Bulgarian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ca)
+msgid ""
+"All the requirements for a KDE desktop in Catalan. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-hr)
+msgid ""
+"All the requirements for a KDE desktop in Croatian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-cs)
+msgid ""
+"All the requirements for a KDE desktop in Czech. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-da)
+msgid ""
+"All the requirements for a KDE desktop in Danish. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-nl)
+msgid ""
+"All the requirements for a KDE desktop in Dutch. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-et)
+msgid ""
+"All the requirements for a KDE desktop in Estonian. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-fa)
+msgid ""
+"All the requirements for a KDE desktop in Farsi (Persian). This package "
+"contains application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-fi)
+msgid ""
+"All the requirements for a KDE desktop in Finish. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-fr)
+msgid ""
+"All the requirements for a KDE desktop in French. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-gl)
+msgid ""
+"All the requirements for a KDE desktop in Galician. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-de)
+msgid ""
+"All the requirements for a KDE desktop in German. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-el)
+msgid ""
+"All the requirements for a KDE desktop in Greek. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-he)
+msgid ""
+"All the requirements for a KDE desktop in Hebrew. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-hu)
+msgid ""
+"All the requirements for a KDE desktop in Hungarian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-is)
+msgid ""
+"All the requirements for a KDE desktop in Icelandic. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-id)
+msgid ""
+"All the requirements for a KDE desktop in Indonesian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ia)
+msgid ""
+"All the requirements for a KDE desktop in Interlingua (International "
+"Auxiliary Language Association). This package contains application "
+"translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ga)
+msgid ""
+"All the requirements for a KDE desktop in Irish Gaelic. This package "
+"contains application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-it)
+msgid ""
+"All the requirements for a KDE desktop in Italian. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ja)
+msgid ""
+"All the requirements for a KDE desktop in Japanese. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-kk)
+msgid ""
+"All the requirements for a KDE desktop in Khmer. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ko)
+msgid ""
+"All the requirements for a KDE desktop in Korean. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-lv)
+msgid ""
+"All the requirements for a KDE desktop in Latvian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-lt)
+msgid ""
+"All the requirements for a KDE desktop in Lithanian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-nds)
+msgid ""
+"All the requirements for a KDE desktop in Low Saxon. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-nb)
+msgid ""
+"All the requirements for a KDE desktop in Norwegian Bokmål. This package "
+"contains application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-pl)
+msgid ""
+"All the requirements for a KDE desktop in Polish. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-pt)
+msgid ""
+"All the requirements for a KDE desktop in Portuguese. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-pa)
+msgid ""
+"All the requirements for a KDE desktop in Punjabi. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ro)
+msgid ""
+"All the requirements for a KDE desktop in Romanian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ru)
+msgid ""
+"All the requirements for a KDE desktop in Russian. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-sr)
+msgid ""
+"All the requirements for a KDE desktop in Serbian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-sk)
+msgid ""
+"All the requirements for a KDE desktop in Slovak. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-sl)
+msgid ""
+"All the requirements for a KDE desktop in Slovenian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-es)
+msgid ""
+"All the requirements for a KDE desktop in Spanish. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-sv)
+msgid ""
+"All the requirements for a KDE desktop in Swedish. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-tg)
+msgid ""
+"All the requirements for a KDE desktop in Tajik. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-th)
+msgid ""
+"All the requirements for a KDE desktop in Thai. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-tr)
+msgid ""
+"All the requirements for a KDE desktop in Turkish. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-uk)
+msgid ""
+"All the requirements for a KDE desktop in Uighur. This package contains "
+"application translations."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ug)
+msgid ""
+"All the requirements for a KDE desktop in Ukrainian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-wa)
+msgid ""
+"All the requirements for a KDE desktop in Walloon. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-zh_CN)
+msgid ""
+"All the requirements for a KDE desktop in simplified Chinese. This package "
+"contains application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-zh_TW)
+msgid ""
+"All the requirements for a KDE desktop in traditional Chinese. This package "
+"contains application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-nn)
+msgid ""
+"All the requirements for a KDE desktop is Nynorsk. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. summary(klettres)
+msgid "Alphabet Learning Game"
+msgstr ""
+
+#. description(jakarta-commons-httpclient)
+msgid ""
+"Although the java.net  package provides basic functionality for accessing "
+"resources via HTTP, it doesn't provide the full flexibility or functionality "
+"needed by many applications. The Jakarta Commons HttpClient component seeks "
+"to fill this void by providing an efficient, up-to-date, and feature-rich "
+"package implementing the client side of the most recent HTTP standards and "
+"recommendations.\n"
+"\n"
+"Designed for extension while providing robust support for the base HTTP "
+"protocol, the HttpClient component may be of interest to anyone building "
+"HTTP-aware client applications such as web browsers, web service clients, or "
+"systems that leverage or extend the HTTP protocol for distributed "
+"communication."
+msgstr ""
+
+#. summary(kismet)
+msgid "An 802.11 Wireless Network Sniffer"
+msgstr ""
+
+#. summary(aalib:libaa1)
+msgid "An ASCII Art Library"
+msgstr ""
+
+#. summary(libgnomecanvas:libgnomecanvas-2-0)
+msgid "An Add-On for the GNOME User Interface Libraries"
+msgstr ""
+
+#. summary(audiofile:libaudiofile1)
+msgid "An Audio File Library"
+msgstr ""
+
+#. summary(libexif:libexif-devel)
+msgid "An EXIF Tag Parsing Library for Digital Cameras (Development files)"
+msgstr ""
+
+#. description(krusader)
+msgid "An advanced twin panel (commander style) file manager for KDE."
+msgstr ""
+
+#. description(jakarta-commons-el)
+msgid ""
+"An implementation of standard interfaces and abstract classes for javax."
+"servlet.jsp.el, which is part of the JSP 2.0 specification."
+msgstr ""
+
+#. description(kdevelop4)
+msgid ""
+"An integrated development environment (IDE) that allows you to write "
+"programs for the X Window System, the Qt library, or KDE. It includes a "
+"documentation browser, a source code editor with syntax highlighting, a GUI "
+"for the compiler, and much more."
+msgstr ""
+
+#. summary(kanagram)
+msgid "Anagram Game"
+msgstr ""
+
+#. summary(libapr-util1)
+msgid "Apache Portable Runtime (APR) Library"
+msgstr ""
+
+#. summary(exo:libexo-1-0)
+msgid "Application Development Library for Xfce"
+msgstr ""
+
+#. summary(libdlm)
+msgid "Application interface to the kernel's distributed lock manager"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ar)
+msgid "Arabic (ar) translations for KDE"
+msgstr ""
+
+#. description(avahi:libavahi-devel)
+msgid ""
+"Avahi is an implementation the DNS Service Discovery and Multicast DNS "
+"specifications for Zeroconf Computing. It uses D-BUS for communication "
+"between user applications and a system daemon. The daemon is used to "
+"coordinate application efforts in caching replies, necessary to minimize the "
+"traffic imposed on networks.\n"
+"\n"
+"The Avahi mDNS responder is now feature complete implementing all MUSTs and "
+"the majority of the SHOULDs of the mDNS/DNS-SD RFCs. It passes all tests in "
+"the Apple Bonjour conformance test suite. In addition it supports some nifty "
+"things that have never been seen elsewhere like correct mDNS reflection "
+"across LAN segments."
+msgstr ""
+
+#. summary(kdegames4:kbounce)
+msgid "Ball bouncing game"
+msgstr ""
+
+#. summary(kdevplatform)
+msgid "Base Package for Integrated Development Environments"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-eu)
+msgid "Basque (eu) translations for KDE"
+msgstr ""
+
+#. summary(libdb-4_5)
+msgid "Berkeley DB Database Library Version 4.5"
+msgstr ""
+
+#. summary(libgda:libgda-5_0-bdb)
+msgid "Berkeley DB Provider for GNU Data Access (GDA)"
+msgstr ""
+
+#. summary(kdegames4:kblackbox)
+msgid "Blackbox logic game"
+msgstr ""
+
+#. summary(boost:libboost_date_time1_49_0)
+msgid "Boost::Date.Time Runtime libraries"
+msgstr ""
+
+#. summary(boost:libboost_filesystem1_49_0)
+msgid "Boost::Filesystem Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_graph1_49_0)
+msgid "Boost::Graph Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_iostreams1_49_0)
+msgid "Boost::IOStreams Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_mpi1_49_0)
+msgid "Boost::MPI Runtime libraries"
+msgstr ""
+
+#. summary(boost:libboost_math1_49_0)
+msgid "Boost::Math Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_python1_49_0)
+msgid "Boost::Python Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_serialization1_49_0)
+msgid "Boost::Serialization Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_signals1_49_0)
+msgid "Boost::Signals Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_system1_49_0)
+msgid "Boost::System Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_test1_49_0)
+msgid "Boost::Test Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_thread1_49_0)
+msgid "Boost::Thread Runtime Libraries"
+msgstr ""
+
+#. summary(boost:libboost_wave1_49_0)
+msgid "Boost::Wave Runtime Libraries"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-bs)
+msgid "Bosnian (bs) translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-pt_BR-data)
+msgid "Brazilian (pt_BR) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-pt_BR-doc)
+msgid "Brazilian (pt_BR) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-pt_BR)
+msgid "Brazilian (pt_BR) translations for KDE"
+msgstr ""
+
+#. summary(kdegames4:kbreakout)
+msgid "Breakout-like game for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-en_GB-data)
+msgid "British English (en_GB) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-en_GB-doc)
+msgid "British English (en_GB) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-en_GB)
+msgid "British English (en_GB) translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-bg)
+msgid "Bulgarian (bg) translations for KDE"
+msgstr ""
+
+#. summary(gconfmm:libgconfmm-2_6-1)
+msgid "C++ Interface for GConf"
+msgstr ""
+
+#. summary(libglademm)
+msgid "C++ Interface for libglade (Part of GNOME Project)"
+msgstr ""
+
+#. summary(libcppunit-1_12-0)
+msgid "C++ Port of the JUnit Testing Framework"
+msgstr ""
+
+#. summary(gdlmm:libgdlmm-3_0-1)
+msgid "C++ interface for gdl"
+msgstr ""
+
+#. summary(i4l-base:libcapi20-3)
+msgid "CAPI 2.0 library"
+msgstr ""
+
+#. summary(libcdio:libcdio++0)
+msgid "CD-ROM Access Library"
+msgstr ""
+
+#. summary(libcdio:libcdio-devel)
+msgid "CD-ROM access library"
+msgstr ""
+
+#. summary(k3b)
+msgid "CD/DVD/Blu-ray Burning Application for KDE"
+msgstr ""
+
+#. summary(celt051:libcelt051-0)
+msgid "CELT is a very low delay audio codec"
+msgstr ""
+
+#. description(celt051:libcelt051-0)
+msgid ""
+"CELT is a very low delay audio codec designed for high-quality "
+"communications. Its potential uses include video-conferencing and network "
+"music performance."
+msgstr ""
+
+#. description(cfitsio:libcfitsio0)
+msgid ""
+"CFITSIO is a library of C and Fortran subroutines for reading and writing "
+"data files in FITS (Flexible Image Transport System) data format. CFITSIO "
+"provides simple high-level routines for reading and writing FITS files that "
+"insulate the programmer from the internal complexities of the FITS format. "
+"CFITSIO also provides many advanced features for manipulating and filtering "
+"the information in FITS files."
+msgstr ""
+
+#. description(chmlib:libchm0)
+msgid "CHMLIB is a library for dealing with Microsoft ITSS/CHM format files."
+msgstr ""
+
+#. description(clucene-core:libclucene-contribs-lib1)
+msgid ""
+"CLucene is a C++ port of Lucene. It is a high-performance, full-featured "
+"text search engine written in C++. CLucene is faster than lucene as it is "
+"written in C++.\n"
+"\n"
+"This package contains language specific text analyzers for clucene."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ca)
+msgid "Catalan (ca) translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-zh_CN)
+msgid "Chinese simplified (zh_CN) translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-zh_TW)
+msgid "Chinese traditional (zh_TW) translations for KDE"
+msgstr ""
+
+#. summary(kdegames4:kblocks)
+msgid "Classic falling blocks game"
+msgstr ""
+
+#. description(khangman)
+msgid "Classical hangman game for KDE"
+msgstr ""
+
+#. summary(evolution-groupwise:libegroupwise-1_2-13)
+msgid "Client Library for Accessing a GroupWise POA"
+msgstr ""
+
+#. description(kradio)
+msgid ""
+"Comfortable V4L/V4L2-Radio Application for KDE.\n"
+"\n"
+"KRadio is a comfortable radio application for KDE with support for V4L and "
+"V4L2 radio cards drivers.\n"
+"\n"
+"KRadio currently provides:\n"
+"* V4L/V4L2 Radio support\n"
+"* RDS support\n"
+"* PVR support\n"
+"* Remote Control support (LIRC)\n"
+"* Alarms, Sleep Countdown\n"
+"* Several GUI Controls (Docking Menu, Station Quickbar, Radio Display)\n"
+"* Timeshifter Capability\n"
+"* Recording Capabilities (mp3, ogg/vorbis, wav, ...)\n"
+"* Extendable Plugin Architecture\n"
+"\n"
+"This Package also includes a growing collection of station preset files for "
+"many cities around the world contributed by KRadio Users.\n"
+"\n"
+"As KRadio is based on an extendable plugin architecture, contributions of "
+"new plugins (e.g. Internet Radio Streams, new cool GUIs) are welcome."
+msgstr ""
+
+#. summary(libcacard:libcacard0)
+msgid "Common Access Card (CAC) emulation"
+msgstr ""
+
+#. summary(jakarta-commons-io)
+msgid "Commons IO Package"
+msgstr ""
+
+#. description(jakarta-commons-io)
+msgid ""
+"Commons-IO contains utility classes, stream implementations, file filters, "
+"and endian classes."
+msgstr ""
+
+#. description(jakarta-commons-launcher)
+msgid ""
+"Commons-launcher eliminates the need for a batch or shell script to launch a "
+"Java class. Some situations where elimination of a batch or shell script may "
+"be desirable are:\n"
+"\n"
+"* You want to avoid having to determining where certain application    paths "
+"are, for example, your application's home directory.    Determining this "
+"dynamically in a Windows batch script is very    tricky on some versions of "
+"Windows or when softlinks are used on    Unix platforms.\n"
+"\n"
+"* You want to avoid having to handle native file and path separators    or "
+"native path quoting issues.\n"
+"\n"
+"* You need to enforce certain system properties, such as    java.endorsed."
+"dirs when running with JDK 1.4.\n"
+"\n"
+"* You want to allow users to pass custom JVM arguments or system    "
+"properties without having to parse and reorder arguments in your    script. "
+"This can be tricky or messy in batch and shell scripts.\n"
+"\n"
+"* You want to bootstrap system properties from a configuration file    "
+"instead of hard-coding them in your batch and shell scripts.\n"
+"\n"
+"* You want to provide localized error messages, which is very tricky to    "
+"do in batch and shell scripts."
+msgstr ""
+
+#. summary(kdegames4:ksquares)
+msgid "Connect the dots to create squares"
+msgstr ""
+
+#. description(cpupower:libcpupower0)
+msgid ""
+"Contains libcpupower and soon possibly other CPU power related C libraries."
+msgstr ""
+
+#. summary(ktimer)
+msgid "Countdown Launcher"
+msgstr ""
+
+#. description(ktimer)
+msgid "Countdown launching tool for KDE"
+msgstr ""
+
+#. description(libcppunit-1_12-0)
+msgid ""
+"CppUnit is the C++ port of the famous JUnit framework for unit testing. Test "
+"output is in XML for automatic testing and GUI based for supervised tests."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-hr)
+msgid "Croatian (hr) translations for KDE"
+msgstr ""
+
+#. summary(kdeadmin4:kcron)
+msgid "Cron job configuration tool"
+msgstr ""
+
+#. description(curl:libcurl-devel)
+msgid ""
+"Curl is a client to get documents and files from or send documents to a "
+"server using any of the supported protocols (HTTP, HTTPS, FTP, GOPHER, DICT, "
+"TELNET, LDAP, or FILE). The command is designed to work without user "
+"interaction or any kind of interactivity."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-cs)
+msgid "Czech (cs) translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-da-data)
+msgid "Danish (da) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-da-doc)
+msgid "Danish (da) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-da)
+msgid "Danish (da) translations for KDE"
+msgstr ""
+
+#. description(dar:libdar-4)
+msgid ""
+"Dar stands for Disk ARchive and is a hardware independent backup solution. "
+"Dar uses catalogs (unlike tar), so it is possible to extract a single file "
+"without having to read the whole archive, and it is also possible to create "
+"incremental backups.\n"
+"\n"
+"Dar archives can also be created, or used, via the libdar library (for "
+"example with KDar, a KDE application).\n"
+"\n"
+"This package contains the library used by Dar and KDar."
+msgstr ""
+
+#. summary(libgarcon:libgarcon-data)
+msgid "Data Files for garcon"
+msgstr ""
+
+#. summary(lensfun:lensfun-data)
+msgid "Data files for lensfun/lensfun-devel"
+msgstr ""
+
+#. summary(libdbi:libdbi0)
+msgid "Database Independent Abstraction Layer for C"
+msgstr ""
+
+#. summary(kstars)
+msgid "Desktop Planetarium"
+msgstr ""
+
+#. summary(libdvdread:libdvdread-devel)
+msgid "Development Environment for libdvdread"
+msgstr ""
+
+#. summary(libdb-4_8:libdb-4_8-devel)
+msgid "Development Files and Libraries for the Berkeley DB library Version 4.8"
+msgstr ""
+
+#. summary(libdb-4_5:libdb-4_5-devel)
+msgid ""
+"Development Files and Libraries for the old Berkeley DB library Version 4.5"
+msgstr ""
+
+#. summary(libaio:libaio-devel)
+msgid "Development Files for Linux-native Asynchronous I/O Access"
+msgstr ""
+
+#. summary(libalkimia:libalkimia-devel)
+msgid "Development Files for libalkimia"
+msgstr ""
+
+#. summary(exiv2:libexiv2-devel)
+msgid "Development Headers for Exiv2"
+msgstr ""
+
+#. description(attica:libattica-devel)
+msgid ""
+"Development files for attica, Attica a library to access Open Collaboration "
+"Service servers."
+msgstr ""
+
+#. summary(libarchive:libarchive-devel)
+msgid "Development files for libarchive"
+msgstr ""
+
+#. summary(e2fsprogs:libcom_err-devel)
+msgid "Development files for libcom_err"
+msgstr ""
+
+#. summary(e2fsprogs:libext2fs-devel)
+msgid "Development files for libext2fs"
+msgstr ""
+
+#. description(e2fsprogs:libext2fs-devel)
+msgid "Development files for libext2fs."
+msgstr ""
+
+#. summary(libdmx:libdmx-devel)
+msgid "Development files for the Distributed Multihead X extension library"
+msgstr ""
+
+#. summary(Mesa:libgbm-devel)
+msgid "Development files for the EGL API"
+msgstr ""
+
+#. summary(libFS:libFS-devel)
+msgid "Development files for the X Font Service client library"
+msgstr ""
+
+#. summary(libfontenc:libfontenc-devel)
+msgid "Development files for the X11 font encoding library"
+msgstr ""
+
+#. description(e2fsprogs:libcom_err-devel)
+msgid "Development files for the com_err error message display library."
+msgstr ""
+
+#. summary(util-linux:libblkid-devel)
+msgid "Development files for the filesystem detection library"
+msgstr ""
+
+#. summary(kernel-default:kernel-default-devel)
+msgid "Development files necessary for building kernel modules"
+msgstr ""
+
+#. summary(kernel-source:kernel-devel)
+msgid "Development files needed for building kernel modules"
+msgstr ""
+
+#. description(libfli:libfli-devel)
+msgid "Development headers and files for Finger Lakes Instruments library."
+msgstr ""
+
+#. summary(apparmor:libapparmor-devel)
+msgid "Development headers and libraries for libapparmor"
+msgstr ""
+
+#. summary(libfli:libfli-devel)
+msgid "Development headers for Finger Lakes Instruments Library"
+msgstr ""
+
+#. summary(keyutils:keyutils-devel)
+msgid "Development package for building linux key management utilities"
+msgstr ""
+
+#. summary(libdbusmenu-qt:libdbusmenu-qt-devel)
+msgid "Development package for libdbusmenu-qt"
+msgstr ""
+
+#. summary(dtc:libfdt1)
+msgid "Device tree library"
+msgstr ""
+
+#. summary(kasumi)
+msgid "Dictionary Tool for Anthy"
+msgstr ""
+
+#. summary(kdesdk4:kdesdk4-strigi)
+msgid "Diff and translation indexing for strigi"
+msgstr ""
+
+#. summary(fftw3:libfftw3_threads3)
+msgid "Discrete Fourier Transform (DFT) C subroutine library"
+msgstr ""
+
+#. summary(kdf)
+msgid "Disk Usage Viewer"
+msgstr ""
+
+#. description(lensfun:lensfun-doc)
+msgid "Documentation and manual files for the lensfun library/database."
+msgstr ""
+
+#. summary(kdelibs4:kdelibs4-doc)
+msgid "Documentation for KDE Base Libraries"
+msgstr ""
+
+#. summary(lensfun:lensfun-doc)
+msgid "Documentation for lensfun"
+msgstr ""
+
+#. summary(ivtv)
+msgid "Driver Implementation for iCompression or Conexant Video Capture Cards"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-nl-data)
+msgid "Dutch (nl) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-nl-doc)
+msgid "Dutch (nl) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-nl)
+msgid "Dutch (nl) translations for KDE"
+msgstr ""
+
+#. summary(babl:libbabl-0_1-0)
+msgid "Dynamic Pixel Format Translation Library"
+msgstr ""
+
+#. summary(audit:libauparse0)
+msgid "Dynamic library for libauparse"
+msgstr ""
+
+#. summary(libao:libao-plugin4-esd)
+msgid "ESD output plugin for libao"
+msgstr ""
+
+#. description(libeigen2-devel)
+msgid ""
+"Eigen is a lightweight C++ template library for vector and matrix math, a.k."
+"a. linear algebra."
+msgstr ""
+
+#. summary(esound:libesd-devel)
+msgid "EsounD development package"
+msgstr ""
+
+#. description(esound:libesd-devel)
+msgid "EsounD development package."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-et-data)
+msgid "Estonian (et) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-et-doc)
+msgid "Estonian (et) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-et)
+msgid "Estonian (et) translations for KDE"
+msgstr ""
+
+#. summary(kbruch)
+msgid "Excercise Fractions"
+msgstr ""
+
+#. description(exiv2:libexiv2-devel)
+msgid ""
+"Exiv2 is a C++ library and a command line utility to access image metadata."
+msgstr ""
+
+#. description(exo:libexo-1-0)
+msgid ""
+"Exo is an extension library to Xfce which is targeted at application "
+"development."
+msgstr ""
+
+#. description(libeXosip2:libeXosip2-6)
+msgid "Extended library for the osip2 protocol."
+msgstr ""
+
+#. summary(libeXosip2:libeXosip2-6)
+msgid "Extended osip2 library"
+msgstr ""
+
+#. summary(fltk:libfltk1)
+msgid "FLTK Library"
+msgstr ""
+
+#. description(ftgl:libftgl2)
+msgid ""
+"FTGL is a free open source library that enables developers to use arbitrary "
+"fonts in their OpenGL (www.opengl.org) applications.\n"
+"\n"
+"Unlike other OpenGL font libraries, FTGL uses standard font file formats, so "
+"there is no need of a preprocessing step to convert the high quality font "
+"data into a lesser quality, proprietary format.\n"
+"\n"
+"FTGL uses the Freetype (www.freetype.org) font library to open and 'decode' "
+"the fonts. It then takes that output and stores it in a format that is most "
+"efficient for OpenGL rendering.\n"
+"\n"
+"The supported rendering modes are:\n"
+"\n"
+"- Bit maps\n"
+"\n"
+"- Antialiased Pix maps\n"
+"\n"
+"- Outlines\n"
+"\n"
+"- Polygon meshes\n"
+"\n"
+"- Extruded polygon meshes\n"
+"\n"
+"- Texture maps\n"
+"\n"
+"- Buffer maps"
+msgstr ""
+
+#. summary(libgcj47:libgcj_bc47)
+msgid "Fake library for BC-ABI compatibility."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-fa)
+msgid "Farsi (Persian) (fa) translations for KDE"
+msgstr ""
+
+#. summary(jakarta-commons-httpclient)
+msgid "Feature rich package for accessing resources via HTTP"
+msgstr ""
+
+#. description(k3b)
+msgid ""
+"Featuring a simple, yet powerful graphical interface, k3b provides various "
+"options for burning a CD, DVD, or BD (Blu-ray disc). Various types of "
+"optical projects are supported including (but not limited to) audio and "
+"data, video projects for DVD and VCD, as well as multi-session and mixed-"
+"mode discs. k3b also has the ability to erase re-writeable media and can "
+"perform more complicated tasks such as audiovisual encoding and decoding."
+msgstr ""
+
+#. description(kate:kate-devel)
+msgid "Files needed for development of Kate plugins."
+msgstr ""
+
+#. description(util-linux:libblkid-devel)
+msgid ""
+"Files needed to develop applications using the library for filesystem "
+"detection."
+msgstr ""
+
+#. summary(kakasi)
+msgid "Filter to Convert Kanji Characters to Hiragana, Katakana, or Romaji"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-fi)
+msgid "Finish (fi) translations for KDE"
+msgstr ""
+
+#. summary(kfloppy)
+msgid "Floppy Formatter"
+msgstr ""
+
+#. summary(khmeros-fonts)
+msgid "Fonts for the Khmer language of Cambodia"
+msgstr ""
+
+#. summary(libffi47:libffi47-devel)
+msgid "Foreign Function Interface library development files"
+msgstr ""
+
+#. description(freerdp:libfreerdp-1_0)
+msgid ""
+"FreeRDP is a client-side implementation of the Remote Desktop Protocol (RDP) "
+"following the Microsoft Open Specifications. This package provides the "
+"shared library."
+msgstr ""
+
+#. description(freeglut:libglut3)
+msgid ""
+"Freeglut is a completely open source alternative to the OpenGL Utility "
+"Toolkit (GLUT) library. GLUT was originally written by Mark Kilgard to "
+"support the sample programs in the second edition OpenGL Redbook. Since "
+"then, GLUT has been used in a wide variety of practical applications because "
+"it is simple, universally available, and highly portable.\n"
+"\n"
+"GLUT (and freeglut) allow the user to create and manage windows containing "
+"OpenGL contexts and also read the mouse, keyboard, and joystick functions on "
+"a wide range of platforms."
+msgstr ""
+
+#. summary(freeglut:libglut3)
+msgid "Freely licensed alternative to the GLUT library"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-fr-data)
+msgid "French (fr) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-fr-doc)
+msgid "French (fr) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-fr)
+msgid "French (fr) translations for KDE"
+msgstr ""
+
+#. summary(kdesdk4:kcachegrind)
+msgid "Frontend for Cachegrind"
+msgstr ""
+
+#. summary(kdegames4:kdegames4-carddecks-other)
+msgid "Further Card Decks for KDE Games"
+msgstr ""
+
+#. description(glib2:libgio-fam)
+msgid ""
+"GLib is a general-purpose utility library, which provides many useful data "
+"types, macros, type conversions, string utilities, file utilities, a main "
+"loop abstraction, and so on.\n"
+"\n"
+"This packages provides a GIO module to use FAM for file monitoring."
+msgstr ""
+
+#. summary(libgda3:libgda-3_0-3)
+msgid "GNU Data Access (GDA) Library"
+msgstr ""
+
+#. summary(libgda:libgda-ui-5_0-plugins)
+msgid "GNU Data Access (GDA) Library - Plugins for UI Widgets"
+msgstr ""
+
+#. summary(libgda:libgda-ui-5_0-4)
+msgid "GNU Data Access (GDA) Library - UI Widgets"
+msgstr ""
+
+#. description(libgda3:libgda-3_0-3)
+msgid ""
+"GNU Data Access (GDA) is an attempt to provide uniform access to different "
+"kinds of data sources (databases, information servers, mail spools, and "
+"more). It is a complete architecture that provides all you need to access "
+"your data. It is defined by a set of CORBA interfaces that are as generic as "
+"possible (but very powerful at the same time) so that any kind of data "
+"source can be accessed through them."
+msgstr ""
+
+#. description(libgda:libgda-5_0-4)
+msgid ""
+"GNU Data Access (GDA) is an attempt to provide uniform access to different "
+"kinds of data sources (databases, information servers, mail spools, etc). It "
+"is a complete architecture that provides everything needed to access data."
+msgstr ""
+
+#. summary(libfm:libfm-gtk1)
+msgid "GTK libfm libraries"
+msgstr ""
+
+#. description(libfm:libfm-gtk1)
+msgid "GTK libfm libraries for development"
+msgstr ""
+
+#. summary(kdegames4:konquest)
+msgid "Galactic strategy game"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-gl)
+msgid "Galician (gl) translations for KDE"
+msgstr ""
+
+#. description(libgarcon:libgarcon-1-0)
+msgid ""
+"Garcon is a library based on GLib and GIO which implements the freedesktop."
+"org Desktop Menu Specification. It is the sucessor to libxfce4menu and "
+"covers almost every part of the menu specification except for legacy menus "
+"and a few XML attributes. It is capable of loading menus modified with menu "
+"editors such as Alacarte and also supports merging."
+msgstr ""
+
+#. description(gavl:libgavl1)
+msgid ""
+"Gavl is short for Gmerlin Audio Video Library. It is a low level library, "
+"upon which multimedia APIs can be built. Gavl handles all the details of "
+"audio and video formats like colorspaces, samplerates, multichannel "
+"configurations etc. It provides standardized definitions for those formats "
+"as well as container structures for carrying audio samples or video images "
+"inside an application.\n"
+"\n"
+"In addition, it handles the sometimes ugly task to convert between all these "
+"formats and provides some elementary operations (copying, scaling, alpha"
+msgstr ""
+
+#. summary(glib2:libgio-fam)
+msgid "General-Purpose Utility Library -- GIO Module to use FAM"
+msgstr ""
+
+#. summary(libgmm++-devel)
+msgid "Generic C++ template library for sparse, dense and skyline matrices"
+msgstr ""
+
+#. description(GeoIP:libGeoIP1)
+msgid ""
+"GeoIP is a C library that enables the user to find the country that any IP "
+"address or hostname originates from.  It uses a file based database. This "
+"database simply contains IP blocks as keys, and countries as values.  This "
+"database should be more complete and accurate than using reverse DNS "
+"lookups.\n"
+"\n"
+"MaxMind offers a service where you can have your database updated "
+"automically each month.\n"
+"\n"
+"This package holds the shared libraries for GeoIP."
+msgstr ""
+
+#. summary(kgeography)
+msgid "Geography Trainer"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-de-data)
+msgid "German (de) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-de-doc)
+msgid "German (de) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-de)
+msgid "German (de) translations for KDE"
+msgstr ""
+
+#. summary(gitg:libgitg-1_0-0)
+msgid "Git repository viewer -- Library"
+msgstr ""
+
+#. summary(gdl:libgdl-3-2)
+msgid "Gnome Devtool Libraries"
+msgstr ""
+
+#. description(gdl:libgdl-3-2)
+msgid ""
+"Gnome Devtool Libraries contains components and libraries that are intended "
+"to be shared between GNOME development tools, including gnome-debug, gnome-"
+"build, and anjuta2."
+msgstr ""
+
+#. summary(kdbg)
+msgid "Graphical User Interface for GDB"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-el)
+msgid "Greek (el) translations for KDE"
+msgstr ""
+
+#. summary(kdewebdev4:kimagemapeditor)
+msgid "HTML Image Map Editor"
+msgstr ""
+
+#. summary(khangman)
+msgid "Hangman Game"
+msgstr ""
+
+#. summary(itcl:itcl-devel)
+msgid "Header Files and C API Documentation for Itcl"
+msgstr ""
+
+#. description(lensfun:lensfun-devel)
+msgid ""
+"Header and library definition files for developing applications that use the "
+"lensfun library/database."
+msgstr ""
+
+#. summary(lensfun:lensfun-devel)
+msgid "Header and library definition files for lensfun"
+msgstr ""
+
+#. summary(libcap-ng:libcap-ng-devel)
+msgid "Header files for libcap-ng library"
+msgstr ""
+
+#. summary(ebook-tools:libepub-devel)
+msgid "Header files for libepub library"
+msgstr ""
+
+#. description(ebook-tools:libepub-devel)
+msgid "Header files for the libepub library"
+msgstr ""
+
+#. summary(cfitsio:libcfitsio-devel)
+msgid "Headers required when building programs against cfitsio library"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-he)
+msgid "Hebrew (he) translations for KDE"
+msgstr ""
+
+#. description(klettres)
+msgid "Helps to learn the alphabet and read some syllables"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-hu)
+msgid "Hungarian (hu) translations for KDE"
+msgstr ""
+
+#. summary(kdegames4:kgoldrunner)
+msgid "Hunt gold, dodge enemies & solve puzzles"
+msgstr ""
+
+#. summary(imap:libc-client2007e_suse)
+msgid "IMAP4rev1/c-client Development Environment"
+msgstr ""
+
+#. description(itstool)
+msgid ""
+"ITS Tool extracts messages from XML files and outputs PO template files, "
+"then merges translations from MO files to create translated XML files. It "
+"determines what to translate and how to chunk it into messages using the W3C "
+"Internationalization Tag Set (ITS)."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-is)
+msgid "Icelandic (is) translations for KDE"
+msgstr ""
+
+#. summary(latex2html:latex2html-pngicons)
+msgid "Icons in the PNG format for the LaTeX to HTML Converter"
+msgstr ""
+
+#. description(latex2html:latex2html-pngicons)
+msgid "Icons in the PNG format for the LaTeX to HTML Converter."
+msgstr ""
+
+#. summary(libbonobo:libbonobo-devel)
+msgid "Include Files and Libraries mandatory for Development."
+msgstr ""
+
+#. summary(libbonoboui:libbonoboui-devel)
+msgid "Include files and libraries mandatory for development with libbonoboui"
+msgstr ""
+
+#. description(itcl:itcl-devel)
+msgid ""
+"Incr Tcl adds object-oriented programming facilities to Tcl.\n"
+"\n"
+"This package contains header files and documentation needed to access [Incr "
+"Tcl] from C code. Tcl scripts that use [Incr Tcl] do not need this package."
+msgstr ""
+
+#. description(itcl)
+msgid ""
+"Incr Tcl adds object-oriented programming facilities to Tcl.  It was NOT "
+"designed as another whiz-bang, object-oriented programming language. It is "
+"patterned somewhat after C++.  It was designed to support more structured "
+"programming in Tcl.  Scripts that grow beyond a few thousand lines become "
+"extremely difficult to maintain. [incr Tcl] attacks this problem in the same "
+"way that any object- oriented programming language would, by providing "
+"mechanisms for data encapsulation behind well-defined interfaces."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-id)
+msgid "Indonesian (id) translations for KDE"
+msgstr ""
+
+#. summary(kdenetwork4:kopete)
+msgid "Instant Messenger"
+msgstr ""
+
+#. summary(kdevelop4)
+msgid ""
+"Integrated Development Environment for the X Window System, Qt, KDE, and "
+"GNOME"
+msgstr ""
+
+#. summary(kdevelop4:kdevelop4-devel)
+msgid "Integrated Development Environment: Build Environment"
+msgstr ""
+
+#. summary(libchewing)
+msgid "Intelligent Phonetic Input Method Library for Traditional Chinese"
+msgstr ""
+
+#. description(libchewing)
+msgid "Intelligent phonetic input method library for traditional Chinese."
+msgstr ""
+
+#. summary(kig)
+msgid "Interactive Geometry"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ia)
+msgid "Interlingua (ia) translations for KDE"
+msgstr ""
+
+#. summary(kdenetwork4:kppp)
+msgid "Internet Dial-Up Tool"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ga)
+msgid "Irish Gaelic (ga) translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-it-data)
+msgid "Italian (it) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-it-doc)
+msgid "Italian (it) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-it)
+msgid "Italian (it) translations for KDE"
+msgstr ""
+
+#. description(jdepend)
+msgid ""
+"JDepend traverses a set of Java class and source file directories and "
+"generates design quality metrics for each Java package. JDepend allows you "
+"to automatically measure the quality of a design in terms of its "
+"extensibility, reusability, and maintainability to effectively manage and "
+"control package dependencies."
+msgstr ""
+
+#. description(jline)
+msgid ""
+"JLine is a java library for reading and editing user input in console "
+"applications. It features tab-completion, command history, password masking, "
+"customizable keybindings, and pass-through handlers to use to chain to other "
+"console applications."
+msgstr ""
+
+#. description(joe)
+msgid ""
+"JOE (Joe's Own Editor) is a freeware ASCII editor for UNIX. Joe is similar "
+"to most IBM PC text editors. The keyboard combinations are similar to "
+"WordStar[tm] and Turbo C. Some of Joe's features include:\n"
+"\n"
+"-full support of termcap and terminfo (useful for device-independent "
+"descriptions to control screen output) -optimized screen refresh like GNU "
+"Emacs (Joe can even be used at 2400 baud) -easy installation with all "
+"features for UNIX integration with vi: a marked block of text can be "
+"filtered through a UNIX command and wherever JOE accepts a filename "
+"parameter, the following can also be substituted:\n"
+"\n"
+"!command\\t\\t:to redirect from or to another command\n"
+"\n"
+">>filename\\t\\t:to append onto an existing file\n"
+"\n"
+"filename,start,size\\t:to edit a part of a file or device\n"
+"\n"
+"-\\t\\t\\t:to use standard input/output\n"
+"\n"
+"When JOE has several files opened at the same time, each file is displayed "
+"in its own window. Additionally, JOE allows for shell windows from which the "
+"output of the executed commands are saved in a buffer, automatic filename "
+"completion (via TAB), help windows, undo and redo, and search and replace "
+"using regular expressions."
+msgstr ""
+
+#. summary(java-1_5_0-gcj-compat)
+msgid "JPackage Runtime Scripts for GCJ"
+msgstr ""
+
+#. summary(jpackage-utils)
+msgid "JPackage Utilities"
+msgstr ""
+
+#. summary(java-1_5_0-gcj-compat:java-1_5_0-gcj-compat-devel)
+msgid "JPackage development scripts for GCJ"
+msgstr ""
+
+#. description(json-glib:json-glib-devel)
+msgid ""
+"JSON is a lightweight data-interchange format.It is easy for humans to read "
+"and write. It is easy for machines to parse and generate.\n"
+"\n"
+"JSON-GLib provides a parser and a generator GObject classes and various "
+"wrappers for the complex data types employed by JSON, such as arrays and "
+"objects.\n"
+"\n"
+"JSON-GLib uses GLib native data types and the generic value container GValue "
+"for ease of development. It also provides integration with the GObject "
+"classes for direct serialization into, and deserialization from, JSON data "
+"streams.\n"
+"\n"
+"This package contains development files needed to develop with the json-glib "
+"library."
+msgstr ""
+
+#. description(junit)
+msgid ""
+"JUnit is a regression testing framework written by Erich Gamma and Kent "
+"Beck. It is used by the developer who implements unit tests in Java. JUnit "
+"is open source software, released under the IBM Public License and hosted on "
+"SourceForge."
+msgstr ""
+
+#. summary(jakarta-commons-collections)
+msgid "Jakarta Commons Collections Package"
+msgstr ""
+
+#. summary(jakarta-commons-dbcp)
+msgid "Jakarta Commons DataBase Pooling Package"
+msgstr ""
+
+#. summary(jakarta-commons-digester)
+msgid "Jakarta Commons Digester Package"
+msgstr ""
+
+#. summary(jakarta-commons-discovery)
+msgid "Jakarta Commons Discovery"
+msgstr ""
+
+#. summary(jakarta-commons-fileupload)
+msgid "Jakarta Commons FileUpload Package"
+msgstr ""
+
+#. summary(jakarta-commons-lang)
+msgid "Jakarta Commons Lang Package"
+msgstr ""
+
+#. summary(jakarta-commons-modeler)
+msgid "Jakarta Commons Modeler Package"
+msgstr ""
+
+#. summary(jakarta-commons-pool)
+msgid "Jakarta Commons Pool Package"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ja)
+msgid "Japanese (ja) translations for KDE"
+msgstr ""
+
+#. summary(kiten)
+msgid "Japanese Reference/Study Tool"
+msgstr ""
+
+#. description(javacc)
+msgid ""
+"Java Compiler Compiler (JavaCC) is the most popular parser generator for use "
+"with Java applications. A parser generator is a tool that reads a grammar "
+"specification and converts it to a Java program that can recognize matches "
+"to the grammar. In addition to the parser generator itself, JavaCC provides "
+"other standard capabilities related to parser generation such as tree "
+"building (via a tool called JJTree included with JavaCC), actions, "
+"debugging, etc."
+msgstr ""
+
+#. summary(jdepend)
+msgid "Java Design Quality Metrics"
+msgstr ""
+
+#. summary(junit)
+msgid "Java Regression Test Package"
+msgstr ""
+
+#. summary(libgcj47)
+msgid "Java Runtime Library for gcc"
+msgstr ""
+
+#. summary(java-1_6_0-openjdk:java-1_6_0-openjdk-devel)
+msgid "Java SDK based on OpenJDK 6 and IcedTea 6"
+msgstr ""
+
+#. summary(jline)
+msgid "Java library for reading and editing user input in console applications"
+msgstr ""
+
+#. summary(java-1_6_0-openjdk)
+msgid "Java runtime environment based on OpenJDK 6 and IcedTea 6"
+msgstr ""
+
+#. summary(libgcj47:libgcj47-jar)
+msgid "Java runtime library (jar files)."
+msgstr ""
+
+#. description(jhead)
+msgid ""
+"Jhead is a command line utility for extracting digital camera settings from "
+"the EXIF format files used by many digital cameras. It handles the various "
+"confusing ways these can be expressed and displays them as F-stop, shutter "
+"speed, and more. It is also able to reduce the size of digital camera JPEG "
+"files without loss of information by deleting thumbnails that digital "
+"cameras put into the EXIF header."
+msgstr ""
+
+#. summary(kdemultimedia4:juk)
+msgid "Jukebox"
+msgstr ""
+
+#. description(kdemultimedia4:juk)
+msgid "Jukebox and music manager for KDE"
+msgstr ""
+
+#. description(kakasi)
+msgid ""
+"KAKASI is the language processing filter to convert Kanji characters to "
+"Hiragana, Katakana, or Romaji(1) and may be helpful for reading Japanese "
+"documents. The word-splitting patch is merged from version 2.3.0.\n"
+"\n"
+"The name \"KAKASI\" is the abbreviation of \"kanji kana simple inverter\" "
+"and the inverse of SKK \"simple kana kanji converter\" developed by Masahiko "
+"Sato at Tohoku University. Most entries of the kakasi dictionary are derived "
+"from the SKK dictionaries. If interested  in the naming of KAKASI, consult a "
+"Japanese-English dictionary.\n"
+"\n"
+"(1) \"Romaji\" is an alphabetical description of Japanese pronunciation."
+msgstr ""
+
+#. description(kalgebra)
+msgid "KAlgebra is a math expression solver and plotter."
+msgstr ""
+
+#. description(kdegames4:katomic)
+msgid ""
+"KAtomic is a thinking game where you have to form chemical molecules out of "
+"atoms. This is done with a nice graphical interface where you can move each "
+"atom in a labyrinth."
+msgstr ""
+
+#. description(kdegames4:kblackbox)
+msgid ""
+"KBlackbox is a game of hide and seek played on a grid of boxes where the "
+"computer has hidden several balls. The position of the hidden balls can be "
+"deduced by shooting beams into the box."
+msgstr ""
+
+#. description(kdegames4:kblocks)
+msgid ""
+"KBlocks is the KDE version of the classic falling blocks game. The idea is "
+"to stack the falling blocks to create horizontal lines without any gaps. "
+"When a line is completed it is removed, and more space is available in the "
+"play area. When there is not enough space for blocks to fall, the game is "
+"over."
+msgstr ""
+
+#. description(kdegames4:kbreakout)
+msgid ""
+"KBreakout is the KDE version of a Breakout-like game.  Its object is to "
+"destroy as many bricks as possible without losing the ball."
+msgstr ""
+
+#. description(kbruch)
+msgid "KBruch is an application to learn calculating with fractions."
+msgstr ""
+
+#. description(kdesdk4:kcachegrind)
+msgid "KCachegrind is a frontend for cachegrind."
+msgstr ""
+
+#. description(kdeadmin4:kcron)
+msgid "KCron allows you to change your cron jobs setup."
+msgstr ""
+
+#. summary(kepas)
+msgid "KDE Easy Publish and Share"
+msgstr ""
+
+#. description(kfloppy)
+msgid "KDE Floppy Disk Utility"
+msgstr ""
+
+#. summary(kremotecontrol)
+msgid "KDE Frontend for the Linux Infrared Remote Control system"
+msgstr ""
+
+#. summary(kdesdk4:kio_svn)
+msgid "KDE KIO-Slave for SVN"
+msgstr ""
+
+#. description(kdepim4:kjots)
+msgid "KDE Note Taking Utility"
+msgstr ""
+
+#. summary(digikam:kipi-plugins)
+msgid "KDE Plug-Ins for Image Manipulation"
+msgstr ""
+
+#. summary(digikam:kipi-plugins-acquireimage)
+msgid "KDE Plug-Ins for Image Manipulation - Acquireimage plugin"
+msgstr ""
+
+#. summary(digikam:kipi-plugins-geolocation)
+msgid "KDE Plug-Ins for Image Manipulation - Geolocation plugin"
+msgstr ""
+
+#. summary(kdesdk4:kde4-l10n-devel)
+msgid "KDE SDK Package"
+msgstr ""
+
+#. summary(kchmviewer)
+msgid "KDE chm Viewer (MS Windows Compressed HTML Documents)"
+msgstr ""
+
+#. description(kdf)
+msgid "KDE free disk space utility"
+msgstr ""
+
+#. summary(kiwi-config-openSUSE)
+msgid "KDE live CD"
+msgstr ""
+
+#. summary(kdemultimedia4:kdemultimedia4-thumbnailers)
+msgid "KDE thumbnails for multimedia files"
+msgstr ""
+
+#. description(kdetoys4:kteatime)
+msgid "KDE time utility for making a fine cup of tea"
+msgstr ""
+
+#. description(kdegames4:kollision)
+msgid ""
+"KDE version of a classic arcade game where you move a ball around to avoid "
+"colliding with bouncing balls."
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-decorations)
+msgid "KDE window decorations"
+msgstr ""
+
+#. description(kdbg)
+msgid ""
+"KDbg is a graphical user interface for GDB, the GNU debugger. It provides an "
+"intuitive interface for setting breakpoints, inspecting variables, and "
+"stepping through code."
+msgstr ""
+
+#. description(kdegames4:kdiamond)
+msgid ""
+"KDiamond is a single player puzzle game. The object of the game is to build "
+"lines of three similar diamonds."
+msgstr ""
+
+#. description(kdewebdev4:kfilereplace)
+msgid "KFileReplace is a batch search and replace tool."
+msgstr ""
+
+#. description(kgeography)
+msgid "KGeography is a geography learning program"
+msgstr ""
+
+#. description(kdegames4:kgoldrunner)
+msgid ""
+"KGoldrunner is a maze-threading game with a puzzle flavor. It has hundreds "
+"of levels where pieces of gold must be collected, with enemies in hot "
+"pursuit."
+msgstr ""
+
+#. description(kdegames4:kjumpingcube)
+msgid ""
+"KJumpingCube is a simple dice driven tactical game. The playing area "
+"consists of squares containing points. Players move by clicking on either a "
+"vacant square, or on their own square, in an attempt to increase their "
+"territory and ultimately take over the entire board."
+msgstr ""
+
+#. description(kdegames4:knetwalk)
+msgid ""
+"KNetWalk is a small game where you have to build up a computer network by "
+"rotating the wires to connect the terminals to the server. When the network "
+"is build, a highscore-list comes up where competitions can be fought out."
+msgstr ""
+
+#. description(kdepim4:knode)
+msgid "KNode is a usenet news reader for KDE."
+msgstr ""
+
+#. description(krename)
+msgid ""
+"KRename is a powerful batch renamer for KDE. It allows you to easily rename "
+"hundreds or even more files in one go. The filenames can be created by parts "
+"of the original filename, numbering the files or accessing hundreds of "
+"informations about the file, like creation date or Exif informations of an "
+"image."
+msgstr ""
+
+#. description(kdegames4:kspaceduel)
+msgid ""
+"KSpaceduel is a space arcade game for two players. However, one player can "
+"be controlled by the computer. Each player controls a satellite spaceship "
+"orbiting the sun. As the game progresses players have to eliminate the "
+"opponent's spacecraft with bullets or mines."
+msgstr ""
+
+#. description(kdegames4:ksquares)
+msgid ""
+"KSquares is a game modeled after the well known pen and paper based game of "
+"Dots and Boxes. Each player takes it in turns to draw a line between two "
+"adjacent dots on the board. The objective is to complete more squares than "
+"your opponents."
+msgstr ""
+
+#. description(kstars)
+msgid ""
+"KStars is a Desktop Planetarium for KDE. It provides an accurate graphical "
+"simulation of the night sky, from any location on Earth, at any date and "
+"time."
+msgstr ""
+
+#. description(kdepim4:ktimetracker)
+msgid "KTimeTracker tracks time spent on various tasks."
+msgstr ""
+
+#. description(kturtle)
+msgid "KTurtle is an educational Logo programming environment."
+msgstr ""
+
+#. description(kvm)
+msgid ""
+"KVM (Kernel-based Virtual Machine) is virtualization software for Linux. It "
+"is based on the hardware virtualization extensions provided by Intel VT and "
+"AMD-V technologies. KVM kernel modules provide a control interface at /dev/"
+"kvm which the qemu-kvm user-space program uses to provide a hybrid emulated "
+"and actual hardware environment sufficent to run various PC operating "
+"systems (guests) in unmodified form, including Linux, Windows, and Mac OS "
+"X.\n"
+"\n"
+"Since qemu-kvm is derived from the qemu processor emulator sources it also "
+"is able to run guests using processor emulation mode, but with the expected "
+"performance impact. Conversely, hardware virtualization features outside the "
+"processor such as iommu and sr-iov are used by KVM allowing for improved "
+"performance.\n"
+"\n"
+"The seabios, vgabios and ipxe open source projects are also pulled from to "
+"provide the firmware components included.\n"
+"\n"
+"To increase performance over emulated hardware devices virtio drivers are "
+"supported, and in the case of Windows, included.\n"
+"\n"
+"KVM is compatible with various VM management solutions, including libvirt, "
+"virt-manager and vm-install."
+msgstr ""
+
+#. description(kalzium)
+msgid "Kalzium shows a periodic table of the elements."
+msgstr ""
+
+#. description(kanagram)
+msgid "Kanagram is a letter order game."
+msgstr ""
+
+#. summary(kinput2)
+msgid "Kanji Input Server for the X Window System"
+msgstr ""
+
+#. description(kate)
+msgid "Kate is an advanced text editor for KDE."
+msgstr ""
+
+#. summary(jtools)
+msgid "Ken Lunde's Japanese Code Manipulation Tools"
+msgstr ""
+
+#. description(kepas)
+msgid ""
+"Kepas is a filetransfer Utility. Using DNSSD services it discovers buddies "
+"in your local LAN and lets you send files and klipper entries via plasmoid "
+"or trayicon."
+msgstr ""
+
+#. description(krb5:krb5-devel)
+msgid ""
+"Kerberos V5 is a trusted-third-party network authentication system, which "
+"can improve your network's security by eliminating the insecure practice of "
+"cleartext passwords. This package includes Libraries and Include Files for "
+"Development"
+msgstr ""
+
+#. summary(kernel-docs)
+msgid "Kernel Documentation"
+msgstr ""
+
+#. summary(ksymoops)
+msgid "Kernel Oops and Error Message Decoder"
+msgstr ""
+
+#. summary(kernel-syms)
+msgid "Kernel Symbol Versions (modversions)"
+msgstr ""
+
+#. description(kernel-syms)
+msgid ""
+"Kernel symbols, such as functions and variables, have version information "
+"attached to them. This package contains the symbol versions for the standard "
+"kernels.\n"
+"\n"
+"This package is needed for compiling kernel module packages with proper "
+"package dependencies.\n"
+"\n"
+" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: "
+"a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+msgstr ""
+
+#. summary(kvm)
+msgid "Kernel-based Virtual Machine"
+msgstr ""
+
+#. description(kernel-source:kernel-devel)
+msgid ""
+"Kernel-level headers and Makefiles required for development of external "
+"kernel modules.\n"
+"\n"
+" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: "
+"a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+msgstr ""
+
+#. description(kexec-tools)
+msgid ""
+"Kexec is a user space utility for loading another kernel and asking the "
+"currently running kernel to do something with it. A currently running kernel "
+"may be asked to start the loaded kernel on reboot, or to start the loaded "
+"kernel after it panics."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-kk)
+msgid "Khmer (km) translations for KDE"
+msgstr ""
+
+#. description(kig)
+msgid ""
+"Kig is an application for Interactive Geometry. It's intended to serve two "
+"purposes: Allow students to interactively explore mathematical figures and "
+"concepts using the computer. Serve as a WYSIWYG tool for drawing "
+"mathematical figures and including them in other documents."
+msgstr ""
+
+#. description(kinput2)
+msgid ""
+"Kinput2 is an input server for X Window System applications that require "
+"Japanese text input."
+msgstr ""
+
+#. summary(kiosktool)
+msgid "Kiosk Admin Tool"
+msgstr ""
+
+#. description(kdegames4:kiriki)
+msgid ""
+"Kiriki is an addictive and fun dice game, designed to be played by as many "
+"as six players. Participants have to collect points by rolling five dice for "
+"up to three times per single turn."
+msgstr ""
+
+#. description(kismet)
+msgid ""
+"Kismet is an 802.11 wireless network sniffer. This is different from a "
+"normal network sniffer (such as Ethereal or tcpdump) because it separates "
+"and identifies different wireless networks in the area. Kismet works with "
+"any 802.11b wireless card that is capable of reporting raw packets (rfmon "
+"support), which include any Prism2-based cards (Linksys, D-Link, Rangelan, "
+"and more), Cisco Aironet cards, and Orinoco-based cards. Kismet also "
+"supports the WSP100 802.11b remote sensor by Network Chemistry and is able "
+"to monitor 802.11a networks with cards that use the ar5k chipset."
+msgstr ""
+
+#. description(kiten)
+msgid "Kiten is a tool to learn Japanese."
+msgstr ""
+
+#. description(kdegames4:kolf)
+msgid ""
+"Kolf is a miniature golf game. The game is played from an overhead view, "
+"with a short bar representing the golf club. Kolf features many different "
+"types of objects, such water hazards, slopes, sand traps, and black holes "
+"(warps), among others."
+msgstr ""
+
+#. description(kdegames4:kolorlines)
+msgid ""
+"Kolor Lines is a simple but highly addictive one player game. The player has "
+"to move the colored balls around the game board, gathering them into the "
+"lines of the same color by five. Once the line is complete it is removed "
+"from the board, therefore freeing precious space. In the same time the new "
+"balls keep arriving by three after each move, filling up the game board."
+msgstr ""
+
+#. description(konversation)
+msgid ""
+"Konversation is a user-friendly Internet Relay Chat (IRC) client built on "
+"the KDE Platform.\n"
+"\n"
+"Features:\n"
+"\n"
+" Standard IRC features  SSL server support  Bookmarking support  Easy to use "
+"graphical user interface  Multiple servers and channels in one single "
+"window  DCC file transfer  Multiple identities for different servers  Text "
+"decorations and colors  OnScreen Display for notifications  Automatic UTF-8 "
+"detection  Per channel encoding support  Theme support for nick icons  "
+"Highly configurable"
+msgstr ""
+
+#. description(kdenetwork4:kopete)
+msgid "Kopete is the KDE instant messenger and supports multiple protocols."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ko)
+msgid "Korean (ko) translations for KDE"
+msgstr ""
+
+#. summary(ksh)
+msgid "Korn Shell"
+msgstr ""
+
+#. description(kremotecontrol)
+msgid ""
+"Kremotecontrol is a KDE frontend for the Linux Infrared Remote Control "
+"system."
+msgstr ""
+
+#. description(kdegames4:ksirk)
+msgid ""
+"KsirK is a computerized version of the well known strategic board game Risk. "
+"The goal of the game is simply to conquer the world by attacking your "
+"neighbors with your armies.\n"
+"\n"
+"The game can also be played with friends online via the internet."
+msgstr ""
+
+#. description(kdegames4:kubrick)
+msgid ""
+"Kubrick is a game based on the Rubik's Cube™ puzzle. The cube sizes range "
+"from 2x2x2 up to 6x6x6, or you can play with irregular \"bricks\" such as "
+"5x3x2 or \"mats\" such as 6x4x1 or 2x2x1. The game has a selection of "
+"puzzles at several levels of difficulty, as well as demos of pretty patterns "
+"and solution moves, or you can make up your own puzzles."
+msgstr ""
+
+#. summary(lftp)
+msgid "LFTP Command Line File Transfer Program"
+msgstr ""
+
+#. description(lftp)
+msgid ""
+"LFTP is a reliable shell-like command line FTP client. It can retry "
+"operations and does reget automatically. It can do several transfers "
+"simultaneously in the background. With LFTP, you can start a transfer in the "
+"background and continue browsing that FTP site or another one. This is all "
+"done in one process. Background jobs are completed in nohup mode if you exit "
+"or close the modem connection. LFTP has reput, mirror, and reverse mirror "
+"among its features. Since version 2.0, it also supports the HTTP protocol. "
+"Other features include IPV6 support, context sensitive completion, output "
+"redirection to files or to pipe, FTP and HTTP proxy support, transfer rate "
+"throttling for each connection and for all connections in sum, job queueing, "
+"job execution at specified times, opie and skey support in the FTP protocol, "
+"SSL for HTTP and FTP, and FXP transfers."
+msgstr ""
+
+#. summary(clucene-core:libclucene-contribs-lib1)
+msgid "Language specific text analyzers for clucene-core"
+msgstr ""
+
+#. summary(json-glib:json-glib-lang)
+msgid "Languages for package json-glib"
+msgstr ""
+
+#. summary(k3b:k3b-lang)
+msgid "Languages for package k3b"
+msgstr ""
+
+#. summary(kdbg:kdbg-lang)
+msgid "Languages for package kdbg"
+msgstr ""
+
+#. summary(kdebase4-openSUSE:kdebase4-openSUSE-lang)
+msgid "Languages for package kdebase4-openSUSE"
+msgstr ""
+
+#. summary(kdevelop4:kdevelop4-lang)
+msgid "Languages for package kdevelop4"
+msgstr ""
+
+#. summary(kdevplatform:kdevplatform-lang)
+msgid "Languages for package kdevplatform"
+msgstr ""
+
+#. summary(kiosktool:kiosktool-lang)
+msgid "Languages for package kiosktool"
+msgstr ""
+
+#. summary(konversation:konversation-lang)
+msgid "Languages for package konversation"
+msgstr ""
+
+#. summary(ktorrent:ktorrent-lang)
+msgid "Languages for package ktorrent"
+msgstr ""
+
+#. summary(kwebkitpart:kwebkitpart-lang)
+msgid "Languages for package kwebkitpart"
+msgstr ""
+
+#. summary(libbonobo:libbonobo-lang)
+msgid "Languages for package libbonobo"
+msgstr ""
+
+#. summary(libbonoboui:libbonoboui-lang)
+msgid "Languages for package libbonoboui"
+msgstr ""
+
+#. summary(libcryptui:libcryptui-lang)
+msgid "Languages for package libcryptui"
+msgstr ""
+
+#. summary(libepc:libepc-lang)
+msgid "Languages for package libepc"
+msgstr ""
+
+#. summary(libgarcon:libgarcon-lang)
+msgid "Languages for package libgarcon"
+msgstr ""
+
+#. summary(libgda:libgda-5_0-4-lang)
+msgid "Languages for package libgda"
+msgstr ""
+
+#. summary(libgda3:libgda3-lang)
+msgid "Languages for package libgda3"
+msgstr ""
+
+#. summary(libgdata:libgdata-lang)
+msgid "Languages for package libgdata"
+msgstr ""
+
+#. description(laptop-mode-tools)
+msgid ""
+"Laptop Mode Tools is a laptop power saving package for Linux systems. It "
+"allows you to extend the battery life of your laptop, in several ways. It is "
+"the primary way to enable the Laptop Mode feature of the Linux kernel, which "
+"lets your hard drive spin down. In addition, it allows you to tweak a number "
+"of other power-related settings using a simple configuration file."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-lv)
+msgid "Latvian (lv) translations for KDE"
+msgstr ""
+
+#. description(leafpad)
+msgid ""
+"Leafpad is a simple GTK+ based text editor. The user interface is similar to "
+"\"notepad\", and it aims to be lighter than GEdit and KWrite and to be as "
+"useful as them.\n"
+"\n"
+"Following features are intended...\n"
+"- Minimum requirement: for portability\n"
+"- Minimal menu item: to make full use of features and to learn easily\n"
+"- No toolbar: to maximize area to view text\n"
+"- Single document interface (SDI): to set out windows to view at a   time\n"
+"- Character coding auto detection: to open file quickly without   multi-"
+"codeset problem\n"
+"\n"
+"Leafpad is released under the GNU General Public License (GPL)."
+msgstr ""
+
+#. description(lessons4lizards_en)
+msgid ""
+"Lessons for Lizards (LfL) is a community cookbook-style book project for the "
+"openSUSE distribution licensed under the GNU Free Documentation License "
+"(GFDL).\n"
+"\n"
+"Lessons for Lizards covers more specific or exotic topics than the "
+"internally produced manuals, such as\n"
+"\n"
+"* Experimental software\n"
+"\n"
+"* Third party software\n"
+"\n"
+"* Third party drivers\n"
+"\n"
+"* Complex setups (such as a router for the home network)\n"
+"\n"
+"If you want to contribute, please look at\n"
+"\n"
+"http://developer.novell.com/wiki/index.php/Lessons_for_Lizards"
+msgstr ""
+
+#. summary(lessons4lizards_en)
+msgid "Lessons for Lizards - Understanding openSUSE"
+msgstr ""
+
+#. description(libEMF:libEMF1)
+msgid ""
+"LibEMF is a C/C++ library which provides a drawing toolkit based on "
+"ECMA-234. The general purpose of this library is to create vector graphics "
+"files on POSIX systems which can be imported into StarOffice/OpenOffice. The "
+"Enhanced MetaFile (EMF) is one of the two color vector graphics format which "
+"is \"vectorially\" understood by SO/OO. The EMF format also has the "
+"additional advantage that it can be \"broken\" into its constituent "
+"components and edited like any other SO/OO graphics object."
+msgstr ""
+
+#. description(libarchive:libarchive-devel)
+msgid ""
+"Libarchive is a programming library that can create and read several "
+"different streaming archive formats, including most popular tar variants and "
+"several cpio formats. It can also write shar archives and read ISO9660 CDROM "
+"images. The bsdtar program is an implementation of tar(1) that is built on "
+"top of libarchive. It started as a test harness, but has grown and is now "
+"the standard system tar for FreeBSD 5 and 6.\n"
+"\n"
+"This package contains the development files."
+msgstr ""
+
+#. summary(libart_lgpl:libart_lgpl_2-2)
+msgid "Libart Components Licensed under the LGPL"
+msgstr ""
+
+#. description(libart_lgpl:libart_lgpl_2-2)
+msgid ""
+"Libart is a library for high-performance 2D graphics. It is currently being "
+"used as the antialiased rendering engine for GNOME Canvas. It is also the "
+"rendering engine for Gill, the GNOME Illustration application."
+msgstr ""
+
+#. description(libassuan:libassuan-devel)
+msgid ""
+"Libassuan is the IPC library used by gpg2 (GnuPG version 2)\n"
+"\n"
+"gpgme also uses libassuan to communicate with a libassuan-enabled GnuPG v2 "
+"server, but it uses it's own copy of libassuan."
+msgstr ""
+
+#. description(libavc1394:libavc1394-0)
+msgid ""
+"Libavc1394 is a programming interface to the AV/C specification from the "
+"1394 Trade Association. AV/C stands for Audio/Video Control. Currently, "
+"applications use the library to control the tape transport mechanism on DV "
+"camcorders. However, there are many devices and device functions that can be "
+"controlled via AV/C. Eventually, the library will be expanded to implement "
+"more of the specification and to provide a high level interface to various "
+"devices."
+msgstr ""
+
+#. summary(libavc1394:libavc1394-0)
+msgid "Libavc1394--Programming Interface to the AV/C Specification"
+msgstr ""
+
+#. description(dee:libdee-1_0-4)
+msgid ""
+"Libdee is a library that uses DBus to provide objects allowing you to create "
+"Model-View-Controller type programs across DBus. It also consists of utility "
+"objects which extend DBus allowing for peer-to-peer discoverability of known "
+"objects without needing a central registrar."
+msgstr ""
+
+#. description(libdmapsharing:libdmapsharing-3_0-2)
+msgid ""
+"Libdmapsharing is a library you may use to access, share and control the "
+"playback of media content using DMAP (DAAP, DPAP & DACP). Libdmapsharing "
+"also detects audio AirPlay services; coupled with the AirPlay support in "
+"PulseAudio or GStreamer, this can allow an application to stream audio to an "
+"AirPlay device. The DMAP family of protocols are used by products such as "
+"Apple iTunes, Apple iPhoto, and the Roku SoundBridge family to share media "
+"such as music and photos."
+msgstr ""
+
+#. summary(libfm:libfm1)
+msgid "Libfm libraries"
+msgstr ""
+
+#. description(libgcrypt:libgcrypt-devel)
+msgid ""
+"Libgcrypt is a general purpose crypto library based on the code used in "
+"GnuPG (alpha version).\n"
+"\n"
+"This package contains needed files to compile and link against the library."
+msgstr ""
+
+#. description(libgnomecanvas:libgnomecanvas-2-0)
+msgid ""
+"Libgnomecanvas is a graphical add-on for the GNOME User Interface libraries."
+msgstr ""
+
+#. description(libdlm)
+msgid ""
+"Libraries and tools that allow applications, particularly filesystems like "
+"OCFS2, to interface with the in-kernel distributed lock manager."
+msgstr ""
+
+#. summary(anjuta:libanjuta-3-0)
+msgid "Libraries for developing Anjuta plugins"
+msgstr ""
+
+#. summary(libdrm:libdrm-devel)
+msgid "Libraries, includes and more to develop libdrm applications"
+msgstr ""
+
+#. summary(libgarcon:libgarcon-1-0)
+msgid "Library Implementing the freedesktop.org Desktop Menu Specification"
+msgstr ""
+
+#. description(getdata:libgetdata++2)
+msgid "Library for C++-bindings for GetData."
+msgstr ""
+
+#. description(getdata:libgetdata4)
+msgid "Library for C-bindings for GetData."
+msgstr ""
+
+#. summary(libcaca:libcaca0)
+msgid "Library for Colour ASCII Art, text mode graphics"
+msgstr ""
+
+#. summary(libfli:libfli1)
+msgid "Library for FLI CCD Camera & Filter Wheels"
+msgstr ""
+
+#. summary(getdata:libgetdata++2)
+msgid "Library for GetData"
+msgstr ""
+
+#. summary(json-glib:json-glib-devel)
+msgid "Library for JavaScript Object Notation format - Development Files"
+msgstr ""
+
+#. summary(ftgl:libftgl2)
+msgid "Library for Using Arbitrary Fonts in OpenGL Applications"
+msgstr ""
+
+#. summary(collectd:libcollectdclient0)
+msgid "Library for collectd clients"
+msgstr ""
+
+#. summary(cfitsio:libcfitsio0)
+msgid "Library for manipulating FITS data files"
+msgstr ""
+
+#. summary(libEMF:libEMF1)
+msgid "Library for manipulation with Enhanced MetaFile (EMF, ECMA-234)"
+msgstr ""
+
+#. summary(libdmapsharing:libdmapsharing-3_0-2)
+msgid "Library implementing the DMAP family of protocols"
+msgstr ""
+
+#. summary(dee:libdee-1_0-4)
+msgid "Library that uses DBus to provide objects"
+msgstr ""
+
+#. description(collectd:libcollectdclient0)
+msgid ""
+"Library which abstracts communication with the collectd unixsock plugin for "
+"clients."
+msgstr ""
+
+#. summary(gavl:libgavl1)
+msgid "Library which provides basic support for uncompressed multimedia data"
+msgstr ""
+
+#. summary(libalkimia:libalkimia4)
+msgid ""
+"Library with common classes and functionality used by finance applications"
+msgstr ""
+
+#. summary(leafpad)
+msgid "Lightweight Text Editor and Notepad Clone"
+msgstr ""
+
+#. summary(libeigen2-devel)
+msgid "Lightweight linear algebra C++ template library"
+msgstr ""
+
+#. summary(kdewebdev4:klinkstatus)
+msgid "Link Checker"
+msgstr ""
+
+#. description(kernel-source)
+msgid ""
+"Linux kernel sources with many fixes and improvements.\n"
+"\n"
+" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: "
+"a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-lt)
+msgid "Lithuanian (lt) translations for KDE"
+msgstr ""
+
+#. summary(kturtle)
+msgid "Logo Programming Environment"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-nds)
+msgid "Low Saxon (nds) translations for KDE"
+msgstr ""
+
+#. summary(krb5:krb5-devel)
+msgid "MIT Kerberos5 - Include Files and Libraries"
+msgstr ""
+
+#. summary(libetpan:libetpan16)
+msgid "Mail handling library"
+msgstr ""
+
+#. summary(kalgebra)
+msgid "Math Expression Solver and Plotter"
+msgstr ""
+
+#. summary(kmplot)
+msgid "Mathematical Function Plotter"
+msgstr ""
+
+#. description(kmplot)
+msgid "Mathematical function plotter for KDE"
+msgstr ""
+
+#. summary(kdegames4:kolf)
+msgid "Miniature golf game"
+msgstr ""
+
+#. summary(kdegames4:knetwalk)
+msgid "Network construction game"
+msgstr ""
+
+#. summary(kdepim4:knode)
+msgid "News Reader"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-nb)
+msgid "Norwegian Bokmål (nb) translations for KDE"
+msgstr ""
+
+#. summary(kdepim4:kjots)
+msgid "Note Taker"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-nn)
+msgid "Nynorsk (nn) translations for KDE"
+msgstr ""
+
+#. summary(itcl)
+msgid "Object Oriented Extension for Tcl"
+msgstr ""
+
+#. summary(cpupower:libcpupower0)
+msgid "Obsolete processor frequency related C-library"
+msgstr ""
+
+#. summary(libgdiplus0)
+msgid "Open Source Implementation of the GDI+ API"
+msgstr ""
+
+#. summary(kiwi)
+msgid "OpenSuSE - KIWI Image System"
+msgstr ""
+
+#. summary(kiwi:kiwi-desc-isoboot)
+msgid "OpenSuSE - KIWI Image System ISO boot"
+msgstr ""
+
+#. summary(kiwi:kiwi-pxeboot)
+msgid "OpenSuSE - KIWI Image System PXE boot structure"
+msgstr ""
+
+#. summary(kiwi:kiwi-desc-netboot)
+msgid "OpenSuSE - KIWI Image System PXE network boot"
+msgstr ""
+
+#. summary(kiwi:kiwi-desc-vmxboot)
+msgid "OpenSuSE - KIWI Image System Virtual Machine boot"
+msgstr ""
+
+#. summary(kiwi:kiwi-templates)
+msgid "OpenSuSE - KIWI JeOS system image templates"
+msgstr ""
+
+#. summary(kiwi:kiwi-desc-oemboot)
+msgid "OpenSuSE - KIWI image descriptions"
+msgstr ""
+
+#. summary(kiwi:kiwi-tools)
+msgid "OpenSuSE - KIWI tools collection"
+msgstr ""
+
+#. summary(kiwi:kiwi-media-requires)
+msgid "OpenSuSE - packages which should be part of the DVD"
+msgstr ""
+
+#. summary(kdevelop4-plugins:kdevelop4-plugins-php)
+msgid "PHP Plugin for Kdevelop4 Integrated Development Environment"
+msgstr ""
+
+#. description(kdevelop4-plugins:kdevelop4-plugins-php)
+msgid ""
+"PHP Plugin for Kdevelop4 Integrated Development Environment\n"
+"\n"
+"This plugin enables support for the following features for developing web "
+"applications in PHP using Kdevelop4.\n"
+"\n"
+"  * PHP built-in functions, classes, constants, superglobals   * user-"
+"defined functions, classes, constants, superglobals, variables, etc.   * "
+"proper code completion for objects which respects access modifiers (private, "
+"public, protected) and differentiates between static/non-static members and "
+"methods   * code completion for overridable and implementable functions "
+"inside classes   * hints in the argument list of function- and method "
+"class   * sane code completion after keywords such as \"extends, implements, "
+"catch(), new, throw\" and some more I think"
+msgstr ""
+
+#. summary(akonadi-runtime:libakonadiprotocolinternals-devel)
+msgid "PIM Storage Service: Build Environment"
+msgstr ""
+
+#. description(kiwi:kiwi-pxeboot)
+msgid "PXE basic directory structure and pre-build boot images"
+msgstr ""
+
+#. summary(kolourpaint)
+msgid "Paint Program"
+msgstr ""
+
+#. description(kolourpaint)
+msgid "Paint program for KDE"
+msgstr ""
+
+#. summary(kalzium)
+msgid "Periodic Table of Elements"
+msgstr ""
+
+#. summary(kdepim4:kalarm)
+msgid "Personal Alarm Scheduler"
+msgstr ""
+
+#. summary(kdepim4:ktimetracker)
+msgid "Personal Time Tracker"
+msgstr ""
+
+#. description(kdepim4:kalarm)
+msgid "Personal alarm message, command and email scheduler for KDE"
+msgstr ""
+
+#. summary(freerdp:libfreerdp-1_0-plugins)
+msgid "Plugins for libfreerdp-1_0"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-pl-data)
+msgid "Polish (pl) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-pl-doc)
+msgid "Polish (pl) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-pl)
+msgid "Polish (pl) translations for KDE"
+msgstr ""
+
+#. summary(libcanberra:libcanberra-devel)
+msgid "Portable sound event library -- Development files"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-pt)
+msgid "Portuguese (pt) translations for KDE"
+msgstr ""
+
+#. description(postgresql-libs:libecpg6)
+msgid ""
+"PostgreSQL is an advanced object-relational database management system that "
+"supports an extended subset of the SQL standard, including transactions, "
+"foreign keys, subqueries, triggers, user-defined types and functions.\n"
+"\n"
+"This package provides the runtime library of the embedded SQL C preprocessor "
+"for PostgreSQL."
+msgstr ""
+
+#. summary(jedit)
+msgid "Programmer's Text Editor Written in Java"
+msgstr ""
+
+#. description(json-glib:json-glib-lang)
+msgid "Provides translations to the package json-glib"
+msgstr ""
+
+#. description(k3b:k3b-lang)
+msgid "Provides translations to the package k3b"
+msgstr ""
+
+#. description(kdbg:kdbg-lang)
+msgid "Provides translations to the package kdbg"
+msgstr ""
+
+#. description(kdebase4-openSUSE:kdebase4-openSUSE-lang)
+msgid "Provides translations to the package kdebase4-openSUSE"
+msgstr ""
+
+#. description(kdevelop4:kdevelop4-lang)
+msgid "Provides translations to the package kdevelop4"
+msgstr ""
+
+#. description(kdevplatform:kdevplatform-lang)
+msgid "Provides translations to the package kdevplatform"
+msgstr ""
+
+#. description(kiosktool:kiosktool-lang)
+msgid "Provides translations to the package kiosktool"
+msgstr ""
+
+#. description(konversation:konversation-lang)
+msgid "Provides translations to the package konversation"
+msgstr ""
+
+#. description(ktorrent:ktorrent-lang)
+msgid "Provides translations to the package ktorrent"
+msgstr ""
+
+#. description(kwebkitpart:kwebkitpart-lang)
+msgid "Provides translations to the package kwebkitpart"
+msgstr ""
+
+#. description(libbonobo:libbonobo-lang)
+msgid "Provides translations to the package libbonobo"
+msgstr ""
+
+#. description(libbonoboui:libbonoboui-lang)
+msgid "Provides translations to the package libbonoboui"
+msgstr ""
+
+#. description(libcryptui:libcryptui-lang)
+msgid "Provides translations to the package libcryptui"
+msgstr ""
+
+#. description(libepc:libepc-lang)
+msgid "Provides translations to the package libepc"
+msgstr ""
+
+#. description(libgarcon:libgarcon-lang)
+msgid "Provides translations to the package libgarcon"
+msgstr ""
+
+#. description(libgda:libgda-5_0-4-lang)
+msgid "Provides translations to the package libgda"
+msgstr ""
+
+#. description(libgda3:libgda3-lang)
+msgid "Provides translations to the package libgda3"
+msgstr ""
+
+#. description(libgdata:libgdata-lang)
+msgid "Provides translations to the package libgdata"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-pa)
+msgid "Punjabi (pa) translations for KDE"
+msgstr ""
+
+#. summary(kross-interpreters:kross-python)
+msgid "Python Bindings for kross"
+msgstr ""
+
+#. summary(avahi-qt4:libavahi-qt4-1)
+msgid "Qt4 Bindings for avahi, the D-BUS Service for Zeroconf and Bonjour"
+msgstr ""
+
+#. description(avahi-qt4:libavahi-qt4-1)
+msgid ""
+"Qt4 bindings for avahi.\n"
+"\n"
+"Avahi is an implementation the DNS Service Discovery and Multicast DNS "
+"specifications for Zeroconf Computing. It uses D-BUS for communication "
+"between user applications and a system daemon. The daemon is used to "
+"coordinate application efforts in caching replies, necessary to minimize the "
+"traffic imposed on networks.\n"
+"\n"
+"The Avahi mDNS responder is now feature complete implementing all MUSTs and "
+"the majority of the SHOULDs of the mDNS/DNS-SD RFCs. It passes all tests in "
+"the Apple Bonjour conformance test suite. In addition it supports some nifty "
+"things that have never been seen elsewhere like correct mDNS reflection "
+"across LAN segments."
+msgstr ""
+
+#. summary(freerdp:libfreerdp-1_0)
+msgid "Remote Desktop Viewer Library"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ro)
+msgid "Romanian (ro) translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ru-data)
+msgid "Russian (ru) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ru-doc)
+msgid "Russian (ru) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ru)
+msgid "Russian (ru) translations for KDE"
+msgstr ""
+
+#. summary(kdump)
+msgid "Script for kdump"
+msgstr ""
+
+#. summary(kdesdk4:kdesdk4-scripts)
+msgid "Scripts for KDE Development"
+msgstr ""
+
+#. summary(kdewebdev4:kfilereplace)
+msgid "Search & Replace Tool"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-sr)
+msgid "Serbian (sr) translations for KDE"
+msgstr ""
+
+#. summary(postgresql-libs:libecpg6)
+msgid "Shared Libraries Required for PostgreSQL Clients"
+msgstr ""
+
+#. summary(fcitx:libfcitx-4_2_4)
+msgid "Shared Libraries for fcitx"
+msgstr ""
+
+#. summary(GeoIP:libGeoIP1)
+msgid "Shared libraries of the GeoIP C API"
+msgstr ""
+
+#. description(kdegames4:kshisen)
+msgid ""
+"Shisen-Sho (KShishen) is a game similar to Mahjongg. KShisen is a solitaire-"
+"like game played using the standard set of Mahjong tiles. Unlike Mahjong "
+"however, KShisen has only one layer of scrambled tiles, and matching tiles "
+"need paths between them in order to be removed."
+msgstr ""
+
+#. summary(kdegames4:kshisen)
+msgid "Shisen-sho mahjongg-like tile game"
+msgstr ""
+
+#. summary(kdegames4:kollision)
+msgid "Simple ball dodging game"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-sk)
+msgid "Slovak (sk) translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-sl)
+msgid "Slovenian (sl) translations for KDE"
+msgstr ""
+
+#. summary(kdebindings-smokegen)
+msgid "Smoke Generator for kdebindings"
+msgstr ""
+
+#. summary(kdegames4:katomic)
+msgid "Sokoban-like logic game"
+msgstr ""
+
+#. summary(kdegames4:kspaceduel)
+msgid "Space arcade game"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-es-data)
+msgid "Spanish (es) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-es-doc)
+msgid "Spanish (es) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-es)
+msgid "Spanish (es) translations for KDE"
+msgstr ""
+
+#. summary(dicts:ispell-spanish)
+msgid "Spanish ispell dictionary"
+msgstr ""
+
+#. summary(kmouth)
+msgid "Speech Synthesizer Frontend"
+msgstr ""
+
+#. summary(libgda:libgda-5_0-sqlite)
+msgid "Sqlite Provider for GNU Data Access (GDA)"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-sv-data)
+msgid "Swedish (sv) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-sv-doc)
+msgid "Swedish (sv) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-sv)
+msgid "Swedish (sv) translations for KDE"
+msgstr ""
+
+#. summary(dicts:ispell-swedish)
+msgid "Swedish ispell dictionary"
+msgstr ""
+
+#. summary(libevtlog:libevtlog0)
+msgid "Syslog-ng event logger library runtime"
+msgstr ""
+
+#. summary(kdeadmin4:ksystemlog)
+msgid "System Log Viewer Tool"
+msgstr ""
+
+#. summary(kdegames4:kolorlines)
+msgid "Tactical game"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-tg)
+msgid "Tajik (tg) translations for KDE"
+msgstr ""
+
+#. summary(kdetoys4:kteatime)
+msgid "Tea Cooker"
+msgstr ""
+
+#. summary(kdesdk4:kde4-kapptemplate)
+msgid "Template for KDE Application Development"
+msgstr ""
+
+#. summary(kdegames4:kjumpingcube)
+msgid "Territory game"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-th)
+msgid "Thai (th) translations for KDE"
+msgstr ""
+
+#. description(libdb-4_5:libdb-4_5-devel)
+msgid ""
+"The Berkeley DB Database is a programmatic toolkit that provides database "
+"support for applications.\n"
+"\n"
+"This package contains the header files and libraries."
+msgstr ""
+
+#. summary(libbonoboui)
+msgid "The Bonobo Part of the GNOME User Interface Libraries"
+msgstr ""
+
+#. summary(boost:libboost_chrono1_49_0)
+msgid "The Boost::Chrono runtime library"
+msgstr ""
+
+#. summary(boost:libboost_locale1_49_0)
+msgid "The Boost::Locale runtime library"
+msgstr ""
+
+#. summary(boost:libboost_random1_49_0)
+msgid "The Boost::Random runtime library"
+msgstr ""
+
+#. summary(boost:libboost_regex1_49_0)
+msgid "The Boost::Regex runtime library"
+msgstr ""
+
+#. summary(boost:libboost_timer1_49_0)
+msgid "The Boost::Timer runtime library"
+msgstr ""
+
+#. summary(corosync:libcorosync4)
+msgid "The Corosync Cluster Engine Libraries"
+msgstr ""
+
+#. description(jakarta-commons-dbcp)
+msgid ""
+"The DBCP package creates and maintains a database connection pool package "
+"written in the Java language to be distributed under the ASF license. The "
+"package is available as a pseudo-JDBC driver and via a DataSource interface. "
+"The package also supports multiple logins to multiple database systems, "
+"reclamation of stale or dead connections, testing for valid connections, "
+"PreparedStatement pooling, and other features."
+msgstr ""
+
+#. description(jakarta-commons-discovery)
+msgid ""
+"The Discovery component is about discovering, or finding, implementations "
+"for pluggable interfaces.  Pluggable interfaces are specified with the "
+"intent that multiple implementations are, or will be, available to provide "
+"the service described by the interface. Discovery provides facilities for "
+"finding and instantiating classes and for lifecycle management of singleton "
+"(factory) classes."
+msgstr ""
+
+#. description(libevtlog:libevtlog0)
+msgid ""
+"The EventLog library aims to be a replacement of the simple syslog() API "
+"provided on UNIX systems. The major difference between EventLog and syslog "
+"is that EventLog tries to add structure to messages.\n"
+"\n"
+"EventLog provides an interface to build, format and output an event record. "
+"The exact format and output method can be customized by the administrator "
+"via a configuration file.\n"
+"\n"
+"This package provides the runtime part of the library.\n"
+"\n"
+"The package may contain Novell/SUSE specific modifications/extensions, "
+"please report problems using Bugzilla at https://bugzilla.novell.com/ before "
+"you contact the authors.\n"
+"\n"
+"The official home page of syslog-ng is: http://www.balabit.com/network-"
+"security/syslog-ng/"
+msgstr ""
+
+#. description(fltk:libfltk1)
+msgid ""
+"The Fast Light Tool Kit (\"FLTK\", pronounced \"fulltick\") is a C++ "
+"graphical user interface toolkit for the X Window System (UNIX(r)), OpenGL"
+"(r), and Microsoft(r) Windows(r) NT 4.0, 95, or 98. The installation of this "
+"package requires you to install a 3D library. If you do not have hardware "
+"3D, you can use the software OpenGL library in the mesasoft package (series "
+"x3d). The library can be recompiled without 3D support."
+msgstr ""
+
+#. description(gimp:libgimpui-2_0-0)
+msgid ""
+"The GIMP (GNU Image Manipulation Program) is a powerful image composition "
+"and editing program, which can be extremely useful for creating logos and "
+"other graphics for Web pages.  The GIMP offers many of the tools and filters "
+"you would expect to find in similar commercial offerings and contains some "
+"interesting extras as well. The GIMP provides a large image manipulation "
+"toolbox, including channel operations and layers, effects, subpixel imaging "
+"and antialiasing, and conversions- all including multilevel undo. The GIMP "
+"offers a scripting facility, but many of the included scripts rely on fonts "
+"that we cannot distribute.\n"
+"\n"
+"This package provides GIMP UI libraries."
+msgstr ""
+
+#. description(gimp:libgimp-2_0-0)
+msgid ""
+"The GIMP (GNU Image Manipulation Program) is a powerful image composition "
+"and editing program, which can be extremely useful for creating logos and "
+"other graphics for Web pages.  The GIMP offers many of the tools and filters "
+"you would expect to find in similar commercial offerings and contains some "
+"interesting extras as well. The GIMP provides a large image manipulation "
+"toolbox, including channel operations and layers, effects, subpixel imaging "
+"and antialiasing, and conversions- all including multilevel undo. The GIMP "
+"offers a scripting facility, but many of the included scripts rely on fonts "
+"that we cannot distribute.\n"
+"\n"
+"This package provides GIMP libraries."
+msgstr ""
+
+#. summary(gle:libgle3)
+msgid "The GLE Tubing and Extrusion Library"
+msgstr ""
+
+#. description(gle:libgle3)
+msgid ""
+"The GLE Tubing and Extrusion Library is a graphics application programming "
+"interface (API). The library consists of a number of C language subroutines "
+"for drawing tubing and extrusions. The library is distributed in source code "
+"form in a package that includes documentation, a VRML proposal, make files, "
+"and full source code and header files. It uses the OpenGL (TM) programming "
+"API to perform the actual drawing of the tubing and extrusions."
+msgstr ""
+
+#. summary(libgnome)
+msgid "The GNOME 2.x Desktop Base Libraries"
+msgstr ""
+
+#. summary(gimp:libgimp-2_0-0)
+msgid "The GNU Image Manipulation Program - Libraries"
+msgstr ""
+
+#. summary(gimp:libgimpui-2_0-0)
+msgid "The GNU Image Manipulation Program - UI Libraries"
+msgstr ""
+
+#. summary(jakarta-commons-el)
+msgid "The Jakarta Commons Extension Language"
+msgstr ""
+
+#. summary(laptop-mode-tools)
+msgid "The Laptop Mode Tools"
+msgstr ""
+
+#. summary(kernel-source)
+msgid "The Linux Kernel Sources"
+msgstr ""
+
+#. description(kernel-xen)
+msgid ""
+"The Linux kernel for Xen paravirtualization.\n"
+"\n"
+"This kernel can be used both as the domain0 (\"xen0\") and as an "
+"unprivileged (\"xenU\") kernel.\n"
+"\n"
+" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: "
+"a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+msgstr ""
+
+#. description(ksymoops)
+msgid ""
+"The Linux kernel produces error messages that contain machine specific "
+"numbers that are meaningless for debugging.  Ksymoops reads machine-specific "
+"files and the error log and converts the addresses to meaningful symbols and "
+"offsets."
+msgstr ""
+
+#. description(jakarta-commons-modeler)
+msgid ""
+"The Modeler project creates and maintains a set of Java classes to provide a "
+"number of facilities for Model MBeans plus unit tests and small examples of "
+"using these facilities to instrument Java classes with Model MBean support."
+msgstr ""
+
+#. description(kiwi)
+msgid ""
+"The OpenSuSE KIWI Image System provides a complete operating system image "
+"solution for Linux supported hardware platforms as well as for "
+"virtualization systems like Xen."
+msgstr ""
+
+#. summary(cluster-glue:libglue2)
+msgid "The Pacemaker scalable High-Availability cluster resource manager"
+msgstr ""
+
+#. description(kross-interpreters:kross-python)
+msgid "The Python bindings which can be used with KROSS"
+msgstr ""
+
+#. summary(kernel-xen)
+msgid "The Xen Kernel"
+msgstr ""
+
+#. description(analitza:libanalitza0)
+msgid ""
+"The analitza library will let you add mathematical features to your program."
+msgstr ""
+
+#. summary(kakasi:kakasi-dict)
+msgid "The base dictionary of KAKASI"
+msgstr ""
+
+#. summary(bzip2:libbz2-devel)
+msgid "The bzip2 runtime library development files"
+msgstr ""
+
+#. description(bzip2:libbz2-devel)
+msgid "The bzip2 runtime library development files."
+msgstr ""
+
+#. description(kmouth)
+msgid "The computer \"speaks\" the entered text for talking with people."
+msgstr ""
+
+#. description(libalkimia:libalkimia-devel)
+msgid "The development files for libalkimia."
+msgstr ""
+
+#. description(jakarta-commons-digester)
+msgid ""
+"The goal of the Jakarta Commons Digester project is to create and maintain "
+"an XML to Java object mapping package written in the Java language to be "
+"distributed under the ASF license."
+msgstr ""
+
+#. description(jakarta-commons-pool)
+msgid ""
+"The goal of the Pool package is to create and maintain an object (instance) "
+"pooling package to be distributed under the ASF license. The package "
+"supports a variety of pool implementations, but encourages support of an "
+"interface that makes these implementations interchangeable."
+msgstr ""
+
+#. description(lensfun:lensfun-data)
+msgid ""
+"The goal of the lensfun library is to provide a open source database of "
+"photographic lenses and their characteristics. In the past there was a "
+"effort in this direction (see http://www.epaperpress.com/ptlens/), but then "
+"author decided to take the commercial route and the database froze at the "
+"last public stage. This database was used as the basement on which lensfun "
+"database grew, thanks to PTLens author which gave his permission for this, "
+"while the code was totally rewritten from scratch (and the database was "
+"converted to a totally new, XML-based format).\n"
+"\n"
+"The lensfun library not only provides a way to read the database and search "
+"for specific things in it, but also provides a set of algorithms for "
+"correcting images based on detailed knowledge of lens properties and "
+"calibration data. Right now lensfun is designed to correct distortion, "
+"transversal (also known as lateral) chromatic aberrations, vignetting and "
+"colour contribution index of the lens."
+msgstr ""
+
+#. description(jakarta-commons-collections)
+msgid ""
+"The introduction of the Collections API by Sun in JDK 1.2 has been a    boon "
+"to quick and effective Java programming. Ready access to    powerful data "
+"structures has accelerated development by reducing    the need for custom "
+"container classes around each core object.    Most Java2 APIs are "
+"significantly easier to use because of the    Collections API. However, "
+"there are certain holes left unfilled    by Sun's implementations, and the "
+"Jakarta-Commons Collections    Component strives to fulfill them. Among the "
+"features of this    package are: - special-purpose implementations of Lists "
+"and Maps    for fast access\n"
+"\n"
+"- adapter classes from Java1-style containers (arrays, enumerations)    to "
+"Java2-style collections\n"
+"\n"
+"- methods to test or create typical set theory properties of collections "
+"such as union, intersection, and closure"
+msgstr ""
+
+#. description(jakarta-commons-fileupload)
+msgid ""
+"The javax.servlet package lacks support for RFC 1867, HTML file upload.  "
+"This package provides a simple-to-use API for working with such data. The "
+"scope of this package is to create a package of Java utility classes to read "
+"multipart/form-data within a javax.servlet.http.HttpServletRequest."
+msgstr ""
+
+#. description(audit:libauparse0)
+msgid ""
+"The libauparse package contains the dynamic libraries needed to parse audit "
+"records."
+msgstr ""
+
+#. description(libcap-ng:libcap-ng-devel)
+msgid ""
+"The libcap-ng-devel package contains the files needed for developing "
+"applications that need to use the libcap-ng library."
+msgstr ""
+
+#. description(fcitx:libfcitx-4_2_4)
+msgid ""
+"The libfcitx4_2_0 package includes the shared libraries for the fictx "
+"package."
+msgstr ""
+
+#. description(libfontenc:libfontenc-devel)
+msgid ""
+"The libfontenc library is used by the Xorg server and other X font tools for "
+"handling fonts with different character set encodings.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libfontenc1."
+msgstr ""
+
+#. description(libapr1)
+msgid ""
+"The mission of the Apache Portable Runtime (APR) project is to create and "
+"maintain software libraries that provide a predictable and consistent "
+"interface to underlying platform-specific implementations. The primary goal "
+"is to provide an API to which software developers may code and be assured of "
+"predictable if not identical behaviour regardless of the platform on which "
+"their software is built, relieving them of the need to code special-case "
+"conditions to work around or take advantage of platform-specific "
+"deficiencies or features.\n"
+"\n"
+"The APR is used by both Open Source and Commercial projects, prominent "
+"examples being the Apache HTTP server."
+msgstr ""
+
+#. description(ksh)
+msgid ""
+"The original Korn Shell.  The ksh is an sh-compatible command interpreter "
+"that executes commands read from standard input or from a file."
+msgstr ""
+
+#. description(kiwi-config-openSUSE)
+msgid "The package contains various kiwi configs for openSUSE live media"
+msgstr ""
+
+#. description(ivtv:ivtv-firmware)
+msgid ""
+"The primary goal of the IVTV project is to provide a \"clean room\" Linux "
+"Open Source driver implementation for video capture cards based on the "
+"iCompression iTVC15 or Conexant CX23415/CX23416 MPEG Codec. Examples of such "
+"cards are the Hauppauge PVR 250/350 series of MPEG video capture cards, the "
+"Hauppauge \"freestyle\" and the AVerMedia M179 AVerTV. The freestyle hasn't "
+"been tested, but it should work, or at least be easy to get working."
+msgstr ""
+
+#. description(ivtv)
+msgid ""
+"The primary goal of the IVTV project is to provide a \"clean room\" Linux "
+"open source driver implementation for video capture cards based on the "
+"iCompression iTVC15 or Conexant CX23415/CX23416 MPEG Codec. Examples of such "
+"cards are the Hauppauge PVR 250/350 series of MPEG video capture cards, the "
+"Hauppauge \"freestyle\", and the AVerMedia M179 AVerTV. The freestyle has "
+"not been tested, but it should work or at least be easy to get working."
+msgstr ""
+
+#. description(jakarta-commons-lang)
+msgid ""
+"The standard Java libraries fail to provide enough methods for manipulation "
+"of its core classes. The Commons Lang Component provides these extra "
+"methods.\n"
+"\n"
+"The Commons Lang Component provides a host of helper utilities for the java."
+"lang API, notably String manipulation methods, basic numerical methods, "
+"object reflection, creation and serialization, and System properties. "
+"Additionally it contains an inheritable enum type, an exception structure "
+"that supports multiple types of nested-Exceptions and a series of utilities "
+"dedicated to help with building methods, such as hashCode, toString and "
+"equals."
+msgstr ""
+
+#. summary(gcc:libgcj-devel)
+msgid "The system GNU Java development files."
+msgstr ""
+
+#. description(kernel-docs)
+msgid ""
+"These are the PDF documents and man pages (section 9) built from thecurrent "
+"kernel sources.\n"
+"\n"
+"\n"
+"\n"
+"Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: "
+"a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+msgstr ""
+
+#. description(libgcj47:libgcj47-jar)
+msgid "These are the jar files that go along with the gcj front end to gcc."
+msgstr ""
+
+#. description(apparmor:libapparmor-devel)
+msgid ""
+"These libraries are needed for developing software that makes use of the "
+"AppArmor API."
+msgstr ""
+
+#. description(java-1_6_0-openjdk)
+msgid ""
+"This Java 6 compatible Java Runtime Environment is based on OpenJDK 6 and "
+"IcedTea 6.\n"
+"\n"
+"It contains a Java virtual machine, runtime class libraries, and an Java "
+"application launcher that are necessary to run programs written in the Java "
+"progamming language. It is not a development environment and does not "
+"contain development tools such as compilers and debuggers. For development "
+"tools, see the java-1_6_0-openjdk-devel package.\n"
+"\n"
+"The Java 6 Runtime Environment is intended for software developers and "
+"vendors who wish to redistribute their applications."
+msgstr ""
+
+#. description(java-1_6_0-openjdk:java-1_6_0-openjdk-devel)
+msgid ""
+"This Java 6 compatible Java SDK is based on OpenJDK 6 and IcedTea 6.\n"
+"\n"
+"The Java 6 SDK is a development environment for building applications, "
+"applets, and components using the Java programming language.\n"
+"\n"
+"The Java 6 SDK includes tools useful for developing and testing programs "
+"written in the Java programming language and running on the Java platform. "
+"These tools are designed to be used from the command line. Except for the "
+"appletviewer, these tools do not provide a graphical user interface."
+msgstr ""
+
+#. description(kdesdk4:kio_svn)
+msgid "This KDE KIO-Slave allows to browse SVN repositories in file managers."
+msgstr ""
+
+#. description(audiofile:libaudiofile1)
+msgid ""
+"This audio file library is an implementation of the SGI audio file library. "
+"At present, not all features of the SGI audio file library are implemented.\n"
+"\n"
+"This library allows the processing of audio data to and from audio files of "
+"many common formats (currently AIFF, AIFC, WAVE, and NeXT/Sun)."
+msgstr ""
+
+#. description(libcacard:libcacard0)
+msgid ""
+"This emulator is designed to provide emulation of actual smart cards to a "
+"virtual card reader running in a guest virtual machine. The emulated smart "
+"cards can be representations of real smart cards, where the necessary "
+"functions such as signing, card removal/insertion, etc. are mapped to real, "
+"physical cards which are shared with the client machine the emulator is "
+"running on, or the cards could be pure software constructs."
+msgstr ""
+
+#. description(jtools)
+msgid ""
+"This is Ken Lunde's suite of Japanese and CJKV code manipulation tools. It "
+"consists of:\n"
+"\n"
+"- CJKVConv.pl (a cross-locale CJKV code converter)\n"
+"\n"
+"- jconv, a general-purpose Japanese code conversion tool (JIS,    Shift-JIS, "
+"EUC)\n"
+"\n"
+"- jcode, a Japanese code inspection tool (JIS, Shift-JIS, EUC) that    reads "
+"the input file and creates an output file containing all of    the "
+"characters within the input file along with their electronic    codes in "
+"octal, decimal, or hexadecimal notation (the default, if    none specified, "
+"is hexadecimal)\n"
+"\n"
+"- jchar, a generator for various Japanese character sets (JIS,    Shift-JIS, "
+"EUC)\n"
+"\n"
+"- jgrep, a simplified GREP-like utility that recognizes two-byte character "
+"sequences in Japanese Shift-JIS or EUC code"
+msgstr ""
+
+#. description(kchmviewer)
+msgid ""
+"This is a viewer for the chm files known from the MS Windows world. It "
+"supports complex searching for large books and has various viewing features."
+msgstr ""
+
+#. description(libgdiplus0)
+msgid ""
+"This is part of the Mono project. It is required when using Windows.Forms."
+msgstr ""
+
+#. description(digikam:kipi-plugins-acquireimage)
+msgid "This is the Acquireimage plugin from the kipi plugins package."
+msgstr ""
+
+#. description(digikam:kipi-plugins-geolocation)
+msgid "This is the Geolocation plugin from the kipi plugins package."
+msgstr ""
+
+#. description(libbonoboui)
+msgid ""
+"This library contains the Bonobo-related part of the GNOME UI libraries."
+msgstr ""
+
+#. description(libcdio:libcdio++0)
+msgid ""
+"This library encapsulates CD-ROM reading and control. Applications wanting "
+"to be oblivious to the OS and device-dependent properties of a CD-ROM can "
+"use this library."
+msgstr ""
+
+#. description(evolution-groupwise:libegroupwise-1_2-13)
+msgid ""
+"This library is a client library for accessing a GroupWise Post Office Agent "
+"through the SOAP interface."
+msgstr ""
+
+#. description(libgcj47)
+msgid ""
+"This library is needed if you want to use the GNU Java compiler, gcj. Source "
+"code for this package is in gcc."
+msgstr ""
+
+#. description(libFS:libFS-devel)
+msgid ""
+"This library is used by clients of X Font Servers (xfs), such as xfsinfo, "
+"xfslsfonts, and the X servers themselves.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libFS6."
+msgstr ""
+
+#. description(kdemultimedia4:kdemultimedia4-thumbnailers)
+msgid ""
+"This package allows KDE file browsers and other programs to show thumbnails "
+"of multimedia files."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-pt_BR-doc)
+msgid ""
+"This package contains Brazilian application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-pt_BR-data)
+msgid "This package contains Brazilian localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-en_GB-doc)
+msgid ""
+"This package contains British English application manual translations for "
+"KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-en_GB-data)
+msgid ""
+"This package contains British English localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-da-doc)
+msgid "This package contains Danish application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-da-data)
+msgid "This package contains Danish localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-nl-doc)
+msgid "This package contains Dutch application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-nl-data)
+msgid "This package contains Dutch localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-et-doc)
+msgid "This package contains Estonian application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-et-data)
+msgid "This package contains Estonian localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-fr-doc)
+msgid "This package contains French application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-fr-data)
+msgid "This package contains French localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-de-doc)
+msgid "This package contains German application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-de-data)
+msgid "This package contains German localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-it-doc)
+msgid "This package contains Italian application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-it-data)
+msgid "This package contains Italian localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-pl-doc)
+msgid "This package contains Polish application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-pl-data)
+msgid "This package contains Polish localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ru-doc)
+msgid "This package contains Russian application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ru-data)
+msgid "This package contains Russian localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-es-doc)
+msgid "This package contains Spanish application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-es-data)
+msgid "This package contains Spanish localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-sv-doc)
+msgid "This package contains Swedish application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-sv-data)
+msgid "This package contains Swedish localized application data for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-uk-doc)
+msgid ""
+"This package contains Ukrainian application manual translations for KDE."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-uk-data)
+msgid "This package contains Ukrainian localized application data for KDE."
+msgstr ""
+
+#. description(kdetoys4:ktux)
+msgid "This package contains a screen saver showing Tux in space."
+msgstr ""
+
+#. description(libbonoboui:libbonoboui-devel)
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"compile and link applications that use libbonoboui."
+msgstr ""
+
+#. description(corosync:libcorosync4)
+msgid "This package contains corosync libraries."
+msgstr ""
+
+#. description(libdbusmenu-qt:libdbusmenu-qt-devel)
+msgid "This package contains development files for libdbusmenu-qt."
+msgstr ""
+
+#. description(akonadi-runtime:libakonadiprotocolinternals-devel)
+msgid ""
+"This package contains development files of Akonadi, the KDE PIM storage "
+"service."
+msgstr ""
+
+#. description(kernel-default:kernel-default-devel)
+msgid ""
+"This package contains files necessary for building kernel modules (and "
+"kernel module packages) against the default flavor of the kernel.\n"
+"\n"
+" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: "
+"a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+msgstr ""
+
+#. description(kernel-desktop:kernel-desktop-devel)
+msgid ""
+"This package contains files necessary for building kernel modules (and "
+"kernel module packages) against the desktop flavor of the kernel.\n"
+"\n"
+" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: "
+"a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+msgstr ""
+
+#. description(kernel-pae:kernel-pae-devel)
+msgid ""
+"This package contains files necessary for building kernel modules (and "
+"kernel module packages) against the pae flavor of the kernel.\n"
+"\n"
+" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: "
+"a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+msgstr ""
+
+#. description(kernel-xen:kernel-xen-devel)
+msgid ""
+"This package contains files necessary for building kernel modules (and "
+"kernel module packages) against the xen flavor of the kernel.\n"
+"\n"
+" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: "
+"a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+msgstr ""
+
+#. description(cfitsio:libcfitsio-devel)
+msgid ""
+"This package contains headers required when building programs against "
+"cfitsio library."
+msgstr ""
+
+#. description(kdegames4:kdegames4-carddecks-other)
+msgid "This package contains several further card deck sets for KDE games."
+msgstr ""
+
+#. description(java-1_5_0-gcj-compat:java-1_5_0-gcj-compat-devel)
+msgid ""
+"This package contains shell scripts and symbolic links to simulate a "
+"JPackage Java development environment with GCJ."
+msgstr ""
+
+#. description(java-1_5_0-gcj-compat)
+msgid ""
+"This package contains shell scripts and symbolic links to simulate a "
+"JPackage Java runtime environment with GCJ."
+msgstr ""
+
+#. description(kiwi:kiwi-templates)
+msgid ""
+"This package contains system image templates to easily build a JeOS based "
+"operating system image with kiwi"
+msgstr ""
+
+#. description(kdesdk4:kde4-kapptemplate)
+msgid ""
+"This package contains templates to start the development of a new KDE "
+"application/part/plugin."
+msgstr ""
+
+#. description(boost:libboost_date_time1_49_0)
+msgid "This package contains the Boost Date.Time runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_chrono1_49_0)
+msgid "This package contains the Boost::Chrono runtime library."
+msgstr ""
+
+#. description(boost:libboost_filesystem1_49_0)
+msgid "This package contains the Boost::Filesystem libraries."
+msgstr ""
+
+#. description(boost:libboost_graph1_49_0)
+msgid "This package contains the Boost::Graph Runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_iostreams1_49_0)
+msgid "This package contains the Boost::IOStreams Runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_locale1_49_0)
+msgid "This package contains the Boost::Locale runtime library."
+msgstr ""
+
+#. description(boost:libboost_mpi1_49_0)
+msgid "This package contains the Boost::MPI Runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_math1_49_0)
+msgid "This package contains the Boost::Math Runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_python1_49_0)
+msgid "This package contains the Boost::Python Runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_random1_49_0)
+msgid "This package contains the Boost::Random runtime library."
+msgstr ""
+
+#. description(boost:libboost_regex1_49_0)
+msgid "This package contains the Boost::Regex runtime library."
+msgstr ""
+
+#. description(boost:libboost_serialization1_49_0)
+msgid "This package contains the Boost::Serialization Runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_signals1_49_0)
+msgid "This package contains the Boost::Signals Runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_system1_49_0)
+msgid "This package contains the Boost::System runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_test1_49_0)
+msgid "This package contains the Boost::Test runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_thread1_49_0)
+msgid "This package contains the Boost::Thread runtime libraries."
+msgstr ""
+
+#. description(boost:libboost_timer1_49_0)
+msgid "This package contains the Boost::Timer runtime library."
+msgstr ""
+
+#. description(boost:libboost_wave1_49_0)
+msgid "This package contains the Boost::Wave runtime libraries."
+msgstr ""
+
+#. description(flac:libFLAC++6)
+msgid ""
+"This package contains the C++ library for FLAC (Free Lossless Audio Codec) "
+"developed by Josh Coalson."
+msgstr ""
+
+#. description(i4l-base:libcapi20-3)
+msgid "This package contains the CAPI 2.0 runtime library files."
+msgstr ""
+
+#. description(libao:libao-plugin4-esd)
+msgid "This package contains the ESD output plugin for libao."
+msgstr ""
+
+#. description(Mesa:libgbm-devel)
+msgid ""
+"This package contains the GBM buffer management library. It provides a "
+"mechanism for allocating buffers for graphics rendering tied to Mesa.\n"
+"\n"
+"GBM is intended to be used as a native platform for EGL on drm or openwfd.\n"
+"\n"
+"This package provides the development environment for compiling programs "
+"against the GBM library."
+msgstr ""
+
+#. description(kiwi:kiwi-desc-oemboot)
+msgid ""
+"This package contains the OpenSuSE - KIWI image descriptions. Each image "
+"description exists in a single directory and contains an oemboot image "
+"description"
+msgstr ""
+
+#. description(kiwi:kiwi-tools)
+msgid ""
+"This package contains the OpenSuSE - KIWI tools set usable in and outside of "
+"operating system images"
+msgstr ""
+
+#. description(libgnome)
+msgid ""
+"This package contains the basic libraries for the GNOME 2.x Desktop "
+"platform. GNOME has no specific window manager. You are totally free in your "
+"choice. Many GNOME users like Sawfish, Enlightenment, or IceWM as a window "
+"manager for GNOME (see those packages)."
+msgstr ""
+
+#. description(kdevplatform)
+msgid ""
+"This package contains the common plugins for integrated developments "
+"environment based on the KDevelop framework."
+msgstr ""
+
+#. description(kdelibs4:kdelibs4-doc)
+msgid ""
+"This package contains the core environment and templates for the KDE help "
+"system."
+msgstr ""
+
+#. description(libdvdread:libdvdread-devel)
+msgid ""
+"This package contains the include-files and static libraries for libdvdread."
+msgstr ""
+
+#. description(attr:libattr-devel)
+msgid ""
+"This package contains the libraries and header files needed to develop "
+"programs which make use of extended attributes. For Linux programs, the "
+"documented system call API is the recommended interface, but an SGI IRIX "
+"compatibility interface is also provided."
+msgstr ""
+
+#. description(imap:libc-client2007e_suse)
+msgid "This package contains the libraries for IMAP client programs."
+msgstr ""
+
+#. description(kdesdk4:kdesdk4-scripts)
+msgid ""
+"This package contains the scripts for KDE development which are contained in "
+"the kdesdk module."
+msgstr ""
+
+#. description(avogadro:libavogadro1)
+msgid ""
+"This package contains the shared libraries for Avogadro.\n"
+"\n"
+"Avogadro is an advanced molecular editor designed for cross-platform use in "
+"computational chemistry, molecular modeling, bioinformatics, materials "
+"science, and related areas. It offers flexible rendering and a powerful "
+"plugin architecture."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-decorations)
+msgid ""
+"This package contains window decorations for KDE which originate from the "
+"kdeartwork module."
+msgstr ""
+
+#. description(dicts:ispell-spanish)
+msgid ""
+"This package includes a ready Spanish dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(dicts:ispell-swedish)
+msgid ""
+"This package includes a ready Swedish dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(gconfmm:libgconfmm-2_6-1)
+msgid ""
+"This package provides a C++ interface for GConf. It is a subpackage of the "
+"gnomemm project. The interface provides a convenient interface for C++ "
+"programmers to use GConf with flexible object-oriented framework."
+msgstr ""
+
+#. description(libglademm)
+msgid ""
+"This package provides a C++ interface for libglade. It is a subpackage of "
+"the gnomemm project. The interface provides a convenient interface for C++ "
+"programmers to use libglade with flexible object-oriented framework."
+msgstr ""
+
+#. description(libgarcon:libgarcon-data)
+msgid "This package provides data files for garcon."
+msgstr ""
+
+#. description(libaio:libaio-devel)
+msgid ""
+"This package provides header files to include, and libraries to link with, "
+"for the Linux-native asynchronous I/O facility (\"async I/O\", or \"aio\")."
+msgstr ""
+
+#. description(keyutils:keyutils-devel)
+msgid "This package provides headers and libraries for building key utilities."
+msgstr ""
+
+#. description(freerdp:libfreerdp-1_0-plugins)
+msgid "This package provides plugins for libfreerdp-1_0."
+msgstr ""
+
+#. description(kdesdk4:kdesdk4-strigi)
+msgid ""
+"This package provides plugins for strigi that allow it to index translation "
+"files and diff files."
+msgstr ""
+
+#. description(apparmor:libapparmor1)
+msgid ""
+"This package provides the libapparmor library, which contains the change_hat"
+"(2) symbol, used for sub-process confinement by AppArmor, as well as "
+"functions to parse AppArmor log messages."
+msgstr ""
+
+#. description(xfce4-branding-openSUSE:libgarcon-branding-openSUSE)
+msgid "This package provides the openSUSE look and feel for Garcon."
+msgstr ""
+
+#. description(kiwi:kiwi-media-requires)
+msgid ""
+"This package recommends a set of packages which should be part of the DVD "
+"distribution. Some kiwi system/boot templates references those packages and "
+"it is assumed that they are part of the distributed source media (DVD)"
+msgstr ""
+
+#. description(kdesdk4:kde4-l10n-devel)
+msgid "This package suggests the packages, built from the kdesdk module."
+msgstr ""
+
+#. description(kdeadmin4:ksystemlog)
+msgid ""
+"This program is developed for use by beginner users, who do not know how to "
+"find information about their Linux system and how the log files are in their "
+"computer. But it is also designed for advanced users, who want to quickly "
+"see problems occurring on their server."
+msgstr ""
+
+#. description(kdegames4:konquest)
+msgid ""
+"This the KDE version of Gnu-Lactic Konquest, a multi-player strategy game. "
+"Players conquer other planets by sending ships to them. The goal is to build "
+"an interstellar empire and ultimately conquer all other player's planets."
+msgstr ""
+
+#. summary(kdegames4:kdiamond)
+msgid "Three-in-a-row game"
+msgstr ""
+
+#. summary(jhead)
+msgid "Tool to Manipulate the Nonimage Part of EXIF Compliant JPEG Files"
+msgstr ""
+
+#. summary(itstool)
+msgid "Tool to translate XML documents using PO files"
+msgstr ""
+
+#. summary(kexec-tools)
+msgid "Tools for fast kernel loading"
+msgstr ""
+
+#. summary(ktouch)
+msgid "Touch Typing Tutor"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-tr)
+msgid "Turkish (tr) translations for KDE"
+msgstr ""
+
+#. summary(kdetoys4:ktux)
+msgid "Tux Screen Saver"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ug)
+msgid "Uighur (ug) translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-uk-data)
+msgid "Ukrainian (uk) application data for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-uk-doc)
+msgid "Ukrainian (uk) manuals for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-uk)
+msgid "Ukrainian (uk) translations for KDE"
+msgstr ""
+
+#. summary(ca-certificates:java-ca-certificates)
+msgid "Utilities CA certificate import to gcj"
+msgstr ""
+
+#. description(ca-certificates:java-ca-certificates)
+msgid "Utilities for CA certificate installation for gcj and openjdk Java"
+msgstr ""
+
+#. description(jpackage-utils)
+msgid "Utilities for the JPackage project <http://www.jpackage.org/>."
+msgstr ""
+
+#. summary(apparmor:libapparmor1)
+msgid "Utility library for AppArmor"
+msgstr ""
+
+#. summary(jing)
+msgid "Validator for RELAX NG in Java"
+msgstr ""
+
+#. description(kdewebdev4:klinkstatus)
+msgid "Validator for links on HTML pages"
+msgstr ""
+
+#. summary(kwordquiz)
+msgid "Vocabulary Trainer"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-wa)
+msgid "Walloon (wa) translations for KDE"
+msgstr ""
+
+#. summary(iwidgets)
+msgid "Widget Extension for Tcl/Tk"
+msgstr ""
+
+#. summary(kdegames4:ksirk)
+msgid "World domination strategy game for KDE"
+msgstr ""
+
+#. summary(kdegames4:kiriki)
+msgid "Yahtzee-like dice game"
+msgstr ""
+
+#. description(kdegames4:kbounce)
+msgid ""
+"Your task in KBounce (Jezz Ball) is to catch several moving balls in a "
+"rectangular game field by building walls. The motivation consists of finding "
+"new and advanced strategies to catch as many balls as possible."
+msgstr ""
+
+#. description(iwidgets)
+msgid ""
+"[incr Widgets] is an object-oriented mega-widget set that extends Tcl/Tk and "
+"is based on [incr Tcl] and [incr Tk].  This set of mega-widgets delivers "
+"many new, general purpose widgets like option menus, comboboxes, selection "
+"boxes, and various dialogs whose counterparts are found in Motif and "
+"Windows. Since [incr Widgets] is based on the [incr Tk] extension, the Tk "
+"framework of configuration options, widget commands, and default bindings is "
+"maintained.  In other words, each [incr Widgets] mega-widget seamlessly "
+"blends with the standard Tk widgets. They look, act, and feel like Tk "
+"widgets. In addition, all [incr Widgets] mega-widgets are object oriented "
+"and may themselves be extended, using either inheritance or composition."
+msgstr ""
+
+#. description(babl:libbabl-0_1-0)
+msgid ""
+"babl is a dynamic, any to any, pixel format translation library.\n"
+"\n"
+"It allows converting between different methods of storing pixels known as "
+"pixel formats that have with different bitdepths and other data "
+"representations, color models and component permutations.\n"
+"\n"
+"A vocabulary to formulate new pixel formats from existing primitives is "
+"provided as well as the framework to add new color models and data types."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-si)
+msgid "descr"
+msgstr ""
+
+#. summary(ivtv:ivtv-firmware)
+msgid "driver implementation for iCompression or Conexant video capture cards"
+msgstr ""
+
+#. description(gdlmm:libgdlmm-3_0-1)
+msgid "gdlmm provides a C++ interface to the gdl library."
+msgstr ""
+
+#. description(libgmm++-devel)
+msgid ""
+"gmm++ is a generic C++ template library for sparse, dense and skyline "
+"matrices. It is built as a set of generic algorithms (mult, add, copy, sub-"
+"matrices, dense and sparse solvers ...) for any interfaced vector type or "
+"matrix type. It can be view as a glue library allowing cooperation between "
+"several vector and matrix types. However, basic sparse, dense and skyline "
+"matrix/vector types are built in Gmm++, hence it can be used as a standalone "
+"linear algebra library"
+msgstr ""
+
+#. description(jedit)
+msgid ""
+"jEdit is a cross-platform programmer's text editor written in Java. Some of "
+"jEdit's features include:\n"
+"\n"
+"* Built-in macro language (BeanShell).\n"
+"* Extensible plug-in architecture with more than 80 plug-ins    available.\n"
+"* Plug-ins can be downloaded and installed from within jEdit using    the "
+"plug-in manager feature.\n"
+"* Syntax highlighting for more than 80 languages.\n"
+"* Supports a large number of character encodings including UTF8 and    "
+"Unicode.\n"
+"* Auto-indenting of source code.\n"
+"* Folding (indent and marker based).\n"
+"* Word wrap.\n"
+"* Unlimited undo and redo.\n"
+"* Highly configurable and customizable.\n"
+"* Every other feature, both basic and advanced, that you would expect to "
+"find in a text editor."
+msgstr ""
+
+#. description(jing)
+msgid ""
+"jing is an XML validator implemented in Java. It validates against the RELAX "
+"NG schema language and implements the following features:\n"
+"\n"
+"* RELAX NG 1.0 Specification\n"
+"* RELAX NG Compact Syntax\n"
+"* Parts of RELAX NG DTD Compatibility (checking of ID/IDREF/IDREFS)\n"
+"\n"
+"It also comes with experimental support for schema languages other than "
+"RELAX NG:\n"
+"\n"
+"* W3C XML Schema (based on Xerces-J)\n"
+"* Schematron\n"
+"* Name Space Routing Language"
+msgstr ""
+
+#. description(kdump)
+msgid ""
+"kdump is a package that includes several scripts for kdump, including the "
+"init script /etc/init.d/kdump and the configuration file for kdump.\n"
+"\n"
+"The kernel package and this package are all that are required for a crash "
+"dump to occur. However, if you wish to debug the crash dump yourself you "
+"will need several debugging packages installed for each kernel flavor and "
+"release you wish to debug.\n"
+"\n"
+"For example, if you are debugging kernel-default, you will need:\n"
+"- kernel-default-debuginfo\n"
+"- kernel-default-devel\n"
+"- kernel-default-devel-debuginfo\n"
+"\n"
+"These packages are not needed to create the dump and can be installed after "
+"a crash dump has occured."
+msgstr ""
+
+#. description(kiwi:kiwi-desc-isoboot)
+msgid "kiwi boot (initrd) image for activating system images on ISO media"
+msgstr ""
+
+#. description(kiwi:kiwi-desc-vmxboot)
+msgid "kiwi boot (initrd) image for activating system images on virtual disk"
+msgstr ""
+
+#. description(kiwi:kiwi-desc-netboot)
+msgid "kiwi boot (initrd) image for activating system images via TFTP"
+msgstr ""
+
+#. description(libesmtp)
+msgid ""
+"libESMTP is a library to manage posting (or submission of) electronic mail "
+"using SMTP to a preconfigured Mail Transport Agent (MTA) such as Exim. It "
+"may be used as part of a Mail User Agent (MUA) or another program that must "
+"be able to post electronic mail but where mail functionality is not that "
+"program's primary purpose."
+msgstr ""
+
+#. description(libetpan:libetpan16)
+msgid ""
+"libEtPan is a mail purpose library. It will be used for low-level mail "
+"handling : network protocols (IMAP/NNTP/POP3/SMTP over TCP/IP and SSL/TCP/"
+"IP, already implemented), local storage (mbox/MH/maildir), message / MIME "
+"parse"
+msgstr ""
+
+#. description(libalkimia:libalkimia4)
+msgid ""
+"libalkimia is a library with common classes and functionality used by "
+"finance applications for the KDE SC."
+msgstr ""
+
+#. description(libcaca:libcaca0)
+msgid ""
+"libcaca is the Colour AsCii Art library. It provides high level functions "
+"for colour text drawing, simple primitives for line, polygon and ellipse "
+"drawing, as well as powerful image to text conversion routines."
+msgstr ""
+
+#. description(libcanberra:libcanberra-devel)
+msgid ""
+"libcanberra is an implementation of the XDG Sound Theme and Name "
+"Specifications, for generating event sounds on free desktops, such as GNOME. "
+"It comes with several backends (ALSA, PulseAudio, null) and is designed to "
+"be portable.\n"
+"\n"
+"This package provides the development files for libcanberra."
+msgstr ""
+
+#. description(libdbi:libdbi0)
+msgid ""
+"libdbi implements a database-independent abstraction layer in C, similar to "
+"the DBI/DBD layer in Perl. Writing one generic set of code, programmers can "
+"leverage the power of multiple databases and multiple simultaneous database "
+"connections by using this framework."
+msgstr ""
+
+#. description(libdmx:libdmx-devel)
+msgid ""
+"libdmx is an interface to the DMX extension for X, which allows a single "
+"server to be set up as a proxy spanning multiple servers -- not unlike "
+"Xinerama across discrete physical machines. It can be reconfigured on the "
+"fly to change the layout, and it is presented as a single logical display to "
+"clients.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libdmx1."
+msgstr ""
+
+#. description(libdrm:libdrm-devel)
+msgid ""
+"libdrm is a library for accessing the Direct Rendering Manager on Linux, BSD "
+"and other operating systes that support the ioctl interface, and for "
+"chipsets with DRM memory manager, support for tracking relocations and "
+"buffers. libdrm is a low-level library, typically used by graphics drivers "
+"such as the Mesa DRI and X drivers.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libdrm2."
+msgstr ""
+
+#. description(ebook-tools:libepub0)
+msgid "libepub library is needed for okular to support ebook format."
+msgstr ""
+
+#. description(dtc:libfdt1)
+msgid ""
+"libfdt is a library to process Open Firmware style device trees on various "
+"architectures."
+msgstr ""
+
+#. description(libfm:libfm1)
+msgid "libfm libraries for development"
+msgstr ""
+
+#. summary(xfce4-branding-openSUSE:libgarcon-branding-openSUSE)
+msgid "openSUSE Branding of libgarcon"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-si)
+msgid "summary"
+msgstr ""

@@ -1,0 +1,3032 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2012-06-21 16:20:39\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. description(perl-aliased)
+msgid ""
+"'aliased' is simple in concept but is a rather handy module. It loads the "
+"class you specify and exports into your namespace a subroutine that returns "
+"the class name. You can explicitly alias the class to another name or, if "
+"you prefer, you can do so implicitly. In the latter case, the name of the "
+"subroutine is the last part of the class name. Thus, it does something "
+"similar to the following:\n"
+"\n"
+"  \n"
+"\n"
+"  use Some::Annoyingly::Long::Module::Name::Customer;   sub Customer "
+"{     return 'Some::Annoyingly::Long::Module::Name::Customer';   }   my "
+"$cust = Customer->new;\n"
+"\n"
+"This module is useful if you prefer a shorter name for a class. It's also "
+"handy if a class has been renamed.\n"
+"\n"
+"(Some may object to the term \"aliasing\" because we're not aliasing one "
+"namespace to another, but it's a handy term. Just keep in mind that this is "
+"done with a subroutine and not with typeglobs and weird namespace munging.)\n"
+"\n"
+"Note that this is *only* for 'use'ing OO modules. You cannot use this to "
+"load procedural modules. See the Why OO Only? section. Also, don't let the "
+"version number fool you. This code is ridiculously simple and is just fine "
+"for most use."
+msgstr ""
+
+#. description(libxkbcommon:libxkbcommon-devel-32bit)
+msgid ""
+"(Upstream has not provided a description)\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libxkbcommon0."
+msgstr ""
+
+#. summary(greybird-theme:metatheme-greybird-common)
+msgid ""
+"A Clean Minimalistic Theme for GNOME, XFCE, GTK+ 2 and 3 -- Common Files"
+msgstr ""
+
+#. summary(libsidplay1:libsidplay1-32bit)
+msgid "A Library for C64 Music Files"
+msgstr ""
+
+#. summary(pam_radius:pam_radius-32bit)
+msgid "A PAM Module for User Authentication using a Radius Server"
+msgstr ""
+
+#. summary(pam_smb:pam_smb-32bit)
+msgid "A PAM Module for User Authentication using an NT Server"
+msgstr ""
+
+#. summary(pam_csync:pam_csync-32bit)
+msgid "A PAM module for roaming home directories"
+msgstr ""
+
+#. summary(objectweb-asm)
+msgid "A code manipulation tool to implement adaptable systems"
+msgstr ""
+
+#. description(SDL_mixer:libSDL_mixer-devel-32bit)
+msgid ""
+"A multi-channel audio mixer. It supports 4 channels of 16-bit stereo audio, "
+"plus a single channel of music, mixed by the popular MikMod MOD, Timidity "
+"MIDI, and SMPEG MP3 libraries."
+msgstr ""
+
+#. summary(lonote)
+msgid "A personal note-taking application by Python3-qt4"
+msgstr ""
+
+#. summary(libsocialweb:libsocialweb-branding-upstream)
+msgid "A personal social data server -- API keys from upstream"
+msgstr ""
+
+#. summary(openstack-swift:openstack-swift-account)
+msgid "A swift account server %null"
+msgstr ""
+
+#. summary(openstack-swift:openstack-swift-container)
+msgid "A swift container server %null"
+msgstr ""
+
+#. summary(openstack-swift:openstack-swift-object)
+msgid "A swift object server %null"
+msgstr ""
+
+#. summary(openstack-swift:openstack-swift-proxy)
+msgid "A swift proxy server %null"
+msgstr ""
+
+#. description(nml)
+msgid ""
+"A tool to compile nml files to grf or nfo files, making newgrf coding easier."
+msgstr ""
+
+#. summary(mytop)
+msgid "A top Clone for MySQL"
+msgstr ""
+
+#. description(openstack-quantum)
+msgid "A virtual network manager"
+msgstr ""
+
+#. summary(openstack-quantum)
+msgid "A virtual network manager %null"
+msgstr ""
+
+#. summary(mono-tools:monodoc-http)
+msgid "ASP.NET front-end for displaying Monodoc documentation"
+msgstr ""
+
+#. description(perl-Algorithm-Annotate)
+msgid ""
+"Algorithm::Annotate generates a list that is useful for generating output "
+"simliar to 'cvs annotate'."
+msgstr ""
+
+#. description(network-autoconfig)
+msgid ""
+"All available Ethernet network interfaces will be cycled until one is "
+"successfully configured. This script should run at the first boot of a "
+"machine that has several interfaces."
+msgstr ""
+
+#. summary(openCryptoki:openCryptoki-32bit)
+msgid ""
+"An Implementation of PKCS#11 (Cryptoki) v2.11 for IBM Cryptographic Hardware"
+msgstr ""
+
+#. summary(obs-service-recompress)
+msgid "An OBS source service: Recompress files"
+msgstr ""
+
+#. summary(obs-service-set_version)
+msgid "An OBS source service: Update spec file version"
+msgstr ""
+
+#. summary(obs-service-tar_scm)
+msgid "An OBS source service: checkout or update a tar ball from svn/git/hg"
+msgstr ""
+
+#. summary(obs-service-source_validator)
+msgid ""
+"An OBS source service: defines all source-validator checks used by Factory"
+msgstr ""
+
+#. summary(obs-service-download_files)
+msgid "An OBS source service: download files"
+msgstr ""
+
+#. summary(obs-service-verify_file)
+msgid "An OBS source service: file verification"
+msgstr ""
+
+#. summary(obs-service-format_spec_file)
+msgid "An OBS source service: reformats a spec file to SUSE standard"
+msgstr ""
+
+#. summary(openttd-openmsx)
+msgid "An OpenTTD Music set"
+msgstr ""
+
+#. description(openclipart:openclipart-png)
+msgid ""
+"An extensive set of clip art graphics that can be used for free.\n"
+"\n"
+"This package includes the pictures converted to the PNG graphics file format."
+msgstr ""
+
+#. description(openclipart:openclipart-svg)
+msgid ""
+"An extensive set of clip art graphics that can be used for free.\n"
+"\n"
+"This package includes the pictures in the original SVG graphics file format."
+msgstr ""
+
+#. summary(nini)
+msgid "An uncommonly powerful .NET configuration library"
+msgstr ""
+
+#. summary(logwatch)
+msgid "Analyzes and Reports on system logs"
+msgstr ""
+
+#. summary(nant)
+msgid "Ant for .NET"
+msgstr ""
+
+#. summary(lrcShow-X)
+msgid "Application for media-players to show and search lyrics"
+msgstr ""
+
+#. summary(arista:nautilus-extension-arista)
+msgid "Arista extension for Nautilus"
+msgstr ""
+
+#. description(arista:nautilus-extension-arista)
+msgid ""
+"Arista is a simple preset-based transcoder for the GNOME Desktop and a small "
+"script for terminal-based transcoding. Settings are chosen based on output "
+"device and quality preset.\n"
+"\n"
+"Features:  * Presets for Android, iPod, computer, DVD player, PSP, and more  "
+"* Live preview to see encoded quality  * Automatically discover available "
+"DVD drives and media  * Rip straight from DVD media easily  * Automatically "
+"discover and record from Video4Linux devices  * Support for H.264, WebM, "
+"FLV, Ogg, DivX and more  * Batch processing of entire directories easily  * "
+"Simple terminal client for scripting  * Nautilus extension for right-click "
+"file conversion\n"
+"\n"
+"This package contains a Nautilus extension to add Arista based actions."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-assamese)
+msgid "Assamese Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-asturian)
+msgid "Asturian Dictionary for MySpell"
+msgstr ""
+
+#. summary(librubberband:librubberband2-32bit)
+msgid "Audio time-stretching and pitch-shifting library"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-belarusian)
+msgid "Belarusian Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-bengali)
+msgid "Bengali Dictionary for MySpell"
+msgstr ""
+
+#. summary(monotorrent)
+msgid "BitTorrent Client written in C#"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-bolivian)
+msgid "Bolivian Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-breton)
+msgid "Breton Dictionary for MySpell"
+msgstr ""
+
+#. summary(netbeans-platform:netbeans-platform-harness)
+msgid "Build harness for NetBeans Platform 11"
+msgstr ""
+
+#. description(nagios-plugins-rsync)
+msgid ""
+"Checks rsync servers availability, as well as (optionally) individual "
+"modules availability. It also supports authentication on modules.\n"
+"\n"
+"Usage: check_rsync -H  [-p ] [-m [,,] [-m [,,]...]]\n"
+"\n"
+"The only required argument is -H, in which case it will only try to list "
+"modules on the Rsync server."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-chichewa)
+msgid "Chichewa Dictionary for MySpell"
+msgstr ""
+
+#. summary(mono-upnp)
+msgid "Client/server libraries for the Universal Plug 'n Play specifications"
+msgstr ""
+
+#. summary(mono-upnp:mono-upnp-devel)
+msgid ""
+"Client/server libraries for the Universal PnP specification - development "
+"files"
+msgstr ""
+
+#. summary(openSUSE-EULAs)
+msgid "Collection of EULAs for openSUSE"
+msgstr ""
+
+#. description(librecad:librecad-parts)
+msgid ""
+"Collection of parts for LibreCAD, a Qt4 application to design 2D CAD "
+"drawings."
+msgstr ""
+
+#. description(osc)
+msgid ""
+"Commandline client for the openSUSE Build Service.\n"
+"\n"
+"See http://en.opensuse.org/openSUSE:OSC , as well as http://en.opensuse.org/"
+"openSUSE:Build_Service_Tutorial for a general introduction."
+msgstr ""
+
+#. summary(nspluginwrapper)
+msgid "Compatibility Layer for Netscape 4 Plug-Ins"
+msgstr ""
+
+#. summary(opensuse-manuals_ru)
+msgid "Complete set of openSUSE Manuals (HTML, Russian)"
+msgstr ""
+
+#. summary(vigra:libvigraimpex2-32bit)
+msgid "Computer vision Library"
+msgstr ""
+
+#. summary(netconsole-tools)
+msgid "Configure netconsole Kernel Module"
+msgstr ""
+
+#. description(mathml-dtd)
+msgid ""
+"Contains the DTD \"Mathematical Markup Language\" (MathML) Version 2.0, W3C "
+"Recommendation 21 February 2001."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-coptic)
+msgid "Coptic Dictionary for MySpell"
+msgstr ""
+
+#. summary(makebootfat)
+msgid "Create Bootable FAT File Systems"
+msgstr ""
+
+#. description(makebootfat)
+msgid "Create bootable FAT file systems, mainly for USB disks."
+msgstr ""
+
+#. summary(livedtd)
+msgid "DTD Visualizing Tool"
+msgstr ""
+
+#. description(licq:licq-qt4-gui-data)
+msgid "Data files for the Qt4 Licq plug-in."
+msgstr ""
+
+#. summary(libucil:libucil-doc)
+msgid "Dcoumentation for libucil"
+msgstr ""
+
+#. description(mozilla-nss:mozilla-nss-sysinit-32bit)
+msgid ""
+"Default Operation System module that manages applications loading NSS "
+"globally on the system. This module loads the system defined PKCS #11 "
+"modules for NSS and chains with other NSS modules to load any system or user "
+"configured modules."
+msgstr ""
+
+#. summary(openttd-opengfx)
+msgid "Default baseset graphics for OpenTTD"
+msgstr ""
+
+#. summary(libstatgrab:libstatgrab-devel-32bit)
+msgid "Development Environment for libstatgrab"
+msgstr ""
+
+#. description(libstatgrab:libstatgrab-devel-32bit)
+msgid ""
+"Development environment for libstatgrab (headers, library links, static "
+"library)."
+msgstr ""
+
+#. summary(ding-libs:libref_array-devel-32bit)
+msgid "Development files for libref_array"
+msgstr ""
+
+#. summary(lzo:lzo-devel-32bit)
+msgid "Development files for lzo"
+msgstr ""
+
+#. summary(netcf:netcf-devel-32bit)
+msgid "Development files for netcf"
+msgstr ""
+
+#. summary(libxkbcommon:libxkbcommon-devel-32bit)
+msgid "Development files for the Wayland libxkbcommon library"
+msgstr ""
+
+#. description(libucil:libucil-doc)
+msgid "Documentation and help files for libucil"
+msgstr ""
+
+#. summary(pam:pam-doc)
+msgid "Documentation for Pluggable Authentication Modules"
+msgstr ""
+
+#. description(log4j:log4j-manual)
+msgid "Documentation for log4j."
+msgstr ""
+
+#. summary(openstack-swift:openstack-swift-doc)
+msgid "Documentation for openstack-swift %null"
+msgstr ""
+
+#. summary(gcc47:libstdc++47-doc)
+msgid "Documentation for the GNU C++ standard library"
+msgstr ""
+
+#. summary(libxfce4ui:libxfce4ui-doc)
+msgid "Documentation for the libxfce4ui Library"
+msgstr ""
+
+#. summary(libvorbis:libvorbis-doc)
+msgid "Documentation of Ogg/Vorbis library"
+msgstr ""
+
+#. summary(perl-App-Nopaste:nopaste)
+msgid "Easy access to any pastebin"
+msgstr ""
+
+#. summary(littlewizard-examples)
+msgid "Example files for Little Wizard"
+msgstr ""
+
+#. description(gcc47:libstdc++47-doc)
+msgid "Extensive HTML documentation for the GNU C++ standard library."
+msgstr ""
+
+#. summary(libreoffice-openclipart)
+msgid "Extra Galleries for LibreOffice"
+msgstr ""
+
+#. summary(network-autoconfig)
+msgid "Find a connected eth interface and create an ifcfg for it"
+msgstr ""
+
+#. summary(maya-fonts)
+msgid "Font with basic Maya glyphs"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-friulian)
+msgid "Friulian Dictionary for MySpell"
+msgstr ""
+
+#. summary(pidgin:libpurple-branding-upstream)
+msgid "GLib-based Instant Messenger Library -- Upstream default configuration"
+msgstr ""
+
+#. summary(libwmf:libwmf-gnome-32bit)
+msgid "GNOME plugin for displaying and Converting Metafile Images"
+msgstr ""
+
+#. summary(oxygen-molecule)
+msgid "GTK theme to match KDE desktop environment"
+msgstr ""
+
+#. summary(gtk2-metatheme-sonar:metatheme-sonar-common)
+msgid "GTK+ and Metacity Sonar Theme -- Common Files"
+msgstr ""
+
+#. description(opensuse-manuals_de:opensuse-startup_de-pdf)
+msgid ""
+"Guides you through the installation and basic configuration of your system. "
+"For newcomers, the manual also introduces basic Linux concepts such as the "
+"file system, the user concept and access permissions and gives an overview "
+"of the features the system offers to support mobile computing. Provides help "
+"and advice in troubleshooting."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-haitian)
+msgid "Haitian Dictionary for MySpell"
+msgstr ""
+
+#. summary(mtpaint:mtpaint-handbook)
+msgid "Handbook for the mtpaint painting application"
+msgstr ""
+
+#. description(netbeans-platform:netbeans-platform-harness)
+msgid ""
+"Harness with build scripts and ant tasks for everyone who build an "
+"application on top of NetBeans Platform"
+msgstr ""
+
+#. summary(lucene)
+msgid "High-performance, full-featured text search engine"
+msgstr ""
+
+#. summary(otrs:otrs-itsm)
+msgid "ITIL (R) focused IT service management"
+msgstr ""
+
+#. description(openstack-quickstart)
+msgid ""
+"Includes scripts and configs to easily generate an openstack demo setup."
+msgstr ""
+
+#. description(mtpaint:mtpaint-handbook)
+msgid ""
+"Install this package is want to read the handbook for the painting "
+"application mtpaint."
+msgstr ""
+
+#. summary(loki_setup:loki_setup-64bit)
+msgid "Installer Program Mainly for Games"
+msgstr ""
+
+#. summary(nautilus-terminal)
+msgid "Integrated Terminal for the Nautilus File Browser"
+msgstr ""
+
+#. summary(netcomponents)
+msgid "Internet Protocol Suite Java Library"
+msgstr ""
+
+#. description(lucene)
+msgid ""
+"Jakarta Lucene is a high-performance, full-featured text search engine "
+"written entirely in Java. It is a technology suitable for nearly any "
+"application that requires full-text search, especially cross-platform."
+msgstr ""
+
+#. summary(motoya-lcedar-fonts)
+msgid "Japanese gothic-typeface fonts designed by Motoya"
+msgstr ""
+
+#. summary(motoya-lmaru-fonts)
+msgid "Japanese round-gothic-typeface fonts designed by Motoya"
+msgstr ""
+
+#. summary(libreadline-java:libreadline-java-32bit)
+msgid "Java Wrapper for the GNU Readline Library"
+msgstr ""
+
+#. summary(log4j:log4j-javadoc)
+msgid "Java logging tool (Documentation)"
+msgstr ""
+
+#. summary(log4j:log4j-manual)
+msgid "Java logging tool (Manual)"
+msgstr ""
+
+#. summary(log4j-mini)
+msgid ""
+"Java logging tool (internal featureless package breaking dependency loop)"
+msgstr ""
+
+#. description(netbeans-javaparser)
+msgid "Java parser to analyse Java source files inside of the NetBeans IDE"
+msgstr ""
+
+#. description(libreadline-java:libreadline-java-32bit)
+msgid ""
+"Java-Readline is a port of GNU Readline for Java.  To be more precise, it is "
+"a JNI wrapper for Readline. It is distributed under the LGPL."
+msgstr ""
+
+#. summary(netbeans-platform:netbeans-platform-javadoc)
+msgid "Javadoc documentation for NetBeans Platform 11"
+msgstr ""
+
+#. description(log4j:log4j-javadoc)
+msgid "Javadoc for log4j."
+msgstr ""
+
+#. summary(mx4j:mx4j-javadoc)
+msgid "Javadoc for mx4j"
+msgstr ""
+
+#. summary(netcomponents:netcomponents-javadoc)
+msgid "Javadoc for netcomponents"
+msgstr ""
+
+#. summary(objectweb-asm:objectweb-asm-javadoc)
+msgid "Javadoc for objectweb-asm"
+msgstr ""
+
+#. summary(oro:oro-javadoc)
+msgid "Javadoc for oro"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-kazakh)
+msgid "Kazakh Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-khmer)
+msgid "Khmer Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-kichwa)
+msgid "Kichwa Dictionary for MySpell"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-kikuyu)
+msgid "Kikuyu Dictionary for MySpell"
+msgstr ""
+
+#. summary(man-pages-fr)
+msgid "LDP man Pages (French)"
+msgstr ""
+
+#. description(lzo:lzo-devel-32bit)
+msgid ""
+"LZO is a portable lossless data compression library written in ANSI C. It "
+"offers pretty fast compression and very fast decompression. Decompression "
+"requires no memory. LZO is suitable for data de-/compression in real-time. "
+"This means it favours speed over compression ratio."
+msgstr ""
+
+#. summary(NetworkManager-novellvpn:NetworkManager-novellvpn-lang)
+msgid "Languages for package NetworkManager-novellvpn"
+msgstr ""
+
+#. summary(NetworkManager-openconnect:NetworkManager-openconnect-lang)
+msgid "Languages for package NetworkManager-openconnect"
+msgstr ""
+
+#. summary(NetworkManager-strongswan:NetworkManager-strongswan-lang)
+msgid "Languages for package NetworkManager-strongswan"
+msgstr ""
+
+#. summary(bot-sentry:libpurple-plugin-bot-sentry-lang)
+msgid "Languages for package bot-sentry"
+msgstr ""
+
+#. summary(lrcShow-X:lrcShow-X-lang)
+msgid "Languages for package lrcShow-X"
+msgstr ""
+
+#. summary(memprof:memprof-lang)
+msgid "Languages for package memprof"
+msgstr ""
+
+#. summary(mercurial:mercurial-lang)
+msgid "Languages for package mercurial"
+msgstr ""
+
+#. summary(midori:midori-lang)
+msgid "Languages for package midori"
+msgstr ""
+
+#. summary(muffin:muffin-lang)
+msgid "Languages for package muffin"
+msgstr ""
+
+#. summary(nautilus-actions:nautilus-actions-lang)
+msgid "Languages for package nautilus-actions"
+msgstr ""
+
+#. summary(nautilus-image-converter:nautilus-image-converter-lang)
+msgid "Languages for package nautilus-image-converter"
+msgstr ""
+
+#. summary(nautilus-search-tool:nautilus-search-tool-lang)
+msgid "Languages for package nautilus-search-tool"
+msgstr ""
+
+#. summary(net6:net6-lang)
+msgid "Languages for package net6"
+msgstr ""
+
+#. summary(obby:obby-lang)
+msgid "Languages for package obby"
+msgstr ""
+
+#. summary(osdlyrics:osdlyrics-lang)
+msgid "Languages for package osdlyrics"
+msgstr ""
+
+#. summary(parole:parole-lang)
+msgid "Languages for package parole"
+msgstr ""
+
+#. summary(pdf2djvu:pdf2djvu-lang)
+msgid "Languages for package pdf2djvu"
+msgstr ""
+
+#. summary(pidgin-mrim:libpurple-plugin-mrim-lang)
+msgid "Languages for package pidgin-mrim"
+msgstr ""
+
+#. summary(pidgin-openfetion:libpurple-plugin-openfetion-lang)
+msgid "Languages for package pidgin-openfetion"
+msgstr ""
+
+#. summary(skype4pidgin:libpurple-plugin-skype-lang)
+msgid "Languages for package skype4pidgin"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-latin)
+msgid "Latin Dictionary for MySpell"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-sh)
+msgid "Latin Serbian Localization Files for LibreOffice"
+msgstr ""
+
+#. description(libreoffice-l10n:libreoffice-l10n-sh)
+msgid "Latin Serbian localization files for LibreOffice."
+msgstr ""
+
+#. summary(limal-devtools)
+msgid "LiMaL--Development Tools"
+msgstr ""
+
+#. description(libthai:libthai0-32bit)
+msgid ""
+"LibThai is a set of Thai language support routines aimed to ease developers' "
+"tasks to incorporate Thai language support in their applications. It "
+"includes important Thai-specific functions, such as word breaking, input and "
+"output methods, and basic character and string support."
+msgstr ""
+
+#. summary(SDL_gfx:libSDL_gfx-devel-32bit)
+msgid "Libraries, includes and more to develop SDL_gfx applications"
+msgstr ""
+
+#. summary(SDL_image:libSDL_image-devel-32bit)
+msgid "Libraries, includes and more to develop SDL_image applications"
+msgstr ""
+
+#. summary(SDLmm:libSDLmm-devel-32bit)
+msgid "Libraries, includes and more to develop SDLmm applications"
+msgstr ""
+
+#. summary(pango:pango-module-thai-lang-32bit)
+msgid ""
+"Library for Layout and Rendering of Text -- Module for the Thai Language"
+msgstr ""
+
+#. summary(vamp-plugin-sdk:libvamp-sdk2-32bit)
+msgid "Library for Vamp audio analysis plugins"
+msgstr ""
+
+#. description(libsocialweb:libsocialweb-branding-upstream)
+msgid ""
+"Libsocialweb is a personal social data server, that can interact with social "
+"web services, like Flickr, Last.fm, Twitter and Vimeo.\n"
+"\n"
+"This package provides API keys from upstream, for the web services "
+"accessible with libsocialweb."
+msgstr ""
+
+#. description(libvirt:libvirt-devel-32bit)
+msgid ""
+"Libvirt is a C toolkit to interact with the virtualization capabilities of "
+"Linux. The libvirt-devel package contains headers and libraries needed for "
+"developing libvirt applications."
+msgstr ""
+
+#. summary(loadlin)
+msgid "Linux Loader with Command Line from DOS"
+msgstr ""
+
+#. summary(pam_chroot:pam_chroot-32bit)
+msgid "Linux-PAM Module that Allows a User to Be Chrooted"
+msgstr ""
+
+#. description(littlewizard-examples)
+msgid ""
+"Little Wizard is created especially for primary school children. It allows "
+"to learn using main elements of present computer languages, including: "
+"variables, expressions, loops, conditions, logical blocks. Every element of "
+"language is represented by an intuitive icon. It allows program Little "
+"Wizard without using keyboard, only mouse.\n"
+"\n"
+"This package contains example files for Little Wizard."
+msgstr ""
+
+#. description(logwatch)
+msgid ""
+"Logwatch is a customizable, pluggable log-monitoring system. It will go "
+"through your logs for a given period of time and make a report in the areas "
+"that you wish with the detail that you wish."
+msgstr ""
+
+#. description(lonote)
+msgid ""
+"Lonote is a personal note-taking application by Python3-qt4. It features in "
+"well interact UI, minimal design, structural notes, auto reloading, "
+"archiving and versioning."
+msgstr ""
+
+#. description(mumble:mumble-32bit)
+msgid ""
+"Low-latency, high-quality voice communication for gamers. Includes game "
+"linking, so voice from other players comes from the direction of their "
+"characters, and has echo cancellation so the sound from your loudspeakers "
+"won't be audible to other players."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-lower-sorbian)
+msgid "Lower sorbian Dictionary for MySpell"
+msgstr ""
+
+#. description(lynis)
+msgid ""
+"Lynis is a security and system auditing tool. It scans a system on the most "
+"interesting parts useful for audits, like:      - Security enhancements      "
+"- Logging and auditing options      - Banner identification      - Software "
+"availability\n"
+"\n"
+"Lynis is released as a GPL licensed project and free for everyone to use.\n"
+"\n"
+"See http://www.rootkit.nl for a full description and documentation."
+msgstr ""
+
+#. summary(mpc:mpc-devel-32bit)
+msgid "MPC multiple-precision complex library development files"
+msgstr ""
+
+#. description(mpc:mpc-devel-32bit)
+msgid "MPC multiple-precision complex library development files."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-maithili)
+msgid "Maithili Dictionary for MySpell"
+msgstr ""
+
+#. summary(makeself)
+msgid "Make self-extractable archives on Unix"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-malayalam)
+msgid "Malayalam Dictionary for MySpell"
+msgstr ""
+
+#. summary(mx4j:mx4j-manual)
+msgid "Manual for mx4j"
+msgstr ""
+
+#. summary(marble:marble-doc)
+msgid "Marble documentation"
+msgstr ""
+
+#. description(marble:marble-doc)
+msgid ""
+"Marble is a viewer of map data. This package contains its documentation."
+msgstr ""
+
+#. summary(mathml-dtd)
+msgid "MathML DTD"
+msgstr ""
+
+#. description(maya-fonts)
+msgid ""
+"Maya covers the glyphs in J. Eric S. Thompson’s “A Catalog of Maya "
+"Hieroglyphs”, as well as some extra glyphs for days, months and numbers. "
+"This is a work-font that may be of some scholarly use; it is not a proposal "
+"of any kind. There are no plans to improve or expand it."
+msgstr ""
+
+#. summary(meslo-lg-fonts)
+msgid "Meslo LG Font Family"
+msgstr ""
+
+#. description(meslo-lg-fonts)
+msgid ""
+"Meslo LG is a customized version of Apple's Menlo-Regular font (which is a "
+"customized Bitstream Vera Sans Mono)."
+msgstr ""
+
+#. summary(perl-Algorithm-C3)
+msgid "Module for merging hierarchies using the C3 algorithm"
+msgstr ""
+
+#. description(pam_smb:pam_smb-32bit)
+msgid ""
+"Module pam_smb is a PAM module which allows authentication of UNIX users "
+"using an NT server."
+msgstr ""
+
+#. description(monit:monit-doc)
+msgid ""
+"Monit is a utility for managing and monitoring processes, files, "
+"directories, and devices on a Unix system.  Monit conducts automatic "
+"maintenance and repair and can execute meaningful causal actions in error "
+"situations.  For example, monit can start a process if it does not run, "
+"restart a process if it does not respond, and stop a process if it uses too "
+"many resources.\tYou can use monit to monitor files, directories, and "
+"devices for changes, such as time stamp changes, checksum changes, or size "
+"changes. You can even use monit to monitor remote hosts: monit can ping a "
+"remote host and check port connections.\n"
+"\n"
+"This package only contains the documentation and examples. You must also "
+"install the package monit to actually use monit."
+msgstr ""
+
+#. summary(mono-addins:mono-addins-msbuild)
+msgid "Mono Addins Framework, MSBuild Support"
+msgstr ""
+
+#. description(mono-addins:mono-addins-msbuild)
+msgid ""
+"Mono.Addins is a generic framework for creating extensible applications, and "
+"for creating libraries which extend those applications.\n"
+"\n"
+"This package contains MSBuild tasks file and target, which allows using add-"
+"in references directly in a build file (still experimental)."
+msgstr ""
+
+#. description(mono-upnp)
+msgid ""
+"Mono.Upnp is a set of client/server libraries for the Universal Plug 'n Play "
+"specifications (see http://www.upnp.org)."
+msgstr ""
+
+#. description(mono-upnp:mono-upnp-devel)
+msgid ""
+"Mono.Upnp is a set of client/server libraries for the Universal Plug 'n Play "
+"specifications (see http://www.upnp.org).\n"
+"\n"
+"This package provides the development files."
+msgstr ""
+
+#. description(mono-upnp:mono-upnp-tests)
+msgid ""
+"Mono.Upnp is a set of client/server libraries for the Universal Plug 'n Play "
+"specifications (see http://www.upnp.org).\n"
+"\n"
+"This package provides the unit tests."
+msgstr ""
+
+#. description(monotorrent)
+msgid ""
+"MonoTorrent is a .NET based library which supports hosting a BitTorrent "
+"Tracker and also hosting a BitTorrent client. As such it can be used to both "
+"add torrent downloading functionality to an application and/or add torrent "
+"hosting functionality."
+msgstr ""
+
+#. description(mono-tools:monodoc-http)
+msgid ""
+"Monodoc-http provides an ASP.NET front-end for displaying installed Monodoc "
+"documentation."
+msgstr ""
+
+#. summary(xulrunner:mozilla-js-32bit)
+msgid "Mozilla JS engine"
+msgstr ""
+
+#. description(nant)
+msgid ""
+"NAnt is a free .NET build tool. In theory it is kind of like make without "
+"make's wrinkles. In practice it's a lot like Ant."
+msgstr ""
+
+#. summary(nss-pam-ldapd:nss-pam-ldapd-32bit)
+msgid "NSS module and daemon for using LDAP as a naming service"
+msgstr ""
+
+#. description(nagios-plugins-nis)
+msgid ""
+"Nagios plugin (script) to check the status of a NIS server on a specified "
+"host and NIS domain by asking NIS server for \"passwd.byname\".\n"
+"\n"
+"As an additional check, a username may be specified which will then be "
+"\"looked up\" on the NIS server, note that this is optional and only "
+"introduced in v1.1\n"
+"\n"
+"Script returns OK if it gets an acceptable answer, CRITICAL if not.\n"
+"\n"
+"This *nix script has been designed and written for the lowest common "
+"denominator of shells (sh), uses yppoll, ypcat and grep as external commands."
+msgstr ""
+
+#. summary(nagios-plugins-rsync)
+msgid "Nagios plugin for checking rsync servers availability"
+msgstr ""
+
+#. summary(nagios-plugins-zypper)
+msgid "Nagios plugin for checking software updates"
+msgstr ""
+
+#. summary(nagios-plugins-nis)
+msgid ""
+"Nagios plugin to check the status of a NIS server on a specified host and "
+"NIS domain"
+msgstr ""
+
+#. summary(nagstamon)
+msgid "Nagios status monitor for the desktop"
+msgstr ""
+
+#. description(nagstamon)
+msgid ""
+"Nagstamon is a Nagios status monitor which takes place in systray or on "
+"desktop (GNOME, KDE, Windows) as floating statusbar to inform you in "
+"realtime about the status of your Nagios and derivatives monitored network. "
+"It allows to connect to multiple Nagios, Icinga, Opsview, Op5, Check_MK/"
+"Multisite and Centreon servers."
+msgstr ""
+
+#. description(nautilus-terminal)
+msgid ""
+"Nautilus Terminal is an integrated terminal for the Nautilus file browser."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-ndebele)
+msgid "Ndebele Dictionary for MySpell"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-nr)
+msgid "Ndebele Localization Files for LibreOffice"
+msgstr ""
+
+#. description(libreoffice-l10n:libreoffice-l10n-nr)
+msgid "Ndebele localization files for LibreOffice."
+msgstr ""
+
+#. description(nested)
+msgid ""
+"Nested is a specialized editor focused on creating structured documents such "
+"as reports, publications, presentations, books, etc. It is designed to help "
+"the user concentrate on writing content without been distracted by format or "
+"markup. It offers a rich WYSIWYM interface where the user writes plain text "
+"with a lightweight markup language."
+msgstr ""
+
+#. summary(netbeans-javaparser)
+msgid "NetBeans Java Parser"
+msgstr ""
+
+#. summary(netbeans-platform)
+msgid "NetBeans Platform 11"
+msgstr ""
+
+#. description(netbeans-platform:netbeans-platform-javadoc)
+msgid ""
+"NetBeans Platform is a set of modules, each providing their own APIs and "
+"working together or in a standalone mode. This package provides one master "
+"javadoc to all of them."
+msgstr ""
+
+#. description(netcomponents)
+msgid ""
+"NetComponents is an Internet protocol suite Java library originally "
+"developed by ORO, Inc.\tThis version supports Finger, Whois, TFTP, Telnet, "
+"POP3, FTP, NNTP, SMTP, and some miscellaneous protocols like Time and Echo "
+"as well as BSD R command support.  The purpose of the library is to provide "
+"fundamental protocol access, not higher-level abstractions.  Therefore, some "
+"of the design violates object-oriented design principles.  Its philosophy is "
+"to make the global functionality of a protocal accesible (for example, TFTP "
+"send file and receive file) when possible, but also provide access to the "
+"fundamental protocols where applicable so that the programmer can construct "
+"custom implementations (for example, the TFTP packet classes and the TFTP "
+"packet send and receive methods are exposed)."
+msgstr ""
+
+#. description(netcomponents:netcomponents-javadoc)
+msgid ""
+"NetComponents, is an Internet protocol suite Java library originally "
+"developed by ORO, Inc.\tThis version supports Finger, Whois, TFTP, Telnet, "
+"POP3, FTP, NNTP, SMTP, and some miscellaneous protocols like Time and Echo "
+"as well as BSD R command support.  The purpose of the library is to provide "
+"fundamental protocol access, not higher-level abstractions.  Therefore, some "
+"of the design violates object-oriented design principles.  Our philosophy is "
+"to make the global functionality of a protocal accesible (e.g., TFTP send "
+"file and receive file) when possible, but also provide access to the "
+"fundamental protocols where applicable so that the programmer may construct "
+"his own custom implementations (e.g, the TFTP packet classes and the TFTP "
+"packet send and receive methods are exposed).\n"
+"\n"
+"This package contains the javadoc documentation for netcomponents."
+msgstr ""
+
+#. summary(npapi-sdk)
+msgid "Netscape Plugin API (NPAPI)"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-new-zealand)
+msgid "New Zealand Dictionary for MySpell"
+msgstr ""
+
+#. summary(nml)
+msgid "NewGRF Meta Language"
+msgstr ""
+
+#. summary(gtk2-metatheme-nimbus:nimbus-icon-theme)
+msgid "Nimbus Icon Theme"
+msgstr ""
+
+#. description(nini)
+msgid ""
+"Nini is an uncommonly powerful .NET configuration library designed to help "
+"build highly configurable applications quickly."
+msgstr ""
+
+#. description(libvdpau:libvdpau-devel-32bit)
+msgid ""
+"Note that this package only contains the VDPAU headers that are required to "
+"build applications. At runtime, the shared libraries are needed too and may "
+"be installed using the proprietary nVidia driver packages."
+msgstr ""
+
+#. summary(gconf2-branding-SLES:novell-sound-theme)
+msgid "Novell Sound Theme"
+msgstr ""
+
+#. summary(otrs:otrs-doc)
+msgid "OTRS Documentation"
+msgstr ""
+
+#. description(otrs)
+msgid ""
+"OTRS is an Open source Ticket Request System with many features to manage "
+"customer telephone calls and e-mails. It is distributed under the GNU AFFERO "
+"General Public License (AGPL) and tested on Linux, Solaris, AIX, Windows, "
+"FreeBSD, OpenBSD and Mac OS 10.x. Do you receive many e-mails and want to "
+"answer them with a team of agents? You're going to love OTRS!\n"
+"\n"
+"Feature list: see README\n"
+"\n"
+"Authors list: see CREDITS"
+msgstr ""
+
+#. description(otrs:otrs-itsm)
+msgid ""
+"OTRS::ITSM implements ITIL (R) focused IT service management.\n"
+"\n"
+"You need a OTRS 3.1.6 (http://otrs.org/) installation.\n"
+"\n"
+"Make sure your database accepts packages over 5 MB in size. A MySQL database "
+"for example accepts packages up to 1 MB by default. In this case, the value "
+"for max_allowed_packet must be increased. The recommended maximum size "
+"accepted is 20 MB.\n"
+"\n"
+"for INSTALL see INSTALL-3.1.ITSM please see README.itsm for further details, "
+"which comes with otrs package\n"
+"\n"
+"Required OTRS::ITSM modules can be found under /srv/otrs/itsm\n"
+"\n"
+"Authors list: see CREDITS"
+msgstr ""
+
+#. summary(objectweb-anttask)
+msgid "ObjectWeb Ant task"
+msgstr ""
+
+#. description(offlineimap)
+msgid ""
+"OfflineIMAP is a tool to synchronize IMAP and Maildir mailboxes which is "
+"very fast due to its multithreaded synchronization algorithm.  It offers "
+"several user interfaces and is generally very configurable providing a great "
+"number of settings for controlling its behavior, tuning performance.  "
+"Specifically, there are several sophisticated and flexible mechanisms for "
+"determining the list of maiilboxes to synchronize.  Furthermore, it supports "
+"internal or external automation, SSL and PREAUTH tunnels, offline (or "
+"\"unplugged\") reading, and a variety of esoteric IMAP features for "
+"compatibility with the widest variety of IMAP servers.  OfflineIMAP is "
+"designed for safety in terms of avoiding the loss of mails under any "
+"circumstances."
+msgstr ""
+
+#. summary(openclipart:openclipart-png)
+msgid "Open Clip Art Library in the PNG File Format"
+msgstr ""
+
+#. summary(openclipart:openclipart-svg)
+msgid "Open Clip Art Library in the SVG File Format"
+msgstr ""
+
+#. summary(openmarkup)
+msgid "Open Markup Interface for object realizers and XML object realization"
+msgstr ""
+
+#. summary(OpenLP)
+msgid "Open source Church presentation and lyrics projection application"
+msgstr ""
+
+#. description(open-ovf)
+msgid ""
+"Open-OVF project is an open source library and tools designed to promote "
+"adoption of the OVF (Open Virtual Machine Format) specification as an "
+"industry standard."
+msgstr ""
+
+#. summary(opengost-fonts:opengost-otf-fonts)
+msgid "Open-source Russian GOST Fonts (OpenType Format)"
+msgstr ""
+
+#. summary(opengost-fonts:opengost-ttf-fonts)
+msgid "Open-source Russian GOST Fonts (TrueType Format)"
+msgstr ""
+
+#. description(opengost-fonts:opengost-otf-fonts)
+msgid ""
+"Open-source version of the fonts by Russian standard GOST 2.304-81 «Letters "
+"for drawings».\n"
+"\n"
+"This package contains fonts in OpenType format."
+msgstr ""
+
+#. description(opengost-fonts:opengost-ttf-fonts)
+msgid ""
+"Open-source version of the fonts by Russian standard GOST 2.304-81 «Letters "
+"for drawings».\n"
+"\n"
+"This package contains fonts in TrueType format."
+msgstr ""
+
+#. description(openttd-opengfx)
+msgid ""
+"OpenGFX is an open source graphics base set designed to be used by OpenTTD.\n"
+"\n"
+"OpenGFX provides a set of free and open source base graphics, and aims to "
+"ensure the best possible out-of-the-box experience with OpenTTD."
+msgstr ""
+
+#. description(mx4j:mx4j-javadoc)
+msgid ""
+"OpenJMX is an open source implementation of the Java(TM) Management "
+"Extensions (JMX).\n"
+"\n"
+"This package contains the javadoc documentation for OpenJMX."
+msgstr ""
+
+#. description(mx4j:mx4j-manual)
+msgid ""
+"OpenJMX is an open source implementation of the Java(TM) Management "
+"Extensions (JMX).\n"
+"\n"
+"This package contains the manual for OpenJMX."
+msgstr ""
+
+#. summary(openldap2:openldap2-doc)
+msgid "OpenLDAP Documentation"
+msgstr ""
+
+#. description(OpenLP)
+msgid ""
+"OpenLP is a church presentation software, for lyrics projection software, "
+"used to display slides of Songs, Bible verses, videos, images, and "
+"presentations via LibreOffice using a computer and projector."
+msgstr ""
+
+#. description(openttd-openmsx)
+msgid ""
+"OpenMSX is an open source replacement for the original Transport Tycoon "
+"Deluxe (TTD) music. All contributions are licensed under the GPL v2."
+msgstr ""
+
+#. summary(openstack-swift)
+msgid "OpenStack Object Storage (swift) %null"
+msgstr ""
+
+#. description(openstack-swift:openstack-swift-doc)
+msgid ""
+"OpenStack Object Storage (swift) aggregates commodity servers to work "
+"together in clusters for reliable, redundant, and large-scale storage of "
+"static objects.\n"
+"\n"
+"This package contains documentation files for openstack-swift."
+msgstr ""
+
+#. description(openstack-swift:openstack-swift-account)
+msgid ""
+"OpenStack Object Storage (swift) aggregates commodity servers to work "
+"together in clusters for reliable, redundant, and large-scale storage of "
+"static objects.\n"
+"\n"
+"This package contains the openstack-swift account server."
+msgstr ""
+
+#. description(openstack-swift:openstack-swift-container)
+msgid ""
+"OpenStack Object Storage (swift) aggregates commodity servers to work "
+"together in clusters for reliable, redundant, and large-scale storage of "
+"static objects.\n"
+"\n"
+"This package contains the openstack-swift container server."
+msgstr ""
+
+#. description(openstack-swift:openstack-swift-object)
+msgid ""
+"OpenStack Object Storage (swift) aggregates commodity servers to work "
+"together in clusters for reliable, redundant, and large-scale storage of "
+"static objects.\n"
+"\n"
+"This package contains the openstack-swift object server."
+msgstr ""
+
+#. description(openstack-swift:openstack-swift-proxy)
+msgid ""
+"OpenStack Object Storage (swift) aggregates commodity servers to work "
+"together in clusters for reliable, redundant, and large-scale storage of "
+"static objects.\n"
+"\n"
+"This package contains the openstack-swift proxy server."
+msgstr ""
+
+#. description(openstack-swift)
+msgid ""
+"OpenStack Object Storage (swift) aggregates commodity servers to work "
+"together in clusters for reliable, redundant, and large-scale storage of "
+"static objects. Objects are written to multiple hardware devices in the data "
+"center, with the OpenStack software responsible for ensuring data "
+"replication and integrity across the cluster. Storage clusters can scale "
+"horizontally by adding new nodes, which are automatically configured. Should "
+"a node fail, OpenStack works to replicate its content from other active "
+"nodes. Because OpenStack uses software logic to ensure data replication and "
+"distribution across different devices, inexpensive commodity hard drives and "
+"servers can be used in lieu of more expensive equipment."
+msgstr ""
+
+#. summary(openstack-quickstart)
+msgid "OpenStack Quickstart"
+msgstr ""
+
+#. summary(openttd:openttd-data)
+msgid "OpenTTD data"
+msgstr ""
+
+#. description(openttd:openttd-data)
+msgid ""
+"OpenTTD is a reimplementation of the Microprose game \"Transport Tycoon "
+"Deluxe\" with lots of new features and enhancements. To play the game you "
+"need either the original data from the game or the required package OpenGFX "
+"and OpenSFX.\n"
+"\n"
+"This package provides the data files needed by openttd or openttd-dedicated."
+msgstr ""
+
+#. summary(libreoffice-branding-upstream)
+msgid "Original Branding for LibreOffice"
+msgstr ""
+
+#. description(oxygen-molecule)
+msgid ""
+"Oxygen-Molecule is a theme for GTK+ applications to provide a uniform look "
+"when used under the KDE desktop environment."
+msgstr ""
+
+#. description(pam:pam-doc)
+msgid ""
+"PAM (Pluggable Authentication Modules) is a system security tool that allows "
+"system administrators to set authentication policies without having to "
+"recompile programs that do authentication.\n"
+"\n"
+"This package contains the documentation."
+msgstr ""
+
+#. description(pam_chroot:pam_chroot-32bit)
+msgid ""
+"PAM (Pluggable Authentication Modules) is a system security tool that allows "
+"system administrators to set authentication policies without having to "
+"recompile programs that do authentication.\n"
+"\n"
+"pam_chroot is a Linux-PAM module that allows a user to be chrooted in auth, "
+"account, or session."
+msgstr ""
+
+#. description(pam_mktemp:pam_mktemp-32bit)
+msgid ""
+"PAM (Pluggable Authentication Modules) is a system security tool that allows "
+"system administrators to set authentication policies without having to "
+"recompile programs that do authentication.\n"
+"\n"
+"pam_mktemp is a PAM module which may be used with a PAM-aware login service "
+"to provide per-user private directories under /tmp as a part of PAM session "
+"or account management."
+msgstr ""
+
+#. description(pam_passwdqc:pam_passwdqc-32bit)
+msgid ""
+"PAM (Pluggable Authentication Modules) is a system security tool that allows "
+"system administrators to set authentication policies without having to "
+"recompile programs that do authentication.\n"
+"\n"
+"pam_passwdqc is a simple password strength checking module forPAM-aware "
+"password changing programs. In addition to checking regular passwords, it "
+"offers support for passphrases and can provide randomly generated ones."
+msgstr ""
+
+#. description(pam_userpass:pam_userpass-32bit)
+msgid ""
+"PAM (Pluggable Authentication Modules) is a system security tool that allows "
+"system administrators to set authentication policies without having to "
+"recompile programs that do authentication.\n"
+"\n"
+"pam_userpass uses PAM binary prompts to ask the application for the username "
+"and password."
+msgstr ""
+
+#. summary(pam_p11:pam_p11-32bit)
+msgid "PAM Authentication Module for Using Cryptographic Tokens"
+msgstr ""
+
+#. summary(pam_mktemp:pam_mktemp-32bit)
+msgid "PAM Module to Provide Per-User Private Directories Under /tmp"
+msgstr ""
+
+#. summary(pam_pkcs11:pam_pkcs11-32bit)
+msgid "PKCS #11 PAM Module"
+msgstr ""
+
+#. summary(libzypp-testsuite-tools:libzypp-testsuite-tools-data)
+msgid "Package, Patch, Pattern, and Product Management - testsuite-data"
+msgstr ""
+
+#. description(PackageKit:PackageKit-branding-upstream)
+msgid ""
+"PackageKit is a system designed to make installing and updating software on "
+"your computer easier.  The primary design goal is to unify all the software "
+"graphical tools used in different distributions, and use some of the latest "
+"technology like PolicyKit to make the process suck less.\n"
+"\n"
+"This package provides the upstream default configuration for PackageKit."
+msgstr ""
+
+#. summary(kdegames4:palapeli-data)
+msgid "Palapeli's standard puzzle files"
+msgstr ""
+
+#. summary(pam_ccreds:pam_ccreds-32bit)
+msgid "Pam module to cache login credentials"
+msgstr ""
+
+#. description(pam_p11:pam_p11-32bit)
+msgid ""
+"Pam_p11 is a pluggable authentication module (pam) package for using "
+"cryptographic tokens, such as smart cards and usb crypto tokens, for "
+"authentication.\n"
+"\n"
+"Pam_p11 uses libp11 to access any PKCS#11 module. It should be compatible "
+"with any implementation, but it is primarily developed using OpenSC.\n"
+"\n"
+"Pam_p11 implements two authentication modules:\n"
+"\n"
+"* pam_p11_openssh authenticates the user using openssh    ~/.ssh/"
+"authorized_keys file.\n"
+"\n"
+"* pam_p11_opensc authenticates the user using certificates found in    ~/."
+"eid/authorized_certificates. It is compatible with the older    opensc "
+"\"pam_opensc\" authentication module (eid mode).\n"
+"\n"
+"Pam_p11 is very simple. It has no configuration file, no other options than "
+"the PKCS#11 module file, and does not know about certificate chains, "
+"certificate authorities, revocation lists, or OCSP. It is perfect for the "
+"small installation with no frills."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-paraguayan)
+msgid "Paraguayan Spanish Dictionary for MySpell"
+msgstr ""
+
+#. summary(librecad:librecad-parts)
+msgid "Parts collection for LibreCAD"
+msgstr ""
+
+#. description(perl-App-Nopaste:nopaste)
+msgid ""
+"Pastebins (also known as nopaste sites) let you post text, usually code, for "
+"public viewing. They're used a lot in IRC channels to show code that would "
+"normally be too long to give directly in the channel (hence the name "
+"nopaste).\n"
+"\n"
+"Each pastebin is slightly different. When one pastebin goes down (I'm "
+"looking at you, <http://paste.husk.org>), then you have to find a new one. "
+"And if you usually use a script to publish text, then it's too much hassle.\n"
+"\n"
+"This module aims to smooth out the differences between pastebins, and "
+"provides redundancy: if one site doesn't work, it just tries a different one."
+msgstr ""
+
+#. summary(patch2mail)
+msgid "Patch and package update notification via mail"
+msgstr ""
+
+#. summary(pcfclock:pcfclock-kmp-pae)
+msgid "Pcfclock kernel driver"
+msgstr ""
+
+#. summary(pcp-gui:pcp-doc)
+msgid "Performance Co-Pilot documentation and tutorials"
+msgstr ""
+
+#. summary(perl-Algorithm-CheckDigits)
+msgid "Perl extension to generate and test check digits"
+msgstr ""
+
+#. summary(pbuilder)
+msgid "Personal package builder for .deb packages"
+msgstr ""
+
+#. summary(nss-myhostname:nss-myhostname-32bit)
+msgid "Plugin for local system host name resolution"
+msgstr ""
+
+#. summary(libupnp:libupnp6-32bit)
+msgid "Portable Universal Plug and Play (UPnP) SDK"
+msgstr ""
+
+#. summary(offlineimap)
+msgid "Powerful IMAP/Maildir Synchronization Tool"
+msgstr ""
+
+#. summary(protobuf:libprotobuf-lite7-32bit)
+msgid "Protocol Buffers - Google's data interchange format"
+msgstr ""
+
+#. description(protobuf:libprotobuf-lite7-32bit)
+msgid ""
+"Protocol Buffers are a way of encoding structured data in an efficient yet "
+"extensible format. Google uses Protocol Buffers for almost all of its "
+"internal RPC protocols and file formats."
+msgstr ""
+
+#. summary(mhtml-firefox)
+msgid "Provides Firefox with MHTML web archive compatibility"
+msgstr ""
+
+#. description(NetworkManager-novellvpn:NetworkManager-novellvpn-lang)
+msgid "Provides translations to the package NetworkManager-novellvpn"
+msgstr ""
+
+#. description(NetworkManager-openconnect:NetworkManager-openconnect-lang)
+msgid "Provides translations to the package NetworkManager-openconnect"
+msgstr ""
+
+#. description(NetworkManager-strongswan:NetworkManager-strongswan-lang)
+msgid "Provides translations to the package NetworkManager-strongswan"
+msgstr ""
+
+#. description(bot-sentry:libpurple-plugin-bot-sentry-lang)
+msgid "Provides translations to the package bot-sentry"
+msgstr ""
+
+#. description(lrcShow-X:lrcShow-X-lang)
+msgid "Provides translations to the package lrcShow-X"
+msgstr ""
+
+#. description(memprof:memprof-lang)
+msgid "Provides translations to the package memprof"
+msgstr ""
+
+#. description(mercurial:mercurial-lang)
+msgid "Provides translations to the package mercurial"
+msgstr ""
+
+#. description(midori:midori-lang)
+msgid "Provides translations to the package midori"
+msgstr ""
+
+#. description(muffin:muffin-lang)
+msgid "Provides translations to the package muffin"
+msgstr ""
+
+#. description(nautilus-actions:nautilus-actions-lang)
+msgid "Provides translations to the package nautilus-actions"
+msgstr ""
+
+#. description(nautilus-image-converter:nautilus-image-converter-lang)
+msgid "Provides translations to the package nautilus-image-converter"
+msgstr ""
+
+#. description(nautilus-search-tool:nautilus-search-tool-lang)
+msgid "Provides translations to the package nautilus-search-tool"
+msgstr ""
+
+#. description(net6:net6-lang)
+msgid "Provides translations to the package net6"
+msgstr ""
+
+#. description(obby:obby-lang)
+msgid "Provides translations to the package obby"
+msgstr ""
+
+#. description(osdlyrics:osdlyrics-lang)
+msgid "Provides translations to the package osdlyrics"
+msgstr ""
+
+#. description(parole:parole-lang)
+msgid "Provides translations to the package parole"
+msgstr ""
+
+#. description(pdf2djvu:pdf2djvu-lang)
+msgid "Provides translations to the package pdf2djvu"
+msgstr ""
+
+#. description(pidgin-mrim:libpurple-plugin-mrim-lang)
+msgid "Provides translations to the package pidgin-mrim"
+msgstr ""
+
+#. description(pidgin-openfetion:libpurple-plugin-openfetion-lang)
+msgid "Provides translations to the package pidgin-openfetion"
+msgstr ""
+
+#. description(skype4pidgin:libpurple-plugin-skype-lang)
+msgid "Provides translations to the package skype4pidgin"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-pa-IN)
+msgid "Punjabi Localization Files for LibreOffice"
+msgstr ""
+
+#. description(libreoffice-l10n:libreoffice-l10n-pa-IN)
+msgid "Punjabi localization files for LibreOffice."
+msgstr ""
+
+#. summary(papyon)
+msgid "Python client library for the MSN protocol"
+msgstr ""
+
+#. description(libqxmpp-lc:libqxmpp-lc1-32bit)
+msgid ""
+"QXmpp is a cross-platform C++ XMPP client library. It is based on Qt and C+"
+"+.\n"
+"\n"
+"QXmpp is pretty intuitive and easy to use. It uses Qt extensively. Qt is the "
+"only third party library it is dependent on. Users need to a have working "
+"knowledge of C++ and Qt basics (Signals and Slots and Qt data types). The "
+"underlying TCP socket and the XMPP RFCs (RFC3920 and RFC3921) have been "
+"encapsulated into classes and functions. Therefore the user would not be "
+"bothered with these details. But it is always recommended to the advanced "
+"users to read and enjoy the low level details."
+msgstr ""
+
+#. summary(libqca2:libqca2-plugin-pkcs11-32bit)
+msgid "Qt Cryptographic Architecture 2 - pkcs11 support"
+msgstr ""
+
+#. summary(libqxmpp-lc:libqxmpp-lc1-32bit)
+msgid "Qt XMPP Library"
+msgstr ""
+
+#. summary(licq:licq-qt4-gui-data)
+msgid "Qt4 data files for Licq"
+msgstr ""
+
+#. summary(nagios-rpm-macros)
+msgid "RPM Macros for Nagios based packages"
+msgstr ""
+
+#. summary(libreiserfs:libreiserfs-devel-32bit)
+msgid "ReiserFS Filesystem Access Tools"
+msgstr ""
+
+#. summary(netbeans-resolver)
+msgid "Resolver subproject of xml-commons patched for NetBeans"
+msgstr ""
+
+#. description(netbeans-resolver)
+msgid ""
+"Resolver subproject of xml-commons, version 1.2 with a patch for NetBeans."
+msgstr ""
+
+#. description(librubberband:librubberband2-32bit)
+msgid ""
+"Rubber Band is a library and utility program that permits you to change the "
+"tempo and pitch of an audio recording independently of one another."
+msgstr ""
+
+#. description(SDLmm:libSDLmm-devel-32bit)
+msgid ""
+"SDLmm aims to stay as close as possible to the C API while taking advantage "
+"of native C++ features like object orientation. We will also aim at being "
+"platform independent as much as possible. I.e we'll try to support ever "
+"platform supported by SDL."
+msgstr ""
+
+#. description(SDLmm:libSDLmm-0_1-8-32bit)
+msgid ""
+"SDLmm aims to stay as close as possible to the C API while taking advantage "
+"of native C++ features like object oriented programming. It also aims to be "
+"as platform independent as possible. In other words, it tries to support "
+"every platform that SDL supports."
+msgstr ""
+
+#. description(netbeans-svnclientadapter)
+msgid "SVNClientAdapter is a high-level Java API for Subversion."
+msgstr ""
+
+#. summary(SDL_mixer:libSDL_mixer-devel-32bit)
+msgid "Sample Mixer Library for SDL - files mandatory for development"
+msgstr ""
+
+#. description(limal-devtools)
+msgid ""
+"Scripts and templates for developing LiMaL modules and components. Required "
+"for rebuilding the existing LiMaL modules and components."
+msgstr ""
+
+#. summary(svrcore:libsvrcore0-32bit)
+msgid "Secure PIN handling using NSS crypto"
+msgstr ""
+
+#. summary(lynis)
+msgid "Security and System auditing tool"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-serbian-latin)
+msgid "Serbian Latin Dictionary for MySpell"
+msgstr ""
+
+#. summary(monit:monit-doc)
+msgid "Service Manager and Monitor System (Documentation and Examples)"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-setswana)
+msgid "Setswana Dictionary for MySpell"
+msgstr ""
+
+#. summary(SDLmm:libSDLmm-0_1-8-32bit)
+msgid "Simple DirectMedia Layer Glue for C++"
+msgstr ""
+
+#. summary(pam_passwdqc:pam_passwdqc-32bit)
+msgid "Simple Password Strength Checking Module"
+msgstr ""
+
+#. summary(perl-AnyEvent-HTTP)
+msgid "Simple but non-blocking HTTP/HTTPS client"
+msgstr ""
+
+#. summary(PackageKit:PackageKit-branding-upstream)
+msgid ""
+"Simple software installation management software -- Upstream default "
+"configuration"
+msgstr ""
+
+#. description(makeself)
+msgid ""
+"Small shell script that generates a self-extractable tar.gz archive from a "
+"directory. The resulting file appears as a shell script (many of those have "
+"a .run suffix), and can be launched as is. The archive will then uncompress "
+"itself to a temporary directory and an optional arbitrary command will be "
+"executed (for example an installation script).\n"
+"\n"
+"This is pretty similar to archives generated with WinZip Self-Extractor in "
+"the Windows world. Makeself archives also include checksums for integrity "
+"self-validation (CRC and/or MD5 checksums)."
+msgstr ""
+
+#. summary(Mesa:libXvMC_softpipe-32bit)
+msgid "Software implementation of XVMC state tracker"
+msgstr ""
+
+#. summary(libreoffice-help-group2:libreoffice-help-en-ZA)
+msgid "South Africa English Help Localization for LibreOffice"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-en-ZA)
+msgid "South Africa English Localization Files for LibreOffice"
+msgstr ""
+
+#. description(libreoffice-help-group2:libreoffice-help-en-ZA)
+msgid ""
+"South Africa English help localization for LibreOffice. The other localized "
+"stuff is in libreoffice-l10n-en-ZA."
+msgstr ""
+
+#. description(libreoffice-l10n:libreoffice-l10n-en-ZA)
+msgid "South Africa English localization files for LibreOffice."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-south-african-english)
+msgid "South African English Dictionary for MySpell"
+msgstr ""
+
+#. summary(nested)
+msgid "Specialized editor for structured documents"
+msgstr ""
+
+#. summary(netbeans-svnclientadapter)
+msgid "Subversion Client Adapter"
+msgstr ""
+
+#. summary(package-translations)
+msgid "Summary and Descriptions Translations"
+msgstr ""
+
+#. description(pcsc-lite:libpcscspy0-32bit)
+msgid "Supporting library for the PC/SC spy tool."
+msgstr ""
+
+#. summary(mozilla-nss:mozilla-nss-sysinit-32bit)
+msgid "System NSS Initialization"
+msgstr ""
+
+#. summary(trousers:libtspi1-32bit)
+msgid "TSS (TCG Software Stack) access daemon for a TPM chip"
+msgstr ""
+
+#. summary(libthai:libthai0-32bit)
+msgid "Thai Language Support Routines"
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-assamese)
+msgid ""
+"The Assamese dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-asturian)
+msgid ""
+"The Asturian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-belarusian)
+msgid ""
+"The Belarusian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-bengali)
+msgid ""
+"The Bengali dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-bolivian)
+msgid ""
+"The Bolivian Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-breton)
+msgid ""
+"The Breton dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-chichewa)
+msgid ""
+"The Chichewa dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-coptic)
+msgid ""
+"The Coptic dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-friulian)
+msgid ""
+"The Friulian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(greybird-theme:metatheme-greybird-common)
+msgid ""
+"The Greybird theme for GTK2/3 and xfwm4/emerald/metacity started out on the "
+"basis of Bluebird, but aims at reworking the intense blue tone to a more "
+"neutral grey-ish look that will be more pleasant to look at in everyday "
+"use.\n"
+"\n"
+"This package provides the files common to the GTK+ themes and the window "
+"manager themes as well as background images."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-haitian)
+msgid ""
+"The Haitian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. summary(openssl-ibmca)
+msgid "The IBMCA OpenSSL dynamic engine"
+msgstr ""
+
+#. description(oro:oro-javadoc)
+msgid ""
+"The Jakarta-ORO Java classes are a set of text-processing Java classes that "
+"provide Perl5 compatible regular expressions, AWK-like regular expressions, "
+"glob expressions, and utility classes for performing substitutions, splits, "
+"filtering filenames, etc. This library is the successor to the OROMatcher, "
+"AwkTools, PerlTools, and TextTools libraries from ORO, Inc. (www.oroinc."
+"com). They have been donated to the Jakarta Project by Daniel Savarese (www."
+"savarese.org), the copyright holder of the ORO libraries. Daniel will "
+"continue to participate in their development under the Jakarta Project.\n"
+"\n"
+"This package contains the javadoc documentation for ORO."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-kazakh)
+msgid ""
+"The Kazakh dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-khmer)
+msgid ""
+"The Khmer dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-kichwa)
+msgid ""
+"The Kichwa dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-kikuyu)
+msgid ""
+"The Kikuyu dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-latin)
+msgid ""
+"The Latin dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-lower-sorbian)
+msgid ""
+"The Lower sorbian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-maithili)
+msgid ""
+"The Maithili dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-malayalam)
+msgid ""
+"The Malayalam dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-ndebele)
+msgid ""
+"The Ndebele dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(netbeans-platform)
+msgid ""
+"The NetBeans Platform is a generic framework for Swing applications. It "
+"provides the services common to almost all large desktop applications: "
+"window management, menus, settings and storage, update management, file "
+"access, etc."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-new-zealand)
+msgid ""
+"The New Zealand dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(openmarkup)
+msgid ""
+"The Open Markup project defines an open API called Open Markup Interface for "
+"object realizers and XML object realization.\n"
+"\n"
+"Object realization is a process by which software objects are created, "
+"configured, and processed according to machine-readable descriptions of "
+"those objects. It includes post-instantiation tasks, such as configuring "
+"objects with additional attributes or properties, connecting them with other "
+"objects to create complex object compositions, or otherwise manipulating "
+"them according to control information embedded in the object descriptions."
+msgstr ""
+
+#. summary(otrs)
+msgid "The Open Ticket Request System"
+msgstr ""
+
+#. description(openldap2:openldap2-doc)
+msgid ""
+"The OpenLDAP Admin Guide plus a set of OpenLDAP related IETF internet drafts"
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-paraguayan)
+msgid ""
+"The Paraguayan Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(SDL_gfx:libSDL_gfx-devel-32bit)
+msgid ""
+"The SDL_gfx library evolved out of the SDL_gfxPrimitives code which provided "
+"basic drawing routines such as lines, circles or polygons and SDL_rotozoom "
+"which implemented a interpolating rotozoomer for SDL surfaces. The current "
+"components of the SDL_gfx library are:\n"
+"\n"
+"- Graphic Primitives (SDL_gfxPrimitves.h)\n"
+"\n"
+"- Rotozoomer (SDL_rotozoom.h)\n"
+"\n"
+"- Framerate control (SDL_framerate.h)\n"
+"\n"
+"-  MMX image filters (SDL_imageFilter.h)\n"
+"\n"
+"The library is backwards compatible to the above mentioned code. It is "
+"written in plain C and can be used in C++ code."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-serbian-latin)
+msgid ""
+"The Serbian Latin dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-setswana)
+msgid ""
+"The Setswana dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-south-african-english)
+msgid ""
+"The South African English dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-tsonga)
+msgid ""
+"The Tsonga dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(xcb-util-wm:libxcb-ewmh2-32bit)
+msgid ""
+"The XCB util modules provide a number of libraries which sit on top of "
+"libxcb, the core X protocol library, and some of the extension libraries.\n"
+"\n"
+"Included in this package is:\n"
+"\n"
+"- icccm: Both client and window-manager helpers for ICCCM."
+msgstr ""
+
+#. description(xcb-util-image:libxcb-image0-32bit)
+msgid ""
+"The XCB util modules provide a number of libraries which sit on top of "
+"libxcb, the core X protocol library, and some of the extension libraries.\n"
+"\n"
+"Included in this package is:\n"
+"\n"
+"- image: Port of Xlib's XImage and XShmImage functions."
+msgstr ""
+
+#. description(xcb-util-keysyms:libxcb-keysyms1-32bit)
+msgid ""
+"The XCB util modules provide a number of libraries which sit on top of "
+"libxcb, the core X protocol library, and some of the extension libraries.\n"
+"\n"
+"Included in this package is:\n"
+"\n"
+"- keysyms: Standard X key constants and conversion to/from keycodes."
+msgstr ""
+
+#. description(xcb-util-renderutil:libxcb-render-util0-32bit)
+msgid ""
+"The XCB util modules provide a number of libraries which sit on top of "
+"libxcb, the core X protocol library, and some of the extension libraries.\n"
+"\n"
+"Included in this package is:\n"
+"\n"
+"- renderutil: Convenience functions for the Render extension."
+msgstr ""
+
+#. description(libqt4-devel-doc:libqt4-devel-doc-data)
+msgid "The architecture independent data files for the documentation."
+msgstr ""
+
+#. description(libpng14:libpng14-compat-devel-32bit)
+msgid ""
+"The libpng14-compat-devel package contains unversioned symlinks to the "
+"header files, libraries, configuration files and development tools necessary "
+"for compiling and linking programs that don't care about libpng version."
+msgstr ""
+
+#. description(libva:libva-devel-32bit)
+msgid ""
+"The libva library implements the Video Acceleration (VA) API for Linux. The "
+"library loads a hardware dependendent driver.\n"
+"\n"
+"This package provides the development environment for libva."
+msgstr ""
+
+#. description(libvpd2:libvpd2-devel-32bit)
+msgid ""
+"The libvpd-devel package contains development libraries and header files "
+"that are used to access a vpd database created by vpdupdate in the lsvpd "
+"package."
+msgstr ""
+
+#. description(libvpd2:libvpd2-32bit)
+msgid ""
+"The libvpd_cxx package contains the classes that are used to access a vpd "
+"database created by vpdupdate in the lsvpd package."
+msgstr ""
+
+#. description(lrcShow-X)
+msgid ""
+"The main goal of lrcShow-X is to add synchronized lyrics visualization "
+"functionality to the most used Linux media players, using existing LRC "
+"files, embedded lyrics like ID3 Sylt, Uslt, Lyrics3 and ApeTag. It also "
+"searches for lyrics using 12 different engines among which we can mention "
+"MiniLyrics, EvilLyrics, LrcDB and TTPlayer. lrcShow-X is written entirely in "
+"python using pyqt4 and supporting more than ten different players like "
+"Amarok2, Qmmp, Audacious and many other Linux Players (normally using a dbus "
+"interface)."
+msgstr ""
+
+#. description(netcf:netcf-devel-32bit)
+msgid ""
+"The netcf-devel package contains libraries and header files for developing "
+"applications that use netcf."
+msgstr ""
+
+#. description(livedtd)
+msgid ""
+"The package comes with a Perl script (livedtd.pl) that converts an SGML or "
+"XML DTD (Document Type Definition) into an HTML document.  The HTML document "
+"is exactly the same text as the DTD but with \"live\" links that let you "
+"navigate through the DTD."
+msgstr ""
+
+#. description(pam_ccreds:pam_ccreds-32bit)
+msgid ""
+"The pam_ccreds module provides the means for Linux workstations to locally "
+"authenticate using an enterprise identity when the network is unavailable. "
+"Used in conjunction with the nss_updatedb utility, it provides a mechanism "
+"for disconnected use of network directories."
+msgstr ""
+
+#. description(pcfclock:pcfclock-kmp-pae)
+msgid ""
+"The pcfclock(4) driver for GNU/Linux supports the parallel port radio clock "
+"sold by Conrad Electronic under order number 967602. The radio clock, which "
+"is put between your parallel port and your printer, receives the legal "
+"German time, i.e. CET or CEST, from the DCF77 transmitter and uses it to set "
+"its internal quartz clock. The DCF77 transmitter is located near to "
+"Frankfurt/Main and covers a radius of more than 1500 kilometers."
+msgstr ""
+
+#. description(pcp-gui:pcp-doc)
+msgid ""
+"The pcp-doc package provides useful information on using and configuring the "
+"Performance Co-Pilot (PCP) toolkit for system level performance management.  "
+"It includes tutorials, HOWTOs, and other detailed documentation about the "
+"internals of core PCP utilities and daemons, and the PCP graphical tools."
+msgstr ""
+
+#. description(libupnp:libupnp6-32bit)
+msgid ""
+"The portable Universal Plug and Play (UPnP) SDK provides support for "
+"building UPnP-compliant control points, devices, and bridges on several "
+"operating systems"
+msgstr ""
+
+#. summary(pwlib:libpt1_11-32bit)
+msgid "The pwlib shared libs"
+msgstr ""
+
+#. description(trousers:libtspi1-32bit)
+msgid ""
+"The trousers package provides a TSS implementation through the help of a "
+"user-space daemon, the tcsd, and a library  Trousers aims to be compliant to "
+"the 1.1b and 1.2 TSS specifications as available from the Trusted Computing "
+"website http://www.trustedcomputinggroup.org/.\n"
+"\n"
+"The package needs the /dev/tpm device file to be present on your system. It "
+"is a character device file major 10 minor 224, 0600 tss:tss."
+msgstr ""
+
+#. summary(metacity-themes)
+msgid "Themes for the Metacity Window Manager"
+msgstr ""
+
+#. description(man-pages-fr)
+msgid ""
+"These are the French man pages of the Linux Documentation Project. Note that "
+"they are normally older than the English versions.  For reference, you "
+"should use the English versions."
+msgstr ""
+
+#. description(pam_pkcs11:pam_pkcs11-32bit)
+msgid ""
+"This Linux PAM module allows X.509 a certificate-based user authentication. "
+"The certificate and its dedicated private key are thereby accessed by means "
+"of an appropriate PKCS #11 module. For the verification of the users' "
+"certificates, locally stored CA certificates as well as online or locally "
+"accessible CRLs are used.\n"
+"\n"
+"Additionally, the package includes pam_pkcs11-related tools: *    "
+"pkcs11_eventmgr: Generates actions on card insert, removal, or    time-out "
+"events\n"
+"\n"
+"* pklogin_finder: Gets the login name that maps to a certificate\n"
+"\n"
+"* pkcs11_inspect: Inspects the contents of a certificate\n"
+"\n"
+"* make_hash_links: Creates hash link directories for storing CAs and CRLs"
+msgstr ""
+
+#. description(lxde-common:lxde-common-branding-upstream)
+msgid ""
+"This branding-style package sets default applications in LXDE in openSUSE. "
+"This is a dumb package, which provides only upstream LXDE configurations as "
+"preferred defaults. You most probably don't want this package. You probably "
+"want to install distribution default lxde-common-branding and prefer "
+"openSUSE default settings."
+msgstr ""
+
+#. description(opensuse-manuals_de:opensuse-reference_de-pdf)
+msgid ""
+"This guide gives you a general understanding of your system and covers "
+"advanced system administration tasks. It is intended mainly for system "
+"administrators and home users with basic system administration knowledge. It "
+"provides detailed information about advanced deployment scenarios, "
+"administration of your system, the interaction of key system components and "
+"the set-up of various network and file services."
+msgstr ""
+
+#. description(opensuse-manuals_de:opensuse-security_de-pdf)
+msgid ""
+"This guide introduces basic concepts of system security, covering both local "
+"and network security aspects. Shows how to make use of the product inherent "
+"security software like AppArmor (which lets you specify per program which "
+"files the program may read, write, and execute) or the auditing system that "
+"reliably collects information about any security-relevant events."
+msgstr ""
+
+#. description(opensuse-manuals_en:opensuse-tuning_en-pdf)
+msgid "This guide introduces basic concepts of system tuning."
+msgstr ""
+
+#. description(opensuse-manuals_en:opensuse-kvm_en-pdf)
+msgid "This guide introduces basic concepts of virtualization with KVM."
+msgstr ""
+
+#. description(pam_csync:pam_csync-32bit)
+msgid ""
+"This is a PAM module to provide roaming home directories for a user session. "
+"The authentication module verifies the identity of a user and triggers a "
+"synchronization with the server on the first login and the last logout."
+msgstr ""
+
+#. description(loadlin)
+msgid ""
+"This is a boot loader for Linux that runs under MS-DOS. It can boot Linux "
+"from a DOS prompt or CONFIG.SYS and fully supports the command line feature "
+"of the Linux kernel. This new version also supports bzImage+initrd--it can "
+"load directly 'high' and can load the RAM disk. bzImage+initrd (since 1.3.73 "
+"in the official kernel) was jointly developed by Werner Almesberger (LILO) "
+"and Hans Lermen (LOADLIN)."
+msgstr ""
+
+#. description(libreiserfs:libreiserfs-devel-32bit)
+msgid ""
+"This is a library for reiserfs filesystem access and manipulation. The "
+"primary goal is to develop the nice, full functionality library wich might "
+"be linked against any projects which needed reiserfs filesystem access. "
+"There are GNU Parted, GNU GRUB, Yaboot, Partimage, EVMS, etc."
+msgstr ""
+
+#. description(openCryptoki:openCryptoki-32bit)
+msgid ""
+"This is a re-packaged binary rpm. For the package source, please look for "
+"the source of the package without the \"32bit\" ending\n"
+"\n"
+"The PKCS#11 version 2.11 API implemented for the IBM cryptographic cards. "
+"This package includes support for the IBM 4758 cryptographic coprocessor "
+"(with the PKCS#11 firmware loaded) and the IBM eServer Cryptographic "
+"Accelerator (FC 4960 on pSeries)."
+msgstr ""
+
+#. description(openCryptoki:openCryptoki-64bit)
+msgid ""
+"This is a re-packaged binary rpm. For the package source, please look for "
+"the source of the package without the \"64bit\" ending\n"
+"\n"
+"The PKCS#11 version 2.11 API implemented for the IBM cryptographic cards. "
+"This package includes support for the IBM 4758 cryptographic coprocessor "
+"(with the PKCS#11 firmware loaded) and the IBM eServer Cryptographic "
+"Accelerator (FC 4960 on pSeries)."
+msgstr ""
+
+#. description(obs-service-verify_file)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"It allows to verify a file with a given sha256sum"
+msgstr ""
+
+#. description(obs-service-tar_scm)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"It supports downloading from svn, git, hg and bzr repositories."
+msgstr ""
+
+#. description(obs-service-recompress)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"It supports to compress, uncompress or recompress files from or to\n"
+"\n"
+" none : No Compression  gz   : Gzip Compression  bz2  : Bzip2 Compression  "
+"xz   : XZ Compression"
+msgstr ""
+
+#. description(obs-service-download_files)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"This service is parsing all spec files and downloads all Source files which "
+"are specified via a http, https or ftp url."
+msgstr ""
+
+#. description(obs-service-source_validator)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"This service runs all checks as required by openSUSE:Factory project. This "
+"can be used to guarantee that all checks succeed also on the service side. "
+"This plugin can be used via project wide defined services."
+msgstr ""
+
+#. description(obs-service-format_spec_file)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"This source service is formating the spec file to SUSE standard. The "
+"rational behind is to make it easier to review spec files from unknown "
+"packagers.\n"
+"\n"
+"This should be used in \"trylocal\" mode, so that osc is adapting the "
+"existing spec file instead of creating a new one."
+msgstr ""
+
+#. description(obs-service-set_version)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"Very simply script to update the version in .spec or .dsc files according to "
+"a given version or to the existing files."
+msgstr ""
+
+#. description(libwmf:libwmf-gnome-32bit)
+msgid ""
+"This library interprets metafile images and can either display them using "
+"the X Window System or convert them to standard formats such as PNG, JPEG, "
+"PS, EPS, and more."
+msgstr ""
+
+#. description(perl-Algorithm-C3)
+msgid ""
+"This module implements the C3 algorithm. I have broken this out into it's "
+"own module because I found myself copying and pasting it way too often for "
+"various needs. Most of the uses I have for C3 revolve around class building "
+"and metamodels, but it could also be used for things like dependency "
+"resolution as well since it tends to do such a nice job of preserving local "
+"precendence orderings."
+msgstr ""
+
+#. description(perl-AnyEvent-HTTP)
+msgid ""
+"This module is an the AnyEvent manpage user, you need to make sure that you "
+"use and run a supported event loop.\n"
+"\n"
+"This module implements a simple, stateless and non-blocking HTTP client. It "
+"supports GET, POST and other request methods, cookies and more, all on a "
+"very low level. It can follow redirects, supports proxies, and automatically "
+"limits the number of connections to the values specified in the RFC.\n"
+"\n"
+"It should generally be a \"good client\" that is enough for most HTTP tasks. "
+"Simple tasks should be simple, but complex tasks should still be possible as "
+"the user retains control over request and response headers.\n"
+"\n"
+"The caller is responsible for authentication management, cookies (if the "
+"simplistic implementation in this module doesn't suffice), referer and other "
+"high-level protocol details for which this module offers only limited "
+"support."
+msgstr ""
+
+#. description(libsidplay1:libsidplay1-32bit)
+msgid ""
+"This package allows you to create packages able to play music from C64 games "
+"and demos on your PC.\n"
+"\n"
+"You can find a comprehensive archive on the WWW at: http://www.hvsc.c64.org/"
+msgstr ""
+
+#. description(openssl-ibmca)
+msgid ""
+"This package contains a shared object OpenSSL dynamic engine for the IBM "
+"eServer Cryptographic Accelerator (ICA)."
+msgstr ""
+
+#. description(libreoffice-openclipart)
+msgid ""
+"This package contains an extensive set of extra galleries for LibreOffice. "
+"It can be used to enrich documents with graphics arts."
+msgstr ""
+
+#. description(libvorbis:libvorbis-doc)
+msgid ""
+"This package contains documents for Ogg/Vorbis library, including the API "
+"reference."
+msgstr ""
+
+#. description(otrs:otrs-doc)
+msgid ""
+"This package contains the README, Changes and docs for OTRS\n"
+"\n"
+"Authors list: see CREDITS"
+msgstr ""
+
+#. description(Mesa:libvdpau_softpipe-32bit)
+msgid ""
+"This package contains the Software implementation of the VDPAU state "
+"tracker. This is still \"work in progress\", i.e. expect poor video quality, "
+"choppy videos and artefacts all over."
+msgstr ""
+
+#. description(Mesa:libXvMC_softpipe-32bit)
+msgid ""
+"This package contains the Software implementation of the XvMC state tracker. "
+"This is still \"work in progress\", i.e. expect poor video quality, choppy "
+"videos and artefacts all over."
+msgstr ""
+
+#. description(Mesa:libvdpau_nouveau-32bit)
+msgid ""
+"This package contains the VDPAU state tracker for Nouveau. This is still "
+"\"work in progress\", i.e. expect poor video quality, choppy videos and "
+"artefacts all over."
+msgstr ""
+
+#. description(Mesa:libvdpau_r300-32bit)
+msgid ""
+"This package contains the VDPAU state tracker for R300. This is still \"work "
+"in progress\", i.e. expect poor video quality, choppy videos and artefacts "
+"all over."
+msgstr ""
+
+#. description(Mesa:libvdpau_r600-32bit)
+msgid ""
+"This package contains the VDPAU state tracker for R600. This is still \"work "
+"in progress\", i.e. expect poor video quality, choppy videos and artefacts "
+"all over."
+msgstr ""
+
+#. description(Mesa:libXvMC_nouveau-32bit)
+msgid ""
+"This package contains the XvMC state tracker for Nouveau. This is still "
+"\"work in progress\", i.e. expect poor video quality, choppy videos and "
+"artefacts all over."
+msgstr ""
+
+#. description(Mesa:libXvMC_r300-32bit)
+msgid ""
+"This package contains the XvMC state tracker for R300. This is still \"work "
+"in progress\", i.e. expect poor video quality, choppy videos and artefacts "
+"all over."
+msgstr ""
+
+#. description(Mesa:libXvMC_r600-32bit)
+msgid ""
+"This package contains the XvMC state tracker for R600. This is still \"work "
+"in progress\", i.e. expect poor video quality, choppy videos and artefacts "
+"all over."
+msgstr ""
+
+#. description(oxygen-icon-theme:oxygen-icon-theme-large)
+msgid ""
+"This package contains the large (128x128 and larger) non-scalable icons of "
+"the Oxygen icon theme."
+msgstr ""
+
+#. description(oxygen-icon-theme:oxygen-icon-theme-scalable)
+msgid "This package contains the scalable icons of the Oxygen icon theme."
+msgstr ""
+
+#. description(kdegames4:palapeli-data)
+msgid "This package contains the standard puzzle files for Palapeli."
+msgstr ""
+
+#. description(metacity-themes)
+msgid ""
+"This package contains themes usable with the Metacity window manager for the "
+"GNOME Desktop."
+msgstr ""
+
+#. description(opengl-games-utils)
+msgid ""
+"This package contains various shell scripts which are intended for use by 3D "
+"games packages. These shell scripts can be used to check if direct rendering "
+"is available before launching an OpenGL game. This package is intended for "
+"use by other packages and is not intended for direct end user use!"
+msgstr ""
+
+#. description(pwlib:libpt1_11-32bit)
+msgid "This package includes the PWLIB library."
+msgstr ""
+
+#. description(libreoffice-branding-upstream)
+msgid ""
+"This package includes the original branding for the LibreOffice office suite."
+msgstr ""
+
+#. description(mhtml-firefox)
+msgid ""
+"This package installs a system-wide Firefox extension which allows it to "
+"read MHTML web archives, such as those created by Microsoft Internet "
+"Explorer®."
+msgstr ""
+
+#. description(nss-pam-ldapd:nss-pam-ldapd-32bit)
+msgid ""
+"This package provides a Name Service Switch module that allows your LDAP "
+"server to provide user account, group, host name, alias, netgroup, and "
+"basically any other information that you would normally get from /etc flat "
+"files or NIS. Nss-ldapd is a fork of the nss_ldap package by PADL Software "
+"Pty Ltd.. implementing some structural design changes that were needed to "
+"fix some issues of the original design."
+msgstr ""
+
+#. description(motoya-lcedar-fonts)
+msgid ""
+"This package provides a font family named \"MotoyaLCedar W3 mono\". It was "
+"provided to Android platform by Motoya."
+msgstr ""
+
+#. description(motoya-lmaru-fonts)
+msgid ""
+"This package provides a font family named \"MotoyaLMaru W3 mono\". It was "
+"provided to Android platform by Motoya."
+msgstr ""
+
+#. description(nagios-rpm-macros)
+msgid ""
+"This package provides rpm macros for building packages for Nagios, check_mk "
+"and/or Icinga."
+msgstr ""
+
+#. description(libxfce4ui:libxfce4ui-doc)
+msgid "This package provides the documentation for the libxfce4ui library."
+msgstr ""
+
+#. description(npapi-sdk)
+msgid ""
+"This package provides the header and development files to create NPAPI "
+"browser plugins."
+msgstr ""
+
+#. description(libvdpau:libvdpau_trace1-32bit)
+msgid ""
+"This package provides the library for tracing VDPAU function calls. Its "
+"usage is documented in the README."
+msgstr ""
+
+#. description(libxfce4ui:libxfce4ui-branding-upstream)
+msgid "This package provides the upstream look and feel for libxfce4ui."
+msgstr ""
+
+#. description(lightdm-gtk-greeter:lightdm-gtk-greeter-branding-upstream)
+msgid ""
+"This package provides the upstream look and feel for lightdm-gtk-greeter."
+msgstr ""
+
+#. description(midori:midori-branding-upstream)
+msgid ""
+"This package provides the upstream look and feel for the Midori web browser."
+msgstr ""
+
+#. description(package-translations)
+msgid ""
+"This package provides translations for our packages. You don't want to "
+"install this package on your system, it's only useful when you create "
+"openSUSE media."
+msgstr ""
+
+#. description(gconf2-branding-SLES:novell-sound-theme)
+msgid "This packages provides the default sound theme by Novell."
+msgstr ""
+
+#. description(nagios-plugins-zypper)
+msgid ""
+"This plugin checks for software updates on systems that use package "
+"management systems based on the zypper command found in openSUSE.\n"
+"\n"
+"It checks for security, recommended and optional patches and also for "
+"optional package updates.\n"
+"\n"
+"You can define the status by patch category. Use a commata to list more than "
+"one category to a state.\n"
+"\n"
+"If you like to know the names of available patches and packages, use the \"-v"
+"\" option."
+msgstr ""
+
+#. description(perl-Any-Moose)
+msgid ""
+"Though we recommend that people generally use the Moose manpage, we accept "
+"that Moose cannot yet be used for everything everywhere. People generally "
+"like the Moose sugar, so many people use the Mouse manpage, a lightweight "
+"replacement for parts of Moose.\n"
+"\n"
+"Because Mouse strives for compatibility with Moose, it's easy to substitute "
+"one for the other. This module facilitates that substitution. By default, "
+"Mouse will be provided to libraries, unless Moose is already loaded -or- "
+"explicitly requested by the end-user. The end-user can force the decision of "
+"which backend to use by setting the environment variable 'ANY_MOOSE' to be "
+"'Moose' or 'Mouse'.\n"
+"\n"
+"Note that the decision of which backend to use is made only once, so that if "
+"Any-Moose picks Mouse, then a third-party library loads Moose, anything else "
+"that uses Any-Moose will continue to pick Mouse.\n"
+"\n"
+"So, if you have to use the Mouse manpage, please be considerate to the Moose "
+"fanboys (like myself!) and use the Any-Moose manpage instead. ':)'"
+msgstr ""
+
+#. summary(open-ovf)
+msgid "Tool for importing and exporting OVF"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-tsonga)
+msgid "Tsonga Dictionary for MySpell"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ts)
+msgid "Tsonga Localization Files for LibreOffice"
+msgstr ""
+
+#. description(libreoffice-l10n:libreoffice-l10n-ts)
+msgid "Tsonga localization files for LibreOffice."
+msgstr ""
+
+#. summary(mono-upnp:mono-upnp-tests)
+msgid "Unit tests for mono-upnp"
+msgstr ""
+
+#. summary(midori:midori-branding-upstream)
+msgid "Upstream Branding of Midori"
+msgstr ""
+
+#. summary(libxfce4ui:libxfce4ui-branding-upstream)
+msgid "Upstream Branding of libxfce4ui"
+msgstr ""
+
+#. summary(lxde-common:lxde-common-branding-upstream)
+msgid "Upstream branding"
+msgstr ""
+
+#. summary(lightdm-gtk-greeter:lightdm-gtk-greeter-branding-upstream)
+msgid "Upstream branding of lightdm-gtk-greeter-gtk-greeter"
+msgstr ""
+
+#. summary(perl-aliased)
+msgid "Use shorter versions of class names."
+msgstr ""
+
+#. summary(pam_userpass:pam_userpass-32bit)
+msgid "Uses PAM Binary Prompts to Ask Applications for Username/Password"
+msgstr ""
+
+#. summary(opengl-games-utils)
+msgid "Utilities to check proper 3d support before launching 3d games"
+msgstr ""
+
+#. summary(libvdpau:libvdpau_trace1-32bit)
+msgid "VDPAU trace library"
+msgstr ""
+
+#. summary(libvdpau:libvdpau-devel-32bit)
+msgid "VDPAU wrapper development files"
+msgstr ""
+
+#. description(vigra:libvigraimpex2-32bit)
+msgid ""
+"VIGRA stands for \"Vision with Generic Algorithms\". It is a novel computer "
+"vision library that puts its main emphasis on customizable algorithms and "
+"data structures. By using template techniques similar to those in the C++ "
+"Standard Template Library, you can easily adapt any VIGRA component to the "
+"needs of your application, without giving up execution speed."
+msgstr ""
+
+#. summary(libvpd2:libvpd2-32bit)
+msgid "VPD Database access library for lsvpd"
+msgstr ""
+
+#. summary(libva:libva-devel-32bit)
+msgid "Video Acceleration (VA) API for Linux -- development files"
+msgstr ""
+
+#. summary(mumble:mumble-32bit)
+msgid "Voice Communication Client for Gamers"
+msgstr ""
+
+#. summary(libxkbcommon:libxkbcommon0-32bit)
+msgid "Wayland libxkbcommon library"
+msgstr ""
+
+#. summary(xcb-util-keysyms:libxcb-keysyms1-32bit)
+msgid "XCB utility module for X keycode constants and conversions"
+msgstr ""
+
+#. summary(xcb-util-image:libxcb-image0-32bit)
+msgid "XCB utility module for XImage/XShmImage-like functions"
+msgstr ""
+
+#. summary(xcb-util-wm:libxcb-ewmh2-32bit)
+msgid "XCB utility module for client- and WM-side ICCCM helpers"
+msgstr ""
+
+#. summary(xcb-util-renderutil:libxcb-render-util0-32bit)
+msgid "XCB utility module for the Render extension"
+msgstr ""
+
+#. summary(Mesa:libXvMC_nouveau-32bit)
+msgid "XVMC state tracker for Nouveau"
+msgstr ""
+
+#. summary(Mesa:libXvMC_r300-32bit)
+msgid "XVMC state tracker for R300"
+msgstr ""
+
+#. summary(Mesa:libXvMC_r600-32bit)
+msgid "XVMC state tracker for R600"
+msgstr ""
+
+#. description(libyajl:libyajl-devel-32bit)
+msgid ""
+"YAJL is a small event-driven (SAX-style) JSON parser written in ANSI C, and "
+"a small validating JSON generator.\n"
+"\n"
+"This package provides the necessary environment for compiling and linking "
+"against libyajl."
+msgstr ""
+
+#. summary(libyajl:libyajl-devel-32bit)
+msgid "Yet Another JSON Library (Development Environment)"
+msgstr ""
+
+#. description(zziplib:libzzip-0-13-32bit)
+msgid ""
+"ZZipLib is a library for dealing with zip and zip-like archives by using "
+"free algorithms of zlib."
+msgstr ""
+
+#. summary(zziplib:libzzip-0-13-32bit)
+msgid "ZZipLib: free zip compression library with easy to use API"
+msgstr ""
+
+#. summary(perl-AnyEvent-I3)
+msgid "communicate with the i3 window manager"
+msgstr ""
+
+#. description(pidgin:libpurple-branding-upstream)
+msgid ""
+"libpurple is a library intended to be used by programmers seeking to write "
+"an IM client that connects to many IM networks.\n"
+"\n"
+"libpurple is compatible with the following chat networks out of the box: "
+"AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo!, Bonjour, Gadu-"
+"Gadu, IRC, Novell GroupWise Messenger, QQ, Lotus Sametime, SILC, SIMPLE, "
+"MXit, MySpaceIM, and Zephyr. It can support many more with plugins.\n"
+"\n"
+"This package provides the openSUSE default configuration for Pidgin."
+msgstr ""
+
+#. description(loki_setup:loki_setup-64bit)
+msgid ""
+"loki_setup is an installer program mainly for games. It supports an ncurses-"
+"based GUI for console and server installs. Users running the X Window System "
+"have a GTK+ interface."
+msgstr ""
+
+#. description(mytop)
+msgid ""
+"mytop is a console-based (non-GUI) tool for monitoring the threads and "
+"overall performance of MySQL 3.22.x, 3.23.x, and 4.x servers.\n"
+"\n"
+"- With Term::ANSIColor installed you even get color.\n"
+"\n"
+"- If you install Time::HiRes, get good real-time queries/second stats."
+msgstr ""
+
+#. description(netconsole-tools)
+msgid ""
+"netconsole is a kernel feature to log the dmesg output via the network. The "
+"used network driver must support the polling function.\n"
+"\n"
+"netconsole-server is a wrapper for insmod to load netconsole.o with the "
+"correct options. Use netcat on the client side to receive the kernel "
+"messages."
+msgstr ""
+
+#. description(nspluginwrapper)
+msgid ""
+"nspluginwrapper is an Open Source compatibility plugin for Netscape 4 "
+"(NPAPI) plugins. It enables you to use plugins on platforms they were not "
+"built for. For example, you can use the plugins compiled for i386 in Mozilla "
+"on Linux/x86_64 or other architectures. This package consists of:\n"
+"\n"
+"* npviewer: the plug-in viewer\n"
+"\n"
+"* npwrapper.so: the browser-side plug-in\n"
+"\n"
+"* nspluginwrapper: a tool to manage plug-ins installation and update"
+msgstr ""
+
+#. description(nss-myhostname:nss-myhostname-32bit)
+msgid ""
+"nss-myhostname is a plugin for the GNU Name Service Switch (NSS) "
+"functionality of the GNU C Library (glibc) providing host name resolution "
+"for the locally configured system hostname as returned by gethostname(2). "
+"Various software relies on an always resolvable local host name. When using "
+"dynamic hostnames this is usually achieved by patching /etc/hosts at the "
+"same time as changing the host name. This however is not ideal since it "
+"requires a writable /etc file system and is fragile because the file might "
+"be edited by the administrator at the same time. nss-myhostname simply "
+"returns all locally configured public IP addresses, or -- if none are "
+"configured -- the IPv4 address 127.0.0.2 (wich is on the local loopback) and "
+"the IPv6 address ::1 (which is the local host) for whatever system hostname "
+"is configured locally. Patching /etc/hosts is thus no longer necessary.\n"
+"\n"
+"Note that nss-myhostname only provides a workaround for broken software. If "
+"nss-myhostname is trigged by an application a message is logged to /var/log/"
+"messages. Please check whether that's worth a bug report then."
+msgstr ""
+
+#. summary(osc)
+msgid "openSUSE Build Service Commander"
+msgstr ""
+
+#. summary(opensuse-manuals_en:opensuse-kvm_en-pdf)
+msgid "openSUSE manual: KVM Guide (PDF, English)"
+msgstr ""
+
+#. summary(opensuse-manuals_ja:opensuse-kvm_ja-pdf)
+msgid "openSUSE manual: KVM Guide (PDF, Japanese)"
+msgstr ""
+
+#. summary(opensuse-manuals_ru:opensuse-kvm_ru-pdf)
+msgid "openSUSE manual: KVM Guide (PDF, Russian)"
+msgstr ""
+
+#. summary(opensuse-manuals_en:opensuse-reference_en-pdf)
+msgid "openSUSE manual: Reference (PDF, English)"
+msgstr ""
+
+#. summary(opensuse-manuals_de:opensuse-reference_de-pdf)
+msgid "openSUSE manual: Reference (PDF, German)"
+msgstr ""
+
+#. summary(opensuse-manuals_hu:opensuse-reference_hu-pdf)
+msgid "openSUSE manual: Reference (PDF, Hungarian)"
+msgstr ""
+
+#. summary(opensuse-manuals_ja:opensuse-reference_ja-pdf)
+msgid "openSUSE manual: Reference (PDF, Japanese)"
+msgstr ""
+
+#. summary(opensuse-manuals_ru:opensuse-reference_ru-pdf)
+msgid "openSUSE manual: Reference (PDF, Russian)"
+msgstr ""
+
+#. summary(opensuse-manuals_en:opensuse-security_en-pdf)
+msgid "openSUSE manual: Security Guide (PDF, English)"
+msgstr ""
+
+#. summary(opensuse-manuals_de:opensuse-security_de-pdf)
+msgid "openSUSE manual: Security Guide (PDF, German)"
+msgstr ""
+
+#. summary(opensuse-manuals_ja:opensuse-security_ja-pdf)
+msgid "openSUSE manual: Security Guide (PDF, Japanese)"
+msgstr ""
+
+#. summary(opensuse-manuals_ru:opensuse-security_ru-pdf)
+msgid "openSUSE manual: Security Guide (PDF, Russian)"
+msgstr ""
+
+#. summary(opensuse-manuals_en:opensuse-startup_en-pdf)
+msgid "openSUSE manual: Start-Up (PDF, English)"
+msgstr ""
+
+#. summary(opensuse-manuals_de:opensuse-startup_de-pdf)
+msgid "openSUSE manual: Start-Up (PDF, German)"
+msgstr ""
+
+#. summary(opensuse-manuals_ja:opensuse-startup_ja-pdf)
+msgid "openSUSE manual: Start-Up (PDF, Japanese)"
+msgstr ""
+
+#. summary(opensuse-manuals_ru:opensuse-startup_ru-pdf)
+msgid "openSUSE manual: Start-Up (PDF, Russian)"
+msgstr ""
+
+#. summary(opensuse-manuals_en:opensuse-tuning_en-pdf)
+msgid "openSUSE manual: Tuning Guide (PDF, English)"
+msgstr ""
+
+#. summary(opensuse-manuals_ja:opensuse-tuning_ja-pdf)
+msgid "openSUSE manual: Tuning Guide (PDF, Japanese)"
+msgstr ""
+
+#. summary(opensuse-manuals_ru:opensuse-tuning_ru-pdf)
+msgid "openSUSE manual: Tuning Guide (PDF, Russian)"
+msgstr ""
+
+#. description(openSUSE-EULAs)
+msgid ""
+"openSUSE-EULAs is a collection of the end user license agreements (EULAs) "
+"which govern use of certain (non-free) software. This software is typically "
+"packaged and maintained in the openSUSE NonFree repository."
+msgstr ""
+
+#. description(pam_radius:pam_radius-32bit)
+msgid ""
+"pam_radius is a PAM module which allows user authentication using a radius "
+"server."
+msgstr ""
+
+#. description(papyon)
+msgid ""
+"papyon is an MSN client library, that tries to abstract the MSN protocol "
+"gory details."
+msgstr ""
+
+#. description(patch2mail)
+msgid ""
+"patch2mail checks for available updates and sends a mail to root if any "
+"patches or updated packages (configureable) are available."
+msgstr ""
+
+#. description(pbuilder)
+msgid ""
+"pbuilder constructs a chroot system, and builds a package inside the chroot. "
+"It uses apt extensively, and a local mirror, or a fast connection to a "
+"Debian/Ubuntu mirror is ideal, but not necessary.\n"
+"\n"
+"\"pbuilder create\" uses debootstrap to create a chroot image.\n"
+"\n"
+"\"pbuilder update\" updates the image to the current state of testing/"
+"unstable/whatever\n"
+"\n"
+"\"pbuilder build\" takes a *.dsc file and builds a binary in the chroot "
+"image.\n"
+"\n"
+"pdebuild is a wrapper for developers, to allow running pbuilder just like "
+"\"debuild\", as a normal user."
+msgstr ""
+
+#. summary(perl-Algorithm-Annotate)
+msgid "represent a series of changes in annotate form"
+msgstr ""
+
+#. description(svrcore:libsvrcore0-32bit)
+msgid ""
+"svrcore provides applications with several ways to handle secure PIN storage "
+"e.g. in an application that must be restarted, but needs the PIN to unlock "
+"the private key and other crypto material, without user intervention.  "
+"svrcore uses the facilities provided by NSS."
+msgstr ""
+
+#. summary(perl-Any-Moose)
+msgid "use Moose or Mouse modules"
+msgstr ""

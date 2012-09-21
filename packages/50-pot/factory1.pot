@@ -1,0 +1,3551 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2012-09-22 03:38:25\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. description(cpanspec)
+msgid ""
+"*cpanspec* will generate a spec file to build a rpm from a CPAN-style Perl "
+"module distribution."
+msgstr ""
+
+#. summary(biabam)
+msgid "A Bash Attachment Mailer"
+msgstr ""
+
+#. summary(cedilla)
+msgid "A Best-Effort Text Printer (Works in UTF-8 and Can Replace a2ps)"
+msgstr ""
+
+#. summary(ccaudio2:ccaudio2-32bit)
+msgid "A C++ class framework for processing audio files"
+msgstr ""
+
+#. summary(autoconf-archive)
+msgid "A Collection of macros for GNU autoconf"
+msgstr ""
+
+#. summary(f2c:f2c-32bit)
+msgid "A Fortran-77 to C Translator"
+msgstr ""
+
+#. summary(elib)
+msgid "A Lisp Library for GNU Emacs"
+msgstr ""
+
+#. summary(clanlib-doc)
+msgid "A Portable Interface for Writing Games"
+msgstr ""
+
+#. summary(analyzeMFT)
+msgid "A Python tool to deconstruct the Windows NTFS $MFT file"
+msgstr ""
+
+#. description(emacs-w3)
+msgid "A Web browser for Emacs implemented in Emacs Lisp."
+msgstr ""
+
+#. description(docbook-xml-slides)
+msgid "A framework for writing slides using the DocBook DTD."
+msgstr ""
+
+#. summary(duply)
+msgid "A frontend for the mighty duplicity magic"
+msgstr ""
+
+#. summary(cherrytree)
+msgid "A hierarchical note taking application"
+msgstr ""
+
+#. description(cherrytree)
+msgid ""
+"A hierarchical note taking application, featuring rich text and syntax "
+"highlighting, storing all the data (including images) in a single xml file "
+"with extension \".ctd\"."
+msgstr ""
+
+#. description(dom4j)
+msgid ""
+"A jarjard version of dom4j that moves the classes to the org.jboss.dom4j "
+"package space and strips the following packages:\n"
+"\n"
+"org.dom4j.jaxb.* org.dom4j.swing.* org.dom4j.xpath.* org.dom4j.xpp.*"
+msgstr ""
+
+#. description(dom4j:dom4j-jarjar)
+msgid ""
+"A jarjared version of dom4j that moves the classes to the org.jboss.dom4j "
+"package space and strips the following packages:\n"
+"\n"
+"org.dom4j.jaxb.* org.dom4j.swing.* org.dom4j.xpath.* org.dom4j.xpp.*"
+msgstr ""
+
+#. summary(bytelist)
+msgid "A java library for lists of bytes"
+msgstr ""
+
+#. summary(brp-extract-appdata:extract-appdata-icons)
+msgid "A little perl script to split appdata.xml"
+msgstr ""
+
+#. description(arts:arts-32bit)
+msgid ""
+"A modular software synthesizer that generates realtime audio streams, "
+"includes midi support, is easily extendable, and uses CORBA for separation "
+"of GUI and synthesis."
+msgstr ""
+
+#. description(blueprint-cursor-theme)
+msgid "A nice mouse cursor theme for the X Window System."
+msgstr ""
+
+#. description(duply)
+msgid ""
+"A shell front end to duplicity that simplifies the usage by managing "
+"settings for backup jobs in profiles. It supports executing multiple "
+"commands in a batch mode to enable single line cron entries and executes pre/"
+"post backup scripts."
+msgstr ""
+
+#. description(docbook-toys)
+msgid ""
+"A shell script to convert SGML documents based on the DocBook DTD.\n"
+"\n"
+"For usage information read:\n"
+"\n"
+"/usr/share/doc/packages/docbook-toys/README"
+msgstr ""
+
+#. description(bytelist)
+msgid "A small java library for manipulating lists of bytes."
+msgstr ""
+
+#. description(djvu2pdf)
+msgid ""
+"A small tool to convert Djvu files to PDF files. Works on Linux, BSD and "
+"MacOS."
+msgstr ""
+
+#. description(ecryptfs-utils:ecryptfs-utils-32bit)
+msgid "A stacked cryptographic filesystem for Linux."
+msgstr ""
+
+#. description(cmpi-provider-register)
+msgid ""
+"A utility allowing CMPI provider packages to register with whatever CIMOM(s) "
+"happens to be present on the system."
+msgstr ""
+
+#. summary(compiz-manager)
+msgid "A wrapper script to launch Compiz with proper options"
+msgstr ""
+
+#. description(aelfred)
+msgid ""
+"AElfred is a Java-based XML parser from Microstar Software Ltd. AElfred is "
+"distributed for free (with full source) for both commercial and non-"
+"commercial use."
+msgstr ""
+
+#. description(antlr:antlr-javadoc)
+msgid ""
+"ANTLR, Another Tool for Language Recognition, (formerly PCCTS) is a language "
+"tool that provides a framework for constructing recognizers, compilers, and "
+"translators from grammatical descriptions containing C++ or Java actions "
+"(you can use PCCTS 1.xx to generate C-based parsers).\n"
+"\n"
+"This package provides the Javadoc for antlr."
+msgstr ""
+
+#. description(antlr:antlr-manual)
+msgid ""
+"ANTLR, Another Tool for Language Recognition, (formerly PCCTS) is a language "
+"tool that provides a framework for constructing recognizers, compilers, and "
+"translators from grammatical descriptions containing C++ or Java actions "
+"(you can use PCCTS 1.xx to generate C-based parsers).\n"
+"\n"
+"This package provides the manual and examples for antlr."
+msgstr ""
+
+#. summary(antlr:antlr-javadoc)
+msgid "ANother Tool for Language Recognition (Java Documentation)"
+msgstr ""
+
+#. summary(apache-ivy:apache-ivy-javadoc)
+msgid "API Documentation for ivy"
+msgstr ""
+
+#. description(avalon-framework:avalon-framework-javadoc)
+msgid "API documentation for avalon-framework."
+msgstr ""
+
+#. description(avalon-logkit:avalon-logkit-javadoc)
+msgid "API documentation for avalon-logkit."
+msgstr ""
+
+#. description(cal10n:cal10n-javadoc)
+msgid "API documentation for cal10n."
+msgstr ""
+
+#. description(bouncycastle:bouncycastle-javadoc)
+msgid "API documentation for the bouncycastle package."
+msgstr ""
+
+#. description(asm)
+msgid ""
+"ASM is a Java bytecode manipulation framework.\n"
+"\n"
+"It can be used to dynamically generate stub classes or other proxy classes, "
+"directly in binary form, or to dynamically modify classes at load time, i."
+"e., just before they are loaded into the Java Virtual Machine.\n"
+"\n"
+"ASM offers similar functionalities as BCEL or SERP, but is much smaller."
+msgstr ""
+
+#. description(bsh2:bsh2-classgen)
+msgid "ASM support for bsh2."
+msgstr ""
+
+#. summary(emacs-auctex)
+msgid "AUC TeX: An Emacs Extension"
+msgstr ""
+
+#. description(adaptx)
+msgid "AdaptX is an extensible stylesheet language (XSL) processor."
+msgstr ""
+
+#. summary(alsa:alsa-docs)
+msgid "Additional Package Documentation"
+msgstr ""
+
+#. summary(atk:atk-doc)
+msgid "Additional Package Documentation for atk"
+msgstr ""
+
+#. summary(desktop-data-openSUSE:desktop-data-openSUSE-extra)
+msgid "Additional wallpapers"
+msgstr ""
+
+#. description(aisleriot:aisleriot-themes)
+msgid ""
+"Aisleriot is a compilation of 80 different solitaire card games.\n"
+"\n"
+"This package provides extra themes for Aisleriot."
+msgstr ""
+
+#. summary(adolc:adolc-devel-32bit)
+msgid "Algorithmic Differentiation Library for C/C++ -- development files"
+msgstr ""
+
+#. summary(adolc:adolc-doc)
+msgid "Algorithmic Differentiation Library for C/C++ -- documentation"
+msgstr ""
+
+#. summary(fcitx-table-other:fcitx-table-amharic)
+msgid "Amharic table for Fcitx"
+msgstr ""
+
+#. summary(castor)
+msgid "An Open Source Data Binding Framework for Java"
+msgstr ""
+
+#. description(ant-antlr:ant-commons-net)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional commons net tasks for Apache Ant."
+msgstr ""
+
+#. description(ant-antlr:ant-jsch)
+msgid ""
+"Apache Ant is a Java-based build tool.\n"
+"\n"
+"This package contains optional jsch tasks for Apache Ant."
+msgstr ""
+
+#. description(apache-ivy)
+msgid ""
+"Apache Ivy is a tool for managing (recording, tracking, resolving and "
+"reporting) project dependencies.  It is designed as process agnostic and is "
+"not tied to any methodology or structure. while available as a standalone "
+"tool, Apache Ivy works particularly well with Apache Ant providing a number "
+"of powerful Ant tasks ranging from dependency resolution to dependency "
+"reporting and publication."
+msgstr ""
+
+#. summary(axis:axis-javadoc)
+msgid "Api documentation for axis"
+msgstr ""
+
+#. summary(fcitx-table-other:fcitx-table-arabic)
+msgid "Arabic table for Fcitx"
+msgstr ""
+
+#. description(arista)
+msgid ""
+"Arista is a simple preset-based transcoder for the GNOME Desktop and a small "
+"script for terminal-based transcoding. Settings are chosen based on output "
+"device and quality preset.\n"
+"\n"
+"Features:  * Presets for Android, iPod, computer, DVD player, PSP, and more  "
+"* Live preview to see encoded quality  * Automatically discover available "
+"DVD drives and media  * Rip straight from DVD media easily  * Automatically "
+"discover and record from Video4Linux devices  * Support for H.264, WebM, "
+"FLV, Ogg, DivX and more  * Batch processing of entire directories easily  * "
+"Simple terminal client for scripting  * Nautilus extension for right-click "
+"file conversion"
+msgstr ""
+
+#. description(armadillo:armadillo-devel-32bit)
+msgid ""
+"Armadillo is a C++ linear algebra library (matrix maths) aiming towards a "
+"good balance between speed and ease of use. Integer, floating point and "
+"complex numbers are supported, as well as a subset of trigonometric and "
+"statistics functions. Various matrix decompositions are provided through "
+"optional integration with LAPACK and ATLAS libraries. A delayed evaluation "
+"approach is employed (during compile time) to combine several operations "
+"into one and reduce (or eliminate) the need for temporaries. This is "
+"accomplished through recursive templates and template meta-programming. This "
+"library is useful if C++ has been decided as the language of choice (due to "
+"speed and/or integration capabilities), rather than another language like "
+"Matlab or Octave.\n"
+"\n"
+"This package contains files necessary for development using the Armadillo C+"
+"+ library. It contains header files, example programs, and user "
+"documentation (reference guide)."
+msgstr ""
+
+#. description(asciidoc)
+msgid ""
+"AsciiDoc is a text document format for writing short documents, articles, "
+"books, and UNIX man pages. AsciiDoc files can be translated to HTML and "
+"DocBook markups using the asciidoc command."
+msgstr ""
+
+#. description(biabam)
+msgid ""
+"BIABAM is a small tool, useful when you want to mail attachments from the "
+"command line. It has similarities to mailing attachments from the "
+"commandline with Mutt, but it only depends on bash and uuencode."
+msgstr ""
+
+#. description(lapack:blas-devel-32bit)
+msgid ""
+"BLAS (Basic Linear Algebra Subprograms) is a standard library for numerical "
+"algebra. BLAS provides a number of basic algorithms for linear algebra. BLAS "
+"is fast and well-tested, was written in FORTRAN 77 and built with gfortran. "
+"BLAS manual pages are available in the blas-man package."
+msgstr ""
+
+#. description(bsh2:bsh2-bsf)
+msgid "BSF support for bsh2."
+msgstr ""
+
+#. summary(backintime)
+msgid "Back In Time is a simple backup system for GNOME/KDE4 desktop"
+msgstr ""
+
+#. description(backintime)
+msgid ""
+"Back In Time is a simple backup system for GNOME/KDE4 desktop inspired from "
+"\"flyback project\" and \"TimeVault\". The backup is done by taking "
+"snapshots of a specified set of directories.\n"
+"\n"
+"All you have to do is configure:\n"
+"\n"
+"\t* Where to save snapshot \t* What directories to backup \t* When backup "
+"should be done (manual, \t  every hour, every day, every week, every month)"
+msgstr ""
+
+#. summary(fail2ban)
+msgid "Bans IP addresses that make too many authentication failures"
+msgstr ""
+
+#. description(cmpi-pywbem-base)
+msgid "Base System CIM Providers"
+msgstr ""
+
+#. summary(cmpi-pywbem-base)
+msgid "Base System Providers"
+msgstr ""
+
+#. summary(lapack:blas-devel-32bit)
+msgid "Basic Linear Algebra Subprograms"
+msgstr ""
+
+#. description(bsf:bsf-javadoc)
+msgid ""
+"Bean Scripting Framework (BSF) is a set of Java classes which provides "
+"scripting language support within Java applications, and access to Java "
+"objects and methods from scripting languages. BSF allows one to write JSPs "
+"in languages other than Java while providing access to the Java class "
+"library. In addition, BSF permits any Java application to be implemented in "
+"part (or dynamically extended) by a language that is embedded within it. "
+"This is achieved by providing an API that permits calling scripting language "
+"engines from within Java, as well as an object registry that exposes Java "
+"objects to these scripting language engines.\n"
+"\n"
+"This package contains the javadoc documentation for the Bean Scripting "
+"Framework."
+msgstr ""
+
+#. description(bsh)
+msgid ""
+"BeanShell is a small, free, embeddable Java source interpreter with object "
+"scripting language features written in Java. BeanShell executes standard "
+"Java statements and expressions in addition to obvious scripting commands "
+"and syntax. BeanShell supports scripted objects as simple method closures "
+"like those in Perl and JavaScript(tm). You can use BeanShell interactively "
+"for Java experimentation and debugging or as a simple scripting engine for "
+"your applications. In short: BeanShell is dynamically interpreted Java, plus "
+"some useful stuff. Another way to describe it is to say that in many ways "
+"BeanShell is to Java as Tcl/Tk is to C: BeanShell is embeddable--you can "
+"call BeanShell from your Java applications to execute Java code dynamically "
+"at runtime or to provide scripting extensibility for your applications. "
+"Alternatively, you can call your Java applications and objects from "
+"BeanShell, working with Java objects and APIs dynamically. Because BeanShell "
+"is written in Java and runs in the same space as your application, you can "
+"freely pass references to \"real live\" objects into scripts and return them "
+"as results."
+msgstr ""
+
+#. description(bsh:bsh-demo)
+msgid ""
+"BeanShell is a small, free, embeddable, Java source interpreter with object "
+"scripting language features, written in Java.\n"
+"\n"
+"This package contains sample and demonstration files for BeanShell."
+msgstr ""
+
+#. description(bsh:bsh-javadoc)
+msgid ""
+"BeanShell is a small, free, embeddable, Java source interpreter with object "
+"scripting language features, written in Java.\n"
+"\n"
+"This package contains the javadoc documentation for BeanShell."
+msgstr ""
+
+#. description(bsh:bsh-manual)
+msgid ""
+"BeanShell is a small, free, embeddable, Java source interpreter with object "
+"scripting language features, written in Java.\n"
+"\n"
+"This package contains the manual for BeanShell."
+msgstr ""
+
+#. description(bsh2)
+msgid ""
+"BeanShell is a small, free, embeddable, Java source interpreter with object "
+"scripting language features, written in Java. BeanShell executes standard "
+"Java statements and expressions, in addition to obvious scripting commands "
+"and syntax. BeanShell supports scripted objects as simple method closures "
+"like those in Perl and JavaScript(tm). You can use BeanShell interactively "
+"for Java experimentation and debugging or as a simple scripting engine for "
+"your applications. In short: BeanShell is a dynamically interpreted Java, "
+"plus some useful stuff. Another way to describe it is to say that in many "
+"ways BeanShell is to Java as Tcl/Tk is to C: BeanShell is embeddable - You "
+"can call BeanShell from your Java applications to execute Java code "
+"dynamically at run-time or to provide scripting extensibility for your "
+"applications. Alternatively, you can call your Java applications and objects "
+"from BeanShell; working with Java objects and APIs dynamically. Since "
+"BeanShell is written in Java and runs in the same space as your application, "
+"you can freely pass references to \"real live\" objects into scripts and "
+"return them as results.\n"
+"\n"
+"With version 2.0 BeanShell becomes a fully Java compatible scripting "
+"language. BeanShell is now capable of interpreting ordinary Java source and "
+"loading .java source files from the class path. BeanShell scripted classes "
+"are fully typed and appear to outside Java code and via reflective "
+"inspection as ordinary classes. However their implementation is fully "
+"dynamic and they may include arbitrary BeanShell scripts in their bodies, "
+"methods, and constructors. Users may now freely mix loose, unstructured "
+"BeanShell scripts, method closures, and full scripted classes."
+msgstr ""
+
+#. summary(beansbinding)
+msgid "Beans Binding (JSR 295) reference implementation"
+msgstr ""
+
+#. summary(berkeleydb)
+msgid "Berkeley DB Java Edition"
+msgstr ""
+
+#. description(berkeleydb)
+msgid ""
+"Berkeley DB Java Edition is a high performance, transactional storage engine "
+"written entirely in Java. Like the highly successful Berkeley DB product, "
+"Berkeley DB Java Edition executes in the address space of the application, "
+"without the overhead of client/server communication. It stores data in the "
+"application's native format, so no runtime data translation is required. "
+"Berkeley DB Java Edition supports full ACID transactions and recovery. It "
+"provides an easy-to-use, programmatic interface, allowing developers to "
+"store and retrieve information quickly, simply and reliably."
+msgstr ""
+
+#. summary(bitstream-vera-fonts)
+msgid "Bitstream Vera(tm) Truetype fonts"
+msgstr ""
+
+#. description(bleachbit)
+msgid ""
+"BleachBit deletes unnecessary files to free valuable disk space and maintain "
+"privacy. Rid your system of old junk including broken menu entries, cache, "
+"cookies, localizations, and temporary files. Designed for Linux  systems, it "
+"wipes clean Bash, Beagle, Epiphany, Firefox, Flash, GNOME, Java, KDE, "
+"OpenOffice.org, Opera, RealPlayer, VIM, XChat, and more."
+msgstr ""
+
+#. description(blitz:blitz-doc)
+msgid ""
+"Blitz++ is a C++ class library for scientific computing which provides "
+"performance on par with Fortran 77/90. It uses template techniques to "
+"achieve high performance. Blitz++ provides dense arrays and vectors, random "
+"number generators, and small vectors.\n"
+"\n"
+"This package provides HTML documentation files for the Blitz Library."
+msgstr ""
+
+#. summary(blocxx-doc)
+msgid "BloCXX - Documentation"
+msgstr ""
+
+#. description(blocxx-doc)
+msgid ""
+"BloCXX is a general C++ framework for application development.\n"
+"\n"
+"This package contains the BloCXX documentation (HTML)."
+msgstr ""
+
+#. description(blueproximity)
+msgid ""
+"BlueProximity adds security to your desktop by automatically locking and "
+"unlocking the screen when you and your phone leave/enter the desk. Think of "
+"a proximity detector for your mobile phone via bluetooth."
+msgstr ""
+
+#. summary(debootstrap)
+msgid "Bootstrap a basic Debian system"
+msgstr ""
+
+#. summary(bouncycastle)
+msgid "Bouncy Castle Crypto Package for Java"
+msgstr ""
+
+#. description(bpython)
+msgid ""
+"Bpython is an enhanced Python interactive interpreter that uses curses and "
+"provides the following main features: in-line syntax highlighting; readline-"
+"like autocompletion with suggestions displayed as you type; expected "
+"argument specification for functions; a handy pastebin function to quickly "
+"submit your code and return a URL. Its goal is to bring together a few handy "
+"ideas to enhance the standard interpreter without getting carried away."
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-pt_BR)
+msgid "Brazil Portuguese Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-pt_BR-doc)
+msgid "Brazil Portuguese Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(bugreporter)
+msgid "Bug reporting tool for openSUSE"
+msgstr ""
+
+#. summary(build-compare)
+msgid "Build Result Compare Script"
+msgstr ""
+
+#. summary(i4l-base:capi4linux-devel-32bit)
+msgid "CAPI 2.0 library files for development"
+msgstr ""
+
+#. summary(i4l-base:capi4linux-32bit)
+msgid "CAPI 2.0 tools"
+msgstr ""
+
+#. summary(ca-certificates-cacert)
+msgid "CAcert root certificates"
+msgstr ""
+
+#. summary(cmpi-provider-register)
+msgid "CIMOM neutral provider registration utility"
+msgstr ""
+
+#. summary(fcitx-table-other:fcitx-table-cn-cns11643)
+msgid "CNS 11643 table for Fcitx"
+msgstr ""
+
+#. description(cpmono_v07-fonts)
+msgid "CPMono v07 is an industrial / high-tech monospace font."
+msgstr ""
+
+#. description(cacti)
+msgid ""
+"Cacti is a complete front-end to RRDtool: it stores all necessary "
+"information for creating graphs and populates them with data from a MySQL "
+"database. The front-end is completely PHP driven. Along with being ableto "
+"maintain graphs, data sources, and round robin archives ina database, Cacti "
+"also handles data gathering. There exists an SNMP support for those "
+"accustomed to creating traffic graphs with MRTG as well."
+msgstr ""
+
+#. description(caffeine)
+msgid ""
+"Caffeine is a status bar application able to temporarily prevent the "
+"activation of both the screensaver and the \"sleep\" powersaving mode."
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-ja)
+msgid "Calligra Suite Translations for ja"
+msgstr ""
+
+#. summary(caslon-fonts)
+msgid "Caslon TrueType Fonts"
+msgstr ""
+
+#. description(castor)
+msgid ""
+"Castor is an open source data binding framework for Java. It is basically "
+"the shortest path between Java objects, XML documents, and SQL tables. "
+"Castor provides Java to XML binding, Java to SQL persistence, and more."
+msgstr ""
+
+#. description(castor:castor-xml)
+msgid ""
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"\n"
+"This package contains XML support for Castor."
+msgstr ""
+
+#. description(castor:castor-demo)
+msgid ""
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"\n"
+"This package contains demonstration and sample files for Castor."
+msgstr ""
+
+#. description(castor:castor-test)
+msgid ""
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"\n"
+"This package contains tests for Castor."
+msgstr ""
+
+#. description(castor:castor-doc)
+msgid ""
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"\n"
+"This package contains the documentation for Castor."
+msgstr ""
+
+#. description(castor:castor-javadoc)
+msgid ""
+"Castor is an open source data binding framework for Java. It's basically the "
+"shortest path between Java objects, XML documents and SQL tables. Castor "
+"provides Java to XML binding, Java to SQL persistence, and then some more.\n"
+"\n"
+"This package contains the javadoc documentation for Castor."
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-ca)
+msgid "Catalan Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-ca-doc)
+msgid "Catalan Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. description(cecilia)
+msgid "Cecilia is a Tcl/Tk front-end for the Csound sound synthesis program."
+msgstr ""
+
+#. description(cedilla)
+msgid ""
+"Cedilla is a \"best-effort\" text printer that uses Unicode internally.\n"
+"\n"
+"Using Unicode means that the set of characters that can appear in the input "
+"is very large and the user may very well have no font available that "
+"contains glyphs for the characters that the user wants to print. Cedilla "
+"attempts to at least partially solve this problem using a number of "
+"techniques:\n"
+"\n"
+"1. 1. Cedilla can use an arbitrary number of downloadable fonts. For    any "
+"given print job, only the necessary fonts are downloaded.\n"
+"\n"
+"1. 2. Cedilla uses its own built-in font, which contains a number of    "
+"useful glyphs that are missing from standard fonts.\n"
+"\n"
+"1. 3. Cedilla modifies existing glyphs in order to, for example, remove    "
+"dots or add bars.\n"
+"\n"
+"1. 4. Cedilla attempts to build composite glyphs (for accented    "
+"characters, for example) on the fly.\n"
+"\n"
+"1. 5. Cedilla uses fallbacks for characters that are not supported by the "
+"available fonts."
+msgstr ""
+
+#. description(check:check-32bit)
+msgid ""
+"Check is a unit test framework for C. It features a simple interfacefor "
+"defining unit tests, limitating the developer the less possible. Tests are "
+"run in a separate address space, so Check cancatch both, assertion failures "
+"and code errors that cause segmentationfaults or other signals. The output "
+"of unit tests can be used within source code editors and IDEs."
+msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-cn-zhengma-large)
+msgid "Cheng large character set table for Fcitx"
+msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-cn-zhengma)
+msgid "Cheng table for Fcitx"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-zh_TW)
+msgid "Chinese Translations for Calligra Suite Applications"
+msgstr ""
+
+#. description(clanlib-doc)
+msgid "ClanLib delivers a platform-independent interface for writing games."
+msgstr ""
+
+#. summary(classworlds)
+msgid "Classworlds Classloader Framework"
+msgstr ""
+
+#. description(classworlds)
+msgid ""
+"Classworlds is a framework for container developers who require complex "
+"manipulation of Java's ClassLoaders. Java's native ClassLoader mechanims and "
+"classes can cause much headache and confusion for certain types of "
+"application developers. Projects which involve dynamic loading of components "
+"or otherwise represent a 'container' can benefit from the classloading "
+"control provided by classworlds."
+msgstr ""
+
+#. summary(emma)
+msgid "Code Coverage Tool"
+msgstr ""
+
+#. summary(cglib)
+msgid "Code Generation Library"
+msgstr ""
+
+#. summary(ant-contrib)
+msgid "Collection of tasks for Ant"
+msgstr ""
+
+#. summary(collectl)
+msgid "Collects data that describes the current system status"
+msgstr ""
+
+#. summary(colordiff)
+msgid "Colour-highlighted 'diff' output"
+msgstr ""
+
+#. summary(comix)
+msgid "Comix - GTK Comic Book Viewer"
+msgstr ""
+
+#. description(comix)
+msgid ""
+"Comix is a user-friendly, customizable image viewer. It is specifically "
+"designed to handle comic books, but also serves as a generic viewer. It "
+"reads images in ZIP, RAR or tar archives (also gzip or bzip2 compressed) as "
+"well as plain image files. It is written in Python and uses GTK+ through the "
+"PyGTK bindings."
+msgstr ""
+
+#. summary(perl-Clipboard:clipboard)
+msgid "Command-Line Utilities to Copy and Paste with any OS"
+msgstr ""
+
+#. summary(cdemu-client)
+msgid "Command-line client to control cdemu-daemon"
+msgstr ""
+
+#. summary(cim-schema)
+msgid "Common Information Model (CIM) Schema"
+msgstr ""
+
+#. description(cim-schema)
+msgid ""
+"Common Information Model (CIM) is a model for describing overall management "
+"information in a network or enterprise environment. CIM consists of a "
+"specification and a schema. The specification defines the details for "
+"integration with other management models. The schema provides the actual "
+"model descriptions."
+msgstr ""
+
+#. summary(apache-commons-daemon:apache-commons-daemon-javadoc)
+msgid "Commons Daemon Javadoc"
+msgstr ""
+
+#. description(compizconfig-settings-manager)
+msgid "Compiz Config and Settings tool (CCSM)."
+msgstr ""
+
+#. description(compiz-manager)
+msgid ""
+"Compiz Manager wrapper script\n"
+"\n"
+"This script will detect what options we need to pass to compiz to get it "
+"started, and start a default plugin and possibly window decorator."
+msgstr ""
+
+#. summary(compcache)
+msgid "Compressed RAM based swap device"
+msgstr ""
+
+#. summary(diffmk)
+msgid "Compute Differences between XML Documents"
+msgstr ""
+
+#. description(f2c:f2c-32bit)
+msgid ""
+"Contains libf2c.so.0.11, ported by Rob Hooft. This package uses an 'f77' "
+"script that hides the C translation process from the user."
+msgstr ""
+
+#. description(compat)
+msgid "Contains old libraries possibly needed for programs not part of SUSE."
+msgstr ""
+
+#. summary(djvu2pdf)
+msgid "Converting Djvu Files to PDF Files"
+msgstr ""
+
+#. summary(cvs2svn)
+msgid "Converts CVS repositories to Subversion repositories"
+msgstr ""
+
+#. description(cvs2svn)
+msgid ""
+"Converts CVS repositories to Subversion repositories.\n"
+"\n"
+"See /usr/share/doc/packages/cvs2svn directory for more information."
+msgstr ""
+
+#. summary(convmv)
+msgid "Converts File Names from One Encoding to Another"
+msgstr ""
+
+#. description(cppdb:cppdb-doc)
+msgid ""
+"CppDB is an SQL connectivity library that is designed to provide platform "
+"and Database independent connectivity API similarly to what JDBC, ODBC and "
+"other connectivity libraries do.\n"
+"\n"
+"This package contains HTML documentation."
+msgstr ""
+
+#. summary(crash:crash-kmp-pae)
+msgid ""
+"Crash utility for live systems; netdump, diskdump, LKCD or mcore dumpfiles"
+msgstr ""
+
+#. description(crawl:crawl-data)
+msgid ""
+"Crawl is a fun game in the grand tradition of games like Rogue, Hack, and "
+"Moria. Your objective is to travel deep into a subterranean cave complex and "
+"retrieve the Orb of Zot, which is guarded by many horrible and hideous "
+"creatures.\n"
+"\n"
+"These are the data files for Dungeon Crawl Stone Soup."
+msgstr ""
+
+#. summary(aldusleaf-crimson-text-fonts)
+msgid "Crimson Text Serif Font"
+msgstr ""
+
+#. description(aldusleaf-crimson-text-fonts)
+msgid ""
+"Crimson Text is a font family for book production in the tradition of "
+"beautiful oldstyle typefaces. Crimson Text was born after years of "
+"discontent with the choice of free text typefaces. It is a friendly, "
+"classical old-style font for books."
+msgstr ""
+
+#. description(crimson)
+msgid ""
+"Crimson is a Java XML parser which supports XML 1.0 via the    following "
+"APIs: - Java API for XML Processing (JAXP) 1.1 minus    the javax.xml."
+"transform package. JAXP is a pluggable API that    allows applications to "
+"access XML documents in a    parser-independent manner. It endorses the "
+"industry standard SAX    and DOM APIs and also adds a few classes under "
+"the    javax.xml.parsers package to implement pluggability and utility    "
+"methods Note: the javax.xml.transform package hierarchy of JAXP    is not "
+"implemented by Crimson. One implementation of    javax.xml.transform can be "
+"found at Xalan Java 2.\n"
+"\n"
+"- SAX 2.0\n"
+"\n"
+"- SAX2 Extensions version 1.0\n"
+"\n"
+"- DOM Level 2 Core Recommendation"
+msgstr ""
+
+#. description(cryptix:cryptix-javadoc)
+msgid ""
+"Cryptix 3 is a cleanroom implementation of Sun's Java Cryptography "
+"Extensions (JCE) version 1.1. In addition to that it contains the Cryptix "
+"Provider which delivers a wide range of algorithms and support for PGP 2.x. "
+"Cryptix 3 runs on both JDK 1.1 and JDK 1.2 (Java 2).\n"
+"\n"
+"This package contains the javadoc documentation for Cryptix."
+msgstr ""
+
+#. description(cryptix)
+msgid ""
+"Cryptix 3 is a cleanroom implementation of Sun's Java Cryptography "
+"Extensions (JCE) version 1.1. In addition to that, it contains the Cryptix "
+"Provider, which delivers a wide range of algorithms and support for PGP 2.x. "
+"Cryptix 3 runs on both JDK 1.1 and JDK 1.2 (Java 2)."
+msgstr ""
+
+#. summary(cryptix-asn1)
+msgid "Cryptix ASN1 Implementation"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-cs)
+msgid "Czech Translations for Calligra Suite Applications"
+msgstr ""
+
+#. description(dbus-1:dbus-1-devel-doc)
+msgid ""
+"D-Bus is a message bus system, a simple way for applications to talk to one "
+"another. D-BUS supplies both a system daemon and a per-user-login-session "
+"daemon. Also, the message bus is built on top of a general one-to-one "
+"message passing framework, which can be used by any two apps to communicate "
+"directly (without going through the message bus daemon)."
+msgstr ""
+
+#. description(d-feet)
+msgid ""
+"D-Feet is a graphical D-Bus debugger.  D-Bus is an RPC library used on the "
+"Desktop.  D-Feet can be used to inspect D-Bus objects of running programs "
+"and invoke methods on those objects."
+msgstr ""
+
+#. summary(d-haven-event)
+msgid "D-Haven Event based processing"
+msgstr ""
+
+#. description(d-haven-event)
+msgid ""
+"D-Haven Event is a library designed to make it easier to develop event based "
+"processing systems.  It also includes a CommandManager to handle certain "
+"activities behind the scenes in a controlled number of background threads.  "
+"The library has been fully tested, and all dependencies have been brought to "
+"a minimum."
+msgstr ""
+
+#. summary(d-haven-mpool)
+msgid "D-Haven Managed Pool async"
+msgstr ""
+
+#. description(d-haven-mpool)
+msgid ""
+"D-Haven Managed Pool is a library designed to provide pools that are "
+"asynchronously managed in a background thread.\tThe pool system is very "
+"flexible and can accommodate just about every need.  It boasts the ability "
+"to add pool listeners so that you can instrument and intercept the pooled "
+"objects when they are created, destroyed, acquired, and released."
+msgstr ""
+
+#. summary(dita-ot)
+msgid "DITA Open Toolkit"
+msgstr ""
+
+#. summary(dkimproxy)
+msgid ""
+"DKIMproxy is an SMTP-proxy that implements the DKIM and DomainKeys standards"
+msgstr ""
+
+#. description(dkimproxy)
+msgid ""
+"DKIMproxy is an SMTP-proxy that signs and/or verifies emails, using the "
+"Mail::DKIM module. It is designed for Postfix, but should work with any mail "
+"server. It comprises two separate proxies, an \"outbound\" proxy for signing "
+"outgoing email, and an \"inbound\" proxy for verifying signatures of "
+"incoming email. With Postfix, the proxies can operate as either Before-Queue "
+"or After-Queue content filters."
+msgstr ""
+
+#. summary(dom2-core-tests)
+msgid "DOM Conformance Test Suite"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-da)
+msgid "Danish Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-da-doc)
+msgid "Danish Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(build-initvm:build-initvm-debuginfo-i586)
+msgid "Debug information for package build-initvm"
+msgstr ""
+
+#. summary(decibel-audio-player)
+msgid "Decibel Audio Player Is an Easy to Use Audio Player"
+msgstr ""
+
+#. description(decibel-audio-player)
+msgid ""
+"Decibel Audio Player is a GTK+ open-source (GPL license) audio player "
+"designed for GNU/Linux, which aims at being very straightforward to use by "
+"mean of a very clean and user friendly interface. It is especially targeted "
+"at Gnome and will follow as closely as possible the Gnome HIG."
+msgstr ""
+
+#. summary(castor:castor-demo)
+msgid "Demonstration and sample file for castor"
+msgstr ""
+
+#. summary(bsh:bsh-demo)
+msgid "Demonstration and sample files for bsh"
+msgstr ""
+
+#. description(aelfred:aelfred-demo)
+msgid "Demonstrations and samples for aelfred."
+msgstr ""
+
+#. description(bsh2:bsh2-demo)
+msgid "Demonstrations and samples for bsh2."
+msgstr ""
+
+#. summary(dbus-1:dbus-1-devel-doc)
+msgid "Developer documentation package for D-Bus"
+msgstr ""
+
+#. summary(dirac:dirac-devel-32bit)
+msgid "Development Files for Dirac Video Codec"
+msgstr ""
+
+#. summary(aalib:aalib-devel-32bit)
+msgid "Development Package for AAlib"
+msgstr ""
+
+#. summary(armadillo:armadillo-devel-32bit)
+msgid "Development headers and documentation for the Armadillo C++ library"
+msgstr ""
+
+#. summary(device-mapper:device-mapper-devel-32bit)
+msgid "Development package for the device mapper"
+msgstr ""
+
+#. description(cloog:cloog-devel-32bit)
+msgid "Development tools and headers for the Chunky Loop Generator."
+msgstr ""
+
+#. summary(cloog:cloog-devel-32bit)
+msgid "Development tools for CLOOG"
+msgstr ""
+
+#. summary(dirac:dirac-doc)
+msgid "Dirac Video Codec api documentation"
+msgstr ""
+
+#. description(djvusmooth)
+msgid "DjVuSmooth is a graphical text editor for DjVu documents."
+msgstr ""
+
+#. summary(daps)
+msgid "DocBook Authoring and Publishing Suite"
+msgstr ""
+
+#. description(daps)
+msgid ""
+"DocBook Authoring and Publishing Suite (DAPS)\n"
+"\n"
+"DAPS contains a set of stylesheets, scripts and makefiles that enable you to "
+"create HTML, PDF, EPUB and other formats from DocBook XML with a single "
+"command. It also contains tools to generate profiled source tarballs for "
+"distributing your XML sources for translation or review.\n"
+"\n"
+"DAPS also includes tools that assist you when writing DocBook XML: "
+"linkchecker, validator, spellchecker, editor macros and stylesheets for "
+"converting DocBook XML.\n"
+"\n"
+"DAPS is the successor of susedoc. See /usr/share/doc/packages/daps/README."
+"upgrade_from_susedoc_4.x for upgrade instructions."
+msgstr ""
+
+#. summary(docbook-css-stylesheets)
+msgid "DocBook CSS Stylesheets"
+msgstr ""
+
+#. summary(docbook-toys)
+msgid "DocBook Tools"
+msgstr ""
+
+#. summary(docbook-xml-slides)
+msgid "DocBook XML Slides"
+msgstr ""
+
+#. summary(dblatex)
+msgid "DocBook to LaTeX Publishing"
+msgstr ""
+
+#. summary(boinc-client:boinc-client-doc)
+msgid "Documentation files for boinc-client"
+msgstr ""
+
+#. summary(lapack:blas-man)
+msgid "Documentation for BLAS (Basic Linear Algebra Subprograms)"
+msgstr ""
+
+#. summary(libdb-4_8:db-doc)
+msgid "Documentation for Berkeley DB"
+msgstr ""
+
+#. summary(ckermit:ckermit-doc)
+msgid "Documentation for CKermit"
+msgstr ""
+
+#. summary(adaptx:adaptx-doc)
+msgid "Documentation for adaptx"
+msgstr ""
+
+#. description(avalon-framework:avalon-framework-manual)
+msgid "Documentation for avalon-framework."
+msgstr ""
+
+#. description(bsh2:bsh2-manual)
+msgid "Documentation for bsh2."
+msgstr ""
+
+#. summary(castor:castor-doc)
+msgid "Documentation for castor"
+msgstr ""
+
+#. summary(dpic:dpic-doc)
+msgid "Documentation for dpic"
+msgstr ""
+
+#. summary(libdb-4_5:db45-utils-doc)
+msgid ""
+"Documentation for the Command Line tools for Managing Berkeley DB Databases"
+msgstr ""
+
+#. summary(dbus-1-glib:dbus-1-glib-doc)
+msgid "Documentation for the D-Bus/GLib bindings"
+msgstr ""
+
+#. description(calligra-doc)
+msgid "Documentation of the Calligra Office Suite applications."
+msgstr ""
+
+#. summary(calligra-doc)
+msgid "Documentation of the Calligra Suite"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-nl)
+msgid "Dutch Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-nl-doc)
+msgid "Dutch Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(dynamic-wallpapers-11x)
+msgid "Dynamic wallpapers for GNOME, from previous versions of openSUSE"
+msgstr ""
+
+#. description(emma)
+msgid ""
+"EMMA is an open-source toolkit for measuring and reporting Java code "
+"coverage. EMMA distinguishes itself from other tools by going after a unique "
+"feature combination: support for large-scale enterprise software development "
+"while keeping individual developer's work fast and iterative."
+msgstr ""
+
+#. description(epg)
+msgid ""
+"EasyPG is an all-in-one GnuPG interface for Emacs. It has two aspects: "
+"convenient tools which allow to use GnuPG from Emacs (EasyPG Assistant), and "
+"a fully functional interface library to GnuPG (EasyPG Library)."
+msgstr ""
+
+#. summary(ecj)
+msgid "Eclipse Compiler for Java"
+msgstr ""
+
+#. summary(ecj-bootstrap)
+msgid "Eclipse Java Compiler"
+msgstr ""
+
+#. summary(euca2ools)
+msgid "Elastic Utility Computing Architecture Command Line Tools"
+msgstr ""
+
+#. summary(autoconf-el)
+msgid "Emacs mode for editing GNU Autoconf scripts"
+msgstr ""
+
+#. summary(emacs-w3)
+msgid "Emacs/W3--a WWW Browser for Emacs"
+msgstr ""
+
+#. summary(fcitx-table-other:fcitx-table-emoji)
+msgid "Emoji table for Fcitx"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-en_GB)
+msgid "English (UK) Translations for Calligra Suite Applications"
+msgstr ""
+
+#. description(epiphany:epiphany-branding-upstream)
+msgid ""
+"Epiphany is a Web Browser for the GNOME Desktop. Its principles are "
+"simplicity and standards compliance.\n"
+"\n"
+"This package provides the upstream default bookmarks and user agent string."
+msgstr ""
+
+#. description(epydoc)
+msgid ""
+"Epydoc is a tool for generating API documentation for Python modules based "
+"on their documentation strings (docstrings). A lightweight markup language, "
+"called epytext ,can be used to format docstrings and add information about "
+"specific fields, such as parameters and instance variables. Epydoc also "
+"understands docstrings written in ReStructuredText, Javadoc, and plain text."
+msgstr ""
+
+#. description(eric5)
+msgid ""
+"Eric is a full featured Python and Ruby editor and IDE, written in python. "
+"It is based on the cross platform Qt gui toolkit, integrating the highly "
+"flexible Scintilla editor control. It is designed to be usable as everdays' "
+"quick and dirty editor as well as being usable as a professional project "
+"management tool integrating many advanced features Python offers the "
+"professional coder."
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-et)
+msgid "Estonian Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-et-doc)
+msgid "Estonian Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. description(euca2ools)
+msgid ""
+"Euca2ools are command-line tools for interacting with Web services that "
+"export a REST/Query-based API compatible with Amazon EC2 and S3 services. "
+"The tools can be used with both Amazon's services and with installations of "
+"the Eucalyptus open-source cloud-computing infrastructure."
+msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-wanfeng)
+msgid "Evening Breeze(Wanfeng) table for fcitx"
+msgstr ""
+
+#. summary(asciidoc:asciidoc-examples)
+msgid "Examples and Documents for asciidoc"
+msgstr ""
+
+#. description(exmh)
+msgid ""
+"Exmh is an X user interface for NMH mail. NMH provides a set of UNIX "
+"commands that manage folders and mail messages. NMH has many features as a "
+"result of several years of availability. Exmh provides a graphical interface "
+"to many of these features, but not everything."
+msgstr ""
+
+#. summary(brp-extract-appdata)
+msgid "Extract appdata.xml"
+msgstr ""
+
+#. description(brp-extract-appdata)
+msgid "Extract appdata.xml from all .deskop files found in build root"
+msgstr ""
+
+#. summary(faenza-icon-theme)
+msgid "Faenza Icon Theme"
+msgstr ""
+
+#. summary(faenza-icon-theme:faenza-icon-theme-ambiance)
+msgid "Faenza-Ambiance Icon Theme"
+msgstr ""
+
+#. summary(faenza-icon-theme:faenza-icon-theme-dark)
+msgid "Faenza-Dark Icon Theme"
+msgstr ""
+
+#. summary(faenza-icon-theme:faenza-icon-theme-mint)
+msgid "Faenza-Mint Icon Theme"
+msgstr ""
+
+#. summary(faenza-icon-theme:faenza-icon-theme-radiance)
+msgid "Faenza-Radiance Icon Theme"
+msgstr ""
+
+#. description(fail2ban)
+msgid ""
+"Fail2ban scans log files like /var/log/messages and bans IP addresses that "
+"makes too many password failures. It updates firewall rules to reject the IP "
+"address, can send e-mails, or set host.deny entries. These rules can be "
+"defined by the user. Fail2Ban can read multiple log files such as sshd or "
+"Apache web server ones."
+msgstr ""
+
+#. summary(bpython)
+msgid "Fancy Curses Interface to the Python Interactive Interpreter"
+msgstr ""
+
+#. description(fcitx-table-other:fcitx-table-amharic)
+msgid "Fcitx Amharic table."
+msgstr ""
+
+#. description(fcitx-table-other:fcitx-table-arabic)
+msgid "Fcitx Arabic table."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-cn-zhengma)
+msgid "Fcitx Cheng (Zheng Ma) table for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-cn-zhengma-large)
+msgid ""
+"Fcitx Cheng (Zheng Ma) table with large character set for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx-table-other:fcitx-table-cn-cns11643)
+msgid ""
+"Fcitx Chinese National Standard 11643 table for Simplified Chinese.\n"
+"\n"
+"It's also called Chinese Standard Interchange Code. And it's a superset of "
+"ASCII.\n"
+"\n"
+"See: http://en.wikipedia.org/wiki/CNS_11643 for details.\n"
+"\n"
+"If you don't know what it is, don't try. Actually no Chinese use it either."
+msgstr ""
+
+#. summary(fcitx:fcitx-skin-classic)
+msgid "Fcitx Classic Skin"
+msgstr ""
+
+#. summary(fcitx:fcitx-skin-dark)
+msgid "Fcitx Dark Skin"
+msgstr ""
+
+#. description(fcitx-table-other:fcitx-table-emoji)
+msgid "Fcitx Emoji (Emoticons) table."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-wanfeng)
+msgid "Fcitx Evening Breeze (Wan feng) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-cn-cantonese)
+msgid ""
+"Fcitx Guongdonkwa Penkyampji(Cantonese Pinyin) table for Simplified "
+"Chinese.\n"
+"\n"
+"Cantonese Pinyin is a table input method, but it's not the pinyin used in "
+"Mainland China, but derivative schemes used by overseas Chinese in Hongkong, "
+"Kuala Lumpur, Sydney, Auckland, and Vancouver. This standard is released by "
+"Education department of Canton Province in 1960s.\n"
+"\n"
+"See: http://en.wikipedia.org/wiki/Guangdong_Romanization for details\n"
+"\n"
+"If you don't know what it is, don't try."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-hk-cantonese)
+msgid ""
+"Fcitx Hong Kong Guongdonkwa Penkyampji table for Traditional Chinese.\n"
+"\n"
+"This is Hong Kong derivative of the standard Guongdonkwa Penkyampji "
+"schemes.\n"
+"\n"
+"See: http://en.wikipedia.org/wiki/Guangdong_Romanization for details\n"
+"\n"
+"If you don't know what it is, don't try."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-bingchan)
+msgid ""
+"Fcitx Icefrog Holography (Bing Chan Quan Xi, or QXM) input tables for "
+"Simplified Chinese."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-ziran)
+msgid "Fcitx Nature (Zi Ran Ma) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-dianbao)
+msgid "Fcitx Telegram (Dian Bao) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-cangjie)
+msgid "Fcitx Tsang Jei (Cang Jie) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-erbi)
+msgid "Fcitx Two Stroke (Er Bi) input tables for Simplified Chinese."
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-cn-wu)
+msgid ""
+"Fcitx Wu table for Simplified Chinese.\n"
+"\n"
+"It's not Wubi, but Shanghainese.\n"
+"\n"
+"Wu is a dialect used in a few provinces in the south end beach of yangtse "
+"river.\n"
+"\n"
+"If you don't know what it is, don't try."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-wubi-pinyin)
+msgid ""
+"Fcitx Wubi (Wu Bi Zi Xing) and Pinyin mixed input tables for Simplified "
+"Chinese.\n"
+"\n"
+"Wubi in Fcitx is based on wubi x86."
+msgstr ""
+
+#. description(fcitx:fcitx-table-cn-wubi)
+msgid ""
+"Fcitx Wubi (Wu Bi Zi Xing) input tables for Simplified Chinese.\n"
+"\n"
+"Wubi in Fcitx is based on wubi x86."
+msgstr ""
+
+#. description(fcitx:fcitx-skin-classic)
+msgid ""
+"Fcitx classic skin.\n"
+"\n"
+"You can either use this package or download from kde-look.org using "
+"knewstaff in fcitx-config-kde4."
+msgstr ""
+
+#. description(fcitx:fcitx-skin-dark)
+msgid ""
+"Fcitx dark skin.\n"
+"\n"
+"You can either use this package for download from kde-look.org using "
+"knewstaff in fcitx-config-kde4."
+msgstr ""
+
+#. description(aalib:aalib-devel-32bit)
+msgid "Files needed for developing software that uses AAlib."
+msgstr ""
+
+#. description(device-mapper:device-mapper-devel-32bit)
+msgid "Files needed for software development using the device mapper"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-fi)
+msgid "Finnish Translations for Calligra Suite Applications"
+msgstr ""
+
+#. description(Crystalcursors)
+msgid ""
+"Four different mouse cursor icon sets in the KDE CrystalSVG style. In white, "
+"gray, blue, and green versions. They can be selected from KDE Control "
+"Center, in the mouse configuration."
+msgstr ""
+
+#. summary(cedict)
+msgid "Free Chinese-English Dictionary in EDICT Format"
+msgstr ""
+
+#. summary(efont-serif-fonts)
+msgid "Free and Open Scalable Electronic Font"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-fr)
+msgid "French Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-fr-doc)
+msgid "French Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(exmh)
+msgid "Front-End for nmh Written in tcl/tk"
+msgstr ""
+
+#. summary(epiphany:epiphany-branding-upstream)
+msgid "GNOME Web Browser -- Upstream default bookmarks and user agent string"
+msgstr ""
+
+#. summary(classpathx-mail)
+msgid "GNU JavaMail is a free implementation of the JavaMail API specification"
+msgstr ""
+
+#. description(classpathx-mail)
+msgid ""
+"GNU JavaMail is a free implementation of the JavaMail API specification, "
+"version 1.3. All the code has been written from scratch without reference to "
+"Sun's code, which allows GNU JavaMail to be used on a completely free "
+"operating system such as GNU/Linux or the Hurd. The code is optimized to "
+"work with free Java implementations, nothing prevents it from being used "
+"with any compliant JVM. GNU JavaMail provides a protocol-independent "
+"framework for building mail client applications in Java. The API itself "
+"provides a complete MIME implementation, and drivers for individual "
+"messaging protocols, known as providers, can be plugged into the JavaMail "
+"framework dynamically. Several providers, implementing Internet standard "
+"protocols, are included with GNU JavaMail. These include: SMTP IMAP POP3 "
+"NNTP including posting to news servers The UNIX mbox format Dan Bernstein's "
+"Maildir format All these providers are feature-complete, and provide "
+"cryptographically secure access where relevant."
+msgstr ""
+
+#. summary(classpathx-mail:classpathx-mail-javadoc)
+msgid "GNU JavaMail(tm)"
+msgstr ""
+
+#. description(classpathx-mail:classpathx-mail-javadoc)
+msgid ""
+"GNU JavaMail(tm) is a free implementation of the JavaMail API.\n"
+"\n"
+"\n"
+"\n"
+"GNU JavaMail(tm)."
+msgstr ""
+
+#. summary(cpanspec)
+msgid "Generate a SUSE spec file for a CPAN module"
+msgstr ""
+
+#. summary(enchant:enchant-zemberek-32bit)
+msgid "Generic Spell Checking Library - Zemberek Plugin"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-de)
+msgid "German Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-de-doc)
+msgid "German Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(dbus-sharp-glib:dbus-sharp-glib-devel)
+msgid "Glib integration for DBus - development files"
+msgstr ""
+
+#. summary(epg)
+msgid "GnuPG interface for Emacs"
+msgstr ""
+
+#. summary(ColPack:ColPack-devel-32bit)
+msgid "Graph Coloring Library for C/C++ -- development files"
+msgstr ""
+
+#. summary(d-feet)
+msgid "Graphical D-Bus Debugger"
+msgstr ""
+
+#. summary(djvusmooth)
+msgid "Graphical Text Editor for DjVu"
+msgstr ""
+
+#. summary(espeak-gui)
+msgid "Graphical User Interface for eSpeak"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-el)
+msgid "Greek Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(ack)
+msgid "Grep-Like Text Finder"
+msgstr ""
+
+#. summary(cppdb:cppdb-doc)
+msgid "HTML documentation for CppDB"
+msgstr ""
+
+#. summary(boost:boost-doc-html)
+msgid "HTML documentation for the Boost C++ Libraries"
+msgstr ""
+
+#. summary(cracklib:cracklib-devel-32bit)
+msgid "Header files and libraries for developing apps which will use CrackLib"
+msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-hk-cantonese)
+msgid "Hong Kong Guongdonkwa Penkyampji table for Fcitx"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-hu)
+msgid "Hungarian Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-bingchan)
+msgid "Icefrog Holography(QXM) table for fcitx"
+msgstr ""
+
+#. description(beansbinding)
+msgid ""
+"In essence, Beans Binding (JSR 295) is about keeping two properties "
+"(typically of two objects) in sync. An additional emphasis is placed on the "
+"ability to bind to Swing components, and easy integration with IDEs such as "
+"NetBeans. This project provides the reference implementation."
+msgstr ""
+
+#. summary(ccaudio2:ccaudio2-devel-32bit)
+msgid "Include-files and development files for ccaudio"
+msgstr ""
+
+#. summary(cpmono_v07-fonts)
+msgid "Industrial Monotype Font"
+msgstr ""
+
+#. summary(cvs:cvs-doc)
+msgid "Info pages and Open Source Development with CVS, 2nd Edition Book"
+msgstr ""
+
+#. description(cvs:cvs-doc)
+msgid ""
+"Info pages for cvs, an introduction to cvs (/usr/share/cvs/contrib/intro."
+"doc) and the complete book \"Open Source Development with CVS, 2nd Edition\"."
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-it)
+msgid "Italian Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-it-doc)
+msgid "Italian Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(alsa-plugins:alsa-plugins-jack-32bit)
+msgid "JACK I/O Plug-In for the ALSA Library"
+msgstr ""
+
+#. summary(dom4j)
+msgid "JarJar of dom4j for JBoss"
+msgstr ""
+
+#. summary(cryptix)
+msgid "Java Crypto Package"
+msgstr ""
+
+#. description(apache-portlet-1_0-api)
+msgid "Java Standard Portlet API accoring to JSR-168, from Jetspeed-2 ."
+msgstr ""
+
+#. description(apache-portlet-1_0-api:apache-portlet-1_0-api-javadoc)
+msgid ""
+"Java Standard Portlet API accoring to JSR-168, from Jetspeed-2 .\n"
+"\n"
+"\n"
+"\n"
+"Portlet API 1.0 from Jetspeed2."
+msgstr ""
+
+#. description(cryptix-asn1)
+msgid "Java asn1 implementation for Cryptix."
+msgstr ""
+
+#. summary(asm)
+msgid "Java bytecode manipulation framework"
+msgstr ""
+
+#. summary(asm:asm-javadoc)
+msgid "Java bytecode manipulation framework (documentation)"
+msgstr ""
+
+#. summary(avalon-framework)
+msgid "Java components interfaces"
+msgstr ""
+
+#. summary(avalon-logkit)
+msgid "Java logging toolkit"
+msgstr ""
+
+#. summary(aelfred)
+msgid "Java-based XML parser"
+msgstr ""
+
+#. summary(aelfred:aelfred-demo)
+msgid "Java-based XML parser (demo and samples)"
+msgstr ""
+
+#. summary(aelfred:aelfred-javadoc)
+msgid "Java-based XML parser (documentation)"
+msgstr ""
+
+#. summary(apache-ivy)
+msgid "Java-based dependency manager"
+msgstr ""
+
+#. description(apache-ivy:apache-ivy-javadoc)
+msgid "JavaDoc documentation for apache-ivy"
+msgstr ""
+
+#. description(cryptix-asn1:cryptix-asn1-javadoc)
+msgid "Javadoc documentation for the asn1 implementation for Cryptix."
+msgstr ""
+
+#. summary(adaptx:adaptx-javadoc)
+msgid "Javadoc for adaptx"
+msgstr ""
+
+#. description(aelfred:aelfred-javadoc)
+msgid "Javadoc for aelfred."
+msgstr ""
+
+#. summary(apache-commons-codec:apache-commons-codec-javadoc)
+msgid "Javadoc for apache-commons-codec"
+msgstr ""
+
+#. description(apache-commons-codec:apache-commons-codec-javadoc)
+msgid "Javadoc for apache-commons-codec."
+msgstr ""
+
+#. description(asm:asm-javadoc)
+msgid "Javadoc for asm."
+msgstr ""
+
+#. summary(avalon-framework:avalon-framework-javadoc)
+msgid "Javadoc for avalon-framework"
+msgstr ""
+
+#. summary(avalon-logkit:avalon-logkit-javadoc)
+msgid "Javadoc for avalon-logkit"
+msgstr ""
+
+#. summary(bcel:bcel-javadoc)
+msgid "Javadoc for bcel"
+msgstr ""
+
+#. summary(bcel5_3:bcel5_3-javadoc)
+msgid "Javadoc for bcel5_3"
+msgstr ""
+
+#. summary(bea-stax:bea-stax-javadoc)
+msgid "Javadoc for bea-stax"
+msgstr ""
+
+#. summary(bouncycastle:bouncycastle-javadoc)
+msgid "Javadoc for bouncycastle"
+msgstr ""
+
+#. summary(bsf:bsf-javadoc)
+msgid "Javadoc for bsf"
+msgstr ""
+
+#. summary(bsh:bsh-javadoc)
+msgid "Javadoc for bsh"
+msgstr ""
+
+#. description(bsh2:bsh2-javadoc)
+msgid "Javadoc for bsh2."
+msgstr ""
+
+#. summary(cal10n:cal10n-javadoc)
+msgid "Javadoc for cal10n"
+msgstr ""
+
+#. summary(castor:castor-javadoc)
+msgid "Javadoc for castor"
+msgstr ""
+
+#. summary(classworlds:classworlds-javadoc)
+msgid "Javadoc for classworlds"
+msgstr ""
+
+#. summary(concurrent:concurrent-javadoc)
+msgid "Javadoc for concurrent"
+msgstr ""
+
+#. summary(cryptix:cryptix-javadoc)
+msgid "Javadoc for cryptix"
+msgstr ""
+
+#. summary(cryptix-asn1:cryptix-asn1-javadoc)
+msgid "Javadoc for cryptix-asn1"
+msgstr ""
+
+#. summary(apache-commons-beanutils:apache-commons-beanutils-javadoc)
+msgid "Javadoc for jakarta-commons-beanutils"
+msgstr ""
+
+#. description(ctan-junicode-fonts)
+msgid ""
+"Junicode (short for Junius-Unicode) is a Unicode font for medievalists.\n"
+"\n"
+"Junicode currently contains 3096 characters in the regular style (the "
+"italic, bold and bold italic styles are less complete). These Unicode ranges "
+"are either complete in the regular style or they contain substantial numbers "
+"of glyphs (especially those of interest to medievalists)."
+msgstr ""
+
+#. summary(bootsplash-branding-upstream:bootsplash-branding-KDE)
+msgid "KDE Bootsplash Theme"
+msgstr ""
+
+#. description(apache2-icons-oxygen)
+msgid "KDE/Oxygen icons for Apache 2."
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-kk)
+msgid "Kazakh Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(cloop:cloop-kmp-pae)
+msgid "Kernel modules for cloop"
+msgstr ""
+
+#. summary(doc-gnu-ko)
+msgid "Korean Translations of GNU Manuals"
+msgstr ""
+
+#. description(doc-gnu-ko)
+msgid "Korean translations of GNU manuals."
+msgstr ""
+
+#. summary(alarm-clock-applet:alarm-clock-applet-lang)
+msgid "Languages for package alarm-clock-applet"
+msgstr ""
+
+#. summary(almanah:almanah-lang)
+msgid "Languages for package almanah"
+msgstr ""
+
+#. summary(arista:arista-lang)
+msgid "Languages for package arista"
+msgstr ""
+
+#. summary(audio-recorder:audio-recorder-lang)
+msgid "Languages for package audio-recorder"
+msgstr ""
+
+#. summary(balsa:balsa-lang)
+msgid "Languages for package balsa"
+msgstr ""
+
+#. summary(banshee-community-extensions:banshee-community-extensions-common-lang)
+msgid "Languages for package banshee-community-extensions"
+msgstr ""
+
+#. summary(banshee-doubanfm:banshee-extension-doubanfm-lang)
+msgid "Languages for package banshee-doubanfm"
+msgstr ""
+
+#. summary(bleachbit:bleachbit-lang)
+msgid "Languages for package bleachbit"
+msgstr ""
+
+#. summary(blueproximity:blueproximity-lang)
+msgid "Languages for package blueproximity"
+msgstr ""
+
+#. summary(boinc-client:boinc-client-lang)
+msgid "Languages for package boinc-client"
+msgstr ""
+
+#. summary(byzanz:byzanz-lang)
+msgid "Languages for package byzanz"
+msgstr ""
+
+#. summary(caffeine:caffeine-lang)
+msgid "Languages for package caffeine"
+msgstr ""
+
+#. summary(cherrytree:cherrytree-lang)
+msgid "Languages for package cherrytree"
+msgstr ""
+
+#. summary(claws-mail-extra-plugins:claws-mail-extra-plugins-lang)
+msgid "Languages for package claws-mail-extra-plugins"
+msgstr ""
+
+#. summary(colorhug-client:colorhug-client-lang)
+msgid "Languages for package colorhug-client"
+msgstr ""
+
+#. summary(comix:comix-lang)
+msgid "Languages for package comix"
+msgstr ""
+
+#. summary(computertemp:computertemp-lang)
+msgid "Languages for package computertemp"
+msgstr ""
+
+#. summary(conglomerate:conglomerate-lang)
+msgid "Languages for package conglomerate"
+msgstr ""
+
+#. summary(deb:deb-lang)
+msgid "Languages for package deb"
+msgstr ""
+
+#. summary(decibel-audio-player:decibel-audio-player-lang)
+msgid "Languages for package decibel-audio-player"
+msgstr ""
+
+#. summary(deepin-ui:deepin-ui-lang)
+msgid "Languages for package deepin-ui"
+msgstr ""
+
+#. summary(devilspie:devilspie-lang)
+msgid "Languages for package devilspie"
+msgstr ""
+
+#. summary(djvusmooth:djvusmooth-lang)
+msgid "Languages for package djvusmooth"
+msgstr ""
+
+#. summary(docky:docky-lang)
+msgid "Languages for package docky"
+msgstr ""
+
+#. summary(drwright:drwright-lang)
+msgid "Languages for package drwright"
+msgstr ""
+
+#. summary(eiciel:eiciel-lang)
+msgid "Languages for package eiciel"
+msgstr ""
+
+#. summary(emerillon:emerillon-lang)
+msgid "Languages for package emerillon"
+msgstr ""
+
+#. summary(espeak-gui:espeak-gui-lang)
+msgid "Languages for package espeak-gui"
+msgstr ""
+
+#. summary(evolution-rss:evolution-plugin-rss-lang)
+msgid "Languages for package evolution-rss"
+msgstr ""
+
+#. summary(exiv2:exiv2-lang)
+msgid "Languages for package exiv2"
+msgstr ""
+
+#. summary(ctan-latinmodern-fonts)
+msgid "Latin Modern Fonts from CTAN/GUST"
+msgstr ""
+
+#. summary(compat)
+msgid "Libraries from Compatibility Versions"
+msgstr ""
+
+#. summary(bsh)
+msgid "Lightweight Scripting for Java"
+msgstr ""
+
+#. summary(bsh2)
+msgid "Lightweight Scripting for Java (BeanShell Version 2.x)"
+msgstr ""
+
+#. summary(bsh2:bsh2-classgen)
+msgid "Lightweight Scripting for Java (BeanShell Version 2.x) (ASM support)"
+msgstr ""
+
+#. summary(bsh2:bsh2-bsf)
+msgid "Lightweight Scripting for Java (BeanShell Version 2.x) (BSF support)"
+msgstr ""
+
+#. summary(bsh2:bsh2-javadoc)
+msgid ""
+"Lightweight Scripting for Java (BeanShell Version 2.x) (Java Documentation)"
+msgstr ""
+
+#. summary(bsh2:bsh2-manual)
+msgid "Lightweight Scripting for Java (BeanShell Version 2.x) (Manual)"
+msgstr ""
+
+#. summary(bsh2:bsh2-demo)
+msgid ""
+"Lightweight Scripting for Java (BeanShell Version 2.x) (demo and samples)"
+msgstr ""
+
+#. summary(engdic)
+msgid "Little Korean <-> English Dictionary"
+msgstr ""
+
+#. description(engdic)
+msgid "Little Korean <-> English dictionary."
+msgstr ""
+
+#. description(avalon-logkit)
+msgid ""
+"LogKit is a logging toolkit designed for secure performance orientated "
+"logging in applications. To get started using LogKit, it is recomended that "
+"you read the whitepaper and browse the API docs."
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-nds)
+msgid "Low Saxon Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(alsa-plugins:alsa-plugins-maemo-32bit)
+msgid "Maemo Plug-Ins for the ALSA Library"
+msgstr ""
+
+#. summary(boost:boost-doc-man)
+msgid "Man documentation for the Boost C++ Libraries"
+msgstr ""
+
+#. summary(avalon-framework:avalon-framework-manual)
+msgid "Manual for avalon-framework"
+msgstr ""
+
+#. summary(axis:axis-manual)
+msgid "Manual for axis"
+msgstr ""
+
+#. summary(bsh:bsh-manual)
+msgid "Manual for bsh"
+msgstr ""
+
+#. summary(arts:arts-32bit)
+msgid "Modular Software Synthesizer"
+msgstr ""
+
+#. summary(Crystalcursors)
+msgid "Mouse Cursors in Crystal Icon Style"
+msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-ziran)
+msgid "Nature(Ziran) table for fcitx"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-nb)
+msgid "Norwegian (Bokmaal) Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(dita)
+msgid "OASIS Darwin Information Typing Architecture (DITA)"
+msgstr ""
+
+#. description(brp-extract-appdata:extract-appdata-icons)
+msgid ""
+"OBS generated appdata.xml contains all icons and this little tool splits the "
+"XML into the format expected from software center"
+msgstr ""
+
+#. summary(ant-antlr:ant-apache-xalan2)
+msgid "Optional apache xalan2 tasks for ant"
+msgstr ""
+
+#. description(ant-antlr:ant-apache-xalan2)
+msgid "Optional apache xalan2 tasks for ant-antlr."
+msgstr ""
+
+#. summary(ant-antlr:ant-commons-net)
+msgid "Optional commons net tasks for ant"
+msgstr ""
+
+#. summary(ant-antlr:ant-jsch)
+msgid "Optional jsch tasks for ant"
+msgstr ""
+
+#. summary(apache2-icons-oxygen)
+msgid "Oxygen icons for Apache 2"
+msgstr ""
+
+#. summary(boost:boost-doc-pdf)
+msgid "PDF documentation for the Boost C++ Libraries"
+msgstr ""
+
+#. summary(cyrus-sasl:cyrus-sasl-otp-32bit)
+msgid "Plugin for the OTP SASL mechanism"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-pl)
+msgid "Polish Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(apache-portlet-1_0-api)
+msgid "Portlet API 1.0 from Jetspeed2"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-pt)
+msgid "Portuguese Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-pt-doc)
+msgid "Portuguese Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(cmpi-pywbem-power-management)
+msgid "Power Management Providers"
+msgstr ""
+
+#. description(cmpi-pywbem-power-management)
+msgid "Power Management Providers based on DSP1027."
+msgstr ""
+
+#. summary(arista)
+msgid "Preset-based transcoder for the GNOME Desktop"
+msgstr ""
+
+#. summary(bash-completion)
+msgid "Programmable Completion for Bash"
+msgstr ""
+
+#. description(hamster-applet:docky-hamster-applet)
+msgid ""
+"Project Hamster is time tracking for masses. It helps you to keep track on "
+"how much time you have spent during the day on activities you have set up.\n"
+"\n"
+"This package contains a helper for integration in docky."
+msgstr ""
+
+#. description(alarm-clock-applet:alarm-clock-applet-lang)
+msgid "Provides translations to the package alarm-clock-applet"
+msgstr ""
+
+#. description(almanah:almanah-lang)
+msgid "Provides translations to the package almanah"
+msgstr ""
+
+#. description(arista:arista-lang)
+msgid "Provides translations to the package arista"
+msgstr ""
+
+#. description(audio-recorder:audio-recorder-lang)
+msgid "Provides translations to the package audio-recorder"
+msgstr ""
+
+#. description(balsa:balsa-lang)
+msgid "Provides translations to the package balsa"
+msgstr ""
+
+#. description(banshee-community-extensions:banshee-community-extensions-common-lang)
+msgid "Provides translations to the package banshee-community-extensions"
+msgstr ""
+
+#. description(banshee-doubanfm:banshee-extension-doubanfm-lang)
+msgid "Provides translations to the package banshee-doubanfm"
+msgstr ""
+
+#. description(bleachbit:bleachbit-lang)
+msgid "Provides translations to the package bleachbit"
+msgstr ""
+
+#. description(blueproximity:blueproximity-lang)
+msgid "Provides translations to the package blueproximity"
+msgstr ""
+
+#. description(boinc-client:boinc-client-lang)
+msgid "Provides translations to the package boinc-client"
+msgstr ""
+
+#. description(byzanz:byzanz-lang)
+msgid "Provides translations to the package byzanz"
+msgstr ""
+
+#. description(caffeine:caffeine-lang)
+msgid "Provides translations to the package caffeine"
+msgstr ""
+
+#. description(cherrytree:cherrytree-lang)
+msgid "Provides translations to the package cherrytree"
+msgstr ""
+
+#. description(claws-mail-extra-plugins:claws-mail-extra-plugins-lang)
+msgid "Provides translations to the package claws-mail-extra-plugins"
+msgstr ""
+
+#. description(colorhug-client:colorhug-client-lang)
+msgid "Provides translations to the package colorhug-client"
+msgstr ""
+
+#. description(comix:comix-lang)
+msgid "Provides translations to the package comix"
+msgstr ""
+
+#. description(computertemp:computertemp-lang)
+msgid "Provides translations to the package computertemp"
+msgstr ""
+
+#. description(conglomerate:conglomerate-lang)
+msgid "Provides translations to the package conglomerate"
+msgstr ""
+
+#. description(deb:deb-lang)
+msgid "Provides translations to the package deb"
+msgstr ""
+
+#. description(decibel-audio-player:decibel-audio-player-lang)
+msgid "Provides translations to the package decibel-audio-player"
+msgstr ""
+
+#. description(deepin-ui:deepin-ui-lang)
+msgid "Provides translations to the package deepin-ui"
+msgstr ""
+
+#. description(devilspie:devilspie-lang)
+msgid "Provides translations to the package devilspie"
+msgstr ""
+
+#. description(djvusmooth:djvusmooth-lang)
+msgid "Provides translations to the package djvusmooth"
+msgstr ""
+
+#. description(docky:docky-lang)
+msgid "Provides translations to the package docky"
+msgstr ""
+
+#. description(drwright:drwright-lang)
+msgid "Provides translations to the package drwright"
+msgstr ""
+
+#. description(eiciel:eiciel-lang)
+msgid "Provides translations to the package eiciel"
+msgstr ""
+
+#. description(emerillon:emerillon-lang)
+msgid "Provides translations to the package emerillon"
+msgstr ""
+
+#. description(espeak-gui:espeak-gui-lang)
+msgid "Provides translations to the package espeak-gui"
+msgstr ""
+
+#. description(evolution-rss:evolution-plugin-rss-lang)
+msgid "Provides translations to the package evolution-rss"
+msgstr ""
+
+#. description(exiv2:exiv2-lang)
+msgid "Provides translations to the package exiv2"
+msgstr ""
+
+#. summary(eric5)
+msgid "Python IDE based on Qt4"
+msgstr ""
+
+#. summary(dbus-1-qt3:dbus-1-qt3-32bit)
+msgid "QT3/KDE bindings for D-Bus"
+msgstr ""
+
+#. description(dbus-1-qt3:dbus-1-qt3-32bit)
+msgid "QT3/KDE bindings for D-Bus."
+msgstr ""
+
+#. summary(bleachbit)
+msgid "Remove Unnecessary Files, Free Space, and Maintain Privacy"
+msgstr ""
+
+#. summary(brise)
+msgid "Rime Input Schemas Collection"
+msgstr ""
+
+#. description(brise)
+msgid ""
+"Rime is an Traditional Chinese input method engine. Its idea comes from "
+"ancient Chinese brush and carving art. Mainly it's about to express your "
+"thinking with your keystrokes.\n"
+"\n"
+"Brise is the input schemas collection of Rime."
+msgstr ""
+
+#. summary(crawl:crawl-data)
+msgid "Roguelike dungeon exploration game (Data files)"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-ru)
+msgid "Russian Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-ru-doc)
+msgid "Russian Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(cyrus-sasl-saslauthd:cyrus-sasl-sqlauxprop-32bit)
+msgid "SQL auxprop plugin for cyrus-sasl"
+msgstr ""
+
+#. summary(alsa-plugins:alsa-plugins-samplerate-32bit)
+msgid "Samplerate Plug-In for the ALSA Library"
+msgstr ""
+
+#. summary(coccigrep)
+msgid "Semantic grep tool for C, based on coccinelle"
+msgstr ""
+
+#. summary(compizconfig-settings-manager)
+msgid "Settings Manager for Compiz (CCSM)"
+msgstr ""
+
+#. summary(books)
+msgid "Several Linux Books"
+msgstr ""
+
+#. summary(emacs:emacs-el)
+msgid "Several Lisp Files for GNU Emacs"
+msgstr ""
+
+#. description(emacs:emacs-el)
+msgid ""
+"Several Lisp files not needed for running GNU Emacs. Most of these files are "
+"pre-byte compiled and therefore not necessary."
+msgstr ""
+
+#. description(create-resources)
+msgid ""
+"Shared brushes, clipart, gradients, patterns, swatches, used for graphics "
+"programs."
+msgstr ""
+
+#. summary(create-resources)
+msgid "Shared graphics resources from the create freedesktop.org project"
+msgstr ""
+
+#. summary(docbook-simple)
+msgid "Simple DocBook DTD and Documentation"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-zh_CN)
+msgid "Simplified Chinese Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-cangjie)
+msgid "Simplified Chinese Tsang-Jei(Cangjie) table for fcitx"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-sk)
+msgid "Slovak Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(docbook-utils)
+msgid "Small Wrapper Scripts for Processing DocBook Files"
+msgstr ""
+
+#. summary(aisleriot:aisleriot-themes)
+msgid "Solitaire Card Games for GNOME -- Extra Themes"
+msgstr ""
+
+#. description(bsh2:bsh2-src)
+msgid "Source code of beanshell used for build of jEdit."
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-es)
+msgid "Spanish Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-es-doc)
+msgid "Spanish Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-cn-cantonese)
+msgid "Standard Guongdonkwa Penkyampji table for Fcitx"
+msgstr ""
+
+#. description(bea-stax:bea-stax-javadoc)
+msgid ""
+"Streaming API for XML\n"
+"\n"
+"\n"
+"\n"
+"Javadoc for bea-stax"
+msgstr ""
+
+#. description(dita-ot)
+msgid "Stylesheets for processing DITA documents."
+msgstr ""
+
+#. summary(branding-upstream)
+msgid "SuSE Brand File Supplementing Upstream Look and Feel"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-sv)
+msgid "Swedish Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-sv-doc)
+msgid "Swedish Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(appframework)
+msgid "Swing Application Framework"
+msgstr ""
+
+#. summary(cecilia)
+msgid "Tcl/Tk Front-End for Csound"
+msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-dianbao)
+msgid "Telegram(Dianbao) table for fcitx"
+msgstr ""
+
+#. summary(ant-antlr:ant-testutil)
+msgid "Test utility classes for ant"
+msgstr ""
+
+#. description(ant-antlr:ant-testutil)
+msgid "Test utility tasks for ant-antlr."
+msgstr ""
+
+#. summary(castor:castor-test)
+msgid "Tests for castor"
+msgstr ""
+
+#. summary(asciidoc)
+msgid "Text-Based Document Generation"
+msgstr ""
+
+#. description(ant-contrib)
+msgid ""
+"The Ant-Contrib project is a collection of tasks (and at one point maybe "
+"types and other tools) for Apache Ant."
+msgstr ""
+
+#. description(avalon-framework)
+msgid ""
+"The Avalon framework consists of interfaces that define relationships "
+"between commonly used application components, best-of-practice pattern "
+"enforcements, and several lightweight convenience implementations of the "
+"generic components. What that means is that we define the central interface "
+"Component. We also define the relationship (contract) a component has with "
+"peers, ancestors and children."
+msgstr ""
+
+#. description(libdb-4_5:db45-utils-doc)
+msgid ""
+"The Berkeley DB Database is a programmatic toolkit that provides database "
+"support for applications.\n"
+"\n"
+"This package contains the documentation for the command line tools for "
+"managing Berkeley DB databases."
+msgstr ""
+
+#. description(libdb-4_8:db-doc)
+msgid ""
+"The Berkeley DB Database is a programmatic toolkit that provides database "
+"support for applications.\n"
+"\n"
+"This package contains the documentation."
+msgstr ""
+
+#. summary(blitz:blitz-doc)
+msgid "The Blitz html docs"
+msgstr ""
+
+#. description(bouncycastle)
+msgid ""
+"The Bouncy Castle Crypto package is a Java implementation of cryptographic "
+"algorithms. The package is organised so that it contains a light-weight API "
+"suitable for use in any environment (including the newly released J2ME) with "
+"the additional infrastructure to conform the algorithms to the JCE framework."
+msgstr ""
+
+#. description(bcel5_3)
+msgid ""
+"The Byte Code Engineering Library (formerly known as JavaClass) is intended "
+"to give users a convenient possibility to analyze, create, and manipulate "
+"(binary) Java class files (those ending with .class). Classes are "
+"represented by objects which contain all the symbolic information of the "
+"given class: methods, fields and byte code instructions, in particular.  "
+"Such objects can be read from an existing file, be transformed by a program "
+"(e.g. a class loader at run-time) and dumped to a file again. An even more "
+"interesting application is the creation of classes from scratch at run-time. "
+"The Byte Code Engineering Library (BCEL) may be also useful if you want to "
+"learn about the Java Virtual Machine (JVM) and the format of Java .class "
+"files.  BCEL is already being used successfully in several projects such as "
+"compilers, optimizers, obsfuscators and analysis tools, the most popular "
+"probably being the Xalan XSLT processor at Apache."
+msgstr ""
+
+#. description(caslon-fonts)
+msgid ""
+"The Caslon TrueType font is a partial implementation of Unicode. I does not "
+"contain\n"
+"\n"
+"* CJK characters (ideographs)\n"
+"\n"
+"* Asian & Indian alphabets and sylabaries\n"
+"\n"
+"* Arabic\n"
+"\n"
+"but it contains enough for most European languages including the euro-sign."
+msgstr ""
+
+#. description(dom2-core-tests)
+msgid ""
+"The DOM Test Suites (DOM TS) will consist of a number of tests for each "
+"level of the DOM specification. The tests will be represented in an XML "
+"grammar which ensures that tests can easily be ported from the description "
+"format to a number of specific language bindings. This grammar will be "
+"specified in XML Schema and DTD form. The grammar will be automatically "
+"generated from the DOM specifications themselves, to ensure stability and "
+"correctness."
+msgstr ""
+
+#. description(autoconf-archive)
+msgid ""
+"The GNU Autoconf Archive is a collection of more than 450 macros for `GNU "
+"Autoconf <http://www.gnu.org/software/autoconf>`_ that have been contributed "
+"as free software by friendly supporters of the cause from all over the "
+"Internet. Every single one of those macros can be re-used without imposing "
+"any restrictions whatsoever on the licensing of the generated `configure` "
+"script. In particular, it is possible to use all those macros in `configure` "
+"scripts that are meant for non-free software. This policy is unusual for a "
+"Free Software Foundation project. The FSF firmly believes that software "
+"ought to be free, and software licenses like the GPL are specifically "
+"designed to ensure that derivative work based on free software must be free "
+"as well. In case of Autoconf, however, an exception has been made, because "
+"Autoconf is at such a pivotal position in the software development tool "
+"chain that the benefits from having this tool available as widely as "
+"possible outweigh the disadvantage that some authors may choose to use it, "
+"too, for proprietary software."
+msgstr ""
+
+#. description(ccaudio2:ccaudio2-32bit)
+msgid ""
+"The GNU telephonic audio library covers a range of functionality including "
+"tone generation and detection, streaming and transcoding of encoded audio "
+"frames, accessing of audio files on disk, phrasebook management, and audio "
+"utilities."
+msgstr ""
+
+#. description(appframework)
+msgid ""
+"The JSR-296 Swing Application Framework prototype implementation is a small "
+"set of Java classes that simplify building desktop applications."
+msgstr ""
+
+#. description(apache-commons-daemon:apache-commons-daemon-javadoc)
+msgid "The Javadoc Documentation for Commons Daemon."
+msgstr ""
+
+#. description(cyrus-sasl-saslauthd:cyrus-sasl-ldap-auxprop-32bit)
+msgid ""
+"The LDAP auxprop plugin allows for tighter application/directory integration."
+msgstr ""
+
+#. description(ctan-latinmodern-fonts)
+msgid ""
+"The Latin Modern fonts are derived from the famous Computer Modern fonts "
+"designed by Donald E. Knuth and first published by the American Matematical "
+"Society (AMS) in 1997. One of the main extensions is the addition of an "
+"extensive set of diacritical characters, covering many scripts based on the "
+"Latin character set."
+msgstr ""
+
+#. description(compat-openssl097g:compat-openssl097g-32bit)
+msgid ""
+"The OpenSSL Project is a collaborative effort to develop a robust, "
+"commercial-grade, full-featured, and Open Source toolkit implementing the "
+"Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) "
+"protocols with full-strength cryptography world-wide. The project is managed "
+"by a worldwide community of volunteers that use the Internet to communicate, "
+"plan, and develop the OpenSSL toolkit and its related documentation.\n"
+"\n"
+"Derivation and License\n"
+"\n"
+"OpenSSL is based on the excellent SSLeay library developed from Eric A. "
+"Young and Tim J. Hudson. The OpenSSL toolkit is licensed under a Apache-"
+"style licence which basically means that you are free to get and use it for "
+"commercial and non-commercial purposes."
+msgstr ""
+
+#. description(colordiff)
+msgid ""
+"The Perl script colordiff is a wrapper for 'diff' and produces the same "
+"output but with pretty 'syntax' highlighting. Colour schemes can be "
+"customized."
+msgstr ""
+
+#. description(cyrus-sasl-saslauthd:cyrus-sasl-sqlauxprop-32bit)
+msgid "The SQL auxprop plugin supports PostgreSQL and MySQL"
+msgstr ""
+
+#. description(audit-visualize)
+msgid ""
+"The audit-visualize package contains scripts to produce flow graphs and bar "
+"charts from audit data."
+msgstr ""
+
+#. description(lapack:blas-man)
+msgid ""
+"The blas-man package contains documentation for BLAS (Basic Linear Algebra "
+"subprograms) routines, in the form of man pages."
+msgstr ""
+
+#. summary(bzip2:bzip2-doc)
+msgid "The bzip2 program and Library Documentation"
+msgstr ""
+
+#. description(bzip2:bzip2-doc)
+msgid "The bzip2 program and library documentation."
+msgstr ""
+
+#. description(compcache)
+msgid ""
+"The compcache is a RAM-based block device acting as a swap disk. This can "
+"effectively increase the available memory on your machine by virtually "
+"swapping pages into the compressed memory.\n"
+"\n"
+"This package contains the boot script for loading/unloading the modules. The "
+"modules are contained in compcache-kmp packages."
+msgstr ""
+
+#. description(cloop:cloop-kmp-pae)
+msgid ""
+"The compressed loopback device or cloop is a module for the Linux kernel. It "
+"adds support for transparently decompressed, read-only block devices. It is "
+"not a compressed file system in itself."
+msgstr ""
+
+#. description(crash:crash-kmp-pae)
+msgid ""
+"The core analysis suite is a self-contained tool that can be used to "
+"investigate either live systems, kernel core dumps created from the netdump "
+"and diskdump packages from Red Hat Linux, the mcore kernel patch offered by "
+"Mission Critical Linux, or the LKCD kernel patch."
+msgstr ""
+
+#. description(cracklib:cracklib-devel-32bit)
+msgid ""
+"The cracklib-devel package contains the header files and libraries needed to "
+"develop programs that use the CrackLib functions to to determine whether "
+"passwords match certain security-oriented characteristics."
+msgstr ""
+
+#. summary(cyrus-sasl-saslauthd:cyrus-sasl-ldap-auxprop-32bit)
+msgid "The cyrus-sasl LDAP auxprop plugin"
+msgstr ""
+
+#. description(docbook-utils)
+msgid ""
+"The docbook-utils package is a set of a few small programs intended to ease "
+"everyday use of technical documentation software based on the DocBook DTD, "
+"either written in SGML or XML.\n"
+"\n"
+"Tasks they currently accomplish are: * jw: convert SGML files to    other "
+"formats (HTML, RTF, PostScript, PDF)\n"
+"\n"
+"* sgmldiff: detect the differences in markup between two SGML files"
+msgstr ""
+
+#. description(efont-serif-fonts)
+msgid ""
+"The efont-serif is a really free and open scalable electronic font.\n"
+"\n"
+"The Omega Serif and URW Nimbus are also distributable. But their letter "
+"forms are quite similar to Adobe Times. The efont-serif does not copy the "
+"outlines or the letter forms of any copyrighted typefaces."
+msgstr ""
+
+#. description(adolc:adolc-devel-32bit)
+msgid ""
+"The package ADOL-C (Automatic Differentiation by OverLoading in C++) "
+"facilitates the evaluation of first and higher derivatives of vector "
+"functions that are defined by computer programs written in C or C++. The "
+"resulting derivative evaluation routines may be called from C/C++, Fortran, "
+"or any other language that can be linked with C.\n"
+"\n"
+"The numerical values of derivative vectors are obtained free of truncation "
+"errors at a small multiple of the run time and randomly accessed memory of "
+"the given function evaluation program.\n"
+"\n"
+"This package provides the development environment for adolc"
+msgstr ""
+
+#. description(adolc:adolc-doc)
+msgid ""
+"The package ADOL-C (Automatic Differentiation by OverLoading in C++) "
+"facilitates the evaluation of first and higher derivatives of vector "
+"functions that are defined by computer programs written in C or C++. The "
+"resulting derivative evaluation routines may be called from C/C++, Fortran, "
+"or any other language that can be linked with C.\n"
+"\n"
+"The numerical values of derivative vectors are obtained free of truncation "
+"errors at a small multiple of the run time and randomly accessed memory of "
+"the given function evaluation program.\n"
+"\n"
+"This package provides the user´s manual for adolc"
+msgstr ""
+
+#. description(bitstream-vera-fonts)
+msgid "The package contains the \"Vera\" truetype fonts from Bitstream Inc."
+msgstr ""
+
+#. description(apache-commons-beanutils:apache-commons-beanutils-javadoc)
+msgid ""
+"The scope of the Jakarta Commons BeanUtils Package is to create a package of "
+"Java utility methods for accessing and modifying the properties of arbitrary "
+"JavaBeans.  No dependencies outside of the JDK are required, so the use of "
+"this package is very lightweight.\n"
+"\n"
+"This package contains the javadoc documentation for the Jakarta Commons "
+"BeanUtils Package."
+msgstr ""
+
+#. description(docbook-css-stylesheets)
+msgid ""
+"These cascading stylesheets allow you to view a DocBook XML document in "
+"software that supports XML styled with CSS2, for example, a recent Mozilla "
+"or Firefox browser. For more complex modifications of your XML document use "
+"the DocBook XSL stylesheets."
+msgstr ""
+
+#. description(emacs-auctex)
+msgid ""
+"These macros make it easier for you to write TeX documents with GNU Emacs."
+"\tDocumentation can be found under:\n"
+"\n"
+"/usr/share/doc/packages/emacs-auctex/\n"
+"\n"
+"and in the dvi files math-ref.dvi and tex-ref.dvi (reference cards) and in "
+"the info file auctex in emacs info-mode.\n"
+"\n"
+"AuC TeX is integrated in XEmacs 19.15 and higher, so these packages may not "
+"be installed concurrently.\tNote that the binary formats of the byte-"
+"compiled lisp files of the two emacs editors are incompatible, so you cannot "
+"use this package for XEmacs."
+msgstr ""
+
+#. description(faenza-icon-theme)
+msgid ""
+"This icon theme for GNOME provides monochromatic icons for panels, toolbars "
+"and buttons and colourful squared icons for devices, applications, folder, "
+"files and GNOME menu items."
+msgstr ""
+
+#. description(faenza-icon-theme:faenza-icon-theme-ambiance)
+msgid ""
+"This icon theme for GNOME provides monochromatic icons for panels, toolbars "
+"and buttons and colourful squared icons for devices, applications, folder, "
+"files and GNOME menu items.\n"
+"\n"
+"Faenza-Ambiance is suitable with dark panel and toolbars."
+msgstr ""
+
+#. description(faenza-icon-theme:faenza-icon-theme-radiance)
+msgid ""
+"This icon theme for GNOME provides monochromatic icons for panels, toolbars "
+"and buttons and colourful squared icons for devices, applications, folder, "
+"files and GNOME menu items.\n"
+"\n"
+"Faenza-Radiance is suitable with light panel and controls."
+msgstr ""
+
+#. description(bugreporter)
+msgid ""
+"This is a bug reporting tool for openSUSE users. It can be used to submit "
+"and query bug reports from Novell's Bugzilla."
+msgstr ""
+
+#. description(cedict)
+msgid ""
+"This is a free Chinese-English dictionary that can be used, for example, "
+"with Gjiten.\n"
+"\n"
+"The objective of the CEDICT project is to create an online, downloadable (as "
+"opposed to searchable-only) public-domain Chinese-English dictionary. For "
+"the most part, the project is modelled on Jim Breen's highly successful "
+"EDICT (Japanese-English dictionary) project and is intended to be a "
+"collaborative effort with users providing entries and corrections to the "
+"main file."
+msgstr ""
+
+#. description(ecj-bootstrap)
+msgid ""
+"This is the Eclipse Java Compiler, which is used in the java-1_4_2-gcj-"
+"compat-devel package"
+msgstr ""
+
+#. description(bootsplash-branding-upstream:bootsplash-branding-KDE)
+msgid "This package contains a KDE branded theme."
+msgstr ""
+
+#. description(clamav:clamav-db)
+msgid ""
+"This package contains a snapshot of the virus description database for "
+"ClamAV. It is not needed if you use freshclam to keep your virus database up "
+"to date."
+msgstr ""
+
+#. description(bootsplash-branding-upstream)
+msgid "This package contains a theme without trademarked logos."
+msgstr ""
+
+#. description(atk:atk-doc)
+msgid "This package contains additional documentation for the ATK Library."
+msgstr ""
+
+#. description(desktop-data-openSUSE:desktop-data-openSUSE-extra)
+msgid "This package contains additional wallpapers."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-pt_BR-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Brazil Portuguese."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-ca-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Catalan."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-da-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Danish."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-nl-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Dutch."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-et-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Estonian."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-fr-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"French."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-de-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"German."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-it-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Italian."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-pt-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Portuguese."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-ru-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Russian."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-es-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Spanish."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-sv-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Swedish."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-uk-doc)
+msgid ""
+"This package contains application manuals translations for Calligra Suite in "
+"Ukrainian."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-pt_BR)
+msgid ""
+"This package contains application translations for Calligra Suite in Brazil "
+"Portuguese."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-ca)
+msgid ""
+"This package contains application translations for Calligra Suite in Catalan."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-zh_TW)
+msgid ""
+"This package contains application translations for Calligra Suite in Chinese."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-cs)
+msgid ""
+"This package contains application translations for Calligra Suite in Czech."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-da)
+msgid ""
+"This package contains application translations for Calligra Suite in Danish."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-nl)
+msgid ""
+"This package contains application translations for Calligra Suite in Dutch."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-en_GB)
+msgid ""
+"This package contains application translations for Calligra Suite in English "
+"(UK)."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-et)
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Estonian."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-fi)
+msgid ""
+"This package contains application translations for Calligra Suite in Finnish."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-fr)
+msgid ""
+"This package contains application translations for Calligra Suite in French."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-de)
+msgid ""
+"This package contains application translations for Calligra Suite in German."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-el)
+msgid ""
+"This package contains application translations for Calligra Suite in Greek."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-hu)
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Hungarian."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-it)
+msgid ""
+"This package contains application translations for Calligra Suite in Italian."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-kk)
+msgid ""
+"This package contains application translations for Calligra Suite in Kazakh."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-nds)
+msgid ""
+"This package contains application translations for Calligra Suite in Low "
+"Saxon."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-nb)
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Norwegian (Bokmaal)."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-pl)
+msgid ""
+"This package contains application translations for Calligra Suite in Polish."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-pt)
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Portuguese."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-ru)
+msgid ""
+"This package contains application translations for Calligra Suite in Russian."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-zh_CN)
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Simplified Chinese."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-sk)
+msgid ""
+"This package contains application translations for Calligra Suite in Slovak."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-es)
+msgid ""
+"This package contains application translations for Calligra Suite in Spanish."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-sv)
+msgid ""
+"This package contains application translations for Calligra Suite in Swedish."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-uk)
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Ukrainian."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-ca@valencia)
+msgid ""
+"This package contains application translations for Calligra Suite in "
+"Valencian."
+msgstr ""
+
+#. description(boinc-client:boinc-client-doc)
+msgid "This package contains documentation files for boinc-client."
+msgstr ""
+
+#. description(dynamic-wallpapers-11x)
+msgid ""
+"This package contains dynamic wallpapers from previous versions of "
+"openSUSE.\n"
+"\n"
+"A dynamic wallpaper changes depending on the time of the day: it is "
+"generally bright during the day, and dark during the night."
+msgstr ""
+
+#. description(asciidoc:asciidoc-examples)
+msgid "This package contains examples and documetns of asciidoc."
+msgstr ""
+
+#. description(build-compare)
+msgid ""
+"This package contains scripts to find out if the build result differs to a "
+"former build."
+msgstr ""
+
+#. description(books)
+msgid ""
+"This package contains some books, which are installed under /usr/share/doc/"
+"Books.\n"
+"\n"
+"The books are:\n"
+"\n"
+"\"Linux Installation and getting started\" by Matt Welsh\n"
+"\n"
+"\"Linux Programmers Guide\" by Sven Goldt and Sven van der Meer\n"
+"\n"
+"\"Linux Network Administrators Guide, Second Edition\" by Olaf Kirch and "
+"Terry Dawson\n"
+"\n"
+"\"Linux System Administrators Guide\" by Lars Wirzenius\n"
+"\n"
+"\"Linux Users Guide\" by Larry Greenfield\n"
+"\n"
+"\"Linux Kernel 2.4 Internals\" by Tigran Aivazian\n"
+"\n"
+"\"The Linux Kernel Module Programming Guide\" by Ori Pomerantz"
+msgstr ""
+
+#. description(alsa-plugins:alsa-plugins-maemo-32bit)
+msgid ""
+"This package contains the ALSA-library plug-ins using maemo SDK for Nokia "
+"770."
+msgstr ""
+
+#. description(i4l-base:capi4linux-devel-32bit)
+msgid ""
+"This package contains the CAPI 2.0 library files needed for development."
+msgstr ""
+
+#. description(i4l-base:capi4linux-32bit)
+msgid ""
+"This package contains the CAPI 2.0 library, which is needed for all CAPI "
+"applications.  It also contains programs to show information about installed "
+"CAPI controllers and for the receiving and sending of FAX messages. CAPI 2.0 "
+"drivers for Linux are available for a growing number of ISDN devices."
+msgstr ""
+
+#. description(dita)
+msgid "This package contains the DITA specifications, DTDs, and schemas."
+msgstr ""
+
+#. description(alsa-plugins:alsa-plugins-jack-32bit)
+msgid ""
+"This package contains the JACK (Jack Audio Connection Kit) I/O plug-in for "
+"the ALSA library."
+msgstr ""
+
+#. description(docbook-simple)
+msgid "This package contains the Simple DocBook DTD."
+msgstr ""
+
+#. description(elib)
+msgid ""
+"This package contains the complete GNU Emacs Lisp Library, Elib Version "
+"1.0.  Elib was developed as a library for Emacs-Lisp programs for the same "
+"reasons that libg++ was developed for C++ programs.\n"
+"\n"
+"Elib contains macros for:\n"
+"\n"
+"- container data structures (queues, stacks, AVL trees, and more)\n"
+"\n"
+"- string handling routines missing in standard Emacs\n"
+"\n"
+"- routines to handle cookies in a buffer"
+msgstr ""
+
+#. description(ckermit:ckermit-doc)
+msgid "This package contains the documentation and manual pages for ckermit"
+msgstr ""
+
+#. description(adaptx:adaptx-doc)
+msgid "This package contains the documentation for AdaptX."
+msgstr ""
+
+#. description(boost:boost-doc-man)
+msgid ""
+"This package contains the documentation of the boost dynamic libraries as "
+"man pages."
+msgstr ""
+
+#. description(boost:boost-doc-html)
+msgid ""
+"This package contains the documentation of the boost dynamic libraries in "
+"HTML format."
+msgstr ""
+
+#. description(boost:boost-doc-pdf)
+msgid ""
+"This package contains the documentation of the boost dynamic libraries in "
+"PDF format."
+msgstr ""
+
+#. description(branding-upstream)
+msgid ""
+"This package contains the file /etc/SuSE-brand, and its name is used as a "
+"trigger for installation of look and feel and branding of packages as it was "
+"defined by upstream developers.\n"
+"\n"
+"WARNING: If you decide to install this package instead of the default "
+"branding package, you will lose vendor customization of your distribution."
+msgstr ""
+
+#. description(adaptx:adaptx-javadoc)
+msgid "This package contains the javadoc documentation for AdaptX."
+msgstr ""
+
+#. description(bcel:bcel-javadoc)
+msgid ""
+"This package contains the javadoc documentation of the Byte Code Engineering "
+"Library.\n"
+"\n"
+"The Byte Code Engineering Library is intended to give users a convenient way "
+"to analyze, create, and manipulate (binary) Java class files (those ending "
+"with .class). Classes are represented by objects which contain all the "
+"symbolic information of the given class: methods, fields and byte code "
+"instructions, in particular.\n"
+"\n"
+"Such objects can be read from an existing file, be transformed by a program "
+"(e.g. a class loader at run-time) and dumped to a file again. An even more "
+"interesting application is the creation of classes from scratch at run-time. "
+"The Byte Code Engineering Library (BCEL) may also be useful if you want to "
+"learn about the Java Virtual Machine (JVM) and the format of Java .class "
+"files.\n"
+"\n"
+"BCEL is already being used successfully in several projects such as "
+"compilers, optimizers, obfuscators, code generators and analysis tools.\n"
+"\n"
+"It contains a byte code verifier named JustIce, which usually gives you much "
+"better information about what's wrong with your code than the standard JVM "
+"message."
+msgstr ""
+
+#. description(build-mkbaselibs-sle)
+msgid ""
+"This package contains the parts which may be installed in the inner build "
+"system for generating base lib packages.\n"
+"\n"
+"This is the SLE variant including IA64 binary generation."
+msgstr ""
+
+#. description(ca-certificates-cacert)
+msgid "This package contains the root certificates from cacert.org"
+msgstr ""
+
+#. description(alsa-plugins:alsa-plugins-samplerate-32bit)
+msgid ""
+"This package contains the sample rate converter plugin for the ALSA library "
+"using libsamplerate."
+msgstr ""
+
+#. description(build-initvm:build-initvm-i586)
+msgid ""
+"This package provides a script for building RPMs for SUSE Linux in a chroot "
+"or a secure virtualized environment."
+msgstr ""
+
+#. description(ColPack:ColPack-devel-32bit)
+msgid ""
+"This package provides algorithms for efficient solution of partitioning "
+"problems occuring in the analysis of sparsity patterns in derivative "
+"computations formulated as Graph Coloring problems.\n"
+"\n"
+"For details see http://www.cscapes.org/coloringpage/software.htm\n"
+"\n"
+"This package provides the development environment for ColPack"
+msgstr ""
+
+#. description(build-initvm:build-initvm-debuginfo-i586)
+msgid ""
+"This package provides debug information for package build-initvm. Debug "
+"information is useful when developing applications that use this package or "
+"when debugging this package."
+msgstr ""
+
+#. description(dbus-sharp-glib:dbus-sharp-glib-devel)
+msgid ""
+"This package provides glib integration for Mono.DBus - Development files."
+msgstr ""
+
+#. description(ccaudio2:ccaudio2-devel-32bit)
+msgid ""
+"This package provides header and support files for building applications "
+"that use GNU ccAudio."
+msgstr ""
+
+#. description(concurrent)
+msgid ""
+"This package provides standardized, efficient versions of utility classes "
+"commonly encountered in concurrent Java programming. This code consists of "
+"implementations of ideas that have been around for ages and is merely "
+"intended to save you the trouble of coding them. Discussions of the "
+"rationale and application of several of these classes can be found in the "
+"second edition of Concurrent Programming in Java."
+msgstr ""
+
+#. description(concurrent:concurrent-javadoc)
+msgid ""
+"This package provides standardized, efficient versions of utility classes "
+"commonly encountered in concurrent Java programming. This code consists of "
+"implementations of ideas that have been around for ages, and is merely "
+"intended to save you the trouble of coding them. Discussions of the "
+"rationale and applications of several of these classes can be found in the "
+"second edition of Concurrent Programming in Java.\n"
+"\n"
+"This package contains the javadoc documentation for concurrent."
+msgstr ""
+
+#. description(dirac:dirac-doc)
+msgid ""
+"This package provides the api reference documentation for using dirac "
+"libraries in your program."
+msgstr ""
+
+#. description(exo:exo-branding-upstream)
+msgid "This package provides the upstream look and feel for the exo library."
+msgstr ""
+
+#. description(cpufrequtils:cpufrequtils-32bit)
+msgid ""
+"To make access to the Linux kernel cpufreq subsystem easier for users and "
+"cpufreq userspace tools, the cpufrequtils package was created. It contains a "
+"library used by other programs (libcpufreq), command line tools to determine "
+"current CPUfreq settings and to modify them (cpufreq-info and cpufreq-set), "
+"and debug tools."
+msgstr ""
+
+#. summary(archivemail)
+msgid "Tool for Archiving and Compressing Old Email in Mailboxes"
+msgstr ""
+
+#. summary(checkbashisms)
+msgid "Tool for Checking /bin/sh Scripts for Possible Bashisms"
+msgstr ""
+
+#. summary(epydoc)
+msgid "Tool for Generating Python API Documentation"
+msgstr ""
+
+#. summary(cpufrequtils:cpufrequtils-32bit)
+msgid "Tools to Determine and Set CPUfreq Settings"
+msgstr ""
+
+#. summary(update-desktop-files:brp-trim-desktopfiles)
+msgid "Trim translations from .deskop files"
+msgstr ""
+
+#. description(update-desktop-files:brp-trim-desktopfiles)
+msgid "Trim translations from all .deskop files found in build root"
+msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-erbi)
+msgid "Two stroke(Erbi) table for fcitx"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-uk)
+msgid "Ukrainian Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-uk-doc)
+msgid "Ukrainian Translations for Calligra Suite Manuals"
+msgstr ""
+
+#. summary(bootsplash-branding-upstream)
+msgid "Unbranded Bootsplash Theme"
+msgstr ""
+
+#. summary(ctan-junicode-fonts)
+msgid "Unicode Fonts for Medievalists"
+msgstr ""
+
+#. summary(check:check-32bit)
+msgid "Unit Test Framework for C"
+msgstr ""
+
+#. description(collectl)
+msgid ""
+"Unlike most monitoring tools that either focus on a small set of statistics, "
+"format their output in only one way, run either interatively or as a daemon "
+"but not both, collectl tries to do it all."
+msgstr ""
+
+#. summary(exo:exo-branding-upstream)
+msgid "Upstream Branding of exo"
+msgstr ""
+
+#. summary(ecryptfs-utils:ecryptfs-utils-32bit)
+msgid "Userspace Utilities for ecryptfs"
+msgstr ""
+
+#. description(diffmk)
+msgid ""
+"Using DiffMk, you can build an automated comparison of two XML documents. "
+"The output format for viewing is HTML."
+msgstr ""
+
+#. summary(concurrent)
+msgid "Utility Classes for Concurrent Java Programming"
+msgstr ""
+
+#. summary(caffeine)
+msgid "Utility to inhibit screensaver and sleep modes"
+msgstr ""
+
+#. summary(blueproximity)
+msgid ""
+"Utility to lock/unlock the screen based on the presence of bluetooth devices"
+msgstr ""
+
+#. summary(hamster-applet:docky-hamster-applet)
+msgid "Utility to track where you spend your time -- Docky integration"
+msgstr ""
+
+#. summary(calligra-l10n:calligra-l10n-ca@valencia)
+msgid "Valencian Translations for Calligra Suite Applications"
+msgstr ""
+
+#. summary(clamav:clamav-db)
+msgid "Virus Database for ClamAV"
+msgstr ""
+
+#. summary(audit-visualize)
+msgid "Visualization tools for the audit subsystem"
+msgstr ""
+
+#. summary(cacti)
+msgid "Web Front-End to Monitor System Data via RRDtool"
+msgstr ""
+
+#. description(perl-Clipboard:clipboard)
+msgid ""
+"Who doesn't remember the first time they learned to copy and paste, and "
+"generated an exponentially growing text document? Yes, that's right, "
+"clipboards are magical.\n"
+"\n"
+"This package contains several command-line utilities to manpulate clipboards."
+msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-cn-wu)
+msgid "Wu table for Fcitx"
+msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-wubi-pinyin)
+msgid "Wubi and pinyin(wubi-pinyin) table for fcitx"
+msgstr ""
+
+#. summary(fcitx:fcitx-table-cn-wubi)
+msgid "Wubi table for fcitx"
+msgstr ""
+
+#. summary(blueprint-cursor-theme)
+msgid "X Window System Cursors for the Blue Print Theme"
+msgstr ""
+
+#. summary(castor:castor-xml)
+msgid "XML support for castor"
+msgstr ""
+
+#. summary(dom4j:dom4j-demo)
+msgid "XML, XPath and XSLT library for Java"
+msgstr ""
+
+#. summary(adaptx)
+msgid "XSLT Processor Written in Java"
+msgstr ""
+
+#. description(enchant:enchant-zemberek-32bit)
+msgid ""
+"Zemberek plugin (Azeri, Turkmen, Turkish, Tatar) for enchant, a library "
+"providing an efficient extensible abstraction for dealing with different "
+"spell checking libraries."
+msgstr ""
+
+#. summary(a2ps-h)
+msgid "a2ps Support for Korean PostScript Filter (Python Version)"
+msgstr ""
+
+#. description(a2ps-h)
+msgid "a2ps support for Korean PostScript filter (Python version)."
+msgstr ""
+
+#. description(ack)
+msgid ""
+"ack is a grep-like tool tailored to working with large trees of source code."
+msgstr ""
+
+#. description(analyzeMFT)
+msgid ""
+"analyzeMFT.py is designed to fully parse the MFT file from an NTFS "
+"filesystem and present the results as accurately as possible in a format "
+"that allows further analysis with other tools. At present, it parses the "
+"attributes from a $MFT file to produce the following output:\n"
+"\n"
+"    Record Number     Good - if the entry is valid     Active - if the entry "
+"is active     Record type - the type of record     Record Sequence - the "
+"sequence number for the record     Parent Folder Record Number     Parent "
+"Folder Sequence Number     For the standard information attribute:         "
+"Creation date         Modification date         Access date         Entry "
+"date     For up to four file name records:         File name         "
+"Creation date         Modification date         Access date         Entry "
+"date         Object ID         Birth Volume ID         Birth Object "
+"ID         Birth Domain ID     And flags to show if each of the following "
+"attributes is present:         Standard Information, Attribute List, "
+"Filename, Object ID, Volume Name, Volume Info, Data, Index Root, Index "
+"Allocation, Bitmap, Reparse Point, EA Information, EA, Property Set, Logged "
+"Utility Stream     Notes/Log - Field used to log any significant events or "
+"observations relating to this record         std-fn-shift - Populated if "
+"anomaly detection is turned on. Y/N. Y indicates that the FN create date is "
+"later than the STD create date.         usec-zero - Populated if anomaly "
+"detection is turned on. Y/N. Y indicates that the STD create date's "
+"microsecond value is zero.\n"
+"\n"
+"For each entry in the MFT a record is written to an output file in CSV "
+"format.\n"
+"\n"
+"Major contributions from Matt Sabourin."
+msgstr ""
+
+#. description(archivemail)
+msgid ""
+"archivemail is a tool for archiving and compressing old email in mailboxes. "
+"It moves messages older than the specified number of days to a separate mbox "
+"format mailbox that is compressed with gzip. It can also just delete old "
+"email rather than archive it."
+msgstr ""
+
+#. description(bash-completion)
+msgid ""
+"bash-completion is a collection of shell functions that take advantage of "
+"the programmable completion feature of Bash 2.04 and later."
+msgstr ""
+
+#. description(cdemu-client)
+msgid ""
+"cdemu-client is a command-line client for controlling cdemu-daemon.\n"
+"\n"
+"It provides a way to perform the key tasks related to controlling the CDEmu "
+"daemon, such as loading and unloading devices, displaying devices' status "
+"and retrieving/setting their debug masks."
+msgstr ""
+
+#. description(cglib)
+msgid ""
+"cglib is a powerful, high performance and quality Code Generation Library, "
+"It is used to extend JAVA classes and implements interfaces at runtime."
+msgstr ""
+
+#. description(checkbashisms)
+msgid ""
+"checkbashisms performs basic checks on /bin/sh shell scripts for the "
+"possible presence of bashisms.  It takes the names of the shell scripts on "
+"the command line, and outputs warnings if possible bashisms are detected."
+msgstr ""
+
+#. description(coccigrep)
+msgid ""
+"coccigrep is a semantic grep for the C language based on coccinelle. It can "
+"be used to find where a given structure is used in code files. coccigrep "
+"depends on the spatch program which comes with coccinelle."
+msgstr ""
+
+#. description(convmv)
+msgid ""
+"convmv is meant to help convert a directory tree and the contained files or "
+"a whole file system into a different encoding. It just converts the file "
+"names, not the content of the files. A special feature of convmv is that it "
+"also takes care of symlinks and converts the symlink target pointer in case "
+"the symlink target is converted.\n"
+"\n"
+"All this comes in very handy when converting from old 8-bit locales to UTF-8 "
+"locales. It is also possible to convert directories to UTF-8 that are "
+"already partly UTF-8 encoded. convmv is able to detect if certain files are "
+"UTF-8 encoded and skips them by default. To turn this behavior off, use the "
+"--nosmart switch.\n"
+"\n"
+"An interoperability issue that comes with UTF-8 locales is this: Linux and "
+"(most?) other Unix-like operating systems use the normalization form C (NFC) "
+"for UTF-8 encoding by default but do not enforce this. Darwin, the base of "
+"Macintosh OSX, enforces normalization form D (NFD), where a few characters "
+"are encoded in a different way. convmv is able to convert files to NFC or "
+"NFD, which aids in interoperability with such systems."
+msgstr ""
+
+#. description(dblatex)
+msgid ""
+"dblatex is a program that transforms your SGML/XMLDocBook documents to DVI, "
+"PostScript or PDF by translating them into pure LaTeX as a first process.  "
+"MathML 2.0 markups are supported, too. It started as a clone of DB2LaTeX."
+msgstr ""
+
+#. description(debootstrap)
+msgid ""
+"debootstrap is used to create a Debian base system from scratch, without "
+"requiring the availability of dpkg or apt. It does this by downloading .deb "
+"files from a mirror site, and carefully unpacking them into a directory "
+"which can eventually be chrooted into."
+msgstr ""
+
+#. description(dom4j:dom4j-demo)
+msgid ""
+"dom4j is an easy to use Open Source XML, XPath and XSLT framework for Java "
+"using the Java Collections Framework. dom4j allows you to read, write, "
+"navigate, create and modify XML documents. dom4j integrates with DOM, SAX "
+"and JAXP and is seamlessly integrated with full XPath support."
+msgstr ""
+
+#. description(espeak-gui)
+msgid ""
+"espeak-gui provides a simple graphical user interface for the eSpeak speech "
+"synthesizer."
+msgstr ""
+
+#. description(calligra-l10n:calligra-l10n-ja)
+msgid "ja"
+msgstr ""

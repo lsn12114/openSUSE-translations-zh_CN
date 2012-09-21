@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-06-21 16:20:36\n"
+"POT-Creation-Date: 2012-09-22 03:38:33\n"
 "PO-Revision-Date: 2012-05-12 16:55+0800\n"
 "Last-Translator: margurite <i@marguerite.su>\n"
 "Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
@@ -28,20 +28,27 @@ msgstr "图形环境"
 msgid "A Key Management Application for SSH2 RSA/DSA and GnuPG Keys"
 msgstr ""
 
-#. summary(pam_passwdqc:libpasswdqc0-32bit)
-msgid "A Simple Password Strength Checking Library"
+#. summary(herqq:libHUpnp1-32bit)
+msgid "A Library for Building UPnP Devices and Control Points"
 msgstr ""
 
 #. summary(libjackasyn:libjackasyn-32bit)
 msgid "A Wrapper Library for JACK"
 msgstr ""
 
+#. summary(kde-oxygen-fonts)
+msgid "A desktop/gui font family for integrated use with the KDE desktop"
+msgstr ""
+
 #. description(libgnomecups:libgnomecups-32bit)
-msgid "A gobject (GLib) wrapper for IPP printer management, which is used by CUPS.  Mainly used by the GNOME printing system."
+msgid ""
+"A gobject (GLib) wrapper for IPP printer management, which is used by CUPS.  "
+"Mainly used by the GNOME printing system."
 msgstr ""
 
 #. summary(log4c:liblog4c3-32bit)
-msgid "A library of C for flexible logging to files, syslog and other destinations"
+msgid ""
+"A library of C for flexible logging to files, syslog and other destinations"
 msgstr ""
 
 #. summary(csync:libcsync0-32bit)
@@ -61,214 +68,486 @@ msgstr "7.0 文档"
 msgid "Algorithmic Differentiation Library for C/C++"
 msgstr ""
 
+#. description(kde3-i18n:kde3-i18n-eu)
+#, fuzzy
+msgid ""
+"All the requirements for a Basque desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-bs)
+#, fuzzy
+msgid ""
+"All the requirements for a Bosnian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-bg)
+#, fuzzy
+msgid ""
+"All the requirements for a Bulgarian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-ca)
+#, fuzzy
+msgid ""
+"All the requirements for a Catalan desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
 #. description(kde3-i18n:kde3-i18n-zh_TW)
 #, fuzzy
-msgid "All the requirements for a Chinese desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Chinese desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-cs)
+#, fuzzy
+msgid ""
+"All the requirements for a Czech desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-da)
+#, fuzzy
+msgid ""
+"All the requirements for a Danish desktop. This package contains application "
+"translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-nl)
 #, fuzzy
-msgid "All the requirements for a Dutch desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Dutch desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-fi)
+#, fuzzy
+msgid ""
+"All the requirements for a Finnish desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-fr)
+#, fuzzy
+msgid ""
+"All the requirements for a French desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-fy)
+#, fuzzy
+msgid ""
+"All the requirements for a Frisian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-gl)
+#, fuzzy
+msgid ""
+"All the requirements for a Galician desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-de)
+#, fuzzy
+msgid ""
+"All the requirements for a German Desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-el)
+#, fuzzy
+msgid ""
+"All the requirements for a Greek desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-he)
+#, fuzzy
+msgid ""
+"All the requirements for a Hebrew desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-hu)
+#, fuzzy
+msgid ""
+"All the requirements for a Hungarian desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-ja)
 #, fuzzy
-msgid "All the requirements for a Japanese desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Japanese desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde4-l10n:kde4-l10n-ca@valencia)
 #, fuzzy
-msgid "All the requirements for a KDE desktop in Valencian. This package contains application translations, help files, and screenshots."
+msgid ""
+"All the requirements for a KDE desktop in Valencian. This package contains "
+"application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-kk)
 #, fuzzy
-msgid "All the requirements for a Kazakh Desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Kazakh Desktop. This package contains application "
+"translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-km)
 #, fuzzy
-msgid "All the requirements for a Khmer Desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Khmer Desktop. This package contains application "
+"translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-rw)
 #, fuzzy
-msgid "All the requirements for a Kinyarwanda desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Kinyarwanda desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-nb)
 #, fuzzy
-msgid "All the requirements for a Norwegian (Bokmaal) desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Norwegian (Bokmaal) desktop. This package "
+"contains application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-nn)
 #, fuzzy
-msgid "All the requirements for a Norwegian (Nynorsk) desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Norwegian (Nynorsk) desktop. This package "
+"contains application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-pl)
 #, fuzzy
-msgid "All the requirements for a Polish desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Polish desktop. This package contains application "
+"translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-pt)
 #, fuzzy
-msgid "All the requirements for a Portuguese desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Portuguese desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-ro)
 #, fuzzy
-msgid "All the requirements for a Romanian desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Romanian desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-ru)
 #, fuzzy
-msgid "All the requirements for a Russian desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Russian desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-sr)
 #, fuzzy
-msgid "All the requirements for a Serbian desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Serbian desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-sk)
 #, fuzzy
-msgid "All the requirements for a Slovak desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Slovak desktop. This package contains application "
+"translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-sl)
 #, fuzzy
-msgid "All the requirements for a Slovenian desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Slovenian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-es)
+#, fuzzy
+msgid ""
+"All the requirements for a Spanish desktop.  This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-sv)
 #, fuzzy
-msgid "All the requirements for a Swedish desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Swedish desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-ta)
 #, fuzzy
-msgid "All the requirements for a Tamil desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Tamil desktop. This package contains application "
+"translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-te)
 #, fuzzy
-msgid "All the requirements for a Telugu desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Telugu desktop. This package contains application "
+"translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-tr)
 #, fuzzy
-msgid "All the requirements for a Turkish desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Turkish desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-uk)
 #, fuzzy
-msgid "All the requirements for a Ukrainian desktop.  This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a Ukrainian desktop.  This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-cy)
+#, fuzzy
+msgid ""
+"All the requirements for a Welsh desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-be)
+#, fuzzy
+msgid ""
+"All the requirements for a desktop in Belarusian. This package contains "
+"application translations, help files, and screenshots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-bn)
+#, fuzzy
+msgid ""
+"All the requirements for a desktop in Bengali. This package contains "
+"application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-pt_BR)
 #, fuzzy
-msgid "All the requirements for a desktop in Brazilian Portuguese. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a desktop in Brazilian Portuguese. This package "
+"contains application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-en_GB)
+#, fuzzy
+msgid ""
+"All the requirements for a desktop in British English. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-fa)
+#, fuzzy
+msgid ""
+"All the requirements for a desktop in Farsi. This package contains "
+"application translations, help files, and screenshots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-hi)
+#, fuzzy
+msgid ""
+"All the requirements for a desktop in Hindi. This package contains "
+"application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-nds)
 #, fuzzy
-msgid "All the requirements for a desktop in Low Saxon (a variant of German). This package contains application translations, help files, and screenshots."
+msgid ""
+"All the requirements for a desktop in Low Saxon (a variant of German). This "
+"package contains application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-ms)
 #, fuzzy
-msgid "All the requirements for a desktop in Malay. This package contains application translations, help files, and screenshots."
+msgid ""
+"All the requirements for a desktop in Malay. This package contains "
+"application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-mn)
 #, fuzzy
-msgid "All the requirements for a desktop in Mongolian. This package contains application translations, help files, and screenshots."
+msgid ""
+"All the requirements for a desktop in Mongolian. This package contains "
+"application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-se)
 #, fuzzy
-msgid "All the requirements for a desktop in Northern Sami. This package contains application translations, help files, and screenshots."
+msgid ""
+"All the requirements for a desktop in Northern Sami. This package contains "
+"application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-ss)
 #, fuzzy
-msgid "All the requirements for a desktop in Swati. This package contains application translations, help files, and screenshots."
+msgid ""
+"All the requirements for a desktop in Swati. This package contains "
+"application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-tg)
 #, fuzzy
-msgid "All the requirements for a desktop in Tajik. This package contains application translations, help files, and screenshots."
+msgid ""
+"All the requirements for a desktop in Tajik. This package contains "
+"application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-uz)
 #, fuzzy
-msgid "All the requirements for a desktop in Uzbek. This package contains application translations, help files, and screenshots."
+msgid ""
+"All the requirements for a desktop in Uzbek. This package contains "
+"application translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-zh_CN)
 #, fuzzy
-msgid "All the requirements for a simplified Chinese desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for a simplified Chinese desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-az)
+#, fuzzy
+msgid ""
+"All the requirements for an Azerbaijan desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-et)
+#, fuzzy
+msgid ""
+"All the requirements for an Estonian desktop. This package contains "
+"application translations, help files, and screen shots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-it)
 #, fuzzy
-msgid "All the requirements for an Italian desktop. This package contains application translations, help files, and screen shots."
+msgid ""
+"All the requirements for an Italian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-hr)
+#, fuzzy
+msgid ""
+"All the stuff for a Croatian desktop. This package contains application "
+"translations, help files and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-ko)
 #, fuzzy
-msgid "All the stuff for a Korean desktop. This package contains application translations, help files and screenshots."
+msgid ""
+"All the stuff for a Korean desktop. This package contains application "
+"translations, help files and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-lt)
 #, fuzzy
-msgid "All the stuff for a Lithuanian desktop. This package contains application translations, help files and screenshots."
+msgid ""
+"All the stuff for a Lithuanian desktop. This package contains application "
+"translations, help files and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-srLatn)
 #, fuzzy
-msgid "All the stuff for a Serbian Latin desktop. This package contains application translations, help files and screenshots."
+msgid ""
+"All the stuff for a Serbian Latin desktop. This package contains application "
+"translations, help files and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-th)
 #, fuzzy
-msgid "All the stuff for a Thai desktop. This package contains application translations, help files and screenshots."
+msgid ""
+"All the stuff for a Thai desktop. This package contains application "
+"translations, help files and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-vi)
 #, fuzzy
-msgid "All the stuff for a Vietnamese desktop. This package contains application translations, help files and screenshots."
+msgid ""
+"All the stuff for a Vietnamese desktop. This package contains application "
+"translations, help files and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-wa)
 #, fuzzy
-msgid "All the stuff for a Walloon desktop. This package contains application translations, help files and screenshots."
+msgid ""
+"All the stuff for a Walloon desktop. This package contains application "
+"translations, help files and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-pa)
 #, fuzzy
-msgid "All the stuff for a desktop in Punjabi. This package contains application translations, help files and screenshots."
+msgid ""
+"All the stuff for a desktop in Punjabi. This package contains application "
+"translations, help files and screenshots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-eo)
+#, fuzzy
+msgid ""
+"All the stuff for an Esperanto desktop.  This package contains application "
+"translations, help files and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(kde3-i18n:kde3-i18n-is)
 #, fuzzy
-msgid "All the stuff for an Icelandic desktop. This package contains application translations, help files and screenshots."
+msgid ""
+"All the stuff for an Icelandic desktop. This package contains application "
+"translations, help files and screenshots."
 msgstr "包中含有意外的版本"
 
 #. summary(libica-1_3_9:libica-1_3_9-32bit)
 msgid "An Interface Library for the ICA Device Driver"
 msgstr ""
 
+#. summary(harfbuzz:libharfbuzz0-32bit)
+msgid "An OpenType text shaping engine"
+msgstr ""
+
 #. description(armadillo:libarmadillo3-32bit)
 msgid ""
-"Armadillo is a C++ linear algebra library (matrix maths) aiming towards a good balance between speed and ease of use. Integer, floating point and complex numbers are supported, as well as a subset of trigonometric and statistics functions. Various matrix decompositions are provided through optional integration with LAPACK and ATLAS libraries. A delayed evaluation approach is employed (during compile time) to combine several operations into one and reduce (or eliminate) the need for temporaries. This is accomplished through recursive templates and template meta-programming. This library is useful if C++ has been decided as the language of choice (due to speed and/or integration capabilities), rather than another language like Matlab or Octave.\n"
+"Armadillo is a C++ linear algebra library (matrix maths) aiming towards a "
+"good balance between speed and ease of use. Integer, floating point and "
+"complex numbers are supported, as well as a subset of trigonometric and "
+"statistics functions. Various matrix decompositions are provided through "
+"optional integration with LAPACK and ATLAS libraries. A delayed evaluation "
+"approach is employed (during compile time) to combine several operations "
+"into one and reduce (or eliminate) the need for temporaries. This is "
+"accomplished through recursive templates and template meta-programming. This "
+"library is useful if C++ has been decided as the language of choice (due to "
+"speed and/or integration capabilities), rather than another language like "
+"Matlab or Octave.\n"
 "\n"
 "This package provides the shared libraries for armadillo."
 msgstr ""
 
 #. description(aubio:libaubio2-32bit)
-msgid "Aubio is a library for real time audio labelling. Its features include segmenting a sound file before each of its attacks, performing pitch detection, tapping the beat and producing midi streams from live audio. The name aubio comes from 'audio' with a typo: several transcription errors are likely to be found in the results too."
+msgid ""
+"Aubio is a library for real time audio labelling. Its features include "
+"segmenting a sound file before each of its attacks, performing pitch "
+"detection, tapping the beat and producing midi streams from live audio. The "
+"name aubio comes from 'audio' with a typo: several transcription errors are "
+"likely to be found in the results too."
 msgstr ""
 
 #. summary(kdeartwork4:kdeartwork4-decorations-aurorae)
@@ -276,8 +555,37 @@ msgstr ""
 msgid "Aurorae window decorations"
 msgstr "设备管理器"
 
+#. summary(kde3-i18n:kde3-i18n-az)
+#, fuzzy
+msgid "Azerbaijan Translations for KDE"
+msgstr "俄联邦"
+
+#. summary(kde3-i18n:kde3-i18n-eu)
+#, fuzzy
+msgid "Basque translations for KDE"
+msgstr "北马里亚纳群岛"
+
+#. summary(kde3-i18n:kde3-i18n-be)
+#, fuzzy
+msgid "Belarusian translations for KDE"
+msgstr "俄联邦"
+
+#. summary(kde3-i18n:kde3-i18n-bn)
+#, fuzzy
+msgid "Bengali translations for KDE"
+msgstr "北马里亚纳群岛"
+
+#. summary(kde3-i18n:kde3-i18n-bs)
+#, fuzzy
+msgid "Bosnian Translations for KDE"
+msgstr "俄联邦"
+
 #. description(Botan:libbotan-1_10-0-32bit)
-msgid "Botan is a C++ library that provides support for many common cryptographic operations, including encryption, authentication, and X.509v3 certificates and CRLs. A wide variety of algorithms is supported, including RSA, DSA, DES, AES, MD5, and SHA-1."
+msgid ""
+"Botan is a C++ library that provides support for many common cryptographic "
+"operations, including encryption, authentication, and X.509v3 certificates "
+"and CRLs. A wide variety of algorithms is supported, including RSA, DSA, "
+"DES, AES, MD5, and SHA-1."
 msgstr ""
 
 #. summary(kde3-i18n:kde3-i18n-pt_BR)
@@ -285,9 +593,19 @@ msgstr ""
 msgid "Brazilian Portuguese Translations for KDE"
 msgstr "包中含有意外的版本"
 
+#. summary(kde3-i18n:kde3-i18n-br)
+#, fuzzy
+msgid "Breton Translations for KDE"
+msgstr "北马里亚纳群岛"
+
 #. summary(crystalhd-libs:libcrystalhd3-32bit)
 msgid "Broadcom Crystal HD device interface library"
 msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-bg)
+#, fuzzy
+msgid "Bulgarian Translations for KDE"
+msgstr "俄联邦"
 
 #. summary(flickcurl:libflickcurl0-32bit)
 msgid "C Library API to the Flickr Web Service"
@@ -302,6 +620,11 @@ msgstr ""
 msgid "C++ SVG rendering library"
 msgstr "Novell 和 Linux"
 
+#. summary(libcamgm:libcamgm-devel-32bit)
+#, fuzzy
+msgid "CA Management Library Development Files"
+msgstr "KDE 开发"
+
 #. summary(libcdio-paranoia:libcdio_cdda1-32bit)
 msgid "CDDA reader"
 msgstr ""
@@ -310,6 +633,11 @@ msgstr ""
 #, fuzzy
 msgid "CDDB Access Library"
 msgstr "KDE 桌面环境"
+
+#. summary(kde3-i18n:kde3-i18n-ca)
+#, fuzzy
+msgid "Catalan Translations for KDE"
+msgstr "俄联邦"
 
 #. summary(kde3-i18n:kde3-i18n-zh_TW)
 #, fuzzy
@@ -322,19 +650,39 @@ msgid "Control groups management tools"
 msgstr "电源管理 (APM)"
 
 #. description(libcgroup1:libcgroup1-32bit)
-msgid "Control groups, a new kernel feature in Linux 2.6.24 provides a file system interface to manipulate and control the details on task grouping including creation of new task groups (control groups), permission handling and task assignment."
+msgid ""
+"Control groups, a new kernel feature in Linux 2.6.24 provides a file system "
+"interface to manipulate and control the details on task grouping including "
+"creation of new task groups (control groups), permission handling and task "
+"assignment."
 msgstr ""
 
 #. description(kernel-coverage)
 msgid "Creating the linux kernel coverage galaxy poster."
 msgstr ""
 
+#. summary(kde3-i18n:kde3-i18n-hr)
+#, fuzzy
+msgid "Croatian translations for KDE"
+msgstr "俄联邦"
+
+#. summary(kde3-i18n:kde3-i18n-cs)
+#, fuzzy
+msgid "Czech Translations for KDE"
+msgstr "俄联邦"
+
 #. description(libdbus-c++:libdbus-c++-glib-1-0-32bit)
-msgid "DBus-c++ attempts to provide a C++ API for D-BUS. The library has a glib and an ecore mainloop integration. It also offers an optional own main loop. The glib libdbus-c++ library."
+msgid ""
+"DBus-c++ attempts to provide a C++ API for D-BUS. The library has a glib and "
+"an ecore mainloop integration. It also offers an optional own main loop. The "
+"glib libdbus-c++ library."
 msgstr ""
 
 #. description(libdbus-c++:libdbus-c++-1-0-32bit)
-msgid "DBus-c++ attempts to provide a C++ API for D-BUS. The library has a glib and an ecore mainloop integration. It also offers an optional own main loop. The libdbus-c++ library."
+msgid ""
+"DBus-c++ attempts to provide a C++ API for D-BUS. The library has a glib and "
+"an ecore mainloop integration. It also offers an optional own main loop. The "
+"libdbus-c++ library."
 msgstr ""
 
 #. summary(dwarves:libdwarves1-32bit)
@@ -345,6 +693,11 @@ msgstr ""
 #, fuzzy
 msgid "DWARF processing library development files"
 msgstr "KDE 开发"
+
+#. summary(kde3-i18n:kde3-i18n-da)
+#, fuzzy
+msgid "Danish Translations for KDE"
+msgstr "北马里亚纳群岛"
 
 #. summary(dmapi:libdm0-32bit)
 #, fuzzy
@@ -368,7 +721,8 @@ msgstr "Tcl/Tk 及其开发工具。"
 
 #. summary(libdbi:libdbi-devel-32bit)
 #, fuzzy
-msgid "Development files for libdbi (Database Independent Abstraction Layer for C)"
+msgid ""
+"Development files for libdbi (Database Independent Abstraction Layer for C)"
 msgstr "输入抽象层 的用户界面"
 
 #. summary(ding-libs:libdhash-devel-32bit)
@@ -379,16 +733,6 @@ msgstr "开发"
 #. summary(ding-libs:libini_config-devel-32bit)
 #, fuzzy
 msgid "Development files for libini_config"
-msgstr "Tcl/Tk 及其开发工具。"
-
-#. summary(util-linux:libmount-devel-32bit)
-#, fuzzy
-msgid "Development files for libmount1"
-msgstr "Tcl/Tk 及其开发工具。"
-
-#. summary(ding-libs:libpath_utils-devel-32bit)
-#, fuzzy
-msgid "Development files for libpath_utils"
 msgstr "Tcl/Tk 及其开发工具。"
 
 #. summary(libdrm:libkms-devel-32bit)
@@ -415,19 +759,9 @@ msgstr "开发"
 msgid "Development package for libcrystalhd"
 msgstr "开发"
 
-#. summary(opencdk:libopencdk-devel-32bit)
-#, fuzzy
-msgid "Development tools for programs which will use the opencdk library"
-msgstr "用于服务器的 KDE 桌面环境"
-
 #. summary(dirac:libdirac_decoder0-32bit)
 msgid "Dirac Video Codec Decoder Library"
 msgstr ""
-
-#. summary(liboggz:liboggz-doc)
-#, fuzzy
-msgid "Documentation for Oggz"
-msgstr "7.0 文档"
 
 #. summary(libgarcon:libgarcon-doc)
 #, fuzzy
@@ -464,19 +798,74 @@ msgstr "编目管理"
 msgid "Dutch Translations for KDE"
 msgstr "俄联邦"
 
+#. summary(kde3-i18n:kde3-i18n-en_GB)
+#, fuzzy
+msgid "English (UK) Translations for KDE"
+msgstr "北马里亚纳群岛"
+
+#. summary(kde3-i18n:kde3-i18n-eo)
+#, fuzzy
+msgid "Esperanto translations for KDE"
+msgstr "北马里亚纳群岛"
+
+#. summary(kde3-i18n:kde3-i18n-et)
+#, fuzzy
+msgid "Estonian Translations for KDE"
+msgstr "俄联邦"
+
+#. description(kde3-i18n:kde3-i18n-br)
+#, fuzzy
+msgid ""
+"Everything for a Breton desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr "包中含有意外的版本"
+
 #. description(kde3-i18n:kde3-i18n-mk)
 #, fuzzy
-msgid "Everything for a Macedonian desktop. This package contains application translations, help files, and screenshots."
+msgid ""
+"Everything for a Macedonian desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr "包中含有意外的版本"
+
+#. description(kde3-i18n:kde3-i18n-ga)
+#, fuzzy
+msgid ""
+"Everything for an Irish desktop. This package contains application "
+"translations, help files, and screenshots."
 msgstr "包中含有意外的版本"
 
 #. description(libexpat0:libexpat0-32bit)
-msgid "Expat is an XML 1.0 parser written in C. It aims to be fully conformant. It is currently not a validating XML processor. The current production version of expat can be downloaded from ftp://ftp.jclark.com/pub/xml/expat.zip. The directory xmltok contains a low-level library for tokenizing XML. The interface is documented in xmltok/xmltok.h. The directory xmlparse contains an XML parser library that is built on top of the xmltok library. The interface is documented in xmlparse/xmlparse.h. The directory sample contains a simple example program using this interface. The directory sample/build.bat is a batch file to build the example using Visual C++. The directory xmlwf contains the xmlwf application, which uses the xmlparse library. The arguments to xmlwf are one or more files to check for well-formedness. An option -d dir can be specified. For each well-formed input file, the corresponding canonical XML is written to dir/f, where f is the filename (without any path) of the input file. A -x option causes references to external general entities to be processed. A -s option makes documents that are not stand-alone cause an error (a document is considered stand-alone if it is intrinsically stand-alone because it has no external subset and no references to parameter entities in the internal subset or it is declared as stand-alone in the XML declaration)."
+msgid ""
+"Expat is an XML 1.0 parser written in C. It aims to be fully conformant. It "
+"is currently not a validating XML processor. The current production version "
+"of expat can be downloaded from ftp://ftp.jclark.com/pub/xml/expat.zip. The "
+"directory xmltok contains a low-level library for tokenizing XML. The "
+"interface is documented in xmltok/xmltok.h. The directory xmlparse contains "
+"an XML parser library that is built on top of the xmltok library. The "
+"interface is documented in xmlparse/xmlparse.h. The directory sample "
+"contains a simple example program using this interface. The directory sample/"
+"build.bat is a batch file to build the example using Visual C++. The "
+"directory xmlwf contains the xmlwf application, which uses the xmlparse "
+"library. The arguments to xmlwf are one or more files to check for well-"
+"formedness. An option -d dir can be specified. For each well-formed input "
+"file, the corresponding canonical XML is written to dir/f, where f is the "
+"filename (without any path) of the input file. A -x option causes references "
+"to external general entities to be processed. A -s option makes documents "
+"that are not stand-alone cause an error (a document is considered stand-"
+"alone if it is intrinsically stand-alone because it has no external subset "
+"and no references to parameter entities in the internal subset or it is "
+"declared as stand-alone in the XML declaration)."
 msgstr ""
 
-#. description(util-linux:libmount-devel-32bit)
+#. summary(kde3-i18n:kde3-i18n-fa)
 #, fuzzy
-msgid "Files to develop applications using the libmount library."
-msgstr "包中含有意外的版本"
+msgid "Farsi translations for KDE 3"
+msgstr "北马里亚纳群岛"
+
+#. summary(kde3-i18n:kde3-i18n-fi)
+#, fuzzy
+msgid "Finnish Translations for KDE"
+msgstr "北马里亚纳群岛"
 
 #. summary(ffado:libffado2-32bit)
 msgid "FireWire 1394 support for audio devices"
@@ -488,14 +877,39 @@ msgid "Firebird SQL server client library"
 msgstr "GNOME 开发"
 
 #. description(flickcurl:libflickcurl0-32bit)
-msgid "Flickcurl is a C library for calling the Flickr Web service API. It handles the API signing, token management, and parameter encoding and decoding, resulting in C functions for the Web services APIs. It... uses libcurl to call the REST Web service, and libxml2 to manipulate the XML responses. The library supports reading photo, tag, and comments information, the photo upload and searching APIs, and writing tags and comments. It provides utilities such as \"flickcurl\" to exercise the API and \"flickrdf\" to get RDF metadata descriptions out of photos, tags, and machine tags."
+msgid ""
+"Flickcurl is a C library for calling the Flickr Web service API. It handles "
+"the API signing, token management, and parameter encoding and decoding, "
+"resulting in C functions for the Web services APIs. It... uses libcurl to "
+"call the REST Web service, and libxml2 to manipulate the XML responses. The "
+"library supports reading photo, tag, and comments information, the photo "
+"upload and searching APIs, and writing tags and comments. It provides "
+"utilities such as \"flickcurl\" to exercise the API and \"flickrdf\" to get "
+"RDF metadata descriptions out of photos, tags, and machine tags."
 msgstr ""
 
-#. description(opencdk:libopencdk10-32bit)
+#. summary(kde4-l10n:kde4-l10n-fr-doc)
+#, fuzzy
+msgid "French (fr) manuals for KDE"
+msgstr "北马里亚纳群岛"
+
+#. summary(kde3-i18n:kde3-i18n-fr)
+#, fuzzy
+msgid "French Translations for KDE"
+msgstr "俄联邦"
+
+#. summary(kde3-i18n:kde3-i18n-fy)
+#, fuzzy
+msgid "Frisian Translations for KDE"
+msgstr "俄联邦"
+
+#. description(glib2:libgio-fam-32bit)
 msgid ""
-"For reference, read RFC2440. Due to some possible security problems, the library also implements parts of draft-ietf-openpgp-rfc2440bis-06.txt.\n"
+"GLib is a general-purpose utility library, which provides many useful data "
+"types, macros, type conversions, string utilities, file utilities, a main "
+"loop abstraction, and so on.\n"
 "\n"
-"The aim of the library is not to replace any available OpenPGP version. There is no real support for key management (sign, revoke, alter preferences, etc.) and some other parts are only rudimentarily available. The main purpose is to handle and understand OpenPGP packets and to use basic operations. For example, to encrypt and decrypt, sign and verify, and provide packet routines."
+"This packages provides a GIO module to use FAM for file monitoring."
 msgstr ""
 
 #. summary(libgail-gnome:libgail-gnome-32bit)
@@ -507,7 +921,7 @@ msgstr ""
 msgid "GNOME CUPS Library"
 msgstr "通知"
 
-#. summary(gcc46:libada46-32bit)
+#. summary(gcc47:libada47-32bit)
 #, fuzzy
 msgid "GNU Ada Runtime Libraries"
 msgstr "GNOME 主菜单"
@@ -520,14 +934,33 @@ msgstr ""
 msgid "GStreamer based RTSP server library"
 msgstr ""
 
+#. summary(kde3-i18n:kde3-i18n-gl)
+#, fuzzy
+msgid "Galician Translations for KDE"
+msgstr "俄联邦"
+
+#. summary(glib2:libgio-fam-32bit)
+msgid "General-Purpose Utility Library -- GIO Module to use FAM"
+msgstr ""
+
 #. description(GeoIP:libGeoIP-devel-32bit)
 msgid ""
-"GeoIP is a C library that enables the user to find the country that any IP address or hostname originates from.  It uses a file based database. This database simply contains IP blocks as keys, and countries as values.  This database should be more complete and accurate than using reverse DNS lookups.\n"
+"GeoIP is a C library that enables the user to find the country that any IP "
+"address or hostname originates from.  It uses a file based database. This "
+"database simply contains IP blocks as keys, and countries as values.  This "
+"database should be more complete and accurate than using reverse DNS "
+"lookups.\n"
 "\n"
-"MaxMind offers a service where you can have your database updated automically each month.\n"
+"MaxMind offers a service where you can have your database updated "
+"automically each month.\n"
 "\n"
 "This package holds the development files for GeoIP."
 msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-de)
+#, fuzzy
+msgid "German Translations for KDE"
+msgstr "俄联邦"
 
 #. summary(libdbus-c++:libdbus-c++-glib-1-0-32bit)
 msgid "Glib for libdbus-c++"
@@ -537,12 +970,37 @@ msgstr ""
 msgid "Graph Coloring Library for C/C++"
 msgstr ""
 
+#. summary(kde3-i18n:kde3-i18n-el)
+#, fuzzy
+msgid "Greek Translations for KDE"
+msgstr "俄联邦"
+
 #. description(gst-rtsp:libgstrtspserver-0_10-0-32bit)
 msgid "GstRTSP is a RTSP server library using the GStreamer framework."
 msgstr ""
 
-#. description(gtkglext:libgtkglext-x11-1_0-0-32bit)
-msgid "GtkGLExt is an OpenGL extension to GTK. It provides the GDK objects that support OpenGL rendering in GTK and GtkWidget API add-ons, to make GTK+ widgets OpenGL-capable."
+#. summary(hdf5:libhdf5-0-32bit)
+#, fuzzy
+msgid "HDF 5 runtime libraries"
+msgstr "GNOME 主菜单"
+
+#. description(harfbuzz:libharfbuzz0-32bit)
+msgid "HarfBuzz is an OpenType text shaping engine."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-he)
+#, fuzzy
+msgid "Hebrew Translations for KDE"
+msgstr "北马里亚纳群岛"
+
+#. description(herqq:libHUpnp1-32bit)
+msgid ""
+"Herqq UPnP (HUPnP) is a software library for building UPnP devices and "
+"control points conforming to the UPnP Device Architecture version 1.1. It is "
+"designed to be simple to use and robust in operation. It is built using C++ "
+"and the Qt Framework following many of the design principles and programming "
+"practices used in the Qt Framework. It integrates into Qt-based software "
+"smoothly and enables truly rapid UPnP development."
 msgstr ""
 
 #. summary(kdeartwork4:kdeartwork4-wallpapers-large)
@@ -550,22 +1008,25 @@ msgstr ""
 msgid "High-resolution KDE wallpapers package"
 msgstr "更新包"
 
+#. summary(kde3-i18n:kde3-i18n-hi)
+#, fuzzy
+msgid "Hindi Translations for KDE"
+msgstr "俄联邦"
+
 #. summary(libhugetlbfs:libhugetlbfs-32bit)
 #, fuzzy
 msgid "Hugetlbfs helper library"
 msgstr "编目管理"
 
+#. summary(kde3-i18n:kde3-i18n-hu)
+#, fuzzy
+msgid "Hungarian Translations for KDE"
+msgstr "俄联邦"
+
 #. summary(kde3-i18n:kde3-i18n-is)
 #, fuzzy
 msgid "Icelandic translations for KDE"
 msgstr "俄联邦"
-
-#. description(leechcraft:leechcraft-iconset-tango)
-msgid ""
-"Iconset based on the Tango project for LeechCraft.\n"
-"\n"
-"This package contains mapping to the Tango project icons."
-msgstr ""
 
 #. summary(ladspa-devel)
 #, fuzzy
@@ -576,6 +1037,11 @@ msgstr "内核开发"
 #, fuzzy
 msgid "Installation Source creation"
 msgstr "安装"
+
+#. summary(kde3-i18n:kde3-i18n-ga)
+#, fuzzy
+msgid "Irish Translations for KDE"
+msgstr "俄联邦"
 
 #. summary(kde3-i18n:kde3-i18n-it)
 #, fuzzy
@@ -646,9 +1112,14 @@ msgstr "更新包"
 
 #. description(klatexformula:klatexformula-apidoc)
 msgid ""
-"KLatexFormula is an easy-to-use graphical user interface for generating images from LaTeX equations. These images can be dragged and dropped or copied and pasted into external applications (presentations, text documents, graphics...), or can be saved to disk in a variety of formats (PNG, JPG, BMP, EPS, PDF, etc.).\n"
+"KLatexFormula is an easy-to-use graphical user interface for generating "
+"images from LaTeX equations. These images can be dragged and dropped or "
+"copied and pasted into external applications (presentations, text documents, "
+"graphics...), or can be saved to disk in a variety of formats (PNG, JPG, "
+"BMP, EPS, PDF, etc.).\n"
 "\n"
-"This package contains the API documentation of the libraries libklfbackend, libklftool and libklfapp which are the different components of klatexformula."
+"This package contains the API documentation of the libraries libklfbackend, "
+"libklftool and libklfapp which are the different components of klatexformula."
 msgstr ""
 
 #. summary(kde3-i18n:kde3-i18n-kk)
@@ -657,7 +1128,11 @@ msgid "Kazakh Translations for KDE"
 msgstr "等待导航栏应用程序"
 
 #. description(krb5-doc)
-msgid "Kerberos V5 is a trusted-third-party network authentication system,which can improve your network's security by eliminating the insecurepractice of clear text passwords. This package includes extended documentation for MIT Kerberos."
+msgid ""
+"Kerberos V5 is a trusted-third-party network authentication system,which can "
+"improve your network's security by eliminating the insecurepractice of clear "
+"text passwords. This package includes extended documentation for MIT "
+"Kerberos."
 msgstr ""
 
 #. summary(kernel-coverage)
@@ -675,7 +1150,13 @@ msgid "Kernel with PAE Support - base modules"
 msgstr "支持 Pango 的 Firefox"
 
 #. description(keychain)
-msgid "Keychain is an extremely handy OpenSSH, commercial SSH2-compatible RSA/DSA and GnuPG key management application. It acts as a front-end to the agents, allowing you to easily have one long-running agent process per system, rather than per login session. This dramatically reduces the number of times you need to enter your pass phrase from once per new login session to once every time your local machine is rebooted."
+msgid ""
+"Keychain is an extremely handy OpenSSH, commercial SSH2-compatible RSA/DSA "
+"and GnuPG key management application. It acts as a front-end to the agents, "
+"allowing you to easily have one long-running agent process per system, "
+"rather than per login session. This dramatically reduces the number of times "
+"you need to enter your pass phrase from once per new login session to once "
+"every time your local machine is rebooted."
 msgstr ""
 
 #. summary(kde3-i18n:kde3-i18n-km)
@@ -695,13 +1176,33 @@ msgstr "北马里亚纳群岛"
 
 #. description(lam:lam-32bit)
 msgid ""
-"LAM (Local Area Multicomputer) is an MPI programming environment and development system for heterogeneous computers on a network. With LAM, a dedicated cluster or an existing network computing infrastructure can act as one parallel computer solving one problem.\n"
+"LAM (Local Area Multicomputer) is an MPI programming environment and "
+"development system for heterogeneous computers on a network. With LAM, a "
+"dedicated cluster or an existing network computing infrastructure can act as "
+"one parallel computer solving one problem.\n"
 "\n"
-"LAM features extensive debugging support in the application development cycle and peak performance for production applications. LAM also features a full implementation of the MPI (Message Passing Interface) communication standard.  The documentation is installed in /usr/share/doc/packages/lam/."
+"LAM features extensive debugging support in the application development "
+"cycle and peak performance for production applications. LAM also features a "
+"full implementation of the MPI (Message Passing Interface) communication "
+"standard.  The documentation is installed in /usr/share/doc/packages/lam/."
 msgstr ""
 
+#. summary(lapack:lapacke-devel-32bit)
+#, fuzzy
+msgid "LAPACKE development files"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(lapack:lapacke-devel-32bit)
+#, fuzzy
+msgid "LAPACKE headers and development files."
+msgstr "KDE 开发"
+
 #. description(lcov)
-msgid "LCOV is a graphical front-end for GCC's coverage testing tool gcov. It collects gcov data for multiple source files and creates HTML pages containing the source code annotated with coverage information. It also adds overview pages for easy navigation within the file structure."
+msgid ""
+"LCOV is a graphical front-end for GCC's coverage testing tool gcov. It "
+"collects gcov data for multiple source files and creates HTML pages "
+"containing the source code annotated with coverage information. It also adds "
+"overview pages for easy navigation within the file structure."
 msgstr ""
 
 #. summary(latex2html)
@@ -710,16 +1211,21 @@ msgstr ""
 
 #. description(latex2html)
 msgid ""
-"LaTeX2HTML lets you easily convert basic LaTeX documents into the HTML format. This allows both a written and online version even of older LaTeX texts.\n"
+"LaTeX2HTML lets you easily convert basic LaTeX documents into the HTML "
+"format. This allows both a written and online version even of older LaTeX "
+"texts.\n"
 "\n"
 "Find documentation in /usr/share/doc/packages/latex2html."
 msgstr ""
 
 #. description(laeqed)
 msgid ""
-"Laeqed is a LaTeX equation editor specifically targeted at producing PNG images of math equations for use on web pages. It runs wherever Java and LaTeX runs, i.e. Linux, Windows, Mac...\n"
+"Laeqed is a LaTeX equation editor specifically targeted at producing PNG "
+"images of math equations for use on web pages. It runs wherever Java and "
+"LaTeX runs, i.e. Linux, Windows, Mac...\n"
 "\n"
-"Laeqed stores the LaTeX equation into the PNG image, so it can be reopened later for further editing."
+"Laeqed stores the LaTeX equation into the PNG image, so it can be reopened "
+"later for further editing."
 msgstr ""
 
 #. summary(kde3-kaffeine:kde3-kaffeine-lang)
@@ -811,21 +1317,15 @@ msgstr ""
 msgid "Latvian translations for KDE"
 msgstr "俄联邦"
 
-#. summary(leechcraft:leechcraft-iconset-oxygen)
-msgid "LeechCraft Oxygen Iconset"
-msgstr ""
-
-#. summary(leechcraft:leechcraft-iconset-tango)
-msgid "LeechCraft Tango Iconset"
-msgstr ""
-
-#. summary(liblept2:liblept2-32bit)
+#. summary(leptonica:liblept3-32bit)
 #, fuzzy
 msgid "Leptonica Library"
 msgstr "加密"
 
 #. description(adns:libadns-devel-32bit)
-msgid "Libadns-devel includes the header file and static library to develop programs with libads support."
+msgid ""
+"Libadns-devel includes the header file and static library to develop "
+"programs with libads support."
 msgstr ""
 
 #. summary(libebml:libebml3-32bit)
@@ -833,59 +1333,43 @@ msgid "Libary to Parse EBML Files"
 msgstr ""
 
 #. description(libcddb:libcddb2-32bit)
-msgid "Libcddb is a library that implements the different protocols (CDDBP, HTTP, and SMTP) to access data on a CDDB server (http://freedb.org). It tries to be as cross-platform as possible."
+msgid ""
+"Libcddb is a library that implements the different protocols (CDDBP, HTTP, "
+"and SMTP) to access data on a CDDB server (http://freedb.org). It tries to "
+"be as cross-platform as possible."
 msgstr ""
 
 #. description(libconfig:libconfig++9-32bit)
 msgid ""
-"Libconfig is a simple library for manipulating structured configuration files, like this one: test.cfg. This file format is more compact and more readable than XML. And unlike XML, it is type-aware, so it is not necessary to do string parsing in application code.\n"
+"Libconfig is a simple library for manipulating structured configuration "
+"files, like this one: test.cfg. This file format is more compact and more "
+"readable than XML. And unlike XML, it is type-aware, so it is not necessary "
+"to do string parsing in application code.\n"
 "\n"
 "This package contains the shared libraries for libconfig."
 msgstr ""
 
 #. description(libjackasyn:libjackasyn-32bit)
-msgid "Libjackasyn is a library that allows you to run any Linux sound program made for the OSS system as a JACK client."
+msgid ""
+"Libjackasyn is a library that allows you to run any Linux sound program made "
+"for the OSS system as a JACK client."
 msgstr ""
 
 #. description(libmatroska:libmatroska5-32bit)
-msgid "Libmatroska is a C++ library to parse Matroska files (.mkv and .mka). It depends on libebml to work. You only need this package to compile your own applications."
-msgstr ""
-
-#. description(libp11:libp11-1-32bit)
 msgid ""
-"Libp11 is a library implementing a small layer on top of PKCS#11 API to make using PKCS#11 implementations easier.\n"
-"\n"
-"The official name for PKCS#11 is \"RSA Security Inc. PKCS #11 Cryptographic Token Interface (Cryptoki)\".\n"
-"\n"
-"Libp11 source code includes the official header files (version 2.20) and thus is \"derived from the RSA Security Inc. PKCS #11 Cryptographic Token Interface (Cryptoki)\"."
+"Libmatroska is a C++ library to parse Matroska files (.mkv and .mka). It "
+"depends on libebml to work. You only need this package to compile your own "
+"applications."
 msgstr ""
 
 #. summary(adns:libadns-devel-32bit)
 msgid "Libraries and header files to develop programs with libadns support"
 msgstr ""
 
-#. summary(libnl3:libnl3-devel-32bit)
-#, fuzzy
-msgid "Libraries and headers for libnl"
-msgstr "Tcl/Tk 及其开发工具。"
-
-#. summary(netcf:libnetcf1-32bit)
-#, fuzzy
-msgid "Libraries for netcf"
-msgstr "Tcl/Tk 及其开发工具。"
-
 #. summary(libGLw:libGLw-devel-32bit)
 #, fuzzy
 msgid "Libraries, includes and more to develop MesaGLw applications"
 msgstr "内核开发"
-
-#. summary(libp11:libp11-1-32bit)
-msgid "Library Implementing a Small Layer on Top of PKCS#11 API"
-msgstr ""
-
-#. summary(opencdk:libopencdk10-32bit)
-msgid "Library Providing Basic Parts of the OpenPGP Message Format"
-msgstr ""
 
 #. summary(libdvbpsi:libdvbpsi7-32bit)
 msgid "Library for Decoding and Generating MPEG TS and DVB PSI Tables"
@@ -896,12 +1380,7 @@ msgstr ""
 msgid "Library for Fluidsynth"
 msgstr "收藏的应用程序"
 
-#. summary(openct:libopenct1-32bit)
-#, fuzzy
-msgid "Library for Smart Card Readers"
-msgstr "收藏的应用程序"
-
-#. description(liblept2:liblept2-32bit)
+#. description(leptonica:liblept3-32bit)
 msgid "Library for efficient image processing and image analysis operations."
 msgstr ""
 
@@ -951,7 +1430,10 @@ msgid "Local Area Multicomputer"
 msgstr ""
 
 #. description(log4c:liblog4c3-32bit)
-msgid "Log4c is a library of C for flexible logging to files, syslog and other destinations. It is modeled after the Log for Java library (http://jakarta.apache.org/log4j/), staying as close to their API as is reasonable."
+msgid ""
+"Log4c is a library of C for flexible logging to files, syslog and other "
+"destinations. It is modeled after the Log for Java library (http://jakarta."
+"apache.org/log4j/), staying as close to their API as is reasonable."
 msgstr ""
 
 #. summary(kye)
@@ -972,10 +1454,6 @@ msgstr "帮助和支持文档"
 #, fuzzy
 msgid "MIT Kerberos5 Implementation--Documentation"
 msgstr "新应用程序的最大数目"
-
-#. description(libmlt:libmlt4-data)
-msgid "MLT is an open source multimedia framework, designed and developed for television broadcasting. It provides a toolkit for broadcasters, video editors, media players, transcoders, web streamers and many more types of applications. The functionality of the system is provided via an assortment of ready to use tools, XML authoring components, and an extensible plug-in based API."
-msgstr ""
 
 #. summary(kde3-i18n:kde3-i18n-mk)
 #, fuzzy
@@ -1010,11 +1488,6 @@ msgstr ""
 msgid "Manpages for LAPACK"
 msgstr ""
 
-#. summary(libmnl:libmnl0-32bit)
-#, fuzzy
-msgid "Minimalistic Netlink communication library"
-msgstr "1.2 新的 Xgl 配置选项"
-
 #. summary(kde3-i18n:kde3-i18n-mn)
 #, fuzzy
 msgid "Mongolian translations for KDE"
@@ -1024,10 +1497,6 @@ msgstr "俄联邦"
 #, fuzzy
 msgid "Mono KDE icon packages"
 msgstr "去除包"
-
-#. summary(libmlt:libmlt4-data)
-msgid "Multimedia framework designed and developed for television broadcasting"
-msgstr ""
 
 #. summary(kde3-i18n:kde3-i18n-se)
 #, fuzzy
@@ -1044,33 +1513,17 @@ msgstr "北马里亚纳群岛"
 msgid "Norwegian (Nynorsk) Translations for KDE"
 msgstr "北马里亚纳群岛"
 
-#. description(openct:libopenct1-32bit)
-msgid ""
-"OpenCT is a set of library and tools to talk to smart card readers. OpenCT is used by the OpenSC Smart Card library.\n"
-"\n"
-"For a list of supported readers, please read documentation in /usr/share/doc/packages/openct/wiki/index.html - some readers may be supported only with particular firmware or particular connection type.\n"
-"\n"
-"There are other packages that may support your reader in a different way. Name of all these packages starts with \"pcsc-\"."
-msgstr ""
-
-#. summary(gtkglext:libgtkglext-x11-1_0-0-32bit)
-msgid "OpenGL Extension to GTK"
-msgstr ""
-
-#. summary(kiwi:kiwi-doc)
+#. summary(kiwi-instsource-plugins-openSUSE-12-1)
 #, fuzzy
-msgid "OpenSuSE - KIWI Image System Documentation"
+msgid "OpenSuSE - KIWI Image System"
 msgstr "帮助和支持文档"
 
 #. description(kiwi-instsource-plugins-openSUSE-12-1)
-msgid "OpenSuSE - KIWI Image System InstSource plugins provides information and plugin code to create meta information for a Novell/SUSE installation source This particular package contains the metadata plugins specific for the openSUSE-11.1 targets."
-msgstr ""
-
-#. description(leechcraft:leechcraft-iconset-oxygen)
 msgid ""
-"Oxygen-based iconset for LeechCraft.\n"
-"\n"
-"This package contains icons taken from the Oxygen project for LeechCraft."
+"OpenSuSE - KIWI Image System InstSource plugins provides information and "
+"plugin code to create meta information for a Novell/SUSE installation source "
+"This particular package contains the metadata plugins specific for the "
+"openSUSE-11.1 targets."
 msgstr ""
 
 #. summary(kdedesktopcheck)
@@ -1182,6 +1635,10 @@ msgstr "俄联邦"
 msgid "Python support for libcaca"
 msgstr "找不到 Xscreensaver。"
 
+#. summary(libdbus-1-qt3-0:libdbus-1-qt3-0-32bit)
+msgid "Qt3 DBus Bindings"
+msgstr ""
+
 #. summary(kde3-i18n:kde3-i18n-ro)
 #, fuzzy
 msgid "Romanian Translations for KDE"
@@ -1212,11 +1669,6 @@ msgstr "俄联邦"
 msgid "Serbian Translations for KDE"
 msgstr "俄联邦"
 
-#. summary(liboggz:liboggz2-32bit)
-#, fuzzy
-msgid "Shared Libraries For Oggz"
-msgstr "正在创建资源数据库"
-
 #. summary(mariadb:libmariadbclient18-32bit)
 #, fuzzy
 msgid "Shared Libraries for MariaDB"
@@ -1226,22 +1678,25 @@ msgstr "正在创建资源数据库"
 msgid ""
 "Shared Library, is normally installed as a dependency when needed\n"
 "\n"
-"This module contains integration libraries and plug-ins for using OpenGL within GStreamer pipelines. This module contains elements for, among others:\n"
+"This module contains integration libraries and plug-ins for using OpenGL "
+"within GStreamer pipelines. This module contains elements for, among "
+"others:\n"
 "\n"
-"  * output: glimagesink   * adapters: glupload, gldownload   * video processing: gldeinterlace, glcolorscale   * GL effects: glfiltersobel, glfilterblur, gleffects, others   * sources: gltestsrc"
+"  * output: glimagesink   * adapters: glupload, gldownload   * video "
+"processing: gldeinterlace, glcolorscale   * GL effects: glfiltersobel, "
+"glfilterblur, gleffects, others   * sources: gltestsrc"
 msgstr ""
 
 #. description(firebird:libfbclient2-32bit)
 msgid ""
 "Shared client library for Firebird SQL server.\n"
 "\n"
-"Firebird is a relational database offering many ANSI SQL standard features that runs on Linux, Windows, and a variety of Unix platforms. Firebird offers excellent concurrency, high performance, and powerful language support for stored procedures and triggers. It has been used in production systems, under a variety of names, since 1981."
+"Firebird is a relational database offering many ANSI SQL standard features "
+"that runs on Linux, Windows, and a variety of Unix platforms. Firebird "
+"offers excellent concurrency, high performance, and powerful language "
+"support for stored procedures and triggers. It has been used in production "
+"systems, under a variety of names, since 1981."
 msgstr ""
-
-#. summary(newt:libnewt0_52-32bit)
-#, fuzzy
-msgid "Shared libraries for Nifty Erik's Windowing Toolkit"
-msgstr "6.10 禁用 powersave 守护程序"
 
 #. summary(armadillo:libarmadillo3-32bit)
 #, fuzzy
@@ -1251,11 +1706,6 @@ msgstr "正在创建资源数据库"
 #. summary(libconfig:libconfig++9-32bit)
 #, fuzzy
 msgid "Shared libraries for libconfig"
-msgstr "正在创建资源数据库"
-
-#. summary(libmowgli:libmowgli2-32bit)
-#, fuzzy
-msgid "Shared library from libmowgli"
 msgstr "正在创建资源数据库"
 
 #. summary(kde3-i18n:kde3-i18n-zh_CN)
@@ -1273,9 +1723,19 @@ msgstr "俄联邦"
 msgid "Slovenian Translations for KDE"
 msgstr "俄联邦"
 
+#. summary(kde3-i18n:kde3-i18n-es)
+#, fuzzy
+msgid "Spanish Translations for KDE"
+msgstr "俄联邦"
+
 #. summary(kde3-i18n:kde3-i18n-ss)
 #, fuzzy
 msgid "Swati translations for KDE"
+msgstr "俄联邦"
+
+#. summary(kde4-l10n:kde4-l10n-sv-doc)
+#, fuzzy
+msgid "Swedish (sv) manuals for KDE"
 msgstr "俄联邦"
 
 #. summary(kde3-i18n:kde3-i18n-sv)
@@ -1313,13 +1773,40 @@ msgstr "俄联邦"
 msgid "Thai translations for KDE"
 msgstr "北马里亚纳群岛"
 
+#. description(libcamgm:libcamgm-devel-32bit)
+msgid ""
+"The CA Management Library provides methods for managing a Certificate "
+"Authority. This package includes the header files and development "
+"documentation."
+msgstr ""
+
+#. summary(cloog-isl:libcloog-isl3-32bit)
+msgid "The CLOOG shared library using ISL"
+msgstr ""
+
 #. summary(libgnomeprint:libgnomeprint-32bit)
 #, fuzzy
 msgid "The GNOME 2.x Printing Library"
 msgstr "输入抽象层 的用户界面"
 
 #. description(ldtp)
-msgid "The GNU/Linux Desktop Testing Project (GNU LDTP) aims to produce a high quality test automation framework with cutting-edge tools that can be used to test and improve the GNU/Linux or Solaris desktops. It uses the Accessibility libraries to discover through the application's user interface. The framework also has tools to record test-cases based on user actions in an application."
+msgid ""
+"The GNU/Linux Desktop Testing Project (GNU LDTP) aims to produce a high "
+"quality test automation framework with cutting-edge tools that can be used "
+"to test and improve the GNU/Linux or Solaris desktops. It uses the "
+"Accessibility libraries to discover through the application's user "
+"interface. The framework also has tools to record test-cases based on user "
+"actions in an application."
+msgstr ""
+
+#. description(hdf5:libhdf5-0-32bit)
+msgid ""
+"The HDF project involves the development and support of software and file "
+"formats for scientific data management. The HDF software includes I/O "
+"libraries and tools for analyzing, visualizing, and converting scientific "
+"data.\n"
+"\n"
+"This package contains the HDF 5 runtime libraries."
 msgstr ""
 
 #. summary(kdebase3:kdebase3-32bit)
@@ -1332,7 +1819,11 @@ msgid "The Linux Audio Developer's Simple Plug-In API"
 msgstr ""
 
 #. description(ladspa:ladspa-32bit)
-msgid "The Linux Audio Developer's Simple Plug-in API (LADSPA) provides the ability to write simple plug-in audio processors in C/C++ and link them dynamically.  The package contains the LADSPA SDK, the CMT plug-in libraries (including Freeverb), and the swh plug-ins."
+msgid ""
+"The Linux Audio Developer's Simple Plug-in API (LADSPA) provides the ability "
+"to write simple plug-in audio processors in C/C++ and link them "
+"dynamically.  The package contains the LADSPA SDK, the CMT plug-in libraries "
+"(including Freeverb), and the swh plug-ins."
 msgstr ""
 
 #. summary(ldapjdk)
@@ -1340,12 +1831,15 @@ msgid "The Mozilla LDAP Java SDK"
 msgstr ""
 
 #. description(ldapjdk)
-msgid "The Mozilla LDAP SDKs enable you to write applications that access, manage, and update the information stored in an LDAP directory."
+msgid ""
+"The Mozilla LDAP SDKs enable you to write applications that access, manage, "
+"and update the information stored in an LDAP directory."
 msgstr ""
 
 #. description(ldapjdk:ldapjdk-javadoc)
 msgid ""
-"The Mozilla LDAP SDKs enable you to write applications which access, manage, and update the information stored in an LDAP directory.\n"
+"The Mozilla LDAP SDKs enable you to write applications which access, manage, "
+"and update the information stored in an LDAP directory.\n"
 "\n"
 "This package contains the javadoc documentation for the Mozilla LDAP SDKs."
 msgstr ""
@@ -1356,7 +1850,9 @@ msgstr ""
 
 #. description(libdbi:libdbi-devel-32bit)
 #, fuzzy
-msgid "The libdbi-devel package contains the header files and documentation needed to develop applications with libdbi."
+msgid ""
+"The libdbi-devel package contains the header files and documentation needed "
+"to develop applications with libdbi."
 msgstr "包中含有意外的版本"
 
 #. summary(libdbus-c++:libdbus-c++-1-0-32bit)
@@ -1365,109 +1861,163 @@ msgid "The libdbus-c++ library"
 msgstr "编目管理"
 
 #. description(libhugetlbfs:libhugetlbfs-32bit)
-msgid "The libhugetlbfs package interacts with the Linux hugetlbfs to make large pages available to applications in a transparent manner."
+msgid ""
+"The libhugetlbfs package interacts with the Linux hugetlbfs to make large "
+"pages available to applications in a transparent manner."
 msgstr ""
 
 #. description(jbigkit:libjbig-devel-32bit)
 #, fuzzy
-msgid "The libjbig-devel package contains files needed for development using the JBIG-KIT image compression library."
+msgid ""
+"The libjbig-devel package contains files needed for development using the "
+"JBIG-KIT image compression library."
 msgstr "包中含有意外的版本"
-
-#. description(libnl3:libnl3-devel-32bit)
-msgid "The libnl suite is a collection of libraries providing APIs to Netlink protocol based Linux kernel interfaces."
-msgstr ""
-
-#. description(netcf:libnetcf1-32bit)
-#, fuzzy
-msgid "The libraries for netcf."
-msgstr "Tcl/Tk 及其开发工具。"
 
 #. description(adolc:libadolc1-32bit)
 msgid ""
-"The package ADOL-C (Automatic Differentiation by OverLoading in C++) facilitates the evaluation of first and higher derivatives of vector functions that are defined by computer programs written in C or C++. The resulting derivative evaluation routines may be called from C/C++, Fortran, or any other language that can be linked with C.\n"
+"The package ADOL-C (Automatic Differentiation by OverLoading in C++) "
+"facilitates the evaluation of first and higher derivatives of vector "
+"functions that are defined by computer programs written in C or C++. The "
+"resulting derivative evaluation routines may be called from C/C++, Fortran, "
+"or any other language that can be linked with C.\n"
 "\n"
-"The numerical values of derivative vectors are obtained free of truncation errors at a small multiple of the run time and randomly accessed memory of the given function evaluation program."
+"The numerical values of derivative vectors are obtained free of truncation "
+"errors at a small multiple of the run time and randomly accessed memory of "
+"the given function evaluation program."
+msgstr ""
+
+#. description(cloog-isl:libcloog-isl3-32bit)
+msgid "The shared library for the Chunky Loop Generator using the ISL backend."
 msgstr ""
 
 #. description(kdesdk4:kprofilemethod)
-msgid "These macros help profiling using QTime. They allow you to sum up the time taken by a given bit of code in a method called several times. This way one can find out which low-level method used by a high-level method is taking most of its time."
+msgid ""
+"These macros help profiling using QTime. They allow you to sum up the time "
+"taken by a given bit of code in a method called several times. This way one "
+"can find out which low-level method used by a high-level method is taking "
+"most of its time."
 msgstr ""
 
 #. description(gamin:libfam0-gamin-32bit)
-msgid "This C library provides an API and ABI compatible file alteration monitor mechanism compatible with FAM, but not dependent on a system wide daemon."
+msgid ""
+"This C library provides an API and ABI compatible file alteration monitor "
+"mechanism compatible with FAM, but not dependent on a system wide daemon."
 msgstr ""
 
 #. description(libcdio-paranoia:libcdio_cdda1-32bit)
-msgid "This CDDA reader distribution ('libcdio-cdparanoia') reads audio from he CDROM directly as data, with no analog step between, and writes the data to a file or pipe as .wav, .aifc or as raw 16 bit linear PCM."
+msgid ""
+"This CDDA reader distribution ('libcdio-cdparanoia') reads audio from he "
+"CDROM directly as data, with no analog step between, and writes the data to "
+"a file or pipe as .wav, .aifc or as raw 16 bit linear PCM."
 msgstr ""
 
 #. description(kye)
 msgid ""
 "This is a clone of the original Kye game for Windows, by Colin Garbutt.\n"
 "\n"
-"Kye is a puzzle game with arcade game elements. The game takes place in a small playing area, where the player controls Kye - a distinctive green blob. The player moves around and tries to collect all of the diamonds. However, there are many other objects in the game, which can obstruct, trap or kill the Kye.\n"
+"Kye is a puzzle game with arcade game elements. The game takes place in a "
+"small playing area, where the player controls Kye - a distinctive green "
+"blob. The player moves around and tries to collect all of the diamonds. "
+"However, there are many other objects in the game, which can obstruct, trap "
+"or kill the Kye.\n"
 "\n"
-"Kye is one of those games like Chess, where a small number of different playing pieces, obeying simple rules, combine to create a game of enormous variety and complexity."
+"Kye is one of those games like Chess, where a small number of different "
+"playing pieces, obeying simple rules, combine to create a game of enormous "
+"variety and complexity."
 msgstr ""
 
 #. description(liblo:liblo-32bit)
-msgid "This is a lightweight, easy-to-use implementation of the OSC protocol (see http://www.cnmat.berkeley.edu/OpenSoundControl/ for details)."
+msgid ""
+"This is a lightweight, easy-to-use implementation of the OSC protocol (see "
+"http://www.cnmat.berkeley.edu/OpenSoundControl/ for details)."
 msgstr ""
 
 #. description(libdatrie:libdatrie1-32bit)
-msgid "This is an implementation of double-array structure for representing trie, as proposed by Junichi Aoe."
+msgid ""
+"This is an implementation of double-array structure for representing trie, "
+"as proposed by Junichi Aoe."
 msgstr ""
 
 #. description(kernel-pae)
 msgid ""
-"This kernel supports up to 64GB of main memory. It requires Physical Addressing Extensions (PAE), which were introduced with the Pentium Pro processor.\n"
+"This kernel supports up to 64GB of main memory. It requires Physical "
+"Addressing Extensions (PAE), which were introduced with the Pentium Pro "
+"processor.\n"
 "\n"
-"PAE is not only more physical address space but also important for the \"no execute\" feature which disables execution of code that is marked as non-executable. Therefore, the PAE kernel should be used on any systems that support it, regardless of the amount of main memory.\n"
+"PAE is not only more physical address space but also important for the \"no "
+"execute\" feature which disables execution of code that is marked as non-"
+"executable. Therefore, the PAE kernel should be used on any systems that "
+"support it, regardless of the amount of main memory.\n"
 "\n"
-" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+" Source Timestamp: 2012-07-30 23:41:12 +0200 GIT Revision: "
+"6d995bc7656eb24c5975a0bd1542911c462eef4c GIT Branch: master"
 msgstr ""
 
 #. description(kernel-pae:kernel-pae-base)
 msgid ""
-"This kernel supports up to 64GB of main memory. It requires Physical Addressing Extensions (PAE), which were introduced with the Pentium Pro processor.\n"
+"This kernel supports up to 64GB of main memory. It requires Physical "
+"Addressing Extensions (PAE), which were introduced with the Pentium Pro "
+"processor.\n"
 "\n"
-"PAE is not only more physical address space but also important for the \"no execute\" feature which disables execution of code that is marked as non-executable. Therefore, the PAE kernel should be used on any systems that support it, regardless of the amount of main memory.\n"
+"PAE is not only more physical address space but also important for the \"no "
+"execute\" feature which disables execution of code that is marked as non-"
+"executable. Therefore, the PAE kernel should be used on any systems that "
+"support it, regardless of the amount of main memory.\n"
 "\n"
 "This package contains only the base modules, required in all installs.\n"
 "\n"
-" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+" Source Timestamp: 2012-07-30 23:41:12 +0200 GIT Revision: "
+"6d995bc7656eb24c5975a0bd1542911c462eef4c GIT Branch: master"
 msgstr ""
 
 #. description(libgnomeui:libgnomeui-doc)
-msgid "This library contains all the User-Interface related functions for GNOME-based Software. You need the libgnomeui-devel package too if you want to develop GNOME 2.x Desktop-based Software."
+msgid ""
+"This library contains all the User-Interface related functions for GNOME-"
+"based Software. You need the libgnomeui-devel package too if you want to "
+"develop GNOME 2.x Desktop-based Software."
 msgstr ""
 
 #. description(libgnomeprintui:libgnomeprintui-32bit)
 #, fuzzy
-msgid "This library contains all user-interface related functions to the GNOME printing subsystem."
+msgid ""
+"This library contains all user-interface related functions to the GNOME "
+"printing subsystem."
 msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
 
-#. description(libnetfilter_acct:libnetfilter_acct1-32bit)
-msgid "This library provides the programming interface (API) to the Netfilter extended accounting infrastructure."
+#. description(libdbus-1-qt3-0:libdbus-1-qt3-0-32bit)
+msgid "This library provides Qt3-classes for accessing the DBus"
 msgstr ""
 
-#. description(libnetfilter_cttimeout:libnetfilter_cttimeout1-32bit)
-msgid "This library provides the programming interface (API) to the Netfilter extended timeout settings infrastructure."
+#. description(lapack:liblapacke3-32bit)
+msgid ""
+"This library provides a native C interface to LAPACK routines available at "
+"www.netlib.org/lapack to facilitate usage of LAPACK functionality for C "
+"programmers.\n"
+"\n"
+"This implementation introduces:\n"
+"- row-major and column-major matrix layout controlled by the first "
+"function   parameter;\n"
+"- an implementation with working arrays (middle-level interface) as well "
+"as   without working arrays (high-level interface);\n"
+"- input scalars passed by value;\n"
+"- error code as a return value instead of the INFO parameter."
 msgstr ""
 
-#. description(liboggz:liboggz-doc)
+#. description(kde4-l10n:kde4-l10n-fr-doc)
 #, fuzzy
-msgid "This package contains HTML documentation needed for development using liboggz"
+msgid "This package contains French application manual translations for KDE."
 msgstr "包中含有意外的版本"
 
 #. description(kde-susetranslations)
 #, fuzzy
-msgid "This package contains SUSE-specific translations of KDE3 libraries and applications."
+msgid ""
+"This package contains SUSE-specific translations of KDE3 libraries and "
+"applications."
 msgstr "包中含有意外的版本"
 
-#. description(libotf:libotf-devel-32bit)
+#. description(kde4-l10n:kde4-l10n-sv-doc)
 #, fuzzy
-msgid "This package contains all necessary include files and libraries needed to develop applications that require libotf."
+msgid "This package contains Swedish application manual translations for KDE."
 msgstr "包中含有意外的版本"
 
 #. description(libcaca:libcaca-python)
@@ -1477,12 +2027,15 @@ msgstr "包中含有意外的版本"
 
 #. description(libgail-gnome:libgail-gnome-32bit)
 #, fuzzy
-msgid "This package contains an implementation of the ATK interfaces for GNOME widgets."
+msgid ""
+"This package contains an implementation of the ATK interfaces for GNOME "
+"widgets."
 msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
 
 #. description(kdelibs3:kdelibs3-arts-32bit)
 #, fuzzy
-msgid "This package contains bindings and gui elements for using aRts sound daemon."
+msgid ""
+"This package contains bindings and gui elements for using aRts sound daemon."
 msgstr "包中含有意外的版本"
 
 #. description(kdeartwork4:kdeartwork4-colorschemes)
@@ -1496,15 +2049,25 @@ msgid "This package contains documentation and examples for the Glade library."
 msgstr "<p>此菜单包含引用文档信息的链接。</p>"
 
 #. description(libgnomeprint:libgnomeprint-doc)
-msgid "This package contains documentation for the GNOME 2.x printing library, which provide a simple and clean API for GNOME programs that have to print documents."
+msgid ""
+"This package contains documentation for the GNOME 2.x printing library, "
+"which provide a simple and clean API for GNOME programs that have to print "
+"documents."
 msgstr ""
 
 #. description(libgnomeprintui:libgnomeprintui-doc)
-msgid "This package contains documentation for the the user-facing parts of the GNOME 2.x printing library, which provide a simple and clean API for GNOME programs that have to print documents."
+msgid ""
+"This package contains documentation for the the user-facing parts of the "
+"GNOME 2.x printing library, which provide a simple and clean API for GNOME "
+"programs that have to print documents."
 msgstr ""
 
 #. description(dmapi:libdm0-32bit)
-msgid "This package contains files required by system software using the Data Management API. (DMAPI).  This is used to implement the interface defined in the X/Open document:  Systems Management: Data Storage Management (XDSM) API dated February 1997.  This interface is implemented by the libdm library."
+msgid ""
+"This package contains files required by system software using the Data "
+"Management API. (DMAPI).  This is used to implement the interface defined in "
+"the X/Open document:  Systems Management: Data Storage Management (XDSM) API "
+"dated February 1997.  This interface is implemented by the libdm library."
 msgstr ""
 
 #. description(libcaca:libcaca0-plugins-32bit)
@@ -1519,21 +2082,28 @@ msgstr "包中含有意外的版本"
 
 #. description(kdebase3:kdebase3-32bit)
 msgid ""
-"This package contains kdebase, one of the basic packages of the K Desktop Environment. It contains, among others, kwin (the KDE window manager), Konqueror (the KDE Web browser), and KControl (the configuration program)\n"
+"This package contains kdebase, one of the basic packages of the K Desktop "
+"Environment. It contains, among others, kwin (the KDE window manager), "
+"Konqueror (the KDE Web browser), and KControl (the configuration program)\n"
 "\n"
-"This package is needed if you want to use the KDE Desktop. It is not needed if you only want to start some KDE applications."
+"This package is needed if you want to use the KDE Desktop. It is not needed "
+"if you only want to start some KDE applications."
 msgstr ""
 
 #. description(kdelibs3:kdelibs3-32bit)
 msgid ""
-"This package contains kdelibs, one of the basic packages of the K Desktop Environment. It contains the necessary libraries for the KDE desktop.\n"
+"This package contains kdelibs, one of the basic packages of the K Desktop "
+"Environment. It contains the necessary libraries for the KDE desktop.\n"
 "\n"
 "This package is absolutely necessary for using KDE."
 msgstr ""
 
 #. description(kiwi:kiwi-instsource)
 msgid ""
-"This package contains modules used for installation source creation. With those it is possible to create a valid installation repository from blank RPM file trees. The created tree can be used directly for the image creation process afterwards. This package allows using the\n"
+"This package contains modules used for installation source creation. With "
+"those it is possible to create a valid installation repository from blank "
+"RPM file trees. The created tree can be used directly for the image creation "
+"process afterwards. This package allows using the\n"
 "--create-instsource <path-to-config.xml> switch."
 msgstr ""
 
@@ -1544,62 +2114,80 @@ msgstr "包中含有意外的版本"
 
 #. description(kdebase3:kdebase3-runtime-32bit)
 #, fuzzy
-msgid "This package contains runtime dependencies of KDE3 applications like KIO-slaves."
+msgid ""
+"This package contains runtime dependencies of KDE3 applications like KIO-"
+"slaves."
 msgstr "包中含有意外的版本"
 
 #. description(libgnomeprint:libgnomeprint-32bit)
-msgid "This package contains the GNOME 2.x printing library, which provides a simple and clean API for GNOME programs that have to print documents."
+msgid ""
+"This package contains the GNOME 2.x printing library, which provides a "
+"simple and clean API for GNOME programs that have to print documents."
 msgstr ""
 
 #. description(kdelibs3:kdelibs3-default-style-32bit)
 #, fuzzy
-msgid "This package contains the Plastik widget style and libkdefx. It only depends on Qt, not the KDE libraries."
+msgid ""
+"This package contains the Plastik widget style and libkdefx. It only depends "
+"on Qt, not the KDE libraries."
 msgstr "包中含有意外的版本"
 
 #. description(dwarves:libdwarves-devel-32bit)
 #, fuzzy
-msgid "This package contains the development files for libdwarves, a library for processing DWARF, a debugging data format for ELF files."
+msgid ""
+"This package contains the development files for libdwarves, a library for "
+"processing DWARF, a debugging data format for ELF files."
 msgstr "包中含有意外的版本"
 
 #. description(libdrm:libkms-devel-32bit)
 #, fuzzy
-msgid "This package contains the development headers for the library found in libkms1."
+msgid ""
+"This package contains the development headers for the library found in "
+"libkms1."
 msgstr "包中含有意外的版本"
 
 #. description(kiwi:kiwi-doc)
 #, fuzzy
-msgid "This package contains the documentation and manual pages for the KIWI Image System"
+msgid ""
+"This package contains the documentation and manual pages for the KIWI Image "
+"System"
 msgstr "包中含有意外的版本"
 
 #. description(Botan:libbotan-devel-32bit)
 #, fuzzy
-msgid "This package contains the header files and libraries needed to develop programs that use the Botan library."
-msgstr "包中含有意外的版本"
-
-#. description(opencdk:libopencdk-devel-32bit)
-#, fuzzy
-msgid "This package contains the header files and static libraries for developing programs which will be linked against the opencdk library."
+msgid ""
+"This package contains the header files and libraries needed to develop "
+"programs that use the Botan library."
 msgstr "包中含有意外的版本"
 
 #. description(kdeartwork4:kdeartwork4-wallpapers-large)
 #, fuzzy
-msgid "This package contains the high-resolution wallpapers which originate from the kdeartwork module."
+msgid ""
+"This package contains the high-resolution wallpapers which originate from "
+"the kdeartwork module."
 msgstr "包中含有意外的版本"
 
 #. description(kdeartwork4:kdeartwork4-icons)
 #, fuzzy
-msgid "This package contains the icon themes which are contained in the kdeartwork module."
+msgid ""
+"This package contains the icon themes which are contained in the kdeartwork "
+"module."
 msgstr "包中含有意外的版本"
 
 #. description(libica-1_3_9:libica-1_3_9-32bit)
-msgid "This package contains the interface library routines used by IBM modules to interface with the IBM eServer Cryptographic Accelerator (ICA)."
+msgid ""
+"This package contains the interface library routines used by IBM modules to "
+"interface with the IBM eServer Cryptographic Accelerator (ICA)."
 msgstr ""
 
 #. description(dwarves:libdwarves1-32bit)
 msgid ""
-"This package contains the libdwarves shared library for the dwarves toolset, providing processing for DWARF, a debugging data format for ELF files.\n"
+"This package contains the libdwarves shared library for the dwarves toolset, "
+"providing processing for DWARF, a debugging data format for ELF files.\n"
 "\n"
-"dwarves is a set of tools that use the DWARF debugging information inserted in ELF binaries by compilers such as GCC, used by well known debuggers such as GDB, and more recent ones such as systemtap."
+"dwarves is a set of tools that use the DWARF debugging information inserted "
+"in ELF binaries by compilers such as GCC, used by well known debuggers such "
+"as GDB, and more recent ones such as systemtap."
 msgstr ""
 
 #. description(lash:liblash1-32bit)
@@ -1608,23 +2196,26 @@ msgid "This package contains the library for the LASH system."
 msgstr "包中含有意外的版本"
 
 #. description(crystalhd-libs:libcrystalhd3-32bit)
-msgid "This package contains the library to support the hardware decoding of H.264 video stream with Broadcom Crystal HD chips."
+msgid ""
+"This package contains the library to support the hardware decoding of H.264 "
+"video stream with Broadcom Crystal HD chips."
 msgstr ""
 
 #. description(mariadb:libmariadbclient18-32bit)
 #, fuzzy
-msgid "This package contains the shared libraries (.so) which certain languages and applications need to dynamically load and use MariaDB."
+msgid ""
+"This package contains the shared libraries (.so) which certain languages and "
+"applications need to dynamically load and use MariaDB."
 msgstr "包中含有意外的版本"
 
-#. description(newt:libnewt0_52-32bit)
+#. description(gcc47:libada47-32bit)
 msgid ""
-"This package contains the shared libraries needed by programs built with newt.\n"
-"\n"
-"Newt is a programming library for color text-mode widget-based user interfaces.  Newt can be used to add stacked windows, entry widgets, check boxes, radio buttons, labels, plain text fields, scrollbars, etc., to text mode user interfaces."
-msgstr ""
-
-#. description(gcc46:libada46-32bit)
-msgid "This package contains the shared libraries required to run programs compiled with the GNU Ada compiler (GNAT) if they are compiled to use shared libraries. It also contains the shared libraries for the Implementation of the Ada Semantic Interface Specification (ASIS), the implementation of Distributed Systems Programming (GLADE) and the Posix 1003.5 Binding (Florist)."
+"This package contains the shared libraries required to run programs compiled "
+"with the GNU Ada compiler (GNAT) if they are compiled to use shared "
+"libraries. It also contains the shared libraries for the Implementation of "
+"the Ada Semantic Interface Specification (ASIS), the implementation of "
+"Distributed Systems Programming (GLADE) and the Posix 1003.5 Binding "
+"(Florist)."
 msgstr ""
 
 #. description(fluidsynth:libfluidsynth1-32bit)
@@ -1634,7 +2225,8 @@ msgstr "包中含有意外的版本"
 
 #. description(kdeartwork4:kdeartwork4-sounds)
 #, fuzzy
-msgid "This package contains the sounds which originate from the kdeartwork module."
+msgid ""
+"This package contains the sounds which originate from the kdeartwork module."
 msgstr "包中含有意外的版本"
 
 #. description(kdebase4-wallpapers)
@@ -1644,17 +2236,22 @@ msgstr "包中含有意外的版本"
 
 #. description(kdeartwork4:kdeartwork4-wallpapers-weather)
 #, fuzzy
-msgid "This package contains the wallpapers which are used by the Plasma wallpaper plugin."
+msgid ""
+"This package contains the wallpapers which are used by the Plasma wallpaper "
+"plugin."
 msgstr "包中含有意外的版本"
 
 #. description(kdeartwork4:kdeartwork4-wallpapers)
 #, fuzzy
-msgid "This package contains the wallpapers which originate from the kdeartwork module."
+msgid ""
+"This package contains the wallpapers which originate from the kdeartwork "
+"module."
 msgstr "包中含有意外的版本"
 
 #. description(kio_sysinfo-branding-upstream)
 #, fuzzy
-msgid "This package contains upstream branding for the system information KIO slave."
+msgid ""
+"This package contains upstream branding for the system information KIO slave."
 msgstr "包中含有意外的版本"
 
 #. description(lcms2:liblcms2-doc)
@@ -1664,7 +2261,8 @@ msgstr "包中含有意外的版本"
 
 #. description(kdeartwork4:kdeartwork4-decorations-aurorae)
 #, fuzzy
-msgid "This package contains window decorations using the aurorae window decorator"
+msgid ""
+"This package contains window decorations using the aurorae window decorator"
 msgstr "包中含有意外的版本"
 
 #. description(json-c:libjson-doc)
@@ -1674,7 +2272,9 @@ msgstr "获得包含文件的包"
 
 #. description(kdelibs4-apidocs)
 #, fuzzy
-msgid "This package includes the KDE 4 API documentation in HTML format for easy browsing."
+msgid ""
+"This package includes the KDE 4 API documentation in HTML format for easy "
+"browsing."
 msgstr "包中含有意外的版本"
 
 #. description(libgarcon:libgarcon-doc)
@@ -1683,7 +2283,11 @@ msgid "This package includes the documentation for garcon."
 msgstr "包中含有意外的版本"
 
 #. description(libgnomemm:libgnomemm-2_6-1-32bit)
-msgid "This package provides a C++ interface for GnomeUI.  It is a subpackage of the GTK-- project.  The interface provides a convenient interface for C++ programmers to create GNOME GUIs with GTK+'s flexible object-oriented framework."
+msgid ""
+"This package provides a C++ interface for GnomeUI.  It is a subpackage of "
+"the GTK-- project.  The interface provides a convenient interface for C++ "
+"programmers to create GNOME GUIs with GTK+'s flexible object-oriented "
+"framework."
 msgstr ""
 
 #. description(libcap1:libcap1-32bit)
@@ -1693,7 +2297,9 @@ msgstr "包中含有意外的版本"
 
 #. description(ColPack:libColPack0-32bit)
 msgid ""
-"This package provides algorithms for efficient solution of partitioning problems occuring in the analysis of sparsity patterns in derivative computations formulated as Graph Coloring problems.\n"
+"This package provides algorithms for efficient solution of partitioning "
+"problems occuring in the analysis of sparsity patterns in derivative "
+"computations formulated as Graph Coloring problems.\n"
 "\n"
 "For details see http://www.cscapes.org/coloringpage/software.htm"
 msgstr ""
@@ -1709,7 +2315,16 @@ msgid "This package provides monochrome KDE icons for increased accessibility."
 msgstr "包中含有意外的版本"
 
 #. description(ffado:libffado2-32bit)
-msgid "This package provides the libffado shared library that provides a unified programming interface to configure and use all supported devices. Currently this library is used by the 'firewire' backends of the jack audio connection kit sound server. This backend provides audio and midi support, and is available in jackd. Access to the device internal configuration (e,g, internal mixer) is exposed using the ffado-dbus-server daemon. This daemon exposes the configurable parameters of all detected devices through DBUS. The ffadomixer application in support/mixer presents a GUI to control these parameters (only for officially supported devices)."
+msgid ""
+"This package provides the libffado shared library that provides a unified "
+"programming interface to configure and use all supported devices. Currently "
+"this library is used by the 'firewire' backends of the jack audio connection "
+"kit sound server. This backend provides audio and midi support, and is "
+"available in jackd. Access to the device internal configuration (e,g, "
+"internal mixer) is exposed using the ffado-dbus-server daemon. This daemon "
+"exposes the configurable parameters of all detected devices through DBUS. "
+"The ffadomixer application in support/mixer presents a GUI to control these "
+"parameters (only for officially supported devices)."
 msgstr ""
 
 #. description(libgarcon:libgarcon-branding-upstream)
@@ -1719,15 +2334,26 @@ msgstr "包中含有意外的版本"
 
 #. description(kdeartwork4:kdeartwork4-desktopthemes)
 #, fuzzy
-msgid "This package suggests the packages which are built from the kdeartwork module."
+msgid ""
+"This package suggests the packages which are built from the kdeartwork "
+"module."
 msgstr "包中含有意外的版本"
 
 #. description(kdedesktopcheck)
-msgid "This tool is intended for quality assurance of desktop files. It does many integrity checks on .desktop files, for example, whether icon and executable are defined and also installed on the system."
+msgid ""
+"This tool is intended for quality assurance of desktop files. It does many "
+"integrity checks on .desktop files, for example, whether icon and executable "
+"are defined and also installed on the system."
 msgstr ""
 
 #. description(ketchup)
-msgid "This tool synchronises a local kernel tree with a desired kernel ver- sion and patch set from a kernel.org mirror. The default requires a GPG key on your keyring, to verify the identity of the patches and source archives. Entire kernel images are not downloaded unless necessary, so bandwidth is saved. Patches are applied and removed as necessary to attain the requested version."
+msgid ""
+"This tool synchronises a local kernel tree with a desired kernel ver- sion "
+"and patch set from a kernel.org mirror. The default requires a GPG key on "
+"your keyring, to verify the identity of the patches and source archives. "
+"Entire kernel images are not downloaded unless necessary, so bandwidth is "
+"saved. Patches are applied and removed as necessary to attain the requested "
+"version."
 msgstr ""
 
 #. summary(ketchup)
@@ -1759,26 +2385,6 @@ msgstr "输入抽象层 的用户界面"
 msgid "User and developer documentation for lcms2"
 msgstr "用于服务器的 KDE 桌面环境"
 
-#. summary(libnetfilter_log:libnetfilter_log1-32bit)
-msgid "Userspace library for accessing logged packets"
-msgstr ""
-
-#. summary(libnetfilter_queue:libnetfilter_queue1-32bit)
-msgid "Userspace library for packets that have been queued by the kernel packet filter"
-msgstr ""
-
-#. summary(libnetfilter_cttimeout:libnetfilter_cttimeout1-32bit)
-msgid "Userspace library for the Netfilter Conntrack Timeout extension"
-msgstr ""
-
-#. summary(libnetfilter_acct:libnetfilter_acct1-32bit)
-msgid "Userspace library for the in-kernel Netfilter counters"
-msgstr ""
-
-#. summary(libnetfilter_conntrack:libnetfilter_conntrack3-32bit)
-msgid "Userspace library for the in-kernel connection tracking state table"
-msgstr ""
-
 #. summary(kde3-i18n:kde3-i18n-uz)
 #, fuzzy
 msgid "Uzbek translations for KDE"
@@ -1797,11 +2403,14 @@ msgstr ""
 msgid ""
 "Vanilla Linux kernel sources with minor build fixes.\n"
 "\n"
-" Source Timestamp: 2012-06-14 19:07:01 +0200 GIT Revision: a3aa67c1ba3ce009634b5d7616c108991441b4b2 GIT Branch: openSUSE-12.2"
+" Source Timestamp: 2012-07-30 23:41:12 +0200 GIT Revision: "
+"6d995bc7656eb24c5975a0bd1542911c462eef4c GIT Branch: master"
 msgstr ""
 
 #. description(agg:libagg2-32bit)
-msgid "Very fast and complete library to render SVG graphics. It provides a C++ interface."
+msgid ""
+"Very fast and complete library to render SVG graphics. It provides a C++ "
+"interface."
 msgstr ""
 
 #. summary(kde3-i18n:kde3-i18n-vi)
@@ -1814,20 +2423,34 @@ msgstr "俄联邦"
 msgid "Walloon translations for KDE"
 msgstr "俄联邦"
 
+#. summary(kde3-i18n:kde3-i18n-cy)
+#, fuzzy
+msgid "Welsh Translations for KDE"
+msgstr "北马里亚纳群岛"
+
 #. summary(libGLw:libGLw1-32bit)
 msgid "Xt/Motif OpenGL drawing area widget library"
 msgstr ""
 
 #. description(libGLw:libGLw1-32bit)
-msgid "Xt/Motif OpenGL drawing area widget library shipped by the Mesa Project."
+msgid ""
+"Xt/Motif OpenGL drawing area widget library shipped by the Mesa Project."
 msgstr ""
 
 #. description(csync:libcsync0-32bit)
-msgid "csync is an implementation of a file synchronizer which provides the feature of roaming home directories for Linux clients. csync makes use of libsmbclient in Samba/Windows environments."
+msgid ""
+"csync is an implementation of a file synchronizer which provides the feature "
+"of roaming home directories for Linux clients. csync makes use of "
+"libsmbclient in Samba/Windows environments."
 msgstr ""
 
 #. description(killswitch-applet)
-msgid "killswitch-applet is a small application sitting in the system tray providing the possibility to manage all the killswitches found in the system. In this context, \"managing\" means enabling or disabling certain killswitches. This is especially useful if you have multiple killswitches like bluetooth, WWAN or WLAN."
+msgid ""
+"killswitch-applet is a small application sitting in the system tray "
+"providing the possibility to manage all the killswitches found in the "
+"system. In this context, \"managing\" means enabling or disabling certain "
+"killswitches. This is especially useful if you have multiple killswitches "
+"like bluetooth, WWAN or WLAN."
 msgstr ""
 
 #. summary(libavc1394:libavc1394-devel-32bit)
@@ -1835,70 +2458,133 @@ msgid "libavc1394 is a programming interface to the AV/C specification"
 msgstr ""
 
 #. description(libavc1394:libavc1394-devel-32bit)
-msgid "libavc1394 is a programming interface to the AV/C specification from the 1394 Trade Association. AV/C stands for Audio/Video Control. Currently, applications use the library to control the tape transport mechanism on DV camcorders. However, there are many devices and functions of devices that can be controlled via AV/C. Eventually, the library will be expanded to implement more of the specification and to provide high level interfaces to various devices."
+msgid ""
+"libavc1394 is a programming interface to the AV/C specification from the "
+"1394 Trade Association. AV/C stands for Audio/Video Control. Currently, "
+"applications use the library to control the tape transport mechanism on DV "
+"camcorders. However, there are many devices and functions of devices that "
+"can be controlled via AV/C. Eventually, the library will be expanded to "
+"implement more of the specification and to provide high level interfaces to "
+"various devices."
 msgstr ""
 
 #. description(libdvbpsi:libdvbpsi7-32bit)
 msgid ""
-"libdvbpsi is a simple library designed for decoding and generating    MPEG TS and DVB PSI tables. Current features: * Program    Association Table (PAT), decoder and generator.\n"
+"libdvbpsi is a simple library designed for decoding and generating    MPEG "
+"TS and DVB PSI tables. Current features: * Program    Association Table "
+"(PAT), decoder and generator.\n"
 "\n"
 "* Program Map Table (PMT), decoder and generator.\n"
 "* All MPEG 2 descriptors, decoders and generators."
 msgstr ""
 
 #. description(libebml:libebml3-32bit)
-msgid "libebml is a C++ library to parse EBML files. See the EBML RFV at http://www.matroska.org/technical/specs/rfc/."
+msgid ""
+"libebml is a C++ library to parse EBML files. See the EBML RFV at http://www."
+"matroska.org/technical/specs/rfc/."
 msgstr ""
 
 #. description(libmirage:libmirage-data)
 msgid ""
-"libmirage provides uniform access to the data stored in different image formats by creating a representation of disc stored in image file.\n"
+"libmirage provides uniform access to the data stored in different image "
+"formats by creating a representation of disc stored in image file.\n"
 "\n"
 "This package contains the MIME type definitions and documentation."
 msgstr ""
 
-#. description(libmnl:libmnl0-32bit)
-msgid "libmnl is a minimalistic user-space library oriented to Netlink developers. There are a lot of common tasks in parsing, validating, constructing of both the Netlink header and TLVs that are repetitive and easy to get wrong. This library aims to provide simple helpers that allows you to re-use code and to avoid re-inventing the wheel."
-msgstr ""
-
-#. description(libnetfilter_conntrack:libnetfilter_conntrack3-32bit)
-msgid "libnetfilter_conntrack is a userspace library providing a programming interface (API) to the in-kernel connection tracking state table. The library libnetfilter_conntrack has been previously known as libnfnetlink_conntrack and libctnetlink. This library is currently used by conntrack-tools among many other applications."
-msgstr ""
-
-#. description(libnetfilter_log:libnetfilter_log1-32bit)
-msgid "libnetfilter_log is a userspace library providing interface to packets that have been logged by the kernel packet filter. It is is part of a system that deprecates the old syslog/dmesg based packet logging. This library has been previously known as libnfnetlink_log."
-msgstr ""
-
-#. description(libnetfilter_queue:libnetfilter_queue1-32bit)
-msgid ""
-"libnetfilter_queue is a userspace library providing an API to packets that have been queued by the kernel packet filter. It is is part of a system that deprecates the old ip_queue / libipq mechanism.\n"
-"\n"
-"libnetfilter_queue has been previously known as libnfnetlink_queue."
-msgstr ""
-
-#. description(liboggz:liboggz2-32bit)
-msgid "liboggz is a library that provides simple parsing and seeking of files and streams based on the Ogg file format. liboggz requires libogg to work. liboggz knows about Ogg speex, Ogg vorbis, Ogg theora, and the Ogg based Annodex formats, thus allows parsing (though not decoding) of these files."
-msgstr ""
-
-#. description(liboping:liboping-devel-32bit)
-msgid ""
-"liboping is a C library for measuring network latency using ICMP echo requests. It can send to and receive packets from multiple hosts in parallel, which is nice for monitoring applications. Both IPv4 and IPv6 are supported transparently for the programmer and user.\n"
-"\n"
-"This package includes the header and shared library link, required for building applications or libraries that use liboping. This package is not needed at runtime."
-msgstr ""
-
-#. description(pam_passwdqc:libpasswdqc0-32bit)
-msgid "libpasswdqc is a simple password strength checking library. In addition to checking regular passwords, it offers support for passphrases and can provide randomly generated ones."
-msgstr ""
-
-#. description(libmowgli:libmowgli2-32bit)
-msgid ""
-"mowgli is a development framework for C (like GLib), which provides high performance and highly flexible algorithms. It can be used as a suppliment to GLib (to add additional functions (dictionaries, hashes), or replace some of the slow GLib list manipulation functions), or stand alone. It also provides a powerful hook system and convenient logging for your code, as well as a high performance block allocator\n"
-"\n"
-"This package holds the shared library from libmowgli."
-msgstr ""
+#. summary(kiwi:kiwi-doc)
+#, fuzzy
+msgid "openSUSE - KIWI Image System Documentation"
+msgstr "帮助和支持文档"
 
 #. description(kde3-i18n:kde3-i18n-lv)
 #, fuzzy
-msgid "the package contains Latvian translations for KDE applications and their documentation."
+msgid ""
+"the package contains Latvian translations for KDE applications and their "
+"documentation."
 msgstr "包中含有意外的版本"
+
+#. description(kde-oxygen-fonts)
+msgid ""
+"‘Oxygen Font’ is a project to design a desktop/gui font for integrated use "
+"with the KDE desktop. The design is based on interpolations between ‘Muli’ "
+"and ‘FontOne’ that have been further shaped to reach a clear, legible font "
+"to use within the KDE gui.\n"
+"\n"
+"The basic concept for ‘Oxygen Font’ was to design a clear, legible, sans "
+"serif, that would be rendered with Freetype on Linux-based devices. The idea "
+"was to not quite follow a ‘purist’ line of sans serif typeface formulae, but "
+"to allow some juxtapositioning of font forms to give familiarity but also a "
+"sense of newness. A version of the font is also under development that is "
+"aimed to be a branding typeface for the desktop."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Development files for libmount1"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development files for libpath_utils"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Development tools for programs which will use the opencdk library"
+#~ msgstr "用于服务器的 KDE 桌面环境"
+
+#, fuzzy
+#~ msgid "Documentation for Oggz"
+#~ msgstr "7.0 文档"
+
+#, fuzzy
+#~ msgid "Files to develop applications using the libmount library."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Libraries and headers for libnl"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Libraries for netcf"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "Library for Smart Card Readers"
+#~ msgstr "收藏的应用程序"
+
+#, fuzzy
+#~ msgid "Minimalistic Netlink communication library"
+#~ msgstr "1.2 新的 Xgl 配置选项"
+
+#, fuzzy
+#~ msgid "Shared Libraries For Oggz"
+#~ msgstr "正在创建资源数据库"
+
+#, fuzzy
+#~ msgid "Shared libraries for Nifty Erik's Windowing Toolkit"
+#~ msgstr "6.10 禁用 powersave 守护程序"
+
+#, fuzzy
+#~ msgid "Shared library from libmowgli"
+#~ msgstr "正在创建资源数据库"
+
+#, fuzzy
+#~ msgid "The libraries for netcf."
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains HTML documentation needed for development using "
+#~ "liboggz"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains all necessary include files and libraries needed to "
+#~ "develop applications that require libotf."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains the header files and static libraries for "
+#~ "developing programs which will be linked against the opencdk library."
+#~ msgstr "包中含有意外的版本"
