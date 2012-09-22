@@ -1,26 +1,16 @@
 # This file was automatically generated
-# margurite <i@marguerite.su>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
 "POT-Creation-Date: 2012-09-22 03:38:25\n"
-"PO-Revision-Date: 2012-09-22 14:35+0800\n"
-"Last-Translator: Marguerite Su\n"
-"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
-"Language: zh_TW\n"
-"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 1.5\n"
 
 #. description(cpanspec)
 msgid ""
 "*cpanspec* will generate a spec file to build a rpm from a CPAN-style Perl "
 "module distribution."
 msgstr ""
-"\"cpanspec\" 会从 CPAN 风格的 Perl 模块分发包生成一个用于编译 RPM 的 spec 文"
-"件。"
 
 #. summary(biabam)
 msgid "A Bash Attachment Mailer"
@@ -35,23 +25,20 @@ msgid "A C++ class framework for processing audio files"
 msgstr ""
 
 #. summary(autoconf-archive)
-#, fuzzy
 msgid "A Collection of macros for GNU autoconf"
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. summary(f2c:f2c-32bit)
 msgid "A Fortran-77 to C Translator"
 msgstr ""
 
 #. summary(elib)
-#, fuzzy
 msgid "A Lisp Library for GNU Emacs"
-msgstr "正在创建资源数据库"
+msgstr ""
 
 #. summary(clanlib-doc)
-#, fuzzy
 msgid "A Portable Interface for Writing Games"
-msgstr "查看 PostScript 文件"
+msgstr ""
 
 #. summary(analyzeMFT)
 msgid "A Python tool to deconstruct the Windows NTFS $MFT file"
@@ -70,9 +57,8 @@ msgid "A frontend for the mighty duplicity magic"
 msgstr ""
 
 #. summary(cherrytree)
-#, fuzzy
 msgid "A hierarchical note taking application"
-msgstr "新应用程序"
+msgstr ""
 
 #. description(cherrytree)
 msgid ""
@@ -113,9 +99,8 @@ msgid ""
 msgstr ""
 
 #. description(blueprint-cursor-theme)
-#, fuzzy
 msgid "A nice mouse cursor theme for the X Window System."
-msgstr "Telnet X 通信程序"
+msgstr ""
 
 #. description(duply)
 msgid ""
@@ -135,9 +120,8 @@ msgid ""
 msgstr ""
 
 #. description(bytelist)
-#, fuzzy
 msgid "A small java library for manipulating lists of bytes."
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(djvu2pdf)
 msgid ""
@@ -191,29 +175,24 @@ msgid "ANother Tool for Language Recognition (Java Documentation)"
 msgstr ""
 
 #. summary(apache-ivy:apache-ivy-javadoc)
-#, fuzzy
 msgid "API Documentation for ivy"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(avalon-framework:avalon-framework-javadoc)
-#, fuzzy
 msgid "API documentation for avalon-framework."
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(avalon-logkit:avalon-logkit-javadoc)
-#, fuzzy
 msgid "API documentation for avalon-logkit."
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(cal10n:cal10n-javadoc)
-#, fuzzy
 msgid "API documentation for cal10n."
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(bouncycastle:bouncycastle-javadoc)
-#, fuzzy
 msgid "API documentation for the bouncycastle package."
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(asm)
 msgid ""
@@ -227,9 +206,8 @@ msgid ""
 msgstr ""
 
 #. description(bsh2:bsh2-classgen)
-#, fuzzy
 msgid "ASM support for bsh2."
-msgstr "找不到 Xscreensaver。"
+msgstr ""
 
 #. summary(emacs-auctex)
 msgid "AUC TeX: An Emacs Extension"
@@ -240,19 +218,16 @@ msgid "AdaptX is an extensible stylesheet language (XSL) processor."
 msgstr ""
 
 #. summary(alsa:alsa-docs)
-#, fuzzy
 msgid "Additional Package Documentation"
-msgstr "5.1 NetworkManager 文档"
+msgstr ""
 
 #. summary(atk:atk-doc)
-#, fuzzy
 msgid "Additional Package Documentation for atk"
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. summary(desktop-data-openSUSE:desktop-data-openSUSE-extra)
-#, fuzzy
 msgid "Additional wallpapers"
-msgstr "其他布局"
+msgstr ""
 
 #. description(aisleriot:aisleriot-themes)
 msgid ""
@@ -262,9 +237,8 @@ msgid ""
 msgstr ""
 
 #. summary(adolc:adolc-devel-32bit)
-#, fuzzy
 msgid "Algorithmic Differentiation Library for C/C++ -- development files"
-msgstr "内核接口"
+msgstr ""
 
 #. summary(adolc:adolc-doc)
 msgid "Algorithmic Differentiation Library for C/C++ -- documentation"
@@ -272,7 +246,7 @@ msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-amharic)
 msgid "Amharic table for Fcitx"
-msgstr "Fcitx 的阿比西尼亚语码表（埃塞俄比亚）"
+msgstr ""
 
 #. summary(castor)
 msgid "An Open Source Data Binding Framework for Java"
@@ -303,13 +277,12 @@ msgid ""
 msgstr ""
 
 #. summary(axis:axis-javadoc)
-#, fuzzy
 msgid "Api documentation for axis"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-arabic)
 msgid "Arabic table for Fcitx"
-msgstr "Fcitx 的阿拉伯语码表"
+msgstr ""
 
 #. description(arista)
 msgid ""
@@ -368,9 +341,8 @@ msgid ""
 msgstr ""
 
 #. description(bsh2:bsh2-bsf)
-#, fuzzy
 msgid "BSF support for bsh2."
-msgstr "找不到 Xscreensaver。"
+msgstr ""
 
 #. summary(backintime)
 msgid "Back In Time is a simple backup system for GNOME/KDE4 desktop"
@@ -397,9 +369,8 @@ msgid "Base System CIM Providers"
 msgstr ""
 
 #. summary(cmpi-pywbem-base)
-#, fuzzy
 msgid "Base System Providers"
-msgstr "服务器基本系统"
+msgstr ""
 
 #. summary(lapack:blas-devel-32bit)
 msgid "Basic Linear Algebra Subprograms"
@@ -495,9 +466,8 @@ msgid ""
 msgstr ""
 
 #. summary(beansbinding)
-#, fuzzy
 msgid "Beans Binding (JSR 295) reference implementation"
-msgstr "自选设置管理"
+msgstr ""
 
 #. summary(berkeleydb)
 msgid "Berkeley DB Java Edition"
@@ -539,9 +509,8 @@ msgid ""
 msgstr ""
 
 #. summary(blocxx-doc)
-#, fuzzy
 msgid "BloCXX - Documentation"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(blocxx-doc)
 msgid ""
@@ -576,14 +545,12 @@ msgid ""
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-pt_BR)
-#, fuzzy
 msgid "Brazil Portuguese Translations for Calligra Suite Applications"
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-pt_BR-doc)
-#, fuzzy
 msgid "Brazil Portuguese Translations for Calligra Suite Manuals"
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. summary(bugreporter)
 msgid "Bug reporting tool for openSUSE"
@@ -594,9 +561,8 @@ msgid "Build Result Compare Script"
 msgstr ""
 
 #. summary(i4l-base:capi4linux-devel-32bit)
-#, fuzzy
 msgid "CAPI 2.0 library files for development"
-msgstr "内核开发"
+msgstr ""
 
 #. summary(i4l-base:capi4linux-32bit)
 msgid "CAPI 2.0 tools"
@@ -607,13 +573,12 @@ msgid "CAcert root certificates"
 msgstr ""
 
 #. summary(cmpi-provider-register)
-#, fuzzy
 msgid "CIMOM neutral provider registration utility"
-msgstr "联网信息服务客户机"
+msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-cn-cns11643)
 msgid "CNS 11643 table for Fcitx"
-msgstr "Fcitx 的国标 11643 码表"
+msgstr ""
 
 #. description(cpmono_v07-fonts)
 msgid "CPMono v07 is an industrial / high-tech monospace font."
@@ -696,14 +661,12 @@ msgid ""
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-ca)
-#, fuzzy
 msgid "Catalan Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-ca-doc)
-#, fuzzy
 msgid "Catalan Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(cecilia)
 msgid "Cecilia is a Tcl/Tk front-end for the Csound sound synthesis program."
@@ -746,16 +709,15 @@ msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-cn-zhengma-large)
 msgid "Cheng large character set table for Fcitx"
-msgstr "Fcitx 郑码大字符集码表"
+msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-cn-zhengma)
 msgid "Cheng table for Fcitx"
-msgstr "Fcitx 郑码码表"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-zh_TW)
-#, fuzzy
 msgid "Chinese Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. description(clanlib-doc)
 msgid "ClanLib delivers a platform-independent interface for writing games."
@@ -780,14 +742,12 @@ msgid "Code Coverage Tool"
 msgstr ""
 
 #. summary(cglib)
-#, fuzzy
 msgid "Code Generation Library"
-msgstr "SUSE 硬件检测"
+msgstr ""
 
 #. summary(ant-contrib)
-#, fuzzy
 msgid "Collection of tasks for Ant"
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. summary(collectl)
 msgid "Collects data that describes the current system status"
@@ -832,9 +792,8 @@ msgid ""
 msgstr ""
 
 #. summary(apache-commons-daemon:apache-commons-daemon-javadoc)
-#, fuzzy
 msgid "Commons Daemon Javadoc"
-msgstr "网卡"
+msgstr ""
 
 #. description(compizconfig-settings-manager)
 msgid "Compiz Config and Settings tool (CCSM)."
@@ -963,9 +922,8 @@ msgid "Cryptix ASN1 Implementation"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-cs)
-#, fuzzy
 msgid "Czech Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. description(dbus-1:dbus-1-devel-doc)
 msgid ""
@@ -1033,14 +991,12 @@ msgid "DOM Conformance Test Suite"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-da)
-#, fuzzy
 msgid "Danish Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-da-doc)
-#, fuzzy
 msgid "Danish Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(build-initvm:build-initvm-debuginfo-i586)
 msgid "Debug information for package build-initvm"
@@ -1059,64 +1015,52 @@ msgid ""
 msgstr ""
 
 #. summary(castor:castor-demo)
-#, fuzzy
 msgid "Demonstration and sample file for castor"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(bsh:bsh-demo)
-#, fuzzy
 msgid "Demonstration and sample files for bsh"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(aelfred:aelfred-demo)
-#, fuzzy
 msgid "Demonstrations and samples for aelfred."
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(bsh2:bsh2-demo)
-#, fuzzy
 msgid "Demonstrations and samples for bsh2."
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(dbus-1:dbus-1-devel-doc)
-#, fuzzy
 msgid "Developer documentation package for D-Bus"
-msgstr "Tcl/Tk 及其开发工具。"
+msgstr ""
 
 #. summary(dirac:dirac-devel-32bit)
-#, fuzzy
 msgid "Development Files for Dirac Video Codec"
-msgstr "Tcl/Tk 及其开发工具。"
+msgstr ""
 
 #. summary(aalib:aalib-devel-32bit)
-#, fuzzy
 msgid "Development Package for AAlib"
-msgstr "开发"
+msgstr ""
 
 #. summary(armadillo:armadillo-devel-32bit)
-#, fuzzy
 msgid "Development headers and documentation for the Armadillo C++ library"
-msgstr "Tcl/Tk 及其开发工具。"
+msgstr ""
 
 #. summary(device-mapper:device-mapper-devel-32bit)
-#, fuzzy
 msgid "Development package for the device mapper"
-msgstr "Tcl/Tk 及其开发工具。"
+msgstr ""
 
 #. description(cloog:cloog-devel-32bit)
-#, fuzzy
 msgid "Development tools and headers for the Chunky Loop Generator."
-msgstr "Tcl/Tk 及其开发工具。"
+msgstr ""
 
 #. summary(cloog:cloog-devel-32bit)
-#, fuzzy
 msgid "Development tools for CLOOG"
-msgstr "开发"
+msgstr ""
 
 #. summary(dirac:dirac-doc)
-#, fuzzy
 msgid "Dirac Video Codec api documentation"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(djvusmooth)
 msgid "DjVuSmooth is a graphical text editor for DjVu documents."
@@ -1160,48 +1104,40 @@ msgid "DocBook to LaTeX Publishing"
 msgstr ""
 
 #. summary(boinc-client:boinc-client-doc)
-#, fuzzy
 msgid "Documentation files for boinc-client"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(lapack:blas-man)
 msgid "Documentation for BLAS (Basic Linear Algebra Subprograms)"
 msgstr ""
 
 #. summary(libdb-4_8:db-doc)
-#, fuzzy
 msgid "Documentation for Berkeley DB"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(ckermit:ckermit-doc)
-#, fuzzy
 msgid "Documentation for CKermit"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(adaptx:adaptx-doc)
-#, fuzzy
 msgid "Documentation for adaptx"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(avalon-framework:avalon-framework-manual)
-#, fuzzy
 msgid "Documentation for avalon-framework."
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(bsh2:bsh2-manual)
-#, fuzzy
 msgid "Documentation for bsh2."
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(castor:castor-doc)
-#, fuzzy
 msgid "Documentation for castor"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(dpic:dpic-doc)
-#, fuzzy
 msgid "Documentation for dpic"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(libdb-4_5:db45-utils-doc)
 msgid ""
@@ -1209,29 +1145,24 @@ msgid ""
 msgstr ""
 
 #. summary(dbus-1-glib:dbus-1-glib-doc)
-#, fuzzy
 msgid "Documentation for the D-Bus/GLib bindings"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(calligra-doc)
-#, fuzzy
 msgid "Documentation of the Calligra Office Suite applications."
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(calligra-doc)
-#, fuzzy
 msgid "Documentation of the Calligra Suite"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-nl)
-#, fuzzy
 msgid "Dutch Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-nl-doc)
-#, fuzzy
 msgid "Dutch Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(dynamic-wallpapers-11x)
 msgid "Dynamic wallpapers for GNOME, from previous versions of openSUSE"
@@ -1253,14 +1184,12 @@ msgid ""
 msgstr ""
 
 #. summary(ecj)
-#, fuzzy
 msgid "Eclipse Compiler for Java"
-msgstr "C 和 C++ 开发工具。"
+msgstr ""
 
 #. summary(ecj-bootstrap)
-#, fuzzy
 msgid "Eclipse Java Compiler"
-msgstr "C 和 C++ 开发工具。"
+msgstr ""
 
 #. summary(euca2ools)
 msgid "Elastic Utility Computing Architecture Command Line Tools"
@@ -1276,12 +1205,11 @@ msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-emoji)
 msgid "Emoji table for Fcitx"
-msgstr "Fcitx 的颜文字码表"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-en_GB)
-#, fuzzy
 msgid "English (UK) Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. description(epiphany:epiphany-branding-upstream)
 msgid ""
@@ -1311,14 +1239,12 @@ msgid ""
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-et)
-#, fuzzy
 msgid "Estonian Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-et-doc)
-#, fuzzy
 msgid "Estonian Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(euca2ools)
 msgid ""
@@ -1330,12 +1256,11 @@ msgstr ""
 
 #. summary(fcitx:fcitx-table-cn-wanfeng)
 msgid "Evening Breeze(Wanfeng) table for fcitx"
-msgstr "Fcitx 的晚风码表"
+msgstr ""
 
 #. summary(asciidoc:asciidoc-examples)
-#, fuzzy
 msgid "Examples and Documents for asciidoc"
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(exmh)
 msgid ""
@@ -1354,29 +1279,24 @@ msgid "Extract appdata.xml from all .deskop files found in build root"
 msgstr ""
 
 #. summary(faenza-icon-theme)
-#, fuzzy
 msgid "Faenza Icon Theme"
-msgstr "氧气图标主题"
+msgstr ""
 
 #. summary(faenza-icon-theme:faenza-icon-theme-ambiance)
-#, fuzzy
 msgid "Faenza-Ambiance Icon Theme"
-msgstr "氧气图标主题"
+msgstr ""
 
 #. summary(faenza-icon-theme:faenza-icon-theme-dark)
-#, fuzzy
 msgid "Faenza-Dark Icon Theme"
-msgstr "氧气图标主题"
+msgstr ""
 
 #. summary(faenza-icon-theme:faenza-icon-theme-mint)
-#, fuzzy
 msgid "Faenza-Mint Icon Theme"
-msgstr "氧气图标主题"
+msgstr ""
 
 #. summary(faenza-icon-theme:faenza-icon-theme-radiance)
-#, fuzzy
 msgid "Faenza-Radiance Icon Theme"
-msgstr "氧气图标主题"
+msgstr ""
 
 #. description(fail2ban)
 msgid ""
@@ -1393,20 +1313,20 @@ msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-amharic)
 msgid "Fcitx Amharic table."
-msgstr "Fcitx 阿比西尼亚语码表。"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-arabic)
 msgid "Fcitx Arabic table."
-msgstr "Fcitx 阿拉伯语码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-cn-zhengma)
 msgid "Fcitx Cheng (Zheng Ma) table for Simplified Chinese."
-msgstr "Fcitx 简体中文郑码码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-cn-zhengma-large)
 msgid ""
 "Fcitx Cheng (Zheng Ma) table with large character set for Simplified Chinese."
-msgstr "Fcitx 简体中文郑码码表带大字符集支持。"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-cn-cns11643)
 msgid ""
@@ -1419,29 +1339,22 @@ msgid ""
 "\n"
 "If you don't know what it is, don't try. Actually no Chinese use it either."
 msgstr ""
-"Fcitx 简体中文国标 11643 码表。\n"
-"\n"
-"它也叫做中国标准交换码。它是 ASCII 的一个超集。\n"
-"\n"
-"详情参考 http://zh.wikipedia.org/wiki/中文標準交換碼。\n"
-"\n"
-"如果您不知道这是什么，请不要尝试。实际上也没有中国人用它。"
 
 #. summary(fcitx:fcitx-skin-classic)
 msgid "Fcitx Classic Skin"
-msgstr "Fcitx 经典皮肤"
+msgstr ""
 
 #. summary(fcitx:fcitx-skin-dark)
 msgid "Fcitx Dark Skin"
-msgstr "Fcitx 黑色皮肤"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-emoji)
 msgid "Fcitx Emoji (Emoticons) table."
-msgstr "Fcitx 颜文字码表。"
+msgstr ""
 
 #. description(fcitx:fcitx-table-cn-wanfeng)
 msgid "Fcitx Evening Breeze (Wan feng) input tables for Simplified Chinese."
-msgstr "Fcitx 简体中文晚风码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-cn-cantonese)
 msgid ""
@@ -1457,14 +1370,6 @@ msgid ""
 "\n"
 "If you don't know what it is, don't try."
 msgstr ""
-"Fcitx 简体中文广东话拼音码表。\n"
-"\n"
-"广东话拼音是一个码表输入法，它不是大陆使用的拼音输入法，而是香港，吉隆坡，悉尼，奥克兰，温哥华这些海外华人使用的衍生码表。该标准由广东省教育部在 1960 "
-"年代发布。\n"
-"\n"
-"详情参考：http://zh.wikipedia.org/wiki/廣東拼音方案\n"
-"\n"
-"如果你不知道这是什么，就不要试。"
 
 #. description(fcitx-table-extra:fcitx-table-hk-cantonese)
 msgid ""
@@ -1477,35 +1382,28 @@ msgid ""
 "\n"
 "If you don't know what it is, don't try."
 msgstr ""
-"Fcitx 繁体中文香港广东话拼音。\n"
-"\n"
-"这是标准广东话拼音的香港衍生版。\n"
-"\n"
-"详情参考：http://zh.wikipedia.org/wiki/廣東拼音方案\n"
-"\n"
-"如果您不知道这是什么，就不要试。"
 
 #. description(fcitx:fcitx-table-cn-bingchan)
 msgid ""
 "Fcitx Icefrog Holography (Bing Chan Quan Xi, or QXM) input tables for "
 "Simplified Chinese."
-msgstr "Fcitx 简体中文冰蟾全息（QXM）码表。"
+msgstr ""
 
 #. description(fcitx:fcitx-table-cn-ziran)
 msgid "Fcitx Nature (Zi Ran Ma) input tables for Simplified Chinese."
-msgstr "Fcitx 简体中文自然码码表。"
+msgstr ""
 
 #. description(fcitx:fcitx-table-cn-dianbao)
 msgid "Fcitx Telegram (Dian Bao) input tables for Simplified Chinese."
-msgstr "Fcitx 简体中文电报码码表。"
+msgstr ""
 
 #. description(fcitx:fcitx-table-cn-cangjie)
 msgid "Fcitx Tsang Jei (Cang Jie) input tables for Simplified Chinese."
-msgstr "Fcitx 简体中文仓颉码表。"
+msgstr ""
 
 #. description(fcitx:fcitx-table-cn-erbi)
 msgid "Fcitx Two Stroke (Er Bi) input tables for Simplified Chinese."
-msgstr "Fcitx 简体中文二笔码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-cn-wu)
 msgid ""
@@ -1518,13 +1416,6 @@ msgid ""
 "\n"
 "If you don't know what it is, don't try."
 msgstr ""
-"Fcitx 简体中文吴语码表。\n"
-"\n"
-"这不是五笔，而是上海话。\n"
-"\n"
-"吴语是在江南少数省份流通的一种方言。\n"
-"\n"
-"如果您不知道这是什么，就不要试。"
 
 #. description(fcitx:fcitx-table-cn-wubi-pinyin)
 msgid ""
@@ -1533,9 +1424,6 @@ msgid ""
 "\n"
 "Wubi in Fcitx is based on wubi x86."
 msgstr ""
-"Fcitx 简体中文五笔字型和拼音混合输入码表。\n"
-"\n"
-"Fcitx 中的五笔基于五笔 86。"
 
 #. description(fcitx:fcitx-table-cn-wubi)
 msgid ""
@@ -1543,9 +1431,6 @@ msgid ""
 "\n"
 "Wubi in Fcitx is based on wubi x86."
 msgstr ""
-"Fcitx 简体中文五笔字型码表。\n"
-"\n"
-"Fcitx 中的五笔基于五笔 86。"
 
 #. description(fcitx:fcitx-skin-classic)
 msgid ""
@@ -1554,10 +1439,6 @@ msgid ""
 "You can either use this package or download from kde-look.org using "
 "knewstaff in fcitx-config-kde4."
 msgstr ""
-"Fcitx 经典皮肤。\n"
-"\n"
-"您既可以使用此软件包，也可以使用 fcitx-config-kde4 软件包中的 knewstaff 从\n"
-"kde-look.org 下载。"
 
 #. description(fcitx:fcitx-skin-dark)
 msgid ""
@@ -1566,25 +1447,18 @@ msgid ""
 "You can either use this package for download from kde-look.org using "
 "knewstaff in fcitx-config-kde4."
 msgstr ""
-"Fcitx 黑色皮肤。\n"
-"\n"
-"您既可以使用此软件包，也可以使用 fcitx-config-kde4 软件包中的 knewstaff 从\n"
-"kde-look.org 下载。"
 
 #. description(aalib:aalib-devel-32bit)
-#, fuzzy
 msgid "Files needed for developing software that uses AAlib."
-msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+msgstr ""
 
 #. description(device-mapper:device-mapper-devel-32bit)
-#, fuzzy
 msgid "Files needed for software development using the device mapper"
-msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-fi)
-#, fuzzy
 msgid "Finnish Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. description(Crystalcursors)
 msgid ""
@@ -1602,14 +1476,12 @@ msgid "Free and Open Scalable Electronic Font"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-fr)
-#, fuzzy
 msgid "French Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-fr-doc)
-#, fuzzy
 msgid "French Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(exmh)
 msgid "Front-End for nmh Written in tcl/tk"
@@ -1663,81 +1535,68 @@ msgid "Generic Spell Checking Library - Zemberek Plugin"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-de)
-#, fuzzy
 msgid "German Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-de-doc)
-#, fuzzy
 msgid "German Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(dbus-sharp-glib:dbus-sharp-glib-devel)
-#, fuzzy
 msgid "Glib integration for DBus - development files"
-msgstr "开发"
+msgstr ""
 
 #. summary(epg)
-#, fuzzy
 msgid "GnuPG interface for Emacs"
-msgstr "内核接口"
+msgstr ""
 
 #. summary(ColPack:ColPack-devel-32bit)
-#, fuzzy
 msgid "Graph Coloring Library for C/C++ -- development files"
-msgstr "KDE 开发"
+msgstr ""
 
 #. summary(d-feet)
-#, fuzzy
 msgid "Graphical D-Bus Debugger"
-msgstr "在文件管理器中打开"
+msgstr ""
 
 #. summary(djvusmooth)
-#, fuzzy
 msgid "Graphical Text Editor for DjVu"
-msgstr "输入抽象层 的用户界面"
+msgstr ""
 
 #. summary(espeak-gui)
-#, fuzzy
 msgid "Graphical User Interface for eSpeak"
-msgstr "输入抽象层 的用户界面"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-el)
-#, fuzzy
 msgid "Greek Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(ack)
 msgid "Grep-Like Text Finder"
 msgstr ""
 
 #. summary(cppdb:cppdb-doc)
-#, fuzzy
 msgid "HTML documentation for CppDB"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(boost:boost-doc-html)
-#, fuzzy
 msgid "HTML documentation for the Boost C++ Libraries"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(cracklib:cracklib-devel-32bit)
-#, fuzzy
 msgid "Header files and libraries for developing apps which will use CrackLib"
-msgstr "Tcl/Tk 及其开发工具。"
+msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-hk-cantonese)
 msgid "Hong Kong Guongdonkwa Penkyampji table for Fcitx"
-msgstr "Fcitx 香港广东话拼音码表"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-hu)
-#, fuzzy
 msgid "Hungarian Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(fcitx:fcitx-table-cn-bingchan)
 msgid "Icefrog Holography(QXM) table for fcitx"
-msgstr "Fcitx 冰蟾全息码表"
+msgstr ""
 
 #. description(beansbinding)
 msgid ""
@@ -1748,18 +1607,16 @@ msgid ""
 msgstr ""
 
 #. summary(ccaudio2:ccaudio2-devel-32bit)
-#, fuzzy
 msgid "Include-files and development files for ccaudio"
-msgstr "Tcl/Tk 及其开发工具。"
+msgstr ""
 
 #. summary(cpmono_v07-fonts)
 msgid "Industrial Monotype Font"
 msgstr ""
 
 #. summary(cvs:cvs-doc)
-#, fuzzy
 msgid "Info pages and Open Source Development with CVS, 2nd Edition Book"
-msgstr "使用 CVS 第 2 版打开源代码开发"
+msgstr ""
 
 #. description(cvs:cvs-doc)
 msgid ""
@@ -1768,14 +1625,12 @@ msgid ""
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-it)
-#, fuzzy
 msgid "Italian Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-it-doc)
-#, fuzzy
 msgid "Italian Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(alsa-plugins:alsa-plugins-jack-32bit)
 msgid "JACK I/O Plug-In for the ALSA Library"
@@ -1803,9 +1658,8 @@ msgid ""
 msgstr ""
 
 #. description(cryptix-asn1)
-#, fuzzy
 msgid "Java asn1 implementation for Cryptix."
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(asm)
 msgid "Java bytecode manipulation framework"
@@ -1840,19 +1694,16 @@ msgid "Java-based dependency manager"
 msgstr ""
 
 #. description(apache-ivy:apache-ivy-javadoc)
-#, fuzzy
 msgid "JavaDoc documentation for apache-ivy"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(cryptix-asn1:cryptix-asn1-javadoc)
-#, fuzzy
 msgid "Javadoc documentation for the asn1 implementation for Cryptix."
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(adaptx:adaptx-javadoc)
-#, fuzzy
 msgid "Javadoc for adaptx"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(aelfred:aelfred-javadoc)
 msgid "Javadoc for aelfred."
@@ -1867,9 +1718,8 @@ msgid "Javadoc for apache-commons-codec."
 msgstr ""
 
 #. description(asm:asm-javadoc)
-#, fuzzy
 msgid "Javadoc for asm."
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(avalon-framework:avalon-framework-javadoc)
 msgid "Javadoc for avalon-framework"
@@ -1888,37 +1738,32 @@ msgid "Javadoc for bcel5_3"
 msgstr ""
 
 #. summary(bea-stax:bea-stax-javadoc)
-#, fuzzy
 msgid "Javadoc for bea-stax"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(bouncycastle:bouncycastle-javadoc)
 msgid "Javadoc for bouncycastle"
 msgstr ""
 
 #. summary(bsf:bsf-javadoc)
-#, fuzzy
 msgid "Javadoc for bsf"
-msgstr "手动方式"
+msgstr ""
 
 #. summary(bsh:bsh-javadoc)
-#, fuzzy
 msgid "Javadoc for bsh"
-msgstr "手动方式"
+msgstr ""
 
 #. description(bsh2:bsh2-javadoc)
-#, fuzzy
 msgid "Javadoc for bsh2."
-msgstr "手动方式"
+msgstr ""
 
 #. summary(cal10n:cal10n-javadoc)
 msgid "Javadoc for cal10n"
 msgstr ""
 
 #. summary(castor:castor-javadoc)
-#, fuzzy
 msgid "Javadoc for castor"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(classworlds:classworlds-javadoc)
 msgid "Javadoc for classworlds"
@@ -1959,183 +1804,148 @@ msgid "KDE/Oxygen icons for Apache 2."
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-kk)
-#, fuzzy
 msgid "Kazakh Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(cloop:cloop-kmp-pae)
-#, fuzzy
 msgid "Kernel modules for cloop"
-msgstr "内核模块（硬件驱动程序）"
+msgstr ""
 
 #. summary(doc-gnu-ko)
-#, fuzzy
 msgid "Korean Translations of GNU Manuals"
-msgstr "北马里亚纳群岛"
+msgstr ""
 
 #. description(doc-gnu-ko)
-#, fuzzy
 msgid "Korean translations of GNU manuals."
-msgstr "北马里亚纳群岛"
+msgstr ""
 
 #. summary(alarm-clock-applet:alarm-clock-applet-lang)
-#, fuzzy
 msgid "Languages for package alarm-clock-applet"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(almanah:almanah-lang)
-#, fuzzy
 msgid "Languages for package almanah"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(arista:arista-lang)
-#, fuzzy
 msgid "Languages for package arista"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(audio-recorder:audio-recorder-lang)
-#, fuzzy
 msgid "Languages for package audio-recorder"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(balsa:balsa-lang)
-#, fuzzy
 msgid "Languages for package balsa"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(banshee-community-extensions:banshee-community-extensions-common-lang)
-#, fuzzy
 msgid "Languages for package banshee-community-extensions"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(banshee-doubanfm:banshee-extension-doubanfm-lang)
-#, fuzzy
 msgid "Languages for package banshee-doubanfm"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(bleachbit:bleachbit-lang)
-#, fuzzy
 msgid "Languages for package bleachbit"
-msgstr "软件包 libwebkit 的语言文件"
+msgstr ""
 
 #. summary(blueproximity:blueproximity-lang)
-#, fuzzy
 msgid "Languages for package blueproximity"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(boinc-client:boinc-client-lang)
-#, fuzzy
 msgid "Languages for package boinc-client"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(byzanz:byzanz-lang)
-#, fuzzy
 msgid "Languages for package byzanz"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(caffeine:caffeine-lang)
-#, fuzzy
 msgid "Languages for package caffeine"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(cherrytree:cherrytree-lang)
-#, fuzzy
 msgid "Languages for package cherrytree"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(claws-mail-extra-plugins:claws-mail-extra-plugins-lang)
-#, fuzzy
 msgid "Languages for package claws-mail-extra-plugins"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(colorhug-client:colorhug-client-lang)
-#, fuzzy
 msgid "Languages for package colorhug-client"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(comix:comix-lang)
-#, fuzzy
 msgid "Languages for package comix"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(computertemp:computertemp-lang)
-#, fuzzy
 msgid "Languages for package computertemp"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(conglomerate:conglomerate-lang)
-#, fuzzy
 msgid "Languages for package conglomerate"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(deb:deb-lang)
-#, fuzzy
 msgid "Languages for package deb"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(decibel-audio-player:decibel-audio-player-lang)
-#, fuzzy
 msgid "Languages for package decibel-audio-player"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(deepin-ui:deepin-ui-lang)
-#, fuzzy
 msgid "Languages for package deepin-ui"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(devilspie:devilspie-lang)
-#, fuzzy
 msgid "Languages for package devilspie"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(djvusmooth:djvusmooth-lang)
-#, fuzzy
 msgid "Languages for package djvusmooth"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(docky:docky-lang)
-#, fuzzy
 msgid "Languages for package docky"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(drwright:drwright-lang)
-#, fuzzy
 msgid "Languages for package drwright"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(eiciel:eiciel-lang)
-#, fuzzy
 msgid "Languages for package eiciel"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(emerillon:emerillon-lang)
-#, fuzzy
 msgid "Languages for package emerillon"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(espeak-gui:espeak-gui-lang)
-#, fuzzy
 msgid "Languages for package espeak-gui"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(evolution-rss:evolution-plugin-rss-lang)
-#, fuzzy
 msgid "Languages for package evolution-rss"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(exiv2:exiv2-lang)
-#, fuzzy
 msgid "Languages for package exiv2"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(ctan-latinmodern-fonts)
 msgid "Latin Modern Fonts from CTAN/GUST"
 msgstr ""
 
 #. summary(compat)
-#, fuzzy
 msgid "Libraries from Compatibility Versions"
-msgstr "其它兼容性选项"
+msgstr ""
 
 #. summary(bsh)
 msgid "Lightweight Scripting for Java"
@@ -2183,38 +1993,32 @@ msgid ""
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-nds)
-#, fuzzy
 msgid "Low Saxon Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(alsa-plugins:alsa-plugins-maemo-32bit)
 msgid "Maemo Plug-Ins for the ALSA Library"
 msgstr ""
 
 #. summary(boost:boost-doc-man)
-#, fuzzy
 msgid "Man documentation for the Boost C++ Libraries"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(avalon-framework:avalon-framework-manual)
-#, fuzzy
 msgid "Manual for avalon-framework"
-msgstr "手动方式"
+msgstr ""
 
 #. summary(axis:axis-manual)
-#, fuzzy
 msgid "Manual for axis"
-msgstr "手动方式"
+msgstr ""
 
 #. summary(bsh:bsh-manual)
-#, fuzzy
 msgid "Manual for bsh"
-msgstr "手动方式"
+msgstr ""
 
 #. summary(arts:arts-32bit)
-#, fuzzy
 msgid "Modular Software Synthesizer"
-msgstr "Linux 实时软件合成器"
+msgstr ""
 
 #. summary(Crystalcursors)
 msgid "Mouse Cursors in Crystal Icon Style"
@@ -2222,12 +2026,11 @@ msgstr ""
 
 #. summary(fcitx:fcitx-table-cn-ziran)
 msgid "Nature(Ziran) table for fcitx"
-msgstr "Fcitx 自然码码表"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-nb)
-#, fuzzy
 msgid "Norwegian (Bokmaal) Translations for Calligra Suite Applications"
-msgstr "北马里亚纳群岛"
+msgstr ""
 
 #. summary(dita)
 msgid "OASIS Darwin Information Typing Architecture (DITA)"
@@ -2260,46 +2063,40 @@ msgid "Oxygen icons for Apache 2"
 msgstr ""
 
 #. summary(boost:boost-doc-pdf)
-#, fuzzy
 msgid "PDF documentation for the Boost C++ Libraries"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(cyrus-sasl:cyrus-sasl-otp-32bit)
 msgid "Plugin for the OTP SASL mechanism"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-pl)
-#, fuzzy
 msgid "Polish Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(apache-portlet-1_0-api)
 msgid "Portlet API 1.0 from Jetspeed2"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-pt)
-#, fuzzy
 msgid "Portuguese Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-pt-doc)
-#, fuzzy
 msgid "Portuguese Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(cmpi-pywbem-power-management)
-#, fuzzy
 msgid "Power Management Providers"
-msgstr "电源管理 (APM)"
+msgstr ""
 
 #. description(cmpi-pywbem-power-management)
 msgid "Power Management Providers based on DSP1027."
 msgstr ""
 
 #. summary(arista)
-#, fuzzy
 msgid "Preset-based transcoder for the GNOME Desktop"
-msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+msgstr ""
 
 #. summary(bash-completion)
 msgid "Programmable Completion for Bash"
@@ -2314,168 +2111,136 @@ msgid ""
 msgstr ""
 
 #. description(alarm-clock-applet:alarm-clock-applet-lang)
-#, fuzzy
 msgid "Provides translations to the package alarm-clock-applet"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(almanah:almanah-lang)
-#, fuzzy
 msgid "Provides translations to the package almanah"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(arista:arista-lang)
-#, fuzzy
 msgid "Provides translations to the package arista"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(audio-recorder:audio-recorder-lang)
-#, fuzzy
 msgid "Provides translations to the package audio-recorder"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(balsa:balsa-lang)
-#, fuzzy
 msgid "Provides translations to the package balsa"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(banshee-community-extensions:banshee-community-extensions-common-lang)
-#, fuzzy
 msgid "Provides translations to the package banshee-community-extensions"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(banshee-doubanfm:banshee-extension-doubanfm-lang)
-#, fuzzy
 msgid "Provides translations to the package banshee-doubanfm"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(bleachbit:bleachbit-lang)
-#, fuzzy
 msgid "Provides translations to the package bleachbit"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(blueproximity:blueproximity-lang)
-#, fuzzy
 msgid "Provides translations to the package blueproximity"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(boinc-client:boinc-client-lang)
-#, fuzzy
 msgid "Provides translations to the package boinc-client"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(byzanz:byzanz-lang)
-#, fuzzy
 msgid "Provides translations to the package byzanz"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(caffeine:caffeine-lang)
-#, fuzzy
 msgid "Provides translations to the package caffeine"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(cherrytree:cherrytree-lang)
-#, fuzzy
 msgid "Provides translations to the package cherrytree"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(claws-mail-extra-plugins:claws-mail-extra-plugins-lang)
-#, fuzzy
 msgid "Provides translations to the package claws-mail-extra-plugins"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(colorhug-client:colorhug-client-lang)
-#, fuzzy
 msgid "Provides translations to the package colorhug-client"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(comix:comix-lang)
-#, fuzzy
 msgid "Provides translations to the package comix"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(computertemp:computertemp-lang)
-#, fuzzy
 msgid "Provides translations to the package computertemp"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(conglomerate:conglomerate-lang)
-#, fuzzy
 msgid "Provides translations to the package conglomerate"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(deb:deb-lang)
-#, fuzzy
 msgid "Provides translations to the package deb"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(decibel-audio-player:decibel-audio-player-lang)
-#, fuzzy
 msgid "Provides translations to the package decibel-audio-player"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(deepin-ui:deepin-ui-lang)
-#, fuzzy
 msgid "Provides translations to the package deepin-ui"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(devilspie:devilspie-lang)
-#, fuzzy
 msgid "Provides translations to the package devilspie"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(djvusmooth:djvusmooth-lang)
-#, fuzzy
 msgid "Provides translations to the package djvusmooth"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(docky:docky-lang)
-#, fuzzy
 msgid "Provides translations to the package docky"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(drwright:drwright-lang)
-#, fuzzy
 msgid "Provides translations to the package drwright"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(eiciel:eiciel-lang)
-#, fuzzy
 msgid "Provides translations to the package eiciel"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(emerillon:emerillon-lang)
-#, fuzzy
 msgid "Provides translations to the package emerillon"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(espeak-gui:espeak-gui-lang)
-#, fuzzy
 msgid "Provides translations to the package espeak-gui"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(evolution-rss:evolution-plugin-rss-lang)
-#, fuzzy
 msgid "Provides translations to the package evolution-rss"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(exiv2:exiv2-lang)
-#, fuzzy
 msgid "Provides translations to the package exiv2"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(eric5)
 msgid "Python IDE based on Qt4"
 msgstr ""
 
 #. summary(dbus-1-qt3:dbus-1-qt3-32bit)
-#, fuzzy
 msgid "QT3/KDE bindings for D-Bus"
-msgstr "电源管理 (APM)"
+msgstr ""
 
 #. description(dbus-1-qt3:dbus-1-qt3-32bit)
-#, fuzzy
 msgid "QT3/KDE bindings for D-Bus."
-msgstr "电源管理 (APM)"
+msgstr ""
 
 #. summary(bleachbit)
 msgid "Remove Unnecessary Files, Free Space, and Maintain Privacy"
@@ -2499,14 +2264,12 @@ msgid "Roguelike dungeon exploration game (Data files)"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-ru)
-#, fuzzy
 msgid "Russian Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-ru-doc)
-#, fuzzy
 msgid "Russian Translations for Calligra Suite Manuals"
-msgstr "俄联邦"
+msgstr ""
 
 #. summary(cyrus-sasl-saslauthd:cyrus-sasl-sqlauxprop-32bit)
 msgid "SQL auxprop plugin for cyrus-sasl"
@@ -2549,23 +2312,20 @@ msgid "Shared graphics resources from the create freedesktop.org project"
 msgstr ""
 
 #. summary(docbook-simple)
-#, fuzzy
 msgid "Simple DocBook DTD and Documentation"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-zh_CN)
-#, fuzzy
 msgid "Simplified Chinese Translations for Calligra Suite Applications"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(fcitx:fcitx-table-cn-cangjie)
 msgid "Simplified Chinese Tsang-Jei(Cangjie) table for fcitx"
-msgstr "Fcitx 简体中文仓颉码表"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-sk)
-#, fuzzy
 msgid "Slovak Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(docbook-utils)
 msgid "Small Wrapper Scripts for Processing DocBook Files"
@@ -2580,18 +2340,16 @@ msgid "Source code of beanshell used for build of jEdit."
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-es)
-#, fuzzy
 msgid "Spanish Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-es-doc)
-#, fuzzy
 msgid "Spanish Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-cn-cantonese)
 msgid "Standard Guongdonkwa Penkyampji table for Fcitx"
-msgstr "Fcitx 标准广东话拼音码表"
+msgstr ""
 
 #. description(bea-stax:bea-stax-javadoc)
 msgid ""
@@ -2611,28 +2369,24 @@ msgid "SuSE Brand File Supplementing Upstream Look and Feel"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-sv)
-#, fuzzy
 msgid "Swedish Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-sv-doc)
-#, fuzzy
 msgid "Swedish Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(appframework)
-#, fuzzy
 msgid "Swing Application Framework"
-msgstr "应用程序浏览器"
+msgstr ""
 
 #. summary(cecilia)
-#, fuzzy
 msgid "Tcl/Tk Front-End for Csound"
-msgstr "卡的监视器"
+msgstr ""
 
 #. summary(fcitx:fcitx-table-cn-dianbao)
 msgid "Telegram(Dianbao) table for fcitx"
-msgstr "Fcitx 电报码码表"
+msgstr ""
 
 #. summary(ant-antlr:ant-testutil)
 msgid "Test utility classes for ant"
@@ -2643,14 +2397,12 @@ msgid "Test utility tasks for ant-antlr."
 msgstr ""
 
 #. summary(castor:castor-test)
-#, fuzzy
 msgid "Tests for castor"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(asciidoc)
-#, fuzzy
 msgid "Text-Based Document Generation"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(ant-contrib)
 msgid ""
@@ -2773,9 +2525,8 @@ msgid ""
 msgstr ""
 
 #. description(apache-commons-daemon:apache-commons-daemon-javadoc)
-#, fuzzy
 msgid "The Javadoc Documentation for Commons Daemon."
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(cyrus-sasl-saslauthd:cyrus-sasl-ldap-auxprop-32bit)
 msgid ""
@@ -2832,14 +2583,12 @@ msgid ""
 msgstr ""
 
 #. summary(bzip2:bzip2-doc)
-#, fuzzy
 msgid "The bzip2 program and Library Documentation"
-msgstr "帮助和支持文档"
+msgstr ""
 
 #. description(bzip2:bzip2-doc)
-#, fuzzy
 msgid "The bzip2 program and library documentation."
-msgstr "帮助和支持文档"
+msgstr ""
 
 #. description(compcache)
 msgid ""
@@ -2929,9 +2678,8 @@ msgid ""
 msgstr ""
 
 #. description(bitstream-vera-fonts)
-#, fuzzy
 msgid "The package contains the \"Vera\" truetype fonts from Bitstream Inc."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(apache-commons-beanutils:apache-commons-beanutils-javadoc)
 msgid ""
@@ -3019,9 +2767,8 @@ msgid ""
 msgstr ""
 
 #. description(bootsplash-branding-upstream:bootsplash-branding-KDE)
-#, fuzzy
 msgid "This package contains a KDE branded theme."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(clamav:clamav-db)
 msgid ""
@@ -3031,281 +2778,238 @@ msgid ""
 msgstr ""
 
 #. description(bootsplash-branding-upstream)
-#, fuzzy
 msgid "This package contains a theme without trademarked logos."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(atk:atk-doc)
-#, fuzzy
 msgid "This package contains additional documentation for the ATK Library."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(desktop-data-openSUSE:desktop-data-openSUSE-extra)
-#, fuzzy
 msgid "This package contains additional wallpapers."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-pt_BR-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Brazil Portuguese."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-ca-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Catalan."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-da-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Danish."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-nl-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Dutch."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-et-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Estonian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-fr-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "French."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-de-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "German."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-it-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Italian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-pt-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Portuguese."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-ru-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Russian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-es-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Spanish."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-sv-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Swedish."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-uk-doc)
-#, fuzzy
 msgid ""
 "This package contains application manuals translations for Calligra Suite in "
 "Ukrainian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-pt_BR)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Brazil "
 "Portuguese."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-ca)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Catalan."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-zh_TW)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Chinese."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-cs)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Czech."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-da)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Danish."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-nl)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Dutch."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-en_GB)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in English "
 "(UK)."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-et)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in "
 "Estonian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-fi)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Finnish."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-fr)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in French."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-de)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in German."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-el)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Greek."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-hu)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in "
 "Hungarian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-it)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Italian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-kk)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Kazakh."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-nds)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Low "
 "Saxon."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-nb)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in "
 "Norwegian (Bokmaal)."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-pl)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Polish."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-pt)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in "
 "Portuguese."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-ru)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Russian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-zh_CN)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in "
 "Simplified Chinese."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-sk)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Slovak."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-es)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Spanish."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-sv)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in Swedish."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-uk)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in "
 "Ukrainian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-ca@valencia)
-#, fuzzy
 msgid ""
 "This package contains application translations for Calligra Suite in "
 "Valencian."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(boinc-client:boinc-client-doc)
-#, fuzzy
 msgid "This package contains documentation files for boinc-client."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(dynamic-wallpapers-11x)
 msgid ""
@@ -3317,16 +3021,14 @@ msgid ""
 msgstr ""
 
 #. description(asciidoc:asciidoc-examples)
-#, fuzzy
 msgid "This package contains examples and documetns of asciidoc."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(build-compare)
-#, fuzzy
 msgid ""
 "This package contains scripts to find out if the build result differs to a "
 "former build."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(books)
 msgid ""
@@ -3352,17 +3054,15 @@ msgid ""
 msgstr ""
 
 #. description(alsa-plugins:alsa-plugins-maemo-32bit)
-#, fuzzy
 msgid ""
 "This package contains the ALSA-library plug-ins using maemo SDK for Nokia "
 "770."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(i4l-base:capi4linux-devel-32bit)
-#, fuzzy
 msgid ""
 "This package contains the CAPI 2.0 library files needed for development."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(i4l-base:capi4linux-32bit)
 msgid ""
@@ -3373,21 +3073,18 @@ msgid ""
 msgstr ""
 
 #. description(dita)
-#, fuzzy
 msgid "This package contains the DITA specifications, DTDs, and schemas."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(alsa-plugins:alsa-plugins-jack-32bit)
-#, fuzzy
 msgid ""
 "This package contains the JACK (Jack Audio Connection Kit) I/O plug-in for "
 "the ALSA library."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(docbook-simple)
-#, fuzzy
 msgid "This package contains the Simple DocBook DTD."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(elib)
 msgid ""
@@ -3405,35 +3102,30 @@ msgid ""
 msgstr ""
 
 #. description(ckermit:ckermit-doc)
-#, fuzzy
 msgid "This package contains the documentation and manual pages for ckermit"
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(adaptx:adaptx-doc)
-#, fuzzy
 msgid "This package contains the documentation for AdaptX."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(boost:boost-doc-man)
-#, fuzzy
 msgid ""
 "This package contains the documentation of the boost dynamic libraries as "
 "man pages."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(boost:boost-doc-html)
-#, fuzzy
 msgid ""
 "This package contains the documentation of the boost dynamic libraries in "
 "HTML format."
-msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+msgstr ""
 
 #. description(boost:boost-doc-pdf)
-#, fuzzy
 msgid ""
 "This package contains the documentation of the boost dynamic libraries in "
 "PDF format."
-msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+msgstr ""
 
 #. description(branding-upstream)
 msgid ""
@@ -3446,9 +3138,8 @@ msgid ""
 msgstr ""
 
 #. description(adaptx:adaptx-javadoc)
-#, fuzzy
 msgid "This package contains the javadoc documentation for AdaptX."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(bcel:bcel-javadoc)
 msgid ""
@@ -3477,32 +3168,28 @@ msgid ""
 msgstr ""
 
 #. description(build-mkbaselibs-sle)
-#, fuzzy
 msgid ""
 "This package contains the parts which may be installed in the inner build "
 "system for generating base lib packages.\n"
 "\n"
 "This is the SLE variant including IA64 binary generation."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(ca-certificates-cacert)
-#, fuzzy
 msgid "This package contains the root certificates from cacert.org"
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(alsa-plugins:alsa-plugins-samplerate-32bit)
-#, fuzzy
 msgid ""
 "This package contains the sample rate converter plugin for the ALSA library "
 "using libsamplerate."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(build-initvm:build-initvm-i586)
-#, fuzzy
 msgid ""
 "This package provides a script for building RPMs for SUSE Linux in a chroot "
 "or a secure virtualized environment."
-msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+msgstr ""
 
 #. description(ColPack:ColPack-devel-32bit)
 msgid ""
@@ -3523,17 +3210,15 @@ msgid ""
 msgstr ""
 
 #. description(dbus-sharp-glib:dbus-sharp-glib-devel)
-#, fuzzy
 msgid ""
 "This package provides glib integration for Mono.DBus - Development files."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(ccaudio2:ccaudio2-devel-32bit)
-#, fuzzy
 msgid ""
 "This package provides header and support files for building applications "
 "that use GNU ccAudio."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(concurrent)
 msgid ""
@@ -3558,16 +3243,14 @@ msgid ""
 msgstr ""
 
 #. description(dirac:dirac-doc)
-#, fuzzy
 msgid ""
 "This package provides the api reference documentation for using dirac "
 "libraries in your program."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(exo:exo-branding-upstream)
-#, fuzzy
 msgid "This package provides the upstream look and feel for the exo library."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(cpufrequtils:cpufrequtils-32bit)
 msgid ""
@@ -3587,18 +3270,16 @@ msgid "Tool for Checking /bin/sh Scripts for Possible Bashisms"
 msgstr ""
 
 #. summary(epydoc)
-#, fuzzy
 msgid "Tool for Generating Python API Documentation"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(cpufrequtils:cpufrequtils-32bit)
 msgid "Tools to Determine and Set CPUfreq Settings"
 msgstr ""
 
 #. summary(update-desktop-files:brp-trim-desktopfiles)
-#, fuzzy
 msgid "Trim translations from .deskop files"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(update-desktop-files:brp-trim-desktopfiles)
 msgid "Trim translations from all .deskop files found in build root"
@@ -3606,17 +3287,15 @@ msgstr ""
 
 #. summary(fcitx:fcitx-table-cn-erbi)
 msgid "Two stroke(Erbi) table for fcitx"
-msgstr "Fcitx 二笔码表"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-uk)
-#, fuzzy
 msgid "Ukrainian Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-uk-doc)
-#, fuzzy
 msgid "Ukrainian Translations for Calligra Suite Manuals"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(bootsplash-branding-upstream)
 msgid "Unbranded Bootsplash Theme"
@@ -3638,9 +3317,8 @@ msgid ""
 msgstr ""
 
 #. summary(exo:exo-branding-upstream)
-#, fuzzy
 msgid "Upstream Branding of exo"
-msgstr "电源管理 (APM)"
+msgstr ""
 
 #. summary(ecryptfs-utils:ecryptfs-utils-32bit)
 msgid "Userspace Utilities for ecryptfs"
@@ -3670,14 +3348,12 @@ msgid "Utility to track where you spend your time -- Docky integration"
 msgstr ""
 
 #. summary(calligra-l10n:calligra-l10n-ca@valencia)
-#, fuzzy
 msgid "Valencian Translations for Calligra Suite Applications"
-msgstr "应用程序"
+msgstr ""
 
 #. summary(clamav:clamav-db)
-#, fuzzy
 msgid "Virus Database for ClamAV"
-msgstr "数据库已损坏"
+msgstr ""
 
 #. summary(audit-visualize)
 msgid "Visualization tools for the audit subsystem"
@@ -3698,33 +3374,31 @@ msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-cn-wu)
 msgid "Wu table for Fcitx"
-msgstr "Fcitx 吴语码表"
+msgstr ""
 
 #. summary(fcitx:fcitx-table-cn-wubi-pinyin)
 msgid "Wubi and pinyin(wubi-pinyin) table for fcitx"
-msgstr "Fcitx 五笔拼音码表"
+msgstr ""
 
 #. summary(fcitx:fcitx-table-cn-wubi)
 msgid "Wubi table for fcitx"
-msgstr "Fcitx 五笔码表"
+msgstr ""
 
 #. summary(blueprint-cursor-theme)
 msgid "X Window System Cursors for the Blue Print Theme"
 msgstr ""
 
 #. summary(castor:castor-xml)
-#, fuzzy
 msgid "XML support for castor"
-msgstr "找不到 Xscreensaver。"
+msgstr ""
 
 #. summary(dom4j:dom4j-demo)
 msgid "XML, XPath and XSLT library for Java"
 msgstr ""
 
 #. summary(adaptx)
-#, fuzzy
 msgid "XSLT Processor Written in Java"
-msgstr "处理器"
+msgstr ""
 
 #. description(enchant:enchant-zemberek-32bit)
 msgid ""
@@ -3870,88 +3544,8 @@ msgstr ""
 msgid ""
 "espeak-gui provides a simple graphical user interface for the eSpeak speech "
 "synthesizer."
-msgstr "espeak-gui 为 eSpeak 语音合成器提供了一个简单的图形用户界面。"
+msgstr ""
 
 #. description(calligra-l10n:calligra-l10n-ja)
 msgid "ja"
 msgstr ""
-
-#~ msgid "A fork of ibus-table-others for Fcitx"
-#~ msgstr "ibus-table-others 在 Fcitx 输入法框架上的分支"
-
-#, fuzzy
-#~ msgid "API documentation for ffado"
-#~ msgstr "7.0 文档"
-
-#, fuzzy
-#~ msgid "An Emacs Library for MIME"
-#~ msgstr "正在创建资源数据库"
-
-#, fuzzy
-#~ msgid "Check File System Usage"
-#~ msgstr "救援系统"
-
-#, fuzzy
-#~ msgid "Development files for Flickr.Net"
-#~ msgstr "Tcl/Tk 及其开发工具。"
-
-#, fuzzy
-#~ msgid "DocBook: The Definitive Guide"
-#~ msgstr "DocBook - 权威的指南"
-
-#, fuzzy
-#~ msgid "Documentation for Firebird SQL server"
-#~ msgstr "7.0 文档"
-
-#, fuzzy
-#~ msgid "Documents for findbugs"
-#~ msgstr "7.0 文档"
-
-#~ msgid ""
-#~ "Fcitx-table-extra provides extra table for Fcitx, including Boshiamy, "
-#~ "Zhengma, and Cangjie 3/5.\n"
-#~ "\n"
-#~ "Boshiamy table and its icon are released under their own license."
-#~ msgstr ""
-#~ "fcitx-table-extra 为 Fcitx 输入法框架提供了额外的码表，包括無暇米，郑码和"
-#~ "仓颉 3/5。\n"
-#~ "\n"
-#~ "無暇米码表和它的图标按照其自有协议发布。"
-
-#~ msgid ""
-#~ "Fcitx-table-other is a fork of ibus-table-others for Fcitx. provides "
-#~ "additional tables."
-#~ msgstr ""
-#~ "fcitx-table-other 是 ibus-table-others 在 Fcitx 输入法框架上的一个分支。提"
-#~ "供了一些额外码表。"
-
-#, fuzzy
-#~ msgid "Languages for package akonadi-google"
-#~ msgstr "语言：     "
-
-#, fuzzy
-#~ msgid "Languages for package evolution-ews"
-#~ msgstr "语言：     "
-
-#, fuzzy
-#~ msgid "Languages for package filezilla"
-#~ msgstr "语言：     "
-
-#, fuzzy
-#~ msgid "Provides translations to the package akonadi-google"
-#~ msgstr "等待导航栏应用程序"
-
-#, fuzzy
-#~ msgid "Provides translations to the package evolution-ews"
-#~ msgstr "等待导航栏应用程序"
-
-#, fuzzy
-#~ msgid "Provides translations to the package filezilla"
-#~ msgstr "等待导航栏应用程序"
-
-#, fuzzy
-#~ msgid "This package contains the libffado API documentation."
-#~ msgstr "包中含有意外的版本"
-
-#~ msgid "edict.el, an Emacs Front-End for EDICT"
-#~ msgstr "edict.el，一个 EDICT 的 Emacs 前端"

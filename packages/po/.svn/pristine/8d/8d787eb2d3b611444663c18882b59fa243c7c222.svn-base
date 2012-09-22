@@ -1,0 +1,3821 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2012-09-22 03:38:09\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. summary(libotr:libotr2)
+msgid "\"Off The Record\" messaging library toolkit"
+msgstr ""
+
+#. description(liboldX:liboldX-devel)
+#, fuzzy
+msgid ""
+"(Upstream has not provided a description)\n"
+"\n"
+"This package contains the development headers for the library found in "
+"liboldX6."
+msgstr "包中含有意外的版本"
+
+#. summary(libnet:libnet1)
+msgid "A C Library for Portable Packet Creation"
+msgstr ""
+
+#. description(lightdm:liblightdm-gobject-1-0)
+msgid ""
+"A GObject-based library for LightDM clients to use to interface with LightDM."
+msgstr ""
+
+#. summary(gtk-vnc2:libgtk-vnc-1_0-0)
+msgid "A GTK widget for VNC clients"
+msgstr ""
+
+#. summary(librsync:librsync1)
+msgid "A Library for Generating Network Deltas"
+msgstr ""
+
+#. summary(mono-core:libmono-2_0-1)
+#, fuzzy
+msgid "A Library for embedding Mono in your Application"
+msgstr "起动应用程序"
+
+#. summary(lpsolve:liblpsolve55)
+msgid "A Mixed Integer Linear Programming (MILP) Solver Library"
+msgstr ""
+
+#. summary(libopensync)
+msgid "A Platform and Distribution Independent Synchronization Framework"
+msgstr ""
+
+#. summary(goocanvas:libgoocanvas-2_0-9)
+msgid "A cairo-based canvas widget for GTK+"
+msgstr ""
+
+#. description(libreoffice-templates-ru)
+msgid ""
+"A collection of Russian templates for LibreOffice. Collected by EGD <egd dot "
+"free at gmail dot com>"
+msgstr ""
+
+#. description(libreoffice-templates-en)
+#, fuzzy
+msgid "A collection of english templates for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-templates-de)
+#, fuzzy
+msgid "A compilation of German templates for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(podofo:libpodofo0_9_1)
+#, fuzzy
+msgid "A cross platform PDF parsing and creation library."
+msgstr "加密"
+
+#. summary(libgooglepinyin:libgooglepinyin0)
+msgid "A fork from googlepinyin on android"
+msgstr ""
+
+#. description(netcontrol:libnetcontrol0)
+msgid ""
+"A interim network configuration library, currently implementing the libnetcf "
+"interface for libvirt.\n"
+"\n"
+"The libnetcontrol0 package provides the shared library."
+msgstr ""
+
+#. summary(libopenraw:libopenraw1)
+msgid "A library to decode digital camera RAW files"
+msgstr ""
+
+#. description(SDL_mixer:libSDL_mixer-1_2-0)
+msgid ""
+"A multichannel audio mixer. It supports four channels of 16-bit stereo "
+"audio, plus a single channel of music, mixed by the popular MikMod MOD, "
+"Timidity MIDI, and SMPEG MP3 libraries."
+msgstr ""
+
+#. description(m17n-lib:libm17n0)
+msgid ""
+"A multilingual text processing library for the C language. This package "
+"contains shared libraries."
+msgstr ""
+
+#. summary(netcontrol:libnetcontrol0)
+#, fuzzy
+msgid "A network configuration library"
+msgstr "1.2 新的 Xgl 配置选项"
+
+#. description(librcps:librcps-devel)
+msgid ""
+"A versatile, powerful and fast open source library for resource constrained "
+"project scheduling"
+msgstr ""
+
+#. summary(libreoffice:libreoffice-filters-optional)
+#, fuzzy
+msgid "Additional Import and Export Filters for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-af)
+#, fuzzy
+msgid "African Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-af)
+#, fuzzy
+msgid "African localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-en-US)
+#, fuzzy
+msgid "American Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-en-US)
+#, fuzzy
+msgid "American Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-en-US)
+msgid ""
+"American help localization for LibreOffice. The other localized stuff is in "
+"LibreOffice-l10n-en-US."
+msgstr ""
+
+#. summary(libical:libical-devel)
+msgid "An implementation of basic iCAL protocols"
+msgstr ""
+
+#. description(opencc:libopencc1)
+msgid ""
+"An opensource project for conversion between Traditional Chinese and "
+"Simplified Chinese, which supports phrase-level conversion and regional "
+"idioms among Mainland China, Taiwan and Hong kong."
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ar)
+#, fuzzy
+msgid "Arabic Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ar)
+#, fuzzy
+msgid "Arabic localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-es-AR)
+#, fuzzy
+msgid "Argentine Spanish Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-en-AU)
+#, fuzzy
+msgid "Australian Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-de-AT)
+#, fuzzy
+msgid "Austrian Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(gmp:libmp3)
+msgid "BSD libmp bindings for the GNU MP Library"
+msgstr ""
+
+#. description(gmp:libmp3)
+msgid "BSD libmp bindings for the GNU MP Library."
+msgstr ""
+
+#. summary(kdevplatform:libkdevplatform-devel)
+#, fuzzy
+msgid "Base Package for Integrated Development Environments: Build Environment"
+msgstr " 集成开发环境"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-be-BY)
+#, fuzzy
+msgid "Belorussian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-be-BY)
+#, fuzzy
+msgid "Belorussian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group5:libreoffice-help-pt-BR)
+#, fuzzy
+msgid "Brazilian Portuguese Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-pt-BR)
+#, fuzzy
+msgid "Brazilian Portuguese Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group5:libreoffice-help-pt-BR)
+#, fuzzy
+msgid ""
+"Brazilian Portuguese help localization for LibreOffice. The other localized "
+"stuff is in libreoffice-l10n-pt-BR."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-pt-BR)
+#, fuzzy
+msgid "Brazilian Portuguese localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-br)
+#, fuzzy
+msgid "Breton French Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-br)
+#, fuzzy
+msgid "Breton French localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group1:libreoffice-help-en-GB)
+#, fuzzy
+msgid "British Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-en-GB)
+#, fuzzy
+msgid "British Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-en-GB)
+#, fuzzy
+msgid "British Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group1:libreoffice-help-en-GB)
+#, fuzzy
+msgid ""
+"British help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-en-GB."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-en-GB)
+#, fuzzy
+msgid "British localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-bg)
+#, fuzzy
+msgid "Bulgarian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-bg)
+#, fuzzy
+msgid "Bulgarian Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-bg)
+#, fuzzy
+msgid "Bulgarian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libpqxx)
+#, fuzzy
+msgid "C++ Client Library for PostgreSQL"
+msgstr "正在创建资源数据库"
+
+#. summary(qscintilla:libqscintilla2-8)
+#, fuzzy
+msgid "C++ Editor Class Library"
+msgstr "加密"
+
+#. summary(qscintilla:libqscintilla-devel)
+#, fuzzy
+msgid "C++ Editor Class Library Development Files"
+msgstr "KDE 开发"
+
+#. summary(ImageMagick:libMagick++5)
+msgid "C++ Interface for ImageMagick - runtime library"
+msgstr ""
+
+#. summary(gtksourceviewmm:libgtksourceviewmm-3_0-0)
+#, fuzzy
+msgid "C++ interface for gtksourceview"
+msgstr "启动时选择的接口："
+
+#. description(openCOLLADA:libOpenCOLLADA0)
+msgid ""
+"COLLADA is a royalty-free XML schema that enables digital asset exchange "
+"within the interactive 3D industry. OpenCOLLADA is a Google summer of code "
+"opensource project providing libraries for 3D file interchange between "
+"applications like blender. COLLADABaseUtils          Utils used by many of "
+"the other projects. COLLADAFramework          Datamodel used to load COLLADA "
+"files. COLLADAStreamWriter       Sources (Library to write COLLADA files) "
+"COLLADASaxFrameworkLoader Library that loads COLLADA files in a "
+"sax                           like manner into the framework data model. "
+"COLLADAValidator          XML validator for COLLADA files, based "
+"on                           the COLLADASaxFrameworkLoader. "
+"GeneratedSaxParser        Library used to load xml files in the "
+"way                           used by COLLADASaxFrameworkLoader."
+msgstr ""
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-ca)
+msgid "Catalan Dictionary for LibreOffice Language Tool"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ca)
+#, fuzzy
+msgid "Catalan Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-ca)
+#, fuzzy
+msgid "Catalan Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ca)
+#, fuzzy
+msgid "Catalan localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libnova:libnova-0_14-0)
+msgid "Celestial Mechanics, Astrometry and Astrodynamics Library"
+msgstr ""
+
+#. summary(libreoffice-help-group5:libreoffice-help-zh-CN)
+#, fuzzy
+msgid "Chinese Simplified Help Localization for LibreOffice"
+msgstr "北马里亚纳群岛"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-zh-CN)
+#, fuzzy
+msgid "Chinese Simplified Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group5:libreoffice-help-zh-CN)
+#, fuzzy
+msgid ""
+"Chinese Simplified help localization for LibreOffice. The other localized "
+"stuff is in libreoffice-l10n-zh-CN."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-zh-CN)
+#, fuzzy
+msgid "Chinese Simplified localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group5:libreoffice-help-zh-TW)
+#, fuzzy
+msgid "Chinese Traditional Help Localization for LibreOffice"
+msgstr "北马里亚纳群岛"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-zh-TW)
+#, fuzzy
+msgid "Chinese Traditional Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group5:libreoffice-help-zh-TW)
+#, fuzzy
+msgid ""
+"Chinese Traditional help localization for LibreOffice. The other localized "
+"stuff is in libreoffice-l10n-zh-TW."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-zh-TW)
+#, fuzzy
+msgid "Chinese Traditional localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(evolution-ews:liblzx0)
+msgid "Client library for Accessing Exchange Servers - LZX library"
+msgstr ""
+
+#. summary(openCOLLADA:libOpenCOLLADA0)
+msgid "Collada 3D import and export libraries"
+msgstr ""
+
+#. summary(libreoffice-converter)
+msgid "Commandline Document Converter Using LibreOffice"
+msgstr ""
+
+#. summary(qhull:libqhull6-6_3_1_1494)
+msgid "Computing convex hulls, Delaunay triangulations and Voronoi diagrams"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-hr)
+#, fuzzy
+msgid "Croatian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-hr)
+#, fuzzy
+msgid "Croatian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-icon-themes:libreoffice-icon-theme-crystal)
+msgid "Crystal LibreOffice Icon Theme (KDE3 default)"
+msgstr ""
+
+#. summary(libreoffice-help-group1:libreoffice-help-cs)
+#, fuzzy
+msgid "Czech Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-cs)
+#, fuzzy
+msgid "Czech Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-cs)
+#, fuzzy
+msgid "Czech Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group1:libreoffice-help-cs)
+#, fuzzy
+msgid ""
+"Czech help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-cs."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-cs)
+#, fuzzy
+msgid "Czech localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group1:libreoffice-help-da)
+#, fuzzy
+msgid "Danish Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-da)
+#, fuzzy
+msgid "Danish Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-da)
+#, fuzzy
+msgid "Danish Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group1:libreoffice-help-da)
+#, fuzzy
+msgid ""
+"Danish help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-da."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-da)
+#, fuzzy
+msgid "Danish localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libmcrypt)
+#, fuzzy
+msgid "Data Encryption Library"
+msgstr "加密"
+
+#. summary(libkdeedu4:libkdeedu4-data)
+#, fuzzy
+msgid "Data files for KDE Education Applications"
+msgstr "起动应用程序"
+
+#. summary(udev:libgudev-1_0-devel)
+#, fuzzy
+msgid "Devel package for libgudev"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(liblastfm:liblastfm-devel)
+#, fuzzy
+msgid "Development Files for the Last.fm Webservices"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libselinux:libselinux-devel)
+#, fuzzy
+msgid "Development Include Files and Libraries for SELinux"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libsepol:libsepol-devel)
+#, fuzzy
+msgid "Development Include Files and Libraries for SELinux policy manipulation"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libjpeg-turbo:libjpeg8-devel)
+msgid "Development Tools for applications which will use the Libjpeg Library"
+msgstr ""
+
+#. summary(libpng12:libpng12-compat-devel)
+msgid "Development Tools for applications which will use the Libpng"
+msgstr ""
+
+#. summary(libraw1394:libraw1394-devel)
+#, fuzzy
+msgid "Development and Include Files for libraw1394"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libqjson:libqjson-devel)
+#, fuzzy
+msgid "Development files for QJson"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libmtp:libmtp-devel)
+msgid "Development files for access to MTP Player library"
+msgstr ""
+
+#. summary(libgpod:libgpod-devel)
+#, fuzzy
+msgid "Development files for libgpod"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libimobiledevice:libimobiledevice-devel)
+#, fuzzy
+msgid "Development files for libimobiledevice3"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libindi:libindi-devel)
+#, fuzzy
+msgid "Development files for libindi"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(digikam:libkface-devel)
+#, fuzzy
+msgid "Development files for libkface"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(digikam:libkgeomap-devel)
+#, fuzzy
+msgid "Development files for libkgeomap"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libktorrent:libktorrent-devel)
+#, fuzzy
+msgid "Development files for libktorrent"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(digikam:libmediawiki-devel)
+#, fuzzy
+msgid "Development files for libmediawiki"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(mono-core:libmono-2_0-devel)
+#, fuzzy
+msgid "Development files for libmono"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libnova:libnova-devel)
+#, fuzzy
+msgid "Development files for libnova"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libqimageblitz4:libqimageblitz-devel)
+#, fuzzy
+msgid "Development files for libqimageblitz"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libraw:libraw-devel)
+#, fuzzy
+msgid "Development files for libraw"
+msgstr "开发"
+
+#. summary(podofo:libpodofo-devel)
+#, fuzzy
+msgid "Development files for podofo"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libQtWebKit4:libQtWebKit-devel)
+#, fuzzy
+msgid "Development files for qtwebkit"
+msgstr "无法找到指定包的更新。"
+
+#. summary(libpciaccess:libpciaccess-devel)
+#, fuzzy
+msgid "Development files for the Generic PCI access library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(liblbxutil:liblbxutil-devel)
+#, fuzzy
+msgid "Development files for the Low Bandwith X extension routines"
+msgstr "net 配置工具的 .desktop 文件"
+
+#. summary(Mesa:libOSMesa-devel)
+#, fuzzy
+msgid "Development files for the Mesa Offscreen Rendering extension"
+msgstr "net 配置工具的 .desktop 文件"
+
+#. description(Mesa:libOSMesa-devel)
+msgid ""
+"Development files for the OSmesa Mesa extension that allows programs to "
+"render to an off-screen buffer using the OpenGL API without having to create "
+"a rendering context on an X Server. It uses a pure software renderer."
+msgstr ""
+
+#. summary(liboldX:liboldX-devel)
+#, fuzzy
+msgid "Development files for the X version 10 compatibility library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libICE:libICE-devel)
+#, fuzzy
+msgid "Development files for the X11 Inter-Client Exchange Library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(opencv:libopencv2_4)
+#, fuzzy
+msgid "Development files for using the OpenCV library"
+msgstr "用于服务器的 KDE 桌面环境"
+
+#. summary(libgphoto2:libgphoto2-devel)
+#, fuzzy
+msgid "Development headers for libgphoto2"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(gnutls:libgnutls-devel)
+#, fuzzy
+msgid "Development package for gnutls"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(jack:libjack-devel)
+#, fuzzy
+msgid "Development package for jack"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libgpg-error:libgpg-error-devel)
+#, fuzzy
+msgid "Development package for libgpg-error"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(redland:libredland-devel)
+msgid "Development package for programs that use Redland"
+msgstr ""
+
+#. summary(rasqal:librasqal-devel)
+msgid "Development package for the Rasqal RDF query library"
+msgstr ""
+
+#. summary(pulseaudio:libpulse-devel)
+#, fuzzy
+msgid "Development package for the pulseaudio library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(raptor:libraptor-devel)
+#, fuzzy
+msgid "Development package for the raptor library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-nl)
+msgid "Dutch Dictionary for LibreOffice Language Tool"
+msgstr ""
+
+#. summary(libreoffice-help-group4:libreoffice-help-nl)
+#, fuzzy
+msgid "Dutch Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-nl)
+#, fuzzy
+msgid "Dutch Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group4:libreoffice-help-nl)
+#, fuzzy
+msgid ""
+"Dutch help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-nl."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-nl)
+#, fuzzy
+msgid "Dutch localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-en)
+#, fuzzy
+msgid "English Dictionary for LibreOffice Language Tool"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-templates-en)
+#, fuzzy
+msgid "English Templates for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group2:libreoffice-help-et)
+#, fuzzy
+msgid "Estonian Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-et)
+#, fuzzy
+msgid "Estonian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group2:libreoffice-help-et)
+#, fuzzy
+msgid ""
+"Estonian help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-et."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-et)
+#, fuzzy
+msgid "Estonian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libgsf:libgsf-devel)
+msgid ""
+"Extensible I/O abstraction library for dealing with structured file formats "
+"-- Develoment Files"
+msgstr ""
+
+#. description(gnutls:libgnutls-devel)
+msgid "Files needed for software development using gnutls."
+msgstr ""
+
+#. description(libgpg-error:libgpg-error-devel)
+msgid "Files needed for software development using libgpg-error."
+msgstr ""
+
+#. description(redland:libredland-devel)
+msgid "Files needed to develop with the Redland RDF library."
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-fi)
+#, fuzzy
+msgid "Finnish Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-fi)
+#, fuzzy
+msgid "Finnish localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-fr)
+#, fuzzy
+msgid "French Dictionary for LibreOffice Language Tool"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group2:libreoffice-help-fr)
+#, fuzzy
+msgid "French Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-fr)
+#, fuzzy
+msgid "French Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-fr)
+#, fuzzy
+msgid "French Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group2:libreoffice-help-fr)
+#, fuzzy
+msgid ""
+"French help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-fr."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-fr)
+#, fuzzy
+msgid "French localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(goffice:libgoffice-0_10-9)
+msgid "GLib/GTK+ Set of Document-Centric Objects and Utilities"
+msgstr ""
+
+#. summary(ghex:libgtkhex-3-0)
+#, fuzzy
+msgid "GNOME Binary Editor -- Library"
+msgstr "主监视器："
+
+#. summary(libgnome-media-profiles:libgnome-media-profiles-3_0-0)
+#, fuzzy
+msgid "GNOME Media Profiles Library"
+msgstr "通知"
+
+#. summary(aspell:libpspell15)
+msgid "GNU Aspell - Pspell Compatibility Library"
+msgstr ""
+
+#. description(aspell:libpspell15)
+msgid ""
+"GNU Aspell is a spell checker designed to eventually replace Ispell. It can "
+"be used as a library or as an independent spell checker.\n"
+"\n"
+"This package contains the pspell compatibility library."
+msgstr ""
+
+#. summary(libgusb:libgusb2)
+#, fuzzy
+msgid "GObject-based library for libusb1"
+msgstr "正在创建资源数据库"
+
+#. summary(gtk-vnc:libgvnc-1_0-0)
+msgid "GObject-based library to interact with the RFB protocol"
+msgstr ""
+
+#. description(goffice:libgoffice-0_10-9)
+msgid ""
+"GOffice is a GLib/GTK+ set of document-centric objects and utilities.\n"
+"\n"
+"These are common operations for document-centric applications that are "
+"conceptually simple, but complex to implement fully: plug-ins, load and save "
+"documents, undo and redo."
+msgstr ""
+
+#. summary(gtkspell:libgtkspell0)
+msgid "GTK2 Spell Checker Interface Library"
+msgstr ""
+
+#. summary(gtkspell3:libgtkspell-3-0)
+msgid "GTK3 Spell Checker Interface Library"
+msgstr ""
+
+#. description(libgusb:libgusb2)
+msgid ""
+"GUsb is a GObject wrapper for libusb1 that makes it easy to do asynchronous "
+"control, bulk and interrupt transfers with proper cancellation and "
+"integration into a mainloop."
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ga)
+#, fuzzy
+msgid "Gaelic Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ga)
+#, fuzzy
+msgid "Gaelic localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-icon-themes:libreoffice-icon-theme-galaxy)
+msgid "Galaxy LibreOffice Icon Theme (OOo-3.x default)"
+msgstr ""
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-gl)
+msgid "Galician Dictionary for LibreOffice Language Tool"
+msgstr ""
+
+#. summary(libreoffice-help-group2:libreoffice-help-gl)
+#, fuzzy
+msgid "Galician Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-gl)
+#, fuzzy
+msgid "Galician Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group2:libreoffice-help-gl)
+#, fuzzy
+msgid ""
+"Galician help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-gl."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-gl)
+#, fuzzy
+msgid "Galician localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(marble:libmarblewidget14)
+#, fuzzy
+msgid "Generic map viewer: Shared Library"
+msgstr "KDE 桌面环境"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ka)
+#, fuzzy
+msgid "Georgian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ka)
+#, fuzzy
+msgid "Georgian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-de)
+#, fuzzy
+msgid "German Dictionary for LibreOffice Language Tool"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group1:libreoffice-help-de)
+#, fuzzy
+msgid "German Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-de)
+#, fuzzy
+msgid "German Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-templates-de)
+#, fuzzy
+msgid "German Templates for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-de)
+#, fuzzy
+msgid "German Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group1:libreoffice-help-de)
+#, fuzzy
+msgid ""
+"German help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-de."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-de)
+#, fuzzy
+msgid "German localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-de-CH)
+#, fuzzy
+msgid "German-Swiss Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(goocanvas:libgoocanvas-2_0-9)
+msgid ""
+"GooCanvas is similar in many ways to GnomeCanvas and FooCanvas. But it uses "
+"cairo for rendering, has an optional model/view split, and uses interfaces "
+"for items & models (so you can easily turn any application object into a "
+"canvas item or model)."
+msgstr ""
+
+#. summary(libopensync-plugin-google-calendar)
+msgid "Google Calendar Synchronization Plug-In for OpenSync"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-el)
+#, fuzzy
+msgid "Greek Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-el)
+#, fuzzy
+msgid "Greek Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-el)
+#, fuzzy
+msgid "Greek localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(gtkhotkey:libgtkhotkey1)
+msgid ""
+"GtkHotkey is simple library offering a platform independent way for GTK+ "
+"applications to manage and bind desktop-wide hotkeys."
+msgstr ""
+
+#. description(gtkimageview:libgtkimageview0)
+msgid ""
+"GtkImageView is a widget that provides a zoomable and panable view of a "
+"GdkPixbuf. It is intended to be usable in most types of image viewing "
+"applications."
+msgstr ""
+
+#. description(gtkspell3:libgtkspell-3-0)
+msgid ""
+"GtkSpell provides MSWord-style and MacOSX-style highlighting of misspelled "
+"words in a GtkTextView widget. Right-clicking a misspelled word opens a menu "
+"of suggested replacements."
+msgstr ""
+
+#. summary(libreoffice-help-group3:libreoffice-help-gu-IN)
+#, fuzzy
+msgid "Gujarati Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-gu-IN)
+#, fuzzy
+msgid "Gujarati Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group3:libreoffice-help-gu-IN)
+#, fuzzy
+msgid ""
+"Gujarati help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-gu-IN."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-gu-IN)
+#, fuzzy
+msgid "Gujarati localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(gwenhywfar:libgwenhywfar60)
+msgid ""
+"Gwenhywfar is a base library used to provide OS abstraction functions for "
+"Linux, FreeBSD, OpenBSD, NetBSD, and Windows. It also includes some often "
+"needed functions (for example, for handling and parsing of configuration "
+"files, reading and writing of XML files, and interprocess communication)."
+msgstr ""
+
+#. description(gwenhywfar:libgwengui-gtk2-0)
+msgid ""
+"Gwenhywfar is a base library used to provide OS abstraction functions for "
+"Linux, FreeBSD, OpenBSD, NetBSD, and Windows. It also includes some often "
+"needed functions (for example, for handling and parsing of configuration "
+"files, reading and writing of XML files, and interprocess communication).\n"
+"\n"
+"This package provides the GTK+ implementation of the generic UI toolkit."
+msgstr ""
+
+#. description(gwenhywfar:libgwengui-qt4-0)
+msgid ""
+"Gwenhywfar is a base library used to provide OS abstraction functions for "
+"Linux, FreeBSD, OpenBSD, NetBSD, and Windows. It also includes some often "
+"needed functions (for example, for handling and parsing of configuration "
+"files, reading and writing of XML files, and interprocess communication).\n"
+"\n"
+"This package provides the Qt implementation of the generic UI toolkit."
+msgstr ""
+
+#. summary(libhangul:libhangul1)
+msgid "Hangul input library used by scim-hangul and ibus-hangul"
+msgstr ""
+
+#. summary(qalculate:libqalculate-devel)
+#, fuzzy
+msgid "Header files, libraries and development documentation for libqalculate"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(libotr:libotr-devel)
+#, fuzzy
+msgid "Headers and development libraries for libotr"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(libmms:libmms-devel)
+#, fuzzy
+msgid "Headers and libraries to program against libmms"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-he)
+#, fuzzy
+msgid "Hebrew Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-he)
+#, fuzzy
+msgid "Hebrew localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-icon-themes:libreoffice-icon-theme-hicontrast)
+msgid "Hicontrast LibreOffice Icon Theme"
+msgstr ""
+
+#. summary(libserf:libserf-1-0)
+msgid "High-Performance Asynchronous HTTP Client Library"
+msgstr ""
+
+#. summary(libreoffice-help-group3:libreoffice-help-hi-IN)
+#, fuzzy
+msgid "Hindi Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-hi-IN)
+#, fuzzy
+msgid "Hindi Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group3:libreoffice-help-hi-IN)
+#, fuzzy
+msgid ""
+"Hindi help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-hi-IN."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-hi-IN)
+#, fuzzy
+msgid "Hindi localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group3:libreoffice-help-hu)
+#, fuzzy
+msgid "Hungarian Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-hu)
+#, fuzzy
+msgid "Hungarian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-hu)
+#, fuzzy
+msgid "Hungarian Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group3:libreoffice-help-hu)
+#, fuzzy
+msgid ""
+"Hungarian help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-hu."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-hu)
+#, fuzzy
+msgid "Hungarian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(icu:libicu-devel)
+msgid ""
+"ICU is a C++ and C library that provides robust and full-featured Unicode "
+"support. This package contains the development files for ICU."
+msgstr ""
+
+#. summary(libid3tag)
+msgid "ID3 Tag Manipulation Library"
+msgstr ""
+
+#. summary(libidl:libIDL-2-0)
+#, fuzzy
+msgid "IDL Parsing Library"
+msgstr "加密"
+
+#. description(libindi)
+msgid ""
+"INDI is an Instrument Neutral Distributed Interface control protocol for "
+"astronomical devices, which provides a framework that decouples low level "
+"hardware drivers from high level front end clients. Clients that use the "
+"device drivers are completely unaware of the device capabilities and "
+"communicate with the device drivers and build a completely dynamic GUI based "
+"on the services provided by the device."
+msgstr ""
+
+#. summary(libiec61883)
+msgid "Implementation of IEC 61883"
+msgstr ""
+
+#. summary(libosip2)
+msgid "Implementation of SIP--RFC 3261"
+msgstr ""
+
+#. summary(libogg:libogg-devel)
+msgid "Include Files and Libraries mandatory for Ogg Development"
+msgstr ""
+
+#. summary(libotr:libotr-devel)
+#, fuzzy
+msgid "Include files and development libraries"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libindi)
+msgid "Instrument Neutral Distributed Interface"
+msgstr ""
+
+#. summary(libpinyin:libpinyin2)
+msgid "Intelligent Pinyin IME"
+msgstr ""
+
+#. summary(digikam:libmediawiki1)
+msgid "Interface for MediaWiki based web services"
+msgstr ""
+
+#. summary(xiterm:libiterm)
+msgid "Internationalized Terminal Emulator Library"
+msgstr ""
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-ga)
+#, fuzzy
+msgid "Irish Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-it)
+msgid "Italian Dictionary for LibreOffice Language Tool"
+msgstr ""
+
+#. summary(libreoffice-help-group3:libreoffice-help-it)
+#, fuzzy
+msgid "Italian Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-it)
+#, fuzzy
+msgid "Italian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-it)
+#, fuzzy
+msgid "Italian Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group3:libreoffice-help-it)
+#, fuzzy
+msgid ""
+"Italian help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-it."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-it)
+#, fuzzy
+msgid "Italian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(jasper:libjasper-devel)
+msgid "JPEG-2000 library - files mandatory for development"
+msgstr ""
+
+#. description(libqjson:libqjson-devel)
+msgid ""
+"JSON (JavaScript Object Notation) is a lightweight data-interchange format. "
+"It can represent integer, real number, string, an ordered sequence of value, "
+"and a collection of name/value pairs. QJson is a qt-based library that maps "
+"JSON data to QVariant objects. JSON arrays will be mapped to QVariantList "
+"instances, while JSON's objects will be mapped to QVariantMap.\n"
+"\n"
+"This package contains files for developing applications using QJson."
+msgstr ""
+
+#. summary(libreoffice-help-group3:libreoffice-help-ja)
+#, fuzzy
+msgid "Japanese Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ja)
+#, fuzzy
+msgid "Japanese Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group3:libreoffice-help-ja)
+#, fuzzy
+msgid ""
+"Japanese help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-ja."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ja)
+#, fuzzy
+msgid "Japanese localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(kdelibs4:libkde4-devel)
+#, fuzzy
+msgid "KDE Base Libraries: Build Environment"
+msgstr "KDE 桌面环境"
+
+#. summary(kdemultimedia4:libkcompactdisc4-devel)
+#, fuzzy
+msgid "KDE CD Library: Build Environment"
+msgstr "KDE 桌面环境"
+
+#. summary(kdemultimedia4:libkcddb4-devel)
+#, fuzzy
+msgid "KDE CDDB Library: Build Environment"
+msgstr "KDE 桌面环境"
+
+#. summary(kdelibs4:libkdecore4-devel)
+#, fuzzy
+msgid "KDE Core Libraries: Build Environment"
+msgstr "KDE 桌面环境"
+
+#. summary(libkipi:libkipi-devel)
+#, fuzzy
+msgid "KDE Image Plugin Interface"
+msgstr "KDE 图像插件界面"
+
+#. summary(kdebase4:libkonq-devel)
+msgid "KDE Konqueror Libraries: Build Environment"
+msgstr ""
+
+#. summary(kdepimlibs4:libkdepimlibs4-devel)
+#, fuzzy
+msgid "KDE PIM Libraries: Build Environment"
+msgstr "KDE 桌面环境"
+
+#. summary(libksane:libksane0)
+msgid "KDE scan library"
+msgstr ""
+
+#. summary(libksane:libksane-devel)
+#, fuzzy
+msgid "KDE scan library - Development Files"
+msgstr "KDE 开发"
+
+#. summary(kanagram:libkanagramengine4)
+#, fuzzy
+msgid "Kanagram Engine library"
+msgstr "加密"
+
+#. summary(khangman:libkhangmanengine4)
+#, fuzzy
+msgid "Khangman Engine library"
+msgstr "加密"
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-km)
+#, fuzzy
+msgid "Khmer Dictionary for LibreOffice Language Tool"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group3:libreoffice-help-km)
+#, fuzzy
+msgid "Khmer Help Localization for LibreOffice"
+msgstr "等待导航栏应用程序"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-km)
+#, fuzzy
+msgid "Khmer Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group3:libreoffice-help-km)
+#, fuzzy
+msgid ""
+"Khmer help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-km."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-km)
+#, fuzzy
+msgid "Khmer localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-rw)
+#, fuzzy
+msgid "Kinyarwanda Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-rw)
+#, fuzzy
+msgid "Kinyarwanda localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group4:libreoffice-help-ko)
+#, fuzzy
+msgid "Korean Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ko)
+#, fuzzy
+msgid "Korean Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group4:libreoffice-help-ko)
+#, fuzzy
+msgid ""
+"Korean help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-ko."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ko)
+#, fuzzy
+msgid "Korean localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-languagetool)
+msgid "Language Checker for LibreOffice"
+msgstr ""
+
+#. summary(goocanvas1:libgoocanvas3-lang)
+#, fuzzy
+msgid "Languages for package goocanvas1"
+msgstr "语言：     "
+
+#. summary(libgnome:libgnome-lang)
+#, fuzzy
+msgid "Languages for package libgnome"
+msgstr "语言：     "
+
+#. summary(libgnome-keyring:libgnome-keyring-lang)
+#, fuzzy
+msgid "Languages for package libgnome-keyring"
+msgstr "语言：     "
+
+#. summary(libgnome-media-profiles:libgnome-media-profiles-lang)
+#, fuzzy
+msgid "Languages for package libgnome-media-profiles"
+msgstr "语言：     "
+
+#. summary(libgnomecanvas:libgnomecanvas-lang)
+#, fuzzy
+msgid "Languages for package libgnomecanvas"
+msgstr "语言：     "
+
+#. summary(libgnomekbd:libgnomekbd-lang)
+#, fuzzy
+msgid "Languages for package libgnomekbd"
+msgstr "语言：     "
+
+#. summary(libgnomesu:libgnomesu-lang)
+#, fuzzy
+msgid "Languages for package libgnomesu"
+msgstr "语言：     "
+
+#. summary(libgnomeui:libgnomeui-lang)
+#, fuzzy
+msgid "Languages for package libgnomeui"
+msgstr "语言：     "
+
+#. summary(libgphoto2:libgphoto2-lang)
+#, fuzzy
+msgid "Languages for package libgphoto2"
+msgstr "语言：     "
+
+#. summary(libgpod:libgpod-lang)
+#, fuzzy
+msgid "Languages for package libgpod"
+msgstr "语言：     "
+
+#. summary(libgsf:libgsf-lang)
+#, fuzzy
+msgid "Languages for package libgsf"
+msgstr "语言：     "
+
+#. summary(libgtop:libgtop-lang)
+#, fuzzy
+msgid "Languages for package libgtop"
+msgstr "语言：     "
+
+#. summary(libgweather:libgweather-lang)
+#, fuzzy
+msgid "Languages for package libgweather"
+msgstr "语言：     "
+
+#. summary(libiptcdata:libiptcdata-lang)
+msgid "Languages for package libiptcdata"
+msgstr ""
+
+#. summary(libktorrent:libktorrent5-lang)
+msgid "Languages for package libktorrent"
+msgstr ""
+
+#. summary(libpeas:libpeas-lang)
+msgid "Languages for package libpeas"
+msgstr ""
+
+#. summary(pidgin:libpurple-lang)
+msgid "Languages for package pidgin"
+msgstr ""
+
+#. description(libidl:libidl-devel)
+msgid ""
+"LibIDL is a small library for creating parse trees of CORBA v2.2 compliant "
+"Interface Definition Language (IDL) files, which is a specification for "
+"defining interfaces which can be used between different CORBA "
+"implementations."
+msgstr ""
+
+#. description(libidl:libIDL-2-0)
+msgid ""
+"LibIDL is a small library for creating parse trees of CORBA v2.2-compliant "
+"Interface Definition Language (IDL) files. IDL is a specification for "
+"defining interfaces that can be used between different CORBA implementations."
+msgstr ""
+
+#. description(libofx)
+msgid ""
+"LibOFX is a parser and API designed to allow applications to support OFX "
+"command responses, usually provided by financial institutions for statement "
+"downloads. The author says, \"To my knowledge, it is the first working "
+"OpenSource implementations of the OFX (Open Financial eXchange) "
+"specification on the client side. This project was first started as my end "
+"of degree project, with the goal of adding OFX support to GnuCash. It has "
+"since evolved into a generic library, so all OpenSource Financial software "
+"can benefit from it.\""
+msgstr ""
+
+#. description(libical:libical-devel)
+msgid ""
+"Libical is an Open Source implementation of the IETF's iCalendar Calendaring "
+"and Scheduling protocols. (RFC 2445, 2446, and 2447). It parses iCal "
+"components and provides a C API for manipulating the component properties, "
+"parameters, and subcomponents."
+msgstr ""
+
+#. description(libiniparser:libiniparser0)
+msgid "Libiniparser offers parsing of ini files from the C level."
+msgstr ""
+
+#. description(libkdcraw:libkdcraw-devel)
+msgid ""
+"Libkdcraw is a C++ interface around dcraw binary program used to decode RAW "
+"picture files.  The library documentation is available on header files.\n"
+"\n"
+"This library is used by kipi-plugins, digiKam and others kipi host programs."
+msgstr ""
+
+#. description(digikam:libkface1)
+msgid ""
+"Libkface is a Qt/C++ wrapper around LibFace to perform face recognition and "
+"detection over pictures."
+msgstr ""
+
+#. description(digikam:libkgeomap1)
+msgid ""
+"Libkgeomap is a wrapper around different world-map components, to browse and "
+"arrange photos over a map. Currently supported map engine are:\n"
+"- Marble\n"
+"- OpenstreetMap (via Marble)\n"
+"- GoogleMap This library is used by kipi-plugins, digiKam and other kipi "
+"host programs."
+msgstr ""
+
+#. description(libmal)
+msgid ""
+"Libmal is a convenience library of the object files contained in Tom "
+"Whittaker's malsync distribution. It also includes a few wrapper functions."
+msgstr ""
+
+#. description(libmcrypt)
+msgid ""
+"Libmcrypt  is a data encryption library.  The library is thread safe and "
+"provides encryption and decryption functions. This version of the library "
+"supports many encryption algorithms and encryption modes. Supported "
+"algorithms include SERPENT, RIJNDAEL, 3DES, GOST, SAFER+, CAST-256, RC2, "
+"XTEA, 3WAY, TWOFISH, BLOWFISH, ARC. FOUR, and WAKE."
+msgstr ""
+
+#. description(libmikmod:libmikmod2)
+msgid ""
+"Libmikmod is a portable sound library, capable of playing samples as well as "
+"module files. It was originally written by Jean-Paul Mikkers (MikMak) for "
+"DOS. It supports OSS /dev/dsp, ALSA, and Esound and can also write wav "
+"files. Supported file formats include mod, stm, s3m, mtm, xm, and it."
+msgstr ""
+
+#. summary(libmms:libmms-devel)
+#, fuzzy
+msgid "Libmms development files"
+msgstr "开发"
+
+#. description(libmsn:libmsn-devel)
+msgid ""
+"Libmsn is a reusable, open-source, fully documented library for connecting "
+"to Microsoft's MSN Messenger service."
+msgstr ""
+
+#. description(libnet:libnet1)
+msgid ""
+"Libnet is an API to help with the construction and handling of network "
+"packets. It provides a portable framework for low-level network packet "
+"writing and handling. Libnet includes packet creation at the IP layer and at "
+"the link layer as well as a host of supplementary and complementary "
+"functionality. Libnet is very useful for writing network tools and network "
+"test code. See the man page and sample test code for more detailed "
+"information."
+msgstr ""
+
+#. description(liboil)
+msgid ""
+"Liboil is a library of simple functions that are optimized for various CPUs. "
+"These functions are generally loops implementing simple algorithms, such as "
+"converting an array of N integers to floating-point numbers or multiplying "
+"and summing an array of N numbers. Such functions are candidates for "
+"significant optimization using various techniques, especially by using "
+"extended instructions provided by modern CPUs (Altivec, MMX, SSE, etc.).\n"
+"\n"
+"Many multimedia applications and libraries already do similar things "
+"internally. The goal of this project is to consolidate some of the code used "
+"by various multimedia projects and also make optimizations easier to use by "
+"a broader range of applications."
+msgstr ""
+
+#. description(liboil:liboil-devel)
+msgid ""
+"Liboil is a library of simple functions that are optimized for various CPUs. "
+"These functions are generally loops implementing simple algorithms, such as "
+"converting an array of N integers to floating-point numbers or multiplying "
+"and summing an array of N numbers. Such functions are candidates for "
+"significant optimization using various techniques, especially by using "
+"extended instructions provided by modern CPUs (Altivec, MMX, SSE, etc.).\n"
+"\n"
+"Many multimedia applications and libraries already do similar things "
+"internally. The goal of this project is to consolidate some of the code used "
+"by various multimedia projects, and also make optimizations easier to use by "
+"a broader range of applications."
+msgstr ""
+
+#. description(libpinyin:libpinyin2)
+msgid ""
+"Libpinyin is a staging joint effort of many Chinese Pinyin IME development "
+"teams. It aims to be an Intelligent (and Universal) Sentence-based Pinyin "
+"IME Backend supports many Language Models and Frontends."
+msgstr ""
+
+#. summary(libproxy:libproxy-devel)
+msgid ""
+"Libproxy provides consistent proxy configuration to applications - "
+"Development Files"
+msgstr ""
+
+#. description(ktoblzcheck:libktoblzcheck1-devel)
+msgid "Libraries and include files to develop with ktoblzcheck library."
+msgstr ""
+
+#. summary(kdevplatform:libkdevplatform0)
+#, fuzzy
+msgid "Libraries for Integrated Development Environments"
+msgstr " 集成开发环境"
+
+#. summary(netpbm:libnetpbm11)
+msgid "Libraries for the NetPBM (NetPortableBitmap) Graphic Formats"
+msgstr ""
+
+#. summary(netpbm:libnetpbm-devel)
+msgid ""
+"Libraries for the NetPBM Graphic Formats - files mandatory for development"
+msgstr ""
+
+#. summary(ktoblzcheck:libktoblzcheck1-devel)
+msgid "Libraries, includes etc to develop with ktoblzcheck library"
+msgstr ""
+
+#. summary(libmspack:libmspack0)
+msgid "Library That Implements Different Microsoft Compressions"
+msgstr ""
+
+#. summary(lensfun:liblensfun0)
+msgid "Library files for lensfun/lensfun-devel"
+msgstr ""
+
+#. description(lensfun:liblensfun0)
+msgid "Library files needed by the use the lensfun library/database."
+msgstr ""
+
+#. summary(libkdeedu4:libkeduvocdocument4)
+#, fuzzy
+msgid "Library for KDE Education Applications"
+msgstr "起动应用程序"
+
+#. summary(libkdeedu4:libkdeedu4-devel)
+#, fuzzy
+msgid "Library for KDE Education Applications: Build Environment"
+msgstr "起动应用程序"
+
+#. summary(libkvkontakte:libkvkontakte1)
+msgid "Library for asynchronous interaction with vkontakte.ru social network"
+msgstr ""
+
+#. summary(libplist:libplist-devel)
+msgid ""
+"Library for handling Apple Binary and XML Property Lists -- Development Files"
+msgstr ""
+
+#. description(libotf:libotf0)
+msgid ""
+"Library for handling OpenType fonts,especially those needed for CJK and "
+"other non-Latin languages."
+msgstr ""
+
+#. summary(gcc47:libobjc47)
+#, fuzzy
+msgid "Library for the GNU Objective C Compiler"
+msgstr "C/C++ 编译器和工具"
+
+#. description(libpano:libpano13-2)
+msgid "Library for working with panoramas."
+msgstr ""
+
+#. summary(liboil)
+msgid "Library of Optimized Inner Loops"
+msgstr ""
+
+#. summary(gtkimageview:libgtkimageview0)
+msgid "Library providing an advanced widget for GdkPixbuf"
+msgstr ""
+
+#. description(meanwhile:libmeanwhile1)
+msgid ""
+"Library to establish instant messaging connections to the Lotus Sametime IM "
+"server."
+msgstr ""
+
+#. summary(libgnome-keyring:libgnome-keyring-devel)
+msgid "Library to integrate with the GNOME Keyring - Development Files"
+msgstr ""
+
+#. summary(libiniparser:libiniparser0)
+msgid "Library to parse ini files"
+msgstr ""
+
+#. description(libraw1394:libraw1394-devel)
+msgid ""
+"Libraw1394 is the only supported interface to the kernel side raw1394 of the "
+"Linux IEEE-1394 subsystem, which provides the user space direct access to "
+"the connected 1394 buses.  Through libraw1394/raw1394, applications can "
+"directly send to and receive from other nodes without requiring a kernel "
+"driver for the protocol in question.\n"
+"\n"
+"This archive contains the header files for libraw1394 development."
+msgstr ""
+
+#. summary(libreoffice:libreoffice-base)
+#, fuzzy
+msgid "LibreOffice Base"
+msgstr "OpenOffice.Org 快速起动器"
+
+#. summary(libreoffice:libreoffice-base-extensions)
+msgid "LibreOffice Base Extensions"
+msgstr ""
+
+#. summary(libreoffice:libreoffice-calc)
+msgid "LibreOffice Calc"
+msgstr ""
+
+#. summary(libreoffice:libreoffice-calc-extensions)
+msgid "LibreOffice Calc Extensions"
+msgstr ""
+
+#. summary(libreoffice:libreoffice-impress-extensions)
+msgid "LibreOffice Impress Extensions"
+msgstr ""
+
+#. summary(libreoffice:libreoffice-math)
+#, fuzzy
+msgid "LibreOffice Math"
+msgstr "OpenOffice.Org 快速起动器"
+
+#. summary(libreoffice:libreoffice-writer-extensions)
+msgid "LibreOffice Writer Extensions"
+msgstr ""
+
+#. summary(libreoffice-voikko)
+msgid "LibreOffice spellchecker/hyphenator for finnish language"
+msgstr ""
+
+#. description(libreoffice-voikko)
+msgid ""
+"LibreOffice spellchecker/hyphenator for finnish language, which uses "
+"libvoikko as backend."
+msgstr ""
+
+#. summary(lightdm:liblightdm-gobject-1-0)
+msgid "LightDM GObject-based Client Library"
+msgstr ""
+
+#. summary(liblqr:liblqr-1-0)
+msgid "LiquidRescale seam-carving library"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-lt)
+#, fuzzy
+msgid "Lithuanian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-lt)
+#, fuzzy
+msgid "Lithuanian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(meanwhile:libmeanwhile1)
+msgid "Lotus Sametime Community Client Library"
+msgstr ""
+
+#. summary(pidgin:libpurple-meanwhile)
+msgid "Lotus Sametime Plugin for Pidgin Using the Meanwhile Library"
+msgstr ""
+
+#. description(pidgin:libpurple-meanwhile)
+msgid "Lotus Sametime plugin for Pidgin using the Meanwhile library."
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-mk)
+#, fuzzy
+msgid "Macedonian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-mk)
+#, fuzzy
+msgid "Macedonian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice:libreoffice-mailmerge)
+#, fuzzy
+msgid "Mail Merge Functionality for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(menu-cache:libmenu-cache1)
+msgid "Menu-cache libraries"
+msgstr ""
+
+#. summary(Mesa:libOSMesa9)
+msgid "Mesa Off-screen rendering extension"
+msgstr ""
+
+#. summary(libmikmod:libmikmod2)
+msgid "MikMod Sound Library"
+msgstr ""
+
+#. description(mxml:libmxml1)
+msgid ""
+"Mini-XML is a small XML parsing library that you can use to read XML and XML-"
+"like data files in your application without requiring large nonstandard "
+"libraries.\n"
+"\n"
+"This package holds the shared library for mxml."
+msgstr ""
+
+#. description(lpsolve:liblpsolve55)
+msgid ""
+"Mixed Integer Linear Programming (MILP) solver library lpsolve solves pure "
+"linear, (mixed) integer/binary, semi-continuous and special ordered sets "
+"(SOS) models."
+msgstr ""
+
+#. summary(mono-qt4:libqyoto2)
+#, fuzzy
+msgid "Mono bindings for Qt4 libraries"
+msgstr "电源管理 (APM)"
+
+#. summary(libopensync-plugin-moto)
+msgid "Motorola Synchronization Plug-In for OpenSync"
+msgstr ""
+
+#. summary(m17n-lib:libm17n0)
+msgid "Multilingual text processing library for the C language"
+msgstr ""
+
+#. summary(gwenhywfar:libgwenhywfar60)
+msgid "Multiplatform Helper Library for Other Libraries"
+msgstr ""
+
+#. summary(gwenhywfar:libgwenhywfar60-plugins)
+msgid "Multiplatform Helper Library for Other Libraries - Plugins"
+msgstr ""
+
+#. summary(gwenhywfar:libgwengui-gtk2-0)
+msgid "Multiplatform Helper Library for Other Libraries -- GTK+ UI Backend"
+msgstr ""
+
+#. summary(gwenhywfar:libgwengui-qt4-0)
+msgid "Multiplatform Helper Library for Other Libraries -- Qt UI Backend"
+msgstr ""
+
+#. summary(liboping:liboping0)
+msgid "Multiple Host Ping Library that supports ICMPv4 and ICMPv6"
+msgstr ""
+
+#. description(libmpcdec:libmpcdec-devel)
+msgid ""
+"Musepack is an audio compression format with a strong emphasis on high "
+"quality. It's not lossless, but it is designed for transparency, so that you "
+"won't be able to hear differences between the original wave file and the "
+"much smaller MPC file.\n"
+"\n"
+"It is based on the MPEG-1 Layer-2 / MP2 algorithms, but since 1997 it has "
+"rapidly developed and vastly improved and is now at an advanced stage in "
+"which it contains heavily optimized and patentless code.\n"
+"\n"
+"Musepack is not particularly optimized for low bitrates. The encoder was "
+"designed to be transparent at the --standard setting, thus little low "
+"bitrate tuning has gone into the codec, opposite to that of AAC, Vorbis, WMA "
+"and others which focus more on this region."
+msgstr ""
+
+#. summary(libreoffice:libreoffice-base-drivers-mysql)
+msgid "MySQL Database Driver for LibreOffice"
+msgstr ""
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-ne)
+#, fuzzy
+msgid "Nepali Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-nb)
+#, fuzzy
+msgid "Norwegian Bokmaal Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-nb)
+#, fuzzy
+msgid "Norwegian Bokmaal Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-nb)
+#, fuzzy
+msgid "Norwegian Bokmaal localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-nn)
+#, fuzzy
+msgid "Norwegian Nynorsk Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-nn)
+#, fuzzy
+msgid "Norwegian Nynorsk localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libofx)
+msgid "OFX Command Parser and API"
+msgstr ""
+
+#. description(oprofile:libopagent1)
+msgid ""
+"OProfile is a system-wide profiler for Linux systems, capable of profiling "
+"all running code at low overhead. OProfile is released under the GNU GPL.\n"
+"\n"
+"This package contains the library needed at runtime when profiling JITed "
+"code from supported virtual machines."
+msgstr ""
+
+#. description(uuid:libossp-uuid16)
+msgid ""
+"OSSP uuid is a ISO C99 application programming interface (API) and "
+"corresponding command line interface (CLI) for the generation of DCE 1.1, "
+"ISO/IEC 11578:1996 and RFC 4122 compliant Universally Unique Identifier "
+"(UUID). It supports DCE 1.1 variant UUIDs of version 1 (time and node "
+"based), version 3 (name based, MD5), version 4 (random number based) and "
+"version 5 (name based, SHA-1). Additional API bindings are provided for the "
+"languages ISO C++98, Perl 5 and PHP 4/5. Optional backward compatibility "
+"exists for the ISO C DCE-1.1 and Perl Data::UUID APIs.\n"
+"\n"
+"UUIDs are 128-bit numbers which are intended to have a high likelihood of "
+"uniqueness over space and time and are computationally difficult to guess. "
+"They are globally unique identifiers which can be locally generated without "
+"contacting a global registration authority. UUIDs are intended as unique "
+"identifiers for both mass tagging objects with an extremely short lifetime "
+"and to reliably identifying very persistent objects across a network.\n"
+"\n"
+" This package contains the shared library of OSSP uuid."
+msgstr ""
+
+#. summary(uuid:libossp-uuid16)
+msgid "OSSP's Universally Unique Identifier generator library"
+msgstr ""
+
+#. description(Mesa:libOSMesa9)
+msgid ""
+"OSmesa is a Mesa extension that allows programs to render to an off-screen "
+"buffer using the OpenGL API without having to create a rendering context on "
+"an X Server. It uses a pure software renderer."
+msgstr ""
+
+#. description(libotr:libotr2)
+msgid ""
+"Off-the-Record (OTR) Messaging allows you to have private conversations over "
+"instant messaging by providing: Encryption No one else can read your instant "
+"messages. Authentication You are assured the correspondent is who you think "
+"it is. Deniability The messages you send do not have digital signatures that "
+"are checkable by a third party. Anyone can forge messages after a "
+"conversation to make them look like they came from you. However, during a "
+"conversation, your correspondent is assured the messages he sees are "
+"authentic and unmodified. Perfect forward secrecy If you lose control of "
+"your private keys, no previous conversation is compromised."
+msgstr ""
+
+#. description(oniguruma:libonig2)
+msgid ""
+"Oniguruma is a regular expressions library.  The characteristics of this "
+"library is that different character encoding for every regular expression "
+"object can be specified.\n"
+"\n"
+"Supported character encodings: ASCII, UTF-8, UTF-16BE, UTF-16LE, UTF-32BE, "
+"UTF-32LE, EUC-JP, EUC-TW, EUC-KR, EUC-CN, Shift_JIS, Big5, GB 18030, KOI8-R, "
+"KOI8, ISO-8859-1, ISO-8859-2, ISO-8859-3, ISO-8859-4, ISO-8859-5, "
+"ISO-8859-6, ISO-8859-7, ISO-8859-8, ISO-8859-9, ISO-8859-10, ISO-8859-11, "
+"ISO-8859-13, ISO-8859-14, ISO-8859-15, ISO-8859-16."
+msgstr ""
+
+#. summary(openbabel:libopenbabel-devel)
+msgid "Open Babel - The Open Source Chemistry Toolbox"
+msgstr ""
+
+#. description(openbabel:libopenbabel-devel)
+msgid ""
+"Open Babel is a chemical toolbox designed to speak the many languages of "
+"chemical data. It's an open, collaborative project allowing anyone to "
+"search, convert, analyze, or store data from molecular modeling, chemistry, "
+"solid-state materials, biochemistry, or related areas."
+msgstr ""
+
+#. summary(opencc:libopencc1)
+msgid "Open Chinese Convert"
+msgstr ""
+
+#. summary(opal:libopal3_10_5)
+msgid "Open Phone Abstraction Library"
+msgstr ""
+
+#. description(opal:libopal3_10_5)
+msgid ""
+"Open Phone Abstraction Library, implementation of the ITU H.323 "
+"teleconferencing protocol, and successor of the openh323 library. It "
+"supports the H.323 protocol as well as SIP and IAX2."
+msgstr ""
+
+#. description(libopensync)
+msgid ""
+"OpenSync is a synchronization framework that is platform and distribution "
+"independent. It consists of several plug-ins that can be used to connect to "
+"devices, a powerful sync engine, and the framework itself. The "
+"synchronization framework is kept very flexible and is capable of "
+"synchronizing any type of data, including contacts, calendar, tasks, notes, "
+"and files.\n"
+"\n"
+"To sync various sources, additionally install the plug-ins."
+msgstr ""
+
+#. summary(libopensync-plugin-python-module)
+msgid "OpenSync module for Python plugins"
+msgstr ""
+
+#. summary(poppler-qt:libpoppler-qt4-4)
+msgid "PDF Rendering Library - Qt4 Wrapper"
+msgstr ""
+
+#. summary(podofo:libpodofo0_9_1)
+#, fuzzy
+msgid "PDF parsing and creation library"
+msgstr "加密"
+
+#. summary(poppler:libpoppler-devel)
+msgid "PDF rendering library"
+msgstr ""
+
+#. summary(poppler-qt:libpoppler-qt4-devel)
+msgid "PDF rendering library - Qt4 Wrapper"
+msgstr ""
+
+#. description(pacemaker:libpacemaker3)
+msgid ""
+"Pacemaker is an advanced, scalable High-Availability cluster resource "
+"manager for Linux-HA (Heartbeat) and/or OpenAIS.\n"
+"\n"
+"It supports \"n-node\" clusters with significant capabilities for managing "
+"resources and dependencies.\n"
+"\n"
+"It will run scripts at initialization, when machines go up or down, when "
+"related resources fail and can be configured to periodically check resource "
+"health."
+msgstr ""
+
+#. summary(libmal)
+msgid "Palm Sync Library"
+msgstr ""
+
+#. summary(pilot-link:libpisock-devel)
+#, fuzzy
+msgid "PalmPilot Development Header Files"
+msgstr "开发"
+
+#. description(SDL_Pango:libSDL_Pango1)
+msgid ""
+"Pango is the text rendering engine of GNOME 2.x. SDL_Pango connects the "
+"engine to SDL."
+msgstr ""
+
+#. summary(libpano:libpano13-2)
+msgid "Panorama Tools Back-End Library"
+msgstr ""
+
+#. description(pilot-link:libpisock9)
+msgid ""
+"Pilot-Link Library for Palm Devices.\n"
+"\n"
+"If you want to develop Palm synchronization applications, you will need to "
+"install libpisock-devel."
+msgstr ""
+
+#. summary(pilot-link:libpisock9)
+msgid "Pilot-Link Library for Palm devices"
+msgstr ""
+
+#. summary(pixman:libpixman-1-0-devel)
+msgid "Pixel manipulation library - development files"
+msgstr ""
+
+#. summary(gtkhotkey:libgtkhotkey1)
+msgid "Platform Independent Hotkey Handling for GTK+ Applications"
+msgstr ""
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-pl)
+#, fuzzy
+msgid "Polish Dictionary for LibreOffice Language Tool"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group4:libreoffice-help-pl)
+#, fuzzy
+msgid "Polish Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-pl)
+#, fuzzy
+msgid "Polish Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-pl)
+#, fuzzy
+msgid "Polish Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group4:libreoffice-help-pl)
+#, fuzzy
+msgid ""
+"Polish help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-pl."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-pl)
+#, fuzzy
+msgid "Polish localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libpt2:libpt2_10_5)
+msgid "Portable Windows Library from Equivalence Pty. Ltd. version 2"
+msgstr ""
+
+#. summary(libreoffice-help-group4:libreoffice-help-pt)
+#, fuzzy
+msgid "Portuguese Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-pt)
+#, fuzzy
+msgid "Portuguese Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-pt)
+#, fuzzy
+msgid "Portuguese Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group4:libreoffice-help-pt)
+#, fuzzy
+msgid ""
+"Portuguese help localization for LibreOffice. The other localized stuff is "
+"in libreoffice-l10n-pt."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-pt)
+#, fuzzy
+msgid "Portuguese localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(postgresql-libs:libpq5)
+msgid ""
+"PostgreSQL is an advanced object-relational database management system that "
+"supports an extended subset of the SQL standard, including transactions, "
+"foreign keys, subqueries, triggers, user-defined types and functions.\n"
+"\n"
+"This package provides the client library that most PostgreSQL client program "
+"or language bindings are using."
+msgstr ""
+
+#. summary(libreoffice-templates-presentation-layouts)
+#, fuzzy
+msgid "Presentation Layout Templates for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(SDL_Pango:libSDL_Pango1)
+msgid "Programming Pango via SDL"
+msgstr ""
+
+#. description(libpciaccess:libpciaccess-devel)
+msgid ""
+"Provides functionality for X to access the PCI bus and devices in a platform-"
+"independent way.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libpciaccess0."
+msgstr ""
+
+#. description(goocanvas1:libgoocanvas3-lang)
+#, fuzzy
+msgid "Provides translations to the package goocanvas1"
+msgstr "等待导航栏应用程序"
+
+#. description(libgnome:libgnome-lang)
+#, fuzzy
+msgid "Provides translations to the package libgnome"
+msgstr "等待导航栏应用程序"
+
+#. description(libgnome-keyring:libgnome-keyring-lang)
+#, fuzzy
+msgid "Provides translations to the package libgnome-keyring"
+msgstr "等待导航栏应用程序"
+
+#. description(libgnome-media-profiles:libgnome-media-profiles-lang)
+#, fuzzy
+msgid "Provides translations to the package libgnome-media-profiles"
+msgstr "等待导航栏应用程序"
+
+#. description(libgnomecanvas:libgnomecanvas-lang)
+#, fuzzy
+msgid "Provides translations to the package libgnomecanvas"
+msgstr "等待导航栏应用程序"
+
+#. description(libgnomekbd:libgnomekbd-lang)
+#, fuzzy
+msgid "Provides translations to the package libgnomekbd"
+msgstr "等待导航栏应用程序"
+
+#. description(libgnomesu:libgnomesu-lang)
+#, fuzzy
+msgid "Provides translations to the package libgnomesu"
+msgstr "等待导航栏应用程序"
+
+#. description(libgnomeui:libgnomeui-lang)
+#, fuzzy
+msgid "Provides translations to the package libgnomeui"
+msgstr "等待导航栏应用程序"
+
+#. description(libgphoto2:libgphoto2-lang)
+#, fuzzy
+msgid "Provides translations to the package libgphoto2"
+msgstr "等待导航栏应用程序"
+
+#. description(libgpod:libgpod-lang)
+#, fuzzy
+msgid "Provides translations to the package libgpod"
+msgstr "等待导航栏应用程序"
+
+#. description(libgsf:libgsf-lang)
+#, fuzzy
+msgid "Provides translations to the package libgsf"
+msgstr "等待导航栏应用程序"
+
+#. description(libgtop:libgtop-lang)
+#, fuzzy
+msgid "Provides translations to the package libgtop"
+msgstr "等待导航栏应用程序"
+
+#. description(libgweather:libgweather-lang)
+#, fuzzy
+msgid "Provides translations to the package libgweather"
+msgstr "等待导航栏应用程序"
+
+#. description(libiptcdata:libiptcdata-lang)
+msgid "Provides translations to the package libiptcdata"
+msgstr ""
+
+#. description(libktorrent:libktorrent5-lang)
+msgid "Provides translations to the package libktorrent"
+msgstr ""
+
+#. description(libpeas:libpeas-lang)
+msgid "Provides translations to the package libpeas"
+msgstr ""
+
+#. description(pidgin:libpurple-lang)
+msgid "Provides translations to the package pidgin"
+msgstr ""
+
+#. summary(libreoffice:libreoffice-pyuno)
+#, fuzzy
+msgid "Python UNO Bridge for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(python3-base:libpython3_2mu1_0)
+msgid ""
+"Python is an interpreted, object-oriented programming language, and is often "
+"compared to Tcl, Perl, Scheme, or Java.  You can find an overview of Python "
+"in the documentation and tutorials included in the python-doc (HTML) or "
+"python-doc-pdf (PDF) packages.\n"
+"\n"
+"This package contains libpython3.2 shared library for embedding in other "
+"applications."
+msgstr ""
+
+#. description(qscintilla:libqscintilla-devel)
+msgid ""
+"QScintilla is a Qt port of Neil Hodgson's Scintilla C++ editor class.\n"
+"\n"
+"This is a Qt port from the original Scintilla class (http://www.scintilla."
+"org/).\n"
+"\n"
+"This package is mainly used by eric, the Python IDE."
+msgstr ""
+
+#. description(qhull:libqhull6-6_3_1_1494)
+msgid ""
+"Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram, "
+"halfspace intersection about a point, furthest-site Delaunay triangulation, "
+"and furthest-site Voronoi diagram. The source code runs in 2-d, 3-d, 4-d, "
+"and higher dimensions. Qhull implements the Quickhull algorithm for "
+"computing the convex hull. It handles roundoff errors from floating point "
+"arithmetic. It computes volumes, surface areas, and approximations to the "
+"convex hull.\n"
+"\n"
+"Qhull does not support constrained Delaunay triangulations, triangulation of "
+"non-convex surfaces, mesh generation of non-convex objects, or medium-sized "
+"inputs in 9-D and higher."
+msgstr ""
+
+#. summary(libqt4-sql-plugins:libqt4-sql-postgresql)
+msgid "Qt 4 PostgreSQL plugin"
+msgstr ""
+
+#. summary(libqt4-sql-plugins:libqt4-sql-unixODBC)
+msgid "Qt 4 unixODBC plugin"
+msgstr ""
+
+#. summary(libqt4:libqt4-devel)
+#, fuzzy
+msgid "Qt Development Kit"
+msgstr "开发"
+
+#. description(libqt4-sql-plugins:libqt4-sql-postgresql)
+msgid "Qt SQL plugin to support PostgreSQL servers in Qt applications."
+msgstr ""
+
+#. summary(QtZeitgeist:libqzeitgeist1)
+msgid "Qt Zeitgeist Library"
+msgstr ""
+
+#. description(libqt4-sql-plugins:libqt4-sql-unixODBC)
+msgid ""
+"Qt unixODBC plugin to support databases via unixODBC within Qt applications."
+msgstr ""
+
+#. summary(oniguruma:libonig2)
+msgid "Regex Library Supporting Different Character Encodings"
+msgstr ""
+
+#. summary(libmsn:libmsn-devel)
+msgid "Reusable, open-source library for MSN Messenger"
+msgstr ""
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-ro)
+msgid "Romanian Dictionary for LibreOffice Language Tool"
+msgstr ""
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-ro)
+#, fuzzy
+msgid "Romanian Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-ru)
+msgid "Russian Dictionary for LibreOffice Language Tool"
+msgstr ""
+
+#. summary(libreoffice-help-group5:libreoffice-help-ru)
+#, fuzzy
+msgid "Russian Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ru)
+#, fuzzy
+msgid "Russian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-templates-ru)
+#, fuzzy
+msgid "Russian Templates for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-ru)
+#, fuzzy
+msgid "Russian Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group5:libreoffice-help-ru)
+#, fuzzy
+msgid ""
+"Russian help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-ru."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ru)
+#, fuzzy
+msgid "Russian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(SDL_gfx:libSDL_gfx13)
+msgid "SDL Graphics Routines for Primitives and Other Support Functions"
+msgstr ""
+
+#. summary(SDL:libSDL-devel)
+msgid "SDL Library Developer Files"
+msgstr ""
+
+#. description(SDL_sound:libSDL_sound-1_0-1)
+msgid ""
+"SDL_sound is a library that handles the decoding of several popular sound "
+"file formats, such as wav, ogg mp3 and midi. SDL_sound can just play a file "
+"or alternatively decode a file and hand back a single pointer to the "
+"waveform. SDL_sound also can handle channel conversion on-the-fly and behind-"
+"the-scenes."
+msgstr ""
+
+#. summary(SDL_mixer:libSDL_mixer-1_2-0)
+msgid "Sample Mixer Library for SDL"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-sr)
+#, fuzzy
+msgid "Serbian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-sr)
+#, fuzzy
+msgid "Serbian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(ktoblzcheck:libktoblzcheck1)
+msgid "Shared Libraries for ktoblzcheck"
+msgstr ""
+
+#. description(ktoblzcheck:libktoblzcheck1)
+msgid "Shared Libraries for package ktoblzcheck."
+msgstr ""
+
+#. summary(qwt:libqwt5)
+#, fuzzy
+msgid "Shared library for Qt Widgets"
+msgstr "6.10 禁用 powersave 守护程序"
+
+#. summary(libotf:libotf0)
+msgid "Shared library for libotf"
+msgstr ""
+
+#. summary(mxml:libmxml1)
+#, fuzzy
+msgid "Shared library for mxml"
+msgstr "正在创建资源数据库"
+
+#. description(mono-qt4:libqyoto2)
+#, fuzzy
+msgid "Shared library for the .NET/Mono bindings for the Qt4 libraries."
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libkdcraw:libkdcraw-devel)
+msgid "Shared library interface around dcraw"
+msgstr ""
+
+#. summary(SDL_net:libSDL_net-1_2-0)
+msgid "Simple DirectMedia Layer - Networking Library"
+msgstr ""
+
+#. summary(SDL_ttf:libSDL_ttf-2_0-0)
+msgid "Simple DirectMedia Layer - Truetype Library"
+msgstr ""
+
+#. summary(SDL_image:libSDL_image-1_2-0)
+msgid "Simple DirectMedia Layer--Sample Image Loading Library"
+msgstr ""
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-sk)
+#, fuzzy
+msgid "Slovak Dictionary for LibreOffice Language Tool"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-sk)
+#, fuzzy
+msgid "Slovak Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-sk)
+#, fuzzy
+msgid "Slovak Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-sk)
+#, fuzzy
+msgid "Slovak localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group5:libreoffice-help-sl)
+#, fuzzy
+msgid "Slovene Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-sl)
+#, fuzzy
+msgid "Slovene Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group5:libreoffice-help-sl)
+#, fuzzy
+msgid ""
+"Slovene help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-sl."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-sl)
+#, fuzzy
+msgid "Slovene localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-sl)
+#, fuzzy
+msgid "Slovenian Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-st)
+#, fuzzy
+msgid "Sotho Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-st)
+#, fuzzy
+msgid "Sotho localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(SDL_sound:libSDL_sound-1_0-1)
+msgid "Sound Sample Library for SDL (Simple DirectMedia Layer)"
+msgstr ""
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-es)
+#, fuzzy
+msgid "Spanish Dictionary for LibreOffice Language Tool"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-help-group2:libreoffice-help-es)
+#, fuzzy
+msgid "Spanish Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-es)
+#, fuzzy
+msgid "Spanish Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-es)
+#, fuzzy
+msgid "Spanish Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group2:libreoffice-help-es)
+#, fuzzy
+msgid ""
+"Spanish help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-es."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-es)
+#, fuzzy
+msgid "Spanish localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(liblqr:liblqr-devel)
+#, fuzzy
+msgid "Static library and header files for the LiquidRescale library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ss)
+#, fuzzy
+msgid "Swazi Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ss)
+#, fuzzy
+msgid "Swazi localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-languagetool:libreoffice-languagetool-sv)
+msgid "Swedish Dictionary for LibreOffice Language Tool"
+msgstr ""
+
+#. summary(libreoffice-help-group5:libreoffice-help-sv)
+#, fuzzy
+msgid "Swedish Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-sv)
+#, fuzzy
+msgid "Swedish Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-sv)
+#, fuzzy
+msgid "Swedish Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group5:libreoffice-help-sv)
+#, fuzzy
+msgid ""
+"Swedish help localization for LibreOffice. The other localized stuff is in "
+"libreoffice-l10n-sv."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-sv)
+#, fuzzy
+msgid "Swedish localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(oprofile:libopagent1)
+msgid "System-Wide Profiler for Linux Systems"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-tg)
+#, fuzzy
+msgid "Tajiki Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-tg)
+#, fuzzy
+msgid "Tajiki localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-th)
+#, fuzzy
+msgid "Thai Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-th)
+#, fuzzy
+msgid "Thai localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-en-US)
+msgid ""
+"The American thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-es-AR)
+msgid ""
+"The Argentine Spanish thesaurus dictionary that can be used to look up for "
+"synonyms and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-en-AU)
+msgid ""
+"The Australian thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-de-AT)
+msgid ""
+"The Austrian thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-en-GB)
+msgid ""
+"The British thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-bg)
+msgid ""
+"The Bulgarian thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-ca)
+msgid ""
+"The Catalan dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-ca)
+msgid ""
+"The Catalan thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-cs)
+msgid ""
+"The Czech thesaurus dictionary that can be used to look up for synonyms and "
+"related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-da)
+msgid ""
+"The Danish thesaurus dictionary that can be used to look up for synonyms and "
+"related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-nl)
+msgid ""
+"The Dutch dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-en)
+msgid ""
+"The English dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-fr)
+msgid ""
+"The French dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-fr)
+msgid ""
+"The French thesaurus dictionary that can be used to look up for synonyms and "
+"related words in the LibreOffice office suite."
+msgstr ""
+
+#. summary(gnome-desktop:libgnome-desktop-3-devel)
+#, fuzzy
+msgid "The GNOME Desktop API Library -- Development Files"
+msgstr "GNOME 开发"
+
+#. description(libgnome-media-profiles:libgnome-media-profiles-3_0-0)
+msgid ""
+"The GNOME Media Profiles library provides prebuilt GStreamer pipelines for "
+"applications aiming to support different sound formats."
+msgstr ""
+
+#. summary(libgnomeui)
+#, fuzzy
+msgid "The GNOME User Interface Library"
+msgstr "通知"
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-gl)
+msgid ""
+"The Galician dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-de)
+msgid ""
+"The German dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-de)
+msgid ""
+"The German thesaurus dictionary that can be used to look up for synonyms and "
+"related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-de-CH)
+msgid ""
+"The German-Swiss thesaurus dictionary that can be used to look up for "
+"synonyms and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-el)
+msgid ""
+"The Greek thesaurus dictionary that can be used to look up for synonyms and "
+"related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-hu)
+msgid ""
+"The Hungarian thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libICE:libICE-devel)
+msgid ""
+"The Inter-Client Exchange (ICE) protocol is intended to provide a framework "
+"for building such protocols, allowing them to make use of common negotiation "
+"mechanisms and to be multiplexed over a single transport connection.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libICE6."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-ga)
+msgid ""
+"The Irish thesaurus dictionary that can be used to look up for synonyms and "
+"related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-it)
+msgid ""
+"The Italian dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-it)
+msgid ""
+"The Italian thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libdrm:libkms1)
+msgid "The KMS Memory Management abstraction library."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-km)
+msgid ""
+"The Khmer dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(liblqr:liblqr-1-0)
+msgid ""
+"The Liquid Rescale (lqr) library provides a C/C++ API for performing non-"
+"uniform resizing of images by the seam-carving technique."
+msgstr ""
+
+#. description(liblqr:liblqr-devel)
+msgid ""
+"The Liquid Rescale (lqr) library provides a C/C++ API for performing non-"
+"uniform resizing of images by the seam-carving technique.\n"
+"\n"
+"This package contains the static LiquidRescale library and its header files."
+msgstr ""
+
+#. description(mono-core:libmono-2_0-1)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"A Library for embedding Mono in your Application."
+msgstr ""
+
+#. description(mono-core:libmono-2_0-devel)
+msgid ""
+"The Mono Project is an open development initiative that is working to "
+"develop an open source, Unix version of the .NET development platform. Its "
+"objective is to enable Unix developers to build and deploy cross-platform ."
+"NET applications. The project will implement various technologies that have "
+"been submitted to the ECMA for standardization.\n"
+"\n"
+"Development files for libmono."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-ne)
+msgid ""
+"The Nepali thesaurus dictionary that can be used to look up for synonyms and "
+"related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-nb)
+msgid ""
+"The Norwegian Bokmaal thesaurus dictionary that can be used to look up for "
+"synonyms and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(opencv:libopencv2_4)
+msgid ""
+"The Open Computer Vision Library is a collection of algorithms and sample "
+"code for various computer vision problems. The library is compatible with "
+"IPL and utilizes Intel Integrated Performance Primitives for better "
+"performance."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-pl)
+msgid ""
+"The Polish dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-pl)
+msgid ""
+"The Polish thesaurus dictionary that can be used to look up for synonyms and "
+"related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-pt)
+msgid ""
+"The Portuguese thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice:libreoffice-pyuno)
+msgid ""
+"The Python-UNO bridge allows to use the standard LibreOffice API from the "
+"well known Python scripting language. It can be used to develop UNO "
+"components in python, thus python UNO components may be run within the "
+"LibreOffice process and can be called from Java, C++ or the built in "
+"StarBasic scripting language. You can create and invoke scripts with the "
+"office scripting framework (OOo 2.0 and later) with it. For example, it is "
+"used for the mail merge functionality.\n"
+"\n"
+"You can find the more information at http://udk.openoffice.org/python/python-"
+"bridge.html"
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-ro)
+msgid ""
+"The Romanian dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-ro)
+msgid ""
+"The Romanian thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-ru)
+msgid ""
+"The Russian dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-ru)
+msgid ""
+"The Russian thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(SDL_gfx:libSDL_gfx13)
+msgid ""
+"The SDL_gfx library evolved out of the SDL_gfxPrimitives code which provided "
+"basic drawing routines such as lines, circles or polygons and SDL_rotozoom "
+"which implemented a interpolating rotozoomer for SDL surfaces. The current "
+"components of the SDL_gfx library are:\n"
+"\n"
+"- Graphic Primitives (SDL_gfxPrimitives.h)\n"
+"\n"
+"- Rotozoomer (SDL_rotozoom.h)\n"
+"\n"
+"- Framerate control (SDL_framerate.h)\n"
+"\n"
+"-  MMX image filters (SDL_imageFilter.h)\n"
+"\n"
+"The library is backwards compatible to the above mentioned code. It is "
+"written in plain C and can be used in C++ code."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-sk)
+msgid ""
+"The Slovak dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-sk)
+msgid ""
+"The Slovak thesaurus dictionary that can be used to look up for synonyms and "
+"related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-sl)
+msgid ""
+"The Slovenian thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-es)
+msgid ""
+"The Spanish dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-es)
+msgid ""
+"The Spanish thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-languagetool:libreoffice-languagetool-sv)
+msgid ""
+"The Swedish dictionary that can be used to check grammar and other more "
+"complex mistakes using the LibreOffice language tool extension."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-sv)
+msgid ""
+"The Swedish thesaurus dictionary that can be used to look up for synonyms "
+"and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice-thesaurus:libreoffice-thesaurus-es-VE)
+msgid ""
+"The Venezuelan Spanish thesaurus dictionary that can be used to look up for "
+"synonyms and related words in the LibreOffice office suite."
+msgstr ""
+
+#. description(gnome-desktop2:libgnome-desktop-2-17)
+msgid ""
+"The libgnome-desktop library provides API shared by several applications on "
+"the desktop, but that cannot live in the platform for various reasons. There "
+"is no API or ABI guarantee, although we are doing our best to provide "
+"stability. Documentation for the API is available with gtk-doc."
+msgstr ""
+
+#. description(libimobiledevice:libimobiledevice-devel)
+#, fuzzy
+msgid ""
+"The libimobiledevice-devel package contains libraries and header files for "
+"developing applications that use libimobiledevice3."
+msgstr "包中含有意外的版本"
+
+#. description(libjpeg-turbo:libjpeg8-devel)
+msgid ""
+"The libjpeg-devel package includes the header files and libraries necessary "
+"for compiling and linking programs which will manipulate JPEG files using "
+"the libjpeg library."
+msgstr ""
+
+#. summary(libmpd:libmpd1)
+msgid "The libmpd package"
+msgstr ""
+
+#. description(libpng12:libpng12-compat-devel)
+msgid ""
+"The libpng12-compat-devel package contains unversioned symlinks to the "
+"header files, libraries, configuration files and development tools necessary "
+"for compiling and linking programs that don't care about libpng version."
+msgstr ""
+
+#. description(libpng12:libpng12-devel)
+msgid ""
+"The libpng12-devel package includes the header files, libraries, "
+"configuration files and development tools necessary for compiling and "
+"linking programs which will manipulate PNG files using libpng12.\n"
+"\n"
+"libpng is the official reference library for the Portable Network Graphics "
+"(PNG) format."
+msgstr ""
+
+#. description(libpng14:libpng14-devel)
+msgid ""
+"The libpng14-devel package includes the header files, libraries, "
+"configuration files and development tools necessary for compiling and "
+"linking programs which will manipulate PNG files using libpng14.\n"
+"\n"
+"libpng is the official reference library for the Portable Network Graphics "
+"(PNG) format."
+msgstr ""
+
+#. description(gcc47:libobjc47)
+#, fuzzy
+msgid "The library for the GNU Objective C compiler."
+msgstr "C/C++ 编译器和工具"
+
+#. description(libsepol:libsepol-devel)
+#, fuzzy
+msgid ""
+"The libsepol-devel package contains the libraries and header files needed "
+"for developing applications that manipulate binary policies."
+msgstr "包中含有意外的版本"
+
+#. summary(openais:libopenais3)
+msgid "The openais Standards-Based Cluster Framework libraries"
+msgstr ""
+
+#. description(libmspack:libmspack0)
+msgid ""
+"The purpose of libmspack is to provide both compression and decompression of "
+"some loosely related file formats used by Microsoft. Currently the most "
+"common formats are implemented."
+msgstr ""
+
+#. description(libserf:libserf-1-0)
+msgid ""
+"The serf library is a C-based HTTP client library built upon the Apache "
+"Portable Runtime (APR) library. It multiplexes connections, running the read/"
+"write communication asynchronously. Memory copies and transformations are "
+"kept to a minimum to provide high performance operation."
+msgstr ""
+
+#. description(marble:libmarblewidget14)
+#, fuzzy
+msgid "The shared library for the MarbleWidget shared library."
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(goffice-0_8:libgoffice-0_8-8)
+msgid ""
+"These are common operations for document-centric applications that    are "
+"conceptually simple, but complex to implement fully. -    Plug-ins\n"
+"\n"
+"- Load and save documents\n"
+"\n"
+"- Undo and redo\n"
+"\n"
+"GOffice is a GLib/GTK+ set of document-centric objects and utilities."
+msgstr ""
+
+#. description(netpbm:libnetpbm-devel)
+msgid ""
+"These are the libs for the netpbm graphic formats. The tools can be found in "
+"the netpbm package. The sources are contained in the netpbm source package."
+msgstr ""
+
+#. description(ImageMagick:libMagick++5)
+msgid ""
+"This is Magick++, the object-oriented C++ API for the ImageMagick image-"
+"processing library.\n"
+"\n"
+"Magick++ supports an object model inspired by PerlMagick. Magick++ should be "
+"faster than PerlMagick since it is written in a compiled language which is "
+"not parsed at run-time. This makes it suitable for Web CGI programs. Images "
+"support implicit reference counting so that copy constructors and assignment "
+"incur almost no cost. The cost of actually copying an image (if necessary) "
+"is done just before modification and this copy is managed automatically by "
+"Magick++. De-referenced copies are automatically deleted. The image objects "
+"support value (rather than pointer) semantics so it is trivial to support "
+"multiple generations of an image in memory at one time."
+msgstr ""
+
+#. description(libpt2:libpt2_10_5)
+msgid ""
+"This is a moderately large class library that was created many years ago as "
+"a method to produce applications that run on both Microsoft Windows and the "
+"X Window System."
+msgstr ""
+
+#. description(xiterm:libiterm)
+msgid ""
+"This is a portable library for internationalized terminal emulator. All you "
+"need to make terminal emulator is to implements Callback functions, like a "
+"drawing string on specific column and row, or set fore/background color and "
+"so on."
+msgstr ""
+
+#. description(SDL_ttf:libSDL_ttf-2_0-0)
+msgid ""
+"This is a sample library that allows you to use TrueType fonts in your SDL "
+"applications."
+msgstr ""
+
+#. description(SDL_image:libSDL_image-1_2-0)
+msgid ""
+"This is a simple library to load images of various formats as SDL surfaces. "
+"This library supports BMP, PPM, PCX, GIF, JPEG, PNG, and TIFF formats."
+msgstr ""
+
+#. description(SDL_net:libSDL_net-1_2-0)
+msgid "This is a small cross-platform networking library for use with SDL."
+msgstr ""
+
+#. description(libosip2)
+msgid ""
+"This is the GNU oSIP library. It has been designed to provide the Internet "
+"community with a simple way to support the Session Initiation Protocol. SIP "
+"is described in the RFC 3261, which is available at http://www.ietf.org/rfc/"
+"rfc3261.txt."
+msgstr ""
+
+#. description(udev:libgudev-1_0-devel)
+#, fuzzy
+msgid ""
+"This is the devel package for the GObject library libgudev, which provides "
+"GObject access to udev device information."
+msgstr "包中含有意外的版本"
+
+#. description(libpqxx)
+msgid ""
+"This is the standard library for C++ programs that connect to a PostgreSQL "
+"database server."
+msgstr ""
+
+#. description(libmng:libmng-devel)
+msgid ""
+"This library can handle MNG and JNG formats which contain animated pictures. "
+"These formats should replace the GIF format.\n"
+"\n"
+"This package contains the static library and the header files."
+msgstr ""
+
+#. description(libgnomeui)
+msgid ""
+"This library contains all the user interface-related functions for GNOME-"
+"based software. You need the libgnomeui-devel package if you want to develop "
+"GNOME 2.x Desktop software."
+msgstr ""
+
+#. description(libiec61883)
+msgid ""
+"This library is an implementation of IEC 61883, part 1 (CIP, plug registers, "
+"and CMP), part 2 (DV-SD), part 4 (MPEG2-TS), and part 6 (AMDTP). Outside of "
+"IIDC, nearly all FireWire multimedia devices use IEC 61883 protocols.\n"
+"\n"
+"The libiec61883 library provides a higher level API for streaming DV, MPEG-2 "
+"and audio over Linux IEEE 1394. This includes both reception and "
+"transmission. It uses the new \"rawiso\" API of libraw1394, which "
+"transparently provides mmap-ed DMA for efficient data transfer. It also "
+"represents the third generation of I/O technology for Linux 1394 for these "
+"media types thereby removing the complexities of additional kernel modules, /"
+"dev nodes, and procfs. It also consolidates features for plug control "
+"registers and connection management that previously existed in experimental "
+"form in an unreleased version of libavc1394."
+msgstr ""
+
+#. description(evolution-ews:liblzx0)
+msgid "This library is an implementation of the LZX compression algorithm."
+msgstr ""
+
+#. description(libopensync-plugin-python-module)
+msgid ""
+"This module allows Python based plugins using OpenSync.\n"
+"\n"
+"Additionally install the libopensync package."
+msgstr ""
+
+#. description(libreoffice:libreoffice-math)
+msgid ""
+"This module allows you to create and edit scientific formulas and equations "
+"by using LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice:libreoffice-mailmerge)
+msgid ""
+"This module allows you to create form letters or send E-mail messages to "
+"many recipients using LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice:libreoffice-base)
+msgid ""
+"This module allows you to manage databases, create queries and reports to "
+"track and manage your information by using LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice:libreoffice-calc)
+msgid ""
+"This module allows you to perform calculation, analyze information and "
+"manage lists in spreadsheets by using LibreOffice office suite."
+msgstr ""
+
+#. description(libreoffice:libreoffice-base-drivers-mysql)
+msgid "This package allows to access MySQL databases from LibreOffice Base."
+msgstr ""
+
+#. description(libreoffice-templates-presentation-layouts)
+#, fuzzy
+msgid ""
+"This package contains a collection of presentation layout templates for "
+"LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(kanagram:libkanagramengine4)
+msgid "This package contains a library for the Kanagram letter order game"
+msgstr ""
+
+#. description(khangman:libkhangmanengine4)
+#, fuzzy
+msgid "This package contains a library for the Khangman game"
+msgstr "获得包含文件的包"
+
+#. description(libksane:libksane-devel)
+msgid ""
+"This package contains a library to add scan support to KDE applications."
+msgstr ""
+
+#. description(libkdeedu4:libkdeedu4-devel)
+#, fuzzy
+msgid ""
+"This package contains all necessary files and libraries needed to develop "
+"KDE education applications."
+msgstr "包中含有意外的版本"
+
+#. description(libogg:libogg-devel)
+#, fuzzy
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"compile and develop applications that use libogg."
+msgstr "包中含有意外的版本"
+
+#. description(kdepimlibs4:libkdepimlibs4-devel)
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"develop KDE PIM applications."
+msgstr ""
+
+#. description(kdelibs4:libkde4-devel)
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"develop KDE applications."
+msgstr ""
+
+#. description(kdebase4:libkonq-devel)
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"develop KDE file manager applications."
+msgstr ""
+
+#. description(kdelibs4:libkdecore4-devel)
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"develop non-graphical KDE applications."
+msgstr ""
+
+#. description(libkdeedu4:libkdeedu4-data)
+#, fuzzy
+msgid ""
+"This package contains common data files used by various KDE education "
+"applications."
+msgstr "包中含有意外的版本"
+
+#. description(libindi:libindi-devel)
+#, fuzzy
+msgid "This package contains development files for libindi."
+msgstr "包中含有意外的版本"
+
+#. description(digikam:libkface-devel)
+#, fuzzy
+msgid "This package contains development files for libkface."
+msgstr "包中含有意外的版本"
+
+#. description(digikam:libkgeomap-devel)
+#, fuzzy
+msgid "This package contains development files for libkgeomap."
+msgstr "包中含有意外的版本"
+
+#. description(libnova:libnova-devel)
+#, fuzzy
+msgid "This package contains development files for libnova."
+msgstr "包中含有意外的版本"
+
+#. description(libqimageblitz4:libqimageblitz-devel)
+#, fuzzy
+msgid "This package contains development files for libqimageblitz."
+msgstr "包中含有意外的版本"
+
+#. description(podofo:libpodofo-devel)
+#, fuzzy
+msgid "This package contains development files for podofo library."
+msgstr "包中含有意外的版本"
+
+#. description(libQtWebKit4:libQtWebKit-devel)
+#, fuzzy
+msgid "This package contains development files for qtwebkit."
+msgstr "包中含有意外的版本"
+
+#. description(SDL:libSDL-devel)
+msgid ""
+"This package contains files needed for development with the SDL library."
+msgstr ""
+
+#. description(libpqxx:libpqxx-devel)
+msgid ""
+"This package contains header files and documentation needed for writing C++ "
+"programs that connect to a PostgreSQL database."
+msgstr ""
+
+#. description(openais:libopenais3)
+#, fuzzy
+msgid "This package contains openais libraries."
+msgstr "获得包含文件的包"
+
+#. description(kdevplatform:libkdevplatform-devel)
+#, fuzzy
+msgid ""
+"This package contains the development files for building integrated "
+"developments environments based on the KDevelop framework."
+msgstr "包中含有意外的版本"
+
+#. description(libselinux:libselinux-devel)
+#, fuzzy
+msgid ""
+"This package contains the development files, which are necessary to develop "
+"your own software using libselinux."
+msgstr "包中含有意外的版本"
+
+#. description(mysql-community-server:libmysqlclient-devel)
+#, fuzzy
+msgid ""
+"This package contains the development header files and libraries necessary "
+"to develop client applications for MySQL Community Server."
+msgstr "包中含有意外的版本"
+
+#. description(kdemultimedia4:libkcompactdisc4-devel)
+#, fuzzy
+msgid "This package contains the development headers for the libkcompactdisc."
+msgstr "包中含有意外的版本"
+
+#. description(libmtp:libmtp-devel)
+msgid ""
+"This package contains the development headers for the libmtp library that "
+"allows access to USB based media players based on the MTP (Media Transfer "
+"Protocol) authored by Microsoft."
+msgstr ""
+
+#. description(pilot-link:libpisock-devel)
+#, fuzzy
+msgid "This package contains the development headers of libpisock."
+msgstr "包中含有意外的版本"
+
+#. description(jack:libjack-devel)
+#, fuzzy
+msgid ""
+"This package contains the files needed to compile programs that communicate "
+"with jack clients/servers."
+msgstr "包中含有意外的版本"
+
+#. description(raptor:libraptor-devel)
+msgid ""
+"This package contains the files needed to compile programs that use the "
+"raptor library."
+msgstr ""
+
+#. description(rasqal:librasqal-devel)
+msgid ""
+"This package contains the files needed to develop with the Rasqal RDF query "
+"language library."
+msgstr ""
+
+#. description(qalculate:libqalculate-devel)
+msgid ""
+"This package contains the header files, static libraries and development "
+"documentation for libqalculate. If you like to develop programs using "
+"libqalculate, you will need to install libqalculate-devel."
+msgstr ""
+
+#. description(kdevplatform:libkdevplatform0)
+msgid ""
+"This package contains the libraries for integrated development environments "
+"based on the KDevelop framework."
+msgstr ""
+
+#. description(libkdeedu4:libkeduvocdocument4)
+#, fuzzy
+msgid ""
+"This package contains the library which is required by the KDE education "
+"applications."
+msgstr "包中含有意外的版本"
+
+#. description(qwt:libqwt5)
+#, fuzzy
+msgid ""
+"This package contains the shared library to run Technical Applications "
+"developed with/for qwt."
+msgstr "最近使用过的应用程序"
+
+#. description(libreoffice-converter)
+msgid ""
+"This package includes a simple script ooconvert that can be used to convert "
+"various document file formats on the commandline. It uses LibreOffice that "
+"guarantees the quality and the variety of available document file formats."
+msgstr ""
+
+#. description(libreoffice:libreoffice-filters-optional)
+msgid ""
+"This package includes some additional import and export filters for "
+"LibreOffice:\n"
+"\n"
+"- AportisDoc (Palm)\n"
+"\n"
+"- Pocket Excel\n"
+"\n"
+"- Pocket Word\n"
+"\n"
+"- DocBook\n"
+"\n"
+"- XHTML"
+msgstr ""
+
+#. description(kdemultimedia4:libkcddb4-devel)
+#, fuzzy
+msgid "This package includes the development headers for libkcddb."
+msgstr "包中含有意外的版本"
+
+#. description(libktorrent:libktorrent-devel)
+#, fuzzy
+msgid ""
+"This package includes the necessary files for development using libktorrent."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-icon-themes:libreoffice-icon-theme-crystal)
+msgid ""
+"This package provides Crystal LibreOffice icon theme. It is used in KDE3 by "
+"default."
+msgstr ""
+
+#. description(libreoffice-icon-themes:libreoffice-icon-theme-galaxy)
+msgid ""
+"This package provides Galaxy LibreOffice icon theme. It is used in the "
+"original OOo-3.x by default."
+msgstr ""
+
+#. description(libreoffice-icon-themes:libreoffice-icon-theme-hicontrast)
+#, fuzzy
+msgid "This package provides Hicontrast LibreOffice icon theme."
+msgstr "包中含有意外的版本"
+
+#. description(libkipi:libkipi-devel)
+msgid ""
+"This package provides a generic KDE Image Plug-in Interface used by some KDE "
+"image applications. Plug-ins for this interface are in the kipi-plugins "
+"package."
+msgstr ""
+
+#. description(libqca2:libqca2-devel)
+msgid ""
+"This package provides a generic Qt cryptographic architecture, including a "
+"library and a plugin for using all supported capabilities of openssl, like "
+"SSL/TLS, X509, RSA, SHA1, MD5, Blowfish, 3DES and AES."
+msgstr ""
+
+#. description(libreoffice:libreoffice-base-extensions)
+#, fuzzy
+msgid ""
+"This package provides extensions for LibreOffice Base:\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"- Report Builder"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice:libreoffice-calc-extensions)
+msgid ""
+"This package provides extensions for LibreOffice Calc:\n"
+"\n"
+"- Convert Text to Number\n"
+"- New Functions NUMBERTEXT and MONEYTEXT\n"
+"- Solver for Nonlinear Programming"
+msgstr ""
+
+#. description(libreoffice:libreoffice-impress-extensions)
+msgid ""
+"This package provides extensions for LibreOffice Impress:\n"
+"\n"
+"- Presentation Minimizer\n"
+"\n"
+"- Presenter Console"
+msgstr ""
+
+#. description(libreoffice:libreoffice-writer-extensions)
+msgid ""
+"This package provides extensions for LibreOffice Writer:\n"
+"\n"
+"- Google Docs, Zoho, and WebDAV Export/Import\n"
+"- MediaWiki Publisher"
+msgstr ""
+
+#. description(libreoffice-languagetool)
+msgid ""
+"This package provides the language checker extension for LibreOffice. It "
+"allows to detect errors that a simple spell checker cannot detect, e.g. "
+"mixing up there/their, no/now etc. It can also detect some grammar mistakes. "
+"It does not include spell checking.\n"
+"\n"
+"The language checker uses special dictionaries that are provided by the "
+"libreoffice-languagetool-<lang> packages."
+msgstr ""
+
+#. description(libopensync-plugin-google-calendar)
+msgid ""
+"This plug-in allows applications using OpenSync to synchronize to and from "
+"Google Calendar.\n"
+"\n"
+"Additionally install the libopensync package."
+msgstr ""
+
+#. description(libopensync-plugin-moto)
+msgid ""
+"This plug-in allows applications using OpenSync to synchronize to and from "
+"Motorola cellphones which doesn't support SyncML via Obex (e.g. Razr V3(i), "
+"L7, V635).\n"
+"\n"
+"Additionally install the libopensync package."
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-tr)
+#, fuzzy
+msgid "Turkish Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-tr)
+#, fuzzy
+msgid "Turkish localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-uk)
+#, fuzzy
+msgid "Ukrainian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-uk)
+#, fuzzy
+msgid "Ukrainian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libdrm:libkms1)
+msgid "Userspace interface to kernel DRM buffer management"
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ve)
+#, fuzzy
+msgid "Venda Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ve)
+#, fuzzy
+msgid "Venda localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-thesaurus:libreoffice-thesaurus-es-VE)
+#, fuzzy
+msgid "Venezuelan Spanish Thesaurus Dictionary for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-vi)
+#, fuzzy
+msgid "Vietnamese Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-vi)
+#, fuzzy
+msgid "Vietnamese localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-cy)
+#, fuzzy
+msgid "Welsh Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-cy)
+#, fuzzy
+msgid "Welsh localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(digikam:libkgeomap1)
+#, fuzzy
+msgid "World-Map Library interface for KDE"
+msgstr "输入抽象层 的用户界面"
+
+#. summary(digikam:libkface1)
+msgid ""
+"Wrapper around LibFace to perform face recognition and detection over "
+"pictures"
+msgstr ""
+
+#. summary(liboldX:liboldX6)
+#, fuzzy
+msgid "X version 10 backwards compatibility library"
+msgstr "使用硬件兼容性列表"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-xh)
+#, fuzzy
+msgid "Xhosa Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-xh)
+#, fuzzy
+msgid "Xhosa localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(libqt4:libqt4-devel)
+msgid ""
+"You need this package, if you want to compile programs with Qt. It contains "
+"the \"Qt Crossplatform Development Kit\". It does contain include files and "
+"development applications like GUI designers, translator tools and code "
+"generators."
+msgstr ""
+
+#. description(QtZeitgeist:libqzeitgeist1)
+msgid ""
+"Zeitgeist is a service which logs the user's activities and notifications, "
+"anywhere from files opened to websites visited and conversations, and makes "
+"this information readily available for other applications to use. It is also "
+"able to establish relationships between items based on similarity and usage "
+"patterns.\n"
+"\n"
+"This package provides the Qt interface for Zeitgeist."
+msgstr ""
+
+#. summary(libreoffice-l10n:libreoffice-l10n-zu)
+#, fuzzy
+msgid "Zulu Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-zu)
+#, fuzzy
+msgid "Zulu localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(libgphoto2:libgphoto2-devel)
+msgid ""
+"gPhoto (GNU Photo) is a set of libraries for previewing, retrieving, and "
+"capturing images from a range of supported digital cameras to your local "
+"hard drive.\n"
+"\n"
+"These are its development libraries and headers."
+msgstr ""
+
+#. description(gtk-vnc2:libgtk-vnc-1_0-0)
+msgid ""
+"gtk-vnc is a VNC viewer widget for GTK+. It is built using coroutines "
+"allowing it to be completely asynchronous while remaining single threaded."
+msgstr ""
+
+#. description(gtk-vnc:libgvnc-1_0-0)
+msgid ""
+"gtk-vnc is a VNC viewer widget for GTK+. It is built using coroutines "
+"allowing it to be completely asynchronous while remaining single threaded.\n"
+"\n"
+"This package contains the GObject-based library to interact with the RFB "
+"protocol."
+msgstr ""
+
+#. description(gtksourceviewmm:libgtksourceviewmm-3_0-0)
+#, fuzzy
+msgid "gtksourceviewmm provides a C++ interface to the gtksourceview library."
+msgstr "内核接口"
+
+#. description(libgooglepinyin:libgooglepinyin0)
+msgid "libgooglepinyin is an input method fork from google pinyin on android"
+msgstr ""
+
+#. description(libgpod:libgpod-devel)
+msgid ""
+"libgpod is a library meant to abstract access to iPod content. It provides "
+"an easy-to-use API to retrieve the list of files and playlists stored on an "
+"iPod, modify them, and save them back to the iPod.\n"
+"\n"
+"This package provides the development files to use libgpod."
+msgstr ""
+
+#. description(libid3tag)
+msgid ""
+"libid3tag is a library for reading and writing ID3 tags, both ID3v1 and the "
+"various versions of ID3v2."
+msgstr ""
+
+#. description(libkvkontakte:libkvkontakte1)
+msgid ""
+"libkvkontakte is a KDE C++ library for asynchronous interaction with "
+"vkontakte.ru social network via its open API."
+msgstr ""
+
+#. description(liblastfm:liblastfm-devel)
+msgid ""
+"liblastfm is a collection of libraries to help you integrate Last.fm "
+"services into your rich desktop software. It is officially supported "
+"software developed by Last.fm staff.\n"
+"\n"
+"This package contains development files for liblastfm."
+msgstr ""
+
+#. description(liblbxutil:liblbxutil-devel)
+msgid ""
+"liblbxutil is a library of routines for LBX (Low Bandwidth X) extension "
+"support shared between the lbxproxy program and an LBX-supporting X server.\n"
+"\n"
+"This package contains the development headers for the library found in "
+"liblbxutil1."
+msgstr ""
+
+#. description(libmal:libmal-devel)
+msgid ""
+"libmal is a convenient library made up of the object files contained in Tom "
+"Whittaker's malsync distribution. libmaal also contains a few wrapper "
+"functions."
+msgstr ""
+
+#. description(digikam:libmediawiki-devel)
+msgid ""
+"libmediawiki is a KDE C++ interface for MediaWiki based web service as "
+"wikipedia.org.\n"
+"\n"
+"This package contains the development files for libmediawiki."
+msgstr ""
+
+#. description(digikam:libmediawiki1)
+msgid ""
+"libmediawiki is a KDE C++ interface for MediaWiki based web service as "
+"wikipedia.org.\n"
+"\n"
+"This package contains the shared library."
+msgstr ""
+
+#. description(libmpd:libmpd1)
+msgid ""
+"libmpd is a library that provides high-level, callback-based access to Music "
+"Player Daemon."
+msgstr ""
+
+#. description(libnova:libnova-0_14-0)
+msgid ""
+"libnova is a general purpose, double precision, Celestial Mechanics, "
+"Astrometry and Astrodynamics library. The intended audience of libnova is C "
+"& C++ programmers, astronomers and anyone else interested in calculating "
+"positions of astronomical objects or celestial mechanics."
+msgstr ""
+
+#. description(libopenraw:libopenraw1)
+msgid "libopenraw is a library that aim at decoding digital camera RAW files."
+msgstr ""
+
+#. description(liboping:liboping0)
+msgid ""
+"liboping is a C library for measuring network latency using ICMP echo "
+"requests. It can send to and receive packets from multiple hosts in "
+"parallel, which is nice for monitoring applications. Both IPv4 and IPv6 are "
+"supported transparently for the programmer and user.\n"
+"\n"
+"A program called oping is available on the oping package to show the "
+"simplicity and potential of the library and provide the functionality at the "
+"command line."
+msgstr ""
+
+#. description(libplist:libplist-devel)
+msgid ""
+"libplist is a library for handling Apple Binary and XML Property Lists.\n"
+"\n"
+"This package contains the development files for C."
+msgstr ""
+
+#. description(librsync:librsync1)
+msgid ""
+"librsync implements the \"rsync\" algorithm, which allows remote "
+"differencing of binary files.  librsync computes a delta relative to a "
+"file's checksum, so the two files need not both be present to generate a "
+"delta."
+msgstr ""
+
+#. description(pulseaudio:libpulse-devel)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"This package contains the files needed to compile programs that use the "
+"pulseaudio library."
+msgstr ""
+
+#, fuzzy
+#~ msgid "JPEG libraries"
+#~ msgstr "网卡"
+
+#, fuzzy
+#~ msgid "Libraries for icclib"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid "MySQL Community Server development header files and libraries"
+#~ msgstr "Tcl/Tk 及其开发工具。"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package provides extensions for LibreOffice Draw:\n"
+#~ "\n"
+#~ "- PDF Import"
+#~ msgstr "包中含有意外的版本"

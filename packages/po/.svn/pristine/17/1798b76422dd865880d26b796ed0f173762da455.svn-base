@@ -1,0 +1,3000 @@
+# This file was automatically generated
+# margurite <i@marguerite.su>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2012-09-22 03:38:37\n"
+"PO-Revision-Date: 2012-05-12 16:55+0800\n"
+"Last-Translator: margurite <i@marguerite.su>\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. description(libxkbcommon:libxkbcommon-devel-32bit)
+#, fuzzy
+msgid ""
+"(Upstream has not provided a description)\n"
+"\n"
+"This package contains the development headers for the library found in "
+"libxkbcommon0."
+msgstr "包中含有意外的版本"
+
+#. summary(greybird-theme:metatheme-greybird-common)
+msgid ""
+"A Clean Minimalistic Theme for GNOME, XFCE, GTK+ 2 and 3 -- Common Files"
+msgstr ""
+
+#. summary(libsidplay1:libsidplay1-32bit)
+msgid "A Library for C64 Music Files"
+msgstr ""
+
+#. summary(pam_passwdqc:libpasswdqc0-32bit)
+msgid "A Simple Password Strength Checking Library"
+msgstr ""
+
+#. summary(objectweb-asm)
+msgid "A code manipulation tool to implement adaptable systems"
+msgstr ""
+
+#. description(SDL_mixer:libSDL_mixer-devel-32bit)
+msgid ""
+"A multi-channel audio mixer. It supports 4 channels of 16-bit stereo audio, "
+"plus a single channel of music, mixed by the popular MikMod MOD, Timidity "
+"MIDI, and SMPEG MP3 libraries."
+msgstr ""
+
+#. summary(lonote)
+#, fuzzy
+msgid "A personal note-taking application by Python3-qt4"
+msgstr "新应用程序"
+
+#. summary(libsocialweb:libsocialweb-branding-upstream)
+#, fuzzy
+msgid "A personal social data server -- API keys from upstream"
+msgstr "个人财务管理器"
+
+#. description(nml)
+msgid ""
+"A tool to compile nml files to grf or nfo files, making newgrf coding easier."
+msgstr ""
+
+#. summary(mytop)
+msgid "A top Clone for MySQL"
+msgstr ""
+
+#. summary(mono-tools:monodoc-http)
+msgid "ASP.NET front-end for displaying Monodoc documentation"
+msgstr ""
+
+#. description(network-autoconfig)
+msgid ""
+"All available Ethernet network interfaces will be cycled until one is "
+"successfully configured. This script should run at the first boot of a "
+"machine that has several interfaces."
+msgstr ""
+
+#. summary(openCryptoki:openCryptoki-32bit)
+msgid ""
+"An Implementation of PKCS#11 (Cryptoki) v2.11 for IBM Cryptographic Hardware"
+msgstr ""
+
+#. summary(obs-service-recompress)
+msgid "An OBS source service: Recompress files"
+msgstr ""
+
+#. summary(obs-service-set_version)
+msgid "An OBS source service: Update spec file version"
+msgstr ""
+
+#. summary(obs-service-tar_scm)
+msgid "An OBS source service: checkout or update a tar ball from svn/git/hg"
+msgstr ""
+
+#. summary(obs-service-source_validator)
+msgid ""
+"An OBS source service: defines all source-validator checks used by Factory"
+msgstr ""
+
+#. summary(obs-service-download_files)
+msgid "An OBS source service: download files"
+msgstr ""
+
+#. summary(obs-service-verify_file)
+msgid "An OBS source service: file verification"
+msgstr ""
+
+#. summary(obs-service-format_spec_file)
+msgid "An OBS source service: reformats a spec file to SUSE standard"
+msgstr ""
+
+#. description(openclipart:openclipart-png)
+msgid ""
+"An extensive set of clip art graphics that can be used for free.\n"
+"\n"
+"This package includes the pictures converted to the PNG graphics file format."
+msgstr ""
+
+#. description(openclipart:openclipart-svg)
+msgid ""
+"An extensive set of clip art graphics that can be used for free.\n"
+"\n"
+"This package includes the pictures in the original SVG graphics file format."
+msgstr ""
+
+#. summary(nini)
+#, fuzzy
+msgid "An uncommonly powerful .NET configuration library"
+msgstr "1.2 新的 Xgl 配置选项"
+
+#. summary(logwatch)
+msgid "Analyzes and Reports on system logs"
+msgstr ""
+
+#. summary(nant)
+msgid "Ant for .NET"
+msgstr ""
+
+#. summary(lrcShow-X)
+msgid "Application for media-players to show and search lyrics"
+msgstr ""
+
+#. summary(arista:nautilus-extension-arista)
+#, fuzzy
+msgid "Arista extension for Nautilus"
+msgstr "包中含有意外的版本"
+
+#. description(arista:nautilus-extension-arista)
+msgid ""
+"Arista is a simple preset-based transcoder for the GNOME Desktop and a small "
+"script for terminal-based transcoding. Settings are chosen based on output "
+"device and quality preset.\n"
+"\n"
+"Features:  * Presets for Android, iPod, computer, DVD player, PSP, and more  "
+"* Live preview to see encoded quality  * Automatically discover available "
+"DVD drives and media  * Rip straight from DVD media easily  * Automatically "
+"discover and record from Video4Linux devices  * Support for H.264, WebM, "
+"FLV, Ogg, DivX and more  * Batch processing of entire directories easily  * "
+"Simple terminal client for scripting  * Nautilus extension for right-click "
+"file conversion\n"
+"\n"
+"This package contains a Nautilus extension to add Arista based actions."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-assamese)
+#, fuzzy
+msgid "Assamese Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(myspell-dictionaries:myspell-asturian)
+#, fuzzy
+msgid "Asturian Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(librubberband:librubberband2-32bit)
+msgid "Audio time-stretching and pitch-shifting library"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-belarusian)
+#, fuzzy
+msgid "Belarusian Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(myspell-dictionaries:myspell-bengali)
+#, fuzzy
+msgid "Bengali Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(monotorrent)
+msgid "BitTorrent Client written in C#"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-spanish-bolivian)
+#, fuzzy
+msgid "Bolivian Spanish Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(myspell-dictionaries:myspell-breton)
+#, fuzzy
+msgid "Breton Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(nagios-plugins:nagios-plugins-xenvm)
+msgid "Check available XEN VMs"
+msgstr ""
+
+#. summary(nagios-plugins-rsync)
+msgid "Check rsync servers availability"
+msgstr ""
+
+#. description(nagios-plugins-rsync)
+msgid ""
+"Checks rsync servers availability, as well as (optionally) individual "
+"modules availability. It also supports authentication on modules.\n"
+"\n"
+"Usage: check_rsync -H  [-p ] [-m [,,] [-m [,,]...]]\n"
+"\n"
+"The only required argument is -H, in which case it will only try to list "
+"modules on the Rsync server."
+msgstr ""
+
+#. description(nagios-plugins:nagios-plugins-xenvm)
+msgid ""
+"Checks the number of Xen VMs running on a machine and returns a warning or a "
+"critical message if the number exceeds the thresholds specified."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-chichewa)
+#, fuzzy
+msgid "Chichewa Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(mono-upnp)
+msgid "Client/server libraries for the Universal Plug 'n Play specifications"
+msgstr ""
+
+#. summary(mono-upnp:mono-upnp-devel)
+msgid ""
+"Client/server libraries for the Universal PnP specification - development "
+"files"
+msgstr ""
+
+#. description(librecad:librecad-parts)
+msgid ""
+"Collection of parts for LibreCAD, a Qt4 application to design 2D CAD "
+"drawings."
+msgstr ""
+
+#. summary(nspluginwrapper)
+msgid "Compatibility Layer for Netscape 4 Plug-Ins"
+msgstr ""
+
+#. summary(vigra:libvigraimpex2-32bit)
+#, fuzzy
+msgid "Computer vision Library"
+msgstr "SUSE 硬件检测"
+
+#. summary(netconsole-tools)
+#, fuzzy
+msgid "Configure netconsole Kernel Module"
+msgstr "内核模块更改"
+
+#. description(mathml-dtd)
+msgid ""
+"Contains the DTD \"Mathematical Markup Language\" (MathML) Version 2.0, W3C "
+"Recommendation 21 February 2001."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-coptic)
+#, fuzzy
+msgid "Coptic Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(makebootfat)
+msgid "Create Bootable FAT File Systems"
+msgstr ""
+
+#. description(makebootfat)
+msgid "Create bootable FAT file systems, mainly for USB disks."
+msgstr ""
+
+#. summary(livedtd)
+#, fuzzy
+msgid "DTD Visualizing Tool"
+msgstr "XEN 虚拟化"
+
+#. description(licq:licq-qt4-gui-data)
+msgid "Data files for the Qt4 Licq plug-in."
+msgstr ""
+
+#. summary(libucil:libucil-doc)
+#, fuzzy
+msgid "Dcoumentation for libucil"
+msgstr "7.0 文档"
+
+#. description(mozilla-nss:mozilla-nss-sysinit-32bit)
+msgid ""
+"Default Operation System module that manages applications loading NSS "
+"globally on the system. This module loads the system defined PKCS #11 "
+"modules for NSS and chains with other NSS modules to load any system or user "
+"configured modules."
+msgstr ""
+
+#. summary(libstatgrab:libstatgrab-devel-32bit)
+#, fuzzy
+msgid "Development Environment for libstatgrab"
+msgstr "单声道开发环境。"
+
+#. description(libstatgrab:libstatgrab-devel-32bit)
+#, fuzzy
+msgid ""
+"Development environment for libstatgrab (headers, library links, static "
+"library)."
+msgstr "用于服务器的 KDE 桌面环境"
+
+#. summary(util-linux:libmount-devel-32bit)
+#, fuzzy
+msgid "Development files for libmount1"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(ding-libs:libpath_utils-devel-32bit)
+#, fuzzy
+msgid "Development files for libpath_utils"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(ding-libs:libref_array-devel-32bit)
+#, fuzzy
+msgid "Development files for libref_array"
+msgstr "开发"
+
+#. summary(lzo:lzo-devel-32bit)
+#, fuzzy
+msgid "Development files for lzo"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(netcf:netcf-devel-32bit)
+#, fuzzy
+msgid "Development files for netcf"
+msgstr "开发"
+
+#. summary(openjpeg:openjpeg-devel-32bit)
+#, fuzzy
+msgid "Development files for the OpenJPEG library"
+msgstr "开发"
+
+#. summary(libxkbcommon:libxkbcommon-devel-32bit)
+#, fuzzy
+msgid "Development files for the Wayland libxkbcommon library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(opencdk:libopencdk-devel-32bit)
+msgid "Development tools for programs which will use the opencdk library"
+msgstr ""
+
+#. description(libucil:libucil-doc)
+#, fuzzy
+msgid "Documentation and help files for libucil"
+msgstr "7.0 文档"
+
+#. summary(liboggz:liboggz-doc)
+#, fuzzy
+msgid "Documentation for Oggz"
+msgstr "7.0 文档"
+
+#. description(log4j:log4j-manual)
+#, fuzzy
+msgid "Documentation for log4j."
+msgstr "7.0 文档"
+
+#. summary(openslide:openslide-doc)
+#, fuzzy
+msgid "Documentation for openslide"
+msgstr "7.0 文档"
+
+#. summary(gcc47:libstdc++47-doc)
+#, fuzzy
+msgid "Documentation for the GNU C++ standard library"
+msgstr "7.0 文档"
+
+#. summary(libxfce4ui:libxfce4ui-doc)
+#, fuzzy
+msgid "Documentation for the libxfce4ui Library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(lilypond-doc)
+#, fuzzy
+msgid "Documentation for the lilypond typesetter"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libvorbis:libvorbis-doc)
+#, fuzzy
+msgid "Documentation of Ogg/Vorbis library"
+msgstr "7.0 文档"
+
+#. summary(perl-App-Nopaste:nopaste)
+msgid "Easy access to any pastebin"
+msgstr ""
+
+#. summary(littlewizard-examples)
+#, fuzzy
+msgid "Example files for Little Wizard"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(gcc47:libstdc++47-doc)
+#, fuzzy
+msgid "Extensive HTML documentation for the GNU C++ standard library."
+msgstr "7.0 文档"
+
+#. summary(libreoffice-openclipart)
+#, fuzzy
+msgid "Extra Galleries for LibreOffice"
+msgstr "等待导航栏应用程序"
+
+#. description(util-linux:libmount-devel-32bit)
+msgid "Files to develop applications using the libmount library."
+msgstr ""
+
+#. summary(network-autoconfig)
+msgid "Find a connected eth interface and create an ifcfg for it"
+msgstr ""
+
+#. summary(maya-fonts)
+msgid "Font with Basic Maya Glyphs"
+msgstr ""
+
+#. description(opencdk:libopencdk10-32bit)
+msgid ""
+"For reference, read RFC2440. Due to some possible security problems, the "
+"library also implements parts of draft-ietf-openpgp-rfc2440bis-06.txt.\n"
+"\n"
+"The aim of the library is not to replace any available OpenPGP version. "
+"There is no real support for key management (sign, revoke, alter "
+"preferences, etc.) and some other parts are only rudimentarily available. "
+"The main purpose is to handle and understand OpenPGP packets and to use "
+"basic operations. For example, to encrypt and decrypt, sign and verify, and "
+"provide packet routines."
+msgstr ""
+
+#. summary(mplus-fonts)
+msgid "Free Fonts Set Incorporates All Kanji Until Level 2 and Latin Glyphs"
+msgstr ""
+
+#. summary(linux-libertine-fonts)
+msgid "Free Serif Fonts"
+msgstr ""
+
+#. description(linux-libertine-fonts)
+msgid ""
+"Free serif fonts from the LinuxLibertine project. These might be useful when "
+"exchanging documents using Times fonts."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-friulian)
+#, fuzzy
+msgid "Friulian Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(pidgin:libpurple-branding-upstream)
+#, fuzzy
+msgid "GLib-based Instant Messenger Library -- Upstream default configuration"
+msgstr "XF86Messenger"
+
+#. summary(libwmf:libwmf-gnome-32bit)
+msgid "GNOME plugin for displaying and Converting Metafile Images"
+msgstr ""
+
+#. summary(gtk2-metatheme-sonar:metatheme-sonar-common)
+#, fuzzy
+msgid "GTK+ and Metacity Sonar Theme -- Common Files"
+msgstr "GNOME 系统"
+
+#. summary(myspell-dictionaries:myspell-haitian)
+#, fuzzy
+msgid "Haitian Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(mtpaint:mtpaint-handbook)
+#, fuzzy
+msgid "Handbook for the mtpaint painting application"
+msgstr "新应用程序"
+
+#. summary(lucene)
+msgid "High-performance, full-featured text search engine"
+msgstr ""
+
+#. description(mtpaint:mtpaint-handbook)
+msgid ""
+"Install this package is want to read the handbook for the painting "
+"application mtpaint."
+msgstr ""
+
+#. summary(loki_setup:loki_setup-64bit)
+msgid "Installer Program Mainly for Games"
+msgstr ""
+
+#. summary(nautilus-terminal)
+msgid "Integrated Terminal for the Nautilus File Browser"
+msgstr ""
+
+#. summary(presage:libpresage-doc)
+msgid "Intelligent predictive text entry platform (documentation)"
+msgstr ""
+
+#. summary(netcomponents)
+msgid "Internet Protocol Suite Java Library"
+msgstr ""
+
+#. description(lucene)
+msgid ""
+"Jakarta Lucene is a high-performance, full-featured text search engine "
+"written entirely in Java. It is a technology suitable for nearly any "
+"application that requires full-text search, especially cross-platform."
+msgstr ""
+
+#. summary(motoya-lmaru-fonts)
+msgid "Japanese Round-Gothic-Typeface Fonts Designed by Motoya"
+msgstr ""
+
+#. summary(motoya-lcedar-fonts)
+msgid "Japanese gothic-typeface fonts designed by Motoya"
+msgstr ""
+
+#. summary(libreadline-java:libreadline-java-32bit)
+#, fuzzy
+msgid "Java Wrapper for the EditLine Library"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(log4j:log4j-javadoc)
+#, fuzzy
+msgid "Java logging tool (Documentation)"
+msgstr "帮助和支持文档"
+
+#. summary(log4j:log4j-manual)
+msgid "Java logging tool (Manual)"
+msgstr ""
+
+#. summary(log4j-mini)
+msgid ""
+"Java logging tool (internal featureless package breaking dependency loop)"
+msgstr ""
+
+#. description(netbeans-javaparser)
+msgid "Java parser to analyse Java source files inside of the NetBeans IDE"
+msgstr ""
+
+#. description(log4j:log4j-javadoc)
+#, fuzzy
+msgid "Javadoc for log4j."
+msgstr "7.0 文档"
+
+#. summary(mx4j:mx4j-javadoc)
+#, fuzzy
+msgid "Javadoc for mx4j"
+msgstr "手动方式"
+
+#. summary(netcomponents:netcomponents-javadoc)
+msgid "Javadoc for netcomponents"
+msgstr ""
+
+#. summary(objectweb-asm:objectweb-asm-javadoc)
+msgid "Javadoc for objectweb-asm"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-kazakh)
+#, fuzzy
+msgid "Kazakh Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(myspell-dictionaries:myspell-khmer)
+#, fuzzy
+msgid "Khmer Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(myspell-dictionaries:myspell-kichwa)
+#, fuzzy
+msgid "Kichwa Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(myspell-dictionaries:myspell-kikuyu)
+#, fuzzy
+msgid "Kikuyu Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. description(lzo:lzo-devel-32bit)
+msgid ""
+"LZO is a portable lossless data compression library written in ANSI C. It "
+"offers pretty fast compression and very fast decompression. Decompression "
+"requires no memory. LZO is suitable for data de-/compression in real-time. "
+"This means it favours speed over compression ratio."
+msgstr ""
+
+#. summary(NetworkManager-novellvpn:NetworkManager-novellvpn-lang)
+#, fuzzy
+msgid "Languages for package NetworkManager-novellvpn"
+msgstr "语言：     "
+
+#. summary(NetworkManager-openconnect:NetworkManager-openconnect-lang)
+#, fuzzy
+msgid "Languages for package NetworkManager-openconnect"
+msgstr "语言：     "
+
+#. summary(NetworkManager-strongswan:NetworkManager-strongswan-lang)
+#, fuzzy
+msgid "Languages for package NetworkManager-strongswan"
+msgstr "语言：     "
+
+#. summary(bot-sentry:libpurple-plugin-bot-sentry-lang)
+#, fuzzy
+msgid "Languages for package bot-sentry"
+msgstr "语言：     "
+
+#. summary(libpwquality:libpwquality-lang)
+#, fuzzy
+msgid "Languages for package libpwquality"
+msgstr "语言：     "
+
+#. summary(lrcShow-X:lrcShow-X-lang)
+#, fuzzy
+msgid "Languages for package lrcShow-X"
+msgstr "语言：     "
+
+#. summary(memprof:memprof-lang)
+#, fuzzy
+msgid "Languages for package memprof"
+msgstr "语言：     "
+
+#. summary(mercurial:mercurial-lang)
+#, fuzzy
+msgid "Languages for package mercurial"
+msgstr "语言：     "
+
+#. summary(midori:midori-lang)
+#, fuzzy
+msgid "Languages for package midori"
+msgstr "语言：     "
+
+#. summary(nautilus-actions:nautilus-actions-lang)
+#, fuzzy
+msgid "Languages for package nautilus-actions"
+msgstr "软件包 iso-codes 的语言文件"
+
+#. summary(nautilus-image-converter:nautilus-image-converter-lang)
+#, fuzzy
+msgid "Languages for package nautilus-image-converter"
+msgstr "语言：     "
+
+#. summary(nautilus-search-tool:nautilus-search-tool-lang)
+#, fuzzy
+msgid "Languages for package nautilus-search-tool"
+msgstr "语言：     "
+
+#. summary(net6:net6-lang)
+#, fuzzy
+msgid "Languages for package net6"
+msgstr "语言：     "
+
+#. summary(obby:obby-lang)
+#, fuzzy
+msgid "Languages for package obby"
+msgstr "语言：     "
+
+#. summary(pidgin-mrim:libpurple-plugin-mrim-lang)
+#, fuzzy
+msgid "Languages for package pidgin-mrim"
+msgstr "语言：     "
+
+#. summary(pidgin-openfetion:libpurple-plugin-openfetion-lang)
+#, fuzzy
+msgid "Languages for package pidgin-openfetion"
+msgstr "语言：     "
+
+#. summary(skype4pidgin:libpurple-plugin-skype-lang)
+#, fuzzy
+msgid "Languages for package skype4pidgin"
+msgstr "语言：     "
+
+#. summary(myspell-dictionaries:myspell-latin)
+#, fuzzy
+msgid "Latin Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-sh)
+#, fuzzy
+msgid "Latin Serbian Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-sh)
+#, fuzzy
+msgid "Latin Serbian localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(limal-devtools)
+#, fuzzy
+msgid "LiMaL--Development Tools"
+msgstr "开发"
+
+#. description(libthai:libthai0-32bit)
+msgid ""
+"LibThai is a set of Thai language support routines aimed to ease developers' "
+"tasks to incorporate Thai language support in their applications. It "
+"includes important Thai-specific functions, such as word breaking, input and "
+"output methods, and basic character and string support."
+msgstr ""
+
+#. description(libp11:libp11-1-32bit)
+msgid ""
+"Libp11 is a library implementing a small layer on top of PKCS#11 API to make "
+"using PKCS#11 implementations easier.\n"
+"\n"
+"The official name for PKCS#11 is \"RSA Security Inc. PKCS #11 Cryptographic "
+"Token Interface (Cryptoki)\".\n"
+"\n"
+"Libp11 source code includes the official header files (version 2.20) and "
+"thus is \"derived from the RSA Security Inc. PKCS #11 Cryptographic Token "
+"Interface (Cryptoki)\"."
+msgstr ""
+
+#. summary(libnl3:libnl3-devel-32bit)
+msgid "Libraries and headers for libnl"
+msgstr ""
+
+#. summary(netcf:libnetcf1-32bit)
+msgid "Libraries for netcf"
+msgstr ""
+
+#. summary(SDL_gfx:libSDL_gfx-devel-32bit)
+msgid "Libraries, includes and more to develop SDL_gfx applications"
+msgstr ""
+
+#. summary(SDL_image:libSDL_image-devel-32bit)
+msgid "Libraries, includes and more to develop SDL_image applications"
+msgstr ""
+
+#. summary(SDLmm:libSDLmm-devel-32bit)
+msgid "Libraries, includes and more to develop SDLmm applications"
+msgstr ""
+
+#. summary(libp11:libp11-1-32bit)
+msgid "Library Implementing a Small Layer on Top of PKCS#11 API"
+msgstr ""
+
+#. summary(opencdk:libopencdk10-32bit)
+msgid "Library Providing Basic Parts of the OpenPGP Message Format"
+msgstr ""
+
+#. summary(openct:libopenct1-32bit)
+msgid "Library for Smart Card Readers"
+msgstr ""
+
+#. summary(vamp-plugin-sdk:libvamp-sdk2-32bit)
+#, fuzzy
+msgid "Library for Vamp audio analysis plugins"
+msgstr "内核开发"
+
+#. description(libsocialweb:libsocialweb-branding-upstream)
+msgid ""
+"Libsocialweb is a personal social data server, that can interact with social "
+"web services, like Flickr, Last.fm, Twitter and Vimeo.\n"
+"\n"
+"This package provides API keys from upstream, for the web services "
+"accessible with libsocialweb."
+msgstr ""
+
+#. description(libvirt:libvirt-devel-32bit)
+msgid ""
+"Libvirt is a C toolkit to interact with the virtualization capabilities of "
+"Linux. The libvirt-devel package contains headers and libraries needed for "
+"developing libvirt applications."
+msgstr ""
+
+#. summary(libyui-doc)
+#, fuzzy
+msgid "Libyui documentation"
+msgstr "7.0 文档"
+
+#. summary(libyui-gtk-doc)
+#, fuzzy
+msgid "Libyui-gtk documentation"
+msgstr "7.0 文档"
+
+#. summary(libyui-gtk-pkg-doc)
+#, fuzzy
+msgid "Libyui-gtk-pkg documentation"
+msgstr "7.0 文档"
+
+#. summary(libyui-ncurses-doc)
+#, fuzzy
+msgid "Libyui-ncurses documentation"
+msgstr "7.0 文档"
+
+#. summary(libyui-ncurses-pkg-doc)
+#, fuzzy
+msgid "Libyui-ncurses-pkg documentation"
+msgstr "7.0 文档"
+
+#. summary(libyui-qt-doc)
+#, fuzzy
+msgid "Libyui-qt documentation"
+msgstr "7.0 文档"
+
+#. summary(libyui-qt-graph-doc)
+#, fuzzy
+msgid "Libyui-qt-graph documentation"
+msgstr "7.0 文档"
+
+#. summary(libyui-qt-pkg-doc)
+#, fuzzy
+msgid "Libyui-qt-pkg documentation"
+msgstr "7.0 文档"
+
+#. description(lilypond-doc)
+msgid ""
+"LilyPond is a music typesetter, an automated engraving system.  It produces "
+"beautiful sheet music using a high level description file as input.\n"
+"\n"
+"LilyPond supports many forms of music notation constructs, including chord "
+"names, drum notation, figured bass, grace notes, guitar tablature, modern "
+"notation (cluster notation and rhythmic grouping), tremolos, (nested) "
+"tuplets in arbitrary ratios, and more.\n"
+"\n"
+"LilyPond's text-based music input language support can integrate into LaTeX, "
+"HTML and Texinfo seamlessly, allowing single sheet music or musicological "
+"treatises to be written from a single source.  Form and content are "
+"separate, and with LilyPond's expert automated formatting, users don't need "
+"typographical expertise to produce good notation.\n"
+"\n"
+"LilyPond produces PDF, PostScript, SVG, or TeX printed output, as well as "
+"MIDI for listening pleasures.  LilyPond is exported from the RoseGarden and "
+"NoteEdit GUIs, and can import ABC, ETF and MIDI.\n"
+"\n"
+"Documentation files for the GNU LilyPond music typesetter.\n"
+"\n"
+"LilyPond is part of the GNU Project."
+msgstr ""
+
+#. description(lilypond:lilypond-century-schoolbook-l-fonts)
+msgid ""
+"LilyPond is an automated music engraving system. It formats music "
+"beautifully and automatically, and has a friendly syntax for its input "
+"files.\n"
+"\n"
+"These are the Century Schoolbook L fonts included in the package."
+msgstr ""
+
+#. description(lilypond:lilypond-emmentaler-fonts)
+msgid ""
+"LilyPond is an automated music engraving system. It formats music "
+"beautifully and automatically, and has a friendly syntax for its input "
+"files.\n"
+"\n"
+"These are the emmentaler fonts included in the package."
+msgstr ""
+
+#. description(lilypond:lilypond-fonts-common)
+msgid ""
+"LilyPond is an automated music engraving system. It formats music "
+"beautifully and automatically, and has a friendly syntax for its input "
+"files.\n"
+"\n"
+"This contains the directory common to all lilypond fonts."
+msgstr ""
+
+#. summary(lilypond:lilypond-century-schoolbook-l-fonts)
+msgid "Lilypond Century Schoolbook L fonts"
+msgstr ""
+
+#. summary(lilypond:lilypond-emmentaler-fonts)
+msgid "Lilypond emmentaler fonts"
+msgstr ""
+
+#. summary(lilypond:lilypond-fonts-common)
+msgid "Lilypond fonts common dir"
+msgstr ""
+
+#. summary(loadlin)
+msgid "Linux Loader with Command Line from DOS"
+msgstr ""
+
+#. description(littlewizard-examples)
+msgid ""
+"Little Wizard is created especially for primary school children. It allows "
+"to learn using main elements of present computer languages, including: "
+"variables, expressions, loops, conditions, logical blocks. Every element of "
+"language is represented by an intuitive icon. It allows program Little "
+"Wizard without using keyboard, only mouse.\n"
+"\n"
+"This package contains example files for Little Wizard."
+msgstr ""
+
+#. description(logwatch)
+msgid ""
+"Logwatch is a customizable, pluggable log-monitoring system. It will go "
+"through your logs for a given period of time and make a report in the areas "
+"that you wish with the detail that you wish."
+msgstr ""
+
+#. description(lonote)
+msgid ""
+"Lonote is a personal note-taking application by Python3-qt4. It features in "
+"well interact UI, minimal design, structural notes, auto reloading, "
+"archiving and versioning."
+msgstr ""
+
+#. description(mumble:mumble-32bit)
+msgid ""
+"Low-latency, high-quality voice communication for gamers. Includes game "
+"linking, so voice from other players comes from the direction of their "
+"characters, and has echo cancellation so the sound from your loudspeakers "
+"won't be audible to other players."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-lower-sorbian)
+#, fuzzy
+msgid "Lower sorbian Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. description(lynis)
+msgid ""
+"Lynis is a security and system auditing tool. It scans a system on the most "
+"interesting parts useful for audits, like:      - Security enhancements      "
+"- Logging and auditing options      - Banner identification      - Software "
+"availability\n"
+"\n"
+"Lynis is released as a GPL licensed project and free for everyone to use.\n"
+"\n"
+"See http://www.rootkit.nl for a full description and documentation."
+msgstr ""
+
+#. description(libmlt:libmlt5-data)
+msgid ""
+"MLT is an open source multimedia framework, designed and developed for "
+"television broadcasting. It provides a toolkit for broadcasters, video "
+"editors, media players, transcoders, web streamers and many more types of "
+"applications. The functionality of the system is provided via an assortment "
+"of ready to use tools, XML authoring components, and an extensible plug-in "
+"based API."
+msgstr ""
+
+#. summary(mpc:mpc-devel-32bit)
+#, fuzzy
+msgid "MPC multiple-precision complex library development files"
+msgstr "内核接口"
+
+#. description(mpc:mpc-devel-32bit)
+#, fuzzy
+msgid "MPC multiple-precision complex library development files."
+msgstr "内核接口"
+
+#. summary(myspell-dictionaries:myspell-maithili)
+#, fuzzy
+msgid "Maithili Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(makeself)
+msgid "Make self-extractable archives on Unix"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-malayalam)
+#, fuzzy
+msgid "Malayalam Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(mx4j:mx4j-manual)
+#, fuzzy
+msgid "Manual for mx4j"
+msgstr "手动方式"
+
+#. summary(marble:marble-doc)
+#, fuzzy
+msgid "Marble documentation"
+msgstr "7.0 文档"
+
+#. description(marble:marble-doc)
+#, fuzzy
+msgid ""
+"Marble is a viewer of map data. This package contains its documentation."
+msgstr "包中含有意外的版本"
+
+#. summary(mathml-dtd)
+msgid "MathML DTD"
+msgstr ""
+
+#. description(maya-fonts)
+msgid ""
+"Maya covers the glyphs in J. Eric S. Thompson’s “A Catalog of Maya "
+"Hieroglyphs”, as well as some extra glyphs for days, months and numbers. "
+"This is a work-font that may be of some scholarly use; it is not a proposal "
+"of any kind. There are no plans to improve or expand it."
+msgstr ""
+
+#. summary(meslo-lg-fonts)
+msgid "Meslo LG Font Family"
+msgstr ""
+
+#. description(meslo-lg-fonts)
+msgid ""
+"Meslo LG is a customized version of Apple's Menlo-Regular font (which is a "
+"customized Bitstream Vera Sans Mono)."
+msgstr ""
+
+#. summary(libmnl:libmnl0-32bit)
+msgid "Minimalistic Netlink communication library"
+msgstr ""
+
+#. description(monit:monit-doc)
+msgid ""
+"Monit is a utility for managing and monitoring processes, files, "
+"directories, and devices on a Unix system.  Monit conducts automatic "
+"maintenance and repair and can execute meaningful causal actions in error "
+"situations.  For example, monit can start a process if it does not run, "
+"restart a process if it does not respond, and stop a process if it uses too "
+"many resources.\tYou can use monit to monitor files, directories, and "
+"devices for changes, such as time stamp changes, checksum changes, or size "
+"changes. You can even use monit to monitor remote hosts: monit can ping a "
+"remote host and check port connections.\n"
+"\n"
+"This package only contains the documentation and examples. You must also "
+"install the package monit to actually use monit."
+msgstr ""
+
+#. summary(mono-addins:mono-addins-msbuild)
+msgid "Mono Addins Framework, MSBuild Support"
+msgstr ""
+
+#. description(mono-addins:mono-addins-msbuild)
+msgid ""
+"Mono.Addins is a generic framework for creating extensible applications, and "
+"for creating libraries which extend those applications.\n"
+"\n"
+"This package contains MSBuild tasks file and target, which allows using add-"
+"in references directly in a build file (still experimental)."
+msgstr ""
+
+#. description(mono-upnp)
+msgid ""
+"Mono.Upnp is a set of client/server libraries for the Universal Plug 'n Play "
+"specifications (see http://www.upnp.org)."
+msgstr ""
+
+#. description(mono-upnp:mono-upnp-devel)
+msgid ""
+"Mono.Upnp is a set of client/server libraries for the Universal Plug 'n Play "
+"specifications (see http://www.upnp.org).\n"
+"\n"
+"This package provides the development files."
+msgstr ""
+
+#. description(mono-upnp:mono-upnp-tests)
+msgid ""
+"Mono.Upnp is a set of client/server libraries for the Universal Plug 'n Play "
+"specifications (see http://www.upnp.org).\n"
+"\n"
+"This package provides the unit tests."
+msgstr ""
+
+#. description(monotorrent)
+msgid ""
+"MonoTorrent is a .NET based library which supports hosting a BitTorrent "
+"Tracker and also hosting a BitTorrent client. As such it can be used to both "
+"add torrent downloading functionality to an application and/or add torrent "
+"hosting functionality."
+msgstr ""
+
+#. description(mono-tools:monodoc-http)
+msgid ""
+"Monodoc-http provides an ASP.NET front-end for displaying installed Monodoc "
+"documentation."
+msgstr ""
+
+#. summary(xulrunner:mozilla-js-32bit)
+msgid "Mozilla JS engine"
+msgstr ""
+
+#. summary(libmlt:libmlt5-data)
+msgid "Multimedia framework designed and developed for television broadcasting"
+msgstr ""
+
+#. description(nant)
+msgid ""
+"NAnt is a free .NET build tool. In theory it is kind of like make without "
+"make's wrinkles. In practice it's a lot like Ant."
+msgstr ""
+
+#. summary(nss-pam-ldapd:nss-pam-ldapd-32bit)
+msgid "NSS module and daemon for using LDAP as a naming service"
+msgstr ""
+
+#. description(nagios-plugins-nis)
+msgid ""
+"Nagios plugin (script) to check the status of a NIS server on a specified "
+"host and NIS domain by asking NIS server for \"passwd.byname\".\n"
+"\n"
+"As an additional check, a username may be specified which will then be "
+"\"looked up\" on the NIS server, note that this is optional and only "
+"introduced in v1.1\n"
+"\n"
+"Script returns OK if it gets an acceptable answer, CRITICAL if not.\n"
+"\n"
+"This *nix script has been designed and written for the lowest common "
+"denominator of shells (sh), uses yppoll, ypcat and grep as external commands."
+msgstr ""
+
+#. summary(nagios-plugins-zypper)
+msgid "Nagios plugin for checking software updates"
+msgstr ""
+
+#. summary(nagios-plugins-nis)
+msgid ""
+"Nagios plugin to check the status of a NIS server on a specified host and "
+"NIS domain"
+msgstr ""
+
+#. summary(nagstamon)
+#, fuzzy
+msgid "Nagios status monitor for the desktop"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. description(nagstamon)
+msgid ""
+"Nagstamon is a Nagios status monitor which takes place in systray or on "
+"desktop (GNOME, KDE, Windows) as floating statusbar to inform you in "
+"realtime about the status of your Nagios and derivatives monitored network. "
+"It allows to connect to multiple Nagios, Icinga, Opsview, Op5, Check_MK/"
+"Multisite and Centreon servers."
+msgstr ""
+
+#. description(nautilus-terminal)
+msgid ""
+"Nautilus Terminal is an integrated terminal for the Nautilus file browser."
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-ndebele)
+#, fuzzy
+msgid "Ndebele Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-nr)
+#, fuzzy
+msgid "Ndebele Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-nr)
+#, fuzzy
+msgid "Ndebele localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(nested)
+msgid ""
+"Nested is a specialized editor focused on creating structured documents such "
+"as reports, publications, presentations, books, etc. It is designed to help "
+"the user concentrate on writing content without been distracted by format or "
+"markup. It offers a rich WYSIWYM interface where the user writes plain text "
+"with a lightweight markup language."
+msgstr ""
+
+#. summary(netbeans-javaparser)
+msgid "NetBeans Java Parser"
+msgstr ""
+
+#. description(netcomponents)
+msgid ""
+"NetComponents is an Internet protocol suite Java library originally "
+"developed by ORO, Inc.\tThis version supports Finger, Whois, TFTP, Telnet, "
+"POP3, FTP, NNTP, SMTP, and some miscellaneous protocols like Time and Echo "
+"as well as BSD R command support.  The purpose of the library is to provide "
+"fundamental protocol access, not higher-level abstractions.  Therefore, some "
+"of the design violates object-oriented design principles.  Its philosophy is "
+"to make the global functionality of a protocal accesible (for example, TFTP "
+"send file and receive file) when possible, but also provide access to the "
+"fundamental protocols where applicable so that the programmer can construct "
+"custom implementations (for example, the TFTP packet classes and the TFTP "
+"packet send and receive methods are exposed)."
+msgstr ""
+
+#. description(netcomponents:netcomponents-javadoc)
+msgid ""
+"NetComponents, is an Internet protocol suite Java library originally "
+"developed by ORO, Inc.\tThis version supports Finger, Whois, TFTP, Telnet, "
+"POP3, FTP, NNTP, SMTP, and some miscellaneous protocols like Time and Echo "
+"as well as BSD R command support.  The purpose of the library is to provide "
+"fundamental protocol access, not higher-level abstractions.  Therefore, some "
+"of the design violates object-oriented design principles.  Our philosophy is "
+"to make the global functionality of a protocal accesible (e.g., TFTP send "
+"file and receive file) when possible, but also provide access to the "
+"fundamental protocols where applicable so that the programmer may construct "
+"his own custom implementations (e.g, the TFTP packet classes and the TFTP "
+"packet send and receive methods are exposed).\n"
+"\n"
+"This package contains the javadoc documentation for netcomponents."
+msgstr ""
+
+#. summary(npapi-sdk)
+msgid "Netscape Plugin API (NPAPI)"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-new-zealand)
+#, fuzzy
+msgid "New Zealand Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(nml)
+msgid "NewGRF Meta Language"
+msgstr ""
+
+#. summary(gtk2-metatheme-nimbus:nimbus-icon-theme)
+#, fuzzy
+msgid "Nimbus Icon Theme"
+msgstr "氧气图标主题"
+
+#. description(nini)
+msgid ""
+"Nini is an uncommonly powerful .NET configuration library designed to help "
+"build highly configurable applications quickly."
+msgstr ""
+
+#. description(libvdpau:libvdpau-devel-32bit)
+msgid ""
+"Note that this package only contains the VDPAU headers that are required to "
+"build applications. At runtime, the shared libraries are needed too and may "
+"be installed using the proprietary nVidia driver packages."
+msgstr ""
+
+#. summary(gconf2-branding-SLES:novell-sound-theme)
+#, fuzzy
+msgid "Novell Sound Theme"
+msgstr "VNC 服务器"
+
+#. summary(objectweb-anttask)
+msgid "ObjectWeb Ant task"
+msgstr ""
+
+#. description(offlineimap)
+msgid ""
+"OfflineIMAP is a tool to synchronize IMAP and Maildir mailboxes which is "
+"very fast due to its multithreaded synchronization algorithm.  It offers "
+"several user interfaces and is generally very configurable providing a great "
+"number of settings for controlling its behavior, tuning performance.  "
+"Specifically, there are several sophisticated and flexible mechanisms for "
+"determining the list of maiilboxes to synchronize.  Furthermore, it supports "
+"internal or external automation, SSL and PREAUTH tunnels, offline (or "
+"\"unplugged\") reading, and a variety of esoteric IMAP features for "
+"compatibility with the widest variety of IMAP servers.  OfflineIMAP is "
+"designed for safety in terms of avoiding the loss of mails under any "
+"circumstances."
+msgstr ""
+
+#. summary(openclipart:openclipart-png)
+msgid "Open Clip Art Library in the PNG File Format"
+msgstr ""
+
+#. summary(openclipart:openclipart-svg)
+msgid "Open Clip Art Library in the SVG File Format"
+msgstr ""
+
+#. summary(openmarkup)
+msgid "Open Markup Interface for object realizers and XML object realization"
+msgstr ""
+
+#. summary(OpenLP)
+msgid "Open source Church presentation and lyrics projection application"
+msgstr ""
+
+#. description(open-ovf)
+msgid ""
+"Open-OVF project is an open source library and tools designed to promote "
+"adoption of the OVF (Open Virtual Machine Format) specification as an "
+"industry standard."
+msgstr ""
+
+#. summary(opengost-fonts:opengost-otf-fonts)
+msgid "Open-source Russian GOST Fonts (OpenType Format)"
+msgstr ""
+
+#. summary(opengost-fonts:opengost-ttf-fonts)
+msgid "Open-source Russian GOST Fonts (TrueType Format)"
+msgstr ""
+
+#. description(opengost-fonts:opengost-otf-fonts)
+msgid ""
+"Open-source version of the fonts by Russian standard GOST 2.304-81 «Letters "
+"for drawings».\n"
+"\n"
+"This package contains fonts in OpenType format."
+msgstr ""
+
+#. description(opengost-fonts:opengost-ttf-fonts)
+msgid ""
+"Open-source version of the fonts by Russian standard GOST 2.304-81 «Letters "
+"for drawings».\n"
+"\n"
+"This package contains fonts in TrueType format."
+msgstr ""
+
+#. description(openct:libopenct1-32bit)
+msgid ""
+"OpenCT is a set of library and tools to talk to smart card readers. OpenCT "
+"is used by the OpenSC Smart Card library.\n"
+"\n"
+"For a list of supported readers, please read documentation in /usr/share/doc/"
+"packages/openct/wiki/index.html - some readers may be supported only with "
+"particular firmware or particular connection type.\n"
+"\n"
+"There are other packages that may support your reader in a different way. "
+"Name of all these packages starts with \"pcsc-\"."
+msgstr ""
+
+#. description(mx4j:mx4j-javadoc)
+msgid ""
+"OpenJMX is an open source implementation of the Java(TM) Management "
+"Extensions (JMX).\n"
+"\n"
+"This package contains the javadoc documentation for OpenJMX."
+msgstr ""
+
+#. description(mx4j:mx4j-manual)
+msgid ""
+"OpenJMX is an open source implementation of the Java(TM) Management "
+"Extensions (JMX).\n"
+"\n"
+"This package contains the manual for OpenJMX."
+msgstr ""
+
+#. summary(openldap2:openldap2-doc)
+#, fuzzy
+msgid "OpenLDAP Documentation"
+msgstr "OpenOffice.Org 快速起动器"
+
+#. description(OpenLP)
+msgid ""
+"OpenLP is a church presentation software, for lyrics projection software, "
+"used to display slides of Songs, Bible verses, videos, images, and "
+"presentations via LibreOffice using a computer and projector."
+msgstr ""
+
+#. summary(libreoffice-branding-upstream)
+#, fuzzy
+msgid "Original Branding for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(papi:libpapi-32bit)
+#, fuzzy
+msgid "PAPI runtime library"
+msgstr "GNOME 开发"
+
+#. summary(myspell-dictionaries:myspell-spanish-paraguayan)
+#, fuzzy
+msgid "Paraguayan Spanish Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(librecad:librecad-parts)
+msgid "Parts collection for LibreCAD"
+msgstr ""
+
+#. description(perl-App-Nopaste:nopaste)
+msgid ""
+"Pastebins (also known as nopaste sites) let you post text, usually code, for "
+"public viewing. They're used a lot in IRC channels to show code that would "
+"normally be too long to give directly in the channel (hence the name "
+"nopaste).\n"
+"\n"
+"Each pastebin is slightly different. When one pastebin goes down (I'm "
+"looking at you, <http://paste.husk.org>), then you have to find a new one. "
+"And if you usually use a script to publish text, then it's too much hassle.\n"
+"\n"
+"This module aims to smooth out the differences between pastebins, and "
+"provides redundancy: if one site doesn't work, it just tries a different one."
+msgstr ""
+
+#. summary(nss-myhostname:nss-myhostname-32bit)
+msgid "Plugin for local system host name resolution"
+msgstr ""
+
+#. summary(libupnp:libupnp6-32bit)
+msgid "Portable Universal Plug and Play (UPnP) SDK"
+msgstr ""
+
+#. summary(offlineimap)
+msgid "Powerful IMAP/Maildir Synchronization Tool"
+msgstr ""
+
+#. description(presage:libpresage-doc)
+msgid ""
+"Presage is an intelligent predictive text entry platform.\n"
+"\n"
+"This package contains the documentation for libpresage.\n"
+"\n"
+"Documentation is available in HTML and LaTeX format."
+msgstr ""
+
+#. summary(protobuf:libprotobuf-lite7-32bit)
+msgid "Protocol Buffers - Google's data interchange format"
+msgstr ""
+
+#. description(protobuf:libprotobuf-lite7-32bit)
+msgid ""
+"Protocol Buffers are a way of encoding structured data in an efficient yet "
+"extensible format. Google uses Protocol Buffers for almost all of its "
+"internal RPC protocols and file formats."
+msgstr ""
+
+#. summary(mhtml-firefox)
+msgid "Provides Firefox with MHTML web archive compatibility"
+msgstr ""
+
+#. description(NetworkManager-novellvpn:NetworkManager-novellvpn-lang)
+#, fuzzy
+msgid "Provides translations to the package NetworkManager-novellvpn"
+msgstr "等待导航栏应用程序"
+
+#. description(NetworkManager-openconnect:NetworkManager-openconnect-lang)
+#, fuzzy
+msgid "Provides translations to the package NetworkManager-openconnect"
+msgstr "等待导航栏应用程序"
+
+#. description(NetworkManager-strongswan:NetworkManager-strongswan-lang)
+#, fuzzy
+msgid "Provides translations to the package NetworkManager-strongswan"
+msgstr "等待导航栏应用程序"
+
+#. description(bot-sentry:libpurple-plugin-bot-sentry-lang)
+#, fuzzy
+msgid "Provides translations to the package bot-sentry"
+msgstr "等待导航栏应用程序"
+
+#. description(libpwquality:libpwquality-lang)
+#, fuzzy
+msgid "Provides translations to the package libpwquality"
+msgstr "等待导航栏应用程序"
+
+#. description(lrcShow-X:lrcShow-X-lang)
+#, fuzzy
+msgid "Provides translations to the package lrcShow-X"
+msgstr "等待导航栏应用程序"
+
+#. description(memprof:memprof-lang)
+#, fuzzy
+msgid "Provides translations to the package memprof"
+msgstr "等待导航栏应用程序"
+
+#. description(mercurial:mercurial-lang)
+#, fuzzy
+msgid "Provides translations to the package mercurial"
+msgstr "等待导航栏应用程序"
+
+#. description(midori:midori-lang)
+#, fuzzy
+msgid "Provides translations to the package midori"
+msgstr "等待导航栏应用程序"
+
+#. description(nautilus-actions:nautilus-actions-lang)
+#, fuzzy
+msgid "Provides translations to the package nautilus-actions"
+msgstr "等待导航栏应用程序"
+
+#. description(nautilus-image-converter:nautilus-image-converter-lang)
+#, fuzzy
+msgid "Provides translations to the package nautilus-image-converter"
+msgstr "等待导航栏应用程序"
+
+#. description(nautilus-search-tool:nautilus-search-tool-lang)
+#, fuzzy
+msgid "Provides translations to the package nautilus-search-tool"
+msgstr "等待导航栏应用程序"
+
+#. description(net6:net6-lang)
+#, fuzzy
+msgid "Provides translations to the package net6"
+msgstr "等待导航栏应用程序"
+
+#. description(obby:obby-lang)
+#, fuzzy
+msgid "Provides translations to the package obby"
+msgstr "等待导航栏应用程序"
+
+#. description(pidgin-mrim:libpurple-plugin-mrim-lang)
+#, fuzzy
+msgid "Provides translations to the package pidgin-mrim"
+msgstr "等待导航栏应用程序"
+
+#. description(pidgin-openfetion:libpurple-plugin-openfetion-lang)
+#, fuzzy
+msgid "Provides translations to the package pidgin-openfetion"
+msgstr "等待导航栏应用程序"
+
+#. description(skype4pidgin:libpurple-plugin-skype-lang)
+#, fuzzy
+msgid "Provides translations to the package skype4pidgin"
+msgstr "等待导航栏应用程序"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-pa-IN)
+#, fuzzy
+msgid "Punjabi Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-pa-IN)
+#, fuzzy
+msgid "Punjabi localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. description(libqxmpp:libqxmpp0-32bit)
+msgid ""
+"QXmpp is a cross-platform C++ XMPP client library. It is based on Qt and C+"
+"+.\n"
+"\n"
+"QXmpp is pretty intuitive and easy to use. It uses Qt extensively. Qt is the "
+"only third party library it is dependent on. Users need to a have working "
+"knowledge of C++ and Qt basics (Signals and Slots and Qt data types). The "
+"underlying TCP socket and the XMPP RFCs (RFC3920 and RFC3921) have been "
+"encapsulated into classes and functions. Therefore the user would not be "
+"bothered with these details. But it is always recommended to the advanced "
+"users to read and enjoy the low level details."
+msgstr ""
+
+#. summary(libqca2:libqca2-plugin-pkcs11-32bit)
+msgid "Qt Cryptographic Architecture 2 - pkcs11 support"
+msgstr ""
+
+#. summary(libqxmpp:libqxmpp0-32bit)
+#, fuzzy
+msgid "Qt XMPP Library"
+msgstr "性能"
+
+#. summary(licq:licq-qt4-gui-data)
+#, fuzzy
+msgid "Qt4 data files for Licq"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(libqxmpp:libqxmpp-doc)
+#, fuzzy
+msgid "Qxmpp library documentation"
+msgstr "7.0 文档"
+
+#. summary(nagios-rpm-macros)
+#, fuzzy
+msgid "RPM Macros for Nagios based packages"
+msgstr "更新包"
+
+#. summary(libreiserfs:libreiserfs-devel-32bit)
+#, fuzzy
+msgid "ReiserFS Filesystem Access Tools"
+msgstr "文件系统"
+
+#. summary(netbeans-resolver)
+msgid "Resolver subproject of xml-commons patched for NetBeans"
+msgstr ""
+
+#. description(netbeans-resolver)
+msgid ""
+"Resolver subproject of xml-commons, version 1.2 with a patch for NetBeans."
+msgstr ""
+
+#. description(librubberband:librubberband2-32bit)
+msgid ""
+"Rubber Band is a library and utility program that permits you to change the "
+"tempo and pitch of an audio recording independently of one another."
+msgstr ""
+
+#. description(SDLmm:libSDLmm-devel-32bit)
+msgid ""
+"SDLmm aims to stay as close as possible to the C API while taking advantage "
+"of native C++ features like object orientation. We will also aim at being "
+"platform independent as much as possible. I.e we'll try to support ever "
+"platform supported by SDL."
+msgstr ""
+
+#. description(SDLmm:libSDLmm-0_1-8-32bit)
+msgid ""
+"SDLmm aims to stay as close as possible to the C API while taking advantage "
+"of native C++ features like object oriented programming. It also aims to be "
+"as platform independent as possible. In other words, it tries to support "
+"every platform that SDL supports."
+msgstr ""
+
+#. summary(herqq:libQtSolutions_SOAP-2_7-1-32bit)
+msgid "SOAP client for Qt"
+msgstr ""
+
+#. description(netbeans-svnclientadapter)
+msgid "SVNClientAdapter is a high-level Java API for Subversion."
+msgstr ""
+
+#. summary(SDL_mixer:libSDL_mixer-devel-32bit)
+#, fuzzy
+msgid "Sample Mixer Library for SDL - files mandatory for development"
+msgstr "内核接口"
+
+#. description(limal-devtools)
+msgid ""
+"Scripts and templates for developing LiMaL modules and components. Required "
+"for rebuilding the existing LiMaL modules and components."
+msgstr ""
+
+#. summary(svrcore:libsvrcore0-32bit)
+msgid "Secure PIN handling using NSS crypto"
+msgstr ""
+
+#. summary(lynis)
+msgid "Security and System auditing tool"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-serbian-latin)
+#, fuzzy
+msgid "Serbian Latin Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(monit:monit-doc)
+msgid "Service Manager and Monitor System (Documentation and Examples)"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-setswana)
+#, fuzzy
+msgid "Setswana Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(liboggz:liboggz2-32bit)
+msgid "Shared Libraries For Oggz"
+msgstr ""
+
+#. summary(newt:libnewt0_52-32bit)
+msgid "Shared libraries for Nifty Erik's Windowing Toolkit"
+msgstr ""
+
+#. summary(libmowgli:libmowgli2-32bit)
+msgid "Shared library from libmowgli"
+msgstr ""
+
+#. summary(SDLmm:libSDLmm-0_1-8-32bit)
+msgid "Simple DirectMedia Layer Glue for C++"
+msgstr ""
+
+#. description(makeself)
+msgid ""
+"Small shell script that generates a self-extractable tar.gz archive from a "
+"directory. The resulting file appears as a shell script (many of those have "
+"a .run suffix), and can be launched as is. The archive will then uncompress "
+"itself to a temporary directory and an optional arbitrary command will be "
+"executed (for example an installation script).\n"
+"\n"
+"This is pretty similar to archives generated with WinZip Self-Extractor in "
+"the Windows world. Makeself archives also include checksums for integrity "
+"self-validation (CRC and/or MD5 checksums)."
+msgstr ""
+
+#. summary(Mesa:libXvMC_softpipe-32bit)
+#, fuzzy
+msgid "Software implementation of XVMC state tracker"
+msgstr "7.0 文档"
+
+#. summary(libreoffice-help-group2:libreoffice-help-en-ZA)
+#, fuzzy
+msgid "South Africa English Help Localization for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-en-ZA)
+#, fuzzy
+msgid "South Africa English Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-help-group2:libreoffice-help-en-ZA)
+#, fuzzy
+msgid ""
+"South Africa English help localization for LibreOffice. The other localized "
+"stuff is in libreoffice-l10n-en-ZA."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-en-ZA)
+#, fuzzy
+msgid "South Africa English localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(myspell-dictionaries:myspell-south-african-english)
+#, fuzzy
+msgid "South African English Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(nested)
+msgid "Specialized editor for structured documents"
+msgstr ""
+
+#. summary(netbeans-svnclientadapter)
+msgid "Subversion Client Adapter"
+msgstr ""
+
+#. description(pcsc-lite:libpcscspy0-32bit)
+msgid "Supporting library for the PC/SC spy tool."
+msgstr ""
+
+#. summary(mozilla-nss:mozilla-nss-sysinit-32bit)
+#, fuzzy
+msgid "System NSS Initialization"
+msgstr "系统信息"
+
+#. summary(trousers:libtspi1-32bit)
+msgid "TSS (TCG Software Stack) access daemon for a TPM chip"
+msgstr ""
+
+#. summary(libthai:libthai0-32bit)
+msgid "Thai Language Support Routines"
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-assamese)
+msgid ""
+"The Assamese dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-asturian)
+msgid ""
+"The Asturian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-belarusian)
+msgid ""
+"The Belarusian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-bengali)
+msgid ""
+"The Bengali dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-bolivian)
+msgid ""
+"The Bolivian Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-breton)
+msgid ""
+"The Breton dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-chichewa)
+msgid ""
+"The Chichewa dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-coptic)
+msgid ""
+"The Coptic dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-friulian)
+msgid ""
+"The Friulian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(greybird-theme:metatheme-greybird-common)
+msgid ""
+"The Greybird theme for GTK2/3 and xfwm4/emerald/metacity started out on the "
+"basis of Bluebird, but aims at reworking the intense blue tone to a more "
+"neutral grey-ish look that will be more pleasant to look at in everyday "
+"use.\n"
+"\n"
+"This package provides the files common to the GTK+ themes and the window "
+"manager themes as well as background images."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-haitian)
+msgid ""
+"The Haitian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. summary(openssl-ibmca)
+msgid "The IBMCA OpenSSL dynamic engine"
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-kazakh)
+msgid ""
+"The Kazakh dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-khmer)
+msgid ""
+"The Khmer dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-kichwa)
+msgid ""
+"The Kichwa dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-kikuyu)
+msgid ""
+"The Kikuyu dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-latin)
+msgid ""
+"The Latin dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-lower-sorbian)
+msgid ""
+"The Lower sorbian dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(mplus-fonts)
+msgid ""
+"The M+ outline fonts are distributed with proportional Latin (4 variations), "
+"fixed-halfwidth Latin (3 variations) and fixed-fullwidth Japanese (2 Kana "
+"variations) character set. 7 weights from Thin to Black are included, but "
+"fixed-halfwidth Latin with 5 weights from Thin to Bold."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-maithili)
+msgid ""
+"The Maithili dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-malayalam)
+msgid ""
+"The Malayalam dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-ndebele)
+msgid ""
+"The Ndebele dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-new-zealand)
+msgid ""
+"The New Zealand dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(openmarkup)
+msgid ""
+"The Open Markup project defines an open API called Open Markup Interface for "
+"object realizers and XML object realization.\n"
+"\n"
+"Object realization is a process by which software objects are created, "
+"configured, and processed according to machine-readable descriptions of "
+"those objects. It includes post-instantiation tasks, such as configuring "
+"objects with additional attributes or properties, connecting them with other "
+"objects to create complex object compositions, or otherwise manipulating "
+"them according to control information embedded in the object descriptions."
+msgstr ""
+
+#. description(openldap2:openldap2-doc)
+msgid ""
+"The OpenLDAP Admin Guide plus a set of OpenLDAP related IETF internet drafts"
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-spanish-paraguayan)
+msgid ""
+"The Paraguayan Spanish dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(herqq:libQtSolutions_SOAP-2_7-1-32bit)
+msgid ""
+"The Qt SOAP project provides basic web service support with version 1.1 of "
+"the SOAP protocol."
+msgstr ""
+
+#. description(SDL_gfx:libSDL_gfx-devel-32bit)
+msgid ""
+"The SDL_gfx library evolved out of the SDL_gfxPrimitives code which provided "
+"basic drawing routines such as lines, circles or polygons and SDL_rotozoom "
+"which implemented a interpolating rotozoomer for SDL surfaces. The current "
+"components of the SDL_gfx library are:\n"
+"\n"
+"- Graphic Primitives (SDL_gfxPrimitves.h)\n"
+"\n"
+"- Rotozoomer (SDL_rotozoom.h)\n"
+"\n"
+"- Framerate control (SDL_framerate.h)\n"
+"\n"
+"-  MMX image filters (SDL_imageFilter.h)\n"
+"\n"
+"The library is backwards compatible to the above mentioned code. It is "
+"written in plain C and can be used in C++ code."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-serbian-latin)
+msgid ""
+"The Serbian Latin dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-setswana)
+msgid ""
+"The Setswana dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-south-african-english)
+msgid ""
+"The South African English dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-tsonga)
+msgid ""
+"The Tsonga dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(xcb-util-wm:libxcb-ewmh2-32bit)
+msgid ""
+"The XCB util modules provide a number of libraries which sit on top of "
+"libxcb, the core X protocol library, and some of the extension libraries.\n"
+"\n"
+"Included in this package is:\n"
+"\n"
+"- icccm: Both client and window-manager helpers for ICCCM."
+msgstr ""
+
+#. description(xcb-util-image:libxcb-image0-32bit)
+msgid ""
+"The XCB util modules provide a number of libraries which sit on top of "
+"libxcb, the core X protocol library, and some of the extension libraries.\n"
+"\n"
+"Included in this package is:\n"
+"\n"
+"- image: Port of Xlib's XImage and XShmImage functions."
+msgstr ""
+
+#. description(xcb-util-keysyms:libxcb-keysyms1-32bit)
+msgid ""
+"The XCB util modules provide a number of libraries which sit on top of "
+"libxcb, the core X protocol library, and some of the extension libraries.\n"
+"\n"
+"Included in this package is:\n"
+"\n"
+"- keysyms: Standard X key constants and conversion to/from keycodes."
+msgstr ""
+
+#. description(xcb-util-renderutil:libxcb-render-util0-32bit)
+msgid ""
+"The XCB util modules provide a number of libraries which sit on top of "
+"libxcb, the core X protocol library, and some of the extension libraries.\n"
+"\n"
+"Included in this package is:\n"
+"\n"
+"- renderutil: Convenience functions for the Render extension."
+msgstr ""
+
+#. description(libqt4-devel-doc:libqt4-devel-doc-data)
+msgid "The architecture independent data files for the documentation."
+msgstr ""
+
+#. description(libnl3:libnl3-devel-32bit)
+msgid ""
+"The libnl suite is a collection of libraries providing APIs to Netlink "
+"protocol based Linux kernel interfaces."
+msgstr ""
+
+#. description(libpng14:libpng14-compat-devel-32bit)
+msgid ""
+"The libpng14-compat-devel package contains unversioned symlinks to the "
+"header files, libraries, configuration files and development tools necessary "
+"for compiling and linking programs that don't care about libpng version."
+msgstr ""
+
+#. description(netcf:libnetcf1-32bit)
+msgid "The libraries for netcf."
+msgstr ""
+
+#. description(libva:libva-devel-32bit)
+msgid ""
+"The libva library implements the Video Acceleration (VA) API for Linux. The "
+"library loads a hardware dependendent driver.\n"
+"\n"
+"This package provides the development environment for libva."
+msgstr ""
+
+#. description(libvpd2:libvpd2-devel-32bit)
+#, fuzzy
+msgid ""
+"The libvpd-devel package contains development libraries and header files "
+"that are used to access a vpd database created by vpdupdate in the lsvpd "
+"package."
+msgstr "包中含有意外的版本"
+
+#. description(libvpd2:libvpd2-32bit)
+msgid ""
+"The libvpd_cxx package contains the classes that are used to access a vpd "
+"database created by vpdupdate in the lsvpd package."
+msgstr ""
+
+#. description(lrcShow-X)
+msgid ""
+"The main goal of lrcShow-X is to add synchronized lyrics visualization "
+"functionality to the most used Linux media players, using existing LRC "
+"files, embedded lyrics like ID3 Sylt, Uslt, Lyrics3 and ApeTag. It also "
+"searches for lyrics using 12 different engines among which we can mention "
+"MiniLyrics, EvilLyrics, LrcDB and TTPlayer. lrcShow-X is written entirely in "
+"python using pyqt4 and supporting more than ten different players like "
+"Amarok2, Qmmp, Audacious and many other Linux Players (normally using a dbus "
+"interface)."
+msgstr ""
+
+#. description(netcf:netcf-devel-32bit)
+#, fuzzy
+msgid ""
+"The netcf-devel package contains libraries and header files for developing "
+"applications that use netcf."
+msgstr "包中含有意外的版本"
+
+#. description(livedtd)
+msgid ""
+"The package comes with a Perl script (livedtd.pl) that converts an SGML or "
+"XML DTD (Document Type Definition) into an HTML document.  The HTML document "
+"is exactly the same text as the DTD but with \"live\" links that let you "
+"navigate through the DTD."
+msgstr ""
+
+#. description(libupnp:libupnp6-32bit)
+msgid ""
+"The portable Universal Plug and Play (UPnP) SDK provides support for "
+"building UPnP-compliant control points, devices, and bridges on several "
+"operating systems"
+msgstr ""
+
+#. summary(pwlib:libpt1_11-32bit)
+msgid "The pwlib shared libs"
+msgstr ""
+
+#. description(trousers:libtspi1-32bit)
+msgid ""
+"The trousers package provides a TSS implementation through the help of a "
+"user-space daemon, the tcsd, and a library  Trousers aims to be compliant to "
+"the 1.1b and 1.2 TSS specifications as available from the Trusted Computing "
+"website http://www.trustedcomputinggroup.org/.\n"
+"\n"
+"The package needs the /dev/tpm device file to be present on your system. It "
+"is a character device file major 10 minor 224, 0600 tss:tss."
+msgstr ""
+
+#. summary(metacity-themes)
+#, fuzzy
+msgid "Themes for the Metacity Window Manager"
+msgstr "Motif 窗口管理器"
+
+#. description(lxde-common:lxde-common-branding-upstream)
+msgid ""
+"This branding-style package sets default applications in LXDE in openSUSE. "
+"This is a dumb package, which provides only upstream LXDE configurations as "
+"preferred defaults. You most probably don't want this package. You probably "
+"want to install distribution default lxde-common-branding and prefer "
+"openSUSE default settings."
+msgstr ""
+
+#. description(loadlin)
+msgid ""
+"This is a boot loader for Linux that runs under MS-DOS. It can boot Linux "
+"from a DOS prompt or CONFIG.SYS and fully supports the command line feature "
+"of the Linux kernel. This new version also supports bzImage+initrd--it can "
+"load directly 'high' and can load the RAM disk. bzImage+initrd (since 1.3.73 "
+"in the official kernel) was jointly developed by Werner Almesberger (LILO) "
+"and Hans Lermen (LOADLIN)."
+msgstr ""
+
+#. description(libreiserfs:libreiserfs-devel-32bit)
+msgid ""
+"This is a library for reiserfs filesystem access and manipulation. The "
+"primary goal is to develop the nice, full functionality library wich might "
+"be linked against any projects which needed reiserfs filesystem access. "
+"There are GNU Parted, GNU GRUB, Yaboot, Partimage, EVMS, etc."
+msgstr ""
+
+#. description(openCryptoki:openCryptoki-32bit)
+msgid ""
+"This is a re-packaged binary rpm. For the package source, please look for "
+"the source of the package without the \"32bit\" ending\n"
+"\n"
+"The PKCS#11 version 2.11 API implemented for the IBM cryptographic cards. "
+"This package includes support for the IBM 4758 cryptographic coprocessor "
+"(with the PKCS#11 firmware loaded) and the IBM eServer Cryptographic "
+"Accelerator (FC 4960 on pSeries)."
+msgstr ""
+
+#. description(openCryptoki:openCryptoki-64bit)
+msgid ""
+"This is a re-packaged binary rpm. For the package source, please look for "
+"the source of the package without the \"64bit\" ending\n"
+"\n"
+"The PKCS#11 version 2.11 API implemented for the IBM cryptographic cards. "
+"This package includes support for the IBM 4758 cryptographic coprocessor "
+"(with the PKCS#11 firmware loaded) and the IBM eServer Cryptographic "
+"Accelerator (FC 4960 on pSeries)."
+msgstr ""
+
+#. description(obs-service-verify_file)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"It allows to verify a file with a given sha256sum"
+msgstr ""
+
+#. description(obs-service-tar_scm)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"It supports downloading from svn, git, hg and bzr repositories."
+msgstr ""
+
+#. description(obs-service-recompress)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"It supports to compress, uncompress or recompress files from or to\n"
+"\n"
+" none : No Compression  gz   : Gzip Compression  bz2  : Bzip2 Compression  "
+"xz   : XZ Compression"
+msgstr ""
+
+#. description(obs-service-download_files)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"This service is parsing all spec files and downloads all Source files which "
+"are specified via a http, https or ftp url."
+msgstr ""
+
+#. description(obs-service-source_validator)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"This service runs all checks as required by openSUSE:Factory project. This "
+"can be used to guarantee that all checks succeed also on the service side. "
+"This plugin can be used via project wide defined services."
+msgstr ""
+
+#. description(obs-service-format_spec_file)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"This source service is formating the spec file to SUSE standard. The "
+"rational behind is to make it easier to review spec files from unknown "
+"packagers.\n"
+"\n"
+"This should be used in \"trylocal\" mode, so that osc is adapting the "
+"existing spec file instead of creating a new one."
+msgstr ""
+
+#. description(obs-service-set_version)
+msgid ""
+"This is a source service for openSUSE Build Service.\n"
+"\n"
+"Very simply script to update the version in .spec or .dsc files according to "
+"a given version or to the existing files."
+msgstr ""
+
+#. description(libyui-doc)
+msgid ""
+"This is the user interface engine that provides the abstraction from "
+"graphical user interfaces (Qt, Gtk) and text based user interfaces "
+"(ncurses).\n"
+"\n"
+"Originally developed for YaST, it can now be used independently of YaST for "
+"generic (C++) applications. This package has very few dependencies.\n"
+"\n"
+"This package provides the documentation. (HTML & PDF)"
+msgstr ""
+
+#. description(libwmf:libwmf-gnome-32bit)
+msgid ""
+"This library interprets metafile images and can either display them using "
+"the X Window System or convert them to standard formats such as PNG, JPEG, "
+"PS, EPS, and more."
+msgstr ""
+
+#. description(libnetfilter_acct:libnetfilter_acct1-32bit)
+msgid ""
+"This library provides the programming interface (API) to the Netfilter "
+"extended accounting infrastructure."
+msgstr ""
+
+#. description(libnetfilter_cttimeout:libnetfilter_cttimeout1-32bit)
+msgid ""
+"This library provides the programming interface (API) to the Netfilter "
+"extended timeout settings infrastructure."
+msgstr ""
+
+#. description(libnetfilter_cthelper:libnetfilter_cthelper-0-0-32bit)
+msgid ""
+"This library provides the programming interface (API) to the Netfilter "
+"userspace helper infrastructure."
+msgstr ""
+
+#. description(libsidplay1:libsidplay1-32bit)
+msgid ""
+"This package allows you to create packages able to play music from C64 games "
+"and demos on your PC.\n"
+"\n"
+"You can find a comprehensive archive on the WWW at: http://www.hvsc.c64.org/"
+msgstr ""
+
+#. description(liboggz:liboggz-doc)
+#, fuzzy
+msgid ""
+"This package contains HTML documentation needed for development using liboggz"
+msgstr "包中含有意外的版本"
+
+#. description(openssl-ibmca)
+msgid ""
+"This package contains a shared object OpenSSL dynamic engine for the IBM "
+"eServer Cryptographic Accelerator (ICA)."
+msgstr ""
+
+#. description(libotf:libotf-devel-32bit)
+#, fuzzy
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"develop applications that require libotf."
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-openclipart)
+msgid ""
+"This package contains an extensive set of extra galleries for LibreOffice. "
+"It can be used to enrich documents with graphics arts."
+msgstr ""
+
+#. description(openslide:openslide-doc)
+#, fuzzy
+msgid ""
+"This package contains documentation for developing with openslide library."
+msgstr "包中含有意外的版本"
+
+#. description(libvorbis:libvorbis-doc)
+#, fuzzy
+msgid ""
+"This package contains documents for Ogg/Vorbis library, including the API "
+"reference."
+msgstr "包中含有意外的版本"
+
+#. description(openjpeg:openjpeg-devel-32bit)
+msgid ""
+"This package contains header files and libraries needed for developing "
+"programs using the OpenJPEG library."
+msgstr ""
+
+#. description(libyui-gtk-pkg-doc)
+msgid ""
+"This package contains the Gtk package selector component for libYUI.\n"
+"\n"
+" This package provides the documentation. (HTML & PDF)"
+msgstr ""
+
+#. description(libyui-gtk-doc)
+msgid ""
+"This package contains the Gtk user interface component for libYUI.\n"
+"\n"
+" This package provides the documentation. (HTML & PDF)"
+msgstr ""
+
+#. description(papi:libpapi-32bit)
+#, fuzzy
+msgid "This package contains the PAPI runtime library."
+msgstr "获得包含文件的包"
+
+#. description(libyui-qt-graph-doc)
+msgid ""
+"This package contains the Qt graph component for libYUI.\n"
+"\n"
+" This package provides the documentation. (HTML & PDF)"
+msgstr ""
+
+#. description(libyui-qt-pkg-doc)
+msgid ""
+"This package contains the Qt package selector component for libYUI.\n"
+"\n"
+" This package provides the documentation. (HTML & PDF)"
+msgstr ""
+
+#. description(libyui-qt-doc)
+msgid ""
+"This package contains the Qt user interface component for libYUI.\n"
+"\n"
+" This package provides the documentation. (HTML & PDF)"
+msgstr ""
+
+#. description(Mesa:libvdpau_softpipe-32bit)
+msgid ""
+"This package contains the Software implementation of the VDPAU state "
+"tracker. This is still \"work in progress\", i.e. expect poor video quality, "
+"choppy videos and artefacts all over."
+msgstr ""
+
+#. description(Mesa:libXvMC_softpipe-32bit)
+msgid ""
+"This package contains the Software implementation of the XvMC state tracker. "
+"This is still \"work in progress\", i.e. expect poor video quality, choppy "
+"videos and artefacts all over."
+msgstr ""
+
+#. description(Mesa:libvdpau_nouveau-32bit)
+msgid ""
+"This package contains the VDPAU state tracker for Nouveau. This is still "
+"\"work in progress\", i.e. expect poor video quality, choppy videos and "
+"artefacts all over."
+msgstr ""
+
+#. description(Mesa:libvdpau_r300-32bit)
+msgid ""
+"This package contains the VDPAU state tracker for R300. This is still \"work "
+"in progress\", i.e. expect poor video quality, choppy videos and artefacts "
+"all over."
+msgstr ""
+
+#. description(Mesa:libvdpau_r600-32bit)
+msgid ""
+"This package contains the VDPAU state tracker for R600. This is still \"work "
+"in progress\", i.e. expect poor video quality, choppy videos and artefacts "
+"all over."
+msgstr ""
+
+#. description(Mesa:libXvMC_nouveau-32bit)
+msgid ""
+"This package contains the XvMC state tracker for Nouveau. This is still "
+"\"work in progress\", i.e. expect poor video quality, choppy videos and "
+"artefacts all over."
+msgstr ""
+
+#. description(Mesa:libXvMC_r300-32bit)
+msgid ""
+"This package contains the XvMC state tracker for R300. This is still \"work "
+"in progress\", i.e. expect poor video quality, choppy videos and artefacts "
+"all over."
+msgstr ""
+
+#. description(Mesa:libXvMC_r600-32bit)
+msgid ""
+"This package contains the XvMC state tracker for R600. This is still \"work "
+"in progress\", i.e. expect poor video quality, choppy videos and artefacts "
+"all over."
+msgstr ""
+
+#. description(libyui-ncurses-doc)
+msgid ""
+"This package contains the character based (ncurses) user interface component "
+"for libYUI.\n"
+"\n"
+" This package provides the documentation. (HTML & PDF)"
+msgstr ""
+
+#. description(opencdk:libopencdk-devel-32bit)
+msgid ""
+"This package contains the header files and static libraries for developing "
+"programs which will be linked against the opencdk library."
+msgstr ""
+
+#. description(newt:libnewt0_52-32bit)
+msgid ""
+"This package contains the shared libraries needed by programs built with "
+"newt.\n"
+"\n"
+"Newt is a programming library for color text-mode widget-based user "
+"interfaces.  Newt can be used to add stacked windows, entry widgets, check "
+"boxes, radio buttons, labels, plain text fields, scrollbars, etc., to text "
+"mode user interfaces."
+msgstr ""
+
+#. description(metacity-themes)
+#, fuzzy
+msgid ""
+"This package contains themes usable with the Metacity window manager for the "
+"GNOME Desktop."
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. description(opengl-games-utils)
+msgid ""
+"This package contains various shell scripts which are intended for use by 3D "
+"games packages. These shell scripts can be used to check if direct rendering "
+"is available before launching an OpenGL game. This package is intended for "
+"use by other packages and is not intended for direct end user use!"
+msgstr ""
+
+#. description(libyui-ncurses-pkg-doc)
+msgid ""
+"This package extends the character based (ncurses) user interface component "
+"for libYUI.\n"
+"\n"
+" This package provides the documentation. (HTML & PDF)"
+msgstr ""
+
+#. description(pwlib:libpt1_11-32bit)
+#, fuzzy
+msgid "This package includes the PWLIB library."
+msgstr "获得包含文件的包"
+
+#. description(libreoffice-branding-upstream)
+#, fuzzy
+msgid ""
+"This package includes the original branding for the LibreOffice office suite."
+msgstr "包中含有意外的版本"
+
+#. description(mhtml-firefox)
+msgid ""
+"This package installs a system-wide Firefox extension which allows it to "
+"read MHTML web archives, such as those created by Microsoft Internet "
+"Explorer®."
+msgstr ""
+
+#. description(nss-pam-ldapd:nss-pam-ldapd-32bit)
+msgid ""
+"This package provides a Name Service Switch module that allows your LDAP "
+"server to provide user account, group, host name, alias, netgroup, and "
+"basically any other information that you would normally get from /etc flat "
+"files or NIS. Nss-ldapd is a fork of the nss_ldap package by PADL Software "
+"Pty Ltd.. implementing some structural design changes that were needed to "
+"fix some issues of the original design."
+msgstr ""
+
+#. description(motoya-lcedar-fonts)
+msgid ""
+"This package provides a font family named \"MotoyaLCedar W3 mono\". It was "
+"provided to Android platform by Motoya."
+msgstr ""
+
+#. description(motoya-lmaru-fonts)
+msgid ""
+"This package provides a font family named \"MotoyaLMaru W3 mono\". It was "
+"provided to Android platform by Motoya."
+msgstr ""
+
+#. description(nagios-rpm-macros)
+#, fuzzy
+msgid ""
+"This package provides rpm macros for building packages for Nagios, check_mk "
+"and/or Icinga."
+msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+
+#. description(libxfce4ui:libxfce4ui-doc)
+#, fuzzy
+msgid "This package provides the documentation for the libxfce4ui library."
+msgstr "包中含有意外的版本"
+
+#. description(npapi-sdk)
+#, fuzzy
+msgid ""
+"This package provides the header and development files to create NPAPI "
+"browser plugins."
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(libvdpau:libvdpau_trace1-32bit)
+msgid ""
+"This package provides the library for tracing VDPAU function calls. Its "
+"usage is documented in the README."
+msgstr ""
+
+#. description(libxfce4ui:libxfce4ui-branding-upstream)
+#, fuzzy
+msgid "This package provides the upstream look and feel for libxfce4ui."
+msgstr "包中含有意外的版本"
+
+#. description(lightdm-gtk-greeter:lightdm-gtk-greeter-branding-upstream)
+#, fuzzy
+msgid ""
+"This package provides the upstream look and feel for lightdm-gtk-greeter."
+msgstr "包中含有意外的版本"
+
+#. description(midori:midori-branding-upstream)
+#, fuzzy
+msgid ""
+"This package provides the upstream look and feel for the Midori web browser."
+msgstr "包中含有意外的版本"
+
+#. description(libqxmpp:libqxmpp-doc)
+#, fuzzy
+msgid "This packages provides documentation of LeechCraft Azoth API."
+msgstr "包中含有意外的版本"
+
+#. description(gconf2-branding-SLES:novell-sound-theme)
+#, fuzzy
+msgid "This packages provides the default sound theme by Novell."
+msgstr "包中含有意外的版本"
+
+#. description(nagios-plugins-zypper)
+msgid ""
+"This plugin checks for software updates on systems that use package "
+"management systems based on the zypper command found in openSUSE.\n"
+"\n"
+"It checks for security, recommended and optional patches and also for "
+"optional package updates.\n"
+"\n"
+"You can define the status by patch category. Use a commata to list more than "
+"one category to a state.\n"
+"\n"
+"If you like to know the names of available patches and packages, use the \"-v"
+"\" option."
+msgstr ""
+
+#. summary(open-ovf)
+msgid "Tool for importing and exporting OVF"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-tsonga)
+#, fuzzy
+msgid "Tsonga Dictionary for MySpell"
+msgstr "正在更新软件"
+
+#. summary(libreoffice-l10n:libreoffice-l10n-ts)
+#, fuzzy
+msgid "Tsonga Localization Files for LibreOffice"
+msgstr "包中含有意外的版本"
+
+#. description(libreoffice-l10n:libreoffice-l10n-ts)
+#, fuzzy
+msgid "Tsonga localization files for LibreOffice."
+msgstr "包中含有意外的版本"
+
+#. summary(mono-upnp:mono-upnp-tests)
+msgid "Unit tests for mono-upnp"
+msgstr ""
+
+#. summary(midori:midori-branding-upstream)
+#, fuzzy
+msgid "Upstream Branding of Midori"
+msgstr "电源管理 (APM)"
+
+#. summary(libxfce4ui:libxfce4ui-branding-upstream)
+#, fuzzy
+msgid "Upstream Branding of libxfce4ui"
+msgstr "电源管理 (APM)"
+
+#. summary(lxde-common:lxde-common-branding-upstream)
+msgid "Upstream branding"
+msgstr ""
+
+#. summary(lightdm-gtk-greeter:lightdm-gtk-greeter-branding-upstream)
+msgid "Upstream branding of lightdm-gtk-greeter-gtk-greeter"
+msgstr ""
+
+#. summary(libnetfilter_log:libnetfilter_log1-32bit)
+msgid "Userspace library for accessing logged packets"
+msgstr ""
+
+#. summary(libnetfilter_queue:libnetfilter_queue1-32bit)
+msgid ""
+"Userspace library for packets that have been queued by the kernel packet "
+"filter"
+msgstr ""
+
+#. summary(libnetfilter_cthelper:libnetfilter_cthelper-0-0-32bit)
+msgid "Userspace library for the Netfilter Conntrack Helper extension"
+msgstr ""
+
+#. summary(libnetfilter_cttimeout:libnetfilter_cttimeout1-32bit)
+msgid "Userspace library for the Netfilter Conntrack Timeout extension"
+msgstr ""
+
+#. summary(libnetfilter_acct:libnetfilter_acct1-32bit)
+msgid "Userspace library for the in-kernel Netfilter counters"
+msgstr ""
+
+#. summary(opengl-games-utils)
+msgid "Utilities to check proper 3d support before launching 3d games"
+msgstr ""
+
+#. summary(libvdpau:libvdpau_trace1-32bit)
+#, fuzzy
+msgid "VDPAU trace library"
+msgstr "GNOME 开发"
+
+#. summary(libvdpau:libvdpau-devel-32bit)
+#, fuzzy
+msgid "VDPAU wrapper development files"
+msgstr "KDE 开发"
+
+#. description(vigra:libvigraimpex2-32bit)
+msgid ""
+"VIGRA stands for \"Vision with Generic Algorithms\". It is a novel computer "
+"vision library that puts its main emphasis on customizable algorithms and "
+"data structures. By using template techniques similar to those in the C++ "
+"Standard Template Library, you can easily adapt any VIGRA component to the "
+"needs of your application, without giving up execution speed."
+msgstr ""
+
+#. summary(libvpd2:libvpd2-32bit)
+msgid "VPD Database access library for lsvpd"
+msgstr ""
+
+#. summary(libva:libva-devel-32bit)
+#, fuzzy
+msgid "Video Acceleration (VA) API for Linux -- development files"
+msgstr "开发"
+
+#. summary(mumble:mumble-32bit)
+msgid "Voice Communication Client for Gamers"
+msgstr ""
+
+#. summary(libxkbcommon:libxkbcommon0-32bit)
+msgid "Wayland libxkbcommon library"
+msgstr ""
+
+#. summary(xcb-util-keysyms:libxcb-keysyms1-32bit)
+msgid "XCB utility module for X keycode constants and conversions"
+msgstr ""
+
+#. summary(xcb-util-image:libxcb-image0-32bit)
+msgid "XCB utility module for XImage/XShmImage-like functions"
+msgstr ""
+
+#. summary(xcb-util-wm:libxcb-ewmh2-32bit)
+msgid "XCB utility module for client- and WM-side ICCCM helpers"
+msgstr ""
+
+#. summary(xcb-util-renderutil:libxcb-render-util0-32bit)
+msgid "XCB utility module for the Render extension"
+msgstr ""
+
+#. summary(Mesa:libXvMC_nouveau-32bit)
+msgid "XVMC state tracker for Nouveau"
+msgstr ""
+
+#. summary(Mesa:libXvMC_r300-32bit)
+msgid "XVMC state tracker for R300"
+msgstr ""
+
+#. summary(Mesa:libXvMC_r600-32bit)
+msgid "XVMC state tracker for R600"
+msgstr ""
+
+#. description(libyajl:libyajl-devel-32bit)
+msgid ""
+"YAJL is a small event-driven (SAX-style) JSON parser written in ANSI C, and "
+"a small validating JSON generator.\n"
+"\n"
+"This package provides the necessary environment for compiling and linking "
+"against libyajl."
+msgstr ""
+
+#. summary(libyajl:libyajl-devel-32bit)
+#, fuzzy
+msgid "Yet Another JSON Library (Development Environment)"
+msgstr "单声道开发环境。"
+
+#. description(zziplib:libzzip-0-13-32bit)
+msgid ""
+"ZZipLib is a library for dealing with zip and zip-like archives by using "
+"free algorithms of zlib."
+msgstr ""
+
+#. summary(zziplib:libzzip-0-13-32bit)
+msgid "ZZipLib: free zip compression library with easy to use API"
+msgstr ""
+
+#. description(libmnl:libmnl0-32bit)
+msgid ""
+"libmnl is a minimalistic user-space library oriented to Netlink developers. "
+"There are a lot of common tasks in parsing, validating, constructing of both "
+"the Netlink header and TLVs that are repetitive and easy to get wrong. This "
+"library aims to provide simple helpers that allows you to re-use code and to "
+"avoid re-inventing the wheel."
+msgstr ""
+
+#. description(libnetfilter_log:libnetfilter_log1-32bit)
+msgid ""
+"libnetfilter_log is a userspace library providing interface to packets that "
+"have been logged by the kernel packet filter. It is is part of a system that "
+"deprecates the old syslog/dmesg based packet logging. This library has been "
+"previously known as libnfnetlink_log."
+msgstr ""
+
+#. description(libnetfilter_queue:libnetfilter_queue1-32bit)
+msgid ""
+"libnetfilter_queue is a userspace library providing an API to packets that "
+"have been queued by the kernel packet filter. It is is part of a system that "
+"deprecates the old ip_queue / libipq mechanism.\n"
+"\n"
+"libnetfilter_queue has been previously known as libnfnetlink_queue."
+msgstr ""
+
+#. description(liboggz:liboggz2-32bit)
+msgid ""
+"liboggz is a library that provides simple parsing and seeking of files and "
+"streams based on the Ogg file format. liboggz requires libogg to work. "
+"liboggz knows about Ogg speex, Ogg vorbis, Ogg theora, and the Ogg based "
+"Annodex formats, thus allows parsing (though not decoding) of these files."
+msgstr ""
+
+#. description(liboping:liboping-devel-32bit)
+msgid ""
+"liboping is a C library for measuring network latency using ICMP echo "
+"requests. It can send to and receive packets from multiple hosts in "
+"parallel, which is nice for monitoring applications. Both IPv4 and IPv6 are "
+"supported transparently for the programmer and user.\n"
+"\n"
+"This package includes the header and shared library link, required for "
+"building applications or libraries that use liboping. This package is not "
+"needed at runtime."
+msgstr ""
+
+#. description(pam_passwdqc:libpasswdqc0-32bit)
+msgid ""
+"libpasswdqc is a simple password strength checking library. In addition to "
+"checking regular passwords, it offers support for passphrases and can "
+"provide randomly generated ones."
+msgstr ""
+
+#. description(pidgin:libpurple-branding-upstream)
+msgid ""
+"libpurple is a library intended to be used by programmers seeking to write "
+"an IM client that connects to many IM networks.\n"
+"\n"
+"libpurple is compatible with the following chat networks out of the box: "
+"AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo!, Bonjour, Gadu-"
+"Gadu, IRC, Novell GroupWise Messenger, QQ, Lotus Sametime, SILC, SIMPLE, "
+"MXit, MySpaceIM, and Zephyr. It can support many more with plugins.\n"
+"\n"
+"This package provides the openSUSE default configuration for Pidgin."
+msgstr ""
+
+#. description(libreadline-java:libreadline-java-32bit)
+msgid ""
+"libreadline-java provides Java bindings for libedit though a JNI wrapper."
+msgstr ""
+
+#. description(loki_setup:loki_setup-64bit)
+msgid ""
+"loki_setup is an installer program mainly for games. It supports an ncurses-"
+"based GUI for console and server installs. Users running the X Window System "
+"have a GTK+ interface."
+msgstr ""
+
+#. description(libmowgli:libmowgli2-32bit)
+msgid ""
+"mowgli is a development framework for C (like GLib), which provides high "
+"performance and highly flexible algorithms. It can be used as a suppliment "
+"to GLib (to add additional functions (dictionaries, hashes), or replace some "
+"of the slow GLib list manipulation functions), or stand alone. It also "
+"provides a powerful hook system and convenient logging for your code, as "
+"well as a high performance block allocator\n"
+"\n"
+"This package holds the shared library from libmowgli."
+msgstr ""
+
+#. description(mytop)
+msgid ""
+"mytop is a console-based (non-GUI) tool for monitoring the threads and "
+"overall performance of MySQL 3.22.x, 3.23.x, and 4.x servers.\n"
+"\n"
+"- With Term::ANSIColor installed you even get color.\n"
+"\n"
+"- If you install Time::HiRes, get good real-time queries/second stats."
+msgstr ""
+
+#. description(netconsole-tools)
+msgid ""
+"netconsole is a kernel feature to log the dmesg output via the network. The "
+"used network driver must support the polling function.\n"
+"\n"
+"netconsole-server is a wrapper for insmod to load netconsole.o with the "
+"correct options. Use netcat on the client side to receive the kernel "
+"messages."
+msgstr ""
+
+#. description(nspluginwrapper)
+msgid ""
+"nspluginwrapper is an Open Source compatibility plugin for Netscape 4 "
+"(NPAPI) plugins. It enables you to use plugins on platforms they were not "
+"built for. For example, you can use the plugins compiled for i386 in Mozilla "
+"on Linux/x86_64 or other architectures. This package consists of:\n"
+"\n"
+"* npviewer: the plug-in viewer\n"
+"\n"
+"* npwrapper.so: the browser-side plug-in\n"
+"\n"
+"* nspluginwrapper: a tool to manage plug-ins installation and update"
+msgstr ""
+
+#. description(nss-myhostname:nss-myhostname-32bit)
+msgid ""
+"nss-myhostname is a plugin for the GNU Name Service Switch (NSS) "
+"functionality of the GNU C Library (glibc) providing host name resolution "
+"for the locally configured system hostname as returned by gethostname(2). "
+"Various software relies on an always resolvable local host name. When using "
+"dynamic hostnames this is usually achieved by patching /etc/hosts at the "
+"same time as changing the host name. This however is not ideal since it "
+"requires a writable /etc file system and is fragile because the file might "
+"be edited by the administrator at the same time. nss-myhostname simply "
+"returns all locally configured public IP addresses, or -- if none are "
+"configured -- the IPv4 address 127.0.0.2 (wich is on the local loopback) and "
+"the IPv6 address ::1 (which is the local host) for whatever system hostname "
+"is configured locally. Patching /etc/hosts is thus no longer necessary.\n"
+"\n"
+"Note that nss-myhostname only provides a workaround for broken software. If "
+"nss-myhostname is trigged by an application a message is logged to /var/log/"
+"messages. Please check whether that's worth a bug report then."
+msgstr ""
+
+#. description(svrcore:libsvrcore0-32bit)
+msgid ""
+"svrcore provides applications with several ways to handle secure PIN storage "
+"e.g. in an application that must be restarted, but needs the PIN to unlock "
+"the private key and other crypto material, without user intervention.  "
+"svrcore uses the facilities provided by NSS."
+msgstr ""
+
+#, fuzzy
+#~ msgid "A PAM Module for User Authentication using an NT Server"
+#~ msgstr "联网信息服务客户机"
+
+#, fuzzy
+#~ msgid "A virtual network manager"
+#~ msgstr "Xen 虚拟机器主管服务器"
+
+#, fuzzy
+#~ msgid "Collection of EULAs for openSUSE"
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "Documentation for Pluggable Authentication Modules"
+#~ msgstr "7.0 文档"
+
+#, fuzzy
+#~ msgid "Documentation for openstack-swift %null"
+#~ msgstr "7.0 文档"
+
+#, fuzzy
+#~ msgid "GTK theme to match KDE desktop environment"
+#~ msgstr "KDE 桌面环境"
+
+#, fuzzy
+#~ msgid "Javadoc documentation for NetBeans Platform 11"
+#~ msgstr "7.0 文档"
+
+#, fuzzy
+#~ msgid "Languages for package muffin"
+#~ msgstr "语言：     "
+
+#, fuzzy
+#~ msgid "Languages for package osdlyrics"
+#~ msgstr "语言：     "
+
+#, fuzzy
+#~ msgid "Languages for package pdf2djvu"
+#~ msgstr "语言：     "
+
+#, fuzzy
+#~ msgid "OTRS Documentation"
+#~ msgstr "7.0 文档"
+
+#, fuzzy
+#~ msgid "OpenStack Quickstart"
+#~ msgstr "OpenOffice.Org 快速起动器"
+
+#, fuzzy
+#~ msgid "Provides translations to the package muffin"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "Provides translations to the package osdlyrics"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "Provides translations to the package pdf2djvu"
+#~ msgstr "等待导航栏应用程序"
+
+#, fuzzy
+#~ msgid "Python client library for the MSN protocol"
+#~ msgstr "正在创建资源数据库"
+
+#, fuzzy
+#~ msgid "Summary and Descriptions Translations"
+#~ msgstr "俄联邦"
+
+#, fuzzy
+#~ msgid ""
+#~ "This package contains the large (128x128 and larger) non-scalable icons "
+#~ "of the Oxygen icon theme."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "This package contains the scalable icons of the Oxygen icon theme."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "This package contains the standard puzzle files for Palapeli."
+#~ msgstr "包中含有意外的版本"
+
+#, fuzzy
+#~ msgid "openSUSE manual: KVM Guide (PDF, Japanese)"
+#~ msgstr "安装捆绑软件"
+
+#, fuzzy
+#~ msgid "openSUSE manual: Reference (PDF, Japanese)"
+#~ msgstr "SLES 管理工具"
+
+#, fuzzy
+#~ msgid "openSUSE manual: Security Guide (PDF, English)"
+#~ msgstr "SLES 管理工具"
+
+#, fuzzy
+#~ msgid "openSUSE manual: Security Guide (PDF, Japanese)"
+#~ msgstr "SLES 管理工具"
+
+#, fuzzy
+#~ msgid "openSUSE manual: Start-Up (PDF, English)"
+#~ msgstr "SLES 管理工具"
+
+#, fuzzy
+#~ msgid "openSUSE manual: Start-Up (PDF, Japanese)"
+#~ msgstr "SLES 管理工具"
+
+#, fuzzy
+#~ msgid "openSUSE manual: Tuning Guide (PDF, English)"
+#~ msgstr "安装捆绑软件"
+
+#, fuzzy
+#~ msgid "openSUSE manual: Tuning Guide (PDF, Japanese)"
+#~ msgstr "安装捆绑软件"

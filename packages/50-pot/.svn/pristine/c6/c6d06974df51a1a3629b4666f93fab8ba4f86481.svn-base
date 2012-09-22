@@ -1,18 +1,10 @@
 # This file was automatically generated
-# margurite <i@marguerite.su>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
 "POT-Creation-Date: 2012-09-22 03:38:29\n"
-"PO-Revision-Date: 2012-09-22 14:16+0800\n"
-"Last-Translator: Marguerite Su\n"
-"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
-"Language: zh_TW\n"
-"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 1.5\n"
 
 #. description(google-nobile-fonts)
 msgid ""
@@ -38,9 +30,8 @@ msgid ""
 msgstr ""
 
 #. summary(itext)
-#, fuzzy
 msgid "A Free Java-PDF library"
-msgstr "GNOME 开发"
+msgstr ""
 
 #. summary(google-anonymouspro-fonts)
 msgid "A Free Monospace Font"
@@ -55,9 +46,8 @@ msgid ""
 msgstr ""
 
 #. summary(jython)
-#, fuzzy
 msgid "A Java implementation of the Python language"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(identity-abstraction)
 msgid "A Java open source implementation of an identity-abstraction sdk"
@@ -89,7 +79,7 @@ msgstr ""
 
 #. summary(fcitx-table-other)
 msgid "A fork of ibus-table-others for Fcitx"
-msgstr "Fcitx 对 ibus-table-others 的派生"
+msgstr ""
 
 #. description(icc-profiles-openicc:icc-profiles-oyranos-extra)
 msgid "A gray and ITUlab fax ICC profile."
@@ -106,9 +96,8 @@ msgid ""
 msgstr ""
 
 #. summary(giver)
-#, fuzzy
 msgid "A simple file sharing desktop application"
-msgstr "应用程序"
+msgstr ""
 
 #. description(gdouros-alexander-fonts)
 msgid ""
@@ -127,38 +116,32 @@ msgid ""
 msgstr ""
 
 #. summary(javazic)
-#, fuzzy
 msgid "A time zone compiler for Java"
-msgstr "C 和 C++ 开发工具。"
+msgstr ""
 
 #. summary(horde4-nag)
 msgid "A web based tasklist manager with sync options"
 msgstr ""
 
 #. summary(ffado-mixer:ffado-doc)
-#, fuzzy
 msgid "API documentation for ffado"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(icedtea-web:icedtea-web-javadoc)
-#, fuzzy
 msgid "API documentation for icedtea-web"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(gnome-themes-extras)
-#, fuzzy
 msgid "Additional GNOME Themes"
-msgstr "GNOME 系统"
+msgstr ""
 
 #. summary(gnome-vfs2:gnome-vfs2-doc)
-#, fuzzy
 msgid "Additional Package Documentation for gnome-vfs2"
-msgstr "5.1 NetworkManager 文档"
+msgstr ""
 
 #. summary(gtk2-themes)
-#, fuzzy
 msgid "Additional Themes and Engines for GTK2"
-msgstr "GNOME 系统"
+msgstr ""
 
 #. description(gdouros-aegean-fonts)
 msgid ""
@@ -186,9 +169,8 @@ msgid ""
 msgstr ""
 
 #. summary(kde3-i18n:kde3-i18n-af)
-#, fuzzy
 msgid "Afrikaans Translations for KDE"
-msgstr "俄联邦"
+msgstr ""
 
 #. description(gdouros-akkadian-fonts)
 msgid ""
@@ -214,11 +196,10 @@ msgid ""
 msgstr ""
 
 #. description(kde3-i18n:kde3-i18n-ar)
-#, fuzzy
 msgid ""
 "All the stuff for a desktop in Arabic. This package contains application "
 "translations, help files and screenshots."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(google-allerta-fonts)
 msgid ""
@@ -252,14 +233,12 @@ msgid "An Ecclesiastic Scripts Font"
 msgstr ""
 
 #. summary(IPython:IPython-doc)
-#, fuzzy
 msgid "An Enhanced Interactive Python Shell documentation"
-msgstr "5.1 NetworkManager 文档"
+msgstr ""
 
 #. summary(iceWMCP)
-#, fuzzy
 msgid "An IceWM Configuration Panel"
-msgstr "查看配置"
+msgstr ""
 
 #. summary(firebird:firebird-32bit)
 msgid "An SQL database server"
@@ -329,9 +308,8 @@ msgid ""
 msgstr ""
 
 #. summary(horde4-ansel)
-#, fuzzy
 msgid "Ansel - Photo management application"
-msgstr "选择应用程序"
+msgstr ""
 
 #. description(horde4-ansel)
 msgid ""
@@ -344,18 +322,16 @@ msgid "Apache JSP Engine, RI for Servlet JSP 2.0 API"
 msgstr ""
 
 #. summary(gnu-crypto:gnu-crypto-javadoc)
-#, fuzzy
 msgid "Api documentation for gnu-crypto"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(gcstar)
 msgid "Application to manage collections"
 msgstr ""
 
 #. summary(kde3-i18n:kde3-i18n-ar)
-#, fuzzy
 msgid "Arabic translations for KDE"
-msgstr "俄联邦"
+msgstr ""
 
 #. description(hxtools:hxtools-data)
 msgid ""
@@ -420,7 +396,7 @@ msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-tw-boshiamy)
 msgid "Boshiamy table for Fcitx"
-msgstr "Fcitx 無暇米码表"
+msgstr ""
 
 #. summary(findbugs)
 msgid "Bug Pattern Detector for Java"
@@ -431,19 +407,16 @@ msgid "C library static libraries for -static linking"
 msgstr ""
 
 #. summary(gtkmm2-documentation:gtkmm2-tutorial)
-#, fuzzy
 msgid "C++ Bindings for GTK+ -- Tutorial"
-msgstr "Tcl/Tk 及其开发工具。"
+msgstr ""
 
 #. summary(gtkmm3:gtkmm3-doc)
-#, fuzzy
 msgid "C++ Interface for GTK3 (a GUI Library for X)"
-msgstr "启动时选择的接口："
+msgstr ""
 
 #. summary(gnome-agenda)
-#, fuzzy
 msgid "Calendar application for the GNOME Desktop"
-msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+msgstr ""
 
 #. description(google-cardo-fonts)
 msgid ""
@@ -478,9 +451,8 @@ msgid "CleanIce GTK Theme Engine"
 msgstr ""
 
 #. summary(glipper)
-#, fuzzy
 msgid "Clipboard Manager for GNOME"
-msgstr "电源管理 (APM)"
+msgstr ""
 
 #. summary(gnome-patch-translation)
 msgid "Collect and Merge Translations From RPM Patches"
@@ -491,9 +463,8 @@ msgid "Collection of Cmyk Profiles from basICColor"
 msgstr ""
 
 #. summary(gnome-video-effects:gnome-video-effects-devel)
-#, fuzzy
 msgid "Collection of GStreamer effects -- Development Files"
-msgstr "KDE 开发"
+msgstr ""
 
 #. description(jcommon)
 msgid ""
@@ -514,9 +485,8 @@ msgid "Common Internet File System Client in 100% Java"
 msgstr ""
 
 #. summary(jcommon)
-#, fuzzy
 msgid "Common library"
-msgstr "GNOME 开发"
+msgstr ""
 
 #. summary(jakarta-commons-compress)
 msgid "Commons Compress"
@@ -528,9 +498,8 @@ msgid ""
 msgstr ""
 
 #. summary(jakarta-commons-transaction)
-#, fuzzy
 msgid "Commons Transaction"
-msgstr "俄联邦"
+msgstr ""
 
 #. description(jakarta-commons-transaction)
 msgid ""
@@ -604,19 +573,16 @@ msgid "Demonstration and sample files for jdepend"
 msgstr ""
 
 #. summary(junit:junit-demo)
-#, fuzzy
 msgid "Demonstration and sample files for junit"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(jython:jython-demo)
-#, fuzzy
 msgid "Demonstration and samples for jython"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(jakarta-commons-httpclient:jakarta-commons-httpclient-demo)
-#, fuzzy
 msgid "Demonstration files for  jakarta-commons-httpclient"
-msgstr "用于服务器的 KDE 桌面环境"
+msgstr ""
 
 #. description(jakarta-commons-httpclient:jakarta-commons-httpclient-demo)
 msgid ""
@@ -633,17 +599,15 @@ msgid "Demonstrations and samples for gnu-regexp."
 msgstr ""
 
 #. summary(jakarta-commons-httpclient:jakarta-commons-httpclient-javadoc)
-#, fuzzy
 msgid "Developer documentation for jakarta-commons-httpclient"
-msgstr "用于服务器的 KDE 桌面环境"
+msgstr ""
 
 #. description(jakarta-commons-httpclient:jakarta-commons-httpclient-javadoc)
-#, fuzzy
 msgid ""
 "Developer documentation for jakarta-commons-httpclient in JavaDoc format.\n"
 "\n"
 "Developer documentation for jakarta-commons-httpclient."
-msgstr "用于服务器的 KDE 桌面环境"
+msgstr ""
 
 #. summary(fontpackages:fontpackages-devel)
 msgid "Development Commons for Font Packages"
@@ -654,33 +618,28 @@ msgid "Development commons for font packages."
 msgstr ""
 
 #. summary(flickrnet:flickrnet-devel)
-#, fuzzy
 msgid "Development files for Flickr.Net"
-msgstr "开发"
+msgstr ""
 
 #. summary(ibus-table-extraphrase:ibus-table-extraphrase-devel)
 msgid "Development package for ibus-table-extraphrase"
-msgstr "ibus-table-extraphrase 的开发包"
+msgstr ""
 
 #. summary(glibc:glibc-utils-32bit)
-#, fuzzy
 msgid "Development utilities from GNU C library"
-msgstr "开发"
+msgstr ""
 
 #. summary(gnucash-docs)
-#, fuzzy
 msgid "Documentation Module for GnuCash"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(jflex:jflex-doc)
-#, fuzzy
 msgid "Documentation and examples for jflex"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(firebird:firebird-doc)
-#, fuzzy
 msgid "Documentation for Firebird SQL server"
-msgstr "7.0 文档"
+msgstr ""
 
 #. description(firebird:firebird-doc)
 msgid ""
@@ -694,24 +653,20 @@ msgid ""
 msgstr ""
 
 #. summary(getmail:getmail-doc)
-#, fuzzy
 msgid "Documentation for getmail"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(gnuplot:gnuplot-doc)
-#, fuzzy
 msgid "Documentation of GNUplot"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(gammu:gammu-doc)
-#, fuzzy
 msgid "Documentation of Gammu"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(iproute2:iproute2-doc)
-#, fuzzy
 msgid "Documentation to iproute2"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(findbugs:findbugs-manual)
 msgid "Documents for findbugs"
@@ -732,11 +687,10 @@ msgid "Easy table with large character set for Traditional Chinese"
 msgstr ""
 
 #. description(kde3-i18n:kde3-i18n-af)
-#, fuzzy
 msgid ""
 "Everything for an Afrikaans desktop. This package contains application "
 "translations, help files, and screenshots."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(google-exo-fonts)
 msgid ""
@@ -751,7 +705,7 @@ msgstr ""
 
 #. summary(ibus-table-extraphrase)
 msgid "Extra phrases for IBus-table based IME"
-msgstr "基于 ibus-table 的输入法引擎的额外短语"
+msgstr ""
 
 #. description(ffado-mixer)
 msgid ""
@@ -777,27 +731,27 @@ msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-array30)
 msgid "Fcitx Array 30 (hang laat 30) table for Traditional Chinese."
-msgstr "Fcitx 繁体中文行列 30 码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-array30-large)
 msgid ""
 "Fcitx Array 30 (hang laat 30) table with large character set for Traditional "
 "Chinese."
-msgstr "Fcitx 繁体中文行列 30 码表带大字符集支持。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-boshiamy)
 msgid "Fcitx Boshiamy table for Traditional Chinese."
-msgstr "Fcitx 繁体中文無暇米码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-easy-large)
 msgid ""
 "Fcitx Easy (Heng Sung) table with large character set for Traditional "
 "Chinese."
-msgstr "Fcitx 繁体中文轻松码表带大字符集支持。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-hk-stroke5)
 msgid "Fcitx Hong Kong 5 stroke input table for Traditional Chinese."
-msgstr "Fcitx 繁体中文香港笔顺五码输入码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-hk-jyutping)
 msgid ""
@@ -820,19 +774,6 @@ msgid ""
 "\n"
 "If you don't know what it is, don't try."
 msgstr ""
-"Fcitx 繁体中文香港粤语拼音码表。\n"
-"\n"
-"这是殖民地时代港英政府发布的粤语拼音方案。\n"
-"\n"
-"它用来转换中文人名和路名到英文，英人可用国际音标、港人可用香港粤语准确发音。\n"
-"\n"
-"但是很少有人用它作为日常中文输入法。它的发音对中国人来说太难记。\n"
-"\n"
-"并且它的码表不全。\n"
-"\n"
-"详情参考：http://zh.wikipedia.org/wiki/香港政府粤语拼音\n"
-"\n"
-"如果你不知道这是什么，那就不要试。"
 
 #. description(fcitx-table-other:fcitx-table-ipa-x-sampa)
 msgid ""
@@ -841,85 +782,82 @@ msgid ""
 "\n"
 "Notice: It's used to input IPA."
 msgstr ""
-"Fcitx 国际音标 - 扩展语音评估方法（IPA-X-SAMPA）拼音码表。\n"
-"\n"
-"注意：它是用来输入国际音标的。"
 
 #. description(fcitx-table-other:fcitx-table-latex)
 msgid "Fcitx Latex table to input Latex formula and symbols."
-msgstr "Fcitx 用于输入 Latex 公式和符号的 Latex 码表。"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-malayalam-compose)
 msgid "Fcitx Malayalam Compose table."
-msgstr "Fcitx 马拉雅拉姆语（印度）拼字码表。"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-malayalam-phonetic)
 msgid "Fcitx Malayalam Phonetic table."
-msgstr "Fcitx 马拉雅拉姆语拼音码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-quick3)
 msgid "Fcitx Quick (Cuk Sing) 3 table for Traditional Chinese."
-msgstr "Fcitx 繁体中文速成 3 码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-quick5)
 msgid "Fcitx Quick (Cuk Sing) 5 table for Traditional Chinese."
-msgstr "Fcitx 繁体中文速成 5 码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-quick-classic)
 msgid "Fcitx Quick (Cuk Sing) Classic table for Traditional Chinese."
-msgstr "Fcitx 繁体中文速成经典码表。"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-ru-translit)
 msgid "Fcitx Russian Translit table."
-msgstr "Fcitx 俄语 Translit 码表"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-ru-yawerty)
 msgid "Fcitx Russian Yawerty table."
-msgstr "Fcitx 俄语 Yawerty 键盘码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-smart-cangjie6)
 msgid "Fcitx Smart Tsang Jei (Fast Cang Jie) 6 table for Traditional Chinese."
-msgstr "Fcitx 繁体中文快速仓颉 6 码表。"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-tamil-remington)
 msgid "Fcitx Tamil Remington tables"
-msgstr "Fcitx 泰米尔雷明顿码表"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-thai)
 msgid "Fcitx Thai table."
-msgstr "Fcitx 泰国语码表。"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-ru-rustrad)
 msgid "Fcitx Traditional Russian table."
-msgstr "Fcitx 传统俄语码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-cangjie3)
 msgid "Fcitx Tsang Jei (Cang Jie) 3 table for Traditional Chinese."
-msgstr "Fcitx 繁体中文仓颉 3 码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-cangjie5)
 msgid "Fcitx Tsang Jei (Cang Jie) 5 table for Traditional Chinese."
-msgstr "Fcitx 繁体中文仓颉 5 码表。"
+msgstr ""
 
 #. description(fcitx-table-extra:fcitx-table-tw-cangjie-large)
 msgid ""
 "Fcitx Tsang Jei (Cang Jie) table with large character set for Traditional "
 "Chinese."
-msgstr "Fcitx 繁体中文仓颉码表带大字符集支持。"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-ua-translit)
 msgid "Fcitx Ukrainian Translit table."
-msgstr "Fcitx 乌克兰 Translit 码表。"
+msgstr ""
 
 #. description(fcitx-table-other:fcitx-table-vi-qr)
 msgid "Fcitx Vietnamese Quoted Readable table."
-msgstr "Fcitx 的越南语可读引述法（VIQR）码表。"
+msgstr ""
 
 #. description(fcitx-table-other)
 msgid ""
 "Fcitx-table-other is a fork of ibus-table-others for Fcitx. provides non-"
 "Chinese additional tables."
-msgstr "Fcitx-table-other 是 Fcitx 对 ibus-table-others 的一个派生。提供额外的一些非中文码表。"
+msgstr ""
 
 #. summary(fhs)
 msgid "File System Hierarchy Standard"
@@ -1022,9 +960,8 @@ msgid "Free TrueType Art Fonts"
 msgstr ""
 
 #. summary(gimp-help:gimp-help-fr)
-#, fuzzy
 msgid "French Help System Data for GIMP"
-msgstr "GIMP 的波兰语帮助系统数据"
+msgstr ""
 
 #. summary(froxlor)
 msgid "Froxlor Server Management Panel a php web-based administration software"
@@ -1040,17 +977,12 @@ msgid ""
 msgstr ""
 
 #. description(gimp-help:gimp-help-fr)
-#, fuzzy
 msgid ""
 "GIMP-Help is a help system designed for use with the internal GIMP help "
 "browser, external Web browser and HTML renderers, and human eyeballs.\n"
 "\n"
 "This package provides French data for gimp-help."
 msgstr ""
-"GIMP-Help 是一个设计用于内置 GIMP 帮助浏览器、外部网页浏览器和 HTML 渲染器和"
-"人类肉眼的帮助系统。\n"
-"\n"
-"该软件包提供了 gimp-help 的波兰语数据。"
 
 #. description(gimp-help:gimp-help-it)
 msgid ""
@@ -1059,10 +991,6 @@ msgid ""
 "\n"
 "This package provides Italian data for gimp-help."
 msgstr ""
-"GIMP-Help 是一个设计用于内置 GIMP 帮助浏览器、外部网页浏览器和 HTML 渲染器和"
-"人类肉眼的帮助系统。\n"
-"\n"
-"该软件包提供了 gimp-help 的意大利语数据。"
 
 #. description(gimp-help:gimp-help-pl)
 msgid ""
@@ -1071,23 +999,14 @@ msgid ""
 "\n"
 "This package provides Polish data for gimp-help."
 msgstr ""
-"GIMP-Help 是一个设计用于内置 GIMP 帮助浏览器、外部网页浏览器和 HTML 渲染器和"
-"人类肉眼的帮助系统。\n"
-"\n"
-"该软件包提供了 gimp-help 的波兰语数据。"
 
 #. description(gimp-help:gimp-help-sv)
-#, fuzzy
 msgid ""
 "GIMP-Help is a help system designed for use with the internal GIMP help "
 "browser, external Web browser and HTML renderers, and human eyeballs.\n"
 "\n"
 "This package provides Swedish data for gimp-help."
 msgstr ""
-"GIMP-Help 是一个设计用于内置 GIMP 帮助浏览器、外部网页浏览器和 HTML 渲染器和"
-"人类肉眼的帮助系统。\n"
-"\n"
-"该软件包提供了 gimp-help 的波兰语数据。"
 
 #. description(gnome-activity-journal)
 msgid ""
@@ -1097,9 +1016,8 @@ msgid ""
 msgstr ""
 
 #. summary(gnome-themes)
-#, fuzzy
 msgid "GNOME Themes"
-msgstr "GNOME 系统"
+msgstr ""
 
 #. description(gnome-vfs2:gnome-vfs2-doc)
 msgid ""
@@ -1138,9 +1056,8 @@ msgid "GNU Ada95 Compiler Based on GCC (GNAT)"
 msgstr ""
 
 #. summary(gnu-crypto)
-#, fuzzy
 msgid "GNU Crypto"
-msgstr "增补"
+msgstr ""
 
 #. description(gnu-crypto)
 msgid ""
@@ -1151,9 +1068,8 @@ msgid ""
 msgstr ""
 
 #. summary(gnump3d)
-#, fuzzy
 msgid "GNU MP3 Streaming Server"
-msgstr "打印服务器"
+msgstr ""
 
 #. description(gnu-inetlib)
 msgid ""
@@ -1263,9 +1179,8 @@ msgid ""
 msgstr ""
 
 #. summary(gcin:gcin-qt3-immodule-32bit)
-#, fuzzy
 msgid "Gcin qt3 immodule"
-msgstr "用户模块"
+msgstr ""
 
 #. summary(gramps)
 msgid "Genealogical Research Software"
@@ -1388,9 +1303,8 @@ msgid ""
 msgstr ""
 
 #. summary(ghostscript-fonts)
-#, fuzzy
 msgid "Ghostscript's free fonts"
-msgstr "X 窗口系统"
+msgstr ""
 
 #. description(giver)
 msgid ""
@@ -1434,9 +1348,8 @@ msgid ""
 msgstr ""
 
 #. summary(gos-wallpapers)
-#, fuzzy
 msgid "Good Old SUSE Wallpapers"
-msgstr "其他布局"
+msgstr ""
 
 #. description(gourmet)
 msgid ""
@@ -1513,9 +1426,8 @@ msgid ""
 msgstr ""
 
 #. summary(glibc:glibc-html)
-#, fuzzy
 msgid "HTML Documentation for the GNU C Library"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(jtidy)
 msgid "HTML syntax checker and pretty printer"
@@ -1535,21 +1447,19 @@ msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-hk-stroke5)
 msgid "Hong Kong 5 stroke input table for Fcitx"
-msgstr "Fcitx 的香港笔顺五码输入码表"
+msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-hk-jyutping)
 msgid "Hong Kong jyutping table for Fcitx"
-msgstr "Fcitx 的香港粤语拼音码表"
+msgstr ""
 
 #. summary(horde4-gollem)
-#, fuzzy
 msgid "Horde Gollem File Manager"
-msgstr "在文件管理器中打开"
+msgstr ""
 
 #. summary(horde4-timeobjects)
-#, fuzzy
 msgid "Horde timeobjects application"
-msgstr "选择应用程序"
+msgstr ""
 
 #. summary(hsqldb:hsqldb-demo)
 msgid "Hsqldb Database Engine"
@@ -1592,12 +1502,11 @@ msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-ipa-x-sampa)
 msgid "IPA X-Sampa table for Fcitx"
-msgstr "Fcitx 的国际音标码表"
+msgstr ""
 
 #. summary(intlfonts:intlfonts-phonetic-bitmap-fonts)
-#, fuzzy
 msgid "IPA font for the X Window System"
-msgstr "X 窗口系统"
+msgstr ""
 
 #. description(IPython:IPython-doc)
 msgid ""
@@ -1609,9 +1518,8 @@ msgid ""
 msgstr ""
 
 #. summary(iso-codes:iso-codes-devel)
-#, fuzzy
 msgid "ISO code lists and translations"
-msgstr "俄联邦"
+msgstr ""
 
 #. description(iceWMCP)
 msgid ""
@@ -1642,7 +1550,7 @@ msgstr ""
 
 #. summary(gimp-help:gimp-help-it)
 msgid "Italian Help System Data for GIMP"
-msgstr "GIMP 的意大利语帮助系统数据"
+msgstr ""
 
 #. description(jack:jack-32bit)
 msgid ""
@@ -1779,11 +1687,10 @@ msgid ""
 msgstr ""
 
 #. description(jlex:jlex-javadoc)
-#, fuzzy
 msgid ""
 "JLex is a Lexical Analyzer Generator for Java. This package contains the "
 "javadoc documentation for JLex."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(jlex)
 msgid "JLex is a lexical analyzer generator for Java."
@@ -1906,9 +1813,8 @@ msgid "JZlib re-implementation of zlib in pure Java"
 msgstr ""
 
 #. summary(jack:jack-32bit)
-#, fuzzy
 msgid "Jack-Audio Connection Kit"
-msgstr "检查连接"
+msgstr ""
 
 #. summary(jakarta-commons-cli)
 msgid "Jakarta Commons CLI, a Command Line Interface for Java"
@@ -1960,24 +1866,20 @@ msgid "Java Programming Assistant: bytecode manipulation"
 msgstr ""
 
 #. summary(jemmy)
-#, fuzzy
 msgid "Java UI testing library"
-msgstr "SUSE 硬件检测"
+msgstr ""
 
 #. summary(joda-time)
-#, fuzzy
 msgid "Java date and time API"
-msgstr "中止事务(_A)"
+msgstr ""
 
 #. summary(gnu-getopt)
-#, fuzzy
 msgid "Java getopt Implementation"
-msgstr "自选设置管理"
+msgstr ""
 
 #. summary(jformatstring)
-#, fuzzy
 msgid "Java library for format string checks"
-msgstr "6.10 禁用 powersave 守护程序"
+msgstr ""
 
 #. summary(jlfgr)
 msgid "Java look and feel Graphics Repository"
@@ -2013,9 +1915,8 @@ msgid "Javadoc for Java Native Access"
 msgstr ""
 
 #. summary(findbugs:findbugs-javadoc)
-#, fuzzy
 msgid "Javadoc for findbugs"
-msgstr "启动时选择的接口："
+msgstr ""
 
 #. description(gnu-regexp:gnu-regexp-javadoc)
 msgid "Javadoc for gnu-regexp."
@@ -2091,9 +1992,8 @@ msgid ""
 msgstr ""
 
 #. summary(jcip-annotations:jcip-annotations-javadoc)
-#, fuzzy
 msgid "Javadoc for jcip-annotations"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(jdepend:jdepend-javadoc)
 msgid "Javadoc for jdepend"
@@ -2128,9 +2028,8 @@ msgid "Javadoc for junit"
 msgstr ""
 
 #. summary(jython:jython-javadoc)
-#, fuzzy
 msgid "Javadoc for jython"
-msgstr "启动时选择的接口："
+msgstr ""
 
 #. summary(jemmy:jemmy-javadoc)
 msgid "Javadocs for jemmy"
@@ -2210,7 +2109,7 @@ msgstr ""
 
 #. summary(ibus-table-jyutping)
 msgid "Jyutping input method for IBus framework"
-msgstr "IBus 框架的粤语拼音输入法"
+msgstr ""
 
 #. description(horde4-kronolith)
 msgid ""
@@ -2231,290 +2130,236 @@ msgid "LALR Parser Generator in Java"
 msgstr ""
 
 #. summary(filezilla:filezilla-lang)
-#, fuzzy
 msgid "Languages for package filezilla"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gDesklets:gDesklets-lang)
-#, fuzzy
 msgid "Languages for package gDesklets"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(geany:geany-lang)
-#, fuzzy
 msgid "Languages for package geany"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(geany-plugins:geany-plugins-lang)
-#, fuzzy
 msgid "Languages for package geany-plugins"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gedit-collaboration:gedit-collaboration-lang)
-#, fuzzy
 msgid "Languages for package gedit-collaboration"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gedit-cossa:gedit-cossa-lang)
-#, fuzzy
 msgid "Languages for package gedit-cossa"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gedit-latex:gedit-latex-lang)
-#, fuzzy
 msgid "Languages for package gedit-latex"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(geeqie:geeqie-lang)
-#, fuzzy
 msgid "Languages for package geeqie"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(genius:genius-lang)
-#, fuzzy
 msgid "Languages for package genius"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gexif:gexif-lang)
-#, fuzzy
 msgid "Languages for package gexif"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gigolo:gigolo-lang)
-#, fuzzy
 msgid "Languages for package gigolo"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gimp-gap:gimp-gap-lang)
 msgid "Languages for package gimp-gap"
-msgstr "gimp-gap 的语言包"
+msgstr ""
 
 #. summary(gimp-lqr-plugin:gimp-plugin-lqr-lang)
 msgid "Languages for package gimp-lqr-plugin"
-msgstr "gimp-lqr-plugin 的语言包"
+msgstr ""
 
 #. summary(gimp-save-for-web:gimp-save-for-web-lang)
 msgid "Languages for package gimp-save-for-web"
-msgstr "gimp-save-for-web 的语言包"
+msgstr ""
 
 #. summary(giver:giver-lang)
-#, fuzzy
 msgid "Languages for package giver"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gkrellm:gkrellm-lang)
-#, fuzzy
 msgid "Languages for package gkrellm"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(glade3:glade3-lang)
-#, fuzzy
 msgid "Languages for package glade3"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(glipper:glipper-lang)
-#, fuzzy
 msgid "Languages for package glipper"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(glom:glom-lang)
-#, fuzzy
 msgid "Languages for package glom"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnac:gnac-lang)
-#, fuzzy
 msgid "Languages for package gnac"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-activity-journal:gnome-activity-journal-lang)
-#, fuzzy
 msgid "Languages for package gnome-activity-journal"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-blog:gnome-blog-lang)
-#, fuzzy
 msgid "Languages for package gnome-blog"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-boxes:gnome-boxes-lang)
-#, fuzzy
 msgid "Languages for package gnome-boxes"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-color-chooser:gnome-color-chooser-lang)
-#, fuzzy
 msgid "Languages for package gnome-color-chooser"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-dvb-daemon:gnome-dvb-daemon-lang)
-#, fuzzy
 msgid "Languages for package gnome-dvb-daemon"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-gmail:gnome-gmail-lang)
-#, fuzzy
 msgid "Languages for package gnome-gmail"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-gmail-notifier:gnome-gmail-notifier-lang)
-#, fuzzy
 msgid "Languages for package gnome-gmail-notifier"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-netspeed-applet:gnome-netspeed-applet-lang)
-#, fuzzy
 msgid "Languages for package gnome-netspeed-applet"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-schedule:gnome-schedule-lang)
-#, fuzzy
 msgid "Languages for package gnome-schedule"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-search-tool:gnome-search-tool-lang)
-#, fuzzy
 msgid "Languages for package gnome-search-tool"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-subtitles:gnome-subtitles-lang)
-#, fuzzy
 msgid "Languages for package gnome-subtitles"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-system-log:gnome-system-log-lang)
-#, fuzzy
 msgid "Languages for package gnome-system-log"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnome-themes:gnome-themes-lang)
-#, fuzzy
 msgid "Languages for package gnome-themes"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gnote:gnote-lang)
-#, fuzzy
 msgid "Languages for package gnote"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gobby:gobby-lang)
-#, fuzzy
 msgid "Languages for package gobby"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gobby04:gobby04-lang)
-#, fuzzy
 msgid "Languages for package gobby04"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(goobox:goobox-lang)
-#, fuzzy
 msgid "Languages for package goobox"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gourmet:gourmet-lang)
-#, fuzzy
 msgid "Languages for package gourmet"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gpa:gpa-lang)
-#, fuzzy
 msgid "Languages for package gpa"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gparted:gparted-lang)
-#, fuzzy
 msgid "Languages for package gparted"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gramps:gramps-lang)
-#, fuzzy
 msgid "Languages for package gramps"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gstreamer-0_10-plugins-gl:gstreamer-0_10-plugins-gl-lang)
-#, fuzzy
 msgid "Languages for package gstreamer-0_10-plugins-gl"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gstreamer-0_10-plugins-ugly:gstreamer-0_10-plugins-ugly-lang)
-#, fuzzy
 msgid "Languages for package gstreamer-0_10-plugins-ugly"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gtk-recordMyDesktop:gtk-recordMyDesktop-lang)
-#, fuzzy
 msgid "Languages for package gtk-recordMyDesktop"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gtkam:gtkam-lang)
-#, fuzzy
 msgid "Languages for package gtkam"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gtkmm-documentation:gtkmm3-tutorial-lang)
-#, fuzzy
 msgid "Languages for package gtkmm-documentation"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gtkmm2-documentation:gtkmm2-tutorial-lang)
-#, fuzzy
 msgid "Languages for package gtkmm2-documentation"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gtkpod:gtkpod-lang)
-#, fuzzy
 msgid "Languages for package gtkpod"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gtranslator:gtranslator-lang)
-#, fuzzy
 msgid "Languages for package gtranslator"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(guake:guake-lang)
-#, fuzzy
 msgid "Languages for package guake"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gurlchecker:gurlchecker-lang)
-#, fuzzy
 msgid "Languages for package gurlchecker"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(gwget:gwget-lang)
-#, fuzzy
 msgid "Languages for package gwget"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(homebank:homebank-lang)
-#, fuzzy
 msgid "Languages for package homebank"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(inkscape:inkscape-lang)
-#, fuzzy
 msgid "Languages for package inkscape"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(istanbul:istanbul-lang)
-#, fuzzy
 msgid "Languages for package istanbul"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(jhbuild:jhbuild-lang)
-#, fuzzy
 msgid "Languages for package jhbuild"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(kde3-amarok:kde3-amarok-lang)
-#, fuzzy
 msgid "Languages for package kde3-amarok"
-msgstr "语言：     "
+msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-latex)
 msgid "Latex table for Fcitx"
-msgstr "Fcitx 的 Latex 码表"
+msgstr ""
 
 #. description(google-lato-fonts)
 msgid ""
@@ -2588,17 +2433,16 @@ msgid ""
 msgstr ""
 
 #. summary(gnome-mime-data)
-#, fuzzy
 msgid "MIME Type and Application Database for the GNOME 2.x Desktop"
-msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-malayalam-compose)
 msgid "Malayalam Compose table for Fcitx"
-msgstr "Fcitx 的马拉雅拉姆语拼字码表"
+msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-malayalam-phonetic)
 msgid "Malayalam Phonetic table for Fcitx"
-msgstr "Fcitx 的马拉雅拉姆语拼音码表"
+msgstr ""
 
 #. description(festival-spanish-voices)
 msgid ""
@@ -2620,37 +2464,31 @@ msgid ""
 msgstr ""
 
 #. summary(jakarta-commons-httpclient:jakarta-commons-httpclient-manual)
-#, fuzzy
 msgid "Manual for jakarta-commons-httpclient"
-msgstr "用于服务器的 KDE 桌面环境"
+msgstr ""
 
 #. description(jakarta-commons-httpclient:jakarta-commons-httpclient-manual)
-#, fuzzy
 msgid ""
 "Manual for jakarta-commons-httpclient\n"
 "\n"
 "Manual for jakarta-commons-httpclient."
-msgstr "用于服务器的 KDE 桌面环境"
+msgstr ""
 
 #. summary(jgroups:jgroups-manual)
-#, fuzzy
 msgid "Manual for jgroups"
-msgstr "手动方式"
+msgstr ""
 
 #. summary(junit:junit-manual)
-#, fuzzy
 msgid "Manual for junit"
-msgstr "手动方式"
+msgstr ""
 
 #. summary(jython:jython-manual)
-#, fuzzy
 msgid "Manual for jython"
-msgstr "手动方式"
+msgstr ""
 
 #. summary(hxtools:hxtools-man)
-#, fuzzy
 msgid "Manual pages for the hxtools suite"
-msgstr "X Window 系统的虚拟键盘"
+msgstr ""
 
 #. summary(hg-git)
 msgid "Mercurial Plugin for Communicating with Git Servers"
@@ -2735,9 +2573,8 @@ msgid ""
 msgstr ""
 
 #. summary(ipset:ipset-kmp-pae)
-#, fuzzy
 msgid "Netfilter ipset kernel modules"
-msgstr "以驱动程序默认方式激活"
+msgstr ""
 
 #. summary(gdouros-aroania-fonts)
 msgid "New Hellenic-style Fonts"
@@ -2772,9 +2609,8 @@ msgid ""
 msgstr ""
 
 #. summary(jakarta-taglibs-standard)
-#, fuzzy
 msgid "Open Source Implementation of the JSP Standard Tag Library"
-msgstr "自选设置管理"
+msgstr ""
 
 #. summary(iscsitarget:iscsitarget-kmp-pae)
 msgid "Open Source iSCSI Target with Professional Features"
@@ -2814,14 +2650,12 @@ msgid "PEAR: A web based addressbook"
 msgstr ""
 
 #. summary(horde4)
-#, fuzzy
 msgid "PEAR: Horde Application Framework"
-msgstr "应用程序浏览器"
+msgstr ""
 
 #. summary(horde4-content)
-#, fuzzy
 msgid "PEAR: Horde tagging application"
-msgstr "新应用程序"
+msgstr ""
 
 #. summary(gdouros-atavyros-fonts)
 msgid "Parangonne Greque Typeface"
@@ -2845,12 +2679,11 @@ msgstr ""
 
 #. summary(gimp-help:gimp-help-pl)
 msgid "Polish Help System Data for GIMP"
-msgstr "GIMP 的波兰语帮助系统数据"
+msgstr ""
 
 #. summary(icc-profiles-basiccolor-printing2009:icc-profiles-basiccolor-printing2009-doc)
-#, fuzzy
 msgid "Printing Profiles Documentation from basICColor"
-msgstr "5.1 NetworkManager 文档"
+msgstr ""
 
 #. description(icc-profiles-openicc:icc-targets-fogra)
 msgid ""
@@ -2880,300 +2713,244 @@ msgid ""
 msgstr ""
 
 #. description(filezilla:filezilla-lang)
-#, fuzzy
 msgid "Provides translations to the package filezilla"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gDesklets:gDesklets-lang)
-#, fuzzy
 msgid "Provides translations to the package gDesklets"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(geany:geany-lang)
-#, fuzzy
 msgid "Provides translations to the package geany"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(geany-plugins:geany-plugins-lang)
-#, fuzzy
 msgid "Provides translations to the package geany-plugins"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gedit-collaboration:gedit-collaboration-lang)
-#, fuzzy
 msgid "Provides translations to the package gedit-collaboration"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gedit-cossa:gedit-cossa-lang)
-#, fuzzy
 msgid "Provides translations to the package gedit-cossa"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gedit-latex:gedit-latex-lang)
-#, fuzzy
 msgid "Provides translations to the package gedit-latex"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(geeqie:geeqie-lang)
-#, fuzzy
 msgid "Provides translations to the package geeqie"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(genius:genius-lang)
-#, fuzzy
 msgid "Provides translations to the package genius"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gexif:gexif-lang)
-#, fuzzy
 msgid "Provides translations to the package gexif"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gigolo:gigolo-lang)
-#, fuzzy
 msgid "Provides translations to the package gigolo"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gimp-gap:gimp-gap-lang)
 msgid "Provides translations to the package gimp-gap"
-msgstr "提供软件包 gimp-gap 的翻译"
+msgstr ""
 
 #. description(gimp-lqr-plugin:gimp-plugin-lqr-lang)
 msgid "Provides translations to the package gimp-lqr-plugin"
-msgstr "提供软件包 gimp-lqr-plugin 的翻译"
+msgstr ""
 
 #. description(gimp-save-for-web:gimp-save-for-web-lang)
 msgid "Provides translations to the package gimp-save-for-web"
-msgstr "提供软件包 gimp-save-for-web 的翻译"
+msgstr ""
 
 #. description(giver:giver-lang)
-#, fuzzy
 msgid "Provides translations to the package giver"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gkrellm:gkrellm-lang)
-#, fuzzy
 msgid "Provides translations to the package gkrellm"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(glade3:glade3-lang)
-#, fuzzy
 msgid "Provides translations to the package glade3"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(glipper:glipper-lang)
-#, fuzzy
 msgid "Provides translations to the package glipper"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(glom:glom-lang)
-#, fuzzy
 msgid "Provides translations to the package glom"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnac:gnac-lang)
-#, fuzzy
 msgid "Provides translations to the package gnac"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-activity-journal:gnome-activity-journal-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-activity-journal"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-blog:gnome-blog-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-blog"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-boxes:gnome-boxes-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-boxes"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-color-chooser:gnome-color-chooser-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-color-chooser"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-dvb-daemon:gnome-dvb-daemon-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-dvb-daemon"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-gmail:gnome-gmail-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-gmail"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-gmail-notifier:gnome-gmail-notifier-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-gmail-notifier"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-netspeed-applet:gnome-netspeed-applet-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-netspeed-applet"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-schedule:gnome-schedule-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-schedule"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-search-tool:gnome-search-tool-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-search-tool"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-subtitles:gnome-subtitles-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-subtitles"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-system-log:gnome-system-log-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-system-log"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnome-themes:gnome-themes-lang)
-#, fuzzy
 msgid "Provides translations to the package gnome-themes"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gnote:gnote-lang)
-#, fuzzy
 msgid "Provides translations to the package gnote"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gobby:gobby-lang)
-#, fuzzy
 msgid "Provides translations to the package gobby"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gobby04:gobby04-lang)
-#, fuzzy
 msgid "Provides translations to the package gobby04"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(goobox:goobox-lang)
-#, fuzzy
 msgid "Provides translations to the package goobox"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gourmet:gourmet-lang)
-#, fuzzy
 msgid "Provides translations to the package gourmet"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gpa:gpa-lang)
-#, fuzzy
 msgid "Provides translations to the package gpa"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gparted:gparted-lang)
-#, fuzzy
 msgid "Provides translations to the package gparted"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gramps:gramps-lang)
-#, fuzzy
 msgid "Provides translations to the package gramps"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gstreamer-0_10-plugins-gl:gstreamer-0_10-plugins-gl-lang)
-#, fuzzy
 msgid "Provides translations to the package gstreamer-0_10-plugins-gl"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gstreamer-0_10-plugins-ugly:gstreamer-0_10-plugins-ugly-lang)
-#, fuzzy
 msgid "Provides translations to the package gstreamer-0_10-plugins-ugly"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gtk-recordMyDesktop:gtk-recordMyDesktop-lang)
-#, fuzzy
 msgid "Provides translations to the package gtk-recordMyDesktop"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gtkam:gtkam-lang)
-#, fuzzy
 msgid "Provides translations to the package gtkam"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gtkmm-documentation:gtkmm3-tutorial-lang)
-#, fuzzy
 msgid "Provides translations to the package gtkmm-documentation"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gtkmm2-documentation:gtkmm2-tutorial-lang)
-#, fuzzy
 msgid "Provides translations to the package gtkmm2-documentation"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gtkpod:gtkpod-lang)
-#, fuzzy
 msgid "Provides translations to the package gtkpod"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gtranslator:gtranslator-lang)
-#, fuzzy
 msgid "Provides translations to the package gtranslator"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(guake:guake-lang)
-#, fuzzy
 msgid "Provides translations to the package guake"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gurlchecker:gurlchecker-lang)
-#, fuzzy
 msgid "Provides translations to the package gurlchecker"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(gwget:gwget-lang)
-#, fuzzy
 msgid "Provides translations to the package gwget"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(homebank:homebank-lang)
-#, fuzzy
 msgid "Provides translations to the package homebank"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(inkscape:inkscape-lang)
-#, fuzzy
 msgid "Provides translations to the package inkscape"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(istanbul:istanbul-lang)
-#, fuzzy
 msgid "Provides translations to the package istanbul"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(jhbuild:jhbuild-lang)
-#, fuzzy
 msgid "Provides translations to the package jhbuild"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. description(kde3-amarok:kde3-amarok-lang)
-#, fuzzy
 msgid "Provides translations to the package kde3-amarok"
-msgstr "等待导航栏应用程序"
+msgstr ""
 
 #. summary(isorelax)
 msgid "Public interfaces useful for applications to support RELAX Core"
 msgstr ""
 
 #. summary(jsch)
-#, fuzzy
 msgid "Pure Java implementation of SSH2"
-msgstr "7.0 文档"
+msgstr ""
 
 #. summary(hgview:hgview-qt4)
-#, fuzzy
 msgid "Qt4 User Interface for hgview"
-msgstr "输入抽象层 的用户界面"
+msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-tw-quick3)
 msgid "Quick 3 table for Traditional Chinese"
@@ -3192,14 +2969,12 @@ msgid "Readable Text Serif Font for Screen"
 msgstr ""
 
 #. summary(gourmet)
-#, fuzzy
 msgid "Recipes Management Application"
-msgstr "起动应用程序"
+msgstr ""
 
 #. summary(jarjar)
-#, fuzzy
 msgid "Repackage Java libraries"
-msgstr "获得包含文件的包"
+msgstr ""
 
 #. description(gdouros-atavyros-fonts)
 msgid ""
@@ -3219,11 +2994,11 @@ msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-ru-translit)
 msgid "Russian Translit table for Fcitx"
-msgstr "Fcitx 的俄语 Translit 码表"
+msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-ru-yawerty)
 msgid "Russian Yawerty table for Fcitx"
-msgstr "Fcitx 的俄语 Yawerty 键盘码表"
+msgstr ""
 
 #. summary(librsvg:gtk2-engine-svg-32bit)
 msgid "SVG-based GTK+ 2 Theme Engine"
@@ -3264,9 +3039,8 @@ msgid "Simple, Secure and Reliable Email Retriever"
 msgstr ""
 
 #. description(gtk2-engine-cleanice:gtk2-engine-cleanice-32bit)
-#, fuzzy
 msgid "Simple, clean theme engine for GTK2."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. summary(jakarta-slide-webdavclient)
 msgid "Slide WebDAV client"
@@ -3280,7 +3054,7 @@ msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-tw-smart-cangjie6)
 msgid "Smart Tsang Jei 6 table for Fcitx"
-msgstr "Fcitx 的快仓6码表"
+msgstr ""
 
 #. summary(festival-spanish-voices)
 msgid "Spanish voices «PAL» and «SFL» for Festival"
@@ -3291,9 +3065,8 @@ msgid "Support for Hercules DJ Devices"
 msgstr ""
 
 #. summary(gimp-help:gimp-help-sv)
-#, fuzzy
 msgid "Swedish Help System Data for GIMP"
-msgstr "GIMP 的波兰语帮助系统数据"
+msgstr ""
 
 #. description(gdouros-symbola-fonts)
 msgid ""
@@ -3317,7 +3090,7 @@ msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-tamil-remington)
 msgid "Tamil Remington tables for Fcitx"
-msgstr "Fcitx 的泰米尔雷明顿码表"
+msgstr ""
 
 #. summary(jmock)
 msgid "Test Java code using mock objects"
@@ -3325,7 +3098,7 @@ msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-thai)
 msgid "Thai table for Fcitx"
-msgstr "Fcitx 的泰国语码表"
+msgstr ""
 
 #. description(google-roboto-fonts)
 msgid ""
@@ -3419,33 +3192,22 @@ msgid ""
 "\n"
 "This package contains the upstream splash screen for the GIMP."
 msgstr ""
-"GIMP (GNU 图像处理程序) 是一个有力的图像合成和编辑程序，对于创建标志和其他网"
-"页图像非常有用。GIMP 提供了您在相似商业程序中期待的许多工具和过滤器，也包含了"
-"许多有趣的外挂。GIMP 提供了一个庞大的图像处理工具箱，包括通道操作和图层、效"
-"果、次像素图像和反锯齿，以及转换 - 所有操作都可以多级撤销。GIMP 提供了脚本功"
-"能，但许多提供的脚本依赖于我们不能分发的字体。\n"
-"\n"
-"该软件包包含了 GIMP 的上游启动动画。"
 
 #. summary(gnome-control-center:gnome-control-center-branding-upstream)
-#, fuzzy
 msgid "The GNOME Control Center -- Upstream Definition of Shell Content"
-msgstr "默认菜单和应用程序浏览器"
+msgstr ""
 
 #. summary(gnome-menus:gnome-menus-branding-upstream)
-#, fuzzy
 msgid "The GNOME Desktop Menu -- Upstream Menus Definitions"
-msgstr "默认菜单和应用程序浏览器"
+msgstr ""
 
 #. summary(gnome-panel:gnome-panel-branding-upstream)
-#, fuzzy
 msgid "The GNOME Desktop Panel -- Upstream default layout"
-msgstr "GNOME 主菜单"
+msgstr ""
 
 #. summary(gdm:gdm-branding-upstream)
-#, fuzzy
 msgid "The GNOME Display Manager -- Upstream default configuration"
-msgstr "默认菜单和应用程序浏览器"
+msgstr ""
 
 #. description(gdm:gdm-branding-upstream)
 msgid ""
@@ -3493,24 +3255,20 @@ msgid ""
 msgstr ""
 
 #. summary(gtk2:gtk2-immodule-multipress-32bit)
-#, fuzzy
 msgid "The GTK+ toolkit library (version 2) -- Multipress Input Method"
-msgstr "内核接口"
+msgstr ""
 
 #. summary(gtk2:gtk2-branding-upstream)
-#, fuzzy
 msgid "The GTK+ toolkit library (version 2) -- Upstream theme configuration"
-msgstr "内核接口"
+msgstr ""
 
 #. summary(gtk3:gtk3-immodule-multipress-32bit)
-#, fuzzy
 msgid "The GTK+ toolkit library (version 3) -- Multipress Input Method"
-msgstr "内核接口"
+msgstr ""
 
 #. summary(gtk3:gtk3-branding-upstream)
-#, fuzzy
 msgid "The GTK+ toolkit library (version 3) -- Upstream theme configuration"
-msgstr "内核接口"
+msgstr ""
 
 #. description(greybird-theme:gtk2-metatheme-greybird)
 msgid ""
@@ -3576,9 +3334,8 @@ msgid ""
 msgstr ""
 
 #. description(intlfonts:intlfonts-phonetic-bitmap-fonts)
-#, fuzzy
 msgid "The International Phonetic Alphabet font for the X Window System."
-msgstr "X 窗口系统"
+msgstr ""
 
 #. summary(jisp2)
 msgid "The Java Indexed Serialization Package"
@@ -3751,10 +3508,9 @@ msgid "The jaxen project is a Java XPath Engine"
 msgstr ""
 
 #. description(icc-profiles-openicc:icc-profiles-all)
-#, fuzzy
 msgid ""
 "The meta package installs all ICC profiles from the OpenICC Data collection."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(gnome-menus:gnome-menus-branding-upstream)
 msgid ""
@@ -3767,9 +3523,8 @@ msgid ""
 msgstr ""
 
 #. description(gcc:gcc-gij-32bit)
-#, fuzzy
 msgid "The system GNU Java bytecode interpreter as 32 bit application."
-msgstr "C/C++ 编译器和工具"
+msgstr ""
 
 #. description(horde4-timeobjects)
 msgid ""
@@ -3792,9 +3547,8 @@ msgid ""
 msgstr ""
 
 #. summary(icewm-themes)
-#, fuzzy
 msgid "Themes for the IceWM Window Manager"
-msgstr "Motif 窗口管理器"
+msgstr ""
 
 #. description(john-wordlists)
 msgid ""
@@ -3836,10 +3590,9 @@ msgid ""
 msgstr ""
 
 #. description(horde4-content)
-#, fuzzy
 msgid ""
 "This application provides tagging support for the other Horde applications."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(handedict)
 msgid ""
@@ -3908,9 +3661,8 @@ msgid ""
 msgstr ""
 
 #. description(icedtea-web:icedtea-web-javadoc)
-#, fuzzy
 msgid "This package contains Javadocs for the icedtea-web."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(icewm-themes)
 msgid ""
@@ -3920,10 +3672,9 @@ msgid ""
 msgstr ""
 
 #. description(gtk2-themes)
-#, fuzzy
 msgid ""
 "This package contains additional themes and engines for the GTK2 library."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(gcc47:gcc47-ada-32bit)
 msgid ""
@@ -3970,19 +3721,16 @@ msgid ""
 msgstr ""
 
 #. description(gnome-themes-extras)
-#, fuzzy
 msgid "This package contains several extra GNOME themes."
-msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+msgstr ""
 
 #. description(jemmy:jemmy-javadoc)
-#, fuzzy
 msgid "This package contains the API documentation for jemmy."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(joda-time:joda-time-javadoc)
-#, fuzzy
 msgid "This package contains the API documentation for joda-time."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(gnome-panel:gnome-panel-branding-upstream)
 msgid ""
@@ -4001,11 +3749,10 @@ msgid ""
 msgstr ""
 
 #. description(iproute2:iproute2-doc)
-#, fuzzy
 msgid ""
 "This package contains the PDF documentation from iproute2, as well as "
 "examples and other outdated files."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(shared-color-profiles:icc-profiles-scp-oysonar)
 msgid ""
@@ -4033,12 +3780,11 @@ msgstr ""
 msgid ""
 "This package contains the files required for the development of ibus-table-"
 "extraphrase."
-msgstr "该软件包包含 ibus-table-extraphrase 开发所需的文件。"
+msgstr ""
 
 #. description(jakarta-taglibs-standard:jakarta-taglibs-standard-javadoc)
-#, fuzzy
 msgid "This package contains the javadoc documentation for Jakarta Taglibs."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(jython:jython-javadoc)
 msgid ""
@@ -4101,9 +3847,8 @@ msgid ""
 msgstr ""
 
 #. description(ffado-mixer:ffado-doc)
-#, fuzzy
 msgid "This package contains the libffado API documentation."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(jython:jython-manual)
 msgid ""
@@ -4128,21 +3873,18 @@ msgid ""
 msgstr ""
 
 #. description(gammu:gammu-doc)
-#, fuzzy
 msgid "This package contains the manual for gammu."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(hxtools:hxtools-man)
-#, fuzzy
 msgid ""
 "This package contains the manual pages for the binaries and scripts from "
 "hxtools."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(gos-wallpapers)
-#, fuzzy
 msgid "This package contains wallpapers from older SUSE releases."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(gnome-gmail)
 msgid ""
@@ -4151,9 +3893,8 @@ msgid ""
 msgstr ""
 
 #. description(librsvg:gtk2-engine-svg-32bit)
-#, fuzzy
 msgid "This package provides a librsvg-based GTK+ 2 theme engine."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(gnome-patch-translation)
 msgid ""
@@ -4181,9 +3922,8 @@ msgid ""
 msgstr ""
 
 #. description(hgview:hgview-qt4)
-#, fuzzy
 msgid "This package provides the Qt4 user interface for hgview."
-msgstr "包中含有意外的版本"
+msgstr ""
 
 #. description(glib2:gio-branding-upstream)
 msgid ""
@@ -4237,7 +3977,7 @@ msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-ru-rustrad)
 msgid "Traditional Russian table for Fcitx"
-msgstr "Fcitx 的传统俄语码表"
+msgstr ""
 
 #. summary(fwzs)
 msgid "Tray applet that allows to switch firewall zones of interfaces"
@@ -4253,15 +3993,15 @@ msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-tw-cangjie3)
 msgid "Tsang Jei 3 table for Fcitx"
-msgstr "Fcitx 的仓颉3码表"
+msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-tw-cangjie5)
 msgid "Tsang Jei 5 table for Fcitx"
-msgstr "Fcitx 的仓颉5码表"
+msgstr ""
 
 #. summary(fcitx-table-extra:fcitx-table-tw-cangjie-large)
 msgid "Tsang Jei large character set table for Fcitx"
-msgstr "Fcitx 的仓颉大字符集码表"
+msgstr ""
 
 #. description(horde4-turba)
 msgid ""
@@ -4303,12 +4043,11 @@ msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-ua-translit)
 msgid "Ukrainian Translit table for Fcitx"
-msgstr "Fcitx 的乌克兰 Translit 码表"
+msgstr ""
 
 #. summary(gonvert)
-#, fuzzy
 msgid "Unit Conversion Utility"
-msgstr "SUSE 硬件检测"
+msgstr ""
 
 #. description(gdouros-avdira-fonts)
 msgid ""
@@ -4334,7 +4073,7 @@ msgstr ""
 
 #. summary(fcitx-table-other:fcitx-table-vi-qr)
 msgid "Vietnamese Quoted Readable table for Fcitx"
-msgstr "Fcitx 的越南语可读引述法（VIQR）码表"
+msgstr ""
 
 #. summary(hgview)
 msgid "Visual Log Navigator for Mercurial"
@@ -4369,19 +4108,19 @@ msgstr ""
 
 #. description(ibus-table-zhengma)
 msgid "Zheng Ma input method intergrated in IBus framework."
-msgstr "IBus 框架中整合的郑码输入法。"
+msgstr ""
 
 #. summary(ibus-table-zhengma)
 msgid "ZhengMa input method for IBus"
-msgstr "IBus 的郑码输入法"
+msgstr ""
 
 #. summary(ibus-table-ziranma)
 msgid "Ziranma input method for IBus"
-msgstr "IBus 的自然码输入法"
+msgstr ""
 
 #. description(ibus-table-ziranma)
 msgid "Ziranma input method intergrated in IBus framework. 自然码"
-msgstr "IBus 框架整合的自然码输入法。"
+msgstr ""
 
 #. description(fontconfig-infinality)
 msgid ""
@@ -4408,9 +4147,8 @@ msgid ""
 msgstr ""
 
 #. description(gcin:gcin-qt3-immodule-32bit)
-#, fuzzy
 msgid "gcin qt3 immodule, support Qt3-based applications"
-msgstr "未能找到 su 应用程序。"
+msgstr ""
 
 #. description(getmail:getmail-doc)
 msgid ""
@@ -4545,7 +4283,7 @@ msgstr ""
 msgid ""
 "ibus-table-jyutping provide Jyutping input method on IBus Table under IBus "
 "framework. 粵語拼音"
-msgstr "ibus-table-jyutping 提供了 IBus 框架下的粤语拼音输入法码表。"
+msgstr ""
 
 #. description(jmock)
 msgid ""
@@ -4594,299 +4332,7 @@ msgid ""
 "provide Chinese extra phrases for ibus-table based IME, such as ibus-table-"
 "zhengma, ibus-table-wubi, ibus-table-cangjie5, ibus-table-erbi and etc."
 msgstr ""
-"为基于 ibus-table 的输入法引擎如 ibus-table-zhengma, ibus-table-wubi, \n"
-"ibus-table-cangjie5, ibus-table-erbi 等提供额外中文短语。"
 
 #. summary(guilt)
 msgid "quilt on top of git"
 msgstr ""
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Basque desktop. This package contains "
-#~ "application translations, help files, and screenshots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Bosnian desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Bulgarian desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Catalan desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Czech desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Danish desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Finnish desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a French desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Frisian desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Galician desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a German Desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Greek desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Hebrew desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Hungarian desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Spanish desktop.  This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a Welsh desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a desktop in Belarusian. This package contains "
-#~ "application translations, help files, and screenshots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a desktop in Bengali. This package contains "
-#~ "application translations, help files, and screenshots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a desktop in British English. This package "
-#~ "contains application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a desktop in Farsi. This package contains "
-#~ "application translations, help files, and screenshots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for a desktop in Hindi. This package contains "
-#~ "application translations, help files, and screenshots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for an Azerbaijan desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the requirements for an Estonian desktop. This package contains "
-#~ "application translations, help files, and screen shots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the stuff for a Croatian desktop. This package contains application "
-#~ "translations, help files and screenshots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "All the stuff for an Esperanto desktop.  This package contains "
-#~ "application translations, help files and screenshots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid "Azerbaijan Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Basque translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Belarusian translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Bengali translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Bosnian Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Breton Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Bulgarian Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Catalan Translations for KDE"
-#~ msgstr "北马里亚纳群岛"
-
-#, fuzzy
-#~ msgid "Croatian translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Czech Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Danish Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Document Files for ImageMagick Library"
-#~ msgstr "Tcl/Tk 及其开发工具。"
-
-#, fuzzy
-#~ msgid "English (UK) Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Esperanto translations for KDE"
-#~ msgstr "北马里亚纳群岛"
-
-#, fuzzy
-#~ msgid "Estonian Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid ""
-#~ "Everything for a Breton desktop. This package contains application "
-#~ "translations, help files, and screenshots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid ""
-#~ "Everything for an Irish desktop. This package contains application "
-#~ "translations, help files, and screenshots."
-#~ msgstr "包中含有意外的版本"
-
-#, fuzzy
-#~ msgid "Farsi translations for KDE 3"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Finnish Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "French Translations for KDE"
-#~ msgstr "北马里亚纳群岛"
-
-#, fuzzy
-#~ msgid "Frisian Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Galician Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "German Translations for KDE"
-#~ msgstr "北马里亚纳群岛"
-
-#, fuzzy
-#~ msgid "Greek Translations for KDE"
-#~ msgstr "北马里亚纳群岛"
-
-#, fuzzy
-#~ msgid "Hebrew Translations for KDE"
-#~ msgstr "北马里亚纳群岛"
-
-#, fuzzy
-#~ msgid "Hindi Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Hungarian Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Irish Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Languages for package gnome-pilot-conduits"
-#~ msgstr "语言：     "
-
-#, fuzzy
-#~ msgid "Provides translations to the package gnome-pilot-conduits"
-#~ msgstr "等待导航栏应用程序"
-
-#, fuzzy
-#~ msgid "Spanish Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "Welsh Translations for KDE"
-#~ msgstr "俄联邦"
-
-#, fuzzy
-#~ msgid "openSUSE 12.2 branding for the GRUB2's graphical console"
-#~ msgstr "电源管理 (APM)"
-
-#, fuzzy
-#~ msgid "openSUSE branding for GRUB2's graphical console"
-#~ msgstr "电源管理 (APM)"

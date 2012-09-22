@@ -1,0 +1,2225 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2012-09-22 03:38:33\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. summary(Botan:libbotan-1_10-0-32bit)
+msgid "A C++ Crypto Library"
+msgstr ""
+
+#. summary(lcov)
+msgid "A Graphical GCOV Front-end"
+msgstr ""
+
+#. summary(keychain)
+msgid "A Key Management Application for SSH2 RSA/DSA and GnuPG Keys"
+msgstr ""
+
+#. summary(herqq:libHUpnp1-32bit)
+msgid "A Library for Building UPnP Devices and Control Points"
+msgstr ""
+
+#. summary(libjackasyn:libjackasyn-32bit)
+msgid "A Wrapper Library for JACK"
+msgstr ""
+
+#. summary(kde-oxygen-fonts)
+msgid "A desktop/gui font family for integrated use with the KDE desktop"
+msgstr ""
+
+#. description(libgnomecups:libgnomecups-32bit)
+msgid ""
+"A gobject (GLib) wrapper for IPP printer management, which is used by CUPS.  "
+"Mainly used by the GNOME printing system."
+msgstr ""
+
+#. summary(log4c:liblog4c3-32bit)
+msgid ""
+"A library of C for flexible logging to files, syslog and other destinations"
+msgstr ""
+
+#. summary(csync:libcsync0-32bit)
+msgid "A user level bidirectional client only file synchronizer"
+msgstr ""
+
+#. description(cwiid:libcwiid-devel-32bit)
+msgid "API and library to use Wiimotes."
+msgstr ""
+
+#. summary(klatexformula:klatexformula-apidoc)
+msgid "API documentation for KLatexFormula"
+msgstr ""
+
+#. summary(adolc:libadolc1-32bit)
+msgid "Algorithmic Differentiation Library for C/C++"
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-eu)
+msgid ""
+"All the requirements for a Basque desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-bs)
+msgid ""
+"All the requirements for a Bosnian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-bg)
+msgid ""
+"All the requirements for a Bulgarian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ca)
+msgid ""
+"All the requirements for a Catalan desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-zh_TW)
+msgid ""
+"All the requirements for a Chinese desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-cs)
+msgid ""
+"All the requirements for a Czech desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-da)
+msgid ""
+"All the requirements for a Danish desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-nl)
+msgid ""
+"All the requirements for a Dutch desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-fi)
+msgid ""
+"All the requirements for a Finnish desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-fr)
+msgid ""
+"All the requirements for a French desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-fy)
+msgid ""
+"All the requirements for a Frisian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-gl)
+msgid ""
+"All the requirements for a Galician desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-de)
+msgid ""
+"All the requirements for a German Desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-el)
+msgid ""
+"All the requirements for a Greek desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-he)
+msgid ""
+"All the requirements for a Hebrew desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-hu)
+msgid ""
+"All the requirements for a Hungarian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ja)
+msgid ""
+"All the requirements for a Japanese desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-ca@valencia)
+msgid ""
+"All the requirements for a KDE desktop in Valencian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-kk)
+msgid ""
+"All the requirements for a Kazakh Desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-km)
+msgid ""
+"All the requirements for a Khmer Desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-rw)
+msgid ""
+"All the requirements for a Kinyarwanda desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-nb)
+msgid ""
+"All the requirements for a Norwegian (Bokmaal) desktop. This package "
+"contains application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-nn)
+msgid ""
+"All the requirements for a Norwegian (Nynorsk) desktop. This package "
+"contains application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-pl)
+msgid ""
+"All the requirements for a Polish desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-pt)
+msgid ""
+"All the requirements for a Portuguese desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ro)
+msgid ""
+"All the requirements for a Romanian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ru)
+msgid ""
+"All the requirements for a Russian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-sr)
+msgid ""
+"All the requirements for a Serbian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-sk)
+msgid ""
+"All the requirements for a Slovak desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-sl)
+msgid ""
+"All the requirements for a Slovenian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-es)
+msgid ""
+"All the requirements for a Spanish desktop.  This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-sv)
+msgid ""
+"All the requirements for a Swedish desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ta)
+msgid ""
+"All the requirements for a Tamil desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-te)
+msgid ""
+"All the requirements for a Telugu desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-tr)
+msgid ""
+"All the requirements for a Turkish desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-uk)
+msgid ""
+"All the requirements for a Ukrainian desktop.  This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-cy)
+msgid ""
+"All the requirements for a Welsh desktop. This package contains application "
+"translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-be)
+msgid ""
+"All the requirements for a desktop in Belarusian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-bn)
+msgid ""
+"All the requirements for a desktop in Bengali. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-pt_BR)
+msgid ""
+"All the requirements for a desktop in Brazilian Portuguese. This package "
+"contains application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-en_GB)
+msgid ""
+"All the requirements for a desktop in British English. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-fa)
+msgid ""
+"All the requirements for a desktop in Farsi. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-hi)
+msgid ""
+"All the requirements for a desktop in Hindi. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-nds)
+msgid ""
+"All the requirements for a desktop in Low Saxon (a variant of German). This "
+"package contains application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ms)
+msgid ""
+"All the requirements for a desktop in Malay. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-mn)
+msgid ""
+"All the requirements for a desktop in Mongolian. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-se)
+msgid ""
+"All the requirements for a desktop in Northern Sami. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ss)
+msgid ""
+"All the requirements for a desktop in Swati. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-tg)
+msgid ""
+"All the requirements for a desktop in Tajik. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-uz)
+msgid ""
+"All the requirements for a desktop in Uzbek. This package contains "
+"application translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-zh_CN)
+msgid ""
+"All the requirements for a simplified Chinese desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-az)
+msgid ""
+"All the requirements for an Azerbaijan desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-et)
+msgid ""
+"All the requirements for an Estonian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-it)
+msgid ""
+"All the requirements for an Italian desktop. This package contains "
+"application translations, help files, and screen shots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-hr)
+msgid ""
+"All the stuff for a Croatian desktop. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ko)
+msgid ""
+"All the stuff for a Korean desktop. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-lt)
+msgid ""
+"All the stuff for a Lithuanian desktop. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-srLatn)
+msgid ""
+"All the stuff for a Serbian Latin desktop. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-th)
+msgid ""
+"All the stuff for a Thai desktop. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-vi)
+msgid ""
+"All the stuff for a Vietnamese desktop. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-wa)
+msgid ""
+"All the stuff for a Walloon desktop. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-pa)
+msgid ""
+"All the stuff for a desktop in Punjabi. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-eo)
+msgid ""
+"All the stuff for an Esperanto desktop.  This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-is)
+msgid ""
+"All the stuff for an Icelandic desktop. This package contains application "
+"translations, help files and screenshots."
+msgstr ""
+
+#. summary(libica-1_3_9:libica-1_3_9-32bit)
+msgid "An Interface Library for the ICA Device Driver"
+msgstr ""
+
+#. summary(harfbuzz:libharfbuzz0-32bit)
+msgid "An OpenType text shaping engine"
+msgstr ""
+
+#. description(armadillo:libarmadillo3-32bit)
+msgid ""
+"Armadillo is a C++ linear algebra library (matrix maths) aiming towards a "
+"good balance between speed and ease of use. Integer, floating point and "
+"complex numbers are supported, as well as a subset of trigonometric and "
+"statistics functions. Various matrix decompositions are provided through "
+"optional integration with LAPACK and ATLAS libraries. A delayed evaluation "
+"approach is employed (during compile time) to combine several operations "
+"into one and reduce (or eliminate) the need for temporaries. This is "
+"accomplished through recursive templates and template meta-programming. This "
+"library is useful if C++ has been decided as the language of choice (due to "
+"speed and/or integration capabilities), rather than another language like "
+"Matlab or Octave.\n"
+"\n"
+"This package provides the shared libraries for armadillo."
+msgstr ""
+
+#. description(aubio:libaubio2-32bit)
+msgid ""
+"Aubio is a library for real time audio labelling. Its features include "
+"segmenting a sound file before each of its attacks, performing pitch "
+"detection, tapping the beat and producing midi streams from live audio. The "
+"name aubio comes from 'audio' with a typo: several transcription errors are "
+"likely to be found in the results too."
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-decorations-aurorae)
+msgid "Aurorae window decorations"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-az)
+msgid "Azerbaijan Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-eu)
+msgid "Basque translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-be)
+msgid "Belarusian translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-bn)
+msgid "Bengali translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-bs)
+msgid "Bosnian Translations for KDE"
+msgstr ""
+
+#. description(Botan:libbotan-1_10-0-32bit)
+msgid ""
+"Botan is a C++ library that provides support for many common cryptographic "
+"operations, including encryption, authentication, and X.509v3 certificates "
+"and CRLs. A wide variety of algorithms is supported, including RSA, DSA, "
+"DES, AES, MD5, and SHA-1."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-pt_BR)
+msgid "Brazilian Portuguese Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-br)
+msgid "Breton Translations for KDE"
+msgstr ""
+
+#. summary(crystalhd-libs:libcrystalhd3-32bit)
+msgid "Broadcom Crystal HD device interface library"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-bg)
+msgid "Bulgarian Translations for KDE"
+msgstr ""
+
+#. summary(flickcurl:libflickcurl0-32bit)
+msgid "C Library API to the Flickr Web Service"
+msgstr ""
+
+#. summary(libgnomemm:libgnomemm-2_6-1-32bit)
+msgid "C++ Interface for GNOME libs (a GUI library for X)"
+msgstr ""
+
+#. summary(agg:libagg2-32bit)
+msgid "C++ SVG rendering library"
+msgstr ""
+
+#. summary(libcamgm:libcamgm-devel-32bit)
+msgid "CA Management Library Development Files"
+msgstr ""
+
+#. summary(libcdio-paranoia:libcdio_cdda1-32bit)
+msgid "CDDA reader"
+msgstr ""
+
+#. summary(libcddb:libcddb2-32bit)
+msgid "CDDB Access Library"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ca)
+msgid "Catalan Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-zh_TW)
+msgid "Chinese Translations for KDE"
+msgstr ""
+
+#. summary(libcgroup1:libcgroup1-32bit)
+msgid "Control groups management tools"
+msgstr ""
+
+#. description(libcgroup1:libcgroup1-32bit)
+msgid ""
+"Control groups, a new kernel feature in Linux 2.6.24 provides a file system "
+"interface to manipulate and control the details on task grouping including "
+"creation of new task groups (control groups), permission handling and task "
+"assignment."
+msgstr ""
+
+#. description(kernel-coverage)
+msgid "Creating the linux kernel coverage galaxy poster."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-hr)
+msgid "Croatian translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-cs)
+msgid "Czech Translations for KDE"
+msgstr ""
+
+#. description(libdbus-c++:libdbus-c++-glib-1-0-32bit)
+msgid ""
+"DBus-c++ attempts to provide a C++ API for D-BUS. The library has a glib and "
+"an ecore mainloop integration. It also offers an optional own main loop. The "
+"glib libdbus-c++ library."
+msgstr ""
+
+#. description(libdbus-c++:libdbus-c++-1-0-32bit)
+msgid ""
+"DBus-c++ attempts to provide a C++ API for D-BUS. The library has a glib and "
+"an ecore mainloop integration. It also offers an optional own main loop. The "
+"libdbus-c++ library."
+msgstr ""
+
+#. summary(dwarves:libdwarves1-32bit)
+msgid "DWARF processing libraries of dwarves tools"
+msgstr ""
+
+#. summary(dwarves:libdwarves-devel-32bit)
+msgid "DWARF processing library development files"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-da)
+msgid "Danish Translations for KDE"
+msgstr ""
+
+#. summary(dmapi:libdm0-32bit)
+msgid "Data Management API Runtime Environment"
+msgstr ""
+
+#. summary(GeoIP:libGeoIP-devel-32bit)
+msgid "Development Files for GeoIP"
+msgstr ""
+
+#. summary(Botan:libbotan-devel-32bit)
+msgid "Development files for Botan"
+msgstr ""
+
+#. summary(ding-libs:libcollection-devel-32bit)
+msgid "Development files for libcollection"
+msgstr ""
+
+#. summary(libdbi:libdbi-devel-32bit)
+msgid ""
+"Development files for libdbi (Database Independent Abstraction Layer for C)"
+msgstr ""
+
+#. summary(ding-libs:libdhash-devel-32bit)
+msgid "Development files for libdhash"
+msgstr ""
+
+#. summary(ding-libs:libini_config-devel-32bit)
+msgid "Development files for libini_config"
+msgstr ""
+
+#. summary(libdrm:libkms-devel-32bit)
+msgid "Development files for the KMS MM abstraction library"
+msgstr ""
+
+#. summary(dtc:libfdt1-devel-32bit)
+msgid "Development headers for device tree library"
+msgstr ""
+
+#. description(crystalhd-libs:libcrystalhd-devel-32bit)
+msgid "Development libraries needed to build applications with libcrystalhd."
+msgstr ""
+
+#. summary(lash:liblash1-32bit)
+msgid "Development package for LASH"
+msgstr ""
+
+#. summary(crystalhd-libs:libcrystalhd-devel-32bit)
+msgid "Development package for libcrystalhd"
+msgstr ""
+
+#. summary(dirac:libdirac_decoder0-32bit)
+msgid "Dirac Video Codec Decoder Library"
+msgstr ""
+
+#. summary(libgarcon:libgarcon-doc)
+msgid "Documentation for garcon"
+msgstr ""
+
+#. summary(libgnomeprint:libgnomeprint-doc)
+msgid "Documentation for libgnomeprint"
+msgstr ""
+
+#. summary(libgnomeprintui:libgnomeprintui-doc)
+msgid "Documentation for libgnomeprintui"
+msgstr ""
+
+#. summary(libglade2:libglade2-doc)
+msgid "Documentation for the Glade library"
+msgstr ""
+
+#. summary(json-c:libjson-doc)
+msgid "Dokumentation files"
+msgstr ""
+
+#. summary(libdatrie:libdatrie1-32bit)
+msgid "Double-Array Trie Library"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-nl)
+msgid "Dutch Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-en_GB)
+msgid "English (UK) Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-eo)
+msgid "Esperanto translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-et)
+msgid "Estonian Translations for KDE"
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-br)
+msgid ""
+"Everything for a Breton desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-mk)
+msgid ""
+"Everything for a Macedonian desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-ga)
+msgid ""
+"Everything for an Irish desktop. This package contains application "
+"translations, help files, and screenshots."
+msgstr ""
+
+#. description(libexpat0:libexpat0-32bit)
+msgid ""
+"Expat is an XML 1.0 parser written in C. It aims to be fully conformant. It "
+"is currently not a validating XML processor. The current production version "
+"of expat can be downloaded from ftp://ftp.jclark.com/pub/xml/expat.zip. The "
+"directory xmltok contains a low-level library for tokenizing XML. The "
+"interface is documented in xmltok/xmltok.h. The directory xmlparse contains "
+"an XML parser library that is built on top of the xmltok library. The "
+"interface is documented in xmlparse/xmlparse.h. The directory sample "
+"contains a simple example program using this interface. The directory sample/"
+"build.bat is a batch file to build the example using Visual C++. The "
+"directory xmlwf contains the xmlwf application, which uses the xmlparse "
+"library. The arguments to xmlwf are one or more files to check for well-"
+"formedness. An option -d dir can be specified. For each well-formed input "
+"file, the corresponding canonical XML is written to dir/f, where f is the "
+"filename (without any path) of the input file. A -x option causes references "
+"to external general entities to be processed. A -s option makes documents "
+"that are not stand-alone cause an error (a document is considered stand-"
+"alone if it is intrinsically stand-alone because it has no external subset "
+"and no references to parameter entities in the internal subset or it is "
+"declared as stand-alone in the XML declaration)."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-fa)
+msgid "Farsi translations for KDE 3"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-fi)
+msgid "Finnish Translations for KDE"
+msgstr ""
+
+#. summary(ffado:libffado2-32bit)
+msgid "FireWire 1394 support for audio devices"
+msgstr ""
+
+#. summary(firebird:libfbclient2-32bit)
+msgid "Firebird SQL server client library"
+msgstr ""
+
+#. description(flickcurl:libflickcurl0-32bit)
+msgid ""
+"Flickcurl is a C library for calling the Flickr Web service API. It handles "
+"the API signing, token management, and parameter encoding and decoding, "
+"resulting in C functions for the Web services APIs. It... uses libcurl to "
+"call the REST Web service, and libxml2 to manipulate the XML responses. The "
+"library supports reading photo, tag, and comments information, the photo "
+"upload and searching APIs, and writing tags and comments. It provides "
+"utilities such as \"flickcurl\" to exercise the API and \"flickrdf\" to get "
+"RDF metadata descriptions out of photos, tags, and machine tags."
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-fr-doc)
+msgid "French (fr) manuals for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-fr)
+msgid "French Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-fy)
+msgid "Frisian Translations for KDE"
+msgstr ""
+
+#. description(glib2:libgio-fam-32bit)
+msgid ""
+"GLib is a general-purpose utility library, which provides many useful data "
+"types, macros, type conversions, string utilities, file utilities, a main "
+"loop abstraction, and so on.\n"
+"\n"
+"This packages provides a GIO module to use FAM for file monitoring."
+msgstr ""
+
+#. summary(libgail-gnome:libgail-gnome-32bit)
+msgid "GNOME Accessibility Implementation Library for gnomeui and libbonoboui"
+msgstr ""
+
+#. summary(libgnomecups:libgnomecups-32bit)
+msgid "GNOME CUPS Library"
+msgstr ""
+
+#. summary(gcc47:libada47-32bit)
+msgid "GNU Ada Runtime Libraries"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-gl:libgstgl-0_10-1-32bit)
+msgid "GStreamer OpenGL Plug-Ins - Shared Library"
+msgstr ""
+
+#. summary(gst-rtsp:libgstrtspserver-0_10-0-32bit)
+msgid "GStreamer based RTSP server library"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-gl)
+msgid "Galician Translations for KDE"
+msgstr ""
+
+#. summary(glib2:libgio-fam-32bit)
+msgid "General-Purpose Utility Library -- GIO Module to use FAM"
+msgstr ""
+
+#. description(GeoIP:libGeoIP-devel-32bit)
+msgid ""
+"GeoIP is a C library that enables the user to find the country that any IP "
+"address or hostname originates from.  It uses a file based database. This "
+"database simply contains IP blocks as keys, and countries as values.  This "
+"database should be more complete and accurate than using reverse DNS "
+"lookups.\n"
+"\n"
+"MaxMind offers a service where you can have your database updated "
+"automically each month.\n"
+"\n"
+"This package holds the development files for GeoIP."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-de)
+msgid "German Translations for KDE"
+msgstr ""
+
+#. summary(libdbus-c++:libdbus-c++-glib-1-0-32bit)
+msgid "Glib for libdbus-c++"
+msgstr ""
+
+#. summary(ColPack:libColPack0-32bit)
+msgid "Graph Coloring Library for C/C++"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-el)
+msgid "Greek Translations for KDE"
+msgstr ""
+
+#. description(gst-rtsp:libgstrtspserver-0_10-0-32bit)
+msgid "GstRTSP is a RTSP server library using the GStreamer framework."
+msgstr ""
+
+#. summary(hdf5:libhdf5-0-32bit)
+msgid "HDF 5 runtime libraries"
+msgstr ""
+
+#. description(harfbuzz:libharfbuzz0-32bit)
+msgid "HarfBuzz is an OpenType text shaping engine."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-he)
+msgid "Hebrew Translations for KDE"
+msgstr ""
+
+#. description(herqq:libHUpnp1-32bit)
+msgid ""
+"Herqq UPnP (HUPnP) is a software library for building UPnP devices and "
+"control points conforming to the UPnP Device Architecture version 1.1. It is "
+"designed to be simple to use and robust in operation. It is built using C++ "
+"and the Qt Framework following many of the design principles and programming "
+"practices used in the Qt Framework. It integrates into Qt-based software "
+"smoothly and enables truly rapid UPnP development."
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-wallpapers-large)
+msgid "High-resolution KDE wallpapers package"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-hi)
+msgid "Hindi Translations for KDE"
+msgstr ""
+
+#. summary(libhugetlbfs:libhugetlbfs-32bit)
+msgid "Hugetlbfs helper library"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-hu)
+msgid "Hungarian Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-is)
+msgid "Icelandic translations for KDE"
+msgstr ""
+
+#. summary(ladspa-devel)
+msgid "Include Files mandatory for Development"
+msgstr ""
+
+#. summary(kiwi:kiwi-instsource)
+msgid "Installation Source creation"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ga)
+msgid "Irish Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-it)
+msgid "Italian Translations for KDE"
+msgstr ""
+
+#. summary(jbigkit:libjbig-devel-32bit)
+msgid "JBIG1 lossless image compression library -- development files"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ja)
+msgid "Japanese Translations for KDE"
+msgstr ""
+
+#. summary(ldapjdk:ldapjdk-javadoc)
+msgid "Javadoc for ldapjdk"
+msgstr ""
+
+#. summary(kdelibs4-apidocs)
+msgid "KDE 4 API documentation"
+msgstr ""
+
+#. summary(kdebase4-wallpapers)
+msgid "KDE 4 Wallpapers"
+msgstr ""
+
+#. summary(kdelibs3:kdelibs3-arts-32bit)
+msgid "KDE aRts support"
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-colorschemes)
+msgid "KDE color schemes"
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-desktopthemes)
+msgid "KDE desktop themes"
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-emoticons)
+msgid "KDE emoticons package"
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-icons)
+msgid "KDE icon packages"
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-sounds)
+msgid "KDE sound package"
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-wallpapers)
+msgid "KDE wallpapers package"
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-wallpapers-weather)
+msgid "KDE weather wallpapers package"
+msgstr ""
+
+#. description(klatexformula:klatexformula-apidoc)
+msgid ""
+"KLatexFormula is an easy-to-use graphical user interface for generating "
+"images from LaTeX equations. These images can be dragged and dropped or "
+"copied and pasted into external applications (presentations, text documents, "
+"graphics...), or can be saved to disk in a variety of formats (PNG, JPG, "
+"BMP, EPS, PDF, etc.).\n"
+"\n"
+"This package contains the API documentation of the libraries libklfbackend, "
+"libklftool and libklfapp which are the different components of klatexformula."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-kk)
+msgid "Kazakh Translations for KDE"
+msgstr ""
+
+#. description(krb5-doc)
+msgid ""
+"Kerberos V5 is a trusted-third-party network authentication system,which can "
+"improve your network's security by eliminating the insecurepractice of clear "
+"text passwords. This package includes extended documentation for MIT "
+"Kerberos."
+msgstr ""
+
+#. summary(kernel-coverage)
+msgid "Kernel Coverage Imageing, Galaxy Poster"
+msgstr ""
+
+#. summary(kernel-pae)
+msgid "Kernel with PAE Support"
+msgstr ""
+
+#. summary(kernel-pae:kernel-pae-base)
+msgid "Kernel with PAE Support - base modules"
+msgstr ""
+
+#. description(keychain)
+msgid ""
+"Keychain is an extremely handy OpenSSH, commercial SSH2-compatible RSA/DSA "
+"and GnuPG key management application. It acts as a front-end to the agents, "
+"allowing you to easily have one long-running agent process per system, "
+"rather than per login session. This dramatically reduces the number of times "
+"you need to enter your pass phrase from once per new login session to once "
+"every time your local machine is rebooted."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-km)
+msgid "Khmer Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-rw)
+msgid "Kinyarwanda Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ko)
+msgid "Korean translations for KDE"
+msgstr ""
+
+#. description(lam:lam-32bit)
+msgid ""
+"LAM (Local Area Multicomputer) is an MPI programming environment and "
+"development system for heterogeneous computers on a network. With LAM, a "
+"dedicated cluster or an existing network computing infrastructure can act as "
+"one parallel computer solving one problem.\n"
+"\n"
+"LAM features extensive debugging support in the application development "
+"cycle and peak performance for production applications. LAM also features a "
+"full implementation of the MPI (Message Passing Interface) communication "
+"standard.  The documentation is installed in /usr/share/doc/packages/lam/."
+msgstr ""
+
+#. summary(lapack:lapacke-devel-32bit)
+msgid "LAPACKE development files"
+msgstr ""
+
+#. description(lapack:lapacke-devel-32bit)
+msgid "LAPACKE headers and development files."
+msgstr ""
+
+#. description(lcov)
+msgid ""
+"LCOV is a graphical front-end for GCC's coverage testing tool gcov. It "
+"collects gcov data for multiple source files and creates HTML pages "
+"containing the source code annotated with coverage information. It also adds "
+"overview pages for easy navigation within the file structure."
+msgstr ""
+
+#. summary(latex2html)
+msgid "LaTeX2HTML Converter"
+msgstr ""
+
+#. description(latex2html)
+msgid ""
+"LaTeX2HTML lets you easily convert basic LaTeX documents into the HTML "
+"format. This allows both a written and online version even of older LaTeX "
+"texts.\n"
+"\n"
+"Find documentation in /usr/share/doc/packages/latex2html."
+msgstr ""
+
+#. description(laeqed)
+msgid ""
+"Laeqed is a LaTeX equation editor specifically targeted at producing PNG "
+"images of math equations for use on web pages. It runs wherever Java and "
+"LaTeX runs, i.e. Linux, Windows, Mac...\n"
+"\n"
+"Laeqed stores the LaTeX equation into the PNG image, so it can be reopened "
+"later for further editing."
+msgstr ""
+
+#. summary(kde3-kaffeine:kde3-kaffeine-lang)
+msgid "Languages for package kde3-kaffeine"
+msgstr ""
+
+#. summary(kde3-ktorrent:kde3-ktorrent-lang)
+msgid "Languages for package kde3-ktorrent"
+msgstr ""
+
+#. summary(kdebase3-SuSE:kdebase3-SuSE-lang)
+msgid "Languages for package kdebase3-SuSE"
+msgstr ""
+
+#. summary(kdiff3:kdiff3-lang)
+msgid "Languages for package kdiff3"
+msgstr ""
+
+#. summary(kile:kile-lang)
+msgid "Languages for package kile"
+msgstr ""
+
+#. summary(kimtoy:kimtoy-lang)
+msgid "Languages for package kimtoy"
+msgstr ""
+
+#. summary(kmymoney:kmymoney-lang)
+msgid "Languages for package kmymoney"
+msgstr ""
+
+#. summary(krb5-auth-dialog:krb5-auth-dialog-lang)
+msgid "Languages for package krb5-auth-dialog"
+msgstr ""
+
+#. summary(kvirustotal:kvirustotal-lang)
+msgid "Languages for package kvirustotal"
+msgstr ""
+
+#. summary(libbtctl:libbtctl-lang)
+msgid "Languages for package libbtctl"
+msgstr ""
+
+#. summary(libconfuse0:libconfuse0-lang)
+msgid "Languages for package libconfuse0"
+msgstr ""
+
+#. summary(libgnomecups:libgnomecups-lang)
+msgid "Languages for package libgnomecups"
+msgstr ""
+
+#. summary(libgnomeprint:libgnomeprint-lang)
+msgid "Languages for package libgnomeprint"
+msgstr ""
+
+#. summary(libgnomeprintui:libgnomeprintui-lang)
+msgid "Languages for package libgnomeprintui"
+msgstr ""
+
+#. summary(libgsasl:libgsasl-lang)
+msgid "Languages for package libgsasl"
+msgstr ""
+
+#. summary(libinfinity:libinfinity-lang)
+msgid "Languages for package libinfinity"
+msgstr ""
+
+#. summary(laeqed)
+msgid "Latex equation editor that stores equations as png images"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-lv)
+msgid "Latvian translations for KDE"
+msgstr ""
+
+#. summary(leptonica:liblept3-32bit)
+msgid "Leptonica Library"
+msgstr ""
+
+#. description(adns:libadns-devel-32bit)
+msgid ""
+"Libadns-devel includes the header file and static library to develop "
+"programs with libads support."
+msgstr ""
+
+#. summary(libebml:libebml3-32bit)
+msgid "Libary to Parse EBML Files"
+msgstr ""
+
+#. description(libcddb:libcddb2-32bit)
+msgid ""
+"Libcddb is a library that implements the different protocols (CDDBP, HTTP, "
+"and SMTP) to access data on a CDDB server (http://freedb.org). It tries to "
+"be as cross-platform as possible."
+msgstr ""
+
+#. description(libconfig:libconfig++9-32bit)
+msgid ""
+"Libconfig is a simple library for manipulating structured configuration "
+"files, like this one: test.cfg. This file format is more compact and more "
+"readable than XML. And unlike XML, it is type-aware, so it is not necessary "
+"to do string parsing in application code.\n"
+"\n"
+"This package contains the shared libraries for libconfig."
+msgstr ""
+
+#. description(libjackasyn:libjackasyn-32bit)
+msgid ""
+"Libjackasyn is a library that allows you to run any Linux sound program made "
+"for the OSS system as a JACK client."
+msgstr ""
+
+#. description(libmatroska:libmatroska5-32bit)
+msgid ""
+"Libmatroska is a C++ library to parse Matroska files (.mkv and .mka). It "
+"depends on libebml to work. You only need this package to compile your own "
+"applications."
+msgstr ""
+
+#. summary(adns:libadns-devel-32bit)
+msgid "Libraries and header files to develop programs with libadns support"
+msgstr ""
+
+#. summary(libGLw:libGLw-devel-32bit)
+msgid "Libraries, includes and more to develop MesaGLw applications"
+msgstr ""
+
+#. summary(libdvbpsi:libdvbpsi7-32bit)
+msgid "Library for Decoding and Generating MPEG TS and DVB PSI Tables"
+msgstr ""
+
+#. summary(fluidsynth:libfluidsynth1-32bit)
+msgid "Library for Fluidsynth"
+msgstr ""
+
+#. description(leptonica:liblept3-32bit)
+msgid "Library for efficient image processing and image analysis operations."
+msgstr ""
+
+#. summary(aubio:libaubio2-32bit)
+msgid "Library for real-time audio labelling"
+msgstr ""
+
+#. summary(gamin:libfam0-gamin-32bit)
+msgid "Library providing the FAM File Alteration Monitor API"
+msgstr ""
+
+#. summary(libmatroska:libmatroska5-32bit)
+msgid "Library to Deal with Matroska Files"
+msgstr ""
+
+#. summary(cwiid:libcwiid-devel-32bit)
+msgid "Library to access Wiimotes"
+msgstr ""
+
+#. description(cwiid:libcwiid1-32bit)
+msgid "Library to use Wiimotes."
+msgstr ""
+
+#. summary(liblo:liblo-32bit)
+msgid "Lightweight OSC Implementation"
+msgstr ""
+
+#. summary(lapack:lapack-devel-32bit)
+msgid "Linear Algebra Package"
+msgstr ""
+
+#. summary(ldtp)
+msgid "Linux Desktop Testing Project (LDTP)"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-lt)
+msgid "Lithuanian translations for KDE"
+msgstr ""
+
+#. summary(lam:lam-32bit)
+msgid "Local Area Multicomputer"
+msgstr ""
+
+#. description(log4c:liblog4c3-32bit)
+msgid ""
+"Log4c is a library of C for flexible logging to files, syslog and other "
+"destinations. It is modeled after the Log for Java library (http://jakarta."
+"apache.org/log4j/), staying as close to their API as is reasonable."
+msgstr ""
+
+#. summary(kye)
+msgid "Logic puzzle game with arcade elements"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-nds)
+msgid "Low Saxon translations for KDE"
+msgstr ""
+
+#. summary(libmirage:libmirage-data)
+msgid "MIME type definitions and documentation for libmirage"
+msgstr ""
+
+#. summary(krb5-doc)
+msgid "MIT Kerberos5 Implementation--Documentation"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-mk)
+msgid "Macedonian Translations for KDE"
+msgstr ""
+
+#. summary(kdesdk4:kprofilemethod)
+msgid "Macros for profiling KDE applications"
+msgstr ""
+
+#. summary(malaga:libmalaga7-32bit)
+msgid "Malaga Library Files."
+msgstr ""
+
+#. description(malaga:libmalaga7-32bit)
+msgid "Malaga library files."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ms)
+msgid "Malay translations for KDE 3"
+msgstr ""
+
+#. summary(killswitch-applet)
+msgid "Manage Killswitches"
+msgstr ""
+
+#. summary(lapack:lapack-man)
+msgid "Manpages for LAPACK"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-mn)
+msgid "Mongolian translations for KDE"
+msgstr ""
+
+#. summary(kdeartwork4:kdeartwork4-icons-mono)
+msgid "Mono KDE icon packages"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-se)
+msgid "Northern Sami translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-nb)
+msgid "Norwegian (Bokmaal) Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-nn)
+msgid "Norwegian (Nynorsk) Translations for KDE"
+msgstr ""
+
+#. summary(kiwi-instsource-plugins-openSUSE-12-1)
+msgid "OpenSuSE - KIWI Image System"
+msgstr ""
+
+#. description(kiwi-instsource-plugins-openSUSE-12-1)
+msgid ""
+"OpenSuSE - KIWI Image System InstSource plugins provides information and "
+"plugin code to create meta information for a Novell/SUSE installation source "
+"This particular package contains the metadata plugins specific for the "
+"openSUSE-11.1 targets."
+msgstr ""
+
+#. summary(kdedesktopcheck)
+msgid "Perl Script for Integrity Checks on .desktop Files"
+msgstr ""
+
+#. summary(libcaca:libcaca0-plugins-32bit)
+msgid "Plugins for libcaca"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-pl)
+msgid "Polish Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-pt)
+msgid "Portuguese Translations for KDE"
+msgstr ""
+
+#. description(kde3-kaffeine:kde3-kaffeine-lang)
+msgid "Provides translations to the package kde3-kaffeine"
+msgstr ""
+
+#. description(kde3-ktorrent:kde3-ktorrent-lang)
+msgid "Provides translations to the package kde3-ktorrent"
+msgstr ""
+
+#. description(kdebase3-SuSE:kdebase3-SuSE-lang)
+msgid "Provides translations to the package kdebase3-SuSE"
+msgstr ""
+
+#. description(kdiff3:kdiff3-lang)
+msgid "Provides translations to the package kdiff3"
+msgstr ""
+
+#. description(kile:kile-lang)
+msgid "Provides translations to the package kile"
+msgstr ""
+
+#. description(kimtoy:kimtoy-lang)
+msgid "Provides translations to the package kimtoy"
+msgstr ""
+
+#. description(kmymoney:kmymoney-lang)
+msgid "Provides translations to the package kmymoney"
+msgstr ""
+
+#. description(krb5-auth-dialog:krb5-auth-dialog-lang)
+msgid "Provides translations to the package krb5-auth-dialog"
+msgstr ""
+
+#. description(kvirustotal:kvirustotal-lang)
+msgid "Provides translations to the package kvirustotal"
+msgstr ""
+
+#. description(libbtctl:libbtctl-lang)
+msgid "Provides translations to the package libbtctl"
+msgstr ""
+
+#. description(libconfuse0:libconfuse0-lang)
+msgid "Provides translations to the package libconfuse0"
+msgstr ""
+
+#. description(libgnomecups:libgnomecups-lang)
+msgid "Provides translations to the package libgnomecups"
+msgstr ""
+
+#. description(libgnomeprint:libgnomeprint-lang)
+msgid "Provides translations to the package libgnomeprint"
+msgstr ""
+
+#. description(libgnomeprintui:libgnomeprintui-lang)
+msgid "Provides translations to the package libgnomeprintui"
+msgstr ""
+
+#. description(libgsasl:libgsasl-lang)
+msgid "Provides translations to the package libgsasl"
+msgstr ""
+
+#. description(libinfinity:libinfinity-lang)
+msgid "Provides translations to the package libinfinity"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-pa)
+msgid "Punjabi translations for KDE"
+msgstr ""
+
+#. summary(libcaca:libcaca-python)
+msgid "Python support for libcaca"
+msgstr ""
+
+#. summary(libdbus-1-qt3-0:libdbus-1-qt3-0-32bit)
+msgid "Qt3 DBus Bindings"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ro)
+msgid "Romanian Translations for KDE"
+msgstr ""
+
+#. summary(kdebase3:kdebase3-runtime-32bit)
+msgid "Runtime Dependencies of KDE3 Applications"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ru)
+msgid "Russian Translations for KDE"
+msgstr ""
+
+#. summary(kde-susetranslations)
+msgid "SUSE KDE Translations"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-srLatn)
+msgid "Serbian Latin translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-sr)
+msgid "Serbian Translations for KDE"
+msgstr ""
+
+#. summary(mariadb:libmariadbclient18-32bit)
+msgid "Shared Libraries for MariaDB"
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-gl:libgstgl-0_10-1-32bit)
+msgid ""
+"Shared Library, is normally installed as a dependency when needed\n"
+"\n"
+"This module contains integration libraries and plug-ins for using OpenGL "
+"within GStreamer pipelines. This module contains elements for, among "
+"others:\n"
+"\n"
+"  * output: glimagesink   * adapters: glupload, gldownload   * video "
+"processing: gldeinterlace, glcolorscale   * GL effects: glfiltersobel, "
+"glfilterblur, gleffects, others   * sources: gltestsrc"
+msgstr ""
+
+#. description(firebird:libfbclient2-32bit)
+msgid ""
+"Shared client library for Firebird SQL server.\n"
+"\n"
+"Firebird is a relational database offering many ANSI SQL standard features "
+"that runs on Linux, Windows, and a variety of Unix platforms. Firebird "
+"offers excellent concurrency, high performance, and powerful language "
+"support for stored procedures and triggers. It has been used in production "
+"systems, under a variety of names, since 1981."
+msgstr ""
+
+#. summary(armadillo:libarmadillo3-32bit)
+msgid "Shared libraries for armadillo"
+msgstr ""
+
+#. summary(libconfig:libconfig++9-32bit)
+msgid "Shared libraries for libconfig"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-zh_CN)
+msgid "Simplified Chinese Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-sk)
+msgid "Slovak Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-sl)
+msgid "Slovenian Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-es)
+msgid "Spanish Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ss)
+msgid "Swati translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-sv-doc)
+msgid "Swedish (sv) manuals for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-sv)
+msgid "Swedish Translations for KDE"
+msgstr ""
+
+#. summary(colord-gtk:libcolord-gtk1-32bit)
+msgid "System Daemon for Managing Color Devices -- GTK Integration Library"
+msgstr ""
+
+#. summary(kio_sysinfo-branding-upstream)
+msgid "System Information KIO-Slave Branding"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-tg)
+msgid "Tajik translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-ta)
+msgid "Tamil Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-te)
+msgid "Telugu Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-th)
+msgid "Thai translations for KDE"
+msgstr ""
+
+#. description(libcamgm:libcamgm-devel-32bit)
+msgid ""
+"The CA Management Library provides methods for managing a Certificate "
+"Authority. This package includes the header files and development "
+"documentation."
+msgstr ""
+
+#. summary(cloog-isl:libcloog-isl3-32bit)
+msgid "The CLOOG shared library using ISL"
+msgstr ""
+
+#. summary(libgnomeprint:libgnomeprint-32bit)
+msgid "The GNOME 2.x Printing Library"
+msgstr ""
+
+#. description(ldtp)
+msgid ""
+"The GNU/Linux Desktop Testing Project (GNU LDTP) aims to produce a high "
+"quality test automation framework with cutting-edge tools that can be used "
+"to test and improve the GNU/Linux or Solaris desktops. It uses the "
+"Accessibility libraries to discover through the application's user "
+"interface. The framework also has tools to record test-cases based on user "
+"actions in an application."
+msgstr ""
+
+#. description(hdf5:libhdf5-0-32bit)
+msgid ""
+"The HDF project involves the development and support of software and file "
+"formats for scientific data management. The HDF software includes I/O "
+"libraries and tools for analyzing, visualizing, and converting scientific "
+"data.\n"
+"\n"
+"This package contains the HDF 5 runtime libraries."
+msgstr ""
+
+#. summary(kdebase3:kdebase3-32bit)
+msgid "The KDE Core Components"
+msgstr ""
+
+#. summary(ladspa:ladspa-32bit)
+msgid "The Linux Audio Developer's Simple Plug-In API"
+msgstr ""
+
+#. description(ladspa:ladspa-32bit)
+msgid ""
+"The Linux Audio Developer's Simple Plug-in API (LADSPA) provides the ability "
+"to write simple plug-in audio processors in C/C++ and link them "
+"dynamically.  The package contains the LADSPA SDK, the CMT plug-in libraries "
+"(including Freeverb), and the swh plug-ins."
+msgstr ""
+
+#. summary(ldapjdk)
+msgid "The Mozilla LDAP Java SDK"
+msgstr ""
+
+#. description(ldapjdk)
+msgid ""
+"The Mozilla LDAP SDKs enable you to write applications that access, manage, "
+"and update the information stored in an LDAP directory."
+msgstr ""
+
+#. description(ldapjdk:ldapjdk-javadoc)
+msgid ""
+"The Mozilla LDAP SDKs enable you to write applications which access, manage, "
+"and update the information stored in an LDAP directory.\n"
+"\n"
+"This package contains the javadoc documentation for the Mozilla LDAP SDKs."
+msgstr ""
+
+#. summary(kdelibs3:kdelibs3-default-style-32bit)
+msgid "The default KDE style"
+msgstr ""
+
+#. description(libdbi:libdbi-devel-32bit)
+msgid ""
+"The libdbi-devel package contains the header files and documentation needed "
+"to develop applications with libdbi."
+msgstr ""
+
+#. summary(libdbus-c++:libdbus-c++-1-0-32bit)
+msgid "The libdbus-c++ library"
+msgstr ""
+
+#. description(libhugetlbfs:libhugetlbfs-32bit)
+msgid ""
+"The libhugetlbfs package interacts with the Linux hugetlbfs to make large "
+"pages available to applications in a transparent manner."
+msgstr ""
+
+#. description(jbigkit:libjbig-devel-32bit)
+msgid ""
+"The libjbig-devel package contains files needed for development using the "
+"JBIG-KIT image compression library."
+msgstr ""
+
+#. description(adolc:libadolc1-32bit)
+msgid ""
+"The package ADOL-C (Automatic Differentiation by OverLoading in C++) "
+"facilitates the evaluation of first and higher derivatives of vector "
+"functions that are defined by computer programs written in C or C++. The "
+"resulting derivative evaluation routines may be called from C/C++, Fortran, "
+"or any other language that can be linked with C.\n"
+"\n"
+"The numerical values of derivative vectors are obtained free of truncation "
+"errors at a small multiple of the run time and randomly accessed memory of "
+"the given function evaluation program."
+msgstr ""
+
+#. description(cloog-isl:libcloog-isl3-32bit)
+msgid "The shared library for the Chunky Loop Generator using the ISL backend."
+msgstr ""
+
+#. description(kdesdk4:kprofilemethod)
+msgid ""
+"These macros help profiling using QTime. They allow you to sum up the time "
+"taken by a given bit of code in a method called several times. This way one "
+"can find out which low-level method used by a high-level method is taking "
+"most of its time."
+msgstr ""
+
+#. description(gamin:libfam0-gamin-32bit)
+msgid ""
+"This C library provides an API and ABI compatible file alteration monitor "
+"mechanism compatible with FAM, but not dependent on a system wide daemon."
+msgstr ""
+
+#. description(libcdio-paranoia:libcdio_cdda1-32bit)
+msgid ""
+"This CDDA reader distribution ('libcdio-cdparanoia') reads audio from he "
+"CDROM directly as data, with no analog step between, and writes the data to "
+"a file or pipe as .wav, .aifc or as raw 16 bit linear PCM."
+msgstr ""
+
+#. description(kye)
+msgid ""
+"This is a clone of the original Kye game for Windows, by Colin Garbutt.\n"
+"\n"
+"Kye is a puzzle game with arcade game elements. The game takes place in a "
+"small playing area, where the player controls Kye - a distinctive green "
+"blob. The player moves around and tries to collect all of the diamonds. "
+"However, there are many other objects in the game, which can obstruct, trap "
+"or kill the Kye.\n"
+"\n"
+"Kye is one of those games like Chess, where a small number of different "
+"playing pieces, obeying simple rules, combine to create a game of enormous "
+"variety and complexity."
+msgstr ""
+
+#. description(liblo:liblo-32bit)
+msgid ""
+"This is a lightweight, easy-to-use implementation of the OSC protocol (see "
+"http://www.cnmat.berkeley.edu/OpenSoundControl/ for details)."
+msgstr ""
+
+#. description(libdatrie:libdatrie1-32bit)
+msgid ""
+"This is an implementation of double-array structure for representing trie, "
+"as proposed by Junichi Aoe."
+msgstr ""
+
+#. description(kernel-pae)
+msgid ""
+"This kernel supports up to 64GB of main memory. It requires Physical "
+"Addressing Extensions (PAE), which were introduced with the Pentium Pro "
+"processor.\n"
+"\n"
+"PAE is not only more physical address space but also important for the \"no "
+"execute\" feature which disables execution of code that is marked as non-"
+"executable. Therefore, the PAE kernel should be used on any systems that "
+"support it, regardless of the amount of main memory.\n"
+"\n"
+" Source Timestamp: 2012-07-30 23:41:12 +0200 GIT Revision: "
+"6d995bc7656eb24c5975a0bd1542911c462eef4c GIT Branch: master"
+msgstr ""
+
+#. description(kernel-pae:kernel-pae-base)
+msgid ""
+"This kernel supports up to 64GB of main memory. It requires Physical "
+"Addressing Extensions (PAE), which were introduced with the Pentium Pro "
+"processor.\n"
+"\n"
+"PAE is not only more physical address space but also important for the \"no "
+"execute\" feature which disables execution of code that is marked as non-"
+"executable. Therefore, the PAE kernel should be used on any systems that "
+"support it, regardless of the amount of main memory.\n"
+"\n"
+"This package contains only the base modules, required in all installs.\n"
+"\n"
+" Source Timestamp: 2012-07-30 23:41:12 +0200 GIT Revision: "
+"6d995bc7656eb24c5975a0bd1542911c462eef4c GIT Branch: master"
+msgstr ""
+
+#. description(libgnomeui:libgnomeui-doc)
+msgid ""
+"This library contains all the User-Interface related functions for GNOME-"
+"based Software. You need the libgnomeui-devel package too if you want to "
+"develop GNOME 2.x Desktop-based Software."
+msgstr ""
+
+#. description(libgnomeprintui:libgnomeprintui-32bit)
+msgid ""
+"This library contains all user-interface related functions to the GNOME "
+"printing subsystem."
+msgstr ""
+
+#. description(libdbus-1-qt3-0:libdbus-1-qt3-0-32bit)
+msgid "This library provides Qt3-classes for accessing the DBus"
+msgstr ""
+
+#. description(lapack:liblapacke3-32bit)
+msgid ""
+"This library provides a native C interface to LAPACK routines available at "
+"www.netlib.org/lapack to facilitate usage of LAPACK functionality for C "
+"programmers.\n"
+"\n"
+"This implementation introduces:\n"
+"- row-major and column-major matrix layout controlled by the first "
+"function   parameter;\n"
+"- an implementation with working arrays (middle-level interface) as well "
+"as   without working arrays (high-level interface);\n"
+"- input scalars passed by value;\n"
+"- error code as a return value instead of the INFO parameter."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-fr-doc)
+msgid "This package contains French application manual translations for KDE."
+msgstr ""
+
+#. description(kde-susetranslations)
+msgid ""
+"This package contains SUSE-specific translations of KDE3 libraries and "
+"applications."
+msgstr ""
+
+#. description(kde4-l10n:kde4-l10n-sv-doc)
+msgid "This package contains Swedish application manual translations for KDE."
+msgstr ""
+
+#. description(libcaca:libcaca-python)
+msgid "This package contains all that is needed to use libcaca from python."
+msgstr ""
+
+#. description(libgail-gnome:libgail-gnome-32bit)
+msgid ""
+"This package contains an implementation of the ATK interfaces for GNOME "
+"widgets."
+msgstr ""
+
+#. description(kdelibs3:kdelibs3-arts-32bit)
+msgid ""
+"This package contains bindings and gui elements for using aRts sound daemon."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-colorschemes)
+msgid "This package contains color schemes for applications"
+msgstr ""
+
+#. description(libglade2:libglade2-doc)
+msgid "This package contains documentation and examples for the Glade library."
+msgstr ""
+
+#. description(libgnomeprint:libgnomeprint-doc)
+msgid ""
+"This package contains documentation for the GNOME 2.x printing library, "
+"which provide a simple and clean API for GNOME programs that have to print "
+"documents."
+msgstr ""
+
+#. description(libgnomeprintui:libgnomeprintui-doc)
+msgid ""
+"This package contains documentation for the the user-facing parts of the "
+"GNOME 2.x printing library, which provide a simple and clean API for GNOME "
+"programs that have to print documents."
+msgstr ""
+
+#. description(dmapi:libdm0-32bit)
+msgid ""
+"This package contains files required by system software using the Data "
+"Management API. (DMAPI).  This is used to implement the interface defined in "
+"the X/Open document:  Systems Management: Data Storage Management (XDSM) API "
+"dated February 1997.  This interface is implemented by the libdm library."
+msgstr ""
+
+#. description(libcaca:libcaca0-plugins-32bit)
+msgid "This package contains gl and x11 plugins for caca."
+msgstr ""
+
+#. description(ladspa-devel)
+msgid "This package contains include files to develop LADSPA plugins."
+msgstr ""
+
+#. description(kdebase3:kdebase3-32bit)
+msgid ""
+"This package contains kdebase, one of the basic packages of the K Desktop "
+"Environment. It contains, among others, kwin (the KDE window manager), "
+"Konqueror (the KDE Web browser), and KControl (the configuration program)\n"
+"\n"
+"This package is needed if you want to use the KDE Desktop. It is not needed "
+"if you only want to start some KDE applications."
+msgstr ""
+
+#. description(kdelibs3:kdelibs3-32bit)
+msgid ""
+"This package contains kdelibs, one of the basic packages of the K Desktop "
+"Environment. It contains the necessary libraries for the KDE desktop.\n"
+"\n"
+"This package is absolutely necessary for using KDE."
+msgstr ""
+
+#. description(kiwi:kiwi-instsource)
+msgid ""
+"This package contains modules used for installation source creation. With "
+"those it is possible to create a valid installation repository from blank "
+"RPM file trees. The created tree can be used directly for the image creation "
+"process afterwards. This package allows using the\n"
+"--create-instsource <path-to-config.xml> switch."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-emoticons)
+msgid "This package contains pictures for usage in eg instant messengers."
+msgstr ""
+
+#. description(kdebase3:kdebase3-runtime-32bit)
+msgid ""
+"This package contains runtime dependencies of KDE3 applications like KIO-"
+"slaves."
+msgstr ""
+
+#. description(libgnomeprint:libgnomeprint-32bit)
+msgid ""
+"This package contains the GNOME 2.x printing library, which provides a "
+"simple and clean API for GNOME programs that have to print documents."
+msgstr ""
+
+#. description(kdelibs3:kdelibs3-default-style-32bit)
+msgid ""
+"This package contains the Plastik widget style and libkdefx. It only depends "
+"on Qt, not the KDE libraries."
+msgstr ""
+
+#. description(dwarves:libdwarves-devel-32bit)
+msgid ""
+"This package contains the development files for libdwarves, a library for "
+"processing DWARF, a debugging data format for ELF files."
+msgstr ""
+
+#. description(libdrm:libkms-devel-32bit)
+msgid ""
+"This package contains the development headers for the library found in "
+"libkms1."
+msgstr ""
+
+#. description(kiwi:kiwi-doc)
+msgid ""
+"This package contains the documentation and manual pages for the KIWI Image "
+"System"
+msgstr ""
+
+#. description(Botan:libbotan-devel-32bit)
+msgid ""
+"This package contains the header files and libraries needed to develop "
+"programs that use the Botan library."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-wallpapers-large)
+msgid ""
+"This package contains the high-resolution wallpapers which originate from "
+"the kdeartwork module."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-icons)
+msgid ""
+"This package contains the icon themes which are contained in the kdeartwork "
+"module."
+msgstr ""
+
+#. description(libica-1_3_9:libica-1_3_9-32bit)
+msgid ""
+"This package contains the interface library routines used by IBM modules to "
+"interface with the IBM eServer Cryptographic Accelerator (ICA)."
+msgstr ""
+
+#. description(dwarves:libdwarves1-32bit)
+msgid ""
+"This package contains the libdwarves shared library for the dwarves toolset, "
+"providing processing for DWARF, a debugging data format for ELF files.\n"
+"\n"
+"dwarves is a set of tools that use the DWARF debugging information inserted "
+"in ELF binaries by compilers such as GCC, used by well known debuggers such "
+"as GDB, and more recent ones such as systemtap."
+msgstr ""
+
+#. description(lash:liblash1-32bit)
+msgid "This package contains the library for the LASH system."
+msgstr ""
+
+#. description(crystalhd-libs:libcrystalhd3-32bit)
+msgid ""
+"This package contains the library to support the hardware decoding of H.264 "
+"video stream with Broadcom Crystal HD chips."
+msgstr ""
+
+#. description(mariadb:libmariadbclient18-32bit)
+msgid ""
+"This package contains the shared libraries (.so) which certain languages and "
+"applications need to dynamically load and use MariaDB."
+msgstr ""
+
+#. description(gcc47:libada47-32bit)
+msgid ""
+"This package contains the shared libraries required to run programs compiled "
+"with the GNU Ada compiler (GNAT) if they are compiled to use shared "
+"libraries. It also contains the shared libraries for the Implementation of "
+"the Ada Semantic Interface Specification (ASIS), the implementation of "
+"Distributed Systems Programming (GLADE) and the Posix 1003.5 Binding "
+"(Florist)."
+msgstr ""
+
+#. description(fluidsynth:libfluidsynth1-32bit)
+msgid "This package contains the shared library for Fluidsynth."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-sounds)
+msgid ""
+"This package contains the sounds which originate from the kdeartwork module."
+msgstr ""
+
+#. description(kdebase4-wallpapers)
+msgid "This package contains the wallpapers of KDE 4."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-wallpapers-weather)
+msgid ""
+"This package contains the wallpapers which are used by the Plasma wallpaper "
+"plugin."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-wallpapers)
+msgid ""
+"This package contains the wallpapers which originate from the kdeartwork "
+"module."
+msgstr ""
+
+#. description(kio_sysinfo-branding-upstream)
+msgid ""
+"This package contains upstream branding for the system information KIO slave."
+msgstr ""
+
+#. description(lcms2:liblcms2-doc)
+msgid "This package contains user and developer documentation for lcms2."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-decorations-aurorae)
+msgid ""
+"This package contains window decorations using the aurorae window decorator"
+msgstr ""
+
+#. description(json-c:libjson-doc)
+msgid "This package includes alls docs"
+msgstr ""
+
+#. description(kdelibs4-apidocs)
+msgid ""
+"This package includes the KDE 4 API documentation in HTML format for easy "
+"browsing."
+msgstr ""
+
+#. description(libgarcon:libgarcon-doc)
+msgid "This package includes the documentation for garcon."
+msgstr ""
+
+#. description(libgnomemm:libgnomemm-2_6-1-32bit)
+msgid ""
+"This package provides a C++ interface for GnomeUI.  It is a subpackage of "
+"the GTK-- project.  The interface provides a convenient interface for C++ "
+"programmers to create GNOME GUIs with GTK+'s flexible object-oriented "
+"framework."
+msgstr ""
+
+#. description(libcap1:libcap1-32bit)
+msgid "This package provides a compatible library for the old libcap-1."
+msgstr ""
+
+#. description(ColPack:libColPack0-32bit)
+msgid ""
+"This package provides algorithms for efficient solution of partitioning "
+"problems occuring in the analysis of sparsity patterns in derivative "
+"computations formulated as Graph Coloring problems.\n"
+"\n"
+"For details see http://www.cscapes.org/coloringpage/software.htm"
+msgstr ""
+
+#. description(dtc:libfdt1-devel-32bit)
+msgid "This package provides development files for libfdt"
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-icons-mono)
+msgid "This package provides monochrome KDE icons for increased accessibility."
+msgstr ""
+
+#. description(ffado:libffado2-32bit)
+msgid ""
+"This package provides the libffado shared library that provides a unified "
+"programming interface to configure and use all supported devices. Currently "
+"this library is used by the 'firewire' backends of the jack audio connection "
+"kit sound server. This backend provides audio and midi support, and is "
+"available in jackd. Access to the device internal configuration (e,g, "
+"internal mixer) is exposed using the ffado-dbus-server daemon. This daemon "
+"exposes the configurable parameters of all detected devices through DBUS. "
+"The ffadomixer application in support/mixer presents a GUI to control these "
+"parameters (only for officially supported devices)."
+msgstr ""
+
+#. description(libgarcon:libgarcon-branding-upstream)
+msgid "This package provides the upstream look and feel for garcon."
+msgstr ""
+
+#. description(kdeartwork4:kdeartwork4-desktopthemes)
+msgid ""
+"This package suggests the packages which are built from the kdeartwork "
+"module."
+msgstr ""
+
+#. description(kdedesktopcheck)
+msgid ""
+"This tool is intended for quality assurance of desktop files. It does many "
+"integrity checks on .desktop files, for example, whether icon and executable "
+"are defined and also installed on the system."
+msgstr ""
+
+#. description(ketchup)
+msgid ""
+"This tool synchronises a local kernel tree with a desired kernel ver- sion "
+"and patch set from a kernel.org mirror. The default requires a GPG key on "
+"your keyring, to verify the identity of the patches and source archives. "
+"Entire kernel images are not downloaded unless necessary, so bandwidth is "
+"saved. Patches are applied and removed as necessary to attain the requested "
+"version."
+msgstr ""
+
+#. summary(ketchup)
+msgid "Tool for downloading and updating Linux kernel source trees"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-tr)
+msgid "Turkish Translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-uk)
+msgid "Ukrainian Translations for KDE"
+msgstr ""
+
+#. summary(libgarcon:libgarcon-branding-upstream)
+msgid "Upstream Branding of garcon"
+msgstr ""
+
+#. summary(libgnomeprintui:libgnomeprintui-32bit)
+msgid "User Interface Part of the GNOME Printing Library"
+msgstr ""
+
+#. summary(lcms2:liblcms2-doc)
+msgid "User and developer documentation for lcms2"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-uz)
+msgid "Uzbek translations for KDE"
+msgstr ""
+
+#. summary(kde4-l10n:kde4-l10n-ca@valencia)
+msgid "Valencian (ca@valencia) translations for KDE"
+msgstr ""
+
+#. summary(kernel-source:kernel-source-vanilla)
+msgid "Vanilla Linux kernel sources with minor build fixes."
+msgstr ""
+
+#. description(kernel-source:kernel-source-vanilla)
+msgid ""
+"Vanilla Linux kernel sources with minor build fixes.\n"
+"\n"
+" Source Timestamp: 2012-07-30 23:41:12 +0200 GIT Revision: "
+"6d995bc7656eb24c5975a0bd1542911c462eef4c GIT Branch: master"
+msgstr ""
+
+#. description(agg:libagg2-32bit)
+msgid ""
+"Very fast and complete library to render SVG graphics. It provides a C++ "
+"interface."
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-vi)
+msgid "Vietnamese translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-wa)
+msgid "Walloon translations for KDE"
+msgstr ""
+
+#. summary(kde3-i18n:kde3-i18n-cy)
+msgid "Welsh Translations for KDE"
+msgstr ""
+
+#. summary(libGLw:libGLw1-32bit)
+msgid "Xt/Motif OpenGL drawing area widget library"
+msgstr ""
+
+#. description(libGLw:libGLw1-32bit)
+msgid ""
+"Xt/Motif OpenGL drawing area widget library shipped by the Mesa Project."
+msgstr ""
+
+#. description(csync:libcsync0-32bit)
+msgid ""
+"csync is an implementation of a file synchronizer which provides the feature "
+"of roaming home directories for Linux clients. csync makes use of "
+"libsmbclient in Samba/Windows environments."
+msgstr ""
+
+#. description(killswitch-applet)
+msgid ""
+"killswitch-applet is a small application sitting in the system tray "
+"providing the possibility to manage all the killswitches found in the "
+"system. In this context, \"managing\" means enabling or disabling certain "
+"killswitches. This is especially useful if you have multiple killswitches "
+"like bluetooth, WWAN or WLAN."
+msgstr ""
+
+#. summary(libavc1394:libavc1394-devel-32bit)
+msgid "libavc1394 is a programming interface to the AV/C specification"
+msgstr ""
+
+#. description(libavc1394:libavc1394-devel-32bit)
+msgid ""
+"libavc1394 is a programming interface to the AV/C specification from the "
+"1394 Trade Association. AV/C stands for Audio/Video Control. Currently, "
+"applications use the library to control the tape transport mechanism on DV "
+"camcorders. However, there are many devices and functions of devices that "
+"can be controlled via AV/C. Eventually, the library will be expanded to "
+"implement more of the specification and to provide high level interfaces to "
+"various devices."
+msgstr ""
+
+#. description(libdvbpsi:libdvbpsi7-32bit)
+msgid ""
+"libdvbpsi is a simple library designed for decoding and generating    MPEG "
+"TS and DVB PSI tables. Current features: * Program    Association Table "
+"(PAT), decoder and generator.\n"
+"\n"
+"* Program Map Table (PMT), decoder and generator.\n"
+"* All MPEG 2 descriptors, decoders and generators."
+msgstr ""
+
+#. description(libebml:libebml3-32bit)
+msgid ""
+"libebml is a C++ library to parse EBML files. See the EBML RFV at http://www."
+"matroska.org/technical/specs/rfc/."
+msgstr ""
+
+#. description(libmirage:libmirage-data)
+msgid ""
+"libmirage provides uniform access to the data stored in different image "
+"formats by creating a representation of disc stored in image file.\n"
+"\n"
+"This package contains the MIME type definitions and documentation."
+msgstr ""
+
+#. summary(kiwi:kiwi-doc)
+msgid "openSUSE - KIWI Image System Documentation"
+msgstr ""
+
+#. description(kde3-i18n:kde3-i18n-lv)
+msgid ""
+"the package contains Latvian translations for KDE applications and their "
+"documentation."
+msgstr ""
+
+#. description(kde-oxygen-fonts)
+msgid ""
+"‘Oxygen Font’ is a project to design a desktop/gui font for integrated use "
+"with the KDE desktop. The design is based on interpolations between ‘Muli’ "
+"and ‘FontOne’ that have been further shaped to reach a clear, legible font "
+"to use within the KDE gui.\n"
+"\n"
+"The basic concept for ‘Oxygen Font’ was to design a clear, legible, sans "
+"serif, that would be rendered with Freetype on Linux-based devices. The idea "
+"was to not quite follow a ‘purist’ line of sans serif typeface formulae, but "
+"to allow some juxtapositioning of font forms to give familiarity but also a "
+"sense of newness. A version of the font is also under development that is "
+"aimed to be a branding typeface for the desktop."
+msgstr ""

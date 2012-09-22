@@ -1,0 +1,4967 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2012-09-22 03:38:01\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. summary(gnome-games:glines)
+msgid "\"Five or More\" Game for GNOME"
+msgstr ""
+
+#. summary(ipa-fonts:ipa-gothic-fonts)
+msgid "\"Gothic\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. description(ipa-ex-fonts:ipa-ex-gothic-fonts)
+msgid ""
+"\"Gothic\" Japanese TrueType font made by IPA (Information-technology "
+"Promotion Agency)."
+msgstr ""
+
+#. summary(ipa-fonts:ipa-mincho-fonts)
+msgid "\"Mincho\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. description(ipa-ex-fonts:ipa-ex-mincho-fonts)
+msgid ""
+"\"Mincho\" Japanese TrueType font made by IPA (Information-technology "
+"Promotion Agency)."
+msgstr ""
+
+#. summary(ipa-fonts:ipa-pgothic-fonts)
+msgid "\"Proportional Gothic\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. description(ipa-fonts:ipa-pgothic-fonts)
+msgid ""
+"\"Proportional Gothic\" Japanese TrueType font made by IPA (Information-"
+"technology Promotion Agency)."
+msgstr ""
+
+#. summary(ipa-fonts:ipa-pmincho-fonts)
+msgid "\"Proportional Mincho\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. description(ipa-fonts:ipa-pmincho-fonts)
+msgid ""
+"\"Proportional Mincho\" Japanese TrueType font made by IPA (Information-"
+"technology Promotion Agency)."
+msgstr ""
+
+#. summary(ipa-uigothic-fonts)
+msgid "\"UI Gothic\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. description(ipa-uigothic-fonts)
+msgid ""
+"\"UI Gothic\" Japanese TrueType font made by IPA (Information-technology "
+"Promotion Agency)."
+msgstr ""
+
+#. summary(gio-sharp)
+#, fuzzy
+msgid ".NET/C# Bindings for GIO"
+msgstr "电源管理 (APM)"
+
+#. summary(gkeyfile-sharp)
+msgid ".NET/C# Bindings for GKeyFile"
+msgstr ""
+
+#. summary(gudev-sharp)
+msgid ".NET/C# Bindings for GUDev"
+msgstr ""
+
+#. summary(gtk-sharp2)
+msgid ".Net Language Bindings for GTK+"
+msgstr ""
+
+#. summary(gnome-doc-utils)
+msgid "A Collection of Documentation Utilities for GNOME"
+msgstr ""
+
+#. summary(gnome-applets)
+msgid "A Collection of Useful Programs for GNOME Panel"
+msgstr ""
+
+#. summary(id3v2)
+msgid "A Command Line Editor for ID3 V2 tags"
+msgstr ""
+
+#. summary(gperf)
+msgid "A Compiler Tool for Generating Perfect Hash Functions"
+msgstr ""
+
+#. summary(gucharmap:gucharmap-devel)
+#, fuzzy
+msgid "A Featureful Unicode Character Map -- Development Files"
+msgstr "KDE 开发"
+
+#. summary(hamster-applet)
+msgid "A GNOME panel applet to track where you spend your time"
+msgstr ""
+
+#. summary(galculator)
+msgid "A GTK 2 based calculator"
+msgstr ""
+
+#. summary(vim:gvim)
+msgid "A GUI for Vi"
+msgstr ""
+
+#. summary(gsynaptics)
+msgid "A Graphical Front-End for TouchPad Configuration"
+msgstr ""
+
+#. summary(ikvm)
+msgid "A JVM Based on the Mono Runtime"
+msgstr ""
+
+#. summary(id3lib)
+msgid "A Library for Manipulating ID3v1 and ID3v2 tags"
+msgstr ""
+
+#. summary(gcal)
+#, fuzzy
+msgid "A Program for Printing Calendars"
+msgstr "查看 PostScript 文件"
+
+#. summary(gv)
+#, fuzzy
+msgid "A Program to View PostScript Files"
+msgstr "查看 PostScript 文件"
+
+#. summary(ispell)
+msgid "A Spell Checker"
+msgstr ""
+
+#. description(git:git-gui)
+msgid ""
+"A Tcl/Tk based graphical user interface to Git. git-gui focuses on allowing "
+"users to make changes to their repository by making new commits, amending "
+"existing ones, creating branches, performing local merges, and fetching/"
+"pushing to remote repositories.\n"
+"\n"
+"Unlike gitk, git-gui focuses on commit generation and single file "
+"annotation, and does not show project history. It does however supply menu "
+"actions to start a gitk session from within git-gui."
+msgstr ""
+
+#. description(ibus-unikey)
+msgid "A Vietnamese engine for IBus input platform that uses Unikey."
+msgstr ""
+
+#. summary(gbrainy)
+msgid "A brain teaser game and trainer"
+msgstr ""
+
+#. description(gsettings-desktop-schemas:gsettings-desktop-schemas-devel)
+msgid ""
+"A collection of GSettings schemas for settings shared by various components "
+"of a desktop.\n"
+"\n"
+"This package contains development files."
+msgstr ""
+
+#. summary(gedit-plugins)
+#, fuzzy
+msgid "A collection of plugins for gedit"
+msgstr "包中含有意外的版本"
+
+#. description(graphviz)
+msgid ""
+"A collection of tools and tcl packages for the manipulation and layout of "
+"graphs (as in nodes and edges, not as in bar charts)."
+msgstr ""
+
+#. summary(giggle)
+#, fuzzy
+msgid "A graphical frontend for git"
+msgstr "图形环境"
+
+#. summary(libopenraw:gdk-pixbuf-loader-libopenraw)
+msgid "A library to decode digital camera RAW files -- gdk-pixbuf loader"
+msgstr ""
+
+#. description(gperf)
+msgid ""
+"A perfect hash function is simply: a hash function and a data structure that "
+"allows recognition of a key word in a set of words using exactly one probe "
+"into the data structure."
+msgstr ""
+
+#. summary(gnome-do)
+msgid "A powerful, speedy, and sexy remote control for your GNOME Desktop"
+msgstr ""
+
+#. description(gnu-free-fonts)
+msgid ""
+"A set of free outline (OpenType, for example) fonts covering the ISO 10646/"
+"Unicode UCS (Universal Character Set). The set consists of three typefaces: "
+"one monospaced and two proportional (one with uniform and one with modulated "
+"stroke)."
+msgstr ""
+
+#. description(gmixer)
+msgid ""
+"A simple gtk/gstreamer audio mixer, aimed to work with light desktop "
+"managers.\n"
+"\n"
+"Features:  - support all mixer plugins of gstreamer (alsa/oss/"
+"pulseaudio/...)  - tray icon support  - support special keys of multimedia "
+"keyboard."
+msgstr ""
+
+#. description(html2text)
+msgid ""
+"A tool for converting from HTML to ASCII. It can reasonably handle tables."
+msgstr ""
+
+#. description(gnuchess)
+msgid ""
+"A worthy chess opponent that runs in text mode. Find an X11 interface in the "
+"xboard package."
+msgstr ""
+
+#. summary(shared-color-profiles:icc-profiles-scp-yamma)
+msgid "Abstract color profiles"
+msgstr ""
+
+#. summary(ispell:ispell-american)
+msgid "American ispell dictionary"
+msgstr ""
+
+#. summary(gconf-editor)
+msgid "An Editor for the GConf Database System"
+msgstr ""
+
+#. summary(flim)
+msgid "An Emacs Library for MIME"
+msgstr ""
+
+#. summary(IPython)
+msgid "An Enhanced Interactive Python Shell"
+msgstr ""
+
+#. description(html2ps)
+msgid ""
+"An HTML to PostScript converter written in Perl.  Html2ps understands many "
+"of the HTML 4.0 features.\tFrom the home page (http://www.tdb.uu.se/~jan/"
+"html2ps.html):\n"
+"\n"
+"* Many ways to control the appearance; this is mostly done using    "
+"configuration files.\n"
+"\n"
+"* Support for processing multiple documents, can be done    automatically by "
+"recursively following links.\n"
+"\n"
+"* A table of contents can be generated, either from the links in a    "
+"document or automatically from document headings.\n"
+"\n"
+"* Configurable page headers and footers that can, for example,    contain "
+"document title, URL, page number, current heading, and    date.\n"
+"\n"
+"* Automatic hyphenation and text justification can be selected."
+msgstr ""
+
+#. summary(i4l-base:i4l-isdnlog)
+msgid "An ISDN line logging and control utility"
+msgstr ""
+
+#. summary(gthumb)
+msgid "An Image Viewer and Browser for GNOME"
+msgstr ""
+
+#. summary(gdk-pixbuf:gdk-pixbuf-devel)
+#, fuzzy
+msgid "An image loading library - Development Files"
+msgstr "KDE 开发"
+
+#. description(xiterm:gtkiterm)
+msgid "An internationalized terminal emulator for GTK."
+msgstr ""
+
+#. summary(intlfonts:intlfonts-arabic-bitmap-fonts)
+msgid "Arabic Fonts for the X Window System"
+msgstr ""
+
+#. description(intlfonts:intlfonts-arabic-bitmap-fonts)
+msgid "Arabic fonts for the X Window System."
+msgstr ""
+
+#. summary(shared-color-profiles:icc-profiles-scp-argyll)
+msgid "Argyll color profiles, with improved text"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-array)
+msgid ""
+"Array input method is a free, open-minded character-structured input method. "
+"Includes: array30: 27489 characters. array30-big: 27489 characters + Unicode "
+"ExtB."
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-array)
+msgid "Array input methods"
+msgstr ""
+
+#. summary(intlfonts:intlfonts-asian-bitmap-fonts)
+#, fuzzy
+msgid "Asian Fonts for the X Window System"
+msgstr "X 窗口系统"
+
+#. description(intlfonts:intlfonts-asian-bitmap-fonts)
+msgid "Asian fonts for the X Window System."
+msgstr ""
+
+#. description(gnome-backgrounds)
+msgid "Background images from the GNOME project."
+msgstr ""
+
+#. summary(irqbalance)
+msgid "Balance IRQs on SMP Machines"
+msgstr ""
+
+#. summary(intlfonts:intlfonts-chinese-big-bitmap-fonts)
+msgid "Big Chinese Fonts for the X Window System"
+msgstr ""
+
+#. description(intlfonts:intlfonts-chinese-big-bitmap-fonts)
+msgid "Big Chinese fonts for the X Window System."
+msgstr ""
+
+#. summary(intlfonts:intlfonts-japanese-big-bitmap-fonts)
+msgid "Big Japanese Fonts for the X Window System"
+msgstr ""
+
+#. description(intlfonts:intlfonts-japanese-big-bitmap-fonts)
+msgid "Big Japanese fonts for the X Window System."
+msgstr ""
+
+#. summary(ipa-bolditalic-fonts:ipa-gothic-bold-fonts)
+msgid "Bold Variant of \"Gothic\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. summary(ipa-bolditalic-fonts:ipa-pgothic-bold-fonts)
+msgid ""
+"Bold Variant of \"Proportional Gothic\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. description(ipa-bolditalic-fonts:ipa-gothic-bold-fonts)
+msgid ""
+"Bold variant of \"Gothic\" Japanese TrueType font made by IPA (Information-"
+"technology Promotion Agency)."
+msgstr ""
+
+#. description(ipa-bolditalic-fonts:ipa-pgothic-bold-fonts)
+msgid ""
+"Bold variant of \"Proportional Gothic\" Japanese TrueType font made by IPA "
+"(Information-technology Promotion Agency)."
+msgstr ""
+
+#. summary(ipa-bolditalic-fonts:ipa-gothic-bolditalic-fonts)
+msgid "Bold+Italic Variant of \"Gothic\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. summary(ipa-bolditalic-fonts:ipa-pgothic-bolditalic-fonts)
+msgid ""
+"Bold+Italic Variant of \"Proportional Gothic\" Japanese TrueType Font Made "
+"by IPA"
+msgstr ""
+
+#. description(ipa-bolditalic-fonts:ipa-gothic-bolditalic-fonts)
+msgid ""
+"Bold+Italic variant of \"Gothic\" Japanese TrueType font made by IPA "
+"(Information-technology Promotion Agency)."
+msgstr ""
+
+#. description(ipa-bolditalic-fonts:ipa-pgothic-bolditalic-fonts)
+msgid ""
+"Bold+Italic variant of \"Proportional Gothic\" Japanese TrueType font made "
+"by IPA (Information-technology Promotion Agency)."
+msgstr ""
+
+#. summary(dicts:ispell-brazilian)
+msgid "Brazilian ispell dictionary"
+msgstr ""
+
+#. summary(ispell:ispell-british)
+msgid "British ispell dictionary"
+msgstr ""
+
+#. summary(ispell-bulgarian)
+msgid "Bulgarian Ispell Dictionary"
+msgstr ""
+
+#. summary(gtk-sharp2:gtk-sharp2-gapi)
+msgid "C Source Parser and C Generator"
+msgstr ""
+
+#. summary(imake)
+#, fuzzy
+msgid "C preprocessor interface to the make utility"
+msgstr "内核接口"
+
+#. description(gio-sharp)
+#, fuzzy
+msgid "C#/CLI bindings for GIO"
+msgstr "电源管理 (APM)"
+
+#. description(gkeyfile-sharp)
+msgid "C#/CLI bindings for GKeyFile"
+msgstr ""
+
+#. description(gudev-sharp)
+#, fuzzy
+msgid "C#/CLI bindings for GUDev"
+msgstr "电源管理 (APM)"
+
+#. summary(glibmm2:glibmm2-devel)
+#, fuzzy
+msgid "C++ Interface for GLib"
+msgstr "启动时选择的接口："
+
+#. description(git:git-web)
+msgid ""
+"CGI script that allows browsing git repositories via web interface.\n"
+"\n"
+"The apache2 configuration contained in this package installs a virtual "
+"directory /git/ that calls the cgi script."
+msgstr ""
+
+#. description(ghostscript-cjk)
+msgid ""
+"CMaps, scripts, and other tools for using CJK TrueType fonts and CID-keyed "
+"fonts with Ghostscript."
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-cangjie)
+msgid "Cangjie based input methods"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-cangjie)
+msgid ""
+"Cangjie based input methods, includes: Cangjie3, Canjie5, and Cangjie big "
+"tables."
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-cantonese)
+msgid "Cantonese input methods"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-cantonese)
+msgid ""
+"Cantonese input methods, includes: Cantonese, Hong-Kong version of "
+"Cantonese, and jyutping."
+msgstr ""
+
+#. summary(dicts:ispell-catalan)
+msgid "Catalan ispell dictionary"
+msgstr ""
+
+#. summary(intlfonts:intlfonts-chinese-bitmap-fonts)
+msgid "Chinese Fonts for the X Window System"
+msgstr ""
+
+#. summary(gimp-help:gimp-help-zh)
+msgid "Chinese Help System Data for GIMP"
+msgstr ""
+
+#. description(intlfonts:intlfonts-chinese-bitmap-fonts)
+msgid "Chinese fonts for the X Window System."
+msgstr ""
+
+#. summary(gcin)
+msgid "Chinese input method server"
+msgstr ""
+
+#. summary(gpsd:gpsd-devel)
+msgid "Client libraries in C and Python for talking to a running gpsd or GPS"
+msgstr ""
+
+#. summary(frei0r-plugins)
+msgid "Collection of video sources and filters plugins"
+msgstr ""
+
+#. summary(gnome-color-manager)
+#, fuzzy
+msgid "Color management tools for GNOME"
+msgstr "电源管理 (APM)"
+
+#. summary(gnome-common)
+msgid "Common Files to Build GNOME"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-good:gstreamer-0_10-plugins-good-extra)
+msgid "Complementary plugins for gstreamer-0_10-plugins-good"
+msgstr ""
+
+#. summary(gnome-games:gnect)
+msgid "Connect Four Game for GNOME"
+msgstr ""
+
+#. description(vim:gvim)
+msgid ""
+"Copy and modify /usr/share/vim/current/gvimrc to ~/.gvimrc if needed.\n"
+"\n"
+"Package gvim contains the largest set of features of vim, which is graphical "
+"windows and language interpreter, like python, ruby, or perl. You need "
+"package vim for the help and other documentation too. If you want less "
+"features, you might want to install packages vim-enhanced or vim instead."
+msgstr ""
+
+#. summary(git:git-core)
+msgid "Core git tools"
+msgstr ""
+
+#. description(gcc47)
+msgid ""
+"Core package for the GNU Compiler Collection, including the C language "
+"frontend.\n"
+"\n"
+"Language frontends other than C are split to different sub-packages, namely "
+"gcc-ada, gcc-c++, gcc-fortran, gcc-java, gcc-objc and gcc-obj-c++."
+msgstr ""
+
+#. summary(help2man)
+msgid "Create Simple Man Pages from --help Output"
+msgstr ""
+
+#. summary(installation-images:install-initrd)
+#, fuzzy
+msgid "Create initrd for Installation"
+msgstr "硬盘安装"
+
+#. summary(google-croscore-fonts)
+msgid "Croscore fonts"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-engine-crux)
+msgid "Crux GTK+ 2 Theme Engine"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-theme-crux)
+msgid "Crux Theme for GTK+ 2"
+msgstr ""
+
+#. summary(dicts:ispell-czech)
+msgid "Czech ispell dictionary"
+msgstr ""
+
+#. summary(gimp-help:gimp-help-da)
+msgid "Danish Help System Data for GIMP"
+msgstr ""
+
+#. summary(dicts:ispell-danish)
+msgid "Danish ispell dictionary"
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-profiles-basiccolor-lstarrgb)
+msgid "Default Editing RGB profile"
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-profiles-lcms-lab)
+msgid "Default PCS profiles"
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-profiles-openicc-rgb)
+msgid "Default sRGB ICC profile +"
+msgstr ""
+
+#. description(ilmbase:ilmbase-devel)
+msgid ""
+"Devel files for ilmbase Base library for Industrial Light & Magic software "
+"(OpenEXR)."
+msgstr ""
+
+#. summary(fribidi:fribidi-devel)
+#, fuzzy
+msgid "Development Files for FriBiDi"
+msgstr "开发"
+
+#. summary(freetype2:freetype2-devel)
+#, fuzzy
+msgid "Development environment for the freetype2 TrueType font library"
+msgstr "用于服务器的 KDE 桌面环境"
+
+#. summary(ghostscript:ghostscript-devel)
+#, fuzzy
+msgid "Development files for Ghostscript"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(ggz-client-libs:ggz-client-libs-devel)
+#, fuzzy
+msgid "Development files for ggz-client-libs"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(glew:glew-devel)
+#, fuzzy
+msgid "Development files for glew"
+msgstr "开发"
+
+#. summary(glu:glu-devel)
+#, fuzzy
+msgid "Development files for the GLU API"
+msgstr "开发"
+
+#. summary(freeglut:freeglut-devel)
+msgid ""
+"Development libraries, includes and man pages for freeglut (GLUT Library)"
+msgstr ""
+
+#. summary(ImageMagick:ImageMagick-doc)
+msgid "Document Files for ImageMagick Library"
+msgstr ""
+
+#. description(html-dtd)
+msgid ""
+"Document Type Definitions (DTDs) for HTML 2.0, HTML 3.2, HTML 4.0, and HTML "
+"4.01.  This package also contains the documentation (located in /usr/share/"
+"doc/packages/html-dtd)."
+msgstr ""
+
+#. description(getdata:getdata-doc)
+#, fuzzy
+msgid "Documentation and manuals for the GetData library."
+msgstr "7.0 文档"
+
+#. summary(igerman98:igerman98-doc)
+msgid "Documentation for German dictionaries"
+msgstr ""
+
+#. description(igerman98:igerman98-doc)
+msgid ""
+"Documentation for German, Swiss, and Austrian dictionaries for the ispell, "
+"aspell and myspell spell checkers."
+msgstr ""
+
+#. summary(getdata:getdata-doc)
+#, fuzzy
+msgid "Documentation for GetData"
+msgstr "7.0 文档"
+
+#. summary(gcc47:gcc47-info)
+#, fuzzy
+msgid "Documentation for the GNU compiler collection"
+msgstr "等待导航栏应用程序"
+
+#. summary(intlfonts)
+msgid "Documentation for the International Fonts"
+msgstr ""
+
+#. summary(fxload)
+msgid "Download Firmware into USB FX and FX2 Devices"
+msgstr ""
+
+#. summary(gimp-help:gimp-help-nl)
+msgid "Dutch Help System Data for GIMP"
+msgstr ""
+
+#. summary(dicts:ispell-dutch)
+msgid "Dutch ispell dictionary"
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-easy)
+msgid "Easy input method"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-easy)
+msgid "Easy phrase-wise input method."
+msgstr ""
+
+#. description(git:git-email)
+msgid "Email interface for the GIT version control system."
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-erbi)
+msgid "Erbi input method"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-erbi)
+msgid ""
+"Erbi input methods. Includes: Super Erbi (as erbi) and  Erbi Qin-Song (erbi-"
+"qs)"
+msgstr ""
+
+#. summary(dicts:ispell-estonian)
+msgid "Estonian ispell dictionary"
+msgstr ""
+
+#. summary(intlfonts:intlfonts-ethiopic-bitmap-fonts)
+msgid "Ethiopic Fonts for the X Window System"
+msgstr ""
+
+#. description(intlfonts:intlfonts-ethiopic-bitmap-fonts)
+msgid "Ethiopic fonts for the X Window System."
+msgstr ""
+
+#. summary(gtk-sharp-beans)
+msgid "Extra Gtk# bindings"
+msgstr ""
+
+#. summary(gnome-games-extra-data)
+msgid "Extra data files for GNOME Games"
+msgstr ""
+
+#. description(f-spot)
+msgid ""
+"F-Spot is a full-featured personal photo management application for the "
+"GNOME desktop.\n"
+"\n"
+"F-Spot simplifies digital photography by providing intuitive tools to help "
+"you share, touch-up, find and organize your images."
+msgstr ""
+
+#. description(fdupes)
+msgid ""
+"FDUPES is a program for identifying or deleting duplicate files residing "
+"within specified directories"
+msgstr ""
+
+#. summary(flac:flac-devel)
+#, fuzzy
+msgid "FLAC Library Development Package"
+msgstr "KDE 开发"
+
+#. description(flac)
+msgid "FLAC is an open source lossless audio codec developed by Josh Coalson."
+msgstr ""
+
+#. description(flex)
+msgid ""
+"FLEX is a tool for generating scanners: programs that recognize lexical "
+"patterns in text."
+msgstr ""
+
+#. summary(shared-color-profiles:icc-profiles-scp-fogra)
+msgid "FOGRA 27L color profile"
+msgstr ""
+
+#. summary(fvwm-themes)
+#, fuzzy
+msgid "FVWM Configuration Framework"
+msgstr "查看配置"
+
+#. description(fvwm-themes)
+msgid ""
+"FVWM Themes is a powerful configuration framework for FVWM, designed to be "
+"easily extendable and configurable.\tIt includes several prebuilt themes and "
+"a pack of images and sounds."
+msgstr ""
+
+#. description(fvwm2)
+msgid ""
+"FVWM is a virtual desktop window manager for the X Window System.\n"
+"\n"
+"FVWM is intended to have a small memory footprint but a rich feature set, to "
+"be extremely customizable and extendible, and to be very compatible with the "
+"Motif MWM."
+msgstr ""
+
+#. summary(flex)
+msgid "Fast Lexical Analyzer Generator"
+msgstr ""
+
+#. summary(git)
+msgid "Fast, scalable, distributed revision control system"
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-cn-wubi-large)
+msgid ""
+"Fcitx Wubi (Wu Bi Zi Xing) table with large character set for Simplified "
+"Chinese.\n"
+"\n"
+"Wubi in Fcitx is based on wubi x86."
+msgstr ""
+
+#. summary(haveged)
+msgid "Feed entropy into random pool"
+msgstr ""
+
+#. description(fetchmail)
+msgid ""
+"Fetchmail is a robust and well-documented remote mail retrieval and "
+"forwarding utility intended to be used over on-demand TCP/IP links (such as "
+"SLIP or PPP connections).\n"
+"\n"
+"Fetchmail retrieves mail from remote mail servers and forwards it to your "
+"local machine's delivery system, so it can be read by normal mail user "
+"agents, such as mutt, elm, pine, (x)emacs/gnus, or mailx.\n"
+"\n"
+"fetchmailconf, an interactive GUI configurator suitable for end-users, is "
+"included in the fetchmailconf package."
+msgstr ""
+
+#. summary(hunspell:hunspell-devel)
+#, fuzzy
+msgid "Files for developing with hunspell"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. description(finger)
+msgid ""
+"Finger is a utility that allows users to see information about system users "
+"(login name, home directory, name, and more) on local and remote systems."
+msgstr ""
+
+#. summary(dicts:ispell-finnish)
+msgid "Finnish ispell dictionary"
+msgstr ""
+
+#. description(gnome-games:glines)
+msgid ""
+"Five or More is a game where one must align colored pieces as the board gets "
+"filled with randomly placed pieces. When five or more pieces of the same "
+"color get lined up, they disappear. The game ends when the board gets filled "
+"up all the way.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(flickrnet)
+msgid "Flickr"
+msgstr ""
+
+#. summary(kiten:fonts-KanjiStrokeOrders)
+msgid "Font for learning Japanese Kanji"
+msgstr ""
+
+#. summary(fifth-leg-font)
+msgid "Font for the openSUSE Brand"
+msgstr ""
+
+#. summary(icecream)
+#, fuzzy
+msgid "For Distributed Compile in the Network"
+msgstr "Icecream 分布式编译守护程序"
+
+#. description(flim)
+msgid "For coding and decoding MIME messages."
+msgstr ""
+
+#. summary(iscan-free)
+msgid "Free Image Scan Version with epkowa Driver for Epson Scanners"
+msgstr ""
+
+#. summary(flac)
+msgid "Free Lossless Audio Codec"
+msgstr ""
+
+#. summary(gnu-free-fonts)
+msgid "Free UCS Outline Fonts"
+msgstr ""
+
+#. description(google-croscore-fonts)
+msgid ""
+"Free fonts which are metric compatible to \"Arial\", \"Times New Roman\" and "
+"\"Courier New\". Croscore fonts are based on Liberation fonts and extends "
+"it's glyph coverage."
+msgstr ""
+
+#. description(freerdp)
+msgid ""
+"FreeRDP is a client-side implementation of the Remote Desktop Protocol (RDP) "
+"following the Microsoft Open Specifications. This package provides the "
+"client application."
+msgstr ""
+
+#. summary(ft2demos)
+msgid "Freetype2 Utilities and Demo Programs"
+msgstr ""
+
+#. description(ft2demos)
+msgid "Freetype2 utilities and demo programs."
+msgstr ""
+
+#. summary(dicts:ispell-french)
+msgid "French ispell dictionary"
+msgstr ""
+
+#. description(frink)
+msgid ""
+"Frink is a Tcl formatting and static check program. It can prettify your "
+"program, and minimize, obfuscate, or sanity check it. It can also do some "
+"rewriting.\n"
+"\n"
+"See /usr/share/doc/packages/frink/README and the output of \"frink -h\" for "
+"details."
+msgstr ""
+
+#. description(frogr)
+msgid ""
+"Frogr is a small application for the GNOME desktop that allows users to "
+"manage their accounts in the Flickr image hosting website. It supports all "
+"the basic Flickr features, including uploading pictures, adding "
+"descriptions, setting tags and managing sets and groups pools."
+msgstr ""
+
+#. summary(fetchmail)
+msgid "Full-Featured POP and IMAP Mail Retrieval Daemon"
+msgstr ""
+
+#. description(gegl:gegl-0_2)
+msgid ""
+"GEGL provides infrastructure to do demand based cached non destructive image "
+"editing on larger than RAM buffers. Through babl it provides support for a "
+"wide range of color models and pixel storage formats for input and output."
+msgstr ""
+
+#. description(gftp)
+msgid ""
+"GFTP is a free multithreaded file transfer client for *NIX based machines, "
+"with advanced features."
+msgstr ""
+
+#. description(ghex)
+msgid ""
+"GHex allows the user to load data from any file and to view and edit it in "
+"either hex or ASCII. It is a must for anyone playing games that use a non-"
+"ASCII format for saving."
+msgstr ""
+
+#. description(gimp-help)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs."
+msgstr ""
+
+#. description(gimp-help:gimp-help-zh)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Chinese data for gimp-help."
+msgstr ""
+
+#. description(gimp-help:gimp-help-da)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Danish data for gimp-help."
+msgstr ""
+
+#. description(gimp-help:gimp-help-nl)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Dutch data for gimp-help."
+msgstr ""
+
+#. description(gimp-help:gimp-help-de)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides German data for gimp-help."
+msgstr ""
+
+#. description(gimp-help:gimp-help-ja)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Japanese data for gimp-help."
+msgstr ""
+
+#. description(gimp-help:gimp-help-ko)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Korean data for gimp-help."
+msgstr ""
+
+#. description(gimp-help:gimp-help-nn)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Norwegian Nynorsk data for gimp-help."
+msgstr ""
+
+#. description(gimp-help:gimp-help-ru)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Russian data for gimp-help."
+msgstr ""
+
+#. description(gimp-help:gimp-help-es)
+msgid ""
+"GIMP-Help is a help system designed for use with the internal GIMP help "
+"browser, external Web browser and HTML renderers, and human eyeballs.\n"
+"\n"
+"This package provides Spanish data for gimp-help."
+msgstr ""
+
+#. description(glu:glu-devel)
+msgid ""
+"GLU offers simple interfaces for building mipmaps; checking for the presence "
+"of extensions in the OpenGL (or other libraries which follow the same "
+"conventions for advertising extensions); drawing piecewise-linear curves, "
+"NURBS, quadrics and other primitives (including, but not limited to, "
+"teapots); tesselating surfaces; setting up projection matrices and "
+"unprojecting screen coordinates to world coordinates.\n"
+"\n"
+"This package contains includes headers and static libraries for compiling "
+"programs with GLU."
+msgstr ""
+
+#. description(glib2:glib2-devel)
+msgid ""
+"GLib is a general-purpose utility library, which provides many useful data "
+"types, macros, type conversions, string utilities, file utilities, a main "
+"loop abstraction, and so on.\n"
+"\n"
+"This package contains the development files for GLib."
+msgstr ""
+
+#. summary(gnome-backgrounds)
+msgid "GNOME Backgrounds"
+msgstr ""
+
+#. summary(ghex)
+#, fuzzy
+msgid "GNOME Binary Editor"
+msgstr "主监视器："
+
+#. description(gnome-color-manager)
+msgid ""
+"GNOME Color Manager is a session framework that makes it easy to manage, "
+"install and generate color profiles in the GNOME desktop."
+msgstr ""
+
+#. description(gnome-commander)
+msgid ""
+"GNOME Commander is a nice and fast file manager for the GNOME desktop. In "
+"addition to basic file manager functions, the program is also an FTP client "
+"and can browse SMB networks."
+msgstr ""
+
+#. description(gnome-do)
+msgid ""
+"GNOME Do allows you to quickly search for many objects present in your GNOME "
+"desktop environment (applications, Evolution contacts, Firefox bookmarks, "
+"files, artists and albums in Rhythmbox, Pidgin buddies) and perform commonly "
+"used commands on those objects (Run, Open, Email, Chat, Play, etc.).\n"
+"\n"
+"GNOME Do is inspired by Quicksilver (http://quicksilver.blacktree.com) and "
+"GNOME Launch Box (http://developer.imendio.com/projects/gnome-launch-box)."
+msgstr ""
+
+#. description(gnome-do-plugins)
+msgid ""
+"GNOME Do allows you to quickly search for many objects present in your GNOME "
+"desktop environment (applications, Evolution contacts, Firefox bookmarks, "
+"files, artists and albums in Rhythmbox, Pidgin buddies) and perform commonly "
+"used commands on those objects (Run, Open, Email, Chat, Play, etc.).\n"
+"\n"
+"This package contains various plugins for GNOME Do."
+msgstr ""
+
+#. summary(gnome-media)
+msgid "GNOME Multimedia (Media)"
+msgstr ""
+
+#. summary(f-spot)
+#, fuzzy
+msgid "GNOME Photo Management Application"
+msgstr "选择应用程序"
+
+#. summary(gnome-devel-docs)
+#, fuzzy
+msgid "GNOME Platform Documentation"
+msgstr "7.0 文档"
+
+#. description(gnome-games)
+msgid ""
+"GNOME games is a collection of simple, but addictive, games from the GNOME "
+"desktop project. They represent many of the popular games and include card "
+"games, puzzle games and arcade games. They are meant to be the sort of game "
+"that can be played in five minutes or so. They are also meant to be fun "
+"enough that you will play them again and again. Of course we can't be held "
+"responsible for the time and productivity lost while playing them."
+msgstr ""
+
+#. summary(gnome-online-accounts:gnome-online-accounts-devel)
+#, fuzzy
+msgid "GNOME service to access online accounts -- Development Files"
+msgstr "GNOME 开发"
+
+#. summary(gnuchess)
+msgid "GNU Chess Program"
+msgstr ""
+
+#. description(gnu-jaf)
+msgid ""
+"GNU JAF is a framework for declaring what beans operate on what MIME type "
+"data. Content handler beans can be defined to handle particular MIME "
+"content. The JAF unites internet standards for declaring content with "
+"JavaBeans. The JAF defines two mechanisms within the framework. The first, "
+"the file type map, specifies the MIME content type for a given file. The "
+"default implementation of this uses the UNIX mime.types format to map "
+"filename extensions to MIME types. The second mechanism, the command map, "
+"specifies the actions that can be applied to a given MIME content type. The "
+"default implementation of this uses the standard mailcap format to map "
+"actions to JavaBean&#8482; classes. These beans can then view, edit, print, "
+"or perform whatever other action is required on the underlying resource."
+msgstr ""
+
+#. summary(gcc47:gcc47-objc)
+#, fuzzy
+msgid "GNU Objective C Compiler"
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gsl)
+msgid "GNU Scientific Library"
+msgstr ""
+
+#. summary(gsl:gsl-devel)
+#, fuzzy
+msgid "GNU Scientific Library - development files"
+msgstr "内核接口"
+
+#. summary(gnu-jaf)
+msgid "GNU implementation of the JavaBeans Activation Framework"
+msgstr ""
+
+#. description(gcc47:gcc47-info)
+msgid ""
+"GNU info-pages for the GNU compiler collection covering both user-level and "
+"internals documentation."
+msgstr ""
+
+#. summary(gobject-introspection:gobject-introspection-devel)
+#, fuzzy
+msgid "GObject Introspection Development Files"
+msgstr "XF86Messenger"
+
+#. summary(gobject-introspection)
+msgid "GObject Introspection Tools"
+msgstr ""
+
+#. summary(grub2:grub2-efi)
+msgid "GRUB2 for EFI systems"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-good:gstreamer-0_10-plugin-esd)
+msgid "GStreamer Streaming-Media Framework Plug-Ins -- EsounD plugin"
+msgstr ""
+
+#. summary(gtk2-engines)
+msgid "GTK+ 2 Theme Engines"
+msgstr ""
+
+#. summary(gtk-doc)
+msgid "GTK+ DocBook Documentation Generator"
+msgstr ""
+
+#. summary(gtksourceview:glade-catalog-gtksourceview)
+msgid "GTK+ Source Editing Widget -- Catalog for Glade"
+msgstr ""
+
+#. summary(gtk-sharp2:gtk-sharp2-complete)
+msgid "GTK+ and GNOME bindings for Mono (virtual package)"
+msgstr ""
+
+#. description(gtk2:gtk2-devel)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package contains the development files for GTK+ 2.x."
+msgstr ""
+
+#. description(gtk3:gtk3-devel)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package contains the development files for GTK+ 3.x."
+msgstr ""
+
+#. description(gtk2:gtk2-immodule-xim)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides an input method based on the X Input Method."
+msgstr ""
+
+#. description(gtk2:gtk2-immodules-tigrigna)
+msgid ""
+"GTK+ is a multi-platform toolkit for creating graphical user interfaces. "
+"Offering a complete set of widgets, GTK+ is suitable for projects ranging "
+"from small one-off projects to complete application suites.\n"
+"\n"
+"This package provides two input methods for Tigrigna."
+msgstr ""
+
+#. summary(imhangul)
+msgid "GTK+-2.0 Hangul Input Modules"
+msgstr ""
+
+#. description(imhangul)
+msgid "GTK+-2.0 Hangul input modules."
+msgstr ""
+
+#. description(gv)
+msgid ""
+"GV offers you an X Window System GUI for viewing PostScript files. This is "
+"an X Window System interface to ghostscript."
+msgstr ""
+
+#. description(galculator)
+msgid ""
+"Galculator is a GTK 2 based calculator with ordinary notation/reverse polish "
+"notation, a formula entry mode, different number bases (DEC, HEX, OCT, BIN) "
+"and different units of angular measure (DEG, RAD, GRAD)."
+msgstr ""
+
+#. summary(gnome-games)
+msgid "Games for GNOME"
+msgstr ""
+
+#. description(gcal)
+msgid ""
+"Gcal is a program for printing calendars.  Gcal displays a calendar for a "
+"month or a year, eternal holiday lists, and fixed date lists.  The program "
+"correctly omits the dates that were skipped when the current Gregorian "
+"calendar replaced the earlier Julian calendar."
+msgstr ""
+
+#. summary(gcin:gcin-anthy-module)
+msgid "Gcin anthy module"
+msgstr ""
+
+#. summary(gcin:gcin-chewing-module)
+msgid "Gcin chewing module"
+msgstr ""
+
+#. summary(gcin:gcin-gtk3-immodule)
+msgid "Gcin gtk3 immodule"
+msgstr ""
+
+#. summary(gcin:gcin-qt4-immodule)
+msgid "Gcin qt4 immodule"
+msgstr ""
+
+#. description(gconf-editor)
+msgid ""
+"Gconf-editor allows you to view and edit the values that are stored in the "
+"gconf database. This database is used for application settings in the GNOME "
+"Desktop Environment."
+msgstr ""
+
+#. summary(glib2:glib2-devel)
+#, fuzzy
+msgid "General-Purpose Utility Library -- Development Files"
+msgstr "开发"
+
+#. summary(gegl:gegl-0_2)
+msgid "Generic Graphics Library"
+msgstr ""
+
+#. description(GeoIP)
+msgid ""
+"GeoIP is a C library that enables the user to find the country that any IP "
+"address or hostname originates from.  It uses a file based database.  This "
+"database simply contains IP blocks as keys, and countries as values.  This "
+"database should be more complete and accurate than using reverse DNS "
+"lookups.\n"
+"\n"
+"MaxMind offers a service where you can have your database updated "
+"automically each month."
+msgstr ""
+
+#. summary(gimp-help:gimp-help-de)
+#, fuzzy
+msgid "German Help System Data for GIMP"
+msgstr "收藏的应用程序"
+
+#. summary(dicts:ispell-german)
+msgid "German ispell dictionary"
+msgstr ""
+
+#. summary(geronimo-specs:geronimo-j2ee-1_4-apis)
+msgid "Geronimo J2EE server J2EE specifications"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-j2ee-1_4-apis)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: J2EE Specification (the complete set in one jar)"
+msgstr ""
+
+#. description(geronimo-specs:geronimo-specs-poms)
+msgid ""
+"Geronimo is Apache's ASF-licenced J2EE server project. These are the J2EE-"
+"Specifications: The Project Object Model files for the geronimo-specs "
+"modules."
+msgstr ""
+
+#. description(gtg)
+msgid ""
+"Getting Things GNOME! (GTG) is a personal organizer for the GNOME desktop "
+"environment inspired by the Getting Things Done (GTD) methodology. GTG is "
+"designed with flexibility, adaptability, and ease of use in mind so it can "
+"be used as more than just GTD software.\n"
+"\n"
+"GTG is intended to help you track everything you need to do and need to "
+"know, from small tasks to large projects."
+msgstr ""
+
+#. description(giggle)
+msgid ""
+"Giggle is a Gtk frontend to the git content tracker.\n"
+"\n"
+"With Giggle you will be able to visualize and browse easily the revision "
+"tree, view changed files and differences between revisions, visualize "
+"summarized info for the project, commit changes and other useful tasks for "
+"any git managed projects contributor."
+msgstr ""
+
+#. summary(git:git-web)
+msgid "Git Web Interface"
+msgstr ""
+
+#. description(git:git-core)
+msgid ""
+"Git is a fast, scalable, distributed revision control system with an "
+"unusually rich command set that provides both high-level operations and full "
+"access to internals.\n"
+"\n"
+"These are the core tools with minimal dependencies."
+msgstr ""
+
+#. description(git)
+msgid ""
+"Git is a fast, scalable, distributed revision control system with an "
+"unusually rich command set that provides both high-level operations and full "
+"access to internals.\n"
+"\n"
+"This package itself only provides the README of git but with the packages it "
+"requires, it brings you a complete Git environment including GTK and email "
+"interfaces and tools for importing source code repositories from other "
+"revision control systems such as subversion, CVS, and GNU arch."
+msgstr ""
+
+#. summary(gitg)
+msgid "Git repository viewer"
+msgstr ""
+
+#. summary(git:gitk)
+msgid "Git revision tree visualiser"
+msgstr ""
+
+#. summary(git:git-cvs)
+msgid "Git tools for importing CVS repositories"
+msgstr ""
+
+#. summary(git:git-svn)
+msgid "Git tools for importing Subversion repositories"
+msgstr ""
+
+#. summary(git:git-email)
+msgid "Git tools for sending email"
+msgstr ""
+
+#. description(glade)
+msgid ""
+"Glade is a RAD tool to enable quick & easy development of user interfaces "
+"for the Gtk+ toolkit and the GNOME desktop environment."
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-engine-glide)
+msgid "Glide GTK+ 2 Theme Engine"
+msgstr ""
+
+#. description(gnome-common)
+msgid ""
+"Gnome-common includes files used by to build GNOME and GNOME applications."
+msgstr ""
+
+#. description(gnonlin:gstreamer-0_10-plugin-gnonlin)
+msgid ""
+"Gnonlin is a library built on top of GStreamer, which provides support for "
+"writing non-linear audio and video editing applications. It introduces the "
+"concept of a timeline."
+msgstr ""
+
+#. description(gnucash)
+msgid ""
+"GnuCash is a personal finance manager. A check book-like register GUI allows "
+"you to enter and track bank accounts, stocks, income, and even currency "
+"trades. A full set of reports allows you to see the state of your finances. "
+"The interface is designed to be simple and easy to use, but is backed with "
+"double-entry accounting principles to ensure balanced books."
+msgstr ""
+
+#. description(gnumeric)
+msgid ""
+"Gnumeric is a spreadsheet application with advanced features and analytics.  "
+"It aims to minimize the cost of transition from proprietary spreadsheets by "
+"offering a familiar look and feature set.  In addition to read and write "
+"support for all versions of Microsoft Excel (including reading encrypted "
+"files), there is also support for many other formats including:\n"
+"\n"
+"*Applix 4 and 5 *DIF *Lotus-123 (wk1, wk2, wk3) *OpenOffice.org (Oasis)\n"
+"*PlanPerfect (pln) *Psion5 *Quattro Pro (wb1, wb2, wb3) *SYLK\n"
+"*XBase/DB3\n"
+"\n"
+"Text formats, such as comma or tab separated values, HTML, XHTML, and Latex, "
+"are supported and there are powerful assistants to handle custom needs.\n"
+"\n"
+"Gnumeric is part of the GNOME project."
+msgstr ""
+
+#. summary(gdata-sharp)
+msgid "Google GData .NET Client Library"
+msgstr ""
+
+#. description(ibus-googlepinyin)
+msgid ""
+"GooglePinyin ===\n"
+"\n"
+"libgooglepinyin is a fork of Google Pinyin on Android, it features to have "
+"excellent input experience and uses little resource.\n"
+"\n"
+"== This package is for IBus to use libgooglepinyin."
+msgstr ""
+
+#. summary(graphviz)
+#, fuzzy
+msgid "Graph Visualization Tools"
+msgstr "XEN 虚拟化"
+
+#. description(GraphicsMagick:GraphicsMagick-devel)
+msgid ""
+"GraphicsMagick(TM) provides a powerful image manipulation and translation "
+"utility. It is capable of displaying still images and animations using the X "
+"Window system, provides a simple interface for interactively editing images, "
+"and is capable of importing selected windows or the entire desktop. "
+"GraphicsMagick can read and write over 88 image formats, including JPEG, "
+"TIFF, WMF, SVG, PNG, PNM, GIF, and Photo CD. It can resize, rotate, sharpen, "
+"color reduce, or add special effects to the image and save the result to any "
+"supported format. GraphicsMagick may be used to create animated or "
+"transparent .gifs, create composite images, create thumbnail images, and "
+"much, much, more."
+msgstr ""
+
+#. summary(graphviz-plugins:graphviz-gd)
+msgid "Graphviz plugin for renderers based on gd"
+msgstr ""
+
+#. summary(graphviz-plugins:graphviz-gnome)
+msgid "Graphviz plugins that use gtk/GNOME"
+msgstr ""
+
+#. description(graphviz-plugins:graphviz-gnome)
+msgid "Graphviz plugins that use gtk/GNOME."
+msgstr ""
+
+#. summary(git:git-gui)
+msgid "Grapical tool for common git operations"
+msgstr ""
+
+#. description(git:gitk)
+msgid ""
+"Grapical tool for visualization of revision trees of projects maintained in "
+"the Git version control system. It name gitk indicates that it's written "
+"using the Tk Widget set.\n"
+"\n"
+"A simple Tk based graphical interface for common Git operations is found in "
+"the package git-gui."
+msgstr ""
+
+#. summary(dicts:ispell-greek)
+msgid "Greek ispell dictionary"
+msgstr ""
+
+#. description(grepmail)
+msgid ""
+"Grepmail searches a normal, gzipped, bzipped, or tzipped mailbox for a given "
+"regular expression, and returns any e-mails that match that expression. "
+"Piped input is allowed and date restrictions are supported."
+msgstr ""
+
+#. description(grisbi)
+msgid ""
+"Grisbi is a personal accounting application, aiming at providing the most "
+"simple and intuitive software for basic use, although it can be very "
+"powerful if you spend a little time on the setup.\n"
+"\n"
+"One notable feature is that it respects French accounting rules."
+msgstr ""
+
+#. description(gtk-sharp-beans)
+msgid ""
+"Gtk# Beans aims to fill the gap between the current Gtk# packages state and "
+"all the blings and desktop integration stuffs anyone would want to use.\n"
+"\n"
+"It builds on top of Gtk# and extend it by adding new classes and extension "
+"methods."
+msgstr ""
+
+#. description(gtk-sharp2:gtk-sharp2-complete)
+msgid ""
+"Gtk# is a library that allows you to build fully native graphical GNOME "
+"applications using Mono. Gtk# is a binding to GTK+, the cross platform user "
+"interface toolkit used in GNOME. It includes bindings for Gtk, Atk, Pango, "
+"Gdk, libgnome, libgnomeui and libgnomecanvas.  (Virtual package which "
+"depends on all gtk-sharp2 subpackages)"
+msgstr ""
+
+#. summary(gtksourceview-sharp2)
+msgid "GtkSourceView bindings for Mono"
+msgstr ""
+
+#. description(gtksourceview:glade-catalog-gtksourceview)
+msgid ""
+"GtkSourceView is a text widget that extends GtkTextView, the standard GTK+ "
+"text widget.\n"
+"\n"
+"It improves GtkTextView by implementing syntax highlighting and other "
+"features typical of a source editor.\n"
+"\n"
+"This package provides a catalog for Glade, to allow the use the "
+"GtkSourceView widget in Glade."
+msgstr ""
+
+#. description(gtk-doc)
+msgid ""
+"Gtkdoc is a set of Perl scripts that generate API reference documentation in "
+"DocBook format.  It can extract documentation from source code comments in a "
+"manner similar to Java-doc.  It is used to generate the documentation for "
+"GLib, Gtk+, and GNOME."
+msgstr ""
+
+#. description(gwenhywfar:gwenhywfar-devel)
+msgid ""
+"Gwenhywfar is a base library used to provide OS abstraction functions for "
+"Linux, FreeBSD, OpenBSD, NetBSD, and Windows. It also includes some often "
+"needed functions (e.g. for handling and parsing of configuration files, "
+"reading/writing of XML files, interprocess communication etc)."
+msgstr ""
+
+#. description(gwibber)
+msgid ""
+"Gwibber is an open source microblogging client for GNOME developed with "
+"Python, GTK and WebKit. It supports Twitter, identi.ca, Jaiku, Facebook, "
+"Pownce, Flickr and Digg."
+msgstr ""
+
+#. description(hfsutils)
+msgid ""
+"HFS is the Hierarchical File System used on modern Macintosh computers. With "
+"this package, you can read and write Macintosh-formatted media, such as "
+"floppy disks, CD-ROMs, and SCSI hard disks on most UNIX platforms. You can "
+"also format raw media into an HFS volume."
+msgstr ""
+
+#. summary(hplip)
+msgid "HP's Printing, Scanning, and Faxing Software"
+msgstr ""
+
+#. description(hplip:hplip-hpijs)
+msgid ""
+"HPIJS is HPLIP's Ghostscript printer driver for HP printers. HPCUPS is "
+"HPLIP's native CUPS printer driver for HP printers.\n"
+"\n"
+"This sub-package includes only what is needed for plain printing with the "
+"printer drivers in HPLIP for standard HP printers.\n"
+"\n"
+"It does neither provide device status information, nor support for scanning, "
+"nor support for faxing, nor support for memory card (mass storage) access, "
+"nor support for non-standard devices e.g. no support for devices which "
+"require an additional plugin from HP.\n"
+"\n"
+"This sub-package includes in particular:\n"
+"\n"
+"The hpijs binary and the libraries libhpip and libhpmud which are needed to "
+"run it.\n"
+"\n"
+"The HPCUPS driver (/usr/lib[64]/cups/filter/hpcups).\n"
+"\n"
+"The CUPS backend \"hp\".\n"
+"\n"
+"All HPLIP PPD files (also for HP PostScript printers).\n"
+"\n"
+"For the full-featured HPLIP printing and scanning solution, the main-package "
+"package hplip must be installed.\n"
+"\n"
+"For full documentation and license see the main-package hplip."
+msgstr ""
+
+#. summary(html-dtd)
+msgid "HTML DTDs (Document Type Definitions) and Documents"
+msgstr ""
+
+#. summary(htmldoc)
+msgid "HTML Processor that Generates HTML, PostScript, and PDF Files"
+msgstr ""
+
+#. description(ImageMagick:ImageMagick-doc)
+msgid "HTML documentation for ImageMagick library and scene examples."
+msgstr ""
+
+#. summary(html2text)
+msgid "HTML to ASCII Converter"
+msgstr ""
+
+#. summary(html2ps)
+#, fuzzy
+msgid "HTML to PostScript Converter"
+msgstr "PostScript 查看器"
+
+#. description(htmldoc)
+msgid ""
+"HTMLDOC converts HTML source files into indexed HTML, PostScript, or "
+"Portable Document Format (PDF) files that can be viewed online or printed."
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-wubi-haifeng)
+msgid "Haifeng Wubi input method"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-wubi-haifeng)
+msgid "Haifeng Wubi input methods. Current includes: Haifeng Wubi 86."
+msgstr ""
+
+#. summary(hwinfo:hwinfo-devel)
+#, fuzzy
+msgid "Hardware Detection Library"
+msgstr "SUSE 硬件检测"
+
+#. summary(itcl:itcl-devel)
+msgid "Header Files and C API Documentation for Itcl"
+msgstr ""
+
+#. description(getdata:getdata-devel)
+msgid ""
+"Headers required when building a program against the GetData library. "
+"Includes C++ and FORTRAN (77 & 95) bindings."
+msgstr ""
+
+#. summary(getdata:getdata-devel)
+msgid "Headers required when building programs against GetData"
+msgstr ""
+
+#. summary(gimp-help)
+msgid "Help System Data for GIMP"
+msgstr ""
+
+#. description(gedit-plugins)
+msgid ""
+"Here follows a list of plugins currently available in gedit-plugins:\n"
+"\n"
+" * Bracket Completion Add automatically a closing bracket when you    insert "
+"one  * Charmap Select characters from a charactermap  * Code Comment Comment "
+"or uncomment blocks of code  * Color picker Select and insert a color from a "
+"dialog (for html,    css, php)  * Join lines/ Split lines Join or split "
+"multiple lines through Ctrl+J    and Ctrl+Shift+J  * Session Saver Allow to "
+"bookmark working sessions in order to get    them back for further use  * "
+"Smart Spaces Allow to unindent like if you were using tabs while    you're "
+"using spaces  * Show tabbar A very basic plugin which shows or hides the "
+"gedit tabbar  * Terminal A simple terminal widget accessible from the bottom "
+"panel"
+msgstr ""
+
+#. description(gfxboot:gfxboot-devel)
+msgid ""
+"Here you find the necessary programs to create your own graphical boot logo. "
+"The logo can be used with GRUB, LILO or SYSLINUX."
+msgstr ""
+
+#. description(hugin)
+msgid ""
+"Hugin can be used to stitch multiple images together. The resulting image "
+"can span 360 degrees. Another common use is the creation of very high "
+"resolution pictures by combining multiple images.\n"
+"\n"
+"Other tools in this package can correct lens distortion, vignetting and "
+"chromatic abberation, create HDR images, provide automatic feature detection "
+"and extraction of key points."
+msgstr ""
+
+#. summary(ispell-hungarian)
+msgid "Hungarian Ispell Dictionary"
+msgstr ""
+
+#. description(ispell-hungarian)
+msgid "Hungarian ispell dictionary."
+msgstr ""
+
+#. summary(ibus:ibus-gtk)
+msgid "IBus im module for gtk2"
+msgstr ""
+
+#. summary(ibus:ibus-gtk3)
+msgid "IBus im module for gtk3"
+msgstr ""
+
+#. description(ibus)
+msgid ""
+"IBus means Intelligent Input Bus. It is a new input framework for Linux OS. "
+"It provides full featured and user friendly input method user interface. It "
+"also may help developers to develop input method easily."
+msgstr ""
+
+#. description(id3v2)
+msgid ""
+"ID3 tags are found in MP3 files. They can store information about what band "
+"recorded the song, the song name, and more. ID3-V1 tags are seriously "
+"deficient as to the kind of and length of information that they can store. "
+"This is a tool for editing ID3-V2 tags in Linux."
+msgstr ""
+
+#. description(iptraf:iptraf-ng)
+msgid ""
+"IPTraf-ng is a console-based network statistics utility. It gathers a "
+"variety of information such as TCP connection packet and byte counts, "
+"interface statistics and activity indicators, TCP/UDP traffic breakdowns, "
+"and LAN station packet and byte counts."
+msgstr ""
+
+#. summary(ipsec-tools)
+msgid "IPsec Utilities"
+msgstr ""
+
+#. description(IPython)
+msgid ""
+"IPython provides a replacement for the interactive python (Python) "
+"interpreter with extra functionality.\n"
+"\n"
+"Main features:\n"
+"\n"
+"* Comprehensive object introspection.\n"
+"\n"
+"* Input history that is persistent across sessions.\n"
+"\n"
+"* Caching of output results during a session with automatically    generated "
+"references.\n"
+"\n"
+"* Readline-based name completion.\n"
+"\n"
+"* Extensible system of 'magic' commands for controlling the    environment "
+"and performing many tasks related either to IPython    or the operating "
+"system.\n"
+"\n"
+"* Configuration system with easy switching between different setups    "
+"(simpler than changing $PYTHONSTARTUP environment variables every    time).\n"
+"\n"
+"* Session logging and reloading.\n"
+"\n"
+"* Extensible syntax processing for special purpose situations.\n"
+"\n"
+"* Access to the system shell with user-extensible alias system.\n"
+"\n"
+"* Easily embeddable in other Python programs.\n"
+"\n"
+"* Integrated access to the pdb debugger and the Python profiler."
+msgstr ""
+
+#. summary(fdupes)
+msgid "Identifying or deleting duplicate files"
+msgstr ""
+
+#. description(imake)
+msgid ""
+"Imake is used to generate Makefiles from a template, a set of cpp macro "
+"functions, and a per-directory input file called an Imakefile.\n"
+"\n"
+"The X Window System used imake extensively up through the X11R6.9 release, "
+"for both full builds within the source tree and external software. X has "
+"since moved to GNU autoconf and automake for its build system in X11R7.0 and "
+"later releases, but still maintains imake for building existing external "
+"software programs that have not yet converted."
+msgstr ""
+
+#. summary(fvwm2)
+#, fuzzy
+msgid "Improved Version of FVWM Window Manager"
+msgstr "Motif 窗口管理器"
+
+#. summary(grantlee:grantlee-devel)
+#, fuzzy
+msgid "Include Files and Libraries Mandatory for Development with Grantlee"
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. summary(gmp:gmp-devel)
+msgid "Include Files and Libraries for Development with the GNU MP Library"
+msgstr ""
+
+#. summary(gconf2:gconf2-devel)
+msgid "Include files and libraries mandatory for development"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-base:gstreamer-0_10-plugins-base-devel)
+msgid ""
+"Include files and libraries mandatory for development with gstreamer-0_10-"
+"plugins-base"
+msgstr ""
+
+#. description(hunspell:hunspell-devel)
+msgid "Includes and definitions for developing with hunspell."
+msgstr ""
+
+#. description(itcl:itcl-devel)
+msgid ""
+"Incr Tcl adds object-oriented programming facilities to Tcl.\n"
+"\n"
+"This package contains header files and documentation needed to access [Incr "
+"Tcl] from C code. Tcl scripts that use [Incr Tcl] do not need this package."
+msgstr ""
+
+#. description(itcl)
+msgid ""
+"Incr Tcl adds object-oriented programming facilities to Tcl.  It was NOT "
+"designed as another whiz-bang, object-oriented programming language. It is "
+"patterned somewhat after C++.  It was designed to support more structured "
+"programming in Tcl.  Scripts that grow beyond a few thousand lines become "
+"extremely difficult to maintain. [incr Tcl] attacks this problem in the same "
+"way that any object- oriented programming language would, by providing "
+"mechanisms for data encapsulation behind well-defined interfaces."
+msgstr ""
+
+#. summary(indent)
+msgid "Indent Formats C Source Code"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-engine-industrial)
+msgid "Industrial GTK+ 2 Theme Engine"
+msgstr ""
+
+#. summary(gtk2-metatheme-industrial)
+#, fuzzy
+msgid "Industrial Metatheme for GNOME"
+msgstr "电源管理 (APM)"
+
+#. summary(gtk2-engines:gtk2-theme-industrial)
+msgid "Industrial Theme for GTK+ 2"
+msgstr ""
+
+#. summary(glibc:glibc-info)
+msgid "Info Files for the GNU C Library"
+msgstr ""
+
+#. summary(ibus)
+msgid "Intelligent Input Bus for Linux OS"
+msgstr ""
+
+#. summary(inn)
+#, fuzzy
+msgid "InterNetNews"
+msgstr "KInternet"
+
+#. summary(intltool)
+msgid "Internationalization Tool Collection"
+msgstr ""
+
+#. summary(xiterm:gtkiterm)
+msgid "Internationalized Terminal Emulator for GTK"
+msgstr ""
+
+#. summary(ilbc)
+msgid "Internet Low Bitrate Codec"
+msgstr ""
+
+#. summary(isns)
+msgid "Internet Storage Naming Service"
+msgstr ""
+
+#. description(irssi)
+msgid ""
+"Irssi is a modular IRC client for UNIX that currently only has a text mode "
+"user interface. However, 80-90% of the code is not text mode specific, so "
+"other UIs could be created easily. Also, Irssi is not really even IRC "
+"specific anymore. There are already working SILC and ICB modules available. "
+"Support for other protocols, like ICQ and Jabber, could be added some day, "
+"too.\n"
+"\n"
+"It is the code that separates Irssi from ircII, BitchX, epic, and the rest "
+"of the text clients. It is not using the ircII code."
+msgstr ""
+
+#. description(i4l-base:i4l-isdnlog)
+msgid ""
+"Isdnlog is a very powerful tool to log calls on your ISDN line. It can "
+"analyze the D-channel messages and start programs based on various phone "
+"call events. It can make summaries of phone call costs and translate known "
+"numbers to names. It has its own database for areacodes and phone call costs "
+"for many phone network providers and can help you to take care of your phone "
+"bill."
+msgstr ""
+
+#. description(ispell)
+msgid ""
+"Ispell is a fast, screen-oriented spell checker that shows you your errors "
+"in the context of the original file and suggests possible corrections when "
+"it can figure them out.  Compared to UNIX spell, it is faster and much "
+"easier to use.\tIspell can also handle languages other than English.  Ispell "
+"has a long history and many people have contributed to the current version--"
+"some of the major contributors include R. E. Gorin, Pace Willisson, Walt "
+"Buehring, and Geoff Kuenning.\n"
+"\n"
+"You can find a short description in the directory /usr/share/doc/packages/"
+"ispell/."
+msgstr ""
+
+#. summary(dicts:ispell-italian)
+msgid "Italian ispell dictionary"
+msgstr ""
+
+#. summary(ipa-bolditalic-fonts:ipa-gothic-italic-fonts)
+msgid "Italic Variant of \"Gothic\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. summary(ipa-bolditalic-fonts:ipa-pgothic-italic-fonts)
+msgid ""
+"Italic Variant of \"Proportional Gothic\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. description(ipa-bolditalic-fonts:ipa-gothic-italic-fonts)
+msgid ""
+"Italic variant of \"Gothic\" Japanese TrueType font made by IPA (Information-"
+"technology Promotion Agency)."
+msgstr ""
+
+#. description(ipa-bolditalic-fonts:ipa-pgothic-italic-fonts)
+msgid ""
+"Italic variant of \"Proportional Gothic\" Japanese TrueType font made by IPA "
+"(Information-technology Promotion Agency)."
+msgstr ""
+
+#. summary(intlfonts:intlfonts-japanese-bitmap-fonts)
+msgid "Japanese Fonts for the X Window System"
+msgstr ""
+
+#. summary(gimp-help:gimp-help-ja)
+msgid "Japanese Help System Data for GIMP"
+msgstr ""
+
+#. description(intlfonts:intlfonts-japanese-bitmap-fonts)
+msgid "Japanese fonts for the X Window System."
+msgstr ""
+
+#. summary(libgcj47:gcc47-gij)
+#, fuzzy
+msgid "Java Bytecode Interpreter for gcc"
+msgstr "C/C++ 编译器和工具"
+
+#. summary(icedtea-web)
+msgid "Java Web Start and plugin implementation"
+msgstr ""
+
+#. description(gjdoc)
+msgid "JavaDoc replacement from the classpath project."
+msgstr ""
+
+#. summary(gjdoc)
+msgid "Javadoc replacement from classpath"
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-wubi-jidian)
+msgid "Jidian Wubi input method"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-wubi-jidian)
+msgid "Jidian Wubi input methods. Current includes: Wubi 86."
+msgstr ""
+
+#. summary(gnome-games:gnotski)
+msgid "Klotski Game for GNOME"
+msgstr ""
+
+#. description(gnome-games:gnotski)
+msgid ""
+"Klotski is a puzzle game of which the objective is to get the patterned "
+"block to the marker, which is done by moving the blocks in its way.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(gimp-help:gimp-help-ko)
+msgid "Korean Help System Data for GIMP"
+msgstr ""
+
+#. summary(glabels)
+msgid "Label Editing and Printing Tool"
+msgstr ""
+
+#. description(glabels)
+msgid ""
+"Labels is a powerful tool for editing and printing all kinds of labels. It "
+"comes with a lot of templates of standard labels."
+msgstr ""
+
+#. summary(f-spot:f-spot-lang)
+msgid "Languages for package f-spot"
+msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-extra-lang)
+#, fuzzy
+msgid "Languages for package fcitx-table-extra"
+msgstr "语言：     "
+
+#. summary(file-roller:file-roller-lang)
+#, fuzzy
+msgid "Languages for package file-roller"
+msgstr "语言：     "
+
+#. summary(findutils:findutils-lang)
+#, fuzzy
+msgid "Languages for package findutils"
+msgstr "语言：     "
+
+#. summary(folks:folks-lang)
+#, fuzzy
+msgid "Languages for package folks"
+msgstr "语言：     "
+
+#. summary(frogr:frogr-lang)
+msgid "Languages for package frogr"
+msgstr ""
+
+#. summary(gbrainy:gbrainy-lang)
+msgid "Languages for package gbrainy"
+msgstr ""
+
+#. summary(gcalctool:gcalctool-lang)
+msgid "Languages for package gcalctool"
+msgstr ""
+
+#. summary(gconf-editor:gconf-editor-lang)
+msgid "Languages for package gconf-editor"
+msgstr ""
+
+#. summary(gconf2:gconf2-lang)
+msgid "Languages for package gconf2"
+msgstr ""
+
+#. summary(gcr:gcr-lang)
+#, fuzzy
+msgid "Languages for package gcr"
+msgstr "语言：     "
+
+#. summary(gdk-pixbuf:gdk-pixbuf-lang)
+msgid "Languages for package gdk-pixbuf"
+msgstr ""
+
+#. summary(gdl:gdl-lang)
+msgid "Languages for package gdl"
+msgstr ""
+
+#. summary(gdm:gdm-lang)
+msgid "Languages for package gdm"
+msgstr ""
+
+#. summary(gedit:gedit-lang)
+msgid "Languages for package gedit"
+msgstr ""
+
+#. summary(gedit-plugins:gedit-plugins-lang)
+msgid "Languages for package gedit-plugins"
+msgstr ""
+
+#. summary(gegl:gegl-0_2-lang)
+#, fuzzy
+msgid "Languages for package gegl"
+msgstr "语言：     "
+
+#. summary(gftp:gftp-common-lang)
+msgid "Languages for package gftp"
+msgstr ""
+
+#. summary(ggz-client-libs:ggz-client-libs-lang)
+msgid "Languages for package ggz-client-libs"
+msgstr ""
+
+#. summary(ghex:ghex-lang)
+msgid "Languages for package ghex"
+msgstr ""
+
+#. summary(giggle:giggle-lang)
+msgid "Languages for package giggle"
+msgstr ""
+
+#. summary(gimp:gimp-lang)
+#, fuzzy
+msgid "Languages for package gimp"
+msgstr "语言：     "
+
+#. summary(gitg:gitg-lang)
+msgid "Languages for package gitg"
+msgstr ""
+
+#. summary(glabels:glabels-lang)
+msgid "Languages for package glabels"
+msgstr ""
+
+#. summary(glade:glade-lang)
+msgid "Languages for package glade"
+msgstr ""
+
+#. summary(glib-networking:glib-networking-lang)
+msgid "Languages for package glib-networking"
+msgstr ""
+
+#. summary(glib2:glib2-lang)
+msgid "Languages for package glib2"
+msgstr ""
+
+#. summary(gnokii:gnokii-lang)
+msgid "Languages for package gnokii"
+msgstr ""
+
+#. summary(gnome-applets:gnome-applets-lang)
+msgid "Languages for package gnome-applets"
+msgstr ""
+
+#. summary(gnome-backgrounds:gnome-backgrounds-lang)
+#, fuzzy
+msgid "Languages for package gnome-backgrounds"
+msgstr "语言：     "
+
+#. summary(gnome-bluetooth:gnome-bluetooth-lang)
+msgid "Languages for package gnome-bluetooth"
+msgstr ""
+
+#. summary(gnome-color-manager:gnome-color-manager-lang)
+#, fuzzy
+msgid "Languages for package gnome-color-manager"
+msgstr "语言：     "
+
+#. summary(gnome-commander:gnome-commander-lang)
+msgid "Languages for package gnome-commander"
+msgstr ""
+
+#. summary(gnome-contacts:gnome-contacts-lang)
+#, fuzzy
+msgid "Languages for package gnome-contacts"
+msgstr "语言：     "
+
+#. summary(gnome-control-center:gnome-control-center-lang)
+msgid "Languages for package gnome-control-center"
+msgstr ""
+
+#. summary(gnome-desktop:gnome-desktop-lang)
+msgid "Languages for package gnome-desktop"
+msgstr ""
+
+#. summary(gnome-desktop2:gnome-desktop2-lang)
+#, fuzzy
+msgid "Languages for package gnome-desktop2"
+msgstr "语言：     "
+
+#. summary(gnome-devel-docs:gnome-devel-docs-lang)
+msgid "Languages for package gnome-devel-docs"
+msgstr ""
+
+#. summary(gnome-dictionary:gnome-dictionary-lang)
+#, fuzzy
+msgid "Languages for package gnome-dictionary"
+msgstr "语言：     "
+
+#. summary(gnome-disk-utility:gnome-disk-utility-lang)
+msgid "Languages for package gnome-disk-utility"
+msgstr ""
+
+#. summary(gnome-do:gnome-do-lang)
+msgid "Languages for package gnome-do"
+msgstr ""
+
+#. summary(gnome-do-plugins:gnome-do-plugins-lang)
+msgid "Languages for package gnome-do-plugins"
+msgstr ""
+
+#. summary(gnome-doc-utils:gnome-doc-utils-lang)
+msgid "Languages for package gnome-doc-utils"
+msgstr ""
+
+#. summary(gnome-documents:gnome-documents-lang)
+#, fuzzy
+msgid "Languages for package gnome-documents"
+msgstr "语言：     "
+
+#. summary(gnome-font-viewer:gnome-font-viewer-lang)
+#, fuzzy
+msgid "Languages for package gnome-font-viewer"
+msgstr "语言：     "
+
+#. summary(gnome-games:glchess-lang)
+#, fuzzy
+msgid "Languages for package gnome-games"
+msgstr "语言：     "
+
+#. summary(gnome-keyring:gnome-keyring-lang)
+msgid "Languages for package gnome-keyring"
+msgstr ""
+
+#. summary(gnome-media:gnome-media-lang)
+msgid "Languages for package gnome-media"
+msgstr ""
+
+#. summary(gnome-menus:gnome-menus-lang)
+msgid "Languages for package gnome-menus"
+msgstr ""
+
+#. summary(gnome-nettool:gnome-nettool-lang)
+msgid "Languages for package gnome-nettool"
+msgstr ""
+
+#. summary(gnome-online-accounts:gnome-online-accounts-lang)
+#, fuzzy
+msgid "Languages for package gnome-online-accounts"
+msgstr "语言：     "
+
+#. summary(gnome-packagekit:gnome-packagekit-lang)
+msgid "Languages for package gnome-packagekit"
+msgstr ""
+
+#. summary(gnome-panel:gnome-panel-lang)
+#, fuzzy
+msgid "Languages for package gnome-panel"
+msgstr "语言：     "
+
+#. summary(gnome-phone-manager:gnome-phone-manager-lang)
+msgid "Languages for package gnome-phone-manager"
+msgstr ""
+
+#. summary(gnome-power-manager:gnome-power-manager-lang)
+msgid "Languages for package gnome-power-manager"
+msgstr ""
+
+#. summary(gnome-screensaver:gnome-screensaver-lang)
+msgid "Languages for package gnome-screensaver"
+msgstr ""
+
+#. summary(gnome-screenshot:gnome-screenshot-lang)
+#, fuzzy
+msgid "Languages for package gnome-screenshot"
+msgstr "语言：     "
+
+#. summary(gnome-session:gnome-session-lang)
+msgid "Languages for package gnome-session"
+msgstr ""
+
+#. summary(gnome-settings-daemon:gnome-settings-daemon-lang)
+msgid "Languages for package gnome-settings-daemon"
+msgstr ""
+
+#. summary(gnome-shell:gnome-shell-lang)
+msgid "Languages for package gnome-shell"
+msgstr ""
+
+#. summary(gnome-shell-extensions:gnome-shell-extensions-common-lang)
+#, fuzzy
+msgid "Languages for package gnome-shell-extensions"
+msgstr "语言：     "
+
+#. summary(gnome-system-monitor:gnome-system-monitor-lang)
+msgid "Languages for package gnome-system-monitor"
+msgstr ""
+
+#. summary(gnome-terminal:gnome-terminal-lang)
+msgid "Languages for package gnome-terminal"
+msgstr ""
+
+#. summary(gnome-themes-standard:gnome-themes-standard-lang)
+msgid "Languages for package gnome-themes-standard"
+msgstr ""
+
+#. summary(gnome-tweak-tool:gnome-tweak-tool-lang)
+msgid "Languages for package gnome-tweak-tool"
+msgstr ""
+
+#. summary(gnome-user-docs:gnome-user-docs-lang)
+msgid "Languages for package gnome-user-docs"
+msgstr ""
+
+#. summary(gnome-user-share:gnome-user-share-lang)
+msgid "Languages for package gnome-user-share"
+msgstr ""
+
+#. summary(gnome-vfs2:gnome-vfs2-lang)
+#, fuzzy
+msgid "Languages for package gnome-vfs2"
+msgstr "语言：     "
+
+#. summary(gnome-web-photo:gnome-web-photo-lang)
+msgid "Languages for package gnome-web-photo"
+msgstr ""
+
+#. summary(gnucash:gnucash-lang)
+msgid "Languages for package gnucash"
+msgstr ""
+
+#. summary(gnumeric:gnumeric-lang)
+msgid "Languages for package gnumeric"
+msgstr ""
+
+#. summary(goffice:goffice-lang)
+msgid "Languages for package goffice"
+msgstr ""
+
+#. summary(goffice-0_8:goffice-0_8-lang)
+#, fuzzy
+msgid "Languages for package goffice-0_8"
+msgstr "语言：     "
+
+#. summary(goocanvas:goocanvas-lang)
+msgid "Languages for package goocanvas"
+msgstr ""
+
+#. summary(gpg2:gpg2-lang)
+msgid "Languages for package gpg2"
+msgstr ""
+
+#. summary(grisbi:grisbi-lang)
+msgid "Languages for package grisbi"
+msgstr ""
+
+#. summary(gsettings-desktop-schemas:gsettings-desktop-schemas-lang)
+msgid "Languages for package gsettings-desktop-schemas"
+msgstr ""
+
+#. summary(gstreamer-0_10:gstreamer-0_10-lang)
+msgid "Languages for package gstreamer-0_10"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-bad:gstreamer-0_10-plugins-bad-lang)
+msgid "Languages for package gstreamer-0_10-plugins-bad"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-base:gstreamer-0_10-plugins-base-lang)
+msgid "Languages for package gstreamer-0_10-plugins-base"
+msgstr ""
+
+#. summary(gstreamer-0_10-plugins-good:gstreamer-0_10-plugins-good-lang)
+msgid "Languages for package gstreamer-0_10-plugins-good"
+msgstr ""
+
+#. summary(gsynaptics:gsynaptics-lang)
+msgid "Languages for package gsynaptics"
+msgstr ""
+
+#. summary(gtg:gtg-lang)
+msgid "Languages for package gtg"
+msgstr ""
+
+#. summary(gthumb:gthumb-lang)
+msgid "Languages for package gthumb"
+msgstr ""
+
+#. summary(gtk-vnc:gtk-vnc-lang)
+msgid "Languages for package gtk-vnc"
+msgstr ""
+
+#. summary(gtk-vnc2:gtk-vnc2-lang)
+msgid "Languages for package gtk-vnc2"
+msgstr ""
+
+#. summary(gtk2:gtk2-lang)
+msgid "Languages for package gtk2"
+msgstr ""
+
+#. summary(gtk3:gtk3-lang)
+msgid "Languages for package gtk3"
+msgstr ""
+
+#. summary(gtkhtml:gtkhtml-4_0-lang)
+msgid "Languages for package gtkhtml"
+msgstr ""
+
+#. summary(gtksourceview:gtksourceview-lang)
+msgid "Languages for package gtksourceview"
+msgstr ""
+
+#. summary(gtksourceview2:gtksourceview2-lang)
+msgid "Languages for package gtksourceview2"
+msgstr ""
+
+#. summary(gtkspell:gtkspell-lang)
+msgid "Languages for package gtkspell"
+msgstr ""
+
+#. summary(gtkspell3:gtkspell3-lang)
+#, fuzzy
+msgid "Languages for package gtkspell3"
+msgstr "语言：     "
+
+#. summary(gucharmap:gucharmap-lang)
+msgid "Languages for package gucharmap"
+msgstr ""
+
+#. summary(gvfs:gvfs-lang)
+msgid "Languages for package gvfs"
+msgstr ""
+
+#. summary(gwenhywfar:gwenhywfar-lang)
+msgid "Languages for package gwenhywfar"
+msgstr ""
+
+#. summary(gwibber:gwibber-lang)
+#, fuzzy
+msgid "Languages for package gwibber"
+msgstr "语言：     "
+
+#. summary(hamster-applet:hamster-applet-lang)
+msgid "Languages for package hamster-applet"
+msgstr ""
+
+#. summary(iso-codes:iso-codes-lang)
+#, fuzzy
+msgid "Languages for package iso-codes"
+msgstr "语言：     "
+
+#. summary(giflib:giflib-devel)
+msgid "Library for Working with GIF Images - Files Mandatory for Development"
+msgstr ""
+
+#. summary(getdata)
+msgid "Library for reading and writing dirfile data"
+msgstr ""
+
+#. summary(GeoIP)
+msgid "Library to find the country that any IP address originates from"
+msgstr ""
+
+#. summary(hylafax:hylafax-client)
+msgid "Linux client package for the Hylafax server"
+msgstr ""
+
+#. description(ibus-m17n)
+msgid ""
+"M17N engine for IBus input platform. It allows input of many languages using "
+"the input table maps from m17n-db."
+msgstr ""
+
+#. summary(gnome-keyring-sharp)
+msgid "Managed Implementation of libgnome-keyring"
+msgstr ""
+
+#. description(gtk2-metatheme-industrial)
+msgid ""
+"Metatheme for GNOME: Industrial strength WM theme for Metacity and "
+"Industrial icon theme for GNOME."
+msgstr ""
+
+#. summary(gwibber)
+msgid "Microblogging Client"
+msgstr ""
+
+#. summary(hyper-v)
+msgid "Microsoft Hyper-V tools"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-engine-mist)
+msgid "Mist GTK+ 2 Theme Engine"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-theme-mist)
+msgid "Mist Theme for GTK+ 2"
+msgstr ""
+
+#. summary(irssi)
+msgid "Modular, Secure, and Well Designed IRC Client"
+msgstr ""
+
+#. summary(icecream-monitor)
+msgid "Monitor Program for the icecream Compile Farm"
+msgstr ""
+
+#. summary(gsf-sharp)
+msgid "Mono Bindings for libgsf"
+msgstr ""
+
+#. summary(gnome-sharp2)
+#, fuzzy
+msgid "Mono bindings for GNOME"
+msgstr "电源管理 (APM)"
+
+#. summary(gnome-sharp2:gconf-sharp2)
+#, fuzzy
+msgid "Mono bindings for gconf"
+msgstr "电源管理 (APM)"
+
+#. summary(gtk-sharp2:glade-sharp2)
+msgid "Mono bindings for glade"
+msgstr ""
+
+#. summary(gtk-sharp2:glib-sharp2)
+#, fuzzy
+msgid "Mono bindings for glib"
+msgstr "电源管理 (APM)"
+
+#. summary(gnome-desktop-sharp2:gnome-print-sharp)
+msgid "Mono bindings for gnome-print"
+msgstr ""
+
+#. summary(gnome-sharp2:gnome-vfs-sharp2)
+msgid "Mono bindings for gnomevfs"
+msgstr ""
+
+#. summary(gnome-desktop-sharp2)
+msgid "Mono bindings for libgnome-desktop"
+msgstr ""
+
+#. description(gsf-sharp)
+msgid "Mono bindings for libgsf."
+msgstr ""
+
+#. summary(gtk-sharp2:gtk-sharp2-doc)
+msgid "Monodoc documentation for gtk-sharp2"
+msgstr ""
+
+#. summary(gwenhywfar:gwenhywfar-devel)
+msgid "Multi-Platform Helper Library for Other Libraries"
+msgstr ""
+
+#. summary(gftp)
+msgid "Multithreaded File Transfer Client"
+msgstr ""
+
+#. summary(gftp:gftp-common)
+msgid "Multithreaded File Transfer Client - Common Files"
+msgstr ""
+
+#. summary(gtk2-engine-murrine)
+msgid "Murrine GTK Theme Engine"
+msgstr ""
+
+#. description(gtk2-engine-murrine)
+msgid ""
+"Murrine is a GTK+ 2 theme engine, that uses the Cairo vector drawing library "
+"to render widgets. It features a modern glassy look, is elegant and clean on "
+"the eyes, and is extremely customizable."
+msgstr ""
+
+#. description(isns)
+msgid ""
+"Naming and discovery service that supports ISCSI initiators and targets."
+msgstr ""
+
+#. summary(igerman98:ispell-naustrian)
+msgid "New Austrian ispell dictionary"
+msgstr ""
+
+#. summary(igerman98:ispell-ngerman)
+msgid "New German ispell dictionary"
+msgstr ""
+
+#. summary(igerman98:ispell-nswiss)
+msgid "New Swiss ispell dictionary"
+msgstr ""
+
+#. description(gnome-games:gnibbles)
+msgid ""
+"Nibbles is a worm game for GNOME. The player controls a 2D worm while trying "
+"to get food. Getting food gives points, but hitting anything causes a loss "
+"of points. When all points are lost, the player loses.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(gnome-commander)
+#, fuzzy
+msgid "Nice and Fast File Manager for the GNOME Desktop"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. summary(gnonlin:gstreamer-0_10-plugin-gnonlin)
+msgid "Non-liner audio and video support for GStreamer"
+msgstr ""
+
+#. summary(gimp-help:gimp-help-nn)
+msgid "Norwegian Nynorsk Help System Data for GIMP"
+msgstr ""
+
+#. summary(dicts:ispell-norsk)
+msgid "Norwegian ispell dictionary"
+msgstr ""
+
+#. summary(iodbc)
+msgid "ODBC compliant driver manager"
+msgstr ""
+
+#. summary(itcl)
+msgid "Object Oriented Extension for Tcl"
+msgstr ""
+
+#. summary(hplip:hplip-hpijs)
+msgid "Only plain printing with HPLIP printer drivers"
+msgstr ""
+
+#. summary(hplip:hplip-sane)
+msgid "Only plain scanning with HPLIP scan drivers"
+msgstr ""
+
+#. summary(glew)
+msgid "OpenGL Extension Wrangler Library"
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-profiles)
+msgid "OpenICC Data with complete ICC profiles"
+msgstr ""
+
+#. summary(icc-profiles-openicc:icc-profiles-mini)
+msgid "OpenICC Data with minimal ICC profiles"
+msgstr ""
+
+#. description(gtk2-metatheme-gilouche)
+msgid ""
+"OpenSUSE themes and metathemes for gtk2 and metacity contains several themes "
+"in openSUSE look: Gilouche, GreyGilouche and Synchonicity."
+msgstr ""
+
+#. summary(grisbi)
+#, fuzzy
+msgid "Personal Accounting Application"
+msgstr "起动应用程序"
+
+#. summary(gnucash)
+#, fuzzy
+msgid "Personal Finance Manager"
+msgstr "在文件管理器中打开"
+
+#. summary(gtg)
+#, fuzzy
+msgid "Personal Organizer for GNOME"
+msgstr "KPowersave 信息对话框"
+
+#. description(ibus-pinyin)
+msgid ""
+"PinYin engine for IBus platform. It provides a Chinese PinYin input method."
+msgstr ""
+
+#. summary(gnome-do-plugins)
+msgid "Plugins for GNOME Do"
+msgstr ""
+
+#. summary(dicts:ispell-polish)
+msgid "Polish ispell dictionary"
+msgstr ""
+
+#. summary(dicts:ispell-portuguese)
+msgid "Portuguese ispell dictionary"
+msgstr ""
+
+#. summary(gutenprint)
+msgid "Printer drivers for CUPS from the Gutenprint project"
+msgstr ""
+
+#. description(icc-profiles-basiccolor-printing2009:icc-profiles-basiccolor-printing2009-coat2)
+msgid ""
+"Printing profile according to ISO 12647-2. This is one CMYK ICC profile for "
+"a ISO Printing condition."
+msgstr ""
+
+#. summary(indic-fonts)
+msgid "Professional Indian Language TrueType Fonts"
+msgstr ""
+
+#. description(hamster-applet)
+msgid ""
+"Project Hamster is time tracking for masses. It helps you to keep track on "
+"how much time you have spent during the day on activities you have set up."
+msgstr ""
+
+#. description(f-spot:f-spot-lang)
+msgid "Provides translations to the package f-spot"
+msgstr ""
+
+#. description(fcitx-table-extra:fcitx-table-extra-lang)
+#, fuzzy
+msgid "Provides translations to the package fcitx-table-extra"
+msgstr "等待导航栏应用程序"
+
+#. description(file-roller:file-roller-lang)
+#, fuzzy
+msgid "Provides translations to the package file-roller"
+msgstr "等待导航栏应用程序"
+
+#. description(findutils:findutils-lang)
+#, fuzzy
+msgid "Provides translations to the package findutils"
+msgstr "等待导航栏应用程序"
+
+#. description(folks:folks-lang)
+#, fuzzy
+msgid "Provides translations to the package folks"
+msgstr "等待导航栏应用程序"
+
+#. description(frogr:frogr-lang)
+#, fuzzy
+msgid "Provides translations to the package frogr"
+msgstr "等待导航栏应用程序"
+
+#. description(gbrainy:gbrainy-lang)
+msgid "Provides translations to the package gbrainy"
+msgstr ""
+
+#. description(gcalctool:gcalctool-lang)
+msgid "Provides translations to the package gcalctool"
+msgstr ""
+
+#. description(gconf-editor:gconf-editor-lang)
+msgid "Provides translations to the package gconf-editor"
+msgstr ""
+
+#. description(gconf2:gconf2-lang)
+msgid "Provides translations to the package gconf2"
+msgstr ""
+
+#. description(gcr:gcr-lang)
+#, fuzzy
+msgid "Provides translations to the package gcr"
+msgstr "等待导航栏应用程序"
+
+#. description(gdk-pixbuf:gdk-pixbuf-lang)
+msgid "Provides translations to the package gdk-pixbuf"
+msgstr ""
+
+#. description(gdl:gdl-lang)
+msgid "Provides translations to the package gdl"
+msgstr ""
+
+#. description(gdm:gdm-lang)
+msgid "Provides translations to the package gdm"
+msgstr ""
+
+#. description(gedit:gedit-lang)
+msgid "Provides translations to the package gedit"
+msgstr ""
+
+#. description(gedit-plugins:gedit-plugins-lang)
+msgid "Provides translations to the package gedit-plugins"
+msgstr ""
+
+#. description(gegl:gegl-0_2-lang)
+#, fuzzy
+msgid "Provides translations to the package gegl"
+msgstr "等待导航栏应用程序"
+
+#. description(gftp:gftp-common-lang)
+msgid "Provides translations to the package gftp"
+msgstr ""
+
+#. description(ggz-client-libs:ggz-client-libs-lang)
+msgid "Provides translations to the package ggz-client-libs"
+msgstr ""
+
+#. description(ghex:ghex-lang)
+msgid "Provides translations to the package ghex"
+msgstr ""
+
+#. description(giggle:giggle-lang)
+msgid "Provides translations to the package giggle"
+msgstr ""
+
+#. description(gimp:gimp-lang)
+#, fuzzy
+msgid "Provides translations to the package gimp"
+msgstr "等待导航栏应用程序"
+
+#. description(gitg:gitg-lang)
+msgid "Provides translations to the package gitg"
+msgstr ""
+
+#. description(glabels:glabels-lang)
+msgid "Provides translations to the package glabels"
+msgstr ""
+
+#. description(glade:glade-lang)
+#, fuzzy
+msgid "Provides translations to the package glade"
+msgstr "等待导航栏应用程序"
+
+#. description(glib-networking:glib-networking-lang)
+msgid "Provides translations to the package glib-networking"
+msgstr ""
+
+#. description(glib2:glib2-lang)
+msgid "Provides translations to the package glib2"
+msgstr ""
+
+#. description(gnokii:gnokii-lang)
+msgid "Provides translations to the package gnokii"
+msgstr ""
+
+#. description(gnome-applets:gnome-applets-lang)
+msgid "Provides translations to the package gnome-applets"
+msgstr ""
+
+#. description(gnome-backgrounds:gnome-backgrounds-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-backgrounds"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-bluetooth:gnome-bluetooth-lang)
+msgid "Provides translations to the package gnome-bluetooth"
+msgstr ""
+
+#. description(gnome-color-manager:gnome-color-manager-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-color-manager"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-commander:gnome-commander-lang)
+msgid "Provides translations to the package gnome-commander"
+msgstr ""
+
+#. description(gnome-contacts:gnome-contacts-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-contacts"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-control-center:gnome-control-center-lang)
+msgid "Provides translations to the package gnome-control-center"
+msgstr ""
+
+#. description(gnome-desktop:gnome-desktop-lang)
+msgid "Provides translations to the package gnome-desktop"
+msgstr ""
+
+#. description(gnome-desktop2:gnome-desktop2-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-desktop2"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-devel-docs:gnome-devel-docs-lang)
+msgid "Provides translations to the package gnome-devel-docs"
+msgstr ""
+
+#. description(gnome-dictionary:gnome-dictionary-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-dictionary"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-disk-utility:gnome-disk-utility-lang)
+msgid "Provides translations to the package gnome-disk-utility"
+msgstr ""
+
+#. description(gnome-do:gnome-do-lang)
+msgid "Provides translations to the package gnome-do"
+msgstr ""
+
+#. description(gnome-do-plugins:gnome-do-plugins-lang)
+msgid "Provides translations to the package gnome-do-plugins"
+msgstr ""
+
+#. description(gnome-doc-utils:gnome-doc-utils-lang)
+msgid "Provides translations to the package gnome-doc-utils"
+msgstr ""
+
+#. description(gnome-documents:gnome-documents-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-documents"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-font-viewer:gnome-font-viewer-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-font-viewer"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-games:glchess-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-games"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-keyring:gnome-keyring-lang)
+msgid "Provides translations to the package gnome-keyring"
+msgstr ""
+
+#. description(gnome-media:gnome-media-lang)
+msgid "Provides translations to the package gnome-media"
+msgstr ""
+
+#. description(gnome-menus:gnome-menus-lang)
+msgid "Provides translations to the package gnome-menus"
+msgstr ""
+
+#. description(gnome-nettool:gnome-nettool-lang)
+msgid "Provides translations to the package gnome-nettool"
+msgstr ""
+
+#. description(gnome-online-accounts:gnome-online-accounts-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-online-accounts"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-packagekit:gnome-packagekit-lang)
+msgid "Provides translations to the package gnome-packagekit"
+msgstr ""
+
+#. description(gnome-panel:gnome-panel-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-panel"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-phone-manager:gnome-phone-manager-lang)
+msgid "Provides translations to the package gnome-phone-manager"
+msgstr ""
+
+#. description(gnome-power-manager:gnome-power-manager-lang)
+msgid "Provides translations to the package gnome-power-manager"
+msgstr ""
+
+#. description(gnome-screensaver:gnome-screensaver-lang)
+msgid "Provides translations to the package gnome-screensaver"
+msgstr ""
+
+#. description(gnome-screenshot:gnome-screenshot-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-screenshot"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-session:gnome-session-lang)
+msgid "Provides translations to the package gnome-session"
+msgstr ""
+
+#. description(gnome-settings-daemon:gnome-settings-daemon-lang)
+msgid "Provides translations to the package gnome-settings-daemon"
+msgstr ""
+
+#. description(gnome-shell:gnome-shell-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-shell"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-shell-extensions:gnome-shell-extensions-common-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-shell-extensions"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-system-monitor:gnome-system-monitor-lang)
+msgid "Provides translations to the package gnome-system-monitor"
+msgstr ""
+
+#. description(gnome-terminal:gnome-terminal-lang)
+msgid "Provides translations to the package gnome-terminal"
+msgstr ""
+
+#. description(gnome-themes-standard:gnome-themes-standard-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-themes-standard"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-tweak-tool:gnome-tweak-tool-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-tweak-tool"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-user-docs:gnome-user-docs-lang)
+msgid "Provides translations to the package gnome-user-docs"
+msgstr ""
+
+#. description(gnome-user-share:gnome-user-share-lang)
+msgid "Provides translations to the package gnome-user-share"
+msgstr ""
+
+#. description(gnome-vfs2:gnome-vfs2-lang)
+#, fuzzy
+msgid "Provides translations to the package gnome-vfs2"
+msgstr "等待导航栏应用程序"
+
+#. description(gnome-web-photo:gnome-web-photo-lang)
+msgid "Provides translations to the package gnome-web-photo"
+msgstr ""
+
+#. description(gnucash:gnucash-lang)
+msgid "Provides translations to the package gnucash"
+msgstr ""
+
+#. description(gnumeric:gnumeric-lang)
+msgid "Provides translations to the package gnumeric"
+msgstr ""
+
+#. description(goffice:goffice-lang)
+msgid "Provides translations to the package goffice"
+msgstr ""
+
+#. description(goffice-0_8:goffice-0_8-lang)
+#, fuzzy
+msgid "Provides translations to the package goffice-0_8"
+msgstr "等待导航栏应用程序"
+
+#. description(goocanvas:goocanvas-lang)
+msgid "Provides translations to the package goocanvas"
+msgstr ""
+
+#. description(gpg2:gpg2-lang)
+msgid "Provides translations to the package gpg2"
+msgstr ""
+
+#. description(grisbi:grisbi-lang)
+#, fuzzy
+msgid "Provides translations to the package grisbi"
+msgstr "等待导航栏应用程序"
+
+#. description(gsettings-desktop-schemas:gsettings-desktop-schemas-lang)
+msgid "Provides translations to the package gsettings-desktop-schemas"
+msgstr ""
+
+#. description(gstreamer-0_10:gstreamer-0_10-lang)
+msgid "Provides translations to the package gstreamer-0_10"
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-bad:gstreamer-0_10-plugins-bad-lang)
+msgid "Provides translations to the package gstreamer-0_10-plugins-bad"
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-base:gstreamer-0_10-plugins-base-lang)
+msgid "Provides translations to the package gstreamer-0_10-plugins-base"
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-good:gstreamer-0_10-plugins-good-lang)
+msgid "Provides translations to the package gstreamer-0_10-plugins-good"
+msgstr ""
+
+#. description(gsynaptics:gsynaptics-lang)
+msgid "Provides translations to the package gsynaptics"
+msgstr ""
+
+#. description(gtg:gtg-lang)
+msgid "Provides translations to the package gtg"
+msgstr ""
+
+#. description(gthumb:gthumb-lang)
+msgid "Provides translations to the package gthumb"
+msgstr ""
+
+#. description(gtk-vnc:gtk-vnc-lang)
+msgid "Provides translations to the package gtk-vnc"
+msgstr ""
+
+#. description(gtk-vnc2:gtk-vnc2-lang)
+#, fuzzy
+msgid "Provides translations to the package gtk-vnc2"
+msgstr "等待导航栏应用程序"
+
+#. description(gtk2:gtk2-lang)
+msgid "Provides translations to the package gtk2"
+msgstr ""
+
+#. description(gtk3:gtk3-lang)
+msgid "Provides translations to the package gtk3"
+msgstr ""
+
+#. description(gtkhtml:gtkhtml-4_0-lang)
+#, fuzzy
+msgid "Provides translations to the package gtkhtml"
+msgstr "等待导航栏应用程序"
+
+#. description(gtksourceview:gtksourceview-lang)
+msgid "Provides translations to the package gtksourceview"
+msgstr ""
+
+#. description(gtksourceview2:gtksourceview2-lang)
+#, fuzzy
+msgid "Provides translations to the package gtksourceview2"
+msgstr "等待导航栏应用程序"
+
+#. description(gtkspell:gtkspell-lang)
+msgid "Provides translations to the package gtkspell"
+msgstr ""
+
+#. description(gtkspell3:gtkspell3-lang)
+#, fuzzy
+msgid "Provides translations to the package gtkspell3"
+msgstr "等待导航栏应用程序"
+
+#. description(gucharmap:gucharmap-lang)
+msgid "Provides translations to the package gucharmap"
+msgstr ""
+
+#. description(gvfs:gvfs-lang)
+msgid "Provides translations to the package gvfs"
+msgstr ""
+
+#. description(gwenhywfar:gwenhywfar-lang)
+msgid "Provides translations to the package gwenhywfar"
+msgstr ""
+
+#. description(gwibber:gwibber-lang)
+#, fuzzy
+msgid "Provides translations to the package gwibber"
+msgstr "等待导航栏应用程序"
+
+#. description(hamster-applet:hamster-applet-lang)
+msgid "Provides translations to the package hamster-applet"
+msgstr ""
+
+#. description(iso-codes:iso-codes-lang)
+#, fuzzy
+msgid "Provides translations to the package iso-codes"
+msgstr "等待导航栏应用程序"
+
+#. summary(frozen-bubble)
+msgid "Puzzle with Bubbles"
+msgstr ""
+
+#. summary(frozen-bubble:frozen-bubble-server)
+msgid "Puzzle with Bubbles - Server"
+msgstr ""
+
+#. description(fcitx:fcitx-qt4)
+msgid "QT4 input module for Fcitx input method framework."
+msgstr ""
+
+#. summary(ibus-qt)
+msgid "Qt IBus library and Qt input method plugin"
+msgstr ""
+
+#. description(ibus-qt)
+msgid "Qt IBus library and Qt input method plugin."
+msgstr ""
+
+#. summary(fcitx:fcitx-qt4)
+msgid "Qt4 IM module for fcitx"
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-quick)
+msgid "Quick-to-learn input methods"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-quick)
+msgid ""
+"Quick-to-learn is based on Cangjie input method, but only need Cangjie's "
+"first and last word-root to form a character.\n"
+"\n"
+"Includes: Quick3, Quick5 and Quick-Classic, and Smart Cangjie 6."
+msgstr ""
+
+#. summary(ufraw:gimp-ufraw)
+msgid "Raw photo loader plugin for The GIMP"
+msgstr ""
+
+#. summary(iftop)
+msgid "Real-Time Interface Bandwidth Usage"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-engine-redmond95)
+msgid "Redmond GTK+ 2 Theme Engine"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-theme-redmond95)
+msgid "Redmond Theme for GTK+ 2"
+msgstr ""
+
+#. summary(freerdp)
+#, fuzzy
+msgid "Remote Desktop Viewer Client"
+msgstr "最新的桌面创新"
+
+#. description(inn)
+msgid "Rich Salz's InterNetNews news transport system."
+msgstr ""
+
+#. summary(gnome-games:gnobots2)
+msgid "Robots Game for GNOME"
+msgstr ""
+
+#. description(gnome-games:gnobots2)
+msgid ""
+"Robots is a graphical version of the original text based robots game, which "
+"can be found on a number of UNIX systems. The player must outwit the robots "
+"chasing him/her by getting them to run into each other.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(gimp-help:gimp-help-ru)
+msgid "Russian Help System Data for GIMP"
+msgstr ""
+
+#. summary(dicts:ispell-russian)
+#, fuzzy
+msgid "Russian ispell dictionary"
+msgstr "俄联邦"
+
+#. summary(ibus-table-others:ibus-table-rustrad)
+msgid "Rustrad input method for IBus framework"
+msgstr ""
+
+#. summary(ipa-ex-fonts:ipa-ex-gothic-fonts)
+msgid "Scalable \"Gothic\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. summary(ipa-ex-fonts:ipa-ex-mincho-fonts)
+msgid "Scalable \"Mincho\" Japanese TrueType Font Made by IPA"
+msgstr ""
+
+#. summary(grepmail)
+msgid "Search Mailboxes for a Particular E-Mail"
+msgstr ""
+
+#. description(frozen-bubble:frozen-bubble-server)
+msgid ""
+"Server for frozen-bubble.\n"
+"\n"
+"Colorful 3D rendered penguin animations, 100 levels of 1p game, hours and "
+"hours of 2p game, nights and nights of 2p/3p/4p/5p game over LAN or "
+"Internet, a level-editor, 3 professional quality digital soundtracks, 15 "
+"stereo sound effects, 8 unique graphical transition effects, 8 unique logo "
+"eye-candies."
+msgstr ""
+
+#. summary(gpsd)
+msgid "Service daemon for mediating access to a GPS"
+msgstr ""
+
+#. summary(gsettings-desktop-schemas:gsettings-desktop-schemas-devel)
+#, fuzzy
+msgid "Shared GSettings Schemas for the Desktop -- Development Files"
+msgstr "开发用于 GNOME 桌面的软件所需的所有程序包。"
+
+#. description(frozen-bubble)
+msgid ""
+"Shoot up bubbles. Similar to the console game Puzzle-Bobble.\n"
+"\n"
+"Colorful 3D rendered penguin animations, 100 levels of 1p game, hours and "
+"hours of 2p game, nights and nights of 2p/3p/4p/5p game over LAN or "
+"Internet, a level-editor, 3 professional quality digital soundtracks, 15 "
+"stereo sound effects, 8 unique graphical transition effects, 8 unique logo "
+"eye-candies."
+msgstr ""
+
+#. summary(finger)
+#, fuzzy
+msgid "Show User Information (Client)"
+msgstr "联网信息服务客户机"
+
+#. summary(gmixer)
+msgid "Simple and Lightweight Audio Mixer"
+msgstr ""
+
+#. summary(icc-profiles-basiccolor-printing2009:icc-profiles-basiccolor-printing2009-coat2)
+msgid "Single Cmyk Profile from basICColor"
+msgstr ""
+
+#. summary(ispell-slovak)
+msgid "Slovak Ispell Dictionary"
+msgstr ""
+
+#. summary(dicts:ispell-slovene)
+msgid "Slovenian ispell dictionary"
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-scj)
+msgid "Smart Cangjie"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-scj)
+msgid ""
+"Smart Cangjie is an improved Cangjie base input method which handles "
+"Cangjie, Quick, Cantonese, Chinese punctuation, Japanese, 3000 frequent "
+"words by Hong Kong government, both Traditional and Simplified Chinese.\n"
+"\n"
+"This package includes the Smart Cangjie 6."
+msgstr ""
+
+#. description(intltool)
+msgid ""
+"Some scripts to support translators working on GNOME and similar programs. "
+"Data available in XML files (.oaf, .desktop, .sheet, and more) can be "
+"extracted into PO files. After translation, the new information is written "
+"back into the XML files."
+msgstr ""
+
+#. summary(gimp-help:gimp-help-es)
+msgid "Spanish Help System Data for GIMP"
+msgstr ""
+
+#. summary(dicts:ispell-spanish)
+#, fuzzy
+msgid "Spanish ispell dictionary"
+msgstr "俄联邦"
+
+#. description(icc-profiles-openicc:icc-profiles-lcms-lab)
+msgid "Special LCMS profiles for PCS color spaces."
+msgstr ""
+
+#. summary(gnumeric)
+#, fuzzy
+msgid "Spreadsheet Application"
+msgstr "选择应用程序"
+
+#. summary(ipadic)
+#, fuzzy
+msgid "Standard Japanese Dictionary for ChaSen"
+msgstr "正在更新软件"
+
+#. description(ipadic)
+#, fuzzy
+msgid "Standard Japanese dictionary for ChaSen."
+msgstr "正在更新软件"
+
+#. summary(frink)
+msgid "Static Testing and Formatting for Tcl Programs"
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-stroke5)
+msgid "Stroke 5 input method"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-stroke5)
+msgid "Stroke 5 input method."
+msgstr ""
+
+#. description(fcitx-sunpinyin)
+msgid ""
+"SunPinyin ===\n"
+"\n"
+"SunPinyin is an SLM (Statistical Language Model) based input method engine. "
+"To model the Chinese language, it use a backoff bigram and trigram language "
+"model.\n"
+"\n"
+"Currently, SunPinyin 2.0 is available on IBus.\n"
+"\n"
+"fcitx-sunpinyin ===\n"
+"\n"
+"fcitx-sunpinyin is a wrapper around SunPinyin which enables user to use "
+"SunPinyin with fcitx."
+msgstr ""
+
+#. summary(fcitx-sunpinyin)
+msgid "Sunpinyin module for fcitx"
+msgstr ""
+
+#. summary(ibus-sunpinyin)
+msgid "Sunpinyin module for ibus"
+msgstr ""
+
+#. summary(dicts:ispell-swedish)
+#, fuzzy
+msgid "Swedish ispell dictionary"
+msgstr "俄联邦"
+
+#. summary(iptraf:iptraf-ng)
+msgid "TCP/IP Network Monitor"
+msgstr ""
+
+#. description(fcitx:fcitx-table)
+msgid ""
+"Table engine for Fcitx input method framework.\n"
+"\n"
+"It's the basic component for other users except some Chinese."
+msgstr ""
+
+#. summary(fcitx:fcitx-table)
+msgid "Table engine for fcitx"
+msgstr ""
+
+#. description(gnome-games:gtali)
+msgid ""
+"Tali is like Yahtzee, or like poker with dice. The player rolls dice to try "
+"to make the best possible combinations, like 4 of a kind, small straight, "
+"and full house. The player is allowed 3 rolls per turn and can hold certain "
+"dice with each roll.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. summary(vte:glade-catalog-vte)
+#, fuzzy
+msgid "Terminal Emulator Library -- Catalog for Glade"
+msgstr "开发"
+
+#. summary(gnome-games:gnotravex)
+msgid "Tetravex Game for GNOME"
+msgstr ""
+
+#. description(gnome-games:gnotravex)
+msgid ""
+"Tetravex is a simple puzzle game in which pieces have numbers on each side. "
+"The pieces must be positioned so that the same numbers touch each other, "
+"during which you are being timed. The times are then stored in a system-wide "
+"scoreboard.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. description(icc-profiles-openicc:icc-profiles-openicc-rgb)
+msgid "The \"WWW standard\" sRGB colorimetry in a ICC profile and others."
+msgstr ""
+
+#. summary(ibus-anthy)
+msgid "The Anthy engine for IBus input platform"
+msgstr ""
+
+#. description(ibus-anthy)
+msgid ""
+"The Anthy engine for IBus platform. It provides Japanese input method from "
+"libanthy."
+msgstr ""
+
+#. description(gtk2-engines:gtk2-engine-crux)
+msgid "The Crux engine was a popular theme in the early GNOME 2 days."
+msgstr ""
+
+#. description(fifth-leg-font)
+msgid "The Fifth Leg font is the font used for openSUSE branded material."
+msgstr ""
+
+#. description(flickrnet)
+msgid ""
+"The Flickr.Net API is a .Net Library for accessing the Flickr API. Written "
+"entirely in C# it can be accessed from with any .Net language."
+msgstr ""
+
+#. description(gdata-sharp)
+msgid ""
+"The GData .NET Client Library provides a library and source code that make "
+"it easy to access data through Google Data APIs."
+msgstr ""
+
+#. description(gimp)
+msgid ""
+"The GIMP (GNU Image Manipulation Program) is a powerful image composition "
+"and editing program, which can be extremely useful for creating logos and "
+"other graphics for Web pages.  The GIMP offers many of the tools and filters "
+"you would expect to find in similar commercial offerings and contains some "
+"interesting extras as well. The GIMP provides a large image manipulation "
+"toolbox, including channel operations and layers, effects, subpixel imaging "
+"and antialiasing, and conversions- all including multilevel undo. The GIMP "
+"offers a scripting facility, but many of the included scripts rely on fonts "
+"that we cannot distribute."
+msgstr ""
+
+#. summary(gcc47:gcc47-32bit)
+#, fuzzy
+msgid "The GNU C Compiler 32bit support"
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gcc47)
+#, fuzzy
+msgid "The GNU C Compiler and Support Files"
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gcc47:gcc47-c++)
+#, fuzzy
+msgid "The GNU C++ Compiler"
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gcc47:gcc47-fortran)
+#, fuzzy
+msgid "The GNU Fortran Compiler and Support Files"
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gimp)
+msgid "The GNU Image Manipulation Program"
+msgstr ""
+
+#. summary(gimp:gimp-help-browser)
+msgid "The GNU Image Manipulation Program - Help Browser"
+msgstr ""
+
+#. summary(branding-openSUSE:gimp-branding-openSUSE)
+msgid "The GNU Image Manipulation Program - openSUSE Splash Screen"
+msgstr ""
+
+#. summary(gimp:gimp-plugins-python)
+msgid "The GNU Image Manipulation Program - python-gtk based plugins"
+msgstr ""
+
+#. summary(libgcj47:gcc47-java)
+#, fuzzy
+msgid "The GNU Java Compiler"
+msgstr "C/C++ 编译器和工具"
+
+#. description(gsl)
+msgid ""
+"The GNU Scientific Library (GSL) is a collection of routines for numerical "
+"computing. The routines are written from scratch by the GSL team in ANSI C "
+"and present a modern Applications Programming Interface (API) for C "
+"programmers, while allowing wrappers to be written for very high level "
+"languages.\n"
+"\n"
+"The library covers the following areas:\n"
+"\n"
+"Complex Numbers - Roots of Polynomials - Special Functions - Vectors and "
+"Matrices - Permutations - Sorting - BLAS Support - Linear Algebra - "
+"Eigensystems - Fast Fourier Transforms - Quadrature - Random Numbers - Quasi-"
+"Random Sequences - Random Distributions - Statistics - Histograms - N-Tuples "
+"- Monte Carlo Integration - Simulated Annealing - Differential Equations - "
+"Interpolation - Numerical Differentiation - Chebyshev Approximation - Series "
+"Acceleration - Discrete Hankel Transforms - Root-Finding - Minimization - "
+"Least-Squares Fitting - Physical Constants - IEEE Floating-Point"
+msgstr ""
+
+#. description(grub2:grub2-efi)
+msgid ""
+"The GRand Unified Bootloader (GRUB) is a highly configurable and "
+"customizable bootloader with modular architecture.  It supports rich variety "
+"of kernel formats, file systems, computer architectures and hardware "
+"devices.  This subpackage provides support for EFI systems."
+msgstr ""
+
+#. summary(gtk2:gtk2-devel)
+#, fuzzy
+msgid "The GTK+ toolkit library (version 2) -- Development Files"
+msgstr "内核接口"
+
+#. summary(gtk2:gtk2-immodules-tigrigna)
+msgid "The GTK+ toolkit library (version 2) -- Tigrigna Input Methods"
+msgstr ""
+
+#. summary(gtk2:gtk2-immodule-xim)
+msgid "The GTK+ toolkit library (version 2) -- X Input Method"
+msgstr ""
+
+#. summary(gtk3:gtk3-devel)
+#, fuzzy
+msgid "The GTK+ toolkit library (version 3) -- Development Files"
+msgstr "内核接口"
+
+#. summary(gtk3:gtk3-immodules-tigrigna)
+msgid "The GTK+ toolkit library (version 3) -- Tigrigna Input Methods"
+msgstr ""
+
+#. summary(gtk3:gtk3-immodule-xim)
+msgid "The GTK+ toolkit library (version 3) -- X Input Method"
+msgstr ""
+
+#. description(getdata)
+msgid ""
+"The GetData Project is the reference implementation of the Dirfile "
+"Standards, a filesystem-based database format for time-ordered binary data. "
+"The Dirfile database format is designed to provide a fast, simple format for "
+"storing and reading data."
+msgstr ""
+
+#. description(gutenprint)
+msgid ""
+"The Gutenprint (formerly Gimp-Print) printer drivers for CUPS. See the "
+"user's manual at /usr/share/gutenprint/doc/gutenprint-users-manual.pdf"
+msgstr ""
+
+#. summary(ibus-hangul)
+#, fuzzy
+msgid "The Hangul engine for IBus input platform"
+msgstr "包中含有意外的版本"
+
+#. description(ibus-hangul)
+msgid ""
+"The Hangul engine for IBus platform. It provides Korean input method from "
+"libhangul."
+msgstr ""
+
+#. description(hplip)
+msgid ""
+"The Hewlett-Packard Linux Imaging and Printing project (HPLIP) provides a "
+"unified single and multifunction connectivity solution for HP printers and "
+"scanners (in particular, HP all-in-one devices).\n"
+"\n"
+"HPLIP provides unified connectivity for printing, scanning, sending faxes, "
+"photo card access, and device management and is designed to work with CUPS.\n"
+"\n"
+"It includes the Ghostscript printer driver HPIJS for HP printers and a "
+"special \"hp\" CUPS back-end that provides bidirectional communication with "
+"the device (required for HP printer device management).\n"
+"\n"
+"It also includes the SANE scanner driver \"hpaio\" for HP all-in-one "
+"devices. Basic PC send fax functionality is supported on a number of "
+"devices.\n"
+"\n"
+"The special \"hpfax\" CUPS back-end is required to send faxes. Direct "
+"uploading (i.e. without print and scan) of received faxes from the device to "
+"the PC is not supported.\n"
+"\n"
+"The \"hp-toolbox\" program is provided for device management.\n"
+"\n"
+"The \"hp-sendfax\" program must be used to send faxes.\n"
+"\n"
+"The \"hp-setup\" program can be used to set up HP all-in-one devices.\n"
+"\n"
+"The HPLIP project is open source software and uses GPL-compatible licenses. "
+"For more information, see:\n"
+"\n"
+"http://hplipopensource.com\n"
+"\n"
+"/usr/share/doc/packages/hplip/index.html"
+msgstr ""
+
+#. description(icedtea-web)
+msgid ""
+"The IcedTea-Web project provides a Free Software web browser plugin running "
+"applets written in the Java programming language and an implementation of "
+"Java Web Start, originally based on the NetX project."
+msgstr ""
+
+#. description(gtk2-engines:gtk2-engine-industrial)
+msgid ""
+"The Industrial engine provides a simple and consistent appearance for "
+"applications."
+msgstr ""
+
+#. description(libgcj47:gcc47-java)
+msgid "The Java compiler from the GCC-tools-suite."
+msgstr ""
+
+#. summary(ibus-m17n)
+msgid "The M17N engine for IBus platform"
+msgstr ""
+
+#. description(gtk2-engines:gtk2-engine-mist)
+msgid ""
+"The Mist engine is a minimalist engine designed to provide a simple UI "
+"experience."
+msgstr ""
+
+#. description(glew)
+msgid ""
+"The OpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source "
+"C/C++ extension loading library. GLEW provides efficient run-time mechanisms "
+"for determining which OpenGL extensions are supported on the target "
+"platform. OpenGL core and extension functionality is exposed in a single "
+"header file."
+msgstr ""
+
+#. summary(ibus-pinyin)
+msgid "The PinYin engine for IBus platform"
+msgstr ""
+
+#. description(icc-profiles-openicc:icc-profiles-basiccolor-lstarrgb)
+msgid ""
+"The RGB profile maintaining perceptual equal lightness. The LStar-RGB.icc "
+"profile is colorimetric identical to the eciRGB_v2 profile."
+msgstr ""
+
+#. description(gtk2-engines:gtk2-engine-redmond95)
+msgid ""
+"The Redmond engine and theme are designed to mimic the appearance of another "
+"well known OS."
+msgstr ""
+
+#. summary(ibus-table)
+msgid "The Table engine for IBus platform"
+msgstr ""
+
+#. description(gtk2-engines:gtk2-engine-thinice)
+msgid ""
+"The ThinIce engine features thin edges and Icy Colors, and provides a simple "
+"mostly clean appearance many find satisfying."
+msgstr ""
+
+#. summary(ibus-table-others:ibus-table-viqr)
+msgid "The Viqr (Vietnamese) table for ibus-table"
+msgstr ""
+
+#. description(gccmakedep)
+msgid ""
+"The gccmakedep program calls 'gcc -M' to output makefile rules describing "
+"the dependencies of each sourcefile, so that make knows which object files "
+"must be recompiled when a dependency has changed."
+msgstr ""
+
+#. description(gnome-doc-utils)
+msgid ""
+"The gnome-doc-utils package is a collection of documentation utilities for "
+"the GNOME project. Notably, it contains utilities for building documentation "
+"and all auxiliary files in your source tree. It also contains the DocBook "
+"XSLT stylesheets that were once distributed with Yelp."
+msgstr ""
+
+#. description(graphviz-plugins:graphviz-gd)
+msgid ""
+"The graphviz-gd package contains the gd extensions for the graphviz tools."
+msgstr ""
+
+#. description(gtk-sharp2:gtk-sharp2-gapi)
+msgid ""
+"The gtk-sharp-gapi package includes the parser and code generator used by "
+"the GTK if you want to bind GObject-based libraries, or need to compile a "
+"project that uses it to bind such a library."
+msgstr ""
+
+#. description(haveged)
+msgid ""
+"The haveged daemon feeds the linux entropy pool with random numbers "
+"generated from hidden processor state.\n"
+"\n"
+"For more informations see http://www.issihosts.com/haveged/"
+msgstr ""
+
+#. description(iodbc)
+msgid ""
+"The iODBC Driver Manager is a free implementation of the SAG CLI and ODBC "
+"compliant driver manager which allows developers to write ODBC compliant "
+"applications that can connect to various databases using appropriate backend "
+"drivers."
+msgstr ""
+
+#. description(icc-profiles-openicc:icc-profiles)
+msgid ""
+"The meta package installs a complete set of ICC profiles from the OpenICC "
+"Data collection. One Cmyk profile is contained."
+msgstr ""
+
+#. description(icc-profiles-openicc:icc-profiles-mini)
+msgid ""
+"The meta package installs a minimal set of ICC profiles from the OpenICC "
+"Data collection. No Cmyk and Gray profiles are contained."
+msgstr ""
+
+#. description(gnome-games:gnect)
+msgid ""
+"The object of Four-in-a-Row is to place four pieces in a vertical, "
+"horizontal, or diagonal row while the opponent tries to block and make his/"
+"her own row of four. Four-in-a-Row can be played against another human or "
+"the computer.\n"
+"\n"
+"This package is part of gnome-games."
+msgstr ""
+
+#. description(ibus-table)
+#, fuzzy
+msgid "The package contains general Table engine for IBus platform."
+msgstr "包中含有意外的版本"
+
+#. description(foomatic-filters)
+msgid ""
+"The print filter \"foomatic-rip\" is used by print spoolers (in particular "
+"by CUPS) to convert PostScript print job data into the printer's native "
+"format as described by a printer/driver-specific Foomatic PPD file."
+msgstr ""
+
+#. summary(gcc)
+#, fuzzy
+msgid "The system GNU C Compiler"
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc)
+#, fuzzy
+msgid "The system GNU C Compiler."
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gcc:gcc-c++)
+#, fuzzy
+msgid "The system GNU C++ Compiler"
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc:gcc-c++-32bit)
+#, fuzzy
+msgid "The system GNU C++ Compiler 32 bit support."
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc:gcc-c++)
+#, fuzzy
+msgid "The system GNU C++ Compiler."
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gcc:gcc-info)
+#, fuzzy
+msgid "The system GNU Compiler documentation"
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc:gcc-info)
+#, fuzzy
+msgid "The system GNU Compiler documentation."
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gcc:gcc-fortran)
+#, fuzzy
+msgid "The system GNU Fortran Compiler"
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc:gcc-fortran-32bit)
+#, fuzzy
+msgid "The system GNU Fortran Compiler 32 bit support."
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc:gcc-fortran)
+#, fuzzy
+msgid "The system GNU Fortran Compiler."
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gcc:gcc-java)
+#, fuzzy
+msgid "The system GNU Java Compiler"
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc:gcc-java)
+#, fuzzy
+msgid "The system GNU Java Compiler."
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gcc:gcc-gij)
+#, fuzzy
+msgid "The system GNU Java bytecode interpreter"
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc:gcc-gij)
+#, fuzzy
+msgid "The system GNU Java bytecode interpreter."
+msgstr "C/C++ 编译器和工具"
+
+#. summary(gcc:gcc-objc)
+#, fuzzy
+msgid "The system GNU Objective C Compiler"
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc:gcc-objc-32bit)
+#, fuzzy
+msgid "The system GNU Objective C Compiler 32 bit support."
+msgstr "C/C++ 编译器和工具"
+
+#. description(gcc:gcc-objc)
+#, fuzzy
+msgid "The system GNU Objective C Compiler."
+msgstr "C/C++ 编译器和工具"
+
+#. summary(foomatic-filters)
+msgid "The universal print filter foomatic-rip"
+msgstr ""
+
+#. description(gedit:gedit-plugin-zeitgeist)
+msgid ""
+"The zeitgeist plugin for gedit provides a zeitgeist dataprovider that logs "
+"access and leave event for documents used with gedit."
+msgstr ""
+
+#. description(gmp:gmp-devel)
+msgid ""
+"These libraries are needed to develop programs which calculate with huge "
+"numbers (integer and floating point)."
+msgstr ""
+
+#. description(glibc:glibc-devel)
+#, fuzzy
+msgid ""
+"These libraries are needed to develop programs which use the standard C "
+"library."
+msgstr "包中含有意外的版本"
+
+#. description(mgetty:g3utils)
+msgid ""
+"These utilities convert graphics files from the G3 format into the general- "
+"purpose PBM format and back, so you can print or manipulate them. G3 is used "
+"by fax modems and machines.\n"
+"\n"
+"The g3utils are included in the mgetty source package."
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-engine-thinice)
+msgid "ThinIce GTK+ 2 Theme Engine"
+msgstr ""
+
+#. summary(gtk2-engines:gtk2-theme-thinice)
+msgid "ThinIce Theme for GTK+ 2"
+msgstr ""
+
+#. description(kiten:fonts-KanjiStrokeOrders)
+msgid ""
+"This font provides an easy way to view stroke order diagrams for over 6350 "
+"kanji, 183 kana symbols, the Latin characters and quite a few other symbols. "
+"I have also used it as a dumping ground for my own character creation "
+"doodles.\n"
+"\n"
+"My hope is that this font will assist people who are learning kanji. I also "
+"hope it will help teachers of Japanese in the preparation of classroom "
+"material. Beware that Japanese stroke order can differ from the stroke order "
+"used in other languages that use Chinese characters."
+msgstr ""
+
+#. description(hylafax:hylafax-client)
+msgid ""
+"This is linux client part of the very powerful Hylafax fax server. If you "
+"already run the Hylafax fax server on an other machine at your network, you "
+"can use this package to access the server."
+msgstr ""
+
+#. description(gcc47:gcc47-fortran)
+msgid "This is the Fortran compiler of the GNU Compiler Collection (GCC)."
+msgstr ""
+
+#. description(ipsec-tools)
+msgid ""
+"This is the IPsec-Tools package.  This package is needed to really make use "
+"of the IPsec functionality in the version 2.5 and 2.6 Linux kernels.  This "
+"package builds:\n"
+"\n"
+"- libipsec, a PFKeyV2 library\n"
+"\n"
+"- setkey, a program to directly manipulate policies and SAs\n"
+"\n"
+"- racoon, an IKEv1 keying daemon\n"
+"\n"
+"These sources can be found at the IPsec-Tools home page at: http://ipsec-"
+"tools.sourceforge.net/"
+msgstr ""
+
+#. description(hwinfo:hwinfo-devel)
+msgid ""
+"This library collects information about the hardware installed on a system."
+msgstr ""
+
+#. description(gcc47:gcc47-32bit)
+#, fuzzy
+msgid "This package contains 32bit support for the GNU Compiler Collection."
+msgstr "最近使用过的应用程序"
+
+#. description(gnome-sharp2)
+#, fuzzy
+msgid "This package contains Mono bindings for GNOME."
+msgstr "包中含有意外的版本"
+
+#. description(gnome-sharp2:gconf-sharp2)
+#, fuzzy
+msgid "This package contains Mono bindings for gconf and gconf peditors."
+msgstr "包未经签名"
+
+#. description(gtk-sharp2:glade-sharp2)
+msgid "This package contains Mono bindings for glade."
+msgstr ""
+
+#. description(gtk-sharp2:glib-sharp2)
+#, fuzzy
+msgid "This package contains Mono bindings for glib."
+msgstr "包中含有意外的版本"
+
+#. description(gnome-sharp2:gnome-vfs-sharp2)
+#, fuzzy
+msgid "This package contains Mono bindings for gnomevfs."
+msgstr "包未经签名"
+
+#. description(gtk-sharp2)
+#, fuzzy
+msgid "This package contains Mono bindings for gtk+, gdk, atk, and pango."
+msgstr "包未经签名"
+
+#. description(shared-color-profiles:icc-profiles-scp-yamma)
+#, fuzzy
+msgid ""
+"This package contains abstract color profiles from the the separate+ project."
+msgstr "包中含有意外的版本"
+
+#. description(freeglut:freeglut-devel)
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"compile and link applications for the freeglut library.\n"
+"\n"
+"In addition, it also includes manual pages which describe all functions "
+"provided by the freeglut library.\n"
+"\n"
+"Freeglut is a completely open source alternative to the OpenGL Utility "
+"Toolkit (GLUT) library. GLUT was originally written by Mark Kilgard to "
+"support the sample programs in the second edition OpenGL Redbook. Since "
+"then, GLUT has been used in a wide variety of practical applications because "
+"it is simple, universally available, and highly portable.\n"
+"\n"
+"GLUT (and freeglut) allow the user to create and manage windows containing "
+"OpenGL contexts and also read the mouse, keyboard, and joystick functions on "
+"a wide range of platforms."
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-base:gstreamer-0_10-plugins-base-devel)
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"compile and link applications that use gstreamer-0_10-plugins-base."
+msgstr ""
+
+#. description(file:file-devel)
+#, fuzzy
+msgid ""
+"This package contains all necessary include files and libraries needed to "
+"develop applications that require the magic \"file\" interface."
+msgstr "包中含有意外的版本"
+
+#. description(freetype2:freetype2-devel)
+#, fuzzy
+msgid ""
+"This package contains all necessary include files, libraries and "
+"documentation needed to develop applications that require the freetype2 "
+"TrueType font library.\n"
+"\n"
+"It also contains a small tutorial for using that library."
+msgstr "包中含有意外的版本"
+
+#. description(gnome-devel-docs)
+#, fuzzy
+msgid "This package contains documents that are useful for GNOME developers."
+msgstr "包中含有意外的版本"
+
+#. description(gnome-games-extra-data)
+msgid ""
+"This package contains extra data files for the gnome-games package. At the "
+"moment this is almost entirely extra themes and artwork for the games."
+msgstr ""
+
+#. description(ibus:ibus-gtk)
+#, fuzzy
+msgid "This package contains ibus im module for gtk2"
+msgstr "包中含有意外的版本"
+
+#. description(ibus:ibus-gtk3)
+#, fuzzy
+msgid "This package contains ibus im module for gtk3"
+msgstr "包中含有意外的版本"
+
+#. description(grantlee:grantlee-devel)
+#, fuzzy
+msgid ""
+"This package contains include files and libraries needed for development "
+"with grantlee."
+msgstr "包中含有意外的版本"
+
+#. description(indic-fonts)
+msgid ""
+"This package contains many professional Indian language TrueType fonts "
+"contributed by the community and some also donated by organizations to open "
+"source. All fonts are available under GPL."
+msgstr ""
+
+#. description(gnome-media)
+msgid ""
+"This package contains multimedia programs for GNOME.\n"
+"\n"
+"Documentation:\n"
+"\n"
+"GNOME online help /usr/share/doc/packages/gnome"
+msgstr ""
+
+#. description(gnome-desktop2)
+#, fuzzy
+msgid "This package contains some desktop-wide documents."
+msgstr "包中含有意外的版本"
+
+#. description(shared-color-profiles:icc-profiles-scp-fogra)
+#, fuzzy
+msgid ""
+"This package contains the FOGRA 27L color profile, used for offset printing."
+msgstr "包中含有意外的版本"
+
+#. description(gcc47:gcc47-objc)
+msgid ""
+"This package contains the GNU Objective C compiler. Objective C is an object "
+"oriented language, created by Next Inc. and used in their Nextstep OS. The "
+"source code is available in the gcc package."
+msgstr ""
+
+#. description(gcc47:gcc47-c++)
+#, fuzzy
+msgid "This package contains the GNU compiler for C++."
+msgstr "包中含有意外的版本"
+
+#. description(hyper-v)
+#, fuzzy
+msgid "This package contains the Microsoft Hyper-V tools."
+msgstr "包中含有意外的版本"
+
+#. description(intlfonts)
+msgid ""
+"This package contains the READMEs for international fonts from the following "
+"packages:\n"
+"\n"
+"intlfonts-arabic-bitmap-fonts: Arab fonts for X11\n"
+"\n"
+"intlfonts-asian-bitmap-fonts: Asian fonts for X11\n"
+"\n"
+"intlfonts-chinese-bitmap-fonts: Chinese fonts for X11\n"
+"\n"
+"intlfonts-chinese-big-bitmap-fonts: Big Chinese fonts for X11\n"
+"\n"
+"intlfonts-ethiopic-bitmap-fonts: Ethiopic fonts for X11\n"
+"\n"
+"intlfonts-euro-bitmap-fonts: European fonts for X11\n"
+"\n"
+"intlfonts-japanese-bitmap-fonts: Japanese fonts for X11\n"
+"\n"
+"intlfonts-japanese-big-bitmap-fonts: Big Japanese fonts for X11\n"
+"\n"
+"intlfonts-phonetic-bitmap-fonts: IPA fonts for X11\n"
+"\n"
+"intlfonts-ttf-fonts: TrueType fonts\n"
+"\n"
+"intlfonts-type1-fonts: Type1 fonts\n"
+"\n"
+"intlfonts-bdf-fonts: Bitmap fonts useful for printing exotic languages from "
+"Emacs"
+msgstr ""
+
+#. description(gettext-runtime:gettext-tools)
+msgid ""
+"This package contains the `intl' library as well as tools that ease the "
+"creation and maintenance of message catalogs. With it you can extract "
+"strings from source code. The supplied Emacs mode (po-mode.el) will aid in "
+"editing these catalogs (called PO files, for portable object) and add "
+"translations. A special compiler will turn these PO files into binary "
+"catalogs."
+msgstr ""
+
+#. description(shared-color-profiles:icc-profiles-scp-argyll)
+msgid ""
+"This package contains the color profiles from Argyll, with strings updated "
+"for better integration in graphical user interfaces."
+msgstr ""
+
+#. description(ghostscript:ghostscript-devel)
+#, fuzzy
+msgid "This package contains the development files for Ghostscript."
+msgstr "包中含有意外的版本"
+
+#. description(glibc:glibc-info)
+msgid ""
+"This package contains the documentation for the GNU C library stored as info "
+"files. Due to a lack of resources, this documentation is not complete and is "
+"partially out of date."
+msgstr ""
+
+#. description(flac:flac-devel)
+#, fuzzy
+msgid ""
+"This package contains the files needed to compile programs that use the FLAC "
+"library."
+msgstr "包中含有意外的版本"
+
+#. description(gtk-sharp2:gtk-sharp2-doc)
+#, fuzzy
+msgid "This package contains the gtk-sharp2 documentation for monodoc."
+msgstr "<p>此菜单包含引用文档信息的链接。</p>"
+
+#. description(gsl:gsl-devel)
+msgid ""
+"This package contains the headers, static libraries and some documentation "
+"for GSL.\n"
+"\n"
+"The GNU Scientific Library (GSL) is a collection of routines for numerical "
+"computing. The routines are written from scratch by the GSL team in ANSI C, "
+"and present a modern Applications Programming Interface (API) for C "
+"programmers, while allowing wrappers to be written for very high level "
+"languages.\n"
+"\n"
+"The library covers the following areas,\n"
+"\n"
+"Complex Numbers - Roots of Polynomials - Special Functions - Vectors and "
+"Matrices - Permutations - Sorting - BLAS Support - Linear Algebra - "
+"Eigensystems - Fast Fourier Transforms - Quadrature - Random Numbers - Quasi-"
+"Random Sequences - Random Distributions - Statistics - Histograms - N-Tuples "
+"- Monte Carlo Integration - Simulated Annealing - Differential Equations - "
+"Interpolation - Numerical Differentiation - Chebyshev Approximation - Series "
+"Acceleration - Discrete Hankel Transforms - Root-Finding - Minimization - "
+"Least-Squares Fitting - Physical Constants - IEEE Floating-Point"
+msgstr ""
+
+#. description(gimp:gimp-help-browser)
+#, fuzzy
+msgid "This package contains the help browser for the GIMP."
+msgstr "包中含有意外的版本"
+
+#. description(libgcj47:gcc47-gij)
+#, fuzzy
+msgid ""
+"This package contains the java bytecode interpreter gij and related tools."
+msgstr "包中含有意外的版本"
+
+#. description(findutils:findutils-locate)
+msgid ""
+"This package contains the locate program which is part of the GNU findutils "
+"software suite.\n"
+"\n"
+"You can find files fast using locate.  On installing findutils-locate an "
+"additional daily cron job will be added to the cron system. This job will "
+"update the files database every night or shortly after switching on the "
+"computer."
+msgstr ""
+
+#. description(branding-openSUSE:gimp-branding-openSUSE)
+msgid ""
+"This package contains the openSUSE splash screen for the The GNU Image "
+"Manipulation Program (GIMP) package"
+msgstr ""
+
+#. description(fontconfig:fontconfig-devel)
+msgid ""
+"This package countains all include files, libraries, configuration files "
+"needed for compiling applications which use the fontconfig library.\n"
+"\n"
+"In addition, it contains extensive documentation and manual pages for "
+"developers using the library.\n"
+"\n"
+"Fontconfig is a library for configuring and customizing font access. It "
+"contains two essential modules, the configuration module which builds an "
+"internal configuration from XML files and the matching module which accepts "
+"font patterns and returns the nearest matching font."
+msgstr ""
+
+#. description(ispell:ispell-american)
+msgid ""
+"This package includes a ready American dictionary for ispell. If you install "
+"ispell-british too, check /etc/sysconfig/ispell to see which one the default "
+"English dictionary will be. A short usage description is given in /usr/share/"
+"doc/packages/ispell/README. The sources for this dictionary are included in "
+"the source package of ispell."
+msgstr ""
+
+#. description(igerman98:ispell-naustrian)
+msgid ""
+"This package includes a ready Austrian dictionary for ispell according the "
+"new spelling rules.  The name of the dictionary is naustrian to be able to "
+"distinguish it from those of the German packages. A short usage description "
+"is given in /usr/share/doc/packages/ispell/README of the package ispell."
+msgstr ""
+
+#. description(dicts:ispell-brazilian)
+msgid ""
+"This package includes a ready Brazilian dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell. The sources for this dictionary are included in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-catalan)
+msgid ""
+"This package includes a ready Catalan dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(dicts:ispell-czech)
+msgid ""
+"This package includes a ready Czech dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell. The sources for this dictionary are included in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-danish)
+msgid ""
+"This package includes a ready Danish dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(dicts:ispell-dutch)
+msgid ""
+"This package includes a ready Dutch dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(dicts:ispell-estonian)
+msgid ""
+"This package includes a ready Estonian dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell. The sources for this dictionary are included in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-finnish)
+msgid ""
+"This package includes a ready Finnish dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell. The sources for this dictionary are included in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-french)
+msgid ""
+"This package includes a ready French dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(igerman98:ispell-ngerman)
+msgid ""
+"This package includes a ready German dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell."
+msgstr ""
+
+#. description(dicts:ispell-german)
+msgid ""
+"This package includes a ready German dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell. The sources for this dictionary are included in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-greek)
+msgid ""
+"This package includes a ready Greek dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell. The sources for this dictionary are included in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-italian)
+msgid ""
+"This package includes a ready Italian dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(dicts:ispell-norsk)
+msgid ""
+"This package includes a ready Norwegian dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(dicts:ispell-polish)
+msgid ""
+"This package includes a ready Polish dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell. The sources for this dictionary are included in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-portuguese)
+msgid ""
+"This package includes a ready Portuguese dictionary for ispell. A short "
+"usage description for ispell is given in /usr/share/doc/packages/ispell/"
+"README of the package ispell. The sources for this dictionary are included "
+"in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-russian)
+msgid ""
+"This package includes a ready Russian dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell. The sources for this dictionary are included in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-slovene)
+msgid ""
+"This package includes a ready Slovenian dictionary for ispell. A short usage "
+"description is given in /usr/share/doc/packages/ispell/README of the package "
+"ispell. The sources for this dictionary are included in the package dicts."
+msgstr ""
+
+#. description(dicts:ispell-spanish)
+msgid ""
+"This package includes a ready Spanish dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(dicts:ispell-swedish)
+msgid ""
+"This package includes a ready Swedish dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the package ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(igerman98:ispell-nswiss)
+msgid ""
+"This package includes a ready Swiss dictionary for ispell according the new "
+"spelling rules.  The name of the dictionary is nswiss to be able to "
+"distinguish it from those of the German packages. A short usage description "
+"is given in /usr/share/doc/packages/ispell/README of the package ispell."
+msgstr ""
+
+#. description(gnome-applets)
+msgid ""
+"This package includes many small utilities that can be run from within the "
+"GNOME Panel."
+msgstr ""
+
+#. description(gtk2-engines)
+#, fuzzy
+msgid "This package installs the theme engine libraries for GTK+ 2."
+msgstr "包中含有意外的版本"
+
+#. summary(ibus-googlepinyin)
+msgid "This package is for IBus to use libgooglepinyin"
+msgstr ""
+
+#. description(gpsd:gpsd-devel)
+msgid ""
+"This package provides C header files for the gpsd shared libraries that "
+"manage access to a GPS for applications and debugging tools. You will need "
+"to have gpsd installed for it to work."
+msgstr ""
+
+#. description(ikvm)
+msgid ""
+"This package provides IKVM.NET, an open source Java compatibility layer for "
+"Mono, which includes a Virtual Machine, a bytecode compiler, and various "
+"class libraries for Java, as well as tools for Java and Mono "
+"interoperability."
+msgstr ""
+
+#. description(gtksourceview-sharp2)
+msgid ""
+"This package provides Mono bindings for GtkSourceView, a child of the GTK+ "
+"text widget which implements syntax highlighting and other features typical "
+"of a source editor."
+msgstr ""
+
+#. description(frei0r-plugins)
+msgid ""
+"This package provides a collection of video sources and filters plugins, "
+"using the Frei0r API."
+msgstr ""
+
+#. description(id3lib)
+msgid ""
+"This package provides a software library for manipulating ID3v1 and ID3v2 "
+"tags. It provides a convenient interface for software developers to include "
+"standards-compliant ID3v1/2 tagging capabilities in their applications. "
+"Features include identification of valid tags, automatic size conversions, "
+"synchronization and resynchronization of tag frames, seamless tag "
+"compression and decompression, and optional padding facilities."
+msgstr ""
+
+#. description(gstreamer-0_10-plugins-good:gstreamer-0_10-plugins-good-extra)
+msgid ""
+"This package provides complementary plugins for gstreamer-0_10-plugins-good."
+msgstr ""
+
+#. description(ggz-client-libs:ggz-client-libs-devel)
+msgid ""
+"This package provides development files and headers needed to build software "
+"using ggz-client-libs"
+msgstr ""
+
+#. description(fribidi:fribidi-devel)
+#, fuzzy
+msgid "This package provides headers and manual files for FriBiDi."
+msgstr "Tcl/Tk 及其开发工具。"
+
+#. description(gcin-branding-openSUSE)
+#, fuzzy
+msgid "This package provides openSUSE Look and Feel for gcin"
+msgstr "包中含有意外的版本"
+
+#. description(gtk2-engines:gtk2-theme-crux)
+#, fuzzy
+msgid "This package provides the Crux GTK+ 2 theme."
+msgstr "包中含有意外的版本"
+
+#. description(gtk2-engines:gtk2-theme-industrial)
+#, fuzzy
+msgid "This package provides the Industrial GTK+ 2 theme."
+msgstr "包中含有意外的版本"
+
+#. description(gtk2-engines:gtk2-theme-mist)
+#, fuzzy
+msgid "This package provides the Mist GTK+ 2 theme."
+msgstr "包中含有意外的版本"
+
+#. description(gtk2-engines:gtk2-theme-thinice)
+#, fuzzy
+msgid "This package provides the ThinIce GTK+ 2 theme."
+msgstr "包中含有意外的版本"
+
+#. description(font-util)
+msgid ""
+"This package provides utilities for X.Org font package creation/installation."
+msgstr ""
+
+#. description(ispell:ispell-british)
+msgid ""
+"This packages includes a ready British dictionary for ispell. If you install "
+"ispell-american too, check /etc/sysconfig/ispell to see which one will be "
+"the default English dictionary. A short usage description is given in /usr/"
+"share/doc/packages/ispell/README. The sources for this dictionary are "
+"included in the source package of ispell."
+msgstr ""
+
+#. description(ispell-bulgarian)
+msgid ""
+"This packages includes a ready Bulgarian dictionary for ispell. A short "
+"usage description for ispell is given in /usr/share/doc/packages/ispell/"
+"README of the packages ispell. The sources for this dictionary are included "
+"in the package dicts."
+msgstr ""
+
+#. description(ispell-slovak)
+msgid ""
+"This packages includes a ready Slovak dictionary for ispell. A short usage "
+"description for ispell is given in /usr/share/doc/packages/ispell/README of "
+"the packages ispell. The sources for this dictionary are included in the "
+"package dicts."
+msgstr ""
+
+#. description(gtk2-engines:gtk2-engine-glide)
+#, fuzzy
+msgid ""
+"This packages provides the Glide engine for GTK+ 2, originally written for "
+"the Glider theme."
+msgstr "包中含有意外的版本"
+
+#. description(fxload)
+msgid ""
+"This program can download firmware into FX and FX2 EZ-USB devices as well as "
+"the original AnchorChips EZ-USB.  It is intended to be invoked by hotplug "
+"scripts when the unprogrammed device appears on the bus.\n"
+"\n"
+"Primarily as an aid for developers, this can also be used to update firmware "
+"on devices that boot from I2C serial EEPROMs.\tFor that use, as well as "
+"downloading firmware to all other off-chip memory, a second stage loader "
+"must first be downloaded."
+msgstr ""
+
+#. description(hplip:hplip-sane)
+msgid ""
+"This sub-package includes only what is needed for plain scanning with the "
+"scan drivers in HPLIP for standard HP all-in-one printers."
+msgstr ""
+
+#. description(iscan-free)
+msgid ""
+"This version of the Image Scan for Linux software contains only the free "
+"software parts of what Avasys provides.\n"
+"\n"
+"In particular this version of the Image Scan for Linux software neither "
+"contains any proprietary driver library nor firmware files nor proprietary "
+"software to support scanner network interfaces nor the proprietary \"libesmod"
+"\" library which would be required by the \"/usr/bin/iscan\" frontend which "
+"is also not provided.\n"
+"\n"
+"This package contains only the epkowa driver for SANE, which compiles and "
+"runs natively even on non-i386 platforms. For documentation, see \"man sane-"
+"epkowa\".\n"
+"\n"
+"The frontend /usr/bin/iscan was removed because it requires the proprietary "
+"\"libesmod\" library. This should cause no problem because the driver epkowa "
+"in this version of the Image Scan for Linux software runs natively even on "
+"non-i386 platforms so that the usual frontends (like scanimage and xsane) "
+"can be used even on non-i386 platforms.\n"
+"\n"
+"Drawbacks:\n"
+"\n"
+"The free version of the epkowa driver cannot work for those scanners that "
+"require a proprietary driver library (and a firmware file). As of this "
+"writing (June 2010), those scanners are the following models:\n"
+"\n"
+"ES-D400, GT-1500, GT-7200U, GT-7300U, GT-9400UF, GT-D1000, GT-F500, GT-F520, "
+"GT-F550, GT-F570, GT-F600, GT-F650, GT-F670, GT-F700, GT-F720, GT-S50, GT-"
+"S80, GT-S600, GT-S620, GT-X750, GT-X770, GT-X820, Perfection 1250, "
+"Perfection 1250 PHOTO, Perfection 1260, Perfection 1260 PHOTO, Perfection "
+"2480 PHOTO, Perfection 2580 PHOTO, Perfection 3170 PHOTO, Perfection 3490 "
+"PHOTO, Perfection 3590 PHOTO, Perfection 4180 PHOTO, Perfection 4490 PHOTO, "
+"Perfection V10, Perfection V30, Perfection V100 Photo, Perfection V200 "
+"Photo, Perfection V300 Photo, Perfection V350 Photo, Perfection V500 Photo, "
+"Perfection V600 Photo, Stylus CX4300, Stylus CX4400, Stylus CX5500, Stylus "
+"CX5600, Stylus DX4400\n"
+"\n"
+"Those models do not work with the free iscan version. The third-party Image "
+"Scan driver software from Avasys is required for those models. The Image "
+"Scan driver software is made and provided by Avasys at http://avasys.jp/eng/"
+"linux_driver/ where RPM packages for 32-bit (i386) and 64-bit (x86_64) "
+"architecture can be downloaded (provided you accept the Avasys and Epson "
+"license agreements). The Image Scan driver from Avasys contains proprietary "
+"binary-only software. For some models it is only available for 32-bit (i386) "
+"architecture which does not work when you have a 64-bit system installation. "
+"Some scanners are also supported by another (free-software) driver. When "
+"your scanner model requires a non-free (proprietary) module, you have to "
+"download and install two packages from Avasys: The 'iscan' package for the "
+"base software and an additional model dependant 'iscan-plugin' package with "
+"the proprietary module.\n"
+"\n"
+"Other scanners may only work via USB but require a proprietary software "
+"package which supports the network interface. As of this writing (June "
+"2010), those scanners are the following models:\n"
+"\n"
+"Artisan 710 Series, Artisan 810 Series, EP-702A, EP-802A, EP-902A, ES-H7200, "
+"GT-20000, PX-602F, Stylus Office BX610FW Series, Stylus Office TX610FW "
+"Series, Stylus Photo PX650 Series, Stylus Photo PX710W Series, Stylus Photo "
+"PX810FW Series, Stylus Photo TX650 Series, Stylus Photo TX710W Series, "
+"Stylus SX610FW Series, WorkForce 610 Series\n"
+"\n"
+"To use those models via the network interface, you need the above mentioned "
+"third-party Image Scan driver software from Avasys plus an additional iscan-"
+"network-nt package from Avasys which provides support for the network "
+"interface.\n"
+"\n"
+"Note that the iscan-network-nt package from Avasys does not provide support "
+"for the network interface for all models. As of this writing (June 2010), "
+"the network interface of the following models is not supported:\n"
+"\n"
+"AcuLaser CX11NF, AcuLaser CX21, Artisan 700, Artisan 800, EP-801A, EP-901A, "
+"EP-901F, ES-H300, Expression 10000XL, Expression 10000XL Graphic Arts, "
+"Expression 10000XL Photo, GT-2500, LP-A500, LP-M5000, LP-M5500, LP-M5500F, "
+"LP-M5600, LP-M6000, ME Office 700FW, PM-A840S, PX-501A, PX-601F, Stylus "
+"Office BX600FW, Stylus Office TX600FW, Stylus Photo PX700W, Stylus Photo "
+"PX800FW, Stylus Photo TX700W, Stylus Photo TX800FW, Stylus NX400, Stylus "
+"NX410 Series, Stylus SX400, Stylus SX410 Series, Stylus SX600FW, Stylus "
+"TX400, Stylus TX410 Series, WorkForce 600"
+msgstr ""
+
+#. summary(findutils:findutils-locate)
+msgid "Tool for Locating Files (findutils subpackage)"
+msgstr ""
+
+#. summary(frogr)
+msgid "Tool to Manage Flickr Accounts"
+msgstr ""
+
+#. summary(hugin)
+msgid "Toolchain for Stitching of Images and Creating Panoramas"
+msgstr ""
+
+#. summary(hfsutils)
+msgid "Tools Used for the Macintosh's Hierarchical File System"
+msgstr ""
+
+#. summary(ghostscript-cjk)
+msgid "Tools for Using CJK TrueType Fonts and CID-Keyed Fonts with Ghostscript"
+msgstr ""
+
+#. summary(gfxboot:gfxboot-devel)
+msgid "Tools for creating a graphical boot logo"
+msgstr ""
+
+#. description(git:git-cvs)
+msgid "Tools for importing CVS repositories to the Git version control system."
+msgstr ""
+
+#. description(git:git-svn)
+msgid ""
+"Tools for importing Subversion repositories to the Git version control "
+"system."
+msgstr ""
+
+#. summary(mgetty:g3utils)
+msgid "Tools for the G3 (Fax) Graphics Format"
+msgstr ""
+
+#. summary(ibus-table-others:ibus-table-translit)
+msgid "Translit input method for IBus framework"
+msgstr ""
+
+#. summary(ibus-table-others:ibus-table-translit-ua)
+msgid "Translit-ua input method for IBus framework"
+msgstr ""
+
+#. description(ufraw:gimp-ufraw)
+msgid ""
+"UFRaw is a utility to read and manipulate raw images from digital cameras. "
+"It can be used as a GIMP plug-in. It reads raw images using Dave Coffin's "
+"raw conversion utility DCRaw. And it supports basic color management using "
+"Little CMS, allowing the user to apply color profiles."
+msgstr ""
+
+#. summary(glade)
+#, fuzzy
+msgid "User Interface Builder for GTK+"
+msgstr "启动时选择的接口："
+
+#. summary(inst-source-utils)
+msgid "Utilities for creating customized installation sources"
+msgstr ""
+
+#. description(inst-source-utils)
+msgid ""
+"Utilities supporting autoinstallation and creation of customized "
+"installation  sources.\n"
+"\n"
+"Have a look at http://en.opensuse.org/Inst-source-utils for a detailed "
+"description of each script."
+msgstr ""
+
+#. description(vte:glade-catalog-vte)
+msgid ""
+"VTE is a terminal emulator library that provides a terminal widget for use "
+"with GTK+ as well as handling of child process and terminal emulation "
+"settings.\n"
+"\n"
+"This package provides a catalog for Glade, to allow the use of VTE widgets "
+"in Glade."
+msgstr ""
+
+#. summary(ibus-table-chinese)
+msgid "Various Chinese input method table for IBus framework"
+msgstr ""
+
+#. summary(hylafax)
+msgid "Very Powerful Fax Server"
+msgstr ""
+
+#. description(hylafax)
+msgid "Very powerful fax server."
+msgstr ""
+
+#. summary(ibus-unikey)
+msgid "Vietnamese engine for IBus input platform"
+msgstr ""
+
+#. summary(ImageMagick)
+msgid "Viewer and Converter for Images"
+msgstr ""
+
+#. summary(GraphicsMagick:GraphicsMagick-devel)
+#, fuzzy
+msgid "Viewer and Converter for Images - files mandatory for development"
+msgstr "内核接口"
+
+#. description(gnome-keyring-sharp)
+msgid ""
+"When the gnome-keyring-daemon is running, you can use this to retrieve/store "
+"confidential information such as passwords, notes or network services user "
+"information."
+msgstr ""
+
+#. summary(icewm:icewm-default)
+msgid "Window Manager with a Taskbar--Default Version"
+msgstr ""
+
+#. summary(gnome-games:gnibbles)
+msgid "Worm Game for GNOME"
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-wu)
+msgid "Wu pronunciation input method"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-wu)
+msgid "Wu pronunciation input method. URL: http://input.foruto.com/wu/"
+msgstr ""
+
+#. summary(fcitx-table-extra:fcitx-table-cn-wubi-large)
+msgid "Wubi large character set table for Fcitx"
+msgstr ""
+
+#. summary(font-util)
+msgid "X.Org font package creation/installation utilities"
+msgstr ""
+
+#. summary(gnome-games:gtali)
+msgid "Yahtzee Game for GNOME"
+msgstr ""
+
+#. summary(ibus-table-chinese:ibus-table-chinese-yong)
+msgid "YongMa input method"
+msgstr ""
+
+#. description(ibus-table-chinese:ibus-table-chinese-yong)
+msgid "YongMa input method."
+msgstr ""
+
+#. description(installation-images:install-initrd)
+msgid ""
+"You can create an initrd for installation. Useful, for example, to set up a "
+"UML or XEN environment."
+msgstr ""
+
+#. summary(gedit:gedit-plugin-zeitgeist)
+msgid "Zeitgeist dataprovider for gedit"
+msgstr ""
+
+#. summary(ibus-table-zhuyin)
+msgid "Zhuyin input method for IBus"
+msgstr ""
+
+#. description(ibus-table-zhuyin)
+msgid "Zhuyin input method intergrated in IBus framework. 注音輸入法"
+msgstr ""
+
+#. description(gthumb)
+msgid ""
+"gThumb lets you browse your hard disk, showing you thumbnails of image "
+"files. It also lets you view single files (including GIF animations), add "
+"comments to images, organize images in catalogs, print images, view slide "
+"shows, set your desktop background, and more."
+msgstr ""
+
+#. description(gbrainy)
+msgid ""
+"gbrainy is a brain teaser game and trainer to have fun and to keep your "
+"brain trained.\n"
+"\n"
+"It provides the following types of games:\n"
+"\n"
+"* Logic puzzles. Games designed to challenge your reasoning and   thinking "
+"skills.\n"
+"\n"
+"* Mental calculation. Games based on arithmetical operations   designed to "
+"prove your mental calculation skills.\n"
+"\n"
+"* Memory trainers. Games designed to challenge your short term   memory.\n"
+"\n"
+"* Verbal analogies. Games that challenge your verbal aptitude."
+msgstr ""
+
+#. description(gcin:gcin-anthy-module)
+msgid "gcin anthy module, try this to input Japanese with libanthy"
+msgstr ""
+
+#. description(gcin:gcin-chewing-module)
+msgid ""
+"gcin chewing module, support famous chewing inputmethod for traditional "
+"Chinese users"
+msgstr ""
+
+#. description(gcin:gcin-gtk3-immodule)
+msgid "gcin gtk3 immodule, support gtk3-based applications"
+msgstr ""
+
+#. description(gcin)
+msgid ""
+"gcin is a Chinese input method server for traditional Chinese. It features a "
+"better GTK user interface."
+msgstr ""
+
+#. description(gcin:gcin-qt4-immodule)
+#, fuzzy
+msgid "gcin qt4 immodule, support Qt4-based applications"
+msgstr "未能找到 su 应用程序。"
+
+#. description(gdk-pixbuf:gdk-pixbuf-devel)
+msgid ""
+"gdk-pixbuf is an image loading library that can be extended by loadable "
+"modules for new image formats. It is used by toolkits such as GTK+ or "
+"Clutter.\n"
+"\n"
+"This package contains development files for gdk-pixbuf."
+msgstr ""
+
+#. description(gitg)
+msgid ""
+"gitg is a GitX clone for GNOME/gtk+. It aims at being a small, fast and "
+"convenient tool to visualize git history and actions that benefit from a "
+"graphical presentation."
+msgstr ""
+
+#. description(gpsd)
+msgid ""
+"gpsd is a service daemon that mediates access to a GPS sensor connected to "
+"the host computer by serial or USB interface, making its data on the "
+"location/course/velocity of the sensor available to be queried on TCP port "
+"2947 of the host computer.  With gpsd, multiple GPS client applications "
+"(such as navigational and wardriving software) can share access to a GPS "
+"without contention or loss of data.  Also, gpsd responds to queries with a "
+"format that is substantially easier to parse than NMEA 0183.  A client "
+"library is provided for applications.\n"
+"\n"
+"After installing this RPM, gpsd will automatically connect to USB GPSes when "
+"they are plugged in and requires no configuration.  For serial GPSes, you "
+"will need to start gpsd by hand.  Once connected, the daemon automatically "
+"discovers the correct baudrate, stop bits, and protocol. The daemon will be "
+"quiescent when there are no clients asking for location information, and "
+"copes gracefully when the GPS is unplugged and replugged."
+msgstr ""
+
+#. description(gsynaptics)
+msgid ""
+"gsynaptics is a gnome applet that can be used to configure synaptics "
+"touchpad that is commonly used in laptops."
+msgstr ""
+
+#. description(help2man)
+msgid ""
+"help2man is a script to create simple man pages from the --help and\n"
+"--version output of programs.\n"
+"\n"
+"Since most GNU documentation is now in info format, this provides a way to "
+"generate a placeholder man page pointing to that resource while still "
+"providing some useful information."
+msgstr ""
+
+#. description(ilbc)
+msgid ""
+"iLBC (internet Low Bitrate Codec) is a FREE speech codec suitable for robust "
+"voice communication over IP. The codec is designed for narrow band speech "
+"and results in a payload bit rate of 13.33 kbit/s with an encoding frame "
+"length of 30 ms and 15.20 kbps with an encoding length of 20 ms. The iLBC "
+"codec enables graceful speech quality degradation in the case of lost "
+"frames, which occurs in connection with lost or delayed IP packets."
+msgstr ""
+
+#. description(ibus-sunpinyin)
+msgid ""
+"ibus-sunpinyin is a wrapper around SunPinyin which enables user to use "
+"SunPinyin with IBus framework."
+msgstr ""
+
+#. description(ibus-table-chinese)
+msgid ""
+"ibus-table-chinese provides the infrastructure for Chinese input methods. "
+"Input tables themselves are in sub-packages."
+msgstr ""
+
+#. description(ibus-table-others:ibus-table-rustrad)
+msgid ""
+"ibus-table-rustrad provides Rustrad input method on IBus Table under IBus "
+"framework."
+msgstr ""
+
+#. description(ibus-table-others:ibus-table-translit)
+msgid ""
+"ibus-table-translit provides Translit input method on IBus Table under IBus "
+"framework."
+msgstr ""
+
+#. description(ibus-table-others:ibus-table-translit-ua)
+msgid ""
+"ibus-table-translit-ua provides Translit-ua input method on IBus Table under "
+"IBus framework."
+msgstr ""
+
+#. description(ibus-table-others:ibus-table-viqr)
+msgid ""
+"ibus-table-viqr provides the Viqr (Vietnamese) table for ibus-table. Tiếng "
+"Việt / Vietnamese"
+msgstr ""
+
+#. description(icecream)
+msgid "icecream is the next generation distcc."
+msgstr ""
+
+#. description(icecream-monitor)
+msgid ""
+"icecream is the next generation distcc. This package provides a monitor "
+"program."
+msgstr ""
+
+#. description(iftop)
+msgid ""
+"iftop does for network usage what top(1) does for CPU usage. It listens to "
+"network traffic on a named interface and displays a table of current "
+"bandwidth usage by pairs of hosts. It is handy for explaining why the "
+"network links slow."
+msgstr ""
+
+#. description(indent)
+msgid ""
+"indent can be used to make code easier to read. It can also convert from one "
+"style of writing C code to another. indent understands a substantial amount "
+"of C syntax, but it also tries to cope with incomplete and malformed syntax."
+msgstr ""
+
+#. description(irqbalance)
+msgid ""
+"irqbalance dynamically switches the CPUs for IRQs to prevent cpu0 from being "
+"used for all IRQs."
+msgstr ""
+
+#. description(libopenraw:gdk-pixbuf-loader-libopenraw)
+msgid ""
+"libopenraw is a library that aim at decoding digital camera RAW files.\n"
+"\n"
+"This package provides a libopenraw-based gdk-pixbuf loader."
+msgstr ""
+
+#. summary(gcin-branding-openSUSE)
+#, fuzzy
+msgid "openSUSE branding of gcin"
+msgstr "电源管理 (APM)"
+
+#. summary(installation-images:install-initrd-branding-openSUSE)
+msgid "openSUSE theme for install-initrd"
+msgstr ""
+
+#. description(installation-images:install-initrd-branding-openSUSE)
+msgid "openSUSE theme for install-initrd package."
+msgstr ""
+
+#. summary(gtk2-metatheme-gilouche)
+msgid "openSUSE themes and metathemes for gtk2 and metacity"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Development files for ibus-anthy"
+#~ msgstr "开发"
+
+#, fuzzy
+#~ msgid "PalmOS Device Management for GNOME"
+#~ msgstr "电源管理 (APM)"

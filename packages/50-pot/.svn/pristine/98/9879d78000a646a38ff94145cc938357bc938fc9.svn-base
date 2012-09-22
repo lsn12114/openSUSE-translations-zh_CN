@@ -1,0 +1,5744 @@
+# This file was automatically generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2012-09-22 03:37:46\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#. description(perl-Config-Crontab)
+msgid ""
+"*Config::Crontab* provides an object-oriented interface to Vixie-style "
+"crontab(5) files for Perl.\n"
+"\n"
+"A *Config::Crontab* object allows you to manipulate an ordered set of\n"
+"*Event*, *Env*, or *Comment* objects (also included with this package). "
+"Descriptions of these packages may be found below.\n"
+"\n"
+"In short, *Config::Crontab* reads and writes crontab(5) files (and does a "
+"little pretty-printing too) using objects. The general idea is that you "
+"create a *Config::Crontab* object and associate it with a file (if "
+"unassociated, it will work over a pipe to 'crontab -l'). From there, you can "
+"add lines to your crontab object, change existing line attributes, and write "
+"everything back to file.\n"
+"\n"
+"Now, to successfully navigate the module's ins and outs, we'll need a little "
+"terminology lesson."
+msgstr ""
+
+#. description(yast2-nfs-server:yast2-nfs-common)
+msgid "-"
+msgstr ""
+
+#. summary(linux32)
+msgid "32-Bit Emulation Utility for x86-64"
+msgstr ""
+
+#. summary(xf86-video-tdfx)
+msgid "3Dfx video driver for the Xorg X server"
+msgstr ""
+
+#. summary(p7zip)
+msgid "7-zip file compression program"
+msgstr ""
+
+#. summary(wireless-regdb)
+msgid "802.11 regulatory domain database"
+msgstr ""
+
+#. summary(vlan)
+msgid "802.1q VLAN Implementation for Linux"
+msgstr ""
+
+#. summary(vpnc)
+msgid "A Client for Cisco VPN concentrator"
+msgstr ""
+
+#. summary(libzio)
+msgid "A Library for Accessing Compressed Text Files"
+msgstr ""
+
+#. summary(libxml2:libxml2-2)
+msgid "A Library to Manipulate XML Files"
+msgstr ""
+
+#. summary(mailx)
+msgid "A MIME-Capable Implementation of the mailx Command"
+msgstr ""
+
+#. summary(pulseaudio)
+msgid "A Networked Sound Server"
+msgstr ""
+
+#. summary(pam_ldap)
+msgid "A PAM Module for LDAP Authentication"
+msgstr ""
+
+#. summary(pam_mount)
+msgid "A PAM Module that can Mount Volumes for a User Session"
+msgstr ""
+
+#. summary(wvdial)
+msgid "A PPP dialer"
+msgstr ""
+
+#. description(wvdial)
+msgid ""
+"A PPP dialer. With this program you can manually establish a PPP connection "
+"to your ISP. Manual configuration, like dealing with chat scripts, is "
+"normally not necessary as this program contains enough intelligence to deal "
+"with most ISPs."
+msgstr ""
+
+#. summary(lsof)
+msgid "A Program That Lists Information about Files Opened by Processes"
+msgstr ""
+
+#. summary(man)
+msgid "A Program for Displaying man Pages"
+msgstr ""
+
+#. summary(python-base:python-xml)
+msgid "A Python XML Interface"
+msgstr ""
+
+#. summary(pam)
+msgid "A Security Tool that Provides Authentication for Applications"
+msgstr ""
+
+#. summary(suspend)
+msgid "A Set Of Tools To Support Sleep Modes"
+msgstr ""
+
+#. summary(sed)
+msgid "A Stream-Oriented Non-Interactive Text Editor"
+msgstr ""
+
+#. summary(systemd)
+msgid "A System and Session Manager"
+msgstr ""
+
+#. summary(wget)
+msgid "A Tool for Mirroring FTP and HTTP Servers"
+msgstr ""
+
+#. description(vpnc)
+msgid ""
+"A VPN client compatible with Cisco's EasyVPN equipment.\n"
+"\n"
+"Cisco 3000, IOS routers, PIX/ASA Zecurity Appliances, and Juniper/Netscreen "
+"as well as Nortel Contivity (experimental).\n"
+"\n"
+"Supported Authentications: Pre-Shared-Key + XAUTH, Pre-Shared-Key Supported "
+"IKE DH-Groups: dh1 dh2 dh5 Supported Hash Algo (IKE/IPSEC): md5 sha1 "
+"Supported Encryptions (IKE/IPSEC): (null) (1des) 3des aes128 aes192 aes256 "
+"Perfect Forward Secrecy: nopfs dh1 dh2 dh5\n"
+"\n"
+"It runs entirely in userspace and uses the TUN/TAP driver for access."
+msgstr ""
+
+#. description(yast2-transfer)
+msgid "A YaST2 Agent for various Transfer Protocols: FTP, HTTP, and TFTP."
+msgstr ""
+
+#. description(yast2-firewall)
+msgid "A YaST2 module to be used for configuring a firewall."
+msgstr ""
+
+#. description(pptp)
+msgid ""
+"A client for the proprietary Microsoft Point-to-Point Tunneling Protocol, "
+"PPTP.  It allows connections to a PPTP based VPN as used by employers and "
+"some cable and ADSL service providers. It requires MPPE support in the "
+"kernel. Use the ppp-mppe package."
+msgstr ""
+
+#. summary(util-linux)
+msgid "A collection of basic system utilities"
+msgstr ""
+
+#. summary(sg3_utils)
+msgid "A collection of tools that send SCSI commands to devices"
+msgstr ""
+
+#. summary(splashy)
+msgid "A complete user-space boot splash system"
+msgstr ""
+
+#. summary(postfix)
+msgid "A fast, secure, and flexible mailer"
+msgstr ""
+
+#. summary(xeyes)
+msgid "A follow the mouse X demo"
+msgstr ""
+
+#. description(yast2-sysconfig)
+msgid ""
+"A graphical /etc/sysconfig/* editor with integrated search and context "
+"information."
+msgstr ""
+
+#. summary(python-urlgrabber)
+msgid "A high-level cross-protocol url-grabber"
+msgstr ""
+
+#. description(python-urlgrabber)
+msgid ""
+"A high-level cross-protocol url-grabber for python supporting HTTP, FTP and "
+"file locations.  Features include keepalive, byte ranges, throttling, "
+"authentication, proxies and more."
+msgstr ""
+
+#. summary(lockdev)
+msgid "A library for locking devices"
+msgstr ""
+
+#. summary(pkg-config)
+msgid "A library management system"
+msgstr ""
+
+#. summary(usb_modeswitch)
+msgid "A mode switching tool for controlling multiple-device USB gear"
+msgstr ""
+
+#. description(wvstreams)
+msgid ""
+"A network programming library in C++. It aims to be an efficient, secure, "
+"easy to use, and OS-independent library for network application development."
+msgstr ""
+
+#. summary(openssh-askpass)
+msgid "A passphrase dialog for OpenSSH and the X Window System"
+msgstr ""
+
+#. summary(perl-XML-Parser)
+msgid "A perl module for parsing XML documents"
+msgstr ""
+
+#. summary(utempter)
+msgid "A privileged helper for utmp and wtmp updates"
+msgstr ""
+
+#. description(man)
+msgid ""
+"A program for displaying man pages on the screen or sending them to a "
+"printer (using groff)."
+msgstr ""
+
+#. summary(unzip)
+msgid "A program to unpack compressed files"
+msgstr ""
+
+#. summary(udev)
+msgid "A rule-based device node and kernel event manager"
+msgstr ""
+
+#. summary(tcpd)
+msgid "A security wrapper for TCP daemons"
+msgstr ""
+
+#. description(xfsprogs)
+msgid ""
+"A set of commands to use the XFS file system, including mkfs.xfs.\n"
+"\n"
+"XFS is a high performance journaling file system which originated on the SGI "
+"IRIX platform.\tIt is completely multithreaded. It can support large files "
+"and large file systems, extended attributes, and variable block sizes.It is "
+"extent based and makes extensive use of Btrees (directories, extents, and "
+"free space) to aid both performance and scalability.\n"
+"\n"
+"Refer to the documentation at http://oss.sgi.com/projects/xfs/ for complete "
+"details.  This implementation is on-disk compatible with the IRIX version of "
+"XFS."
+msgstr ""
+
+#. summary(perl-XML-XPath)
+msgid "A set of modules for parsing and evaluating XPath statements"
+msgstr ""
+
+#. description(suspend)
+msgid ""
+"A set of tools to support suspending notebooks, working around the specific "
+"problems each machine has."
+msgstr ""
+
+#. description(netcat-openbsd)
+msgid ""
+"A simple Unix utility which reads and writes data across network connections "
+"using TCP or UDP protocol. It is designed to be a reliable \"back-end\" tool "
+"that can be used directly or easily driven by other programs and scripts. At "
+"the same time it is a feature-rich network debugging and exploration tool, "
+"since it can create almost any kind of connection you would need and has "
+"several interesting built-in capabilities.\n"
+"\n"
+"This package contains the OpenBSD rewrite of netcat, including support for "
+"IPv6, proxies, and Unix sockets."
+msgstr ""
+
+#. summary(perl-XML-NamespaceSupport)
+msgid "A simple generic namespace support class"
+msgstr ""
+
+#. summary(ncurses:terminfo-base)
+msgid "A terminal descriptions database"
+msgstr ""
+
+#. summary(strace)
+msgid "A utility to trace the system calls of a program"
+msgstr ""
+
+#. summary(tightvnc)
+msgid "A virtual X-Window System server"
+msgstr ""
+
+#. summary(snapper:snapper-zypp-plugin)
+msgid "A zypp commit plugin for calling snapper"
+msgstr ""
+
+#. summary(xf86-video-ast)
+msgid "ASpeed Technologies video driver for the Xorg X server"
+msgstr ""
+
+#. summary(xf86-video-r128)
+msgid "ATI Rage 128 video driver for the Xorg X server"
+msgstr ""
+
+#. summary(xf86-video-ati)
+msgid "ATI video driver for the Xorg X server"
+msgstr ""
+
+#. summary(xorg-x11-driver-video-nouveau)
+msgid "Accelerated Open Source driver for nVidia cards"
+msgstr ""
+
+#. summary(mtools)
+msgid "Access Files on an MS-DOS File System"
+msgstr ""
+
+#. summary(pam-modules)
+msgid "Additional PAM Modules"
+msgstr ""
+
+#. summary(xfsdump)
+msgid "Administrative Utilities for the XFS File System"
+msgstr ""
+
+#. description(netcfg)
+msgid ""
+"All of the basic configuration files for the network programs including /etc/"
+"aliases, /etc/protocols, and /etc/services.\n"
+"\n"
+"These are often used by network routines in the C library and therefore must "
+"be installed for all network programs."
+msgstr ""
+
+#. summary(unscd)
+msgid "Alternative Name Service Caching Daemon"
+msgstr ""
+
+#. summary(myspell-dictionaries:myspell-american)
+msgid "American Dictionary for MySpell"
+msgstr ""
+
+#. summary(xinetd)
+msgid "An 'inetd' with Expanded Functionality"
+msgstr ""
+
+#. description(vlan)
+msgid ""
+"An 802.1q vlan implementation for Linux. See http://www.candelatech.com/"
+"~greear/vlan.html for more information."
+msgstr ""
+
+#. summary(openslp)
+msgid "An OpenSLP Implementation of Service Location Protocol V2"
+msgstr ""
+
+#. description(xorg-x11-server:xorg-x11-Xvnc)
+msgid "An X Window System server for Virtual Network Computing (VNC)."
+msgstr ""
+
+#. summary(xclock)
+msgid "Analog / digital clock for X"
+msgstr ""
+
+#. summary(xf86-video-ark)
+msgid "Ark Logic video driver for the Xorg X server"
+msgstr ""
+
+#. summary(perl-XML-SAX-Base)
+msgid "Base class SAX Drivers and Filters"
+msgstr ""
+
+#. summary(pulseaudio:pulseaudio-module-bluetooth)
+msgid "Bluetooth support for the PulseAudio sound server"
+msgstr ""
+
+#. summary(mozilla-nss:mozilla-nss-certs)
+msgid "CA certificates for NSS"
+msgstr ""
+
+#. summary(zypper:zypper-log)
+msgid "CLI for accessing the zypper logfile"
+msgstr ""
+
+#. description(xorg-x11-libX11-ccache)
+msgid "Cache for X.Org compose files."
+msgstr ""
+
+#. summary(recode)
+msgid "Character Set Converter"
+msgstr ""
+
+#. summary(xf86-video-chips)
+msgid "Chips and Technologies video driver for the Xorg X server"
+msgstr ""
+
+#. description(obexd:obexd-client)
+msgid "Client to allow sending files using the Obex Push protocol"
+msgstr ""
+
+#. description(lirc:lirc-remotes)
+msgid "Collection of LIRC configuration files for various remotes."
+msgstr ""
+
+#. summary(pinentry)
+msgid "Collection of Simple PIN or Passphrase Entry Dialogs"
+msgstr ""
+
+#. summary(xkbutils)
+msgid "Collection of small utilities utilizing the X11 XKeyboard extension"
+msgstr ""
+
+#. summary(zypper)
+msgid "Command line software manager using libzypp"
+msgstr ""
+
+#. summary(libXext:libXext6)
+msgid "Common extensions to the X11 protocol"
+msgstr ""
+
+#. summary(xorg-x11)
+msgid "Compatibility metapackage for X.Org core and sample applications"
+msgstr ""
+
+#. summary(xorg-x11-driver-input)
+msgid "Compatibility metapackage for X.Org input drivers"
+msgstr ""
+
+#. summary(xcompmgr)
+msgid "Compositing manager for X servers"
+msgstr ""
+
+#. summary(mpt-firmware)
+msgid "Configuration files for autoloading mptctl at boot time"
+msgstr ""
+
+#. description(yast2-mouse)
+msgid "Configuration module to configure the console mouse."
+msgstr ""
+
+#. summary(yast2-nfs-server:yast2-nfs-common)
+msgid "Configuration of NFS, common parts"
+msgstr ""
+
+#. summary(yast2-vm)
+msgid "Configure Hypervisor and Tools for Xen and KVM"
+msgstr ""
+
+#. summary(xorg-x11-fonts:xorg-x11-fonts-core)
+msgid "Core Fonts for X.Org"
+msgstr ""
+
+#. description(yast2-country)
+msgid ""
+"Country specific data and configuration modules (language, keyboard, "
+"timezone) for yast2."
+msgstr ""
+
+#. summary(tunctl)
+msgid "Create and remove virtual network interfaces"
+msgstr ""
+
+#. summary(mkinitrd)
+msgid "Creates an Initial RAM Disk Image for Preloading Modules"
+msgstr ""
+
+#. summary(obexd)
+msgid "D-Bus service for Obex Client access"
+msgstr ""
+
+#. summary(obexd:obexd-client)
+msgid "D-Bus service for Obex Server access"
+msgstr ""
+
+#. summary(ModemManager)
+msgid "DBus interface for modem handling"
+msgstr ""
+
+#. description(ModemManager)
+msgid ""
+"DBus interface for modem handling. Provides a standard abstracted API (over "
+"DBus) to communicate with all sorts of modems (landline, GSM, CDMA)."
+msgstr ""
+
+#. summary(xf86-video-tga)
+msgid "DEC 21030 video driver for the Xorg X server"
+msgstr ""
+
+#. summary(zlib)
+msgid "Data Compression Library"
+msgstr ""
+
+#. summary(usb_modeswitch:usb_modeswitch-data)
+msgid "Data Files for USB Modeswitch"
+msgstr ""
+
+#. description(usb_modeswitch:usb_modeswitch-data)
+msgid "Data files for usb_modeswitch package."
+msgstr ""
+
+#. description(yast2-country:yast2-country-data)
+msgid ""
+"Data files for yast2-country together with the most often used API functions "
+"(Language module)"
+msgstr ""
+
+#. summary(perl-HTML-Tagset)
+msgid "Data tables useful in parsing HTML"
+msgstr ""
+
+#. description(systemd-presets-branding-openSUSE)
+msgid "Default presets for systemd on openSUSE distribution."
+msgstr ""
+
+#. summary(xcursor-themes)
+msgid "Default set of cursor themes for X"
+msgstr ""
+
+#. summary(xdbedizzy)
+msgid "Demo of X11 Double Buffer Extension"
+msgstr ""
+
+#. description(yast2-online-update:yast2-online-update-frontend)
+msgid "Desktop files for YaST2 online update"
+msgstr ""
+
+#. summary(xcmsdb)
+msgid "Device Color Characterization utility for X Color Management System"
+msgstr ""
+
+#. description(polkit-default-privs)
+msgid "Different default privilege settings depending on local configuration"
+msgstr ""
+
+#. summary(quota)
+msgid "Disk Quota System"
+msgstr ""
+
+#. summary(xorg-x11-driver-video-radeonhd)
+msgid "Driver for AMD GPG (ATI) r5xx/r6xx Chipsets"
+msgstr ""
+
+#. description(systemd:systemd-sysvinit)
+msgid "Drop-in replacement of System V init tools."
+msgstr ""
+
+#. summary(perl-XML-Simple)
+msgid "Easy API to read/write XML (Perl module)"
+msgstr ""
+
+#. summary(lukemftp)
+msgid "Enhanced FTP Client"
+msgstr ""
+
+#. summary(sudo)
+msgid "Execute some commands as root"
+msgstr ""
+
+#. summary(zip)
+msgid "File compression program"
+msgstr ""
+
+#. description(zd1211-firmware)
+msgid "Firmware for USB WLAN sticks based on the ZyDAS ZD1211 chip"
+msgstr ""
+
+#. summary(zd1211-firmware)
+msgid "Firmware for ZD1211 USB WLAN sticks"
+msgstr ""
+
+#. summary(showfont)
+msgid "Font dumper for X font server"
+msgstr ""
+
+#. description(libXfontcache:libXfontcache1)
+msgid ""
+"FontCache is an extension that is used by X TrueType to cache information "
+"about fonts."
+msgstr ""
+
+#. summary(xf86-video-fbdev)
+msgid "Framebuffer video driver for the Xorg X server"
+msgstr ""
+
+#. summary(Mesa:Mesa-libEGL1)
+msgid "Free implementation of the EGL API"
+msgstr ""
+
+#. summary(Mesa:Mesa-libglapi0)
+msgid "Free implementation of the GL API"
+msgstr ""
+
+#. summary(Mesa:Mesa-libIndirectGL1)
+msgid "Free implementation of the OpenGL API"
+msgstr ""
+
+#. summary(openvpn)
+msgid "Full-featured SSL VPN solution using a TUN/TAP Interface"
+msgstr ""
+
+#. summary(xf86-video-glint)
+msgid "GLINT/Permedia video driver for the Xorg X server"
+msgstr ""
+
+#. summary(Mesa-demo:Mesa-demo-x)
+msgid "GLX-based demos"
+msgstr ""
+
+#. description(parted)
+msgid ""
+"GNU Parted is a program for creating, destroying, resizing, checking, and "
+"copying partitions, and the file systems on them."
+msgstr ""
+
+#. summary(tar)
+msgid "GNU implementation of tar ((t)ape (ar)chiver)"
+msgstr ""
+
+#. description(nano)
+msgid ""
+"GNU nano is a small and friendly text editor. It aims to emulate the Pico "
+"text editor while also offering a few enhancements."
+msgstr ""
+
+#. summary(parted)
+msgid "GNU partitioner"
+msgstr ""
+
+#. description(open-vm-tools:open-vm-tools-gui)
+msgid "GUI Toolbox for Open Virtual Machine Tools"
+msgstr ""
+
+#. summary(perl-Parse-RecDescent)
+msgid "Generate Recursive-Descent Parsers"
+msgstr ""
+
+#. summary(xf86-input-evdev)
+msgid "Generic Linux input driver for the Xorg X server"
+msgstr ""
+
+#. summary(xf86-video-vesa)
+msgid "Generic VESA video driver for the Xorg X server"
+msgstr ""
+
+#. description(libsmbios:smbios-utils-python)
+msgid ""
+"Get BIOS information, such as System product name, product id, service tag "
+"and asset tag. Set service and asset tags on Dell machines. Manipulate "
+"wireless cards/bluetooth on Dell laptops. Set BIOS password on select Dell "
+"systems. Update BIOS on select Dell systems. Set LCD brightness on select "
+"Dell laptops."
+msgstr ""
+
+#. summary(plymouth)
+msgid "Graphical Boot Animation and Logger"
+msgstr ""
+
+#. summary(viewres)
+msgid "Graphical class browser for Xt"
+msgstr ""
+
+#. summary(virtualbox:virtualbox-guest-kmp-default)
+msgid "Guest kernel modules for VirtualBox"
+msgstr ""
+
+#. description(perl-Digest-HMAC)
+msgid ""
+"HMAC is used for message integrity checks between two parties that share a "
+"secret key, and works in combination with some other Digest algorithm, "
+"usually MD5 or SHA-1. The HMAC mechanism is described in RFC 2104.\n"
+"\n"
+"HMAC follow the common 'Digest::' interface, but the constructor takes the "
+"secret key and the name of some other simple 'Digest::' as argument."
+msgstr ""
+
+#. summary(perl-HTML-Parser)
+msgid "HTML parser class"
+msgstr ""
+
+#. summary(smolt)
+msgid "Hardware Profiler"
+msgstr ""
+
+#. summary(zypp-plugin:zypp-plugin-python)
+msgid "Helper that makes writing ZYpp plugins in python easier"
+msgstr ""
+
+#. description(sysvinit:sysvinit-tools)
+msgid ""
+"Helper tools from sysvinit that support booting, including but not exclusive "
+"to startpar, killproc and pidof. System V init specific programs are in the "
+"sysvinit package."
+msgstr ""
+
+#. summary(nss-mdns)
+msgid "Host Name Resolution Via Multicast DNS (Zeroconf) for glibc"
+msgstr ""
+
+#. summary(xwud)
+msgid "Image displayer for X"
+msgstr ""
+
+#. summary(net-tools)
+msgid "Important Programs for Networking"
+msgstr ""
+
+#. description(nfsidmap)
+msgid ""
+"In NFSv4, identities of users are conveyed by names rather than user ID and "
+"group ID. Both the NFS server and client code in the kernel need to "
+"translate these to numeric IDs."
+msgstr ""
+
+#. summary(scout)
+msgid "Indexing Package Properties"
+msgstr ""
+
+#. description(vaapi-intel-driver)
+msgid ""
+"Intel Driver for Libva is a library providing the VA API video acceleration "
+"API."
+msgstr ""
+
+#. summary(vaapi-intel-driver)
+msgid "Intel Driver for Video Acceleration (VA) API for Linux"
+msgstr ""
+
+#. summary(xf86-video-intel)
+msgid "Intel video driver for the Xorg X server"
+msgstr ""
+
+#. summary(perl-NetxAP)
+msgid "Interface to the protocol family IMAP, IMSP, ACAP, and ICAP"
+msgstr ""
+
+#. summary(xf86-input-joystick)
+msgid "Joystick input driver for the Xorg X server"
+msgstr ""
+
+#. summary(xf86-input-keyboard)
+msgid "Keyboard input driver for the Xorg X server"
+msgstr ""
+
+#. summary(perl-Digest-HMAC)
+msgid "Keyed-Hashing for Message Authentication"
+msgstr ""
+
+#. description(lirc)
+msgid ""
+"LIRC is a package that supports receiving and sending IR signals with the "
+"most common IR remote controls. It contains a daemon that decodes and sends "
+"IR signals, a mouse daemon that translates IR signals to mouse movements, "
+"and a couple of user programs that allow you to control your computer with a "
+"remote control."
+msgstr ""
+
+#. summary(pulseaudio:pulseaudio-module-lirc)
+msgid "LIRC module for PulseAudio"
+msgstr ""
+
+#. summary(lirc:lirc-remotes)
+msgid "LIRC remote definitions"
+msgstr ""
+
+#. summary(lvm2)
+msgid "LVM2 Tools"
+msgstr ""
+
+#. summary(xorg-x11-driver-video-intel-legacy)
+msgid "Legacy Version of the Intel X.Org Driver"
+msgstr ""
+
+#. summary(limal:limal-perl)
+msgid "LiMaL - Core Library Perl Bindings"
+msgstr ""
+
+#. description(limal-nfs-server)
+msgid "LiMaL NFS Server Library provides methods for managing a NFS Server."
+msgstr ""
+
+#. description(limal-nfs-server:limal-nfs-server-perl)
+msgid ""
+"LiMaL NFS Server Library provides methods for managing a NFS Server.\n"
+"\n"
+"This package provides the perl bindings to the NFS Server Library."
+msgstr ""
+
+#. description(limal)
+msgid ""
+"LiMaL is an C++ framework enhancement for BloCXX. This package contains the "
+"LiMaL core library which include some basic functionality like logging and "
+"file handling."
+msgstr ""
+
+#. summary(limal)
+msgid "LiMaL--Core Library"
+msgstr ""
+
+#. summary(limal-nfs-server)
+msgid "LiMaL--NFS Server Library"
+msgstr ""
+
+#. summary(limal-nfs-server:limal-nfs-server-perl)
+msgid "LiMaL--NFS Server Library Perl Bindings"
+msgstr ""
+
+#. summary(perl-Bootloader)
+msgid "Library for Configuring Boot Loaders"
+msgstr ""
+
+#. summary(pango:pango-tools)
+msgid "Library for Layout and Rendering of Text -- Tools"
+msgstr ""
+
+#. summary(libyui-ncurses:libyui-ncurses4)
+msgid "Libyui - Character Based User Interface"
+msgstr ""
+
+#. summary(libyui:libyui4)
+msgid "Libyui - GUI-abstraction library"
+msgstr ""
+
+#. summary(libyui-ncurses-pkg:libyui-ncurses-pkg4)
+msgid "Libyui - yast2 package selector widget for the ncurses UI"
+msgstr ""
+
+#. description(libzio)
+msgid ""
+"Libzio provides a wrapper function for reading or writing gzip or bzip2 "
+"files with FILE streams."
+msgstr ""
+
+#. summary(lsb-release)
+msgid "Linux Standard Base Release Tools"
+msgstr ""
+
+#. summary(lsscsi)
+msgid "List all SCSI devices in the system"
+msgstr ""
+
+#. summary(luit)
+msgid "Locale and ISO 2022 support for Unicode terminals"
+msgstr ""
+
+#. description(lsof)
+msgid ""
+"Lsof lists information about files opened by processes. An open file may be "
+"a regular file, a directory, a block special file, a character special file, "
+"an executing text reference, a library, a stream, or a network file "
+"(Internet socket, NFS file, or UNIX domain socket.)  A specific  file or all "
+"the files in a file system may be selected by path."
+msgstr ""
+
+#. description(luit)
+msgid ""
+"Luit is a filter that can be run between an arbitrary application and a "
+"UTF-8 terminal emulator. It will convert application output from the "
+"locale's encoding into UTF-8, and convert terminal input from UTF-8 into the "
+"locale's encoding."
+msgstr ""
+
+#. summary(update-alternatives)
+msgid "Maintain symbolic links determining default commands"
+msgstr ""
+
+#. summary(pm-profiler)
+msgid "Managing power options on servers"
+msgstr ""
+
+#. summary(xman)
+msgid "Manual page display program for the X Window System"
+msgstr ""
+
+#. summary(xf86-video-mga)
+msgid "Matrox video driver for the Xorg X server"
+msgstr ""
+
+#. description(mdadm)
+msgid ""
+"Mdadm is a program that can be used to control Linux md devices. It is "
+"intended to provide all the functionality of the mdtools and raidtools "
+"programs but with a very different interface."
+msgstr ""
+
+#. summary(memtest86+)
+msgid "Memory Testing Image for x86 Architecture"
+msgstr ""
+
+#. description(memtest86+)
+msgid ""
+"Memtest86 is an image that can be booted instead of a real OS. Once booted, "
+"it can be used to test the computer's memory."
+msgstr ""
+
+#. description(Mesa)
+msgid ""
+"Mesa is a 3-D graphics library with an API which is very similar to that of "
+"OpenGL.* To the extent that Mesa utilizes the OpenGL command syntax or state "
+"machine, it is being used with authorization from Silicon Graphics, Inc."
+"(SGI). However, the author does not possess an OpenGL license from SGI, and "
+"makes no claim that Mesa is in any way a compatible replacement for OpenGL "
+"or associated with SGI. Those who want a licensed implementation of OpenGL "
+"should contact a licensed vendor.\n"
+"\n"
+"Please do not refer to the library as MesaGL (for legal reasons). It's just "
+"Mesa or The Mesa 3-D graphics library.\n"
+"\n"
+"* OpenGL is a trademark of Silicon Graphics Incorporated."
+msgstr ""
+
+#. description(Mesa:Mesa-libGL1)
+msgid ""
+"Mesa is a software library for 3D computer graphics that provides a generic "
+"OpenGL implementation for rendering three-dimensional graphics.\n"
+"\n"
+"GLX (\"OpenGL Extension to the X Window System\") provides the interface "
+"connecting OpenGL and the X Window System: it enables programs wishing to "
+"use OpenGL to do so within a window provided by the X Window System."
+msgstr ""
+
+#. summary(perl-gettext)
+msgid "Message handling functions"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-base)
+msgid "Meta package for pattern base"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-enhanced_base)
+msgid "Meta package for pattern enhanced_base"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-fonts)
+msgid "Meta package for pattern fonts"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-games)
+msgid "Meta package for pattern games"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-imaging)
+msgid "Meta package for pattern imaging"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-multimedia)
+msgid "Meta package for pattern multimedia"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-non_oss)
+msgid "Meta package for pattern non_oss"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-office)
+msgid "Meta package for pattern office"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-sw_management)
+msgid "Meta package for pattern sw_management"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-x11)
+msgid "Meta package for pattern x11"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-yast2_basis)
+msgid "Meta package for pattern yast2_basis"
+msgstr ""
+
+#. summary(patterns-openSUSE:patterns-openSUSE-yast2_install_wf)
+msgid "Meta package for pattern yast2_install_wf"
+msgstr ""
+
+#. summary(microcode_ctl)
+msgid "Microcode Updates for Intel and AMD64 x86/x86_64 CPUs"
+msgstr ""
+
+#. summary(mc)
+msgid "Midnight Commander"
+msgstr ""
+
+#. description(mc)
+msgid ""
+"Midnight Commander is a Norton Commander clone, a program that manipulates "
+"and manages files and directories. It is useful, fast, and has color display "
+"on the Linux console. It also has mouse support if you run the gpm mouse "
+"server. This program requires the terminal description files in /usr/lib/"
+"terminfo, which are found in ncurses.rpm (the essential ones) or terminfo."
+"rpm (the rest).\n"
+"\n"
+"You can also use Midnight Commander under the X Window System with your "
+"mouse. If you enter 'mc -c', colors are used.\n"
+"\n"
+"In Midnight Commander, the screen is divided into four sections: The "
+"majority of the screen is covered by two directory panels. The second to "
+"last line on the screen is the shell command line. The last line displays "
+"the function key assignments. At the very top, the menu list is shown. One "
+"of the directories displayed is the current working directory. This is where "
+"most of the commands are found. For certain commands, like copy and move, "
+"the second directory is used as the target directory."
+msgstr ""
+
+#. summary(mingetty)
+msgid "Minimal Getty for Virtual Consoles Only"
+msgstr ""
+
+#. summary(xorg-scripts)
+msgid "Miscellaneous scripts for X"
+msgstr ""
+
+#. summary(libXmu:libXmu6)
+msgid "Miscellaneous utility routines for X"
+msgstr ""
+
+#. description(mkinitrd)
+msgid ""
+"Mkinitrd creates file system images for use as initial RAM disk (initrd) "
+"images.  These RAM disk images are often used to preload the block device "
+"modules (SCSI or RAID) needed to access the root file system.\n"
+"\n"
+"In other words, generic kernels can be built without drivers for any SCSI "
+"adapters that load the SCSI driver as a module.  Because the kernel needs to "
+"read those modules, but in this case is not able to address the SCSI "
+"adapter, an initial RAM disk is used.\tThe initial RAM disk is loaded by the "
+"operating system loader (normally LILO) and is available to the kernel as "
+"soon as the RAM disk is loaded.  The RAM disk loads the proper SCSI adapter "
+"and allows the kernel to mount the root file system."
+msgstr ""
+
+#. summary(mobile-broadband-provider-info)
+msgid "Mobile Service Provider Database"
+msgstr ""
+
+#. summary(pam-config)
+msgid "Modify common PAM configuration files"
+msgstr ""
+
+#. summary(smartmontools)
+msgid "Monitor for SMART devices"
+msgstr ""
+
+#. summary(libXmu:libXmuu1)
+msgid "More miscellaneous utility routines for X"
+msgstr ""
+
+#. summary(release-notes-openSUSE)
+msgid "Most Important Changes for This openSUSE Release"
+msgstr ""
+
+#. summary(xf86-input-mouse)
+msgid "Mouse input driver for the Xorg X server"
+msgstr ""
+
+#. summary(MozillaFirefox)
+msgid "Mozilla Firefox Web Browser"
+msgstr ""
+
+#. description(MozillaFirefox)
+msgid ""
+"Mozilla Firefox is a standalone web browser, designed for standards "
+"compliance and performance.  Its functionality can be enhanced via a "
+"plethora of extensions."
+msgstr ""
+
+#. description(mtools)
+msgid ""
+"Mtools allows uncomplicated access to an MS-DOS file system on disk without "
+"mounting it. It includes commands for working with MS-DOS files: mdir, mcd, "
+"mcopy, and mformat.\n"
+"\n"
+"XDF support for OS/2 is also provided."
+msgstr ""
+
+#. summary(nfsidmap)
+msgid "NFSv4 ID Mapping Library"
+msgstr ""
+
+#. summary(ypbind)
+msgid "NIS client daemon"
+msgstr ""
+
+#. description(mozilla-nspr)
+msgid ""
+"NSPR provides platform independence for non-GUI operating system facilities. "
+"These facilities include threads, thread synchronization, normal file and "
+"network I/O, interval timing and calendar time, basic memory management "
+"(malloc and free), and shared library linking."
+msgstr ""
+
+#. summary(nss_ldap)
+msgid "NSS LDAP Module"
+msgstr ""
+
+#. summary(ntfs-3g_ntfsprogs:ntfs-3g)
+msgid "NTFS Support in Userspace"
+msgstr ""
+
+#. summary(ntfs-3g_ntfsprogs:ntfsprogs)
+msgid "NTFS Utilities"
+msgstr ""
+
+#. summary(xf86-video-nv)
+msgid "NVIDIA video driver for the Xorg X server"
+msgstr ""
+
+#. description(mailx)
+msgid ""
+"Nail is a mail user agent derived from Berkeley Mail 8.1.  It is intended to "
+"provide the functionality of the POSIX.2 mailx command with additional "
+"support for MIME messages, POP3, and SMTP.  In recent system environments, "
+"nail is Unicode/UTF-8 capable.  Further, it contains some minor enhancements "
+"like the ability to set a \"From:\" address."
+msgstr ""
+
+#. summary(xf86-video-neomagic)
+msgid "Neomagic video driver for the Xorg X server"
+msgstr ""
+
+#. description(perl-Net-DBus)
+msgid ""
+"Net::DBus provides a Perl API for the DBus message system. The DBus Perl "
+"interface is currently operating against the 0.32 development version of "
+"DBus, but should work with later versions too, providing the API changes "
+"have not been too drastic.\n"
+"\n"
+"Users of this package are either typically, service providers in which case "
+"the the Net::DBus::Service manpage and the Net::DBus::Object manpage modules "
+"are of most relevance, or are client consumers, in which case the Net::DBus::"
+"RemoteService manpage and the Net::DBus::RemoteObject manpage are of most "
+"relevance."
+msgstr ""
+
+#. summary(mozilla-nspr)
+msgid "Netscape Portable Runtime"
+msgstr ""
+
+#. summary(netcfg)
+msgid "Network Configuration Files in /etc"
+msgstr ""
+
+#. summary(yp-tools)
+msgid "Network Information Service (YP) client utilities"
+msgstr ""
+
+#. summary(NetworkManager)
+msgid "Network Link Manager and User Applications"
+msgstr ""
+
+#. summary(wvstreams)
+msgid "Network Programming Library in C++"
+msgstr ""
+
+#. summary(mozilla-nss)
+msgid "Network Security Services"
+msgstr ""
+
+#. description(mozilla-nss)
+msgid ""
+"Network Security Services (NSS) is a set of libraries designed to support "
+"cross-platform development of security-enabled server applications. "
+"Applications built with NSS can support SSL v2 and v3, TLS, PKCS #5, PKCS "
+"#7, PKCS #11, PKCS #12, S/MIME, X.509 v3 certificates, and other security "
+"standards."
+msgstr ""
+
+#. summary(ntp)
+msgid "Network Time Protocol daemon (version 4)"
+msgstr ""
+
+#. summary(NetworkManager-vpnc)
+msgid "NetworkManager VPN Support for vpnc"
+msgstr ""
+
+#. summary(NetworkManager-openvpn)
+msgid "NetworkManager VPN support for OpenVPN"
+msgstr ""
+
+#. summary(NetworkManager-pptp)
+msgid "NetworkManager VPN support for PPTP"
+msgstr ""
+
+#. description(NetworkManager)
+msgid ""
+"NetworkManager attempts to keep an active network connection available at "
+"all times.  The point of NetworkManager is to make networking configuration "
+"and setup as painless and automatic as possible.\tIf using DHCP, "
+"NetworkManager is intended to replace default routes, obtain IP addresses "
+"from a DHCP server, and change name servers whenever it sees fit."
+msgstr ""
+
+#. description(NetworkManager-openvpn)
+msgid ""
+"NetworkManager-openvpn provides VPN support to NetworkManager for OpenVPN."
+msgstr ""
+
+#. description(NetworkManager-pptp)
+msgid "NetworkManager-pptp provides VPN support to NetworkManager for PPTP."
+msgstr ""
+
+#. description(NetworkManager-vpnc)
+msgid "NetworkManager-vpnc provides VPN support to NetworkManager for vpnc."
+msgstr ""
+
+#. description(nss_ldap)
+msgid ""
+"Nss_ldap is a glibc NSS module that allows X.500 and LDAP directory servers "
+"to be used as a primary source of aliases, ethers, groups, hosts, networks, "
+"protocol, users, RPCs, services, and shadow passwords (instead of or in "
+"addition to using flat files or NIS)."
+msgstr ""
+
+#. summary(xf86-input-void)
+msgid "Null input driver for the Xorg X server"
+msgstr ""
+
+#. summary(xf86-video-i128)
+msgid "Number 9 I128 video driver for the Xorg X server"
+msgstr ""
+
+#. summary(obex-data-server)
+msgid "Obex DBus API"
+msgstr ""
+
+#. description(obex-data-server)
+msgid ""
+"Obex-Data-Server provides a obex dbus api. Used for bluetooth applications "
+"to transfer and receive data."
+msgstr ""
+
+#. description(perl-HTML-Parser)
+msgid ""
+"Objects of the HTML::Parser class will recognize markup and separate it from "
+"plain text (alias data content) in HTML documents. As different kinds of "
+"markup and text are recognized, the corresponding event handlers are "
+"invoked.\n"
+"\n"
+"HTML::Parser is not a generic SGML parser. We have tried to make it able to "
+"deal with the HTML that is actually \"out there\", and it normally parses as "
+"closely as possible to the way the popular web browsers do it instead of "
+"strictly following one of the many HTML specifications from W3C. Where there "
+"is disagreement, there is often an option that you can enable to get the "
+"official behaviour.\n"
+"\n"
+"The document to be parsed may be supplied in arbitrary chunks. This makes on-"
+"the-fly parsing as documents are received from the network possible.\n"
+"\n"
+"If event driven parsing does not feel right for your application, you might "
+"want to use HTML::PullParser. This is an HTML::Parser subclass that allows a "
+"more conventional program structure."
+msgstr ""
+
+#. summary(vorbis-tools)
+msgid "Ogg Vorbis Tools"
+msgstr ""
+
+#. summary(open-vm-tools)
+msgid "Open Virtual Machine Tools"
+msgstr ""
+
+#. description(open-vm-tools)
+msgid ""
+"Open Virtual Machine Tools (open-vm-tools) are the open source "
+"implementation of VMware Tools. They are a set of guest operating system "
+"virtualization components that enhance performance and user experience of "
+"virtual machines. As virtualization technology rapidly becomes mainstream, "
+"each virtualization solution provider implements their own set of tools and "
+"utilities to supplement the guest virtual machine. However, most of the "
+"implementations are proprietary and are tied to a specific virtualization "
+"platform.\n"
+"\n"
+"With the Open Virtual Machine Tools project, we are hoping to solve this and "
+"other related problems. The tools are currently composed of kernel modules "
+"for Linux and user-space programs for all VMware supported Unix-like guest "
+"operating systems. They provide several useful functions like:\n"
+"\n"
+"* File transfer between a host and guest\n"
+"\n"
+"* Improved memory management and network performance under    "
+"virtualization\n"
+"\n"
+"* General mechanisms and protocols for communication between host and guests "
+"and from guest to guest"
+msgstr ""
+
+#. summary(open-vm-tools:open-vm-tools-gui)
+msgid "Open Virtual Machine Tools - GUI"
+msgstr ""
+
+#. description(openvpn)
+msgid ""
+"OpenVPN is a full-featured SSL VPN solution which can accommodate a wide "
+"range of configurations, including remote access, site-to-site VPNs, WiFi "
+"security, and enterprise-scale remote access solutions with load balancing, "
+"failover, and fine-grained access-controls.\n"
+"\n"
+"OpenVPN implements OSI layer 2 or 3 secure network extension using the "
+"industry standard SSL/TLS protocol, supports flexible client authentication "
+"methods based on certificates, smart cards, and/or 2-factor authentication, "
+"and allows user or group-specific access control policies using firewall "
+"rules applied to the VPN virtual interface.\n"
+"\n"
+"OpenVPN runs on: Linux, Windows 2000/XP and higher, OpenBSD, FreeBSD, "
+"NetBSD, Mac OS X, and Solaris.\n"
+"\n"
+"OpenVPN is not a web application proxy and does not operate through a web "
+"browser."
+msgstr ""
+
+#. description(pam)
+msgid ""
+"PAM (Pluggable Authentication Modules) is a system security tool that allows "
+"system administrators to set authentication policies without having to "
+"recompile programs that do authentication."
+msgstr ""
+
+#. description(pam-modules)
+msgid ""
+"PAM (Pluggable Authentication Modules) is a system security tool that allows "
+"system administrators to set authentication policies without having to "
+"recompile programs that do authentication.\n"
+"\n"
+"This package contains additional PAM Modules, which are necessary for a "
+"working SuSE Linux System: pam_unix2, pam_pwcheck and pam_homecheck"
+msgstr ""
+
+#. summary(pam_krb5)
+msgid "PAM Module for Kerberos Authentication"
+msgstr ""
+
+#. summary(pam_fprint)
+msgid "PAM module to be used with libfprint"
+msgstr ""
+
+#. summary(pciutils)
+msgid "PCI utilities for Kernel version 2.2 and newer"
+msgstr ""
+
+#. summary(pciutils-ids)
+msgid "PCI-utilities pci.ids database"
+msgstr ""
+
+#. summary(libzypp)
+msgid "Package, Patch, Pattern, and Product Management"
+msgstr ""
+
+#. description(PackageKit-branding-openSUSE)
+msgid ""
+"PackageKit is a system designed to make installing and updating software on "
+"your computer easier.  The primary design goal is to unify all the software "
+"graphical tools used in different distributions, and use some of the latest "
+"technology like PolicyKit to make the process suck less.\n"
+"\n"
+"This package provides the openSUSE default configuration for PackageKit."
+msgstr ""
+
+#. summary(perl-XML-LibXML)
+msgid "Perl Binding for libxml2"
+msgstr ""
+
+#. summary(perl-Digest-SHA1)
+msgid "Perl Interface to the SHA-1 Algorithm"
+msgstr ""
+
+#. summary(perl-Net-DBus)
+msgid "Perl extension for the DBus message system"
+msgstr ""
+
+#. summary(perl-XML-Writer)
+msgid "Perl extension for writing XML documents"
+msgstr ""
+
+#. summary(perl-Digest-MD4)
+msgid "Perl interface to the MD4 Algorithm"
+msgstr ""
+
+#. summary(perl-X11-Protocol)
+msgid "Perl module for the X Window System Protocol, version 11"
+msgstr ""
+
+#. description(perl-Bootloader)
+msgid "Perl modules for configuring various boot loaders."
+msgstr ""
+
+#. description(permissions)
+msgid ""
+"Permission settings of files and directories depending on the local security "
+"settings. The local security setting (easy, secure, or paranoid) can be "
+"configured in /etc/sysconfig/security."
+msgstr ""
+
+#. summary(nano)
+msgid "Pico Editor Clone with Enhancements"
+msgstr ""
+
+#. summary(pullin-flash-player)
+msgid "Placeholder for Adobe Flash PlugIn"
+msgstr ""
+
+#. summary(pullin-fluendo-mp3)
+msgid "Placeholder for Fluendo MP3 Plugin"
+msgstr ""
+
+#. summary(xmore)
+msgid "Plain text display utility for X"
+msgstr ""
+
+#. summary(plymouth:plymouth-plugin-script)
+msgid "Plymouth \"script\" plugin"
+msgstr ""
+
+#. summary(plymouth:plymouth-plugin-label)
+msgid "Plymouth label plugin"
+msgstr ""
+
+#. description(plymouth)
+msgid ""
+"Plymouth provides an attractive graphical boot animation in place of the "
+"text messages that normally get shown.  Text messages are instead redirected "
+"to a log file for viewing after boot."
+msgstr ""
+
+#. summary(plymouth:plymouth-scripts)
+msgid "Plymouth related scripts"
+msgstr ""
+
+#. summary(pptp)
+msgid "Point-to-Point Tunneling Protocol (PPTP) Client"
+msgstr ""
+
+#. summary(polkit)
+msgid "PolicyKit Authorization Framework"
+msgstr ""
+
+#. description(polkit)
+msgid ""
+"PolicyKit is a toolkit for defining and handling authorizations. It is used "
+"for allowing unprivileged processes to speak to privileged processes."
+msgstr ""
+
+#. description(postfix)
+msgid "Postfix aims to be an alternative to the widely-used sendmail program."
+msgstr ""
+
+#. summary(upower)
+msgid "Power Device Enumeration Framework"
+msgstr ""
+
+#. summary(xrandr)
+msgid "Primitive command line interface to RandR extension"
+msgstr ""
+
+#. summary(os-prober)
+msgid "Probes disks on the system for installed operating systems"
+msgstr ""
+
+#. summary(rendercheck)
+msgid "Program to test a Render extension implementation"
+msgstr ""
+
+#. description(lvm2)
+msgid ""
+"Programs and man pages for configuring and using the LVM2 Logical Volume "
+"Manager."
+msgstr ""
+
+#. summary(xprop)
+msgid "Property displayer for X"
+msgstr ""
+
+#. description(sssd)
+msgid ""
+"Provides a set of daemons to manage access to remote directories and "
+"authentication mechanisms. It provides an NSS and PAM interface toward the "
+"system and a pluggable backend system to connect to multiple different "
+"account sources. It is also the basis to provide client auditing and policy "
+"services for projects like FreeIPA."
+msgstr ""
+
+#. summary(perl-X500-DN)
+msgid "Provides an interface for RFC 2253 style DN strings"
+msgstr ""
+
+#. summary(pulseaudio:pulseaudio-utils)
+msgid "PulseAudio utilities"
+msgstr ""
+
+#. summary(python-pycurl)
+msgid "PycURL -- cURL library module"
+msgstr ""
+
+#. summary(rpm-python)
+msgid "Python Bindings for Manipulating RPM Packages"
+msgstr ""
+
+#. summary(python-libxml2)
+msgid "Python Bindings for libxml2"
+msgstr ""
+
+#. summary(python)
+msgid "Python Interpreter"
+msgstr ""
+
+#. summary(python-base)
+msgid "Python Interpreter base package"
+msgstr ""
+
+#. summary(satsolver-bindings:python-satsolver)
+msgid "Python bindings for sat solver"
+msgstr ""
+
+#. description(satsolver-bindings:python-satsolver)
+msgid "Python bindings for sat solver."
+msgstr ""
+
+#. summary(libsmbios:smbios-utils-python)
+msgid "Python executables that use libsmbios"
+msgstr ""
+
+#. summary(libsmbios:python-smbios)
+msgid "Python interface to Libsmbios C library"
+msgstr ""
+
+#. description(python)
+msgid ""
+"Python is an interpreted, object-oriented programming language, and is often "
+"compared to Tcl, Perl, Scheme, or Java.  You can find an overview of Python "
+"in the documentation and tutorials included in the python-doc (HTML) or "
+"python-doc-pdf (PDF) packages.\n"
+"\n"
+"If you want to install third party modules using distutils, you need to "
+"install python-devel package."
+msgstr ""
+
+#. description(python-base)
+msgid ""
+"Python is an interpreted, object-oriented programming language, and is often "
+"compared to Tcl, Perl, Scheme, or Java.  You can find an overview of Python "
+"in the documentation and tutorials included in the python-doc (HTML) or "
+"python-doc-pdf (PDF) packages.\n"
+"\n"
+"This package contains all of stand-alone Python files, minus binary modules "
+"that would pull in extra dependencies."
+msgstr ""
+
+#. description(rpm)
+msgid ""
+"RPM Package Manager is the main tool for managing the software packages of "
+"the SuSE Linux distribution.\n"
+"\n"
+"RPM can be used to install and remove software packages. With rpm, it is "
+"easy to update packages.  RPM keeps track of all these manipulations in a "
+"central database.\tThis way it is possible to get an overview of all "
+"installed packages.  RPM also supports database queries."
+msgstr ""
+
+#. summary(perl-Config-Crontab)
+msgid "Read/Write Vixie compatible crontab(5) files"
+msgstr ""
+
+#. summary(rtkit)
+msgid "Realtime Policy and Watchdog Daemon"
+msgstr ""
+
+#. description(rtkit)
+msgid ""
+"RealtimeKit is a D-Bus system service that changes the scheduling policy of "
+"user processes/threads to SCHED_RR (i.e. realtime scheduling mode) on "
+"request. It is intended to be used as a secure mechanism to allow real-time "
+"scheduling to be used by normal user processes."
+msgstr ""
+
+#. summary(reiserfs)
+msgid "Reiser File System utilities"
+msgstr ""
+
+#. summary(logrotate)
+msgid "Rotate, compress, remove, and mail system log files"
+msgstr ""
+
+#. description(rpcbind)
+msgid ""
+"Rpcbind is a replacement for portmap. Whereas portmap supports only UDP and "
+"TCP transports over INET (IPv4), rpcbind can be configured to work on "
+"various transports supported by the TI-RPC. This includes TCP and UDP over "
+"IPv6. Moreover, rpcbind provides additional functions in regards to portmap."
+msgstr ""
+
+#. description(rsync)
+msgid ""
+"Rsync is a fast and extraordinarily versatile file  copying  tool. It can "
+"copy locally, to/from another host over any remote shell, or to/from a "
+"remote rsync daemon. It offers a large number of options that control every "
+"aspect of its behavior and permit very flexible specification of the set of "
+"files to be copied. It is famous for its delta-transfer algorithm, which "
+"reduces the amount of data sent over the network by sending only the "
+"differences between the source files and the existing files in the "
+"destination. Rsync is widely used for backups and mirroring and as an "
+"improved copy command for everyday use."
+msgstr ""
+
+#. description(rsyslog)
+msgid ""
+"Rsyslog is an enhanced multi-threaded syslogd supporting, among others, "
+"MySQL, syslog/tcp, RFC 3195, permitted sender lists, filtering on any "
+"message part, and fine grain output format control. It is quite compatible "
+"to stock sysklogd and can be used as a drop-in replacement. Its advanced "
+"features make it suitable for enterprise-class, encryption protected syslog "
+"relay chains while at the same time being very easy to setup for the novice "
+"user."
+msgstr ""
+
+#. summary(xf86-video-savage)
+msgid "S3 Savage video driver for the Xorg X server"
+msgstr ""
+
+#. description(smartmontools)
+msgid ""
+"SMARTmontools controls and monitors storage devices using the Self-"
+"Monitoring, Analysis, and Reporting Technology System (S.M.A.R.T.) built "
+"into ATA, SATA and SCSI Hard Drives. This is used to check the hard drive "
+"reliability and to predict drive failures. The suite contains two utilities. "
+"The first, smartctl, is a command line utility designed to perform simple S."
+"M.A.R.T. tasks. The second, smartd, is a daemon that periodically monitors "
+"the smart status and reports errors to syslog. The package is compatible "
+"with the ATA/ATAPI-3 to -7 specification. The package is intended to "
+"incorporate as much \"vendor specific\" and \"reserved\" information as "
+"possible about disk drives. The commands man smartctl and man smartd will "
+"provide more information."
+msgstr ""
+
+#. description(openssh)
+msgid ""
+"SSH (Secure Shell) is a program for logging into and executing commands on a "
+"remote machine. It is intended to replace rsh (rlogin and rsh) and provides "
+"openssl (secure encrypted communication) between two untrusted hosts over an "
+"insecure network.\n"
+"\n"
+"xorg-x11 (X Window System) connections and arbitrary TCP/IP ports can also "
+"be forwarded over the secure channel."
+msgstr ""
+
+#. summary(permissions)
+msgid "SUSE Linux Default Permissions"
+msgstr ""
+
+#. summary(polkit-default-privs)
+msgid "SUSE PolicyKit default permissions"
+msgstr ""
+
+#. summary(rstart)
+msgid "Sample implementation of a Remote Start client"
+msgstr ""
+
+#. summary(xcalc)
+msgid "Scientific calculator for X"
+msgstr ""
+
+#. summary(xmag)
+msgid "Screen magnifier"
+msgstr ""
+
+#. description(pm-profiler)
+msgid ""
+"Script infrastructure to enable/disable certain power management functions "
+"via simple configuration files. It is intended for server use."
+msgstr ""
+
+#. summary(openssh)
+msgid "Secure Shell Client and Server (Remote Login Program)"
+msgstr ""
+
+#. description(sed)
+msgid ""
+"Sed takes text input, performs one or more operations on it, and outputs the "
+"modified text. Sed is typically used for extracting parts of a file using "
+"pattern matching or  for substituting multiple occurrences of a string "
+"within a file."
+msgstr ""
+
+#. description(openslp)
+msgid ""
+"Service Location Protocol is an IETF standards track protocol that provides "
+"a framework that allows networking applications to discover the existence, "
+"location, and configuration of networked services in enterprise networks.\n"
+"\n"
+"OpenSLP is an open source implementation of the SLPv2 protocol as defined by "
+"RFC 2608 and RFC 2614.  This package includes the slptool and runtime "
+"libraries."
+msgstr ""
+
+#. description(sessreg)
+msgid ""
+"Sessreg is a simple program for managing utmp/wtmp entries for X sessions. "
+"It was originally written for use with xdm, but may also be used with other "
+"display managers such as gdm or kdm."
+msgstr ""
+
+#. summary(ulimit)
+msgid "Set system-wide per-process limits (rlimits)"
+msgstr ""
+
+#. summary(splashy:splashy-mkinitrd)
+msgid "Setup script for mkinitrd"
+msgstr ""
+
+#. description(splashy:splashy-mkinitrd)
+msgid "Setup script for mkinitrd adds splashy support into initial ram disk."
+msgstr ""
+
+#. summary(shared-mime-info)
+msgid "Shared MIME Database"
+msgstr ""
+
+#. summary(xf86-video-sis)
+msgid "SiS and XGI video driver for the Xorg X server"
+msgstr ""
+
+#. summary(xf86-video-siliconmotion)
+msgid "Silicon Motion video driver for the Xorg X server"
+msgstr ""
+
+#. summary(oclock)
+msgid "Simple round analog clock"
+msgstr ""
+
+#. summary(PackageKit:PackageKit-backend-zypp)
+msgid "Simple software installation management software -- Zypp Backend"
+msgstr ""
+
+#. summary(PackageKit-branding-openSUSE)
+msgid ""
+"Simple software installation management software -- openSUSE default "
+"configuration"
+msgstr ""
+
+#. summary(xedit)
+msgid "Simple text editor for X"
+msgstr ""
+
+#. summary(python-simplejson)
+msgid "Simple, fast, extensible JSON encoder/decoder for Python"
+msgstr ""
+
+#. summary(usbmuxd)
+msgid "Socket daemon for the usbmux protocol used by Apple devices"
+msgstr ""
+
+#. description(sax2:sax2-tools)
+msgid ""
+"Some small X Window System tools to handle input devices, for example, mouse "
+"and keyboard."
+msgstr ""
+
+#. description(x11-tools)
+msgid "Some useful tools for the X Window System."
+msgstr ""
+
+#. description(ndiswrapper)
+msgid ""
+"Some wireless LAN vendors refuse to release hardware specifications or "
+"drivers for their products for operating systems other than Microsoft "
+"Windows. The ndiswrapper project makes it possible to use such hardware with "
+"Linux by means of a loadable kernel module that \"wraps around\" NDIS "
+"(Windows network driver API) drivers."
+msgstr ""
+
+#. summary(splashy:splashy-branding-openSUSE)
+msgid "Splashy branding for openSUSE"
+msgstr ""
+
+#. description(splashy)
+msgid ""
+"Splashy is a next generation boot splashing system for Linux systems. Unlike "
+"other splashing systems, it needs no patches to the kernel and it´s "
+"installed like a normal package. Make your boot process eye-candy with "
+"Splashy!\n"
+"\n"
+"Some of Splashy´s most noticeable features include:\n"
+"\n"
+"* Require zero kernel patches/full functionality in user-space\n"
+"\n"
+"* Boot/halt/reboot/runlevel-switch support\n"
+"\n"
+"* Progressbar support (with optional border)\n"
+"\n"
+"* Verbose mode (with F2/ESC keys)\n"
+"\n"
+"* Configuration file in XML\n"
+"\n"
+"* Cope with any video-mode resolution/size\n"
+"\n"
+"* Cope with 8, 16, and 24 bit framebuffers\n"
+"\n"
+"* Alpha channel (transparency) support\n"
+"\n"
+"* Video mode detection\n"
+"\n"
+"* Initramfs support\n"
+"\n"
+"* TrueType2 fonts support\n"
+"\n"
+"* Lots of image/animation file formats supported: jpg, png, gif,    mpg, "
+"swf\n"
+"\n"
+"* Low dependencies and code in C to best perform\n"
+"\n"
+"* Full LSB support\n"
+"\n"
+"* Multiple themes support\n"
+"\n"
+"* Really easy to create new themes\n"
+"\n"
+"* X detection on exit\n"
+"\n"
+"* Smooth progressbar movement\n"
+"\n"
+"* Animations support\n"
+"\n"
+"* Fade in/out effects\n"
+"\n"
+"* Totally configurable"
+msgstr ""
+
+#. description(openssh-askpass)
+msgid ""
+"Ssh (Secure  Shell) is a program for logging into a remote machine and for "
+"executing commands on a remote machine. This package contains an X Window "
+"System passphrase dialog for OpenSSH."
+msgstr ""
+
+#. summary(SuSEfirewall2)
+msgid "Stateful Packet Filter Using iptables and netfilter"
+msgstr ""
+
+#. summary(susehelp:susehelp_en)
+msgid "SuSE Help System (English)"
+msgstr ""
+
+#. summary(susehelp)
+msgid "SuSE Help-System (base)"
+msgstr ""
+
+#. summary(smpppd)
+msgid "SuSE Meta PPP Daemon"
+msgstr ""
+
+#. summary(sbl)
+msgid "SuSE blinux"
+msgstr ""
+
+#. description(sbl)
+msgid ""
+"SuSE blinux is a screen reader for the Linux console. It supports braille "
+"displays."
+msgstr ""
+
+#. description(SuSEfirewall2)
+msgid ""
+"SuSEfirewall2 implements a packet filter that protects hosts and routers by "
+"limiting which services or networks are accessible on the host or via the "
+"router.\n"
+"\n"
+"SuSEfirewall2 uses the iptables/netfilter packet filtering infrastructure to "
+"create a flexible rule set for a stateful firewall."
+msgstr ""
+
+#. description(sudo)
+msgid ""
+"Sudo is a command that allows users to execute some commands as root. The /"
+"etc/sudoers file (edited with 'visudo') specifies which users have access to "
+"sudo and which commands they can run. Sudo logs all its activities to "
+"syslogd, so the system administrator can keep an eye on things. Sudo asks "
+"for the password for initializing a check period of a given time N (where N "
+"is defined at installation and is set to 5 minutes by default)."
+msgstr ""
+
+#. summary(nfs-utils:nfs-client)
+msgid "Support Utilities for NFS"
+msgstr ""
+
+#. summary(numlockx)
+msgid "Switch on/off or toggle numlock"
+msgstr ""
+
+#. summary(xf86-input-synaptics)
+msgid "Synaptics touchpad input driver for the Xorg X server"
+msgstr ""
+
+#. summary(sysvinit)
+msgid "SysV-Style init"
+msgstr ""
+
+#. summary(syslogd:syslog-service)
+msgid "Syslog service files & scripts"
+msgstr ""
+
+#. summary(sssd)
+msgid "System Security Services Daemon"
+msgstr ""
+
+#. summary(sysfsutils)
+msgid "System Utilities Package / Libsysfs"
+msgstr ""
+
+#. summary(systemd:systemd-sysvinit)
+msgid "System V init tools"
+msgstr ""
+
+#. description(sysvinit)
+msgid ""
+"System V style init programs by Miquel van Smoorenburg that control the "
+"booting and shutdown of your system. These support a number of system "
+"runlevels, each one associated with a specific set of utilities. For "
+"example, the normal system runlevel is 3, which starts a getty on virtual "
+"consoles tty1-tty6. Runlevel 5 starts xdm. Runlevel 0 shuts down the system. "
+"See the individual man pages for inittab, initscript, halt, init, powerd, "
+"reboot, runlevel, shutdown, and telinit for more information."
+msgstr ""
+
+#. summary(Mesa)
+msgid "System for rendering interactive 3-D graphics"
+msgstr ""
+
+#. description(yast2-installation)
+msgid "System installation code as present on installation media."
+msgstr ""
+
+#. description(systemd)
+msgid ""
+"Systemd is a system and service manager, compatible with SysV and LSB init "
+"scripts for Linux. systemd provides aggressive parallelization capabilities, "
+"uses socket and D-Bus activation for starting services, offers on-demand "
+"starting of daemons, keeps track of processes using Linux cgroups, supports "
+"snapshotting and restoring of the system state, maintains mount and "
+"automount points and implements an elaborate transactional dependency-based "
+"service control logic. It can work as a drop-in replacement for sysvinit."
+msgstr ""
+
+#. summary(netcat-openbsd)
+msgid "TCP/IP swiss army knife"
+msgstr ""
+
+#. summary(twm)
+msgid "Tab Window Manager for the X Window System"
+msgstr ""
+
+#. description(tcl)
+msgid ""
+"Tcl (Tool Command Language) is a very powerful but easy to learn dynamic "
+"programming language, suitable for a very wide range of uses, including web "
+"and desktop applications, networking, administration, testing and many more. "
+"Open source and business-friendly, Tcl is a mature yet evolving language "
+"that is truly cross platform, easily deployed and highly extensible.\n"
+"\n"
+"For more information on Tcl see http://www.tcl.tk and http://wiki.tcl.tk ."
+msgstr ""
+
+#. summary(xf86dga)
+msgid "Test program for the XFree86-DGA extension"
+msgstr ""
+
+#. description(perl-Digest-MD4)
+msgid ""
+"The 'Digest::MD4' module allows you to use the RSA Data Security Inc. MD4 "
+"Message Digest algorithm from within Perl programs. The algorithm takes as "
+"input a message of arbitrary length and produces as output a 128-bit "
+"\"fingerprint\" or \"message digest\" of the input.\n"
+"\n"
+"The 'Digest::MD4' module provides a procedural interface for simple use, as "
+"well as an object oriented interface that can handle messages of arbitrary "
+"length and which can read files directly."
+msgstr ""
+
+#. description(wireless-regdb)
+msgid ""
+"The 802.11 regulatory domain database is used by CRDA and provides allowed "
+"frequency ranges for 802.11 wireless drivers."
+msgstr ""
+
+#. description(myspell-dictionaries:myspell-american)
+msgid ""
+"The American dictionary for MySpell.\n"
+"\n"
+"MySpell dictionaries are compatible with MySpell and Hunspell spell-checker. "
+"They are used by various desktop applications, for example, LibreOffice, "
+"Mozilla Thunderbird, and Mozilla Firefox."
+msgstr ""
+
+#. description(libXcomposite:libXcomposite1)
+msgid ""
+"The Composite extension causes a entire sub-tree of the window hierarchy to "
+"be rendered to an off-screen buffer. Applications can then take the contents "
+"of that buffer and do whatever they like. The off-screen buffer can be "
+"automatically merged into the parent window or merged by external programs, "
+"called compositing managers."
+msgstr ""
+
+#. summary(Mesa:Mesa-libGL1)
+msgid "The GL/GLX runtime of the Mesa 3D graphics library"
+msgstr ""
+
+#. description(Mesa:Mesa-libglapi0)
+msgid ""
+"The Mesa GL API module is responsible for dispatching all the gl* functions. "
+"It is intended to be mainly used by the Mesa-libGLES* packages."
+msgstr ""
+
+#. description(ntp)
+msgid ""
+"The Network Time Protocol (NTP) is used to synchronize the time of a "
+"computer client or server to another server or reference time source, such "
+"as a radio, satellite receiver, or modem.\n"
+"\n"
+"Ntpd is an operating system daemon that sets and maintains the system time-"
+"of-day synchronized with Internet standard time servers."
+msgstr ""
+
+#. summary(openldap2-client)
+msgid "The OpenLDAP commandline client tools"
+msgstr ""
+
+#. summary(perl)
+msgid "The Perl interpreter"
+msgstr ""
+
+#. summary(ppp)
+msgid "The Point to Point Protocol for Linux"
+msgstr ""
+
+#. summary(rpm)
+msgid "The RPM Package Manager"
+msgstr ""
+
+#. description(smpppd)
+msgid ""
+"The SuSE Meta PPP Daemon is the back-end for kinternet. It is required for "
+"modem, ISDN, and DSL connections."
+msgstr ""
+
+#. summary(tcl)
+msgid "The Tcl Programming Language"
+msgstr ""
+
+#. description(libXdamage:libXdamage1)
+msgid ""
+"The X Damage Extension allows applications to track modified regions of "
+"drawables."
+msgstr ""
+
+#. description(libXdmcp:libXdmcp6)
+msgid ""
+"The X Display Manager Control Protocol (XDMCP) provides a uniform mechanism "
+"for an autonomous display to request login service from a remote host. By "
+"autonomous, we mean the display consists of hardware and processes that are "
+"independent of any particular host where login service is desired. An X "
+"terminal (screen, keyboard, mouse, processor, network interface) is a prime "
+"example of an autonomous display."
+msgstr ""
+
+#. description(libXfixes:libXfixes3)
+msgid ""
+"The X Fixes extension provides applications with work-arounds for various "
+"limitations in the core protocol."
+msgstr ""
+
+#. summary(xkeyboard-config)
+msgid "The X Keyboard Extension"
+msgstr ""
+
+#. description(xkeyboard-config)
+msgid ""
+"The X Keyboard Extension essentially replaces the core protocol definition "
+"of keyboard. The extension makes possible to clearly and explicitly specify "
+"most aspects of keyboard behaviour on per-key basis and to more closely "
+"track the logical and physical state of the keyboard. It also includes a "
+"number of keyboard controls designed to make keyboards more accessible to "
+"people with physical impairments."
+msgstr ""
+
+#. description(libXrandr:libXrandr2)
+msgid ""
+"The X Resize, Rotate and Reflect Extension (RandR) allows clients to "
+"dynamically change X screens, so as to resize, to change the orientation and "
+"layout of the root window of a screen."
+msgstr ""
+
+#. description(libXv:libXv1)
+msgid ""
+"The X Video Extension (Xv) extension provides support for video adaptors "
+"attached to an X display. It takes the approach that a display may have one "
+"or more video adaptors, each of which has one or more ports through which "
+"independent video streams pass.\n"
+"\n"
+"Its use is to rescale video playback, do colorspace conversions, and change "
+"contrast, brightness and hue using video controller hardware acceleration."
+msgstr ""
+
+#. description(libXScrnSaver:libXss1)
+msgid ""
+"The X Window System provides support for changing the image on a display "
+"screen after a user-settable period of inactivity to avoid burning the "
+"cathode ray tube phosphors. This extension allows an external \"screen saver"
+"\" client to detect when the alternate image is to be displayed and to "
+"provide the graphics."
+msgstr ""
+
+#. description(xfwp)
+msgid ""
+"The X firewall proxy (xfwp) is an application layer gateway proxy that may "
+"be run on a network firewall host to forward X traffic across the firewall. "
+"Used in conjunction with the X server Security extension and authorization "
+"checking, xfwp constitutes a safe, simple, and reliable mechanism both to "
+"hide the addresses of X servers located on the Intranet and to enforce a "
+"server connection policy."
+msgstr ""
+
+#. description(libxcb:libxcb-dri2-0)
+msgid ""
+"The X protocol C-language Binding (XCB) is a replacement for Xlib featuring "
+"a small footprint, latency hiding, direct access to the protocol, improved "
+"threading support, and extensibility."
+msgstr ""
+
+#. description(libxcb:libxcb-shape0)
+msgid ""
+"The X protocol C-language Binding (XCB) is a replacement for Xlib featuring "
+"a small footprint, latency hiding, direct access to the protocol, improved "
+"threading support, and extensibility.\n"
+"\n"
+"- X11 Nonrectangular Window Shape extension (Xshape)"
+msgstr ""
+
+#. description(libxcb:libxcb-shm0)
+msgid ""
+"The X protocol C-language Binding (XCB) is a replacement for Xlib featuring "
+"a small footprint, latency hiding, direct access to the protocol, improved "
+"threading support, and extensibility.\n"
+"\n"
+"The MIT Shared Memory (MIT-SHM) Extension allows exchanging image data "
+"between client and server using shared memory, so that it does not need to "
+"be transferred over sockets."
+msgstr ""
+
+#. description(libxcb:libxcb-randr0)
+msgid ""
+"The X protocol C-language Binding (XCB) is a replacement for Xlib featuring "
+"a small footprint, latency hiding, direct access to the protocol, improved "
+"threading support, and extensibility.\n"
+"\n"
+"The X Resize, Rotate and Reflect Extension (RandR) allows clients to "
+"dynamically change X screens, so as to resize, to change the orientation and "
+"layout of the root window of a screen."
+msgstr ""
+
+#. description(xcb-util:libxcb-util1)
+msgid ""
+"The XCB util modules provide a number of libraries which sit on top of "
+"libxcb, the core X protocol library, and some of the extension libraries. "
+"These experimental libraries provide convenience functions and interfaces "
+"which make the raw X protocol more usable. Some of the libraries also "
+"provide client-side code which is not strictly part of the X protocol but "
+"which have traditionally been provided by Xlib.\n"
+"\n"
+"Included in this package are:\n"
+"\n"
+"- atom: Standard core X atom constants and atom caching.\n"
+"- aux: Convenient access to connection setup and some core requests.\n"
+"- event: Callback X event handling."
+msgstr ""
+
+#. description(libxml2:libxml2-2)
+msgid ""
+"The XML C library was initially developed for the GNOME project. It is now "
+"used by many programs to load and save extensible data structures or "
+"manipulate any kind of XML files.\n"
+"\n"
+"This library implements a number of existing standards related to markup "
+"languages, including the XML standard, name spaces in XML, XML Base, RFC "
+"2396, XPath, XPointer, HTML4, XInclude, SGML catalogs, and XML catalogs. In "
+"most cases, libxml tries to implement the specification in a rather strict "
+"way. To some extent, it provides support for the following specifications, "
+"but does not claim to implement them: DOM, FTP client, HTTP client, and "
+"SAX.\n"
+"\n"
+"The library also supports RelaxNG. Support for W3C XML Schemas is in "
+"progress."
+msgstr ""
+
+#. description(libXtst:libXtst6)
+msgid ""
+"The XTEST extension is a minimal set of client and server extensions "
+"required to completely test the X11 server with no user intervention. This "
+"extension is not intended to support general journaling and playback of user "
+"actions.\n"
+"\n"
+"The RECORD extension supports the recording and reporting of all core X "
+"protocol and arbitrary X extension protocol."
+msgstr ""
+
+#. description(libXext:libXext6)
+msgid ""
+"The Xext library contains a handful of X11 extensions:\n"
+"- Double Buffer extension (DBE/Xdbe)\n"
+"- Display Power Management Signaling (DPMS) extension\n"
+"- X11 Nonrectangular Window Shape extension (Xshape)\n"
+"- The MIT Shared Memory extension (MIT-SHM/Xshm)\n"
+"- TOG-CUP (colormap) protocol extension (Xcup)\n"
+"- X Extended Visual Information extension (XEvi)\n"
+"- X11 Double-Buffering, Multi-Buffering, and Stereo extension (Xmbuf)"
+msgstr ""
+
+#. description(libXmu:libXmu6)
+msgid ""
+"The Xmu library is a collection of miscellaneous (some might say random) "
+"utility functions that have been useful in building various applications and "
+"widgets, specifically the Athena Widgets."
+msgstr ""
+
+#. description(libXmu:libXmuu1)
+msgid ""
+"The Xmu/Xmuu libraries are a collection of miscellaneous (some might say "
+"random) utility functions that have been useful in building various "
+"applications and widgets."
+msgstr ""
+
+#. description(libXrender:libXrender1)
+msgid ""
+"The Xrender library is designed as a lightweight library interface to the "
+"Render extension."
+msgstr ""
+
+#. description(yast2-xml)
+msgid "The YaST2 XML agent"
+msgstr ""
+
+#. description(yast2-nis-client)
+msgid ""
+"The YaST2 component for NIS configuration. NIS is a service similar to "
+"yellow pages."
+msgstr ""
+
+#. description(yast2-nfs-client)
+msgid ""
+"The YaST2 component for configuration of NFS. NFS stands for network file "
+"system access. It allows access to files on remote machines."
+msgstr ""
+
+#. description(yast2-irda)
+msgid ""
+"The YaST2 component for configuring the Infra-red Data Access (IrDA) stack."
+msgstr ""
+
+#. description(yast2-inetd)
+msgid "The YaST2 component for configuring the inetd and xinetd daemons."
+msgstr ""
+
+#. description(yast2-mail)
+msgid ""
+"The YaST2 component for mail configuration. It handles Postfix, Cyrus, "
+"Amavis and Fetchmail."
+msgstr ""
+
+#. description(yast2-security)
+msgid "The YaST2 component for security settings configuration."
+msgstr ""
+
+#. description(yast2-sudo)
+msgid ""
+"The YaST2 component for sudo configuration. It configures capabilities of "
+"users to run commands as root or other user."
+msgstr ""
+
+#. summary(xterm)
+msgid "The basic X terminal program"
+msgstr ""
+
+#. description(pciutils-ids)
+msgid ""
+"The database of PCI IDS for pciutils.\n"
+"\n"
+"merge-pciids: This program merges several pci.ids files."
+msgstr ""
+
+#. description(sound-theme-freedesktop)
+msgid ""
+"The default freedesktop.org sound theme following the XDG theming "
+"specification.\t(http://0pointer.de/public/sound-theme-spec.html)."
+msgstr ""
+
+#. summary(rsyslog)
+msgid "The enhanced syslogd for Linux and Unix"
+msgstr ""
+
+#. description(python-base:python-xml)
+msgid ""
+"The expat module is a Python interface to the expat XML parser. Since "
+"Python2.x, it is part of the core Python distribution."
+msgstr ""
+
+#. description(ulimit)
+msgid ""
+"The file /etc/initscript is used by init to execute the commands in /etc/"
+"inittab. As any process it started from init, it is a convenient place to "
+"adjust per process limits (rlimits).\n"
+"\n"
+"The script provided here does set limits on the memory usage per process "
+"(amongst setting other limits) and thus prevents that a single process that "
+"leaks memory can cause your system to run out of memory and provoke the "
+"system to crawl (trash on the swap partition) before it rescues itself by "
+"killing processes (but unfortunately does not always hit the right process "
+"with the first try). The script sets the limits in percent of available "
+"memory, thus the defaults may match a large range of systems.\n"
+"\n"
+"Configuration is done in file /etc/sysconfig/ulimit.\n"
+"\n"
+"Per user rlimit settings can be configured by filling in /etc/security/"
+"limits.conf and using the pam_limits.so functionality.\n"
+"\n"
+"More finegrained resource management (per process group), can be done via "
+"control groups (containers) with SLE11/openSUSE11.1 or newer."
+msgstr ""
+
+#. description(perl-gettext)
+msgid ""
+"The gettext module permits access from perl to the gettext() family of "
+"functions for retrieving message strings from databases constructed to "
+"internationalize software.\n"
+"\n"
+"gettext(), dgettext(), and dcgettext() attempt to retrieve a string matching "
+"their 'msgid' parameter within the context of the current locale. dcgettext"
+"() takes the message's category and the text domain as parameters while "
+"dcgettext() defaults to the LC_MESSAGES category and gettext() defaults to "
+"LC_MESSAGES and uses the current text domain. If the string is not found in "
+"the database, then 'msgid' is returned.\n"
+"\n"
+"textdomain() sets the current text domain and returns the previously active "
+"domain.\n"
+"\n"
+"_bindtextdomain(domain, dirname)_ instructs the retrieval functions to look "
+"for the databases belonging to domain 'domain' in the directory 'dirname'"
+msgstr ""
+
+#. description(master-boot-code)
+msgid ""
+"The i386 master boot code is code that, after copied to the MBR of the boot "
+"disk, loads and starts the boot sector of the active partition."
+msgstr ""
+
+#. description(pullin-flash-player)
+msgid ""
+"The installation of this package triggers online update of flash-player."
+msgstr ""
+
+#. description(pullin-fluendo-mp3)
+msgid ""
+"The installation of this package triggers online update of gstreamer-0_10-"
+"fluendo-mp3."
+msgstr ""
+
+#. description(libva:vaapi-dummy-driver)
+msgid ""
+"The libva library implements the Video Acceleration (VA) API for Linux. The "
+"library loads a hardware dependendent driver.\n"
+"\n"
+"This contains the dummy driver."
+msgstr ""
+
+#. description(python-libxml2)
+msgid ""
+"The libxml2-python package contains a module that permits applications "
+"written in the Python programming language to use the interface supplied by "
+"the libxml2 library to manipulate XML files.\n"
+"\n"
+"This library allows manipulation of XML files. It includes support for "
+"reading, modifying, and writing XML and HTML files. There is DTD support "
+"that includes parsing and validation even with complex DTDs, either at parse "
+"time or later once the document has been modified."
+msgstr ""
+
+#. description(listres)
+msgid ""
+"The listres program generates a list of X resources for a widget in an X "
+"client written using a toolkit based on libXt."
+msgstr ""
+
+#. description(logrotate)
+msgid ""
+"The logrotate utility is designed to simplify the administration of log "
+"files on a system that generates a lot of log files. Logrotate allows the "
+"automatic rotation, compression, removal, and mailing of log files. "
+"Logrotate can be set to handle a log file daily, weekly, monthly, or when "
+"the log file reaches a certain size. Normally, logrotate runs as a daily "
+"cron job."
+msgstr ""
+
+#. description(libXt:libXt6)
+msgid ""
+"The low level Xlib library provides functions for interacting with an X11 "
+"server, but does not provide any function for implementing the graphical "
+"objects (widgets) used in GUIs, such as buttons, menus, etc. The Xt library "
+"provides support for creating and using widget types, but does not provide "
+"any specific widget. Specific widgets are implemented by other libraries "
+"using Xt, such as Xaw and Motif."
+msgstr ""
+
+#. description(lsscsi)
+msgid "The lsscsi command lists information about SCSI devices in Linux."
+msgstr ""
+
+#. description(mingetty)
+msgid ""
+"The mingetty program is a lightweight, minimalistic getty program for use on "
+"virtual consoles only. Mingetty is not suitable for serial lines (you should "
+"use the mgetty program for this purpose)."
+msgstr ""
+
+#. description(ncurses:ncurses-utils)
+msgid ""
+"The ncurses based utilities are as follows:\n"
+"\n"
+"clear -- emits clear-screen for current terminal\n"
+"\n"
+"tabs -- set tabs on a terminal\n"
+"\n"
+"toe   -- table of entries utility\n"
+"\n"
+"tput  -- shell-script access to terminal capabilities.\n"
+"\n"
+"tset  -- terminal-initialization utility\n"
+"\n"
+"reset -- terminal initialization utility"
+msgstr ""
+
+#. description(xorg-x11-driver-video-nouveau)
+msgid ""
+"The nouveau project aims to build high-quality, open source drivers for "
+"nVidia cards. “Nouveau” [nuvo] is the French word for “new”."
+msgstr ""
+
+#. description(ntfs-3g_ntfsprogs:ntfsprogs)
+msgid ""
+"The ntfsprogs includes utilities for doing all required tasks to NTFS "
+"partitions. In general, just run a utility without any command line options "
+"to display the version number and usage syntax."
+msgstr ""
+
+#. description(yast2-trans-stats)
+msgid ""
+"The package contains statistic files (one file per language).  With the help "
+"of these statistics Yast warns you if you select a language for installation "
+"which is unsufficiently translated."
+msgstr ""
+
+#. description(syslogd:syslog-service)
+msgid ""
+"The package syslog-service provides the service boot scripts for SysV and "
+"the service unit files for systemd."
+msgstr ""
+
+#. description(pkg-config)
+msgid ""
+"The pkg-config program is used to retrieve information about installed "
+"libraries in the system. It is typically used to compile and link against "
+"one or more libraries."
+msgstr ""
+
+#. summary(pm-utils:pm-utils-ndiswrapper)
+msgid "The pm-utils hook for ndiswrapper"
+msgstr ""
+
+#. description(ppp)
+msgid ""
+"The ppp package contains the PPP (Point-to-Point Protocol) daemon, pppd, "
+"additional PPP utilities, documentation, and sample files. PPP provides a "
+"method for transmitting IP and IPX datagrams over serial point-to-point "
+"links, for example over a modem. The PPP daemon handles the details of "
+"setting up a PPP link including configuring the network interface and "
+"performing the PPP negotiations."
+msgstr ""
+
+#. description(procps)
+msgid ""
+"The procps package contains a set of system utilities that provide system "
+"information. Procps includes ps, free, skill, snice, tload, top, uptime, "
+"vmstat, w, and watch. The ps command displays a snapshot of running "
+"processes. The top command provides a repetitive update of the statuses of "
+"running processes. The free command displays the amounts of free and used "
+"memory on your system. The skill command sends a terminate command (or "
+"another specified signal) to a specified set of processes. The snice command "
+"is used to change the scheduling priority of specified processes. The tload "
+"command prints a graph of the current system load average to a specified "
+"tty. The uptime command displays the current time, how long the system has "
+"been running, how many users are logged on, and system load averages for the "
+"past one, five, and fifteen minutes. The w command displays a list of the "
+"users who are currently logged on and what they are running. The watch "
+"program watches a running program. The vmstat command displays virtual "
+"memory statistics about processes, memory, paging, block I/O, traps, and CPU "
+"activity."
+msgstr ""
+
+#. description(proxymngr)
+msgid ""
+"The proxy manager (proxymngr) is responsible for resolving requests from "
+"xfindproxy (and other similar clients), starting new proxies when "
+"appropriate, and keeping track of all of the available proxy services. The "
+"proxy manager strives to reuse existing proxies whenever possible."
+msgstr ""
+
+#. summary(procps)
+msgid "The ps utilities for /proc"
+msgstr ""
+
+#. description(psmisc)
+msgid ""
+"The psmisc package contains utilities for managing processes on your system: "
+"pstree, killall and fuser.  The pstree command displays a tree structure of "
+"all of the running processes on your system.  The killall command sends a "
+"specified signal (SIGTERM if nothing is specified) to processes identified "
+"by name.  The fuser command identifies the PIDs of processes that are using "
+"specified files or filesystems."
+msgstr ""
+
+#. summary(openSUSE-build-key)
+msgid "The public gpg keys for rpm package signature verification"
+msgstr ""
+
+#. description(quota)
+msgid ""
+"The quota subsystem allows a system administrator to set soft and hard "
+"limits on used space and the number of inodes used for users and groups. The "
+"kernel must be compiled with disk quota support enabled (SUSE kernels have "
+"this support)."
+msgstr ""
+
+#. description(xrx)
+msgid ""
+"The remote execution (RX) service specifies a MIME format for invoking "
+"applications remotely, for example via a World Wide Web browser.  This RX "
+"format specifies a syntax for listing network services required by the "
+"application, for example an X display server.  The requesting Web browser "
+"must identify specific instances of the services in the request to invoke "
+"the application.\n"
+"\n"
+"The distribution contains a helper program (xrx) and a Mozilla family "
+"browser plug-in (libxrx) that demonstrate this protocol.  The plug-in was "
+"originally written for Navigator 3.0, but has been used with later versions "
+"of the Mozilla family of browsers, including Firefox."
+msgstr ""
+
+#. description(rpm-python)
+msgid ""
+"The rpm-python package contains a module that permits applications written "
+"in the Python programming language to use the interface supplied by RPM "
+"Package Manager libraries.\n"
+"\n"
+"This package should be installed if you want to develop Python programs that "
+"will manipulate RPM packages and databases."
+msgstr ""
+
+#. description(scout)
+msgid "The scout tool helps with indexing of various package properties."
+msgstr ""
+
+#. description(sg3_utils)
+msgid ""
+"The sg3_utils package contains utilities that send SCSI commands to devices. "
+"As well as devices on transports traditionally associated with SCSI (e.g. "
+"Fibre Channel (FCP), Serial Attached SCSI (SAS) and the SCSI Parallel "
+"Interface(SPI)) many other devices use SCSI command sets. ATAPI cd/dvd "
+"drives and SATA disks that connect via a translation layer or a bridge "
+"device are examples of devices that use SCSI command sets."
+msgstr ""
+
+#. description(smolt)
+msgid ""
+"The smolt hardware profiler is a server-client system that does a hardware "
+"scan against a machine and sends the results to a public Fedora Project "
+"turbogears server. The sends are anonymous and should not contain any "
+"private information other than the physical hardware information and basic "
+"OS info.\n"
+"\n"
+"This package contains the smolt client"
+msgstr ""
+
+#. description(smp_utils)
+msgid ""
+"The smp_utils package contains utilities for the Serial Attached SCSI (SAS) "
+"Management Protocol (SMP).  Most utilities correspond to a single SMP "
+"function, sending out a request, checking for errors and if all is well "
+"processing the response. The response is either decoded, printed out in "
+"ASCII hexadecimal or sent as binary to stdout."
+msgstr ""
+
+#. summary(sysconfig)
+msgid "The sysconfig scheme and traditional network scripts"
+msgstr ""
+
+#. description(x11perf)
+msgid ""
+"The x11perf program runs one or more performance tests and reports how fast "
+"an X server can execute the tests."
+msgstr ""
+
+#. description(xauth)
+msgid ""
+"The xauth program is used to edit and display the authorization information "
+"used in connecting to the X server."
+msgstr ""
+
+#. description(xdg-utils)
+msgid ""
+"The xdg-utils package is a set of simple scripts that provide basic desktop "
+"integration functions for any Free Desktop, such as Linux.\n"
+"\n"
+"They are intended to provide a set of defacto standards.  This means    "
+"that: *  Third party software developers can rely on these    xdg-utils for "
+"all of their simple integration needs.\n"
+"\n"
+"*  Developers of desktop environments can make sure that their    "
+"environments are well supported\n"
+"\n"
+"If a desktop developer wants to be certain that their environment functions "
+"with all third party software, then can simply make sure that these "
+"utilities work properly in their environment."
+msgstr ""
+
+#. description(xfd)
+msgid ""
+"The xfd utility creates a window containing the name of the font being "
+"displayed, a row of command buttons, several lines of text for displaying "
+"character metrics, and a grid containing one glyph per cell."
+msgstr ""
+
+#. description(xfsdump)
+msgid ""
+"The xfsdump package contains xfsdump, xfsrestore, and a number of other "
+"utilities for administering XFS file systems.\n"
+"\n"
+"xfsdump examines files in a file system, determines which files need to be "
+"backed up, and copies those files to a specified disk, tape, or other "
+"storage medium.  It uses XFS-specific directives for optimizing the dump of "
+"an XFS file system and also knows how to backup XFS extended attributes.  "
+"Backups created with xfsdump are \"endian safe\" and can thus be transferred "
+"between Linux machines of different architectures and also between IRIX "
+"machines.\n"
+"\n"
+"xfsrestore performs the inverse function of xfsdump.  It can restore a full "
+"backup of a file system.  Subsequent incremental backups can then be layered "
+"on top of the full backup.  Single files and directory subtrees may be "
+"restored from full or partial backups."
+msgstr ""
+
+#. description(xinit)
+msgid ""
+"The xinit program is used to start the X Window System server and a first "
+"client program on systems that are not using a display manager such as xdm "
+"or in environments that use multiple window systems. When this first client "
+"exits, xinit will kill the X server and then terminate."
+msgstr ""
+
+#. description(xkbcomp)
+msgid ""
+"The xkbcomp keymap compiler converts a description of an XKB keymap into one "
+"of several output formats."
+msgstr ""
+
+#. description(xkbevd)
+msgid ""
+"The xkbevd event daemon listens for specified XKB events and executes "
+"requested commands if they occur. The configuration file consists of a list "
+"of event specification/action pairs and/or variable definitions."
+msgstr ""
+
+#. description(xlogo)
+msgid "The xlogo program simply displays the X Window System logo."
+msgstr ""
+
+#. description(xmodmap)
+msgid ""
+"The xmodmap program is used to edit and display the keyboard modifier map "
+"and keymap table that are used by client applications to convert event "
+"keycodes into keysyms. It is usually run from the user's session startup "
+"script to configure the keyboard according to personal tastes."
+msgstr ""
+
+#. description(xsetroot)
+msgid ""
+"The xsetroot program allows you to tailor the appearance of the background "
+"(\"root\") window on a workstation display running X."
+msgstr ""
+
+#. description(xstdcmap)
+msgid ""
+"The xstdcmap utility can be used to selectively define standard colormap "
+"properties. It is intended to be run from a user's X startup script to "
+"create standard colormap definitions in order to facilitate sharing of "
+"scarce colormap resources among clients using PseudoColor visuals."
+msgstr ""
+
+#. description(xz)
+msgid ""
+"The xz command is a very powerful program for compressing files.\n"
+"\n"
+"* Average compression ratio of LZMA is about 30% better than that of    "
+"gzip, and 15% better than that of bzip2.\n"
+"\n"
+"* Decompression speed is only little slower than that of gzip, being    two "
+"to five times faster than bzip2.\n"
+"\n"
+"* In fast mode, compresses faster than bzip2 with a comparable    "
+"compression ratio.\n"
+"\n"
+"* Achieving the best compression ratios takes four to even twelve    times "
+"longer than with bzip2. However. this doesn't affect    decompressing "
+"speed.\n"
+"\n"
+"* Very similar command line interface to what gzip and bzip2 have."
+msgstr ""
+
+#. description(timezone)
+msgid ""
+"These are configuration files that describe available time zones. You can "
+"select an appropriate time zone for your system with YaST."
+msgstr ""
+
+#. description(libXxf86vm:libXxf86vm1)
+msgid ""
+"These functions provide aninterface to the server extension XFree86-"
+"VidModeExtension which allows the video modes to be queried and adjusted "
+"dynamically and mode switching to be controlled."
+msgstr ""
+
+#. description(zypp-plugin:zypp-plugin-python)
+msgid ""
+"This API allows writing ZYpp plugins by just subclassing from a python class "
+"and implementing the commands you want to respond to as python methods."
+msgstr ""
+
+#. description(libxslt:libxslt1)
+msgid ""
+"This C library allows you to transform XML files into other XML files (or "
+"HTML, text, and more) using the standard XSLT stylesheet transformation "
+"mechanism.\n"
+"\n"
+"It is based on libxml (version 2) for XML parsing, tree manipulation, and "
+"XPath support. It is written in plain C, making as few assumptions as "
+"possible and sticks closely to ANSI C/POSIX for easy embedding. Although not "
+"primarily designed with performance in mind, libxslt seems to be a "
+"relatively fast processor. It also includes full support for the EXSLT set "
+"of extension functions as well as some common extensions present in other "
+"XSLT engines.\n"
+"\n"
+"The package comes with xsltproc, a command line interface to the XSLT engine."
+msgstr ""
+
+#. description(pam_krb5)
+msgid ""
+"This PAM module supports authentication against a Kerberos KDC. It also "
+"supports updating your Kerberos password."
+msgstr ""
+
+#. description(yast2-vm)
+msgid "This YaST module configures and installs a virtual machine."
+msgstr ""
+
+#. description(yast2-restore)
+msgid ""
+"This YaST2 module can restore a system from an archive created by the Backup "
+"module."
+msgstr ""
+
+#. description(yast2-perl-bindings)
+msgid ""
+"This adds an embedded Perl interpreter to YaST2 as a plug-in (in other words "
+"it will be loaded only if required). This is a very efficient way of calling "
+"Perl from within YaST2 YCP scripts."
+msgstr ""
+
+#. description(yast2-pam)
+msgid "This agent is used by YaST2 to modify the PAM configuration files"
+msgstr ""
+
+#. description(yast2-ldap)
+msgid ""
+"This agent is used by various YaST2 modules to work with LDAP. It enables "
+"searching the LDAP tree and adding/deleting/modifying items on an LDAP "
+"server."
+msgstr ""
+
+#. description(pam_ldap)
+msgid ""
+"This is a PAM Module that handles LDAP. The advantages of this pecular "
+"version are:\n"
+"\n"
+"Possibility to change LDAP passwords in the directory\n"
+"\n"
+"Compatibility with the nss_ldap configuration file format"
+msgstr ""
+
+#. description(pinentry)
+msgid ""
+"This is a collection of simple PIN or passphrase entry dialogs which utilize "
+"the Assuan protocol as described by the Aegypten project."
+msgstr ""
+
+#. description(xcursor-themes)
+msgid ""
+"This is a default set of cursor themes for use with libXcursor, originally "
+"created for the XFree86 Project, and now shipped as part of the X.Org "
+"software distribution."
+msgstr ""
+
+#. description(translation-update)
+msgid ""
+"This is a set of translation updates that are installed into the preferred "
+"directory, /usr/share/locale-langpack/<locale>/LC_MESSAGES/.\n"
+"\n"
+"Applications that use gettext correctly can then pick up overridden or "
+"updated translations from this location."
+msgstr ""
+
+#. description(linux32)
+msgid ""
+"This is a small tool for 32-bit emulation in Linux/x86-64. It allows you to "
+"execute programs that need a uname -m of i386 with uname emulation. The "
+"uname -m is inherited by all child programs, but does not affect the current "
+"shell or processes above it in the process hierarchy."
+msgstr ""
+
+#. description(ncurses:terminfo-base)
+msgid ""
+"This is the terminfo basic database, maintained in the ncurses package. This "
+"database is the official successor to the 4.4BSD termcap file and contains "
+"information about any known terminal. The ncurses library makes use of this "
+"database to use terminals correctly."
+msgstr ""
+
+#. description(libyui:libyui4)
+msgid ""
+"This is the user interface engine that provides the abstraction from "
+"graphical user interfaces (Qt, Gtk) and text based user interfaces "
+"(ncurses).\n"
+"\n"
+"Originally developed for YaST, it can now be used independently of YaST for "
+"generic (C++) applications. This package has very few dependencies."
+msgstr ""
+
+#. description(iptables:libxtables7)
+msgid ""
+"This library contains all the iptables code shared between iptables, "
+"ip6tables, their extensions, and for external integration for e.g. "
+"iproute2's m_xt."
+msgstr ""
+
+#. description(Mesa:Mesa-libIndirectGL1)
+msgid ""
+"This library provides a pure software rasterizer; it does not provide a "
+"direct rendering capable library, or one which uses GLX. For that, please "
+"see Mesa-libGL1."
+msgstr ""
+
+#. description(numlockx)
+msgid ""
+"This little thingy allows you to start X with NumLock turned on ( which is a "
+"feature that a lot of people seem to miss and nobody really knew how to "
+"achieve this ). This code relies on X extensions called XTest and XKB, so "
+"you need to have at least one of these X extensions installed ( you most "
+"probably do )."
+msgstr ""
+
+#. description(perl-XML-XPath)
+msgid ""
+"This module aims to comply exactly to the XPath specification at http://www."
+"w3.org/TR/xpath and yet allow extensions to be added in the form of "
+"functions. Modules such as XSLT and XPointer may need to do this as they "
+"support functionality beyond XPath."
+msgstr ""
+
+#. description(perl-HTML-Tagset)
+msgid ""
+"This module contains several data tables useful in various kinds of HTML "
+"parsing operations.\n"
+"\n"
+"Note that all tag names used are lowercase.\n"
+"\n"
+"In the following documentation, a \"hashset\" is a hash being used as a set\n"
+"-- the hash conveys that its keys are there, and the actual values "
+"associated with the keys are not significant. (But what values are there, "
+"are always true.)"
+msgstr ""
+
+#. description(yast2-slp)
+msgid ""
+"This module enables YaST modules to register services with SLP. "
+"Additionally, it offers a simple browser of SLP registered services."
+msgstr ""
+
+#. description(perl-XML-SAX-Base)
+msgid ""
+"This module has a very simple task - to be a base class for PerlSAX drivers "
+"and filters. Its default behavior is to pass the input directly to the "
+"output unchanged. It can be useful to use this module as a base class so you "
+"don't have to, for example, implement the characters() callback.\n"
+"\n"
+"The main advantages that it provides are easy dispatching of events the "
+"right way (i.e., it takes care for you of checking that the handler has "
+"implemented that method, or has defined an AUTOLOAD), and the guarantee that "
+"filters will pass along events that they aren't implementing to handlers "
+"downstream that might nevertheless be interested in them."
+msgstr ""
+
+#. description(perl-XML-LibXML)
+msgid ""
+"This module implements a Perl interface to the Gnome libxml2 library which "
+"provides interfaces for parsing and manipulating XML files. This module "
+"allows Perl programmers to make use of the highly capable validating XML "
+"parser and the high performance DOM implementation."
+msgstr ""
+
+#. description(pam_mount)
+msgid ""
+"This module is aimed at environments with central file servers that a user "
+"wishes to mount on login and unmount on logout, such as (semi-)diskless "
+"stations where many users can logon.\n"
+"\n"
+"The module also supports mounting local filesystems of any kind the normal "
+"mount utility supports, with extra code to make sure certain volumes are set "
+"up properly because often they need more than just a mount call, such as "
+"encrypted volumes. This includes SMB/CIFS, FUSE, dm-crypt and LUKS."
+msgstr ""
+
+#. description(perl-XML-NamespaceSupport)
+msgid ""
+"This module offers a simple way to process namespaced XML names (unames) "
+"from within any application that may need them. It also helps maintain a "
+"prefix to namespace URI map, and provides a number of basic checks."
+msgstr ""
+
+#. description(perl-NetxAP)
+msgid ""
+"This module provides an interface to the protocol family represented by "
+"IMAP, IMSP, ACAP, and ICAP.  A usable IMAP module is also provide."
+msgstr ""
+
+#. description(python-pycurl)
+msgid "This module provides bindings for the cURL library."
+msgstr ""
+
+#. description(perl-Crypt-SmbHash)
+msgid ""
+"This module provides functions to generate LM/NT hashes as used by Samba"
+msgstr ""
+
+#. description(perl-XML-Parser)
+msgid ""
+"This module provides ways to parse XML documents. It is built on top of  "
+"XML::Parser::Expat, which is a lower level interface to James Clark's expat  "
+"library. Each call to one of the parsing methods creates a new instance of  "
+"XML::Parser::Expat which is then used to parse the document. Expat options "
+"may  be provided when the XML::Parser object is created. These options are "
+"then  passed on to the Expat object on each parse call. They can also be "
+"given as  extra arguments to the parse methods, in which case they override "
+"options  given at XML::Parser creation time.\n"
+"\n"
+"The behavior of the parser is controlled either by \"Style\" and/or "
+"\"Handlers\"  options, or by \"setHandlers\" method. These all provide "
+"mechanisms for  XML::Parser to set the handlers needed by XML::Parser::"
+"Expat. If neither  Style nor Handlers are specified, then parsing just "
+"checks the document  for being well-formed.\n"
+"\n"
+"When underlying handlers get called, they receive as their first parameter  "
+"the Expat object, not the Parser object.\n"
+"\n"
+"You will find examples in /usr/share/doc/packages/perl-XML-Parser/samples.  "
+"For documentation read the XML::Parser and XML::Parser::Expat man pages."
+msgstr ""
+
+#. description(yast2-runlevel)
+msgid ""
+"This package allows you to specify which services will be run at system boot."
+msgstr ""
+
+#. description(yast2-add-on)
+msgid "This package contains YaST Add-On media installation code."
+msgstr ""
+
+#. description(xdg-menu)
+msgid ""
+"This package contains a Perl script which converts XDG menus to formats used "
+"by WindowMaker and other window managers."
+msgstr ""
+
+#. description(yast2-packager:yast2-packager-webpin)
+msgid ""
+"This package contains a client for searching packages in online repositories "
+"(webpin) and installing them via OneClickInstall"
+msgstr ""
+
+#. description(util-linux)
+msgid ""
+"This package contains a large variety of low-level system utilities that are "
+"necessary for a Linux system to function. It contains the mount program, the "
+"fdisk configuration tool, and more."
+msgstr ""
+
+#. description(yast2-backup)
+msgid ""
+"This package contains a module which searches for changed files and backs "
+"them up."
+msgstr ""
+
+#. description(yast2-pkg-bindings)
+msgid ""
+"This package contains a name space for accessing the package manager library "
+"in YaST2."
+msgstr ""
+
+#. description(snapper:snapper-zypp-plugin)
+msgid ""
+"This package contains a plugin for zypp that makes filesystem snapshots with "
+"snapper during commits."
+msgstr ""
+
+#. description(tcpd)
+msgid ""
+"This package contains a small daemon program that can monitor and filter "
+"incoming requests for finger, ftp, telnet, rlogin, rsh, exec, tftp, talk, "
+"and other network services."
+msgstr ""
+
+#. description(usbutils)
+msgid ""
+"This package contains a utility for inspecting devices connected to USB "
+"ports."
+msgstr ""
+
+#. description(nfs-utils:nfs-client)
+msgid ""
+"This package contains common NFS utilities which are needed for client and "
+"kernel based server."
+msgstr ""
+
+#. description(net-tools)
+msgid ""
+"This package contains essential programs for network administration and "
+"maintenance: netstat, hostname, arp, ifconfig, rarp, and route."
+msgstr ""
+
+#. description(yast2-dbus-client)
+msgid ""
+"This package contains library (a SCR agent) for accessing DBus from YaST "
+"scripts."
+msgstr ""
+
+#. description(xorg-scripts)
+msgid ""
+"This package contains miscellaneous scripts for X, like xon, a script to "
+"start an X program on a remote machine."
+msgstr ""
+
+#. description(mobile-broadband-provider-info)
+msgid ""
+"This package contains mobile broadband settings for different service "
+"providers in different countries."
+msgstr ""
+
+#. description(mpt-firmware)
+msgid ""
+"This package contains modprobe configuration files to autoload the mptctl "
+"ioctl driver at boot time. The mptctl driver is an ioctl character driver "
+"for the LSI Logic Fusion-MPT Host adapter series. These adapters include\n"
+"\n"
+"- Ultra320 53C1030, 53C1020\n"
+"\n"
+"- Fiber Channel FC909, FC919, FC929, FC919X and FC929X\n"
+"\n"
+"- SAS SAS1064, and SAS1068"
+msgstr ""
+
+#. description(yast2)
+msgid ""
+"This package contains scripts and data needed for SuSE Linux installation "
+"with YaST2"
+msgstr ""
+
+#. description(plymouth:plymouth-scripts)
+msgid ""
+"This package contains scripts that help integrate Plymouth with the system."
+msgstr ""
+
+#. description(snapper)
+msgid ""
+"This package contains snapper, a tool for filesystem snapshot management."
+msgstr ""
+
+#. description(Mesa-demo:Mesa-demo-x)
+msgid "This package contains some common GLX-based demos."
+msgstr ""
+
+#. description(vorbis-tools)
+msgid ""
+"This package contains some tools for Ogg Vorbis:\n"
+"\n"
+"oggenc (an encoder) and ogg123 (a playback tool). It also has vorbiscomment "
+"(to add comments to Vorbis files), ogginfo (to give all useful information "
+"about an Ogg file, including streams in it), oggdec (a simple command line "
+"decoder), and vcut (which allows you to cut up Vorbis files)."
+msgstr ""
+
+#. description(plymouth:plymouth-plugin-script)
+msgid ""
+"This package contains the \"script\" boot splash plugin for Plymouth. It "
+"features an extensible, scriptable boot splash language that simplifies the "
+"process of designing custom boot splash themes."
+msgstr ""
+
+#. description(xorg-x11-fonts:xorg-x11-fonts-core)
+msgid ""
+"This package contains the 'fixed' and 'cursor' font required for any X "
+"Server."
+msgstr ""
+
+#. description(Mesa:Mesa-libEGL1)
+msgid ""
+"This package contains the EGL native platform graphics interface library. "
+"EGL provides a platform-agnostic mechanism for creating rendering surfaces "
+"for use with other graphics libraries, such as OpenGL|ES and OpenVG.\n"
+"\n"
+"This package contains modules to interface with the existing system GLX or "
+"DRI2 drivers to provide OpenGL via EGL. The Mesa main package provides "
+"drivers to provide hardware-accelerated OpenGL|ES and OpenVG support."
+msgstr ""
+
+#. description(susehelp:susehelp_en)
+msgid ""
+"This package contains the English localization of the SuSE Help System.\n"
+"\n"
+"For more information, see the susehelp base package."
+msgstr ""
+
+#. description(openldap2-client)
+msgid "This package contains the OpenLDAP client utilities."
+msgstr ""
+
+#. description(xorg-x11-server)
+msgid "This package contains the X.Org Server."
+msgstr ""
+
+#. description(yast2-ntp-client)
+msgid "This package contains the YaST2 component for NTP client configuration."
+msgstr ""
+
+#. description(yast2-samba-server)
+msgid ""
+"This package contains the YaST2 component for Samba server configuration."
+msgstr ""
+
+#. description(yast2-tv)
+msgid "This package contains the YaST2 component for TV card configuration."
+msgstr ""
+
+#. description(yast2-bootloader)
+msgid "This package contains the YaST2 component for bootloader configuration."
+msgstr ""
+
+#. description(yast2-samba-client)
+msgid ""
+"This package contains the YaST2 component for configuration of an SMB "
+"workgroup/domain and authentication against an SMB domain."
+msgstr ""
+
+#. description(yast2-iscsi-client)
+msgid ""
+"This package contains the YaST2 component for configuration of an iSCSI "
+"client."
+msgstr ""
+
+#. description(yast2-tune)
+msgid "This package contains the YaST2 component for hardware configuration."
+msgstr ""
+
+#. description(yast2-network)
+msgid "This package contains the YaST2 component for network configuration."
+msgstr ""
+
+#. description(yast2-printer)
+msgid "This package contains the YaST2 component for printer configuration."
+msgstr ""
+
+#. description(yast2-proxy)
+msgid "This package contains the YaST2 component for proxy configuration."
+msgstr ""
+
+#. description(yast2-sound)
+msgid "This package contains the YaST2 component for sound card configuration."
+msgstr ""
+
+#. description(xterm)
+msgid "This package contains the basic X.Org terminal program."
+msgstr ""
+
+#. description(susehelp)
+msgid ""
+"This package contains the basics of the SuSE Help System.\n"
+"\n"
+"The SuSE Help System centralizes all Linux documentation in a clear, "
+"structured manner with convenient search capabilities. For quick start, "
+"click on the lifesaver in the desktop panel. For configuration, use the KDE "
+"Control Center.\n"
+"\n"
+"For more information, have a look at /usr/share/doc/packages/susehelp/README."
+msgstr ""
+
+#. description(libyui-ncurses:libyui-ncurses4)
+msgid ""
+"This package contains the character based (ncurses) user interface component "
+"for libYUI."
+msgstr ""
+
+#. description(release-notes-openSUSE)
+msgid ""
+"This package contains the description of the most important changes for this "
+"openSUSE release. In HTML format, they are available in the help center."
+msgstr ""
+
+#. description(yast2-storage)
+msgid ""
+"This package contains the files for YaST2 that handle access to disk devices "
+"during installation and on an installed system."
+msgstr ""
+
+#. description(openSUSE-build-key)
+msgid ""
+"This package contains the gpg keys that are used to sign the openSUSE rpm "
+"packages. The keys installed here are not actually used by anything. rpm/"
+"zypper use the keys in the rpm db instead."
+msgstr ""
+
+#. description(yast2-hardware-detection)
+msgid "This package contains the hardware detection library for YaST2."
+msgstr ""
+
+#. description(mozilla-nss:mozilla-nss-certs)
+msgid ""
+"This package contains the integrated CA root certificates from the Mozilla "
+"project."
+msgstr ""
+
+#. description(plymouth:plymouth-plugin-label)
+msgid ""
+"This package contains the label control plugin for Plymouth. It provides the "
+"ability to render text on graphical boot splashes using pango and cairo."
+msgstr ""
+
+#. description(xorg-x11-driver-video-intel-legacy)
+msgid ""
+"This package contains the legacy version of the Intel X.Org driver which "
+"does not require KMS."
+msgstr ""
+
+#. description(yast2-control-center)
+msgid "This package contains the menu selection component for YaST2."
+msgstr ""
+
+#. description(yast2-theme:yast2-theme-openSUSE)
+msgid "This package contains the openSUSE theme for YaST2."
+msgstr ""
+
+#. description(yast2-x11)
+msgid "This package contains the programs and files for YaST2 X11 support."
+msgstr ""
+
+#. description(yast2-core)
+msgid ""
+"This package contains the scanner, parser, and interpreter runtime library "
+"for the YCP scripting language used in YaST2."
+msgstr ""
+
+#. description(yast2-packager)
+msgid ""
+"This package contains the scanner/parser and dependency checker for all "
+"packages handled by YaST2."
+msgstr ""
+
+#. description(shared-mime-info)
+msgid ""
+"This package contains:\n"
+"\n"
+"- The freedesktop.org shared MIME database spec.\n"
+"\n"
+"- The merged GNOME and KDE databases, in the new format.\n"
+"\n"
+"- The update-mime-database command, used to install new MIME data."
+msgstr ""
+
+#. description(recode)
+msgid "This package converts various character sets."
+msgstr ""
+
+#. description(os-prober)
+msgid ""
+"This package detects other OSes available on a system and outputs the "
+"results in a generic machine-readable format. Support for new OSes and Linux "
+"distributions can be added easily."
+msgstr ""
+
+#. description(pcmciautils)
+msgid ""
+"This package enables the usage of PC-Cards with Linux. It provides hotplug "
+"scripts, and tools that set up sockets and cards. Since kernel 2.6.13 card "
+"injection and removal are handled completely via hotplug. Therefore, a "
+"daemon like 'cardmgr' is no longer needed. Soft ejecting and inserting cards "
+"can be done with pccardctl (it was cardctl before). There are also some "
+"tools for debugging and CIS handling."
+msgstr ""
+
+#. description(libyui-ncurses-pkg:libyui-ncurses-pkg4)
+msgid ""
+"This package extends the character based (ncurses) user interface component "
+"for libYUI."
+msgstr ""
+
+#. description(rstart)
+msgid ""
+"This package includes both the client and server sides implementing the "
+"protocol described in the \"A Flexible Remote Execution Protocol Based on rsh"
+"\" paper found in the specs/ subdirectory.\n"
+"\n"
+"This software has been deprecated in favor of the X11 forwarding provided in "
+"common ssh implementations."
+msgstr ""
+
+#. description(rgb)
+msgid ""
+"This package includes both the list mapping X color names to RGB values (rgb."
+"txt) and, if configured to use a database for color lookup, the rgb program "
+"to convert the text file into the binary database format."
+msgstr ""
+
+#. description(pwdutils)
+msgid ""
+"This package includes the necessary programs for converting plain password "
+"files to the shadow password format, and managing user and group accounts in "
+"both local files and in an LDAP database."
+msgstr ""
+
+#. description(reiserfs)
+msgid ""
+"This package includes utilities for making the file system (mkreiserfs), "
+"checking for consistency (reiserfsck), and resizing (resize_reiserfs)."
+msgstr ""
+
+#. description(xorg-x11)
+msgid ""
+"This package is a compatibility metapackage. It used to contain the X.Org "
+"core and sample applications."
+msgstr ""
+
+#. description(xorg-x11-driver-input)
+msgid ""
+"This package is a compatibility metapackage. It used to contain the X.Org "
+"input drivers."
+msgstr ""
+
+#. description(patterns-openSUSE:patterns-openSUSE-base)
+msgid ""
+"This package is installed if a pattern is selected to have a working update "
+"path"
+msgstr ""
+
+#. description(yast2-ycp-ui-bindings)
+msgid ""
+"This package makes the generic YaST2 user interface engine available for YCP "
+"applications (YCP is the scripting language in which most YaST2 modules are "
+"written)."
+msgstr ""
+
+#. description(tar)
+msgid ""
+"This package normally also includes the program \"rmt\", which provides "
+"remote tape drive control. Since there are compatible versions of 'rmt' in "
+"either the 'star' package or the 'dump' package, we didn't put 'rmt' into "
+"this package. If you are planning to use the remote tape features provided "
+"by tar you have to also install the 'dump' or the 'star' package."
+msgstr ""
+
+#. description(yast2-users)
+msgid "This package provides GUI for maintenance of linux users and groups."
+msgstr ""
+
+#. description(libsmbios:python-smbios)
+msgid "This package provides a Python interface to libsmbios."
+msgstr ""
+
+#. description(MozillaFirefox-branding-openSUSE)
+msgid "This package provides openSUSE Look and Feel for Firefox."
+msgstr ""
+
+#. description(xtrap)
+msgid ""
+"This package provides sample clients for the XTrap X Server Extension. XTrap "
+"is an extension which facilitates the capturing of server protocol and "
+"synthesizing core input events."
+msgstr ""
+
+#. description(yast2-scanner)
+msgid ""
+"This package provides support for the configuration of USB scanners, SCSI "
+"scanners, scanners in HP all-in-one devices, and scanning via network (i.e. "
+"use a remote scanner via another host in the network).\n"
+"\n"
+"Parallel port scanners and network scanners (i.e. a scanner which is "
+"directly accessible in the network) cannot be configured with this tool, "
+"except for such scanners in HP all-in-one devices. Usually those devices "
+"must be configured manually. For more information see http://www.sane-"
+"project.org/ and the documentation in the package \"sane-backends\"."
+msgstr ""
+
+#. description(sysconfig)
+msgid ""
+"This package provides the SuSE system configuration scheme and the "
+"traditional \"ifup\" alias \"netcontrol\" network scripts."
+msgstr ""
+
+#. description(multipath-tools)
+msgid ""
+"This package provides the tools to manage multipathed devices by instructing "
+"the device-mapper multipath module what to do. The tools are:\n"
+"\n"
+"- multipath: scans the system for multipathed devices, assembles    them, "
+"and updates the device-mapper's maps\n"
+"\n"
+"- multipathd: waits for maps events then execs multipath\n"
+"\n"
+"- devmap-name: provides a meaningful device name to udev for devmaps\n"
+"\n"
+"- kpartx: maps linear devmaps to device partitions, which makes multipath "
+"maps partionable"
+msgstr ""
+
+#. description(usbmuxd)
+msgid ""
+"This package provides the usbmuxd daemon for software to use through the "
+"libusbmuxd library to talk with iPhone/iPod Touch devices.\n"
+"\n"
+"Usbmux is an encapsulation protocol (think IP, ATM, PPP) that allows "
+"multiplexing several conversations onto a single pair of wires."
+msgstr ""
+
+#. description(ypbind)
+msgid ""
+"This package provides the ypbind daemon. The ypbind daemon binds NIS clients "
+"to an NIS domain and searches a new NIS server if the old one goes down.\n"
+"\n"
+"Ypbind must be running on any machines which are running NIS client programs."
+msgstr ""
+
+#. description(sysfsutils)
+msgid ""
+"This package's purpose is to provide a library for interfacing with the "
+"kernel's sys filesystem mounted at /sys. The library was an attempt to "
+"create a stable interface to sysfs, but it failed. It is still provided for "
+"the current users, but no new software should use this library."
+msgstr ""
+
+#. description(yp-tools)
+msgid ""
+"This packages contains some useful tools for accessing NIS maps or to test "
+"NIS configurations."
+msgstr ""
+
+#. description(xset)
+msgid ""
+"This program is used to set various user preference options of the display."
+msgstr ""
+
+#. description(microcode_ctl)
+msgid ""
+"This utility allows updating the microcode of Intel and AMD x86 and x86-64 "
+"CPUs."
+msgstr ""
+
+#. summary(timezone)
+msgid "Timezone Descriptions"
+msgstr ""
+
+#. summary(snapper)
+msgid "Tool for filesystem snapshot management"
+msgstr ""
+
+#. summary(lomoco)
+msgid "Tool for setting the special features of some Logitech mice"
+msgstr ""
+
+#. summary(usbutils)
+msgid "Tools and libraries for USB devices"
+msgstr ""
+
+#. summary(lirc)
+msgid "Tools for Infrared Receivers"
+msgstr ""
+
+#. summary(sysvinit:sysvinit-tools)
+msgid "Tools for basic booting"
+msgstr ""
+
+#. summary(x11-tools)
+msgid "Tools for the X Window System"
+msgstr ""
+
+#. description(lsb-release)
+msgid ""
+"Tools from the Linux Standard Base project to determine the used distribution"
+msgstr ""
+
+#. summary(multipath-tools)
+msgid "Tools to Manage Multipathed Devices with the device-mapper"
+msgstr ""
+
+#. summary(pm-utils)
+msgid "Tools to suspend and hibernate computers"
+msgstr ""
+
+#. summary(ncurses:ncurses-utils)
+msgid "Tools using the new curses libraries"
+msgstr ""
+
+#. summary(translation-update)
+msgid "Translation Updates"
+msgstr ""
+
+#. summary(rpcbind)
+msgid "Transport independent RPC portmapper"
+msgstr ""
+
+#. summary(perl-XML-Twig)
+msgid "Tree interface to XML documents"
+msgstr ""
+
+#. description(usb_modeswitch)
+msgid ""
+"USB_ModeSwitch is a mode switching tool for controlling \"flip flop"
+"\" (multiple device) USB gear. It allows so-called \"Zero-CD\" devices that "
+"show up as USB storage initially to be switched into their more useful "
+"\"application mode\". This is most common for UMTS/3G wireless WAN devices."
+msgstr ""
+
+#. description(udev)
+msgid ""
+"Udev creates and removes device nodes in /dev for devices discovered or "
+"removed from the system. It receives events via kernel netlink messages and "
+"dispatches them according to rules in /lib/udev/rules.d/. Matching rules may "
+"name a device node, create additional symlinks to the node, call tools to "
+"initialize a device, or load needed kernel modules."
+msgstr ""
+
+#. description(unzip)
+msgid ""
+"UnZip is an extraction utility for archives compressed in .zip format (known "
+"as \"zip files\").  Although highly compatible both with PKWARE's PKZIP(tm) "
+"and PKUNZIP utilities for MS-DOS and with Info-ZIP's own Zip program, our "
+"primary objectives have been portability and non-MS-DOS functionality. This "
+"version can also extract encrypted archives."
+msgstr ""
+
+#. summary(ndiswrapper)
+msgid "Use Microsoft NDIS Network Drivers for WLAN Cards"
+msgstr ""
+
+#. description(yast2-update)
+msgid "Use this component if you wish to update your system."
+msgstr ""
+
+#. summary(xset)
+msgid "User preference utility for X"
+msgstr ""
+
+#. summary(zisofs-tools)
+msgid "User tools for zisofs"
+msgstr ""
+
+#. description(utempter)
+msgid ""
+"Utempter is a utility that allows non-privileged applications such as "
+"terminal emulators to modify the utmp database without having to be setuid "
+"root."
+msgstr ""
+
+#. summary(pcmciautils)
+msgid "Utilities for PC-Cards"
+msgstr ""
+
+#. description(module-init-tools)
+msgid ""
+"Utilities for loading kernel modules. Included are 'insmod', 'lsmod', "
+"'rmmod', 'depmod', and 'modprobe'. The configuration file /etc/modprobe.* "
+"can be used to pass parameters to the modules. 'depmod' should be used after "
+"compiling a new kernel to generate the dependency information. 'insmod' does "
+"not use the dependency nor the options file. Therefore, 'modprobe' is "
+"normally used to load a module."
+msgstr ""
+
+#. summary(psmisc)
+msgid "Utilities for managing processes on your system"
+msgstr ""
+
+#. summary(xfsprogs)
+msgid "Utilities for managing the XFS file system"
+msgstr ""
+
+#. summary(smp_utils)
+msgid "Utilities for the SAS Management Protocol (SMP)"
+msgstr ""
+
+#. summary(module-init-tools)
+msgid "Utilities to Load Modules into the Kernel"
+msgstr ""
+
+#. summary(pwdutils)
+msgid "Utilities to Manage User and Group Accounts"
+msgstr ""
+
+#. summary(xdg-user-dirs)
+msgid "Utilities to handle user data directories"
+msgstr ""
+
+#. summary(xdg-utils)
+msgid "Utilities to uniformly interface desktop environments"
+msgstr ""
+
+#. summary(mdadm)
+msgid "Utility for Configuring MD Setup"
+msgstr ""
+
+#. summary(xbacklight)
+msgid "Utility to adjust the screen backlight brightness"
+msgstr ""
+
+#. summary(xgamma)
+msgid "Utility to alter a monitor's gamma correction through the X server"
+msgstr ""
+
+#. summary(setxkbmap)
+msgid "Utility to change the keyboard layout in X"
+msgstr ""
+
+#. summary(xkbcomp)
+msgid "Utility to compile XKB keyboard description"
+msgstr ""
+
+#. summary(xinput)
+msgid "Utility to configure and test X input devices"
+msgstr ""
+
+#. summary(xhost)
+msgid "Utility to control X server access"
+msgstr ""
+
+#. summary(mkcomposecache)
+msgid "Utility to create Compose cache files"
+msgstr ""
+
+#. summary(xcursorgen)
+msgid "Utility to create an X cursor file from a collection of PNG images"
+msgstr ""
+
+#. summary(mkfontdir)
+msgid "Utility to create index of X font files"
+msgstr ""
+
+#. summary(mkfontscale)
+msgid "Utility to create index of scalable font files for X"
+msgstr ""
+
+#. summary(xstdcmap)
+msgid "Utility to define standard colormap properties"
+msgstr ""
+
+#. summary(xfontsel)
+msgid "Utility to display X11 font names"
+msgstr ""
+
+#. summary(xmessage)
+msgid "Utility to display a message or query in a window"
+msgstr ""
+
+#. summary(xfd)
+msgid "Utility to display all the characters in an X font"
+msgstr ""
+
+#. summary(xditview)
+msgid "Utility to display ditroff output"
+msgstr ""
+
+#. summary(xdpyinfo)
+msgid "Utility to display information about an X server"
+msgstr ""
+
+#. summary(xwd)
+msgid "Utility to dump an image of an X window"
+msgstr ""
+
+#. summary(xauth)
+msgid "Utility to edit and display the X authorization information"
+msgstr ""
+
+#. summary(xkill)
+msgid "Utility to kill a client by its X resource"
+msgstr ""
+
+#. summary(listres)
+msgid "Utility to list X resources in widgets"
+msgstr ""
+
+#. summary(xplsprinters)
+msgid "Utility to list Xprint printers"
+msgstr ""
+
+#. summary(xlsclients)
+msgid "Utility to list client applications running on a X11 server"
+msgstr ""
+
+#. summary(xlsfonts)
+msgid "Utility to list fonts available from an X server"
+msgstr ""
+
+#. summary(xlsatoms)
+msgid "Utility to list interned atoms defined on an X11 server"
+msgstr ""
+
+#. summary(xfindproxy)
+msgid "Utility to locate proxy services"
+msgstr ""
+
+#. summary(sessreg)
+msgid "Utility to manage utmp/wtmp entries for X sessions"
+msgstr ""
+
+#. summary(xmodmap)
+msgid "Utility to modify keymaps and pointer button mappings in X"
+msgstr ""
+
+#. summary(xscope)
+msgid "Utility to monitor X11/Client conversations"
+msgstr ""
+
+#. summary(xbiff)
+msgid "Utility to monitor a mailbox"
+msgstr ""
+
+#. summary(xrestop)
+msgid "Utility to monitor server resources used by X11 clients"
+msgstr ""
+
+#. summary(xconsole)
+msgid "Utility to monitor system console messages with X"
+msgstr ""
+
+#. summary(xvinfo)
+msgid "Utility to print X-Video extension adaptor information"
+msgstr ""
+
+#. summary(xpr)
+msgid "Utility to print an X window dump"
+msgstr ""
+
+#. summary(xkbprint)
+msgid "Utility to print an XKB keyboard description"
+msgstr ""
+
+#. summary(xev)
+msgid "Utility to print contents of X events"
+msgstr ""
+
+#. summary(xprehashprinterlist)
+msgid "Utility to recompute list of available printers"
+msgstr ""
+
+#. summary(xrefresh)
+msgid "Utility to refresh all or part of an X screen"
+msgstr ""
+
+#. summary(xsetroot)
+msgid "Utility to set X root window parameter"
+msgstr ""
+
+#. summary(xsetpointer)
+msgid "Utility to set an X Input device as the main pointer"
+msgstr ""
+
+#. summary(xsetmode)
+msgid "Utility to set the mode for an X Input device"
+msgstr ""
+
+#. summary(x11perf)
+msgid "Utility to test X11 server performance"
+msgstr ""
+
+#. summary(xf86-input-vmmouse)
+msgid "VMware Mouse input driver for the Xorg X server"
+msgstr ""
+
+#. summary(xf86-video-vmware)
+msgid "VMware SVGA video driver for the Xorg X server"
+msgstr ""
+
+#. summary(xorg-x11-server:xorg-x11-Xvnc)
+msgid "VNC Server for the X Window System"
+msgstr ""
+
+#. summary(rsync)
+msgid "Versatile tool for fast incremental file transfer"
+msgstr ""
+
+#. summary(vim)
+msgid "Vi IMproved"
+msgstr ""
+
+#. summary(xvidtune)
+msgid "Video mode tuner for the X server"
+msgstr ""
+
+#. summary(xf86-video-v4l)
+msgid "Video4linux video driver for the Xorg X server"
+msgstr ""
+
+#. description(vim)
+msgid ""
+"Vim (Vi IMproved) is an almost compatible version of the UNIX editor vi. "
+"Almost every possible command can be performed using only ASCII characters. "
+"Only the 'Q' command is missing (you do not need it). Many new features have "
+"been added: multilevel undo, command line history, file name completion, "
+"block operations, and editing of binary data.\n"
+"\n"
+"Vi is available for the AMIGA, MS-DOS, Windows NT, and various versions of "
+"UNIX.\n"
+"\n"
+"For SUSE Linux, Vim is used as /usr/bin/vi.\n"
+"\n"
+"Package vim contains the normal version of vim. To get the full runtime "
+"environment install additionally vim-data."
+msgstr ""
+
+#. description(vim:vim-base)
+msgid ""
+"Vim (Vi IMproved) is an almost compatible version of the UNIX editor vi. "
+"Almost every possible command can be performed using only ASCII characters. "
+"Only the 'Q' command is missing (you do not need it). Many new features have "
+"been added: multilevel undo, command line history, file name completion, "
+"block operations, and editing of binary data.\n"
+"\n"
+"Vi is available for the AMIGA, MS-DOS, Windows NT, and various versions of "
+"UNIX.\n"
+"\n"
+"For SUSE Linux, Vim is used as /usr/bin/vi.\n"
+"\n"
+"Package vim-base contains the common files needed for all different vim "
+"versions. You still need to select at least one of the vim, vim-enhanced or "
+"gvim packages. For full runtime support you might also want to install the "
+"vim-data package."
+msgstr ""
+
+#. summary(xf86-video-dummy)
+msgid "Virtual/offscreen frame buffer video driver for the Xorg X server"
+msgstr ""
+
+#. description(virtualbox:virtualbox-guest-x11)
+msgid ""
+"VirtualBox This package contains X11 guest utilities and X11 guest mouse and "
+"video drivers"
+msgstr ""
+
+#. summary(virtualbox:virtualbox-guest-x11)
+msgid "VirtualBox X11 drivers for mouse and video"
+msgstr ""
+
+#. description(virtualbox:virtualbox-guest-tools)
+msgid "VirtualBox guest addition tools."
+msgstr ""
+
+#. summary(virtualbox:virtualbox-guest-tools)
+msgid "VirtualBox guest tools"
+msgstr ""
+
+#. description(virtualbox:virtualbox-guest-kmp-default)
+msgid ""
+"VirtualBox is an extremely feature rich, high performance product for "
+"enterprise customers, it is also the only professional solution that is "
+"freely available as Open Source Software under the terms of the GNU Public "
+"License (GPL)."
+msgstr ""
+
+#. summary(xf86-video-voodoo)
+msgid "Voodoo video driver for the Xorg X server"
+msgstr ""
+
+#. summary(wpa_supplicant)
+msgid "WPA supplicant implementation"
+msgstr ""
+
+#. summary(xf86-input-wacom)
+msgid "Wacom input driver for the Xorg X server"
+msgstr ""
+
+#. description(wget)
+msgid ""
+"Wget enables you to retrieve WWW documents or FTP files from a server. This "
+"can be done in script files or via the command line."
+msgstr ""
+
+#. summary(xwininfo)
+msgid "Window information utility for X"
+msgstr ""
+
+#. description(strace)
+msgid ""
+"With strace, you can trace the activity of a program.  Information about any "
+"system calls the program makes and the signals it receives and processes can "
+"be seen.  Child processes can also be tracked."
+msgstr ""
+
+#. description(yast2-ldap-client)
+msgid ""
+"With this YaST2 module you can configure an LDAP client so that an OpenLDAP "
+"server will be used for user authentication."
+msgstr ""
+
+#. description(yast2-kerberos-client)
+msgid ""
+"With this YaST2 module, you can configure a Kerberos client so that a "
+"Kerberos server will be used for user authentication."
+msgstr ""
+
+#. description(yast2-metapackage-handler)
+msgid ""
+"With this technology users can install packages and add repositories with a "
+"simple click on a link in a website."
+msgstr ""
+
+#. description(tightvnc)
+msgid ""
+"With vnc, start a virtual X Windows System server and get access to it from "
+"different machines with the vnc-viewer.  You can change the machine without "
+"terminating your session.\n"
+"\n"
+"The viewer and server are also available for Windows -- they allow access to "
+"vnc under Windows.  You can find it under /dosutils/tightvnc on the "
+"installation media."
+msgstr ""
+
+#. summary(xorg-x11-server)
+msgid "X"
+msgstr ""
+
+#. summary(libXdamage:libXdamage1)
+msgid "X Damage Extension library"
+msgstr ""
+
+#. summary(xdm)
+msgid "X Display Manager"
+msgstr ""
+
+#. summary(libXdmcp:libXdmcp6)
+msgid "X Display Manager Control Protocol library"
+msgstr ""
+
+#. summary(libXft:libXft2)
+msgid "X FreeType library"
+msgstr ""
+
+#. summary(libXi:libXi6)
+msgid "X Input Extension library"
+msgstr ""
+
+#. summary(libXpm:libXpm4)
+msgid "X Pixmap image file format library"
+msgstr ""
+
+#. summary(libXp:libXp6)
+msgid "X Printing Extension client library"
+msgstr ""
+
+#. summary(xrx)
+msgid "X Remote eXecution"
+msgstr ""
+
+#. summary(libXrender:libXrender1)
+msgid "X Rendering Extension library"
+msgstr ""
+
+#. summary(libXrandr:libXrandr2)
+msgid "X Resize, Rotate and Reflection extension library"
+msgstr ""
+
+#. summary(libXres:libXRes1)
+msgid "X Resource extension client library"
+msgstr ""
+
+#. summary(xsm)
+msgid "X Session Manager"
+msgstr ""
+
+#. summary(smproxy)
+msgid "X Session Manager Proxy"
+msgstr ""
+
+#. summary(libXt:libXt6)
+msgid "X Toolkit Intrinsics library"
+msgstr ""
+
+#. summary(libXfontcache:libXfontcache1)
+msgid "X TrueType font cache extension client library"
+msgstr ""
+
+#. summary(libXv:libXv1)
+msgid "X Video extension library"
+msgstr ""
+
+#. summary(libXcursor:libXcursor1)
+msgid "X Window System Cursor management library"
+msgstr ""
+
+#. summary(xinit)
+msgid "X Window System initializer"
+msgstr ""
+
+#. summary(xlogo)
+msgid "X Window System logo"
+msgstr ""
+
+#. summary(sax2:sax2-tools)
+msgid "X Window System tools for SaX2"
+msgstr ""
+
+#. summary(xclipboard)
+msgid "X clipboard client"
+msgstr ""
+
+#. summary(rgb)
+msgid "X color name database"
+msgstr ""
+
+#. summary(libXTrap:libXTrap6)
+msgid "X event Trap extension"
+msgstr ""
+
+#. summary(xfwp)
+msgid "X firewall proxy"
+msgstr ""
+
+#. summary(libXfont:libXfont1)
+msgid "X font handling library for server and utilities"
+msgstr ""
+
+#. summary(xfs)
+msgid "X font server"
+msgstr ""
+
+#. summary(xfsinfo)
+msgid "X font server information utility"
+msgstr ""
+
+#. summary(xgc)
+msgid "X graphics demo"
+msgstr ""
+
+#. summary(proxymngr)
+msgid "X proxy manager service"
+msgstr ""
+
+#. summary(xrdb)
+msgid "X server resource database utility"
+msgstr ""
+
+#. summary(xload)
+msgid "X utility to display system load average"
+msgstr ""
+
+#. description(libXvMC:libXvMC1)
+msgid ""
+"X-Video Motion Compensation (XvMC), is an extension of the X video extension "
+"(Xv) for the X Window System. The XvMC API allows video programs to offload "
+"portions of the video decoding process to the GPU video-hardware.\n"
+"\n"
+"The supported portions to be offloaded by XvMC onto the GPU are motion "
+"compensation (mo comp) and inverse discrete cosine transform (iDCT) for "
+"MPEG-2 video. XvMC also supports offloading decoding of mo comp, iDCT, and "
+"VLD (Variable-Length Decoding) for MPEG-2/MPEG-4-ASP."
+msgstr ""
+
+#. summary(libXvMC:libXvMC1)
+msgid "X-Video Motion Compensation library"
+msgstr ""
+
+#. summary(xorg-x11-libX11-ccache)
+msgid "X.Org compose cache"
+msgstr ""
+
+#. summary(libxcb:libxcb-dri2-0)
+msgid "X11 DRI2 Extension C library"
+msgstr ""
+
+#. summary(libxcb:libxcb-glx0)
+msgid "X11 GLX Extension C library"
+msgstr ""
+
+#. summary(libxcb:libxcb-randr0)
+msgid "X11 RandR Extension C library"
+msgstr ""
+
+#. summary(libxcb:libxcb-render0)
+msgid "X11 Render Extension C library"
+msgstr ""
+
+#. summary(libXScrnSaver:libXss1)
+msgid "X11 Screen Saver extension client library"
+msgstr ""
+
+#. summary(libxcb:libxcb-shape0)
+msgid "X11 Shape Extension C library"
+msgstr ""
+
+#. summary(libxcb:libxcb-shm0)
+msgid "X11 Shared Memory Extension C library"
+msgstr ""
+
+#. summary(libxcb:libxcb1)
+msgid "X11 core protocol C library"
+msgstr ""
+
+#. summary(libxkbfile:libxkbfile1)
+msgid "X11 keyboard file manipulation library"
+msgstr ""
+
+#. summary(libXfixes:libXfixes3)
+msgid "X11 miscellaneous \"fixes\" extension library"
+msgstr ""
+
+#. summary(pulseaudio:pulseaudio-module-x11)
+msgid "X11 module for PulseAudio"
+msgstr ""
+
+#. summary(libXcomposite:libXcomposite1)
+msgid "X11 protocol Composite extension client library"
+msgstr ""
+
+#. description(perl-X11-Protocol)
+msgid ""
+"X11::Protocol is a client-side interface to the X11 Protocol (see X(1) for "
+"information about X11), allowing perl programs to display windows and "
+"graphics on X11 servers.\n"
+"\n"
+"A full description of the protocol is beyond the scope of this "
+"documentation; for complete information, see the _X Window System Protocol, "
+"X Version 11_, available as Postscript or *roff source from 'ftp://ftp.x."
+"org', or _Volume 0: X Protocol Reference Manual_ of O'Reilly & Associates's "
+"series of books about X (ISBN 1-56592-083-X, 'http://www.oreilly.com'), "
+"which contains most of the same information."
+msgstr ""
+
+#. description(perl-X500-DN)
+msgid ""
+"X500::DN Provides a pure perl parser and formatter for RFC 2253 style DN "
+"strings."
+msgstr ""
+
+#. summary(xcb-util:libxcb-util1)
+msgid "XCB utility modules"
+msgstr ""
+
+#. summary(xdg-menu)
+msgid "XDG Menus for WindowMaker and other Window Managers"
+msgstr ""
+
+#. summary(libXxf86dga:libXxf86dga1)
+msgid "XFree86-DGA extension client library"
+msgstr ""
+
+#. summary(libXxf86misc:libXxf86misc1)
+msgid "XFree86-Misc X extension library"
+msgstr ""
+
+#. summary(libXxf86vm:libXxf86vm1)
+msgid "XFree86-VidMode X extension library"
+msgstr ""
+
+#. summary(xkbevd)
+msgid "XKB event daemon"
+msgstr ""
+
+#. summary(perl-XML-SAX)
+msgid "XML::SAX Perl Module"
+msgstr ""
+
+#. description(perl-XML-SAX)
+msgid ""
+"XML::SAX consists of several framework classes for using and building Perl "
+"SAX2 XML parsers, filters, and drivers. It is designed around the need to be "
+"able to \"plug in\" different SAX parsers to an application without "
+"requiring programmer intervention. Those of you familiar with the DBI will "
+"be right at home. Some of the designs come from the Java JAXP specification "
+"(SAX part), only without the javaness."
+msgstr ""
+
+#. description(perl-XML-Simple)
+msgid "XML::Simple - Easy API to read/write XML (esp config files)"
+msgstr ""
+
+#. description(perl-XML-Twig)
+msgid ""
+"XML::Twig is (yet another!) XML transformation module.\n"
+"\n"
+"Its strong points: can be used to process huge documents while still being "
+"in tree mode; not bound by DOM or SAX, so it is very perlish and offers a "
+"very comprehensive set of methods; simple to use; DWIMs as much as possible\n"
+"\n"
+"What it doesn't offer: full SAX support (it can export SAX, but only reads "
+"XML), full XPath support (unless you use XML::Twig::XPath), nor DOM "
+"support.\n"
+"\n"
+"Other drawbacks: it is a big module, and with over 500 methods available it "
+"can be a bit overwhelming. A good starting point is the tutorial at http://"
+"xmltwig.com/xmltwig/tutorial/index.html. In fact the whole XML::Twig page at "
+"http://xmltwig.com/xmltwig/ has plenty of information to get you started "
+"with XML::Twig"
+msgstr ""
+
+#. description(perl-XML-Writer)
+msgid ""
+"XML::Writer is a helper module for Perl programs that write an XML document. "
+"The module handles all escaping for attribute values and character data and "
+"constructs different types of markup, such as tags, comments, and processing "
+"instructions."
+msgstr ""
+
+#. description(xrestop)
+msgid ""
+"XResTop is a 'top' like tool for monitoring X Client server resource usage."
+msgstr ""
+
+#. description(xscope)
+msgid ""
+"XSCOPE is a program to monitor the connections between the X11 window server "
+"and a client program."
+msgstr ""
+
+#. summary(libxslt:libxslt1)
+msgid "XSL Transformation Library"
+msgstr ""
+
+#. summary(xtrap)
+msgid "XTrap sample clients"
+msgstr ""
+
+#. description(xbacklight)
+msgid ""
+"Xbacklight is used to adjust the backlight brightness where supported. It "
+"uses the RandR extension to find all outputs on the X server supporting "
+"backlight brightness control and changes them all in the same way."
+msgstr ""
+
+#. description(libXcursor:libXcursor1)
+msgid ""
+"Xcursor a library designed to help locate and load cursors. Cursors can be "
+"loaded from files or memory. A library of common cursors exists which map to "
+"the standard X cursor names.Cursors can exist in several sizes and the "
+"library automatically picks the best size."
+msgstr ""
+
+#. description(xdm)
+msgid ""
+"Xdm manages a collection of X displays, which may be on the local host or "
+"remote servers."
+msgstr ""
+
+#. description(xedit)
+msgid "Xedit is a simple text editor for X."
+msgstr ""
+
+#. description(xeyes)
+msgid "Xeyes watches what you do and reports to the Boss."
+msgstr ""
+
+#. description(libXft:libXft2)
+msgid ""
+"Xft is a library that connects X applications with the FreeType font "
+"rasterization library. Xft uses fontconfig to locate fonts so it has no "
+"configuration files."
+msgstr ""
+
+#. summary(libXinerama:libXinerama1)
+msgid "Xinerama extension to the X11 Protocol"
+msgstr ""
+
+#. description(libXinerama:libXinerama1)
+msgid ""
+"Xinerama is an extension to the X Window System which enables multi-headed X "
+"applications and window managers to use two or more physical displays as one "
+"large virtual display."
+msgstr ""
+
+#. summary(libXtst:libXtst6)
+msgid "Xlib-based client API for the XTEST and RECORD extensions"
+msgstr ""
+
+#. summary(libXprintUtil:libXprintUtil1)
+msgid "Xprint printer utility client library"
+msgstr ""
+
+#. description(xrandr)
+msgid ""
+"Xrandr is used to set the size, orientation and/or reflection of the outputs "
+"for a screen. It can also set the screen size."
+msgstr ""
+
+#. description(xrdb)
+msgid ""
+"Xrdb is used to get or set the contents of the RESOURCE_MANAGER property on "
+"the root window of screen 0, or the SCREEN_RESOURCES property on the root "
+"window of any or all screens, or everything combined."
+msgstr ""
+
+#. description(xrefresh)
+msgid ""
+"Xrefresh is a simple X program that causes all or part of your screen to be "
+"repainted. This is useful when system messages have messed up your screen."
+msgstr ""
+
+#. description(xsetmode)
+msgid ""
+"Xsetmode sets the mode of an XInput device to either absolute or relative."
+msgstr ""
+
+#. description(xsetpointer)
+msgid "Xsetpointer sets an XInput device as the main pointer."
+msgstr ""
+
+#. description(xwd)
+msgid ""
+"Xwd is an X Window System window dumping utility. It allows X users to store "
+"window images in a specially formatted dump file. This file can then be read "
+"by various other X utilities for redisplay, printing, editing, formatting, "
+"archiving, image processing, etc."
+msgstr ""
+
+#. description(yast2-online-update)
+msgid ""
+"YaST Online Update (YOU) provides a convenient way to download and install "
+"security and other system updates. By default it uses the official SuSE "
+"mirrors as the update sources, but it can also use local patch repositories "
+"or patch CDs.\n"
+"\n"
+"This package provides the graphical user interface for YOU which can be used "
+"with or without the X Window System. It can be started from the YaST control "
+"center."
+msgstr ""
+
+#. description(yast2-branding-openSUSE)
+msgid "YaST branding for the openSUSE distribution"
+msgstr ""
+
+#. description(yast2-fingerprint-reader)
+msgid ""
+"YaST module for configuration of fingerprint authentication using the "
+"thinkfinger library."
+msgstr ""
+
+#. summary(yast2-add-on)
+msgid "YaST2 - Add-On media installation code"
+msgstr ""
+
+#. summary(yast2-transfer)
+msgid "YaST2 - Agent for Various Transfer Protocols"
+msgstr ""
+
+#. summary(yast2-bootloader)
+msgid "YaST2 - Bootloader Configuration"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-pt_BR)
+msgid "YaST2 - Brazilian Portuguese Translations"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-en_GB)
+msgid "YaST2 - British English Translations"
+msgstr ""
+
+#. summary(yast2-control-center)
+msgid "YaST2 - Control Center"
+msgstr ""
+
+#. summary(yast2-core)
+msgid "YaST2 - Core Libraries"
+msgstr ""
+
+#. summary(yast2-country)
+msgid "YaST2 - Country Settings (Language, Keyboard, and Timezone)"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-cs)
+msgid "YaST2 - Czech Translations"
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-cs)
+msgid "YaST2 - Czech translations."
+msgstr ""
+
+#. summary(yast2-dbus-client)
+msgid "YaST2 - DBus Client Library"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-da)
+msgid "YaST2 - Danish Translations"
+msgstr ""
+
+#. summary(yast2-country:yast2-country-data)
+msgid "YaST2 - Data files for Country settings"
+msgstr ""
+
+#. summary(yast2-metapackage-handler)
+msgid "YaST2 - Easy Installation of Add-on RPMs using Metapackages"
+msgstr ""
+
+#. summary(yast2-fingerprint-reader)
+msgid "YaST2 - Fingerprint Reader Configuration"
+msgstr ""
+
+#. summary(yast2-firewall)
+msgid "YaST2 - Firewall Configuration"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-fr)
+msgid "YaST2 - French Translations"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-de)
+msgid "YaST2 - German Translations"
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-de)
+msgid "YaST2 - German translations."
+msgstr ""
+
+#. summary(yast2-hardware-detection)
+msgid "YaST2 - Hardware Detection Interface"
+msgstr ""
+
+#. summary(yast2-tune)
+msgid "YaST2 - Hardware Tuning"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-hu)
+msgid "YaST2 - Hungarian Translations"
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-hu)
+msgid "YaST2 - Hungarian translations."
+msgstr ""
+
+#. summary(yast2-irda)
+msgid "YaST2 - Infra-Red (IrDA) Access Configuration"
+msgstr ""
+
+#. summary(yast2-installation)
+msgid "YaST2 - Installation Parts"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-it)
+msgid "YaST2 - Italian Translations"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-ja)
+msgid "YaST2 - Japanese Translations"
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-ja)
+msgid "YaST2 - Japanese translations."
+msgstr ""
+
+#. summary(yast2-kerberos-client)
+msgid "YaST2 - Kerberos Client Configuration"
+msgstr ""
+
+#. summary(yast2-ldap)
+msgid "YaST2 - LDAP Agent"
+msgstr ""
+
+#. summary(yast2-ldap-client)
+msgid "YaST2 - LDAP Client Configuration"
+msgstr ""
+
+#. summary(yast2-mail)
+msgid "YaST2 - Mail Configuration"
+msgstr ""
+
+#. summary(yast2)
+msgid "YaST2 - Main Package"
+msgstr ""
+
+#. summary(yast2-mouse)
+msgid "YaST2 - Mouse Configuration"
+msgstr ""
+
+#. summary(yast2-nfs-client)
+msgid "YaST2 - NFS Configuration"
+msgstr ""
+
+#. summary(yast2-ntp-client)
+msgid "YaST2 - NTP Client Configuration"
+msgstr ""
+
+#. summary(yast2-network)
+msgid "YaST2 - Network Configuration"
+msgstr ""
+
+#. summary(yast2-nis-client)
+msgid "YaST2 - Network Information Services (NIS, YP) Configuration"
+msgstr ""
+
+#. summary(yast2-inetd)
+msgid "YaST2 - Network Services Configuration"
+msgstr ""
+
+#. summary(yast2-online-update)
+msgid "YaST2 - Online Update (YOU)"
+msgstr ""
+
+#. summary(yast2-pam)
+msgid "YaST2 - PAM Agent"
+msgstr ""
+
+#. summary(yast2-packager)
+msgid "YaST2 - Package Library"
+msgstr ""
+
+#. summary(yast2-pkg-bindings)
+msgid "YaST2 - Package Manager Access"
+msgstr ""
+
+#. summary(yast2-perl-bindings)
+msgid "YaST2 - Perl Bindings"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-pl)
+msgid "YaST2 - Polish Translations"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-pt)
+msgid "YaST2 - Portuguese Translations"
+msgstr ""
+
+#. summary(yast2-printer)
+msgid "YaST2 - Printer Configuration"
+msgstr ""
+
+#. summary(yast2-proxy)
+msgid "YaST2 - Proxy Configuration"
+msgstr ""
+
+#. summary(yast2-runlevel)
+msgid "YaST2 - Runlevel Editor"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-ru)
+msgid "YaST2 - Russian Translations"
+msgstr ""
+
+#. summary(yast2-slp)
+msgid "YaST2 - SLP Agent and Browser"
+msgstr ""
+
+#. summary(yast2-samba-client)
+msgid "YaST2 - Samba Client Configuration"
+msgstr ""
+
+#. summary(yast2-samba-server)
+msgid "YaST2 - Samba Server Configuration"
+msgstr ""
+
+#. summary(yast2-scanner)
+msgid "YaST2 - Scanner Configuration"
+msgstr ""
+
+#. summary(yast2-security)
+msgid "YaST2 - Security Configuration"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-zh_CN)
+msgid "YaST2 - Simplified Chinese Translations"
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-zh_CN)
+msgid "YaST2 - Simplified Chinese translations."
+msgstr ""
+
+#. summary(yast2-sound)
+msgid "YaST2 - Sound Configuration"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-es)
+msgid "YaST2 - Spanish Translations"
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-es)
+msgid "YaST2 - Spanish Translations."
+msgstr ""
+
+#. summary(yast2-storage)
+msgid "YaST2 - Storage Configuration"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-sv)
+msgid "YaST2 - Swedish Translations"
+msgstr ""
+
+#. summary(yast2-sysconfig)
+msgid "YaST2 - Sysconfig Editor"
+msgstr ""
+
+#. summary(yast2-backup)
+msgid "YaST2 - System Backup"
+msgstr ""
+
+#. summary(yast2-restore)
+msgid "YaST2 - System Restore"
+msgstr ""
+
+#. summary(yast2-tv)
+msgid "YaST2 - TV Configuration"
+msgstr ""
+
+#. summary(yast2-theme:yast2-theme-openSUSE)
+msgid "YaST2 - Theme (openSUSE)"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-zh_TW)
+msgid "YaST2 - Traditional Chinese Translations"
+msgstr ""
+
+#. summary(yast2-trans-stats)
+msgid "YaST2 - Translation Statistics"
+msgstr ""
+
+#. summary(yast2-trans:yast2-trans-en_US)
+msgid "YaST2 - Translations"
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-en_US)
+msgid "YaST2 - Translations for American English."
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-pt_BR)
+msgid "YaST2 - Translations for Brazilian Portuguese."
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-en_GB)
+msgid "YaST2 - Translations for British English."
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-da)
+msgid "YaST2 - Translations for Danish."
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-fr)
+msgid "YaST2 - Translations for French."
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-pl)
+msgid "YaST2 - Translations for Polish."
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-pt)
+msgid "YaST2 - Translations for Portuguese."
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-ru)
+msgid "YaST2 - Translations for Russian."
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-sv)
+msgid "YaST2 - Translations for Swedish."
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-zh_TW)
+msgid "YaST2 - Translations for Traditional Chinese."
+msgstr ""
+
+#. summary(yast2-update)
+msgid "YaST2 - Update"
+msgstr ""
+
+#. summary(yast2-users)
+msgid "YaST2 - User and Group Configuration"
+msgstr ""
+
+#. summary(yast2-packager:yast2-packager-webpin)
+msgid "YaST2 - Webpin package search client"
+msgstr ""
+
+#. summary(yast2-x11)
+msgid "YaST2 - X11 support"
+msgstr ""
+
+#. summary(yast2-xml)
+msgid "YaST2 - XML Agent"
+msgstr ""
+
+#. summary(yast2-ycp-ui-bindings)
+msgid "YaST2 - YCP Bindings for the YaST2 User Interface Engine"
+msgstr ""
+
+#. summary(yast2-iscsi-client)
+msgid "YaST2 - iSCSI Client Configuration"
+msgstr ""
+
+#. summary(yast2-sudo)
+msgid "YaST2 - sudo configuration"
+msgstr ""
+
+#. description(yast2-trans:yast2-trans-it)
+msgid "YaST2 - translations for Italian."
+msgstr ""
+
+#. summary(pulseaudio:pulseaudio-module-zeroconf)
+msgid "Zeroconf module for PulseAudio"
+msgstr ""
+
+#. description(zip)
+msgid ""
+"Zip is a compression and file packaging utility. It is compatible with PKZIP"
+"(tm) 2.04g (Phil Katz ZIP) for MS-DOS systems."
+msgstr ""
+
+#. description(zisofs-tools)
+msgid ""
+"Zisofs-tools, in conjunction with a zisofs-enabled system, allows the "
+"creation of an iso9660 filesystem that can be decompressed \"live\" on a "
+"file-by-file basis, while still being readable by systems without zisofs "
+"support. This package contains the tools necessary to create such a "
+"filesystem and read compressed files on a system without zisofs support."
+msgstr ""
+
+#. description(zypper)
+msgid ""
+"Zypper is a command line tool for managing software. It can be used to add "
+"package repositories, search for packages, install, remove, or update "
+"packages, install patches, hardware drivers, verify dependencies, and more.\n"
+"\n"
+"Zypper can be used interactively or non-interactively by user, from scripts, "
+"or front-ends."
+msgstr ""
+
+#. summary(zypper:zypper-aptitude)
+msgid "aptitude compatibility with zypper"
+msgstr ""
+
+#. description(xf86-video-ark)
+msgid "ark is an Xorg driver for Ark Logic video cards."
+msgstr ""
+
+#. description(xf86-video-ast)
+msgid "ast is an Xorg driver for ASpeed Technologies video cards."
+msgstr ""
+
+#. description(xf86-video-ati)
+msgid ""
+"ati is an Xorg driver for ATI/AMD video cards.\n"
+"\n"
+"It autodetects whether your hardware has a Radeon, Rage 128, or Mach64 or "
+"earlier class of chipset, and loads the radeon, r128, or mach64 driver as "
+"appropriate."
+msgstr ""
+
+#. description(xf86-video-chips)
+msgid ""
+"chips is an Xorg driver for Chips and Technologies video cards.\n"
+"\n"
+"The majority of the Chips and Technologies chipsets are supported by this "
+"driver. In general the limitation on the capabilities of this driver are "
+"determined by the chipset on which it is run. Where possible, this driver "
+"provides full acceleration and supports the following depths: 1, 4, 8, 15, "
+"16, 24 and on the latest chipsets an 8+16 overlay mode. All visual types are "
+"supported for depth 1, 4 and 8 and both TrueColor and DirectColor visuals "
+"are supported where possible. Multi-head configurations are supported on PCI "
+"or AGP buses."
+msgstr ""
+
+#. description(xf86dga)
+msgid "dga is a simple test client for the XFree86-DGA extension."
+msgstr ""
+
+#. description(xf86-video-dummy)
+msgid "dummy is an Xorg driver for virtual/offscreen frame buffer."
+msgstr ""
+
+#. description(xf86-input-evdev)
+msgid ""
+"evdev is an Xorg input driver for Linux's generic event devices. It "
+"therefore supports all input devices that the kernel knows about, including "
+"most mice, keyboards, tablets and touchscreens."
+msgstr ""
+
+#. description(xf86-video-fbdev)
+msgid ""
+"fbdev is an Xorg driver for framebuffer devices.\n"
+"\n"
+"This is a non-accelerated driver, the following framebuffer depths are "
+"supported: 8, 15, 16, 24. All visual types are supported for depth 8, and "
+"TrueColor visual is supported for the other depths. Multi-head "
+"configurations are supported."
+msgstr ""
+
+#. summary(sound-theme-freedesktop)
+msgid "freedesktop.org sound theme"
+msgstr ""
+
+#. description(zlib)
+msgid ""
+"ftp://ds.internic.net/rfc/rfc1950.txt (zlib format), rfc1951.txt (deflate "
+"format) and rfc1952.txt (gzip format). These documents are also available in "
+"other formats from ftp://ftp.uu.net/graphics/png/documents/zlib/zdoc-index."
+"html."
+msgstr ""
+
+#. description(xf86-video-glint)
+msgid ""
+"glint is an Xorg driver for 3Dlabs & Texas Instruments GLINT/Permedia video "
+"cards.\n"
+"\n"
+"The driver is rather fully accelerated, and provides support for the "
+"following framebuffer depths: 8, 15 (may give bad results with FBDev "
+"support), 16, 24 (32 bpp recommended, 24 bpp has problems), 30, and an 8+24 "
+"overlay mode."
+msgstr ""
+
+#. description(xf86-video-i128)
+msgid ""
+"i128 is an Xorg driver for Number 9 I128 video cards.\n"
+"\n"
+"The driver is accelerated and provides support for all versions of the I128 "
+"chip family, including the SGI flatpanel configuration. Multi-head "
+"configurations are supported."
+msgstr ""
+
+#. summary(master-boot-code)
+msgid "i386 Master Boot Record Code"
+msgstr ""
+
+#. description(xf86-video-intel)
+msgid ""
+"intel is an Xorg driver for Intel integrated video cards.\n"
+"\n"
+"The driver supports depths 8, 15, 16 and 24. All visual types are supported "
+"in depth 8. For the i810/i815 other depths support the TrueColor and "
+"DirectColor visuals. For the i830M and later, only the TrueColor visual is "
+"supported for depths greater than 8. The driver supports hardware "
+"accelerated 3D via the Direct Rendering Infrastructure (DRI), but only in "
+"depth 16 for the i810/i815 and depths 16 and 24 for the 830M and later."
+msgstr ""
+
+#. summary(iptables:libxtables7)
+msgid "iptables extension interface"
+msgstr ""
+
+#. description(xf86-input-joystick)
+msgid ""
+"joystick is an Xorg input driver for Joysticks. The driver reports cursor "
+"movement as well as raw axis values through valuators."
+msgstr ""
+
+#. description(xf86-input-keyboard)
+msgid ""
+"kbd is an Xorg input driver for keyboards. The driver supports the standard "
+"OS-provided keyboard interface, but these are currently only available to "
+"this driver module for Linux, BSD, and Solaris."
+msgstr ""
+
+#. description(libXres:libXRes1)
+msgid ""
+"libXRes provides an X Window System client interface to the Resource "
+"extension to the X protocol. The Resource extension allows for X clients to "
+"see and monitor the X resource usage of various clients (pixmaps, et al)."
+msgstr ""
+
+#. description(libXTrap:libXTrap6)
+msgid ""
+"libXTrap provides an interface to the DEC-XTRAP extension, which allows for "
+"capture and synthesis of core input events."
+msgstr ""
+
+#. description(libXfont:libXfont1)
+msgid ""
+"libXfont provides the core of the legacy X11 font system, handling the index "
+"files (fonts.dir, fonts.alias, fonts.scale), the various font file formats, "
+"and rasterizing them. It is used by the X servers, the X Font Server (xfs), "
+"and some font utilities (bdftopcf for instance), but should not be used by "
+"normal X11 clients. X11 clients access fonts via either the new APIs in "
+"libXft, or the legacy APIs in libX11."
+msgstr ""
+
+#. description(libXi:libXi6)
+msgid "libXi is the client-side library for the X Input Extension."
+msgstr ""
+
+#. description(libXp:libXp6)
+msgid ""
+"libXp provides APIs to allow client applications to render to non-display "
+"devices."
+msgstr ""
+
+#. description(libXpm:libXpm4)
+msgid ""
+"libXpm facilitates working with XPM (X PixMap), a format for storing/"
+"retrieving X pixmaps to/from files."
+msgstr ""
+
+#. description(libXprintUtil:libXprintUtil1)
+msgid ""
+"libXprintUtil provides utility Xpu APIs allowing client applications to "
+"access and manipulate information about printer capabilities from an Xprint "
+"server."
+msgstr ""
+
+#. description(libXxf86dga:libXxf86dga1)
+msgid ""
+"libXxf86dga provides the XFree86-DGA extension, which allows direct graphics "
+"access to a framebuffer-like region, and also allows relative mouse "
+"reporting, et al. It is mainly used by games and emulators for games."
+msgstr ""
+
+#. description(libXxf86misc:libXxf86misc1)
+msgid ""
+"libXxf86misc provides an interface to the XFree86-Misc extension, which "
+"allows client applications to query the current keyboard and mouse settings "
+"of the running XFree86-based (XFree86, Xorg) server."
+msgstr ""
+
+#. description(libxkbfile:libxkbfile1)
+msgid ""
+"libxkbfile is used by the X servers and utilities to parse the XKB "
+"configuration data files."
+msgstr ""
+
+#. description(lomoco)
+msgid ""
+"lomoco can configure vendor-specific options on Logitech USB mice (or dual-"
+"personality mice plugged into the USB port). A number of recent devices are "
+"supported. The program is mostly useful in setting the resolution to 800 cpi "
+"on mice that boot at 400 cpi (such as the MX-500), and disabling SmartScroll "
+"or Cruise Control for those who would rather use the two extra buttons as "
+"ordinary mouse buttons.\n"
+"\n"
+"You can configure which features should be enabled in /etc/sysconfig/"
+"logitech_mouse"
+msgstr ""
+
+#. description(pciutils)
+msgid ""
+"lspci: This program displays detailed information about all PCI busses and "
+"devices in the system, replacing the original /proc/pci interface.\n"
+"\n"
+"setpci: This program allows reading from and writing to PCI device "
+"configuration registers. For example, you can adjust the latency timers with "
+"it.\n"
+"\n"
+"update-pciids: This program downloads the current version of the pci.ids "
+"file."
+msgstr ""
+
+#. description(lukemftp)
+msgid "lukemftp is the enhanced FTP client in NetBSD."
+msgstr ""
+
+#. description(xf86-video-mga)
+msgid ""
+"mga is an Xorg driver for Matrox video cards.\n"
+"\n"
+"The driver is fully accelerated, and provides support for the following "
+"framebuffer depths: 8, 15, 16, 24, and an 8+24 overlay mode. All visual "
+"types are supported for depth 8, and both TrueColor and DirectColor visuals "
+"are supported for the other depths except 8+24 mode which supports "
+"PseudoColor, GrayScale and TrueColor. Multi-card configurations are "
+"supported. XVideo is supported on G200 and newer systems, with either "
+"TexturedVideo or video overlay. The second head of dual-head cards is "
+"supported for the G450 and G550. Support for the second head on G400 cards "
+"requires a binary-only \"mga_hal\" module that is available from Matrox, and "
+"may be on the CD supplied with the card. That module also provides various "
+"other enhancements, and may be necessary to use the DVI (digital) output on "
+"the G550 (and other cards)."
+msgstr ""
+
+#. description(mkcomposecache)
+msgid ""
+"mkcomposecache is used for creating global (system-wide) Compose cache "
+"files.\n"
+"\n"
+"Compose cache files help with application startup times and memory usage, "
+"especially in locales with large Compose tables (e.g. all UTF-8 locales)."
+msgstr ""
+
+#. description(mkfontdir)
+msgid ""
+"mkfontdir creates the fonts.dir files needed by the legacy X server core "
+"font system. The current implementation is a simple wrapper script around "
+"the mkfontscale program, which must be built and installed first."
+msgstr ""
+
+#. description(mkfontscale)
+msgid ""
+"mkfontscale creates the fonts.scale and fonts.dir index files used by the "
+"legacy X11 font system."
+msgstr ""
+
+#. description(xf86-input-mouse)
+msgid ""
+"mouse is an Xorg input driver for mice. The driver supports most available "
+"mouse types and interfaces, though the level of support for types of mice "
+"depends on the OS."
+msgstr ""
+
+#. description(xf86-video-neomagic)
+msgid ""
+"neomagic is an Xorg driver for Neomagic video cards found in many laptop "
+"computers."
+msgstr ""
+
+#. description(nss-mdns)
+msgid ""
+"nss-mdns is a plug-in for the GNU Name Service Switch (NSS) functionality of "
+"the GNU C Library (glibc) providing a hostname resolution via Multicast DNS "
+"(aka Zeroconf, aka Apple Rendezvous, aka Apple Bonjour), and effectively "
+"allowing name resolution by common Unix/Linux programs in the ad-hoc mDNS "
+"domain .local.\n"
+"\n"
+"nss-mdns provides only client functionality, which means that you have to "
+"run a mDNS responder daemon separately from nss-mdns if you want to register "
+"the local hostname via mDNS. I recommend Avahi.\n"
+"\n"
+"By default, nss-mdns tries to contact a running avahi-daemon to resolve "
+"hostnames and addresses and makes use of its superior record cacheing."
+msgstr ""
+
+#. description(xf86-video-nv)
+msgid ""
+"nv is an Xorg driver for NVIDIA video cards.\n"
+"\n"
+"The driver supports 2D acceleration and provides support for the following "
+"framebuffer depths: 8, 15, 16 (except Riva128) and 24. All visual types are "
+"supported for depth 8, TrueColor and DirectColor visuals are supported for "
+"the other depths with the exception of the Riva128 which only supports "
+"TrueColor in the higher depths."
+msgstr ""
+
+#. description(obexd)
+msgid ""
+"obexd is an implementation of the Obex Push protocol, common on mobile "
+"phones and other Bluetooth-equipped devices."
+msgstr ""
+
+#. description(oclock)
+msgid ""
+"oclock is a simple analog clock using the SHAPE extension to make a round "
+"(possibly transparent) window."
+msgstr ""
+
+#. summary(openSUSE-release)
+msgid "openSUSE"
+msgstr ""
+
+#. description(branding-openSUSE:plymouth-branding-openSUSE)
+msgid "openSUSE 12.2 branding for the plymouth bootsplash"
+msgstr ""
+
+#. description(branding-openSUSE:wallpaper-branding-openSUSE)
+msgid "openSUSE 12.2 defaults wallpapers"
+msgstr ""
+
+#. summary(branding-openSUSE:plymouth-branding-openSUSE)
+msgid "openSUSE branding for Plymouth bootsplash"
+msgstr ""
+
+#. summary(MozillaFirefox-branding-openSUSE)
+msgid "openSUSE branding of MozillaFirefox"
+msgstr ""
+
+#. summary(branding-openSUSE:wallpaper-branding-openSUSE)
+msgid "openSUSE default wallpapers"
+msgstr ""
+
+#. description(openSUSE-release)
+msgid "openSUSE is a distribution by the openSUSE.org project."
+msgstr ""
+
+#. summary(yast2-branding-openSUSE)
+msgid "openSuSE branding for YaST"
+msgstr ""
+
+#. description(p7zip)
+msgid ""
+"p7zip is a quick port of 7z.exe and 7za.exe (command line version of 7zip, "
+"see www.7-zip.org) for Unix. 7-Zip is a file archiver with highest "
+"compression ratio. Since 4.10, p7zip (like 7-zip) supports little-endian and "
+"big-endian machines."
+msgstr ""
+
+#. description(pam-config)
+msgid ""
+"pam-config is a command line utility to maintain the common PAM "
+"configuration files included by most PAM application configuration files. It "
+"can be used to configure a system for different network or hardware based "
+"authentication schemes. pam-config can also add/adjust/remove other PAM "
+"modules and their options."
+msgstr ""
+
+#. description(pam_fprint)
+msgid ""
+"pam_fprint is a PAM module for fingerprint reader support to be used with "
+"libfprint. A list of compatible fingerprint readers can be found at http://"
+"reactivated.net/fprint/wiki/Supported_devices ."
+msgstr ""
+
+#. description(perl:perl-base)
+msgid ""
+"perl - Practical Extraction and Report Language\n"
+"\n"
+"Perl is optimized for scanning arbitrary text files, extracting information "
+"from those text files, and printing reports based on that information.  It "
+"is also good for many system management tasks.\n"
+"\n"
+"Perl is intended to be practical (easy to use, efficient, and complete) "
+"rather than beautiful (tiny, elegant, and minimal).\n"
+"\n"
+"This package contains only some basic modules and the perl binary itself."
+msgstr ""
+
+#. description(perl)
+msgid ""
+"perl - Practical Extraction and Report Language\n"
+"\n"
+"Perl is optimized for scanning arbitrary text files, extracting information "
+"from those text files, and printing reports based on that information.  It "
+"is also good for many system management tasks. Perl is intended to be "
+"practical (easy to use, efficient, and complete) rather than beautiful "
+"(tiny, elegant, and minimal).\n"
+"\n"
+"Some of the modules available on CPAN can be found in the \"perl\" series."
+msgstr ""
+
+#. summary(perl-Crypt-SmbHash)
+msgid "perl module Crypt::SmbHash"
+msgstr ""
+
+#. description(pkcs11-helper)
+msgid ""
+"pkcs11-helper allows using multiple PKCS#11 providers at the same    time "
+"and selecting keys by id, label or certificate subject.    Besides it covers "
+"the following topics: * Handling card removal    and card insert events\n"
+"\n"
+"* Handling card re-insert to a different slot\n"
+"\n"
+"* Supporting session expiration serialization\n"
+"\n"
+"* and much more All this is possible using a simple API."
+msgstr ""
+
+#. description(pm-utils)
+msgid ""
+"pm-utils provide simple shell command line tools to suspend and hibernate "
+"computers that can be used to run vendor or distro supplied scripts on "
+"suspend and resume."
+msgstr ""
+
+#. description(pm-utils:pm-utils-ndiswrapper)
+msgid ""
+"pm-utils provide simple shell command line tools to suspend and hibernate "
+"computers that can be used to run vendor or distro supplied scripts on "
+"suspend and resume. This package installs the 75ndiswrapper hook."
+msgstr ""
+
+#. description(zypper:zypper-aptitude)
+msgid "provides aptitude compatibility using zypper"
+msgstr ""
+
+#. description(pulseaudio:pulseaudio-module-bluetooth)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"Contains Bluetooth audio (A2DP/HSP/HFP) support for the PulseAudio sound "
+"server."
+msgstr ""
+
+#. description(pulseaudio:pulseaudio-module-lirc)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"This package provides support for IR and RF remotes."
+msgstr ""
+
+#. description(pulseaudio:pulseaudio-module-x11)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"This package provides the components needed to automatically start the "
+"PulseAudio sound server on X11 startup."
+msgstr ""
+
+#. description(pulseaudio:pulseaudio-utils)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"This package provides utilies for making use of the PulseAudio sound server."
+msgstr ""
+
+#. description(pulseaudio:pulseaudio-module-zeroconf)
+msgid ""
+"pulseaudio is a networked sound server for Linux and other Unix like "
+"operating systems and Microsoft Windows. It is intended to be an improved "
+"drop-in replacement for the Enlightened Sound Daemon (ESOUND).\n"
+"\n"
+"This package provides zeroconf network support for the PulseAudio sound "
+"server"
+msgstr ""
+
+#. description(pulseaudio)
+msgid ""
+"pulseaudio is a networked sound server for Linux, other Unix like operating "
+"systems and Microsoft Windows. It is intended to be an improved drop-in "
+"replacement for the Enlightened Sound Daemon (ESOUND)."
+msgstr ""
+
+#. description(xf86-video-r128)
+msgid ""
+"r128 is an Xorg driver for ATI Rage 128 video cards.\n"
+"\n"
+"It contains full support for 8, 15, 16 and 24 bit pixel depths, hardware "
+"acceleration of drawing primitives, hardware cursor, video modes up to "
+"1800x1440 @ 70Hz, doublescan modes (e.g., 320x200 and 320x240), gamma "
+"correction at all pixel depths, a fully programming dot clock and robust "
+"text mode restoration for VT switching. Dualhead is supported on M3/M4 "
+"mobile chips."
+msgstr ""
+
+#. description(xorg-x11-driver-video-radeonhd)
+msgid ""
+"radeonhd is the X.org X11 driver for AMD GPG (ATI) r5xx/r6xx chipsets. Main "
+"development is driven by Novell, in close relationship to AMD which provides "
+"free documentation for the chipsets."
+msgstr ""
+
+#. description(rendercheck)
+msgid ""
+"rendercheck is a program to test a Render extension implementation against "
+"separate calculations of expected output."
+msgstr ""
+
+#. description(xf86-video-savage)
+msgid ""
+"savage is an Xorg driver for S3 Savage video cards.\n"
+"\n"
+"2D, 3D, and Xv acceleration is supported on all chips except the Savage2000 "
+"(2D only). Dualhead operation is supported on MX, IX, and SuperSavage chips."
+msgstr ""
+
+#. description(setxkbmap)
+msgid ""
+"setxkbmap is an X11 client to change the keymaps in the X server for a "
+"specified keyboard to use the layout determined by the options listed on the "
+"command line."
+msgstr ""
+
+#. description(showfont)
+msgid ""
+"showfont displays data about a font from an X font server. The information "
+"shown includes font information, font properties, character metrics, and "
+"character bitmaps."
+msgstr ""
+
+#. description(xf86-video-siliconmotion)
+msgid ""
+"siliconmotion is an Xorg driver for Silicon Motion video cards.\n"
+"\n"
+"The driver is fully accelerated, and provides support for the following "
+"framebuffer depths: 8, 16, and 24. All visual types are supported for depth "
+"8, and TrueColor visuals are supported for the other depths."
+msgstr ""
+
+#. description(python-simplejson)
+msgid ""
+"simplejson is a simple, fast, complete, correct and extensible JSON encoder "
+"and decoder for Python 2.5+. It is pure Python code with no dependencies, "
+"but includes an optional C extension for a serious speed boost."
+msgstr ""
+
+#. description(xf86-video-sis)
+msgid ""
+"sis is an Xorg driver for SiS (Silicon Integrated Systems) and XGI video "
+"cards.\n"
+"\n"
+"The driver is accelerated and provides support for colordepths of 8, 16 and "
+"24 bpp. XVideo, Render and other extensions are supported as well."
+msgstr ""
+
+#. description(smproxy)
+msgid ""
+"smproxy allows X applications that do not support X11R6 session management "
+"to participate in an X11R6 session."
+msgstr ""
+
+#. description(xf86-input-synaptics)
+msgid ""
+"synaptics is an Xorg input driver for touchpads.\n"
+"\n"
+"Even though touchpads can be handled by the normal evdev or mouse drivers, "
+"this driver allows more advanced features of the touchpad to become "
+"available."
+msgstr ""
+
+#. summary(systemd-presets-branding-openSUSE)
+msgid "systemd default presets for openSUSE"
+msgstr ""
+
+#. description(xf86-video-tdfx)
+msgid "tdfx is an Xorg driver for 3Dfx video cards."
+msgstr ""
+
+#. description(xf86-video-tga)
+msgid "tga is an Xorg driver for DEC 21030 video cards."
+msgstr ""
+
+#. description(tunctl)
+msgid ""
+"tunctl is a tool to set up and maintain persistent TUN/TAP network "
+"interfaces, enabling user applications access to the wire side of a virtual "
+"nework interface. Such interfaces is useful for connecting VPN software, "
+"virtualization, emulation and a number of other similar applications to the "
+"network stack.\n"
+"\n"
+"tunctl originates from the User Mode Linux project."
+msgstr ""
+
+#. description(twm)
+msgid ""
+"twm is a window manager for the X Window System. It provides titlebars, "
+"shaped windows, several forms of icon management, user-defined macro "
+"functions, click-to-type and pointer-driven keyboard focus, and user-"
+"specified key and pointer button bindings."
+msgstr ""
+
+#. description(unscd)
+msgid ""
+"unscd caches application requests for resolving hostnames, user and group "
+"names and other things, and can dramatically improve performance e.g. when "
+"using NIS or LDAP or even when just caching DNS requests.\n"
+"\n"
+"This is an alternative to the glibc-supplied nscd that has been designed to "
+"be much simpler and more robust, but has fewer features and may have "
+"somewhat worse performance."
+msgstr ""
+
+#. description(update-alternatives)
+msgid ""
+"update-alternatives creates, removes, maintains and displays information "
+"about the symbolic links comprising the alternatives system. It is possible "
+"for several programs fulfilling the same or similar functions to be "
+"installed on a single system at the same time. For example, many systems "
+"have several text editors installed at once. This gives choice to the users "
+"of a system, allowing each to use a different editor, if desired, but makes "
+"it difficult for a program to make a good choice of editor to invoke if the "
+"user has not specified a particular preference."
+msgstr ""
+
+#. description(xf86-video-v4l)
+msgid ""
+"v4l is an Xorg driver for video4linux video cards.\n"
+"\n"
+"It provides a Xvideo extension port for video overlay. Just add the driver "
+"to the module list within the module section of your configuration file if "
+"you want to use it. There are no config options."
+msgstr ""
+
+#. description(xf86-video-vesa)
+msgid ""
+"vesa is an Xorg driver for Generic VESA video cards.\n"
+"\n"
+"It can drive most VESA-compatible video cards, but only makes use of the "
+"basic standard VESA core that is common to these cards. The driver supports "
+"depths 8, 15 16 and 24."
+msgstr ""
+
+#. description(viewres)
+msgid ""
+"viewres displays a tree showing the widget class hierarchy of the Athena "
+"Widget Set (libXaw)."
+msgstr ""
+
+#. description(xf86-input-vmmouse)
+msgid ""
+"vmmouse is an Xorg input driver for mice. The driver supports most available "
+"mouse types and interfaces. USB mice are only supported on some OSs, and the "
+"level of support for PS/2 mice depends on the OS."
+msgstr ""
+
+#. description(xf86-video-vmware)
+msgid "vmware is an Xorg driver for VMware virtual video cards."
+msgstr ""
+
+#. description(xf86-input-void)
+msgid ""
+"void is an dummy/null Xorg input driver. It doesn't connect to any physical "
+"device, and it never delivers any events. It functions as both a pointer and "
+"keyboard device, and may be used as X server's core pointer and/or core "
+"keyboard. Its purpose is to allow X servers pre version 1.4 to operate "
+"without a core pointer and/or core keyboard."
+msgstr ""
+
+#. description(xf86-video-voodoo)
+msgid ""
+"voodoo is an Xorg driver for Voodoo 1 and Voodoo 2 series video cards.\n"
+"\n"
+"On the Voodoo 1 the driver uses a shadow buffer in system memory as the "
+"video adapter has only 3D acceleration. Selected portions of the shadow "
+"framebuffer are copied out to the Voodoo board at the right time. Because of "
+"this, the speed of the driver is very dependent on the CPU. Processors "
+"nowadays are actually rather fast at moving data so we get very good speed "
+"anyway as the shadow framebuffer is in cached RAM.\n"
+"\n"
+"The Voodoo2 has 16bpp acceleration and the driver provides accelerated "
+"versions of most operations except angled lines and stipples. Accelerated "
+"alpha blending with the Render extension is also supported as is DGA.\n"
+"\n"
+"This driver supports 16bpp modes currently. The video hardware supports "
+"image conversion from 24bpp to 16bpp but the hardware is 16bpp only.\n"
+"\n"
+"The Voodoo 1 series cards can go up to 800x600 resolution while the Voodoo 2 "
+"can reach 1024x768 providing it has at least 2Mb of frame buffer memory. "
+"1024x768 2D mode does not require two cards configured in scan-line "
+"interleave mode (SLI).\n"
+"\n"
+"Multihead and Xinerama configurations are supported. SLI configurations will "
+"be treated as multiple video cards.\n"
+"\n"
+"Limited support for DPMS screen saving is available. The \"standby\" and "
+"\"suspend\" modes are just painting the screen black. The \"off\" mode turns "
+"the Voodoo board off and thus works correctly.\n"
+"\n"
+"This driver does not support a virtual screen size different from the "
+"display size. This is a hardware limitation. 3D rendering is also not "
+"supported."
+msgstr ""
+
+#. description(xf86-input-wacom)
+msgid "wacom is an X input driver for Wacom devices."
+msgstr ""
+
+#. description(wpa_supplicant)
+msgid ""
+"wpa_supplicant is an implementation of the WPA Supplicant component, i.e., "
+"the part that runs in the client stations. It implements key negotiation "
+"with a WPA Authenticator and it controls the roaming and IEEE 802.11 "
+"authentication/association of the wlan driver."
+msgstr ""
+
+#. description(xbiff)
+msgid ""
+"xbiff provides graphical notification of new e-mail. It only handles mail "
+"stored in a filesystem accessible file, not via IMAP, POP or other remote "
+"access protocols."
+msgstr ""
+
+#. description(xcalc)
+msgid ""
+"xcalc is a scientific calculator X11 client that can emulate a TI-30 or an "
+"HP-10C."
+msgstr ""
+
+#. description(xclipboard)
+msgid ""
+"xclipboard is used to collect and display text selections that are sent to "
+"the CLIPBOARD by other clients.  It is typically used to save CLIPBOARD "
+"selections for later use.  It stores each CLIPBOARD selection as a separate "
+"string, each of which can be selected."
+msgstr ""
+
+#. description(xclock)
+msgid ""
+"xclock is the classic X Window System clock utility. It displays the time in "
+"analog or digital form, continuously updated at a frequency which may be "
+"specified by the user."
+msgstr ""
+
+#. description(xcmsdb)
+msgid ""
+"xcmsdb is used to load, query, or remove Device Color Characterization data "
+"stored in properties on the root window of the screen as specified in "
+"section 7, Device Color Characterization, of the X11 Inter-Client "
+"Communication Conventions Manual (ICCCM)."
+msgstr ""
+
+#. description(xcompmgr)
+msgid ""
+"xcompmgr is a sample compositing manager for X servers supporting the "
+"XFIXES, DAMAGE, RENDER, and COMPOSITE extensions. It enables basic eye-candy "
+"effects."
+msgstr ""
+
+#. description(xconsole)
+msgid ""
+"xconsole displays in a X11 window the messages which are usually sent to /"
+"dev/console"
+msgstr ""
+
+#. description(xcursorgen)
+msgid "xcursorgen prepares X11 cursor sets for use with libXcursor."
+msgstr ""
+
+#. description(xdbedizzy)
+msgid ""
+"xdbedizzy is a demo of the X11 Double Buffer Extension (DBE) creating a "
+"double buffered spinning scene."
+msgstr ""
+
+#. description(xdg-user-dirs)
+msgid ""
+"xdg-user-dirs is a tool to help manage \"well known\" user directories like "
+"the desktop folder and the music folder. It also handles localization (i.e. "
+"translation) of the filenames."
+msgstr ""
+
+#. description(xditview)
+msgid "xditview displays ditroff output on an X display."
+msgstr ""
+
+#. description(xdpyinfo)
+msgid ""
+"xdpyinfo is a utility for displaying information about an X server.\n"
+"\n"
+"It is used to examine the capabilities of a server, the predefined values "
+"for various parameters used in communicating between clients and the server, "
+"and the different types of screens, visuals, and X11 protocol extensions "
+"that are available."
+msgstr ""
+
+#. description(xev)
+msgid ""
+"xev creates a window and then asks the X server to send it X11 events "
+"whenever anything happens to the window (such as it being moved, resized, "
+"typed in, clicked in, etc.). You can also attach it to an existing window. "
+"It is useful for seeing what causes events to occur and to display the "
+"information that they contain; it is essentially a debugging and development "
+"tool, and should not be needed in normal usage."
+msgstr ""
+
+#. description(xfindproxy)
+msgid ""
+"xfindproxy is a program used to locate available proxy services. It utilizes "
+"the Proxy Management Protocol to communicate with a proxy manager. The proxy "
+"manager keeps track of all available proxy services, starts new proxies when "
+"necessary, and makes sure that proxies are shared whenever possible."
+msgstr ""
+
+#. description(xfontsel)
+msgid ""
+"xfontsel application provides a simple way to display the X11 core protocol "
+"fonts known to your X server, examine samples of each, and retrieve the X "
+"Logical Font Description (\"XLFD\") full name for a font."
+msgstr ""
+
+#. description(xfs)
+msgid ""
+"xfs is the X Window System font server. It supplies fonts to X Window System "
+"display servers."
+msgstr ""
+
+#. description(xfsinfo)
+msgid ""
+"xfsinfo is a utility for displaying information about an X font server. It "
+"is used to examine the capabilities of a server, the predefined values for "
+"various parameters used in communicating between clients and the server, and "
+"the font catalogues and alternate servers that are available."
+msgstr ""
+
+#. description(xgamma)
+msgid ""
+"xgamma allows X users to query and alter the gamma correction of a monitor "
+"via the X video mode extension (XFree86-VidModeExtension)."
+msgstr ""
+
+#. description(xgc)
+msgid ""
+"xgc is an X11 graphics demo that shows various features of the X11 core "
+"protocol graphics primitives."
+msgstr ""
+
+#. description(xhost)
+msgid ""
+"xhost is used to manage the list of host names or user names allowed to make "
+"connections to the X server."
+msgstr ""
+
+#. description(xinetd)
+msgid ""
+"xinetd takes the abilities of inetd and appends additional functionality:\n"
+"\n"
+"- Access Control\n"
+"\n"
+"- Prevention of 'denial of access' attacks\n"
+"\n"
+"- Extensive logging abilities\n"
+"\n"
+"- Clear configuration file"
+msgstr ""
+
+#. description(xinput)
+msgid "xinput is a utility to configure and test XInput devices."
+msgstr ""
+
+#. description(xkbprint)
+msgid ""
+"xkbprint generates a printable or encapsulated PostScript description of an "
+"XKB keyboard description."
+msgstr ""
+
+#. description(xkbutils)
+msgid ""
+"xkbutils is a collection of small utilities utilizing the XKeyboard (XKB) "
+"extension to the X11 protocol.\n"
+"\n"
+"It includes:  xkbbell  - generate XKB bell events  xkbvleds - display the "
+"state of LEDs on an XKB keyboard in a window  xkbwatch - reports changes in "
+"the XKB keyboard state"
+msgstr ""
+
+#. description(xkill)
+msgid ""
+"xkill is a utility for forcing the X server to close connections to clients. "
+"This program is very dangerous, but is useful for aborting programs that "
+"have displayed undesired windows on a user's screen."
+msgstr ""
+
+#. description(xload)
+msgid ""
+"xload displays a periodically updating histogram of the system load average."
+msgstr ""
+
+#. description(xlsatoms)
+msgid "xlsatoms lists the interned atoms defined on an X11 server."
+msgstr ""
+
+#. description(xlsclients)
+msgid ""
+"xlsclients is a utility for listing information about the client "
+"applications running on a X11 server."
+msgstr ""
+
+#. description(xlsfonts)
+msgid ""
+"xlsfonts lists fonts available from an X server via the X11 core protocol."
+msgstr ""
+
+#. description(xmag)
+msgid "xmag displays a magnified snapshot of a portion of an X11 screen."
+msgstr ""
+
+#. description(xman)
+msgid "xman is a graphical manual page browser."
+msgstr ""
+
+#. description(xmessage)
+msgid ""
+"xmessage displays a message or query in a window. The user can click on an "
+"\"okay\" button to dismiss it or can select one of several buttons to answer "
+"a question. xmessage can also exit after a specified time."
+msgstr ""
+
+#. description(xmore)
+msgid "xmore is a plain text browser."
+msgstr ""
+
+#. description(xplsprinters)
+msgid ""
+"xplsprinters is a utility for Xprint, the printing system for the X Window "
+"system. It can deliver both a list of printers and attributes supported for "
+"a specific list of printers."
+msgstr ""
+
+#. description(xpr)
+msgid ""
+"xpr takes as input a window dump file produced by xwd and formats it for "
+"output on various types of printers."
+msgstr ""
+
+#. description(xprehashprinterlist)
+msgid ""
+"xprehashprinterlist causes all Xprint servers to recompute (update) their "
+"lists of available printers, and update the attributes for the printers. The "
+"intended usage of this tool is that a system administrator can run it after "
+"changing the printer topology."
+msgstr ""
+
+#. description(xprop)
+msgid "xprop displays window and font properties of an X server."
+msgstr ""
+
+#. description(xsm)
+msgid ""
+"xsm is a session manager. A session is a group of applications, each of "
+"which has a particular state. xsm allows you to create arbitrary sessions - "
+"for example, you might have a \"light\" session, a \"development\" session, "
+"or an \"xterminal\" session. Each session can have its own set of "
+"applications. Within a session, you can perform a \"checkpoint\" to save "
+"application state, or a \"shutdown\" to save state and exit the session. "
+"When you log back in to the system, you can load a specific session, and you "
+"can delete sessions you no longer want to keep."
+msgstr ""
+
+#. description(xvidtune)
+msgid ""
+"xvidtune is a client interface to the X server video mode extension (XFree86-"
+"VidModeExtension)."
+msgstr ""
+
+#. description(xvinfo)
+msgid ""
+"xvinfo prints out the capabilities of any video adaptors associated with the "
+"display that are accessible through the X-Video extension."
+msgstr ""
+
+#. description(xwininfo)
+msgid "xwininfo prints information about windows on an X server."
+msgstr ""
+
+#. description(xwud)
+msgid ""
+"xwud allows X users to display in a window an image saved in a specially "
+"formatted dump file, such as produced by xwd."
+msgstr ""
