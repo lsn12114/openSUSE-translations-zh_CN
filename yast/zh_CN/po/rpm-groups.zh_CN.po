@@ -541,10 +541,10 @@ msgid "Suite"
 msgstr "套装"
 
 msgid "SUSE"
-msgstr "苏轼"
+msgstr "SUSE"
 
 msgid "SUSE internal"
-msgstr "苏轼内部"
+msgstr "SUSE 内部"
 
 msgid "System"
 msgstr "系统"
