@@ -4048,7 +4048,7 @@ msgid ""
 "Make sure these repositories are compatible before you continue. See '%s' "
 "for more information about this command."
 msgstr ""
-"您将要使用所有已启用的软件源进行发行版升级。 继续前请确保这些源之前相互兼容。"
+"您将要使用所有已启用的软件源进行发行版升级。 继续前请确保这些源之间相互兼容。"
 "参考 '%s' 获取更多关于此命令的信息。"
 
 #: src/Zypper.cc:4288 src/utils/messages.cc:40 src/utils/messages.cc:50
