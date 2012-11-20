@@ -1,0 +1,139 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-28 19:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: krpmview.cpp:56
+msgid "Install Package with YaST"
+msgstr ""
+
+#: krpmview.cpp:62
+msgid "Use Directory as Source with YaST"
+msgstr ""
+
+#: krpmview.cpp:83
+msgid "Description"
+msgstr ""
+
+#: krpmview.cpp:84
+msgid "Technical Data"
+msgstr ""
+
+#: krpmview.cpp:85
+msgid "Dependencies"
+msgstr ""
+
+#: krpmview.cpp:86
+msgid "File List"
+msgstr ""
+
+#: krpmview.cpp:87
+msgid "Change Log"
+msgstr ""
+
+#: krpmview.cpp:259
+msgid "License: %1\n"
+msgstr ""
+
+#: krpmview.cpp:262
+msgid "RPM group: %1\n"
+msgstr ""
+
+#: krpmview.cpp:265
+msgid "Distribution: %1\n"
+msgstr ""
+
+#: krpmview.cpp:268
+msgid "Packager: %1\n"
+msgstr ""
+
+#: krpmview.cpp:271
+msgid "Vendor: %1\n"
+msgstr ""
+
+#: krpmview.cpp:277
+msgid "Build time: %1\n"
+msgstr ""
+
+#: krpmview.cpp:281
+msgid "Build host: %1\n"
+msgstr ""
+
+#: krpmview.cpp:286
+msgid "Size: %1\n"
+msgstr ""
+
+#: krpmview.cpp:289
+msgid "Source RPM: %1\n"
+msgstr ""
+
+#: krpmview.cpp:291
+msgid "Provides"
+msgstr ""
+
+#: krpmview.cpp:293
+msgid "Requires"
+msgstr ""
+
+#: krpmview.cpp:295
+msgid "Conflicts"
+msgstr ""
+
+#: krpmview.cpp:297
+msgid "Obsoletes"
+msgstr ""
+
+#: krpmview.cpp:299
+msgid "Recommends"
+msgstr ""
+
+#: krpmview.cpp:301
+msgid "Suggests"
+msgstr ""
+
+#: krpmview.cpp:303
+msgid "Enhances"
+msgstr ""
+
+#: krpmview.cpp:305
+msgid "Supplements"
+msgstr ""
+
+#: krpmview.cpp:315
+msgid "Project Page: "
+msgstr ""
+
+#: krpmview.cpp:333
+msgid "Parsing complete."
+msgstr ""
+
+#: krpmview.cpp:365
+msgid "krpmview"
+msgstr ""
+
+#: krpmview.cpp:367
+msgid "Viewer for RPM files"
+msgstr ""
+
+#: krpmview.cpp:370
+msgid ""
+"KRPMView views the content of RPM archives and can use YaST to install them"
+msgstr ""
+
+#: krpmview.cpp:373
+msgid "Current Maintainer"
+msgstr ""

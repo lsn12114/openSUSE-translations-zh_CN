@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-28 19:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: greetings.cpp:51 greetings.cpp:68 greetings.cpp:84 greetings.cpp:90
+#: greetings.cpp:131
+msgid "Error loading %1"
+msgstr ""
+
+#: greetings.cpp:140
+msgid "Have a lot of fun!"
+msgstr ""
+
+#: greetings.cpp:141
+msgid "CLOSE"
+msgstr ""
+
+#: greetings.cpp:142
+msgid "Show Introduction to KDE4"
+msgstr ""
+
+#: main.cpp:34 main.cpp:35
+msgid "SUSEgreeter"
+msgstr ""
+
+#: main.cpp:35
+msgid "(c) 2001, Adrian Schroeter"
+msgstr ""
+
+#: main.cpp:36
+msgid "Adrian Schroeter"
+msgstr ""
+
+#: rc.cpp:2
+msgid "openSUSE Project"
+msgstr ""
+
+#: rc.cpp:4
+msgid ""
+"The <a href=\"http://www.opensuse.org/\">openSUSE project</a> is a community "
+"program sponsored by <a href=\"http://www.suse.com/\">SUSE</a>. Promoting "
+"the use of Linux everywhere, openSUSE.org provides free, easy access to the "
+"world's most usable Linux distribution, openSUSE. You'll find more "
+"information available in many languages on the <a href=\"http://en.opensuse."
+"org/\">project wiki</a>. For the latest news, visit our <a href=\"http://"
+"news.opensuse.org/\">openSUSE News</a> portal."
+msgstr ""
+
+#: rc.cpp:6
+msgid "Community Support"
+msgstr ""
+
+#: rc.cpp:8
+msgid ""
+"The openSUSE community are helpful people. Various ways exist to contact "
+"other openSUSE members, ask questions, discuss openSUSE and Linux. The "
+"official <a href=\"http://forums.opensuse.org/\">openSUSE Forums</a> are "
+"very accessible. Other ways including online chat are described on our <a "
+"href=\"http://help.opensuse.org/\">Online Help</a> site."
+msgstr ""
+
+#: rc.cpp:10
+msgid "Build Service"
+msgstr ""
+
+#: rc.cpp:12
+msgid ""
+"The <a href=\"http://en.opensuse.org/Build_Service\">openSUSE Build Service</"
+"a> is an open and complete distribution development platform. It provides "
+"software developers with a tool to compile, release and publish their "
+"software for a broad user audience. For non-developers it offers a large "
+"collection of easy to install software packages. Just visit the <a href="
+"\"http://software.opensuse.org/\">openSUSE Software</a> site."
+msgstr ""

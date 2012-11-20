@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Thorsten Kukuk
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: kukuk@suse.de\n"
+"POT-Creation-Date: 2011-05-18 15:24+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/support.c:153
+msgid "login: "
+msgstr ""
+
+#: src/support.c:167 src/support.c:233
+msgid "Password: "
+msgstr ""
+
+#: src/unix_acct.c:102 src/unix_acct.c:150
+msgid "Your password has expired. Choose a new password."
+msgstr ""
+
+#: src/unix_acct.c:129
+msgid "Password change requested. Choose a new password."
+msgstr ""
+
+#: src/unix_acct.c:292
+#, c-format
+msgid "Your password will expire in %ld days."
+msgstr ""
+
+#: src/unix_acct.c:296
+msgid "Your password will expire tomorrow."
+msgstr ""
+
+#: src/unix_acct.c:299
+msgid "Your password will expire within 24 hours."
+msgstr ""
+
+#: src/unix_auth.c:310
+msgid "Permissions on the password database may be too restrictive."
+msgstr ""
+
+#: src/unix_passwd.c:81
+msgid "Old Password: "
+msgstr ""
+
+#: src/unix_passwd.c:82
+msgid "New Password: "
+msgstr ""
+
+#: src/unix_passwd.c:83
+msgid "Reenter New Password: "
+msgstr ""
+
+#: src/unix_passwd.c:217
+msgid "You can only change local passwords."
+msgstr ""
+
+#: src/unix_passwd.c:293
+#, c-format
+msgid "Less than %d weeks since the last change."
+msgstr ""
+
+#: src/unix_passwd.c:297
+#, c-format
+msgid "Less than %d days since the last change."
+msgstr ""
+
+#: src/unix_passwd.c:349 src/unix_passwd.c:364
+msgid "Password change aborted."
+msgstr ""
+
+#: src/unix_passwd.c:378
+msgid "Passwords do not match."
+msgstr ""
+
+#: src/unix_passwd.c:403
+msgid "Error: Password NOT changed."
+msgstr ""
+
+#: src/unix_passwd.c:411
+msgid "Password changed."
+msgstr ""
+
+#: src/unix_passwd.c:428
+#, c-format
+msgid "Cannot find the master ypserver: %s"
+msgstr ""
+
+#: src/unix_passwd.c:436
+#, c-format
+msgid "yppasswdd not running on NIS master %s"
+msgstr ""
+
+#: src/unix_passwd.c:442
+msgid "yppasswd daemon running on illegal port."
+msgstr ""
+
+#: src/unix_passwd.c:489
+#, c-format
+msgid "Cannot open %s for reading: %s"
+msgstr ""
+
+#: src/unix_passwd.c:498
+#, c-format
+msgid "Unable to obtain entropy from %s"
+msgstr ""
+
+#: src/unix_passwd.c:513
+msgid "Unable to generate a salt. Check your crypt settings."
+msgstr ""
+
+#: src/unix_passwd.c:655
+msgid "Cannot create salt for standard crypt"
+msgstr ""
+
+#: src/unix_passwd.c:667
+msgid "Cannot create salt for MD5 crypt"
+msgstr ""
+
+#: src/unix_passwd.c:680
+msgid "Cannot create salt for bigcrypt"
+msgstr ""
+
+#: src/unix_passwd.c:686
+msgid "No support for bigcrypt included"
+msgstr ""
+
+#: src/unix_passwd.c:697
+msgid "Cannot create salt for blowfish crypt"
+msgstr ""
+
+#: src/unix_passwd.c:709
+msgid "Cannot create salt for sha256 crypt"
+msgstr ""
+
+#: src/unix_passwd.c:721
+msgid "Cannot create salt for sha512 crypt"
+msgstr ""
+
+#: src/unix_passwd.c:735
+msgid "crypt_r() returns NULL pointer"
+msgstr ""
+
+#: src/unix_passwd.c:758
+msgid "Cannot lock password file: already locked."
+msgstr ""
+
+#: src/unix_passwd.c:785 src/unix_passwd.c:846 src/unix_passwd.c:952
+#: src/unix_passwd.c:1013
+#, c-format
+msgid "Cannot open %s: %m"
+msgstr ""
+
+#: src/unix_passwd.c:792 src/unix_passwd.c:959
+#, c-format
+msgid "Cannot stat %s: %m"
+msgstr ""
+
+#: src/unix_passwd.c:820 src/unix_passwd.c:987
+#, c-format
+msgid "Cannot create temp file (%s): %m"
+msgstr ""
+
+#: src/unix_passwd.c:828 src/unix_passwd.c:995
+#, c-format
+msgid "Cannot change permssions of %s: %m"
+msgstr ""
+
+#: src/unix_passwd.c:833 src/unix_passwd.c:999
+#, c-format
+msgid "Cannot change owner/group of %s: %m"
+msgstr ""
+
+#: src/unix_passwd.c:876
+#, c-format
+msgid "Error while writing new shadow file: %m"
+msgstr ""
+
+#: src/unix_passwd.c:886
+#, c-format
+msgid "Error while closing old shadow file: %m"
+msgstr ""
+
+#: src/unix_passwd.c:895 src/unix_passwd.c:1058
+#, c-format
+msgid "Error while writing to disk `%s': %m\n"
+msgstr ""
+
+#: src/unix_passwd.c:906 src/unix_passwd.c:1069
+#, c-format
+msgid "Error while syncing to disk `%s': %m\n"
+msgstr ""
+
+#: src/unix_passwd.c:917
+#, c-format
+msgid "Error while closing temporary shadow file: %m"
+msgstr ""
+
+#: src/unix_passwd.c:924 src/unix_passwd.c:1087
+#, c-format
+msgid "Cannot create backup file of %s: %m"
+msgstr ""
+
+#: src/unix_passwd.c:1039
+#, c-format
+msgid "Error while writing new password file: %m"
+msgstr ""
+
+#: src/unix_passwd.c:1049
+#, c-format
+msgid "Error while closing old password file: %m"
+msgstr ""
+
+#: src/unix_passwd.c:1080
+#, c-format
+msgid "Error while closing temporary password file: %m"
+msgstr ""
+
+#: src/unix_passwd.c:1119
+#, c-format
+msgid "Changing NIS password for %s on %s."
+msgstr ""
+
+#: src/unix_passwd.c:1134
+msgid "Error while changing the NIS password."
+msgstr ""

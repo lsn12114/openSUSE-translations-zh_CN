@@ -1,0 +1,535 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# , 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:27+0200\n"
+"PO-Revision-Date: 2012-10-28 17:38+0800\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. Cluster read dialog caption
+#: src/Cluster.ycp:309
+#| msgid "Initializing Printer Configuration"
+msgid "Initializing Cluster Configuration"
+msgstr "正在初始化集群配置"
+
+#. Progress stage 1/3
+#: src/Cluster.ycp:321
+msgid "Read the database"
+msgstr "读取数据库"
+
+#. Progress stage 2/3
+#: src/Cluster.ycp:323
+msgid "Read the previous settings"
+msgstr "读取以前的设置"
+
+#. Progress stage 3/3
+#: src/Cluster.ycp:325
+#| msgid "Read Firewall Settings."
+msgid "Read SuSEFirewall Settings"
+msgstr "读取 SuSEFirewall 设置"
+
+#. Progress step 1/3
+#: src/Cluster.ycp:328
+msgid "Reading the database..."
+msgstr "正在读取数据库..."
+
+#. Progress step 2/3
+#: src/Cluster.ycp:330
+msgid "Reading the previous settings..."
+msgstr "正在读取以前的设置..."
+
+#. Progress step 3/3
+#: src/Cluster.ycp:332
+#| msgid "Reading firewall settings..."
+msgid "Reading SuSEFirewall settings..."
+msgstr "正在读取 SuSEFirewall 设置..."
+
+#. Progress finished
+#: src/Cluster.ycp:334 src/Cluster.ycp:431
+msgid "Finished"
+msgstr "已完成"
+
+#: src/Cluster.ycp:343
+#| msgid "Cannot install required packages."
+msgid "Cannot install required package"
+msgstr "无法安装所需的软件包"
+
+#: src/Cluster.ycp:352
+#| msgid "Change existing configuration"
+msgid "Cannot load existing configuration."
+msgstr "无法载入现有配置。"
+
+#. Error message
+#: src/Cluster.ycp:361
+msgid "Cannot read database1."
+msgstr "无法读取数据库 1。"
+
+#. Error message
+#: src/Cluster.ycp:369
+msgid "Cannot read database2."
+msgstr "无法读取数据库 2。"
+
+#. Error message
+#: src/Cluster.ycp:390
+msgid "Cannot detect devices."
+msgstr "无法检测设备。"
+
+#. Cluster read dialog caption
+#: src/Cluster.ycp:410
+#| msgid "Saving the Configuration"
+msgid "Saving Cluster Configuration"
+msgstr "正在保存集群配置"
+
+#. Progress stage 1/2
+#: src/Cluster.ycp:422
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. Progress stage 2/2
+#: src/Cluster.ycp:424
+#| msgid "Save changes to the Profile"
+msgid "Save changes to SuSEFirewall"
+msgstr "将修订保存到 SuSEFirewall"
+
+#. Progress step 1/2
+#: src/Cluster.ycp:427
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. Progress step 2/2
+#: src/Cluster.ycp:429
+#| msgid "Saving changes to the files..."
+msgid "Saving changes to SuSEFirewall..."
+msgstr "正在保存修订到 SuSEFirewall..."
+
+#. Error message
+#: src/Cluster.ycp:441
+msgid "Cannot write settings."
+msgstr "无法写入设置。"
+
+#. TODO FIXME: your code here...
+#. Configuration summary text for autoyast
+#: src/Cluster.ycp:559
+#| msgid "Change the IrDA configuration"
+msgid "Change the configuration of HAE here..."
+msgstr "在此修订 HAE 配置..."
+
+#. Command line help text for the Xcluster module
+#: src/cluster.ycp:54
+#| msgid "Configuration of printer"
+msgid "Configuration of cluster"
+msgstr "集群配置"
+
+#. Rich text title for Cluster in proposals
+#: src/cluster_proposal.ycp:85
+#| msgid "Clustering"
+msgid "Cluster"
+msgstr "集群"
+
+#. Menu title for Cluster in proposals
+#: src/cluster_proposal.ycp:87
+#| msgid "Clustering"
+msgid "&Cluster"
+msgstr "集群(&C)"
+
+#: src/common.ycp:25
+#| msgid "Communication"
+msgid "Communication Channels"
+msgstr "通讯频道"
+
+#: src/common.ycp:26
+msgid "Security"
+msgstr "安全"
+
+#: src/common.ycp:27
+msgid "Service"
+msgstr "服务"
+
+#: src/common.ycp:28
+#| msgid "Configure CUPS"
+msgid "Configure Csync2"
+msgstr "配置 Csync2"
+
+#: src/dialogs.ycp:68
+msgid "OK"
+msgstr "确定"
+
+#: src/dialogs.ycp:69
+msgid "Cancel"
+msgstr "取消"
+
+#: src/dialogs.ycp:267
+#| msgid "Transport"
+msgid "Transport:"
+msgstr "传输："
+
+#: src/dialogs.ycp:269
+msgid "Channel"
+msgstr "频道"
+
+#: src/dialogs.ycp:271
+#| msgid "Network &Address:"
+msgid "Bind Network Address:"
+msgstr "绑定网络地址："
+
+#: src/dialogs.ycp:272
+#| msgid "Last IP Address:"
+msgid "Multicast Address:"
+msgstr "多播地址："
+
+#: src/dialogs.ycp:273
+#| msgid "Multicast"
+msgid "Multicast Port:"
+msgstr "多播端口："
+
+#: src/dialogs.ycp:274 src/dialogs.ycp:289
+#| msgid "Remote Address:"
+msgid "Member Address:"
+msgstr "成员地址："
+
+#: src/dialogs.ycp:284
+#| msgid "Read Channel"
+msgid "Redundant Channel"
+msgstr "冗余频道"
+
+#: src/dialogs.ycp:413 src/dialogs.ycp:435
+#| msgid "Enter a valid e-mail address"
+msgid "Enter a member address"
+msgstr "输入一个成员地址"
+
+#: src/dialogs.ycp:423 src/dialogs.ycp:445
+#| msgid "Insert the IP address."
+msgid "Edit the member address"
+msgstr "编辑成员地址"
+
+#: src/dialogs.ycp:537
+#| msgid "Enable &GSS Security"
+msgid "Enable Security Auth"
+msgstr "启用安全验证"
+
+#: src/dialogs.ycp:541
+msgid ""
+"For newly created cluster, push the button below to generate "
+"/etc/corosync/authkey."
+msgstr "新创建的集群，请按下面按钮生成 /etc/corosync/authkey。"
+
+#: src/dialogs.ycp:542
+msgid ""
+"To join an existing cluster, please copy /etc/corosync/authkey from other "
+"nodes manually."
+msgstr "要加入一个已有集群，请从其他节点手动复制 /etc/corosync/authkey。"
+
+#: src/dialogs.ycp:646 src/dialogs.ycp:691
+msgid "Running"
+msgstr "正在运行"
+
+#: src/dialogs.ycp:648
+msgid "Not running"
+msgstr "未运行"
+
+#: src/dialogs.ycp:678
+msgid "Booting"
+msgstr "引导"
+
+#: src/dialogs.ycp:681
+#| msgid "On -- Start Service when Booting"
+msgid "On -- Start openais at booting"
+msgstr "开 -- 引导时启动 openais"
+
+#: src/dialogs.ycp:682
+#| msgid "Off -- Start Service Manually"
+msgid "Off -- Start openais manually only"
+msgstr "关 -- 仅手动启动 openais"
+
+#: src/dialogs.ycp:687
+msgid "Switch On and Off"
+msgstr "打开和关闭"
+
+#: src/dialogs.ycp:690
+msgid "Current Status: "
+msgstr "当前状态："
+
+#: src/dialogs.ycp:695
+#| msgid "Start Squid Now"
+msgid "Start openais Now"
+msgstr "立即启动 openais"
+
+#: src/dialogs.ycp:696
+#| msgid "Stop Firewall Now"
+msgid "Stop openais Now"
+msgstr "立即停止 openais"
+
+#: src/dialogs.ycp:701
+#| msgid "Management"
+msgid "Management Tool"
+msgstr "管理工具"
+
+#: src/dialogs.ycp:783
+#| msgid "Main Host"
+msgid "Sync Host"
+msgstr "同步主机"
+
+#: src/dialogs.ycp:787 src/dialogs.ycp:797
+msgid "Add"
+msgstr "添加"
+
+#: src/dialogs.ycp:788 src/dialogs.ycp:798
+#| msgid "Delay"
+msgid "Del"
+msgstr "删除"
+
+#: src/dialogs.ycp:789 src/dialogs.ycp:799
+msgid "Edit"
+msgstr "编辑"
+
+#: src/dialogs.ycp:793
+#| msgid "Select File"
+msgid "Sync File"
+msgstr "同步文件"
+
+#: src/dialogs.ycp:800
+#| msgid "Suggested fstab Lines"
+msgid "Add Suggested Files"
+msgstr "添加建议的文件"
+
+#: src/dialogs.ycp:805
+msgid "Generate Pre-Shared-Keys"
+msgstr "生成预共享密钥"
+
+#: src/dialogs.ycp:889
+msgid "Csync2 Status Unknown"
+msgstr "Csync2 状态未知"
+
+#: src/dialogs.ycp:891
+msgid "Turn csync2 ON"
+msgstr "开启 csync2"
+
+#: src/dialogs.ycp:893
+msgid "Turn csync2 OFF"
+msgstr "关闭 csync2"
+
+#: src/dialogs.ycp:931
+#| msgid "Enter a user name."
+msgid "Enter a hostname"
+msgstr "输入一个主机名"
+
+#: src/dialogs.ycp:941
+#| msgid "Write hostname"
+msgid "Edit the hostname"
+msgstr "编辑主机名"
+
+#: src/dialogs.ycp:953
+#| msgid "Enter a filename"
+msgid "Enter a filename to synchronize"
+msgstr "输入要同步的文件名"
+
+#: src/dialogs.ycp:962
+#| msgid "Enter the file name"
+msgid "Edit the filename"
+msgstr "编辑文件名"
+
+#: src/dialogs.ycp:982
+#, ycp-format
+#| msgid ""
+#| "File %1 already exists.\n"
+#| "Do you wish to overwrite it?"
+msgid ""
+"Key file %1 already exist.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"密钥文件 %1 已存在。\n"
+"是否要覆盖它？"
+
+#: src/dialogs.ycp:987
+#, ycp-format
+#| msgid "Parsing the key file failed."
+msgid "Delete key file %1 failed."
+msgstr "删除密钥文件 %1 失败。"
+
+#: src/dialogs.ycp:995
+#, ycp-format
+msgid ""
+"Key file %1 is generated.\n"
+"Clicking \"Add Suggested Files\" button adds it to sync list."
+msgstr ""
+"密钥文件 %1 已生成。\n"
+"点击“添加建议的文件”按钮将它添加到同步列表。"
+
+#: src/dialogs.ycp:997
+#| msgid "Image creation failed."
+msgid "Key generation failed."
+msgstr "密钥生成失败。"
+
+#: src/helps.ycp:39
+msgid ""
+"<p><b><big>Bind Network Address</big></b><br>This  specifies  the  address "
+"which the openais executive should bind.  This address should always end in  "
+"zero.   If  the  totem traffic  should  be routed over 192.168.5.92, set "
+"bindnetaddr to 192.168.5.0.<br>This may also be an IPV6 address, in which "
+"case IPV6  networking will  be used.  In this case, the full address must be "
+"specified and there is no automatic selection  of  the  network  interface "
+"within a specific subnet as with IPv4. If IPv6 networking is used, the nodeid "
+"field must be specified.<br></p>\n"
+"<p><b><big>Multicast Address</big></b><br>This is the multicast address used "
+"by  openais  executive.   The default  should work for most networks, but the "
+"network administrator should be queried  about  a  multicast  address  to  "
+"use.  Avoid 224.x.x.x because this is a \"config\" multicast address.<br>This "
+" may  also be an IPV6 multicast address, in which case IPV6 networking will "
+"be used.  If IPv6 networking is used, the nodeid field must be specified.</p>"
+"\n"
+"<p><b><big>Multicast Port</big></b><br>This  specifies  the UDP port number.  "
+"It is possible to use the same multicast address on a network with  the  "
+"openais  services configured for different UDP ports.<br></p>\n"
+"<p><b><big>Node ID</big></b><br>This  configuration  option  is  optional  "
+"when  using  IPv4 and required when using IPv6.  This is a 32 bit value "
+"specifying the node identifier delivered to the cluster membership service.  "
+"If this is not specified with IPv4, the node id will be  determined from  the "
+" 32  bit  IP address the system to which the system is bound with ring "
+"identifier of 0.  The node identifier  value  of zero is reserved and should "
+"not be used.<br></p>\n"
+"<p><b><big>rrp_mode</big></b><br>This specifies the mode of redundant ring, "
+"which  may  be  none, active,  or  passive.   Active replication offers "
+"slightly lower latency from transmit to delivery in faulty network "
+"environments but  with less performance.  Passive replication may nearly "
+"double the speed of the totem  protocol  if  the  protocol  doesn't become  "
+"cpu bound.  The final option is none, in which case only one network "
+"interface will be used to operate the  totem  protocol.  If  only one "
+"interface directive is specified, none is automatically chosen.  If multiple "
+"interface directives  are  specified, only active or passive may be chosen.<"
+"br></p>\n"
+msgstr ""
+"<p><b><big>绑定网络地址</big></b><br>这指定了 openais 可执行文件应绑定的地址。该地址应总以 0 结尾。若 TOTEM "
+"流量应通过 192.168.5.92 发送，则设定 bindnetaddr 为 192.168.5.0。<br>这也可以是 IPv6 地址，那将使用 "
+"IPv6 网络。在这种情况下，必须指定完整地址。\n"
+
+#: src/helps.ycp:45
+msgid ""
+"\n"
+"<p><b><big>Threads</big></b><br>This directive controls how many threads are "
+"used to encrypt and send multicast messages.  If secauth is off, the  "
+"protocol  will never  use  threaded  sending.  If secauth is on, this "
+"directive allows systems to be  configured  to  use  multiple  threads  to "
+"encrypt and send multicast messages.  A  thread  directive of 0 indicates "
+"that no threaded send should be used.  This mode offers best performance for "
+"non-SMP systems.  The default is 0. <br></p>\n"
+"<p><b><big>Enable Security Auth</big></b><br>This  specifies  that HMAC/SHA1 "
+"authentication should be used to authenticate all messages.  It further "
+"specifies that  all  data should  be  encrypted  with the sober128 encryption "
+"algorithm to protect data from eavesdropping.  Enabling this option adds a 36 "
+"byte header to every message sent by totem which reduces total throughput.  "
+"Encryption and authentication consume 75% of CPU cycles in aisexec as  "
+"measured  with gprof when enabled.  For  100mbit  networks  with  1500  MTU  "
+"frame  transmissions: A throughput of 9mb/sec is possible with 100% cpu "
+"utilization when this  option  is enabled on 3ghz cpus.  A throughput of "
+"10mb/sec is possible wth 20% cpu utilization when this option is  disabled on "
+"3ghz cpus.  For  gig-e networks with large frame transmissions: A throughput "
+"of 20mb/sec is possible when this  option  is  enabled  on  3ghz cpus.   A "
+"throughput of 60mb/sec is possible when this option is disabled on 3ghz cpus. "
+" The default is on. <br></p>\n"
+msgstr ""
+
+#: src/helps.ycp:49
+msgid ""
+"\n"
+"\t\t\t<p><b><big>Booting</big></b><br>Starting openais service during boot or "
+"not</p>\n"
+"\t\t\t<p><b><big>Start mgmtd</big></b><br>Mgmtd daemon is a standalone "
+"service daemon. It is required by the GUI</p>\n"
+"\t\t\t"
+msgstr ""
+
+#: src/helps.ycp:54
+msgid ""
+"\n"
+"\t\t<p><b><big>Sync Host</big></b><br>The hostnames used here must be the "
+"local hostnames of the cluster nodes. That means you must use exactly the "
+"same string as printed out by the hostname command.</p>\n"
+"\t\t<p><b><big>Sync File</big></b><br>The full absolute filename to be "
+"synced.</p>\n"
+"\t\t<p><b><big>Pre-Shared-Keys</big></b><br>Authentication is performed using "
+"the IP addresses and pre-shared-keys in Csync2. The key file is generated "
+"with csync2 -k /etc/csync2/key_hagroup. The file key_hagroup should be copied "
+"to all members of the cluster manually after it's created.</p>\n"
+"\t"
+msgstr ""
+"\n"
+"\t\t<p><b><big>同步主机</big></b><br>这里使用的主机名必须是集群节点的本地主机名。这意味着您必须输入与 hostname "
+"命令的打印输出完全相同的内容。</p>\n"
+"\t\t<p><b><big>同步文件</big></b><br>要同步的完整绝对文件名。</p>\n"
+"\t\t<p><b><big>预共享密钥</big></b><br>Authentication is performed using the IP "
+"addresses and pre-shared-keys in Csync2. The key file is generated with "
+"csync2 -k /etc/csync2/key_hagroup. The file key_hagroup should be copied to "
+"all members of the cluster manually after it's created.</p>\n"
+"\t"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:61
+#| msgid ""
+#| "<p><b><big>Initializing Scanner Configuration</big></b><br>\n"
+#| "Please wait...</p>"
+msgid ""
+"<p><b><big>Initializing Cluster Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在初始化集群配置</big></b><br>\n"
+"</p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:66
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化：</big></b><br>\n"
+"立即点击<b>终止</b>以安全中断配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:71
+#| msgid ""
+#| "<p><b><big>Creating a New Configuration</big></b><br>\n"
+#| "</p>\n"
+msgid ""
+"<p><b><big>Saving cluster Configuration</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在保存集群配置</big></b><br>\n"
+"</p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:76
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"点击<B>中断</B>以中断保存过程。\n"
+"一个附加对话框将告诉您这样做是否安全。\n"
+"</p>\n"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:153
+#| msgid "Printer Configuration"
+msgid "Cluster Configuration"
+msgstr "集群配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:155
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+

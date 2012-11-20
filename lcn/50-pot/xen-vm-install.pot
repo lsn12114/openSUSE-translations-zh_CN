@@ -1,0 +1,1179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Novell, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 10:51-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/vminstall/msg.py:22
+msgid "Installation Error"
+msgstr ""
+
+#: src/vminstall/msg.py:23
+msgid "Error"
+msgstr ""
+
+#: src/vminstall/msg.py:24
+msgid "Warning"
+msgstr ""
+
+#: src/vminstall/msg.py:25
+msgid "Aborted"
+msgstr ""
+
+#: src/vminstall/msg.py:26
+msgid "Invalid URL"
+msgstr ""
+
+#: src/vminstall/msg.py:27
+msgid "The 'kernel-xen' and 'install-initrd' packages were not found."
+msgstr ""
+
+#. TRANSLATORS Do not translate %(tag)s
+#: src/vminstall/msg.py:29
+#, python-format
+msgid "Failed to find the '%(tag)s' tag in the XML file."
+msgstr ""
+
+#. TRANSLATORS Do not translate %(file)s
+#: src/vminstall/msg.py:31
+#, python-format
+msgid "Failed to parse the XML file '%(file)s'."
+msgstr ""
+
+#: src/vminstall/msg.py:32
+msgid "The virtual disk may only be stored on a block device or in a file."
+msgstr ""
+
+#: src/vminstall/msg.py:33
+msgid "No media is present in the drive."
+msgstr ""
+
+#: src/vminstall/msg.py:34
+msgid "Must be the 'root' user to run vm-install"
+msgstr ""
+
+#: src/vminstall/msg.py:37
+msgid "Please correct the error and try again."
+msgstr ""
+
+#: src/vminstall/msg.py:38
+msgid "Please type a number."
+msgstr ""
+
+#. TRANSLATORS Do not translate %(val)s
+#: src/vminstall/msg.py:40
+#, python-format
+msgid "The minimum acceptable value is %(val)s."
+msgstr ""
+
+#. TRANSLATORS Do not translate %(val)s
+#: src/vminstall/msg.py:42
+#, python-format
+msgid "The maximum acceptable value is %(val)s."
+msgstr ""
+
+#: src/vminstall/msg.py:45
+msgid "The VM's name must contain only alphanumeric and _ - . : + characters."
+msgstr ""
+
+#: src/vminstall/msg.py:46
+msgid "The VM's name must contain from 1 to 255 characters."
+msgstr ""
+
+#: src/vminstall/msg.py:47
+msgid "The VM's name cannot start with a digit."
+msgstr ""
+
+#: src/vminstall/msg.py:50
+#, python-format
+msgid ""
+"Failed to display the VM's console because DISPLAY is not set.  Please "
+"connect a VNC viewer to %s:%d."
+msgstr ""
+
+#: src/vminstall/msg.py:51
+msgid "Failed to display the VM's console.  Please connect a viewer manually."
+msgstr ""
+
+#: src/vminstall/msg.py:55
+msgid "An error occurred in Xen."
+msgstr ""
+
+#: src/vminstall/msg.py:56
+msgid "The hypervisor is not running."
+msgstr ""
+
+#: src/vminstall/msg.py:57
+msgid "An incompatible version of the hypervisor is running."
+msgstr ""
+
+#: src/vminstall/msg.py:58
+msgid "Unable to connect to the Xen daemon."
+msgstr ""
+
+#: src/vminstall/msg.py:59
+msgid "Must be the 'root' user to manage Xen."
+msgstr ""
+
+#: src/vminstall/msg.py:62
+msgid "Failed to start the VM."
+msgstr ""
+
+#: src/vminstall/msg.py:63
+msgid "The VM has crashed."
+msgstr ""
+
+#: src/vminstall/msg.py:64
+msgid "A VM by that name is already running."
+msgstr ""
+
+#: src/vminstall/msg.py:65
+msgid "A VM configuration already exists with that name."
+msgstr ""
+
+#: src/vminstall/msg.py:66
+msgid "A valid boot sector was not found.  The installation may have failed."
+msgstr ""
+
+#: src/vminstall/msg.py:67
+msgid "No kernel was found.  The installation may have failed."
+msgstr ""
+
+#: src/vminstall/msg.py:68
+msgid "You must shutdown the VM before upgrading."
+msgstr ""
+
+#: src/vminstall/msg.py:71
+msgid "The installation source is using an unsupported protocol."
+msgstr ""
+
+#: src/vminstall/msg.py:72
+msgid "An error occurred while reading from the installation source."
+msgstr ""
+
+#: src/vminstall/msg.py:73
+msgid "The installation source was not found."
+msgstr ""
+
+#: src/vminstall/msg.py:74
+msgid "The installation source is unusable."
+msgstr ""
+
+#: src/vminstall/msg.py:75
+msgid "No installation source was defined."
+msgstr ""
+
+#: src/vminstall/msg.py:76
+msgid "A CD-ROM or DVD must be specified from which to boot."
+msgstr ""
+
+#: src/vminstall/msg.py:77
+msgid "An error occurred while reading the configuration file."
+msgstr ""
+
+#: src/vminstall/msg.py:80
+msgid ""
+"The operating system is incompatible with the processor architecture of this "
+"machine."
+msgstr ""
+
+#: src/vminstall/msg.py:81
+msgid "The processor(s) in this machine do not support full virtualization."
+msgstr ""
+
+#: src/vminstall/msg.py:82
+msgid ""
+"The processor(s) in this machine support full virtualization, but it is "
+"disabled in the BIOS."
+msgstr ""
+
+#: src/vminstall/msg.py:85
+msgid "Not enough memory."
+msgstr ""
+
+#: src/vminstall/msg.py:88
+msgid "Failed to make host device available for VM."
+msgstr ""
+
+#: src/vminstall/msg.py:89
+msgid "Pciback kernel module is not loaded."
+msgstr ""
+
+#: src/vminstall/msg.py:90
+msgid "Unbinding device from host failed."
+msgstr ""
+
+#: src/vminstall/msg.py:91
+msgid "Unable to make host device available."
+msgstr ""
+
+#: src/vminstall/msg.py:92
+msgid "Binding host device to pciback failed."
+msgstr ""
+
+#: src/vminstall/msg.py:93
+msgid "Host device is in use by another VM."
+msgstr ""
+
+#: src/vminstall/msg.py:96
+msgid "The disk does not exist."
+msgstr ""
+
+#: src/vminstall/msg.py:97
+msgid "The disk is read-only."
+msgstr ""
+
+#: src/vminstall/msg.py:98
+msgid "Permission was denied while attempting to access the disk."
+msgstr ""
+
+#: src/vminstall/msg.py:99
+msgid ""
+"Two of the virtual disks have conflicting virtual names or physical devices."
+msgstr ""
+
+#: src/vminstall/msg.py:100
+msgid "Not enough space on device for disk image."
+msgstr ""
+
+#: src/vminstall/msg.py:101
+msgid "Create disk image failed."
+msgstr ""
+
+#: src/vminstall/msg.py:102
+msgid ""
+"You are overcommitting the amount of disk space available on this device.  "
+"Continue anyways?"
+msgstr ""
+
+#: src/vminstall/msg.py:105
+msgid "The job was canceled."
+msgstr ""
+
+#: src/vminstall/msg.py:106
+msgid "The job was not found."
+msgstr ""
+
+#: src/vminstall/msg.py:107
+msgid "The job is in the wrong state to perform that action."
+msgstr ""
+
+#: src/vminstall/msg.py:110
+msgid "A parameter is invalid or missing."
+msgstr ""
+
+#: src/vminstall/msg.py:111
+msgid "The operating system does not support paravirtualization."
+msgstr ""
+
+#: src/vminstall/msg.py:112
+msgid "The operating system does not support automated installations."
+msgstr ""
+
+#: src/vminstall/msg.py:113
+msgid "The operating system does not support full virtualization."
+msgstr ""
+
+#: src/vminstall/msg.py:114
+msgid "The operating system cannot be upgraded from this tool."
+msgstr ""
+
+#: src/vminstall/msg.py:117
+msgid "NetWare"
+msgstr ""
+
+#: src/vminstall/msg.py:118
+msgid "RedHat"
+msgstr ""
+
+#: src/vminstall/msg.py:119
+msgid "SUSE"
+msgstr ""
+
+#: src/vminstall/msg.py:120
+msgid "Ubuntu"
+msgstr ""
+
+#: src/vminstall/msg.py:121
+msgid "Windows"
+msgstr ""
+
+#: src/vminstall/msg.py:122
+msgid "Solaris"
+msgstr ""
+
+#: src/vminstall/msg.py:123
+msgid "Other"
+msgstr ""
+
+#: src/vminstall/msg.py:124
+msgid "ReaR"
+msgstr ""
+
+#: src/vminstall/msg.py:127
+msgid "Novell NetWare 6.5 SP6 and older"
+msgstr ""
+
+#: src/vminstall/msg.py:128
+msgid "Novell Open Enterprise Server 2 (Linux)"
+msgstr ""
+
+#: src/vminstall/msg.py:129
+msgid "Novell Open Enterprise Server 11"
+msgstr ""
+
+#: src/vminstall/msg.py:130
+msgid "Novell Open Enterprise Server 2 (NetWare)"
+msgstr ""
+
+#: src/vminstall/msg.py:131
+msgid "openSUSE"
+msgstr ""
+
+#: src/vminstall/msg.py:132
+msgid "openSUSE 11"
+msgstr ""
+
+#: src/vminstall/msg.py:133
+msgid "openSUSE 12"
+msgstr ""
+
+#: src/vminstall/msg.py:134
+msgid "Other operating system"
+msgstr ""
+
+#: src/vminstall/msg.py:135
+msgid "RedHat (other)"
+msgstr ""
+
+#: src/vminstall/msg.py:136
+msgid "RedHat Enterprise Linux 3"
+msgstr ""
+
+#: src/vminstall/msg.py:137
+msgid "RedHat Enterprise Linux 4"
+msgstr ""
+
+#: src/vminstall/msg.py:138
+msgid "RedHat Enterprise Linux 5"
+msgstr ""
+
+#: src/vminstall/msg.py:139
+msgid "RedHat Enterprise Linux 6"
+msgstr ""
+
+#: src/vminstall/msg.py:140
+msgid "SUSE Linux Enterprise Desktop 10"
+msgstr ""
+
+#: src/vminstall/msg.py:141
+msgid "SUSE Linux Enterprise Desktop 11"
+msgstr ""
+
+#: src/vminstall/msg.py:142
+msgid "SUSE Linux Enterprise Server 10"
+msgstr ""
+
+#: src/vminstall/msg.py:143
+msgid "SUSE Linux Enterprise Server 11"
+msgstr ""
+
+#: src/vminstall/msg.py:144
+msgid "SUSE Linux Enterprise Server 8"
+msgstr ""
+
+#: src/vminstall/msg.py:145
+msgid "SUSE Linux Enterprise Server 9"
+msgstr ""
+
+#: src/vminstall/msg.py:146
+msgid "Solaris 10"
+msgstr ""
+
+#: src/vminstall/msg.py:147
+msgid "Solaris 9 and older"
+msgstr ""
+
+#: src/vminstall/msg.py:148
+msgid "SUSE (other)"
+msgstr ""
+
+#: src/vminstall/msg.py:149
+msgid "Ubuntu (other)"
+msgstr ""
+
+#: src/vminstall/msg.py:150
+msgid "Ubuntu 10 (Lucid Lynx, Maverick Meerkat)"
+msgstr ""
+
+#: src/vminstall/msg.py:151
+msgid "Ubuntu 11 (Natty Narwhal, Oneiric Ocelot)"
+msgstr ""
+
+#: src/vminstall/msg.py:152
+msgid "Ubuntu 12 (Precise Pangolin)"
+msgstr ""
+
+#: src/vminstall/msg.py:153
+msgid "Windows (other)"
+msgstr ""
+
+#: src/vminstall/msg.py:154
+msgid "Windows (other, x64)"
+msgstr ""
+
+#: src/vminstall/msg.py:155
+msgid "Windows NT"
+msgstr ""
+
+#: src/vminstall/msg.py:156
+msgid "Windows Vista, Windows 7"
+msgstr ""
+
+#: src/vminstall/msg.py:157
+msgid "Windows Vista, Windows 7 (x64)"
+msgstr ""
+
+#: src/vminstall/msg.py:158
+msgid "Windows 8"
+msgstr ""
+
+#: src/vminstall/msg.py:159
+msgid "Windows 8 (x64)"
+msgstr ""
+
+#: src/vminstall/msg.py:160
+msgid "Windows Server 2008"
+msgstr ""
+
+#: src/vminstall/msg.py:161
+msgid "Windows Server 2008 (x64)"
+msgstr ""
+
+#: src/vminstall/msg.py:162
+msgid "Windows Server 2012 (x64)"
+msgstr ""
+
+#: src/vminstall/msg.py:163
+msgid "Windows XP, 2000, 2003"
+msgstr ""
+
+#: src/vminstall/msg.py:164
+msgid "Windows XP, 2003 (x64)"
+msgstr ""
+
+#: src/vminstall/msg.py:167
+msgid "Gathering settings..."
+msgstr ""
+
+#: src/vminstall/msg.py:168
+msgid "Preparing to start the installation..."
+msgstr ""
+
+#: src/vminstall/msg.py:169
+msgid "Installing..."
+msgstr ""
+
+#: src/vminstall/msg.py:170
+msgid "Please wait..."
+msgstr ""
+
+#: src/vminstall/msg.py:171
+msgid "Waiting for the VM to stop before continuing..."
+msgstr ""
+
+#: src/vminstall/msg.py:172
+msgid "Performing post-installation checks..."
+msgstr ""
+
+#: src/vminstall/msg.py:173
+msgid "Creating the run-time configuration..."
+msgstr ""
+
+#: src/vminstall/msg.py:174
+msgid "The configuration file has been written."
+msgstr ""
+
+#: src/vminstall/msg.py:175
+msgid "Finishing the installation..."
+msgstr ""
+
+#: src/vminstall/msg.py:176
+msgid "Finished."
+msgstr ""
+
+#: src/vminstall/msg.py:179
+msgid "Paravirtualized"
+msgstr ""
+
+#: src/vminstall/msg.py:180
+msgid "Fully virtualized"
+msgstr ""
+
+#: src/vminstall/msg.py:181
+msgid "Paravirtualization"
+msgstr ""
+
+#: src/vminstall/msg.py:182
+msgid "Full virtualization"
+msgstr ""
+
+#: src/vminstall/msg.py:183
+msgid "Name"
+msgstr ""
+
+#: src/vminstall/msg.py:184
+msgid "Type"
+msgstr ""
+
+#: src/vminstall/msg.py:185
+msgid "Source"
+msgstr ""
+
+#: src/vminstall/msg.py:186
+msgid "Browse"
+msgstr ""
+
+#: src/vminstall/msg.py:187
+msgid "Upgrade"
+msgstr ""
+
+#: src/vminstall/msg.py:188
+msgid "Protocol"
+msgstr ""
+
+#: src/vminstall/msg.py:189
+msgid "Keymap"
+msgstr ""
+
+#: src/vminstall/msg.py:190
+msgid "Sound"
+msgstr ""
+
+#: src/vminstall/msg.py:191
+msgid "None"
+msgstr ""
+
+#: src/vminstall/msg.py:192
+msgid "Username:"
+msgstr ""
+
+#: src/vminstall/msg.py:193
+msgid "Password:"
+msgstr ""
+
+#: src/vminstall/msg.py:194
+msgid "Description"
+msgstr ""
+
+#: src/vminstall/msg.py:195
+msgid "Enabled"
+msgstr ""
+
+#: src/vminstall/msg.py:196
+msgid "Option"
+msgstr ""
+
+#: src/vminstall/msg.py:197
+msgid "Random"
+msgstr ""
+
+#: src/vminstall/msg.py:198
+msgid "Managed"
+msgstr ""
+
+#: src/vminstall/msg.py:201
+msgid "Create a Virtual Machine"
+msgstr ""
+
+#: src/vminstall/msg.py:202
+msgid "Install an Operating System?"
+msgstr ""
+
+#: src/vminstall/msg.py:203
+msgid "Type of Operating System"
+msgstr ""
+
+#: src/vminstall/msg.py:204
+msgid "Summary"
+msgstr ""
+
+#: src/vminstall/msg.py:205
+msgid "Virtualization Method"
+msgstr ""
+
+#: src/vminstall/msg.py:206
+msgid "Name of Virtual Machine"
+msgstr ""
+
+#: src/vminstall/msg.py:207
+msgid "Hardware"
+msgstr ""
+
+#: src/vminstall/msg.py:208
+msgid "Peripheral Devices"
+msgstr ""
+
+#: src/vminstall/msg.py:209
+msgid "Disks"
+msgstr ""
+
+#: src/vminstall/msg.py:210 src/vminstall/msg.py:290
+msgid "Virtual Disk"
+msgstr ""
+
+#: src/vminstall/msg.py:211
+msgid "Network Adapters"
+msgstr ""
+
+#: src/vminstall/msg.py:212
+msgid "Virtual Network Adapter"
+msgstr ""
+
+#: src/vminstall/msg.py:213
+msgid "Operating System Installation"
+msgstr ""
+
+#: src/vminstall/msg.py:214
+msgid "Operating System Settings"
+msgstr ""
+
+#: src/vminstall/msg.py:215
+msgid "Operating System Upgrade"
+msgstr ""
+
+#: src/vminstall/msg.py:216
+msgid "Advanced Settings"
+msgstr ""
+
+#: src/vminstall/msg.py:217 src/vminstall/msg.py:280
+msgid "Host Devices"
+msgstr ""
+
+#: src/vminstall/msg.py:220
+msgid ""
+"This assistant will guide you through creating a new virtual machine (VM).  "
+"You will be asked for some information about the VM you'd like to create, "
+"such as:"
+msgstr ""
+
+#: src/vminstall/msg.py:221
+msgid "The <b>type of operating system</b> that will run in the new VM"
+msgstr ""
+
+#: src/vminstall/msg.py:222
+msgid ""
+"Whether the VM will be <b>fully virtualized</b> or <b>paravirtualized</b>"
+msgstr ""
+
+#: src/vminstall/msg.py:223
+msgid ""
+"The <b>location</b> of the files necessary to install an operating system on "
+"the VM, or a <b>disk</b> that already has an operating system"
+msgstr ""
+
+#: src/vminstall/msg.py:224
+msgid ""
+"Other characteristics of the VM, such as <b>memory</b>, <b>processors</b>, "
+"and <b>network adapters</b>."
+msgstr ""
+
+#. TRANSLATORS Do not translate %(url)s
+#: src/vminstall/msg.py:226
+msgid "For the most current information on Novell VM server technology, see "
+msgstr ""
+
+#: src/vminstall/msg.py:227
+#, python-format
+msgid "%(url)s"
+msgstr ""
+
+#: src/vminstall/msg.py:228
+msgid ""
+"If you are creating this VM from scratch, you will need to install an "
+"operating system.  When migrating a physical machine to a virtual machine, "
+"the disk with the existing operating system can often be reused for the VM."
+msgstr ""
+
+#: src/vminstall/msg.py:229
+msgid "I need to install an operating system."
+msgstr ""
+
+#: src/vminstall/msg.py:230
+msgid "I have a disk or disk image with an installed operating system."
+msgstr ""
+
+#: src/vminstall/msg.py:231
+msgid "I need to upgrade an existing operating system."
+msgstr ""
+
+#: src/vminstall/msg.py:232
+msgid "Please choose a name for the virtual machine."
+msgstr ""
+
+#: src/vminstall/msg.py:233
+msgid ""
+"Click any headline to make changes.  When the settings are correct, click "
+"<b>OK</b> to create the VM."
+msgstr ""
+
+#: src/vminstall/msg.py:234
+msgid ""
+"Virtual machines can use paravirtualization or full virtualization.  "
+"Paravirtualization is faster but requires operating system support.  Full "
+"virtualization runs a broader range of operating systems but requires "
+"hardware support.  Which do you prefer?"
+msgstr ""
+
+#: src/vminstall/msg.py:235
+msgid ""
+"Please specify the type of operating system that will run within the virtual "
+"machine.  This defines many defaults, and helps decide how to start "
+"paravirtualized operating systems."
+msgstr ""
+
+#: src/vminstall/msg.py:236
+msgid ""
+"Some operating systems support automating the installation by specifying a "
+"URL or file(s).  Select a directory to include multiple files."
+msgstr ""
+
+#: src/vminstall/msg.py:238
+msgid ""
+"Some operating systems accept additional arguments, used to customize the "
+"installation or boot process."
+msgstr ""
+
+#: src/vminstall/msg.py:239
+msgid ""
+"Select the behavior when the operating system exits with power off, reboot "
+"or crash.  Settings take effect after installation is complete."
+msgstr ""
+
+#: src/vminstall/msg.py:242
+msgid ""
+"Specify the bootable virtual disk (often labeled as Disk 1) or the network "
+"installation source URL.  Each CD, DVD, or ISO image required for "
+"installation must be added as a virtual disk."
+msgstr ""
+
+#: src/vminstall/msg.py:245
+msgid ""
+"Create a virtual disk based on a device (CD or other block device), an "
+"existing image file (ISO), or a new file.  Specify a device by its device "
+"node, such as /dev/cdrom, not its mount point."
+msgstr ""
+
+#: src/vminstall/msg.py:246
+msgid "Please specify the settings for the virtual network adapter."
+msgstr ""
+
+#: src/vminstall/msg.py:247
+msgid "Press 'q' or the Escape key to exit."
+msgstr ""
+
+#: src/vminstall/msg.py:248
+msgid ""
+"Warning: Vm-install automatically manages these configuration settings "
+"depending on the operating system to be installed. It is expected that you "
+"understand clearly the consequences of enabling or disabling a particular "
+"setting."
+msgstr ""
+
+#: src/vminstall/msg.py:249
+msgid "Reset to Defaults"
+msgstr ""
+
+#: src/vminstall/msg.py:250
+msgid ""
+"Setting the maximum memory greater than the initial memory requires the VM "
+"operating system to have a memory balloon driver."
+msgstr ""
+
+#: src/vminstall/msg.py:253
+msgid ""
+"Specify the amount of memory and number of processors to allocate for the VM."
+msgstr ""
+
+#: src/vminstall/msg.py:254
+msgid ""
+"For best performance, the number of virtual processors should be less than "
+"or equal to the number of physical processors."
+msgstr ""
+
+#: src/vminstall/msg.py:257
+msgid ""
+"Paravirtualized graphics require that an appropriate driver is installed in "
+"the operating system."
+msgstr ""
+
+#: src/vminstall/msg.py:258
+msgid ""
+"The VM will operate like a server without a monitor.  You may still access "
+"the operating system via the virtualized serial port, or through any "
+"operating system supported services such as ssh or VNC."
+msgstr ""
+
+#: src/vminstall/msg.py:259
+msgid "Please specify the type of virtualized graphics hardware."
+msgstr ""
+
+#: src/vminstall/msg.py:260
+msgid "Paravirtualized Graphics Adapter"
+msgstr ""
+
+#: src/vminstall/msg.py:261
+msgid "VESA VGA"
+msgstr ""
+
+#: src/vminstall/msg.py:262
+msgid "Cirrus Logic GD5446 VGA"
+msgstr ""
+
+#: src/vminstall/msg.py:263
+msgid "No Graphics Support"
+msgstr ""
+
+#: src/vminstall/msg.py:264
+msgid "Graphics Adapter"
+msgstr ""
+
+#: src/vminstall/msg.py:265
+msgid "Screen Resolution"
+msgstr ""
+
+#: src/vminstall/msg.py:267
+msgid "Please specify the keyboard translation map file."
+msgstr ""
+
+#: src/vminstall/msg.py:270
+msgid "Please specify the sound device."
+msgstr ""
+
+#: src/vminstall/msg.py:271
+msgid "Intel 82801AA Audio Codec 97"
+msgstr ""
+
+#: src/vminstall/msg.py:272
+msgid "Ensoniq AudioPCI ES1370"
+msgstr ""
+
+#: src/vminstall/msg.py:273
+msgid "Intel I/O Controller Hub 6 (ICH6)"
+msgstr ""
+
+#: src/vminstall/msg.py:274
+msgid "Creative Sound Blaster 16"
+msgstr ""
+
+#: src/vminstall/msg.py:275
+msgid "No Sound Support"
+msgstr ""
+
+#: src/vminstall/msg.py:276
+msgid "All"
+msgstr ""
+
+#: src/vminstall/msg.py:277
+msgid "Sound Card"
+msgstr ""
+
+#: src/vminstall/msg.py:281
+msgid ""
+"Specify a host device for the VM.  This will give the VM direct access to "
+"the device."
+msgstr ""
+
+#: src/vminstall/msg.py:282
+msgid "Host devices cannot be shared between VMs or between a VM and the host."
+msgstr ""
+
+#: src/vminstall/msg.py:283
+msgid "Manage VM Devices"
+msgstr ""
+
+#: src/vminstall/msg.py:284
+msgid "Defined VM Devices"
+msgstr ""
+
+#: src/vminstall/msg.py:285
+msgid "PCI Host Devices"
+msgstr ""
+
+#: src/vminstall/msg.py:286
+msgid "USB Host Devices"
+msgstr ""
+
+#: src/vminstall/msg.py:287
+msgid ""
+"Do not add a PCI or USB device to this VM that is needed by the host to "
+"function properly."
+msgstr ""
+
+#: src/vminstall/msg.py:291
+msgid "Virtual Disks"
+msgstr ""
+
+#: src/vminstall/msg.py:292
+msgid "PXE Boot"
+msgstr ""
+
+#: src/vminstall/msg.py:293
+msgid "Size (GB)"
+msgstr ""
+
+#: src/vminstall/msg.py:294
+msgid "Create Sparse Image File"
+msgstr ""
+
+#: src/vminstall/msg.py:295
+msgid "Read-Only Access"
+msgstr ""
+
+#: src/vminstall/msg.py:296
+msgid "Hard Disk"
+msgstr ""
+
+#: src/vminstall/msg.py:297
+msgid "CD-ROM or DVD"
+msgstr ""
+
+#: src/vminstall/msg.py:298
+msgid "Floppy Disk"
+msgstr ""
+
+#: src/vminstall/msg.py:299
+msgid "PXE"
+msgstr ""
+
+#: src/vminstall/msg.py:300
+msgid "Relax and Recover"
+msgstr ""
+
+#: src/vminstall/msg.py:301
+msgid "Cache Mode"
+msgstr ""
+
+#: src/vminstall/msg.py:304
+msgid ""
+"Can't reach the pxe server. Possible reasons are an improperly configured "
+"network or firewall restrictions."
+msgstr ""
+
+#: src/vminstall/msg.py:305
+msgid "Can't get the pxelinux.cfg/default file from the pxe server."
+msgstr ""
+
+#: src/vminstall/msg.py:306
+msgid "Can't download the kernel and initrd from the server."
+msgstr ""
+
+#: src/vminstall/msg.py:307
+msgid ""
+"This kernel image may not be a paravirtualized xen kernel required for "
+"installation, Continue?"
+msgstr ""
+
+#: src/vminstall/msg.py:308
+msgid "Unable to identify a configured network bridge."
+msgstr ""
+
+#: src/vminstall/msg.py:309
+msgid ""
+"Paravirtualized PXE booting requires the use of tftp or atftp.  Please "
+"install one of these packages."
+msgstr ""
+
+#: src/vminstall/msg.py:312
+msgid "Fully Virtualized Intel e100"
+msgstr ""
+
+#: src/vminstall/msg.py:313
+msgid "Fully Virtualized Intel e1000"
+msgstr ""
+
+#: src/vminstall/msg.py:314
+msgid "Fully Virtualized Intel eepro100"
+msgstr ""
+
+#: src/vminstall/msg.py:315
+msgid "Fully Virtualized AMD PCnet 32"
+msgstr ""
+
+#: src/vminstall/msg.py:316
+msgid "Fully Virtualized NE2000 (ISA Bus)"
+msgstr ""
+
+#: src/vminstall/msg.py:317
+msgid "Fully Virtualized NE2000 (PCI Bus)"
+msgstr ""
+
+#: src/vminstall/msg.py:318
+msgid "Fully Virtualized Realtek 8139"
+msgstr ""
+
+#: src/vminstall/msg.py:319
+msgid "MAC Address"
+msgstr ""
+
+#: src/vminstall/msg.py:320
+msgid "Randomly generated MAC address"
+msgstr ""
+
+#: src/vminstall/msg.py:321
+msgid "Specified MAC address"
+msgstr ""
+
+#: src/vminstall/msg.py:324
+msgid "Additional Arguments"
+msgstr ""
+
+#: src/vminstall/msg.py:325
+msgid "Network URL"
+msgstr ""
+
+#: src/vminstall/msg.py:326
+msgid "Memory"
+msgstr ""
+
+#: src/vminstall/msg.py:327
+msgid "Processors"
+msgstr ""
+
+#: src/vminstall/msg.py:328
+msgid "Automated install file or URL"
+msgstr ""
+
+#: src/vminstall/msg.py:329
+msgid "Available Memory"
+msgstr ""
+
+#: src/vminstall/msg.py:330
+msgid "Available Processors"
+msgstr ""
+
+#: src/vminstall/msg.py:331
+msgid "Initial Memory"
+msgstr ""
+
+#: src/vminstall/msg.py:332
+msgid "Maximum Memory"
+msgstr ""
+
+#: src/vminstall/msg.py:333
+msgid "Virtual Processors"
+msgstr ""
+
+#: src/vminstall/msg.py:334
+msgid "Installation Source"
+msgstr ""
+
+#: src/vminstall/msg.py:335
+msgid "Automated Installation"
+msgstr ""
+
+#: src/vminstall/msg.py:336
+msgid "Operating System"
+msgstr ""
+
+#: src/vminstall/msg.py:337
+msgid "Power Off"
+msgstr ""
+
+#: src/vminstall/msg.py:338
+msgid "Reboot"
+msgstr ""
+
+#: src/vminstall/msg.py:339
+msgid "Crash"
+msgstr ""
+
+#: src/vminstall/msg.py:349
+msgid "Kickstart file or URL"
+msgstr ""
+
+#: src/vminstall/msg.py:350
+msgid "AutoYaST file"
+msgstr ""
+
+#: src/vminstall/msg.py:351
+msgid "NetWare response file"
+msgstr ""
+
+#: src/vminstall/msg.py:354
+msgid "Creating the Virtual Machine"
+msgstr ""
+
+#: src/vminstall/msg.py:355
+msgid "Writing the configuration file"
+msgstr ""
+
+#: src/vminstall/msg.py:356
+msgid "Locate Operating System Settings File"
+msgstr ""
+
+#: src/vminstall/msg.py:357
+msgid "Locate Disk or Disk Image"
+msgstr ""
+
+#: src/vminstall/msg.py:360
+msgid "Do you want to add another virtual disk?"
+msgstr ""
+
+#: src/vminstall/msg.py:361
+msgid "Do you want to add another virtual network adapter?"
+msgstr ""
+
+#: src/vminstall/msg.py:362
+msgid "What type of virtual disk do you want to add?"
+msgstr ""
+
+#: src/vminstall/msg.py:363
+msgid "Where will the virtual disk physically reside?"
+msgstr ""
+
+#: src/vminstall/msg.py:364
+msgid "What type of virtual network adapter do you want to add?"
+msgstr ""
+
+#: src/vminstall/msg.py:365
+msgid "Create a sparse image file for the virtual disk?"
+msgstr ""
+
+#: src/vminstall/msg.py:367
+msgid "Default"
+msgstr ""
+
+#: src/vminstall/msg.py:370
+msgid "Operating System Type"
+msgstr ""
+
+#: src/vminstall/msg.py:371
+msgid "Managed Virtual Machines"
+msgstr ""
+
+#: src/vminstall/msg.py:372
+msgid "Configuration File"
+msgstr ""
+
+#: src/vminstall/msg.py:373
+msgid "Specify the URL containing the network installation source."
+msgstr ""
+
+#: src/vminstall/msg.py:376
+msgid ""
+"A hypervisor is not running.  For kvm, load the kvm kernel modules.  If you "
+"want to run xen, reboot and load the xen kernel."
+msgstr ""

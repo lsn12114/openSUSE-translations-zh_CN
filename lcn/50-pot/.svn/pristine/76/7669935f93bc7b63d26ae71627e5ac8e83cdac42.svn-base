@@ -1,0 +1,1228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR SUSE Linux Products GmbH
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugzilla.novell.com\n"
+"POT-Creation-Date: 2012-07-10 15:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/patterns_utf8.c:61
+msgid "32-Bit Runtime Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:62
+msgid ""
+"This pattern installs the 32-bit variant of all selected patterns, allowing "
+"you to execute 32-bit software."
+msgstr ""
+
+#: src/patterns_utf8.c:65
+msgid "64-Bit Runtime Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:66
+msgid ""
+"This pattern installs the 64-bit variant of all selected patterns, allowing "
+"you to execute 64-bit software."
+msgstr ""
+
+#: src/patterns_utf8.c:69 src/patterns_utf8.c:73
+msgid "AppArmor"
+msgstr ""
+
+#: src/patterns_utf8.c:70 src/patterns_utf8.c:74
+msgid ""
+"AppArmor is an application security framework that provides mandatory access "
+"control for programs. It protects from exploitation of software flaws and "
+"compromised systems. It offers an advanced tool set that automates the "
+"development of per-program application security without requiring additional "
+"knowledge."
+msgstr ""
+
+#: src/patterns_utf8.c:77 src/patterns_utf8.c:857 src/patterns_utf8.c:861
+msgid "Base System"
+msgstr ""
+
+#: src/patterns_utf8.c:78 src/patterns_utf8.c:858 src/patterns_utf8.c:862
+msgid ""
+"This is the base runtime system.  It contains only a minimal multiuser "
+"booting system. For running on real hardware, you need to add additional "
+"packages and pattern to make this pattern useful on its own."
+msgstr ""
+
+#: src/patterns_utf8.c:81
+msgid "Just Enough Operating System"
+msgstr ""
+
+#: src/patterns_utf8.c:82
+msgid ""
+"This is the base runtime system.  It contains only a minimal multiuser "
+"booting system."
+msgstr ""
+
+#: src/patterns_utf8.c:85
+msgid "C/C++ Compiler and Tools"
+msgstr ""
+
+#: src/patterns_utf8.c:86
+msgid "Minimal set of tools for compiling and linking applications"
+msgstr ""
+
+#: src/patterns_utf8.c:89
+msgid "Common Code Base (for certification)"
+msgstr ""
+
+#: src/patterns_utf8.c:90
+msgid ""
+"This consists of all packages that are common to all SUSE Linux Enterprise "
+"products. It also provides a Linux Standard Base 3.0 compliant runtime "
+"environment."
+msgstr ""
+
+#: src/patterns_utf8.c:93
+msgid "Console Tools"
+msgstr ""
+
+#: src/patterns_utf8.c:94
+msgid ""
+"Applications useful for those using the console and no graphical desktop "
+"environment."
+msgstr ""
+
+#: src/patterns_utf8.c:97
+msgid "Default System"
+msgstr ""
+
+#: src/patterns_utf8.c:97
+msgid "This is the default system for this product."
+msgstr ""
+
+#: src/patterns_utf8.c:100
+msgid "Desktop Base System"
+msgstr ""
+
+#: src/patterns_utf8.c:101
+msgid "This is the base SUSE Linux runtime system."
+msgstr ""
+
+#: src/patterns_utf8.c:104
+msgid "GNOME (Default)"
+msgstr ""
+
+#: src/patterns_utf8.c:105
+msgid ""
+"GNOME is Novell's default enterprise desktop. It is an intuitive and "
+"attractive desktop combining industry-leading usability with a powerful set "
+"of applications and management features that are essential to enterprise "
+"adoption."
+msgstr ""
+
+#: src/patterns_utf8.c:108 src/patterns_utf8.c:140
+msgid "GNOME Development"
+msgstr ""
+
+#: src/patterns_utf8.c:109
+msgid "GNOME development packages"
+msgstr ""
+
+#: src/patterns_utf8.c:112 src/patterns_utf8.c:284
+msgid "GNOME Laptop"
+msgstr ""
+
+#: src/patterns_utf8.c:113
+msgid "GNOME laptop packages"
+msgstr ""
+
+#: src/patterns_utf8.c:116
+msgid "KDE"
+msgstr ""
+
+#: src/patterns_utf8.c:117
+msgid ""
+"KDE is a powerful graphical desktop environment. It combines ease of use, "
+"contemporary functionality, and outstanding graphical design with the "
+"technology of the Linux operating system."
+msgstr ""
+
+#: src/patterns_utf8.c:120 src/patterns_utf8.c:152
+msgid "KDE Development"
+msgstr ""
+
+#: src/patterns_utf8.c:121
+msgid "KDE development packages"
+msgstr ""
+
+#: src/patterns_utf8.c:124 src/patterns_utf8.c:420 src/patterns_utf8.c:473
+msgid "KDE Laptop"
+msgstr ""
+
+#: src/patterns_utf8.c:125
+msgid "KDE laptop packages"
+msgstr ""
+
+#: src/patterns_utf8.c:128
+msgid "Base Development"
+msgstr ""
+
+#: src/patterns_utf8.c:129 src/patterns_utf8.c:756
+msgid "Minimal set of tools for compiling and linking applications."
+msgstr ""
+
+#: src/patterns_utf8.c:132
+msgid "Cell Development"
+msgstr ""
+
+#: src/patterns_utf8.c:133 src/patterns_utf8.c:816
+msgid "Toolchain to build code for the Cell processor."
+msgstr ""
+
+#: src/patterns_utf8.c:136
+msgid "C/C++ Development"
+msgstr ""
+
+#: src/patterns_utf8.c:137 src/patterns_utf8.c:760
+msgid ""
+"Tools and libraries for software development using C/C++ and other "
+"derivative of the C programming language."
+msgstr ""
+
+#: src/patterns_utf8.c:141 src/patterns_utf8.c:764
+msgid "GNOME development packages."
+msgstr ""
+
+#: src/patterns_utf8.c:144
+msgid "Integrated Development Environments"
+msgstr ""
+
+#: src/patterns_utf8.c:145
+msgid "Integrated Development Environments."
+msgstr ""
+
+#: src/patterns_utf8.c:148
+msgid "Java Development"
+msgstr ""
+
+#: src/patterns_utf8.c:149 src/patterns_utf8.c:768
+msgid ""
+"Tools and libraries for software development using the Java programming "
+"language."
+msgstr ""
+
+#: src/patterns_utf8.c:153 src/patterns_utf8.c:772
+msgid "KDE development packages."
+msgstr ""
+
+#: src/patterns_utf8.c:156
+msgid "Linux Kernel Development"
+msgstr ""
+
+#: src/patterns_utf8.c:157 src/patterns_utf8.c:776
+msgid "Tools for Linux kernel development."
+msgstr ""
+
+#: src/patterns_utf8.c:160
+msgid ".NET Development"
+msgstr ""
+
+#: src/patterns_utf8.c:161 src/patterns_utf8.c:780
+msgid "Tools and libraries for .NET development using Mono."
+msgstr ""
+
+#: src/patterns_utf8.c:164
+msgid "Ruby on Rails Development"
+msgstr ""
+
+#: src/patterns_utf8.c:165 src/patterns_utf8.c:784
+msgid ""
+"Tools and libraries for software development using the Ruby on Rails "
+"framework."
+msgstr ""
+
+#: src/patterns_utf8.c:168
+msgid "Perl Development"
+msgstr ""
+
+#: src/patterns_utf8.c:169 src/patterns_utf8.c:788
+msgid ""
+"Tools and libraries for software development using the Perl programming "
+"language."
+msgstr ""
+
+#: src/patterns_utf8.c:172
+msgid "Python Development"
+msgstr ""
+
+#: src/patterns_utf8.c:173 src/patterns_utf8.c:792
+msgid ""
+"Tools and libraries for software development using the Python programming "
+"language."
+msgstr ""
+
+#: src/patterns_utf8.c:176
+msgid "Qt 4 Development"
+msgstr ""
+
+#: src/patterns_utf8.c:177 src/patterns_utf8.c:796
+msgid ""
+"Tools and libraries for software development using Qt 4, the latest version "
+"of the Qt toolkit."
+msgstr ""
+
+#: src/patterns_utf8.c:180
+msgid "RPM Build Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:181
+msgid ""
+"Minimal set of tools and libraries for building packages using the RPM "
+"package manager."
+msgstr ""
+
+#: src/patterns_utf8.c:184
+msgid "Ruby Development"
+msgstr ""
+
+#: src/patterns_utf8.c:185 src/patterns_utf8.c:800
+msgid ""
+"Tools and libraries for software development using the Ruby programming "
+"language."
+msgstr ""
+
+#: src/patterns_utf8.c:188
+msgid "Tcl/Tk Development"
+msgstr ""
+
+#: src/patterns_utf8.c:189
+msgid "Tools and libraries for development using Tcl and Tk."
+msgstr ""
+
+#: src/patterns_utf8.c:192
+msgid "Web Development"
+msgstr ""
+
+#: src/patterns_utf8.c:193 src/patterns_utf8.c:804
+msgid "Tools and libraries for Web application development."
+msgstr ""
+
+#: src/patterns_utf8.c:196
+msgid "YaST Development"
+msgstr ""
+
+#: src/patterns_utf8.c:197 src/patterns_utf8.c:808
+msgid ""
+"Tools and libraries for developing YaST modules, the setup and configuration "
+"tool for openSUSE."
+msgstr ""
+
+#: src/patterns_utf8.c:200
+msgid "DHCP and DNS Server"
+msgstr ""
+
+#: src/patterns_utf8.c:201
+msgid ""
+"Software to set up a server for the Dynamic Host Configuration Protocol "
+"(DHCP) and the Domain Name System (DNS) services. DHCP provides "
+"configuration parameters to client computers to integrate them into a "
+"network, whereas DNS delivers information associated with domain names, in "
+"particular, the IP address."
+msgstr ""
+
+#: src/patterns_utf8.c:204
+msgid "Directory Server (LDAP)"
+msgstr ""
+
+#: src/patterns_utf8.c:205
+msgid ""
+"Software to set up a directory server with OpenLDAP. The Lightweight "
+"Directory Access Protocol (LDAP) is used to access online directory "
+"services. "
+msgstr ""
+
+#: src/patterns_utf8.c:208 src/patterns_utf8.c:209
+msgid "Help and Support Documentation"
+msgstr ""
+
+#: src/patterns_utf8.c:212
+msgid "Virtualization Host (non-embedded)"
+msgstr ""
+
+#: src/patterns_utf8.c:213
+msgid "This is a minimal system with a running Hypervisor."
+msgstr ""
+
+#: src/patterns_utf8.c:216 src/patterns_utf8.c:220
+msgid "Enhanced Base System"
+msgstr ""
+
+#: src/patterns_utf8.c:217 src/patterns_utf8.c:221
+msgid ""
+"This is the enhanced base runtime system with lots of convenience packages."
+msgstr ""
+
+#: src/patterns_utf8.c:224
+msgid "File Server"
+msgstr ""
+
+#: src/patterns_utf8.c:225
+msgid ""
+"File services to host files so that they may be accessed or retrieved by "
+"other computers on the same network. This includes the FTP, SMB, and NFS "
+"protocols."
+msgstr ""
+
+#: src/patterns_utf8.c:228 src/patterns_utf8.c:232
+msgid "Fonts"
+msgstr ""
+
+#: src/patterns_utf8.c:229 src/patterns_utf8.c:233
+msgid "Base fonts and font configuration."
+msgstr ""
+
+#: src/patterns_utf8.c:236 src/patterns_utf8.c:240
+msgid "Games"
+msgstr ""
+
+#: src/patterns_utf8.c:237 src/patterns_utf8.c:241
+msgid "A collection of games."
+msgstr ""
+
+#: src/patterns_utf8.c:244
+msgid "Internet Gateway"
+msgstr ""
+
+#: src/patterns_utf8.c:245
+msgid ""
+"Software to set up a proxy, firewall, and gateway server, including a "
+"virtual private network (VPN) gateway."
+msgstr ""
+
+#: src/patterns_utf8.c:248
+msgid "GNOME Desktop Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:249
+msgid ""
+"The GNOME desktop environment is an intuitive and attractive desktop for "
+"users."
+msgstr ""
+
+#: src/patterns_utf8.c:252
+msgid "GNOME Administration Tools"
+msgstr ""
+
+#: src/patterns_utf8.c:253 src/patterns_utf8.c:341 src/patterns_utf8.c:345
+msgid "Administration Tools e.g. for desktop lockdown"
+msgstr ""
+
+#: src/patterns_utf8.c:256 src/patterns_utf8.c:260
+msgid "GNOME Base System"
+msgstr ""
+
+#: src/patterns_utf8.c:257 src/patterns_utf8.c:261
+msgid "Base packages for the GNOME desktop environment."
+msgstr ""
+
+#: src/patterns_utf8.c:264 src/patterns_utf8.c:265
+msgid "GNOME Games"
+msgstr ""
+
+#: src/patterns_utf8.c:268
+msgid "GNOME Integrated Development Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:269
+msgid "Development under GNOME"
+msgstr ""
+
+#: src/patterns_utf8.c:272 src/patterns_utf8.c:276
+msgid "GNOME Graphics"
+msgstr ""
+
+#: src/patterns_utf8.c:273 src/patterns_utf8.c:277 src/patterns_utf8.c:409
+#: src/patterns_utf8.c:413 src/patterns_utf8.c:462 src/patterns_utf8.c:466
+msgid "Handling of digital photos and graphics"
+msgstr ""
+
+#: src/patterns_utf8.c:280
+msgid "GNOME Internet"
+msgstr ""
+
+#: src/patterns_utf8.c:281
+msgid "GNOME Internet Applications"
+msgstr ""
+
+#: src/patterns_utf8.c:285
+msgid "GNOME Tools designed specifically for use with laptop computers."
+msgstr ""
+
+#: src/patterns_utf8.c:288 src/patterns_utf8.c:289 src/patterns_utf8.c:292
+#: src/patterns_utf8.c:293
+msgid "GNOME Multimedia"
+msgstr ""
+
+#: src/patterns_utf8.c:296 src/patterns_utf8.c:297 src/patterns_utf8.c:300
+#: src/patterns_utf8.c:301
+msgid "GNOME Office"
+msgstr ""
+
+#: src/patterns_utf8.c:304 src/patterns_utf8.c:305 src/patterns_utf8.c:308
+#: src/patterns_utf8.c:309
+msgid "GNOME Utilities"
+msgstr ""
+
+#: src/patterns_utf8.c:312 src/patterns_utf8.c:313
+msgid "GNOME Desktop Effects"
+msgstr ""
+
+#: src/patterns_utf8.c:316
+msgid "YaST GNOME User Interfaces"
+msgstr ""
+
+#: src/patterns_utf8.c:317
+msgid "Graphical YaST user interfaces for the GNOME desktop."
+msgstr ""
+
+#: src/patterns_utf8.c:320
+msgid "High Availability"
+msgstr ""
+
+#: src/patterns_utf8.c:321
+msgid ""
+"Provide tools to ensure a high degree of operational continuity and reduce "
+"the downtimes of your system."
+msgstr ""
+
+#: src/patterns_utf8.c:324 src/patterns_utf8.c:328
+msgid "Graphics"
+msgstr ""
+
+#: src/patterns_utf8.c:325 src/patterns_utf8.c:329
+msgid "Handling of digital photos and graphics."
+msgstr ""
+
+#: src/patterns_utf8.c:332
+msgid "KDE Desktop Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:333 src/patterns_utf8.c:337
+msgid ""
+"KDE is a powerful free software graphical desktop environment for Linux "
+"workstations. It combines ease of use, contemporary functionality, and "
+"outstanding graphical design with the technology of the Linux operating "
+"system."
+msgstr ""
+
+#: src/patterns_utf8.c:336
+msgid "KDE4 Desktop Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:340
+msgid "KDE Administration Tools"
+msgstr ""
+
+#: src/patterns_utf8.c:344
+msgid "KDE4 Administration Tools"
+msgstr ""
+
+#: src/patterns_utf8.c:348
+msgid "KDE4 Education"
+msgstr ""
+
+#: src/patterns_utf8.c:349
+msgid "Tools to teach kids with computers"
+msgstr ""
+
+#: src/patterns_utf8.c:352 src/patterns_utf8.c:360
+msgid "KDE Base System"
+msgstr ""
+
+#: src/patterns_utf8.c:353
+msgid ""
+"Base packages for the KDE desktop environment. KDE4 is the next major KDE "
+"release."
+msgstr ""
+
+#: src/patterns_utf8.c:356 src/patterns_utf8.c:364
+msgid "KDE4 Base System"
+msgstr ""
+
+#: src/patterns_utf8.c:357
+msgid ""
+"Base packages for the KDE4 desktop environment. KDE4 is the next major KDE "
+"release."
+msgstr ""
+
+#: src/patterns_utf8.c:361
+msgid "Base packages for the KDE desktop environment."
+msgstr ""
+
+#: src/patterns_utf8.c:365
+msgid "Base packages for the KDE4 desktop environment."
+msgstr ""
+
+#: src/patterns_utf8.c:368 src/patterns_utf8.c:369
+msgid "KDE Edutainment"
+msgstr ""
+
+#: src/patterns_utf8.c:372 src/patterns_utf8.c:373 src/patterns_utf8.c:380
+#: src/patterns_utf8.c:381
+msgid "KDE Games"
+msgstr ""
+
+#: src/patterns_utf8.c:376 src/patterns_utf8.c:377 src/patterns_utf8.c:384
+#: src/patterns_utf8.c:385
+msgid "KDE4 Games"
+msgstr ""
+
+#: src/patterns_utf8.c:388 src/patterns_utf8.c:389
+msgid "KDE Help System"
+msgstr ""
+
+#: src/patterns_utf8.c:392 src/patterns_utf8.c:393
+msgid "KDE4 Help System"
+msgstr ""
+
+#: src/patterns_utf8.c:396
+msgid "KDE Integrated Development Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:397
+msgid "Development under KDE"
+msgstr ""
+
+#: src/patterns_utf8.c:400
+msgid "KDE4 Integrated Development Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:401
+msgid "Development under KDE4"
+msgstr ""
+
+#: src/patterns_utf8.c:404 src/patterns_utf8.c:405 src/patterns_utf8.c:436
+#: src/patterns_utf8.c:437 src/patterns_utf8.c:489 src/patterns_utf8.c:490
+msgid "KDE System"
+msgstr ""
+
+#: src/patterns_utf8.c:408 src/patterns_utf8.c:412 src/patterns_utf8.c:461
+#: src/patterns_utf8.c:465
+msgid "KDE Graphics"
+msgstr ""
+
+#: src/patterns_utf8.c:416 src/patterns_utf8.c:469
+msgid "KDE Internet"
+msgstr ""
+
+#: src/patterns_utf8.c:417 src/patterns_utf8.c:470
+msgid "KDE Internet Applications"
+msgstr ""
+
+#: src/patterns_utf8.c:421 src/patterns_utf8.c:474
+msgid "KDE Tools designed specifically for use with laptop computers."
+msgstr ""
+
+#: src/patterns_utf8.c:424 src/patterns_utf8.c:425 src/patterns_utf8.c:477
+#: src/patterns_utf8.c:478
+msgid "KDE Multimedia"
+msgstr ""
+
+#: src/patterns_utf8.c:428 src/patterns_utf8.c:429 src/patterns_utf8.c:432
+#: src/patterns_utf8.c:433 src/patterns_utf8.c:481 src/patterns_utf8.c:482
+#: src/patterns_utf8.c:485 src/patterns_utf8.c:486
+msgid "KDE Office"
+msgstr ""
+
+#: src/patterns_utf8.c:440 src/patterns_utf8.c:441 src/patterns_utf8.c:444
+#: src/patterns_utf8.c:445 src/patterns_utf8.c:493 src/patterns_utf8.c:494
+#: src/patterns_utf8.c:497 src/patterns_utf8.c:498
+msgid "KDE Utilities"
+msgstr ""
+
+#: src/patterns_utf8.c:448 src/patterns_utf8.c:449 src/patterns_utf8.c:501
+#: src/patterns_utf8.c:502
+msgid "KDE Desktop Effects"
+msgstr ""
+
+#: src/patterns_utf8.c:452 src/patterns_utf8.c:505
+msgid "YaST KDE User Interfaces"
+msgstr ""
+
+#: src/patterns_utf8.c:453 src/patterns_utf8.c:506
+msgid "Graphical YaST user interfaces for the KDE desktop."
+msgstr ""
+
+#: src/patterns_utf8.c:456
+msgid "YaST User Interfaces"
+msgstr ""
+
+#: src/patterns_utf8.c:457
+msgid "Graphical YaST user interfaces for minimal X desktop."
+msgstr ""
+
+#: src/patterns_utf8.c:509
+msgid "Kernel Development"
+msgstr ""
+
+#: src/patterns_utf8.c:510
+msgid "Kernel development packages"
+msgstr ""
+
+#: src/patterns_utf8.c:513
+msgid "Web and LAMP Server"
+msgstr ""
+
+#: src/patterns_utf8.c:514
+msgid ""
+"Software to set up a Web server that is able to serve static, dynamic, and "
+"interactive content (like a Web shop). This includes Apache HTTP Server, the "
+"database management system MySQL, and scripting languages such as PHP, "
+"Python, Ruby on Rails, or Perl."
+msgstr ""
+
+#: src/patterns_utf8.c:517
+msgid "Laptop"
+msgstr ""
+
+#: src/patterns_utf8.c:518
+msgid "Tools designed specifically for laptop computers."
+msgstr ""
+
+#: src/patterns_utf8.c:521
+msgid "Mail and News Server"
+msgstr ""
+
+#: src/patterns_utf8.c:522
+msgid ""
+"Software to set up electronic mail and message services to handle e-mail, "
+"mailing, and news lists, including a virus scanner to scan messages at the "
+"server level."
+msgstr ""
+
+#: src/patterns_utf8.c:525
+msgid "Minimal System (Appliances)"
+msgstr ""
+
+#: src/patterns_utf8.c:526
+msgid ""
+"This is the minimal Novell SUSE Linux Enterprise runtime system. It is "
+"really a minimal system, you can login and a shell will be started, that's "
+"all. It is intended as base for Appliances. Support for this minimal pattern "
+"is only possible as part of an OEM agreement or after upgrading the system "
+"to the Server Base pattern"
+msgstr ""
+
+#: src/patterns_utf8.c:529
+msgid "Miscellaneous Server"
+msgstr ""
+
+#: src/patterns_utf8.c:530
+msgid "Miscellaneous Server."
+msgstr ""
+
+#: src/patterns_utf8.c:533 src/patterns_utf8.c:537
+msgid "Multimedia"
+msgstr ""
+
+#: src/patterns_utf8.c:534 src/patterns_utf8.c:538
+msgid ""
+"Multimedia players, sound editing tools , video and image manipulation "
+"applications."
+msgstr ""
+
+#: src/patterns_utf8.c:541
+msgid "Mono Development"
+msgstr ""
+
+#: src/patterns_utf8.c:542
+msgid "MONO development packages"
+msgstr ""
+
+#: src/patterns_utf8.c:545
+msgid "Network Administration"
+msgstr ""
+
+#: src/patterns_utf8.c:546
+msgid "Tools for administering and debugging networks."
+msgstr ""
+
+#: src/patterns_utf8.c:549 src/patterns_utf8.c:557
+msgid "Misc. Proprietary Packages"
+msgstr ""
+
+#: src/patterns_utf8.c:550 src/patterns_utf8.c:558
+msgid "Packages that are proprietary and not under an Open Source license."
+msgstr ""
+
+#: src/patterns_utf8.c:553
+msgid "Java Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:554
+msgid "Proprietary Java packages."
+msgstr ""
+
+#: src/patterns_utf8.c:561
+msgid "Novell Client for Linux"
+msgstr ""
+
+#: src/patterns_utf8.c:562
+msgid ""
+"The Novell Client for Linux workstation software extends the capabilities of "
+"a Linux desktop by providing access to NetWare and Open Enterprise Servers "
+"(OES)."
+msgstr ""
+
+#: src/patterns_utf8.c:565
+msgid "Novell Applications"
+msgstr ""
+
+#: src/patterns_utf8.c:566
+msgid ""
+"Client software enabling connection to traditional Novell services, "
+"including NetWare CIFS/Samba mounts, GroupWise, and iPrint."
+msgstr ""
+
+#: src/patterns_utf8.c:569
+msgid "Infiniband (OFED)"
+msgstr ""
+
+#: src/patterns_utf8.c:570
+msgid ""
+"This pattern defines the OpenFabrics Enterprise Distribution (OFED) software "
+"base packages. The base pattern includes the packages you need to get your "
+"Infiniband adapter operational, that is IB kernel modules and basic user "
+"level libraries."
+msgstr ""
+
+#: src/patterns_utf8.c:573
+msgid "TabletPC"
+msgstr ""
+
+#: src/patterns_utf8.c:574
+msgid "Tools designed specifically for use with TabletPCs."
+msgstr ""
+
+#: src/patterns_utf8.c:577 src/patterns_utf8.c:581
+msgid "Office Software"
+msgstr ""
+
+#: src/patterns_utf8.c:578 src/patterns_utf8.c:582
+msgid "Office software for your desktop environment including LibreOffice."
+msgstr ""
+
+#: src/patterns_utf8.c:585
+msgid "Oracle Server Base"
+msgstr ""
+
+#: src/patterns_utf8.c:586
+msgid "Set up the server for installing Oracle databases."
+msgstr ""
+
+#: src/patterns_utf8.c:589
+msgid "Print Server"
+msgstr ""
+
+#: src/patterns_utf8.c:590
+msgid ""
+"Software used to host print queues so that they may be accessed by other "
+"computers on the same network. LPD, CUPS, and SMB print servers and queues "
+"are supported."
+msgstr ""
+
+#: src/patterns_utf8.c:593 src/patterns_utf8.c:597 src/patterns_utf8.c:601
+#: src/patterns_utf8.c:605 src/patterns_utf8.c:609 src/patterns_utf8.c:613
+#: src/patterns_utf8.c:617 src/patterns_utf8.c:621 src/patterns_utf8.c:625
+#: src/patterns_utf8.c:629
+msgid "Remaining Software"
+msgstr ""
+
+#: src/patterns_utf8.c:594 src/patterns_utf8.c:598 src/patterns_utf8.c:602
+#: src/patterns_utf8.c:606 src/patterns_utf8.c:610 src/patterns_utf8.c:614
+#: src/patterns_utf8.c:618 src/patterns_utf8.c:622 src/patterns_utf8.c:626
+#: src/patterns_utf8.c:630
+msgid "Packages that are on CD but not in other patterns."
+msgstr ""
+
+#: src/patterns_utf8.c:633
+msgid "Remote Desktop"
+msgstr ""
+
+#: src/patterns_utf8.c:634
+msgid "Tools to access a remote desktop."
+msgstr ""
+
+#: src/patterns_utf8.c:637
+msgid "SAP Application Server Base"
+msgstr ""
+
+#: src/patterns_utf8.c:638
+msgid "Set up the server for installing SAP systems."
+msgstr ""
+
+#: src/patterns_utf8.c:641
+msgid "Software Management"
+msgstr ""
+
+#: src/patterns_utf8.c:642
+msgid ""
+"This pattern provides a graphical application and a command line tool for "
+"keeping your system up to date."
+msgstr ""
+
+#: src/patterns_utf8.c:645
+msgid "Package Management - Graphical Tools for GNOME"
+msgstr ""
+
+#: src/patterns_utf8.c:646 src/patterns_utf8.c:650 src/patterns_utf8.c:654
+msgid "Package Management - Graphical Tools"
+msgstr ""
+
+#: src/patterns_utf8.c:649 src/patterns_utf8.c:653
+msgid "Package Management - Graphical Tools for KDE"
+msgstr ""
+
+#: src/patterns_utf8.c:657
+msgid "Tests for the Update Stack"
+msgstr ""
+
+#: src/patterns_utf8.c:658
+msgid ""
+"Packages used for testing that the update stack works.  These tiny packages "
+"do not have any functionality themselves."
+msgstr ""
+
+#: src/patterns_utf8.c:661
+msgid "Voice Over IP Clients"
+msgstr ""
+
+#: src/patterns_utf8.c:662
+msgid "Client applications for Internet telephony."
+msgstr ""
+
+#: src/patterns_utf8.c:665
+msgid "Voice Over IP Server"
+msgstr ""
+
+#: src/patterns_utf8.c:666
+msgid "Voice over IP server."
+msgstr ""
+
+#: src/patterns_utf8.c:669
+msgid "Web-Based Enterprise Management"
+msgstr ""
+
+#: src/patterns_utf8.c:670
+msgid "Web-based enterprise management."
+msgstr ""
+
+#: src/patterns_utf8.c:673
+msgid "XFCE Desktop Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:674
+msgid "Xfce is a lightweight desktop environment for various *NIX systems."
+msgstr ""
+
+#: src/patterns_utf8.c:677
+msgid "XFCE Base System"
+msgstr ""
+
+#: src/patterns_utf8.c:678
+msgid "Base packages for the XFCE Desktop Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:681 src/patterns_utf8.c:682
+msgid "XFCE Office"
+msgstr ""
+
+#: src/patterns_utf8.c:685 src/patterns_utf8.c:686
+msgid "XFCE Laptop"
+msgstr ""
+
+#: src/patterns_utf8.c:689
+msgid "LXDE Desktop Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:690
+msgid ""
+"LXDE is a lightweight X11 desktop environment similiar to XFCE in its nature."
+msgstr ""
+
+#: src/patterns_utf8.c:693
+msgid "LXDE Laptop"
+msgstr ""
+
+#: src/patterns_utf8.c:694
+msgid "LXDE Tools designed specifically for use with laptop computers."
+msgstr ""
+
+#: src/patterns_utf8.c:697 src/patterns_utf8.c:698
+msgid "LXDE Office"
+msgstr ""
+
+#: src/patterns_utf8.c:701
+msgid "Moblin User eXperience"
+msgstr ""
+
+#: src/patterns_utf8.c:702
+msgid "Moblin"
+msgstr ""
+
+#: src/patterns_utf8.c:705
+msgid "Desktop Effects"
+msgstr ""
+
+#: src/patterns_utf8.c:706
+msgid "All you need to make use of 3D desktop effects."
+msgstr ""
+
+#: src/patterns_utf8.c:709 src/patterns_utf8.c:713
+msgid "X Window System"
+msgstr ""
+
+#: src/patterns_utf8.c:710 src/patterns_utf8.c:714
+msgid ""
+"The X Window System provides the only standard platform-independent "
+"networked graphical window system bridging the heterogeneous platforms in "
+"today's enterprise: from network servers to desktops, thin clients, laptops, "
+"and handhelds, independent of operating system and hardware."
+msgstr ""
+
+#: src/patterns_utf8.c:718
+msgid "x86 Runtime Environment"
+msgstr ""
+
+#: src/patterns_utf8.c:719
+msgid ""
+"This will install the 32-bit variant of all selected patterns. This allows "
+"to execute 32-bit software."
+msgstr ""
+
+#: src/patterns_utf8.c:723
+msgid "Xen Virtual Machine Host Server"
+msgstr ""
+
+#: src/patterns_utf8.c:724
+msgid ""
+"Software to set up a server for configuring, managing, and monitoring "
+"virtual machines on a single physical machine."
+msgstr ""
+
+#: src/patterns_utf8.c:727
+msgid "Technical Writing"
+msgstr ""
+
+#: src/patterns_utf8.c:728
+msgid "Authoring tools and editors for creating technical documentation."
+msgstr ""
+
+#: src/patterns_utf8.c:731
+msgid "YaST System Administration"
+msgstr ""
+
+#: src/patterns_utf8.c:732
+msgid "YaST tools for basic system administration."
+msgstr ""
+
+#: src/patterns_utf8.c:735
+msgid "YaST Installation Packages"
+msgstr ""
+
+#: src/patterns_utf8.c:736
+msgid "YaST tools for installing your system."
+msgstr ""
+
+#: src/patterns_utf8.c:739
+msgid "SDK: Documentation Tools"
+msgstr ""
+
+#: src/patterns_utf8.c:740
+msgid ""
+"Tools for creating development-related documentation, specifications etc."
+msgstr ""
+
+#: src/patterns_utf8.c:743
+msgid "SDK: Programming Libraries"
+msgstr ""
+
+#: src/patterns_utf8.c:744
+msgid "Miscellaneous programming libraries."
+msgstr ""
+
+#: src/patterns_utf8.c:747
+msgid "SDK: Miscellaneous"
+msgstr ""
+
+#: src/patterns_utf8.c:748
+msgid "Miscellaneous software development tools."
+msgstr ""
+
+#: src/patterns_utf8.c:751
+msgid "SDK: Version Control Systems"
+msgstr ""
+
+#: src/patterns_utf8.c:752
+msgid "Tools for version control and project management."
+msgstr ""
+
+#: src/patterns_utf8.c:755
+msgid "SDK: Base Development"
+msgstr ""
+
+#: src/patterns_utf8.c:759
+msgid "SDK: C/C++ Development"
+msgstr ""
+
+#: src/patterns_utf8.c:763
+msgid "SDK: GNOME Development"
+msgstr ""
+
+#: src/patterns_utf8.c:767
+msgid "SDK: Java Development"
+msgstr ""
+
+#: src/patterns_utf8.c:771
+msgid "SDK: KDE Development"
+msgstr ""
+
+#: src/patterns_utf8.c:775
+msgid "SDK: Linux Kernel Development"
+msgstr ""
+
+#: src/patterns_utf8.c:779
+msgid "SDK: .NET Development"
+msgstr ""
+
+#: src/patterns_utf8.c:783
+msgid "SDK: Ruby on Rails Development"
+msgstr ""
+
+#: src/patterns_utf8.c:787
+msgid "SDK: Perl Development"
+msgstr ""
+
+#: src/patterns_utf8.c:791
+msgid "SDK: Python Development"
+msgstr ""
+
+#: src/patterns_utf8.c:795
+msgid "SDK: Qt 4 Development"
+msgstr ""
+
+#: src/patterns_utf8.c:799
+msgid "SDK: Ruby Development"
+msgstr ""
+
+#: src/patterns_utf8.c:803
+msgid "SDK: Web Development"
+msgstr ""
+
+#: src/patterns_utf8.c:807
+msgid "SDK: YaST Development"
+msgstr ""
+
+#: src/patterns_utf8.c:811
+msgid "SDK: Certification"
+msgstr ""
+
+#: src/patterns_utf8.c:812
+msgid "Tools to perform software certification, e.g. LSB, IPv6"
+msgstr ""
+
+#: src/patterns_utf8.c:815
+msgid "SDK: Cell Development"
+msgstr ""
+
+#: src/patterns_utf8.c:820
+msgid "Subscription Management Tool for SUSE Linux Enterprise."
+msgstr ""
+
+#: src/patterns_utf8.c:831
+msgid "SUSE Moblin"
+msgstr ""
+
+#: src/patterns_utf8.c:835
+msgid "Real time kernel and utilities for SUSE Linux Enterprise."
+msgstr ""
+
+#: src/patterns_utf8.c:839 src/patterns_utf8.c:850
+msgid "WebYaST REST service"
+msgstr ""
+
+#: src/patterns_utf8.c:842 src/patterns_utf8.c:854
+msgid "WebYaST user interface"
+msgstr ""
+
+#: src/patterns_utf8.c:844
+msgid "WebYaST"
+msgstr ""
+
+#: src/patterns_utf8.c:845
+msgid "Web based system management tool"
+msgstr ""
+
+#: src/patterns_utf8.c:849
+msgid "WebYaST: REST service components"
+msgstr ""
+
+#: src/patterns_utf8.c:853
+msgid "WebYaST: User interface components"
+msgstr ""
+
+#: src/patterns_utf8.c:939
+msgid "Base Technologies"
+msgstr ""
+
+#: src/patterns_utf8.c:940
+msgid "Development"
+msgstr ""
+
+#: src/patterns_utf8.c:941
+msgid "Graphical Environments"
+msgstr ""
+
+#: src/patterns_utf8.c:942
+msgid "Proprietary Software"
+msgstr ""
+
+#: src/patterns_utf8.c:943
+msgid "Desktop Functions"
+msgstr ""
+
+#: src/patterns_utf8.c:944
+msgid "Server Functions"
+msgstr ""
+
+#: src/patterns_utf8.c:945
+msgid "Primary Functions"
+msgstr ""
+
+#: src/patterns_utf8.c:946
+msgid "Desktops"
+msgstr ""
+
+#: src/patterns_utf8.c:947
+msgid "Additional Software"
+msgstr ""
+
+#: src/patterns_utf8.c:948
+msgid "GNOME Desktop"
+msgstr ""
+
+#: src/patterns_utf8.c:949
+msgid "KDE Desktop"
+msgstr ""
+
+#: src/patterns_utf8.c:950
+msgid "Not yet classified"
+msgstr ""

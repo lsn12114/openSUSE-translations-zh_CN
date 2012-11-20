@@ -1,0 +1,3026 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: packager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:21+0200\n"
+"PO-Revision-Date: 2012-09-14 00:45+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. module description
+#: src/clients/checkmedia.ycp:36
+msgid "Check CD or DVD media integrity"
+msgstr "检查 CD 或 DVD 介质完整性"
+
+#. dialog caption
+#: src/clients/do_not_show_again_editor.ycp:59
+msgid "Editor for 'Do Not Show Again'"
+msgstr "“不要再次显示”的编辑器"
+
+#. help text
+#: src/clients/do_not_show_again_editor.ycp:62
+msgid ""
+"<p>Remove entries by selecting them in the table and clicking the \n"
+"<b>Delete</b> button. The entries will be removed immediately from \n"
+"the current configuration.</p>\n"
+msgstr ""
+"<p>您可以通过在\n"
+"表中选择条目，单击<b>删除</b>按钮删除它们。\n"
+"该条目将立即从当前配置中删除。</p>\n"
+
+#: src/clients/do_not_show_again_editor.ycp:71
+msgid "Type"
+msgstr "类型"
+
+#: src/clients/do_not_show_again_editor.ycp:72
+msgid "Popup Ident."
+msgstr "弹出身份"
+
+#: src/clients/do_not_show_again_editor.ycp:73
+msgid "Additional Info"
+msgstr "附加信息"
+
+#. FIXME: Add filter
+#. `PushButton(`id(`filter), _("&Filter...")),
+#. `HSpacing(2),
+#: src/clients/do_not_show_again_editor.ycp:81
+msgid "&Delete"
+msgstr "删除(&D)"
+
+#. error popup
+#: src/clients/inst_custom_packages.ycp:42
+msgid "Could not read package information."
+msgstr "无法读取包信息。"
+
+#. explanation text for GNOME
+#: src/clients/inst_desktop.ycp:55
+msgid ""
+"GNOME is a powerful and intuitive desktop\n"
+"environment that uses Evolution as mailer,\n"
+"Firefox as browser, and Nautilus as file manager.\n"
+msgstr ""
+"GNOME 是功能强大且直观的桌面\n"
+"环境，它使用 Evolution 作为其邮件程序，\n"
+"将 Firefox 作为其浏览器并将 Nautilus 作为其\n"
+"文件管理器。\n"
+
+#. explanation text for KDE
+#: src/clients/inst_desktop.ycp:62
+msgid ""
+"KDE is a powerful and intuitive desktop\n"
+"environment that uses Kontact as mailer,\n"
+"Dolphin as file manager, and offers\n"
+"both Firefox and Konqueror as Web browsers.\n"
+msgstr ""
+"KDE 是一个功能强大、直观的桌面\n"
+"环境，用 Kontact 作为邮件程序，\n"
+"Dolphin 作为文件管理器，并同时提供\n"
+"Firefox 和 Konqueror 作为万维网浏览器。\n"
+
+#. help text 1/3
+#: src/clients/inst_desktop.ycp:69
+msgid ""
+"<p>Both <b>KDE</b> and <b>GNOME</b> are powerful and intuitive\n"
+"desktop environments. They combine ease of use\n"
+"and attractive graphical interfaces with their\n"
+"own sets of perfectly integrated applications.</p>"
+msgstr ""
+"<p><b>KDE</b> 和 <b>GNOME</b> 都是功能强大且直观的\n"
+"桌面环境。通过其自身完美集成的应用程序集，\n"
+"它们组成了易于使用\n"
+"并且吸引人的图形界面。</p>"
+
+#. help text 2/3
+#: src/clients/inst_desktop.ycp:75
+msgid ""
+"<p>Choosing the default <b>GNOME</b> or <b>KDE</b> desktop\n"
+"environment installs a broad set of the\n"
+"most important desktop applications on your\n"
+"system.</p>"
+msgstr ""
+"<p>选择默认 <b>GNOME</b> 或 <b>KDE</b> 桌面\n"
+"环境后会在系统上安装各种最重要的\n"
+"桌面应用程序。\n"
+"</p>"
+
+#. help text 3/3
+#: src/clients/inst_desktop.ycp:81
+msgid ""
+"<p>Choose <b>Other</b> then select from\n"
+"an alternative, such as a text-only system or a minimal graphical\n"
+"system with a basic window manager.</p>"
+msgstr ""
+"<p>选择<b>其它</b>，然后按<b>选择</b>来选择\n"
+"备用系统，如仅文本系统或带有基本窗口管理器的\n"
+"最小图形系统。</p>"
+
+#. radio button
+#: src/clients/inst_desktop.ycp:88
+msgid "&KDE"
+msgstr "KDE(&K)"
+
+#. radio button
+#: src/clients/inst_desktop.ycp:103
+msgid "&GNOME"
+msgstr "GNOME(&G)"
+
+#. radio button
+#: src/clients/inst_desktop.ycp:128
+msgid "&Other"
+msgstr "其它(&O)"
+
+#. radio button
+#: src/clients/inst_desktop.ycp:147
+msgid "&Minimal Graphical System"
+msgstr "最小图形系统(&M)"
+
+#. radio button
+#: src/clients/inst_desktop.ycp:150
+msgid "&Text Mode"
+msgstr "文本方式(&T)"
+
+#. dialog caption
+#: src/clients/inst_desktop.ycp:159
+msgid "Desktop Selection"
+msgstr "桌面选择"
+
+#: src/clients/inst_desktop.ycp:189
+msgid ""
+"No desktop was selected. Select the\n"
+"desktop to install."
+msgstr ""
+"未选择桌面。请选择要安装的\n"
+"桌面。"
+
+#: src/clients/inst_media.ycp:33 src/clients/repositories.ycp:257
+#: src/clients/repositories.ycp:289 src/clients/repositories.ycp:292
+#: src/modules/SourceManager.ycp:475
+msgid "Unknown"
+msgstr "未知"
+
+#. screen title
+#. this is a heading
+#: src/clients/inst_media.ycp:39 src/clients/media_proposal.ycp:87
+msgid "Installation Media"
+msgstr "安装介质"
+
+#. label for showing repositories
+#: src/clients/inst_media.ycp:42 src/clients/inst_mediacopy.ycp:51
+msgid "Registered Repositories"
+msgstr "已注册软件仓库"
+
+#. help text for dialog to show repositories
+#: src/clients/inst_media.ycp:45
+msgid ""
+"<p>All registered repositories are shown here.\n"
+"</p>\n"
+msgstr ""
+"<p>这里显示了所有已注册的软件仓库。\n"
+"</p>\n"
+
+#. table header
+#. table header - name of the repo
+#: src/clients/inst_media.ycp:58 src/clients/inst_mediacopy.ycp:61
+#: src/clients/repositories.ycp:578 src/clients/repositories.ycp:591
+#: src/clients/webpin_package_search.ycp:242
+#: src/include/key_manager_dialogs.ycp:273
+msgid "Name"
+msgstr "名称"
+
+#. dialog heading
+#: src/clients/inst_mediacopy.ycp:44
+msgid "Copy Installation Media"
+msgstr "复制安装介质"
+
+#. help text
+#: src/clients/inst_mediacopy.ycp:46
+msgid ""
+"<p>The installation CDs will be copied into the system\n"
+"to create a repository that can be used to install\n"
+"other systems.</p>\n"
+msgstr ""
+"<p>安装 CD 将被复制到系统中，\n"
+"用来创建一个可用于安装其它系统\n"
+"的软件源。</p>\n"
+
+#: src/clients/inst_mediacopy.ycp:62
+msgid "Version"
+msgstr "版本"
+
+#. feedback popup 1/2
+#: src/clients/inst_mediacopy.ycp:113
+msgid "Copying CD contents to a local directory..."
+msgstr "正在将 CD 内容复制到本地目录..."
+
+#. feedback popup 2/2
+#: src/clients/inst_mediacopy.ycp:115
+msgid "Please wait..."
+msgstr "请稍等..."
+
+#. TRANSLATORS: popup header
+#: src/clients/inst_productsources.ycp:228
+#: src/clients/inst_productsources.ycp:1201
+msgid "Aborting Configuration of Online Repository"
+msgstr "正在中止在线软件仓库配置"
+
+#. TRANSLATORS: popup question
+#: src/clients/inst_productsources.ycp:230
+#: src/clients/inst_productsources.ycp:1203
+msgid "Are you sure you want to abort the configuration?"
+msgstr "是否确实要中止配置？"
+
+#. TRANSLATORS: popup header
+#: src/clients/inst_productsources.ycp:264
+msgid "Network is not configured."
+msgstr "网络尚未配置。"
+
+#. TRANSLATORS: popup question
+#: src/clients/inst_productsources.ycp:266
+msgid ""
+"Online sources defined by product require an Internet connection.\n"
+"\n"
+"Would you like to configure it?"
+msgstr ""
+"产品定义的在线源需要网络连接。\n"
+"\n"
+"您要配置网络么？"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:571
+msgid "Check network configuration"
+msgstr "检查网络配置"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:573
+msgid "Download list of online repositories"
+msgstr "下载在线软件仓库列表"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:579
+msgid "Checking network configuration..."
+msgstr "正在检查网络配置..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:581
+msgid "Downloading list of online repositories..."
+msgstr "正在下载在线软件仓库列表..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:591
+msgid "Initialize the repository manager"
+msgstr "初始化软件源管理器"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:593
+msgid "Initializing the repository manager..."
+msgstr "正在初始化软件源管理器..."
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_productsources.ycp:599
+msgid "Reading List of Online Repositories"
+msgstr "正在读取在线软件仓库列表"
+
+#. TRANSLATORS: dialog help
+#: src/clients/inst_productsources.ycp:605
+msgid ""
+"<p>The packager is being initialized and \n"
+"the list of servers downloaded from the Web.</p>\n"
+msgstr ""
+"<p>正在初始化软件包管理器并\n"
+"从网络下载服务器列表。</p>\n"
+
+#. TRANSLATORS: error report
+#: src/clients/inst_productsources.ycp:636
+msgid ""
+"Cannot download list of repositories,\n"
+"no network configured."
+msgstr ""
+"无法下载软件仓库列表，\n"
+"网络尚未配置。"
+
+#. TRANSLATORS: light-warning message
+#: src/clients/inst_productsources.ycp:705
+msgid ""
+"No product URL defined from which to download\n"
+"list of repositories.\n"
+msgstr ""
+"没有设定下载软件仓库\n"
+"列表的产品 URL。\n"
+
+#. TRANSLATORS: warning message
+#: src/clients/inst_productsources.ycp:717
+msgid ""
+"Unable to download list of repositories\n"
+"or no repositories defined."
+msgstr ""
+"不能下载软件仓库列表\n"
+"或者软件源尚未设定。"
+
+#. TRANSLATORS: HTML-formatted summary text
+#. %1 is replaced with "Yes" (currently only "Yes")
+#. see *4
+#: src/clients/inst_productsources.ycp:798
+#, ycp-format
+msgid "<b>Recommended:</b> %1<br>"
+msgstr "<b>推荐：</b>%1<br>"
+
+#. TRANSLATORS: used for "Recommended: Yes" (see *4)
+#: src/clients/inst_productsources.ycp:800
+msgid "Yes"
+msgstr "是"
+
+#. TRANSLATORS: This is a complex HTML-formatted information about selecetd external repository
+#. It contains "key: value" pair, one per line, separated by <br> tags
+#. %1 is replaced with an URL of the selected repository
+#. %2 is replaced with an URL from which we've got this repository information
+#. %3 is replaced with a summary text for the selected repository
+#. %4 is replaced with a description text for the selected repository
+#. %5 is replaced with an emty string or "Recommended: Yes" (*4)
+#: src/clients/inst_productsources.ycp:814
+#, ycp-format
+msgid ""
+"<p>\n"
+"<b>URL:</b> %1<br>\n"
+"<b>Linked from:</b> %2<br>\n"
+"<b>Summary:</b> %3<br>\n"
+"<b>Description:</b> %4<br>\n"
+"%5\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>URL：</b> %1<br>\n"
+"<b>链接来自：</b> %2<br>\n"
+"<b>摘要：</b> %3<br>\n"
+"<b>描述：</b> %4<br>\n"
+"%5\n"
+"</p>"
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_productsources.ycp:1098
+msgid "List of Online Repositories"
+msgstr "在线软件仓库列表"
+
+#. TRANSLATORS: push button
+#. push button
+#: src/clients/inst_productsources.ycp:1103
+#: src/modules/SourceManagerSLP.ycp:89
+msgid "&Filter"
+msgstr "过滤器(&F)"
+
+#. TRANSLATORS: multi-selection box
+#: src/clients/inst_productsources.ycp:1112
+msgid "&List of Repositories"
+msgstr "软件仓库列表(&L)"
+
+#. TRANSLATORS: Rich-text widget (HTML)
+#: src/clients/inst_productsources.ycp:1117
+msgid "Repository Description"
+msgstr "软件仓库描述"
+
+#. TRANSLATORS: dialog help 1/3
+#: src/clients/inst_productsources.ycp:1124
+msgid ""
+"<p>List of default online repositories.\n"
+"Click on a repository for details.</p>\n"
+msgstr ""
+"<p>默认的在线软件仓库列表。\n"
+"请点击软件仓库查看详细信息。</p>\n"
+
+#. TRANSLATORS: dialog help 2/3 (version for installation)
+#: src/clients/inst_productsources.ycp:1129
+msgid "<p>Select the online repositories you want to use then click <b>Next</b>.</p>\n"
+msgstr "<p>选择想要使用的在线软件仓库，然后单击<b>下一步</b>。</p>\n"
+
+#. TRANSLATORS: dialog help 2/3 (version for running system)
+#: src/clients/inst_productsources.ycp:1133
+msgid "<p>Select the online repositories you want to use then click <b>Finish</b>.</p>\n"
+msgstr "<p>选择想要使用的在线软件仓库，然后单击<b>完成</b>。</p>\n"
+
+#. TRANSLATORS: dialog help 3/3
+#: src/clients/inst_productsources.ycp:1137
+msgid "<p>To remove a used repository, simply deselect it.</p>"
+msgstr "<p>要移除使用过的软件源，只需取消选择。</p>"
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_productsources.ycp:1228
+msgid "Writing List of Online Repositories"
+msgstr "写入在线软件仓库列表"
+
+#. TRANSLATORS: dialog help
+#: src/clients/inst_productsources.ycp:1234
+#: src/include/repositories_include.ycp:75
+msgid "<p>The repository manager is downloading repository details...</p>"
+msgstr "<p>软件源管理器正在下载软件仓库的详细数据...</p>"
+
+#. TRANSLATORS: pop-up error message
+#. %1 is replaced with a repository name or URL
+#: src/clients/inst_productsources.ycp:1311
+#: src/clients/inst_productsources.ycp:1330
+#: src/clients/inst_productsources.ycp:1342
+#, ycp-format
+msgid "Adding repository %1 failed."
+msgstr "添加软件源 %1 失败。"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:1412
+msgid "Delete deselected online repositories"
+msgstr "删除未选的在线软件仓库"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:1414
+msgid "Deleting deselected online repositories..."
+msgstr "正在删除未选的在线软件仓库..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:1420
+msgid "Add all selected online repositories"
+msgstr "添加所有选中的在线软件仓库"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_productsources.ycp:1422
+msgid "Adding all selected online repositories..."
+msgstr "正在添加所有选中的在线软件仓库..."
+
+#. TRANSLATORS: progress step
+#. %1 is replaced with repository name or URL
+#: src/clients/inst_productsources.ycp:1428
+#, ycp-format
+msgid "Add repository: %1"
+msgstr "添加软件源: %1"
+
+#. TRANSLATORS: progress step,
+#. %1 is replaced with repository name or URL
+#: src/clients/inst_productsources.ycp:1434
+#, ycp-format
+msgid "Adding repository: %1 ..."
+msgstr "正在添加软件源：%1..."
+
+#. error report, %1 is number
+#: src/clients/inst_rpmcopy.ycp:144
+#, ycp-format
+msgid "Failed to select %1 packages for installation."
+msgstr "未能选择 %1 个软件包供安装"
+
+#: src/clients/inst_rpmcopy.ycp:175
+#, ycp-format
+msgid "Could not set patterns: %1."
+msgstr "无法设置集合：%1。"
+
+#: src/clients/inst_rpmcopy.ycp:181
+msgid "The package resolver run failed. Check your software section in the AutoYaST profile."
+msgstr "包解析程序运行失败。 请检查 autoyast 配置中的软件部分。"
+
+#. error message - displayed in a scrollable text area
+#. %1 - an error message (details)
+#: src/clients/inst_rpmcopy.ycp:218
+#, ycp-format
+msgid ""
+"Installation failed.\n"
+"\n"
+"Details:\n"
+"%1\n"
+"\n"
+"Package installation will be aborted.\n"
+msgstr ""
+"安装失败\n"
+"\n"
+"细节：\n"
+"%1\n"
+"\n"
+"软件包安装将被中止。\n"
+
+#. continue-cancel popup
+#: src/clients/inst_rpmcopy.ycp:370
+msgid "Initializing the target directory failed."
+msgstr "初始化目标目录失败。"
+
+#: src/clients/inst_rpmcopy.ycp:415 src/clients/sw_single.ycp:660
+msgid "Installing Packages..."
+msgstr "正在安装软件包..."
+
+#. dialog caption
+#: src/clients/key_manager.ycp:65 src/clients/repositories.ycp:1587
+#: src/modules/AddOnProduct.ycp:581
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#. intermediate popup while initializing internal packagemanagement
+#: src/clients/media_proposal.ycp:35
+msgid "Reading package information..."
+msgstr "正在读取包信息..."
+
+#. Proposal for system to update, part of the richtext
+#: src/clients/media_proposal.ycp:47
+msgid "No Valid Installation Media"
+msgstr "无有效的安装介质"
+
+#. this is a menu entry
+#: src/clients/media_proposal.ycp:89
+msgid "&Media"
+msgstr "介质(&M)"
+
+#. progress step title
+#: src/clients/pkg_finish.ycp:102
+msgid "Saving the software manager configuration..."
+msgstr "正在保存软件管理器配置..."
+
+#: src/clients/repositories.ycp:62
+msgid "&Priority"
+msgstr "优先级(&P)"
+
+#: src/clients/repositories.ycp:64
+msgid "Keep Downloaded Packages"
+msgstr "保留已下载的软件包"
+
+#: src/clients/repositories.ycp:130
+msgid "Default"
+msgstr "默认值"
+
+#. unkown name (alias) of the source
+#: src/clients/repositories.ycp:158 src/clients/repositories.ycp:201
+msgid "Unknown Name"
+msgstr "未知名称"
+
+#. label to be used instead of URL if not found
+#: src/clients/repositories.ycp:260 src/clients/repositories.ycp:289
+#: src/modules/AddOnProduct.ycp:1132
+#, ycp-format
+msgid "URL: %1"
+msgstr "URL：%1"
+
+#. heading - in case repo name not found
+#: src/clients/repositories.ycp:286
+msgid "Unknown Repository Name"
+msgstr "未知软件源名称"
+
+#. label, %1 is repo category (eg. YUM)
+#: src/clients/repositories.ycp:292
+#, ycp-format
+msgid "Category: %1"
+msgstr "类别：%1"
+
+#: src/clients/repositories.ycp:300
+#, ycp-format
+msgid "Service: %1"
+msgstr "服务：%1"
+
+#: src/clients/repositories.ycp:539
+msgid "All repositories"
+msgstr "所有软件源"
+
+#: src/clients/repositories.ycp:540
+msgid "All services"
+msgstr "所有服务"
+
+#: src/clients/repositories.ycp:545
+#, ycp-format
+msgid "Service '%1'"
+msgstr "服务 '%1'"
+
+#. combobox label
+#: src/clients/repositories.ycp:556
+msgid "View"
+msgstr "查看"
+
+#. table header - priority of the repository - keep the translation as short as possible!
+#: src/clients/repositories.ycp:571
+msgid "Priority"
+msgstr "优先级"
+
+#. table header - is the repo enabled? - keep the translation as short as possible!
+#. status info, to be used inside summary
+#: src/clients/repositories.ycp:573 src/clients/repositories.ycp:586
+#: src/modules/SourceManager.ycp:446
+msgid "Enabled"
+msgstr "激活"
+
+#. table header - is autorefresh enabled for the repo?
+#. keep the translation as short as possible!
+#: src/clients/repositories.ycp:576 src/clients/repositories.ycp:589
+msgid "Autorefresh"
+msgstr "自动刷新"
+
+#. table header - service to which the repo belongs
+#: src/clients/repositories.ycp:580
+msgid "Service"
+msgstr "服务"
+
+#. table header - URL of the repo
+#: src/clients/repositories.ycp:582 src/clients/repositories.ycp:593
+msgid "URL"
+msgstr "URL"
+
+#. push button - change URL of the selected repository
+#: src/clients/repositories.ycp:668
+msgid "&Replace..."
+msgstr "替换(&R)..."
+
+#. push button - refresh the selected repository now
+#: src/clients/repositories.ycp:670
+msgid "Re&fresh Selected"
+msgstr "刷新选中(&f)"
+
+#. push button - disable/enable the selected repository
+#: src/clients/repositories.ycp:672
+msgid "Status &on or off"
+msgstr "状态(开或关)(&O)"
+
+#. push button - disable/enable automatic refresh of the selected repository
+#: src/clients/repositories.ycp:674
+msgid "Refre&sh on or off"
+msgstr "打开刷新或关闭刷新(&S)"
+
+#. push button - set name of the selected repository
+#: src/clients/repositories.ycp:676
+msgid "Set &Name..."
+msgstr "设置名称(&N)..."
+
+#. label
+#: src/clients/repositories.ycp:685
+msgid "Properties"
+msgstr "属性"
+
+#. check box
+#: src/clients/repositories.ycp:691
+msgid "&Enabled"
+msgstr "已启用(&E)"
+
+#. check box
+#: src/clients/repositories.ycp:693
+msgid "Automatically &Refresh"
+msgstr "自动刷新(&R)"
+
+#. push button label
+#: src/clients/repositories.ycp:718
+msgid "&GPG Keys..."
+msgstr "GPG 密钥(&G)..."
+
+#. menu button label
+#: src/clients/repositories.ycp:720
+msgid "Refresh"
+msgstr "刷新"
+
+#. menu button label
+#: src/clients/repositories.ycp:723
+msgid "Refresh all Autor&efreshed"
+msgstr "刷新所有自动刷新的软件源(&E)"
+
+#. menu button label
+#: src/clients/repositories.ycp:725
+msgid "Refresh all &Enabled"
+msgstr "刷新所有启用的软件源(&E)"
+
+#. dialog caption
+#: src/clients/repositories.ycp:731
+msgid "Configured Software Repositories"
+msgstr "已配置的软件源"
+
+#. help
+#: src/clients/repositories.ycp:734
+msgid ""
+"<p>\n"
+"Manage configured software repositories and services.</p>\n"
+msgstr ""
+"<p>\n"
+"管理已配置的软件仓库和服务。</p>\n"
+
+#: src/clients/repositories.ycp:738
+msgid "<P>A <B>service</B> or <B>Repository Index Service (RIS) </B> is a protocol for package repository management. A service can offer one or more software repositories which can be dynamically changed by the service administrator.</P>"
+msgstr "<P><B>服务</B>或<B>软件仓库索引服务(RIS)</B>是软件源管理的一种协议。一个服务可以提供一个或多个软件仓库，它们都可以被服务管理者动态变更。</P>"
+
+#: src/clients/repositories.ycp:740
+msgid ""
+"<p>\n"
+"<b>Adding a new Repository or a Service</b><br>\n"
+"To add a new repository, use <b>Add</b> and specify the software repository or service.\n"
+"YaST will automatically detect whether a service or a repository is available at the entered location.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>添加新的软件源或服务</b><br>\n"
+"要添加新的软件源，请使用<b>添加</b>并指定软件仓库或服务。\n"
+"YaST 会自动检测输入的位置是软件仓库还是服务。\n"
+"</p>\n"
+
+#. help, continued
+#: src/clients/repositories.ycp:748
+msgid ""
+"<p>\n"
+"To install packages from <b>CD</b>,\n"
+"have the CD set or the DVD available.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要从 <b>CD</b> 安装软件包，\n"
+"请准备好 CD 集或 DVD。\n"
+"</p>\n"
+
+#. help, continued
+#: src/clients/repositories.ycp:755
+msgid ""
+"<p>\n"
+"The CDs can be copied to <b>hard disk</b>\n"
+"and then used as a repository.\n"
+"Insert the path name where the first\n"
+"CD is located, for example, /data1/<b>CD1</b>.\n"
+"Only the base path is required if all CDs are copied\n"
+"into one directory.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"可以将 CD 复制到<b>硬盘</b>上。\n"
+"然后，将此硬盘用作软件仓库。\n"
+"请输入第一张 CD 所在的路径名，\n"
+"例如，/data1/<b>CD1</b>。\n"
+"如果将所有这些 CD 都复制到\n"
+"一个目录中，则只需提供基本路径。\n"
+"</p>\n"
+
+#. help, continued
+#: src/clients/repositories.ycp:767
+msgid ""
+"<p>\n"
+"<b>Modifying Status of a Repository or a Service</b><br>\n"
+"To change a repository location, use <b>Edit</b>. To remove a repository, use\n"
+"<b>Delete</b>. To enable or disable the repository or to change the refresh status at initialization time, select the repository in the table and use the check boxes below.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>修改软件源或服务状态</b><br>\n"
+"要更改软件源位置，请使用<b>编辑</b>。要删除软件源，请使用\n"
+"<b>删除</b>。要启用或禁用软件源，或者设置\n"
+"初始化时是否刷新，请在表中选择软件源，并使用下面的复选框。\n"
+"</p>\n"
+
+#. help text, continued
+#: src/clients/repositories.ycp:775
+msgid ""
+"<P><B>Priority of a Repository</B><BR>\n"
+"Priority of a repository is an integer value between 0 (the highest priority) and 200 (the lowest priority). Default is 99. If a package is available in more repositories, the repository with the highest priority is used.</P>\n"
+msgstr ""
+"<P><B>软件源优先级</B><BR>\n"
+"软件源优先级是一个在 0(最高优先级) 到 99(最低优先级) 之间的整数值。默认的优先级是 99。如果一个软件包出现在多个软件仓库中，软件源优先级最高的将被使用。</P>\n"
+
+#. help text, continued
+#: src/clients/repositories.ycp:780
+msgid "<P>Select the appropriate option on top of the window for navigation in repositories and services.</P>"
+msgstr "<P>在软件仓库和服务的导航窗口最上方选择合适的选项。</P>"
+
+#. help text, continued
+#: src/clients/repositories.ycp:782
+msgid ""
+"<P><B>Keep Downloaded Packages</B><BR>Check this option to keep downloaded\n"
+"packages in a local cache so they can be reused later when the packages are\n"
+"reinstalled. If not checked, the downloaded packages are deleted after installation.</P>"
+msgstr "<P><B>保留下载的软件包</B><BR>选中此选项以在本地缓存保留下载的软件包，因此它们可以在稍后重新安装软件包是重复使用。如果未选中，下载的软件包将在安装后删除。</P>"
+
+#: src/clients/repositories.ycp:782
+msgid "<P>The default local cache is located in directory <B>/var/cache/zypp/packages</B>. Change the location in <B>/etc/zypp/zypp.conf</B> file.</P>"
+msgstr "<P>默认本地缓存位于目录 <B>/var/cache/zypp/packages</B>。在 <B>/etc/zypp/zypp.conf</B> 文件中修改位置。</P>"
+
+#. popup message part 1
+#: src/clients/repositories.ycp:828
+msgid ""
+"Unable to save changes to the repository\n"
+"configuration."
+msgstr "无法将更改保存到软件源配置。"
+
+#. popup message part 2 followed by other info
+#. popup message, after message header, header of details
+#: src/clients/repositories.ycp:833 src/modules/Packages.ycp:1117
+#: src/modules/SourceManager.ycp:177 src/modules/SourceManager.ycp:351
+msgid "Details:"
+msgstr "细节："
+
+#. popup message part 3
+#. end of popup message, question
+#: src/clients/repositories.ycp:836 src/modules/Packages.ycp:1118
+#: src/modules/SourceManager.ycp:179 src/modules/SourceManager.ycp:353
+msgid "Try again?"
+msgstr "重试吗？"
+
+#. popup headline
+#: src/clients/repositories.ycp:858
+msgid "Abort Repository Configuration"
+msgstr "中止软件源配置"
+
+#. popup message
+#: src/clients/repositories.ycp:860
+msgid ""
+"Abort the repository configuration?\n"
+"All changes will be lost."
+msgstr ""
+"是否要中止软件源配置？\n"
+"所有的更改都将丢失。"
+
+#: src/clients/repositories.ycp:1124
+#, ycp-format
+msgid ""
+"There is no service at URL:\n"
+"%1"
+msgstr ""
+"该 URL 没有服务：\n"
+"%1"
+
+#. TODO: add help text
+#: src/clients/repositories.ycp:1223
+msgid "Refreshing Repositories"
+msgstr "正在刷新软件仓库..."
+
+#: src/clients/repositories.ycp:1223
+msgid "Refreshing Services"
+msgstr "正在刷新服务"
+
+#: src/clients/repositories.ycp:1224
+msgid "Refresh Repositories"
+msgstr "刷新软件仓库"
+
+#: src/clients/repositories.ycp:1224
+msgid "Refresh Services"
+msgstr "刷新服务"
+
+#. progress bar label
+#: src/clients/repositories.ycp:1244
+#, ycp-format
+msgid "Refreshing Repository %1..."
+msgstr "正在刷新软件源 %1..."
+
+#. refreshing services
+#. progress bar label
+#: src/clients/repositories.ycp:1268
+#, ycp-format
+msgid "Refreshing Service %1..."
+msgstr "正在刷新服务 %1..."
+
+#. yes-no popup
+#: src/clients/repositories.ycp:1285
+msgid "Delete the selected repository from the list?"
+msgstr "从列表删除所选软件源吗？"
+
+#. yes-no popup
+#: src/clients/repositories.ycp:1296
+#, ycp-format
+msgid ""
+"Delete service %1\n"
+"and its repositories?"
+msgstr ""
+"删除服务 %1\n"
+"及其软件仓库？"
+
+#. popup message
+#: src/clients/repositories.ycp:1360
+msgid ""
+"For the selected repository, refresh\n"
+"cannot be set."
+msgstr "无法对所选软件源设置刷新。"
+
+#: src/clients/repositories.ycp:1542
+#, ycp-format
+msgid ""
+"Repository %1\n"
+"has been already added. Each repository should be added only once.\n"
+"\n"
+"Really add the repository again?"
+msgstr ""
+"软件仓库 %1\n"
+"已经添加过了。每个软件仓库都只能被添加一次。\n"
+"\n"
+"确实要再次添加该软件仓库吗？"
+
+#. Error popup
+#: src/clients/repositories.ycp:1615
+msgid "<p>Errors occurred while restoring the repository configuration.</p>\n"
+msgstr "<p>恢复软件源配置时出错。</p>\n"
+
+#. Command line help text for the repository module, %1 is "zypper"
+#: src/clients/repositories.ycp:1691
+#, ycp-format
+msgid "Installation Repositories - This module does not support the command line interface, use '%1' instead."
+msgstr "安装源－此模块不支持命令行界面，请使用“%1”。"
+
+#. the language_changed flag has NOT been set by the NLD frame
+#: src/clients/software_proposal.ycp:87
+#: src/clients/software_simple_proposal.ycp:39
+msgid "The software proposal is reset to the default values."
+msgstr "将软件建议重设置为默认值。"
+
+#. warning text
+#: src/clients/software_proposal.ycp:95
+#: src/clients/software_simple_proposal.ycp:47
+msgid "Cannot solve dependencies automatically. Manual intervention is required."
+msgstr "不能自动解决依赖关系。需手工干预。"
+
+#. this is a heading
+#: src/clients/software_proposal.ycp:141
+msgid "Software"
+msgstr "软件"
+
+#. this is a menu entry
+#: src/clients/software_proposal.ycp:143
+msgid "&Software"
+msgstr "软件(&S)"
+
+#. a stage in the progress dialog
+#: src/clients/sw_single.ycp:53
+msgid "Initialize the Target System"
+msgstr "初始化目标系统"
+
+#: src/clients/sw_single.ycp:53
+msgid "Load the Configured Repositories"
+msgstr "加载已配置的软件源"
+
+#. %1 is path to the target system (e.g. /tmp/dirinstall
+#: src/clients/sw_single.ycp:60
+#, ycp-format
+msgid "Reset the target system to %1"
+msgstr "重置目标系统到 %1"
+
+#. a stage in the progress dialog
+#: src/clients/sw_single.ycp:64
+msgid "Starting the Software Manager"
+msgstr "正在启动软件管理器"
+
+#. error message (%1 is a package file name)
+#: src/clients/sw_single.ycp:194
+#, ycp-format
+msgid "Error: Cannot copy package %1 to temporary repository."
+msgstr "错误：无法将软件包 %1 复制到临时仓库。"
+
+#. error message
+#: src/clients/sw_single.ycp:213
+#, ycp-format
+msgid "Error: Cannot add a temporary directory, packages cannot be installed."
+msgstr "错误：无法添加临时目录，不能安装软件包。"
+
+#. error message
+#: src/clients/sw_single.ycp:232 src/clients/sw_single.ycp:244
+#, ycp-format
+msgid "Error: Cannot query package file %1."
+msgstr "错误：无法查询软件包文件 %1。"
+
+#. Error message:
+#. %1 = package name (may include complete RPM file name)
+#. %2 = error message
+#: src/clients/sw_single.ycp:259
+#, ycp-format
+msgid ""
+"Package %1 could not be installed.\n"
+"\n"
+"Details:\n"
+"%2\n"
+msgstr ""
+"无法安装软件包 %1。\n"
+"\n"
+"细节：\n"
+"%2\n"
+
+#. error popup, %1 is the name of the .rpm package
+#: src/clients/sw_single.ycp:269
+#, ycp-format
+msgid "Package %1 was not found on the medium."
+msgstr "在介质上未找到包 %1。"
+
+#: src/clients/sw_single.ycp:310
+msgid "An error occurred during repository initialization."
+msgstr "软件源初始化出错。"
+
+#: src/clients/sw_single.ycp:315
+msgid ""
+"No repository is defined.\n"
+"Only installed packages are displayed."
+msgstr ""
+"未定义软件源。\n"
+"仅会显示已安装的软件包。"
+
+#: src/clients/sw_single.ycp:505
+msgid ""
+"During the last package installation\n"
+"several packages failed to install.\n"
+"Install them now?\n"
+msgstr ""
+"在最近一次包安装过程中，\n"
+"有一些软件包安装失败。\n"
+"现在安装它们吗？\n"
+
+#: src/clients/sw_single.ycp:544
+#, ycp-format
+msgid ""
+"Cannot configure online update repository \n"
+"without having package %1 installed"
+msgstr "未安装 %1 包，无法配置在线升级源"
+
+#: src/clients/sw_single.ycp:561
+#, ycp-format
+msgid ""
+"Cannot search packages in online repositories\n"
+"without having package %1 installed"
+msgstr "未安装 %1 软件包，无法在线上软件仓库中搜索软件包"
+
+#. error report, %1 is a list of packages
+#: src/clients/sw_single.ycp:583
+#, ycp-format
+msgid ""
+"The following packages have not been found on the medium:\n"
+"%1\n"
+msgstr ""
+"在此介质上找不到以下包：\n"
+"%1\n"
+
+#. Command line help text for the software management module, %1 is "zypper"
+#: src/clients/sw_single.ycp:760
+#, ycp-format
+msgid "Software Installation - This module does not support the command line interface, use '%1' instead."
+msgstr "软件安装－此模块不支持命令行界面，请使用“%1”。"
+
+#: src/clients/webpin_package_search.ycp:37
+msgid "All changes will be lost. Really exit?"
+msgstr "所有更改都将丢失。是否退出？"
+
+#: src/clients/webpin_package_search.ycp:55
+msgid "Search expression must not be empty!"
+msgstr "搜索表达式不能为空！"
+
+#: src/clients/webpin_package_search.ycp:85
+#, ycp-format
+msgid "<b>Repository URL:</b> %1<br>"
+msgstr "<b>软件源 URL：</b> %1<br>"
+
+#: src/clients/webpin_package_search.ycp:86
+#, ycp-format
+msgid "<b>Version:</b> %1<br>"
+msgstr "<b>版本：</b> %1<br>"
+
+#: src/clients/webpin_package_search.ycp:88
+#, ycp-format
+msgid "<b>Architecture:</b> %1<br>"
+msgstr "<b>架构：</b> %1<br>"
+
+#: src/clients/webpin_package_search.ycp:187
+msgid "Check Network Configuration"
+msgstr "检查网络配置"
+
+#: src/clients/webpin_package_search.ycp:188
+msgid "Initialize Software Manager"
+msgstr "初始化软件包管理程序"
+
+#: src/clients/webpin_package_search.ycp:192
+msgid "Checking Network Configuration ..."
+msgstr "正在检查网络配置..."
+
+#: src/clients/webpin_package_search.ycp:193
+msgid "Initializing Software Manager ... "
+msgstr "正在初始化软件包管理程序..."
+
+#: src/clients/webpin_package_search.ycp:197
+msgid "Reading Package Search Setup..."
+msgstr "正在读取软件包搜索设置..."
+
+#: src/clients/webpin_package_search.ycp:202
+msgid "<p>Packager is initializing...</p>"
+msgstr "<p>软件包管理器正在初始化...</p>"
+
+#. TRANSLATORS: dialog caption
+#: src/clients/webpin_package_search.ycp:226
+msgid "Package Search"
+msgstr "软件包搜索"
+
+#: src/clients/webpin_package_search.ycp:231
+msgid "Search &Expression"
+msgstr "搜索表达式(&E)"
+
+#: src/clients/webpin_package_search.ycp:234
+msgid "&Search"
+msgstr "搜索(&S)"
+
+#: src/clients/webpin_package_search.ycp:240
+msgid "Search &in"
+msgstr "搜索范围(&i)"
+
+#: src/clients/webpin_package_search.ycp:243
+msgid "Description"
+msgstr "描述"
+
+#: src/clients/webpin_package_search.ycp:244
+msgid "Contents"
+msgstr "内容"
+
+#: src/clients/webpin_package_search.ycp:266
+msgid "&Found Packages"
+msgstr "找到软件包(&F)"
+
+#: src/clients/webpin_package_search.ycp:267
+msgid "&All Selected Packages"
+msgstr "所有选定软件包(&A)"
+
+#. `HBox(
+#: src/clients/webpin_package_search.ycp:273
+msgid "Package Description"
+msgstr "软件包描述"
+
+#: src/clients/webpin_package_search.ycp:282
+msgid ""
+"<p><big><b>Package Search</b></big><br>\n"
+"Use the functionality of <i>Webpin package search</i> to search in all known openSUSE build-service and openSUSE community repositories.</p>\n"
+msgstr ""
+"<p><big><b>软件包搜索</b></big><br>\n"
+"该 YaST 模块让您可以使用<i>Webpin 软件包搜索</i>的功能。\n"
+"它在所有已知 openSUSE 编译服务软件仓库和 openSUSE 社区软件仓库中搜索。</p>\n"
+
+#: src/clients/webpin_package_search.ycp:286
+msgid ""
+"<p><big><b>Security</b></big><br> The software found is often not part of the\n"
+"distribution itself. You need to decide whether to trust the source of a\n"
+"package. We do not take any responsibility for installing such software.</p>\n"
+msgstr "<p><big><b>安全性</b></big><br>找到软件通常不是发行版自身的一部分。您需要决定是否信任软件包的来源。我们不为安装这样的软件包负责。</p>\n"
+
+#: src/clients/webpin_package_search.ycp:314
+msgid "Select packages to install."
+msgstr "选择要安装的软件包。"
+
+#: src/clients/webpin_package_search.ycp:333
+msgid "Searching for packages..."
+msgstr "正在搜索软件包..."
+
+#. error message
+#: src/clients/webpin_package_search.ycp:348
+msgid "<p><b>Search failed</b></p>"
+msgstr "<p><b>搜索失败</b></p>"
+
+#: src/clients/webpin_package_search.ycp:350
+msgid "<p><b>No packages matching entered criteria were found.</b></p>"
+msgstr "<p><b>未找到匹配输入的关键词的软件包。</b></p>"
+
+#: src/include/checkmedia/ui.ycp:83
+#, ycp-format
+msgid "<BIG><B>%1</B></BIG>"
+msgstr "<BIG><B>%1</B></BIG>"
+
+#. rich text message, %1 medium number, e.g. CD1,CD2...
+#: src/include/checkmedia/ui.ycp:85
+#, ycp-format
+msgid "<UL><LI>Medium: %1</LI></UL>"
+msgstr "<UL><LI>介质：%1</LI></UL>"
+
+#. rich text message, %1 = size of the medium
+#: src/include/checkmedia/ui.ycp:87
+#, ycp-format
+msgid "<UL><LI>Size: %1</LI></UL>"
+msgstr "<UL><LI>大小：%1</LI></UL>"
+
+#. rich text message, %1 = result of the check
+#. the check has been canceled
+#: src/include/checkmedia/ui.ycp:89 src/include/checkmedia/ui.ycp:490
+#, ycp-format
+msgid "<UL><LI>Result: %1</LI></UL>"
+msgstr "<UL><LI>结果：%1</LI></UL>"
+
+#. rich text -  error message
+#: src/include/checkmedia/ui.ycp:91
+msgid "The drive does not contain a medium or the ISO file system is broken."
+msgstr "驱动器中没有介质或 ISO 文件系统已损坏。"
+
+#. result of the check - success
+#: src/include/checkmedia/ui.ycp:101
+msgid "<B>OK</B> -- The medium has been successfully verified."
+msgstr "<B>OK</B> -- 介质顺利通过检验。"
+
+#. wrong MD5
+#: src/include/checkmedia/ui.ycp:106
+msgid "<B>Error</B> -- MD5 sum does not match<BR>This medium should not be used."
+msgstr "<B>错误</B> -- MD5 数值不匹配<BR>不应使用该介质。"
+
+#. the correct MD5 is unknown
+#: src/include/checkmedia/ui.ycp:111
+msgid "<B>Unknown</B> -- The correct MD5 sum of the medium is unknown."
+msgstr "<B>未知</B> -- 该介质的正确 MD5 和未知。"
+
+#. warning popup - the CD/DVD drive doesn't contain the first medium (CD1/DVD1)
+#: src/include/checkmedia/ui.ycp:220
+msgid "Insert the first installation medium."
+msgstr "请插入第一个安装介质。"
+
+#. dialog header
+#: src/include/checkmedia/ui.ycp:274
+msgid "Media Check"
+msgstr "介质检查"
+
+#. help text - media check (header) 1/8
+#: src/include/checkmedia/ui.ycp:277
+msgid "<P><B>Media Check</B></P>"
+msgstr "<P><B>介质检查</B></P>"
+
+#. help text - media check 2/8
+#: src/include/checkmedia/ui.ycp:279
+msgid ""
+"<P>When you have a problem with\n"
+"the installation and you are using a CD or DVD installation medium, you should check\n"
+"whether the medium is broken.</P>\n"
+msgstr ""
+"<P>当您使用 CD 或 DVD\n"
+"进行安装出现问题时，应检查\n"
+"介质是否损坏。</P>\n"
+
+#. help text - media check 3/8
+#: src/include/checkmedia/ui.ycp:285
+msgid ""
+"<P>Select a drive, insert a medium into the drive and press <B>Start Check</B>\n"
+"or use <B>Check ISO File</B> and select an ISO file.\n"
+"The check can take several minutes depending on speed of the\n"
+"drive and size of the medium. The check verifies the MD5 checksum.</P> "
+msgstr ""
+"<P>选择驱动器，将介质插入驱动器，然后按<B>开始检查</B>\n"
+"或者使用<B>检查 ISO 文件</B> 并选择一个 ISO 文件。\n"
+"根据驱动器的速度和介质的大小，检查可能需要几分钟。\n"
+"此检查将校验 MD5。</P>"
+
+#. help text - media check 4/8
+#: src/include/checkmedia/ui.ycp:291
+msgid ""
+"<P>If the check of the medium fails, you should not continue the installation.\n"
+"It may fail or you may lose your data. Better replace the broken medium.</P>\n"
+msgstr ""
+"<P>如果介质检查失败，则不应继续安装。\n"
+"安装可能失败或导致丢失数据。您应该更换损坏的\n"
+"介质。</P>\n"
+
+#. help text - media check 5/8
+#: src/include/checkmedia/ui.ycp:296
+msgid ""
+"After the check, insert the next medium and start the procedure again. \n"
+"The order of the media is irrelevant.\n"
+msgstr ""
+"完成检查后，可以插入下一个介质并重复以上过程。\n"
+"介质的顺序在这里没有影响。\n"
+
+#. help text - media check 6/8
+#: src/include/checkmedia/ui.ycp:301
+msgid "<P><B>Note:</B> You cannot change the medium while it is used by the system.</P>"
+msgstr "<P><B>注意：</B> 当介质被系统使用时，您不能更换它。</P>"
+
+#. help text - media check 7/8
+#: src/include/checkmedia/ui.ycp:304
+msgid "<P>To check media before the installation, use the media check item in the boot menu.</P>"
+msgstr "<P>在开始安装前检查介质，请使用启动菜单中的介质检查一项。<P>"
+
+#. help text - media check 8/8
+#: src/include/checkmedia/ui.ycp:307
+msgid ""
+"<P>If you burn the media yourself, use the <B>pad</B> option in your recording\n"
+"software. It avoids read errors at the end of the media during the check.</P>\n"
+msgstr "<P>如果是自己刻录介质，请使用刻录软件中的 <B>pad</B> 选项。这样即可避免在检查过程中介质末尾部分出现读取错误。</P>\n"
+
+#. advice check of the media
+#. for translators: split the message to more lines if needed, use max. 50 characters per line
+#: src/include/checkmedia/ui.ycp:311
+msgid ""
+"It is recommended to check all installation media\n"
+"to avoid installation problems. To skip this step press 'Next'"
+msgstr ""
+"建议您检查所有安装介质\n"
+"以避免出现安装问题。按 '下一步' 跳过此步骤"
+
+#: src/include/checkmedia/ui.ycp:318
+msgid "&CD or DVD Drive"
+msgstr "CD 或 DVD 驱动器(&C)"
+
+#. push button label
+#: src/include/checkmedia/ui.ycp:324
+msgid "&Start Check"
+msgstr "开始检查(&S)"
+
+#: src/include/checkmedia/ui.ycp:325 src/modules/SourceManager.ycp:739
+msgid "&Eject"
+msgstr "弹出(&E)"
+
+#. push button label
+#: src/include/checkmedia/ui.ycp:331
+msgid "Check ISO File..."
+msgstr "检查 ISO 文件..."
+
+#. widget label
+#: src/include/checkmedia/ui.ycp:334
+msgid "Status Information"
+msgstr "状态信息"
+
+#. progress bar label
+#: src/include/checkmedia/ui.ycp:338
+msgid "Progress"
+msgstr "进度"
+
+#. window title - open file dialog
+#: src/include/checkmedia/ui.ycp:393
+msgid "Select an ISO File to Check"
+msgstr "选择要检查的 ISO"
+
+#. error message: the medium cannot be read or no medium in the drive; %1 = drive, e.g. /dev/hdc
+#: src/include/checkmedia/ui.ycp:421
+#, ycp-format
+msgid "Cannot read medium in drive %1."
+msgstr "无法读取驱动器 %1 中的介质。"
+
+#: src/include/checkmedia/ui.ycp:427
+msgid ""
+"The medium does not contain a MD5 checksum.\n"
+"The content of the medium cannot be verified.\n"
+"\n"
+"Only readability of the medium will be checked.\n"
+msgstr ""
+"介质不包含 MD5 验证码。\n"
+"介质内容不能被验证。\n"
+"\n"
+"将仅仅检查介质可读性。\n"
+
+#: src/include/checkmedia/ui.ycp:490
+msgid "<B>Canceled</B>"
+msgstr "<B>已取消</B>"
+
+#. escape <> characters in the key name
+#. translators: %1 is GPG key name (e.g. 'SuSE Package Signing Key <build@suse.de>')
+#: src/include/key_manager_dialogs.ycp:42
+#, ycp-format
+msgid "Name: %1"
+msgstr "名称：%1"
+
+#. %1 is a GPG Key fingerprint (e.g. '79C179B2E1C820C1890F9994A84EDAE89C800ACA')
+#: src/include/key_manager_dialogs.ycp:44
+#, ycp-format
+msgid "Finger Print: %1"
+msgstr "指纹：%1"
+
+#. %1 is the date when the GPG key was generated (e.g. '9.10.2000')
+#: src/include/key_manager_dialogs.ycp:46
+#, ycp-format
+msgid "Created: %1"
+msgstr "创建日期：%1"
+
+#. %1 is the date when the GPG key expired (e.g. '10.6.2005'), display the date in red
+#: src/include/key_manager_dialogs.ycp:51
+#, ycp-format
+msgid "Expires: <font color = \"red\">%1</font> (The key is expired.)"
+msgstr "失效：<font color = \"red\">%1</font> (该密钥已经失效。)"
+
+#. summary string - the GPG key never expires
+#: src/include/key_manager_dialogs.ycp:53
+msgid "The key never expires."
+msgstr "密钥永不失效。"
+
+#. %1 is the date when the GPG key expires (e.g. '21.3.2015') or "Never"
+#: src/include/key_manager_dialogs.ycp:55
+#, ycp-format
+msgid "Expires: %1"
+msgstr "失效：%1"
+
+#: src/include/key_manager_dialogs.ycp:66
+#, ycp-format
+msgid "Key: %1"
+msgstr "密钥：%1"
+
+#: src/include/key_manager_dialogs.ycp:128
+msgid "Select a GPG Key"
+msgstr "选择 GPG 密钥"
+
+#: src/include/key_manager_dialogs.ycp:142
+msgid "Properties of the GPG Key"
+msgstr "GPG 密钥属性"
+
+#: src/include/key_manager_dialogs.ycp:147
+msgid "Key ID: "
+msgstr "密钥 ID："
+
+#: src/include/key_manager_dialogs.ycp:148
+msgid "Name: "
+msgstr "名称："
+
+#: src/include/key_manager_dialogs.ycp:149
+msgid "Finger Print: "
+msgstr "指纹："
+
+#: src/include/key_manager_dialogs.ycp:150
+msgid "Created: "
+msgstr "创建："
+
+#: src/include/key_manager_dialogs.ycp:151
+msgid "Expires: "
+msgstr "失效："
+
+#. dialog caption
+#: src/include/key_manager_dialogs.ycp:167
+msgid "Adding a GPG Public Key"
+msgstr "添加 GPG 公共密钥"
+
+#. help
+#: src/include/key_manager_dialogs.ycp:170
+#: src/include/key_manager_dialogs.ycp:255
+msgid ""
+"<p>\n"
+"Manage known GPG public keys.</p>\n"
+msgstr ""
+"<p>\n"
+"管理已知的 GPG 公钥。</p>\n"
+
+#: src/include/key_manager_dialogs.ycp:174
+msgid ""
+"<p>\n"
+"<b>Adding a New GPG Key</b><br>\n"
+"To add a new GPG key, specify the path to the key file.\n"
+"Check the <B>Trusted</B> check box if the key is trusted.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>添加新 GPG 密钥</b><br>\n"
+"指定密钥文件路径以添加新 GPG 密钥。\n"
+"如果密钥可以被信任，勾选选框<B>信任</B>。\n"
+"</p>\n"
+
+#. header in file selection popup
+#: src/include/key_manager_dialogs.ycp:196
+msgid "Select a GPG Key To Import"
+msgstr "选择要导入的 GPG 密钥"
+
+#: src/include/key_manager_dialogs.ycp:221
+msgid "Enter a filename"
+msgstr "输入文件名"
+
+#. dialog caption
+#: src/include/key_manager_dialogs.ycp:252
+msgid "GPG Public Key Management"
+msgstr "GPG 公共密钥管理"
+
+#: src/include/key_manager_dialogs.ycp:259
+msgid ""
+"<p>\n"
+"<b>Adding a New GPG Key</b><br>\n"
+"To add a new GPG key, use <b>Add</b> and specify the path to the key file.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"<b>添加新的 GPG 密钥</b><br>\n"
+"要添加新的 GPG 密钥，请使用<b>添加</b>并指定密钥文件的路径。\n"
+"</p>"
+
+#. help, continued
+#: src/include/key_manager_dialogs.ycp:265
+msgid ""
+"<p>\n"
+"<b>Modifying a GPG Key Status</b>\n"
+"To modify the trusted flag, use <b>Edit</b>. To remove a GPG key, use\n"
+"<b>Delete</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"<b>修改 GPG 密钥状态</b>\n"
+"修改信任标识，使用<b>编辑</b>。移除一个 GPG 密钥，使用\n"
+"<b>删除</b>。\n"
+"</p>\n"
+
+#. table header
+#: src/include/key_manager_dialogs.ycp:273
+msgid "Key ID"
+msgstr "密钥 ID"
+
+#: src/include/key_manager_dialogs.ycp:309
+#, ycp-format
+msgid ""
+"Really delete key '%1'\n"
+"'%2'?"
+msgstr ""
+"确实要删除密钥 “%1”\n"
+"“%2”吗？"
+
+#. TRANSLATORS: dialog caption
+#: src/include/repositories_include.ycp:69
+msgid "Adding a New Repository"
+msgstr "正在添加新软件源"
+
+#: src/include/repositories_include.ycp:72
+msgid "Check Repository Type"
+msgstr "检查软件仓库类型"
+
+#: src/include/repositories_include.ycp:72
+msgid "Add Repository"
+msgstr "添加软件源"
+
+#: src/include/repositories_include.ycp:72
+msgid "Read Repository License"
+msgstr "读取软件仓库协议"
+
+#: src/include/repositories_include.ycp:73
+msgid "Checking Repository Type"
+msgstr "正在检查软件仓库类型"
+
+#: src/include/repositories_include.ycp:73
+msgid "Adding Repository"
+msgstr "正在添加软件源"
+
+#: src/include/repositories_include.ycp:73
+msgid "Reading Repository License"
+msgstr "正在读取软件仓库协议"
+
+#: src/include/repositories_include.ycp:136
+msgid "Repository"
+msgstr "软件源"
+
+#. continue-back popup
+#: src/include/repositories_include.ycp:200 src/modules/SourceManager.ycp:371
+msgid ""
+"There is no product information available at the given location.\n"
+"If you expected to to point a product, go back and enter\n"
+"the correct location.\n"
+"To make rpm packages located at the specified location available\n"
+"in the packages selection, continue.\n"
+msgstr ""
+"给定位置无可用的产品信息。\n"
+"如果您希望对某产品寻址，请返回并输入\n"
+"正确的位置。\n"
+"要使位于指定位置的 rpm 包\n"
+"在包选择中可用，请继续。\n"
+
+#. popup message part 1
+#: src/include/repositories_include.ycp:306 src/modules/Packages.ycp:1116
+#: src/modules/SourceManager.ycp:348
+#, ycp-format
+msgid ""
+"Unable to create repository\n"
+"from URL '%1'."
+msgstr ""
+"无法从  URL '%1'\n"
+"创建软件源。"
+
+#. error message
+#: src/include/repositories_include.ycp:317
+msgid ""
+"Using an ISO image over ftp or http protocol is not possible.\n"
+"Change the protocol or unpack the ISO image on the server side."
+msgstr ""
+"不能通过 FTP 或 HTTP 协议使用 ISO 映像。\n"
+"修改协议或在服务器端解压 ISO 映像。"
+
+#. popup message part 2
+#: src/include/repositories_include.ycp:323
+msgid "Change the URL and try again?"
+msgstr "修改 URL 并重试？"
+
+#. popup error message, %1 is the package name
+#: src/include/repositories_include.ycp:402
+#, ycp-format
+msgid ""
+"Cannot search for SLP repositories\n"
+"without having %1 package installed.\n"
+msgstr ""
+"未安装 %1 软件包\n"
+"无法搜索 SLP 软件仓库。\n"
+
+#. error report
+#. popup error
+#: src/modules/AddOnProduct.ycp:438 src/modules/AddOnProduct.ycp:527
+#: src/modules/ProductLicense.ycp:480 src/modules/ProductLicense.ycp:638
+msgid "An error occurred while preparing the installation system."
+msgstr "准备安装系统时出错。"
+
+#. error report
+#: src/modules/AddOnProduct.ycp:558
+#, ycp-format
+msgid "Control file %1 not found on media."
+msgstr "在介质上找不到控制文件 %1。"
+
+#. TRANSLATORS: error report
+#: src/modules/AddOnProduct.ycp:1061 src/modules/AddOnProduct.ycp:1206
+msgid "Unable to use additional products."
+msgstr "无法使用附加产品。"
+
+#: src/modules/AddOnProduct.ycp:1126 src/modules/AddOnProduct.ycp:1128
+#, ycp-format
+msgid "%1, URL: %2"
+msgstr "%1，URL：%2"
+
+#: src/modules/AddOnProduct.ycp:1130
+#, ycp-format
+msgid "URL: %1, Path: %2"
+msgstr "URL：%1，路径：%2"
+
+#. TRANSLATORS: popup heading
+#: src/modules/AddOnProduct.ycp:1152
+msgid "Additional Products"
+msgstr "附加产品"
+
+#. TRANSLATORS: additional dialog information
+#: src/modules/AddOnProduct.ycp:1156
+msgid ""
+"The installation repository also contains the listed additional repositories.\n"
+"Select the ones you want to use.\n"
+msgstr ""
+"安装源也包含了列出的附加软件仓库。\n"
+"请选择您希望使用的。\n"
+
+#: src/modules/AddOnProduct.ycp:1164
+msgid "Additional Products to Select"
+msgstr "待选择的附加产品"
+
+#. push button label
+#: src/modules/AddOnProduct.ycp:1171
+msgid "Add Selected &Products"
+msgstr "添加选定产品(&P)"
+
+#. TRANSLATORS: error message, %1 is replaced with product URL
+#: src/modules/AddOnProduct.ycp:1382
+#, ycp-format
+msgid "Unable to add product %1."
+msgstr "无法添加产品 %1。"
+
+#: src/modules/AddOnProduct.ycp:1406 src/modules/AddOnProduct.ycp:1407
+#: src/modules/Packages.ycp:425
+msgid "Unknown Product"
+msgstr "未知产品"
+
+#: src/modules/KeyManager.ycp:239
+#, ycp-format
+msgid ""
+"File '%1'\n"
+"does not contain a valid GPG key.\n"
+msgstr ""
+"文件“%1”\n"
+"不包含有效的 GPG 密钥。\n"
+
+#. %1 is key ID (e.g. A84EDAE89C800ACA), %2 is key name (e.g. "SuSE Package Signing Key <build@suse.de>")
+#: src/modules/KeyManager.ycp:260
+#, ycp-format
+msgid ""
+"Key '%1'\n"
+"'%2'\n"
+"is already known, it cannot be added again."
+msgstr ""
+"密钥 '%1'\n"
+"'%2'\n"
+"已知。不能重复添加。"
+
+#: src/modules/KeyManager.ycp:294
+msgid "Cannot copy the key to the temporary directory."
+msgstr "无法将密钥复制到临时目录。"
+
+#. button label
+#: src/modules/PackageInstallation.ycp:51
+msgid "&Show Failed Packages List"
+msgstr "显示失败的包列表(&S)"
+
+#. button label
+#: src/modules/PackageInstallation.ycp:54
+msgid "&Show Full Log"
+msgstr "显示完整日志(&S)"
+
+#. dialog headline
+#: src/modules/PackageInstallation.ycp:63
+msgid "Installation of some Packages Failed"
+msgstr "安装某些包失败"
+
+#: src/modules/PackageInstallation.ycp:188
+msgid "Installation aborted by user."
+msgstr "安装已被用户中止。"
+
+#. the string is follwed by a media number, e.g. "Medium 1"
+#: src/modules/PackageSlideShow.ycp:30
+#, ycp-format
+msgid "Medium %1"
+msgstr "媒体 %1"
+
+#. When data throughput goes downhill (stalled network connection etc.),
+#. cut off the predicted time at a reasonable maximum.
+#. "%1" is a predefined maximum time.
+#: src/modules/PackageSlideShow.ycp:253
+#, ycp-format
+msgid ">%1"
+msgstr ">%1"
+
+#. Nothing more to install from this CD (very concise - little space!!)
+#: src/modules/PackageSlideShow.ycp:274 src/modules/PackageSlideShow.ycp:295
+msgid "Done."
+msgstr "已完成。"
+
+#. Status line informing about the next CD that will be used
+#. %1: Media type ("CD" / "DVD", ???)
+#. %2: Media name ("SuSE Linux Professional CD 2" )
+#. %3: Time remaining until this media will be needed
+#: src/modules/PackageSlideShow.ycp:322
+#, ycp-format
+msgid "Next: %1 -- %2"
+msgstr "下一个：%1 - %2"
+
+#. Status line informing about the next CD that will be used
+#. %1: Media type ("CD" / "DVD", ???)
+#. %2: Media name ("SuSE Linux Professional CD 2" )
+#: src/modules/PackageSlideShow.ycp:330
+#, ycp-format
+msgid "Next: %1"
+msgstr "下一个：%1"
+
+#. List column header for total remaining MB and time to install
+#: src/modules/PackageSlideShow.ycp:910
+msgid "Total"
+msgstr "总数"
+
+#. message in the installatino log, %1 is package name,
+#. %2 is package size
+#: src/modules/PackageSlideShow.ycp:1015 src/modules/PackageSlideShow.ycp:1252
+#: src/modules/PackageSlideShow.ycp:1296
+#, ycp-format
+msgid "Downloading %1 (download size %2)"
+msgstr "正在下载 %1（下载大小 %2）"
+
+#: src/modules/PackageSlideShow.ycp:1035
+#, ycp-format
+msgid " (Remaining: %1%2 packages)"
+msgstr "（还剩：%1%2 软件包）"
+
+#. display download progress in DownloadInAdvance mode
+#. translations: progress message (part1)
+#: src/modules/PackageSlideShow.ycp:1057
+msgid "Downloading Packages..."
+msgstr "正在下载软件包..."
+
+#. progress message (part2)
+#: src/modules/PackageSlideShow.ycp:1059
+#, ycp-format
+msgid " (Downloaded %1 of %2 packages)"
+msgstr " （已下载 %1/%2 个软件包)"
+
+#. Heading for the progress bar for the current package
+#. while it is deleted. "%1" is the package name.
+#: src/modules/PackageSlideShow.ycp:1202
+#, ycp-format
+msgid "Deleting %1"
+msgstr "正在删除 %1"
+
+#. package installation - summary text
+#. %1 is RPM name, %2 is installed (unpacked) size (e.g. 6.20MB)
+#: src/modules/PackageSlideShow.ycp:1210
+#, ycp-format
+msgid "Installing %1 (installed size %2)"
+msgstr "正在安装 %1（安装后大小 %2）"
+
+#: src/modules/PackageSlideShow.ycp:1281
+#, ycp-format
+msgid "Applying delta RPM: %1"
+msgstr "正在应用增量 RPM：%1"
+
+#. warning text
+#: src/modules/Packages.ycp:288
+msgid "Your computer is a 64-bit x86-64 system, but you are trying to install a 32-bit distribution."
+msgstr "您的计算机是 64 位 x86-64 系统。但是您正试图安装 32 位发行版。"
+
+#. help text for software proposal
+#: src/modules/Packages.ycp:301
+msgid "<P>The pattern list states which functionality will be available after installing the system.</P>"
+msgstr "<P>该集合列表表明在安装系统后可用哪些功能。</P>"
+
+#. (see bnc#178357 why these numbers)
+#. translators: help text for software proposal
+#: src/modules/Packages.ycp:309
+msgid "<P>The proposal reports the total size of files which will be installed to the system. However, the system will contain some other files (temporary and working files) so the used space will be slightly larger than the proposed value. Therefore it is a good idea to have at least 25% (or about 300MB) free space before starting the installation.</P>"
+msgstr "<P>建议方案报告了将安装到系统的总大小。然而，系统将包含一些其他文件 (缓存和工作文件) 因此使用中的空间可能稍微比建议的值大一些。因此最好至少在启动安装前有最少 25% (或大约 300 MB) 的自由空间。<P>"
+
+#. help text for software proposal
+#: src/modules/Packages.ycp:311
+msgid ""
+"<P>The total 'size to download' is the size of the packages which will be\n"
+"downloaded from remote (network) repositories. This value is important if the connection is slow or if there is a data limit for downloading.</P>\n"
+msgstr ""
+"<P>总「下载大小」是指从远程（网络）软件仓库中下载软件包的大小。\n"
+"当网速慢或有数据流量限制的时候，此数值非常重要。</P>\n"
+
+#. help text for software proposal - header
+#: src/modules/Packages.ycp:321
+msgid "<P><B>Software Proposal</B></P>"
+msgstr "<P><B>软件安装建议</B></P>"
+
+#. installation proposal - SW summary, %1 is name of the installed product
+#. (e.g. openSUSE 10.3, SUSE Linux Enterprise ...)
+#: src/modules/Packages.ycp:338
+#, ycp-format
+msgid "Product: %1"
+msgstr "产品：%1"
+
+#. installation proposal - SW summary, %1 is name of the selected desktop or system type (e.g. KDE)
+#: src/modules/Packages.ycp:346
+#, ycp-format
+msgid "System Type: %1"
+msgstr "系统类型：%1"
+
+#: src/modules/Packages.ycp:356
+msgid "Patterns:<br>"
+msgstr "集合：<br>"
+
+#. installation proposal - SW summary, %1 is size of the selected packages (in MB or GB)
+#: src/modules/Packages.ycp:364
+#, ycp-format
+msgid "Size of Packages to Install: %1"
+msgstr "要安装的包大小：%1"
+
+#. installation proposal - SW summary, %1 is download size of the selected packages
+#. which will be installed from an ftp or http repository (in MB or GB)
+#: src/modules/Packages.ycp:374
+#, ycp-format
+msgid "Downloading from Remote Repositories: %1"
+msgstr "正在从远程软件仓库中下载：%1"
+
+#: src/modules/Packages.ycp:429
+#, ycp-format
+msgid "These add-on products have been marked for auto-removal: %1"
+msgstr "这些附加产品被标记为将自动移除：%1"
+
+#. Warning message when some add-ons are marked to be removed automatically
+#: src/modules/Packages.ycp:441
+msgid "Contact the vendors of these add-ons to provide you with new installation media."
+msgstr "请联系这些附加产品的提供者为您提供新的安装介质。"
+
+#. Warning message when some add-ons are marked to be removed automatically
+#: src/modules/Packages.ycp:444
+msgid "Contact the vendor of the add-on to provide you with a new installation media."
+msgstr "请联系这些附加产品的提供者为您提供新的安装介质。"
+
+#. error message: %1: e.g. "/usr", %2: "/dev/sda2"
+#: src/modules/Packages.ycp:469
+#, ycp-format
+msgid "Error: Cannot check free space in basic directory %1 (device %2), cannot start installation."
+msgstr "错误：不能检查基础目录 %1 (设备 %2) 中的空余空间，不能启动安装。"
+
+#. error message: %1: e.g. "/local", %2: "/dev/sda2"
+#: src/modules/Packages.ycp:481
+#, ycp-format
+msgid "Warning: Cannot check free space in directory %1 (device %2)."
+msgstr "警告：不能检查目录 %1 (设备 %2) 中的空余空间。"
+
+#. summary warning
+#: src/modules/Packages.ycp:520
+msgid "Not enough disk space."
+msgstr "磁盘空间不够。"
+
+#. summary warning
+#: src/modules/Packages.ycp:522
+msgid "Not enough disk space. Remove some packages in the single selection."
+msgstr "磁盘空间不足。请去除单一选择内容中的某些包。"
+
+#: src/modules/Packages.ycp:548
+#, ycp-format
+msgid "Only %1 (%2%%) free space available on partition %3.<BR>"
+msgstr "分区 %3 上只有 %1 (%2%%) 的可用空间。<BR>"
+
+#. error in proposal, %1 is URL
+#: src/modules/Packages.ycp:1127
+#, ycp-format
+msgid "No repository found at '%1'."
+msgstr "在“%1”找不到软件仓库。"
+
+#. TRANSLATORS: beginning of the rich text with the release notes
+#: src/modules/Packages.ycp:1350
+msgid ""
+"<p><b>The release notes for the initial release are part of the installation\n"
+"media. If an Internet connection is available during configuration, you can\n"
+"download updated release notes from the SUSE Linux Web server.</b></p>\n"
+msgstr ""
+"<p><b>以下是为首次发布编写的发布说明。它们是安装介质的一部分。\n"
+"安装期间，如果因特网连接可用，\n"
+"则您可以从 SUSE Linux 万维网服务器下载\n"
+"最新的发布说明。</b></p>\n"
+
+#. popup - information label
+#: src/modules/Packages.ycp:1368
+msgid "Integrating booted media..."
+msgstr "正在集成引导的介质..."
+
+#: src/modules/Packages.ycp:1386
+msgid "Failed to integrate the service pack repository."
+msgstr "无法集成服务包仓库。"
+
+#. popup - information label
+#: src/modules/Packages.ycp:1417
+msgid "Initializing repositories..."
+msgstr "正在初始化软件源..."
+
+#. message popup, %1 is product name
+#: src/modules/Packages.ycp:1602
+#, ycp-format
+msgid "Insert %1 CD 1"
+msgstr "插入 %1 CD 1"
+
+#: src/modules/Packages.ycp:1604
+#, ycp-format
+msgid "%1 CD 1 not found"
+msgstr "%1 CD 1 没找到"
+
+#. an error message
+#: src/modules/Packages.ycp:1713
+#, ycp-format
+msgid ""
+"Error while initializing package descriptions.\n"
+"Check the log file %1 for more details."
+msgstr ""
+"初始化包描述时出错。\n"
+"有关细节，请查看日志文件 %1。"
+
+#. bnc #436925
+#: src/modules/Packages.ycp:1932
+msgid ""
+"The software selection has been changed externally.\n"
+"Software proposal will be called again."
+msgstr ""
+"软件选择被外部变更了。\n"
+"软件安装建议将会被再次呼出。"
+
+#. popup label
+#: src/modules/Packages.ycp:1951
+msgid "Evaluating package selection..."
+msgstr "正在评估包选择..."
+
+#: src/modules/ProductLicense.ycp:157 src/modules/ProductLicense.ycp:161
+#, ycp-format
+msgid "Cannot read license file %1"
+msgstr "无法读取协议许可文件 %1"
+
+#: src/modules/ProductLicense.ycp:158
+msgid "To show the product license properly, put the license.tar.gz file to the root of the live media when building the image."
+msgstr "要正确显示产品协议，在构建映像时把 license.tar.gz 文件放到 live 媒体的根目录。"
+
+#. combo box
+#: src/modules/ProductLicense.ycp:267
+msgid "&Language"
+msgstr "语言(&L)"
+
+#. radio button
+#: src/modules/ProductLicense.ycp:315
+msgid "&Yes, I Agree to the License Agreement"
+msgstr "是，我接受许可协议(&Y)"
+
+#. radio button
+#: src/modules/ProductLicense.ycp:320
+msgid "N&o, I Do not Agree"
+msgstr "否，我不同意(&O)"
+
+#. TRANSLATORS: addition license information
+#. %1 is replaced with the filename
+#: src/modules/ProductLicense.ycp:352
+#, ycp-format
+msgid ""
+"If you want to print this EULA, you can find it\n"
+"on the first media in the file %1"
+msgstr ""
+"如果您想打印此最终用户许可协议，您可以在\n"
+"第一个介质的文件 %1 找到。"
+
+#. help text
+#: src/modules/ProductLicense.ycp:367
+msgid ""
+"<p>Read the license agreement carefully and select\n"
+"one of the available options. If you do not agree to the license agreement,\n"
+"the configuration will be aborted.</p>\n"
+msgstr ""
+"<p>请仔细阅读许可协议，然后选择\n"
+"可用选项之一。如果您不同意该许可协议，\n"
+"配置将中止。</p>\n"
+
+#. dialog caption
+#: src/modules/ProductLicense.ycp:379 src/modules/ProductLicense.ycp:1123
+msgid "License Agreement"
+msgstr "许可协议"
+
+#. popup question
+#: src/modules/ProductLicense.ycp:910
+msgid "Really abort the add-on product installation?"
+msgstr "确实要中止附加产品的安装吗？"
+
+#. text asking whether to refuse a license (Yes-No popup)
+#: src/modules/ProductLicense.ycp:930
+msgid ""
+"Refusing the license agreement cancels the installation.\n"
+"Really refuse the agreement?"
+msgstr ""
+"拒绝许可协议就会取消安装。\n"
+"确实拒绝协议吗？"
+
+#. text asking whether to refuse a license (Yes-No popup)
+#: src/modules/ProductLicense.ycp:933
+msgid ""
+"Refusing the license agreement cancels the add-on\n"
+"product installation. Really refuse the agreement?"
+msgstr ""
+"拒绝此许可协议将取消附加产品的安装。\n"
+"您确定要拒绝协议么？"
+
+#. timed ok/cancel popup
+#: src/modules/ProductLicense.ycp:957
+msgid "The system is shutting down..."
+msgstr "系统正在关闭..."
+
+#. popup yes-no
+#: src/modules/SlideShowCallbacks.ycp:51
+msgid ""
+"Do you really want\n"
+"to quit the installation?"
+msgstr ""
+"是否确实要\n"
+"退出安装？"
+
+#: src/modules/SlideShowCallbacks.ycp:67
+msgid "Aborted"
+msgstr "已中止"
+
+#. message in the installation log widget, %1 is a patch name which contains the script
+#: src/modules/SlideShowCallbacks.ycp:148
+#, ycp-format
+msgid "Starting script %1"
+msgstr "正在启动脚本 %1"
+
+#. label, %1 is patch name with version and architecture
+#: src/modules/SlideShowCallbacks.ycp:199
+#, ycp-format
+msgid ""
+"Patch %1\n"
+"\n"
+msgstr ""
+"补丁 %1\n"
+"\n"
+
+#. warning popup - %1 is directory name (e.g. /boot)
+#: src/modules/SlideShowCallbacks.ycp:328
+#, ycp-format
+msgid ""
+"The disk space in partition %1 is nearly exhausted.\n"
+"Continue with the installation?"
+msgstr ""
+"磁盘分区 %1 的空间几乎用完。\n"
+"是否继续安装？"
+
+#. yes-no popup
+#: src/modules/SlideShowCallbacks.ycp:355
+msgid ""
+"The disk space is nearly exhausted.\n"
+"Continue with the installation?"
+msgstr ""
+"磁盘空间几乎用完。\n"
+"是否继续安装？"
+
+#: src/modules/SlideShowCallbacks.ycp:445
+#, ycp-format
+msgid "Downloading delta RPM %1 (download size %2)"
+msgstr "正在下载增量 RPM %1（下载大小 %2）"
+
+#: src/modules/SlideShowCallbacks.ycp:460
+#, ycp-format
+msgid "Downloading patch RPM %1 (download size %2)"
+msgstr "正在下载补丁 RPM %1（下载大小 %2）"
+
+#. error in installation log, %1 is detail error description
+#: src/modules/SlideShowCallbacks.ycp:480
+#, ycp-format
+msgid "Failed to download delta RPM: %1"
+msgstr "下载增量 RPM 失败：%1"
+
+#. error in installation log, %1 is detail error description
+#: src/modules/SlideShowCallbacks.ycp:485
+#, ycp-format
+msgid "Failed to apply delta RPM: %1"
+msgstr "应用增量 RPM 失败：%1"
+
+#. error in installation log, %1 is detail error description
+#: src/modules/SlideShowCallbacks.ycp:490
+#, ycp-format
+msgid "Failed to download patch RPM: %1"
+msgstr "下载补丁 RPM 失败：%1"
+
+#. *
+#. * Help text suffix for some types of the media
+#.
+#: src/modules/SourceDialogs.ycp:68
+msgid ""
+"<p>If the location is a file holding an ISO image\n"
+"of the media, set <b>ISO Image</b>.</p>"
+msgstr ""
+"<p>如果该位置是保存介质的 ISO \n"
+"映像的文件，请设置 <b>ISO 映像</b>。</p>"
+
+#. *
+#. * Help text suffix for some types of the media
+#.
+#: src/modules/SourceDialogs.ycp:74
+msgid ""
+"<p>If the repository is on multiple media,\n"
+"set the location of the first media of the set.</p>\n"
+msgstr ""
+"<p>如果该软件仓库在多个介质上，\n"
+"请设置该组的第一个介质的位置。</p>\n"
+
+#. popup message
+#: src/modules/SourceDialogs.ycp:306
+msgid "The name of the repository cannot be empty."
+msgstr "软件源名称不能为空。"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:320
+msgid "&Repository Name"
+msgstr "软件源名称(&R)"
+
+#. help text
+#: src/modules/SourceDialogs.ycp:329
+msgid ""
+"<p><big><b>Repository Name</b></big><br>\n"
+"Use <b>Repository Name</b> to specify the name of the repository. If it is empty, YaST will use the product name (if available) or the URL as the name.</p>\n"
+msgstr ""
+"<p><big><b>软件源名称</b></big><br>\n"
+"使用<b>软件源名称</b>指定软件源名称。如果名称为空，YaST 将会使用产品名(如果有的话)或者 URL 作为名称。</p>\n"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:342
+msgid "&Service Name"
+msgstr "服务名称(&S)"
+
+#. help text
+#: src/modules/SourceDialogs.ycp:346
+msgid ""
+"<p><big><b>Service Name</b></big><br>\n"
+"Use <b>Service Name</b> to specify the name of the service. If it is empty, YaST will use part of the service URL as the name.</p>\n"
+msgstr ""
+"<p><big><b>服务名称</b></big><br>\n"
+"使用<b>服务名称</b>指定服务名。如果名称为空，YaST 将会使用服务 URL 的一部分作为其名称。</p>\n"
+
+#. popup message
+#: src/modules/SourceDialogs.ycp:379
+msgid "URL cannot be empty."
+msgstr "URL 不能为空。"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:394
+msgid "&URL"
+msgstr "URL(&U)"
+
+#. help text
+#: src/modules/SourceDialogs.ycp:401
+msgid ""
+"<p><big><b>Repository URL</b></big><br>\n"
+"Use <b>URL</b> to specify the URL of the repository.</p>"
+msgstr ""
+"<p><big><b>软件仓库 URL</b></big><br>\n"
+"请使用 <b>URL</b> 指定软件仓库的 URL。<p>"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:412
+msgid "&Server Name"
+msgstr "服务器名(&S)"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:420 src/modules/SourceDialogs.ycp:1436
+msgid "&Path to Directory or ISO Image"
+msgstr "到目录或 ISO 映像的路径(&P)"
+
+#. checkbox label
+#: src/modules/SourceDialogs.ycp:427
+msgid "&ISO Image"
+msgstr "ISO 映像(&I)"
+
+#. checkbox label
+#: src/modules/SourceDialogs.ycp:429
+msgid "N&FS v4 Protocol"
+msgstr "NFS v4 协议(&F)"
+
+#: src/modules/SourceDialogs.ycp:432
+msgid "URL of the Repository"
+msgstr "软件仓库的 URL"
+
+#: src/modules/SourceDialogs.ycp:598 src/modules/SourceDialogs.ycp:1676
+msgid "Edit Parts of the URL"
+msgstr "编辑部分 URL"
+
+#: src/modules/SourceDialogs.ycp:600 src/modules/SourceDialogs.ycp:1678
+msgid "Edit Complete URL"
+msgstr "编辑完整的 URL"
+
+#. help text
+#: src/modules/SourceDialogs.ycp:609
+msgid ""
+"<p><big><b>NFS Server</b></big><br>\n"
+"Use <b>Server Name</b> and <b>Path to Directory or ISO Image</b>\n"
+"to specify the NFS server host name and path on the server.</p>"
+msgstr ""
+"<p><big><b>NFS 服务器</b></big><br>\n"
+"用<b>服务器名称</b>和<b>目录或 ISO 映象的路径</b>\n"
+"指定 NFS 服务器主机名称和服务器上的路径。<p>"
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:658
+msgid "&CD-ROM"
+msgstr "CD-ROM(&C)"
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:660
+msgid "&DVD-ROM"
+msgstr "DVD-ROM(&D)"
+
+#: src/modules/SourceDialogs.ycp:664
+msgid ""
+"<p><big><b>CD or DVD Media</b></big><br>\n"
+"Set <b>CD-ROM</b> or <b>DVD-ROM</b> to specify the type of media.</p>"
+msgstr ""
+"<p><big><b>CD 或 DVD 介质</b></big><br>\n"
+"设置 <b>CD-ROM</b> 或 <b>DVD-ROM</b> 指定介质类型。</p>"
+
+#. dialog caption
+#. label / dialog caption
+#: src/modules/SourceDialogs.ycp:739 src/modules/SourceDialogs.ycp:2112
+msgid "Local Directory"
+msgstr "本地目录"
+
+#. dialog caption
+#: src/modules/SourceDialogs.ycp:758
+msgid "ISO Image File"
+msgstr "ISO 映像文件"
+
+#. error popup - the entered path is not a directory
+#: src/modules/SourceDialogs.ycp:784
+msgid ""
+"The entered path is not a directory\n"
+"or the directory does not exist.\n"
+msgstr ""
+"输入的路径不是一个目录，\n"
+"或者目录不存在。\n"
+
+#. error popup - the entered path is not a regular file
+#: src/modules/SourceDialogs.ycp:813
+msgid ""
+"The entered path is not a file\n"
+"or the file does not exist.\n"
+msgstr ""
+"输入的路径不是一个文件，\n"
+"或者文件不存在。\n"
+
+#. continue/cancel popup, %1 is a file name
+#: src/modules/SourceDialogs.ycp:838
+#, ycp-format
+msgid ""
+"File '%1'\n"
+"does not seem to be an ISO image.\n"
+"Use it anyway?\n"
+msgstr ""
+"文件“%1”\n"
+"好像不是一个 ISO 映像。\n"
+"还是要使用它吗？\n"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:857
+msgid "&Path to Directory"
+msgstr "目录路径(&P)"
+
+#. checkbox label
+#: src/modules/SourceDialogs.ycp:865 src/modules/SourceDialogs.ycp:1103
+#: src/modules/SourceDialogs.ycp:1174
+msgid "&Plain RPM Directory"
+msgstr "纯 RPM 目录(&P)"
+
+#: src/modules/SourceDialogs.ycp:873
+msgid ""
+"<p><big><b>Local Directory</b></big><br>\n"
+"Use <b>Path to Directory</b> to specify the path to the\n"
+"directory. If the directory contains only RPM packages without\n"
+"any metadata (i.e. there is no product information), then check option\n"
+"<b>Plain RPM Directory</b>.</p>\n"
+msgstr ""
+"<p><big><b>本地目录</b></big><br>\n"
+"用<b>目录的路径</b>指定目录路径。\n"
+"如果目录中只有 RPM 包，而没有元信息\n"
+"(比如，没有产品信息)，那就选中\n"
+"<b>纯 RPM 目录</b>。</p>\n"
+
+#. combobox title
+#. `opt(`hstretch),
+#: src/modules/SourceDialogs.ycp:1098
+msgid "&USB Mass Storage Device"
+msgstr "USB大容量储存设备(&U)"
+
+#: src/modules/SourceDialogs.ycp:1101 src/modules/SourceDialogs.ycp:1172
+msgid "&File System"
+msgstr "文件系统(&F)"
+
+#: src/modules/SourceDialogs.ycp:1102 src/modules/SourceDialogs.ycp:1173
+msgid "Dire&ctory"
+msgstr "目录(&c)"
+
+#: src/modules/SourceDialogs.ycp:1107
+msgid ""
+"<p><big><b>USB Stick or Disk</b></big><br>\n"
+"Select the USB device on which the repository is located.\n"
+"Use <b>Path to Directory</b> to specify the directory of the repository.\n"
+"If the path is omitted, the system will use the root directory of the disk.\n"
+"If the directory contains only RPM packages without\n"
+"any metadata (i.e. there is no product information), then check option\n"
+"<b>Plain RPM Directory</b>.</p>\n"
+msgstr ""
+"<p><big><b>USB 记忆棒或磁盘</b></big><br>\n"
+"选择软件仓库所在的 USB 设备。\n"
+"使用<b>目录路径</b>指定软件仓库的目录。\n"
+"如果路径被省略，系统将使用磁盘根目录。\n"
+"如果目录仅仅包含 RPM 而无元数据\n"
+"（如，无产品信息）则勾选\n"
+"<b>纯 RPM 目录</b>。</p>\n"
+
+#. 'auto' is a value in the combo box widget, do not translate it!
+#: src/modules/SourceDialogs.ycp:1117 src/modules/SourceDialogs.ycp:1188
+msgid ""
+"<p>The file system used on the device will be detected automatically\n"
+"if you select file system 'auto'. If the detection fails or you\n"
+"want to use a certain file system, select it from the list.</p>\n"
+msgstr ""
+"<p>如果选择文件系统 'auto'，将自动检测设备使用的文件系统。\n"
+"如果检测失败，或者您希望使用一个特定的文件系统,\n"
+"那么请从列表中选择。</p>\n"
+
+#. combobox title
+#: src/modules/SourceDialogs.ycp:1171
+msgid "&Disk Device"
+msgstr "磁盘设备(&D)"
+
+#: src/modules/SourceDialogs.ycp:1178
+msgid ""
+"<p><big><b>Disk</b></big><br>\n"
+"Select the disk on which the repository is located.\n"
+"Use <b>Path to Directory</b> to specify the directory of the repository.\n"
+"If the path is omitted, the system will use the root directory of the disk.\n"
+"If the directory contains only RPM packages without\n"
+"any metadata (i.e. there is no product information), then check option\n"
+"<b>Plain RPM Directory</b>.</p>\n"
+msgstr ""
+"<p><big><b>磁盘</b></big><br>\n"
+"选择软件仓库所在的磁盘。\n"
+"使用<b>目录路径</b>指定软件仓库的目录。\n"
+"如果路径被省略，系统将使用磁盘根目录。\n"
+"如果目录仅仅包含 RPM 而无元数据\n"
+"（如，无产品信息）则勾选\n"
+"<b>纯 RPM 目录</b>。</p>\n"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:1205
+msgid "&Path to ISO Image"
+msgstr "ISO 映像路径(&P)"
+
+#: src/modules/SourceDialogs.ycp:1219
+msgid ""
+"<p><big><b>Local ISO Image</b></big><br>\n"
+"Use <b>Path to ISO Image</b> to specify the path to the\n"
+"ISO image file.</p>"
+msgstr ""
+"<p><big><b>本地 ISO 映像</b></big><br>\n"
+"用<b>ISO 映像路径</b>指定包含安装介质的 ISO 映像\n"
+"文件的路径。</p>"
+
+#. frame
+#: src/modules/SourceDialogs.ycp:1252
+msgid "P&rotocol"
+msgstr "协议(&R)"
+
+#. input field label
+#: src/modules/SourceDialogs.ycp:1261
+msgid "&URL of the Repository"
+msgstr "软件仓库的 URL(&U)"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:1423
+msgid "Server &Name"
+msgstr "服务器名(&N)"
+
+#: src/modules/SourceDialogs.ycp:1425
+msgid "&Port"
+msgstr "端口(&P)"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:1429
+msgid "&Share"
+msgstr "共享(&S)"
+
+#. checkbox label
+#: src/modules/SourceDialogs.ycp:1439
+msgid "ISO &Image"
+msgstr "ISO 映像(&I)"
+
+#. text entry
+#: src/modules/SourceDialogs.ycp:1442
+msgid "&Directory on Server"
+msgstr "服务器上的目录(&D)"
+
+#. frame
+#: src/modules/SourceDialogs.ycp:1446
+msgid "Au&thentication"
+msgstr "验证(&T)"
+
+#. check box
+#: src/modules/SourceDialogs.ycp:1449
+msgid "&Anonymous"
+msgstr "匿名(&A)"
+
+#: src/modules/SourceDialogs.ycp:1453
+msgid "&Workgroup or Domain"
+msgstr "工作组或域(&W)"
+
+#: src/modules/SourceDialogs.ycp:1458
+msgid "&User Name"
+msgstr "用户名(&U)"
+
+#. password entry
+#: src/modules/SourceDialogs.ycp:1460
+msgid "&Password"
+msgstr "密码(&P)"
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1538
+msgid "&FTP"
+msgstr "FTP(&F)"
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1541
+msgid "H&TTP"
+msgstr "HTTP(&T)"
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1548
+msgid "HTT&PS"
+msgstr "HTTPS(&P)"
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1554 src/modules/SourceDialogs.ycp:1779
+msgid "&SMB/CIFS"
+msgstr "SMB/CIFS(&S)"
+
+#. help text - server dialog
+#: src/modules/SourceDialogs.ycp:1690
+msgid ""
+"<p><big><b>Server and Directory</b></big><br>\n"
+"Use <b>Server Name</b> and <b>Path to Directory or ISO Image</b>\n"
+"to specify the NFS server host name and path on the server.\n"
+"To enable authentication, uncheck <b>Anonymous</b> and specify the\n"
+"<b>User Name</b> and the <b>Password</b>.</p>\n"
+"<p>\n"
+"For the SMB/CIFS repository, specify <b>Share</b> name and <b>Path to Directory\n"
+"or ISO Image</b>. \n"
+"If the location is a file holding an ISO image\n"
+"of the media, set <b>ISO Image</b>.</p>\n"
+msgstr ""
+"<p><big><b>服务器和目录</b></big><br>\n"
+"用<b>服务器名称</b>和<b>目录或 ISO 映像的路径</b>\n"
+"指定 NFS 服务器主机名和在服务器上的路径。\n"
+"要启用认证，取消选择<b>匿名</b>并指定\n"
+"<b>用户名</b>和<b>密码</b>。<p>\n"
+"<p>\n"
+"对 SMB/CIFS 软件仓库，请指定<b>共享</b>名和<b>目录\n"
+"或 ISO 映像的路径</b>。\n"
+"如果位置是包含介质的 ISO 映像\n"
+"的文件，请设置 <b>ISO 映像</b>。</p>\n"
+
+#. help text - server dialog, there is a "Port" widget
+#: src/modules/SourceDialogs.ycp:1702
+msgid ""
+"<p>It is possible to set the <b>Port</b> number for a HTTP/HTTPS repository.\n"
+"Leave it empty to use the default port.</p>\n"
+msgstr ""
+"<p>可以为一个 HTTP/HTTPS 软件仓库设置<b>端口</b>号。\n"
+"将它留空会使用默认端口。</p>\n"
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1760
+msgid "&Scan Using SLP..."
+msgstr "使用 SLP 扫描(&S)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1764
+msgid "Commun&ity Repositories"
+msgstr "社区软件仓库(&I)"
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1770 src/modules/SourceDialogs.ycp:1810
+msgid "Specify &URL..."
+msgstr "指定 URL(&U)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1773
+msgid "&FTP..."
+msgstr "FTP(&F)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1775
+msgid "&HTTP..."
+msgstr "HTTP(&H)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1777
+msgid "HTT&PS..."
+msgstr "HTTPS(&P)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1781
+msgid "&NFS..."
+msgstr "NFS(&N)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1783 src/modules/SourceDialogs.ycp:1813
+msgid "&CD..."
+msgstr "CD(&C)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1785 src/modules/SourceDialogs.ycp:1815
+msgid "&DVD..."
+msgstr "DVD(&D)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1787 src/modules/SourceDialogs.ycp:1817
+msgid "&Hard Disk..."
+msgstr "硬盘(&H)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1789
+msgid "&USB Mass Storage (USB Stick, Disk)..."
+msgstr "&USB 大容量存储(USB 记忆棒、磁盘)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1791 src/modules/SourceDialogs.ycp:1821
+msgid "&Local Directory..."
+msgstr "本地目录(&L)..."
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1793 src/modules/SourceDialogs.ycp:1823
+msgid "&Local ISO Image..."
+msgstr "本地 ISO 映像(&L)..."
+
+#: src/modules/SourceDialogs.ycp:1797 src/modules/SourceDialogs.ycp:1827
+msgid "&Download repository description files"
+msgstr "下载软件仓库描述文件(&D)"
+
+#. radio button
+#: src/modules/SourceDialogs.ycp:1819
+msgid "&USB Stick or Disk..."
+msgstr "USB 记忆棒或磁盘(&U)..."
+
+#. help text
+#: src/modules/SourceDialogs.ycp:1852
+msgid ""
+"<p><big><b>Media Type</b></big><br>\n"
+"The software repository can be located on CD, on a network server,\n"
+"or on the hard disk.</p>"
+msgstr ""
+"<p><big><b>介质类型</b></big><br>\n"
+"软件仓库可位于 CD、网络服务器\n"
+"或硬盘上。</p>"
+
+#. help, continued
+#: src/modules/SourceDialogs.ycp:1857
+msgid ""
+"<p>\n"
+"To add  <b>CD</b> or <b>DVD</b>,\n"
+"have the product CD set or the DVD available.</p>"
+msgstr ""
+"<p>\n"
+"要添加 <b>CD</b> 或 <b>DVD</b>，\n"
+"请备好产品 CD 或 DVD。</p>"
+
+#. help, continued
+#: src/modules/SourceDialogs.ycp:1862
+msgid ""
+"<p>\n"
+"The product CDs can be copied to the hard disk.\n"
+"Enter the path to the first CD, for example, /data1/<b>CD1</b>.\n"
+"Only the base path is required if all CDs are copied\n"
+"into the same directory.</p>\n"
+msgstr ""
+"<p>\n"
+"可将产品 CD 复制到硬盘上。\n"
+"输入第一张 CD 所在的\n"
+"路径，例如 /data1/<b>CD1</b>。\n"
+"如果将所有 CD 都复制进一个目录，\n"
+"只需要基本路径。</p>\n"
+
+#. help, continued
+#: src/modules/SourceDialogs.ycp:1870
+msgid ""
+"<p>\n"
+"Network installation requires a working network connection.\n"
+"Specify the directory in which the packages from\n"
+"the first CD are located, such as /data1/CD1.</p>\n"
+msgstr ""
+"<p>\n"
+"网络安装需要有效的网络连接。\n"
+"指定第一张 CD 中的包所在的\n"
+"目录，例如 /data1/CD1。</p>\n"
+
+#. error popup
+#: src/modules/SourceDialogs.ycp:1883
+msgid "Select the media type"
+msgstr "选择介质类型"
+
+#: src/modules/SourceDialogs.ycp:1890
+msgid "Insert the add-on product CD"
+msgstr "插入附加产品 CD"
+
+#: src/modules/SourceDialogs.ycp:1891
+msgid "Insert the add-on product DVD"
+msgstr "插入附加产品 DVD"
+
+#: src/modules/SourceDialogs.ycp:1914
+msgid "No USB disk was detected."
+msgstr "未检测到 USB 磁盘。"
+
+#: src/modules/SourceDialogs.ycp:2039
+msgid ""
+"<p><b>Download Files</b><br>\n"
+"Each repository has description files which describe the content of the\n"
+"repository. Check <b>Download repository description files</b> to download the\n"
+"files when closing this YaST module. If the option is unchecked, YaST will\n"
+"automatically download the files when it needs them later. </p>\n"
+msgstr ""
+"<p><b>下载文件</b><br>\n"
+"每个软件仓库都有描述文件，以描述软件仓库的内容。\n"
+"勾选<b>下载软件仓库描述文件</b>将在 YaST 模块关闭的时候\n"
+"下载这些文件。不选该项，则 YaST 在之后需要这些文件时\n"
+"会自动下载。</p>\n"
+
+#. label / dialog caption
+#: src/modules/SourceDialogs.ycp:2100 src/modules/SourceManagerSLP.ycp:258
+msgid "Repository URL"
+msgstr "软件仓库 URL"
+
+#. label / dialog caption
+#: src/modules/SourceDialogs.ycp:2102
+msgid "NFS Server"
+msgstr "NFS 服务器"
+
+#. label / dialog caption
+#: src/modules/SourceDialogs.ycp:2104 src/modules/SourceDialogs.ycp:2106
+msgid "CD or DVD Media"
+msgstr "CD 或 DVD 介质"
+
+#. label / dialog caption
+#: src/modules/SourceDialogs.ycp:2108
+msgid "Hard Disk"
+msgstr "硬盘"
+
+#. label / dialog caption
+#: src/modules/SourceDialogs.ycp:2110
+msgid "USB Stick or Disk"
+msgstr "USB 记忆棒或磁盘"
+
+#. label / dialog caption
+#: src/modules/SourceDialogs.ycp:2114
+msgid "Local ISO Image"
+msgstr "本地 ISO 映像"
+
+#. label / dialog caption
+#: src/modules/SourceDialogs.ycp:2116 src/modules/SourceDialogs.ycp:2118
+#: src/modules/SourceDialogs.ycp:2120 src/modules/SourceDialogs.ycp:2122
+#: src/modules/SourceDialogs.ycp:2124
+msgid "Server and Directory"
+msgstr "服务器和目录"
+
+#. dialog caption
+#: src/modules/SourceDialogs.ycp:2300 src/modules/SourceDialogs.ycp:2322
+msgid "Media Type"
+msgstr "介质类型"
+
+#. SourceManager read dialog caption
+#: src/modules/SourceManager.ycp:116
+msgid "Initializing Available Repositories"
+msgstr "初始化可用的软件源"
+
+#. Progress stage 1/3
+#: src/modules/SourceManager.ycp:124
+msgid "Read configured repositories"
+msgstr "读取已配置的软件源"
+
+#. Progress stage 2/3
+#: src/modules/SourceManager.ycp:126
+msgid "Detect available repositories via SLP"
+msgstr "通过服务定位协议检测可用的软件仓库"
+
+#. Progress step 1/3
+#: src/modules/SourceManager.ycp:129
+msgid "Reading configured repositories..."
+msgstr "正在读取已配置的软件源..."
+
+#. Progress step 2/3
+#: src/modules/SourceManager.ycp:131
+msgid "Detecting available repositories..."
+msgstr "正在检测可用的软件仓库..."
+
+#. Progress finished
+#: src/modules/SourceManager.ycp:133 src/modules/SourceManager.ycp:215
+msgid "Finished"
+msgstr "已完成"
+
+#. Error message
+#: src/modules/SourceManager.ycp:144
+msgid "Cannot read repositories."
+msgstr "无法读取软件仓库。"
+
+#. Error message
+#: src/modules/SourceManager.ycp:152
+msgid "Cannot detect available repositories."
+msgstr "无法检测可用的软件仓库。"
+
+#. popup message header
+#: src/modules/SourceManager.ycp:174
+msgid "Unable to save changes to the repository.\n"
+msgstr "无法保存对软件源的更改。\n"
+
+#. SourceManager read dialog caption
+#: src/modules/SourceManager.ycp:202
+msgid "Saving Repository Configuration"
+msgstr "正在保存软件源配置"
+
+#. Progress stage 1/1
+#: src/modules/SourceManager.ycp:209
+msgid "Write repository settings"
+msgstr "写入软件源设置"
+
+#. Progress step 1/1
+#: src/modules/SourceManager.ycp:212
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#: src/modules/SourceManager.ycp:335
+msgid "Adding repository..."
+msgstr "正在添加软件源..."
+
+#. status info, to be used inside summary
+#: src/modules/SourceManager.ycp:448
+msgid "Disabled"
+msgstr "已禁用"
+
+#. translators: name of a repository if no other idenfication found
+#: src/modules/SourceManager.ycp:453
+msgid "unknown"
+msgstr "未知"
+
+#. corresponds to the "Enable/Disable" button
+#: src/modules/SourceManager.ycp:472
+msgid "On"
+msgstr "开"
+
+#. corresponds to the "Enable/Disable" button
+#: src/modules/SourceManager.ycp:474
+msgid "Off"
+msgstr "关"
+
+#. summary header
+#: src/modules/SourceManager.ycp:517
+msgid "Configured Repositories"
+msgstr "已配置的软件源"
+
+#: src/modules/SourceManager.ycp:726
+msgid "&Drive to eject"
+msgstr "要弹出的驱动器(&D)"
+
+#. translators: popup heading (progress popup)
+#: src/modules/SourceManagerSLP.ycp:48
+msgid "SLP Search"
+msgstr "通过服务定位协议搜索"
+
+#. progress information
+#: src/modules/SourceManagerSLP.ycp:52 src/modules/SourceManagerSLP.ycp:68
+msgid "Scanning network for installation services..."
+msgstr "正在扫描网络以发现安装服务..."
+
+#. frame label
+#: src/modules/SourceManagerSLP.ycp:83
+msgid "Filter Form"
+msgstr "过滤表单"
+
+#. translators: popup heading
+#: src/modules/SourceManagerSLP.ycp:115
+msgid "Choose SLP Repository"
+msgstr "选择 SLP 软件仓库"
+
+#. tree label (tree of available products)
+#: src/modules/SourceManagerSLP.ycp:124
+msgid "Available Installation &Products"
+msgstr "可用安装产品(&P)"
+
+#: src/modules/SourceManagerSLP.ycp:128
+msgid "&Details..."
+msgstr "细节(&D)..."
+
+#. error popup
+#. message popup
+#: src/modules/SourceManagerSLP.ycp:157 src/modules/SourceManagerSLP.ycp:163
+msgid "No details are available."
+msgstr "无细节可用。"
+
+#: src/modules/SourceManagerSLP.ycp:208
+msgid "Repository Details"
+msgstr "软件源细节"
+
+#. table header item
+#: src/modules/SourceManagerSLP.ycp:214
+msgid "Key"
+msgstr "键"
+
+#. table header item
+#: src/modules/SourceManagerSLP.ycp:216
+msgid "Value"
+msgstr "值"
+
+#. message popup
+#: src/modules/SourceManagerSLP.ycp:314
+msgid ""
+"Select one of the offered options.\n"
+"More repositories are available for this product.\n"
+msgstr ""
+"请选择提供的选项之一。\n"
+"本产品有更多软件仓库可用。\n"
+
+#. popup error
+#: src/modules/SourceManagerSLP.ycp:328
+msgid ""
+"An internal error occurred.\n"
+"The selected repository has no URL."
+msgstr ""
+"发生内部错误。\n"
+"选定的软件源没有 URL。"
+
+#. progress information, %1 stands for number of services
+#: src/modules/SourceManagerSLP.ycp:410
+#, ycp-format
+msgid "Collecting information of %1 services found..."
+msgstr "正在收集发现的 %1 服务的信息..."
+
+#. error popup
+#: src/modules/SourceManagerSLP.ycp:502
+msgid ""
+"No SLP repositories have been found on your network.\n"
+"This could be caused by a running SuSEfirewall2,\n"
+"which probably blocks the network scanning."
+msgstr ""
+"您的网络上没有发现 SLP 软件仓库。\n"
+"这可能是由于运行 SuSEfirewall2 引起的，\n"
+"它可能阻止了网络扫描。"
+
+#. error popup
+#: src/modules/SourceManagerSLP.ycp:509
+msgid "No SLP repositories have been found on your network."
+msgstr "您的网络上未找到 SLP 软件仓库。"
+
+#. Warning message, e.g.: Partition /usr needs 35 MB more disk space
+#: src/modules/SpaceCalculation.ycp:860
+#, ycp-format
+msgid "Partition \"%1\" needs %2 more disk space."
+msgstr "分区\"%1\" 需要 %2 更多磁盘空间。"
+
+#. popup message
+#: src/modules/SpaceCalculation.ycp:877
+msgid ""
+"Deselect packages or delete data or temporary files\n"
+"before updating the system.\n"
+msgstr ""
+"请在更新系统之前取消选择一些包或删除一些数据\n"
+"或临时文件。\n"
+
+#. popup message
+#: src/modules/SpaceCalculation.ycp:884
+msgid "Deselect some packages."
+msgstr "请取消选择一些软件包。"
+
+#. TRANSLATORS: package description item
+#: src/modules/WebpinPackageSearch.ycp:239
+msgid "No further information available."
+msgstr "没有更多可用信息。"
+
+#. TRANSLATORS: repository summary
+#: src/modules/WebpinPackageSearch.ycp:255
+msgid "Unknown repository"
+msgstr "未知软件源"
+
+#. TRANSLATORS: repositry description
+#: src/modules/WebpinPackageSearch.ycp:257
+msgid "No further information available, use at your own risk."
+msgstr "无更多信息，风险自负。"
+
+#. %1 is HTTP error code like 404 or 503
+#: src/modules/WebpinPackageSearch.ycp:364
+#, ycp-format
+msgid ""
+"Search failed.\n"
+"Remote server returned error code %1"
+msgstr ""
+"搜索失败。\n"
+"远程服务器返回错误代码 %1"
+
+#~ msgid ""
+#~ "<p>If you want one or more online repositories to be used,\n"
+#~ "select those you want and click <b>Next</b>.</p>\n"
+#~ msgstr ""
+#~ "<p>如果您希望使用一个或者更多在线软件安装源，\n"
+#~ "请选取您想要的并点击<b>下一步</b>。</p>\n"
+
+#~ msgid "Reading package information. One moment please..."
+#~ msgstr "正在读取包信息。请稍候..."
+
+#~ msgid "There was an error in the repository initialization."
+#~ msgstr "安装源初始化过程中发生错误。"
+
+#~ msgid "Search &In"
+#~ msgstr "搜索范围(&I)"
+
+#~ msgid ""
+#~ "<p><b>These are the release notes made for the first initial release. They are\n"
+#~ "part of the installation media. During the configuration steps, if a connection\n"
+#~ "to the Internet is available, you can download updated release notes\n"
+#~ "from the SUSE Linux Web server.</b></p>"
+#~ msgstr ""
+#~ "<p><b>这些是为第一次发行时编写的发行说明。\n"
+#~ "它们是安装介质的一部分。在安装期间，如果因特网\n"
+#~ "连接可用，则您可以从 SUSE Linux 万维网服务器下载\n"
+#~ "最新的发行说明。</b></p>"
+
+#~ msgid "Add-On Product Installation"
+#~ msgstr "附加产品安装"
+
+#~ msgid "Adding software that fits your system."
+#~ msgstr "正在添加适合您系统的软件。"
+
+#~ msgid "No package has been selected for installation."
+#~ msgstr "没有选择任何要安装的包。"
+
+#~ msgid ""
+#~ "The following packages will be installed:\n"
+#~ "\n"
+#~ "%1\n"
+#~ "\n"
+#~ "Continue installation?"
+#~ msgstr ""
+#~ "将安装以下软件包：\n"
+#~ "\n"
+#~ "%1\n"
+#~ "\n"
+#~ "继续安装吗？"
+
+#~ msgid "Selections:<br>"
+#~ msgstr "选择：<br>"
+
+#~ msgid "Medium"
+#~ msgstr "介质"
+
+#~ msgid "Next %1: %2 -- %3"
+#~ msgstr "下一个 %1：%2 -- %3"
+
+#~ msgid "Re&fresh Now"
+#~ msgstr "立即刷新(&F)"
+
+#~ msgid "Accept or decline the license agreement."
+#~ msgstr "接受或拒绝该许可协议。"
+
+#~ msgid ""
+#~ "Repository synchronization with ZMD failed.\n"
+#~ "Save changes anyway?"
+#~ msgstr ""
+#~ "与 ZMD 同步源失败。\n"
+#~ "是否要保存更改？"
+
+#~ msgid "Synchronize Changes with &ZENworks"
+#~ msgstr "与 ZENworks 同步更改(&Z)"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "<b>Synchronize Changes with ZENworks</b> will also call <tt>rug</tt>\n"
+#~ "to perform the changes in that package management system.</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "<b>与 ZENworks 同步更改</b>将调用 <tt>rug</tt>\n"
+#~ "以执行在包管理系统中的更改。</p>\n"
+
+#~ msgid " On "
+#~ msgstr " 开 "
+
+#~ msgid "Synchronizing with ZENworks"
+#~ msgstr "正在与 ZENworks 同步"
+
+#~ msgid "Your service was added successfully in YaST, but could not be synchronized with ZENworks."
+#~ msgstr "您的服务已使用 YaST 成功添加，但无法与 ZenWorks 同步。"
+
+#~ msgid "Your service was deleted successfully in YaST, but could not be synchronized with ZENworks."
+#~ msgstr "您的服务已使用 YaST 成功删除，但无法与 ZenWorks 同步。"
+
+#~ msgid "Command timed out after %1 milliseconds."
+#~ msgstr "%1 微秒后命令超时。"
+
+#~ msgid "Command timed out after %1 seconds."
+#~ msgstr "%1 秒后命令超时。"
+
+#~ msgid "Services"
+#~ msgstr "服务"
+
+#~ msgid "Repositories"
+#~ msgstr "安装源"

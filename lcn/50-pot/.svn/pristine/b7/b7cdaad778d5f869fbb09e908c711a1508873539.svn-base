@@ -1,0 +1,522 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop-translations 20120803\n"
+"POT-Creation-Date: 2012-08-03 10:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /usr/share/xsessions/icewm.desktop
+msgctxt "Comment(icewm.desktop)"
+msgid "A Windows 95-OS/2-Motif-like window manager"
+msgstr ""
+
+#: /etc/xdg/autostart/glipper-autostart.desktop
+msgctxt "Comment(glipper-autostart.desktop)"
+msgid "A clipboard history manager"
+msgstr ""
+
+#: /usr/share/xsessions/openbox.desktop
+msgctxt "Comment(openbox.desktop)"
+msgid "A lightweight window manager based on Blackbox"
+msgstr ""
+
+#: /usr/share/xsessions/fvwm2.desktop
+msgctxt "Comment(fvwm2.desktop)"
+msgid "A powerful ICCCM-compliant multiple virtual desktop window manager"
+msgstr ""
+
+#: /usr/share/xsessions/WindowMaker.desktop
+msgctxt "Comment(WindowMaker.desktop)"
+msgid "A simple window manager that resembles the NeXTStep look very closely"
+msgstr ""
+
+#: /etc/xdg/autostart/at-spi-registryd.desktop
+msgctxt "Name(at-spi-registryd.desktop)"
+msgid "AT SPI Registry"
+msgstr ""
+
+#: /etc/xdg/autostart/at-spi-dbus-bus.desktop
+msgctxt "Name(at-spi-dbus-bus.desktop)"
+msgid "AT-SPI D-Bus Bus"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-fallback-mount-helper.desktop
+msgctxt "Comment(gnome-fallback-mount-helper.desktop)"
+msgid "Automount and autorun plugged devices"
+msgstr ""
+
+#: /etc/xdg/autostart/deja-dup-monitor.desktop
+msgctxt "Name(deja-dup-monitor.desktop)"
+msgid "Backup Monitor"
+msgstr ""
+
+#: /etc/xdg/autostart/bluetooth-applet.desktop
+msgctxt "Name(bluetooth-applet.desktop)"
+msgid "Bluetooth Manager"
+msgstr ""
+
+#: /etc/xdg/autostart/bluetooth-applet.desktop
+msgctxt "Comment(bluetooth-applet.desktop)"
+msgid "Bluetooth Manager applet"
+msgstr ""
+
+#: /etc/xdg/autostart/evolution-alarm-notify.desktop
+msgctxt "Comment(evolution-alarm-notify.desktop)"
+msgid "Calendar event notifications"
+msgstr ""
+
+#: /etc/xdg/autostart/caribou-autostart.desktop
+msgctxt "Name(caribou-autostart.desktop)"
+msgid "Caribou"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-keyring-pkcs11.desktop
+msgctxt "Name(gnome-keyring-pkcs11.desktop)"
+msgid "Certificate and Key Storage"
+msgstr ""
+
+#: /etc/xdg/autostart/parcellite-startup.desktop
+msgctxt "Comment(parcellite-startup.desktop)"
+msgid "Clipboard Manager"
+msgstr ""
+
+#: /etc/xdg/autostart/parcellite-startup.desktop
+msgctxt "GenericName(parcellite-startup.desktop)"
+msgid "Clipboard Manager"
+msgstr ""
+
+#: /etc/xdg/autostart/xfce4-clipman-plugin-autostart.desktop
+msgctxt "Comment(xfce4-clipman-plugin-autostart.desktop)"
+msgid "Clipboard manager"
+msgstr ""
+
+#: /etc/xdg/autostart/xfce4-clipman-plugin-autostart.desktop
+msgctxt "Name(xfce4-clipman-plugin-autostart.desktop)"
+msgid "Clipman"
+msgstr ""
+
+#: /etc/xdg/autostart/tracker-miner-fs.desktop
+msgctxt "Comment(tracker-miner-fs.desktop)"
+msgid "Crawls and processes files on the file system"
+msgstr ""
+
+#: /etc/xdg/autostart/xfce4-volumed.desktop
+msgctxt "Comment(xfce4-volumed.desktop)"
+msgid ""
+"Daemon managing the volume multimedia keys and displaying volume "
+"notifications"
+msgstr ""
+
+#: /etc/xdg/autostart/vino-server.desktop
+msgctxt "Name(vino-server.desktop)"
+msgid "Desktop Sharing"
+msgstr ""
+
+#: /usr/share/xsessions/e16.desktop
+msgctxt "Name(e16.desktop)"
+msgid "E16"
+msgstr ""
+
+#: /etc/xdg/autostart/evolution-alarm-notify.desktop
+msgctxt "Name(evolution-alarm-notify.desktop)"
+msgid "Evolution Alarm Notify"
+msgstr ""
+
+#: /usr/share/xsessions/fvwm2.desktop
+msgctxt "Name(fvwm2.desktop)"
+msgid "FVWM"
+msgstr ""
+
+#: /etc/xdg/autostart/fcitx-autostart.desktop
+msgctxt "Name(fcitx-autostart.desktop)"
+msgid "Fcitx"
+msgstr ""
+
+#: /etc/xdg/autostart/tracker-miner-rss.desktop
+msgctxt "Comment(tracker-miner-rss.desktop)"
+msgid "Fetch RSS/ATOM feeds"
+msgstr ""
+
+#: /etc/xdg/autostart/restorecond.desktop
+msgctxt "Name(restorecond.desktop)"
+msgid "File Context maintainer"
+msgstr ""
+
+#: /etc/xdg/autostart/nautilus-autostart.desktop
+msgctxt "Name(nautilus-autostart.desktop)"
+msgid "Files"
+msgstr ""
+
+#: /etc/xdg/autostart/restorecond.desktop
+msgctxt "Comment(restorecond.desktop)"
+msgid "Fix file context in owned by the user"
+msgstr ""
+
+#: /usr/share/xsessions/gnome.desktop
+msgctxt "Name(gnome.desktop)"
+msgid "GNOME"
+msgstr ""
+
+#: /usr/share/xsessions/gnome2-look-and-feel.desktop
+msgctxt "Name(gnome2-look-and-feel.desktop)"
+msgid "GNOME 2 Look and Feel"
+msgstr ""
+
+#: /etc/xdg/autostart/vino-server.desktop
+msgctxt "Comment(vino-server.desktop)"
+msgid "GNOME Desktop Sharing Server"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-keyring-gpg.desktop
+msgctxt "Comment(gnome-keyring-gpg.desktop)"
+msgid "GNOME Keyring: GPG Agent"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-keyring-pkcs11.desktop
+msgctxt "Comment(gnome-keyring-pkcs11.desktop)"
+msgid "GNOME Keyring: PKCS#11 Component"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-keyring-ssh.desktop
+msgctxt "Comment(gnome-keyring-ssh.desktop)"
+msgid "GNOME Keyring: SSH Agent"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-keyring-secrets.desktop
+msgctxt "Comment(gnome-keyring-secrets.desktop)"
+msgid "GNOME Keyring: Secret Service"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-settings-daemon.desktop
+msgctxt "Name(gnome-settings-daemon.desktop)"
+msgid "GNOME Settings Daemon"
+msgstr ""
+
+#: /usr/share/xsessions/openbox-gnome.desktop
+msgctxt "Name(openbox-gnome.desktop)"
+msgid "GNOME/Openbox"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-keyring-gpg.desktop
+msgctxt "Name(gnome-keyring-gpg.desktop)"
+msgid "GPG Password Agent"
+msgstr ""
+
+#: /etc/xdg/autostart/gsettings-data-convert.desktop
+msgctxt "Name(gsettings-data-convert.desktop)"
+msgid "GSettings Data Conversion"
+msgstr ""
+
+#: /etc/xdg/autostart/glipper-autostart.desktop
+msgctxt "Name(glipper-autostart.desktop)"
+msgid "Glipper"
+msgstr ""
+
+#: /usr/share/xsessions/icewm.desktop
+msgctxt "Name(icewm.desktop)"
+msgid "IceWM"
+msgstr ""
+
+#: /etc/xdg/autostart/xfce4-notes-autostart.desktop
+msgctxt "Comment(xfce4-notes-autostart.desktop)"
+msgid "Ideal for your quick notes"
+msgstr ""
+
+#: /etc/xdg/autostart/fcitx-autostart.desktop
+msgctxt "Comment(fcitx-autostart.desktop)"
+msgid "Input Method"
+msgstr ""
+
+#: /usr/share/xsessions/openbox-kde.desktop
+msgctxt "Name(openbox-kde.desktop)"
+msgid "KDE/Openbox"
+msgstr ""
+
+#: /usr/share/xsessions/lxde.desktop
+msgctxt "Name(lxde.desktop)"
+msgid "LXDE"
+msgstr ""
+
+#: /usr/share/xsessions/lxde.desktop
+msgctxt "Comment(lxde.desktop)"
+msgid "LXDE - Lightweight X11 desktop environment"
+msgstr ""
+
+#: /etc/xdg/autostart/lxpolkit.desktop
+msgctxt "Name(lxpolkit.desktop)"
+msgid "LXPolKit"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-user-share.desktop
+msgctxt "Comment(gnome-user-share.desktop)"
+msgid "Launch Personal File Sharing if enabled"
+msgstr ""
+
+#: /etc/xdg/autostart/tracker-store.desktop
+msgctxt "Comment(tracker-store.desktop)"
+msgid "Metadata database store and lookup manager"
+msgstr ""
+
+#: /etc/xdg/autostart/gsettings-data-convert.desktop
+msgctxt "Comment(gsettings-data-convert.desktop)"
+msgid "Migrates user settings from GConf to dconf"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-fallback-mount-helper.desktop
+msgctxt "Name(gnome-fallback-mount-helper.desktop)"
+msgid "Mount Helper"
+msgstr ""
+
+#: /etc/xdg/autostart/xfce4-notes-autostart.desktop
+msgctxt "Name(xfce4-notes-autostart.desktop)"
+msgid "Notes"
+msgstr ""
+
+#: /etc/xdg/autostart/obexd-server.desktop
+msgctxt "Name(obexd-server.desktop)"
+msgid "Obexd Server"
+msgstr ""
+
+#: /etc/xdg/autostart/obexd-server.desktop
+msgctxt "Comment(obexd-server.desktop)"
+msgid "Obexd Server Daemon"
+msgstr ""
+
+#: /etc/xdg/autostart/pk-update-icon.desktop
+msgctxt "Comment(pk-update-icon.desktop)"
+msgid "PackageKit Update Applet"
+msgstr ""
+
+#: /etc/xdg/autostart/pk-update-icon.desktop
+msgctxt "Name(pk-update-icon.desktop)"
+msgid "PackageKit Update Applet"
+msgstr ""
+
+#: /etc/xdg/autostart/parcellite-startup.desktop
+msgctxt "Name(parcellite-startup.desktop)"
+msgid "Parcellite"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-user-share.desktop
+msgctxt "Name(gnome-user-share.desktop)"
+msgid "Personal File Sharing"
+msgstr ""
+
+#: /etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop
+msgctxt "Comment(polkit-gnome-authentication-agent-1.desktop)"
+msgid "PolicyKit Authentication Agent"
+msgstr ""
+
+#: /etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop
+msgctxt "Name(polkit-gnome-authentication-agent-1.desktop)"
+msgid "PolicyKit Authentication Agent"
+msgstr ""
+
+#: /etc/xdg/autostart/lxpolkit.desktop
+msgctxt "Comment(lxpolkit.desktop)"
+msgid "Policykit Authentication Agent"
+msgstr ""
+
+#: /etc/xdg/autostart/xfce4-power-manager.desktop
+msgctxt "Name(xfce4-power-manager.desktop)"
+msgid "Power Manager"
+msgstr ""
+
+#: /etc/xdg/autostart/xfce4-power-manager.desktop
+msgctxt "Comment(xfce4-power-manager.desktop)"
+msgid "Power management for the Xfce desktop"
+msgstr ""
+
+#: /etc/xdg/autostart/tracker-miner-flickr.desktop
+msgctxt "Comment(tracker-miner-flickr.desktop)"
+msgid "Processes images and albums on Flickr"
+msgstr ""
+
+#: /etc/xdg/autostart/pulseaudio.desktop
+msgctxt "Name(pulseaudio.desktop)"
+msgid "PulseAudio Sound System"
+msgstr ""
+
+#: /etc/xdg/autostart/pulseaudio-kde.desktop
+msgctxt "Name(pulseaudio-kde.desktop)"
+msgid "PulseAudio Sound System KDE Routing Policy"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-keyring-ssh.desktop
+msgctxt "Name(gnome-keyring-ssh.desktop)"
+msgid "SSH Key Agent"
+msgstr ""
+
+#: /etc/xdg/autostart/deja-dup-monitor.desktop
+msgctxt "Comment(deja-dup-monitor.desktop)"
+msgid "Schedules backups at regular intervals"
+msgstr ""
+
+#: /etc/xdg/autostart/seahorse-sharing.desktop
+msgctxt "Name(seahorse-sharing.desktop)"
+msgid "Seahorse Sharing Daemon"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-keyring-secrets.desktop
+msgctxt "Name(gnome-keyring-secrets.desktop)"
+msgid "Secret Storage Service"
+msgstr ""
+
+#: /etc/xdg/autostart/gsynaptics-init.desktop
+msgctxt "Comment(gsynaptics-init.desktop)"
+msgid "Set your touchpad preferences"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-sound-applet.desktop
+msgctxt "Comment(gnome-sound-applet.desktop)"
+msgid "Show desktop volume control"
+msgstr ""
+
+#: /etc/xdg/autostart/pulseaudio.desktop
+msgctxt "Comment(pulseaudio.desktop)"
+msgid "Start the PulseAudio Sound System"
+msgstr ""
+
+#: /etc/xdg/autostart/pulseaudio-kde.desktop
+msgctxt "Comment(pulseaudio-kde.desktop)"
+msgid "Start the PulseAudio Sound System with KDE Routing Policy"
+msgstr ""
+
+#: /etc/xdg/autostart/zeitgeist-datahub.desktop
+msgctxt "Comment(zeitgeist-datahub.desktop)"
+msgid "Start the Zeitgeist Datahub for passive loggers"
+msgstr ""
+
+#: /usr/share/xsessions/twm.desktop
+msgctxt "Name(twm.desktop)"
+msgid "TWM"
+msgstr ""
+
+#: /usr/share/xsessions/gnome.desktop
+msgctxt "Comment(gnome.desktop)"
+msgid ""
+"The GNU Network Object Model Environment. A complete, free and easy-to-use "
+"desktop environment"
+msgstr ""
+
+#: /usr/share/xsessions/gnome2-look-and-feel.desktop
+msgctxt "Comment(gnome2-look-and-feel.desktop)"
+msgid ""
+"The GNU Network Object Model Environment. A complete, free and easy-to-use "
+"desktop environment"
+msgstr ""
+
+#: /usr/share/xsessions/twm.desktop
+msgctxt "Comment(twm.desktop)"
+msgid "The Tab Window Manager"
+msgstr ""
+
+#: /etc/xdg/autostart/xfsettingsd.desktop
+msgctxt "Comment(xfsettingsd.desktop)"
+msgid "The Xfce Settings Daemon"
+msgstr ""
+
+#: /usr/share/xsessions/e16.desktop
+msgctxt "Comment(e16.desktop)"
+msgid "This session starts the Enlightenment (e16) window manager"
+msgstr ""
+
+#: /etc/xdg/autostart/gsynaptics-init.desktop
+msgctxt "Name(gsynaptics-init.desktop)"
+msgid "Touchpad"
+msgstr ""
+
+#: /etc/xdg/autostart/tracker-miner-fs.desktop
+msgctxt "Name(tracker-miner-fs.desktop)"
+msgid "Tracker File System Miner"
+msgstr ""
+
+#: /etc/xdg/autostart/tracker-miner-flickr.desktop
+msgctxt "Name(tracker-miner-flickr.desktop)"
+msgid "Tracker Miner for Flickr"
+msgstr ""
+
+#: /etc/xdg/autostart/tracker-miner-rss.desktop
+msgctxt "Name(tracker-miner-rss.desktop)"
+msgid "Tracker RSS/ATOM Feeds Miner"
+msgstr ""
+
+#: /etc/xdg/autostart/tracker-store.desktop
+msgctxt "Name(tracker-store.desktop)"
+msgid "Tracker Store"
+msgstr ""
+
+#: /etc/xdg/autostart/pk-update-icon.desktop
+msgctxt "GenericName(pk-update-icon.desktop)"
+msgid "Update Applet"
+msgstr ""
+
+#: /etc/xdg/autostart/user-dirs-update-gtk.desktop
+msgctxt "Comment(user-dirs-update-gtk.desktop)"
+msgid "Update common folders names to match current locale"
+msgstr ""
+
+#: /usr/share/xsessions/openbox-gnome.desktop
+msgctxt "Comment(openbox-gnome.desktop)"
+msgid "Use the Openbox window manager inside of the GNOME desktop environment"
+msgstr ""
+
+#: /usr/share/xsessions/openbox-kde.desktop
+msgctxt "Comment(openbox-kde.desktop)"
+msgid "Use the Openbox window manager inside of the K Desktop Environment"
+msgstr ""
+
+#: /usr/share/xsessions/xfce.desktop
+msgctxt "Comment(xfce.desktop)"
+msgid "Use this session to run Xfce as your desktop environment"
+msgstr ""
+
+#: /etc/xdg/autostart/user-dirs-update-gtk.desktop
+msgctxt "Name(user-dirs-update-gtk.desktop)"
+msgid "User folders update"
+msgstr ""
+
+#: /etc/xdg/autostart/vmware-user-autostart.desktop
+msgctxt "Name(vmware-user-autostart.desktop)"
+msgid "VMware User Agent"
+msgstr ""
+
+#: /etc/xdg/autostart/gnome-sound-applet.desktop
+msgctxt "Name(gnome-sound-applet.desktop)"
+msgid "Volume Control"
+msgstr ""
+
+#: /etc/xdg/autostart/qwebyast-autostart.desktop
+msgctxt "Name(qwebyast-autostart.desktop)"
+msgid "WebYaST Applet"
+msgstr ""
+
+#: /usr/share/xsessions/WindowMaker.desktop
+msgctxt "Name(WindowMaker.desktop)"
+msgid "WindowMaker"
+msgstr ""
+
+#: /etc/xdg/autostart/xfce4-volumed.desktop
+msgctxt "Name(xfce4-volumed.desktop)"
+msgid "XFCE Volume Daemon"
+msgstr ""
+
+#: /usr/share/xsessions/xfce.desktop
+msgctxt "Name(xfce.desktop)"
+msgid "Xfce Session"
+msgstr ""
+
+#: /etc/xdg/autostart/xfsettingsd.desktop
+msgctxt "Name(xfsettingsd.desktop)"
+msgid "Xfsettingsd"
+msgstr ""
+
+#: /etc/xdg/autostart/zeitgeist-datahub.desktop
+msgctxt "Name(zeitgeist-datahub.desktop)"
+msgid "Zeitgeist Datahub"
+msgstr ""

@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: kukuk@thkukuk.de\n"
+"POT-Creation-Date: 2011-05-25 17:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/opasswd.c:115
+#, c-format
+msgid "Cannot open %s for reading: %s"
+msgstr ""
+
+#: src/opasswd.c:124
+#, c-format
+msgid "Unable to obtain entropy from %s"
+msgstr ""
+
+#: src/opasswd.c:139
+msgid "Unable to generate a salt. Check your crypt settings."
+msgstr ""
+
+#: src/opasswd.c:329
+#, c-format
+msgid "Creating %s"
+msgstr ""
+
+#: src/opasswd.c:336 src/opasswd.c:386
+#, c-format
+msgid "Cannot open %s: %m"
+msgstr ""
+
+#: src/opasswd.c:344
+#, c-format
+msgid "Cannot stat %s: %m"
+msgstr ""
+
+#: src/opasswd.c:355
+#, c-format
+msgid "Cannot create %s temp file: %m"
+msgstr ""
+
+#: src/opasswd.c:363 src/opasswd.c:374
+#, c-format
+msgid "Cannot set permissions of %s temp file: %m"
+msgstr ""
+
+#: src/opasswd.c:367 src/opasswd.c:378
+#, c-format
+msgid "Cannot set owner/group of %s temp file: %m"
+msgstr ""
+
+#: src/opasswd.c:541
+#, c-format
+msgid "Error while closing old opasswd file: %s"
+msgstr ""
+
+#: src/opasswd.c:551
+#, c-format
+msgid "Error while closing temporary opasswd file: %s"
+msgstr ""
+
+#: src/opasswd.c:561
+#, c-format
+msgid "Cannot create backup file of %s: %m"
+msgstr ""
+
+#: src/pam_pwcheck.c:73
+msgid "Old Password: "
+msgstr ""
+
+#: src/pam_pwcheck.c:74
+msgid "New Password: "
+msgstr ""
+
+#: src/pam_pwcheck.c:75
+msgid "Reenter New Password: "
+msgstr ""
+
+#: src/pam_pwcheck.c:76
+msgid "Passwords do not match."
+msgstr ""
+
+#: src/pam_pwcheck.c:212
+msgid "You must choose a new password."
+msgstr ""
+
+#: src/pam_pwcheck.c:223
+msgid "Bad password: a palindrome"
+msgstr ""
+
+#: src/pam_pwcheck.c:225
+msgid "Bad password: case changes only"
+msgstr ""
+
+#: src/pam_pwcheck.c:227
+msgid "Bad password: too similar"
+msgstr ""
+
+#: src/pam_pwcheck.c:229
+msgid "Bad password: too simple"
+msgstr ""
+
+#: src/pam_pwcheck.c:231
+msgid "Bad password: rotated"
+msgstr ""
+
+#: src/pam_pwcheck.c:253
+msgid "Bad password: too short"
+msgstr ""
+
+#: src/pam_pwcheck.c:262
+#, c-format
+msgid "Password will be truncated to %d characters."
+msgstr ""
+
+#: src/pam_pwcheck.c:284
+msgid "Bad password: "
+msgstr ""
+
+#: src/pam_pwcheck.c:300
+msgid "Password has been used already. Choose another."
+msgstr ""
+
+#: src/pam_pwcheck.c:341
+msgid "Cannot get options"
+msgstr ""
+
+#: src/pam_pwcheck.c:385
+#, c-format
+msgid "Dictionary path %s is invalid"
+msgstr ""
+
+#: src/pam_pwcheck.c:521 src/pam_pwcheck.c:564
+msgid "Password change aborted."
+msgstr ""
+
+#: src/support.c:138 src/support.c:157
+msgid "Password: "
+msgstr ""

@@ -1,0 +1,1024 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Runlevel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:25+0200\n"
+"PO-Revision-Date: 2012-07-21 11:23+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. progress caption
+#: src/RunlevelEd.ycp:186
+msgid "Initializing system services (runlevel). Please wait..."
+msgstr "正在初始化系统服务(运行级别)。请稍候..."
+
+#. TODO: localize the loop, disable it only locally
+#. and say what scripts form it
+#: src/RunlevelEd.ycp:314
+msgid ""
+"A dependency loop was detected.\n"
+"Further dependency checking will be disabled."
+msgstr ""
+"已检测到一个依赖关系循环。\n"
+"将禁用进一步的依赖关系检查。"
+
+#. progress caption
+#: src/RunlevelEd.ycp:513
+msgid "Saving changes to runlevels."
+msgstr "正在保存对运行级别的更改。"
+
+#. progress item, %1 is a service (init script) name
+#: src/RunlevelEd.ycp:542
+#, ycp-format
+msgid "Service %1"
+msgstr "服务 %1"
+
+#: src/RunlevelEd.ycp:546
+#, ycp-format
+msgid "Setting %1: %2"
+msgstr "设置 %1：%2"
+
+#. progress item, %1 is a service (init script) name
+#: src/RunlevelEd.ycp:552
+#, ycp-format
+msgid "Skipping service %1."
+msgstr "正在跳过服务 %1。"
+
+#: src/RunlevelEd.ycp:560
+#, ycp-format
+msgid "Failed services: %1."
+msgstr "失败的服务：%1。"
+
+#. descriptions of runlevels. there must be number: description
+#. number is runlevel name
+#. runlevel description
+#: src/RunlevelEd.ycp:743
+msgid "0: System halt"
+msgstr "0：系统关闭"
+
+#. runlevel description
+#: src/RunlevelEd.ycp:745
+msgid "1: Single user mode"
+msgstr "1：单用户模式"
+
+#. runlevel description
+#: src/RunlevelEd.ycp:747
+msgid "2: Local multiuser without remote network"
+msgstr "2：不带远程网络的本地多用户模式"
+
+#. runlevel description
+#: src/RunlevelEd.ycp:749
+msgid "3: Full multiuser with network"
+msgstr "3：带网络的完全多用户模式"
+
+#. runlevel description
+#: src/RunlevelEd.ycp:751
+msgid "4: User defined"
+msgstr "4：用户自定义模式"
+
+#. runlevel description
+#: src/RunlevelEd.ycp:753
+msgid "5: Full multiuser with network and display manager"
+msgstr "5：完全多用户网络和显示管理器模式"
+
+#. runlevel description
+#: src/RunlevelEd.ycp:755
+msgid "6: System reboot"
+msgstr "6：系统重启"
+
+#. runlevel description
+#. internal one: without a number
+#: src/RunlevelEd.ycp:758
+msgid "Unchanged"
+msgstr "未更改"
+
+#. Rich text title
+#: src/RunlevelEd.ycp:782 src/runlevel_proposal.ycp:294
+msgid "Default Runlevel"
+msgstr "默认运行级别"
+
+#. summary header
+#. RichText label
+#: src/RunlevelEd.ycp:785 src/services_proposal.ycp:526
+msgid "Services"
+msgstr "服务"
+
+#. summary item: %1 service name,
+#. %2, %3 list of runlevels it starts/stops in
+#: src/RunlevelEd.ycp:795
+#, ycp-format
+msgid "<p><b>%1</b><br> Start: %2</p>"
+msgstr "<p><b>%1</b><br> 启动：%2</p>"
+
+#: src/runlevel.ycp:30
+#, ycp-format
+msgid "Error: service '%1' not found."
+msgstr "错误：找不到服务\"%1\"。"
+
+#. translators: table headers
+#. table header
+#: src/runlevel.ycp:112 src/ui.ycp:1079 src/ui.ycp:1366 src/ui.ycp:1597
+msgid "Service"
+msgstr "服务"
+
+#: src/runlevel.ycp:112
+msgid "Runlevels"
+msgstr "运行级别"
+
+#. headers in table
+#: src/runlevel.ycp:112 src/ui.ycp:1087 src/ui.ycp:1366 src/ui.ycp:1605
+msgid "Description"
+msgstr "描述"
+
+#: src/runlevel.ycp:118
+#, ycp-format
+msgid "Default Runlevel after Boot: %1"
+msgstr "引导后的默认运行级别：%1"
+
+#: src/runlevel.ycp:119
+#, ycp-format
+msgid "Current Runlevel: %1"
+msgstr "当前运行级别：%1"
+
+#. translators: command line help text for runlevel module
+#: src/runlevel.ycp:154
+msgid "Configuration of system services (runlevel)"
+msgstr "系统服务(运行级别)的配置"
+
+#. translators: command line help text for "summary" action
+#: src/runlevel.ycp:161
+msgid "Show a list of current system service status"
+msgstr "显示当前系统服务状态的列表"
+
+#. translators: command line help text for "add" action
+#: src/runlevel.ycp:166
+msgid "Enable the service"
+msgstr "启用服务"
+
+#. translators: command line help text for "delete" action
+#: src/runlevel.ycp:171
+msgid "Disable the service"
+msgstr "禁用服务"
+
+#. translators: command line help text for "set" action
+#: src/runlevel.ycp:176
+msgid "Set default runlevel after boot"
+msgstr "设置引导后的默认运行级别"
+
+#. translators: command line help text for "runlevel" option
+#: src/runlevel.ycp:183
+msgid "Specify default runlevel"
+msgstr "指定默认运行级别"
+
+#. translators: command line help text for "runlevels" option
+#: src/runlevel.ycp:189
+msgid "Comma separated list of runlevels"
+msgstr "逗号分隔的运行级别列表"
+
+#. translators: command line help text for "service" option
+#: src/runlevel.ycp:194
+msgid "Comma separated service names"
+msgstr "逗号分隔的服务名"
+
+#. translators: command line help text for "defaults" option
+#: src/runlevel.ycp:199
+msgid "List default runlevels instead of current"
+msgstr "列出默认运行级别而非当前运行级别"
+
+#. progress step title
+#: src/runlevel_finish.ycp:62
+msgid "Saving default runlevel..."
+msgstr "正在保存默认运行级别..."
+
+#. popup question, %1 means the current runlevel (number)
+#: src/runlevel_proposal.ycp:51
+#, ycp-format
+msgid ""
+"VNC needs runlevel 5 to run correctly.\n"
+"No graphical system login will be available\n"
+"after the computer is rebooted.\n"
+"\n"
+"Are you sure you want to use runlevel %1 instead?"
+msgstr ""
+"VNC 需要运行级别 5 才可正确运行。\n"
+"计算机重引导后，\n"
+"将不可使用图形系统登录。\n"
+"\n"
+"是否确实要使用运行级别 %1？"
+
+#. popup question, %1 means the current runlevel (number)
+#: src/runlevel_proposal.ycp:65
+#, ycp-format
+msgid ""
+"SSH needs running network.\n"
+"You have selected a non-network runlevel.\n"
+"Recommended runlevels are 3 or 5.\n"
+"\n"
+"Are you sure you want to use %1 instead?"
+msgstr ""
+"SSH 需要正在运行的网络。\n"
+"您选择的是非网络运行级别。\n"
+"建议的运行级别是 3 或 5。\n"
+"\n"
+"是否确实要使用 %1？"
+
+#. dialog caption
+#: src/runlevel_proposal.ycp:100
+msgid "Set Default Runlevel"
+msgstr "设置默认运行级别"
+
+#. frame label
+#: src/runlevel_proposal.ycp:105
+msgid "Available Runlevels"
+msgstr "可用运行级别"
+
+#. made by rwalter@novell.com, bug #206664 comment #8
+#. help for runlevel - installation proposal, part 1
+#: src/runlevel_proposal.ycp:117
+msgid "<p><b><big>Selecting the Default Runlevel</big</b></p>"
+msgstr "<p><b><big>选择默认运行级别</big></b></p>"
+
+#. help for runlevel - installation proposal, part 2
+#: src/runlevel_proposal.ycp:120
+msgid ""
+"<p>The runlevel is the setting that helps determine which services are\n"
+"available by default. Select the level that includes the services this system\n"
+"should allow when the system starts.</p>"
+msgstr ""
+"<p>运行级别设置帮助确定默认情况下\n"
+"哪些服务可用。 请选择包含当系统启动时\n"
+"应允许运行的服务的级别。</p>"
+
+#. help for runlevel - installation proposal, part 3
+#: src/runlevel_proposal.ycp:125
+msgid ""
+"<p>Runlevel <b>2</b> allows multiple users to log in to the system locally, but\n"
+"no network or network services are available.  This setting is rarely used as\n"
+"the default.</p>"
+msgstr ""
+"<p>运行级别 <b>2</b> 允许多个用户本地登录系统，\n"
+"但无网络或网络服务可用。\n"
+"很少将此设置用作默认值。</p>"
+
+#. help for runlevel - installation proposal, part 4
+#: src/runlevel_proposal.ycp:130
+msgid ""
+"<p>Runlevel <b>4</b> is an expert user mode. Don't use it unless you really\n"
+"need it.</p>"
+msgstr ""
+"<p>运行级别 <b>4</b> 是专家用户模式。除非确实需要，\n"
+"请不要使用这个运行级别。</p>"
+
+#. help for runlevel - installation proposal, part 5
+#: src/runlevel_proposal.ycp:134
+msgid ""
+"<p>Runlevel <b>3</b> allows both local and remote logins and enables the\n"
+"network and any configured network services.  This setting does not start the\n"
+"graphical login manager, so graphical user interfaces cannot be used\n"
+"immediately.</p>"
+msgstr ""
+"<p>运行级别 <b>3</b> 允许本地和远程登录，\n"
+"并启用网络和任何已配置的网络服务。\n"
+"此设置不启动图形登录管理器，\n"
+"所以无法立即使用图形用户界面。</p>"
+
+#. help for runlevel - installation proposal, part 6
+#: src/runlevel_proposal.ycp:140
+msgid ""
+"<p>Runlevel <b>5</b> is the most common default runlevel for workstations.  In\n"
+"addition to the network, it starts the X display manager, which allows\n"
+"graphical logins.  It also starts any other configured services.</p>"
+msgstr ""
+"<p>运行级别 <b>5</b> 是工作站中最常见的默认运行级别。\n"
+"除了网络，它还启动 X 显示管理器，它允许以\n"
+"图形方式登录，还可启动任何其它已配置服务。</p>"
+
+#. help for runlevel - installation proposal, part 7
+#: src/runlevel_proposal.ycp:145
+msgid ""
+"<p>If you are not sure what to select, runlevel <b>5</b> is generally a good\n"
+"choice for workstations.  Runlevel <b>3</b> is often used on servers that do\n"
+"not have a monitor and should not use graphical interfaces.</p>"
+msgstr ""
+"<p>如果不确定选择哪个选项，通常运行级别 <b>5</b> 是一个不错的\n"
+"选择。运行级别 <b>3</b> 经常在没有监视器或\n"
+"不应使用图形界面的服务器上使用。</p>"
+
+#. proposal warning, VNC needs runlevel 5, but the selected one is not 5
+#: src/runlevel_proposal.ycp:258
+msgid ""
+"<li>VNC needs runlevel 5 to run correctly.\n"
+"No graphical system login will be available after the computer is rebooted.</li>"
+msgstr ""
+"<li>VNC 需要运行级别 5 才可正确运行。\n"
+"计算机重引导后，将不可使用图形系统登录。</li>"
+
+#. proposal warning, SSH needs runlevel 3 or 5, but the selected one is neither one of them
+#: src/runlevel_proposal.ycp:264
+msgid "<li>SSH needs runlevel 3 or 5, but you have currently selected a non-network one.</li>"
+msgstr "<li>SSH 需要运行级别 3 或 5，但当前选择的是非网络运行级别。</li>"
+
+#. MenuButton title
+#: src/runlevel_proposal.ycp:296
+msgid "&Default Runlevel"
+msgstr "默认运行级别(&D)"
+
+#: src/services_proposal.ycp:180
+#, ycp-format
+msgid "Service <i>%1</i> will be <b>enabled</b> and ports in the firewall will be open <a href=\"%2\">(disable)</a>"
+msgstr "服务 <i>%1</i> 将被 <b>启用</b> 并且防火墙端口将被打开 <a href=\"%2\">(禁用)</a>"
+
+#: src/services_proposal.ycp:186
+#, ycp-format
+msgid "Service <i>%1</i> will be <b>disabled</b> and ports in firewall will be closed <a href=\"%2\">(enable)</a>"
+msgstr "服务 <i>%1</i> 将被 <b>禁用</b> 并且防火墙端口将被关闭 <a href=\"%2\">(启用)</a>"
+
+#: src/services_proposal.ycp:194
+#, ycp-format
+msgid "Service <i>%1</i> will be <b>enabled</b> <a href=\"%2\">(disable)</a>"
+msgstr "服务 <i>%1</i> 将被 <b>启用</b> <a href=\"%2\">(禁用)</a>"
+
+#: src/services_proposal.ycp:200
+#, ycp-format
+msgid "Service <i>%1</i> will be <b>disabled</b> <a href=\"%2\">(enable)</a>"
+msgstr "服务 <i>%1</i> 将被 <b>禁用</b> <a href=\"%2\">(启用)</a>"
+
+#: src/services_proposal.ycp:302
+#, ycp-format
+msgid "Cannot enable service %1"
+msgstr "无法启用服务 %1"
+
+#: src/services_proposal.ycp:316
+#, ycp-format
+msgid ""
+"Unable to start and enable service %1.\n"
+"Service is not installed."
+msgstr ""
+"无法启动和启用服务 %1。\n"
+"服务未安装。"
+
+#: src/services_proposal.ycp:322
+#, ycp-format
+msgid "Cannot start service %1"
+msgstr "无法启动服务 %1"
+
+#: src/services_proposal.ycp:378
+#, ycp-format
+msgid "Required package %1 is not available for installation."
+msgstr "需要的软件包 %1 无法安装。"
+
+#: src/services_proposal.ycp:428
+msgid ""
+"Installation of required packages has failed,\n"
+"enabling and starting the services may also fail."
+msgstr ""
+"安装必需的软件包失败。\n"
+"启用和启动服务可能也失败。"
+
+#. a help text, not very helpful though
+#: src/services_proposal.ycp:457
+msgid ""
+"<p><big><b>Services</b></big><br>\n"
+"The current setup does not provide any functionality now.</p>"
+msgstr ""
+"<p><big><b>服务</b></big><br>\n"
+"当前设置目前没有提供任何功能。</p>"
+
+#. a help text, part 1
+#: src/services_proposal.ycp:462
+msgid ""
+"<p><big><b>Services</b></big><br>\n"
+"This installation proposal allows you to start and enable a service from the \n"
+"list of services.</p>\n"
+msgstr ""
+"<p><b><big>服务</big></b><br>\n"
+"安全方案允许您从服务列表中启动和启用一项服务。</p>\n"
+
+#. a help text, part 2
+#: src/services_proposal.ycp:467
+msgid ""
+"<p>It may also open ports in the firewall for a service if firewall is enabled\n"
+"and a particular service requires opening them.</p>\n"
+msgstr "<p>如果启用了防火墙并且特殊服务需要打开端口，它或许也会为服务在防火墙中打开端口。</p>\n"
+
+#. Menu label
+#: src/services_proposal.ycp:528
+msgid "&Services"
+msgstr "服务(&S)"
+
+#. Init script non-status-command return codes
+#. http://www.linuxbase.org/spec/gLSB/gLSB/iniscrptact.html
+#. status code.
+#. Changed "Foo bar." to "foo bar", #25082
+#: src/ui.ycp:242
+msgid "success"
+msgstr "成功"
+
+#. 1: handled as default below
+#. status code.
+#: src/ui.ycp:245
+msgid "invalid or excess arguments"
+msgstr "参数无效或过多"
+
+#. status code.
+#: src/ui.ycp:247
+msgid "unimplemented feature"
+msgstr "功能未实现"
+
+#. status code.
+#: src/ui.ycp:249
+msgid "user had insufficient privileges"
+msgstr "用户没有足够的权限"
+
+#. status code.
+#: src/ui.ycp:251
+msgid "program is not installed"
+msgstr "程序尚未安装"
+
+#. status code.
+#: src/ui.ycp:253
+msgid "program is not configured"
+msgstr "程序尚未配置"
+
+#. status code.
+#: src/ui.ycp:255
+msgid "program is not running"
+msgstr "程序未运行"
+
+#. status code.
+#: src/ui.ycp:258 src/ui.ycp:284
+msgid "unspecified error"
+msgstr "未指定错误"
+
+#. Init script "status" command return codes
+#. http://www.linuxbase.org/spec/gLSB/gLSB/iniscrptact.html
+#. status code.
+#. Changed "Foo bar." to "foo bar", #25082
+#: src/ui.ycp:273
+msgid "program is running"
+msgstr "程序正在运行"
+
+#. status code.
+#: src/ui.ycp:275
+msgid "program is dead and /var/run pid file exists"
+msgstr "程序已僵死并且 /var/run 进程文件存在"
+
+#. status code.
+#: src/ui.ycp:277
+msgid "program is dead and /var/lock lock file exists"
+msgstr "程序已僵死并且 /var/lock 锁定文件存在"
+
+#. status code.
+#: src/ui.ycp:279
+msgid "program is stopped"
+msgstr "程序已停止"
+
+#. status code.
+#: src/ui.ycp:281
+msgid "program or service status is unknown"
+msgstr "程序或服务状态未知"
+
+#. translators: substituted into a message like
+#. "To enable/disable foo IN ALL RUNLEVELS, this must be done..."
+#. (do not include the trailing comma here)
+#: src/ui.ycp:297
+msgid "in all runlevels"
+msgstr "在所有运行级别中"
+
+#. translators: substituted into a message like
+#. "To enable/disable foo IN RUNLEVELS 3, 5, this must be done..."
+#. (do not include the trailing comma here)
+#: src/ui.ycp:305
+#, ycp-format
+msgid "in runlevels %1"
+msgstr "在运行级别 %1 中"
+
+#: src/ui.ycp:305
+#, ycp-format
+msgid "in runlevel %1"
+msgstr "在运行级别 %1 中"
+
+#. is the service started?
+#. TRANSLATORS: Service status presented in table, Enabled: Yes
+#: src/ui.ycp:316 src/ui.ycp:337
+msgid "Yes"
+msgstr "是"
+
+#. is the service started?
+#. TRANSLATORS: Service status presented in table, Enabled: No
+#: src/ui.ycp:319 src/ui.ycp:340
+msgid "No"
+msgstr "否"
+
+#. is the service started?
+#. ???: we do not know yet what is the service state
+#. TRANSLATORS: Unknown service status, presented in table
+#. TRANSLATORS: Unknown service status presented in table
+#: src/ui.ycp:322 src/ui.ycp:332 src/ui.ycp:335
+msgid "???"
+msgstr "???"
+
+#. help text
+#: src/ui.ycp:537
+msgid ""
+"<P><BIG><B>System Service (Runlevel) Initialization</B></BIG><BR>\n"
+"Please wait...</P>\n"
+msgstr ""
+"<P><BIG><B>系统服务(运行级别)初始化</B></BIG><BR>\n"
+"请稍候...</P>\n"
+
+#. warning
+#: src/ui.ycp:542
+msgid ""
+"<p><b>Note:</b> The system services (runlevel editor) is an expert tool. Only change settings if\n"
+" you know what you are doing.  Otherwise your system might not function properly afterwards.</p>\n"
+msgstr ""
+"<p><b>注意：</b>系统服务(运行级别编辑器)是专家工具。只有在您了解正在执行的操作的情况下，\n"
+"才能更改设置。否则更改后系统可能无法正常运行。</p>\n"
+
+#. continue-cancel popup when enabling a service
+#. %1 is a list of unsatisfied dependencies
+#: src/ui.ycp:614
+#, ycp-format
+msgid ""
+"These required services are missing:\n"
+"%1."
+msgstr ""
+"缺少这些必需的服务：\n"
+"%1。"
+
+#. "-run,-init,..." does not make sense
+#. *disable*
+#. continue-cancel popup
+#. translators: %2 is "in runlevel(s) 3, 5"
+#. or "in all runlevels"
+#: src/ui.ycp:690
+#, ycp-format
+msgid ""
+"To disable service %1 %2,\n"
+"these services must be additionally disabled,\n"
+"because they depend on it:\n"
+"%3."
+msgstr ""
+"要 %2 禁用服务 %1，\n"
+"还必须禁用以下服务，\n"
+"因为这些服务依赖于要禁用的服务：\n"
+"%3。"
+
+#. *enable*
+#. continue-cancel popup
+#. translators: %2 is "in runlevel(s) 3, 5"
+#. or "in all runlevels"
+#: src/ui.ycp:698
+#, ycp-format
+msgid ""
+"To enable service %1 %2,\n"
+"these services must be additionally enabled,\n"
+"because it depends on them:\n"
+"%3."
+msgstr ""
+"要 %2 启用服务 %1，\n"
+"还必须启用以下服务，\n"
+"因为要启用的服务依赖于这些服务：\n"
+"%3。"
+
+#. *stop*
+#. continue-cancel popup
+#: src/ui.ycp:704
+#, ycp-format
+msgid ""
+"To stop service %1,\n"
+"these services must be additionally stopped,\n"
+"because they depend on it:\n"
+"%2."
+msgstr ""
+"要停止服务 %1，\n"
+"还必须停止以下服务，\n"
+"因为这些服务依赖于要停止的服务：\n"
+"%2。"
+
+#. *start*
+#. continue-cancel popup
+#: src/ui.ycp:710
+#, ycp-format
+msgid ""
+"To start service %1,\n"
+"these services must be additionally started,\n"
+"because it depends on them:\n"
+"%2."
+msgstr ""
+"要启动服务 %1，\n"
+"还必须启动以下服务，\n"
+"因为要启动的服务依赖于这些服务：\n"
+"%2。"
+
+#. *stop and disable*
+#. continue-cancel popup
+#. translators: %2 is "in runlevel(s) 3, 5"
+#. or "in all runlevels"
+#: src/ui.ycp:718
+#, ycp-format
+msgid ""
+"To stop service %1 and disable it %2,\n"
+"these services must be additionally stopped\n"
+"and disabled, because they depend on it:\n"
+"%3."
+msgstr ""
+"要停止服务 %1 并 %2 禁用它，\n"
+"还必须停止并禁用以下服务，\n"
+"因为这些服务依赖于要停止并禁用的服务：\n"
+"%3。"
+
+#. *start and enable*
+#. continue-cancel popup
+#. translators: %2 is "in runlevel(s) 3, 5"
+#. or "in all runlevels"
+#: src/ui.ycp:726
+#, ycp-format
+msgid ""
+"To start service %1 and enable it %2,\n"
+"these services must be additionally started\n"
+"and enabled, because it depends on them:\n"
+"%3."
+msgstr ""
+"要启动服务 %1 并 %2 启用它，\n"
+"还必须启动并启用以下服务，\n"
+"因为要启动并启用的服务依赖于这些服务：\n"
+"%3。"
+
+#. popup heading
+#: src/ui.ycp:770
+msgid "An error has occurred."
+msgstr "出现错误。"
+
+#. busy message
+#: src/ui.ycp:862
+#, ycp-format
+msgid "Starting service %1 ..."
+msgstr "正在启动服务 %1..."
+
+#. busy message
+#: src/ui.ycp:866
+#, ycp-format
+msgid "Stopping service %1 ..."
+msgstr "正在停止服务 %1..."
+
+#. busy message
+#: src/ui.ycp:870
+#, ycp-format
+msgid "Checking status of service %1 ..."
+msgstr "正在检查服务 %1 的状态..."
+
+#. busy message
+#: src/ui.ycp:874
+#, ycp-format
+msgid "Running command %1 %2 ..."
+msgstr "正在运行命令 %1 %2..."
+
+#. %1 service, %2 command,
+#. %3 exit status, %4 status description, %5 stdout
+#. added a colon
+#: src/ui.ycp:910
+#, ycp-format
+msgid "<p><b>/etc/init.d/%1 %2</b> returned %3 (%4):<br>%5</p>"
+msgstr "<p><b>/etc/init.d/%1 %2</b> 返回了 %3 (%4)：<br>%5</p>"
+
+#. list of services will follow
+#: src/ui.ycp:1000
+msgid ""
+"Following services run in current\n"
+"runlevel although they should not:"
+msgstr ""
+"以下服务在当前运行级别中运行，\n"
+"但它们不应在当前运行级别中运行："
+
+#. list of services will follow
+#: src/ui.ycp:1007
+msgid ""
+"Following services do not run in current\n"
+"runlevel although they should:"
+msgstr ""
+"以下服务未在当前运行级别中运行，\n"
+"但它们应该在当前运行级别中运行："
+
+#. radio button label
+#: src/ui.ycp:1027
+msgid "&Simple Mode"
+msgstr "简单方式(&S)"
+
+#. radio button label
+#: src/ui.ycp:1031
+msgid "&Expert Mode"
+msgstr "专家方式(&E)"
+
+#. help text
+#: src/ui.ycp:1046
+msgid ""
+"<p>Assign system services to runlevels by selecting the list entry of the respective service then\n"
+"checking or unchecking the <b>check boxes B-S</b> for the runlevel.</p>\n"
+msgstr ""
+"<p>为运行级别指派系统服务，方法是选择相应服务的列表项，\n"
+"然后选中或取消选中运行级别的<b>复选框 B-S</b>。</p>\n"
+
+#. help text
+#: src/ui.ycp:1051
+msgid "<p><b>Start/Stop/Refresh:</b> Use this to start or stop services individually.</p>"
+msgstr "<p><b>启动/停止/刷新：</b>使用此选项可以单个地启动或停止服务。</p>"
+
+#. help text
+#: src/ui.ycp:1054
+msgid ""
+"<P><B>Set and Reset:</B>\n"
+"Select runlevels in which to run the currently selected service.<ul>\n"
+"<li><b>Enable the service:</b> Activates the service in the standard runlevels.</li>\n"
+"<li><b>Disable the service:</b> Deactivates service.</li>\n"
+"<li><b>Enable all services:</b> Activates all services in their standard runlevels.</li>\n"
+"</ul></p>\n"
+msgstr ""
+"<P><B>设置和重设置：</B>\n"
+"选择要在其中运行当前所选服务的运行级别。<ul>\n"
+"<li><b>启用服务：</b>在标准运行级别中激活服务。</li>\n"
+"<li><b>禁用服务：</b>取消激活服务。</li>\n"
+"<li><b>启用所有服务：</b>在其标准运行级别中激活所有服务。</li>\n"
+"</ul></p>\n"
+
+#. The change does not occur immediately. After a reboot the system boots into the specified runlevel.
+#: src/ui.ycp:1063
+msgid "<p>Changes to the <b>default runlevel</b> will take effect next time you boot your computer.</p>"
+msgstr "<p>对<b>默认运行级别</b>的更改将在下次引导计算机时生效。</p>"
+
+#. table header. is a service running?
+#: src/ui.ycp:1081
+msgid "Running"
+msgstr "正在运行"
+
+#.
+#. `HBox (
+#. // preserve 2 spaces at the end.
+#. `Label (_("Current runlevel:  ")),
+#. `Label (`opt (`outputField, `hstretch), getRunlevelDescr (RunlevelEd::current))
+#. ),
+#.
+#. combo box label
+#: src/ui.ycp:1106 src/ui.ycp:1609
+msgid "&Set default runlevel after booting to:"
+msgstr "将引导后的默认运行级别设置为(&S)："
+
+#. label above checkboxes
+#. label above checkboxed
+#: src/ui.ycp:1121 src/ui.ycp:1618
+msgid "Service will be started in following runlevels:"
+msgstr "服务将在以下运行级别中启动："
+
+#. menubutton label
+#: src/ui.ycp:1126
+msgid "S&tart/Stop/Refresh"
+msgstr "启动/停止/刷新(&T)"
+
+#. menu item
+#: src/ui.ycp:1128
+msgid "&Start now ..."
+msgstr "立即启动(&S)..."
+
+#. menu item
+#: src/ui.ycp:1130
+msgid "S&top now ..."
+msgstr "立即停止(&T)..."
+
+#. menu item
+#: src/ui.ycp:1132
+msgid "R&estart now ..."
+msgstr "立即重启(&e)..."
+
+#. menu item
+#: src/ui.ycp:1134
+msgid "&Refresh status ..."
+msgstr "刷新状态(&R)..."
+
+#. menubutton label
+#: src/ui.ycp:1140
+msgid "Set/&Reset"
+msgstr "设置/重置(&R)"
+
+#. menu item
+#. `opt (`key_F3),
+#: src/ui.ycp:1142
+msgid "&Enable the service"
+msgstr "启用服务(&E)"
+
+#. menu item
+#. `opt (`key_F5),
+#: src/ui.ycp:1144
+msgid "&Disable the service"
+msgstr "禁用服务(&D)"
+
+#. menu item
+#: src/ui.ycp:1153
+msgid "Enable &all services"
+msgstr "启用所有服务(&A)"
+
+#. menu item
+#: src/ui.ycp:1158
+msgid "Save Dependency &Graph"
+msgstr "保存依赖关系示意图(&G)"
+
+#. dialog caption.
+#: src/ui.ycp:1165 src/ui.ycp:1634
+msgid "System Services (Runlevel): Details"
+msgstr "系统服务(运行级别)：细节"
+
+#. yes-no popup
+#: src/ui.ycp:1227 src/ui.ycp:1453
+msgid ""
+"Now the changes to runlevels \n"
+"will be saved."
+msgstr ""
+"现在将保存对运行级别的\n"
+"更改。"
+
+#. yes-no popup
+#: src/ui.ycp:1275
+msgid "Really enable all services?"
+msgstr "是否确实要启用所有服务？"
+
+#. message popup
+#: src/ui.ycp:1282
+msgid ""
+"Each service was enabled\n"
+"in the appropriate runlevels."
+msgstr ""
+"已在适当的运行级别中启用了\n"
+"每个服务。"
+
+#. yes-no popup. the user wants to stop xdm
+#: src/ui.ycp:1296 src/ui.ycp:1473
+msgid ""
+"This may kill your X session.\n"
+"\n"
+"Proceed?"
+msgstr ""
+"这可能会杀死您的 X 会话。\n"
+"\n"
+"是否继续？"
+
+#. Simple mode dialog
+#. help text
+#: src/ui.ycp:1339
+msgid "<p>Here, specify which system services should be started.</p>"
+msgstr "<p>在此指定应启动哪些系统服务。</p>"
+
+#. warning
+#: src/ui.ycp:1342
+msgid ""
+"<p><b>Warning:</b> The system services (runlevel editor) is an expert tool. Only change settings if you know\n"
+" what you are doing.  Otherwise your system might not function properly afterwards.</p>\n"
+msgstr ""
+"<p><b>警告：</b>系统服务(运行级别编辑器)是专家工具。只有在您了解正在执行的操作的情况下，\n"
+"才能更改设置。否则更改后系统可能无法正常运行。</p>\n"
+
+#. help text
+#. 'Enable' is a button, 'Disable' is a button
+#: src/ui.ycp:1348
+msgid ""
+"<p><b>Enable</b> starts the selected service and services\n"
+"that it depends on and enables them to start at system boot time.\n"
+"Likewise, <b>Disable</b> stops a service and all depending services\n"
+"and disables their start at system boot time.</p>\n"
+msgstr ""
+"<p><b>启用</b>可启动所选服务和它所依赖的\n"
+"所有服务，并使这些服务能够在系统引导时启动。\n"
+"与之类似，<b>禁用</b>可停止给定服务和依赖于该服务的\n"
+"所有服务，并使这些服务在系统引导时不能启动。</p>\n"
+
+#. help text
+#: src/ui.ycp:1355
+msgid "<p>An asterisk (*) after a service status means that the service is enabled but not running or is disabled but running now.</p>"
+msgstr "<p>服务状态后的星号 (*) 表示服务已启用但未运行，或服务已禁用但现在正在运行。</p>"
+
+#. help text
+#: src/ui.ycp:1358
+msgid "<p>To change the behavior of runlevels and system services in detail, click <b>Expert Mode</b>.</p>\n"
+msgstr "<p>要详细更改运行级别和系统服务的行为，请单击<b>专家方式</b>。</p>\n"
+
+#: src/ui.ycp:1366
+msgid "Enabled"
+msgstr "已启用"
+
+#. Button label
+#: src/ui.ycp:1378
+msgid "&Enable"
+msgstr "启用(&E)"
+
+#. Button label
+#: src/ui.ycp:1380
+msgid "&Disable"
+msgstr "禁用(&D)"
+
+#. dialog caption.
+#: src/ui.ycp:1385
+msgid "System Services (Runlevel): Services"
+msgstr "系统服务(运行级别)：服务"
+
+#. help text
+#: src/ui.ycp:1501
+msgid "<p><b>Prepare data for autoinstallation.</b></p>"
+msgstr "<p><b>准备自动安装的数据。</b></p>"
+
+#. help text
+#: src/ui.ycp:1504
+msgid "<p>Change the services to requested state. Only services marked as changed will really be changed in the target system.</p>"
+msgstr "<p>将服务更改为所请求的状态。只在目标系统中更改标记为已更改的服务。</p>"
+
+#. help text
+#: src/ui.ycp:1507
+msgid "<p>If you made a mistake and want to undo the change, press <b>Clear</b> or <b>Clear all</b>.</p>"
+msgstr "<p>如果更改错误而希望撤消更改，请按<b>清除</b>或<b>全部清除</b>。</p>"
+
+#. dialog heading
+#: src/ui.ycp:1517
+msgid "Add service"
+msgstr "添加服务"
+
+#. text entry
+#: src/ui.ycp:1520
+msgid "Service &name"
+msgstr "服务名称(&N)"
+
+#. label
+#: src/ui.ycp:1522
+msgid "Starts in these runlevels by default:"
+msgstr "默认在这些运行级别中启动："
+
+#. text entry
+#: src/ui.ycp:1526
+msgid "&Description (optional)"
+msgstr "描述(可选)(&D)"
+
+#. message popup
+#: src/ui.ycp:1546
+msgid ""
+"Invalid service name. You did not specify service\n"
+"name or the name specified is already in use."
+msgstr ""
+"服务名无效。没有指定服务名\n"
+"或指定的名称已在使用。"
+
+#. table header. has the service state changed?
+#: src/ui.ycp:1599
+msgid "Changed"
+msgstr "已更改"
+
+#. button label
+#: src/ui.ycp:1623
+msgid "A&dd"
+msgstr "添加(&D)"
+
+#. button label
+#: src/ui.ycp:1626
+msgid "&Clear"
+msgstr "清除(&C)"
+
+#. button label
+#: src/ui.ycp:1628
+msgid "Clea&r All"
+msgstr "全部清除(&R)"
+
+#. button label
+#: src/ui.ycp:1630
+msgid "D&efault"
+msgstr "默认值(&E)"
+
+#. yes-no popup
+#: src/ui.ycp:1676
+#, ycp-format
+msgid ""
+"Service portmap, which is required by\n"
+"%1, is disabled. Enable\n"
+"portmap if you want to run %1.\n"
+"\n"
+"Leave portmap\n"
+"disabled?\n"
+msgstr ""
+"%1 所必需的服务 portmap 被\n"
+"禁用。如果要运行 %1，\n"
+"则启用 portmap。\n"
+"\n"
+"是否保持 portmap 为\n"
+"禁用状态？\n"
+
+#~ msgid "Default &Runlevel"
+#~ msgstr "默认运行级别(&R)"

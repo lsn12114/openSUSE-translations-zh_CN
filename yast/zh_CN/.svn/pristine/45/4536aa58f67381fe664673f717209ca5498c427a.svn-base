@@ -1,0 +1,518 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:32+0200\n"
+"PO-Revision-Date: 2012-07-06 21:54+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. popup error
+#: src/Snapper.ycp:84
+#, ycp-format
+msgid "Snapshot '%1' was not found."
+msgstr "未找到快照 '%1'。"
+
+#. error popup
+#: src/Snapper.ycp:206
+msgid "File /etc/sysconfig/snapper is not available."
+msgstr "未找到 /etc/sysconfig/snapper 文件。"
+
+#: src/Snapper.ycp:229 src/Snapper.ycp:259 src/Snapper.ycp:284
+#: src/Snapper.ycp:305
+msgid "Reason not known."
+msgstr "未知原因。"
+
+#: src/Snapper.ycp:232
+msgid "Configuration not found."
+msgstr "未找到配置。"
+
+#: src/Snapper.ycp:236
+msgid "Configuration is not valid."
+msgstr "配置无效。"
+
+#. error popup
+#: src/Snapper.ycp:241
+#, ycp-format
+msgid ""
+"Failed to initialize snapper library:\n"
+"%1"
+msgstr ""
+"初始化 Snapper 库失败：\n"
+"%1"
+
+#: src/Snapper.ycp:263
+#, fuzzy
+#| msgid "Snapshot '%1' was not found."
+msgid "Snapshot was not found."
+msgstr "未找到快照 '%1'。"
+
+#. error popup
+#: src/Snapper.ycp:268
+#, fuzzy, ycp-format
+#| msgid "Failed to delete configuration %1."
+msgid ""
+"Failed to delete snapshot:\n"
+"%1"
+msgstr "删除配置 %1 失败。"
+
+#. error popup
+#: src/Snapper.ycp:288
+#, fuzzy, ycp-format
+#| msgid "Failed to modify %1."
+msgid ""
+"Failed to modify snapshot:\n"
+"%1"
+msgstr "修改 %1 失败。"
+
+#: src/Snapper.ycp:309
+msgid "Wrong snapshot type given."
+msgstr ""
+
+#: src/Snapper.ycp:313
+#, fuzzy
+#| msgid "Snapshot '%1' was not found."
+msgid "'Pre' snapshot was not given."
+msgstr "未找到快照 '%1'。"
+
+#: src/Snapper.ycp:317
+#, fuzzy
+#| msgid "Snapshot '%1' was not found."
+msgid "Given 'Pre' snapshot was not found."
+msgstr "未找到快照 '%1'。"
+
+#. error popup
+#: src/Snapper.ycp:322
+#, fuzzy, ycp-format
+#| msgid "Failed to create the new map."
+msgid ""
+"Failed to create new snapshot:\n"
+"%1"
+msgstr "创建新映射失败。"
+
+#. Snapper read dialog caption
+#: src/Snapper.ycp:335
+msgid "Initializing Snapper"
+msgstr "初始化 Snapper"
+
+#. Progress stage 1/3
+#: src/Snapper.ycp:342
+msgid "Read the list of snapshots"
+msgstr "读取快照列表"
+
+#. Progress step 1/3
+#: src/Snapper.ycp:345
+msgid "Reading the database..."
+msgstr "正在读取数据库..."
+
+#. Progress finished
+#: src/Snapper.ycp:347
+msgid "Finished"
+msgstr "已完成"
+
+#. label for log window
+#: src/Snapper.ycp:394
+msgid "Restoring Files..."
+msgstr "正在恢复文件..."
+
+#. log entry (%1 is file name)
+#: src/Snapper.ycp:414
+#, ycp-format
+msgid "Deleted %1\n"
+msgstr "已删除 %1\n"
+
+#. log entry (%1 is file name)
+#: src/Snapper.ycp:442
+#, ycp-format
+msgid "%1 skipped\n"
+msgstr "%1 已跳过\n"
+
+#. text entry label
+#: src/dialogs.ycp:126 src/dialogs.ycp:231 src/dialogs.ycp:402
+msgid "Description"
+msgstr "描述"
+
+#. text entry label
+#: src/dialogs.ycp:129 src/dialogs.ycp:251
+#, fuzzy
+#| msgid "User name"
+msgid "User data"
+msgstr "用户名"
+
+#. combo box label
+#. text entry label
+#: src/dialogs.ycp:133 src/dialogs.ycp:253
+#, fuzzy
+#| msgid "C&leanup Script"
+msgid "Cleanup algorithm"
+msgstr "清理脚本(&L)"
+
+#. popup label, %1 is number
+#: src/dialogs.ycp:140
+#, fuzzy, ycp-format
+#| msgid "Modify %1"
+msgid "Modify Snapshot %1"
+msgstr "修改 %1"
+
+#. popup label, %1, %2 are numbers (range)
+#: src/dialogs.ycp:148
+#, ycp-format
+msgid "Modify Snapshots %1 - %2"
+msgstr ""
+
+#. label
+#: src/dialogs.ycp:150
+#, fuzzy, ycp-format
+#| msgid "PReP (%1)"
+msgid "Pre (%1)"
+msgstr "PReP (%1)"
+
+#. label
+#: src/dialogs.ycp:154
+#, fuzzy, ycp-format
+#| msgid "Host %1"
+msgid "Post (%1)"
+msgstr "主机 %1"
+
+#. popup label
+#: src/dialogs.ycp:229
+#, fuzzy
+#| msgid "Create New "
+msgid "Create New Snapshot"
+msgstr "新建"
+
+#. radio button label
+#: src/dialogs.ycp:235
+#, fuzzy
+#| msgid "Snapshots"
+msgid "Single snapshot"
+msgstr "快照"
+
+#. radio button label
+#: src/dialogs.ycp:238 src/dialogs.ycp:364
+msgid "Pre"
+msgstr "安装前"
+
+#. radio button label, snapshot selection will follow
+#: src/dialogs.ycp:242
+msgid "Post, paired with:"
+msgstr ""
+
+#. yes/no popup question
+#: src/dialogs.ycp:298
+#, fuzzy, ycp-format
+#| msgid ""
+#| "Really \n"
+#| "delete share '%1'?"
+msgid "Really delete snapshot '%1'?"
+msgstr ""
+"确实要\n"
+"删除共享\"%1\"吗？"
+
+#. summary dialog caption
+#: src/dialogs.ycp:312
+msgid "Snapshots"
+msgstr "快照"
+
+#: src/dialogs.ycp:341
+msgid "Single"
+msgstr "单一"
+
+#: src/dialogs.ycp:355
+msgid "Pre & Post"
+msgstr "之前 & 之后"
+
+#. busy popup message
+#: src/dialogs.ycp:380
+msgid "Reading list of snapshots..."
+msgstr "正在读取快照列表..."
+
+#. combo box label
+#: src/dialogs.ycp:394
+msgid "Current Configuration"
+msgstr "当前配置"
+
+#. table header
+#: src/dialogs.ycp:402
+msgid "ID"
+msgstr "ID"
+
+#: src/dialogs.ycp:402
+msgid "Type"
+msgstr "类型"
+
+#: src/dialogs.ycp:402
+msgid "Start Date"
+msgstr "开始日期"
+
+#: src/dialogs.ycp:402
+msgid "End Date"
+msgstr "结束日期"
+
+#: src/dialogs.ycp:402
+msgid "User Data"
+msgstr "用户数据"
+
+#. button label
+#: src/dialogs.ycp:407
+msgid "Show Changes"
+msgstr "显示更改"
+
+#. button label
+#: src/dialogs.ycp:410
+#, fuzzy
+#| msgid "&Modify"
+msgid "Modify"
+msgstr "修改(&M)"
+
+#. popup message
+#: src/dialogs.ycp:443
+msgid ""
+"This 'Pre' snapshot is not paired with any 'Post' one yet.\n"
+"Showing differences is not possible."
+msgstr ""
+
+#. dialog caption
+#: src/dialogs.ycp:500
+msgid "Selected Snapshot Overview"
+msgstr "选中的快照概览"
+
+#. '%1: %2' means 'ID: description', adapt the order if necessary
+#: src/dialogs.ycp:530
+#, ycp-format
+msgid "%1: %2"
+msgstr "%1：%2"
+
+#. busy popup message
+#: src/dialogs.ycp:547
+msgid "Calculating changed files..."
+msgstr "计算修改的文件..."
+
+#. busy popup message
+#: src/dialogs.ycp:615
+msgid "Calculating file modifications..."
+msgstr "计算文件修改..."
+
+#. text label, %1, %2 are file modes (like '-rw-r--r--')
+#: src/dialogs.ycp:648
+#, ycp-format
+msgid "File mode was changed from '%1' to '%2'."
+msgstr "文件模式已从 '%1' 变为 '%2'。"
+
+#. text label, %1, %2 are user names
+#: src/dialogs.ycp:656
+#, ycp-format
+msgid "File user ownership was changed from '%1' to '%2'."
+msgstr "文件用户权限已从 '%1' 变为 '%2'。"
+
+#. text label, %1, %2 are group names
+#: src/dialogs.ycp:665
+#, ycp-format
+msgid "File group ownership was changed from '%1' to '%2'."
+msgstr "文件组权限已经从 '%1' 变为 '%2'。"
+
+#. button label
+#: src/dialogs.ycp:704
+msgid "R&estore from First"
+msgstr "从第一个快照恢复 (&e)"
+
+#. button label
+#: src/dialogs.ycp:706
+msgid "Restore"
+msgstr "恢复"
+
+#: src/dialogs.ycp:719
+msgid "Res&tore from Second"
+msgstr "从第二个快照恢复 (&t)"
+
+#. radio button label
+#: src/dialogs.ycp:742
+msgid "Show the difference between snapshot and current system"
+msgstr "显示快照和当前系统之间的差异"
+
+#. radio button label, snapshot selection will follow
+#: src/dialogs.ycp:746
+msgid "Show the difference between current and selected snapshot:"
+msgstr "显示当前系统和选中快照之间的差异："
+
+#. radio button label
+#: src/dialogs.ycp:767
+msgid "Show the difference between first and second snapshot"
+msgstr "显示第一个和第二个快照之间的差异"
+
+#. radio button label
+#: src/dialogs.ycp:770
+msgid "Show the difference between first snapshot and current system"
+msgstr "显示第一个快照和当前系统之间的差异"
+
+#. radio button label
+#: src/dialogs.ycp:773
+msgid "Show the difference between second snapshot and current system"
+msgstr "显示第二个快照和当前系统之间的差异"
+
+#. label, date string will follow at the end of line
+#: src/dialogs.ycp:795
+msgid "Time of taking the first snapshot:"
+msgstr "第一个快照花费的时间："
+
+#. label, date string will follow at the end of line
+#: src/dialogs.ycp:800
+msgid "Time of taking the second snapshot:"
+msgstr "第二个快照花费的时间："
+
+#. label, date string will follow at the end of line
+#: src/dialogs.ycp:809
+msgid "Time of taking the snapshot:"
+msgstr "快照花费的时间："
+
+#. button label
+#: src/dialogs.ycp:829
+msgid "&Open"
+msgstr "打开(&O)"
+
+#. button label
+#: src/dialogs.ycp:853
+msgid "Restore Selected"
+msgstr "恢复选中内容"
+
+#. yes/no question, %1 is file name, %2 is number
+#: src/dialogs.ycp:928
+#, ycp-format
+msgid ""
+"Do you want to delete the file\n"
+"\n"
+"%1\n"
+"\n"
+"from current system?"
+msgstr ""
+"您想要从当前系统中删除文件\n"
+"\n"
+"%1 吗？"
+
+#. yes/no question, %1 is file name, %2 is number
+#: src/dialogs.ycp:940 src/dialogs.ycp:952
+#, ycp-format
+msgid ""
+"Do you want to copy the file\n"
+"\n"
+"%1\n"
+"\n"
+"from snapshot '%2' to current system?"
+msgstr ""
+"您想要从快照 '%2' 中复制文件\n"
+"\n"
+"%1\n"
+"\n"
+"到当前系统吗？"
+
+#. popup message
+#: src/dialogs.ycp:980
+msgid "No file was selected for restoring"
+msgstr "没有选择任何要恢复的文件"
+
+#. popup headline
+#: src/dialogs.ycp:984
+msgid "Restoring files"
+msgstr "正在恢复文件"
+
+#. popup message, %1 is snapshot number, %2 list of files
+#: src/dialogs.ycp:986
+#, ycp-format
+msgid ""
+"<p>These files will be restored from snapshot '%1':</p>\n"
+"<p>\n"
+"%2\n"
+"</p>\n"
+"<p>Files existing in original snapshot will be copied to current system.</p>\n"
+"<p>Files that did not exist in the snapshot will be deleted.</p>Are you sure?"
+msgstr ""
+"<p>这些文件将从快照 '%1' 中恢复：</p>\n"
+"<p>\n"
+"%2\n"
+"</p><p>原始快照中存在的文件会被复制到当前系统。</p>\n"
+"<p>快照中不存在的文件将被删除。</p>您确定吗？"
+
+#. Read dialog help
+#: src/helps.ycp:40
+msgid ""
+"<p><b><big>Reading the list of snapshots</big></b><br>\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>正在读取快照列表</big></b><br>\n"
+"</p>\n"
+
+#. Summary dialog help:
+#: src/helps.ycp:45
+msgid ""
+"<p><b><big>Snapshots Configuration</big></b><p>\n"
+"<p>The table shows a list of root filesystem snapshots. There are three types\n"
+"of snapshots, <b>single</b>, <b>pre</b> and <b>post</b>. Single snapshots are\n"
+"used for storing the file system state in a certain time, while Pre and Post are used to define the changes done by special operation performed between taking those two snapshots. Pre and Post snapshots are coupled together in the table.</p>\n"
+"<p>Select a snapshot or snapshot couple and click <b>Show Changes</b> to see the\n"
+"new file system changes in the specified snapshot.</p>\n"
+msgstr ""
+"<p><b><big>快照配置</big></b></p>\n"
+"<p>该表格显示了一份根文件系统快照列表。有三种类型的快照，\n"
+"<b>单一</b>，<b>之前</b> 和 <b>之后</b>。\"单一\"类型的快照\n"
+"用来存储某一特定时间的文件系统状态，\"之前\" 和 \"之后\" 类型的快照用来定义在两次快照之间执行的某特殊操作的更改。\n"
+"\"之前\" 和 \"之后\" 类型的快照在表格中是成对显示的。</p>\n"
+"<p>选择一个快照或一对快照，点击 <b>显示更改</b> 来查看指定快照中的新文件系统变更。</p>\n"
+
+#. Show snapshot dialog help
+#: src/helps.ycp:54
+msgid ""
+"<p><b><big>Snapshot Overview</big></b><p>\n"
+"<p>\n"
+"The tree shows all the files that were modified between creating the first ('pre') and second ('post') snapshot. On the right side, you see the description generated when the first snapshot was created and the time of creation for both snapshots.\n"
+"</p>\n"
+"<p>\n"
+"When a file is selected in the tree, you see the changes done to it. By default, changes between selected coupled snapshots are shown, but it is possible to compare the file with different versions.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>快照概览</big></b></p>\n"
+"<p>\n"
+"该树形结构显示了所有介于创建首个 ('之前') 和第二个 ('之后') 快照之间被改动的文件。在右边，您可以查看首个快照创建时生成的\n"
+"描述和两个快照的创建时间。\n"
+"</p>\n"
+"<p>\n"
+"当该树形结构中的一个文件被选中时，您可以查看它的改动。默认显示两个选中快照之间的差异，但也可以比较该文件的不同版本。\n"
+"</p>\n"
+
+#. Show snapshot dialog help, alternative for single snapshots
+#: src/helps.ycp:64
+msgid ""
+"<p><b><big>Snapshot Overview</big></b><p>\n"
+"<p>\n"
+"The tree shows all the files that differ in a selected snapshot and the current system. On the right side, you see the snapshot description and time of its creation.\n"
+"</p>\n"
+"<p>\n"
+"When a file is selected in the tree, you can see the its difference between snapshot version and current system.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>快照概览</big></b></p>\n"
+"<p>\n"
+"该树形结构显示了所有的选中快照与现有系统不同的文件。在右边，您可以查看快照描述和它的创建时间。\n"
+"</p>\n"
+"<p>\n"
+"当该树形结构中的一个文件被选中时，您可以查看快照版本和现有系统的不同之处。</p>\n"
+
+#: src/snapper.ycp:53
+msgid "Configuration of system snapshots"
+msgstr "系统快照的配置"
+
+#, fuzzy
+#~| msgid "File %1 does not exists"
+#~ msgid "%1 does not exist in snapshot %2\n"
+#~ msgstr "文件 %1 不存在"

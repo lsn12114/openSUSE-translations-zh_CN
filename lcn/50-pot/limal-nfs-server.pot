@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: translation@suse.de\n"
+"POT-Creation-Date: 2009-07-10 14:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/FileUtils.cpp:67
+msgid "The filename is required."
+msgstr ""
+
+#: src/FileUtils.cpp:75
+msgid "Cannot open file '%1'."
+msgstr ""
+
+#: src/FileUtils.cpp:84
+msgid "Cannot lock file '%1'."
+msgstr ""
+
+#: src/KNfsExports.cpp:476
+msgid "Do not use \\000 octets."
+msgstr ""
+
+#: src/KNfsExports.cpp:487
+msgid "A quoted value has been found, but no closing quote can be found."
+msgstr ""
+
+#: src/KNfsExports.cpp:634 src/KNfsExports.cpp:657
+msgid "Invalid export entry in line %1."
+msgstr ""
+
+#: src/KNfsExports.cpp:700
+msgid "Invalid export filename."
+msgstr ""
+
+#: src/KNfsExports.cpp:710 src/KNfsIdmapdConf.cpp:369
+msgid "Unable to create the backup file %1."
+msgstr ""
+
+#: src/KNfsExports.cpp:722
+msgid "Unable to open the export file %1."
+msgstr ""
+
+#: src/KNfsIdmapdConf.cpp:312
+msgid "Found a section instead of entriesat line %1"
+msgstr ""
+
+#: src/KNfsIdmapdConf.cpp:321
+msgid "Missing '[' or ']' at line %1."
+msgstr ""
+
+#: src/KNfsIdmapdConf.cpp:330
+msgid "A section name must preceed the entry at line %1."
+msgstr ""
+
+#: src/KNfsIdmapdConf.cpp:359
+msgid "An idmapd configuration file is required."
+msgstr ""
+
+#: src/KNfsIdmapdConf.cpp:381
+msgid "Unable to open idmapd configuration file %1."
+msgstr ""
+
+#: src/NfsExportRules.cpp:59 src/NfsExportRules.cpp:152
+msgid "The export option name is required."
+msgstr ""
+
+#: src/NfsExportRules.cpp:185
+msgid "The export option is required."
+msgstr ""
+
+#: src/NfsExportRules.cpp:203
+msgid "Conflict options for the NFS export file are required."
+msgstr ""
+
+#: src/NfsExportRules.cpp:408 src/NfsExportRules.cpp:431
+msgid "Export option name %1 already exists."
+msgstr ""
+
+#: src/NfsExportRules.cpp:437
+msgid "Export option name %1 does not exist."
+msgstr ""
+
+#: src/NfsExports.cpp:131
+msgid "The export option name may not contain spaces."
+msgstr ""
+
+#: src/NfsExports.cpp:136
+msgid "The export option name may not contain '=' characters."
+msgstr ""
+
+#: src/NfsExports.cpp:141
+msgid "The export option name may not contain ',' characters."
+msgstr ""
+
+#: src/NfsExports.cpp:146
+msgid "The export option name may not contain '(' characters."
+msgstr ""
+
+#: src/NfsExports.cpp:151
+msgid "The export option name may not contain ')' characters."
+msgstr ""
+
+#: src/NfsExports.cpp:175
+msgid "The export option value may not contain ',' characters."
+msgstr ""
+
+#: src/NfsExports.cpp:180
+msgid "The export option value may not contain '(' characters."
+msgstr ""
+
+#: src/NfsExports.cpp:185
+msgid "The export option value may not contain ')' characters."
+msgstr ""
+
+#: src/NfsExports.cpp:206
+msgid "Invalid export option and value pair."
+msgstr ""
+
+#: src/NfsExports.cpp:283 src/NfsExports.cpp:296
+msgid "Invalid export client option string."
+msgstr ""
+
+#: src/NfsExports.cpp:388
+msgid "Invalid export client name."
+msgstr ""
+
+#: src/NfsExports.cpp:411
+msgid "Export options may not be empty, but an option in the list is empty."
+msgstr ""
+
+#: src/NfsExports.cpp:599
+msgid "The export path may not be empty."
+msgstr ""
+
+#: src/NfsExports.cpp:606
+msgid "The export path must be an absolute path."
+msgstr ""
+
+#: src/NfsExports.cpp:619
+msgid "The input client list may not be empty."
+msgstr ""
+
+#: src/NfsExports.cpp:881 src/NfsExports.cpp:911
+msgid "The path in the export entry may not be empty."
+msgstr ""
+
+#: src/NfsExports.cpp:889
+msgid "The list of entries to set may not be empty."
+msgstr ""
+
+#: src/NfsIdmapdConf.cpp:116
+msgid "The idmapd entry name may not contain spaces."
+msgstr ""
+
+#: src/NfsIdmapdConf.cpp:121
+msgid "The idmapd entry name may not contain '=' characters."
+msgstr ""
+
+#: src/NfsIdmapdConf.cpp:126
+msgid "The idmapd entry name may not contain ',' characters."
+msgstr ""
+
+#: src/NfsIdmapdConf.cpp:131
+msgid "The idmapd entry name may not contain '(' characters."
+msgstr ""
+
+#: src/NfsIdmapdConf.cpp:136
+msgid "The idmapd entry name may not contain ')' characters."
+msgstr ""
+
+#: src/NfsIdmapdConf.cpp:170
+msgid "Invalid idmapd entry and value pair."
+msgstr ""
+
+#: src/NfsIdmapdConf.cpp:178
+msgid "The idmapd entry must be in the form 'entry=value'."
+msgstr ""
+
+#: src/NfsIdmapdRules.cpp:68
+msgid "The idmapd entry name may not be empty."
+msgstr ""
+
+#: src/NfsIdmapdRules.cpp:77
+msgid "The idmapd section name may not be empty."
+msgstr ""
+
+#: src/NfsIdmapdRules.cpp:207
+msgid "An idmapd entry name %1 already exists."
+msgstr ""
+
+#: src/NfsIdmapdRules.cpp:420
+msgid "Section information for %1 already exists."
+msgstr ""

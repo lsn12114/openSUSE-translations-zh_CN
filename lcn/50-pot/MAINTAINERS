@@ -1,0 +1,44 @@
+apparmor-parser     : Jeff Mahoney <jeffm@novell.com>
+apparmor-utils      : Jeff Mahoney <jeffm@novell.com>
+apparmorapplet      : Jeff Mahoney <jeffm@novell.com>
+bootloader          : Steffen Winterfeldt <snwint@suse.de>
+command-not-found   : Pavol Rusnak <prusnak@suse.cz>
+community-repositories : Stephan Kulow <coolo@suse.de>
+cracklib            : Michael Calmer <mc@suse.de>
+dialogsolver        : Stefan Schubert <schubi@suse.de>
+gnome-packagekit    : Gabriel Burt <gburt@novell.com>
+gnome-patch-translation : Stanislav Brabec <sbrabec@suse.cz>
+kde4-openSUSE       : KDE Maintainers <kde-maintainers@suse.de>
+kio_sysinfo         : KDE Maintainers <kde-maintainers@suse.de>
+krb5-ticket-watcher : Michael Calmer <mc@suse.de>
+krpmview            : KDE Maintainers <kde-maintainers@suse.de>
+kiwi                : Marcus Schaefer <ms@suse.de>
+libstorage          : Arvin Schnell <aschnell@suse.de>
+limal               : Michael Calmer <mc@suse.de>
+limal-apparmor-control : Michael Calmer <mc@suse.de>
+limal-ca-mgm        : Michael Calmer <mc@suse.de>
+limal-nfs-server    : Michael Calmer <mc@suse.de>
+limal-runlevel      : Michael Calmer <mc@suse.de>
+linuxrc             : Steffen Winterfeldt <snwint@suse.de>
+lxcc                : Andrea Florio <andrea@opensuse.org>
+opensuse-org : Guillaume GARDET <guillaume@opensuse.org>
+opensuse-org-theme  : Thomas Schmidt <tom@opensuse.org>
+pam_krb5            : Michael Calmer <mc@suse.de>
+pam_pwcheck         : Thorsten Kukuk <kukuk@suse.de>
+pam_unix2	    : Thorsten Kukuk <kukuk@suse.de>
+pam-config	    : Thorsten Kukuk <kukuk@suse.de>
+patterns            : Stephan Kulow <coolo@suse.de>
+RELEASE-NOTES-openSUSE : Karl Eichwalder <ke@suse.de>
+scout               : Pavol Rusnak <prusnak@suse.cz>
+simple-ccsm-kde     : KDE Maintainers <kde-maintainers@suse.de>
+slideshow           : Karl Eichwalder <ke@suse.de>
+snapper		    : Arvin Schnell <aschnell@suse.de>
+software-opensuse-org : Thomas Schmidt <tom@opensuse.org>
+SUSEgreeter         : KDE Maintainers <kde-maintainers@suse.de>
+susetranslations    : KDE Maintainers <kde-maintainers@suse.de>
+update-desktop-files: Karl Eichwalder <ke@suse.de>
+xen-vm-install      : Charles Arnold <carnold@novell.com>
+zypp                : Michael Andres <ma@suse.de>
+zypper              : Michael Andres <ma@suse.de>
+
+[Please, keep the list above sorted]

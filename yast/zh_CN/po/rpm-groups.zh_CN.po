@@ -6,6 +6,7 @@
 # James Su <suzhe@tsinghua.org.cn>, 2004.
 # Novell Language <language@novell.com>, 2004, 2005.
 # Eric Shan <ericalways@gmail.com>, 2008, 2012.
+# Marguerite Su <i@marguerite.su>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: RPM\n"
@@ -541,10 +542,10 @@ msgid "Suite"
 msgstr "套装"
 
 msgid "SUSE"
-msgstr "苏轼"
+msgstr "SUSE"
 
 msgid "SUSE internal"
-msgstr "苏轼内部"
+msgstr "SUSE 内部"
 
 msgid "System"
 msgstr "系统"

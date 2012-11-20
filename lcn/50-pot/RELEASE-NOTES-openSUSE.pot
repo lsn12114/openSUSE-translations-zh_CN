@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-08-30 10:24+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: RELEASE-NOTES-openSUSE.xml:8(title)
+msgid "<phrase os=\"slprof\">openSUSE 12.2</phrase> Release Notes"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:10(para)
+msgid "Version:"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:11(para)
+msgid "12.2.6 (2012-08-21)"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:13(para)
+msgid "Copyright © 2012 Novell, Inc."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:14(para)
+msgid "Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included as the <filename>fdl.txt</filename> file."
+msgstr ""
+
+#. Previous Release Notes
+#: RELEASE-NOTES-openSUSE.xml:51(para)
+msgid "If you upgrade from an older version to this openSUSE release, see previous release notes listed here: <ulink url=\"http://en.opensuse.org/openSUSE:Release_Notes\"/>"
+msgstr ""
+
+#. <para os="slprof">
+#.   This public beta test is part of the &opensuse; project.  Information 
+#.   about the project is available at <ulink url="http://opensuse.org"/>.</para>
+#.  
+#.  <para os="slprof">Find information about known bugs for this beta in the
+#.   &opensuse; wiki at <ulink url="http://en.opensuse.org/Bugs:Most_Annoying_Bugs"/>.
+#.   Please report all bugs you encounter using this prerelease of &opensuse;
+#.   &suse-version; in the Novell Bugzilla at <ulink
+#.    url="http://en.opensuse.org/Submitting_Bug_Reports"/>.  If you would like to
+#.   see anything added to the release notes, please file a bug report against the
+#.   <quote>Release Notes</quote> component.
+#.  </para>
+#: RELEASE-NOTES-openSUSE.xml:72(para)
+msgid "These release notes cover the following areas:"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:78(para)
+msgid "<xref linkend=\"misc\"/>: These entries are automatically included from openFATE, the Feature- and Requirements Management System (<ulink url=\"http://features.opensuse.org\"/>)."
+msgstr ""
+
+#. <para>For the moment, these snippets are listed unsorted&mdash;we are
+#.     working on improvements.</para>
+#: RELEASE-NOTES-openSUSE.xml:86(para) RELEASE-NOTES-openSUSE.xml:117(para)
+msgid "N/A"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:95(para)
+msgid "<xref linkend=\"installation\"/>: Read this if you want to install the system from scratch."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:100(para)
+msgid "<xref linkend=\"general\"/>: Information that everybody should read."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:105(para)
+msgid "<xref linkend=\"upgrade\"/>: Issues related to the process if you run a system upgrade from the previous release to this openSUSE version."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:110(para)
+msgid "<xref linkend=\"technical\"/>: This section contains a number of technical changes and enhancements for the experienced user."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:116(title)
+msgid "Miscellaneous"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:138(title)
+msgid "Installation"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:141(title)
+msgid "For Detailed Installation Information"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:143(para)
+msgid "For detailed installation information, see the <quote>openSUSE Documentation</quote> referenced below."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:150(title)
+msgid "General"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:154(title)
+msgid "openSUSE Documentation"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:157(para)
+msgid "In Start-Up, find step-by-step installation instructions, as well as introductions to the KDE and Gnome desktops and to the LibreOffice suite. Also covered are basic administration topics such as deployment and software management and an introduction to the bash shell."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:164(para)
+msgid "Reference covers administration, and system configuration in detail and explains how to set up various network services."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:168(para)
+msgid "The Security Guide introduces basic concepts of system security, covering both local and network security aspects."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:172(para)
+msgid "The System Analysis and Tuning Guide helps with problem detection, resolution and optimization."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:176(para)
+msgid "Virtualization with KVM offers an introduction to setting up and managing virtualization with KVM, libvirt and QEMU tools."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:204(title)
+msgid "System Upgrade"
+msgstr ""
+
+#. bnc#769570
+#: RELEASE-NOTES-openSUSE.xml:208(title)
+msgid "sysvinit Deprecated"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:209(para)
+msgid "Some desktop components depend on services provided by systemd only. So while openSUSE 12.2 still has basic support for booting a system with sysvinit as fallback, sysvinit nevertheless is considered deprecated and probably even faulty or broken in some regard. If you have any issues with a sysvinit booted system, use systemd before filing bug reports."
+msgstr ""
+
+#. bnc#748879
+#: RELEASE-NOTES-openSUSE.xml:221(title)
+msgid "mount and losetup Dropped Support for cryptoloop"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:222(para)
+msgid "<command>cryptoloop</command> has known weaknesses and is therefore considered obsolete in favor of <command>dm-crypt</command> since years. <command>mount</command> (e.g., via <filename>/etc/fstab</filename>) and <command>losetup</command> now finally dropped support for <command>cryptoloop</command>. This means old fstab entries that use <command>cryptoloop</command> to access encrypted containers no longer work this way. The containers can still be accessed with <command>dm-crypt</command> (<filename>/etc/crypttab</filename>), though. Refer to <ulink url=\"http://en.opensuse.org/Encrypted_Filesystems\"/> for examples how to use to the new method."
+msgstr ""
+
+#. bnc#716136
+#: RELEASE-NOTES-openSUSE.xml:239(title)
+msgid "Mounting Encrypted Partitions Using systemd"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:240(para)
+msgid "If encrypted partitions are not automatically mounted when using systemd, the <literal>noauto</literal> flag in <filename>/etc/fstab</filename> for these partitions could be the cause. Replacing this flag with <literal>nofail</literal> will fix it. For instance, change the following line:"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:247(screen)
+#, no-wrap
+msgid "/dev/mapper/cr_sda3  /home   ext4    acl,user_xattr,noauto 0 2"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:248(para)
+msgid "to"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:249(screen)
+#, no-wrap
+msgid "/dev/mapper/cr_sda3  /home   ext4    acl,user_xattr,nofail 0 2"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:255(title)
+msgid "Technical"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:259(title)
+msgid "Initializing Graphics with KMS (Kernel Mode Setting)"
+msgstr ""
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:262(para)
+msgid "With openSUSE 11.3 we switched to KMS (Kernel Mode Setting) for Intel, ATI and NVIDIA graphics, which now is our default. If you encounter problems with the KMS driver support (intel, radeon, nouveau), disable KMS by adding <literal>nomodeset</literal> to the kernel boot command line. To set this permanently, add it to the kernel command line in <filename>/boot/grub/menu.lst</filename>. This option makes sure the appropriate kernel module (intel, radeon, nouveau) is loaded with <literal>modeset=0</literal> in <filename>initrd</filename>, i.e. KMS is disabled."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:273(para)
+msgid "In the rare cases when loading the DRM module from <filename>initrd</filename> is a general problem and unrelated to KMS, it is even possible to disable loading of the DRM module in <filename>initrd</filename> completely. For this set the <literal>NO_KMS_IN_INITRD</literal> sysconfig variable to <literal>yes</literal> via YaST, which then recreates <filename>initrd</filename> afterwards. Reboot your machine."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:281(para)
+msgid "On Intel without KMS the Xserver falls back to the <literal>fbdev</literal> driver (the <literal>intel</literal> driver only supports KMS); alternatively, for legacy GPUs from Intel the \"intellegacy\" driver (<systemitem>xorg-x11-driver-video-intel-legacy</systemitem> package) is available, which still supports UMS (User Mode Setting). To use it, edit <filename>/etc/X11/xorg.conf.d/50-device.conf</filename> and change the driver entry to <literal>intellegacy</literal>."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:291(para)
+msgid "On ATI for current GPUs it falls back to <literal>radeonhd</literal>. On NVIDIA without KMS the <literal>nv</literal> driver is used (the <literal>nouveau</literal> driver supports only KMS). Note, newer ATI and NVIDIA GPUs are falling back to <literal>fbdev</literal>, if you specify the <literal>nomodeset</literal> kernel boot parameter."
+msgstr ""
+
+#. bnc#727092 and bnc#769570
+#: RELEASE-NOTES-openSUSE.xml:330(title)
+msgid "Booting with Deprecated sysvinit"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:332(para)
+msgid "By default, openSUSE now boots using <command>systemd</command>. In case of trouble, you can try to switch back to the deprecated <command>sysvinit</command> way by pressing the F5 key on the boot. For more information about limitations when booting with sysvinit, see <xref linkend=\"sec.122.sysv\"/>."
+msgstr ""
+
+#. bnc#725942
+#: RELEASE-NOTES-openSUSE.xml:342(title)
+msgid "systemd: Supplying Service Start-up Parameters"
+msgstr ""
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:344(para)
+msgid "<command>systemctl</command> only supports \"standard\" parameters (see <ulink url=\"http://www.freedesktop.org/wiki/Software/systemd/Incompatibilities\"/>)."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:349(para)
+msgid "You can bypass this new behavior by calling the start-up script directly, for example:"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:353(screen)
+#, no-wrap
+msgid "cd /etc/init.d\n./apache2 &lt;your_parameters&gt;\n"
+msgstr ""
+
+#. bnc#726387
+#: RELEASE-NOTES-openSUSE.xml:360(title)
+msgid "systemd: System Shutdown"
+msgstr ""
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:363(para)
+msgid "To halt and poweroff the system when using <command>systemd</command>, issue <command>halt -p</command> or <command>shutdown -h now</command> on the command-line or use the shutdown button provided by your desktop environment."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:370(para)
+msgid "Note: A plain <command>halt</command> will not shutdown the system properly."
+msgstr ""
+
+#. bnc#731890
+#: RELEASE-NOTES-openSUSE.xml:376(title)
+msgid "systemd: Making Use of tmpfs: /run, /var/run, /media, etc."
+msgstr ""
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:379(para)
+msgid "systemd mounts several directories that are meant to contain volatile data only, as tmpfs filesystems: <filename>/run</filename>, <filename>/var/run</filename>, <filename>/var/lock</filename>, and <filename>/media</filename> are those directories. For background information, see <ulink url=\"http://lwn.net/Articles/436012/\"/>."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:387(para)
+msgid "Note: Do not store files that are meant to survive a reboot, in <filename>/run</filename>, <filename>/var/run</filename>, etc."
+msgstr ""
+
+#. bnc#735027
+#: RELEASE-NOTES-openSUSE.xml:395(title)
+msgid "systemd: Cleaning Directories (/tmp and /var/tmp)"
+msgstr ""
+
+#. <para>CHECKIT for 12.2.  Is this entry still required?</para>
+#: RELEASE-NOTES-openSUSE.xml:398(para)
+msgid "systemd maintains directories as specified in the <filename>tmpfiles.d</filename> directories and in <filename>/lib/systemd/system/systemd-tmpfiles-clean.timer</filename>. For more information, see the <filename>tmpfiles.d</filename> manpage."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:405(para)
+msgid "By default, systemd cleans <filename>tmp</filename> directories daily as configured in <filename>/usr/lib/tmpfiles.d/tmp.conf</filename>:"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:410(screen)
+#, no-wrap
+msgid "d /tmp 1777 root root 10d\nd /var/tmp 1777 root root 30d\n"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:414(para)
+msgid "Note: systemd does not honor sysconfig variables in <filename>/etc/sysconfig/cron</filename> such as <literal>TMP_DIRS_TO_CLEAR</literal>."
+msgstr ""
+
+#. bnc#774716
+#: RELEASE-NOTES-openSUSE.xml:423(title)
+msgid "Timezone Information in <filename>/etc/adjtime</filename>"
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:425(para)
+msgid "The third line of <filename>/etc/adjtime</filename> now contains information whether your BIOS clock runs on UTC or in local timezone (previously stored in <literal>HWCLOCK</literal> in <filename>/etc/sysconfig/clock</filename>)."
+msgstr ""
+
+#: RELEASE-NOTES-openSUSE.xml:432(para)
+msgid "If <filename>/etc/adjtime</filename> contains wrong drift information (for example after fixing date and time with <command>ntpdate</command> or have <command>ntpd</command> running), set the variable <literal>USE_ADJUST</literal> to \"<literal>no</literal>\" in <filename>/etc/sysconfig/clock</filename>."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: RELEASE-NOTES-openSUSE.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+

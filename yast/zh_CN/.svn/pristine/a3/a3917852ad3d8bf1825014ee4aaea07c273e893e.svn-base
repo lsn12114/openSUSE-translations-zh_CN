@@ -1,0 +1,404 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# , 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:34+0200\n"
+"PO-Revision-Date: 2012-10-27 22:49+0800\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. RelocationServer read dialog caption
+#: src/RelocationServer.ycp:299
+#| msgid "Initializing slp-server Configuration"
+msgid "Initializing relocation-server Configuration"
+msgstr "正在初始化迁移服务器配置"
+
+#. Progress stage 1/3
+#: src/RelocationServer.ycp:309
+#| msgid "Read the current SSHD configuration"
+msgid "Read the current xend configuration"
+msgstr "读取当前 xend 配置"
+
+#. Progress stage 2/3
+#: src/RelocationServer.ycp:311
+#| msgid "Read the current SSHD state"
+msgid "Read the current xend state"
+msgstr "读取当前 xend 状态"
+
+#. Progress stage 3/3
+#. Progress stage 1/2
+#: src/RelocationServer.ycp:313 src/RelocationServer.ycp:329
+msgid "Read firewall settings"
+msgstr "读取防火墙设置"
+
+#. Progress step 1/3
+#: src/RelocationServer.ycp:318
+#| msgid "Reading the current SSHD configuration..."
+msgid "Reading the current xend configuration..."
+msgstr "正在读取当前 xend 配置..."
+
+#. Progress step 2/3
+#: src/RelocationServer.ycp:320
+#| msgid "Reading the current SSHD state..."
+msgid "Reading the current xend state..."
+msgstr "正在读取当前 xend 状态..."
+
+#. Progress step 3/3
+#. Progress step 1/2
+#: src/RelocationServer.ycp:322 src/RelocationServer.ycp:336
+msgid "Reading firewall settings..."
+msgstr "正在读取防火墙设置..."
+
+#. Progress stage 2/2
+#: src/RelocationServer.ycp:331
+#| msgid "Read the current SSHD state"
+msgid "Read the current libvirtd/sshd state"
+msgstr "读取当前 libvirtd/sshd 状态"
+
+#. Progress stage 2/2
+#: src/RelocationServer.ycp:338
+#| msgid "Reading the current SSHD state..."
+msgid "Reading the current libvirtd/sshd state..."
+msgstr "正在读取当前 libvirtd/sshd 状态..."
+
+#. Error message
+#: src/RelocationServer.ycp:358
+#| msgid "Cannot read the current SSHD state."
+msgid "Cannot read the current Xend state."
+msgstr "无法读取当前 Xend 状态。"
+
+#. Error message
+#: src/RelocationServer.ycp:366
+msgid "Cannot read firewall settings."
+msgstr "无法读取防火墙设置。"
+
+#. Error message
+#: src/RelocationServer.ycp:374
+#| msgid "Cannot read the current SSHD state."
+msgid "Cannot read the current libvirtd/sshd state."
+msgstr "无法读取当前 libvirtd/sshd 状态。"
+
+#. RelocationServer read dialog caption
+#: src/RelocationServer.ycp:395
+#| msgid "Saving slp-server Configuration"
+msgid "Saving relocation-server Configuration"
+msgstr "正在保存迁移服务器配置"
+
+#. Progress stage 1
+#: src/RelocationServer.ycp:405
+#| msgid "Write the new settings"
+msgid "Write the Xend settings"
+msgstr "写入 Xend 设置"
+
+#. Progress stage 2
+#: src/RelocationServer.ycp:407
+#| msgid "Adjust the DNS service"
+msgid "Adjust the Xend service"
+msgstr "调整 Xend 服务"
+
+#. Progress stage 3
+#. Progress stage 2
+#: src/RelocationServer.ycp:409 src/RelocationServer.ycp:426
+msgid "Write firewall settings"
+msgstr "写入防火墙设置"
+
+#. Progress step 1
+#: src/RelocationServer.ycp:414
+#| msgid "Writing the settings..."
+msgid "Writing the Xend settings..."
+msgstr "正在写入 Xend 设置..."
+
+#. Progress step 2
+#: src/RelocationServer.ycp:416
+#| msgid "Adjusting the DNS service..."
+msgid "Adjusting the Xend service..."
+msgstr "正在调整 Xend 服务..."
+
+#. Progress step 3
+#. Progress stage 2
+#: src/RelocationServer.ycp:418 src/RelocationServer.ycp:433
+msgid "Writing firewall settings..."
+msgstr "正在写入防火墙设置..."
+
+#. Progress stage 1
+#: src/RelocationServer.ycp:424
+#| msgid "Adjust the DNS service"
+msgid "Adjust the libvirtd/sshd service"
+msgstr "调整 libvirtd/sshd 服务"
+
+#. Progress step 1
+#: src/RelocationServer.ycp:431
+#| msgid "Adjusting the DNS service..."
+msgid "Adjusting the libvirtd/sshd service"
+msgstr "正在调整 libvirtd/sshd 服务..."
+
+#. Error message
+#: src/RelocationServer.ycp:446
+#| msgid "Cannot write the SSHD settings."
+msgid "Cannot write the xend settings."
+msgstr "无法写入 xend 设置。"
+
+#. Error message
+#: src/RelocationServer.ycp:466
+msgid "Cannot write firewall settings."
+msgstr "无法写入防火墙设置。"
+
+#. yes-no popup
+#: src/complex.ycp:46
+msgid ""
+"Really exit?\n"
+"All changes will be lost."
+msgstr ""
+"是否确实要退出？\n"
+"所有修订都将丢失。"
+
+#: src/complex.ycp:131
+#| msgid "Select File"
+msgid "Select SSL Key File"
+msgstr "选择 SSL 密钥文件"
+
+#: src/complex.ycp:136
+#| msgid "Select Certificate File"
+msgid "Select SSL Cert File"
+msgstr "选择 SSL 证书文件"
+
+#. A popup dialog caption
+#: src/complex.ycp:228
+msgid "Add New Port"
+msgstr "添加新端口"
+
+#. A popup dialog caption
+#: src/complex.ycp:231
+msgid "Edit Current Port"
+msgstr "编辑当前端口"
+
+#. A text entry
+#: src/complex.ycp:233
+msgid "&Port"
+msgstr "端口(&P)"
+
+#: src/complex.ycp:255
+msgid "Port number must not be empty."
+msgstr "端口号不能为空。"
+
+#: src/complex.ycp:261
+#| msgid "Port number must not be empty."
+msgid "Port number out of range."
+msgstr "端口号超出范围。"
+
+#: src/complex.ycp:268
+#| msgid "Provider name %1 already exists."
+msgid "Port number already exists."
+msgstr "端口号已存在。"
+
+#: src/dialogs.ycp:42
+msgid "Global Settings"
+msgstr "全局设置"
+
+#: src/dialogs.ycp:44
+#| msgid "Remote Address:"
+msgid "Relocation Address:"
+msgstr "迁移地址："
+
+#: src/dialogs.ycp:45
+#| msgid "&Available Hosts:"
+msgid "Allowed Hosts:"
+msgstr "允许主机："
+
+#: src/dialogs.ycp:46
+#| msgid "&Set as Default"
+msgid "Use SSL as Default"
+msgstr "使用 SSL 为默认值"
+
+#: src/dialogs.ycp:51
+#| msgid "DNS Server"
+msgid "non-SSL Server"
+msgstr "非 SSL 服务器"
+
+#: src/dialogs.ycp:53 src/dialogs.ycp:60
+#| msgid "&Port:"
+msgid "Port:"
+msgstr "端口："
+
+#: src/dialogs.ycp:54 src/dialogs.ycp:81
+msgid "Enable"
+msgstr "启用"
+
+#: src/dialogs.ycp:58
+#| msgid "DNS Server"
+msgid "SSL Server"
+msgstr "SSL 服务器"
+
+#: src/dialogs.ycp:63
+#| msgid "Choose Key File"
+msgid "SSL Key File:"
+msgstr "SSL 密钥文件："
+
+#: src/dialogs.ycp:73
+#| msgid "Select File"
+msgid "SSL Cert File:"
+msgstr "SSL 证书文件："
+
+#: src/dialogs.ycp:85 src/dialogs.ycp:122
+msgid "Firewall"
+msgstr "防火墙"
+
+#: src/dialogs.ycp:96
+msgid "Tunneled migration"
+msgstr "隧道迁移"
+
+#: src/dialogs.ycp:98
+msgid "Make sure tunneled migration works"
+msgstr "确保隧道迁移正常"
+
+#: src/dialogs.ycp:101
+#| msgid "&Skip Migration"
+msgid "Plain migration"
+msgstr "普通迁移"
+
+#: src/dialogs.ycp:103
+msgid "Make sure plain migration works"
+msgstr "确保普通迁移正常"
+
+#: src/dialogs.ycp:105
+msgid "TCP Ports"
+msgstr "TCP 端口"
+
+#. A table header
+#: src/dialogs.ycp:109
+msgid "Port"
+msgstr "端口"
+
+#. a push button
+#: src/dialogs.ycp:113
+msgid "&Add..."
+msgstr "添加(&A)..."
+
+#. a push button
+#: src/dialogs.ycp:115
+msgid "&Edit..."
+msgstr "编辑(&E)..."
+
+#. a push button
+#: src/dialogs.ycp:117
+msgid "&Delete"
+msgstr "删除(&D)"
+
+#: src/dialogs.ycp:119
+#| msgid "Include &Default Repositories"
+msgid "Include default port range"
+msgstr "包含默认端口范围"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:40
+#| msgid ""
+#| "<p><b><big>Initializing slp-server Configuration</big></b><br>\n"
+#| "Please wait...<br></p>\n"
+msgid ""
+"<p><b><big>Initializing relocation-server Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在初始化迁移服务器配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:45
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化:</big></b><br>\n"
+"立即点击<b>终止</b>以安全中断配置工具。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:50
+#| msgid ""
+#| "<p><b><big>Saving slp-server Configuration</big></b><br>\n"
+#| "Please wait...<br></p>\n"
+msgid ""
+"<p><b><big>Saving relocation-server Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在保存迁移服务器配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:55
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"请点击<B>中断</B>,以中断保存过程。\n"
+"一个附加对话框将告诉您这样做是否安全。\n"
+"</p>\n"
+
+#: src/helps.ycp:61
+msgid ""
+"<p><b>Relocation Address</b><br>\n"
+"Address xend should listen on for relocation-socket connections</p>\n"
+"<p><b>Allowed Hosts</b><br>\n"
+"The hosts allowed to talk to the relocation port. If this is empty, then all "
+"connections are allowed. Otherwise, this should be a space-separated sequence "
+"of regular expressions. Any host with a fully-qualified domain name or an IP "
+"address that matches one of these regular expressions will be accepted.</p>\n"
+"<p><b>SSL Key File/SSL Cert File</b><br>\n"
+"SSL key and certificate to use for the ssl relocation interface</p>"
+msgstr ""
+"<p><b>迁移地址</b><br>\n"
+"xend 应监听迁移套接字连接的地址</p>\n"
+"<p><b>允许的主机</b><br>\n"
+"允许与迁移端口通讯的主机。如果留空则允许全部连接。否则应是一个空格分隔的正则表达式序列。将允许任意有完全匹配其中一个正则表达式的域名或 IP "
+"地址的主机。</p>\n"
+"<p><b>SSL 密钥文件/SSL 证书文件</b><br>\n"
+"ssl 迁移接口使用的 SSL 密钥和证书</p>"
+
+#: src/helps.ycp:68
+msgid ""
+"<p><b><big>Tunneled migration</big></b><br>\n"
+"The source host libvirtd opens a direct connection to the destination host "
+"libvirtd for sending migration data. This allows the option of encrypting the "
+"data stream.</p>\n"
+"<p><b><big>Plain migration</big></b><br>\n"
+"The source host VM opens a direct unencrypted TCP connection to the "
+"destination host for sending the migration data. Unless a port is manually "
+"specified, libvirt will choose a migration port in the default range.</p>"
+msgstr ""
+"<p><b><big>隧道迁移</big></b><br>\n"
+"源主机的 libvirtd 打开一个到目标主机的 libvirtd 的直接连接以发送迁移数据。这允许加密数据流。</p>\n"
+"<p><b><big>普通迁移</big></b><br>\n"
+"源主机 VM 打开一个到目标主机的直接非加密 TCP 连接以发送迁移数据。除非手动指定端口，libvirtd 将在默认范围内选择一个迁移端口。</p>"
+
+#. Command line help text for the relocation-server module
+#: src/relocation-server.ycp:75
+#| msgid "Configuration of ftp-server"
+msgid "Configuration of relocation-server"
+msgstr "迁移服务器配置"
+
+#: src/wizards.ycp:80
+msgid "&Xend"
+msgstr "&Xend"
+
+#: src/wizards.ycp:85
+msgid "&KVM"
+msgstr "&KVM"
+
+#: src/wizards.ycp:116
+#| msgid "Mail Server Configuration"
+msgid "Relocation Server Configuration"
+msgstr "迁移服务器配置"
+

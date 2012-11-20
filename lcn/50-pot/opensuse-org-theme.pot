@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-07 16:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../global-navigation-data.js.in:6
+msgid "http://software.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:8
+msgid "Latest stable release"
+msgstr ""
+
+#: ../global-navigation-data.js.in:9
+msgid "Get the latest stable release of openSUSE"
+msgstr ""
+
+#: ../global-navigation-data.js.in:12
+msgid "http://software.opensuse.org/developer/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:14
+msgid "Latest development release"
+msgstr ""
+
+#: ../global-navigation-data.js.in:15
+msgid "Get the latest development release of openSUSE"
+msgstr ""
+
+#: ../global-navigation-data.js.in:20
+msgid "Search for packages"
+msgstr ""
+
+#: ../global-navigation-data.js.in:21
+msgid "Get additional software from openSUSE Build Service"
+msgstr ""
+
+#: ../global-navigation-data.js.in:24
+msgid "http://en.opensuse.org/Derivatives"
+msgstr ""
+
+#: ../global-navigation-data.js.in:26
+msgid "Derivatives"
+msgstr ""
+
+#: ../global-navigation-data.js.in:27
+msgid "Get one of the specialized distributions built on openSUSE"
+msgstr ""
+
+#: ../global-navigation-data.js.in:35
+msgid "http://en.opensuse.org/Portal:Support"
+msgstr ""
+
+#: ../global-navigation-data.js.in:37
+msgid "Help"
+msgstr ""
+
+#: ../global-navigation-data.js.in:38
+msgid "Go to the Support Portal"
+msgstr ""
+
+#: ../global-navigation-data.js.in:41
+msgid "http://doc.opensuse.org"
+msgstr ""
+
+#: ../global-navigation-data.js.in:43
+msgid "Documentation"
+msgstr ""
+
+#: ../global-navigation-data.js.in:44
+msgid "Read guides and manuals"
+msgstr ""
+
+#: ../global-navigation-data.js.in:47
+msgid "http://en.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:49
+msgid "Wiki"
+msgstr ""
+
+#: ../global-navigation-data.js.in:50
+msgid "Read and write articles in our Wiki"
+msgstr ""
+
+#: ../global-navigation-data.js.in:53
+msgid "http://tube.opensuse.org"
+msgstr ""
+
+#: ../global-navigation-data.js.in:55
+msgid "Video"
+msgstr ""
+
+#: ../global-navigation-data.js.in:56
+msgid ""
+"Watch various tutorials, screencasts and recordings from talks and "
+"presentations"
+msgstr ""
+
+#: ../global-navigation-data.js.in:59
+msgid "http://forums.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:61
+msgid "Forums"
+msgstr ""
+
+#: ../global-navigation-data.js.in:62
+msgid "Participate in our forums"
+msgstr ""
+
+#: ../global-navigation-data.js.in:65
+msgid "http://en.opensuse.org/openSUSE:Mailing_lists"
+msgstr ""
+
+#: ../global-navigation-data.js.in:67
+msgid "Mailing lists"
+msgstr ""
+
+#: ../global-navigation-data.js.in:68
+msgid "Subscribe to mailinglists and look into their archives"
+msgstr ""
+
+#: ../global-navigation-data.js.in:71
+msgid "http://en.opensuse.org/openSUSE:IRC_list"
+msgstr ""
+
+#: ../global-navigation-data.js.in:73
+msgid "IRC channels"
+msgstr ""
+
+#: ../global-navigation-data.js.in:74
+msgid "Communicate online using Internet Relay Chat"
+msgstr ""
+
+#: ../global-navigation-data.js.in:82
+msgid "http://connect.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:84
+msgid "Connect"
+msgstr ""
+
+#: ../global-navigation-data.js.in:85
+msgid "Connect with your openSUSE friends"
+msgstr ""
+
+#: ../global-navigation-data.js.in:88
+msgid "http://planet.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:90
+msgid "Planet"
+msgstr ""
+
+#: ../global-navigation-data.js.in:91
+msgid "See blogposts aggregated into one stream"
+msgstr ""
+
+#: ../global-navigation-data.js.in:94
+msgid "http://news.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:96
+msgid "News"
+msgstr ""
+
+#: ../global-navigation-data.js.in:97
+msgid "Latest announcements from the team"
+msgstr ""
+
+#: ../global-navigation-data.js.in:100
+msgid "http://lizards.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:102
+msgid "Lizards"
+msgstr ""
+
+#: ../global-navigation-data.js.in:103
+msgid "Users blog platform"
+msgstr ""
+
+#: ../global-navigation-data.js.in:106
+msgid "http://shop.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:108
+msgid "Shop"
+msgstr ""
+
+#: ../global-navigation-data.js.in:109
+msgid "openSUSE gear here!"
+msgstr ""
+
+#: ../global-navigation-data.js.in:118
+msgid "http://en.opensuse.org/Portal:Development"
+msgstr ""
+
+#: ../global-navigation-data.js.in:120
+msgid "Developer documentation"
+msgstr ""
+
+#: ../global-navigation-data.js.in:121
+msgid "Centralized developer's documentation"
+msgstr ""
+
+#: ../global-navigation-data.js.in:124
+msgid "http://features.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:126
+msgid "Features"
+msgstr ""
+
+#: ../global-navigation-data.js.in:127
+msgid "Vote and work on upcoming openSUSE features"
+msgstr ""
+
+#: ../global-navigation-data.js.in:130
+msgid "http://build.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:132
+msgid "Build Service"
+msgstr ""
+
+#: ../global-navigation-data.js.in:133
+msgid "Create, build and enhance packages"
+msgstr ""
+
+#: ../global-navigation-data.js.in:136
+msgid "http://bugs.opensuse.org/"
+msgstr ""
+
+#: ../global-navigation-data.js.in:138
+msgid "Bugs"
+msgstr ""
+
+#: ../global-navigation-data.js.in:139
+msgid "Report bugs using Bugzilla"
+msgstr ""
+
+#: ../global-navigation-data.js.in:142
+msgid "http://susestudio.com"
+msgstr ""
+
+#: ../global-navigation-data.js.in:144
+msgid "SUSE Studio"
+msgstr ""
+
+#: ../global-navigation-data.js.in:145
+msgid "Create your own images using Studio"
+msgstr ""

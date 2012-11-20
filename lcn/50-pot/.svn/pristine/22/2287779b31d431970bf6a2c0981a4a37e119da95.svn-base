@@ -1,0 +1,126 @@
+# Translation of SuSE patches included in gnome-patch-translation.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2011-10-14 18:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: gconf-editor/data/gconf-editor.desktop.in.in.h:2
+msgid "GNOME Configuration Editor"
+msgstr ""
+
+#: gdm/daemon/simple-slave-main.c:184
+msgid "Force X to start on active vt"
+msgstr ""
+
+#: gnome-panel-3.0/gnome-panel/panel-addto.c:145
+msgid "Traditional Main Menu"
+msgstr ""
+
+#: gnome-panel-3.0/gnome-panel/panel-addto.c:146
+msgid "The traditional GNOME menu"
+msgstr ""
+
+#: gnome-panel-3.0/gnome-panel/panel-recent.c:54
+#, c-format
+msgid "%s does not exist."
+msgstr ""
+
+#: gnome-screensaver/src/gnome-screensaver-dialog.c:418
+msgid "Please enter password or swipe your finger"
+msgstr ""
+
+#: gnome-screensaver/src/gnome-screensaver-dialog.c:437
+msgid "Scan didn't quite work. Please try again"
+msgstr ""
+
+#: gnome-screensaver/src/gnome-screensaver-dialog.c:442
+msgid "Swipe was too short. Please try again"
+msgstr ""
+
+#: gnome-screensaver/src/gnome-screensaver-dialog.c:447
+msgid "Please center your finger on the sensor and try again"
+msgstr ""
+
+#: gnome-screensaver/src/gnome-screensaver-dialog.c:452
+msgid "Please remove finger from the sensor and try again"
+msgstr ""
+
+#: gnome-vfs-2.0/modules/network-method.c:1411
+msgid "Novell Services"
+msgstr ""
+
+#: GStreamer/tools/gst-inspect.c:1812
+msgid ""
+"Print the machine-parsable list of features of a plugin in RPM Provides "
+"compatible-format"
+msgstr ""
+
+#. These are the commonly used font styles, listed here only for
+#. translations.
+#: gtk20/gtk/gtkfontsel.c:81
+msgid "Ultra-Light"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:82
+msgid "Light"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:84
+msgid "Normal"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:85
+msgid "Regular"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:86
+msgid "Italic"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:87
+msgid "Oblique"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:88
+msgid "Semi-Bold"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:89
+msgid "Bold"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:90
+msgid "Ultra-Bold"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:91
+msgid "Heavy"
+msgstr ""
+
+#: gtk20/gtk/gtkfontsel.c:92
+msgid "Bold Italic"
+msgstr ""
+
+#: pan/pan.desktop.in.h:1
+msgid "Newsreader"
+msgstr ""
+
+#: xchat/src/common/cfgfiles.c:762
+msgid ""
+"* Running IRC as root is not recommended! You should\n"
+"  create a User Account and use that to login.\n"
+msgstr ""
+
+#: xchat/src/fe-gtk/setup.c:252
+msgid "Open an extra tab for outgoing msg"
+msgstr ""

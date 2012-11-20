@@ -1,0 +1,345 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# , 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:27+0200\n"
+"PO-Revision-Date: 2012-10-27 22:18+0800\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. Crowbar read dialog caption
+#: src/Crowbar.ycp:143
+#| msgid "Initializing Scanner Configuration"
+msgid "Initializing crowbar Configuration"
+msgstr "正在初始化 Crowbar 配置"
+
+#. Progress stage
+#: src/Crowbar.ycp:150
+#| msgid "Read the configuration"
+msgid "Read the configuraton"
+msgstr "读取配置"
+
+#. Progress step
+#: src/Crowbar.ycp:153
+msgid "Reading the configuration..."
+msgstr "正在读取配置..."
+
+#. Progress finished
+#: src/Crowbar.ycp:155 src/Crowbar.ycp:208
+msgid "Finished"
+msgstr "已完成"
+
+#. Crowbar read dialog caption
+#: src/Crowbar.ycp:196
+#| msgid "Saving Proxy Configuration"
+msgid "Saving crowbar Configuration"
+msgstr "正在保存 Crowbar 配置"
+
+#. Progress stage 1/2
+#: src/Crowbar.ycp:203
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. Progress step 1/2
+#: src/Crowbar.ycp:206
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. error popup
+#: src/complex.ycp:159
+msgid ""
+"The passwords do not match.\n"
+"Try again."
+msgstr ""
+"密码不匹配。\n"
+"请重试。"
+
+#. table entry (VLAN status)
+#: src/complex.ycp:198
+msgid "disabled"
+msgstr "已禁用"
+
+#. error popup
+#: src/complex.ycp:279
+#, ycp-format
+#| msgid "The subnet mask is invalid."
+msgid ""
+"The netmask '%1' is invalid.\n"
+"%2"
+msgstr ""
+"子网掩码 '%1' 无效。\n"
+"%2"
+
+#. error popup
+#: src/complex.ycp:287
+#, ycp-format
+#| msgid "The IP address is invalid."
+msgid ""
+"The IP address '%1' is invalid.\n"
+"%2"
+msgstr ""
+"IP 地址 '%1' 无效。\n"
+"%2"
+
+#. error popup
+#: src/complex.ycp:295
+#, ycp-format
+#| msgid "The remote IP address is invalid."
+msgid ""
+"The router address '%1' is invalid.\n"
+"%2"
+msgstr ""
+"路由地址 '%1' 无效。\n"
+"%2"
+
+#. error popup
+#: src/complex.ycp:301
+#, ycp-format
+#| msgid "The server name '%1' is known in the network."
+msgid "The router address '%1' is not part of network '%2'."
+msgstr "路由地址 '%1' 不是网络 '%2' 的一部分。"
+
+#. popup message
+#: src/complex.ycp:321
+#, ycp-format
+msgid ""
+"Some range addresses are is not part of network '%1'.\n"
+"Adapt them using 'Edit ranges' button."
+msgstr ""
+"一些地址段不是网络 '%1' 的一部分：\n"
+"使用 '编辑地址段' 按钮来调整它们。"
+
+#. inputfield label
+#: src/complex.ycp:411
+#| msgid "Min&imum IP Address"
+msgid "Min IP Address"
+msgstr "最小 IP 地址"
+
+#. inputfield label
+#: src/complex.ycp:414
+#| msgid "Ma&ximum IP Address"
+msgid "Max IP Address"
+msgstr "最大 IP 地址"
+
+#: src/complex.ycp:466
+#, ycp-format
+#| msgid ""
+#| "IP address %1 does not match\n"
+#| "the current network %2/%3.\n"
+msgid "The address '%1' is not part of network '%2'."
+msgstr "地址 '%1' 不是网络 '%2' 的一部分。"
+
+#. error message
+#: src/complex.ycp:476
+msgid "The lowest address must be lower than the highest one."
+msgstr "最低地址必须低于最高地址。"
+
+#. error message
+#: src/complex.ycp:501
+#, ycp-format
+msgid "Ranges '%1' and '%2' are overlapping."
+msgstr "段 '%1' 和 '%2' 有重叠。"
+
+#. textentry label
+#: src/complex.ycp:532
+#| msgid "Password for \"root\", the system administrator"
+msgid "Password for Crowbar Administrator"
+msgstr "Crowbar 系统管理员密码"
+
+#. help text
+#: src/complex.ycp:534
+#| msgid "U&se this password for system administrator"
+msgid "<p>Enter the password for Crowbar administrator.</p>"
+msgstr "<p>输入 Crowbar 系统管理员密码。</p>"
+
+#. textentry label
+#: src/complex.ycp:545
+#| msgid "Reenter the &Password"
+msgid "Repeat the Password"
+msgstr "重复密码"
+
+#. textentry label
+#: src/complex.ycp:552
+msgid "Mode"
+msgstr "模式"
+
+#. textentry label
+#: src/complex.ycp:561
+#| msgid "Cooling Policy"
+msgid "Bonding Policy"
+msgstr "粘着策略"
+
+#. table header
+#: src/complex.ycp:581
+msgid "Network"
+msgstr "网络"
+
+#: src/complex.ycp:581
+#| msgid "Sender Address"
+msgid "Subnet Address"
+msgstr "子网地址"
+
+#: src/complex.ycp:581
+msgid "Network Mask"
+msgstr "网络掩码"
+
+#: src/complex.ycp:581
+msgid "VLAN"
+msgstr "VLAN"
+
+#. checkbox label
+#: src/complex.ycp:590
+#| msgid "&Use LDAP"
+msgid "Use VLAN"
+msgstr "使用 VLAN"
+
+#. textentry label
+#: src/complex.ycp:600
+#| msgid "VLAN"
+msgid "VLAN ID"
+msgstr "VLAN ID"
+
+#. textentry label
+#: src/complex.ycp:610
+#| msgid "Routes: %1"
+msgid "Router"
+msgstr "路由"
+
+#. textentry label
+#: src/complex.ycp:623
+#| msgid "&Subnet"
+msgid "Subnet"
+msgstr "子网"
+
+#. textentry label
+#: src/complex.ycp:637
+msgid "Netmask"
+msgstr "网络掩码"
+
+#: src/complex.ycp:650
+msgid "Broadcast"
+msgstr "广播"
+
+#. checkbox label
+#: src/complex.ycp:660
+#| msgid "Bridge"
+msgid "Add Bridge"
+msgstr "添加网桥"
+
+#. push button label
+#: src/complex.ycp:669
+#| msgid "&Edit Zone..."
+msgid "&Edit Ranges..."
+msgstr "编辑地址段 (&E)..."
+
+#. tab header
+#: src/complex.ycp:680
+#| msgid "&Administration Settings"
+msgid "Administration Settings"
+msgstr "管理设置"
+
+#. tab header
+#: src/complex.ycp:693
+msgid "Network Mode"
+msgstr "网络模式"
+
+#. tab header
+#: src/complex.ycp:708
+#| msgid "Network"
+msgid "Networks"
+msgstr "网络"
+
+#. popup message %1 is FQDN
+#: src/complex.ycp:760
+#, ycp-format
+msgid ""
+"The SUSE Cloud Admin Server has been deployed. Changing the network is\n"
+"currently not supported.\n"
+"\n"
+"You can visit the Crowbar web UI on http://%1:3000/"
+msgstr ""
+"SuSE 云管理服务器已经部署。目前还不支持修改网络。\n"
+"\n"
+"您可以通过 http://%1:3000/ 访问 Crowbar 网页用户界面。"
+
+#. default dialog caption
+#: src/complex.ycp:774
+#| msgid "CD Creator Configuration Overview"
+msgid "Crowbar Configuration Overview"
+msgstr "Crowbar 配置概览"
+
+#. Command line help text for the Xcrowbar module
+#: src/crowbar.ycp:56
+#| msgid "Configuration of drbd"
+msgid "Configuration of crowbar"
+msgstr "Crowbar 配置"
+
+#. Read dialog help
+#: src/helps.ycp:41
+#| msgid ""
+#| "<p><b><big>Initializing Configuration</big></b><br>\n"
+#| "Please wait...<br></p>\n"
+msgid ""
+"<p><b><big>Initializing Crowbar Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在初始化 Crowbar 配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Write dialog help
+#: src/helps.ycp:46
+#| msgid ""
+#| "<p><b><big>Saving Configuration</big></b><br>\n"
+#| "Please wait...<br></p>\n"
+msgid ""
+"<p><b><big>Saving Crowbar Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在保存 Crowbar 配置</big></b><br>\n"
+"请稍候...<br></p>\n"
+
+#. Overview dialog help
+#: src/helps.ycp:51
+#| msgid "CD Creator Configuration Overview"
+msgid ""
+"<p><b>Crowbar Configuration Overview</b>\n"
+"<br></p>"
+msgstr ""
+"<p><b>Crowbar 配置概览</b>\n"
+"<br></p>"
+
+#. Ovreview dialog help
+#: src/helps.ycp:55
+msgid ""
+"<p>\n"
+"See the SUSE Cloud deployment guide for details on the network\n"
+"configuration and on using this YaST module.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"如何配置网络和使用此 YaST 模块请参考 SuSE 云部署指南。\n"
+"</p>"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:110
+#| msgid "Controller Configuration"
+msgid "Crowbar Configuration"
+msgstr "Crowbar 配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:112
+msgid "Initializing..."
+msgstr "正在初始化..."
+

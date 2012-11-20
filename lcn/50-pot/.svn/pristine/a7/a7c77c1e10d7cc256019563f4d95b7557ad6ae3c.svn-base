@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-30 23:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lxcc_template.moo:1
+msgid "LXDE-Control-Center"
+msgstr ""
+
+#: lxcc_template.moo:2
+msgid "LXDM Settings"
+msgstr ""
+
+#: lxcc_template.moo:3
+msgid "Configure Openbox"
+msgstr ""
+
+#: lxcc_template.moo:4
+msgid "Mouse&Keyboard"
+msgstr ""
+
+#: lxcc_template.moo:5
+msgid "Set Wallpaper"
+msgstr ""
+
+#: lxcc_template.moo:6
+msgid "Screensaver Settings"
+msgstr ""
+
+#: lxcc_template.moo:7
+msgid "Appearance"
+msgstr ""
+
+#: lxcc_template.moo:8
+msgid "PCManFM Settings"
+msgstr ""
+
+#: lxcc_template.moo:9
+msgid "PCManFM Super User Mode"
+msgstr ""
+
+#: lxcc_template.moo:10
+msgid "Refresh Panel"
+msgstr ""
+
+#: lxcc_template.moo:11
+msgid "Install Software"
+msgstr ""
+
+#: lxcc_template.moo:12
+msgid "YaST Control Center"
+msgstr ""
+
+#: lxcc_template.moo:13
+msgid "Session Settings"
+msgstr ""
+
+#: lxcc_template.moo:14
+msgid "Monitor Settings"
+msgstr ""
+

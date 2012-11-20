@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-06 14:22-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/apparmor-applet.c:281
+msgid ""
+"AppArmorApplet is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License, version 2, as "
+"published by\n"
+"the Free Software Foundation."
+msgstr ""
+
+#: src/preferences_dialog.c:39
+msgid "AppArmor Desktop Preferences"
+msgstr ""
+
+#: src/preferences_dialog.c:54
+msgid "Profile Generation"
+msgstr ""
+
+#: src/preferences_dialog.c:62
+msgid "Path"
+msgstr ""
+
+#: src/preferences_dialog.c:85
+msgid "YAST"
+msgstr ""
+
+#: src/preferences_dialog.c:86
+msgid "genprof"
+msgstr ""
+
+#: src/reject_list.c:60
+msgid "AppArmor Rejections"
+msgstr ""
+
+#: src/reject_list.c:213
+msgid "Profile application"
+msgstr ""
+
+#: src/reject_list.c:214
+msgid "Remove from list"
+msgstr ""

@@ -1,0 +1,1709 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007, 2008.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: sound\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:37+0200\n"
+"PO-Revision-Date: 2012-07-21 07:42+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. database entry
+#: sound/src/Joystick.ycp:43
+msgid "Generic Analog Joystick"
+msgstr "通用模拟游戏手柄"
+
+#: sound/src/Joystick.ycp:382
+msgid "Summary of the joystick configuration..."
+msgstr "游戏手柄配置摘要..."
+
+#. part of a summary text (PulseAudio is disabled/enabled)
+#: sound/src/PulseAudio.ycp:149
+msgid "Enabled"
+msgstr "已启用"
+
+#: sound/src/PulseAudio.ycp:149
+msgid "Disabled"
+msgstr "已禁用"
+
+#. yes/no popup text, %1 is chip name
+#: sound/src/Sound.ycp:291
+#, ycp-format
+msgid ""
+"It looks like probing the chip\n"
+"%1\n"
+"failed last time.\n"
+"\n"
+"Probe the chip now?\n"
+msgstr ""
+"上次对芯片\n"
+"%1\n"
+"的检测可能失败。\n"
+"\n"
+"是否立即检测芯片？\n"
+
+#. label
+#: sound/src/Sound.ycp:347
+msgid ""
+"No card was found.\n"
+"Attempt to detect the presence some old chips?\n"
+"\n"
+"Warning: The probe procedure can take some time and\n"
+"could make your system unstable.\n"
+msgstr ""
+"未找到声卡。\n"
+"是否尝试检测某些旧芯片？\n"
+"\n"
+"警告：检测过程可能需要一段时间并且\n"
+"可能使您的系统不稳定。\n"
+
+#. selection box label
+#: sound/src/Sound.ycp:356
+msgid "&Select the Drivers to Probe"
+msgstr "选择要检测的驱动程序(&S)"
+
+#. button label
+#: sound/src/Sound.ycp:359
+msgid "&Yes, Probe"
+msgstr "是，检测(&Y)"
+
+#. popup dialog header
+#: sound/src/Sound.ycp:378
+msgid "Probing:"
+msgstr "检测中："
+
+#. progress bar label
+#: sound/src/Sound.ycp:381
+msgid "Progress:"
+msgstr "进度："
+
+#. label (%1 is name of the chip)
+#: sound/src/Sound.ycp:404
+#, ycp-format
+msgid "Card with %1 Chip"
+msgstr "采用 %1 芯片的声卡"
+
+#. summary string, %1 is a list of packages
+#: sound/src/Sound.ycp:695
+#, ycp-format
+msgid "Required packages to install: %1"
+msgstr "需要安装软件包：%1"
+
+#. separator for constructing package list
+#: sound/src/Sound.ycp:697
+msgid ", "
+msgstr ", "
+
+#. sound Read dialog caption:
+#: sound/src/Sound.ycp:712
+msgid "Initializing Sound Configuration"
+msgstr "正在初始化声音配置"
+
+#. summary text: '(sound card is) Configured as snd-card-1'
+#: sound/src/Sound.ycp:959
+#, ycp-format
+msgid "Configured as %1."
+msgstr "配置为 %1。"
+
+#. table header (card name)
+#: sound/src/Sound.ycp:1228 sound/src/joy_dialog.ycp:618
+msgid "Sound card"
+msgstr "声卡"
+
+#: sound/src/complex.ycp:60
+#, ycp-format
+msgid "Configured as sound card number %1"
+msgstr "已配置为声卡编号 %1"
+
+#: sound/src/complex.ycp:65 sound/src/complex.ycp:96
+#, ycp-format
+msgid "Driver %1"
+msgstr "驱动程序 %1"
+
+#: sound/src/complex.ycp:101
+msgid "Not configured"
+msgstr "未配置"
+
+#. popup question text
+#: sound/src/complex.ycp:246
+msgid ""
+"To apply changes, the sound system\n"
+"must be restarted.\n"
+"Restart sound system now?\n"
+msgstr ""
+"要应用更改，必须重启动\n"
+"声音系统。\n"
+"是否立即重启动声音系统？\n"
+
+#: sound/src/complex.ycp:258
+msgid ""
+"Restart of the sound system has failed.\n"
+"Check options of the driver.\n"
+msgstr ""
+"重新启动声音系统失败。\n"
+"请检查驱动程序选项。\n"
+
+#. error popup message
+#: sound/src/complex.ycp:319
+msgid "PulseAudio is not installed or cannot be configured."
+msgstr "PulseAudio 没有安装或者不能配置。"
+
+#. frame label
+#: sound/src/complex.ycp:329
+msgid "PulseAudio Configuration"
+msgstr "PulseAudio 配置"
+
+#. check box label
+#: sound/src/complex.ycp:334
+msgid "&Enable PulseAudio Support"
+msgstr "启用 PulseAudio 支持(&E)"
+
+#. frame label
+#: sound/src/complex.ycp:372
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#. check box label
+#: sound/src/complex.ycp:377
+msgid "&Start Sequencer (Load MIDI Drivers)"
+msgstr "启动序列发生器(加载 MIDI 驱动)(&S)"
+
+#. menu item
+#: sound/src/complex.ycp:458
+msgid "&Volume..."
+msgstr "音量(&V)..."
+
+#. menu item
+#: sound/src/complex.ycp:460
+msgid "Play &Test Sound"
+msgstr "播放测试声音(&T)"
+
+#. menu item
+#: sound/src/complex.ycp:462
+msgid "&Start Sequencer"
+msgstr "启动序列发生器(&S)"
+
+#. menu item
+#: sound/src/complex.ycp:464
+msgid "Set as the &Primary Card"
+msgstr "设置为主声卡(&P)"
+
+#. menu item
+#: sound/src/complex.ycp:466
+msgid "PulseAudio &Configuration..."
+msgstr "PulseAudio 配置(&C)..."
+
+#. menu item, do not translate "SoundFont" term (see http://en.wikipedia.org/wiki/Sound_font)
+#: sound/src/complex.ycp:472
+msgid "&Install SoundFonts..."
+msgstr "安装声音字体(&I)..."
+
+#. dialog title
+#: sound/src/complex.ycp:476
+msgid "Sound Configuration"
+msgstr "声音配置"
+
+#. table header
+#: sound/src/complex.ycp:479
+msgid "Index"
+msgstr "索引"
+
+#: sound/src/complex.ycp:479
+msgid "Card Model"
+msgstr "声卡型号"
+
+#. notice about USB devices, used at several places
+#: sound/src/joy_dialog.ycp:31
+msgid "USB joysticks do not need any configuration, just connect them."
+msgstr "USB 游戏手柄不需要任何配置，连接上就行。"
+
+#. dialog header - %1: card name (e.g "Soundblaster 16")
+#: sound/src/joy_dialog.ycp:110
+#, ycp-format
+msgid "Joystick Configuration - %1"
+msgstr "游戏手柄配置 - %1"
+
+#. help text for joystick configuration 1/4
+#: sound/src/joy_dialog.ycp:114
+msgid ""
+"<P>In this dialog, specify your joystick type. If your\n"
+"joystick type is not in the list, select <B>Generic Analog Joystick</B>.</p>\n"
+"<p>You will not find any USB joysticks here. If you have a USB device, just plug in the joystick and start using it.</P>\n"
+msgstr ""
+"<P>在此对话框中指定游戏手柄类型。如果\n"
+"游戏手柄类型不在列表中，请选择<B>通用模拟游戏手柄</B>。</p>\n"
+"<p>此处未列出任何 USB 游戏手柄。如果使用的是 USB 游戏手柄，则只需插入游戏手柄并使用它即可。</P>\n"
+
+#. label above list of joystick types
+#: sound/src/joy_dialog.ycp:168
+msgid "&Select your joystick type:"
+msgstr "选择游戏手柄类型(&S)："
+
+#. warning message - user did not select any joystick type
+#: sound/src/joy_dialog.ycp:199
+msgid ""
+"Select the joystick type from the list\n"
+"before pressing Next.\n"
+"\n"
+msgstr ""
+"从列表中选择游戏手柄类型，\n"
+"然后按\"下一步\"。\n"
+"\n"
+
+#. joystick details, %1 is the sound card name to which is the joystick connected
+#. format description of a kernel driver, %1 is a description
+#. (e.g. Sound Blaster 16), %2 is a module name (e.g. snd-sb16)
+#: sound/src/joy_dialog.ycp:312 sound/src/routines.ycp:313
+#, ycp-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: sound/src/joy_dialog.ycp:338
+#, ycp-format
+msgid "Number of axes: %1"
+msgstr "轴数：%1"
+
+#: sound/src/joy_dialog.ycp:343
+#, ycp-format
+msgid "Number of buttons: %1"
+msgstr "按钮数：%1"
+
+#: sound/src/joy_dialog.ycp:403
+msgid "Unknown joystick model"
+msgstr "未知游戏手柄型号"
+
+#. the joystick device was not found (the joystick is probably disconnected)
+#: sound/src/joy_dialog.ycp:418
+msgid "<not found>"
+msgstr "<未找到>"
+
+#. add red warning about invalid configuration to the model name (%1)
+#: sound/src/joy_dialog.ycp:420
+#, ycp-format
+msgid "%1 - <font color=\"red\">Invalid configuration<font>"
+msgstr "%1 - <font color=\"red\">无效配置</font>"
+
+#. help text
+#: sound/src/joy_dialog.ycp:422
+msgid "The configuration is not active - either the joystick is not connected or a wrong driver is used"
+msgstr "配置未生效 - 要么未连接游戏手柄，要么使用了错误的驱动"
+
+#. help text
+#: sound/src/joy_dialog.ycp:424
+msgid "Press <b>Edit</b> to change the joystick driver or <b>Delete</b> to remove the configuration"
+msgstr "<p>按 <b>编辑</b> 来修改游戏手柄驱动或 <b>删除</b> 来移除配置"
+
+#. progress bar label
+#: sound/src/joy_dialog.ycp:469
+#, ycp-format
+msgid "Axis %1"
+msgstr "轴 %1"
+
+#. label
+#. label text ("Button" is joystick's button no. %1)
+#: sound/src/joy_dialog.ycp:493 sound/src/joy_dialog.ycp:559
+#, ycp-format
+msgid "Button %1"
+msgstr "按钮 %1"
+
+#. Popup label
+#: sound/src/joy_dialog.ycp:508
+msgid "Joystick Test"
+msgstr "游戏手柄测试"
+
+#. label - joystick details (%1 is model name, %2 is bus name)
+#: sound/src/joy_dialog.ycp:511
+#, ycp-format
+msgid "Joystick: %1, attached to: %2"
+msgstr "游戏手柄：%1,连接到：%2"
+
+#: sound/src/joy_dialog.ycp:615
+msgid "Sound Cards with Joystick Support"
+msgstr "带游戏手柄支持的声卡"
+
+#: sound/src/joy_dialog.ycp:622
+msgid "To add an USB joystick close this dialog and just connect it."
+msgstr "要添加 USB 游戏手柄，关闭此对话框并连接该手柄。"
+
+#. button label
+#: sound/src/joy_dialog.ycp:625
+msgid "&Configure joystick"
+msgstr "配置游戏手柄(&C)"
+
+#. menu item
+#: sound/src/joy_dialog.ycp:787
+msgid "&Test selected joystick..."
+msgstr "测试选中的游戏手柄(&T)..."
+
+#. dialog title
+#: sound/src/joy_dialog.ycp:791
+msgid "Joysticks"
+msgstr "游戏手柄"
+
+#. help text
+#: sound/src/joy_dialog.ycp:793
+msgid "<p><big><b>Joysticks</b></big></p>"
+msgstr "<p><big><b>游戏手柄</b></big></p>"
+
+#: sound/src/joy_dialog.ycp:794
+msgid "<p>Here is an overview of the detected joysticks.</p>"
+msgstr "<p>这是检测到游戏手柄的概览。</p>"
+
+#: sound/src/joy_dialog.ycp:795
+msgid "<p>To configure a new joystick connected to a Gameport press <b>Add</b> button.</p>"
+msgstr "<p>要配置一个连接到游戏端口的新游戏手柄, 请点击<b>增加</b>按钮。</p>"
+
+#. table header
+#: sound/src/joy_dialog.ycp:798
+msgid "Model"
+msgstr "型号"
+
+#: sound/src/joy_dialog.ycp:798
+msgid "Device name"
+msgstr "设备名"
+
+#: sound/src/joy_dialog.ycp:798
+msgid "Attached to"
+msgstr "连接到"
+
+#: sound/src/joy_dialog.ycp:848
+msgid "There is no soundcard with joystick support (gameport)."
+msgstr "没有带游戏手柄支持的声卡 (游戏端口)。"
+
+#: sound/src/joy_dialog.ycp:861
+msgid "There is no soundcard with unconfigured joystick."
+msgstr "没有带未配置的游戏手柄的声卡。"
+
+#. error popup
+#: sound/src/joy_dialog.ycp:952
+msgid ""
+"The selected joystick configuration is not active.\n"
+"\n"
+"The joystick cannot be tested."
+msgstr ""
+"选定的游戏手柄配置未激活。\n"
+"\n"
+"不能测试游戏手柄。"
+
+#. table entry (vendor was not defined)
+#: sound/src/manual.ycp:90
+msgid "Other"
+msgstr "其它"
+
+#. table entry (all vendors)
+#. item for all sound card models in sound card driver list
+#: sound/src/manual.ycp:94 sound/src/routines.ycp:321
+msgid "All"
+msgstr "全部"
+
+#. selection box title
+#: sound/src/manual.ycp:183
+msgid "Sound Card &Vendor"
+msgstr "声卡制造商(&V)"
+
+#. selection box title
+#: sound/src/manual.ycp:185
+msgid "Sound card &driver"
+msgstr "声卡驱动程序(&D)"
+
+#. selection box title
+#: sound/src/manual.ycp:191
+msgid "Sound card &model"
+msgstr "声卡型号(&M)"
+
+#. checkbox label
+#: sound/src/manual.ycp:197
+msgid "Show List of Kernel Modules"
+msgstr "显示内核模块的列表"
+
+#. input field - label
+#: sound/src/manual.ycp:200
+msgid "&Search"
+msgstr "搜索(&S)"
+
+#. dialog title
+#: sound/src/manual.ycp:205
+msgid "Manual Sound Card Selection"
+msgstr "手动声卡选择"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:32
+msgid "Master"
+msgstr "主要的"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:34
+msgid "PCM"
+msgstr "PCM"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:36
+msgid "Master Mono"
+msgstr "主单声道"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:38
+msgid "Headphone"
+msgstr "耳机"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:40
+msgid "Line"
+msgstr "线路"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:42
+msgid "CD"
+msgstr "CD"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:44
+msgid "Mic"
+msgstr "麦克风"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:46
+msgid "Video"
+msgstr "视频"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:48
+msgid "Phone"
+msgstr "电话"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:50
+msgid "Aux"
+msgstr "辅助音频"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:52
+msgid "PC Speaker"
+msgstr "PC 扬声器"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:54
+msgid "Bass"
+msgstr "低音"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:56
+msgid "Treble"
+msgstr "高音"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:58
+msgid "Surround"
+msgstr "环绕"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:60
+msgid "LFE"
+msgstr "LFE"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:62
+msgid "Center"
+msgstr "中置"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:64
+msgid "Wave"
+msgstr "波形"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:66
+msgid "Wave Center"
+msgstr "中置波形"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:68
+msgid "Wave Surround"
+msgstr "环绕波形"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:70
+msgid "AC97"
+msgstr "AC97"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:72
+msgid "Music"
+msgstr "音乐"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:74
+msgid "Front"
+msgstr "前声"
+
+#. channel name - label for IntField widget in mixer dialog
+#: sound/src/mixer.ycp:76
+msgid "iSpeaker"
+msgstr "iSpeaker"
+
+#. frame label
+#: sound/src/mixer.ycp:170
+msgid "&Master volume"
+msgstr "主音量(&M)"
+
+#. push button label
+#. Test - button label
+#: sound/src/mixer.ycp:176 sound/src/volume.ycp:78
+msgid "&Test"
+msgstr "测试(&T)"
+
+#. frame label
+#: sound/src/mixer.ycp:216
+msgid "&Other channels"
+msgstr "其它声道(&O)"
+
+#. card name
+#: sound/src/mixer.ycp:232 sound/src/read_routines.ycp:413
+msgid "Unknown"
+msgstr "未知"
+
+#. help text - mixer setting
+#: sound/src/mixer.ycp:302
+msgid ""
+"<P>With this dialog you can set volume for each channel of the selected sound card. \n"
+"Press <B>Next</B> to save your volume settings, press <B>Back</B> to restore the original settings.</P>"
+msgstr ""
+"<P>使用此对话框，可以设置选定声卡的每个声道的音量。\n"
+"按<B>下一步</B>保存音量设置，按<B>上一步</B>恢复原来的设置。</P>"
+
+#. dialog header, %1 = card id (number), %2 = name 
+#: sound/src/mixer.ycp:308
+#, ycp-format
+msgid "Volume Settings for Card %1 - %2"
+msgstr "声卡 %1 - %2 的音量设置"
+
+#. To translators: popup message, wrong value
+#: sound/src/options.ycp:56 sound/src/options.ycp:69
+#, ycp-format
+msgid "The value: %1 must be a number"
+msgstr "值 %1 必须为数字"
+
+#. To translators: "space" means blank character
+#: sound/src/options.ycp:83
+msgid "(space)"
+msgstr "(空格)"
+
+#. To translators: popup message, wrong value
+#: sound/src/options.ycp:86
+#, ycp-format
+msgid "String cannot contain: %1"
+msgstr "字符串不能包含：%1"
+
+#. popup message: wrong value; %1 is list of right values
+#: sound/src/options.ycp:103
+#, ycp-format
+msgid ""
+"The value must be one of\n"
+"%1"
+msgstr ""
+"值必须为\n"
+" %1 之一"
+
+#. label text
+#: sound/src/options.ycp:276
+msgid ""
+"Possible value:\n"
+"not known"
+msgstr ""
+"可能的值：\n"
+"未知"
+
+#: sound/src/options.ycp:325
+msgid "Name of the &Option"
+msgstr "选项名称(&O)"
+
+#: sound/src/options.ycp:330 sound/src/options.ycp:331
+msgid "&Value"
+msgstr "值(&V)"
+
+#: sound/src/options.ycp:330 sound/src/options.ycp:331
+msgid "&Option: "
+msgstr "选项(&O)："
+
+#: sound/src/options.ycp:361
+#, ycp-format
+msgid ""
+"Value of the option contains invalid\n"
+"characters '%1'.\n"
+"\n"
+"Enter a valid value."
+msgstr ""
+"选项值包含无效字符 '%1'。\n"
+"\n"
+"请输入一个有效的值。"
+
+#: sound/src/options.ycp:374
+#, ycp-format
+msgid ""
+"Name of the option contains invalid\n"
+"characters '%1'.\n"
+"\n"
+"Enter a valid name."
+msgstr ""
+"选项名称包含无效字符 '%1'。\n"
+"\n"
+"请输入一个有效的名称。"
+
+#: sound/src/options.ycp:390
+msgid "Change the Option"
+msgstr "更改选项"
+
+#: sound/src/options.ycp:395
+msgid "Add a New Option"
+msgstr "添加新选项"
+
+#: sound/src/options.ycp:413
+msgid "No description available"
+msgstr "无可用的描述"
+
+#. Table header -- option description
+#: sound/src/options.ycp:437
+msgid "Description"
+msgstr "描述"
+
+#. Table header -- option name
+#: sound/src/options.ycp:439
+msgid "Option"
+msgstr "选项"
+
+#. Table header -- value of an option
+#: sound/src/options.ycp:441
+msgid "Value"
+msgstr "值"
+
+#. restore original option values
+#: sound/src/options.ycp:449
+msgid "R&eset all"
+msgstr "全部重置(&E)"
+
+#. dialog title
+#: sound/src/options.ycp:514
+msgid "Sound Card Advanced Options"
+msgstr "声卡高级选项"
+
+#: sound/src/options.ycp:524
+msgid "There are no options for this module"
+msgstr "此模块没有选项"
+
+#. popup question
+#: sound/src/options.ycp:635
+msgid "Do you really want to reset all values?"
+msgstr "是否确实要重置所有值？"
+
+#. Confirmation: label text (detecting hardware: xxx)
+#: sound/src/read_routines.ycp:178
+msgid "Sound Cards"
+msgstr "声卡"
+
+#: sound/src/routines.ycp:45
+msgid "Unknown CD-ROM device"
+msgstr "未知的 CD-ROM 设备"
+
+#: sound/src/routines.ycp:63
+msgid "Unknown CD-ROM Device"
+msgstr "未知的 CD-ROM 设备"
+
+#: sound/src/routines.ycp:86
+msgid "CD-ROM &Device"
+msgstr "CD-ROM 设备(&D)"
+
+#. label to error popup, %1 is module name
+#: sound/src/routines.ycp:799
+#, ycp-format
+msgid ""
+"The kernel module %1 for sound support\n"
+"could not be loaded. This can be caused by incorrect\n"
+"module parameters, including invalid IO or IRQ parameters."
+msgstr ""
+"无法装载支持声卡的\n"
+"内核模块 %1。这可能是由不正确的模块\n"
+"参数(包括无效的 IO 或 IRQ 参数)引起的。"
+
+#. popup question: different module has to be choosed
+#: sound/src/routines.ycp:1028
+msgid ""
+"It seems that you have a Thinkpad 600E laptop.\n"
+"On this laptop, the CS4236 driver should be used\n"
+"although the CS46xx chip is detected.\n"
+"Attempt to probe the configuration of CS4236 driver?\n"
+"\n"
+"Warning: The probe procedure can take some time and\n"
+"could make your system unstable.\n"
+msgstr ""
+"您使用的好像是一台 Thinkpad 600E 便携式计算机。\n"
+"在这台便携式计算机上，虽然检测到的是 CS46xx 芯片，\n"
+"但仍应使用 CS4236 驱动程序。\n"
+"是否尝试检测 CS4236 驱动程序的配置？\n"
+"\n"
+"警告：检测过程可能需要一些时间，并可能\n"
+"使您的系统变得不稳定。\n"
+
+#. popup error message
+#: sound/src/sound.ycp:55
+msgid "Sound card database not found. Please check your installation."
+msgstr "未找到声卡数据库。请检查您的安装。"
+
+#. result message, %1 is card name
+#: sound/src/sound.ycp:181
+#, ycp-format
+msgid "Successfully added card '%1'."
+msgstr "已成功添加了声卡\"%1\"。"
+
+#. error message
+#: sound/src/sound.ycp:210 sound/src/sound.ycp:308 sound/src/sound.ycp:387
+#: sound/src/sound.ycp:430
+msgid "You must specify the card number."
+msgstr "必须指定声卡编号。"
+
+#. error message
+#: sound/src/sound.ycp:216 sound/src/sound.ycp:243 sound/src/sound.ycp:269
+#: sound/src/sound.ycp:315 sound/src/sound.ycp:394 sound/src/sound.ycp:437
+msgid "There is no such sound card."
+msgstr "没有这样的声卡。"
+
+#. label: list of card parameters will follow; %1 is card name, %2 driver
+#: sound/src/sound.ycp:277
+#, ycp-format
+msgid "Parameters of card '%1' (using module %2):\n"
+msgstr "声卡\"%1\"的参数(使用模块 %2)：\n"
+
+#. label (default value of sound module parameter)
+#: sound/src/sound.ycp:285
+#, ycp-format
+msgid ""
+"\n"
+"\tDefault Value: %1"
+msgstr ""
+"\n"
+"\t默认值：%1"
+
+#. label (current value of sound module parameter)
+#: sound/src/sound.ycp:288
+#, ycp-format
+msgid ""
+"\n"
+"\tCurrent Value: %1"
+msgstr ""
+"\n"
+"\t当前值：%1"
+
+#. translators: command line help text for Sound module
+#: sound/src/sound.ycp:487
+msgid "Sound card configuration module."
+msgstr "声卡配置模块。"
+
+#. translators: command line help text for summary action
+#: sound/src/sound.ycp:495
+msgid "Configuration summary of sound cards"
+msgstr "声卡配置摘要"
+
+#. translators: command line help text for add action
+#: sound/src/sound.ycp:500
+msgid "Add sound card. Without parameters, add first one detected."
+msgstr "添加声卡。如果不带参数，则添加检测到的第一块声卡。"
+
+#. help text for unknownd parameters
+#: sound/src/sound.ycp:503
+msgid "Value of the specific module parameter."
+msgstr "特定模块参数的值。"
+
+#. translators: command line help text for remove action
+#: sound/src/sound.ycp:508
+msgid "Remove sound cards"
+msgstr "删除声卡"
+
+#. translators: command line help text for test action
+#: sound/src/sound.ycp:513
+msgid "Play test sound on given sound card"
+msgstr "播放给定声卡的测试声音"
+
+#. translators: command line help text for test action
+#: sound/src/sound.ycp:518
+msgid "Show the information of given sound card"
+msgstr "显示给定声卡的信息"
+
+#. translators: command line help text for set action
+#: sound/src/sound.ycp:523
+msgid "Set the new values for given card parameters."
+msgstr "设置给定声卡参数的新值。"
+
+#. - for unknown parameter names
+#. help text for unknownd parameters; do not translate 'show'
+#: sound/src/sound.ycp:526
+msgid "Value of the specific module parameter. Use the 'show' command to see a list of allowed parameters."
+msgstr "特定模块参数的值。使用\"显示\"命令来查看所允许参数的列表。"
+
+#. translators: command line help text for volume action
+#: sound/src/sound.ycp:531
+msgid "Set the volume of specific channels of the given card."
+msgstr "设置给定声卡的特定声道的音量。"
+
+#. - for unknown parameter names
+#. help text;  do not translate 'channels' as command name
+#: sound/src/sound.ycp:534
+msgid "Value of the specific channel (0-100). Use the 'channels' command to see a list of available channels."
+msgstr "特定声道的值 (0-100)。使用\"声道\"命令来查看可用声道的列表。"
+
+#. translators: command line help text for modules action
+#: sound/src/sound.ycp:539
+msgid "List all available sound kernel modules."
+msgstr "列出所有可用的声卡内核模块。"
+
+#. translators: command line help text for channels action
+#: sound/src/sound.ycp:544
+msgid "List available volume channels of given card."
+msgstr "列出给定声卡的可用音量声道。"
+
+#. translators: command line help text for the 'card' option
+#: sound/src/sound.ycp:550
+msgid "Number of sound card"
+msgstr "声卡的数量"
+
+#. translators: command line help text for the 'all' option
+#: sound/src/sound.ycp:555
+msgid "All available sound cards"
+msgstr "所有可用的声卡"
+
+#. translators: command line help text for the 'module' option
+#: sound/src/sound.ycp:559
+msgid "Kernel module (driver) for the sound card"
+msgstr "声卡的内核模块(驱动程序)"
+
+#. translators: command line help text for the 'play' option
+#: sound/src/sound.ycp:564
+msgid "Play the test sound when the card is configured"
+msgstr "配置声卡时播放测试声音"
+
+#. translators: command line help text for the 'volume' option
+#: sound/src/sound.ycp:568
+msgid "Volume value for the sound card (0-100)"
+msgstr "声卡的音量值 (0-100)"
+
+#: sound/src/sound_proposal.ycp:44
+msgid "Detecting sound cards..."
+msgstr "正在检测声卡..."
+
+#. section name in proposal dialog
+#: sound/src/sound_proposal.ycp:83
+msgid "Sound"
+msgstr "声音"
+
+#. section name in proposal - menu item
+#: sound/src/sound_proposal.ycp:85
+msgid "&Sound"
+msgstr "声音(&S)"
+
+#: sound/src/sound_write.ycp:121
+#, ycp-format
+msgid ""
+"These required packages are not available: %1\n"
+"Some sound devices may not work or some features may not be supported.\n"
+"\n"
+"Enable or add an additional software repository containing the packages.\n"
+msgstr ""
+"需要的这些软件包不可用：%1\n"
+"一些声音设备可能不会正常工作，一些特性也可能不支持。\n"
+"\n"
+"请启用或者添加一个包含这些软件包的软件源。\n"
+
+#. progress bar item
+#: sound/src/sound_write.ycp:162
+msgid "Save module configuration"
+msgstr "保存模块配置"
+
+#. progress bar item
+#: sound/src/sound_write.ycp:164
+msgid "Save sound card information"
+msgstr "保存声卡信息"
+
+#. progress bar item
+#: sound/src/sound_write.ycp:166
+msgid "Save sysconfig values"
+msgstr "保存系统配置值"
+
+#. progress bar item
+#: sound/src/sound_write.ycp:168
+msgid "Start sound card"
+msgstr "启动声卡"
+
+#. progress bar item
+#: sound/src/sound_write.ycp:170
+msgid "Store volume"
+msgstr "存储音量"
+
+#. progress bar item
+#: sound/src/sound_write.ycp:172
+msgid "Store joystick settings"
+msgstr "存储游戏手柄设置"
+
+#. progress bar item
+#. progres bar label
+#: sound/src/sound_write.ycp:177 sound/src/sound_write.ycp:204
+#: sound/src/sound_write.ycp:206
+msgid "Saving sound card settings..."
+msgstr "正在保存声卡设置..."
+
+#. progress bar item
+#: sound/src/sound_write.ycp:179
+msgid "Saving card information..."
+msgstr "正在保存声卡信息..."
+
+#. progress bar item
+#: sound/src/sound_write.ycp:181
+msgid "Saving sysconfig values..."
+msgstr "正在保存系统配置值..."
+
+#. progress bar item
+#: sound/src/sound_write.ycp:183
+msgid "Starting sound card..."
+msgstr "正在启动声卡..."
+
+#. progress bar item
+#: sound/src/sound_write.ycp:185
+msgid "Storing volume settings..."
+msgstr "正在存储音量设置..."
+
+#. progress bar item
+#: sound/src/sound_write.ycp:187
+msgid "Storing joystick settings..."
+msgstr "正在存储游戏手柄设置..."
+
+#. progress bar item
+#: sound/src/sound_write.ycp:193
+msgid "Install required packages"
+msgstr "安装所需的软件包"
+
+#. progress bar item
+#: sound/src/sound_write.ycp:196
+msgid "Installing required packages..."
+msgstr "正在安装必需的包..."
+
+#. help text - setup type selection 1/3
+#. help text - quick configuration 1/3
+#: sound/src/texts.ycp:31 sound/src/texts.ycp:52
+msgid ""
+"<p>\n"
+"To configure this sound card and adjust its \n"
+"volume, check <b>Normal setup</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要配置此声卡并调整\n"
+"其音量，请选中<b>一般设置</b>。\n"
+"</p>\n"
+
+#. help text - setup type selection 2/3
+#: sound/src/texts.ycp:37
+msgid ""
+"<p>To set a special option, \n"
+"check <b>Advanced setup</b>.\n"
+"Most users will not need this.\n"
+"</p>\n"
+msgstr ""
+"<p>要设置特殊选项，\n"
+"请选中<b>高级设置</b>。\n"
+"大多数用户不需要使用此选项。\n"
+"</p>\n"
+
+#. help text - setup type selection 3/3
+#: sound/src/texts.ycp:43
+msgid ""
+"<p>\n"
+"If you do not want to adjust volume or set options now, \n"
+"check <b>Quick automatic setup</b>. You can set the volume and \n"
+"change options later.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"如果不希望立即调整音量或设置选项，\n"
+"请选中<b>快速自动设置</b>。您可以稍后设置音量并\n"
+"更改选项。\n"
+"</p>\n"
+
+#. help text - quick configuration 2/3
+#: sound/src/texts.ycp:58
+msgid ""
+"<p>\n"
+"If you do not want to adjust the volume now, check <b>Quick \n"
+"automatic setup</b>. You can set the volume and change options \n"
+"later.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"如果不希望立即调整音量，请选中<b>快速\n"
+"自动设置</b>。您可以稍后设置音量并\n"
+"更改选项。\n"
+"</p>\n"
+
+#. help text - quick configuration 3/3
+#: sound/src/texts.ycp:65
+msgid ""
+"<P>\n"
+"To configure a card that was not detected, \n"
+"check <B>More detailed installation of sound cards</B>.\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"要配置未检测到的声卡，\n"
+"请选中<B>更详细的声卡安装</B>。\n"
+"</P>\n"
+
+#. help text - sound card selection 1/2
+#: sound/src/texts.ycp:73
+msgid ""
+"<P>\n"
+"<b>Manually</b> choose the sound card  to \n"
+"configure. Search for a particular sound card by \n"
+"entering the name in the search box.\n"
+"</p>\n"
+msgstr ""
+"<P>\n"
+"<b>手动</b>选择要配置的\n"
+"声卡。在搜索框中输入名称\n"
+"可搜索特定的声卡。\n"
+"</p>\n"
+
+#. help text - sound card selection 2/2
+#: sound/src/texts.ycp:80
+msgid ""
+"<p>\n"
+"Select <b>All</b> to see the entire list of \n"
+"supported sound card models.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"选择<b>全部</b>查看支持的声卡型号的\n"
+"完整列表。\n"
+"</p>\n"
+
+#. help text - which sound card to configure 1/2
+#: sound/src/texts.ycp:88
+msgid ""
+"<p>\n"
+"Select the type of card to configure.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"选择要配置的声卡类型。\n"
+"</p>\n"
+
+#. help text - which sound card to configure 2/2
+#: sound/src/texts.ycp:93
+msgid ""
+"<p>\n"
+"If the list contains <b>autodetected</b> cards not yet \n"
+"configured, select one and continue. Otherwise,\n"
+"use <b>manual selection</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"如果列表中包含尚未配置的<b>自动检测到的</b>声卡，\n"
+"则选择一个声卡并继续。否则，\n"
+"请使用<b>手动选择</b>。\n"
+"</p>\n"
+
+#. To reset the sound configuration these programs must be terminated
+#. (popup label message)
+#: sound/src/texts.ycp:104 sound/src/texts.ycp:111
+msgid ""
+"There are programs running that are currently using \n"
+"the audio device.\n"
+"To reset the configuration, these \n"
+"programs must be terminated. Proceed?\n"
+msgstr ""
+"某些当前使用音频设备的程序\n"
+"正在运行。\n"
+"要重置配置，\n"
+"则必须终止这些程序。是否继续？\n"
+
+#. help text - options dialog 1/2
+#: sound/src/texts.ycp:120
+msgid ""
+"<p>\n"
+"Here, modify options for the sound modules. \n"
+"If you are not <b>absolutely sure</b> what you are doing, \n"
+"leave this dialog untouched. \n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"在此修改声音模块的选项。\n"
+"如果您不能<b>完全确定</b>所执行的操作，\n"
+"则保持此对话框不动。\n"
+"</p>\n"
+
+#. help text - options dialog 2/2
+#: sound/src/texts.ycp:127
+msgid ""
+"<p>\n"
+"Choose the option to set then use <b>Set</b> \n"
+"to enable the new value. If there are known possible values for \n"
+"the selected option, choose it under \n"
+"<B>Possible value</B>. Reset all values \n"
+"by pressing <b>Reset</b>. Numeric values can be entered as \n"
+"decimal or hexadecimal (hexadecimal with a <b>0x</b> prefix).\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"选择要设置的选项，然后使用<b>设置</b>\n"
+"启用新值。如果选定的选项有已知的\n"
+"可能值，请在\n"
+"<B>可能的值</B>下选择此值。通过按<b>重置</b>可重置\n"
+"所有值。可以采用\n"
+"十进制或十六进制(十六进制带有 <b>0x</b> 前缀)输入数值。\n"
+"</p>\n"
+
+#. help text - mixer setting 1/4
+#: sound/src/texts.ycp:139
+msgid ""
+"<p>\n"
+"Adjust the volume.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"调整音量。\n"
+"</p>\n"
+
+#. help text - mixer setting 2/4
+#: sound/src/texts.ycp:144
+msgid ""
+"<p>\n"
+"Test your sound card by pressing <b>Test</b>.\n"
+"\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"通过按<b>测试</b>测试声卡。\n"
+"\n"
+"</p>\n"
+
+#. help text - mixer setting 3/4
+#: sound/src/texts.ycp:150
+msgid ""
+"<p>\n"
+"After configuration is complete, use <b>amixer</b> \n"
+"or any program of your choice to adjust the volume.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"配置完成后，可使用 <b>amixer</b>\n"
+"或所选的任何程序调整音量。\n"
+"</p>\n"
+
+#. help text - mixer setting 4/4
+#: sound/src/texts.ycp:156
+msgid ""
+"<p><b>WARNING:</b> Start testing your\n"
+"sound card with <b>very</b> low volume settings to prevent \n"
+"damage.\n"
+"</p>\n"
+msgstr ""
+"<p><b>警告：</b>请采用<b>非常</b>低的\n"
+"音量设置开始测试声卡，以防止\n"
+"损坏声卡。\n"
+"</p>\n"
+
+#. warning/question message
+#: sound/src/texts.ycp:164
+msgid ""
+"Configuring this sound card on some Sony VAIO notebooks \n"
+"may fail if X is running. This can be avoided by setting the\n"
+"snd_vaio_hack option value to 1 or by \n"
+"configuring this card outside X. Proceed?\n"
+msgstr ""
+"如果 X 正在运行，则在某些 Sony VAIO 笔记本上配置\n"
+"此声卡可能失败。将 snd_vaio_hack 选项值设置为 1 或\n"
+"在 X 之外配置此声卡可以\n"
+"避免这种情况。是否继续？\n"
+
+#. error message
+#: sound/src/texts.ycp:172
+msgid "Error while saving '/etc/modules.conf'.\n"
+msgstr "保存\"/etc/modules.conf\"时出错。\n"
+
+#. list of error
+#: sound/src/texts.ycp:176
+#, ycp-format
+msgid ""
+"These errors occurred during saving configuration:\n"
+"%1"
+msgstr ""
+"保存配置时出现这些错误：\n"
+"%1"
+
+#. information message - success
+#: sound/src/texts.ycp:180
+msgid ""
+"The sound card was successfully configured.\n"
+"It is now available for use.\n"
+msgstr ""
+"已成功配置声卡。\n"
+"现在可以使用声卡了。\n"
+
+#: sound/src/texts.ycp:185
+msgid "The sound configuration was saved."
+msgstr "已保存声卡配置。"
+
+#. error message
+#: sound/src/texts.ycp:189
+#, ycp-format
+msgid "Error while saving file: %1 \n"
+msgstr "保存文件时出错：%1 \n"
+
+#. error message
+#: sound/src/texts.ycp:193
+msgid "Error while setting volume.\n"
+msgstr "设置音量时出错。\n"
+
+#: sound/src/texts.ycp:196
+msgid ""
+"The sound volume and configuration\n"
+"for the sound card \n"
+"will be saved now.\n"
+msgstr ""
+"将立即保存\n"
+"声卡的音量和\n"
+"配置。\n"
+
+#: sound/src/texts.ycp:202
+msgid "The sound configuration will be saved now."
+msgstr "将立即保存声卡配置。"
+
+#. this is the second part of message "The sound card 'sbLive' will be configured as the first card"
+#: sound/src/texts.ycp:207
+#, ycp-format
+msgid "will be configured as the first sound card (%1)"
+msgstr "将被配置为第 1 个声卡 (%1)"
+
+#: sound/src/texts.ycp:208
+#, ycp-format
+msgid "will be configured as the second sound card (%1)"
+msgstr "将被配置为第 2 个声卡 (%1)"
+
+#: sound/src/texts.ycp:209
+#, ycp-format
+msgid "will be configured as the third sound card (%1)"
+msgstr "将被配置为第 3 个声卡 (%1)"
+
+#: sound/src/texts.ycp:210
+#, ycp-format
+msgid "will be configured as the %2th sound card (%1)"
+msgstr "将被配置为第 %2 个声卡 (%1)"
+
+#. do not translate "SoundFont" term (see http://en.wikipedia.org/wiki/Sound_font)
+#: sound/src/texts.ycp:215
+msgid "Install SoundFonts"
+msgstr "安装声音字体"
+
+#. do not translate "SoundFont" term (see http://en.wikipedia.org/wiki/Sound_font)
+#: sound/src/texts.ycp:219
+msgid ""
+"Should YaST2 install the wavetable SoundFont-files from \n"
+"your Soundblaster Live! or AWE driver CD?\n"
+msgstr ""
+"YaST2 是应从 Soundblaster Live!\n"
+"还是从 AWE 驱动程序 CD 安装波形表声音字体文件？\n"
+
+#: sound/src/texts.ycp:223
+msgid ""
+"Insert the driver CD for the Soundblaster Live! or AWE card\n"
+"in the CD-ROM drive.\n"
+msgstr ""
+"在 CD-ROM 驱动器中插入 Soundblaster Live! 或\n"
+"AWE 声卡的驱动程序 CD。\n"
+
+#. To translators: the message below will look like this: "14 SoundFont-files have been installed in /usr/share/..."
+#. do not translate "SoundFont" term (see http://en.wikipedia.org/wiki/Sound_font)
+#: sound/src/texts.ycp:230
+#, ycp-format
+msgid "%1 SoundFont-files have been installed in %2."
+msgstr "已在 %2 中安装了 %1 声音字体文件。"
+
+#. do not translate "SoundFont" term (see http://en.wikipedia.org/wiki/Sound_font)
+#: sound/src/texts.ycp:234
+msgid "No SoundFont-files found."
+msgstr "未找到声音字体文件。"
+
+#: sound/src/texts.ycp:237
+msgid "Would you like to change the CD and retry ?"
+msgstr "是更换 CD 还是重试？"
+
+#: sound/src/texts.ycp:240
+#, ycp-format
+msgid ""
+"'%1' and '%2' sound cards were autodetected on your system. \n"
+"For proper functionality, skip the '%1' sound card and \n"
+"configure only the '%2'.\n"
+msgstr ""
+"在系统上自动检测到\"%1\"和\"%2\"声卡。\n"
+"要正常工作，\n"
+"请跳过\"%1\"声卡并只配置\"%2\"。\n"
+
+#: sound/src/texts.ycp:246
+msgid ""
+"<P>\n"
+"Hardware detection found a new sound card. To configure it, \n"
+"select the appropriate item in list and press  \n"
+"<B>Configure<B>.\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"硬件检测找到一个新声卡。要配置此声卡，\n"
+"请在列表中选择适当的项并按\n"
+"<B>配置<B>。\n"
+"</P>\n"
+
+#: sound/src/texts.ycp:252
+msgid ""
+"<P>\n"
+"Press <B>Change</B> to configure cards already installed.\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"按<B>更改</B>配置已安装的声卡。\n"
+"</P>\n"
+
+#: sound/src/texts.ycp:256
+msgid ""
+"<P>\n"
+"To save the current configuration, press <B>Finish</B>.\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"要保存当前配置，请按<B>完成</B>。\n"
+"</P>\n"
+
+#: sound/src/texts.ycp:266
+msgid "<p><big><b>Sound Cards</b><big></p>"
+msgstr "<p><big><b>声卡</b><big></p>"
+
+#: sound/src/texts.ycp:268
+msgid ""
+"<P>Select an unconfigured card from the list and press <B>Edit</B> to\n"
+"configure it. If the card was not detected, press <B>Add</B> and\n"
+"configure the card manually.</P>\n"
+msgstr ""
+"<P>从列表选择未配置的声卡并按<B>编辑</B>来配置它。\n"
+" 如果未检测到声卡，则按<B>添加</B>并\n"
+"手动配置声卡。</P>\n"
+
+#: sound/src/texts.ycp:273
+msgid ""
+"<P>\n"
+"To change the configuration of a card, select the card.\n"
+"Then press <B>Edit</B>.\n"
+"</P>\n"
+msgstr ""
+"<P>\n"
+"要更改声卡的配置，请选择该声卡\n"
+" 然后按<B>编辑</B>。\n"
+" </P>\n"
+
+#: sound/src/texts.ycp:279
+msgid ""
+"<p>\n"
+"Use <b>Other</b> to set the volume of the selected card or configure\n"
+"the module loaded for playing MIDI files (<b>Start Sequencer</b>).\n"
+"Use <b>Play Test Sound</b> to test the selected card.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"使用<b>其它</b>设置选定声卡的音量，或配置为播放\n"
+"MIDI 文件装载的模块(<b>启动序列发生器</b>)。\n"
+"使用<b>播放测试声音</b>测试选定声卡。\n"
+"</p>\n"
+
+#: sound/src/texts.ycp:285
+msgid ""
+"<P>PulseAudio daemon can be used to play sounds.\n"
+"Use <B>PulseAudio Configuration</B> to enable or disable it.</P>\n"
+msgstr ""
+"<P>PulseAudio 守护精灵可以用来播放声音，\n"
+"使用<B>PulseAudio 配置</B>启用或禁用它。<P>\n"
+
+#: sound/src/texts.ycp:289
+msgid ""
+"<p>The sound device with index 0 is the default device used by system and applications.\n"
+"Use <b>Other</b> to set the selected sound device as the primary device.</p>"
+msgstr ""
+"<p>索引为 0 的声音设备是系统和应用程序使用的默认设备。\n"
+"使用<b>其它</b>将选定的声音设备设置为主设备。</p>"
+
+#: sound/src/texts.ycp:292
+msgid ""
+"The applications which use OSS (Open Sound System) can use the software\n"
+"mixer by using aoss wrapper. Use command <tt>aoss &lt;application&gt;</tt> to\n"
+"start the application."
+msgstr ""
+"使用 OSS（开放声音系统）的应用程序可以通过使用 aosss 封装来使用\n"
+"软件混音器。使用 <tt>aoss &lt;application&gt;</tt> 命令可\n"
+"启动该应用程序。"
+
+#: sound/src/texts.ycp:298 sound/src/texts.ycp:323
+msgid "<p>An error has occurred. </p>"
+msgstr "<p>出现错误。</p>"
+
+#: sound/src/texts.ycp:300
+msgid ""
+"<p>\n"
+"If the the problem persists, try passing \n"
+"<b>options</b> to the ALSA module. If your sound card still\n"
+"will not work, try <i>OSS/Free</i> or \n"
+"another module.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"如果问题仍然存在，请尝试将\n"
+"<b>选项</b>传递到 ALSA 模块。如果声卡仍\n"
+"不工作，请尝试 <i>OSS/Free</i> 或\n"
+"另一个模块。\n"
+"</p>\n"
+
+#: sound/src/texts.ycp:311
+msgid ""
+"<p>\n"
+"This is the complete sound card list. Use the <b>Finish</b> button \n"
+"to save sound card information.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"这是完整的声卡列表。使用<b>完成</b>按钮\n"
+"保存声卡信息。\n"
+"</p>\n"
+
+#: sound/src/texts.ycp:317
+msgid ""
+"<p>\n"
+"Use <b>Delete</b> to remove a configured sound card. \n"
+"Use <b>Add sound card</b> to add a sound card.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"使用<b>删除</b>删除已配置的声卡。\n"
+"使用<b>添加声卡</b>添加声卡。\n"
+"</p>\n"
+
+#: sound/src/texts.ycp:324
+msgid "<p>You can try to pass some <b>options</b> to the module.</p>"
+msgstr "<p>您可以尝试将某些<b>选项</b>传递到此模块。</p>"
+
+#. this is the first part of message "The sound card 'cardname'
+#. will be configured as the first snd card"
+#: sound/src/ui.ycp:68
+msgid "The sound card\n"
+msgstr "声卡\n"
+
+#. radio button label - type of setup
+#: sound/src/ui.ycp:76
+msgid "&Quick automatic setup"
+msgstr "快速自动设置(&Q)"
+
+#. radio button label - type of setup
+#: sound/src/ui.ycp:80
+msgid "Normal &setup"
+msgstr "一般设置(&S)"
+
+#. radio button label - type of setup
+#: sound/src/ui.ycp:84
+msgid "Advanced setup with possibility to change &options"
+msgstr "带有更改选项功能的高级设置(&O)"
+
+#. dialog header
+#: sound/src/ui.ycp:106
+msgid "Sound Card Configuration"
+msgstr "声卡配置"
+
+#. volume slider label
+#: sound/src/volume.ycp:52 sound/src/volume.ycp:58
+msgid "&Volume"
+msgstr "音量(&V)"
+
+#. dialog title
+#: sound/src/volume.ycp:67
+msgid "Settings for sound card"
+msgstr "声卡设置"
+
+#. frame label
+#: sound/src/volume.ycp:71
+msgid "Volume Adjust and Test"
+msgstr "音量调整和测试"
+
+#. message label
+#: sound/src/volume.ycp:81
+msgid "Press 'Test' to start playing sound sample"
+msgstr "按\"测试\"开始播放声音示例"
+
+#. dialog title
+#: sound/src/volume.ycp:121
+msgid "Sound Card Volume"
+msgstr "声卡音量"
+
+#. error message
+#: sound/src/volume.ycp:211
+msgid ""
+"Please try to configure this sound card manually \n"
+"using the \"Cirrus Logic CS4232\" or \"Cirrus \n"
+"Logic CS4236\" driver and configure \n"
+"its parameters using the 'Advanced setup'."
+msgstr ""
+"请尝试使用\"Cirrus Logic CS4232\"或\n"
+"\"Cirrus Logic CS4236\"驱动程序\n"
+"手动配置此声卡，然后使用\"高级设置\"\n"
+"配置其参数。"
+
+#. error message
+#: sound/src/volume.ycp:220
+msgid "An error occurred during the installation of"
+msgstr "在安装过程中出错"
+
+#. popup message: test audio file was not found
+#: sound/src/volume_routines.ycp:136
+#, ycp-format
+msgid ""
+"Cannot find file:\n"
+"%1\n"
+"(test audio file)"
+msgstr ""
+"未找到文件：\n"
+"%1\n"
+"(测试音频文件)"
+
+#. popup question
+#: sound/src/wizards.ycp:64
+msgid "Do you really want to delete this entry?"
+msgstr "是否确实要删除此项？"
+
+#~ msgid "Initializing joystick -- please wait..."
+#~ msgstr "正在初始化游戏手柄 -- 请稍候..."
+
+#~ msgid ""
+#~ "For proper joystick initialization,\n"
+#~ "a restart of the sound system is necessary.\n"
+#~ "Proceed?"
+#~ msgstr ""
+#~ "要正确初始化游戏手柄，\n"
+#~ "需要重启动声音系统。\n"
+#~ "是否继续？"
+
+#~ msgid "No joystick is connected."
+#~ msgstr "没有连接游戏手柄。"
+
+#~ msgid ""
+#~ "More than one joystick is connected.\n"
+#~ "Select the one to test\n"
+#~ "and press some of its buttons several times.\n"
+#~ msgstr ""
+#~ "连接了多个游戏手柄。\n"
+#~ "选择要测试的游戏手柄，然后多次按\n"
+#~ "游戏手柄的某些按钮。\n"
+
+#~ msgid "No joystick"
+#~ msgstr "无游戏手柄"
+
+#, fuzzy
+#~| msgid "Joystick Configuration"
+#~ msgid "Joystick Configuration - %1 (snd-card-%2)"
+#~ msgstr "游戏手柄配置"
+
+#~ msgid ""
+#~ "<P>To remove the configured joystick from the system\n"
+#~ "or if you do not have a joystick, select <B>No joystick</B>.</P>\n"
+#~ msgstr ""
+#~ "<P>要从系统中删除已配置的游戏手柄或\n"
+#~ "您没有游戏手柄，则选择<B>无游戏手柄</B>。</P>\n"
+
+#~ msgid "<P>Press <B>Test</B> to test the functionality of the selected joystick type.</P>"
+#~ msgstr "<P>按<B>测试</B>测试选定游戏手柄类型的功能。</P>"
+
+#~ msgid ""
+#~ "<P><B>Note:</B> Connect your joystick to your computer\n"
+#~ "before pressing <B>Test</B> or <B>Next</B>.</P>"
+#~ msgstr ""
+#~ "<P><B>注意：</B>先将您的游戏手柄连接到计算机，\n"
+#~ "然后按<B>测试</B>或<B>下一步</B>。</P>"
+
+#~ msgid "Select the joystick to test."
+#~ msgstr "选择要测试的游戏手柄。"
+
+#~ msgid ""
+#~ "<P>Two or more sound cards in your system support joysticks.</P>\n"
+#~ "<P>To configure a joystick, select the sound card and press <B>Configure Joystick</B>.</P>\n"
+#~ msgstr ""
+#~ "<P>系统中有两块或多块声卡支持游戏手柄。<P>\n"
+#~ "<P>要配置游戏手柄，请选择声卡并按<B>配置游戏手柄</B>。</P>\n"
+
+#~ msgid "The configured cards do not support the joystick."
+#~ msgstr "已配置的声卡不支持游戏手柄。"
+
+#~ msgid "No configured sound card was found."
+#~ msgstr "未找到已配置的声卡。"
+
+#~ msgid "Start sound card configuration?"
+#~ msgstr "是否启动声卡配置？"
+
+#~ msgid "No joystick port to configure was found."
+#~ msgstr "未找到要配置的游戏手柄端口。"
+
+#~ msgid "No."
+#~ msgstr "编号"
+
+#~ msgid "&More detailed installation of sound cards"
+#~ msgstr "更详细的声卡安装(&M)"
+
+#~ msgid "Read card database"
+#~ msgstr "读取声卡数据库"
+
+#~ msgid "Read previously saved configuration"
+#~ msgstr "读取以前保存的配置"
+
+#~ msgid "Detect sound cards"
+#~ msgstr "检测声卡"
+
+#~ msgid "Read sysconfig values"
+#~ msgstr "读取系统配置值"
+
+#~ msgid "Read volume settings"
+#~ msgstr "读取音量设置"
+
+#~ msgid "Reading card database..."
+#~ msgstr "正在读取声卡数据库..."
+
+#~ msgid "Reading previously saved configuration..."
+#~ msgstr "正在读取以前保存的配置..."
+
+#~ msgid "Reading sysconfig values..."
+#~ msgstr "正在读取系统配置值..."
+
+#~ msgid "Reading volume settings..."
+#~ msgstr "正在读取音量设置..."
+
+#~ msgid "Finished"
+#~ msgstr "已完成"
+
+#, fuzzy
+#~ msgid "PulseAudio is %1"
+#~ msgstr "PulseAudio 守护程序"
+
+#~ msgid "enabled"
+#~ msgstr "已启用"
+
+#~ msgid "disabled"
+#~ msgstr "已禁用"

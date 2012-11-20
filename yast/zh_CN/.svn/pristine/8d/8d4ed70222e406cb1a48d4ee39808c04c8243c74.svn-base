@@ -1,0 +1,645 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:27+0200\n"
+"PO-Revision-Date: 2012-07-06 20:19+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/FcoeClient.ycp:275
+#, ycp-format
+msgid "<p>To continue the FCoE configuration, the <b>%1</b> package must be installed.</p>"
+msgstr "<p>要继续配置以太网络光纤通道，必须安装 <b>%1</b> 软件包。</p>"
+
+#: src/FcoeClient.ycp:276
+msgid "<p>Install it now?</p>"
+msgstr "<p>是否立即安装？</p>"
+
+#: src/FcoeClient.ycp:480
+#, ycp-format
+msgid ""
+"Cannot read config file for %1.\n"
+"You may edit the settings and recreate the FCoE\n"
+"VLAN interface to get a valid configuration."
+msgstr ""
+"不能读取 %1 的配置文件。\n"
+"您可以编辑设置，重新创建以太网络光纤通道\n"
+"的虚拟局域网接口以获取有效的配置。"
+
+#. FcoeClient read dialog caption
+#: src/FcoeClient.ycp:939
+msgid "Initializing fcoe-client Configuration"
+msgstr "正在初始化 fcoe-client 配置"
+
+#. Progress stage 1/3
+#: src/FcoeClient.ycp:950
+msgid "Check installed packages"
+msgstr "检查已安装的软件包"
+
+#. Progress stage 2/3
+#: src/FcoeClient.ycp:952
+msgid "Check services"
+msgstr "检查服务"
+
+#. Progress stage 3/3
+#: src/FcoeClient.ycp:954
+msgid "Detect network cards"
+msgstr "检测网卡"
+
+#. Progress stage 4/4
+#: src/FcoeClient.ycp:956
+msgid "Read /etc/fcoe/config"
+msgstr "读取 /etc/fcoe/config"
+
+#. Progress step 1/3
+#: src/FcoeClient.ycp:959
+msgid "Checking for installed packages..."
+msgstr "正在检查已安装的软件包..."
+
+#. Progress step 2/3
+#: src/FcoeClient.ycp:961
+msgid "Checking for services..."
+msgstr "正在检查服务..."
+
+#. Progress step 3/3
+#: src/FcoeClient.ycp:963
+msgid "Detecting network cards..."
+msgstr "正在检测网卡..."
+
+#. Progress step 4/4
+#: src/FcoeClient.ycp:965
+msgid "Reading /etc/fcoe/config"
+msgstr "正在读取 /etc/fcoe/config"
+
+#. Progress finished
+#: src/FcoeClient.ycp:967 src/FcoeClient.ycp:1059
+msgid "Finished"
+msgstr "已完成"
+
+#. Error message
+#: src/FcoeClient.ycp:995
+msgid "Starting of services failed."
+msgstr "启动服务失败。"
+
+#. Error message
+#: src/FcoeClient.ycp:1005
+msgid "Cannot detect devices."
+msgstr "无法检测设备。"
+
+#. Error message
+#: src/FcoeClient.ycp:1015
+msgid "Cannot read /etc/fcoe/config."
+msgstr "无法读取 /etc/fcoe/config。"
+
+#. FcoeClient read dialog caption
+#: src/FcoeClient.ycp:1035
+msgid "Saving fcoe-client Configuration"
+msgstr "正在保存 fcoe-client 配置"
+
+#. Progress stage 1/2
+#: src/FcoeClient.ycp:1046
+msgid "Write the settings"
+msgstr "写入设置"
+
+#. Progress stage 2/3
+#: src/FcoeClient.ycp:1048
+msgid "Restart FCoE service"
+msgstr "重启以太网路光纤通道服务"
+
+#. Progress stage 3/3
+#: src/FcoeClient.ycp:1050
+msgid "Adjust start of services"
+msgstr "调整服务启动"
+
+#. Progress step 1/2
+#: src/FcoeClient.ycp:1053
+msgid "Writing the settings..."
+msgstr "正在写入设置..."
+
+#. Progress step 2/3
+#: src/FcoeClient.ycp:1055
+msgid "Restarting FCoE service..."
+msgstr "正在重启以太网络光纤通道服务..."
+
+#. Progress sstep 3/3
+#: src/FcoeClient.ycp:1057
+msgid "Adjusting start of services..."
+msgstr "正在调整服务启动..."
+
+#. Error message
+#: src/FcoeClient.ycp:1077
+msgid "Cannot write settings to /etc/fcoe/config."
+msgstr "不能将配置写入/etc/fcoe/config 中。"
+
+#: src/FcoeClient.ycp:1081
+msgid ""
+"Cannot write settings for FCoE interfaces.\n"
+"For details, see /var/log/YaST2/y2log."
+msgstr ""
+"不能写入以太网络光纤通道接口。\n"
+"详情见 /var/log/YaST2/y2log。"
+
+#. Error message
+#: src/FcoeClient.ycp:1090
+msgid "Restarting of service fcoe failed."
+msgstr "重启 fcoe 服务失败。"
+
+#. Error message
+#: src/FcoeClient.ycp:1096
+msgid "Cannot write /etc/sysconfig/network/ifcfg-files."
+msgstr "无法写入 /etc/sysconfig/network/ifcfg-files。"
+
+#. Configuration summary text for autoyast
+#: src/FcoeClient.ycp:1160
+msgid "<b>General FCoE configuration</b>"
+msgstr "<b>通用以太网络光纤通道设置</b>"
+
+#: src/FcoeClient.ycp:1165
+msgid "<b>Interfaces</b>"
+msgstr "<b>接口</b>"
+
+#. network card, e.g. eth0
+#: src/FcoeClient.ycp:1170
+msgid "<i>Netcard</i>:"
+msgstr "<i>网卡</i>："
+
+#: src/FcoeClient.ycp:1176
+msgid "<b>Starting of services</b>"
+msgstr "<b>服务启动</b>"
+
+#. starting of service "fcoe" at boot time is enabled or disabled
+#. starting of service "lldpad" at boot time is enabled or disabled 
+#: src/FcoeClient.ycp:1179 src/FcoeClient.ycp:1181
+msgid "enabled"
+msgstr "已启用"
+
+#: src/FcoeClient.ycp:1179 src/FcoeClient.ycp:1181
+msgid "disabled"
+msgstr "已禁用"
+
+#. text of an error popup
+#: src/complex.ycp:88
+#, ycp-format
+msgid ""
+"Cannot remove the FCoE interface.\n"
+"Command %1 failed."
+msgstr ""
+"未能删除以太网络光纤通道接口。\n"
+"命令 %1 失败。"
+
+#. headline of the edit dialog - configuration of values for a certain network interface
+#: src/complex.ycp:258
+#, ycp-format
+msgid "Configuration of Interface %1"
+msgstr "配置接口 %1"
+
+#. headline of a popup: creating and starting Fibre Channel over Ethernet
+#: src/complex.ycp:313
+msgid "Creating and Starting FCoE on Detected VLAN Device"
+msgstr "在检测到的虚拟局域网设备上创建并启动以太网络光纤通道"
+
+#. question to the user: really create and start FCoE
+#: src/complex.ycp:315
+#, ycp-format
+msgid ""
+"Do you really want to create a FCoE network\n"
+"interface for discovered FCoE VLAN interface\n"
+"on %1 and start the FCoE initiator?"
+msgstr ""
+"您确定想要在发现的 %1 上的以太网络光纤通道虚拟局域网接口上创建\n"
+"一个以太网络光纤通道网络接口并初始化？"
+
+#. text of an error popup
+#: src/complex.ycp:331
+#, ycp-format
+msgid "Cannot create and start FCoE on %1."
+msgstr "无法在 %1 上创建和启动以太网络光纤通道。"
+
+#. text of an error popup: command failed on the network interface 
+#: src/complex.ycp:359
+#, ycp-format
+msgid "Command \"%1\" on %2 failed."
+msgstr "%2 上的 \"%1\" 命令失败。"
+
+#. popup text: really remove FCoE VLAN interface
+#: src/complex.ycp:414
+#, ycp-format
+msgid "Do you really want to remove the FCoE interface %1?"
+msgstr "您真的想要移除以太网络光纤通道接口 %1 吗？"
+
+#. popup text continues 
+#: src/complex.ycp:420
+msgid ""
+"Attention:\n"
+"Make sure the interface is not essential for a used device.\n"
+"Removing it may result in an unusable system."
+msgstr ""
+"注意：\n"
+"确保接口不被一个使用中的设备需要。\n"
+"移除这样的接口会导致系统不稳定。"
+
+#. popup text continues
+#: src/complex.ycp:427
+msgid ""
+"Don't remove the interface if it's related\n"
+"to an already activated multipath device."
+msgstr "如果接口和一个已激活的多路径设备相关，那么就不要移除它。"
+
+#: src/complex.ycp:486
+#, ycp-format
+msgid "Removing of interface %1 failed."
+msgstr "移除接口 %1 失败。"
+
+#: src/complex.ycp:492
+#, ycp-format
+msgid "Destroying interface %1 failed."
+msgstr "销毁接口 %1 失败"
+
+#. text of a warning popup
+#: src/complex.ycp:518
+msgid ""
+"DCB Required is set to \"yes\" but the\n"
+"interface isn't DCB capable."
+msgstr ""
+"是否需要数据中心桥接设置为 \"是\" 但\n"
+"接口不是数据中心桥接线。"
+
+#. text of an information (notify)  popup
+#: src/complex.ycp:543
+msgid ""
+"Service 'fcoe' requires enabled service 'lldpad'.\n"
+"Enabling start on boot of service 'lldpad'."
+msgstr ""
+"服务 'fcoe' 需要启用的服务 'lldpad'。\n"
+"启用服务 'lldpad' 的引导时启动。"
+
+#. radio button: start service on boot
+#: src/dialogs.ycp:46 src/dialogs.ycp:58
+msgid "When Booting"
+msgstr "引导时"
+
+#. radio button: start service manually
+#: src/dialogs.ycp:49 src/dialogs.ycp:61
+msgid "Manually"
+msgstr "手工"
+
+#. combo box label: enable FCoE (yes/no)
+#: src/dialogs.ycp:79
+msgid "&FCoE Enable"
+msgstr "启用以太网络光纤通道 (&F)"
+
+#. combo box label: require DCB (yes/no)
+#: src/dialogs.ycp:85
+msgid "&DCB Required"
+msgstr "是否需要数据中心桥接 (&D)"
+
+#. combo box label: AUTO_VLAN setting (yes/no)
+#: src/dialogs.ycp:91
+msgid "&AUTO_VLAN"
+msgstr "自动虚拟局域网 (&A)"
+
+#. frame containing radio buttons for fcoe service start 
+#: src/dialogs.ycp:115
+msgid "FCoE Service Start"
+msgstr "启动以太网络光纤通道服务"
+
+#. frame containing radio buttons for lldpad service start 
+#: src/dialogs.ycp:120
+msgid "Lldpad Service Start"
+msgstr "启动 Lldpad 服务"
+
+#. column headers of a table with network interfaces (keep them short)
+#: src/dialogs.ycp:137
+msgid "Device Name"
+msgstr "设备名"
+
+#: src/dialogs.ycp:137
+msgid "Model"
+msgstr "型号"
+
+#: src/dialogs.ycp:137
+msgid "FCoE VLAN Interface"
+msgstr "以太网络光纤通道虚拟局域网接口"
+
+#. continue column headers 
+#: src/dialogs.ycp:139
+msgid "FCoE Enable"
+msgstr "以太网络光纤通道已启用"
+
+#: src/dialogs.ycp:139
+msgid "DCB Required"
+msgstr "是否需要数据中心桥接"
+
+#: src/dialogs.ycp:139
+msgid "AUTO VLAN"
+msgstr "自动虚拟局域网"
+
+#: src/dialogs.ycp:139
+msgid "DCB capable"
+msgstr "数据中心桥接线"
+
+#. button labels
+#: src/dialogs.ycp:143
+msgid "Retry &Detection"
+msgstr "重新检测 (&D)"
+
+#: src/dialogs.ycp:144
+msgid "Change &Settings"
+msgstr "更改设置 (&S)"
+
+#: src/dialogs.ycp:145
+msgid "Create &FCoE Interface"
+msgstr "创建以太网络光纤通道接口 (&F)"
+
+#: src/dialogs.ycp:146
+msgid "&Remove Interface"
+msgstr "移除接口 (&R)"
+
+#. frame label - configuration settings of FCoE
+#: src/dialogs.ycp:162
+msgid "Configuration Settings"
+msgstr "配置设置"
+
+#. combo box label
+#: src/dialogs.ycp:165
+msgid "&Debug"
+msgstr "调试(&D)"
+
+#. combo box label
+#: src/dialogs.ycp:171
+msgid "&Use syslog"
+msgstr "使用 syslog (&U)"
+
+#. Command line help text for the Xfcoe-client module
+#: src/fcoe-client.ycp:54
+msgid "Configuration of fcoe-client"
+msgstr "以太网络光纤通道客户端配置"
+
+#. progress step title
+#: src/fcoe-client_finish.ycp:63
+msgid "Saving fcoe configuration..."
+msgstr "正在保存以太网络光纤通道配置..."
+
+#. Rich text title for FcoeClient in proposals
+#: src/fcoe-client_proposal.ycp:84
+msgid "FcoeClient"
+msgstr "以太网络光纤通道客户端"
+
+#. Menu title for FcoeClient in proposals
+#: src/fcoe-client_proposal.ycp:86
+msgid "&FcoeClient"
+msgstr "以太网络光纤通道客户端 (&F)"
+
+#. Read dialog help 1/2
+#: src/helps.ycp:39
+msgid ""
+"<p><b><big>Initializing fcoe-client Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在初始化 fcoe-client 配置</big></b><br>\n"
+"请稍等...<br></p>\n"
+
+#. Read dialog help 2/2
+#: src/helps.ycp:44
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>\n"
+msgstr ""
+"<p><b><big>终止初始化:</big></b><br>\n"
+"请您现在点击<b>终止</b>, 以便安全中断配置程序。</p>\n"
+
+#. Write dialog help 1/2
+#: src/helps.ycp:49
+msgid ""
+"<p><b><big>Saving fcoe-client Configuration</big></b><br>\n"
+"Please wait...<br></p>\n"
+msgstr ""
+"<p><b><big>正在存入 fcoe-client 配置</big></b><br>\n"
+"<br>请稍等...<br></p>\n"
+
+#. Write dialog help 2/2
+#: src/helps.ycp:54
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>.\n"
+"An additional dialog informs whether it is safe to do so.\n"
+"</p>\n"
+msgstr ""
+"<p><b><big>中断保存:</big></b><br>\n"
+"请点击<B>中断</B>,以便中断保存.\n"
+"一个附加对话框将告诉您这样做是否安全.\n"
+"</p>\n"
+
+#. Summary dialog help 1/3
+#: src/helps.ycp:61
+msgid ""
+"<p><b><big>FcoeClient Configuration</big></b><br>\n"
+"Configure fcoe-client here.<br></p>\n"
+msgstr ""
+"<p><b><big>以太网络光纤通道客户端配置</big></b><br>\n"
+"请在此配置以太网络光纤通道客户端。<br></p>\n"
+
+#. Summary dialog help 2/3
+#: src/helps.ycp:66
+msgid ""
+"<p><b><big>Adding a fcoe-client:</big></b><br>\n"
+"Choose a fcoe-client from the list of detected fcoe-clients.\n"
+"If your fcoe-client was not detected, use <b>Other (not detected)</b>.\n"
+"Then press <b>Configure</b>.</p>\n"
+msgstr ""
+"<p><b><big>添加以太网络光纤通道客户端：</big></b><br>\n"
+"请从已检测到的客户端列表中选择一个以太网络光纤通道客户端。\n"
+" 如果没有检测到您的以太网络光纤通道哦客户端，请使用<b>其它（未检测到）</b>。\n"
+"然后按<b>配置</b>。</p>\n"
+
+#. Summary dialog help 3/3
+#: src/helps.ycp:73
+msgid ""
+"<p><b><big>Editing or Deleting:</big></b><br>\n"
+"If you press <b>Edit</b>, an additional dialog in which to change\n"
+"the configuration opens.</p>\n"
+msgstr ""
+"<p><b><big>编辑或删除:</big></b><br>\n"
+"如果您点击<b>编辑</b>, 将开启一个额外的对话框,\n"
+"在这个对话框里, 您可以更改您的配置。</p>\n"
+
+#. Services dialog help 1/3
+#: src/helps.ycp:79
+msgid ""
+"<p><b><big>Starting of services</big><br></b><br>\n"
+"Enable or disable the start of the services <b>fcoe</b> and <b>lldpad</b> at boot time.</p>\n"
+msgstr ""
+"<p><b><big>服务启用</big><br></b><br>\n"
+"在系统引导时启用或禁用服务 <b>fcoe</b> 和 <b>lldpad<b> 。</p>\n"
+
+#. Services dialog help 2/3
+#: src/helps.ycp:83
+msgid ""
+"<p>Starting the service <b>fcoe</b> means starting the <i>Fibre Channel over\n"
+"Ethernet</i> service daemon <i>fcoemon</i> which controls the FCoE interfaces and\n"
+"establishes a connection with the daemon <i>lldpad</i>.</p>"
+msgstr "<p>启动服务 <b>fcoe</b> 意味着启动 <i>以太网络光纤通道</i> 服务守护精灵 <i>fcoemon</i>，其控制以太网络光纤通道的接口并与 <i>lldpad</i> 精灵建立连接。</p>"
+
+#. Services dialog help 3/3
+#: src/helps.ycp:88
+msgid "<p>The <b>lldpad</b> service provides the <i>Link Layer Discovery Protocol</i> agent daemon <i>lldpad</i>, which informs <i>fcoemon</i> about DCB (Data Center Bridging) features and configuration of the interfaces.</p>"
+msgstr "<p><b>lldpad</b> 服务提供了 <i>链接层发现协议</i> 媒介守护精灵 <i>lldpad</i>，它会向 <i>fcoemon</i> 发送数据中心桥接特性和接口配置的通知。</p>"
+
+#. Interfaces dialog help 1/4
+#: src/helps.ycp:91
+msgid "<p><b><big>Network interface overview</big></b></p>"
+msgstr "<p><b><big>网络接口概览</big></b></p>"
+
+#. Interfaces dialog help 2/4
+#: src/helps.ycp:94
+msgid "<p>The interfaces dialog shows all detected netcards including the status of VLAN and FCoE configuration.<br>FCoE is possible if a VLAN interface is configured for FCoE on the switch. For every netcard (network interface), this is shown in column <i>FCoE VLAN Interface</i>.</p>"
+msgstr "<p>接口对话框显示了所有检测到的网卡，包括虚拟局域网的状态和以太网络 光纤通道的配置。<br>如果交换机上已经为以太网络光纤通道配置了虚拟局域网接口，以太网络光纤通道就是可用的。每个网卡（网络接口）的以太网络光纤通道都显示在 <i>以太网络光纤通道虚拟局域网接口</i> 栏目中。</p>"
+
+#. Interfaces dialog help 3/4
+#: src/helps.ycp:97
+msgid ""
+"<p>The values for <i>FCoE VLAN Interface</i> in detail:<br>\n"
+"<b>not available</b>: Fibre Channel over Ethernet is not possible (must be enabled on the switch first).<br>\n"
+"<b>not configured</b>: FCoE is possible but not yet activated. Press <b>Create FCoE VLAN Interface</b> to activate.<br>\n"
+" If the FCoE VLAN interface has already been created, the name is shown in the column, e.g. eth3.200.</p>\n"
+msgstr ""
+"<p><i>以太网络光纤通道虚拟局域网接口</i> 值的详情：<br>\n"
+"<b>不可用</b>：以太网络光纤通道不可用 (必须先启用)。<br>\n"
+"<b>未配置</b>：以太网络光纤通道可用但未激活。按下 <b>创建以太网络光纤通道虚拟局域网接口</b> 以激活。<br>\n"
+" 如果以太网络光纤通道虚拟局域网已经被创建，名称会显示在栏目中，如 eth3.200。</p>\n"
+
+#. Interfaces dialog help 3/4
+#: src/helps.ycp:104
+msgid "<p>To change the configuration of an existing FCoE VLAN interface, click on<b>Change Settings</b>.</p>"
+msgstr "<p>想要变更一个现有以太网络光纤通道的虚拟局域网接口，点击<b>变更设置</b>。</p>"
+
+#. Configuration dialog help 1/3
+#: src/helps.ycp:107
+msgid "<p><b><big>General Configuration of FCoE</big></b></p>"
+msgstr "<p><b><big>以太网络光纤通道通用配置</big></b></p>"
+
+#. Configuration dialog help 2/3
+#: src/helps.ycp:110
+msgid "<p>Configure the general settings for the FCoE system service. The settings are written to '/etc/fcoe/config'.</p>"
+msgstr "<p>配置以太网络光纤通道系统服务的通用设置。设置会被写入 '/etc/fcoe/config'。</p>"
+
+#. Configuration dialog help 3/3
+#: src/helps.ycp:113
+msgid ""
+"<p>The values are:<br>\n"
+"<b>Debug</b>: <i>yes</i> or <i>no</i><br>\n"
+"This is used to enable or disable debugging messages from the fcoe service script and <i>fcoemon</i>.<br>\n"
+"<b>Use syslog</b>: <i>yes</i> or <i>no</i><br>\n"
+"Messages are sent to the system log if set to <i>yes</i> (data are logged to /var/log/messages).</p>"
+msgstr ""
+"<p>这些值是：<br>\n"
+"<b>调试</b>：<i>是</i> 或 <i>否</i><br>\n"
+"这用来启用或禁用来自 fcoe 服务脚本和 <i>fcoemon</i> 的调试信息。<br>\n"
+"<b>使用 syslog</b>：<i>是</i> 或 <i>否</i><br>\n"
+"如果设定为 <i>是</i>， 信息会发送给系统日志 (数据被记录于 /var/log/messages)。</p>"
+
+#. edit dialog help 1/3
+#: src/helps.ycp:120
+msgid "<p>Edit Settings in /etc/fcoe/ethx</p>"
+msgstr "<p>编辑 /etc/fcoe/ethx 中的设置</p>"
+
+#. Edit dialog help 2/3
+#: src/helps.ycp:123
+msgid ""
+"<p>The daemon <i>fcoemon</i> reads these configuration files on initialization.\n"
+"           There is a file for every interface and the values indicate whether FCoE instances\n"
+"           should be created and if DCB is required.</p>"
+msgstr ""
+"<p>守护精灵 <i>fcoemon</i> 在初始化时读取这些配置文件。\n"
+"            每个接口都有一个文件，这些值显示以太网络光纤通道实例             是否应该被创建和是否需要数据中心桥接。</p>"
+
+#. Edit dialog help 3/3
+#: src/helps.ycp:127
+msgid ""
+"<p>The values are:<br>       \n"
+"<b>FCoE Enable</b>: <i>yes</i> or <i>no</i><br>\n"
+"Enable or disable the creation of FCoE instances.<br>\n"
+"<b>DCB Required</b>: <i>yes</i> or <i>no</i><br>\n"
+"The default is <i>yes</i>, DCB is usually required.<br>\n"
+"<b>AUTO VLAN</b>: <i>yes</i> or <i>no</i><br>\n"
+"If set to <i>yes</i> 'fcoemon' will create the VLAN\n"
+"interfaces automatically.</p>"
+msgstr ""
+"<p>这些值为：<br>        \n"
+"<b>启用以太网络光纤通道</>：<i>是</i> 或 <i>否</i><br>\n"
+"启动或禁用以太网络光纤通道实例的创建。<br>\n"
+"<b>需要数据中心桥接</b>：<i>是</i> 或 <i>否</i><br>\n"
+"默认为 <i>是</i>，数据中心桥接通常都是需要的。<br>\n"
+"<b>自动创建虚拟局域网</b>：<i>是</i> 或 <i>否</i><br>\n"
+"如果设置为 <i>是</i>，'fcoemon' 会自动创建虚拟局域网\n"
+"接口。</p>"
+
+#. Header of tab in tab widget		 
+#: src/wizards.ycp:87 src/wizards.ycp:112
+msgid "&Interfaces"
+msgstr "接口 (&I)"
+
+#. Header of tab in tab widget		 
+#: src/wizards.ycp:93 src/wizards.ycp:118
+msgid "&Configuration"
+msgstr "配置 (&C)"
+
+#. Header of tab in tab widget
+#: src/wizards.ycp:106
+msgid "&Services"
+msgstr "服务 (&S)"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:161
+msgid "Fibre Channel over Ethernet Configuration"
+msgstr "以太网络光纤通道"
+
+#: src/wizards.ycp:185
+msgid "Change FCoE Settings"
+msgstr "更改以太网络光纤通道设置"
+
+#. Initialization dialog caption
+#: src/wizards.ycp:297
+msgid "FcoeClient Configuration"
+msgstr "以太网络光纤通道客户端配置"
+
+#. Initialization dialog contents
+#: src/wizards.ycp:299
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#, fuzzy
+#~| msgid "Cannot read the configuration."
+#~ msgid "Cannot read /etc/fcoe/cfg-file for %1"
+#~ msgstr "无法读取配置。"
+
+#, fuzzy
+#~| msgid "Command %1 failed"
+#~ msgid "Command: %1 failed"
+#~ msgstr "命令 %1 失败"
+
+#, fuzzy
+#~| msgid "Deleting the request failed."
+#~ msgid "/etc/init.d/fcoe restart failed."
+#~ msgstr "未能删除请求。"
+
+#, fuzzy
+#~| msgid "Restarting service..."
+#~ msgid "Removing FCoE VLAN device"
+#~ msgstr "正在重启动服务..."
+
+#~ msgid "Configuration summary..."
+#~ msgstr "配置摘要..."

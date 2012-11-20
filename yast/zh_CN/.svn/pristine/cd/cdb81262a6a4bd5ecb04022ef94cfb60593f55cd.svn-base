@@ -1,0 +1,3030 @@
+# Translation of YaST to Simplified Chinese
+# LANGUAGE message file for YaST2
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Xinwei Hu <xwhu@novell.com>, 2004.
+# James Su <suzhe@tsinghua.org.cn>, 2004.
+# Novell Language <language@novell.com>, 2004, 2005.
+# Thruth Wang <lihaow@opera.com>, 2007.
+# Eric Shan <ericalways@gmail.com>, 2008, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: installation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:28+0200\n"
+"PO-Revision-Date: 2012-09-14 00:50+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. this is a heading
+#: doc/proposal/dummy_proposal.ycp:69
+msgid "Dummy"
+msgstr "虚包"
+
+#. this is a menu entry
+#: doc/proposal/dummy_proposal.ycp:71
+msgid "&Dummy"
+msgstr "虚包(&D)"
+
+#: src/clients/deploy_image_auto.ycp:79
+msgid "Installation from images is: <b>enabled</b>"
+msgstr "从映像安装已被<b>启用</b>"
+
+#: src/clients/deploy_image_auto.ycp:81
+msgid "Installation from images is: <b>disabled</b>"
+msgstr "从映像安装已被<b>禁用</b>"
+
+#. TRANSLATORS: dialog caption
+#. this is a heading
+#: src/clients/deploy_image_auto.ycp:115 src/clients/deploy_image_auto.ycp:120
+#: src/clients/deploying_proposal.ycp:158
+msgid "Installation from Images"
+msgstr "从映像安装"
+
+#: src/clients/deploy_image_auto.ycp:122
+msgid "Here you can choose to use Novell pre-defined images to speed up RPM installation."
+msgstr "您可以选择使用 Novell 预定义映像来加速 RPM 安装。"
+
+#: src/clients/deploy_image_auto.ycp:128
+msgid "&Install from Images"
+msgstr "从映像安装(&I)"
+
+#: src/clients/deploy_image_auto.ycp:134
+msgid "&Do not Install from Images"
+msgstr "不从映像安装(&D)"
+
+#: src/clients/deploy_image_auto.ycp:142
+msgid "Custom images deployment - this needs a URL to be configured as installation source"
+msgstr "自定义映像部署 - 需要配置一个安装源 URL"
+
+#: src/clients/deploy_image_auto.ycp:146
+msgid "Here you can create custom images.\n"
+msgstr "您可以创建自定义映像。\n"
+
+#: src/clients/deploy_image_auto.ycp:147
+msgid "You have to configure the software selection first before you can create an image here"
+msgstr "您必须先配置软件集合才能创建映像"
+
+#: src/clients/deploy_image_auto.ycp:151
+msgid "Create an image file (AutoYaST will fetch it from the given location during installation)"
+msgstr "创建一个映像文件 (AutoYaST 将在安装时从指定位置获取它)"
+
+#: src/clients/deploy_image_auto.ycp:153
+msgid "Create Image"
+msgstr "创建映像"
+
+#: src/clients/deploy_image_auto.ycp:155
+msgid "Where will AutoYaST find the image? (e.g. http://host/)"
+msgstr "AutoYaST 查找映像位置 (例如 http://host/)"
+
+#: src/clients/deploy_image_auto.ycp:157
+msgid "What is the name of the image? (e.g. my_image)"
+msgstr "映像名称 (例如 my_image)"
+
+#: src/clients/deploy_image_auto.ycp:160
+msgid "Create ISO (image and autoinst.xml will be on the media)"
+msgstr "创建 ISO(介质中会包括映像和 autoinst.xml)"
+
+#. TRANSLATORS: help text
+#: src/clients/deploy_image_auto.ycp:174
+#: src/clients/deploying_proposal.ycp:102
+msgid ""
+"<p><b>Installation from Images</b> is used to speed the installation up.\n"
+"Images contain compressed snapshots of an installed system matching your\n"
+"selection of patterns. The rest of the packages which are not contained in the\n"
+"images will be installed from packages the standard way.</p>\n"
+msgstr ""
+"<p><b>从映像安装</b>可以用来加快安装速度。\n"
+"映像中包含压缩的安装系统快照，和您选择的组合相匹配。\n"
+"其他不在映像中的软件包将以标准方法安装。</p>\n"
+
+#: src/clients/deploy_image_auto.ycp:178
+msgid ""
+"<p><b>Creating own Images</b> is used if you\n"
+"want to skip the complete step of RPM installation. Instead AutoYaST will dump an\n"
+"image on the harddisk which is a lot faster and can be pre-configured already.\n"
+"Everything else than RPM installation is done like during a normal auto-installation.</p>"
+msgstr ""
+"<p><b>创建自用映像</b>用来跳过整个 RPM 安装过程。AutoYaST 会转储一个安装得更快、已经预配置好的映像到硬盘。\n"
+"除了 RPM 安装过程其他都跟正常的自动安装一样。</p>"
+
+#: src/clients/deploy_image_auto.ycp:234 src/clients/deploy_image_auto.ycp:241
+msgid "you need to do the software selection before creating an image"
+msgstr "您在创建映像前需要选择一些软件组合"
+
+#. TRANSLATORS: Installation overview
+#: src/clients/deploying_proposal.ycp:54
+msgid "No installation images are available"
+msgstr "没有可用安装映像"
+
+#. TRANSLATORS: Installation overview
+#. IMPORTANT: Please, do not change the HTML link <a href="...">...</a>, only visible text
+#: src/clients/deploying_proposal.ycp:59
+#, ycp-format
+msgid "Installation from images is enabled (<a href=\"%1\">disable</a>)."
+msgstr "从映像安装已经启用(<a href=\"%1\">禁用</a>)。"
+
+#. TRANSLATORS: Installation overview
+#. IMPORTANT: Please, do not change the HTML link <a href="...">...</a>, only visible text
+#: src/clients/deploying_proposal.ycp:66
+#, ycp-format
+msgid "Installation from images is disabled (<a href=\"%1\">enable</a>)."
+msgstr "从映像安装已经禁用(<a href=\"%1\">启用</a>)。"
+
+#. TRANSLATORS: help text
+#: src/clients/deploying_proposal.ycp:109
+msgid ""
+"<p>Note that when installing from images, the time stamps of all packages originating from the images will\n"
+"not match the installation date but rather the date the image was created.</p>"
+msgstr "<p>注意当从映像安装时，所有来自映像的软件包的时间戳记将不会匹配安装时间，而是映像创建时间。</p>"
+
+#. TRANSLATORS: help text
+#: src/clients/deploying_proposal.ycp:113
+msgid ""
+"<p>Installation from images is disabled by default if the current\n"
+"pattern selection does not fit any set of images.</p>"
+msgstr ""
+"<p>如果当前选择的组合不与任何映像相配，\n"
+"默认将禁用从映像安装。</p>"
+
+#: src/clients/deploying_proposal.ycp:119
+#, ycp-format
+msgid "Error: Images should not be used for mode: %1."
+msgstr "错误：映像不应该用作模式：%1。"
+
+#: src/clients/deploying_proposal.ycp:144
+msgid ""
+"Cannot enable installation from images.\n"
+"\n"
+"Currently selected patterns do not fit the images\n"
+"stored on the installation media.\n"
+msgstr ""
+"不能启用从映像安装。\n"
+"\n"
+"当前选择的组合与安装介质上\n"
+"保存的映像不相配。\n"
+
+#. this is a menu entry
+#: src/clients/deploying_proposal.ycp:160
+msgid "Installation from &Images"
+msgstr "从映像安装(&I)"
+
+#: src/clients/inst_addon_update_sources.ycp:74
+#, ycp-format
+msgid "Updates for %1 %2"
+msgstr "%1 的升级 %2"
+
+#: src/clients/inst_addon_update_sources.ycp:75
+msgid "Unknown Product"
+msgstr "未知产品"
+
+#. feedback heading
+#: src/clients/inst_addon_update_sources.ycp:88
+msgid "Add-on Product Installation"
+msgstr "附加产品安装"
+
+#. feedback message
+#: src/clients/inst_addon_update_sources.ycp:90
+msgid "Reading packages available in the repositories..."
+msgstr "正在读取软件仓库中可用的包..."
+
+#: src/clients/inst_addon_update_sources.ycp:142
+#, ycp-format
+msgid ""
+"An error occurred while connecting to the server.\n"
+"Details: %1\n"
+"\n"
+"Try again?"
+msgstr ""
+"连接到服务器时发生错误。\n"
+"细节：%1\n"
+"\n"
+"是否重试？"
+
+#. strings for "ask for online update"-popup
+#: src/clients/inst_ask_online_update.ycp:69
+msgid "Run Update"
+msgstr "运行更新"
+
+#: src/clients/inst_ask_online_update.ycp:70
+msgid "Skip Update"
+msgstr "跳过更新"
+
+#: src/clients/inst_ask_online_update.ycp:72
+msgid "Online Update"
+msgstr "联机更新"
+
+#: src/clients/inst_ask_online_update.ycp:73
+msgid "Run Online Update now?"
+msgstr "立即运行联机更新？"
+
+#: src/clients/inst_ask_online_update.ycp:75
+msgid ""
+"Select whether to run an online update now.\n"
+"You may skip this step and run an online update later.\n"
+msgstr ""
+"选择是否立即运行联机更新。\n"
+"可以跳过此步骤并在以后运行联机更新。\n"
+
+#: src/clients/inst_automatic_configuration.ycp:119
+#: src/clients/inst_automatic_configuration.ycp:208
+msgid "Creating automatic configuration..."
+msgstr "正在创建自动配置..."
+
+#. TRANSLATORS: this message is displayed on console when X11 configuration
+#. switches from running X to console. Sometimes it looks like
+#. the installation has failed.
+#: src/clients/inst_automatic_configuration.ycp:173
+msgid ""
+"\n"
+"\n"
+"******************************************************\n"
+"\n"
+" Do not panic!\n"
+"\n"
+" X11 Configuration must switch to console for a while\n"
+" to detect your videocard properly...\n"
+"\n"
+"******************************************************\n"
+msgstr ""
+"\n"
+"\n"
+"******************************************************\n"
+"\n"
+"不要慌！\n"
+"\n"
+"X11 配置必须切换到控制台一小会儿\n"
+"来正确探测您的显卡...\n"
+"\n"
+"******************************************************\n"
+
+#: src/clients/inst_automatic_configuration.ycp:193
+msgid "Automatic Configuration"
+msgstr "自动配置"
+
+#: src/clients/inst_automatic_configuration.ycp:200
+msgid "Preparing configuration..."
+msgstr "正在准备配置..."
+
+#: src/clients/inst_automatic_configuration.ycp:213
+msgid "<p>Writing automatic configuration...</p>"
+msgstr "<p>正在写入自动配置...</p>"
+
+#: src/clients/inst_automatic_configuration.ycp:246
+#: src/clients/inst_automatic_configuration.ycp:258
+#, ycp-format
+msgid "An error has occurred while calling '%1' AC script."
+msgstr "调用 '%1' AC 脚本时出错。"
+
+#: src/clients/inst_automatic_configuration.ycp:369
+msgid "Automatic configuration..."
+msgstr "自动配置..."
+
+#. ----------------------------------------------------------------------
+#. * Build dialog
+#. * ----------------------------------------------------------------------
+#. heading text
+#. dialog caption
+#: src/clients/inst_complex_welcome.ycp:83 src/clients/inst_welcome.ycp:59
+msgid "Welcome"
+msgstr "欢迎"
+
+#. combo box label
+#. TRANSLATORS: Combo box
+#: src/clients/inst_complex_welcome.ycp:89
+#: src/clients/inst_release_notes.ycp:200
+#: src/clients/inst_release_notes.ycp:303
+msgid "&Language"
+msgstr "语言(&L)"
+
+#. combo box label
+#: src/clients/inst_complex_welcome.ycp:96
+msgid "&Keyboard Layout"
+msgstr "键盘布局(&K)"
+
+#. bnc #359456
+#. TRANSLATORS: check-box
+#: src/clients/inst_complex_welcome.ycp:105
+msgid "I &Agree to the License Terms."
+msgstr "我接受许可协议(&A)。"
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_complex_welcome.ycp:128
+#: src/clients/inst_complex_welcome.ycp:158
+msgid "License Agreement"
+msgstr "许可协议"
+
+#. TRANSLATORS: button label
+#. ID: #ICW_B1 button
+#: src/clients/inst_complex_welcome.ycp:142
+msgid "License &Translations..."
+msgstr "许可译文(&T)..."
+
+#. help text for initial (first time) language screen
+#: src/clients/inst_complex_welcome.ycp:174
+msgid ""
+"<p>\n"
+"Choose the <b>Language</b> and the <b>Keyboard layout</b> to be used during\n"
+"installation and for the installed system.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"选择要在安装过程中和安装后的系统中\n"
+"使用的<b>语言</b>和<b>键盘布局</b>。\n"
+"</p>\n"
+
+#. help text, continued
+#. Describes the #ICW_B1 button
+#: src/clients/inst_complex_welcome.ycp:182
+msgid ""
+"<p>\n"
+"The license must be accepted before the installation continues.\n"
+"Use <b>License Translations...</b> to show the license in all available translations.\n"
+"</p>\n"
+msgstr ""
+"<P>\n"
+"继续安装之前必须接受许可。\n"
+"使用 <b>许可译文</b> 来显示所有可用的许可译文。\n"
+"</p>\n"
+
+#. help text, continued
+#: src/clients/inst_complex_welcome.ycp:189
+msgid ""
+"<p>\n"
+"Click <b>Next</b> to proceed to the next dialog.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"单击<b>下一步</b>继续到下一个对话框。\n"
+"</p>\n"
+
+#. help text, continued
+#: src/clients/inst_complex_welcome.ycp:195
+msgid ""
+"<p>\n"
+"Nothing will happen to your computer until you confirm\n"
+"all your settings in the last installation dialog.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"在最后一个安装对话框中确认所有设置之后，\n"
+"才会对计算机执行操作。\n"
+"</p>\n"
+
+#. help text, continued
+#: src/clients/inst_complex_welcome.ycp:202
+msgid ""
+"<p>\n"
+"Select <b>Abort</b> to abort the\n"
+"installation process at any time.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"您可以随时选择<b>中止</b>来\n"
+"中止安装进程。\n"
+"</p>\n"
+
+#: src/clients/inst_complex_welcome.ycp:239
+msgid "License needs to be accepted"
+msgstr "需要接受许可"
+
+#. TRANSLATORS: check box, see #ZMD
+#: src/clients/inst_congratulate.ycp:100
+msgid "&Disable ZMD Service"
+msgstr "禁用 ZMD 服务(&D)"
+
+#. TRANSLATORS: help text, see #ZMD
+#: src/clients/inst_congratulate.ycp:107
+msgid ""
+"<p>Select <b>Disable ZMD Service</b> to stop and disable\n"
+"the ZMD service during system start.</p>\n"
+msgstr ""
+"<p>选择 <b>禁用 ZMD 服务</b> 来停止和禁用\n"
+"在系统启动时的 ZMD 服务。</p>\n"
+
+#. Check box: start the clone process and store the AutoYaST
+#. profile in /root/autoinst.xml
+#: src/clients/inst_congratulate.ycp:135
+msgid "&Clone This System for AutoYaST"
+msgstr "为 Autoyast 复制此系统(&C)"
+
+#. caption for dialog "Congratulation Dialog"
+#: src/clients/inst_congratulate.ycp:139
+msgid "Installation Completed"
+msgstr "安装已完成"
+
+#. congratulation text 1/4
+#: src/clients/inst_congratulate.ycp:145
+msgid "<p><b>Congratulations!</b></p>"
+msgstr "<p><b>祝贺您！</b></p>"
+
+#. congratulation text 2/4
+#: src/clients/inst_congratulate.ycp:148
+msgid ""
+"<p>The installation of &product; on your machine is complete.\n"
+"After clicking <b>Finish</b>, you can log in to the system.</p>\n"
+msgstr ""
+"<p>已在您的计算机上完成 &product; 的安装。\n"
+"单击<b>完成</b>后，就可以登录该系统了。</p>\n"
+
+#. congratulation text 3/4
+#: src/clients/inst_congratulate.ycp:153
+#, ycp-format
+msgid "<p>Visit us at %1.</p>"
+msgstr "<p>请访问 %1。</p>"
+
+#. congratulation text 4/4
+#: src/clients/inst_congratulate.ycp:156
+msgid "<p>Have a lot of fun!<br>Your SUSE Development Team</p>"
+msgstr "<p>祝您使用愉快！<br>SUSE 中文团队</p>"
+
+#. help 1/4 for dialog "Congratulation Dialog"
+#: src/clients/inst_congratulate.ycp:182
+msgid "<p>Your system is ready for use.</p>"
+msgstr "<p>您的系统可以使用了。</p>"
+
+#. help 2/4 for dialog "Congratulation Dialog"
+#: src/clients/inst_congratulate.ycp:185
+msgid ""
+"<p><b>Finish</b> will close the YaST installation and take you\n"
+"to the login screen.</p>\n"
+msgstr ""
+"<p><b>完成</b>将关闭 YaST 安装程序\n"
+"并进入登录屏幕。</p>\n"
+
+#. help 3/4 for dialog "Congratulation Dialog"
+#: src/clients/inst_congratulate.ycp:190
+msgid ""
+"<p>If you choose the default graphical desktop KDE, you can\n"
+"adjust some KDE settings to your hardware. Also notice\n"
+"our SUSE Welcome Dialog.</p>\n"
+msgstr ""
+"<p>如果选择默认的图形桌面 KDE，则可以\n"
+"针对硬件调整一些 KDE 设置。还请注意\n"
+"我们的 SUSE 欢迎对话框。</p>\n"
+
+#: src/clients/inst_congratulate.ycp:196
+msgid ""
+"<p>Use <b>Clone</b> if you want to create an AutoYaST profile.\n"
+"AutoYaST is a way to do a complete SUSE Linux installation without user interaction. AutoYaST\n"
+"needs a profile to know what the installed system should look like. If this option is\n"
+"selected, a profile of the current system is stored in <tt>/root/autoinst.xml</tt>.</p>"
+msgstr ""
+"<p>使用<b>复制</b>可以创建 AutoYaST 配置文件。\n"
+"AutoYaST 是在无用户干预情况下完整安装 SUSE Linux 的一种方式。AutoYaST\n"
+"需要一个配置文件来了解安装后的系统应是什么样的。如果选中此\n"
+"选项，当前系统的配置文件将保存在 <tt>/root/autoyast.xml</tt> 中。</p>"
+
+#: src/clients/inst_congratulate.ycp:209
+#, ycp-format
+msgid "<p>To clone the current system, the <b>%1</b> package must be installed.</p>"
+msgstr "<p>要克隆当前系统，必须安装 <b>%1</b> 包。</p>"
+
+#: src/clients/inst_congratulate.ycp:210
+msgid "<p>Install it now?</p>"
+msgstr "<p>是否立即安装？</p>"
+
+#: src/clients/inst_congratulate.ycp:211
+msgid "autoyast2 package not installed. Cloning disabled."
+msgstr "为安装 autoyast2 软件包。禁用克隆。"
+
+#. Dialog busy message
+#. TRANSLATORS: busy message
+#: src/clients/inst_congratulate.ycp:266 src/include/inst_inc_all.ycp:99
+msgid "Finishing the installation..."
+msgstr "正在完成安装..."
+
+#. twice more steps
+#: src/clients/inst_deploy_image.ycp:163 src/clients/inst_deploy_image.ycp:285
+#: src/clients/inst_prepareprogress.ycp:91
+msgid "Deploying Images..."
+msgstr "部署映像..."
+
+#: src/clients/inst_deploy_image.ycp:187
+#, ycp-format
+msgid "Downloading image at speed %1/s"
+msgstr "映像下载速度：%1/s"
+
+#: src/clients/inst_deploy_image.ycp:189
+#, ycp-format
+msgid "Downloading image %1 at speed %2/s"
+msgstr "正在下载映像 %1，速度：%2/s"
+
+#: src/clients/inst_deploy_image.ycp:242
+msgid "Deploying image..."
+msgstr "正在部署映像..."
+
+#: src/clients/inst_deploy_image.ycp:244
+#, ycp-format
+msgid "Deploying image %1..."
+msgstr "正在部署映像 %1..."
+
+#: src/clients/inst_deploy_image.ycp:342
+msgid ""
+"Deploying images has failed.\n"
+"Aborting the installation...\n"
+msgstr ""
+"无法部署映像。\n"
+"正在中止安装...\n"
+
+#. TRANSLATORS: pop-up message
+#: src/clients/inst_deploy_image.ycp:370
+msgid ""
+"Debugging has been turned on.\n"
+"YaST will open a software manager for you to check the current status of packages."
+msgstr ""
+"已经打开调试功能。\n"
+"YaST 将打开一个软件包管理器来让您检查当前软件包的状态。"
+
+#. popup label
+#: src/clients/inst_disks_activate.ycp:75
+msgid "Detecting Available Controllers"
+msgstr "正在检测可用的控制器"
+
+#. dialog caption
+#: src/clients/inst_disks_activate.ycp:102
+msgid "Disk Activation"
+msgstr "磁盘激活"
+
+#. push button
+#: src/clients/inst_disks_activate.ycp:111
+msgid "Configure &DASD Disks"
+msgstr "配置 DASD 磁盘(&D)"
+
+#. push button
+#: src/clients/inst_disks_activate.ycp:117
+msgid "Configure &ZFCP Disks"
+msgstr "配置 ZFCP 磁盘(&Z)"
+
+#. push button
+#: src/clients/inst_disks_activate.ycp:123
+msgid "Configure &FCoE Interfaces"
+msgstr "配置以太网络光纤通道接口(&F)"
+
+#. push button
+#: src/clients/inst_disks_activate.ycp:128
+msgid "Configure &iSCSI Disks"
+msgstr "配置 iSCSI 磁盘(&I)"
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_doit.ycp:60
+msgid "Installation - Warming Up"
+msgstr "安装 - 热身"
+
+#. TRANSLATORS: starting the installation process
+#. dialog cotent (progress information)
+#. popup headline (#x1)
+#: src/clients/inst_doit.ycp:64 src/include/inst_inc_second.ycp:321
+msgid "Starting Installation..."
+msgstr "正在启动安装..."
+
+#. TRANSLATORS: dialog help
+#: src/clients/inst_doit.ycp:67
+msgid "<p>Installation is just about to start!</p>"
+msgstr "<p>安装即将开始！</p>"
+
+#. check box
+#: src/clients/inst_extrasources.ycp:283
+msgid "Show &package updates"
+msgstr "显示软件包更新(&P)"
+
+#. popup message, list of repositores is appended to the text
+#: src/clients/inst_extrasources.ycp:380
+msgid "Package updates have been found in these additional repositories:"
+msgstr "在这些额外的软件仓库中找到了软件包更新："
+
+#. yes/no popup question
+#: src/clients/inst_extrasources.ycp:387
+msgid "Start the software manager to check and install the updates?"
+msgstr "是否启动软件包管理器来检查和安装这些更新？"
+
+#. error description
+#: src/clients/inst_fallback_controlfile.ycp:57
+msgid ""
+"YaST was unable to find the correct control file.\n"
+"We are using a fall-back one. This should not happen\n"
+"and it is worth reporting a bug."
+msgstr ""
+"YaST 未能找到正确的控制文件。\n"
+"现在使用备用的文件。这本不该发生，\n"
+"您可以报告一个 bug。"
+
+#. help text
+#: src/clients/inst_fallback_controlfile.ycp:64
+msgid ""
+"<p>A fallback control file contains installation and update\n"
+"workflows unified for all products.</p>"
+msgstr ""
+"<p>一个备用控制文件包含安装和升级的工作流程\n"
+"适用于所有产品。</p>"
+
+#: src/clients/inst_finish.ycp:67
+msgid "Installation Error"
+msgstr "安装出错"
+
+#: src/clients/inst_finish.ycp:94 src/clients/inst_prepareprogress.ycp:107
+msgid "Finishing Basic Installation"
+msgstr "正在完成基本安装"
+
+#: src/clients/inst_finish.ycp:118
+msgid "Creating list of finish scripts to call..."
+msgstr "正在创建要调用的完成脚本列表..."
+
+#. progress stage
+#: src/clients/inst_finish.ycp:134
+msgid "Copy files to installed system"
+msgstr "将文件复制到已安装的系统"
+
+#. progress stage
+#: src/clients/inst_finish.ycp:149
+msgid "Save configuration"
+msgstr "保存配置"
+
+#. progress stage
+#: src/clients/inst_finish.ycp:174
+msgid "Install boot manager"
+msgstr "安装引导管理器"
+
+#. progress stage
+#: src/clients/inst_finish.ycp:184
+msgid "Save installation settings"
+msgstr "保存安装设置"
+
+#. progress stage
+#: src/clients/inst_finish.ycp:202
+msgid "Prepare system for initial boot"
+msgstr "为初次引导准备系统"
+
+#: src/clients/inst_finish.ycp:287
+#, ycp-format
+msgid "Checking stage: %1..."
+msgstr "正在检查状态：%1..."
+
+#. a fallback busy message
+#: src/clients/inst_finish.ycp:379
+#, ycp-format
+msgid "Calling step %1..."
+msgstr "调用步骤 %1..."
+
+#. use as ' * %1' -> ' * One of the finish steps...' in the SlideShow log
+#: src/clients/inst_finish.ycp:384
+#, ycp-format
+msgid " * %1"
+msgstr " * %1"
+
+#: src/clients/inst_finish.ycp:417
+msgid "Finished"
+msgstr "已完成"
+
+#. Button to accept a license agreement
+#: src/clients/inst_info.ycp:59
+msgid "I &Agree"
+msgstr "我同意(&A)"
+
+#. Button to reject a license agreement
+#: src/clients/inst_info.ycp:62
+msgid "I Do &Not Agree"
+msgstr "我不同意(&N)"
+
+#. TRANSLATORS: dialog help
+#: src/clients/inst_initialization.ycp:49
+msgid "Installation is being initialized."
+msgstr "正在初始化安装。"
+
+#. TRANSLATORS: dialog progress message
+#: src/clients/inst_initialization.ycp:51
+msgid "Initializing the installation..."
+msgstr "正在初始化安装..."
+
+#. TRANSLATORS: dialog help
+#. help for the dialog - busy message
+#: src/clients/inst_initialization.ycp:55 src/include/inst_inc_all.ycp:55
+msgid "<p>Please wait...</p>"
+msgstr "<p>请稍候...</p>"
+
+#. TRANSLATORS: dialog progress message
+#: src/clients/inst_initialization.ycp:57
+msgid "Preparing the initial system configuration..."
+msgstr "正在准备初始系统配置..."
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_initialization.ycp:65 src/clients/inst_mode.ycp:396
+msgid "Initializing"
+msgstr "初始化"
+
+#. Error message
+#: src/clients/inst_license.ycp:120
+msgid "Internal error: Missing license to show"
+msgstr "内部错误：缺少应显示的协议"
+
+#. frame
+#: src/clients/inst_mode.ycp:137
+msgid "Select Mode"
+msgstr "选择模式"
+
+#: src/clients/inst_mode.ycp:147
+msgid "New &Installation"
+msgstr "全新安装(&I)"
+
+#. radio button
+#: src/clients/inst_mode.ycp:155
+msgid "&Update an Existing System"
+msgstr "更新现有系统(&U)"
+
+#. check box
+#: src/clients/inst_mode.ycp:170
+msgid "&Add Online Repositories Before Installation"
+msgstr "在安装前添加在线软件仓库(&A)"
+
+#. check box
+#: src/clients/inst_mode.ycp:179
+msgid "In&clude Add-on Products from Separate Media"
+msgstr "包括独立介质中的附加产品(&C)"
+
+#. check box
+#: src/clients/inst_mode.ycp:186
+msgid "&Use Automatic Configuration"
+msgstr "使用自动配置(&U)"
+
+#. help text for installation method
+#: src/clients/inst_mode.ycp:199
+msgid ""
+"<p><big><b>Installation Mode</b></big><br>\n"
+"Select what to do:</p>"
+msgstr ""
+"<p><big><b>安装模式</b></big><br>\n"
+"请选择要执行的操作：</p>"
+
+#. help text for installation method
+#: src/clients/inst_mode.ycp:203
+msgid ""
+"<p>\n"
+"Select <b>New Installation</b> if there is no existing Linux system on your\n"
+"machine or if you want to replace an existing Linux system completely,\n"
+"discarding all its configuration data.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"如果电脑上还没有安装 Linux 系统,\n"
+"或您想完全替换现有系统及弃置其所有配置数据,\n"
+"请选择<b>全新安装</b>.\n"
+"</p>\n"
+
+#. help text for installation method
+#: src/clients/inst_mode.ycp:211
+msgid ""
+"<p>\n"
+"Select <b>Update an Existing System</b> to update a Linux system already\n"
+"installed on your machine. This option preserves configuration settings\n"
+"from your existing system whenever possible.\n"
+"</p>"
+msgstr ""
+"<p>\n"
+"选择<b>更新现有系统</b>，可更新计算机上\n"
+"已安装的 Linux 系统。此选项将尽可能保留现有系统的\n"
+"配置设置。\n"
+"</p>"
+
+#. help text for installation option
+#: src/clients/inst_mode.ycp:218
+msgid ""
+"<p>\n"
+"To use suggested remote repositories during installation or update, select\n"
+"<b>Add Online Repositories Before Installation</b>.</p>"
+msgstr ""
+"<p>\n"
+"要在安装或者更新时使用远程的软件仓库，请选择\n"
+"<b>在安装前添加在线软件仓库</b>。</p>"
+
+#. help text for installation method
+#: src/clients/inst_mode.ycp:223
+msgid ""
+"<p>\n"
+"To install an add-on product from separate media together with &product;, select\n"
+"<b>Include Add-on Products from Separate Media</b>.</p>\n"
+msgstr ""
+"<p>\n"
+"要安装 &product; 并从独立介质安装附加产品，请选择\n"
+" <b>包括独立介质中的附加产品</b>。</p>\n"
+
+#. help text for installation method
+#: src/clients/inst_mode.ycp:229
+msgid ""
+"<p>\n"
+"Select <b>Use Automatic Configuration</b> to let the installation program\n"
+"configure your network and hardware automatically. Otherwise you will\n"
+"be offered a configuration proposal with the possibility to tune all the\n"
+"settings manually. Inexperienced users are advised to use automatic\n"
+"configuration.</p>\n"
+msgstr ""
+"<p>\n"
+"选择<b>使用自动配置</b>可以让安装程序自动配置您的网络和硬件。\n"
+"否则，您会得到一个配置建议，且可以进一步手工调节所有的设置。\n"
+"对于缺乏经验的用户推荐使用自动配置。</p>\n"
+
+#. help text for installation method
+#: src/clients/inst_mode.ycp:238
+msgid "<p>Update mode does not support automatic configuration.</p>"
+msgstr "<p>更新模式不支持自动配置。</p>"
+
+#. help text for installation method
+#: src/clients/inst_mode.ycp:241
+msgid ""
+"<p>The feature <b>Update</b> is only\n"
+"available if an existing Linux system has been detected.\n"
+"</p>\n"
+msgstr ""
+"<p><b>更新</b> 特性只有在\n"
+"检测到已有 Linux 系统的情况下才可以使用。\n"
+"</p>\n"
+
+#. dialog caption
+#: src/clients/inst_mode.ycp:249
+msgid "Installation Mode"
+msgstr "安装模式"
+
+#. this is a label of a message box
+#: src/clients/inst_mode.ycp:356
+msgid ""
+"Choose one of the\n"
+"options to continue."
+msgstr ""
+"请选择其中一个选项，\n"
+"然后继续进行。"
+
+#. TRANSLATORS: progress message
+#. dialog caption
+#: src/clients/inst_mode.ycp:398 src/include/inst_inc_all.ycp:60
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_network_check.ycp:78
+#: src/clients/inst_network_setup.ycp:342
+#: src/clients/inst_network_setup.ycp:709
+msgid "Network Setup"
+msgstr "网络设置"
+
+#: src/clients/inst_network_check.ycp:96
+msgid ""
+"No network setup has been found.\n"
+"It is important if using remote repositories,\n"
+"otherwise you can safely skip it.\n"
+msgstr ""
+"未找到网络设置。\n"
+"这对使用远程软件仓库很重要。\n"
+"否则，您可以放心地跳过。\n"
+
+#. TRANSLATORS: dialog label
+#: src/clients/inst_network_check.ycp:103
+msgid "Configure your network card now?"
+msgstr "现在是否配置网卡？"
+
+#. TRANSLATORS: frame label
+#: src/clients/inst_network_check.ycp:107
+msgid "Select"
+msgstr "选择"
+
+#. TRANSLATORS: radio button
+#: src/clients/inst_network_check.ycp:110
+msgid "&Yes, Run the Network Setup"
+msgstr "是，进行网络设置(&Y)"
+
+#. TRANSLATORS: radio button
+#: src/clients/inst_network_check.ycp:112
+msgid "No, &Skip the Network Setup"
+msgstr "否，跳过网络设置(&S)"
+
+#. TRANSLATORS: help text, part 1/2
+#: src/clients/inst_network_check.ycp:122
+msgid ""
+"<p>The current installation system does not\n"
+"have a configured network.</p>\n"
+msgstr ""
+"<p>现在进行安装的系统没有\n"
+"一个已经配置好的网络连接。</p>\n"
+
+#. TRANSLATORS: help text, part 2/2
+#: src/clients/inst_network_check.ycp:126
+msgid ""
+"<p>A configured network is needed for using remote repositories\n"
+"or add-on products. If you do not use remote repositories, skip the configuration.</p>\n"
+msgstr ""
+"<p>要用远程的软件仓库或者附加产品，您需要配置一个网络连接。\n"
+"如果您不想使用任何远程的软件仓库，就可以跳过配置。</p>\n"
+
+#. error popup
+#: src/clients/inst_network_check.ycp:163
+#, fuzzy, ycp-format
+#| msgid ""
+#| "Error while initializing package descriptions.\n"
+#| "Check the log file %1 for more details."
+msgid ""
+"Network configuration has failed.\n"
+"Check the log file %1 for details."
+msgstr ""
+"初始化包说明时出错。\n"
+"有关细节，请查看日志文件 %1。"
+
+#. TRANSLATORS: hardware information - HTML summary text
+#. %1 is replaced with a variable network_device
+#: src/clients/inst_network_setup.ycp:96
+#, ycp-format
+msgid "Network Device: %1"
+msgstr "网络设备：%1"
+
+#. TRANSLATORS: hardware information - HTML summary text
+#. %1 is replaced with "Wireless" or "Wired"
+#. See #nt1 below
+#: src/clients/inst_network_setup.ycp:103
+#, ycp-format
+msgid "Network type: %1"
+msgstr "网络类型：%1"
+
+#. TRANSLATORS: Describes a "Network type"
+#. see #nt1 above
+#: src/clients/inst_network_setup.ycp:107
+msgid "Wireless"
+msgstr "无线"
+
+#. TRANSLATORS: Describes a "Network type"
+#. see #nt1 above
+#: src/clients/inst_network_setup.ycp:111
+msgid "Wired"
+msgstr "有线"
+
+#. TRANSLATORS: hardware information - HTML summary text
+#. %1 is replaced with a variable device_model
+#: src/clients/inst_network_setup.ycp:119
+#, ycp-format
+msgid "Model: %1"
+msgstr "型号：%1"
+
+#. TRANSLATORS: hardware information - HTML summary text
+#. %1 is replaced with a variable mac_address
+#: src/clients/inst_network_setup.ycp:126
+#, ycp-format
+msgid "MAC Address: %1"
+msgstr "MAC 地址：%1"
+
+#. TRANSLATORS: hardware information - HTML summary text
+#. %1 is replaced with a variable hardware_vendor
+#: src/clients/inst_network_setup.ycp:133
+#, ycp-format
+msgid "Hardware Vendor: %1"
+msgstr "硬件厂商：%1"
+
+#. TRANSLATORS: hardware information - HTML summary text
+#. %1 is either "Connected" or "Disconnected" (*1)
+#: src/clients/inst_network_setup.ycp:142
+#, ycp-format
+msgid "Link is: %1"
+msgstr "连接状态：%1"
+
+#. TRANSLATORS: hardware information, see *1
+#: src/clients/inst_network_setup.ycp:145
+msgid "Connected"
+msgstr "已连接"
+
+#. TRANSLATORS: hardware information, see *1
+#: src/clients/inst_network_setup.ycp:148
+msgid "Disconnected"
+msgstr "已断开"
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_network_setup.ycp:190
+msgid "Network Setup Wizard: Probing Hardware..."
+msgstr "网络安装向导：正在检测硬件..."
+
+#. TRANSLATORS: dialog busy message
+#: src/clients/inst_network_setup.ycp:193
+msgid "Probing network cards..."
+msgstr "正在检测网卡..."
+
+#. TRANSLATORS: dialog help
+#: src/clients/inst_network_setup.ycp:196
+msgid "Network cards are being probed now."
+msgstr "正在检测网卡。"
+
+#. TRANSLATORS: a fallback card name for *2
+#: src/clients/inst_network_setup.ycp:208
+#: src/clients/inst_network_setup.ycp:652
+msgid "Unknown Network Card"
+msgstr "未知网卡"
+
+#. TRANSLATORS: hardware information widget content (a fallback)
+#: src/clients/inst_network_setup.ycp:260
+msgid "No additional information"
+msgstr "无附加信息"
+
+#. TRANSLATORS: pop-up error message
+#: src/clients/inst_network_setup.ycp:296
+msgid ""
+"No network card has been selected.\n"
+"\n"
+"Select a network card to configure it later.\n"
+msgstr ""
+"没有选择网卡。\n"
+"\n"
+"请选择选择一个网卡，稍后进行配置。\n"
+
+#. TRANSLATORS: popup dialog caption
+#: src/clients/inst_network_setup.ycp:306
+msgid "Warning"
+msgstr "警告"
+
+#. TRANSLATORS: popup dialog question
+#. %1 is replaced with a network device string
+#: src/clients/inst_network_setup.ycp:310
+#, ycp-format
+msgid ""
+"The link of the selected interface %1 is disconnected.\n"
+"It needs to be connected for a proper network configuration.\n"
+"Are you sure you want to use it?"
+msgstr ""
+"选择的接口 %1 的连接已经断开。\n"
+"需要连接上才能正确的配置网络。\n"
+"您确信要使用它么？"
+
+#. TRANSLATORS: popup dialog button
+#: src/clients/inst_network_setup.ycp:316
+msgid "&Yes, Use it"
+msgstr "是的, 使用 (&Y)"
+
+#: src/clients/inst_network_setup.ycp:344
+msgid "Select a network card to be configured."
+msgstr "请选择一个要配置的网卡。"
+
+#: src/clients/inst_network_setup.ycp:349
+msgid "Network Card"
+msgstr "网卡"
+
+#: src/clients/inst_network_setup.ycp:350
+msgid "Device"
+msgstr "设备"
+
+#. TRANSLATORS: Rich text widget label
+#: src/clients/inst_network_setup.ycp:356
+msgid "Hardware Information of the Selected Network Card"
+msgstr "所选网卡的硬件信息"
+
+#. TRANSLATORS: dialog help 1/3
+#: src/clients/inst_network_setup.ycp:363
+msgid "<p>Here you can configure your network cards to be used immediately.</p>"
+msgstr "<p>在这里您可以在这里配置网卡，立即就可以使用。</p>"
+
+#. TRANSLATORS: dialog help 2/3
+#: src/clients/inst_network_setup.ycp:365
+msgid ""
+"<p>If you do not need a network connection now,\n"
+"you can safely skip the configuration.</p>"
+msgstr ""
+"<p>如果您现在不需要网络连接，\n"
+"就可以放心的跳过配置。</p>"
+
+#. TRANSLATORS: dialog help 3/3
+#: src/clients/inst_network_setup.ycp:368
+msgid ""
+"<p>To configure a network card, select it from the list\n"
+"and click the <b>Next</b> button.\n"
+"Otherwise, click <b>Cancel</b>.</p>\n"
+msgstr ""
+"<p>要配置网卡，请从列表中选中\n"
+"并点击<b>下一步</b>按钮。\n"
+"否则，请点击<b>取消</b>。</p>\n"
+
+#. TRANSLATORS: error message
+#: src/clients/inst_network_setup.ycp:442
+msgid "IP address cannot be empty."
+msgstr "IP 地址不能为空。"
+
+#. TRANSLATORS: Error message, %1 is replaced with invalid IP address
+#: src/clients/inst_network_setup.ycp:448
+#, ycp-format
+msgid "'%1' is an invalid IP address."
+msgstr "'%1' 不是有效的 IP 地址。"
+
+#. TRANSLATORS: error message
+#: src/clients/inst_network_setup.ycp:458
+msgid "Netmask cannot be empty."
+msgstr "网络掩码不能为空。"
+
+#. TRANSLATORS: Error message, %1 is replaced with invalid netmask
+#: src/clients/inst_network_setup.ycp:464
+#, ycp-format
+msgid "'%1' is an invalid netmask."
+msgstr "'%1' 是无效的网络掩码。"
+
+#. TRANSLATORS: error message
+#: src/clients/inst_network_setup.ycp:474
+msgid "Gateway IP address cannot be empty."
+msgstr "网关 IP 地址不能为空。"
+
+#. TRANSLATORS: Error message, %1 is replaced with invalid IP address
+#: src/clients/inst_network_setup.ycp:480
+#, ycp-format
+msgid "'%1' is an invalid IP address of the gateway."
+msgstr "'%1' 不是一个有效的 IP 网关地址。"
+
+#. TRANSLATORS: error message
+#: src/clients/inst_network_setup.ycp:490
+msgid "DNS server IP address cannot be empty."
+msgstr "DNS 服务器 IP 地址不能为空。"
+
+#. TRANSLATORS: Error message, %1 is replaced with invalid IP address
+#: src/clients/inst_network_setup.ycp:496
+#, ycp-format
+msgid "'%1' is an invalid IP address of the DNS server."
+msgstr "“%1” 不是有效的 DNS 服务器 IP 地址。"
+
+#. TRANSLATORS: error message
+#: src/clients/inst_network_setup.ycp:528
+msgid "Proxy server name or IP address must be set."
+msgstr "必须设置代理服务器名称或 IP 地址。"
+
+#. TRANSLATORS: Error message, %1 is replaced with invalid IP address
+#: src/clients/inst_network_setup.ycp:534
+#, ycp-format
+msgid ""
+"'%1' is an invalid IP address or invalid hostname\n"
+"of a proxy server."
+msgstr ""
+"'%1' 是无效的 IP 地址或代理服务器的\n"
+"主机名。"
+
+#. TRANSLATORS: error message
+#: src/clients/inst_network_setup.ycp:547
+msgid "Proxy port must be set."
+msgstr "必须设置代理端口。"
+
+#. TRANSLATORS: Error message, %1 is replaced with invalid IP address
+#: src/clients/inst_network_setup.ycp:554
+#: src/clients/inst_network_setup.ycp:569
+#, ycp-format
+msgid ""
+"'%1' is an invalid proxy port number.\n"
+"\n"
+"Port number must be between 1 and 65535 inclusive."
+msgstr ""
+"'%1' 是一个错误的代理端口号。\n"
+"\n"
+"端口号只能在 1 到 65535 之间。"
+
+#. TRANSLATORS: dialog label, %1 is replaced with a selected network device name, e.g, eth3
+#. See *2
+#: src/clients/inst_network_setup.ycp:650
+#, ycp-format
+msgid "Select your network setup type for %1"
+msgstr "请为 %1 选择网络设置类型"
+
+#: src/clients/inst_network_setup.ycp:657
+msgid "Automatic Address Setup (via &DHCP)"
+msgstr "自动地址设置(通过 DHCP)(&D)"
+
+#: src/clients/inst_network_setup.ycp:658
+msgid "&Static Address Setup"
+msgstr "静态地址设置(&S)"
+
+#: src/clients/inst_network_setup.ycp:666
+msgid "Static Address Settings"
+msgstr "静态地址设置"
+
+#: src/clients/inst_network_setup.ycp:669
+msgid "&IP Address"
+msgstr "IP 地址(&I)"
+
+#: src/clients/inst_network_setup.ycp:671
+msgid "Net&mask"
+msgstr "网络掩码(&M)"
+
+#: src/clients/inst_network_setup.ycp:674
+msgid "Default &Gateway IP"
+msgstr "默认网关 IP (&G)"
+
+#: src/clients/inst_network_setup.ycp:676
+msgid "D&NS Server IP"
+msgstr "DNS 服务器 IP (&N)"
+
+#: src/clients/inst_network_setup.ycp:687
+msgid "&Use Proxy for Accessing the Internet"
+msgstr "使用代理访问网络(&U)"
+
+#: src/clients/inst_network_setup.ycp:691
+msgid "&HTTP Proxy Server"
+msgstr "HTTP 代理服务器(&H)"
+
+#: src/clients/inst_network_setup.ycp:693
+msgid "&Port"
+msgstr "端口(&P)"
+
+#: src/clients/inst_network_setup.ycp:696
+msgid "Us&er (optional)"
+msgstr "用户(可选)(&E)"
+
+#: src/clients/inst_network_setup.ycp:698
+msgid "Pass&word (optional)"
+msgstr "密码(可选)(&W)"
+
+#. TRANSLATORS: dialog help 1/2
+#: src/clients/inst_network_setup.ycp:716
+msgid ""
+"<p><big><b>Network Setup</b></big>\n"
+"<br>Configure your network card.\n"
+"Select either DHCP or static setup. DHCP fits for most cases.\n"
+"For details contact your Internet provider or your network\n"
+"administrator.</p>\n"
+msgstr ""
+"<p><big><b>网络设置</b></big>\n"
+"<br>您可以在这里配置网卡。\n"
+"选择 DHCP 或者静态设置。大多数情况下都选 DHCP。\n"
+"详情请联系您的网络提供商或者您的网管。</p>\n"
+
+#. TRANSLATORS: dialog help 2/2
+#: src/clients/inst_network_setup.ycp:723
+msgid ""
+"<p><big><b>Proxy</b></big>\n"
+"<br>Proxy is a server-based cache for accessing the web.\n"
+"In most cases, if you have a direct connection to the Internet,\n"
+"you do not need to use one.</p>\n"
+msgstr ""
+"<p><big><b>代理</b></big>\n"
+"<br>代理是一个基于服务器的网络访问缓存。\n"
+"在大多数情况下，如果您直接连接到互联网，\n"
+"就没有必要使用它。</p>\n"
+
+#. TRANSLATORS: error popup content (HTML)
+#. %1 is replaced with a bash command
+#. %2 is replaced with (possibly multiline) error output of the command
+#: src/clients/inst_network_setup.ycp:829
+#, ycp-format
+msgid ""
+"<p>Command: <tt>%1</tt> has failed.</p>\n"
+"<p>The output of the command was:\n"
+"<pre>%2</pre></p>"
+msgstr ""
+"<p>命令：<tt>%1</tt> 失败了。</p>\n"
+"<p>命令输出为：\n"
+"<pre>%2</pre></p>"
+
+#. TRANSLATORS: popup hedline
+#. TRANSLATORS: popup headline
+#: src/clients/inst_network_setup.ycp:862
+#: src/clients/inst_network_setup.ycp:879
+#: src/clients/inst_network_setup.ycp:892
+msgid "Setting up Network Failed"
+msgstr "设置网络失败"
+
+#. TRANSLATORS: popup error message
+#: src/clients/inst_network_setup.ycp:979
+msgid ""
+"A failure occurred during preparing\n"
+"the installation system for writing the proxy configuration."
+msgstr ""
+"在准备安装系统写入\n"
+"代理设置时出错。"
+
+#. TRANSLATORS: a pop-up dialog headline
+#. TRANSLATORS: popup headline
+#: src/clients/inst_network_setup.ycp:1166
+#: src/clients/inst_network_setup.ycp:1277
+msgid "Internet Test Failed"
+msgstr "互联网测试失败"
+
+#. TRANSLATORS: a pop-up dialog question, see buttons *3
+#: src/clients/inst_network_setup.ycp:1168
+msgid ""
+"The Internet connection test failed. You should be\n"
+"redirected to the previous dialog to change the configuration.\n"
+"Go back and change it?"
+msgstr ""
+"互联网连接测试失败。您可以\n"
+"考虑回到之前的对话框修改配置。\n"
+"是否返回并修改？"
+
+#. TRANSLATORS: popup dialog button (*3)
+#: src/clients/inst_network_setup.ycp:1172
+msgid "Go Back"
+msgstr "后退"
+
+#. TRANSLATORS: popup dialog button (*3)
+#: src/clients/inst_network_setup.ycp:1174
+msgid "Skip"
+msgstr "跳过"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1317
+msgid "Adjust automatic network setup (via DHCP)"
+msgstr "调整自动地址设置 (通过 DHCP)"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1319
+msgid "Adjusting automatic network setup (via DHCP)..."
+msgstr "正在调整自动地址设置 (通过 DHCP)..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1327
+msgid "Adjust static network setup"
+msgstr "调整静态地址设置"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1329
+msgid "Adjusting static network setup..."
+msgstr "正在调整地址设置..."
+
+#. TRANSLATORS: pop-up error message
+#: src/clients/inst_network_setup.ycp:1338
+msgid ""
+"Unknown network setup.\n"
+"\n"
+"Please, go back and provide a valid network setup."
+msgstr ""
+"未知的网络设置。\n"
+"\n"
+"请返回并提供一个有效的网络设置。"
+
+#. Always write settings, might be already in use
+#. and we might want to disable it
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1347
+msgid "Write proxy settings"
+msgstr "写入代理设置"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1349
+msgid "Writing proxy settings..."
+msgstr "正在写入代理设置..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1357
+msgid "Adjust installation system"
+msgstr "调整安装系统"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1359
+msgid "Adjusting installation system..."
+msgstr "正在调整安装系统..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1366
+msgid "Test Internet connection"
+msgstr "测试因特网连接"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_network_setup.ycp:1368
+msgid "Testing Internet connection..."
+msgstr "正在测试因特网连接..."
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_network_setup.ycp:1375
+msgid "Writing Network Setup..."
+msgstr "写入网络设置..."
+
+#. TRANSLATORS: dialog help
+#: src/clients/inst_network_setup.ycp:1381
+msgid "<p>Please, wait while network configuration is being written and tested...</p>"
+msgstr "<p>正在写入和测试网络配置, 请稍等...</p>"
+
+#: src/clients/inst_network_setup.ycp:1408
+msgid ""
+"Writing the network settings failed.\n"
+"You will be returned to the previous dialog to either\n"
+"change the settings or cancel the network setup.\n"
+msgstr ""
+"写入网络设置失败。\n"
+"您将返回到之前的对话框，可以修改设置\n"
+"或者取消网络设置。\n"
+
+#. TRANSLATORS: help text, part 1
+#: src/clients/inst_new_desktop.ycp:54
+msgid ""
+"<p>At Linux <b>choice</b> is a top priority. <i>openSUSE</i> offers a number \n"
+"of different desktop environments. Below you see a list of the 2 major ones \n"
+"<b>GNOME</b> and <b>KDE</b>.</p>"
+msgstr ""
+"<p>对于 Linux，<b>选择</b>至关重要。<i>openSUSE</i>提供了几种\n"
+" 不同的桌面环境。下面您可以看到两种主流的桌面：\n"
+"<b>GNOME</b> 和 <b>KDE</b>。</p>"
+
+#. TRANSLATORS: help text, part 3
+#: src/clients/inst_new_desktop.ycp:59
+msgid ""
+"<p>You may select alternative desktop environments (or one of minimal installation patterns)\n"
+"that could fit your needs better using the <b>Other</b> option . Later in the software \n"
+"selection or after installation, you can change your selection or add additional desktop \n"
+"environments. This screen allows you to set the default.</p>"
+msgstr "<p>您也可以使用 <b>其它</b> 选项选择替代的更满足您需要的桌面环境 (或者选择一个最小化安装集合)。稍后在软件选择或安装后，您可以修改您的选择或添加额外桌面环境。本屏幕允许您设置默认桌面环境。</p>"
+
+#: src/clients/inst_new_desktop.ycp:185
+msgid "Other"
+msgstr "其它"
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_new_desktop.ycp:244
+msgid "Desktop Selection"
+msgstr "桌面选择"
+
+#: src/clients/inst_new_desktop.ycp:274 src/clients/inst_new_desktop.ycp:289
+msgid ""
+"No system type was selected.\n"
+"Select the default type."
+msgstr ""
+"没有选择系统类型。\n"
+"使用默认的类型。"
+
+#: src/clients/inst_prepareprogress.ycp:85
+msgid "Preparing disks..."
+msgstr "正在准备磁盘..."
+
+#: src/clients/inst_prepareprogress.ycp:99
+msgid "Installing Packages..."
+msgstr "正在安装软件包..."
+
+#. heading in proposal, in case the module doesn't create one
+#: src/clients/inst_proposal.ycp:284 src/clients/inst_proposal.ycp:285
+#: src/clients/inst_proposal.ycp:292 src/clients/inst_proposal.ycp:335
+#: src/clients/inst_proposal.ycp:336 src/clients/inst_proposal.ycp:342
+msgid "ERROR: Missing Title"
+msgstr "错误：缺少标题"
+
+#. busy message
+#: src/clients/inst_proposal.ycp:302
+msgid "Adapting the proposal to the current settings..."
+msgstr "调整方案到当前设置..."
+
+#. busy message;
+#. Initial contents of proposal subwindow while proposals are calculated
+#: src/clients/inst_proposal.ycp:306 src/clients/inst_proposal.ycp:784
+msgid "Analyzing your system..."
+msgstr "正在分析您的系统..."
+
+#. fallback proposal, means usually an internal error
+#: src/clients/inst_proposal.ycp:489
+msgid "ERROR: No proposal"
+msgstr "错误：无建议方案"
+
+#. Submodules handle their own error reporting
+#. text for a message box
+#: src/clients/inst_proposal.ycp:539
+msgid ""
+"Configuration saved.\n"
+"There were errors."
+msgstr ""
+"配置已保存，\n"
+"但存在错误。"
+
+#. dialog headline
+#: src/clients/inst_proposal.ycp:727
+msgid "Installation Overview"
+msgstr "安装概览"
+
+#. Check box: Skip all the configurations in this dialog -
+#. do this later manually or not at all
+#. Translators: About 40 characters max,
+#. use newlines for longer translations.
+#. radio button
+#: src/clients/inst_proposal.ycp:749
+msgid "&Skip Configuration"
+msgstr "跳过配置(&S)"
+
+#. radio button
+#: src/clients/inst_proposal.ycp:752
+msgid "&Use Following Configuration"
+msgstr "使用以下配置(&U)"
+
+#. menu button
+#. TRANSLATORS: Push button
+#: src/clients/inst_proposal.ycp:763 src/clients/inst_proposal.ycp:940
+#: src/clients/inst_upgrade_urls.ycp:181
+msgid "&Change..."
+msgstr "更改(&C)..."
+
+#. Help message between headline and installation proposal / settings summary.
+#. May contain newlines, but don't make it very much longer than the original.
+#: src/clients/inst_proposal.ycp:826
+msgid "Click a headline to make changes or use the \"Change...\" menu below."
+msgstr "单击任一标题或使用下面的“更改...”菜单进行更改。"
+
+#. push button
+#: src/clients/inst_proposal.ycp:857
+msgid "&Show Release Notes"
+msgstr "显示发布说明(&S)"
+
+#. menu button item
+#: src/clients/inst_proposal.ycp:938
+msgid "&Reset to defaults"
+msgstr "重置为默认值(&R)"
+
+#. General part of the help text for all types of proposals
+#: src/clients/inst_proposal.ycp:982
+msgid ""
+"<p>\n"
+"Change the values by clicking on the respective headline\n"
+"or by using the <b>Change...</b> menu.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"单击相应的标题\n"
+"或使用<b>更改...</b>菜单更改这些值。\n"
+"</p>\n"
+
+#. Help text for installation proposal
+#. General part ("You can change values...") is added as the next paragraph.
+#: src/clients/inst_proposal.ycp:992
+msgid ""
+"<p>\n"
+"Select <b>Install</b> to perform a new installation with the values displayed.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"选择<b>安装</b>用显示的值执行全新安装。\n"
+"</p>\n"
+
+#. kicking out, bug #203811
+#. no such headline
+#. // Help text for installation proposal, continued
+#. help_text_string = help_text_string + _("<p>
+#. To update an existing &product; system instead of doing a new install,
+#. click the <b>Mode</b> headline or select <b>Mode</b> in the
+#. <b>Change...</b> menu.
+#. </p>
+#. ");
+#. *
+#. * Deliberately omitting "boot installed system" here to avoid
+#. * confusion: The user will be prompted for that if Linux
+#. * partitions are found.
+#. * - sh@suse.de 2002-02-26
+#. *
+#. Help text for installation proposal, continued
+#: src/clients/inst_proposal.ycp:1014 src/clients/inst_proposal.ycp:1036
+msgid ""
+"<p>\n"
+"Your hard disk has not been modified yet. You can still safely abort.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"没有对您的硬盘进行任何修改，您仍然可以安全的中止。\n"
+"</p>\n"
+
+#. Help text for update proposal
+#. General part ("You can change values...") is added as the next paragraph.
+#: src/clients/inst_proposal.ycp:1023
+msgid ""
+"<p>\n"
+"Select <b>Update</b> to perform an update with the values displayed.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"选择<b>更新</b>用显示的值执行更新。\n"
+"</p>\n"
+
+#. Help text for network configuration proposal
+#. General part ("You can change values...") is added as the next paragraph.
+#: src/clients/inst_proposal.ycp:1045
+msgid ""
+"<p>\n"
+"Put the network settings into effect by pressing <b>Next</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"按<b>下一步</b>将使网络设置生效。\n"
+"</p>\n"
+
+#. Help text for service configuration proposal
+#. General part ("You can change values...") is added as the next paragraph.
+#: src/clients/inst_proposal.ycp:1054
+msgid ""
+"<p>\n"
+"Put the service settings into effect by pressing <b>Next</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"按<b>下一步</b>将使服务设置生效。\n"
+"</p>\n"
+
+#. Help text for hardware configuration proposal
+#. General part ("You can change values...") is added as the next paragraph.
+#: src/clients/inst_proposal.ycp:1063
+msgid ""
+"<p>\n"
+"Put the hardware settings into effect by pressing <b>Next</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"按<b>下一步</b>将使硬件设置生效。\n"
+"</p>\n"
+
+#. Proposal in uml module
+#: src/clients/inst_proposal.ycp:1071
+msgid "<P><B>UML Installation Proposal</B></P>"
+msgstr "<P><B>UML 安装建议</B></P>"
+
+#. help text
+#: src/clients/inst_proposal.ycp:1073
+msgid ""
+"<P>UML (User Mode Linux) installation allows you to start independent\n"
+"Linux virtual machines in the host system.</P>"
+msgstr ""
+"<P>UML(用户方式 Linux)安装允许在主机系统中\n"
+"启动独立的 Linux 虚拟机。</P>"
+
+#. Generic help text for other proposals (not basic installation or
+#. hardhware configuration.
+#. General part ("You can change values...") is added as the next paragraph.
+#: src/clients/inst_proposal.ycp:1088
+msgid ""
+"<p>\n"
+"To use the settings as displayed, press <b>Next</b>.\n"
+"</p>\n"
+msgstr ""
+"<p>\n"
+"要将设置配置为显示的设置，请按<b>下一步</b>。\n"
+"</p>\n"
+
+#. help text
+#: src/clients/inst_proposal.ycp:1097
+msgid ""
+"<p>Some proposals might be\n"
+"locked by the system administrator and therefore cannot be changed. If a\n"
+"locked proposal needs to be changed, ask your system administrator.</p>\n"
+msgstr ""
+"<p>某些提案可能\n"
+"被系统管理员锁定，因而无法更改。要更改\n"
+"锁定的提案，请询问系统管理员。</p>\n"
+
+#: src/clients/inst_proposal.ycp:1170
+msgid "&Update"
+msgstr "更新(&U)"
+
+#: src/clients/inst_proposal.ycp:1172
+msgid "&Install"
+msgstr "安装(&I)"
+
+#. question in a popup box
+#: src/clients/inst_proposal.ycp:1273
+msgid "Really reset everything to default values?"
+msgstr "是否确实要将所有值都重设置为默认值？"
+
+#. explain consequences of a decision
+#: src/clients/inst_proposal.ycp:1275
+msgid "You will lose all changes."
+msgstr "您将丢失所有更改。"
+
+#. message show when user has disabled the configuration
+#: src/clients/inst_proposal.ycp:1287
+msgid "Skipping configuration upon user request"
+msgstr "根据用户请求跳过配置"
+
+#. error message is a popup
+#: src/clients/inst_proposal.ycp:1305
+msgid ""
+"The proposal contains an error that must be\n"
+"resolved before continuing.\n"
+msgstr ""
+"建议存在错误，必须在解决错误后\n"
+"才能继续。\n"
+
+#. TRANSLATORS: error message - the module does not provide command line interface
+#: src/clients/inst_release_notes.ycp:57
+msgid "There is no user interface available for this module."
+msgstr "此模块没有可用的用户界面。"
+
+#. combobox item
+#: src/clients/inst_release_notes.ycp:156
+#, ycp-format
+msgid "Language: %1"
+msgstr "语言：%1"
+
+#. caption for dialog "Release Notes"
+#: src/clients/inst_release_notes.ycp:192
+#: src/clients/release_notes_popup.ycp:165
+msgid "Release Notes"
+msgstr "发布说明"
+
+#: src/clients/inst_release_notes.ycp:225
+msgid "&Product"
+msgstr "产品(&P)"
+
+#. help text for dialog "Release Notes"
+#: src/clients/inst_release_notes.ycp:234
+msgid ""
+"<p>The <b>release notes</b> for the installed Linux system provide a brief\n"
+"summary of new features and changes.</p>\n"
+msgstr ""
+"<p>这是已安装的 Linux 系统\n"
+"的<b>发布说明</b>。这些发布说明简要说明了新功能和更改。</p>\n"
+
+#: src/clients/inst_release_notes.ycp:319
+msgid "<p>No release notes have been installed.</p>"
+msgstr "<p>未安装发布说明。</p>"
+
+#. TRANSLATORS: busy message
+#. TRANSLATORS: progress stage, %1 stands for service name
+#: src/clients/inst_restore_settings.ycp:47
+#: src/include/inst_inc_second.ycp:238
+#, ycp-format
+msgid "Starting service %1..."
+msgstr "正在启动服务 %1..."
+
+#. TRANSLATORS: frame label
+#: src/clients/inst_scenarios.ycp:193
+msgid "Choose Scenario"
+msgstr "选择方案"
+
+#. TRANSLATORS: help text
+#: src/clients/inst_scenarios.ycp:205
+msgid ""
+"<p>Select the scenario that meets your needs best.\n"
+"Additional software can be selected later in software proposal.</p>\n"
+msgstr ""
+"<p>请选择一个最适合您的方案。\n"
+"在之后的软件建议中，可以选择额外的软件。</p>\n"
+
+#. TRANSLATORS: pop-up message
+#: src/clients/inst_scenarios.ycp:233
+msgid "Choose one scenario, please."
+msgstr "请选择一个方案。"
+
+#. //////////////////////////////////////////////////////////////////////////////
+#. Main Dialog
+#. //////////////////////////////////////////////////////////////////////////////
+#. Help text for SUSEconfig dialog
+#: src/clients/inst_suseconfig.ycp:121
+msgid ""
+"<p><tt>SuSEconfig</tt> must write the configuration\n"
+"of your &product; system. Depending on the CPU and the amount of memory,\n"
+"this process can take some time.</p>\n"
+msgstr ""
+"<p><tt>SuSEconfig</tt> 必须写入 &product; 系统\n"
+"的配置。此过程所花费的时间\n"
+"取决于 CPU 和内存量。</p>\n"
+
+#. Progress bar that displays overall progress in this dialog
+#: src/clients/inst_suseconfig.ycp:156
+msgid "Progress"
+msgstr "进度"
+
+#. Dialog title for SuSEconfig dialog
+#: src/clients/inst_suseconfig.ycp:162
+msgid "Writing the system configuration..."
+msgstr "正在写入系统配置..."
+
+#.
+#. Preliminary 'ldconfig' - this takes a long time at first run.
+#.
+#. SusEconfig calls this internally, too, but we want to avoid giving the
+#. impression the very first SuSEconfig module takes that long: It's
+#. simply not true, it's 'ldconfig' that takes this long. So make this fact
+#. transparent by explicitly calling it (and informing the user about that)
+#. prior to calling any SuSEconfig module.
+#.
+#. progress step title
+#: src/clients/inst_suseconfig.ycp:183 src/inst_finish/ldconfig_finish.ycp:59
+msgid "Setting up linker cache..."
+msgstr "正在设置链接器超速缓存..."
+
+#. inform user about current SuSEconfig step
+#: src/clients/inst_suseconfig.ycp:200
+#, ycp-format
+msgid "Running SuSEconfig.%1"
+msgstr "正在运行 SuSEconfig.%1"
+
+#.
+#. Call "all the rest" of the SuSEconfig main program
+#.
+#. inform user that SuSEconfig has finished
+#: src/clients/inst_suseconfig.ycp:215
+msgid "Finishing SuSEconfig"
+msgstr "正在完成 SuSEconfig"
+
+#. inform user that SuSEconfig has been disabled
+#: src/clients/inst_suseconfig.ycp:221
+msgid "SuSEconfig disabled in /etc/sysconfig/suseconfig"
+msgstr "在 /etc/sysconfig/suseconfig 中已禁用 SuSEconfig"
+
+#: src/clients/inst_suseconfig.ycp:239
+msgid "Done."
+msgstr "已完成。"
+
+#. inform the user that he/she has to reboot to activate new kernel
+#: src/clients/inst_suseconfig.ycp:251
+msgid ""
+"Reboot your system\n"
+"to activate the new kernel.\n"
+msgstr ""
+"重引导您的系统，\n"
+"以激活新内核。\n"
+
+#. pop-up error report
+#: src/clients/inst_system_analysis.ycp:136
+msgid ""
+"No hard disks were found for the installation.\n"
+"Please check your hardware!\n"
+msgstr ""
+"未能找到可用来安装的磁盘，\n"
+"请检査您的硬件！\n"
+
+#: src/clients/inst_system_analysis.ycp:140
+msgid ""
+"No hard disks were found for the installation.\n"
+"During an automatic installation, they might be detected later.\n"
+"(especially on S/390 or iSCSI systems)\n"
+msgstr ""
+"未能找到可用来安装的磁盘，\n"
+"在自动安装过程中，稍后可能检测到它们。\n"
+"(尤其是在 S/390 或 iSCSI 系统上)\n"
+
+#. pop-up error report
+#: src/clients/inst_system_analysis.ycp:147
+msgid ""
+"No hard disks and no hard disk controllers were\n"
+"found for the installation.\n"
+"Check your hardware.\n"
+msgstr ""
+"未能找到可用来安装的磁盘\n"
+"和硬盘控制器。\n"
+"请检査您的硬件。\n"
+
+#. popup message
+#: src/clients/inst_system_analysis.ycp:195
+msgid ""
+"Failed to initialize the software repositories.\n"
+"Aborting the installation."
+msgstr ""
+"无法初始化软件源。\n"
+"中止安装。"
+
+#. <-- Function definitions
+#: src/clients/inst_system_analysis.ycp:235
+msgid "Analyzing the Computer"
+msgstr "正在分析计算机"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:254
+msgid "Probe USB devices"
+msgstr "检测 USB 设备"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:256
+msgid "Probing USB devices..."
+msgstr "正在检测 USB 设备..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:261
+msgid "Probe FireWire devices"
+msgstr "检测火线设备..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:263
+msgid "Probing FireWire devices..."
+msgstr "正在检测火线设备..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:268
+msgid "Probe floppy disk devices"
+msgstr "检测软盘设备"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:270
+msgid "Probing floppy disk devices..."
+msgstr "正在检测软盘设备..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:276
+msgid "Probe hard disk controllers"
+msgstr "检测硬盘控制器"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:278
+msgid "Probing hard disk controllers..."
+msgstr "正在检测硬盘控制器..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:283
+msgid "Load kernel modules for hard disk controllers"
+msgstr "为硬盘控制器装载内核模块"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:285
+msgid "Loading kernel modules for hard disk controllers..."
+msgstr "正在为硬盘控制器装载内核模块..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:290
+msgid "Probe hard disks"
+msgstr "检测硬盘"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:292
+msgid "Probing hard disks..."
+msgstr "正在检测硬盘..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:300
+msgid "Search for Linux partitions"
+msgstr "搜索 Linux 分区"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:302
+msgid "Searching for Linux partitions..."
+msgstr "正在搜索 Linux 分区..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:307
+msgid "Search for system files"
+msgstr "搜索系统文件"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:309
+msgid "Searching for system files..."
+msgstr "正在搜索系统文件..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:315
+msgid "Evaluate update possibility"
+msgstr "评估更新可能性"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:317
+msgid "Evaluating update possibility..."
+msgstr "正在评估更新可能性..."
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:322
+msgid "Initialize software manager"
+msgstr "初始化软件管理程序"
+
+#. TRANSLATORS: progress step
+#: src/clients/inst_system_analysis.ycp:324
+msgid "Initializing software manager..."
+msgstr "正在初始化软件管理程序..."
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_system_analysis.ycp:330
+msgid "System Probing"
+msgstr "系统检测"
+
+#. TRANSLATORS: dialog help
+#: src/clients/inst_system_analysis.ycp:336
+msgid "YaST is probing computer hardware and installed systems now."
+msgstr "YaST 正在检测计算机硬件和已经安装的系统。"
+
+#. TRANSLATORS: dialog caption
+#: src/clients/inst_upgrade_urls.ycp:160 src/clients/inst_upgrade_urls.ycp:575
+#: src/clients/inst_upgrade_urls.ycp:621
+msgid "Previously Used Repositories"
+msgstr "以前用过的软件源"
+
+#. TRANSLATORS: dialog text, possibly multiline,
+#. Please, do not use more than 50 characters per line.
+#: src/clients/inst_upgrade_urls.ycp:164
+msgid ""
+"These repositories were found on the system\n"
+"you are upgrading:"
+msgstr ""
+"在系统中找到这些软件源\n"
+"您将要升级："
+
+#. TRANSLATORS: Table header item
+#: src/clients/inst_upgrade_urls.ycp:171
+msgid "Current Status"
+msgstr "当前状态"
+
+#. TRANSLATORS: Table header item
+#: src/clients/inst_upgrade_urls.ycp:173
+msgid "Repository"
+msgstr "软件仓库"
+
+#. TRANSLATORS: Table header item
+#: src/clients/inst_upgrade_urls.ycp:175
+msgid "URL"
+msgstr "URL"
+
+#. TRANSLATORS: Push button
+#: src/clients/inst_upgrade_urls.ycp:184
+msgid "&Toggle Status"
+msgstr "转换状态(&T)"
+
+#. TRANSLATORS: help text 1/3
+#: src/clients/inst_upgrade_urls.ycp:189
+msgid ""
+"<p>Here you see all software repositories found\n"
+"on the system you are upgrading. Enable the ones you want to include in the upgrade process.</p>"
+msgstr ""
+"<p>在这里，您可以看到从您要升级的系统中找到的\n"
+"所有的软件源。请启用您在升级过程中要使用的软件源。</p>"
+
+#. TRANSLATORS: help text 2/3
+#: src/clients/inst_upgrade_urls.ycp:192
+msgid ""
+"<p>To enable, remove or disable an URL, click on the\n"
+"<b>Toggle Status</b> button or double-click on the respective table item.</p>"
+msgstr ""
+"<p>要启用或者禁用一个 URL，点击\n"
+"<b>切换状态</b>按钮，或者在双击相应的表格条目。</p>"
+
+#. TRANSLATORS: help text 3/3
+#: src/clients/inst_upgrade_urls.ycp:195
+msgid "<p>To change the URL, click on the <b>Change...</b> button.</p>"
+msgstr "<p>要更改 URL，请点击<b>更改...</b>按钮。</p>"
+
+#. TRANSLATORS: Table item status (repository)
+#: src/clients/inst_upgrade_urls.ycp:208
+msgid "Removed"
+msgstr "已删除"
+
+#. TRANSLATORS: Table item status (repository)
+#: src/clients/inst_upgrade_urls.ycp:210
+msgid "Enabled"
+msgstr "已启用"
+
+#. TRANSLATORS: Table item status (repository)
+#: src/clients/inst_upgrade_urls.ycp:212
+msgid "Disabled"
+msgstr "已禁用"
+
+#. TRANSLATORS: Fallback name for a repository
+#: src/clients/inst_upgrade_urls.ycp:222 src/clients/inst_upgrade_urls.ycp:226
+#: src/clients/inst_upgrade_urls.ycp:228
+msgid "Unknown"
+msgstr "未知"
+
+#. TRANSLATORS: textentry
+#: src/clients/inst_upgrade_urls.ycp:316
+msgid "&Repository URL"
+msgstr "软件仓库 URL(&R)"
+
+#. TRANSLATORS: popup header
+#: src/clients/inst_upgrade_urls.ycp:546
+msgid "Network is not Configured"
+msgstr "网络尚未配置"
+
+#. TRANSLATORS: popup question
+#: src/clients/inst_upgrade_urls.ycp:548
+msgid ""
+"Remote repositories require an Internet connection.\n"
+"Configure it?"
+msgstr ""
+"远程软件仓库需要网络连接。\n"
+"是否配置网络？"
+
+#. TRANSLATORS: Progress text
+#: src/clients/inst_upgrade_urls.ycp:578 src/clients/inst_upgrade_urls.ycp:622
+msgid "Adding and removing repositories..."
+msgstr "正在添加和删除软件源..."
+
+#. TRANSLATORS: help text
+#: src/clients/inst_upgrade_urls.ycp:581 src/clients/inst_upgrade_urls.ycp:627
+msgid "<p>Repositories are being added and removed.</p>"
+msgstr "<p>正在添加和删除软件源。</p>"
+
+#: src/clients/inst_upgrade_urls.ycp:600
+msgid "Remove unused repositories"
+msgstr "删除未使用的软件源"
+
+#: src/clients/inst_upgrade_urls.ycp:601 src/clients/inst_upgrade_urls.ycp:695
+msgid "Removing unused repositories..."
+msgstr "正在删除未使用的软件源..."
+
+#: src/clients/inst_upgrade_urls.ycp:607
+msgid "Add enabled repositories"
+msgstr "添加已经启用的软件源"
+
+#: src/clients/inst_upgrade_urls.ycp:608 src/clients/inst_upgrade_urls.ycp:743
+msgid "Adding enabled repositories..."
+msgstr "正在添加已经启用的软件源..."
+
+#: src/clients/inst_upgrade_urls.ycp:614
+msgid "Add disabled repositories"
+msgstr "添加已经禁用的软件源"
+
+#: src/clients/inst_upgrade_urls.ycp:615 src/clients/inst_upgrade_urls.ycp:852
+msgid "Adding disabled repositories..."
+msgstr "正在添加已经禁用的软件源..."
+
+#: src/clients/inst_upgrade_urls.ycp:720
+msgid "Correct Media Requested"
+msgstr "需要正确的介质"
+
+#: src/clients/inst_upgrade_urls.ycp:721
+#, ycp-format
+msgid ""
+"Make sure that media with label %1\n"
+"is in the CD/DVD drive.\n"
+"\n"
+"If you skip it, the repository will not be added.\n"
+msgstr ""
+"请确保 CD/DVD 驱动器中有标签为 %1 的介质。\n"
+"\n"
+"如果您选择跳过，将无法添加软件源。\n"
+
+#: src/clients/inst_upgrade_urls.ycp:765
+#, ycp-format
+msgid ""
+"Cannot add repository %1\n"
+"URL: %2"
+msgstr ""
+"无法添加软件源 %1\n"
+"URL：%2"
+
+#: src/clients/inst_upgrade_urls.ycp:788
+#, ycp-format
+msgid ""
+"Cannot add enabled repository\n"
+"Name: %1\n"
+"URL: %2"
+msgstr ""
+"无法添加启用的软件源\n"
+"名称：%1\n"
+"URL：%2"
+
+#. TRANSLATORS: error report
+#. %1 is replaced with repo-name, %2 with repo-URL
+#: src/clients/inst_upgrade_urls.ycp:805
+#, ycp-format
+msgid ""
+"An error occurred while refreshing repository\n"
+"Name: %1\n"
+"URL: %2"
+msgstr ""
+"刷新软件仓库时出错\n"
+"名称：%1\n"
+"URL：%2"
+
+#. TRANSLATORS: error report
+#. %1 is replaced with repo-name, %2 with repo-URL
+#: src/clients/inst_upgrade_urls.ycp:821
+#, ycp-format
+msgid ""
+"An error occurred while enabling repository\n"
+"Name: %1\n"
+"URL: %2\n"
+msgstr ""
+"启用软件源时出错\n"
+"名称：%1\n"
+"URL：%2\n"
+
+#: src/clients/inst_upgrade_urls.ycp:894
+#, ycp-format
+msgid ""
+"Cannot add disabled repository\n"
+"Name: %1\n"
+"URL: %2"
+msgstr ""
+"无法添加禁用的软件源\n"
+"名称：%1\n"
+"URL：%2"
+
+#. welcome text 1/4
+#: src/clients/inst_welcome.ycp:62
+msgid "<p><b>Welcome!</b></p>"
+msgstr "<p><b>欢迎！</b></p>"
+
+#. welcome text 2/4
+#: src/clients/inst_welcome.ycp:65
+msgid ""
+"<p>There are a few more steps to take before your system is ready to\n"
+"use. YaST will now guide you through some basic configuration.  Click\n"
+"<b>Next</b> to continue. </p>\n"
+"            \n"
+msgstr ""
+"<p>还需要完成几个步骤，您的系统才可\n"
+"使用。YaST 现在将引导您完成一些基本配置。 单击\n"
+"<b>下一步</b>继续。</p>\n"
+"            \n"
+
+#. help ttext
+#: src/clients/inst_welcome.ycp:76
+msgid ""
+"<p>Click <b>Next</b> to perform the\n"
+"basic configuration of the system.</p>\n"
+msgstr ""
+"<p>单击<b>下一步</b>执行\n"
+"系统的基本配置。</p>\n"
+
+#. TRANSLATORS: error message
+#: src/clients/installation.ycp:74
+msgid "No workflow defined for this kind of installation."
+msgstr "没有为此安装方式定义工作流程。"
+
+#. error report
+#: src/clients/release_notes_popup.ycp:129
+msgid "Cannot load release notes."
+msgstr "无法装载发布说明。"
+
+#. beginning of the rich text with the release notes
+#: src/clients/release_notes_popup.ycp:135
+msgid ""
+"<p><b>These are the release notes for the initial release. They are\n"
+"part of the installation media. During installation, if a connection\n"
+"to the Internet is available, you can download updated release notes\n"
+"from the SUSE Linux Web server.</b></p>\n"
+msgstr ""
+"<p><b>以下是为首次发布编写的发布说明。它们是安装介质的一部分。\n"
+" 安装期间，如果因特网连接可用，\n"
+"则您可以从 SUSE Linux 万维网服务器下载\n"
+"最新的发布说明。</b></p>\n"
+
+#. dialog content - busy message
+#: src/include/inst_inc_all.ycp:46
+msgid "Initializing the installation environment..."
+msgstr "正在初始化安装环境..."
+
+#. help for the dialog - busy message
+#: src/include/inst_inc_all.ycp:48
+msgid "<p>Initializing the installation...</p>"
+msgstr "<p>正在初始化安装...</p>"
+
+#. dialog content - busy message
+#: src/include/inst_inc_all.ycp:53
+msgid "Preparing the 1st system configuration..."
+msgstr "准备首次系统配置..."
+
+#. TRANSLATORS: busy message
+#. progress step title
+#: src/include/inst_inc_all.ycp:88 src/inst_finish/yast_inf_finish.ycp:170
+msgid "Writing YaST configuration..."
+msgstr "正在写入 YaST 配置..."
+
+#. Somehow the graphical frontend failed and we're running in
+#. text mode. Inform the user about this fact.
+#: src/include/inst_inc_all.ycp:147
+#, ycp-format
+msgid ""
+"Your computer does not fulfill all requirements for\n"
+"a graphical installation. There is either less than %1 MB\n"
+"memory or the X server could not be started.\n"
+"\n"
+"As fallback, the text front-end of YaST2 will guide you\n"
+"through the installation. This front-end offers the\n"
+"same functionality as the graphical one, but the screens\n"
+"differ from those in the manual.\n"
+msgstr ""
+"您的计算机不满足图形\n"
+"安装的所有要求。要么内存小于 %1 MB，\n"
+"要么无法启动 X 服务器。\n"
+"\n"
+"作为后备措施，YaST2 的文本前端将引导\n"
+"您完成安装过程。此前端与图形前端提供完全相同\n"
+"的功能，只不过看到的屏幕与手册中的屏幕\n"
+"有所不同。\n"
+
+#. The script YaST2 wants to inform about a problem with the
+#. option no_x11 but it's broken.
+#. else if (Installation::no_x11 ())
+#. Somehow the graphical frontend failed and we're running in
+#. text mode. Inform the user about this fact.
+#: src/include/inst_inc_all.ycp:166
+msgid ""
+"The graphical interface could not be started.\n"
+"\n"
+"Either the required packages were not installed (minimal installation) \n"
+"or the graphics card is not properly supported.\n"
+"\n"
+"As fallback, the text front-end of YaST2 will guide you\n"
+"through the installation. This front-end offers the\n"
+"same functionality as the graphical one, but the screens\n"
+"differ from those in the manual.\n"
+msgstr ""
+"图形界面无法启动。\n"
+"\n"
+"没有安装必需的包(最小安装)或\n"
+"未正确支持显卡。\n"
+"\n"
+"作为后备措施，YaST2 的文本前端将引导您完成\n"
+"安装过程。此前端与图形前端提供完全相同\n"
+"的功能，只不过看到的屏幕与手册中的屏幕\n"
+"有所不同。\n"
+
+#. TRANSLATORS: progress stage, %1 stands for service name
+#: src/include/inst_inc_second.ycp:236
+#, ycp-format
+msgid "Start service %1"
+msgstr "启动服务 %1"
+
+#. TRANSLATORS: dialog caption
+#: src/include/inst_inc_second.ycp:250
+msgid "Adjusting Network Settings"
+msgstr "调整网络设置"
+
+#. TRANSLATORS: dialog help
+#: src/include/inst_inc_second.ycp:256
+msgid "Network settings are being adjusted."
+msgstr "正在调整网络设置。"
+
+#. popup question (#x1)
+#: src/include/inst_inc_second.ycp:303
+msgid ""
+"The previous installation has failed.\n"
+"Would you like it to continue?\n"
+"\n"
+"Note: You may have to enter some information again."
+msgstr ""
+"前一次安装已失败。\n"
+"是否继续？\n"
+"\n"
+"注意：可能必须重新输入一些信息。"
+
+#. popup question (#x1)
+#: src/include/inst_inc_second.ycp:309
+msgid ""
+"The previous installation has been aborted.\n"
+"Would you like it to continue?\n"
+"\n"
+"Note: You may have to enter some information again."
+msgstr ""
+"前一次安装已中止。\n"
+"是否继续？\n"
+"\n"
+"注意：可能必须重新输入一些信息。"
+
+#. Heading for confirmation popup before the installation really starts
+#: src/include/misc.ycp:157
+msgid "Confirm Installation"
+msgstr "确认安装"
+
+#. Text for confirmation popup before the installation really starts 1/3
+#: src/include/misc.ycp:160
+msgid "<p>Information required for the base installation is now complete.</p>"
+msgstr "<p>基本安装所需的所有信息现在已经完成。</p>"
+
+#. Text for confirmation popup before the installation really starts 2/3
+#: src/include/misc.ycp:169
+msgid ""
+"<p>If you continue now, <b>existing\n"
+"partitions</b> on your hard disk will be <b>deleted</b> or <b>formatted</b>\n"
+"(<b>erasing any existing data</b> in those partitions) according to the\n"
+"installation settings in the previous dialogs.</p>"
+msgstr ""
+"<p>如果您选择继续，则会根据之前对话框\n"
+"中的安装设置<b>清除</b>或<b>格式化</b>\n"
+"硬盘上的<b>现有分区</b>。\n"
+"(这些分区中的现有数据都会被<b>清除</b>)</p>"
+
+#. Text for confirmation popup before the installation really starts 2/3
+#: src/include/misc.ycp:177
+msgid ""
+"<p>If you continue now, partitions on your\n"
+"hard disk will be modified according to the installation settings in the\n"
+"previous dialogs.</p>"
+msgstr ""
+"<p>如果您选择继续，则会根据之前\n"
+"对话框中的设置修改您的硬盘分区。</p>"
+
+#. Text for confirmation popup before the installation really starts 3/3
+#. Text for confirmation popup before the update really starts 3/3
+#: src/include/misc.ycp:183 src/include/misc.ycp:200
+msgid "<p>Go back and check the settings if you are unsure.</p>"
+msgstr "<p>若不能确定请回退并检查设置。</p>"
+
+#. Heading for confirmation popup before the update really starts
+#: src/include/misc.ycp:190
+msgid "Confirm Update"
+msgstr "确认更新"
+
+#. Text for confirmation popup before the update really starts 1/3
+#: src/include/misc.ycp:194
+msgid "<p>Information required to perform an update is now complete.</p>"
+msgstr "<p>执行更新所需的所有信息现在已经完成。</p>"
+
+#. Text for confirmation popup before the update really starts 2/3
+#: src/include/misc.ycp:196
+msgid ""
+"\n"
+"<p>If you continue now, data on your hard disk will be overwritten\n"
+"according to the settings in the previous dialogs.</p>"
+msgstr ""
+"\n"
+"<p>如果您选择继续，则会根据之前\n"
+"对话框中的设置覆盖硬盘上的数据。</p>"
+
+#. Label for the button that confirms startint the installation
+#: src/include/misc.ycp:204
+msgid "Start &Update"
+msgstr "开始更新(&U)"
+
+#. test result (Checking for xyz... Passed)
+#: src/include/scr_switch_debugger.ycp:54
+msgid "Passed"
+msgstr "已通过"
+
+#. heading
+#: src/include/scr_switch_debugger.ycp:116
+msgid "Switching to the Installed System Failed"
+msgstr "切换到安装后的系统失败"
+
+#. TRANSLATORS: an error message
+#. %1 - logfile, possibly with errors
+#. %2 - link to our bugzilla
+#. %3 - directory where YaST logs are stored
+#. %4 - link to the Yast Bug Reporting HOWTO Web page
+#: src/include/scr_switch_debugger.ycp:128
+#, ycp-format
+msgid ""
+"Switching to the installed system has failed.\n"
+"Find more information near the end of the '%1' file.\n"
+"\n"
+"This is worth reporting a bug at %2.\n"
+"Please, attach all YaST logs stored in the '%3' directory.\n"
+"See %4 for more information about YaST logs.\n"
+msgstr ""
+"切换好安装后的系统失败\n"
+"更多信息可以在文件“%1”的尾部找到。\n"
+"\n"
+"请到 %2 报告错误。\n"
+"并附上在目录“%3”中的 YaST 日志。\n"
+"关于 YaST 日志的更多信息，参见 %4。\n"
+
+#. link to the Yast Bug Reporting HOWTO
+#. for translators: use the localized page for your language if it exists,
+#. check the combo box "In other laguages" on top of the page
+#: src/include/scr_switch_debugger.ycp:141
+msgid "http://en.opensuse.org/openSUSE:Report_a_YaST_bug"
+msgstr "http://zh.opensuse.org/openSUSE:Report_a_YaST_bug"
+
+#. log-view label
+#: src/include/scr_switch_debugger.ycp:152
+msgid "&Checking the Installed System..."
+msgstr "正在检查已安装的系统(&C)..."
+
+#. TRANSLATORS: an error message
+#. %1 - link to our bugzilla
+#. %2 - directory where YaST logs are stored
+#: src/include/scr_switch_debugger.ycp:186
+#, ycp-format
+msgid ""
+"This is worth reporting a bug at %1.\n"
+"Please, attach all YaST logs stored in the '%2' directory.\n"
+msgstr ""
+"这值得去 %1 报告错误。\n"
+"请将保存在“%2”目录下的 YaST 日志也附上。\n"
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:222
+#, ycp-format
+msgid "Checking for %1 binary..."
+msgstr "正在检查 %1 可执行文件..."
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:235
+#, ycp-format
+msgid "Checking for chroot directory %1..."
+msgstr "正在检查 chroot 目录 %1..."
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:247
+#, ycp-format
+msgid "Checking for chroot directory content (%1)..."
+msgstr "正在检查 chroot 目录内容 (%1)..."
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:261
+#, ycp-format
+msgid "Checking for binary %1..."
+msgstr "正在检查 %1 可执行文件..."
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:281
+msgid "Trying to chroot..."
+msgstr "正在尝试 chroot..."
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:298
+#, ycp-format
+msgid "Checking for %1 in %2..."
+msgstr "正在检查 %2 中的 %1..."
+
+#: src/include/scr_switch_debugger.ycp:306
+msgid "Checking free space"
+msgstr "正在检查空余空间"
+
+#. test result, %1 is replaced with the directory, e.g., /var
+#. %2 is replaced with the free space in that partition, e.g., 2.8 GB
+#: src/include/scr_switch_debugger.ycp:353
+#, ycp-format
+msgid "Checking for free space in the %1 directory: %2"
+msgstr "正在检查目录 %1 中的空余空间：%2..."
+
+#. linked to the text above (sometimes replaces the '%2')
+#: src/include/scr_switch_debugger.ycp:356
+msgid "Unable to find out"
+msgstr "未能找到"
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:378
+msgid "Checking for installed RPM packages..."
+msgstr "正在检查已安装的 RPM 包..."
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:406
+#, ycp-format
+msgid "Checking whether RPM package %1 is installed..."
+msgstr "正在检查是否安装了 RPM 包 %1..."
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:431
+#, ycp-format
+msgid "Checking what requires RPM package %1..."
+msgstr "正在检查需要 RPM 包 %1 的对象..."
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:499
+#, ycp-format
+msgid "Running complex check on package %1..."
+msgstr "正在对包 %1 运行复合检查..."
+
+#: src/include/scr_switch_debugger.ycp:537
+#, ycp-format
+msgid "Checking YaST log file %1..."
+msgstr "正在检查 YaST 日志文件 %1..."
+
+#: src/include/scr_switch_debugger.ycp:546
+msgid "Opening file..."
+msgstr "正在打开文件..."
+
+#: src/include/scr_switch_debugger.ycp:556
+msgid "SCR process has died, printing the last log lines..."
+msgstr "SCR 进程已死，打印最后的日志记录..."
+
+#. Print just the last line
+#: src/include/scr_switch_debugger.ycp:565
+msgid "YaST process got killed."
+msgstr "YaST 进程已被杀死。"
+
+#: src/include/scr_switch_debugger.ycp:574
+msgid "Checking YaST log..."
+msgstr "正在检查 YaST 日志..."
+
+#. Test progress
+#: src/include/scr_switch_debugger.ycp:583
+msgid "System Checking"
+msgstr "系统检查"
+
+#. popup error
+#: src/include/scr_switch_debugger.ycp:684
+msgid "Unknown chroot path. The debugger cannot continue."
+msgstr "未知 chroot 路径。调试程序无法继续。"
+
+#: src/include/scr_switch_debugger.ycp:695
+msgid "Connecting to the inst-sys failed. Debugger cannot continue."
+msgstr "连接到 inst-sys 失败，调试程序无法继续。"
+
+#. progress step title
+#: src/inst_finish/copy_files_finish.ycp:147
+msgid "Copying files to installed system..."
+msgstr "正在将文件复制到已安装的系统..."
+
+#. progress step title
+#: src/inst_finish/copy_logs_finish.ycp:62
+msgid "Copying log files to installed system..."
+msgstr "正在将日志文件复制到已安装的系统..."
+
+#. progress step title
+#: src/inst_finish/copy_systemfiles_finish.ycp:59
+msgid "Copying system files to the installed system..."
+msgstr "正在将系统文件复制到安装的系统..."
+
+#. progress step title
+#: src/inst_finish/desktop_finish.ycp:66
+msgid "Initializing default window manager..."
+msgstr "正在初始化默认窗口管理器..."
+
+#. progress step title
+#: src/inst_finish/fonts_finish.ycp:61
+msgid "Initializing fonts..."
+msgstr "正在初始化字体..."
+
+#. progress step title
+#: src/inst_finish/installation_settings_finish.ycp:122
+msgid "Writing automatic configuration..."
+msgstr "正在写入自动配置..."
+
+#. progress step title
+#: src/inst_finish/kernel_finish.ycp:105
+msgid "Updating kernel module dependencies..."
+msgstr "正在更新内核模块依赖关系..."
+
+#. progress step title
+#: src/inst_finish/network_finish.ycp:66
+msgid "Saving network configuration..."
+msgstr "正在保存网络配置..."
+
+#. progress step title
+#: src/inst_finish/pre_umount_finish.ycp:62
+msgid "Checking the installed system..."
+msgstr "正在检查已安装的系统..."
+
+#. progress step title
+#: src/inst_finish/proxy_finish.ycp:61
+msgid "Saving proxy configuration..."
+msgstr "正在保存代理配置..."
+
+#. progress step title
+#: src/inst_finish/random_finish.ycp:70
+msgid "Enabling random number generator..."
+msgstr "正在启用随机数字生成器..."
+
+#. progress step title
+#: src/inst_finish/save_config_finish.ycp:116
+msgid "Saving time zone..."
+msgstr "正在保存时区..."
+
+#. progress step title
+#: src/inst_finish/save_config_finish.ycp:126
+msgid "Saving language..."
+msgstr "正在保存语言..."
+
+#. progress step title
+#: src/inst_finish/save_config_finish.ycp:131
+msgid "Saving console configuration..."
+msgstr "正在保存控制台配置..."
+
+#. progress step title
+#: src/inst_finish/save_config_finish.ycp:144
+msgid "Saving keyboard configuration..."
+msgstr "正在保存键盘配置..."
+
+#. progress step title
+#: src/inst_finish/save_config_finish.ycp:148
+msgid "Saving product information..."
+msgstr "正在保存产品信息..."
+
+#. progress step title
+#: src/inst_finish/save_config_finish.ycp:154
+msgid "Saving automatic installation settings..."
+msgstr "正在保存自动安装设置..."
+
+#. progress step title
+#: src/inst_finish/save_config_finish.ycp:159
+msgid "Configuring the superuser's environment..."
+msgstr "正在配置超级用户环境..."
+
+#. progress step title
+#: src/inst_finish/save_config_finish.ycp:166
+msgid "Saving security settings..."
+msgstr "正在保存安全性设置..."
+
+#. progress step title
+#: src/inst_finish/save_config_finish.ycp:173
+msgid "Saving boot scripts settings..."
+msgstr "正在保存引导脚本设置..."
+
+#. progress step title
+#: src/inst_finish/save_hw_status_finish.ycp:64
+msgid "Saving hardware configuration..."
+msgstr "正在保存硬件配置..."
+
+#. progress step title
+#: src/inst_finish/ssh_service_finish.ycp:63
+msgid "Enabling SSH service on installed system..."
+msgstr "正在已安装的系统上启用 SSH 服务..."
+
+#. progress step title
+#: src/inst_finish/ssh_settings_finish.ycp:63
+msgid "Copying SSH settings to installed system..."
+msgstr "正在将 SSH 设置复制到已安装的系统..."
+
+#. progress step title
+#: src/inst_finish/switch_scr_finish.ycp:136
+msgid "Moving to installed system..."
+msgstr "正在移动到已安装的系统..."
+
+#. progress step title
+#: src/inst_finish/umount_finish.ycp:135
+msgid "Unmounting all mounted devices..."
+msgstr "正在卸下所有已装入的设备..."
+
+#. progress step title
+#: src/inst_finish/x11_finish.ycp:66
+msgid "Copying X Window System configuration into system..."
+msgstr "正在将 X 窗口系统配置复制到系统..."
+
+#: src/inst_finish/yast_inf_finish.ycp:215
+msgid ""
+"\n"
+"**************************************************************\n"
+"\n"
+"Loading installed kernel using kexec.\n"
+"\n"
+"Trying to load installed kernel via kexec instead of rebooting\n"
+"Please, wait.\n"
+"\n"
+"**************************************************************\n"
+"\t\t"
+msgstr ""
+"\n"
+"**************************************************************\n"
+"\n"
+"正在使用 kexec 加载已安装的内核。\n"
+"\n"
+"正在尝试不重启而使用 kexec 加载已安装的内核\n"
+"请稍等。\n"
+"\n"
+"**************************************************************\n"
+"\t\t"
+
+#: src/modules/ImageInstallation.ycp:748
+msgid "Failed to read information about installation images"
+msgstr "无法读取安装映像信息"
+
+#: src/modules/ImageInstallation.ycp:1037
+msgid "Deploying..."
+msgstr "正在部署..."
+
+#: src/modules/ImageInstallation.ycp:1060
+msgid "Storing user preferences..."
+msgstr "正在保存用户首选项..."
+
+#: src/modules/ImageInstallation.ycp:1175
+msgid "Restoring user preferences..."
+msgstr "正在恢复用户首选项..."
+
+#. Error message
+#: src/modules/ImageInstallation.ycp:1256
+msgid ""
+"Installation was unable to solve package dependencies automatically.\n"
+"Software manager will be opened for you to solve them manually."
+msgstr ""
+"安装不能自动解决软件包依赖关系。\n"
+"将为您打开软件管理器，以手动解决依赖关系。"
+
+#. notification 1/2
+#: src/modules/X11Version.ycp:160
+#, ycp-format
+msgid "<p>To access the X11 system, the <b>%1</b> package must be installed.</p>"
+msgstr "<p>要访问 X11 系统，必须安装 <b>%1</b> 包。</p>"
+
+#. notification 2/2
+#: src/modules/X11Version.ycp:162
+msgid "<p>Do you want to install it now?</p>"
+msgstr "<p>是否要立即安装？</p>"
+
+#~ msgid ""
+#~ "<p><b>Installation from Images</b> is used to speed the installation up. \n"
+#~ "Images contain compressed snapshots of installed system matching your selection \n"
+#~ "of patterns. The rest of packages which are not in images will be installed from \n"
+#~ "packages the standard way.</p>"
+#~ msgstr ""
+#~ "<p><b>从映像安装</b>可以用来加快安装速度。\n"
+#~ "映像中包含压缩的安装系统快照，和您选择的模式相匹配。\n"
+#~ "其他不在映像中的软件包将以标准方法安装。</p>"
+
+#~ msgid "<p>Installation is currently writing the automatic configuration. Please wait...</p>"
+#~ msgstr "<p>安装程序正在写入自动安装配置。请稍等...</p>"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "Select <b>New Installation</b> if there is no existing Linux system on your\n"
+#~ "machine or if you want to replace an existing Linux system completely,\n"
+#~ "abandoning all its configuration data.\n"
+#~ "</p>"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "如果您的计算机没有安装 Linux 系统，\n"
+#~ "或者希望完全替换现有的 Linux 系统\n"
+#~ "并放弃所有配置数据，请选择<b>全新安装</b>。\n"
+#~ "</p>"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "To install an add-on product from separate media together with &product;, select\n"
+#~ "<b>Include Add-On Products from Separate Media</b>.</p>"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "要安装 &product; 并从另外的介质安装附加产品，请选择\n"
+#~ "<b>包括个别媒体中的附加产品</b>。</p>"
+
+#~ msgid "Please wait while the installation is probing the network cards..."
+#~ msgstr "安装程序正在检测网卡，请稍候..."
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "Your hard disk has not been modified in any way, so you can still safely abort.\n"
+#~ "</p>\n"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "您的硬盘没有进行任何修改，因此仍可安全中止。\n"
+#~ "</p>\n"
+
+#~ msgid "Probe floppy disks devices"
+#~ msgstr "检测软盘设备"
+
+#~ msgid "Probing floppy disks devices..."
+#~ msgstr "正在检测软盘设备..."
+
+#~ msgid "Reading Repositories Used on the System"
+#~ msgstr "正在读取系统使用过的安装源"
+
+#~ msgid "Read previously used repositories"
+#~ msgstr "读取之前使用的源"
+
+#~ msgid "Reading previously used repositories..."
+#~ msgstr "正在读取之前使用的安装源..."
+
+#~ msgid "<p>Reading repositories. Please wait...</p>"
+#~ msgstr "<p>正在读取安装源。请稍候...</p>"
+
+#~ msgid "Re&pair Installed System"
+#~ msgstr "修复已安装系统(&P)"
+
+#~ msgid ""
+#~ "<p>Select <b>Repair Installed System</b> if you have a damaged Linux system on\n"
+#~ "your hard disk. This option can try to fix problems automatically.\n"
+#~ "</p>"
+#~ msgstr ""
+#~ "<p>如果硬盘上的 Linux 系统损坏，请选择<b>修复已安装系统</b>\n"
+#~ "此选项会尝试自动解决问题。\n"
+#~ "</p>"
+
+#~ msgid ""
+#~ "The selected language cannot be used in text mode. English is used for\n"
+#~ "installation, but the selected language will be used for the new system."
+#~ msgstr ""
+#~ "选择的语言无法在文本方式中使用。安装过程将使用英文，\n"
+#~ "但是新系统将使用选择的语言。"
+
+#, fuzzy
+#~ msgid ""
+#~ "<p>Selecting <b>Other</b>, you can chose a minimal installation that\n"
+#~ "could fit your needs better.</p>"
+#~ msgstr ""
+#~ "另外，除了选择桌面，您可以选择最小化安装，\n"
+#~ "以便更好的符合您的要求。"
+
+#~ msgid ""
+#~ "Accessing the YaST module %1 has failed.\n"
+#~ "More information can be found in the '%2' file.\n"
+#~ "Please report this bug at %3 and attach the YaST logs stored in the '%4' directory."
+#~ msgstr ""
+#~ "访问 YaST 模块 %1 失败。\n"
+#~ "更多信息可以在文件“%2”中找到。\n"
+#~ "请到 %3 报告这个问题，并附上在目录“%4”中的 YaST 日志。"
+
+#~ msgid ""
+#~ "<p>\n"
+#~ "Please wait while the base system is being installed.\n"
+#~ "</p>"
+#~ msgstr ""
+#~ "<p>\n"
+#~ "正在安装基本系统，请稍候。\n"
+#~ "</p>"
+
+#~ msgid "Preparing installation finish-scripts..."
+#~ msgstr "正在准备安装结束脚本..."
+
+#~ msgid "Finished."
+#~ msgstr "已完成。"
+
+#~ msgid "New installation"
+#~ msgstr "全新安装"
+
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "Mode"
+#~ msgstr "方式"
+
+#~ msgid "M&ode"
+#~ msgstr "方式(&O)"
+
+#~ msgid "Saving mouse configuration..."
+#~ msgstr "正在保存鼠标配置..."
+
+#~ msgid "Failed"
+#~ msgstr "已失败"
+
+#~ msgid "Running the debugger..."
+#~ msgstr "正在运行调试程序..."
+
+#~ msgid ""
+#~ "<p>At Linux <b>choice</b> is a top priority. <i>openSUSE</i> offers a number\n"
+#~ "of different desktop environments. Below you see a list of the 2 major ones\n"
+#~ "<b>GNOME</b> and <b>KDE</b>. Both provide an easy to use desktop with a large number\n"
+#~ "of desktop applications such as email, file browser, games and many others.</p>"
+#~ msgstr ""
+#~ "<p>对于 Linux，<b>选择</b>至关重要。<i>openSUSE</i>提供了几种\n"
+#~ " 不同的桌面环境。下面您可以看到两种主流的桌面：\n"
+#~ "<b>GNOME</b> 和 <b>KDE</b>。两者都简单好用，\n"
+#~ "带有很多桌面软件，比如 Email、文件浏览器、游戏等。</p>"
+
+#~ msgid ""
+#~ "<p>As desktop selection is a matter of taste a clear <i>recommendation can't be\n"
+#~ "given</i>.</p>"
+#~ msgstr "<p>桌面选择，在于品味，所以并<i>没有明确的推荐</i>。</p>"
+
+#~ msgid ""
+#~ "Additionally, not only desktop but you can also chose a minimalistic\n"
+#~ "installation that could fit your needs better."
+#~ msgstr ""
+#~ "另外，除了选择桌面，您可以选择最小化安装，\n"
+#~ "以便更好的符合您的要求。"
+
+#~ msgid "Select a system to get its description."
+#~ msgstr "选中一个系统可以获得关于它的说明"
+
+#~ msgid "No description available..."
+#~ msgstr "无可用的描述..."
+
+#~ msgid "Select a System Type"
+#~ msgstr "选择系统类型"
+
+#~ msgid "Description"
+#~ msgstr "描述"
+
+#~ msgid "System Type"
+#~ msgstr "系统类型"
+
+#~ msgid "Image deployed"
+#~ msgstr "映像已部署"
+
+#~ msgid "Deploying Installation Images"
+#~ msgstr "正在部署安装映像"
+
+#~ msgid "<p>Please wait, while system images are just being deployed...</p>"
+#~ msgstr "<p>正在部署系统映像，请稍候...</p>"
+
+#~ msgid "<p>Installation images are part of the installation media.</p>"
+#~ msgstr "<p>安装映像是安装介质的一部分。</p>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<p>Installation from images is faster than installation from RPM packages\n"
+#~ "because it does not need to handle with RPM database, locks etc.\n"
+#~ "One of the images also contains the joint RPM database and other metadata.</p>"
+#~ msgstr ""
+#~ "<p>从映像安装比从 RPM 软件包安装的速度块。\n"
+#~ "因为不需要处理 RPM 数据库，比如锁定等。\n"
+#~ "映像之一也包括了联合的 RPM 数据库和其他元信息。</p>"
+
+#~ msgid ""
+#~ "<p>If there is no direct access to installation images,\n"
+#~ "installation program has to download them first before they are deployed.</p>"
+#~ msgstr ""
+#~ "<p>如果不能直接访问到安装映像，\n"
+#~ "安装程序必须先下载它们，然后才能部署。<p>"
+
+#~ msgid ""
+#~ "<p>At Linux <b>choice</b> is a top priority. <i>openSUSE</i> offers a number \n"
+#~ "of different desktop environments. Below you see a list of the 2 major ones \n"
+#~ "<b>GNOME</b> and <b>KDE</b> (in two different versions). Both provide an easy to use desktop\n"
+#~ "with a large number of desktop applications such as email, file browser, games and many others.</p>"
+#~ msgstr ""
+#~ "<p>对于 Linux，<b>选择</b>至关重要。<i>openSUSE</i>提供了\n"
+#~ "几种不同的桌面环境。下面您可以看到两种主流的桌面：\n"
+#~ "<b>GNOME</b> 和 <b>KDE</b> (有两个不同的版本)。两者都容易使用，\n"
+#~ "带有很多桌面软件，比如 Email、文件浏览器、游戏等。</p>"
+
+#~ msgid ""
+#~ "openSUSE offers you a choice of user interfaces. The two major complete \n"
+#~ "desktops are KDE and GNOME. Both provide an easy-to-use desktop with a full \n"
+#~ "suite of applications including email, a file manager, games and utilities.\n"
+#~ "\n"
+#~ "As desktop selection is a matter of taste, we do not give a recommendation."
+#~ msgstr ""
+#~ "openSUSE 给您用户界面的选择。两种主流桌面 KDE 和 GNOME\n"
+#~ "都容易使用，并带有一整套应用程序，包括 Email、文件管理器、\n"
+#~ "游戏和工具等。\n"
+#~ "\n"
+#~ "桌面选择，事关品味，我们不给推荐。"
+
+#~ msgid "<p>Please wait while repositories are being read...</p>"
+#~ msgstr "<p>正在读取软件源，请稍候...</p>"
+
+#~ msgid ""
+#~ "An error occurred while switching to the installed system\n"
+#~ "and no recovery is possible.\n"
+#~ "Run the automatic debugger to find out why it has failed?"
+#~ msgstr ""
+#~ "切换到已安装系统时\n"
+#~ "发生错误，不可恢复。\n"
+#~ "是否运行自动调试程序找出失败的原因？"
+
+#~ msgid "&Show License..."
+#~ msgstr "显示许可(&B)..."
+
+#~ msgid "Initialization..."
+#~ msgstr "初始化..."
+
+#~ msgid "Configuring network..."
+#~ msgstr "正在配置网络..."
+
+#~ msgid "Configuring hardware..."
+#~ msgstr "正在配置硬件..."
+
+#~ msgid "Finishing configuration..."
+#~ msgstr "正在完成配置..."
+
+#~ msgid "Deploying mages..."
+#~ msgstr "正在部署映像..."
+
+#~ msgid ""
+#~ "Fasten your seatbelts, please,\n"
+#~ "we are taking off in a few seconds..."
+#~ msgstr ""
+#~ "请系好您的安全带，\n"
+#~ "几秒钟之后，我们就要起飞..."

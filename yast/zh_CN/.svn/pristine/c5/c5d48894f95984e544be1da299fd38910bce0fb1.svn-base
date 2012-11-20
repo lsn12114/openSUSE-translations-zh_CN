@@ -1,0 +1,3025 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:37+0200\n"
+"PO-Revision-Date: 2012-07-03 15:59+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: src/LdapDatabase.ycp:32 src/LdapDatabase.ycp:1974
+msgid "Password Policy Settings"
+msgstr "口令策略设置"
+
+#: src/LdapDatabase.ycp:36
+msgid "Enable Password Policies"
+msgstr "启用口令策略"
+
+#: src/LdapDatabase.ycp:42
+msgid "Hash Clear Text Passwords"
+msgstr "加密明文口令"
+
+#: src/LdapDatabase.ycp:48
+msgid "Disclose \"Account Locked\" Status"
+msgstr "公开“帐户锁定”状态"
+
+#: src/LdapDatabase.ycp:56
+msgid "Default Policy Object DN"
+msgstr "默认策略对象判别名"
+
+#: src/LdapDatabase.ycp:62 src/widgets.ycp:218
+msgid "&Append Base DN"
+msgstr "追加基本判别名(&A)"
+
+#: src/LdapDatabase.ycp:70
+msgid "Edit Policy"
+msgstr "编辑策略"
+
+#: src/LdapDatabase.ycp:103
+msgid "New Database"
+msgstr "新建数据库"
+
+#: src/LdapDatabase.ycp:107
+msgid "Basic Database Settings"
+msgstr "基本数据库设置"
+
+#: src/LdapDatabase.ycp:111 src/tree_structure.ycp:1190
+msgid "Database Type"
+msgstr "数据库类型"
+
+#: src/LdapDatabase.ycp:114 src/widgets.ycp:210
+msgid "&Base DN"
+msgstr "基本判别名(&B)"
+
+#: src/LdapDatabase.ycp:120
+msgid "&Administrator DN"
+msgstr "管理员判别名(&A)"
+
+#: src/LdapDatabase.ycp:125
+msgid "A&ppend Base DN"
+msgstr "追加基本判别名(&P)"
+
+#: src/LdapDatabase.ycp:135
+msgid "LDAP Administrator &Password"
+msgstr "LDAP 管理员口令 (&P)"
+
+#: src/LdapDatabase.ycp:139 src/dialogs.ycp:1098 src/tree_structure.ycp:802
+#: src/tree_structure.ycp:846 src/widgets.ycp:324
+msgid "&Validate Password"
+msgstr "校验密码(&V)"
+
+#: src/LdapDatabase.ycp:146
+msgid "&Database Directory"
+msgstr "数据库目录(&D)"
+
+#: src/LdapDatabase.ycp:150 src/widgets.ycp:181
+msgid "&Browse..."
+msgstr "浏览(&B)..."
+
+#: src/LdapDatabase.ycp:155
+msgid "Use this database as the default for OpenLDAP clients"
+msgstr "使用此数据库作为 OpenLDAP 客户端默认数据库"
+
+#: src/LdapDatabase.ycp:204
+msgid "Select Database Directory"
+msgstr "选择数据库目录"
+
+#: src/LdapDatabase.ycp:246
+msgid "Base DN must be set."
+msgstr "必须设置基本判别名。"
+
+#: src/LdapDatabase.ycp:257
+msgid "A database with this Base DN already exists."
+msgstr "已存在具有该基本判别名的数据库。"
+
+#: src/LdapDatabase.ycp:301
+msgid "Root DN must be set if a password is given."
+msgstr "如果给定密码，则必须设置根判别名。"
+
+#: src/LdapDatabase.ycp:306
+msgid "Password validation failed."
+msgstr "密码校验失败。"
+
+#: src/LdapDatabase.ycp:326
+msgid "The Base Object: \""
+msgstr "基础对象：\""
+
+#: src/LdapDatabase.ycp:327
+msgid "\" can not be auto created by YaST.\n"
+msgstr "\" 不能被 YaST 自动创建。\n"
+
+#: src/LdapDatabase.ycp:340
+msgid "A directory must be specified."
+msgstr "必须指定目录。"
+
+#: src/LdapDatabase.ycp:345
+msgid "The directory does not exist. Create it?"
+msgstr "该目录不存在。是否创建？"
+
+#: src/LdapDatabase.ycp:534
+msgid "Authentication failed. The password is probably incorrect.\n"
+msgstr "验证失败。口令可能不正确。\n"
+
+#: src/LdapDatabase.ycp:535
+msgid "The error message was: '"
+msgstr "出错信息是：’"
+
+#: src/LdapDatabase.ycp:536
+msgid "Try again?"
+msgstr "重试吗？"
+
+#: src/LdapDatabase.ycp:593
+msgid "Available Attribute Types"
+msgstr "可用的属性类型"
+
+#: src/LdapDatabase.ycp:598
+msgid "Selected Attribute Types"
+msgstr "选中的属性类型"
+
+#: src/LdapDatabase.ycp:643
+msgid "All Entries"
+msgstr "所有条目"
+
+#: src/LdapDatabase.ycp:644
+msgid "All Entries in the Subtree"
+msgstr "子树中的所有条目"
+
+#: src/LdapDatabase.ycp:645
+msgid "The Entry with the DN"
+msgstr "具有判别名的条目"
+
+#: src/LdapDatabase.ycp:649
+msgid "Everybody"
+msgstr "所有人"
+
+#: src/LdapDatabase.ycp:650
+msgid "Authenticated Clients"
+msgstr "认证客户机"
+
+#: src/LdapDatabase.ycp:651
+msgid "Anonymous Clients"
+msgstr "匿名客户机"
+
+#: src/LdapDatabase.ycp:652
+msgid "The accessed Entry (self)"
+msgstr "被访问条目 (自身)"
+
+#: src/LdapDatabase.ycp:653
+msgid "The user with the DN"
+msgstr "具有判别名的用户"
+
+#: src/LdapDatabase.ycp:654
+msgid "All entries in the subtree"
+msgstr "此子树中的所有条目"
+
+#: src/LdapDatabase.ycp:655
+msgid "All members of the group"
+msgstr "此组的所有成员"
+
+#: src/LdapDatabase.ycp:668
+msgid "<empty>"
+msgstr "<空>"
+
+#: src/LdapDatabase.ycp:669
+msgid "No Access"
+msgstr "无访问权"
+
+#: src/LdapDatabase.ycp:670
+msgid "No Access (but disclose information on error)"
+msgstr "无访问权 (但有错误提示)"
+
+#: src/LdapDatabase.ycp:671
+msgid "Authenticate"
+msgstr "验证"
+
+#: src/LdapDatabase.ycp:672
+msgid "Compare"
+msgstr "对比"
+
+#: src/LdapDatabase.ycp:673
+msgid "Read"
+msgstr "读取"
+
+#: src/LdapDatabase.ycp:674
+msgid "Write"
+msgstr "写入"
+
+#: src/LdapDatabase.ycp:675
+msgid "Manage (full access)"
+msgstr "管理 (完全访问)"
+
+#: src/LdapDatabase.ycp:715 src/LdapDatabase.ycp:854
+msgid "Who should this rule apply to"
+msgstr "此规则的适用对象"
+
+#: src/LdapDatabase.ycp:719 src/LdapDatabase.ycp:814 src/LdapDatabase.ycp:856
+#: src/LdapDatabase.ycp:1077
+msgid "Entry DN"
+msgstr "条目判别名"
+
+#: src/LdapDatabase.ycp:721 src/LdapDatabase.ycp:858
+msgid "Select"
+msgstr "选择"
+
+#: src/LdapDatabase.ycp:726
+msgid "Define the Access Level"
+msgstr "定义访问级别"
+
+#: src/LdapDatabase.ycp:730
+msgid "Stop access control evaluation here (default)"
+msgstr "在此停止评估访问控制 (默认)"
+
+#: src/LdapDatabase.ycp:731
+msgid "Continue with next access control rule (\"break\")"
+msgstr "继续下一条访问控制规则 (\"中断\")"
+
+#: src/LdapDatabase.ycp:732
+msgid "Continue evaluation of this rule (\"continue\")"
+msgstr "继续评估此规则 (\"继续\")"
+
+#: src/LdapDatabase.ycp:777
+msgid "Please enter a DN in the textfield"
+msgstr "请在文本框中输入一个判别名"
+
+#: src/LdapDatabase.ycp:784 src/LdapDatabase.ycp:1012 src/dialogs.ycp:696
+msgid "is not a valid LDAP DN"
+msgstr "不是一个有效的 LDAP 判别名"
+
+#: src/LdapDatabase.ycp:818 src/LdapDatabase.ycp:931 src/LdapDatabase.ycp:1073
+msgid "Subtree DN"
+msgstr "子树判别名"
+
+#: src/LdapDatabase.ycp:822
+msgid "Group DN"
+msgstr "组判别名"
+
+#: src/LdapDatabase.ycp:846
+msgid "Edit Access Control Rule"
+msgstr "编辑访问控制规则"
+
+#: src/LdapDatabase.ycp:850
+msgid "Target Objects"
+msgstr "目标对象"
+
+#: src/LdapDatabase.ycp:865
+msgid "Matching the filter:"
+msgstr "匹配过滤器："
+
+#: src/LdapDatabase.ycp:868
+msgid "LDAP Filter"
+msgstr "LDAP 过滤器"
+
+#: src/LdapDatabase.ycp:874
+msgid "Apply this rule only to the listed attribute"
+msgstr "只应用此规则到列示的属性"
+
+#: src/LdapDatabase.ycp:878 src/LdapDatabase.ycp:1185
+msgid "Attributes"
+msgstr "属性"
+
+#: src/LdapDatabase.ycp:881
+msgid "Edit"
+msgstr "编辑"
+
+#: src/LdapDatabase.ycp:887 src/LdapDatabase.ycp:891
+msgid "Access Level"
+msgstr "访问级别"
+
+#: src/LdapDatabase.ycp:891
+msgid "Who"
+msgstr "谁"
+
+#: src/LdapDatabase.ycp:891 src/LdapDatabase.ycp:1185
+msgid "DN"
+msgstr "判别名"
+
+#: src/LdapDatabase.ycp:891
+msgid "Flow Control"
+msgstr "流程控制"
+
+#: src/LdapDatabase.ycp:894 src/LdapDatabase.ycp:1188
+msgid "Up"
+msgstr "向上"
+
+#: src/LdapDatabase.ycp:895 src/LdapDatabase.ycp:1189
+msgid "Down"
+msgstr "向下"
+
+#: src/LdapDatabase.ycp:1025
+msgid "Enter a list of valid attributes in the <b>Attributes</b> textfield"
+msgstr "在 <b>属性</b> 文本框中输入有效的属性列表"
+
+#: src/LdapDatabase.ycp:1038
+msgid "Enter valid a LDAP filter in the textfield"
+msgstr "在文本框中输入有效的 LDAP 过滤器"
+
+#: src/LdapDatabase.ycp:1044
+msgid "You must add at least one item to the \"Access Level\" list."
+msgstr "您必须至少添加一个条目到“访问级别”列表。"
+
+#: src/LdapDatabase.ycp:1185
+msgid "Target"
+msgstr "目标"
+
+#: src/LdapDatabase.ycp:1185
+msgid "Filter"
+msgstr "过滤器"
+
+#: src/LdapDatabase.ycp:1216
+msgid ""
+"The selected database contains access control rules that are currently\n"
+"not supported by YaST. The Access Control Dialog will be disabled.\n"
+msgstr "选中的数据库包含目前 YaST 不支持的访问控制规则。访问控制对话框将禁用。\n"
+
+#: src/LdapDatabase.ycp:1440
+msgid "This database is a Replication Consumer."
+msgstr "数据库是一个应答客户端。"
+
+#: src/LdapDatabase.ycp:1447 src/LdapDatabase.ycp:1517 src/dialogs.ycp:781
+msgid "Protocol"
+msgstr "协议"
+
+#: src/LdapDatabase.ycp:1449
+msgid "Provider Name"
+msgstr "提供商名称"
+
+#: src/LdapDatabase.ycp:1452 src/LdapDatabase.ycp:1522
+msgid "Port"
+msgstr "端口"
+
+#: src/LdapDatabase.ycp:1457 src/dialogs.ycp:791
+msgid "Use StartTLS"
+msgstr "使用 StartTLS"
+
+#: src/LdapDatabase.ycp:1468
+msgid "Replication Type"
+msgstr "应答类型"
+
+#: src/LdapDatabase.ycp:1474
+msgid "Replication Interval"
+msgstr "应答间隔"
+
+#: src/LdapDatabase.ycp:1479
+msgid "Days"
+msgstr "天"
+
+#: src/LdapDatabase.ycp:1483
+msgid "Hours"
+msgstr "小时"
+
+#: src/LdapDatabase.ycp:1487 src/LdapDatabase.ycp:1863
+msgid "Minutes"
+msgstr "分钟"
+
+#: src/LdapDatabase.ycp:1491
+msgid "Seconds"
+msgstr "秒"
+
+#: src/LdapDatabase.ycp:1501
+msgid "Authentication DN"
+msgstr "验证判别名"
+
+#: src/LdapDatabase.ycp:1503 src/dialogs.ycp:709
+msgid "Password"
+msgstr "密码"
+
+#: src/LdapDatabase.ycp:1512
+msgid "Custom update referral"
+msgstr "自定义更新转发"
+
+#: src/LdapDatabase.ycp:1519
+msgid "Target Host"
+msgstr "目标主机"
+
+#: src/LdapDatabase.ycp:1726
+msgid "Invalid replication interval specified"
+msgstr "指派了无效的应答间隔"
+
+#: src/LdapDatabase.ycp:1755
+msgid "Checking LDAP connectivity to the provider failed."
+msgstr "未能检查 LDAP 到提供商的连通性。"
+
+#: src/LdapDatabase.ycp:1756 src/LdapDatabase.ycp:1768 src/dialogs.ycp:981
+msgid "The test returned the following error messages:"
+msgstr "测试返回如下错误信息："
+
+#: src/LdapDatabase.ycp:1760 src/LdapDatabase.ycp:1772
+msgid "Do you still want to continue?"
+msgstr "您依然想要继续吗？"
+
+#: src/LdapDatabase.ycp:1765
+msgid "Checking the LDAPsync capabilities of the provider failed."
+msgstr "未能检查提供商的 LDAPsync 能力。"
+
+#: src/LdapDatabase.ycp:1766
+msgid "Please verify that the target server is enabled to be a LDAPsync provider"
+msgstr "请确保目标服务器是一个 LDAPsync 提供商"
+
+#: src/LdapDatabase.ycp:1847
+msgid "Enable ldapsync provider for this database"
+msgstr "为此数据库启用 ldapsync 提供商"
+
+#: src/LdapDatabase.ycp:1852 src/widgets.ycp:255
+msgid "Checkpoint Settings"
+msgstr "检查点设置"
+
+#: src/LdapDatabase.ycp:1857 src/LdapDatabase.ycp:1880
+msgid "Operations"
+msgstr "操作"
+
+#: src/LdapDatabase.ycp:1871
+msgid "Session Log"
+msgstr "会话日志"
+
+#: src/LdapDatabase.ycp:1875
+msgid "Enable Session Log"
+msgstr "启用会话日志"
+
+#: src/LdapDatabase.ycp:2012
+msgid "Replication Settings"
+msgstr "应答设置"
+
+#: src/LdapServer.pm:221
+msgid "Reading Startup Configuration"
+msgstr "正在读取启动配置"
+
+#: src/LdapServer.pm:222
+msgid "Reading Configuration Backend"
+msgstr "正在读取配置后端"
+
+#: src/LdapServer.pm:223
+msgid "Reading Configuration Data"
+msgstr "正在读取配置数据"
+
+#: src/LdapServer.pm:224
+msgid "Initializing LDAP Server Configuration"
+msgstr "正在初始化 LDAP 服务器配置"
+
+#: src/LdapServer.pm:260
+msgid ""
+"Error while initializing configuration.\n"
+"Is the LDAPI listener enabled?\n"
+msgstr ""
+"初始化配置时出错。\n"
+"启用了 LDAPI 监听器了吗？\n"
+
+#. service was disabled during this session, just disable the service
+#. in the system, stop it and ignore any configuration changes.
+#: src/LdapServer.pm:646
+msgid "Enabling LDAP Server"
+msgstr "正在启用 LDAP 服务器"
+
+#: src/LdapServer.pm:647 src/LdapServer.pm:659
+msgid "Starting LDAP Server"
+msgstr "正在启动 LDAP 服务器"
+
+#: src/LdapServer.pm:649
+msgid "Activating OpenLDAP Server"
+msgstr "正在激活 OpenLDAP 服务器"
+
+#: src/LdapServer.pm:660
+msgid "Restarting OpenLDAP Server"
+msgstr "正在重启 OpenLDAP 服务器"
+
+#: src/LdapServer.pm:685
+msgid "Writing Startup Configuration"
+msgstr "正在写入启动配置"
+
+#: src/LdapServer.pm:686
+msgid "Cleaning up config directory"
+msgstr "正在清理配置目录"
+
+#: src/LdapServer.pm:687
+msgid "Creating Configuration"
+msgstr "正在创建配置"
+
+#: src/LdapServer.pm:688
+msgid "Starting OpenLDAP Server"
+msgstr "正在启动 OpenLDAP 服务器"
+
+#: src/LdapServer.pm:689
+msgid "Creating Base Objects"
+msgstr "正在创建基础对象"
+
+#: src/LdapServer.pm:690
+msgid "Writing OpenLDAP Server Configuration"
+msgstr "正在写入 OpenLDAP 服务器配置"
+
+#: src/LdapServer.pm:698 src/LdapServer.pm:1598
+msgid "Switch from slapd.conf to config backend failed."
+msgstr "未能从 slapd.conf 切换到配置后端。"
+
+#: src/LdapServer.pm:706
+msgid "Enabling the LDAPI Protocol listener failed."
+msgstr "启用 LDAPI 协议失败。"
+
+#: src/LdapServer.pm:730
+msgid "Config Directory cleanup failed."
+msgstr "清理配置目录失败。"
+
+#: src/LdapServer.pm:768
+msgid "Error while populating the configurations database with \"slapadd\"."
+msgstr "使用 \"slapadd\" 灌入配置数据库时出错。"
+
+#: src/LdapServer.pm:788
+msgid "Enabling the LDAP Service failed."
+msgstr "启用 LDAP 服务失败。"
+
+#: src/LdapServer.pm:804 src/LdapServer.pm:1629
+msgid "Starting the LDAP service failed."
+msgstr "启动 LDAP 服务失败。"
+
+#. service was disabled during this session, just disable the service
+#. in the system, stop it and ignore any configuration changes.
+#: src/LdapServer.pm:862
+msgid "Stopping LDAP Server"
+msgstr "正在停止 LDAP 服务器"
+
+#: src/LdapServer.pm:863
+msgid "Disabling LDAP Server"
+msgstr "正在禁用 LDAP 服务器"
+
+#: src/LdapServer.pm:865
+msgid "De-activating OpenLDAP Server"
+msgstr "取消激活 OpenLDAP 服务器"
+
+#: src/LdapServer.pm:878
+msgid "Writing Sysconfig files"
+msgstr "正在写入 Sysconfig 文件"
+
+#: src/LdapServer.pm:879
+msgid "Applying changes to Configuration Database"
+msgstr "正在应用更改到配置数据库"
+
+#: src/LdapServer.pm:880
+msgid "Applying changes to /etc/openldap/ldap.conf"
+msgstr "正在应用更改到 /etc/openldap/ldap.conf"
+
+#: src/LdapServer.pm:881
+msgid "Creating Base Objects for newly created databases"
+msgstr "正在为新创建的数据库创建基本对象"
+
+#: src/LdapServer.pm:882
+msgid "Updating Default Password Policy Objects"
+msgstr "正在更新默认口令策略对象"
+
+#: src/LdapServer.pm:883
+msgid "Waiting for OpenLDAP background indexing tasks to complete (this might take some minutes)"
+msgstr "正在等待 OpenLDAP 后台索引任务完成 (这可能需要几分钟)"
+
+#: src/LdapServer.pm:884
+msgid "Restarting OpenLDAP Server if required"
+msgstr "正在按需重启 OpenLDAP 服务器"
+
+#: src/LdapServer.pm:887
+msgid "Writing OpenLDAP Configuration"
+msgstr "正在写入 OpenLDAP 配置"
+
+#: src/LdapServer.pm:985
+msgid "Creating base objects failed."
+msgstr "创建基本对象失败。"
+
+#: src/LdapServer.pm:993
+msgid "Creating Password Policy objects failed."
+msgstr "创建口令策略对象失败。"
+
+#: src/LdapServer.pm:1006
+msgid "An error occurred while waiting for the OpenLDAP database indexer to finish.\n"
+msgstr "等待 OpenLDAP 数据库索引完成时出错。\n"
+
+#: src/LdapServer.pm:1007
+msgid "Restart OpenLDAP manually."
+msgstr "手动重启 OpenLDAP。"
+
+#: src/LdapServer.pm:1244 src/LdapServer.pm:1258 src/tree_structure.ycp:1140
+msgid "Startup Configuration"
+msgstr "启动配置"
+
+#: src/LdapServer.pm:1245 src/LdapServer.pm:1259
+#: src/ldap-server_proposal.ycp:161
+msgid "Start LDAP Server: "
+msgstr "启动 LDAP 服务器："
+
+#: src/LdapServer.pm:1246 src/LdapServer.pm:1259 src/LdapServer.pm:1260
+#: src/tree_structure.ycp:884 src/tree_structure.ycp:888
+#: src/tree_structure.ycp:892
+msgid "Yes"
+msgstr "是"
+
+#: src/LdapServer.pm:1246 src/LdapServer.pm:1259 src/LdapServer.pm:1260
+#: src/tree_structure.ycp:877 src/tree_structure.ycp:878
+#: src/tree_structure.ycp:879 src/tree_structure.ycp:880
+msgid "No"
+msgstr "否"
+
+#: src/LdapServer.pm:1250
+msgid "Create initial database with the following parameters:"
+msgstr "使用如下参数创建首个数据库："
+
+#: src/LdapServer.pm:1251 src/LdapServer.pm:1266
+msgid "Database Suffix: "
+msgstr "数据库后缀： "
+
+#: src/LdapServer.pm:1252
+msgid "Administrator DN: "
+msgstr "管理员判别名："
+
+#: src/LdapServer.pm:1260
+msgid "Register at SLP Service: "
+msgstr "在 SLP 服务注册："
+
+#: src/LdapServer.pm:1261
+msgid "Create the following databases:"
+msgstr "创建如下数据库："
+
+#: src/LdapServer.pm:1267
+msgid "Database Type: "
+msgstr "数据库类型："
+
+#: src/LdapServer.pm:1273
+msgid "Not configured yet."
+msgstr "尚未配置。"
+
+#: src/LdapServer.pm:1503
+msgid "CA Certificate file does not exist."
+msgstr "CA 证书文件不存在。"
+
+#: src/LdapServer.pm:1508
+msgid "Certificate File does not exist"
+msgstr "证书文件不存在"
+
+#. error message
+#: src/LdapServer.pm:1513 src/YaPI/LdapServer.pm:1752
+msgid "Certificate key file does not exist."
+msgstr "证书密钥文件不存在。"
+
+#: src/LdapServer.pm:1520 src/LdapServer.pm:1552
+msgid "Can not set a filesystem ACL on the private key."
+msgstr "无法在私钥上设置文件系统访问控制列表。"
+
+#: src/LdapServer.pm:1574
+msgid "Cleaning up directory for config database"
+msgstr "正在清理配置数据库目录"
+
+#: src/LdapServer.pm:1575
+msgid "Converting slapd.conf to config database"
+msgstr "正在转换 slapd.conf 为配置数据库"
+
+#: src/LdapServer.pm:1576
+msgid "Switching startup configuration to use config database"
+msgstr "正在切换启动配置以使用配置数据库"
+
+#: src/LdapServer.pm:1577
+msgid "Restarting LDAP Server"
+msgstr "正在重启 LDAP 服务器"
+
+#: src/LdapServer.pm:1578
+msgid "Migrating LDAP Server Configuration"
+msgstr "正在迁移 LDAP 服务器配置"
+
+#: src/LdapServer.pm:1588
+msgid "Output of \"slaptest\":\n"
+msgstr "“slaptest”的输出：\n"
+
+#: src/LdapServer.pm:1589
+msgid "Migration of existing configuration failed."
+msgstr "迁移已有配置失败。"
+
+#: src/LdapServer.pm:1608 src/LdapServer.pm:1616
+msgid "Enabling LDAPI listener failed."
+msgstr "启用 LDAPI 监听器失败。"
+
+#: src/LdapServer.pm:1738
+msgid "Common server certificate not available. StartTLS is disabled."
+msgstr "通用服务器证书不可用。禁用 StartTLS。"
+
+#: src/LdapServer.pm:1821
+msgid "Could not create database directory."
+msgstr "无法创建数据库目录。"
+
+#: src/LdapServer.pm:1828 src/LdapServer.pm:2639 src/YaPI/LdapServer.pm:498
+msgid "Could not adjust ownership of database directory."
+msgstr "无法调整数据库目录所有权。"
+
+#: src/LdapServer.pm:1873
+msgid "Could not determine own fully qualified hostname."
+msgstr "无法确定自身的完整合格的主机名。"
+
+#: src/LdapServer.pm:1874
+msgid "A master server for replication cannot work correctly without knowing its own fully qualified hostname."
+msgstr "应答主服务器不能在不知道它自身的完全合格的主机名的情况下正常工作。"
+
+#: src/LdapServer.pm:2511 src/LdapServer.pm:2521 src/LdapServer.pm:2585
+#: src/LdapServer.pm:2599
+msgid "is not a valid LDAP DN."
+msgstr "不是一个有效的 LDAP 判别名。"
+
+#: src/LdapServer.pm:2516 src/LdapServer.pm:2526
+msgid "has multivalued RDNs."
+msgstr "有多值根判别名。"
+
+#: src/LdapServer.pm:2558
+msgid "Invalid LDAP DN: \""
+msgstr "无效 LDAP 判别名：\""
+
+#: src/LdapServer.pm:2558
+msgid "\", cannot extract RDN values"
+msgstr "\", 不能展开根判别名值"
+
+#: src/LdapServer.pm:2566
+msgid "The value of the \"c\" attribute must contain a valid ISO-3166 country 2-letter code."
+msgstr "\"c\" 属性的值必须包含一个有效的 ISO-3166 国家 2 字母代码。"
+
+#. parameter check failed
+#: src/LdapServer.pm:2573 src/YaPI/LdapServer.pm:373
+msgid "First part of suffix must be c=, st=, l=, o=, ou= or dc=."
+msgstr "后缀的第一部分必须为 c=、st=、l=、o=、ou= 或 dc=。"
+
+#: src/LdapServer.pm:2585 src/LdapServer.pm:2590
+msgid "Base DN"
+msgstr "基本判别名"
+
+#: src/LdapServer.pm:2590 src/LdapServer.pm:2605
+msgid "has multivalued RDNs (not supported by YaST)."
+msgstr "有多值根判别名 (不被 YaST 支持)。"
+
+#: src/LdapServer.pm:2599 src/LdapServer.pm:2604
+msgid "Root DN"
+msgstr "根判别名"
+
+#: src/LdapServer.pm:2612
+msgid "The Root DN must be a child object of the Base DN."
+msgstr "根判别名必须为基本判别名的一个子对象。"
+
+#: src/LdapServer.pm:2632 src/YaPI/LdapServer.pm:484
+msgid "Could not create directory."
+msgstr "无法创建目录。"
+
+#: src/LdapServer.pm:3406
+msgid "CA Certificate File: \""
+msgstr "CA 证书文件：\""
+
+#: src/LdapServer.pm:3406 src/LdapServer.pm:3430
+msgid "\" does not exist."
+msgstr "\" 不存在。"
+
+#: src/LdapServer.pm:3416
+msgid "Error while trying to verify the server certificate of the provider server.\n"
+msgstr "试图验证提供商服务器的服务器证书时出错。\n"
+
+#: src/LdapServer.pm:3417
+msgid "Please make sure that \""
+msgstr "请确保 \""
+
+#: src/LdapServer.pm:3425
+msgid "Certificate File: \""
+msgstr "证书文件：\""
+
+#: src/LdapServer.pm:3425
+msgid " does not exist."
+msgstr " 不存在。"
+
+#: src/LdapServer.pm:3430
+msgid "Certificate Key File: \""
+msgstr "证书密钥文件: \""
+
+#. error at paramter check
+#: src/YaPI/LdapServer.pm:301
+#, perl-format
+msgid "Database type '%s' is not supported. Allowed are 'bdb' and 'hdb'."
+msgstr "不支持数据库类型 '%s'。支持类型为\"伯克利型\"和\"hdb\"。"
+
+#. parameter check failed
+#: src/YaPI/LdapServer.pm:347
+msgid "The countryName must be an ISO-3166 country 2-letter code."
+msgstr "countryName 必须为 ISO-3166 国家/地区 2 个字母的代码。"
+
+#. parameter check failed
+#: src/YaPI/LdapServer.pm:391 src/YaPI/LdapServer.pm:726
+msgid "Invalid 'rootdn'."
+msgstr "'根判别名' 无效。"
+
+#. parameter check failed
+#: src/YaPI/LdapServer.pm:400 src/YaPI/LdapServer.pm:734
+msgid "'rootdn' must be below the 'suffix'."
+msgstr "'根判别名' 必须在 'suffix' 的下面。"
+
+#. parameter check failed
+#: src/YaPI/LdapServer.pm:415
+msgid "To set a password, you must define 'rootdn'."
+msgstr "要设置密码，必须定义 '根判别名'。"
+
+#. parameter check failed
+#: src/YaPI/LdapServer.pm:422
+msgid "Define 'rootpw'."
+msgstr "定义 'rootpw'。"
+
+#. parameter check failed
+#: src/YaPI/LdapServer.pm:435 src/YaPI/LdapServer.pm:768
+#, perl-format
+msgid "'%s' is an unsupported crypt method."
+msgstr "'%s' 是不支持的加密方法。"
+
+#. parameter check failed
+#: src/YaPI/LdapServer.pm:475
+msgid "Define 'directory'."
+msgstr "定义 'directory'。"
+
+#: src/YaPI/LdapServer.pm:489
+msgid "The directory does not exist."
+msgstr "该目录不存在。"
+
+#: src/YaPI/LdapServer.pm:511 src/YaPI/LdapServer.pm:526
+msgid "Invalid cache size value."
+msgstr "缓存大小值无效。"
+
+#: src/YaPI/LdapServer.pm:547
+msgid "Invalid checkpoint value."
+msgstr "检查点值无效。"
+
+#. parameter check failed
+#: src/YaPI/LdapServer.pm:753 src/YaPI/LdapServer.pm:758
+msgid "Define 'passwd'."
+msgstr "定义 'passwd'。"
+
+#: src/YaPI/LdapServer.pm:805
+msgid "Database edit failed."
+msgstr "数据库编辑失败。"
+
+#. error message at parameter check
+#: src/YaPI/LdapServer.pm:865 src/YaPI/LdapServer.pm:938
+#: src/YaPI/LdapServer.pm:1086 src/YaPI/LdapServer.pm:1129
+msgid "Missing parameter 'suffix'."
+msgstr "缺少参数 'suffix'。"
+
+#: src/YaPI/LdapServer.pm:1533
+msgid "Cannot restart the service."
+msgstr "无法重启动该服务。"
+
+#: src/YaPI/LdapServer.pm:1540
+msgid "Cannot stop the service."
+msgstr "无法停止该服务。"
+
+#. error message
+#: src/YaPI/LdapServer.pm:1703
+msgid "CA certificate file does not exist."
+msgstr "CA 证书文件不存在。"
+
+#. error message
+#: src/YaPI/LdapServer.pm:1719
+msgid "CA certificate path does not exist."
+msgstr "CA 证书路径不存在。"
+
+#. error message
+#: src/YaPI/LdapServer.pm:1735
+msgid "Certificate file does not exist."
+msgstr "证书文件不存在。"
+
+#. error message
+#: src/YaPI/LdapServer.pm:1770
+msgid "Invalid value for 'TLSVerifyClient'."
+msgstr "'TLSVerifyClient' 值无效。"
+
+#: src/YaPI/LdapServer.pm:1779
+msgid "Writing failed."
+msgstr "写入失败。"
+
+#: src/YaPI/LdapServer.pm:1944
+msgid "Missing 'ServerCertificateFile' parameter."
+msgstr "缺少 'ServerCertificateFile' 参数。"
+
+#: src/YaPI/LdapServer.pm:1950
+msgid "Cannot read certificate file."
+msgstr "无法读取证书文件。"
+
+#: src/YaPI/LdapServer.pm:1955
+msgid "Missing 'ServerCertificateData' parameter."
+msgstr "缺少 'ServerCertificateData' 参数。"
+
+#: src/YaPI/LdapServer.pm:1962 src/YaPI/LdapServer.pm:1987
+#: src/YaPI/LdapServer.pm:2003 src/YaPI/LdapServer.pm:2012
+msgid "Corrupt PEM data."
+msgstr "增强保密邮件 (PEM) 数据已损坏。"
+
+#: src/YaPI/LdapServer.pm:1969
+msgid "Missing 'ServerKeyFile' parameter."
+msgstr "缺少 'ServerKeyFile' 参数。"
+
+#: src/YaPI/LdapServer.pm:1975
+msgid "Cannot read key file."
+msgstr "无法读取密钥文件。"
+
+#: src/YaPI/LdapServer.pm:1980
+msgid "Missing 'ServerKeyData' parameter."
+msgstr "缺少 'ServerKeyData' 参数。"
+
+#: src/YaPI/LdapServer.pm:1998
+msgid "Cannot read CA certificate file."
+msgstr "无法读取 CA 证书文件。"
+
+#: src/YaPI/LdapServer.pm:2021
+msgid "Cannot write certificate file."
+msgstr "无法写入证书文件。"
+
+#: src/YaPI/LdapServer.pm:2027
+msgid "Cannot write key file."
+msgstr "无法写入密钥文件。"
+
+#: src/YaPI/LdapServer.pm:2046
+msgid "Cannot write CA certificate file."
+msgstr "无法写入 CA 证书文件。"
+
+#. translators: error popup before aborting the module
+#: src/complex.ycp:50 src/ldap-server_proposal.ycp:224
+#, ycp-format
+msgid ""
+"The package '%1' is not available.\n"
+"YaST2 cannot continue the configuration\n"
+"without installing the package."
+msgstr ""
+"软件包 '%1' 未安装.\n"
+"未安装所需的软件包, YaST2无法继续进行配置."
+
+#. translators: error popup before aborting the module
+#: src/complex.ycp:57 src/ldap-server_proposal.ycp:229
+msgid ""
+"YaST2 cannot continue the configuration\n"
+"without installing the required packages."
+msgstr "未安装所需的软件包，YaST2 无法继续进行配置。"
+
+#: src/complex.ycp:104
+msgid "Existing configuration detected."
+msgstr "检测到退出配置。"
+
+#: src/complex.ycp:105
+msgid ""
+"You have an existing configuration, but the LDAP server is currently not running.\n"
+"Do you want to start the server now and re-read its configuration data or do you \n"
+"want to create a new configuration from scratch?"
+msgstr ""
+"您有一个退出配置，但当前 LDAP 服务器并未运行。\n"
+"您想要立即启动服务器并重读取它的配置数据，或者想要\n"
+"从头创建一个新配置？"
+
+#: src/complex.ycp:108 src/dialogs.ycp:120
+msgid "Restart"
+msgstr "重启"
+
+#: src/complex.ycp:108 src/dialogs.ycp:121
+msgid "New Configuration"
+msgstr "新配置"
+
+#: src/complex.ycp:133
+msgid ""
+"Your system is currently configured to use the configuration file\n"
+"/etc/openldap/slapd.conf. YaST only supports the dynamic configuration\n"
+"database of OpenLDAP (back-config). Do you want to migrate your existing\n"
+"configuration to the configuration database?\n"
+msgstr ""
+"您的系统当前配置为使用 /etc/openldap/sladp.conf 配置文件。YaST 只支持\n"
+"OpenLDAP 的动态配置数据库 (back-config)。您想要迁移已有配置到配置数据库吗？\n"
+
+#: src/complex.ycp:146
+msgid "Migrate existing configuration"
+msgstr "迁移已有配置"
+
+#: src/complex.ycp:149
+msgid "Create a new configuration from scratch"
+msgstr "从头创建一个新配置"
+
+#. LdapServer summary dialog caption
+#: src/complex.ycp:256
+msgid "LDAP Server Configuration Summary"
+msgstr "LDAP 服务器配置摘要"
+
+#. heading for all dialogs
+#. Initialization dialog caption
+#: src/dialogs.ycp:29 src/wizards.ycp:56 src/wizards.ycp:116
+#: src/wizards.ycp:196 src/wizards.ycp:303
+msgid "LDAP Server Configuration"
+msgstr "LDAP 服务器配置"
+
+#: src/dialogs.ycp:118
+msgid "The LDAP Server is not running."
+msgstr "LDAP 服务器没有运行。"
+
+#: src/dialogs.ycp:119
+msgid "Do you want to start it now to re-read its configuration data or do you want to create a new configuration from scratch?"
+msgstr "您想要立即启动并重新读取它的配置数据，或者想要从头创建一个新配置？"
+
+#: src/dialogs.ycp:143
+msgid "help page for item <b>"
+msgstr "条目 <b>"
+
+#: src/dialogs.ycp:143
+msgid "</b> not available"
+msgstr "</b> 没有帮助页面 "
+
+#: src/dialogs.ycp:164
+msgid "General Settings"
+msgstr "常规设置"
+
+#: src/dialogs.ycp:167 src/widgets.ycp:30
+msgid "&Start LDAP Server"
+msgstr "启动 LDAP 服务器(&S)"
+
+#: src/dialogs.ycp:180 src/widgets.ycp:39
+msgid "Register at an &SLP Daemon"
+msgstr "在 SLP 守护程序注册(&S)"
+
+#: src/dialogs.ycp:188 src/widgets.ycp:76
+msgid "Firewall Settings"
+msgstr "防火墙设置"
+
+#: src/dialogs.ycp:278
+msgid "Server Type"
+msgstr "服务器类型"
+
+#: src/dialogs.ycp:288
+msgid "Stand-alone server"
+msgstr "独立服务器"
+
+#: src/dialogs.ycp:296
+msgid "Master server in a replication setup"
+msgstr "应答设置中的主服务器"
+
+#: src/dialogs.ycp:304
+msgid "Replica (slave) server.\n"
+msgstr "副服务器。\n"
+
+#: src/dialogs.ycp:305
+msgid "All data, including configuration, is replicated from a remote server."
+msgstr "包含配置在内的所有数据都是远程服务器的副本。"
+
+#: src/dialogs.ycp:337
+msgid ""
+"YaST was not able to determine the fully qualified hostname of this\n"
+"computer. \n"
+msgstr "YaST 未能探明此计算机的完全合格的主机名。\n"
+
+#: src/dialogs.ycp:340
+msgid "Setting up a replication master is currently not possible."
+msgstr "目前不能设置一个应答主服务器。"
+
+#. tree widget headline
+#: src/dialogs.ycp:460
+msgid "Configuration:"
+msgstr "配置："
+
+#: src/dialogs.ycp:589
+msgid "LDAP Authentication failed. Try again?\n"
+msgstr "LDAP 验证失败。重试？\n"
+
+#: src/dialogs.ycp:590
+msgid "Error message: "
+msgstr "错误信息： "
+
+#: src/dialogs.ycp:613
+msgid "Create new account in the first database"
+msgstr "在首个数据库中创建新帐号"
+
+#: src/dialogs.ycp:621
+msgid "User Id"
+msgstr "用户 ID"
+
+#: src/dialogs.ycp:623
+msgid "Container Object"
+msgstr "框架对象"
+
+#: src/dialogs.ycp:627
+msgid "Browse"
+msgstr "浏览"
+
+#: src/dialogs.ycp:632
+msgid "Generate a Random Password"
+msgstr "生成一个随机密码"
+
+#: src/dialogs.ycp:639
+msgid "Use the \"cn=config\" Account for Replication"
+msgstr "使用 \"cn=config\" 账户来应答"
+
+#: src/dialogs.ycp:652
+msgid "Configure Account for Replication"
+msgstr "配置用于应答的账户"
+
+#: src/dialogs.ycp:711
+msgid "Validate Password"
+msgstr "校验密码"
+
+#: src/dialogs.ycp:733 src/dialogs.ycp:1121 src/tree_structure.ycp:749
+#: src/widgets.ycp:344
+msgid "Enter a password"
+msgstr "输入一个密码"
+
+#: src/dialogs.ycp:744 src/dialogs.ycp:1127 src/tree_structure.ycp:756
+#: src/widgets.ycp:357
+msgid "The passwords you have entered do not match. Try again."
+msgstr "密码不匹配。请重试。"
+
+#: src/dialogs.ycp:776
+msgid "Provider Details"
+msgstr "提供商细节"
+
+#: src/dialogs.ycp:783
+msgid "Provider Hostname"
+msgstr "提供商主机名"
+
+#: src/dialogs.ycp:798
+msgid "Administration Password for the \"cn=config\" Database"
+msgstr "\"cn=config\" 数据库的管理密码"
+
+#: src/dialogs.ycp:802 src/widgets.ycp:167
+msgid "C&A Certificate File (PEM Format)"
+msgstr "CA 证书文件(增强保密邮件 PEM 格式)(&A)"
+
+#: src/dialogs.ycp:805 src/widgets.ycp:170
+msgid "Bro&wse..."
+msgstr "浏览(&W)..."
+
+#. file selection headline
+#: src/dialogs.ycp:843 src/tree_structure.ycp:468
+msgid "Select CA Certificate File"
+msgstr "选择 CA 证书文件"
+
+#: src/dialogs.ycp:854 src/tree_structure.ycp:374
+msgid "Select a Valid CA Certificate File"
+msgstr "选择一个有效的 CA 证书文件"
+
+#: src/dialogs.ycp:889
+msgid "Failed to open connection to the \"cn=config\" database on the provider server.\n"
+msgstr "未能打开到提供商服务器的\"cn=config\"数据库的连接。\n"
+
+#: src/dialogs.ycp:890
+msgid ""
+"Verify that the provider server allows remote connections to the \n"
+"\"cn=config\" database and that you entered the correct password.\n"
+msgstr ""
+"验证提供商服务器是否允许到“cn=config”数据库的远程连接\n"
+"和你是否输入了正确的口令。\n"
+
+#: src/dialogs.ycp:893
+msgid "The following error messages were returned:"
+msgstr "返回了如下的错误信息："
+
+#: src/dialogs.ycp:901
+msgid "An error occurred while verifying the TLS/SSL configuration."
+msgstr "验证 TLS/SSL 配置时出错。"
+
+#: src/dialogs.ycp:903
+msgid "Do you want to import a different CA/Server Certificate?"
+msgstr "您想要导入一个不同的 CA/服务器 证书吗？"
+
+#: src/dialogs.ycp:914
+msgid "The replication configuration on the provider server is missing.\n"
+msgstr "提供商服务器的应答配置缺失。\n"
+
+#: src/dialogs.ycp:915
+msgid "Click Continue to create it now."
+msgstr "点击继续会立即创建它。"
+
+#: src/dialogs.ycp:960
+msgid ""
+"The replication configuration on the master server indicates that\n"
+"it is already acting as a replication consumer.\n"
+msgstr "主服务器上的应答配置表明它已经作为应答客户端工作了。\n"
+
+#: src/dialogs.ycp:963
+msgid "Setting up cascaded replication of the cn=config is currently not supported."
+msgstr "目前不支持设置 cn=config 的级联应答。"
+
+#: src/dialogs.ycp:980
+msgid "Checking the authentication credentials defined in the replication configuration on the provider server failed.\n"
+msgstr "未能检查提供商服务器上的回答配置里定义的验证身份凭证。\n"
+
+#: src/dialogs.ycp:985
+msgid "Click \"Continue\" to correct this now."
+msgstr "点击 “继续” 以立即修改它。"
+
+#: src/dialogs.ycp:1085
+msgid "Replication Master setup"
+msgstr "应答主服务器设置"
+
+#: src/dialogs.ycp:1087
+msgid ""
+"To act as a master server for replication, the configuration database needs\n"
+"to be remotely accessible. Set a password for the configuration database.\n"
+msgstr ""
+"配置数据库要支持远程访问才能作为应答的主服务器。\n"
+"为配置数据库设定一个口令。\n"
+
+#: src/dialogs.ycp:1090
+msgid ""
+"\n"
+"(Remote access to the Configuration database will be restricted to encrypted\n"
+"LDAP Connections.)\n"
+msgstr ""
+"\n"
+"(到配置数据库的远程访问被限制为加密 LDAP 连接。)\n"
+
+#: src/dialogs.ycp:1096
+msgid "Enter new &Password"
+msgstr "输入新密码 (&P)"
+
+#: src/dialogs.ycp:1101
+msgid "Prepare for MirrorMode replication (generates the serverId attribute)"
+msgstr "准备镜像模式应答 (生成一个服务器 ID 属性)"
+
+#: src/helps.ycp:20
+msgid "<h3>Startup Configuration</h3>"
+msgstr "<h3>启动配置</h3>"
+
+#: src/helps.ycp:21
+msgid "<h4>Start LDAP Server</h4>"
+msgstr "<h4>启动 LDAP 服务器</h4>"
+
+#: src/helps.ycp:22
+msgid ""
+"<p>Select <b>Yes</b> if the LDAP server should be started automatically as \n"
+"part of the boot process. Select <b>No</b> if the LDAP server should not be started. Note:\n"
+"After selecting <b>No</b>, you cannot change the OpenLDAP configuration.</p>\n"
+msgstr ""
+"<p>如果 LDAP 服务器应该作为引导过程的一部分被自动启动，请选择 <b>是</b>。\n"
+"如果 LDAP 服务器不应该启动，请选择 <b>否</b>。注意：\n"
+"在选择了 <b>否</b> 之后，您不可以变更 OpenLDAP 配置。</p>\n"
+
+#: src/helps.ycp:26
+msgid "<h4>Protocol Listeners</h4>"
+msgstr "<h4>协议监听器</h4>"
+
+#: src/helps.ycp:27
+msgid "<p>Enable and disable the various protocol listeners of OpenLDAP.</p>"
+msgstr "<p>启动和禁用 OpenLDAP 的多种协议监听器。</p>"
+
+#: src/helps.ycp:28
+msgid ""
+"<p><b>LDAP</b> is the standard LDAP interface on Port 389. TLS/SSL secured communication\n"
+"is possible with the StartTLS operation when you have a server certificate configured.</p>"
+msgstr ""
+"<p><b>LDAP</b> 是端口 389 之上的标准 LDAP 接口。当您配置了一个服务器证书时，也可以\n"
+"通过 StartTLS 操作使用 TLS/SSL 安全通道。</p>"
+
+#: src/helps.ycp:30
+msgid ""
+"<p><b>LDAPS</b> enables the \"LDAP over SSL (ldaps)\" interface for SSL protected\n"
+"connections on port 636. This only works if you have a server certificate configured (see \"Global Settings\"/\"TLS Settings\").\n"
+msgstr ""
+"<p><b>LDAPS</b> 在端口 636 上为 SSL 保护的连接启用 “LDAP over SSL (ldaps)” 接口。\n"
+"只有您已经配置了一个服务器证书 (见“全局设置”/“TLS 设置”) 时，该选项才有用。\n"
+
+#: src/helps.ycp:33
+msgid ""
+"<p><b>LDAPI</b> enables the \"LDAP over IPC\" interface for accessing the\n"
+"LDAP server via a Unix Domain Socket. Do not disable the LDAPI interface \n"
+"as YaST uses it to communicate with the server.</p>\n"
+msgstr ""
+"<p><b>LDAPI</b> 为通过 Unix 域数据包 访问 LDAP 服务器开启 “LDAP over IPC”。\n"
+"不要禁用 LDAPI 接口因为 YaST 也使用它来与服务器通信。</p>\n"
+
+#: src/helps.ycp:37
+msgid "<h4>Firewall Settings</h4>"
+msgstr "<h4>防火墙设置</h4>"
+
+#: src/helps.ycp:38
+msgid ""
+"<p>Select whether SuSEFirewall should allow access on the LDAP-related\n"
+"network ports or not.</p>\n"
+msgstr "<p>选择 SuSE 防火墙是否应该允许访问 LDAP 相关网络端口。</p>\n"
+
+#: src/helps.ycp:44
+msgid "<h3>Basic Database Settings</h3>"
+msgstr "<h3>基本数据库设置</h3>"
+
+#: src/helps.ycp:45
+msgid ""
+"<p>Choose the <b>Database</b> from <b>hdb</b> and <b>bdb</b>. <b>Hdb</b> is a\n"
+"variant of the <b>bdb</b> backend that uses a hierarchical database layout and\n"
+"supports subtree renames. Otherwise it is identical to <b>bdb</b>. A\n"
+"<b>hdb</b>-Database needs a larger <b>idlcachesize</b> than a\n"
+"<b>bdb</b>-Database for a good search performance.</p>\n"
+msgstr ""
+"<p>从 <b>hdb</b> 和 <b>伯克利型数据库</b> 中选择数据库。<b>Hdb</b> 是 <b>伯克利型\n"
+"数据库</b> 后端的一个变种，使用分层数据库布局并支持子树重命名。除此之外和 <b>伯克利型数据库</b>\n"
+"无甚差别。<b>hdb</b>数据库需要比 <b>伯克利型数据库</b>更大的<b>idlcachesize</b>以提供更好的搜索性能。</p>\n"
+
+#: src/helps.ycp:51
+msgid ""
+"<p>The <b>Base DN</b> option specifies the name of the root entry \n"
+"of the database being created.</p>"
+msgstr "<p><b>基本判别名</b> 选项用于指定将创建的数据库的根条目。</p>"
+
+#: src/helps.ycp:53
+msgid ""
+"<p>The <b>Administrator DN</b> along with a <b>LDAP Administrator Password</b> \n"
+"specifies a superuser identity for the database, surpassing all ACLs and other \n"
+"administrative limit restrictions. Checking <b>Append Base DN</b> appends the \n"
+"<b>Base DN</b> entered above, for example, a base DN of <tt>dc=example,dc=com</tt>\n"
+"and Administrator DN of <tt>c=Admin</tt> would combine to an effective Administrator DN\n"
+"of <tt>c=Admin,dc=example,dc=com</tt>.</p> "
+msgstr ""
+"<p><b>管理员 DN</b> 连同 <b>LDAP 管理员密码</b>一起为数据库指定了一个超级用户身份，\n"
+"覆盖了所有访问控制列表和其他管理限制的限制。选中 <b>追加基本 DN</b> 将追加前面输入的\n"
+"<b>基本 DN</b>，例如，一个基本 DN <tt>dc=example,dc=com</tt> 和一个管理员 DN <tt>c=Admin</tt>\n"
+"将混合成一个有效的管理员判别名 <tt>c=Admin,dc=example,dc=com</tt>。</p>"
+
+#: src/helps.ycp:59
+msgid ""
+"<p>If this wizard was started during installation, the \n"
+"<b>LDAP Administrator Password</b> is initially set to the system's root password\n"
+"entered earlier in the installation process.</p> "
+msgstr ""
+"<p>如果此向导在安装时启动，<b>LDAP 管理员密码</b>将初始设置为安装过程之前输入的\n"
+"系统根密码。</p>"
+
+#: src/helps.ycp:62
+msgid ""
+"<p>To use this database as default for the OpenLDAP client tools \n"
+"(e.g. ldapsearch), check <b>Use this database as the default for OpenLDAP\n"
+"clients</b>. This will result in the hostname \"localhost\" and the above \n"
+"entered <b>Base DN</b> being written to the OpenLDAP client configuration \n"
+"file <tt>/etc/openldap/ldap.conf</tt>. This checkbox is selected by default\n"
+"when creating the first database on a server.</p>\n"
+msgstr ""
+"<p>要使用此数据库作为 OpenLDAP 客户端工具 (例如 ldapsearch) 的默认数据库，请选中\n"
+"<b>使用此数据库作为 OpenLDAP 客户端默认数据库</b>。这将把主机名称\"localhost\"和上面\n"
+"输入的<b>基本判别名</b>写入到 OpenLDAP 客户端配置文件 <tt>/etc/openldap/ldap.conf</tt>中。\n"
+"当在服务器上创建首个数据库时该复选框是默认选中的。</p>\n"
+
+#: src/helps.ycp:71
+msgid ""
+"YaST currently does not support this database. You can not \n"
+"change any configuration settings here.\n"
+msgstr "YaST 目前不支持此数据库。您不可以在此修改任何配置设置。\n"
+
+#: src/helps.ycp:76
+msgid ""
+"<p>To enable or disable plaintext authentication (LDAP Simple Bind)\n"
+"for the configuration database, click the associated checkbox. Plaintext \n"
+"authentication to the configuration database will only be allowed when \n"
+"using sufficiently protected (e.g. SSL/TLS encrypted) connections.</p>\n"
+msgstr ""
+"<p>要为配置数据库启用或禁用明文验证 (LDAP 简单连接)，点击关联的复选框。\n"
+"配置数据库的明文验证只有在使用了足够安全的 (如 SSL/TLS 加密的) 连接时才\n"
+"会被允许。</p>\n"
+
+#: src/helps.ycp:81
+msgid ""
+"<p>To change the administration password for the configuration database, \n"
+"click <b>Change Password</b>. \n"
+"A Popup will prompt you to enter the new password and select the \n"
+"<b>Password Encryption</b>. \n"
+"The password fields are initially empty even if a password has already been \n"
+"set in the configuration.</p>\n"
+msgstr ""
+"<p>要变更配置数据的管理密码，请点击 <b>变更密码</b>。\n"
+"一个弹窗将提示您输入新密码并选择 <b>密码加密</b>。\n"
+"密码框初始为空，即使配置中已经设置了一个密码。</p>\n"
+
+#: src/helps.ycp:90
+msgid "<h3>Edit BDB Database</h3>"
+msgstr "<h3>编辑伯克利型数据库</h3>"
+
+#: src/helps.ycp:91
+msgid "<p>Change basic settings of BDB and HDB Databases.</p>"
+msgstr "<p>变更伯克利型和 HDB 数据库的基本设置。</p>"
+
+#: src/helps.ycp:92
+msgid ""
+"<p>Enter the complete DN or only the first part and append the base DN automatically\n"
+"with <b>Append Base DN</b>.</p>"
+msgstr "<p>输入完整的判别名，或者仅输入第一部分，然后通过<b>追加基本判别名</b> 自动追加基本判别名。</p>"
+
+#: src/helps.ycp:94
+msgid ""
+"<p>To change the password for the administrator account, click <b>Change Password</b>.\n"
+"A Popup will prompt you to enter the new password and select the <b>Password Encryption</b>.\n"
+"The password fields are initially empty even if a password has already been set in the configuration.</p>\n"
+msgstr ""
+"<p>要变更管理员账户的密码，请点击 <b>变更密码</b>。\n"
+"一个弹窗会提示您输入新密码并选择 <b>密码加密</b>。\n"
+"密码框初始为空，即使配置中已经设定了一个密码。 </p>\n"
+
+#: src/helps.ycp:98
+msgid ""
+"<p>With the <b>Entry Cache</b> and <b>Index Cache (IDL cache)</b> you can adjust\n"
+"the sizes of OpenLDAP's internal caches. The <b>Entry Cache</b> defines the number of entries\n"
+"that are kept in OpenLDAP's in-memory entry cache. If it is possible (enough RAM) this number\n"
+"should be large enough to keep the whole database in memory. The <b>Index Cache (IDL cache)</b> \n"
+"is used to speed up searches on indexed attributes. In general especially HDB-Databases require a\n"
+"large IDL cache for good search performance (three times the size of the entry cache as a rule of\n"
+"thumbs).</p>"
+msgstr ""
+"<p>通过 <b>条目缓存</b> 和 <b>索引缓存 (IDL 缓存)</b> 您可以调整 OpenLDAP 内部缓存的大小。\n"
+"<b>条目缓存</b>定义了 OpenLADP 内存中条目缓存的数目。只要内存够用，该数目可以在内存中缓存整个数据库。\n"
+"<b>索引缓存 (IDL 缓存)</b>用来加速索引属性的搜索。通常，尤其是 HDB 数据库需要一个很大的 IDL 缓存来提高搜索性能。\n"
+"(惯例是三倍条目缓存的大小)。</p>"
+
+#: src/helps.ycp:107
+msgid "<h3>Password Policy Settings</h3>"
+msgstr "<h3>口令策略设置</h3>"
+
+#: src/helps.ycp:108
+msgid ""
+"<p>To make use of password policies for this database, enable \n"
+"<b>Enable Password Policies</b>.</p>"
+msgstr "<p>要使用此数据库的口令策略，请激活<b>启用口令策略</b>。<p>"
+
+#: src/helps.ycp:110
+msgid ""
+"<p>Check <b>Hash Clear Text Passwords</b> to specify that the OpenLDAP server\n"
+"should encrypt clear text passwords present in add and modify requests before storing them\n"
+"in the database. Note that this violates the  X.500/LDAP information model, but may be\n"
+"needed to compensate for LDAP clients that do not use the password modify extended operation \n"
+"to manage passwords.</p> "
+msgstr ""
+"<p>请选中<b>加密明文口令</b>，以指定：将口令保存进数据库前 OpenLDAP 服务器应对\n"
+"添加和修改请求中的明文口令进行加密。 请注意，这样做违背了 X.500/LDAP 信息\n"
+"模型，但对于不使用口令修改扩展操作\n"
+"管理口令的 LDAP 客户机，可能是必要的补偿操作。</p>"
+
+#: src/helps.ycp:115
+msgid ""
+"<p>If <b>Disclose \"Account Locked\" Status</b> is enabled, users trying to\n"
+"authenticate to a locked account are notified that their account is\n"
+"locked. This notification might provide useful information to an\n"
+"attacker. Sites sensitive to security issues should not enable this\n"
+"option.</p> \n"
+msgstr ""
+"<p>如果启用了<b>公开“帐户锁定”状态</b>，则会通知试图验证一个锁定帐号的用户，告知它们的帐号已锁定。此通知可能\n"
+"会为攻击者提供有价值的信息。对安全问题敏感的站点最好不要启用此选项。</p>\n"
+
+#: src/helps.ycp:121
+msgid "<p>Enter the name of the default policy object in <b>Default Policy Object DN</b>.</p>"
+msgstr "<p>请在<b>默认策略对象判别名</b>中输入默认策略对象的名称。</p>"
+
+#: src/helps.ycp:122
+msgid ""
+"<p>Create or change the default policy by clicking <b>Edit Policy</b>. You may\n"
+"be asked to enter the LDAP administrator password afterwards to allow the\n"
+"Policy Object being read from the server.</p>\n"
+msgstr ""
+"<p>通过点击 <b>编辑策略</b> 来创建或更改默认策略。\n"
+"您之后可能被询问输入 LDAP 管理员密码以允许从服务器读取策略对象。</p>\n"
+
+#: src/helps.ycp:128
+msgid "<h3>Index Configuration</h3>"
+msgstr "<h3>索引配置</h3>"
+
+#: src/helps.ycp:129
+msgid "<p>Change the indexing options of a hdb of bdb-Database.</p>"
+msgstr "<p>变更 hdb 或伯克利型数据库的索引选项。</p>"
+
+#: src/helps.ycp:130
+msgid "<p>The table displays a list of attributes which currently have an index defined.</p>"
+msgstr "<p>表格显示当前已定义了索引的属性列表。</p>"
+
+#: src/helps.ycp:131
+msgid ""
+"<p>Indexes are used by OpenLDAP to improve search performance on specific\n"
+"types of searches. Indexes should be configured corresponding to the most\n"
+"common searches on a database. YaST allows you to setup three different types\n"
+"of indexes.</p>\n"
+msgstr ""
+"<p>索引被 OpenLDAP 用于改进指定类型的搜索的性能。索引应该根据数据库中最常用的搜索来配置。\n"
+"YaST 允许设置三种不同类型的索引。</p>\n"
+
+#: src/helps.ycp:136
+msgid ""
+"<p><b>Presence</b>: This index is used for searches with presence filters\n"
+"(i.e. <tt>(attributeType=*)</tt>). Presence indexes should only be configured\n"
+"for attributes that occur rarely in the database.</p>\n"
+msgstr ""
+"<p><b>预留</b>：此类索引用于带预留过滤器的搜索 (例如 <tt>(attributeType=*)</tt>)。\n"
+"预留索引应该只配置用于数据库中极少出现的属性的搜索。</p>\n"
+
+#: src/helps.ycp:140
+msgid ""
+"<p><b>Equality</b>: This index is used for searches with equality filters \n"
+"(i.e.(<tt>(attributeType=&lt;exact values&gt;)</tt>). An <b>Equality</b> index\n"
+"should always be configured with the <tt>objectclass</tt> attribute.</p>\n"
+msgstr ""
+"<p><b>精确匹配</b>：此类索引用于带有精确匹配过滤器的搜索\n"
+"(例如 <tt>(attributeType=&lt;精确值&gt;)</tt>。一个 <b>精确匹配</b>\n"
+"索引应该经常配置用于 <tt>objectclass</tt> 属性的搜索。</p>\n"
+
+#: src/helps.ycp:144
+msgid ""
+"<p><b>Substring</b>: This index is used for searches with substring filters\n"
+"(i.e. <tt>(attributeType=&lt;substring&gt;*)</tt>)</p>\n"
+msgstr "<p><b>子字符串</b>：此类搜索用于带有子字符串过滤器(例如 <tt>(attributeType=&lt;substring&gt;*)</tt>)的搜索。</p>\n"
+
+#: src/helps.ycp:147
+msgid ""
+"<p>Use <b>Add</b> to define indexing options for a new attribute,\n"
+"<b>Delete</b> to delete an existing index and <b>Edit</b> to change the\n"
+"indexing options of an already indexed attribute.</p>\n"
+msgstr ""
+"<p>用<b>添加</b>来定义新属性的索引选项，<b>删除</b>来删除一个已有索引，\n"
+"<b>编辑</b>来变更一个已索引属性的索引选项。</p>\n"
+
+#: src/helps.ycp:151
+msgid ""
+"<p>Note: Depending on the database size it can take a while until newly added\n"
+"indexes will get active on a database. After the configuration has been\n"
+"written to the server, a background task will start to generate the indexing\n"
+"information for the database.</p>\n"
+msgstr ""
+"<p>注意：根据数据库的大小，新添加的索引可能需要一会儿才能在数据库上生效。\n"
+"在配置被写入到服务器后，会启动一个后台任务来生成数据库的索引信息。</p>\n"
+
+#: src/helps.ycp:158
+msgid "<h3>Access Control Configuration</h3>"
+msgstr "<h3>访问控制配置</h3>"
+
+#: src/helps.ycp:159
+msgid ""
+"<p>This table gives you an overview of all Access Control rules that are\n"
+"currently configured for the selected database</p>\n"
+msgstr "<p>此表格给出了选中数据库上当前配置的所有访问控制规则的概览</p>\n"
+
+#: src/helps.ycp:162
+msgid ""
+"<p>For each rule, you can see which target objects it matches. To see a more\n"
+"detailed view of a rule or to change one, select the rule in the table and\n"
+"click <b>Edit</b>.</p>\n"
+msgstr ""
+"<p>您可以看到每条规则的匹配目标对象。选中表格中的规则，然后点击 <b>编辑</b> 可以\n"
+"看到一个规则的更详细视图或更改。</p>\n"
+
+#: src/helps.ycp:166
+msgid ""
+"<p>Use <b>Add</b> to create new access control rules and <b>Delete</b> to\n"
+"delete an access control rule.</p>\n"
+msgstr "<p>使用<b>添加</b>来创建新访问控制规则，<b>删除</b>来删除访问控制规则。</p>\n"
+
+#: src/helps.ycp:169
+msgid ""
+"<p>OpenLDAP's access control evaluation stops at the first rule whose target\n"
+"definition (DN, filter and attributes) matches the entry being\n"
+"accessed. Therefore you should order the rules according to your needs, using\n"
+"the <b>Up</b> and <b>Down</b> buttons.</p>\n"
+msgstr ""
+"<p>OpenLDAP 的访问控制匹配在第一条规则的对象定义 (判别名,过滤器和属性) 匹配到被访问的条目是停止。\n"
+"因此您应该使用 <b>上</b>、<b>下</b>按键根据您的需要排列规则。</p>\n"
+
+#: src/helps.ycp:176
+msgid "<h3>Replication Provider Settings</h3>"
+msgstr "<h3>应答提供商设置</h3>"
+
+#: src/helps.ycp:177
+msgid ""
+"<p>Select the \"<b>Enable ldapsync provider for this database</b>\" checkbox, if you want to \n"
+"be able to replicate the currently selected database to another server.</p>"
+msgstr "<p>如果您想要能够复制当前选中的数据库到另一个服务器，请选择“<b>为此数据库启用 ldapsync 提供商</b>” 复选框。</p>"
+
+#: src/helps.ycp:179
+msgid "<h4>Checkpoint Settings</h4>"
+msgstr "<h4>检查点设置</h4>"
+
+#: src/helps.ycp:180
+msgid ""
+"<p>Here you can specify how often the synchronization state indicator (stored\n"
+"in the \"<i>contextCSN</i>\"-Attribute) is written to the database. It is synced\n"
+"to the database after the number of write \"<i>Operations</i>\" you specify or\n"
+"after more than the specified \"<i>Minutes</i>\" have passed since the indicator\n"
+"has last been written. By default (both values are '0') the state indicator is\n"
+"only written after a clean shutdown. Writing it more often can result in\n"
+"a faster startup time after an unclean shutdown but might result in a small\n"
+"performance hit in environments with many LDAP write operations.</p>\n"
+msgstr ""
+"<p>此处您可以指定同步状态指示器 (储存在“<i>contextCSN</i>”-属性) 写入数据库的周期。\n"
+"它可以在超过您指定的写“<i>操作</i>”数后，或者在自指示器上一次写入起超过了指定的“<i>分钟</i>”后\n"
+"同步到数据库。状态指示器默认(上面两种值都为 ‘0’）只在完全退出后写入。\n"
+"太频繁的写入将在非完全关机后更快的启动但可能导致由于太多 LDAP 写操作造成的性能下降。</p>\n"
+
+#: src/helps.ycp:189
+msgid "<h4>Session log</h4>"
+msgstr "<h4>会话日志</h4>"
+
+#: src/helps.ycp:190
+msgid ""
+"<p>Configures an in-memory session log for recording information about write operations\n"
+"made on the database. Specify how many write operation should be recorded in the session log. \n"
+"Configuring a session log is only useful for \"<i>refreshOnly</i>\" replication. In \n"
+"such a case it can speed up replication and reduce the load on the master server.</p>"
+msgstr ""
+"<p>配置一个内存会话日志以记录数据库写操作的信息。在会话日志中指定要记录多少写操作。\n"
+"只有在“<i>只能刷新</i>”应答模式下配置会话日志才有用。在这种情况下它可以加速应答和\n"
+"降低主服务器的负载。</p>"
+
+#: src/helps.ycp:196
+msgid "<h3>Replication Consumer Settings</h3>"
+msgstr "<h3>应答客户端设置</h3>"
+
+#: src/helps.ycp:197
+msgid ""
+"<p>Select \"<b>This database is a Replication Consumer</b>\" if you want the\n"
+"database to be a replica of a database on another server.</p>\n"
+msgstr ""
+"<p>如果您想要数据库作为另一个服务器上的数据库的回应者，\n"
+"请选择“<b>此数据库是一个回应客户端</b>”。</p>\n"
+
+#: src/helps.ycp:200
+msgid "<h4>Provider</h4>"
+msgstr "<h4>提供商</h4>"
+
+#: src/helps.ycp:201
+msgid ""
+"Enter the connection details for the replication connection to the master\n"
+"server here. Select the protocol to use (<b>ldap</b> or <b>ldaps</b>) and\n"
+"enter the fully qualified hostname of the master server. It is important to\n"
+"use the fully qualified hostname to verify the master server's TLS/SSL\n"
+"certificate. Adjust the port number if the master server is using non-standard\n"
+"ldap ports.\n"
+msgstr ""
+"在此输入向主服务器的应答连接的连接细节。选择要使用的协议 (<b>ldap</b> 或 <b>ldaps</b>)\n"
+"并输入完全合格的主服务器主机名。使用完全合格的主机名来验证主机服务器的 TLS/SSL 证书 是\n"
+"非常重要的。如果主服务器使用了非标准的 ldap 端口请调整端口号。\n"
+
+#: src/helps.ycp:208
+msgid "<h4>Replication Type</h4>"
+msgstr "<h4>应答类型</h4>"
+
+#: src/helps.ycp:209
+msgid "<p>OpenLDAP supports different modes of replication:</p>"
+msgstr "<p>OpenLDAP 支持多种模式的应答：</p>"
+
+#: src/helps.ycp:210
+msgid ""
+"<p><b>refreshOnly</b>: The slave server will periodically open a new\n"
+"connection, trigger a synchronization and close the connection again. The\n"
+"interval how often this synchronization happens can be configured via the\n"
+"<b>Replication Interval</b> setting.</p>\n"
+msgstr ""
+"<p><b>只能刷新</b>：副服务器将定期打开一个新连接，触发一次同步然后关闭连接。\n"
+"可以通过 <b>应答间隔</b> 设置配置同步的周期。</p>\n"
+
+#: src/helps.ycp:215
+msgid ""
+"<p><b>refreshAndPersist</b>: The slave server will open a persistent\n"
+"connection to the master server for synchronization. Updated entries on the\n"
+"master server are immediately sent to the slave via this connection.</p>\n"
+msgstr ""
+"<p><b>刷新并维持</b>：副服务器将打开一个到主服务器的用于同步的永久连接。\n"
+"主服务器上的更新条目将通过此连接立即发送到副服务器。</p>\n"
+
+#: src/helps.ycp:219
+msgid "<h4>Authentication</h4>"
+msgstr "<h4>验证</h4>"
+
+#: src/helps.ycp:220
+msgid ""
+"<p>Specify a DN and password which the slave server should use to authenticate against the master.\n"
+"The specified DN needs to have read access to all entries in the replicated database on the master.</p>\n"
+msgstr ""
+"<p>指定副服务器用来同主服务器验证的判别名和密码。\n"
+"指定的判别名要有主服务器上副本数据库所有条目的读取权限。</p>\n"
+
+#: src/helps.ycp:223
+msgid "<h4>Update Referral</h4>"
+msgstr "<h4>更新转发</h4>"
+
+#: src/helps.ycp:224
+msgid ""
+"<p>As the slave database is readonly, the slave server will answer write\n"
+"operations with an LDAP referral. \n"
+"By default, this referral points the client to the master server. You can configure a different update referral here.\n"
+"This is e.g. useful in a cascaded replication setup where the provider for the\n"
+"slave server is as slave server too. </p>\n"
+msgstr ""
+"<p>由于副数据库是只读的，副服务器将以 LDAP 转发回应写入操作。\n"
+"默认该转发指引客户端到主服务器。您可以在此配置一个不同的更新转发。\n"
+"这在，例如级联应答设置中会有用，因为副服务器的供应商也是一个副服务器。</p>\n"
+
+#: src/helps.ycp:233
+msgid "<p><b><big>Initializing LDAP Server Configuration</big></b></p>"
+msgstr "<p><b><big>正在初始化 LDAP 服务器配置</big></b></p>"
+
+#: src/helps.ycp:234
+msgid ""
+"<p><b><big>Aborting Initialization:</big></b><br>\n"
+"Safely abort the configuration utility by pressing <b>Abort</b> now.</p>"
+msgstr ""
+"<p><b><big>中止初始化：</big></b><br>\n"
+"可以按<b>中止</b>立即安全地中止配置实用程序。</p>"
+
+#: src/helps.ycp:239
+msgid "<p><b><big>Saving LDAP Server Configuration</big></b></p> \n"
+msgstr "<p><b><big>正在保存 LDAP 服务器配置</big></b></p>\n"
+
+#: src/helps.ycp:242
+msgid ""
+"<p><b><big>Aborting Saving:</big></b><br>\n"
+"Abort the save procedure by pressing <b>Abort</b>. An additional dialog\n"
+"informs you whether it is safe to do so.</p>\n"
+msgstr ""
+"<p><b><big>中止保存：</big></b><br>\n"
+"按<b>中止</b>，中止该保存过程。\n"
+"另一个对话框将指示这样操作是否安全。</p>\n"
+
+#: src/helps.ycp:249
+msgid "<h3>LDAP Server Configuration Summary</h3>"
+msgstr "<h3>LDAP 服务器配置摘要</h3>"
+
+#: src/helps.ycp:250
+msgid ""
+"<p>This dialog provides a short summary about the configuration you have\n"
+"created. Click <b>Finish</b> to write the configuration and leave the LDAP\n"
+"Server module.</p>\n"
+msgstr ""
+"<p>该对话框提供了关于您创建的配置的简短摘要。点击 <b>完成</b> 来写入配置\n"
+"并退出 LDAP 服务器模块。</p>\n"
+
+#: src/helps.ycp:257
+msgid "<p>With <b>Start LDAP Server Yes or No</b>, start or stop the LDAP server.</p> "
+msgstr ""
+"<p>使用<b>启动 LDAP 服务器\"是\"或\"否\"</b>选项，\n"
+"启动或停止该 LDAP 服务器。</p> "
+
+#: src/helps.ycp:258
+msgid "<p>If you select <b>Yes</b>, click <b>Next</b> to start the configuration wizard.</p>"
+msgstr "<p>如果您选择了 <b>是</b>，请点击<b>下一步</b>来启动配置向导。</p>"
+
+#: src/helps.ycp:259
+msgid ""
+"<p>If the Firewall is enabled, open the required network ports\n"
+"for OpenLDAP by checking the corresponding checkbox.</p>\n"
+msgstr "<p>如果防火墙已启动，通过选中相关复选框为 OpenLDAP 打开需要的网络端口。</p>\n"
+
+#: src/helps.ycp:265
+msgid "<p>Select the type of LDAP server you want to setup. The following scenarios are available:</p>"
+msgstr "<p>选择您想要设置的 LDAP 服务器类型。如下类型可用：</p>"
+
+#: src/helps.ycp:266
+msgid ""
+"<p><b>Stand-alone server</b>: Setup a single stand-alone OpenLDAP server with\n"
+"no preparations for replication.</p>\n"
+msgstr "<p><b>独立服务器</b>：设置一个无需应答的单一独立 OpenLDAP 服务器。</p>\n"
+
+#: src/helps.ycp:269
+msgid ""
+"<p><b>Master server in a replication setup</b>: Create an OpenLDAP setup\n"
+"prepared to act as a master server (provider) in a replication setup.</p>\n"
+msgstr ""
+"<p><b>应答设置中的主服务器</b>：创建一个在应答设置中\n"
+"准备作为主服务器 (提供商) 的 OpenLDAP 设置。</p>\n"
+
+#: src/helps.ycp:272
+msgid ""
+"<p><b>Replica slave server</b>: Setup an OpenLDAP slave server that replicates all its data,\n"
+"including configuration, from a master server.</p>"
+msgstr "<p><b>副本服务器</b>：设置一个复制主服务器包括配置在内的所有数据的 OpenLDAP 副本服务器。</p>"
+
+#: src/helps.ycp:277
+msgid "<h3>TLS Settings</h3>"
+msgstr "<h3>TLS 设置</h3>"
+
+#: src/helps.ycp:279
+msgid "<h4>Basic Settings</h4>"
+msgstr "<h4>基本设置</h4>"
+
+#: src/helps.ycp:280
+msgid ""
+"<p>To enable encryption via TLS/SSL, check the <b>Enabled TLS</b>\n"
+"checkbox. Additionally you need to configure a certificate for the Server \n"
+"to use.</p>\n"
+msgstr "<p>要启用通过 TLS/SSL 加密，选中 <b>启用 TLS</b> 复选框。另外您需要为服务器配置一个证书。</p>\n"
+
+#: src/helps.ycp:284
+msgid ""
+"<p>Check <b>Enable LDAP over SSL (ldaps) interface</b>, to enable the server\n"
+"to accept LDAPS connections on port 636. If not checked, OpenLDAP will only\n"
+"support TLS encrypted connections through the StartTLS extended operation.</p>\n"
+msgstr ""
+"<p>选中 <b>启动 LDAP over SSL (ldaps) 接口</b>，来使服务器接受端口 636 上的 LDAPS 连接。\n"
+"如果未选中，OpenLDAP 将只支持通过 StartTLS 扩展操作的 TLS 加密连接。</p>\n"
+
+#: src/helps.ycp:288
+msgid ""
+"<p>If you already have a common server certificate installed using the\n"
+"corresponding YaST Module, check <b>Use common Server Certificate</b> so that\n"
+"the OpenLDAP server uses this certificate.</p>\n"
+msgstr "<p>如果您已经通过相关 YaST 模块安装了通用服务器证书，选中 <b>使用通用服务器证书</b> 以让 OpenLDAP 服务器使用此证书。</p>\n"
+
+#: src/helps.ycp:293
+msgid "<h4>Import Certificate</h4>"
+msgstr "<h4>导入证书</h4>"
+
+#: src/helps.ycp:294
+msgid ""
+"<p>If you have no common server certificate or you want OpenLDAP to use a\n"
+"different certificate, enter the file names of the <b>CA Certificate File</b>,\n"
+"<b>Certificate File</b> and <b>Certificate Key File</b> into the corresponding\n"
+"textfields.</p>\n"
+msgstr ""
+"<p>如果您没有通用服务器证书或者您想要 OpenLDAP 使用另一个证书，输入 <b>CA 证书文件</b>，\n"
+"<b>证书文件</b> 和 <b>证书密钥文件</b> 的文件名到相关文本框。</p>\n"
+
+#: src/helps.ycp:299
+msgid ""
+"<p>To create a new CA or certificate, launch the CA management module by\n"
+"clicking <b>Launch CA Management Module</b>.</p>\n"
+msgstr "<p>要创建一个新的 CA 或证书，通过点击 <b>启动 CA 管理模块</b> 启动 CA 管理模块。</p>\n"
+
+#. Tree Item Dialog "global" 1/1
+#: src/helps.ycp:304
+msgid "<p>Below this item, configure some global parameters.</p>"
+msgstr "<p>在此项目的下面，配置一些全局参数。</p>"
+
+#: src/helps.ycp:308
+msgid ""
+"<p>Add schema files in this dialog. Press <b>Add</b> to open a file dialog in which to choose\n"
+"a new schema. Note: OpenLDAP (when used with back-config) does currently not support the removal of \n"
+"Schema Data</p>"
+msgstr ""
+"<p>在此对话框中添加或纲要文件。按<b>添加</b>\n"
+"打开一个文件对话框，在该对话框中选择一个新的纲要。\n"
+"注意：OpenLDAP (通常配合 back-config 使用) 目前不支持删除纲要数据</p>"
+
+#: src/helps.ycp:314
+msgid ""
+"<p>Select the subsystems that should log debugging statements and statistics\n"
+"to syslog.</p>"
+msgstr "<p>选择记录调试语句和统计数据到 syslog 的子系统。</p>"
+
+#: src/helps.ycp:318
+msgid "<p>Select which special features the OpenLDAP Server should allow or disallow:</p>"
+msgstr "<p>选中 OpenLDAP 服务器应该允许或不允许的特性：</p>"
+
+#: src/helps.ycp:319
+msgid "<h3>Select Allow Flags</h3>"
+msgstr "<h3>选择允许标志</h3>"
+
+#: src/helps.ycp:320
+msgid ""
+"<p><b>LDAPv2 Bind Requests</b>: To let the server accept LDAPv2 bind requests.\n"
+"Note that OpenLDAP does not truly implement LDAPv2.</p>\n"
+msgstr ""
+"<p><b>LDAPv2 连接请求</b>：使服务器接受 LDAPv2 连接请求。\n"
+"注意 OpenLDAP 没有真正的实现 LDAP 协议第二版。</p>\n"
+
+#: src/helps.ycp:323
+msgid ""
+"<p><b>Anonymous Bind when credentials not empty</b>: To allow anonymous bind when \n"
+"credentials are not empty (i.e. password is present but bind DN is not present) </p>"
+msgstr ""
+"<p><b>当身份凭证非空时匿名访问</b>：当身份凭证非空时 (例如提供了口令但没联结判别名)，\n"
+"允许匿名连接</p>"
+
+#: src/helps.ycp:325
+msgid ""
+"<p><b>Unauthenticated Bind when DN not empty</b>: To allow unauthenticated \n"
+"(anonymous) binds when DN is not empty</p>"
+msgstr "<p><b>当判别名非空时未验证的连接</b>：当判别名非空时，允许未验证 (匿名) 连接</p>"
+
+#: src/helps.ycp:327
+msgid ""
+"<p><b>Unauthenticated Update Operations to process</b>: To allow unauthenticated\n"
+"(anonymous) update operations to be processed. They are still subject to\n"
+"access controls and other administrative limits.</p>\n"
+msgstr "<p><b>允许未验证的更新操作</b>：允许未验证的 (匿名) 更新操作运行。它们依然受访问控制和其他管理限制的控制。</p>\n"
+
+#: src/helps.ycp:332
+msgid "<h3>Select Disallow Flags</h3>"
+msgstr "<h3>选择允许标志</h3>"
+
+#: src/helps.ycp:333
+msgid ""
+"<p><b>Disable acceptance of anonymous Bind Requests</b>: The Server will\n"
+"not accept anonymous bind requests. Note that this does not generally\n"
+"prohibit anonymous directory access.</p>\n"
+msgstr ""
+"<p><b>禁用接受匿名连接请求</b>：服务器将不接受匿名连接请求。注意这通常\n"
+"不会禁用匿名目录访问。</p>\n"
+
+#: src/helps.ycp:337
+msgid ""
+"<p><b>Disable Simple Bind authentication</b>: Completely disable Simple Bind\n"
+"authentication</p>\n"
+msgstr "<p><b>禁用简单连接验证</b>：完全禁用简单连接验证</p>\n"
+
+#: src/helps.ycp:340
+msgid ""
+"<p><b>Disable forcing session to anonymous status upon StartTLS operation\n"
+"receipt</b>: The server will no longer force an authenticated connection back\n"
+"to the anonymous state when receiving the StartTLS operation.</p>\n"
+msgstr "<p><b>禁用 StartTLS 操作接收时的会话强制匿名状态</b>：服务器在接收 StartTLS 操作时不再强制验证的连接为匿名状态。</p>\n"
+
+#: src/helps.ycp:344
+msgid ""
+"<p><b>Disallow the StartTLS operation if authenticated</b>:\n"
+"The server will not allow the StartTLS operation on already authenticated\n"
+"connections.</p>\n"
+msgstr ""
+"<p><b>禁用已验证连接的 StartTLS 操作</b>：\n"
+"服务器不允许在已验证的连接上的 StartTLS 操作。</p>\n"
+
+#: src/helps.ycp:351
+msgid ""
+"<p>This lists shows all configured databases. The databases with the type\n"
+"\"frontend\" and \"config\" represent special internal databases. The \"Frontend\"\n"
+"database is use to configure global access control restrictions and overlays\n"
+"that apply to all databases. The \"Config\" database holds the configuration of\n"
+"the LDAP server itself.</p>\n"
+msgstr ""
+"<p>此列表显示了所有配置过的数据库。类型为“前端”和“配置”的数据库代表特殊内部数据库。\n"
+"“前端”数据库用于配置应用于所有数据库上的全局访问控制限制和覆盖。\n"
+"“配置”数据库保存 LDAP 服务器自身的配置。</p>\n"
+
+#. Tree Item Dialog "databases" 2/2
+#: src/helps.ycp:358
+msgid "<p>To add a new database, press <b>Add Database...</b>.</p>"
+msgstr "<p>要添加新的数据库，请按<b>添加数据库...</b>。</p>"
+
+#: src/helps.ycp:359
+msgid ""
+"<p>To delete a database, select a database from the list and press <b>Delete Database...</b>.\n"
+"You cannot delete the \"config\" and \"frontend\" databases.</p>\n"
+msgstr ""
+"<p>要删除数据库，从列表中选择数据库并点击 <b>删除数据库...</b>。\n"
+"您不可以删除\"配置\"和\"前端\"数据库。</p>\n"
+
+#: src/helps.ycp:364
+msgid ""
+"<p>Enter a password for the configuration database (\"<i>cn=config</i>\") here. This is required to make\n"
+"the configuration database accessible remotely.</p>"
+msgstr "<p>在此输入配置数据库 (\"<i>cn=config</i>\") 的密码。要想让配置数据库可远程访问，必须输入密码。</p>"
+
+#: src/helps.ycp:366
+msgid ""
+"<p>If the server is supposed to participate in a MirrorMode setup, select the \"<b>Prepare for MirrorMode replication</b>\"\n"
+"checkbox. This will ensure that the serverId attribute is generated as needed for MirrorMode replication.</p>\n"
+msgstr ""
+"<p>如果服务器支持镜像模式，选择“<b>准备镜像模式应答</b>” 复选框。\n"
+"这会确保生成一个镜像模式应答需要的服务器 ID 属性。</p>\n"
+
+#: src/helps.ycp:371
+msgid ""
+"<p>To setup a slave server some details need to be queried from the master server. Please enter the master\n"
+"server's hostname, adjust the protocol (either \"<i>ldap</i>\" or \"<i>ldaps</i>\") and port number as needed and enter the password\n"
+"for the master's configuration database (\"<i>cn=config</i>\").</p>"
+msgstr ""
+"<p>要设置副服务器需要从主服务器上查询一些细节。请输入主服务器的主机名，按需调整协议 (\"<i>ldap</i>\" 或 \"<i>ldaps</i>\")\n"
+"和端口号并输入主服务器的配置数据库 (\"<i>cn=config</i>\") 的口令。</p>"
+
+#: src/ldap-server.ycp:73
+msgid "No base DN provided\n"
+msgstr "没有提供基本判别名\n"
+
+#: src/ldap-server.ycp:93
+msgid "Database cannot be created when the service is not enabled"
+msgstr "当服务未启用时无法创建数据库"
+
+#: src/ldap-server.ycp:103
+msgid "Error while adding the database"
+msgstr "添加数据库时出错。"
+
+#. Command line help text for the Xldap-server module
+#: src/ldap-server.ycp:154
+msgid "Configuration of LDAP server"
+msgstr "LDAP 服务器的配置"
+
+#: src/ldap-server.ycp:161
+msgid "Enable/Disable the service"
+msgstr "启用/禁用服务"
+
+#: src/ldap-server.ycp:165
+msgid "Add a new database"
+msgstr "添加新数据库"
+
+#: src/ldap-server.ycp:169
+msgid "Show a list of currently available databases"
+msgstr "显示当前可用数据库列表"
+
+#: src/ldap-server.ycp:173
+msgid "Show a list of currently configured schemas"
+msgstr "显示当前已配置纲要列表"
+
+#: src/ldap-server.ycp:177
+msgid "Add a schema to the list"
+msgstr "添加纲要到列表"
+
+#: src/ldap-server.ycp:181
+msgid "Enable the service"
+msgstr "启用服务"
+
+#: src/ldap-server.ycp:182
+msgid "Disable the service"
+msgstr "禁用服务"
+
+#: src/ldap-server.ycp:184
+msgid "Database type (\"hdb\" or \"bdb\")"
+msgstr "数据库类型 (\"hdb\" 或伯克利型)"
+
+#: src/ldap-server.ycp:188
+msgid "Base DN for the database"
+msgstr "数据库的基本判别名"
+
+#: src/ldap-server.ycp:192
+msgid "DN for the administrator login"
+msgstr "管理员登录判别名"
+
+#: src/ldap-server.ycp:196
+msgid "Administrator password"
+msgstr "管理员密码"
+
+#: src/ldap-server.ycp:204
+msgid "Directory for the database"
+msgstr "数据库目录"
+
+#: src/ldap-server.ycp:208
+msgid "File"
+msgstr "文件"
+
+#: src/ldap-server.ycp:212
+msgid "Position"
+msgstr "位置"
+
+#. error popup
+#: src/ldap-server_proposal.ycp:57 src/ldap-server_proposal.ycp:178
+msgid "The LDAP database has already been created. You can change the settings later in the installed system."
+msgstr "LDAP 数据库已创建。您稍后可以在已安装的系统中更改设置。"
+
+#: src/ldap-server_proposal.ycp:94
+msgid "[root password]"
+msgstr "[根密码]"
+
+#: src/ldap-server_proposal.ycp:97
+msgid "[manually set]"
+msgstr "[手动设置]"
+
+#: src/ldap-server_proposal.ycp:101
+msgid "Unable to retrieve the system root password.  Set an LDAP server password to continue."
+msgstr "无法获取系统根密码。请设置一个 LDAP 服务器密码以继续。"
+
+#: src/ldap-server_proposal.ycp:106
+msgid "Setting up LDAP Master Server:"
+msgstr "正在设置 LDAP 主服务器："
+
+#: src/ldap-server_proposal.ycp:110
+msgid "Setting up standalone LDAP Server:"
+msgstr "正在设置独立 LDAP 服务器："
+
+#: src/ldap-server_proposal.ycp:113
+msgid "Base DN: "
+msgstr "基本判别名："
+
+#: src/ldap-server_proposal.ycp:114
+msgid "Root DN: "
+msgstr "根判别名："
+
+#: src/ldap-server_proposal.ycp:115
+msgid "LDAP Password: "
+msgstr "LDAP 密码："
+
+#: src/ldap-server_proposal.ycp:121
+msgid "Setting up LDAP Slave Server"
+msgstr "正在设置 LDAP 副服务器"
+
+#: src/ldap-server_proposal.ycp:122
+msgid "Provider: "
+msgstr "提供商："
+
+#: src/ldap-server_proposal.ycp:144
+msgid "Open Port in Firewall"
+msgstr "打开防火墙中的端口"
+
+#: src/ldap-server_proposal.ycp:147 src/ldap-server_proposal.ycp:157
+msgid "YES"
+msgstr "是"
+
+#: src/ldap-server_proposal.ycp:149 src/ldap-server_proposal.ycp:157
+#: src/ldap-server_proposal.ycp:161
+msgid "NO"
+msgstr "否"
+
+#: src/ldap-server_proposal.ycp:153
+msgid "Firewall is disabled"
+msgstr "防火墙已禁用"
+
+#: src/ldap-server_proposal.ycp:157
+msgid "Register at SLP Daemon: "
+msgstr "到 SLP 守护精灵注册："
+
+#. Rich text title for LdapServer in proposals
+#: src/ldap-server_proposal.ycp:202
+msgid "OpenLDAP Server"
+msgstr "OpenLDAP 服务器"
+
+#. Menu title for LdapServer in proposals
+#: src/ldap-server_proposal.ycp:204
+msgid "Open&LDAP Server"
+msgstr "OpenLDAP 服务器(&L)"
+
+#: src/ldap-server_proposal.ycp:248
+msgid "OpenLDAP Replication Setup failed. Reconfigure after the installation has finished."
+msgstr "OpenLDAP 应答设置失败。在安装完成后重新配置。"
+
+#: src/ldap-server_proposal.ycp:268
+msgid ""
+"OpenLDAP Server: Common server certificate not available.\n"
+"StartTLS is disabled."
+msgstr ""
+"OpenLDAP 服务器：没有通用服务器证书。\n"
+"StartTLS 已禁用。"
+
+#: src/mirrormode-wizard.ycp:27
+msgid "MirrorMode Node List"
+msgstr "镜像模式节点列表"
+
+#: src/mirrormode-wizard.ycp:32
+msgid "Server ID"
+msgstr "服务器 ID"
+
+#: src/mirrormode-wizard.ycp:32
+msgid "Server URI"
+msgstr "服务器 URI"
+
+#: src/mirrormode-wizard.ycp:47
+msgid "This server is not setup as a MirrorMode Node. Click \"Next\" to launch the standard OpenLDAP configuration wizard."
+msgstr "服务器没有设置为镜像模式节点。点击“下一步”来启动标准 OpenLDAP 配置向导。"
+
+#: src/mirrormode-wizard.ycp:78
+msgid "OpenLDAP MirrorMode Overview"
+msgstr "OpenLDAP 镜像模式概览"
+
+#: src/mirrormode-wizard.ycp:114
+msgid "Deleting the host on which you started this YaST Module is not possible.\n"
+msgstr "不能删除您启动 YaST 模块的主机。\n"
+
+#: src/mirrormode-wizard.ycp:115
+msgid "Start yast2 openldap-mirrormode on a different MirrorMode server."
+msgstr "在一个不同的镜像模式服务器上启动 YaST2 openldap-mirrormode。"
+
+#: src/mirrormode-wizard.ycp:119
+msgid "Do you really want to remove "
+msgstr "您真的要删除 "
+
+#: src/mirrormode-wizard.ycp:121
+msgid "from the MirrorMode setup?\n"
+msgstr "从镜像模式设置？\n"
+
+#: src/mirrormode-wizard.ycp:122
+msgid "Changes will take effect immediately after clicking \"Yes\""
+msgstr "按“是”后变更将立即生效"
+
+#. Initialization dialog contents
+#: src/mirrormode-wizard.ycp:146 src/wizards.ycp:57 src/wizards.ycp:118
+#: src/wizards.ycp:198 src/wizards.ycp:305
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#. Command line help text for the Xldap-server module
+#: src/openldap-mirrormode.ycp:33
+msgid "Configuration of OpenLDAP MirrorMode replication"
+msgstr "OpenLDAP 镜像模式应答配置"
+
+#: src/tree_structure.ycp:161
+msgid "Your TLS/SSL Configuration seems to be incomplete."
+msgstr "您的 TLS/SSL 配置看上去不完整。"
+
+#: src/tree_structure.ycp:162
+msgid "Do you really want to enable the \"ldaps\" protocol listener?"
+msgstr "您真的要启用“ldaps”协议监听器吗？"
+
+#. add a new file to the list
+#. file dialog heading
+#: src/tree_structure.ycp:200
+msgid "Select New Schema File"
+msgstr "选择新的纲要文件"
+
+#. error popup
+#: src/tree_structure.ycp:207
+msgid "The schema file is already in the list."
+msgstr "该纲要文件已在列表中。"
+
+#: src/tree_structure.ycp:379
+msgid "Select a valid Certificate File"
+msgstr "选择有效的证书文件"
+
+#: src/tree_structure.ycp:384
+msgid "Select a valid Certificate Key File"
+msgstr "选择有效的证书密钥文件"
+
+#: src/tree_structure.ycp:457
+msgid "A common server certificate is not available."
+msgstr "缺少通用服务器证书。"
+
+#. file selection headline
+#: src/tree_structure.ycp:474
+msgid "Select Certificate File"
+msgstr "选择证书文件"
+
+#. file selection headline
+#: src/tree_structure.ycp:480
+msgid "Select Certificate Key File"
+msgstr "选择证书密钥文件"
+
+#: src/tree_structure.ycp:600
+msgid "Cannot delete Frontend database"
+msgstr "无法删除前端数据库"
+
+#: src/tree_structure.ycp:604
+msgid "Cannot delete Config database"
+msgstr "无法删除配置数据库"
+
+#: src/tree_structure.ycp:608
+msgid "Do you really want to delete the database?"
+msgstr "是否确实要删除此数据库？"
+
+#. Error Popup
+#: src/tree_structure.ycp:634 src/tree_structure.ycp:732
+msgid "Unable to write settings for the current database."
+msgstr "无法写入当前数据库的设置。"
+
+#: src/tree_structure.ycp:669 src/tree_structure.ycp:788
+msgid "Unable to read settings for the current database."
+msgstr "无法读取当前数据库的设置。"
+
+#: src/tree_structure.ycp:800 src/tree_structure.ycp:844 src/widgets.ycp:322
+msgid "New Administrator &Password"
+msgstr "新管理员密码"
+
+#: src/tree_structure.ycp:804 src/tree_structure.ycp:848 src/widgets.ycp:326
+msgid "Password &Encryption"
+msgstr "口令加密(&E)"
+
+#: src/tree_structure.ycp:855 src/widgets.ycp:285
+msgid "Change Administration Password"
+msgstr "变更管理员密码"
+
+#: src/tree_structure.ycp:1028
+msgid "Multiple Replication Consumers not supported currently"
+msgstr "目前不支持多个应答客户端"
+
+#. Tree item
+#: src/tree_structure.ycp:1149
+msgid "Global Settings"
+msgstr "全局设置"
+
+#. Tree item
+#: src/tree_structure.ycp:1154
+msgid "Schema Files"
+msgstr "纲要文件"
+
+#. Tree item
+#: src/tree_structure.ycp:1162
+msgid "Log Level Settings"
+msgstr "日志级别设置"
+
+#. Tree item
+#: src/tree_structure.ycp:1170
+msgid "Allow/Disallow Features"
+msgstr "允许/禁止功能"
+
+#. Tree item
+#: src/tree_structure.ycp:1178 src/widgets.ycp:138
+msgid "TLS Settings"
+msgstr "TLS 设置"
+
+#. Tree item
+#: src/tree_structure.ycp:1187
+msgid "Databases"
+msgstr "数据库"
+
+#: src/tree_structure.ycp:1190
+msgid "Suffix DN"
+msgstr "后缀判别名"
+
+#: src/tree_structure.ycp:1213
+msgid "Index Configuration"
+msgstr "索引配置"
+
+#: src/tree_structure.ycp:1221
+msgid "Password Policy Configuration"
+msgstr "口令策略配置"
+
+#: src/tree_structure.ycp:1230
+msgid "Access Control Configuration"
+msgstr "访问控制配置"
+
+#: src/tree_structure.ycp:1239
+msgid "Replication Provider"
+msgstr "应答提供商"
+
+#: src/tree_structure.ycp:1248
+msgid "Replication Consumer"
+msgstr "应答客户端"
+
+#: src/widgets.ycp:47
+msgid "Protocol Listeners"
+msgstr "协议监听器"
+
+#: src/widgets.ycp:51
+msgid "LDAP"
+msgstr "轻量目录访问协议"
+
+#: src/widgets.ycp:58
+msgid "LDAP over SSL (ldaps)"
+msgstr "安全套接字层的轻量目录访问协议 (ldaps)"
+
+#: src/widgets.ycp:65
+msgid "LDAP over IPC (ldapi)"
+msgstr "进程间通讯中的轻量目录访问协议 (ldapi)"
+
+#: src/widgets.ycp:88
+msgid "Included &Schema Files"
+msgstr "已包含的纲要文件(&S)"
+
+#: src/widgets.ycp:97
+msgid "Select &Log Level Flags:"
+msgstr "选择日志级别参数(&L)："
+
+#: src/widgets.ycp:98
+msgid "Trace Function Calls"
+msgstr "跟踪函数调用"
+
+#: src/widgets.ycp:99
+msgid "Debug Packet Handling"
+msgstr "调试数据包处理"
+
+#: src/widgets.ycp:100
+msgid "Heavy Trace Debugging (function args)"
+msgstr "高度跟踪调试 (函数参数)"
+
+#: src/widgets.ycp:101
+msgid "Connection Management"
+msgstr "连接管理"
+
+#: src/widgets.ycp:102
+msgid "Print Packets Sent and Received"
+msgstr "打印已发送和接收的数据包"
+
+#: src/widgets.ycp:103
+msgid "Search Filter Processing"
+msgstr "搜索过滤器处理中"
+
+#: src/widgets.ycp:104
+msgid "Configuration File Processing"
+msgstr "配置文件处理中"
+
+#: src/widgets.ycp:105
+msgid "Access Control List Processing"
+msgstr "访问控制列表处理中"
+
+#: src/widgets.ycp:106
+msgid "Log Connections, Operations, and Result"
+msgstr "日志连接、操作和结果"
+
+#: src/widgets.ycp:107
+msgid "Log Entries Sent"
+msgstr "已发送的日志条目"
+
+#: src/widgets.ycp:108
+msgid "Print Communication with Shell Back-Ends"
+msgstr "打印与命令行后端的通讯"
+
+#: src/widgets.ycp:109
+msgid "Entry Parsing"
+msgstr "条目解析中"
+
+#: src/widgets.ycp:110
+msgid "LDAPSync Replication"
+msgstr "LDAPSync 应答"
+
+#: src/widgets.ycp:111
+msgid "None"
+msgstr "无"
+
+#: src/widgets.ycp:118
+msgid "Select &Allow Flags:"
+msgstr "选择允许参数(&A)："
+
+#: src/widgets.ycp:119
+msgid "LDAPv2 Bind Requests"
+msgstr "LDAPv2 连接请求"
+
+#: src/widgets.ycp:120
+msgid "Anonymous Bind when Credentials Not Empty"
+msgstr "当身份凭证非空时匿名连接"
+
+#: src/widgets.ycp:121
+msgid "Unauthenticated Bind when DN Not Empty"
+msgstr "判别名非空时未验证的连接"
+
+#: src/widgets.ycp:122
+msgid "Unauthenticated Update Operations to Process"
+msgstr "未验证的更新操作待进行"
+
+#: src/widgets.ycp:126
+msgid "Select &Disallow Flags:"
+msgstr "选择禁用参数：(&D)"
+
+#: src/widgets.ycp:127
+msgid "Disable acceptance of anonymous Bind Requests (does not prohibit anonymous directory access)"
+msgstr "禁用接受匿名连接请求 (不禁止匿名目录访问)"
+
+#: src/widgets.ycp:128
+msgid "Disable Simple Bind authentication"
+msgstr "禁用简单连接验证方式"
+
+#: src/widgets.ycp:129
+msgid "Disable forcing session to anonymous status upon StartTLS operation receipt"
+msgstr "禁用 StartTLS 操作接收时的会话强制匿名状态"
+
+#: src/widgets.ycp:130
+msgid "Disallow the StartTLS operation if authenticated"
+msgstr "验证后不允许 StartTLS 操作"
+
+#: src/widgets.ycp:141
+msgid "Basic Settings"
+msgstr "基本设置"
+
+#: src/widgets.ycp:145
+msgid "Enable TLS"
+msgstr "启用传输层安全 (TLS)"
+
+#: src/widgets.ycp:149
+msgid "Enable LDAP over SSL (ldaps) interface"
+msgstr "启用安全套接字层的轻量目录访问协议 (LDAP over SSL) 接口"
+
+#: src/widgets.ycp:153
+msgid "Use common Server Certificate"
+msgstr "使用通用服务器证书"
+
+#: src/widgets.ycp:162
+msgid "Import Certificate"
+msgstr "导入证书"
+
+#: src/widgets.ycp:178
+msgid "Certificate &File (PEM Format)"
+msgstr "证书文件(增强保密邮件 PEM 格式)(&F)"
+
+#: src/widgets.ycp:189
+msgid "Certificate &Key File (PEM Format - Unencrypted)"
+msgstr "证书密钥文件(增强保密邮件 PEM 格式 - 未加密)(&K)"
+
+#: src/widgets.ycp:192
+msgid "B&rowse..."
+msgstr "浏览(&R)..."
+
+#: src/widgets.ycp:201
+msgid "Launch CA Management Module"
+msgstr "启动 CA 管理模块"
+
+#: src/widgets.ycp:215
+msgid "Administrator DN"
+msgstr "管理员判别名"
+
+#: src/widgets.ycp:222
+msgid "Change Password"
+msgstr "变更密码"
+
+#: src/widgets.ycp:232
+msgid "Edit BDB Database"
+msgstr "编辑伯克利型数据库 (BDB)"
+
+#: src/widgets.ycp:240
+msgid "Entry Cache"
+msgstr "条目缓存"
+
+#: src/widgets.ycp:246
+msgid "Index Cache (IDL cache)"
+msgstr "索引缓存 (交互数据语言 IDL 缓存)"
+
+#: src/widgets.ycp:263
+msgid "kilobytes"
+msgstr "千字节"
+
+#: src/widgets.ycp:269
+msgid "minutes"
+msgstr "分钟"
+
+#: src/widgets.ycp:278
+msgid "Change Configuration Database Settings"
+msgstr "变更数据设置配置"
+
+#: src/widgets.ycp:281
+msgid "Allow Plaintext Authentication (Simple Bind) for this Database. "
+msgstr "允许对此数据库使用明文验证 (简单连接)。"
+
+#: src/widgets.ycp:282
+msgid "(Remote Connection needs to be encrypted)"
+msgstr "(远程连接需要加密)"
+
+#: src/widgets.ycp:292
+msgid "Edit Database"
+msgstr "编辑数据库"
+
+#: src/widgets.ycp:294
+msgid "Database type not currently supported."
+msgstr "目前不支持的数据库类型。"
+
+#: src/widgets.ycp:300
+msgid "Indexing Configuration"
+msgstr "索引配置"
+
+#: src/widgets.ycp:303
+msgid "Attribute"
+msgstr "属性"
+
+#: src/widgets.ycp:303 src/widgets.ycp:378
+msgid "Presence"
+msgstr "预留"
+
+#: src/widgets.ycp:303 src/widgets.ycp:381
+msgid "Equality"
+msgstr "平等"
+
+#: src/widgets.ycp:303 src/widgets.ycp:384
+msgid "Substring"
+msgstr "子字符串"
+
+#: src/widgets.ycp:321
+msgid "Change Administrator Password"
+msgstr "修改管理员密码"
+
+#: src/widgets.ycp:373
+msgid "Add Index"
+msgstr "添加索引"
+
+#, fuzzy
+#~ msgid "Password Policy settings"
+#~ msgstr "口令策略设置"
+
+#, fuzzy
+#~ msgid "CA Certificate File does not exist"
+#~ msgstr "CA 证书文件不存在。"
+
+#, fuzzy
+#~ msgid "Certificate Key File does not exist"
+#~ msgstr "证书密钥文件不存在。"
+
+#, fuzzy
+#~ msgid "Please enter a password"
+#~ msgstr "请输入关键字："
+
+#, fuzzy
+#~| msgid "Slave Server Setup"
+#~ msgid "Slave server setup"
+#~ msgstr "从属服务器设置"
+
+#, fuzzy
+#~ msgid ""
+#~ "<p><b><big>Saving LDAP Server Configuration</big></b><br>\n"
+#~ "Please wait...<br></p> "
+#~ msgstr ""
+#~ "<p><b><big>正在保存 LDAP 服务器配置</big></b><br>\n"
+#~ "请稍候... <br></p>\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "<p><b><big>Aborting Saving:</big></b><br>\n"
+#~ "Abort the save procedure by pressing <b>Abort</b>. An additional dialog informs whether it\n"
+#~ "is safe to do so.  </p> "
+#~ msgstr ""
+#~ "<p><b><big>正在中断保存：</big></b><br>\n"
+#~ "请点击<B>中断</B>, 以便中断保存过程.\n"
+#~ "一个附加对话框将告诉您这样做是否安全。</P>"
+
+#, fuzzy
+#~ msgid "Please select a valid CA Certificate File"
+#~ msgstr "选择 CA 证书文件"
+
+#, fuzzy
+#~ msgid "Database type"
+#~ msgstr "数据库路径"
+
+#~ msgid "Add"
+#~ msgstr "添加"
+
+#~ msgid "Delete"
+#~ msgstr "删除"
+
+#, fuzzy
+#~| msgid "Please select directory..."
+#~ msgid "Please select Server type"
+#~ msgstr "请选择目录..."
+
+#~ msgid "A&dd Database..."
+#~ msgstr "添加数据库(&D)..."
+
+#, fuzzy
+#~ msgid "Delete Database"
+#~ msgstr "数据库"
+
+#, fuzzy
+#~ msgid "Attrbute"
+#~ msgstr "特性"
+
+#, fuzzy
+#~ msgid "Syncprov settings"
+#~ msgstr "写入代理设置"
+
+#~ msgid "LDAP Server Configuration:"
+#~ msgstr "LDAP 服务器配置："
+
+#, fuzzy
+#~ msgid "Base DN \""
+#~ msgstr "基本 DN："
+
+#, fuzzy
+#~ msgid "Root DN \""
+#~ msgstr "根 DN："
+
+#, fuzzy
+#~ msgid "Please enter a password for the configuration user (cn=config)"
+#~ msgstr "选择其中之一进行配置。"
+
+#, fuzzy
+#~ msgid "New &Password"
+#~ msgstr "新密码(&N)"
+
+#, fuzzy
+#~ msgid "You have an existing configuration but the LDAP Server is not currently running."
+#~ msgstr "您的计算机被配置为 LDAP 客户端，而 LDAP 服务器不在本地。"
+
+#~ msgid "Delete a schema from the list"
+#~ msgstr "从列表删除所选纲要吗？"
+
+#~ msgid ""
+#~ "<p><b><big>Aborting Saving:</big></b><br>\n"
+#~ "Abort the save procedure by pressing <b>Abort</b>.\n"
+#~ "An additional dialog informs whether it is safe to do so.\n"
+#~ "</p>\n"
+#~ msgstr ""
+#~ "<p><b><big>中止保存：</big></b><br>\n"
+#~ "按<b>中止</b>，中止该保存过程。\n"
+#~ "另一个对话框将指示这样操作是否安全。\n"
+#~ "</p>\n"
+
+#~ msgid ""
+#~ "<p><b><big>LDAP Server Configuration Overview</big></b><br>\n"
+#~ "Obtain an overview of installed LDAP servers. Additionally\n"
+#~ "edit their configuration.<br></p>\n"
+#~ msgstr ""
+#~ "<p><b><big>LDAP 服务器配置概述</big></b><br>\n"
+#~ "获取已安装的 LDAP 服务器的概况。另外，\n"
+#~ "还可以编辑其配置。<br></p>\n"
+
+#~ msgid ""
+#~ "<p><b><big>Adding an LDAP Server:</big></b><br>\n"
+#~ "Press <b>Add</b> to configure an LDAP server.</p>\n"
+#~ msgstr ""
+#~ "<p><b><big>添加 LDAP 服务器：</big></b><br>\n"
+#~ "按<b>添加</b>，配置 LDAP 服务器。</p>\n"
+
+#~ msgid ""
+#~ "<p><b><big>Editing or Deleting:</big></b><br>\n"
+#~ "Choose an LDAP server to change or remove.\n"
+#~ "Then press <b>Edit</b> or <b>Delete</b> as desired.</p>\n"
+#~ msgstr ""
+#~ "<p><b><big>编辑或删除：</big></b><br>\n"
+#~ "选择要更改或删除的 LDAP 服务器。\n"
+#~ "然后根据需要按<b>编辑</b>或<b>删除</b>。</p>\n"
+
+#~ msgid ""
+#~ "<p><b><big>Configuration Part One</big></b><br>\n"
+#~ "Press <b>Next</b>.\n"
+#~ "<br></p>\n"
+#~ msgstr ""
+#~ "<p><b><big>配置的第一部分</big></b><br>\n"
+#~ "按<b>下一步</b>。\n"
+#~ "<br></p>\n"
+
+#~ msgid ""
+#~ "<p><b><big>Selecting something:</big></b><br>\n"
+#~ "It is not possible, you must code it first :-)\n"
+#~ "</p>"
+#~ msgstr ""
+#~ "<p><b><big>选择某个对象：</big></b><br>\n"
+#~ "这是不可能的，您必须先对其进行编码 :-)\n"
+#~ "</p>"
+
+#~ msgid ""
+#~ "<p><b><big>Configuration Part Two</big></b><br>\n"
+#~ "Press <b>Next</b>.\n"
+#~ "<br></p>\n"
+#~ msgstr ""
+#~ "<p><b><big>配置的第二部分</big></b><br>\n"
+#~ "按<b>下一步</b>。\n"
+#~ "<br></p>\n"
+
+#~ msgid ""
+#~ "<p>Select a schema file in the list and press <b>Delete</b> to remove it from the\n"
+#~ "configuration file.</p>"
+#~ msgstr ""
+#~ "<p>从列表中选择一个纲要文件，然后按<b>删除</b>，将它从\n"
+#~ "配置文件中删除。</p>"
+
+#~ msgid ""
+#~ "<p>With the <b>Up</b> and <b>Down</b> buttons, change the position of the\n"
+#~ "selected schema file. Keep in mind that some schema files depend on others. An incorrect\n"
+#~ "order causes the LDAP server not to start.</p>\n"
+#~ msgstr ""
+#~ "<p>使用<b>向上</b>和<b>向下</b>按钮，更改\n"
+#~ "选定纲要文件的位置。切记，有些纲要文件要依赖于其它纲要文件。如果纲要文件的顺序不正确，\n"
+#~ "会导致 LDAP 服务器无法启动。</p>\n"
+
+#~ msgid "<p>Here, enable or disable a set of special features.</p>"
+#~ msgstr "<p>在此启用或禁用一组特殊的功能。</p>"
+
+#~ msgid "<p>If TLS is active, view the current settings here.</p>"
+#~ msgstr "<p>如果 TLS 处于活动状态，在此可查看当前设置。</p>"
+
+#~ msgid "<p>With <b>Select Certificate...</b>, configure new certificates for this service.</p>"
+#~ msgstr "<p>利用<b>选择证书...</b>，为该服务配置新证书。</p>"
+
+#~ msgid "<p>In this dialog, edit some parameters of this database.<p>"
+#~ msgstr "<p>在此对话框中，编辑该数据库的某些参数。<p>"
+
+#~ msgid "<p>With <b>Root DN</b>, change the DN for the administrator."
+#~ msgstr "<p>使用<b>根 DN</b>，更改管理员的 DN。"
+
+#~ msgid "<p>To change the password for the root account, enter a new one and select the <b>Encryption</b>.</p>"
+#~ msgstr "<p>要更改 root 帐户的密码，请输入新密码，然后选择<b>加密</b>。</p>"
+
+#~ msgid "<p>The password fields are initially empty, even if a password is already set in the configuration file.</p>"
+#~ msgstr "<p>密码字段最初是空的，即使已在配置文件中设置了密码。</p>"
+
+#, fuzzy
+#~ msgid "Proxy Cache"
+#~ msgstr "代理"
+
+#, fuzzy
+#~ msgid "ppolicy settings"
+#~ msgstr "显示设置"
+
+#~ msgid "Advanced Configuration"
+#~ msgstr "高级配置"
+
+#, fuzzy
+#~ msgid "Please enter a password for the Administrator user"
+#~ msgstr "输入 root 用户的口令(&E)："
+
+#~ msgid ""
+#~ "<p><b><big>LDAP Server Configuration</big></b><br>\n"
+#~ "Change the settings of the initial LDAP database here.</p>\n"
+#~ msgstr ""
+#~ "<p><b><big>LDAP 服务器配置</big></b><br>\n"
+#~ "在此更改初始 LDAP 数据库的设置。</p>\n"
+
+#~ msgid ""
+#~ "<p>The <b>Root Password</b> is initially set to the system root password\n"
+#~ "entered earlier in the installation process. Change it in the\n"
+#~ "edit fields. Change the password encryption method in the relevant field.</p>\n"
+#~ msgstr ""
+#~ "<p>该<b>根密码</b>最初被设置为\n"
+#~ "安装过程前期输入的系统根密码。请在\n"
+#~ "编辑字段中更改该密码。在相关字段中更改该密码的加密方法。</p>\n"
+
+#~ msgid ""
+#~ "<p>Checking the <b>Activate StartTLS</b> option enables the LDAP server to\n"
+#~ "process incoming StartTLS requests. This requires the common server certificate\n"
+#~ "that can be set up in the <b>CA Management</b> YaST module.</p>\n"
+#~ msgstr ""
+#~ "<p>选中<b>激活 StartTLS</b> 选项可以使 LDAP 服务器\n"
+#~ "处理进来的 StartTLS 请求。这就要求可以在\n"
+#~ "<b>CA 管理</b> YaST 模块中设置普通服务器证书。</p>\n"
+
+#~ msgid ""
+#~ "<p>If <b>Register at an SLP Daemon</b> is checked, the LDAP server tries\n"
+#~ "to find a running SLP daemon at which to register.</p>\n"
+#~ msgstr ""
+#~ "<p>如果选中<b>在 SLP 守护程序注册</b>，LDAP 服务器将尝试\n"
+#~ "查找正在运行的 SLP 守护程序，在该程序中进行注册。</p>\n"
+
+#~ msgid ""
+#~ "<p><b><big>LDAP Server Configuration</big></b><br>\n"
+#~ "Configure an LDAP server here.<br></p>\n"
+#~ msgstr ""
+#~ "<p><b><big>LDAP 服务器配置</big></b><br>\n"
+#~ "在此配置 LDAP 服务器。<br></p>\n"
+
+#~ msgid ""
+#~ "<p><b><big>Adding an LDAP Server:</big></b><br>\n"
+#~ "Choose an LDAP server from the list of detected LDAP servers.\n"
+#~ "If your LDAP server was not autodetected, use <b>Other (not detected)</b>.\n"
+#~ "Then press <b>Configure</b>.</p>\n"
+#~ msgstr ""
+#~ "<p><b><big>添加 LDAP 服务器：</big></b><br>\n"
+#~ "从检测到的 LDAP 服务器列表中选择一台 LDAP 服务器。\n"
+#~ "如果未自动检测您的 LDAP 服务器，请使用<b>其它(未检测)</b>。\n"
+#~ "然后按<b>配置</b>。</p>\n"
+
+#~ msgid ""
+#~ "<p><b><big>Editing or Deleting:</big></b><br>\n"
+#~ "If you press <b>Edit</b>, an additional dialog in which to change\n"
+#~ "the configuration opens.</p>\n"
+#~ msgstr ""
+#~ "<p><b><big>编辑或删除:</big></b><br>\n"
+#~ "如果您点击<b>编辑</b>, 将开启一个对话框,\n"
+#~ "在这个对话框里, 您可以更改您的设定.</p>\n"
+
+#~ msgid "<p>Click <b>Configure...</p> to configure the LDAP server.</p>"
+#~ msgstr "<p>单击<b>配置...</p>，配置该 LDAP 服务器。</p>"
+
+#~ msgid "Enable/disable the service"
+#~ msgstr "启用/禁用该服务"
+
+#~ msgid "Available Databases:"
+#~ msgstr "可用的数据库："
+
+#, fuzzy
+#~ msgid "Database is read-only"
+#~ msgstr "数据库目录(&D)"
+
+#, fuzzy
+#~ msgid "Enable Monitoring"
+#~ msgstr "监视"
+
+#, fuzzy
+#~ msgid "Edit Index Configuration"
+#~ msgstr "Xinetd 配置"
+
+#~ msgid "Invalid suffix."
+#~ msgstr "后缀无效。"
+
+#~ msgid "Invalid directory path."
+#~ msgstr "目录路径无效。"
+
+#~ msgid "Invalid password."
+#~ msgstr "密码无效。"
+
+#~ msgid "Read the database list"
+#~ msgstr "读取数据库列表"
+
+#~ msgid "Read the databases"
+#~ msgstr "读取数据库"
+
+#~ msgid "Read global options"
+#~ msgstr "读取全局选项"
+
+#~ msgid "Reading the database list..."
+#~ msgstr "正在读取数据库列表..."
+
+#~ msgid "Reading the databases..."
+#~ msgstr "正在读取数据库..."
+
+#~ msgid "Reading global options..."
+#~ msgstr "正在读取全局选项..."
+
+#~ msgid "Finished"
+#~ msgstr "已完成"
+
+#~ msgid "Cannot read the database list."
+#~ msgstr "无法读取数据库列表。"
+
+#~ msgid "Cannot read the database '%s'."
+#~ msgstr "无法读取数据库 '%s'。"
+
+#~ msgid "Cannot read the allow list."
+#~ msgstr "无法读取允许列表。"
+
+#~ msgid "Cannot read the log level."
+#~ msgstr "无法读取日志级别。"
+
+#~ msgid "Cannot read the schema include list."
+#~ msgstr "无法读取纲要包含列表。"
+
+#~ msgid "Cannot read the TLS settings."
+#~ msgstr "无法读取 TLS 设置。"
+
+#~ msgid "Write global settings"
+#~ msgstr "写入全局设置"
+
+#~ msgid "Add new databases"
+#~ msgstr "添加新数据库"
+
+#~ msgid "Edit databases"
+#~ msgstr "编辑数据库"
+
+#~ msgid "Cannot write 'allow list'."
+#~ msgstr "无法写入 'allow list'。"
+
+#~ msgid "Cannot write 'loglevel'."
+#~ msgstr "无法写入 'loglevel'。"
+
+#~ msgid "Cannot write schema include list."
+#~ msgstr "无法写入纲要包含列表。"
+
+#~ msgid "Cannot write to '/etc/sysconfig/openldap'."
+#~ msgstr "无法写入 '/etc/sysconfig/openldap'。"
+
+#~ msgid "Cannot write 'TLS Settings'."
+#~ msgstr "无法写入 'TLS Settings'。"
+
+#~ msgid "Cannot add new database '%s'."
+#~ msgstr "无法添加新的数据库 '%s'。"
+
+#~ msgid "Cannot write the database '%s'."
+#~ msgstr "无法写入数据库 '%s'。"
+
+#~ msgid "Check password policy objects"
+#~ msgstr "检查口令策略对象"
+
+#~ msgid ""
+#~ "The default password policy object for\n"
+#~ "'%s' does not exist.\n"
+#~ "\n"
+#~ "Create that object now?\n"
+#~ msgstr ""
+#~ "“%s”的默认口令策略对象\n"
+#~ "不存在。\n"
+#~ "\n"
+#~ " 立即创建该对象吗？\n"
+
+#~ msgid "LDAP Server to Configure"
+#~ msgstr "要配置的 LDAP 服务器"
+
+#~ msgid "Number"
+#~ msgstr "编号"
+
+#~ msgid "&Configure..."
+#~ msgstr "配置(&C)..."
+
+#~ msgid "OpenLDAP Server Settings"
+#~ msgstr "OpenLDAP 服务器设置"
+
+#~ msgid "LDAP &Password"
+#~ msgstr "LDAP 密码(&P)"
+
+#~ msgid "&Encryption"
+#~ msgstr "加密(&E)"
+
+#~ msgid "Activate Start&TLS with Common Server Certificate"
+#~ msgstr "激活具有普通服务器证书的 StartTLS(&T)"
+
+#~ msgid ""
+#~ "Changing anything in this dialog disables the automatic\n"
+#~ "generation of base DN, root DN, and LDAP password.\n"
+#~ msgstr ""
+#~ "更改此对话框中的任何内容都将禁用\n"
+#~ "基本 DN、根 DN 和 LDAP 密码的自动生成功能。\n"
+
+#~ msgid ""
+#~ "No basedn provided or a database with the provided basedn does already \n"
+#~ "exist"
+#~ msgstr ""
+#~ "没有提供 basedn ，或一个数据库提供的 basedn 并不\n"
+#~ "存在"
+
+#~ msgid "The value for pos must be a positive integer."
+#~ msgstr "位置值必须为正整数。"
+
+#~ msgid "The file '%1' is not a schema file."
+#~ msgstr "文件 '%1' 不是纲要文件。"
+
+#~ msgid "Choose a certificate if you want to activate TLS."
+#~ msgstr "要激活 TLS，请选择一个证书。"
+
+#~ msgid "Current Configuration:"
+#~ msgstr "当前配置："
+
+#~ msgid "The following changes will be made:"
+#~ msgstr "将进行如下更改："
+
+#~ msgid "Configuring Common Server Certificate"
+#~ msgstr "正在配置普通服务器证书"
+
+#~ msgid "Importing the Following Certificates:"
+#~ msgstr "正在导入以下证书："
+
+#~ msgid "An internal error occurred. View the log file."
+#~ msgstr "发生内部错误。请查看日志文件。"
+
+#~ msgid "Dialog not found"
+#~ msgstr "未找到对话"
+
+#~ msgid "Server certificate file is required."
+#~ msgstr "服务器证书文件是必需的。"
+
+#~ msgid "Server key file is required."
+#~ msgstr "服务器密钥文件是必需的。"
+
+#~ msgid "Allow Settings"
+#~ msgstr "允许设置"
+
+#~ msgid "TLS Active"
+#~ msgstr "TLS 处于活动状态"
+
+#~ msgid "&Select Certificate..."
+#~ msgstr "选择证书(&S)..."
+
+#~ msgid "Select Type"
+#~ msgstr "选择类型"
+
+#~ msgid "&Import Certificates"
+#~ msgstr "导入证书(&I)"
+
+#~ msgid "Add Database"
+#~ msgstr "添加数据库"
+
+#~ msgid "basedn exists or not available"
+#~ msgstr "base不存在或不可用"

@@ -1,0 +1,168 @@
+# Chinese message file for YaST2 (@memory@)
+# Copyright (C) 2005 SUSE Linux Products GmbH.
+# Copyright (C) 2002 SuSE Linux AG.
+# Copyright (C) 2001 SuSE GmbH.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 13:31+0200\n"
+"PO-Revision-Date: 2004-04-02 10:52+0200\n"
+"Last-Translator: 裴寒牧 <phm@a2e.de>\n"
+"Language-Team: 中华 <nls-zh@suse.de>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Progress stage 1
+#: src/RDP.ycp:93
+msgid "Write firewall settings"
+msgstr "写入防火墙设置"
+
+#. Progress stage 2
+#: src/RDP.ycp:95
+#, fuzzy
+#| msgid "Configure Later"
+msgid "Configure xrdp"
+msgstr "稍后配置"
+
+#: src/RDP.ycp:101
+msgid "Restart the services"
+msgstr "重启动服务"
+
+#: src/RDP.ycp:104
+#, fuzzy
+#| msgid "Stop services"
+msgid "Stop the services"
+msgstr "停止服务"
+
+#: src/RDP.ycp:108
+msgid "Saving Remote Administration Configuration"
+msgstr "正在保存远程管理配置"
+
+#: src/RDP.ycp:113
+msgid "Writing firewall settings..."
+msgstr "正在写入防火墙设置..."
+
+#: src/RDP.ycp:119
+#, fuzzy
+#| msgid "Configuring hardware..."
+msgid "Configuring xrdp..."
+msgstr "正在配置硬件..."
+
+#: src/RDP.ycp:140
+msgid "Restarting the service..."
+msgstr "正在重启动服务..."
+
+#: src/RDP.ycp:145
+#, fuzzy
+#| msgid "Stopping services..."
+msgid "Stopping the service..."
+msgstr "正在停止服务..."
+
+#. Label in proposal text
+#: src/RDP.ycp:164
+msgid "Remote administration is enabled."
+msgstr "已启用远程管理。"
+
+#. Label in proposal text
+#: src/RDP.ycp:168
+msgid "Remote administration is disabled."
+msgstr "已禁用远程管理。"
+
+#. Ramote Administration dialog caption
+#: src/dialogs.ycp:29
+msgid "Remote Administration"
+msgstr "远程管理"
+
+#. RadioButton label
+#: src/dialogs.ycp:34
+msgid "&Allow Remote Administration"
+msgstr "允许远程管理(&A)"
+
+#. RadioButton label
+#: src/dialogs.ycp:36
+msgid "&Do Not Allow Remote Administration"
+msgstr "不允许远程管理(&D)"
+
+#: src/dialogs.ycp:48
+#, fuzzy, ycp-format
+#| msgid ""
+#| "<p>If this feature is enabled, you can\n"
+#| "administer this machine remotely from another machine. Use a VNC\n"
+#| "client, such as krdc (connect to <i>&lt;hostname&gt;:%1</i>), or\n"
+#| "a Java-capable web browser (connect to <i>http://&lt;hostname&gt;:%2/</i>).\n"
+#| "This form of remote administration is less secure than using SSH.</p>\n"
+msgid ""
+"<p><b><big>Remote Administration Settings</big></b></p>\n"
+"<p>If this feature is enabled, you can\n"
+"administer this machine remotely from another machine. Use a RDP\n"
+"client, such as rdesktop (connect to <tt>&lt;hostname&gt;:%1</tt>).\n"
+"This form of remote administration is less secure than using SSH.</p>\n"
+msgstr ""
+"<p>如果启用了此功能，则可以\n"
+"从另一台计算机远程管理这台计算机。使用一种 VNC\n"
+"客户程序，例如 krdc(连接到 <i>&lt;hostname&gt;:%1</i>)，或使用支持 Java 的\n"
+"万维网浏览器(连接到 <i>http://&lt;hostname&gt;:%2/</i>)。\n"
+"与使用 SSH 相比，这种形式的远程管理的安全性较差。</p>\n"
+
+#. Dialog frame title
+#: src/dialogs.ycp:61
+msgid "Remote Administration Settings"
+msgstr "远程管理设置"
+
+#. Dialog frame title
+#: src/dialogs.ycp:67
+msgid "Firewall Settings"
+msgstr "防火墙设置"
+
+#. Command line output Headline
+#: src/rdp.ycp:53
+msgid "Remote Access Configuration Summary:"
+msgstr "远程访问配置摘要："
+
+#. Command line error message
+#: src/rdp.ycp:70
+msgid ""
+"Please set 'yes' to allow the remote administration\n"
+"or 'no' to disallow it."
+msgstr ""
+"请设置为\"是\"，允许远程管理，\n"
+"或设置为\"否\"，不允许远程管理。"
+
+#. Commandline help title
+#: src/rdp.ycp:86
+msgid "Remote Access Configuration"
+msgstr "远程访问配置"
+
+#. Commandline command help
+#: src/rdp.ycp:94
+msgid "Display configuration summary"
+msgstr "显示配置摘要"
+
+#. Commandline command help
+#: src/rdp.ycp:99
+msgid "Allow remote access"
+msgstr "允许远程访问"
+
+#. Commandline command help
+#: src/rdp.ycp:110
+msgid "Set 'yes' to allow or 'no' to disallow the remote administration"
+msgstr "设置为\"是\"，允许远程管理，或为\"否\"，不允许远程管理"
+
+#. RichText label
+#: src/rdp_proposal.ycp:54
+#, fuzzy
+#| msgid "Remote Administration"
+msgid "RDP Remote Administration"
+msgstr "远程管理"
+
+#. Menu label
+#: src/rdp_proposal.ycp:56
+#, fuzzy
+#| msgid "Remote Administration"
+msgid "RDP &Remote Administration"
+msgstr "远程管理"
