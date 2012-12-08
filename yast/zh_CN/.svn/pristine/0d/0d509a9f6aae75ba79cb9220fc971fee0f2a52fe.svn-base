@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: security\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-24 13:23+0200\n"
-"PO-Revision-Date: 2012-12-08 22:15+0800\n"
-"Last-Translator: Marguerite Su\n"
+"PO-Revision-Date: 2012-11-20 23:31+0800\n"
+"Last-Translator: \n"
 "Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -44,9 +44,10 @@ msgstr "写入 PAM 设置"
 
 #. Progress stage 4/4
 #: src/Security.ycp:613
+#, fuzzy
 #| msgid "Save system settings"
 msgid "Update system settings"
-msgstr "更新系统设置"
+msgstr "保存系统设置"
 
 #. Progress step 1/5
 #: src/Security.ycp:616
@@ -65,9 +66,10 @@ msgstr "正在写入 PAM 设置..."
 
 #. Progress step 4/5
 #: src/Security.ycp:622
+#, fuzzy
 #| msgid "Saving system settings..."
 msgid "Updating system settings..."
-msgstr "正在更新系统设置..."
+msgstr "正在保存系统设置..."
 
 #. Progress step 5/5
 #: src/Security.ycp:624
@@ -93,7 +95,7 @@ msgstr "本地安全配置"
 #. RadioButton label
 #: src/complex.ycp:90
 msgid "&Custom Settings"
-msgstr "自定义设置 (&C)"
+msgstr "自定义设置(&C)"
 
 #. Frame caption
 #: src/complex.ycp:99
@@ -126,23 +128,23 @@ msgstr "使用安全文件权限"
 
 #: src/dialogs.ycp:89
 msgid "Remote access to the display manager"
-msgstr "对显示管理器的远程访问"
+msgstr "到显示管理器的远程访问"
 
 #: src/dialogs.ycp:90
 msgid "Use current directory in root's path"
-msgstr "在 root 用户的路径中使用当前文件夹"
+msgstr "在 root 用户路径中使用当前目录"
 
 #: src/dialogs.ycp:91
 msgid "Use current directory in path of regular users"
-msgstr "在常规用户的路径中使用当前文件夹"
+msgstr "在普通用户路径中使用当前目录"
 
 #: src/dialogs.ycp:92
 msgid "Write back system time to the hardware clock"
-msgstr "将系统时间写回硬件时钟"
+msgstr "将系统时间回写到硬件时钟"
 
 #: src/dialogs.ycp:93
 msgid "Always generate syslog message for cron scripts"
-msgstr "总是为 cron 脚本生成系统日志消息"
+msgstr "总是对 cron 脚本生成系统日志信息"
 
 #: src/dialogs.ycp:94
 msgid "Run the DHCP daemon in a chroot"
@@ -154,15 +156,15 @@ msgstr "以 dhcp 用户运行 DHCP 守护精灵"
 
 #: src/dialogs.ycp:96
 msgid "Remote root login in the display manager"
-msgstr "显示管理器中的远程 root 登录"
+msgstr "显示管理器的远程 root 登录"
 
 #: src/dialogs.ycp:97
 msgid "Remote access to the X server"
-msgstr "对 X 服务器的远程访问"
+msgstr "远程 X 服务器访问"
 
 #: src/dialogs.ycp:98
 msgid "Remote access to the email delivery subsystem"
-msgstr "对电邮投递子系统的远程访问"
+msgstr "到电子邮件发送子系统的远程访问"
 
 #: src/dialogs.ycp:99
 msgid "Restart services on update"
@@ -170,7 +172,7 @@ msgstr "更新时重启服务"
 
 #: src/dialogs.ycp:100
 msgid "Stop services on removal"
-msgstr "移除时停止服务"
+msgstr "删除时停止服务"
 
 #: src/dialogs.ycp:101
 msgid "Enable TCP syncookies"
@@ -189,16 +191,16 @@ msgid ""
 "Enable basic system services in runlevel 3\n"
 " (multiuser with network)"
 msgstr ""
-"在运行级别 3 (带网络的多用户模式) 中\n"
-"启用基础系统服务"
+"在运行级别 3(带网络的多用户模式) 中\n"
+"启用基本的系统服务"
 
 #: src/dialogs.ycp:105
 msgid ""
 "Enable basic system services in runlevel 5\n"
 " (multiuser with network and graphical login)"
 msgstr ""
-"在运行级别 5 (带网络和图形登录的多用户模式) 中\n"
-"启用基础系统服务"
+"在运行级别 5(带网络和图形登录的多用户模式) 中\n"
+"启用基本的系统服务"
 
 #: src/dialogs.ycp:106
 msgid "Enable extra services in runlevel 3"
@@ -235,16 +237,16 @@ msgstr " 或 "
 #: src/dialogs.ycp:322
 #, ycp-format
 msgid "<P>These basic system services are not enabled in runlevel %1:<BR><B>%2</B></P>"
-msgstr "<P>这些基础系统服务没有在运行级别 %1 中启用：<BR><B>%2</B></P>"
+msgstr "<P>这些基本的系统服务没有在运行级别 %1 中启用：<BR><B>%2</B></P>"
 
 #: src/dialogs.ycp:326
 msgid "<P>All basic services are enabled.</P>"
-msgstr "<P>所有基础服务都已经启用。</P>"
+msgstr "<P>所有基本的服务都已经启用。</P>"
 
 #: src/dialogs.ycp:337
 #, ycp-format
 msgid "<P>These extra services are enabled in runlevel %1:<BR><B>%2</B></P>"
-msgstr "<P>在运行级别 %1 中启用了这些额外的服务：<BR><B>%2</B></P>"
+msgstr "<P>这些额外的服务在运行级别 %1 中启用：<BR><B>%2</B></P>"
 
 #: src/dialogs.ycp:338
 msgid "<P>Check the list of services and disable all unused services.</P>"
@@ -252,7 +254,7 @@ msgstr "<P>检查服务列表并禁用所有没有使用的服务。</P>"
 
 #: src/dialogs.ycp:342
 msgid "<P>Only basic system services are enabled.</P>"
-msgstr "<P>仅启用了基础系统服务。</P>"
+msgstr "<P>仅启用基本的系统服务。</P>"
 
 #: src/dialogs.ycp:348
 msgid "Description"
@@ -267,12 +269,12 @@ msgstr "安全概览"
 #. push button label
 #: src/dialogs.ycp:373
 msgid "Change &Status"
-msgstr "变更状态 (&S)"
+msgstr "更改状态(&S)"
 
 #. push button label
 #: src/dialogs.ycp:376
 msgid "&Description"
-msgstr "描述 (&D)"
+msgstr "描述(&D)"
 
 #. Boot dialog caption
 #: src/dialogs.ycp:532 src/wizards.ycp:51
@@ -309,7 +311,9 @@ msgstr "密码有效期"
 msgid ""
 "The minimum number of days cannot be larger\n"
 "than the maximum."
-msgstr "最小天数不能大于最大天数。"
+msgstr ""
+"最小天数不能超过\n"
+"最大天数。"
 
 #. Popup text, %1 is number
 #: src/dialogs.ycp:781
@@ -347,7 +351,7 @@ msgid ""
 "Safely abort the configuration utility by pressing <b>Abort</b> now.</p>"
 msgstr ""
 "<p><b><big>中止初始化</big></b><br>\n"
-"立即按<b>中止</b>可以安全地中止配置工具。</p>"
+"可以按<b>中止</b>立即安全地中止配置工具。</p>"
 
 #. Write dialog help 1/2
 #: src/helps.ycp:52
@@ -365,7 +369,7 @@ msgid ""
 "Abort the save procedure by pressing <b>Abort</b>.</p>"
 msgstr ""
 "<p><b><big>中止保存</big></b><br>\n"
-"按<b>中止</b>可以中止保存过程。</p>"
+"按<b>中止</b>中止保存过程。</p>"
 
 #. Boot dialog help 1/4
 #: src/helps.ycp:61
@@ -374,7 +378,7 @@ msgid ""
 "<p>In this dialog, change various boot settings related to security.</p>"
 msgstr ""
 "<p><b><big>引导安全</big></b></p>\n"
-"<p>在此对话框中，变更和安全有关的多种引导设置。</p>"
+"<p>在此对话框中，更改和安全有关的多种引导设置。</p>"
 
 #. Boot dialog help 2/4
 #: src/helps.ycp:65
@@ -386,10 +390,10 @@ msgid ""
 "to ignore this event, for example, when the system serves as both\n"
 "workstation and server.</p>"
 msgstr ""
-"<p><b>对 Ctrl+Alt+Del 的响应</b>：\n"
+"<p><b>对 Ctrl+Alt+Del 的解释</b>：\n"
 "配置当某人在控制台上\n"
-"按下 CTRL+ALT+DEL 组合键\n"
-"时，系统应有的反应。通常系统会被重启。有时\n"
+"同时按下 CTRL+ALT+DEL 键\n"
+"时，系统应有的反应。通常系统会被重引导。有时\n"
 "需要忽略此事件，例如，\n"
 "当系统既是工作站又是服务器时。</p>"
 
@@ -400,7 +404,7 @@ msgid ""
 "Set who is allowed to shut down the machine from KDM.</p>\n"
 msgstr ""
 "<p><b>登录管理器的关机行为</b>：\n"
-"设置允许从 KDM 关闭计算机的用户。</p>\n"
+"设置允许哪些用户使用 KDM 关闭计算机。</p>\n"
 
 #. Boot dialog help 4/4
 #: src/helps.ycp:78
@@ -410,7 +414,7 @@ msgid ""
 "Other options are allowing the action to any user or requiring authentication in all cases.</p>\n"
 msgstr ""
 "<p><b>休眠系统</b>：\n"
-"设置允许用户休眠系统的条件。默认，活动控制台上的用户有权休眠系统。\n"
+"设置允许用户休眠系统的条件。默认，活动控制台的用户有权休眠系统。\n"
 "其他的选项是允许任何用户休眠系统或在所有情况下都要求认证。</p>\n"
 
 #. Main dialog help 1/8
@@ -423,9 +427,9 @@ msgid ""
 "</p>"
 msgstr ""
 "<P><BIG><B>配置本地安全</B></BIG></P>\n"
-"<p>使用预定义的默认值修改本地安全设置，包括\n"
+"<p>使用预定义的默认值更改本地安全设置，包括\n"
 "   引导、登录、密码、用户创建和文件权限。\n"
-"    可以根据需要修订默认设置。\n"
+"    可以根据需要修改默认设置。\n"
 "</p>"
 
 #. Main dialog help 5/8
@@ -434,8 +438,8 @@ msgid ""
 "<p><b>Home Workstation</b>: For a home computer not connected to\n"
 "any type of a network.</p>"
 msgstr ""
-"<p><b>家庭工作站</b>：适用于未连接到\n"
-"任何类型的网络的家庭计算机。</p>"
+"<p><b>家庭工作站</b>：对于未连接到\n"
+"任何网络的家庭计算机。</p>"
 
 #. Main dialog help 6/8
 #: src/helps.ycp:96
@@ -443,7 +447,7 @@ msgid ""
 "<p><b>Networked Workstation</b>: For a computer connected\n"
 "to any type of network including the Internet.</p>"
 msgstr ""
-"<p><b>联网工作站</b>：适用于连接到任意类型的网络 (包括因特网)\n"
+"<p><b>联网的工作站</b>：对于连接到任何网络(包括因特网)\n"
 "的计算机。</p>"
 
 #. Main dialog help 7/8
@@ -452,13 +456,13 @@ msgid ""
 "<p><b>Network Server</b>: For a computer that provides\n"
 "any type of service.</p>"
 msgstr ""
-"<p><b>网络服务器</b>：适用于提供\n"
-"任意类型的服务的计算机。</p>"
+"<p><b>网络服务器</b>：对于提供\n"
+"任何类型的服务的计算机。</p>"
 
 #. Main dialog help 8/8
 #: src/helps.ycp:104
 msgid "<p><b>Custom Settings</b>: Create your own configuration.</p>"
-msgstr "<p><b>自定义设置</b>：创建您自己的配置。</p>"
+msgstr "<p><b>自定义设置</b>：创建自己的配置。</p>"
 
 #. Login dialog help 1/4
 #: src/helps.ycp:108
@@ -493,8 +497,8 @@ msgid ""
 "</p>\n"
 msgstr ""
 "<p><b>记录成功登录尝试：</b>将成功登录尝试记入日志\n"
-"很有用。如果发生对系统未授权的访问 (例如，某个用户\n"
-"从与平时不同的位置登录)，该功能可以向您发出警告。\n"
+"很有用。如果发生对系统未授权的访问(例如，某个用户\n"
+"从与平时不同的位置登录)，此功能可以向您发出警告。\n"
 "</p>\n"
 
 #. Login dialog help 4/4
@@ -504,9 +508,9 @@ msgid ""
 "to a graphical login screen for this machine over the network. Remote access\n"
 "to your machine using a display manager might be a security risk.</p>"
 msgstr ""
-"<p><b>允许远程图形登录：</b>选择该选项将允许通过网络访问本计算机的\n"
-"图形登录屏幕。使用显示管理器远程访问\n"
-"您的计算机可能存在安全风险。</p>"
+"<p><b>允许远程图形登录：</b>选中此选项允许通过网络访问此计算机的\n"
+"图形登录屏幕。使用显示管理器对\n"
+"计算机进行远程访问可能存在安全风险。</p>"
 
 #. Password dialog help 1/8
 #: src/helps.ycp:132
@@ -525,8 +529,8 @@ msgid ""
 "By checking the box, enforce password checking in regard to these rules.</p>"
 msgstr ""
 "<p><b>检查新密码</b>：选择的密码最好\n"
-"无法在字典中找到，并且不是姓名或其它简单、常见的单词。\n"
-"选择该项，可以遵照这些规则执行密码检查。</p>"
+"在字典中找不到，不是名称或其它简单、常见的单词。\n"
+"选中此框，可以根据这些规则强制执行密码检查。</p>"
 
 #. Password dialog help
 #: src/helps.ycp:141
@@ -537,9 +541,10 @@ msgid ""
 "password. See man pam_cracklib for a more detailed explanation.\n"
 "This option can only be modified when <b>Check New Passwords</b> is set.</p>"
 msgstr ""
-"<p><b>最短可接受密码长度：</b>\n"
-"由新密码中使用的不同字符类别 (其他，大写，小写和数字) 数目简化出的新密码的最小可接受长度。\n"
-"详细解释请见 man pam_cracklib。只有在设置了 <b>检查新密码</b> 后才能修改该选项。</p>"
+"<p><b>密码的最小可接受长度：</b>\n"
+"由用在新密码中的不同字符类 (其他，大些，小写和数字) 数简化出的新密码的最小可接受长度。\n"
+"详细解释请见 man pam_cracklib。\n"
+"当设置了 <b>检查新密码</b> 后才能修改此选项。</p>"
 
 #. Password dialog help 4/8
 #: src/helps.ycp:148
@@ -549,8 +554,8 @@ msgid ""
 "Enter 0 if passwords should not be stored.</p>"
 msgstr ""
 "<p><b>要记忆的密码的数目</b>：\n"
-"输入要存储的用户密码的数目，并防止用户重复使用。\n"
-"若无须存储密码，请输入 0。</p>"
+"输入要保存的用户密码的数目，防止用户重复使用。\n"
+"若不要保存密码，请输入 0。</p>"
 
 #. Password dialog help 5a/8
 #: src/helps.ycp:153
@@ -565,8 +570,8 @@ msgid ""
 "compatibility with other systems, use this method.</p>"
 msgstr ""
 "<p><b>DES</b>，Linux 默认方法，适用于所有网络环境，\n"
-"但它限制密码长度不能超过 8 个字符。\n"
-"如果您需要与其它系统兼容，请使用本方法。</p>"
+"但它限制密码长度不超过 8 个字符。如果您需要与\n"
+"其它系统兼容，请使用此方法。</p>"
 
 #. Password dialog help 5c/8
 #: src/helps.ycp:161
@@ -574,20 +579,22 @@ msgid ""
 "<p><b>MD5</b> allows longer passwords and is supported by all current Linux \n"
 "distributions, but not by other systems or old software.</p>"
 msgstr ""
-"<p><b>MD5</b> 允许采用较长的密码，并且被当今所有 Linux 发行版支持，\n"
-"但其它系统或旧软件不支持该方法。</p>"
+"<p><b>MD5</b> 允许采用较长的密码，并且\n"
+"所有当前 Linux 版本都支持此方法，但其它系统或以前的软件不支持此方法。</p>"
 
 #. Password dialog help 5d/8
 #: src/helps.ycp:165
 msgid "<p><b>SHA-512</b> is the current standard hash method, using other algorithms is not recommended unless needed for compatibility purpose.</p>"
-msgstr "<p><b>SHA-512</B> 是当前标准加密方法，不推荐使用其他算法，除非是出于兼容性需要。</p>"
+msgstr "<p><b>SHA-512</B> 是当前标准加密方法，不推荐使用其他算法，除非是为了兼容考虑。</p>"
 
 #. Password dialog help 7/8
 #: src/helps.ycp:170
 msgid ""
 "<p><b>Password Age:</b> Set the minimum and\n"
 "maximum number of days a password may be used.</p>"
-msgstr "<p><b>密码有效期：</b>设置密码可以使用的最小和最大天数。</p>"
+msgstr ""
+"<p><b>密码有效期：</b>设置密码可以使用的最小和\n"
+"最大天数。</p>"
 
 #. Password dialog help 8/8
 #: src/helps.ycp:174
@@ -596,8 +603,9 @@ msgid ""
 "number of days users are warned before their passwords expire. The longer the\n"
 "time, the less likely it is that someone can guess passwords.</p>"
 msgstr ""
-"<p><b>提前发出密码失效警告的天数</b>：该项设置在密码失效前多少天\n"
-"向用户发出警告。设置的时间越长，他人猜到密码的可能性就越小。</p>"
+"<p><b>密码失效前多少天发出警告</b>：此项设置在密码失效前多少天\n"
+"向用户发出警告。设置的时间越长，\n"
+"用户猜到密码的可能性就越小。</p>"
 
 #. Adduser dialog help 1/2
 #: src/helps.ycp:180
@@ -606,7 +614,7 @@ msgid ""
 "<p>In this dialog, change various settings used to create users.</p>"
 msgstr ""
 "<p><big><b>用户安全</b></big></P>\n"
-"<p>在此对话框中变更用于创建用户的多种设置。</p>"
+"<p>在此对话框中，更改用于创建用户的多种设置。</p>"
 
 #. Adduser dialog help 2/3
 #: src/helps.ycp:184
@@ -633,7 +641,7 @@ msgid ""
 "<p>In this dialog, change miscellaneous settings related to local security.</p>"
 msgstr ""
 "<p><big><b>其它安全设置</b></big></P>\n"
-"<p>在此对话框中变更和本地安全有关的杂项设置。</p>"
+"<p>在此对话框中，更改和本地安全有关的杂项设置。</p>"
 
 #. Misc dialog help 2/14
 #: src/helps.ycp:197
@@ -674,11 +682,11 @@ msgid ""
 "program \"locate\".  Here, set the user that runs this command: <b>nobody</b>\n"
 "    (few files) or <b>root</b> (all files).</p>"
 msgstr ""
-"<p><b>运行 updatedb 的用户</b>：Updatedb 程序每天\n"
-"运行一次。它会扫描整个文件系统并创建一个数据库 (locatedb)，\n"
-"该数据库存储了每个文件的位置。可以使用程序 \"locate\"\n"
-"搜索数据库。在此可以设置运行该命令的用户：\n"
-"<b>没有人</b> (少数文件) 或 <b>root 用户</b> (所有文件)。</p>"
+"<p><b>用户起动 updatedb</b>：Updatedb 程序每天\n"
+"运行一次。它将扫描整个文件系统并创建数据库 (locatedb)，\n"
+"数据库存储了每个文件的位置。可以通过程序\"locate\"\n"
+"搜索数据库。在此，设置运行该命令的用户：<b>无人</b>\n"
+"   (少数文件)或 <b>root 用户</b>(所有文件)。</p>"
 
 #. Misc dialog help 10/14
 #: src/helps.ycp:220
@@ -688,9 +696,10 @@ msgid ""
 "directory then in the current path variable. In contrast, a UNIX-like system\n"
 "searches for them exclusively via the search path (variable PATH).</p>"
 msgstr ""
-"<p><b>Root 用户路径中的当前文件夹</b>DOS 系统会先"
-"在当前文件夹中搜索可执行文件 (程序)，然后再在当前路径变量中搜索。\n"
-"与此相反，类 UNIX 系统只通过搜索路径 (变量 PATH) 搜索可执行文件。</p>"
+"<p><b>Root 用户路径中的当前目录</b>在 DOS 系统中，\n"
+"系统首先在当前目录中搜索可执行文件(程序)，\n"
+"然后在当前路径变量中搜索。与此相反，类似于 UNIX 的系统\n"
+"只通过搜索路径(变量 PATH)搜索它们。</p>"
 
 #. Misc dialog help 11/14
 #: src/helps.ycp:226
@@ -700,9 +709,10 @@ msgid ""
 "then in the current path variable. In contrast, a UNIX-like system searches\n"
 "for them exclusively via the search path (variable PATH).</p>"
 msgstr ""
-"<p><b>普通用户路径中的当前文件夹</b><br>DOS 系统会先"
-"在当前文件夹中搜索可执行文件 (程序)，然后再在当前路径变量中搜索。\n"
-"与此相反，类 UNIX 系统只通过搜索路径 (变量 PATH) 搜索可执行文件。</p>"
+"<p><b>普通用户路径中的当前目录</b><br>DOS 系统首先在当前目录中\n"
+"搜索可执行文件(程序)，\n"
+"然后在当前路径变量中搜索。与此相反，类似于 UNIX 的系统\n"
+"只通过搜索路径(变量 PATH)搜索它们。</p>"
 
 #. Misc dialog help 12/14
 #. Reused from the help text (misc dialog)
@@ -715,12 +725,12 @@ msgid ""
 "executing <i>Trojan Horses</i>, which exploit this weakness and invade your system,\n"
 "is rather easy if you set this option.</p>"
 msgstr ""
-"<p>有些系统设置了一个将点 (\".\") 添加到搜索路径中\n"
-"的权变措施来查找并执行在当前路径下的文件。\n"
-"这种方法非常危险，因为您可能会意外启动当前文件夹中\n"
-"的未知程序而不是通常的系统级别的文件。您设置该选项\n"
-"的后果就是您更容易执行<i>特洛伊木马</i>，\n"
-"而它会利用这个弱点来入侵您的系统。</p>"
+"<p>某些系统将点(\".\")添加到搜索路径中\n"
+"来设置\"工作区\"，这样就可以找到并执行在当前路径中的文件。\n"
+"这种方法非常危险，原因是您可能在当前目录中\n"
+"意外起动未知程序而不是通常的系统级文件。如果您设置了此选项，\n"
+"执行<i>特洛伊木马</i>就相当容易，\n"
+"特洛伊木马将利用这个弱点来侵入您的系统。</p>"
 
 #. Misc dialog help 13/14
 #: src/helps.ycp:240
@@ -728,7 +738,7 @@ msgid ""
 "<p>\"yes\": the dot (\".\") is attached to the end of the search\n"
 "path of root, making it the last to be searched.</p>"
 msgstr ""
-"<p>\"是\"：将点 (\".\") 附加到\n"
+"<p>\"是\"：将点(\".\")附加到\n"
 "root 用户的搜索路径的末尾，使其成为最后搜索的位置。</p>"
 
 #. Misc dialog help 14/14
@@ -737,8 +747,8 @@ msgid ""
 "<p>\"no\": the user root always must launch programs in the\n"
 "current directory prefixed with a \"./\". Example: \"./configure\".</p>"
 msgstr ""
-"<p>\"否\"：root 用户必须始终使用 \"./\" 前缀启动当前文件夹中\n"
-"的程序。例如，\"./configure\"。</p>"
+"<p>\"否\"：root 用户必须始终起动当前目录中\n"
+"名称具有前缀\"./\"的程序。例如，\"./configure\"。</p>"
 
 #. Misc dialog help 14/14
 #: src/helps.ycp:248
@@ -747,29 +757,29 @@ msgid ""
 "will have some control over the system even if it crashes (for example, during kernel\n"
 "debugging). For details, see /usr/src/linux/Documentation/sysrq.txt</p>"
 msgstr ""
-"<p><b>启用 Magic SysRq 键</b><br>如果选中该选项，\n"
-"即使在系统崩溃 (例如在内核调试过程中) 时，您依然可以拥有一些系统控制权。\n"
-"细节请参考 /usr/src/linux/Documentation/sysrq.txt</p>"
+"<p><b>启用 Magic SysRq 键</b><br>如果选中此选项，\n"
+"则可以对系统施加某些控制，\n"
+"即使是在系统崩溃(例如在内核调试过程中)时。有关细节，请参见 /usr/src/linux/Documentation/sysrq.txt</p>"
 
 #. help text: security overview dialog 1/
 #: src/helps.ycp:254
 msgid "<P><B>Security Overview</B><BR>This overview shows the most important security settings.</P>"
-msgstr "<P><B>安全概览</B><BR>这概览显示了最重要的安全设置。</P>"
+msgstr "<P><B>安全概览</B><BR>这是最重要安全设置的概览。</P>"
 
 #. help text: security overview dialog 1/
 #: src/helps.ycp:256
 msgid "<P>To change the current value, click the link associated to the option.</P>"
-msgstr "<P>点击和选项关联的链接可以修改选项的当前值。</P>"
+msgstr "<P>改变现有值可点击和选项关联的链接。</P>"
 
 #. help text: security overview dialog 1/
 #: src/helps.ycp:258
 msgid "<P> A check mark in the <B>Security Status</B> column means that the current value of the option is secure.</P>"
-msgstr "<P><B>安全状态</B>栏中的对钩表示选项的当前值是安全的。</P>"
+msgstr "<P><B>安全状态</B>栏中的对钩表示目前选项的值是安全的。</P>"
 
 #. an error message (rich text)
 #: src/helps.ycp:261
 msgid "<P><B>The current value could not be read. The service is probably not installed or the option is missing on the system.</B></P>"
-msgstr "<P><B>无法读取当前值。可能没有安装服务，或系统中缺少选项。</B></P>"
+msgstr "<P><B>无法读取现有值。可能没有安装此服务，或系统中缺少选项。</B></P>"
 
 #: src/helps.ycp:267
 msgid ""
@@ -859,15 +869,15 @@ msgstr "<P>IP 转发意味着传递收到的但不是指向系统配置的网络
 
 #: src/helps.ycp:289
 msgid "<P>This setting applies to <EM>IPv4</EM> only.</P>"
-msgstr "<P>此设置仅针对 <EM>IPv4</EM>。</P>"
+msgstr "<P>此设定仅应用于<EM>IPv4</EM>。</P>"
 
 #: src/helps.ycp:291
 msgid "<P>This setting applies to <EM>IPv6</EM> only.</P>"
-msgstr "<P>此设置仅针对 <EM>IPv6</EM>。</P>"
+msgstr "<P>此设定仅应用于<EM>IPv6</EM>。</P>"
 
 #: src/helps.ycp:293
 msgid "<P>Magic SysRq Keys enable some control over the system even if it crashes (e.g. during kernel debugging) or if the system does not respond.</P>"
-msgstr "<P>Magic SysRq 键使得即使系统崩溃 (例如内核调试过程时) 或失去响应时也能部分控制系统。</P>"
+msgstr "<P>Magic SysRq 键可以对系统施加某些控制，哪怕是在系统崩溃（例如在内核调试过程中）或者系统失去响应的时候。</P>"
 
 #: src/helps.ycp:295
 msgid "<P>There are predefined file permissions in /etc/permissions.* files. The most restrictive file permissions are defined 'secure' or 'paranoid' file.</P>"
@@ -875,23 +885,23 @@ msgstr "<P>/etc/permissions.*files 中预定义了文件权限。最严格的文
 
 #: src/helps.ycp:297 src/helps.ycp:308
 msgid "<P>By default the current working directory is not used when searching for executables.</P>"
-msgstr "<P>默认情况下，搜索可执行文件时不会使用当前所在文件夹。</P>"
+msgstr "<P>默认搜索可执行文件时不会使用当前工作目录。</P>"
 
 #: src/helps.ycp:306
 msgid "This setting applies for <EM>root</EM> user and system users."
-msgstr "此设置针对 <EM>root</EM> 和系统用户。"
+msgstr "此设置针对 <EM>root</EM> 和系统用户"
 
 #: src/helps.ycp:316
 msgid "This setting applies for regular users."
-msgstr "此设置针对常规用户。"
+msgstr "此设置针对普通用户。"
 
 #: src/helps.ycp:318 src/helps.ycp:319
 msgid "<P>Basic system services must be enabled to provide system consistency and to run the security-related services.</P>"
-msgstr "<P>必须启用基础系统服务以提供系统一致性和运行安全相关服务。</P>"
+msgstr "<P>基础系统服务必须启用以提供系统一致性和运行安全相关服务。</P>"
 
 #: src/helps.ycp:320 src/helps.ycp:321
 msgid "<P>Every running service is a potential target of a security attack. Therefore it is recommended to turn off all services which are not used by the system.</P>"
-msgstr "<P>每个运行状态的服务都是安全攻击的潜在目标。因此建议关闭所有系统未使用的服务。</P>"
+msgstr "<P>每个运行中的服务都是安全攻击的可能目标。因此建议关闭所有系统未使用的服务。</P>"
 
 #. level name
 #: src/levels.ycp:56
@@ -901,7 +911,7 @@ msgstr "家庭工作站"
 #. level name
 #: src/levels.ycp:58
 msgid "Networked Workstation"
-msgstr "联网工作站"
+msgstr "联网的工作站"
 
 #. level name
 #: src/levels.ycp:60
@@ -911,17 +921,17 @@ msgstr "网络服务器"
 #. RadioButton label
 #: src/levels.ycp:65
 msgid "&Home Workstation"
-msgstr "家庭工作站 (&H)"
+msgstr "家庭工作站(&H)"
 
 #. RadioButton label
 #: src/levels.ycp:67
 msgid "N&etworked Workstation"
-msgstr "联网工作站 (&E)"
+msgstr "联网的工作站(&E)"
 
 #. RadioButton label
 #: src/levels.ycp:69
 msgid "Network &Server"
-msgstr "网络服务器 (&S)"
+msgstr "网络服务器(&S)"
 
 #. error message
 #: src/security.ycp:129
@@ -951,17 +961,17 @@ msgstr "设置特定选项的值"
 #. command line help text for 'level home' option
 #: src/security.ycp:168
 msgid "Home Workstation security level (without network)"
-msgstr "家庭工作站安全级别 (未联网)"
+msgstr "家庭工作站安全级别(未联网)"
 
 #. command line help text for 'level network' option
 #: src/security.ycp:172
 msgid "Networked Workstation security level"
-msgstr "联网工作站安全级别"
+msgstr "联网的工作站安全级别"
 
 #. command line help text for 'level server' option
 #: src/security.ycp:176
 msgid "Network Server security level"
-msgstr "网络服务器安全级别"
+msgstr "联网服务器安全级别"
 
 #. command line help text for 'set passwd' option
 #: src/security.ycp:180
@@ -1008,12 +1018,14 @@ msgstr "最小用户 ID 不能大于最大用户 ID。"
 msgid ""
 "The minimum group ID cannot be larger than the\n"
 "maximum."
-msgstr "最小组 ID 不能大于最大组 ID。"
+msgstr ""
+"最小组 ID 不能大于\n"
+"最大组 ID。"
 
 #. ComboBox label
 #: src/widgets.ycp:97
 msgid "&Interpretation of Ctrl + Alt + Del"
-msgstr "对 Ctrl+Alt+Del 的解释 (&I)"
+msgstr "对 Ctrl+Alt+Del 的解释(&I)"
 
 #. ComboBox value
 #: src/widgets.ycp:100
@@ -1023,7 +1035,7 @@ msgstr "忽略"
 #. ComboBox value
 #: src/widgets.ycp:102
 msgid "Reboot"
-msgstr "重启"
+msgstr "重引导"
 
 #. ComboBox value
 #: src/widgets.ycp:104
@@ -1033,22 +1045,22 @@ msgstr "挂起"
 #. CheckBox label
 #: src/widgets.ycp:112
 msgid "&Current Directory in root's Path"
-msgstr "root 用户路径中的当前目录 (&C)"
+msgstr "root 用户路径中的当前目录(&C)"
 
 #. CheckBox label
 #: src/widgets.ycp:119
 msgid "Curr&ent Directory in Path of Regular Users"
-msgstr "普通用户路径中的当前目录 (&E)"
+msgstr "普通用户路径中的当前目录(&E)"
 
 #. CheckBox label
 #: src/widgets.ycp:126
 msgid "Allow Remote &Graphical Login"
-msgstr "允许远程图形登录 (&G)"
+msgstr "允许远程图形登录(&G)"
 
 #. CheckBox label
 #: src/widgets.ycp:133
 msgid "&Magic SysRq Keys"
-msgstr "Magic SysRq 键 (&M)"
+msgstr "Magic SysRq 键(&M)"
 
 #. ComboBox value
 #: src/widgets.ycp:136
@@ -1063,22 +1075,22 @@ msgstr "启用所有功能"
 #. IntField label
 #: src/widgets.ycp:146
 msgid "&Delay after Incorrect Login Attempt"
-msgstr "不正确登录尝试后的延迟 (&D)"
+msgstr "不正确登录尝试后的延迟(&D)"
 
 #. IntField label
 #: src/widgets.ycp:153 src/widgets.ycp:226
 msgid "Maxim&um"
-msgstr "最大值 (&U)"
+msgstr "最大值(&U)"
 
 #. IntField label
 #: src/widgets.ycp:160 src/widgets.ycp:241
 msgid "M&inimum"
-msgstr "最小值 (&I)"
+msgstr "最小值(&I)"
 
 #. ComboBox label
 #: src/widgets.ycp:167
 msgid "&Shutdown Behaviour of KDM Login Manager:"
-msgstr "KDM 登录管理器的关机行为 (&S)："
+msgstr "KDM 登录管理器的关机行为(&S)："
 
 #. ComboBox value
 #: src/widgets.ycp:170
@@ -1093,7 +1105,7 @@ msgstr "所有用户"
 #. ComboBox value
 #: src/widgets.ycp:174
 msgid "Nobody"
-msgstr "没有人"
+msgstr "无人"
 
 #. ComboBox value
 #. ["local",_("Local Users")],
@@ -1115,52 +1127,52 @@ msgstr "活动控制台的用户"
 #. ComboBox value
 #: src/widgets.ycp:191
 msgid "Anyone can hibernate"
-msgstr "任何人都可以休眠"
+msgstr "每个人都可以休眠"
 
 #. ComboBox value
 #: src/widgets.ycp:193
 msgid "Authentication always required"
-msgstr "总是需要认证"
+msgstr "总是需要验证"
 
 #. CheckBox label
 #: src/widgets.ycp:201
 msgid "R&ecord Successful Login Attempts"
-msgstr "记录成功登录尝试 (&E)"
+msgstr "记录成功登录尝试(&E)"
 
 #. ComboBox label
 #: src/widgets.ycp:208
 msgid "P&assword Encryption Method"
-msgstr "密码加密方法 (&A)"
+msgstr "密码加密方法(&A)"
 
 #. CheckBox label
 #: src/widgets.ycp:218
 msgid "&Check New Passwords"
-msgstr "检查新密码 (&C)"
+msgstr "检查新密码(&C)"
 
 #. IntField label
 #: src/widgets.ycp:233
 msgid "Numb&er of Passwords to Remember"
-msgstr "要记忆的密码的数目 (&E)"
+msgstr "要记忆的密码的数目(&E)"
 
 #. IntField label
 #: src/widgets.ycp:248
 msgid "&Minimum Acceptable Password Length"
-msgstr "最小可接受密码长度 (&M)"
+msgstr "密码的最小可接受长度(&M)"
 
 #. IntField label
 #: src/widgets.ycp:255
 msgid "&Days before Password Expires Warning"
-msgstr "提前发出密码失效警告的天数 (&D)"
+msgstr "密码失效前多少天发出警告(&D)"
 
 #. ComboBox label
 #: src/widgets.ycp:262
 msgid "&File Permissions"
-msgstr "文件权限 (&F)"
+msgstr "文件权限(&F)"
 
 #. ComboBox value
 #: src/widgets.ycp:265
 msgid "Easy"
-msgstr "简单"
+msgstr "容易"
 
 #. ComboBox value
 #: src/widgets.ycp:267
@@ -1170,22 +1182,22 @@ msgstr "安全"
 #. ComboBox value
 #: src/widgets.ycp:269
 msgid "Paranoid"
-msgstr "极致"
+msgstr "非常安全"
 
 #. ComboBox label
 #: src/widgets.ycp:277
 msgid "&User Launching updatedb"
-msgstr "启动 updatedb 的用户 (&U)"
+msgstr "用户起动 updatedb(&U)"
 
 #. IntField label
 #: src/widgets.ycp:285
 msgid "Ma&ximum"
-msgstr "最大值 (&X)"
+msgstr "最大值(&X)"
 
 #. IntField label
 #: src/widgets.ycp:292
 msgid "&Minimum"
-msgstr "最小值 (&M)"
+msgstr "最小值(&M)"
 
 #: src/wizards.ycp:49
 msgid "Predefined Security Configurations"
